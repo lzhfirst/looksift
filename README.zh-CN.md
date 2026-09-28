@@ -136,15 +136,13 @@ Agent 会保留已经提供的信息，每次只问一个必要的未决事项�
 
 ## 安装包里有什么
 
+安装 ZIP 只包含 Skill 运行文件、全部 4,012 条风格记录、必要参考资料和许可证。中英文仓库首页、图文案例页和六组案例图片保留在 GitHub 展示，不放进安装包。GitHub 自动提供的 **Source code** 源码压缩包和完整仓库克隆仍包含展示资料；安装请下载 **looksift-2.0.zip**。
+
 ```text
 looksift/
 ├── SKILL.md
-├── README.md
-├── README.zh-CN.md
-├── assets/examples/
-├── docs/
-│   ├── examples.md
-│   └── examples.zh-CN.md
+├── LICENSE
+├── agents/openai.yaml
 └── skills/looksift/
     ├── WORKFLOW.md
     ├── scripts/
@@ -154,6 +152,7 @@ looksift/
         ├── styles.json
         ├── styles/
         ├── library-manifest.json
+        ├── style-library-contract.md
         ├── user-preferences.md
         └── qwen-image-2.1-official/
 ```

@@ -136,15 +136,13 @@ Preference data is stored locally outside the distributable bundle. It is not in
 
 ## What is in the package
 
+The installation ZIP contains only the Skill runtime, all 4,012 style records, required reference material and licenses. The bilingual repository homepages, illustrated case pages and six example images stay on GitHub and are not included in this download. GitHub's automatic **Source code** archives and a full repository clone include the presentation files; choose **looksift-2.0.zip** for installation.
+
 ```text
 looksift/
 ├── SKILL.md
-├── README.md
-├── README.zh-CN.md
-├── assets/examples/
-├── docs/
-│   ├── examples.md
-│   └── examples.zh-CN.md
+├── LICENSE
+├── agents/openai.yaml
 └── skills/looksift/
     ├── WORKFLOW.md
     ├── scripts/
@@ -154,6 +152,7 @@ looksift/
         ├── styles.json
         ├── styles/
         ├── library-manifest.json
+        ├── style-library-contract.md
         ├── user-preferences.md
         └── qwen-image-2.1-official/
 ```
