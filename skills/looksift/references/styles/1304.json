@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square mixed-media portrait presents a young woman's face in close three-quarter view, turned upward toward light outside the upper right edge. Her eyes are sharply observed, lips gently parted and dark hair swept across the left of the image. Realistic warm skin modeling remains visible through a restless overlay of orange, yellow, teal, cobalt and crimson paint marks. Rough black scrawls, scratched lines, drips and partly erased passages crowd the hair and shoulder, while the right background is pale, weathered and comparatively open. The image feels built on a worn board or wall rather than a pristine digital canvas. Some colored marks follow the cheek and neck, while others deliberately cross anatomical boundaries, creating tension between likeness and spontaneous surface action. Fine details in the eye and mouth anchor recognition, but the edges of the head dissolve into layered urban textures. Light touches the forehead, nose and cheek; the lower neck and hair hold denser dark paint. The composition leaves enough breathing space beside the gaze, even as the left side accumulates vigorous marks. The palette is vivid yet held together by warm flesh and off-white ground. The final piece feels emotionally searching, with a credible human presence emerging from scratches, overpainting and layered remnants rather than from a smooth finished portrait surface.",
+  "full_prompt_zh": "一幅正方形混合媒介肖像呈现年轻女性的近景四分之三面孔，目光向右上画框外的光仰起。双眼观察精确，双唇微张，深发扫向画面左侧。写实暖肤色塑形透过橙、黄、青绿、钴蓝与深红颜料痕迹仍可见。粗黑涂写、刮擦线、滴痕和局部擦除层挤在头发与肩部，右侧背景则浅色、风化而相对敞开。图像像建立在磨损木板或墙面上，而非洁净数字画布。部分彩色笔迹顺着脸颊和颈部，另一些刻意跨越解剖边界，在肖像相似性与自发表面动作之间制造张力。眼和口的细节固定辨识，头部边缘却融入层叠都市肌理。光触及额、鼻和脸颊，下颈与头发容纳更浓的深色颜料。即使左侧不断积累激烈标记，目光前方仍留呼吸空间。配色鲜明，但暖肤色与灰白底面把它们凝聚。最终作品像在情感上寻找方向，一个可信的人从刮痕、覆盖和层层残迹中浮出，而非来自平滑完成的肖像表面。",
+  "style_prompt_en": "The style is expressive mixed-media portrait painting with realistically observed focal details and aggressively layered urban marks. Vivid orange, yellow, teal, cobalt and crimson cross warm neutral modeling and worn off-white ground. Scratches, drips, scrawls, partial erasure and overpainting remain visibly distinct. One side accumulates dense dark energy while the opposite field gives directional breathing space. A few sharp small features anchor recognition amid dissolving outer edges. The square frame balances emotional immediacy, tactile wear and chromatic improvisation.",
+  "style_prompt_zh": "这种风格是表现性的混合媒介肖像绘画，具有写实观察的焦点细节与激烈叠加的都市笔痕。鲜明橙、黄、青绿、钴蓝和深红越过暖中性色塑形与磨损灰白底面。刮痕、滴痕、涂写、局部擦除和重新覆盖各自清楚。画面一侧积累密集深色能量，另一侧为方向性目光留下呼吸余地。少数清晰的小特征在外缘消融中固定辨识。正方形画幅平衡情绪即时性、可触磨损与色彩即兴。",
+  "theme_en": "An upward-looking portrait broken by vivid painted marks",
+  "theme_zh": "被鲜明笔痕打断的仰望肖像",
+  "wh_ratio": "1:1",
+  "id": "1304",
+  "name": "David Choe",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/david-choe",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/david-choe.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "1208779a09ab3b90b9b235423e11e9ca1c141903cc01bf1a49869a792c3584ee",
+    "gpt_submission_prompt": "A square mixed-media portrait presents a young woman's face in close three-quarter view, turned upward toward light outside the upper right edge. Her eyes are sharply observed, lips gently parted and dark hair swept across the left of the image. Realistic warm skin modeling remains visible through a restless overlay of orange, yellow, teal, cobalt and crimson paint marks. Rough black scrawls, scratched lines, drips and partly erased passages crowd the hair and shoulder, while the right background is pale, weathered and comparatively open. The image feels built on a worn board or wall rather than a pristine digital canvas. Some colored marks follow the cheek and neck, while others deliberately cross anatomical boundaries, creating tension between likeness and spontaneous surface action. Fine details in the eye and mouth anchor recognition, but the edges of the head dissolve into layered urban textures. Light touches the forehead, nose and cheek; the lower neck and hair hold denser dark paint. The composition leaves enough breathing space beside the gaze, even as the left side accumulates vigorous marks. The palette is vivid yet held together by warm flesh and off-white ground. The final piece feels emotionally searching, with a credible human presence emerging from scratches, overpainting and layered remnants rather than from a smooth finished portrait surface.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "6aa685079919c48edfaef1b1cc9bc71b4eb3416543900ee816f727a1901a7ada",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

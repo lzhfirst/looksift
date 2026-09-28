@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A color film photograph looks into a shaded garden where a cluster of red spider lilies rises from a mossy bank. Long narrow green leaves spring from the lower right, and slender stems lift several frilled red-orange flower heads across the upper middle. Their thin curling petals and projecting stamens catch warm sunlight, becoming the brightest and most saturated marks in the frame. The ground beneath them is uneven and dark, with moss, small stones, and overlapping foliage. Behind the flowers, green shrubs and a tree trunk dissolve into a soft, almost blue-green blur. The shallow focus keeps the flower cluster more distinct than the background, though individual petals still merge into a lively mesh at their edges. Natural light filters in from the upper left, warming the red blossoms and leaving the base of the plants in deep green shadow. The color range is dense: scarlet and orange against emerald, forest green, and cool turquoise. The flowers sit right of center, while softer foliage and an indistinct patch of daylight open to the left. Fine photographic grain and rich shadow color give the scene a layered, humid feel without flattening the dark areas.",
+  "full_prompt_zh": "一幅彩色胶片照片望入荫蔽花园，红色石蒜从长有苔藓的土坡上升起。狭长绿叶从右下方簇生，细茎托起数朵卷曲的红橙色花冠，横向排在画面中上部。卷曲细瓣与外伸花蕊接住暖阳，成为整幅图最亮、最饱和的记号。脚下地面起伏而深暗，苔藓、小石块和交叠叶片混杂其间。花后灌木与树干化成柔软、略带蓝绿的虚影。浅景深让花簇比背景清楚，细小花瓣在边缘仍织成活跃的网状团。自然光从左上方滤入，温暖了红花，植物基部留在深绿阴影中。色域浓密：朱红与橙色对着祖母绿、森林绿及冷青色。花在中央偏右，左边以柔化的树叶与一片模糊日光敞开。细胶片颗粒和丰富暗部色彩使场景显得层叠潮润，却没有把暗处压成平板。",
+  "style_prompt_en": "A saturated color-film treatment sets a compact cluster of warm red and orange marks against layered cool greens. Fine grain remains visible in both bright and shaded areas, while the shadows retain distinct green and blue-green hues. Thin curved lines and radiating filaments gather densely at the focal point; surrounding foliage becomes broad, soft, overlapping shapes. Filtered light catches the upper edges and leaves the lower plane dark, giving the image a steep but gradual vertical light falloff. Focus tapers from a detailed near cluster into diffuse distance. No clear horizon appears; depth is built through successive leaves, a dark foreground bank, and blurred tree forms. The composition places high-frequency warm detail slightly off center and lets quiet green mass absorb the rest of the frame.",
+  "style_prompt_zh": "饱和彩色胶片处理以一小簇暖红和橙色记号面对层叠冷绿。细颗粒在明处和阴影里都可见，暗部仍保留可分辨的绿与蓝绿色。纤细弧线和放射状丝线在焦点处密集交织，周围叶片化成宽阔、柔软、相互覆盖的形状。过滤后的光抓住上方边缘，下部平面留在暗处，使明度自上而下明显却平缓地衰减。焦点从细节丰富的近处簇团渐入模糊远景。画内没有清楚地平线；连续叶层、深色前景坡面和失焦树影共同建构纵深。构图把高频暖色细节放在略偏中心的位置，让安静的绿色团块吸收画面其余部分。",
+  "theme_en": "Red spider lilies rising above a shaded green garden bank",
+  "theme_zh": "荫绿花园土坡上盛开的红色石蒜",
+  "wh_ratio": "1:1",
+  "id": "2855",
+  "name": "Fujicolor Fujichrome Velvia 100",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/fujicolor-fujichrome-velvia-100",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/fujicolor-fujichrome-velvia-100.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "2c0e1b4de197996dbeb7dcc5587c582886c43379c51d2dc5aa4dcb61045cd99f",
+    "gpt_submission_prompt": "A color film photograph looks into a shaded garden where a cluster of red spider lilies rises from a mossy bank. Long narrow green leaves spring from the lower right, and slender stems lift several frilled red-orange flower heads across the upper middle. Their thin curling petals and projecting stamens catch warm sunlight, becoming the brightest and most saturated marks in the frame. The ground beneath them is uneven and dark, with moss, small stones, and overlapping foliage. Behind the flowers, green shrubs and a tree trunk dissolve into a soft, almost blue-green blur. The shallow focus keeps the flower cluster more distinct than the background, though individual petals still merge into a lively mesh at their edges. Natural light filters in from the upper left, warming the red blossoms and leaving the base of the plants in deep green shadow. The color range is dense: scarlet and orange against emerald, forest green, and cool turquoise. The flowers sit right of center, while softer foliage and an indistinct patch of daylight open to the left. Fine photographic grain and rich shadow color give the scene a layered, humid feel without flattening the dark areas.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "f93c747e56d954e90fc57d53b39eb93dec4a97e3a0fbd6a77c33d4ef4d7d6baa",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

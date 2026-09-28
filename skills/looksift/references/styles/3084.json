@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "This is a square, black-and-white scratchboard-style close-up of an adult face emerging from an almost solid black field. The head is turned three quarters toward the left, with the nose projecting strongly into the lower left and both eyes visible near the upper half. The nearer eye is large and reflective, surrounded by deeply etched rings and fine wrinkles; the farther eye catches a smaller pale highlight beneath a heavy brow. Short irregular hair and forehead texture are made from many tiny white cuts through dark ground. The cheek and nose carry dense stippling and crosshatched scratches, while the mouth remains partly swallowed by shadow along the lower edge. A broad dark area occupies the right side, making the lit face seem to push forward from a void. The eye highlights are the brightest points, with narrow glints on the nose and cheek following them. Illumination appears to come from the upper left, exposing the facial relief but leaving the underside and far contour in deep black. The surface is intensely tactile: thin curved lines follow skin folds, shorter cuts describe pores and hair, and thicker black gaps preserve the larger structure. No environment, prop, or writing is visible. The crop is so close that parts of the head disappear beyond the top and side edges. The overall composition is direct and unsettling, using thousands of small pale marks to build volume and expression inside a severe monochrome contrast.",
+  "full_prompt_zh": "这是一幅方形、黑白刮板画式的贴近面部图像，一张成年人的脸从近乎实黑的画域中浮现。头向左转成三分之二侧面，鼻子强烈伸向左下，双眼在上半部可见。近处的眼睛很大且有反光，周围是深深刻出的环形纹与细皱纹；远处眼睛在厚眉下接住较小的浅色高光。短而不规则的头发和额头肌理由许多从深底刮出的细白线构成。脸颊和鼻子覆盖密集点刻与交叉刮痕，嘴在下边缘附近部分被阴影吞没。大片深色区域占据右边，让受光面孔仿佛从虚空向前推来。双眼高光最亮，其次是鼻与脸颊上的细窄亮痕。光似乎来自左上，显露面部起伏，但下侧与远处轮廓保持深黑。表面触感极强：细弧线沿皮肤褶皱展开，更短刻痕描写毛孔与头发，较厚黑色间隙保留大结构。没有环境、道具或文字。裁切极近，头部部分消失在上边和侧边之外。整体构图直接且令人不安，借成千上万细小浅痕在严厉单色反差中建立体积与神情。",
+  "style_prompt_en": "The scratchboard treatment constructs light by removing black, not by laying a smooth pale wash over it. Fine white cuts, stipples, curved hatch lines, and dense crosshatching accumulate into rounded volume. Nearly solid black areas remain essential, holding the detail together and making tiny highlights decisive. An upper-side light establishes a sharp value gradient across the focal mass, while secondary edges vanish into darkness. The surface has a tactile engraved rhythm: short marks for roughness, longer arcs for smooth curvature, and untouched black for depth. Close cropping magnifies the mark-making. The overall effect is stark, intimate, and almost forensic, with tonal precision arising from thousands of visible incisions.",
+  "style_prompt_zh": "这种刮板画处理通过移走黑色来建立光亮，而非在其上铺平滑浅色洗。细白刮线、点刻、弯曲排线和密集交叉线累积成圆润体积。近乎实黑的区域仍然必要，它们把细节聚在一起，使微小高光有决定性。上侧光在焦点体量上建立陡峭明度梯度，次要边缘则消失在黑暗中。表面有可触的雕刻节奏：短痕描写粗糙，长弧描写平滑曲度，未触碰黑色表现深度。贴近裁切放大笔痕。整体效果鲜明、亲密且近乎法证式，明度精确性来自成千上万可见刻线。",
+  "theme_en": "An intense face emerging from blackness through fine white scratch marks",
+  "theme_zh": "一张强烈的面孔由细白刮线从黑暗中显现",
+  "wh_ratio": "1:1",
+  "id": "3084",
+  "name": "Scratchboard art",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/scratchboard-art",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "82acd2557a84ea9c430aca207b12b1e252d4bf2eec66b95cebf39f2c24d55323",
+    "gpt_submission_prompt": "This is a square, black-and-white scratchboard-style close-up of an adult face emerging from an almost solid black field. The head is turned three quarters toward the left, with the nose projecting strongly into the lower left and both eyes visible near the upper half. The nearer eye is large and reflective, surrounded by deeply etched rings and fine wrinkles; the farther eye catches a smaller pale highlight beneath a heavy brow. Short irregular hair and forehead texture are made from many tiny white cuts through dark ground. The cheek and nose carry dense stippling and crosshatched scratches, while the mouth remains partly swallowed by shadow along the lower edge. A broad dark area occupies the right side, making the lit face seem to push forward from a void. The eye highlights are the brightest points, with narrow glints on the nose and cheek following them. Illumination appears to come from the upper left, exposing the facial relief but leaving the underside and far contour in deep black. The surface is intensely tactile: thin curved lines follow skin folds, shorter cuts describe pores and hair, and thicker black gaps preserve the larger structure. No environment, prop, or writing is visible. The crop is so close that parts of the head disappear beyond the top and side edges. The overall composition is direct and unsettling, using thousands of small pale marks to build volume and expression inside a severe monochrome contrast.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "30bb72e39fd07d928dac3b37e69281a75df02702cdd7d5b3a2da7c35b96c8166",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

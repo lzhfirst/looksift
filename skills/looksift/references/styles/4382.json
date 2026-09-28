@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square chiaroscuro oil portrait shows an older bearded man in right-facing profile, his head and shoulders emerging from a near-black background. Sparse gray-brown hair recedes over the crown, while a long beard and thick moustache catch warm amber light. He wears a dark reddish-brown garment whose outline almost disappears into the surrounding shadow. The nose, forehead, cheek, and beard are built with broad softly blended planes, while the eye sits in a deep recess and looks quietly into the distance. There is no visible setting or object behind him. A warm side light from the upper left strikes the face and front of the hair, leaving the ear, neck, and far shoulder in brown-black darkness. The halo-like transition around the head is subtle and smoky rather than sharply cut. Olive, umber, ochre, and muted flesh tones form a narrow palette, with tiny cream highlights at the brow and beard. Paint is smooth in the shadow field but more tactile around the hair and face, where individual short marks gather. The close crop preserves a little empty dark space ahead of the gaze. The whole image feels solemn and contemplative, its weight coming from patient tonal modeling and the dignified simplicity of the profile.",
+  "full_prompt_zh": "一幅方形明暗对照油画肖像描绘一位有胡须的老人朝右侧面，头肩从近黑背景中浮出。稀疏灰棕发向头顶后退，长须与浓小胡子接住暖琥珀光。他穿深红棕衣，轮廓几乎消失在周围阴影里。鼻、额、面颊和胡须由宽阔柔和调和的平面建立，眼睛位于深凹处，安静看向远方。身后没有可见环境或物品。暖侧光从左上照脸与头发前部，耳、颈和远肩则留在棕黑暗处。头周围似光晕的过渡细微烟雾般，而非硬切。橄榄、熟褐、赭和低调肤色组成窄色域，眉与胡须上只有极小奶油高光。阴影底层颜料平顺，头发和脸周围更可触，短小笔痕聚集。贴近裁切在视线前保留一点暗色空地。整幅庄严沉思，其重量来自耐心明暗塑形和侧面形象端正的简洁。",
+  "style_prompt_en": "Chiaroscuro oil painting shapes form with a narrow range of umber, olive, ochre, and muted flesh. Warm side illumination lifts a few planes from a nearly black field, while adjacent edges dissolve into smoky shadow. Blended transitions give the central volume quiet solidity; small tactile strokes describe coarse surfaces at the light boundary. There is little contextual detail, leaving darkness as a major compositional element. Tiny cream highlights carry disproportionate weight. The close, stable arrangement feels solemn, patient, and contemplative.",
+  "style_prompt_zh": "明暗对照油画以熟褐、橄榄、赭和低调肤色的窄幅范围塑造形体。暖侧光从近黑底色中提起几片平面，相邻边缘则溶进烟状阴影。调和过渡给予中心体积安静坚实感；光界上短小可触笔痕描出粗表面。环境细节极少，黑暗成为主要构图元素。微小奶油高光承担不成比例的视觉重量。贴近稳定的布局庄严、耐心而沉思。",
+  "theme_en": "A bearded older man in warm profile emerging from darkness",
+  "theme_zh": "从黑暗中浮出的暖光胡须老人侧面",
+  "wh_ratio": "1:1",
+  "id": "4382",
+  "name": "Odd Nerdrum",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/odd-nerdrum.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "6847a967052a1a24ef5063500593fa3aedb6bdcec390d7687f8eff2beed7925d",
+    "gpt_submission_prompt": "A square chiaroscuro oil portrait shows an older bearded man in right-facing profile, his head and shoulders emerging from a near-black background. Sparse gray-brown hair recedes over the crown, while a long beard and thick moustache catch warm amber light. He wears a dark reddish-brown garment whose outline almost disappears into the surrounding shadow. The nose, forehead, cheek, and beard are built with broad softly blended planes, while the eye sits in a deep recess and looks quietly into the distance. There is no visible setting or object behind him. A warm side light from the upper left strikes the face and front of the hair, leaving the ear, neck, and far shoulder in brown-black darkness. The halo-like transition around the head is subtle and smoky rather than sharply cut. Olive, umber, ochre, and muted flesh tones form a narrow palette, with tiny cream highlights at the brow and beard. Paint is smooth in the shadow field but more tactile around the hair and face, where individual short marks gather. The close crop preserves a little empty dark space ahead of the gaze. The whole image feels solemn and contemplative, its weight coming from patient tonal modeling and the dignified simplicity of the profile.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "502fa8725d545dcb753eddee067ebba6996c9274bdebb8c9175c467288f870fd",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

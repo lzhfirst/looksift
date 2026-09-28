@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square stylized painting shows a small seated girl against a broad deep teal wall, with a single ochre balloon floating above her and a white cat by her side. The girl sits near the lower center on a simple dark bench or box, leaving most of the upper frame empty. Her face is pale and round, with closed or lowered eyes and a very slight mouth. Smooth black hair is parted in the middle and gathered into two small side buns. A turquoise long-sleeved top with a white rounded collar and tiny buttons contrasts with the broad dark navy skirt covering her knees. Her hands meet quietly in her lap, holding the thin balloon string. The ochre balloon sits in the upper left quadrant, a compact warm oval against the cool background; its string descends almost vertically toward her hands. A small white cat sits at the lower left of the bench, looking upward, while one small brown shape rests on the floor near the right edge of the skirt. A narrow gray floor band stretches along the bottom and meets the teal wall in a crisp horizontal line. The paint surface is smooth and matte, with subtle grain and gentle gradients inside the rounded forms. Soft light comes from the upper left, giving the face, balloon, and cat restrained highlights without casting strong floor shadows. The overall composition uses large quiet teal space, tiny carefully placed details, and one warm accent to make a still, wistful scene.",
+  "full_prompt_zh": "这幅方形风格化绘画呈现一个小女孩坐在大片深青绿墙前，头顶一只赭色气球漂浮，身旁有一只白猫。女孩坐在下方中央附近的简朴深色长凳或箱子上，上半幅大部留空。面孔浅而圆，眼睛闭合或低垂，嘴巴极小。平滑黑发从中间分开，左右聚成两个小发髻。青绿色长袖上衣配白色圆领和细小扣子，与盖住膝盖的宽阔深海军蓝裙相对。双手在腿上安静合拢，握着细气球线。赭色气球位于左上象限，是冷背景前紧凑的暖椭圆；细线几乎垂直降向她的手。小白猫坐在凳子左下方，抬头看；裙子右缘附近地面上还有一道小棕形。窄灰地面带沿底边横伸，与青绿墙在一道清晰水平线处相接。颜料表面平滑哑光，圆润形体内有细微颗粒和温和渐层。柔光从左上进入，给脸、气球和猫克制高光，没有强烈地面投影。整体构图以大片安静青绿空间、少数精心放置的细节和一个暖色重音，形成静止而惆怅的场景。",
+  "style_prompt_en": "The painting uses simplified rounded geometry, a matte surface, and a large unbroken cool field. Deep teal and muted navy occupy most of the image, while a single ochre accent and small cream areas create measured contrast. Contours are crisp but not hard, and subtle internal gradients provide just enough volume to separate overlapping forms. Even soft light minimizes cast shadows, so spacing and color carry the sense of balance. A low horizontal division anchors a compact central cluster beneath generous negative space. The result is quiet, precise, and gently wistful.",
+  "style_prompt_zh": "这种绘画使用简化圆润几何、哑光表面和大片不被打断的冷色域。深青绿与低调海军蓝占据画面大部，一个赭色重音和少量奶油色区域形成节制反差。轮廓清楚但不生硬，细微内部渐层只提供足够分开交叠形体的体积。均匀柔光减少投影，因此间距和色彩承担平衡感。低水平分界稳住紧凑中央簇群，上方留出充足空白。结果安静、精确而略带惆怅。",
+  "theme_en": "A small seated girl with an ochre balloon and a white cat against teal",
+  "theme_zh": "小女孩坐在青绿色背景前，身旁有赭色气球与白猫",
+  "wh_ratio": "1:1",
+  "id": "3083",
+  "name": "Liu Ye",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/liu-ye",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "1df45382bf7432f41b7340916d8dd616b5e683172b1844033bf2ac9f9b154413",
+    "gpt_submission_prompt": "A square stylized painting shows a small seated girl against a broad deep teal wall, with a single ochre balloon floating above her and a white cat by her side. The girl sits near the lower center on a simple dark bench or box, leaving most of the upper frame empty. Her face is pale and round, with closed or lowered eyes and a very slight mouth. Smooth black hair is parted in the middle and gathered into two small side buns. A turquoise long-sleeved top with a white rounded collar and tiny buttons contrasts with the broad dark navy skirt covering her knees. Her hands meet quietly in her lap, holding the thin balloon string. The ochre balloon sits in the upper left quadrant, a compact warm oval against the cool background; its string descends almost vertically toward her hands. A small white cat sits at the lower left of the bench, looking upward, while one small brown shape rests on the floor near the right edge of the skirt. A narrow gray floor band stretches along the bottom and meets the teal wall in a crisp horizontal line. The paint surface is smooth and matte, with subtle grain and gentle gradients inside the rounded forms. Soft light comes from the upper left, giving the face, balloon, and cat restrained highlights without casting strong floor shadows. The overall composition uses large quiet teal space, tiny carefully placed details, and one warm accent to make a still, wistful scene.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "bf54b2115eff968019c33124299dd3fae1e6d74951599fe2bebeeeb1e8e5031e",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square classical oil portrait shows a young man from the chest upward, turned slightly to his right while looking toward the viewer. His pale powdered curls frame the forehead and sweep back over the ears, with a few longer strands falling near the collar. The face is softly modeled and youthful, with calm eyes, a straight nose, and a faint restrained smile. He wears a dark brown coat with a broad collar over a white high-necked shirt and loosely folded neckcloth. The light cloth rises under the chin and becomes the brightest area below the face. His shoulders are relaxed, and the torso disappears into the shadowed lower edge. The background is a warm brown-black field with subtle cloudy changes in tone, offering no clear room or landscape. Gentle light falls from the upper left, touching the hair, forehead, nose, cheek, and folds of the neckcloth. The right side of the face and coat become deeper brown and gray, blending into the ground. Oil brushwork is smooth around the skin and somewhat rougher in the dark fabric and backdrop; fine strokes separate curls and the white folds. The crop is close, with the head near the upper center-left and enough darkness around it to emphasize the luminous flesh. Warm umber and cream dominate the restrained palette. The composition is formal but approachable, holding attention through the sitter's slight turn, direct gaze, and subtle contrast of pale hair against the enveloping dark.",
+  "full_prompt_zh": "一幅方形古典油画肖像描绘一名年轻男子的胸部以上，身体略向右转，目光却朝向观众。浅色扑粉卷发围着额头并向双耳后扫去，几缕较长发丝落在领边。面孔柔和塑形且年轻，眼神平静，鼻梁笔直，带一丝克制微笑。他穿宽领深棕外套，内有白色高领衬衫和松叠领巾。浅色布料在下巴下升起，成为脸以下最亮的区域。肩膀放松，躯干消失在阴影下缘。背景是暖棕黑色域，仅有轻微云状色调变化，没有明确房间或风景。柔光从左上方落下，触及头发、额头、鼻子、脸颊和领巾褶层。脸右侧和外套转为更深棕灰，融入底色。肌肤周围油画笔触平滑，深衣和背景更粗，细笔分开卷发与白色布褶。画面裁切靠近，头部位于上方中央偏左，周围有足够黑暗强调发亮肌肤。暖赭褐与奶油色主导克制调色。构图正式却亲近，通过人物轻微转身、直接目光及浅发与环抱暗色的微妙反差留住注意。",
+  "style_prompt_en": "Classical oil portraiture uses softly blended skin and pale hair against a warm umber-black ground. Gentle upper-side light picks out the forehead, cheek, curls, and folded white cloth, while coat and outer contours dissolve into shadow. Keep brushwork polished at the focal features and looser in dark fabric or backdrop. A close three-quarter turn and restrained direct gaze give formal balance without stiffness. The palette is narrow: cream, warm flesh, brown, and charcoal. The result is quiet, dignified, and luminous.",
+  "style_prompt_zh": "古典油画肖像以柔和晕染的肌肤与浅发立在暖赭黑底前。温和上侧光挑亮额头、脸颊、卷发与折叠白布，外套和外轮廓则融入阴影。焦点五官笔触精致，深衣与背景更松。近景四分之三转身和克制的直接目光形成正式平衡而不僵硬。调色狭窄：奶油、暖肤、棕和炭色。效果安静、端庄、发亮。",
+  "theme_en": "A pale-haired young man in a brown coat and white neckcloth against darkness",
+  "theme_zh": "浅发年轻男子穿棕外套和白领巾，立于暗背景前",
+  "wh_ratio": "1:1",
+  "id": "1876",
+  "name": "George Romney",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/george-romney",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/george-romney.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "fbd5838146becdbfad9896e77cdb19b1c2a66f998921d813cde40485cb6260c7",
+    "gpt_submission_prompt": "A square classical oil portrait shows a young man from the chest upward, turned slightly to his right while looking toward the viewer. His pale powdered curls frame the forehead and sweep back over the ears, with a few longer strands falling near the collar. The face is softly modeled and youthful, with calm eyes, a straight nose, and a faint restrained smile. He wears a dark brown coat with a broad collar over a white high-necked shirt and loosely folded neckcloth. The light cloth rises under the chin and becomes the brightest area below the face. His shoulders are relaxed, and the torso disappears into the shadowed lower edge. The background is a warm brown-black field with subtle cloudy changes in tone, offering no clear room or landscape. Gentle light falls from the upper left, touching the hair, forehead, nose, cheek, and folds of the neckcloth. The right side of the face and coat become deeper brown and gray, blending into the ground. Oil brushwork is smooth around the skin and somewhat rougher in the dark fabric and backdrop; fine strokes separate curls and the white folds. The crop is close, with the head near the upper center-left and enough darkness around it to emphasize the luminous flesh. Warm umber and cream dominate the restrained palette. The composition is formal but approachable, holding attention through the sitter's slight turn, direct gaze, and subtle contrast of pale hair against the enveloping dark.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "566e4a3c65c65ee9e3e51bfb977d8aa732dbfb019a5538e64c63ebd11aca8322",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

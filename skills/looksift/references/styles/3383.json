@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square minimalist anime poster shows a dark haired young rider seated on a large red futuristic motorcycle against an almost empty warm ivory background. The motorcycle occupies the lower middle of the page in clean side view, facing left. Its front wheel is broad and dark, partly covered by an angular red fairing; a rounded mechanical housing and rear wheel form a strong horizontal silhouette. The rider wears a red jacket, olive gray trousers, and heavy brown boots. He leans forward over the handlebars with his head bowed, one foot planted on the pale ground beneath the machine. Small scuffs, chipped paint, and dark mechanical seams roughen the otherwise simple red body. Above the rider, a single large dark crimson Japanese character stands isolated in the upper center. A tiny vertical line of dark marks appears below the motorcycle near the lower center, too small to resolve as words. Most of the surrounding space remains untouched cream, making the red figure and machine feel deliberately placed rather than embedded in a scene. Light is broad and even, with a thin charcoal ground shadow beneath the wheels and boots. Fine ink contours, dry grain, and distressed printed color lend the poster an aged surface. The composition feels iconic, restrained, and slightly rebellious, driven by the balance of one compact red horizontal mass and generous blank paper.",
+  "full_prompt_zh": "一幅方形极简动画海报描绘一名深发年轻骑手坐在大型红色未来感摩托车上，背景几乎全是空荡暖象牙白。摩托车以清楚侧面占下方中央，朝左。前轮宽而深，部分被棱角红整流罩遮住；圆润机械舱体与后轮形成强烈水平剪影。骑手穿红夹克、橄榄灰长裤和厚重棕靴。他前倾伏在车把上，头低垂，一只脚踩在机器下方浅色地面。细小擦损、掉漆和深色机械接缝粗化原本简洁的红车身。骑手上方，一枚深红日文大字孤立立在上方中央。摩托下方中央还有一道极小竖向深色标记，小到无法读成文字。周围大多数空间保留未触及的奶油白，使红色人与机器像有意放置，而非嵌在场景里。光宽广均匀，车轮和靴下仅一道细炭灰地影。细墨轮廓、干性颗粒和磨损印刷色赋予海报陈旧表面。构图标志性、克制且稍带叛逆，由一块紧凑红色水平体量和大量留白之间的平衡驱动。",
+  "style_prompt_en": "Minimalist anime poster design places a compact saturated red and charcoal horizontal form low within a large warm ivory field. A single isolated dark red typographic accent above creates vertical counterweight, while tiny marks below keep the center aligned. Clean graphic silhouette is enriched by fine ink edges, small scuffs, chipped color, and dry print grain. Muted olive and brown appear only as supporting tones; most visual force comes from crimson against cream. Broad even light leaves a narrow grounding shadow without dramatic environmental shading. The surrounding emptiness is active, giving the detailed central cluster extra weight. The image feels iconic, spare, and defiant, with disciplined placement and weathered texture working together.",
+  "style_prompt_zh": "极简动画海报设计把紧凑饱和红与炭灰水平体量放在大块暖象牙白色域下方。上方一枚孤立深红字形形成竖向平衡，下面极小标记保持中央对齐。干净图形剪影由细墨边、小擦损、掉色和干性印刷颗粒丰富。低饱和橄榄与棕色只作辅助；大部分视觉力量来自深红对奶油白。宽广均匀光只留窄地影，不制造戏剧性环境阴影。周围空白积极发挥作用，赋予细密中央形体群额外重量。图像标志性、节约且带反叛气息，严格排布与磨旧肌理共同发力。",
+  "theme_en": "A rider resting on a red futuristic motorcycle beneath a single red Japanese glyph",
+  "theme_zh": "骑手坐在红色未来感摩托车上，上方是一枚红色日文大字",
+  "wh_ratio": "1:1",
+  "id": "3383",
+  "name": "Akira",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/akira",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "2c5decdbbb2f91e2cc0a2eaf9fc9116a7cdbdcfd82f08ae573ad1ab72087d3f7",
+    "gpt_submission_prompt": "A square minimalist anime poster shows a dark haired young rider seated on a large red futuristic motorcycle against an almost empty warm ivory background. The motorcycle occupies the lower middle of the page in clean side view, facing left. Its front wheel is broad and dark, partly covered by an angular red fairing; a rounded mechanical housing and rear wheel form a strong horizontal silhouette. The rider wears a red jacket, olive gray trousers, and heavy brown boots. He leans forward over the handlebars with his head bowed, one foot planted on the pale ground beneath the machine. Small scuffs, chipped paint, and dark mechanical seams roughen the otherwise simple red body. Above the rider, a single large dark crimson Japanese character stands isolated in the upper center. A tiny vertical line of dark marks appears below the motorcycle near the lower center, too small to resolve as words. Most of the surrounding space remains untouched cream, making the red figure and machine feel deliberately placed rather than embedded in a scene. Light is broad and even, with a thin charcoal ground shadow beneath the wheels and boots. Fine ink contours, dry grain, and distressed printed color lend the poster an aged surface. The composition feels iconic, restrained, and slightly rebellious, driven by the balance of one compact red horizontal mass and generous blank paper.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "73ef8c45e07cf943a726658811fd750c6caa5aa7c9060c08512c8c2eb7bb495b",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

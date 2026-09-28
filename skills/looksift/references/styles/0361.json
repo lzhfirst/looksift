@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A black-and-white magazine cartoon depicts an amusingly formal conversation at the foot of an interior staircase. A round, tuxedo-clad man sits on the floor at left, knees drawn up, holding a tiny stemmed glass as he turns toward a woman. She perches on the lower stair at center, her short bob, simple fitted dress, crossed legs, and pointed shoes reduced to a few elegant lines. The staircase climbs sharply up the right half, its white treads interrupted by a wall of dark diagonal hatching. A bottle stands near the lowest step, with a tiny sketched mouse or small creature beside it. On the pale left wall, a tall narrow wall sconce and one small framed picture establish the room without burdening the joke. The contrast between the man's bulky black silhouette and the woman's spare white shape organizes the scene. Facial features are minimal, but both postures suggest a conversational pause rather than dramatic action. Fine pen contours, crosshatching, and a few loose floor lines provide depth, while most of the paper stays open and bright. The hard steps and angled shadow frame the two figures like a little stage. The image avoids dense realism; its precision lies in gesture and visual timing. The whole frame feels dryly comic and effortlessly social, shaped by negative space, elastic proportions, and crisp hand-drawn line.",
+  "full_prompt_zh": "一幅黑白杂志漫画描绘室内楼梯脚下一场有趣而正式的交谈。左侧一名身材圆润、穿晚礼服的男子坐在地上，抱起双膝，手持一只极小的高脚杯，转头望向女子。她坐在中央的低级台阶上，短波波头、简洁的合身连衣裙、交叠的腿和尖头鞋都被概括为少数优雅线条。楼梯沿右半部陡然上升，白色踏步被满是深色斜排线的墙面截断。一只瓶子立在最下级台阶附近，旁边是一只草图般的小鼠或小动物。左侧浅色墙面上，细长壁灯和一幅小画框交代室内环境，却不使笑点沉重。男子厚重黑色剪影与女子节省的白色形体之间的对比组织画面。面部细节极少，姿态却都暗示一次对话的停顿，而非戏剧动作。纤细钢笔轮廓、交叉排线与少数松散地面线提供纵深，大部分纸面仍开放明亮。坚硬台阶与斜向阴影如小舞台一样框住两人。图像避免密集写实，精准之处在姿态与视觉节拍。整幅画凭负空间、富弹性的比例和清晰手绘线条，显得冷幽默且轻松社交。",
+  "style_prompt_en": "The monochrome cartoon image uses crisp ink outlines, sparse open paper, and localized diagonal hatching. One compact near-black mass balances a thinly drawn pale form, while a steep stepped diagonal creates a strong structural backdrop. Small props and a few architectural marks supply setting without crowding the central exchange. Proportions are gently elastic; gesture and spacing communicate more than facial detail. Dark value concentrates in clothing and one shadowed wall area, leaving broad white fields to carry the light. The pen line varies from firm silhouette to scratchy short strokes, and loose ground marks prevent the scene from feeling mechanically ruled. Depth is simple and stage-like, with the strongest contrast at the focal group. The whole frame feels witty, airy, and hand-observed through economical marks and precise visual timing.",
+  "style_prompt_zh": "这幅单色漫画图像使用清晰墨线轮廓、稀疏而开放的纸面，以及局部斜向排线。一团紧凑的近黑体量平衡线条节省的浅色形体，陡峭阶梯式斜线则创造强有力的结构背景。小道具和少数建筑标记提供环境，却不挤压中央交流。比例温和地带弹性；姿态和间距比面部细节传达更多。深色明度集中在衣物和一处阴影墙面上，宽阔白色区域承载光线。钢笔线条从确定剪影变化为粗糙短笔，松散的地面痕迹避免场景显得机械规整。纵深简单而有舞台感，最强对比位于焦点组合处。整幅画以节省笔迹和精准视觉节拍，显得诙谐、通透而富手工观察感。",
+  "theme_en": "A witty conversation at the foot of a staircase",
+  "theme_zh": "楼梯脚下的诙谐交谈",
+  "wh_ratio": "1:1",
+  "id": "0361",
+  "name": "James Thurber",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/james-thurber",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/james-thurber.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "34f7ffc872a5aea05a4b88d7bdea5173ddacdd6b5e90c472c2c3a620564e8e0f",
+    "gpt_submission_prompt": "A black-and-white magazine cartoon depicts an amusingly formal conversation at the foot of an interior staircase. A round, tuxedo-clad man sits on the floor at left, knees drawn up, holding a tiny stemmed glass as he turns toward a woman. She perches on the lower stair at center, her short bob, simple fitted dress, crossed legs, and pointed shoes reduced to a few elegant lines. The staircase climbs sharply up the right half, its white treads interrupted by a wall of dark diagonal hatching. A bottle stands near the lowest step, with a tiny sketched mouse or small creature beside it. On the pale left wall, a tall narrow wall sconce and one small framed picture establish the room without burdening the joke. The contrast between the man's bulky black silhouette and the woman's spare white shape organizes the scene. Facial features are minimal, but both postures suggest a conversational pause rather than dramatic action. Fine pen contours, crosshatching, and a few loose floor lines provide depth, while most of the paper stays open and bright. The hard steps and angled shadow frame the two figures like a little stage. The image avoids dense realism; its precision lies in gesture and visual timing. The whole frame feels dryly comic and effortlessly social, shaped by negative space, elastic proportions, and crisp hand-drawn line.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "67de5aeba4ababbe98a617a82c82acca9e5a5985ac3c294e2fe038a069e0de96",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

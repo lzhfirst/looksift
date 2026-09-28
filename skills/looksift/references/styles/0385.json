@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A subdued realist oil landscape looks along a rain-wet road beside a broad, still canal. The pale road enters from the lower foreground and narrows toward a misty distance at the center. On the left stands a modest two-story house with cream walls, a weathered red side, green shutters, and a dark roof. Low garden walls and thin autumn trees continue along that bank, their forms reflected imperfectly in the wet surface. To the right, a small dark boat with a simple mast rests near the water's edge, softened by the gray air. The canal and road nearly merge where shallow standing water covers the stones, producing long muted reflections of the house, trees, and sky. A tufted grassy strip at the lower right separates the roadway from the open water. The overcast sky occupies much of the upper half in warm gray and pale olive, with only a faint break of light behind thin cloud. Brushwork is quiet and finely blended, but close inspection reveals small strokes in foliage, masonry, and reflections. The palette stays restrained: cream, brown, moss green, faded red, gray, and a touch of slate blue. Details diminish gradually into atmospheric haze, giving the modest setting a deep sense of calm. The whole frame feels damp, reflective, and unhurried, as if the day had paused after rainfall.",
+  "full_prompt_zh": "一幅低调的写实油画风景沿着一条运河旁的雨湿道路向前望去。浅色道路从下方前景进入，在中央雾气深处逐渐收窄。左侧有一栋朴素的两层房屋，奶油色墙面、风化的红色侧墙、绿色百叶窗和深色屋顶清晰可见。低矮花园墙和稀疏秋树沿这侧水岸延伸，形体在湿润表面留下不完美倒影。右侧，一艘带简单桅杆的小深色船停在水边，在灰色空气中被柔化。运河与道路在浅浅积水盖住石块之处几乎相融，形成房屋、树和天空细长而低饱和的反光。右下方一条簇状草边将道路和开阔水面分开。阴天的天空以暖灰和浅橄榄色占据上半部大面积，只在薄云后有一点微弱透光。笔法安静而细腻地融合，但细看叶片、石工和倒影仍有小笔触。色盘保持克制：奶油色、棕色、苔绿、褪色红、灰色和一点石板蓝。细节逐渐消失在大气雾里，让朴素场景有深刻宁静感。整幅画潮湿、富于反光而不急不躁，仿佛雨后的一天停住了脚步。",
+  "style_prompt_en": "The realist oil image uses finely blended, low-saturation fields of warm gray, cream, moss green, faded brick red, brown, and slate. A pale reflective lower plane leads into a soft atmospheric distance, with small darker vertical accents along one side and an open quieter field on the other. Reflections stretch in muted, uneven strokes rather than forming crisp mirror images. Overcast light keeps shadows shallow and allows neighboring values to merge gently. Details sharpen only in a few near areas; elsewhere contours recede into thin haze. Fine brush marks remain visible in foliage and textured surfaces beneath an overall smooth tonal envelope. The composition favors a slow linear recession and broad calm sky over dramatic contrast. The whole frame feels damp, reflective, and patient through restrained earth color, softened depth, and subtle surface variation.",
+  "style_prompt_zh": "这幅写实油画图像使用精细融合、低饱和的暖灰、奶油色、苔绿、褪色砖红、棕色和石板色域。下方浅色反光平面引向柔软的大气远方，一侧排列少数较深的竖向重点，另一侧则保持开放而安静的区域。倒影以低饱和、不均匀的笔触拉长，而非形成清晰镜像。阴天光线让阴影浅淡，使邻近明度轻柔融合。细节只在少数近处变清楚，其他轮廓退入薄雾。叶片与有肌理的表面仍可见细笔迹，整体却被平滑的明暗气氛包裹。构图重视缓慢的线性后退与宽阔平静的天空，而非戏剧性对比。整幅画借克制土地色、柔化纵深和微妙表面变化，显得潮湿、富于反光而观察耐心。",
+  "theme_en": "A rain-wet road beside a quiet canal",
+  "theme_zh": "安静运河旁被雨淋湿的道路",
+  "wh_ratio": "1:1",
+  "id": "0385",
+  "name": "Oswald Achenbach",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/oswald-achenbach",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/oswald-achenbach.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "c0d5b0955899a66c1cfcbabadb190265cd9d0d32596085be6f3f856bf7a688c3",
+    "gpt_submission_prompt": "A subdued realist oil landscape looks along a rain-wet road beside a broad, still canal. The pale road enters from the lower foreground and narrows toward a misty distance at the center. On the left stands a modest two-story house with cream walls, a weathered red side, green shutters, and a dark roof. Low garden walls and thin autumn trees continue along that bank, their forms reflected imperfectly in the wet surface. To the right, a small dark boat with a simple mast rests near the water's edge, softened by the gray air. The canal and road nearly merge where shallow standing water covers the stones, producing long muted reflections of the house, trees, and sky. A tufted grassy strip at the lower right separates the roadway from the open water. The overcast sky occupies much of the upper half in warm gray and pale olive, with only a faint break of light behind thin cloud. Brushwork is quiet and finely blended, but close inspection reveals small strokes in foliage, masonry, and reflections. The palette stays restrained: cream, brown, moss green, faded red, gray, and a touch of slate blue. Details diminish gradually into atmospheric haze, giving the modest setting a deep sense of calm. The whole frame feels damp, reflective, and unhurried, as if the day had paused after rainfall.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "1d369dbaf3ed6911b3901917f82d6eaba27397dca2c898721d117d025ae3d949",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

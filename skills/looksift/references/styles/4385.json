@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white chiaroscuro photograph shows a woman from the chest up against an almost entirely black background. Her face turns slightly left toward the camera, one cheek and eye caught by a narrow side light while the other side falls into velvety shadow. Dark hair is pulled back under a soft cap or folds of cloth. A heavy coat or draped garment wraps her shoulders, its creases visible only where the light skims the fabric. Her expression is steady and unsmiling, with the illuminated eye becoming the visual anchor. At the far lower left, a slim vertical object or edge rises near her hand, but most environmental detail is withheld. The tonal range is severe: pale gray planes on cheek and nose, deep charcoal cloth, and almost pure black surrounding space. Light appears to enter from the upper left, tracing the brow, nose bridge, lip, and a few shoulder folds while leaving the rest unresolved. Fine photographic texture remains in the lit skin and cloth, contrasting with the smooth depth of the black field. The figure fills the frame but is partly swallowed by darkness, making the negative space feel active. The overall image is intimate, tense, and sculptural, driven by what the narrow beam reveals and conceals.",
+  "full_prompt_zh": "一幅方形黑白明暗对照照片描绘一位女子胸上半身，身后几乎全黑。脸略向左转朝镜头，一侧面颊和眼睛被窄侧光照到，另一侧落入绒黑阴影。深发收在软帽或布褶之下。厚外套或披布裹住肩，褶纹只在光掠过处可见。她神情稳定而不笑，受光眼睛成为视觉锚点。最左下，一条细竖物或边缘在手旁升起，但大多数环境细节被隐藏。明暗范围严峻：颊与鼻上浅灰平面、深炭衣物和周围近纯黑空间。光像从左上进入，描出眉、鼻梁、唇和几处肩褶，其余保持未定。亮处皮肤与布料保有细摄影肌理，对照黑色底域平滑的深度。人物填满画框，却部分被黑暗吞下，使负空间具有主动性。整体贴近、紧张且雕塑般，由窄光所显露与遮蔽的部分推动。",
+  "style_prompt_en": "Black-and-white chiaroscuro photography uses a narrow side beam against near-total black. Pale gray focal planes are sculpted by abrupt but soft-edged transitions into charcoal and velvety shadow. Texture remains visible only where light grazes skin or fabric; the surrounding field suppresses context. A single highlighted feature anchors the close composition, while lost edges allow forms to merge with negative space. The grayscale is severe and controlled, avoiding decorative color. The effect is intimate, tense, and sculptural, with concealment as active as illumination.",
+  "style_prompt_zh": "黑白明暗对照摄影把窄侧光束置于近乎全黑前。浅灰焦点平面经突然而边缘柔和的过渡转入炭色与绒影，具有雕塑性。肌理只在光掠过皮肤或布料处可见；周围底域压掉环境。单一高光特征稳定贴近构图，消失边缘让形体与负空间合并。灰阶严峻受控，没有装饰性颜色。效果贴近、紧张且雕塑般，遮蔽与照明同样主动。",
+  "theme_en": "A woman half lit against a near-black background",
+  "theme_zh": "近黑背景前半面受光的女子",
+  "wh_ratio": "1:1",
+  "id": "4385",
+  "name": "Chiaroscuro",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/chiaroscuro.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "fe49e80afba23bd53c7648d4757a527625933a6bb8d9dcac48cb48625a19c21f",
+    "gpt_submission_prompt": "A square black-and-white chiaroscuro photograph shows a woman from the chest up against an almost entirely black background. Her face turns slightly left toward the camera, one cheek and eye caught by a narrow side light while the other side falls into velvety shadow. Dark hair is pulled back under a soft cap or folds of cloth. A heavy coat or draped garment wraps her shoulders, its creases visible only where the light skims the fabric. Her expression is steady and unsmiling, with the illuminated eye becoming the visual anchor. At the far lower left, a slim vertical object or edge rises near her hand, but most environmental detail is withheld. The tonal range is severe: pale gray planes on cheek and nose, deep charcoal cloth, and almost pure black surrounding space. Light appears to enter from the upper left, tracing the brow, nose bridge, lip, and a few shoulder folds while leaving the rest unresolved. Fine photographic texture remains in the lit skin and cloth, contrasting with the smooth depth of the black field. The figure fills the frame but is partly swallowed by darkness, making the negative space feel active. The overall image is intimate, tense, and sculptural, driven by what the narrow beam reveals and conceals.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "7d025e473252348cd2c74f41b5373de47418484e07ea3b6658fdcf8b23e8ea97",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

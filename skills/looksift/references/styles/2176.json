@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square oil painting shows a blue-eyed child seated among dense hydrangea bushes. She has a dark, rounded bob with straight bangs and faces the viewer while one cheek rests on her hand. A loose ivory blouse and deep blue skirt form the central light-and-dark shapes. Her other arm folds across her lap, giving the pose a quiet, self-contained rhythm. Several large globes of electric blue flowers sit directly behind the head and shoulder, and broad green leaves disappear into a nearly black garden. A shallow woven basket filled with pale round objects enters from the lower left. The child's skin is softly modeled in cream and pink, while the flowers are built from many short, textured blue and violet marks. The face is the most precisely resolved area; foliage and the background break into more painterly patches. Light appears to fall from the front left, illuminating the blouse, nose and hand while the garden stays dark. The color contrast is unusually strong for a tender portrait: luminous cobalt blossoms surround a pale face and white clothing. The square crop presses the garden close to the figure, reducing landscape depth. The atmosphere remains gentle rather than theatrical, with a hint of introspection in the direct eyes and resting pose. Visible oil-brush texture keeps the painting tactile and alive.",
+  "full_prompt_zh": "一幅正方形油画呈现一位蓝眼睛孩子坐在浓密的绣球花丛中。她留着深色圆润短发与齐刘海，脸朝观者，一侧脸颊托在手上。宽松象牙色上衣与深蓝裙构成中央明暗形体。另一只手臂折在膝上，使姿态安静自足。几团亮电蓝色花球紧贴头部和肩后，宽阔绿叶消失进近黑花园。左下角伸入一只浅编篮，内有几枚浅色圆形物。孩子的皮肤以乳色与粉色柔和塑造，花朵则由大量短促、带肌理的蓝紫笔痕组成。面容是最精确完成的区域；叶片与背景分解成较绘画化的色块。光似乎从左前方落下，照亮上衣、鼻梁与手，花园仍深暗。对温柔肖像而言，色彩反差格外强烈：发亮的钴蓝花朵围住浅色脸与白衣。正方形裁切把花园压近人物，削弱风景深度。气氛保持柔和而非戏剧化，直视的眼睛和托脸姿态带着些许内省。可见油画笔触使画面有触感且鲜活。",
+  "style_prompt_en": "The style is luminous figurative oil painting with a carefully modeled focal area surrounded by looser botanical color masses. Short broken strokes build clustered texture, while broad shadow shapes push the background backward. A saturated cool blue accent glows against ivory light, deep green and near-black. Selective sharpness guides attention from expressive details to rougher peripheral brushwork. Front-side light gives pale planes gentle volume without erasing paint texture. The square composition feels intimate, richly colored and quietly contemplative.",
+  "style_prompt_zh": "这种风格是发亮的具象油画，精心塑造的焦点区域被更松散的植物性色块围绕。短促断笔构成簇状肌理，宽阔阴影形块把背景推远。饱和冷蓝色重音在象牙浅色、深绿与近黑色前发光。选择性清晰度把注意力从富于表情的细节引向周边较粗笔触。前侧光赋予浅色平面柔和体积，却没有抹掉颜料肌理。正方形构图亲密、色彩丰厚而安静沉思。",
+  "theme_en": "A blue-eyed child sitting among vivid blue hydrangeas",
+  "theme_zh": "蓝眼睛孩子坐在鲜亮蓝色绣球花间",
+  "wh_ratio": "1:1",
+  "id": "2176",
+  "name": "Dorothy Johnstone",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/dorothy-johnstone",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/dorothy-johnstone.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "e0473cafb6ef791e401f50463b0b16fc716f4b6f12c28837e5df6af335d47eae",
+    "gpt_submission_prompt": "A square oil painting shows a blue-eyed child seated among dense hydrangea bushes. She has a dark, rounded bob with straight bangs and faces the viewer while one cheek rests on her hand. A loose ivory blouse and deep blue skirt form the central light-and-dark shapes. Her other arm folds across her lap, giving the pose a quiet, self-contained rhythm. Several large globes of electric blue flowers sit directly behind the head and shoulder, and broad green leaves disappear into a nearly black garden. A shallow woven basket filled with pale round objects enters from the lower left. The child's skin is softly modeled in cream and pink, while the flowers are built from many short, textured blue and violet marks. The face is the most precisely resolved area; foliage and the background break into more painterly patches. Light appears to fall from the front left, illuminating the blouse, nose and hand while the garden stays dark. The color contrast is unusually strong for a tender portrait: luminous cobalt blossoms surround a pale face and white clothing. The square crop presses the garden close to the figure, reducing landscape depth. The atmosphere remains gentle rather than theatrical, with a hint of introspection in the direct eyes and resting pose. Visible oil-brush texture keeps the painting tactile and alive.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "37aae8737a41b27feb3264ef3e7c4022ca8ae390fedfa5461b56610655618353",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

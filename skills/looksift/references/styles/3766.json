@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A late-Victorian landscape painting looks across a calm harbor at sunset. The sun sits low just left of center, partly veiled by layers of gray and peach cloud. Its golden light breaks through in narrow horizontal passages across the sky, then descends as a wavering vertical reflection on the water toward the foreground. A small dark boat floats to the right of the reflection, its thin mast and faint occupants silhouetted against the glow. Farther left, a cluster of moored boats and reeds forms a low jagged line, while a distant stone building with a few tower-like shapes darkens the right shoreline. The horizon is low enough that the cloud-filled sky occupies most of the frame. The paint surface is soft and visibly worked: thin scumbled strokes blend lavender-gray and smoke-blue into warm amber, while short horizontal touches describe the water's gentle ripples. Distant buildings and boats are suggested rather than sharply drawn, allowing atmospheric depth to carry the scene. The palette is restrained, with silver gray, muted violet, blue-green, ochre, and a concentrated golden flare around the sun. Shadow areas remain open and slightly colored, not solid black. Light is diffused through moisture, making edges dissolve as they retreat. The composition feels quiet and expansive, its strongest structure the simple line from setting sun to reflection, balanced by the small off-center boat and dim bank.",
+  "full_prompt_zh": "一幅维多利亚晚期风景油画在落日时越过平静海港望去。太阳低悬于中心偏左，部分被灰与桃色层云遮住。金光在天空中以狭窄水平通道突破，再作为摇动的竖向倒影落到前景水面。一只深色小船漂在倒影右边，细桅与模糊乘客在亮光前成剪影。更左处，一群停泊小船和芦苇形成低锯齿线；远方石楼带几处塔状形，使右岸变暗。地平线够低，让云满天空占画框大部。颜料表面柔和且明显被笔触加工：薄擦笔把薰衣草灰、烟蓝混入暖琥珀，短水平笔触描水的轻波。远建筑和船被暗示而非锐绘，让空气深度承载场景。配色克制，以银灰、暗紫、蓝绿、赭和太阳周围集中金色耀光组成。阴影通透且略有色，而非实黑。光透过水气漫散，边缘随退远而溶解。构图安静宽阔，最强结构是落日到倒影的简单直线，由偏心小船和暗岸平衡。",
+  "style_prompt_en": "Atmospheric oil landscape painting layers thin scumbled strokes and soft tonal transitions over a restrained palette. Broad gray-violet and smoke-blue areas carry a small warm amber focal glow, which can descend into a broken reflective trail. Upper space remains expansive and textured with horizontal veils; lower space uses shorter low-contrast strokes and darker softened silhouettes. Distant contours dissolve into moist air rather than ending in sharp outlines. Shadow retains cool color and subtle detail, while light blooms gently through haze. A low horizontal division gives the image calm breadth, and one narrow vertical highlight provides a clear compositional counterline. Small dark accents are sparse and offset from center, preserving the large atmospheric field. The finish is contemplative, softly luminous, and painterly, with depth built from value gradation and overlapping veils rather than exact detail.",
+  "style_prompt_zh": "空气感油画风景在克制配色上层叠薄擦笔与柔调子过渡。宽阔灰紫和烟蓝区域托住小而暖的琥珀焦点光，光可向下延为破碎反射轨迹。上部空间宽阔，以水平薄幕纹理覆盖；下部用较短低反差笔触和深而柔的剪影。远轮廓溶入潮湿空气，而非以锐线结束。阴影保留冷色和细微细节，亮光经薄雾柔和泛开。低水平分割给予图像平静宽度，一道窄竖亮线提供清楚构图对向线。小深强调稀疏且偏心，保留大片空气场。饰面可沉思、柔发光且绘画性，深度来自明度渐变与薄幕叠压，而非精确细节。",
+  "theme_en": "Small boats drift across a harbor at a hazy golden sunset",
+  "theme_zh": "小船在朦胧金色落日时漂过海港",
+  "wh_ratio": "1:1",
+  "id": "3766",
+  "name": "Albert Goodwin",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/albert-goodwin",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "9cbdf4422623db70ecb946d7289f1a9edb39989b64c17b4f27195ce2f0ba6dba",
+    "gpt_submission_prompt": "A late-Victorian landscape painting looks across a calm harbor at sunset. The sun sits low just left of center, partly veiled by layers of gray and peach cloud. Its golden light breaks through in narrow horizontal passages across the sky, then descends as a wavering vertical reflection on the water toward the foreground. A small dark boat floats to the right of the reflection, its thin mast and faint occupants silhouetted against the glow. Farther left, a cluster of moored boats and reeds forms a low jagged line, while a distant stone building with a few tower-like shapes darkens the right shoreline. The horizon is low enough that the cloud-filled sky occupies most of the frame. The paint surface is soft and visibly worked: thin scumbled strokes blend lavender-gray and smoke-blue into warm amber, while short horizontal touches describe the water's gentle ripples. Distant buildings and boats are suggested rather than sharply drawn, allowing atmospheric depth to carry the scene. The palette is restrained, with silver gray, muted violet, blue-green, ochre, and a concentrated golden flare around the sun. Shadow areas remain open and slightly colored, not solid black. Light is diffused through moisture, making edges dissolve as they retreat. The composition feels quiet and expansive, its strongest structure the simple line from setting sun to reflection, balanced by the small off-center boat and dim bank.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "cb0114f1ab0aa3cb2b8fde0e243f274e8282c9dbf73b91e531e1a59f948da265",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square stop-motion-like illustration shows a thin, long-faced man standing inside an oval tunnel of twisted trees. He faces the viewer from the center of the frame, wearing a narrow black suit, white shirt, and slim dark red tie. His body is small and straight, but his head is enlarged, with a pointed nose, hollow cheeks, and huge anxious brown eyes. Dark hair rises in uneven wisps. Behind him, tangled trunks and roots sweep around the edge in a tight circular pattern, forming a rough frame that opens to a pale blue-gray patch of sky. Gnarled branches cross this opening and reach toward the center, while the ground falls into warm brown darkness below. The surrounding bark looks carved and weathered: ridges, grooves, knots, and torn fibers twist in different directions. A few small golden highlights pick out the left roots and tree edges, while the upper and right rim is nearly black. Soft cool light from the tunnel opening strikes the man's forehead, nose, and shoulders, leaving his suit and the deeper root passages in shadow. The central character is sharply modeled, with visible dimensional texture despite the illustrative stylization. The frame is symmetrical in broad shape but irregular in its natural details, and the oval opening keeps the eye fixed on the face. Warm brown tree forms contrast with the cold sky and black clothing. The image has a mournful, slightly comic unease: the exaggerated expression is readable at once, while the dense winding forest makes the small figure feel enclosed.",
+  "full_prompt_zh": "一幅方形、定格动画般的插画呈现一名瘦长脸男子站在扭曲树木围成的椭圆隧道里。他在中央面向观众，穿窄黑西装、白衬衫和细深红领带。身体小而直，头却被放大，尖鼻、瘦脸颊与巨大焦虑棕眼醒目。深发不齐地翘起。身后，缠结树干与树根沿边缘紧密环绕，构成粗糙框架，向一片浅蓝灰天空打开。瘤枝横过开口并伸向中央，下方地面落入暖棕暗处。周围树皮像雕刻且风化过：棱脊、沟痕、树瘤与撕裂纤维向不同方向扭动。左侧根和树边有少量金色高光，顶部与右缘近乎全黑。隧道开口的柔冷光落在男子额头、鼻子和肩上，西装及更深的树根通道留在阴影。中央角色刻画锐利，虽然插画化，仍有可见立体质地。大体形状对称，自然细节却不规则，椭圆开口把目光固定在面孔。暖棕树形对照冷天空和黑衣。图像有哀伤、略带喜剧的不安：夸张表情立即可读，密集缠绕的林子则让小人物显得被围住。",
+  "style_prompt_en": "Stop-motion-like illustration uses elongated proportions, enlarged expressive eyes, and carved-looking surface textures. Twisted ridges and looping forms can build a rough oval frame around a smaller sharply modeled focal shape. Warm umber, ocher, charcoal, and narrow cool blue-gray openings create a restrained gothic palette. Soft light from the open center touches prominent planes, while deep shadows remain in the enclosing texture. Preserve hand-worked irregularity in barklike grooves, fabric, and hair; the mood should be eerie, tender, and faintly comic rather than polished realism.",
+  "style_prompt_zh": "定格动画般插画使用拉长比例、放大的表情眼睛和雕刻感表面纹理。扭转棱脊与环绕形状可在较小、锐利塑形的焦点周围建立粗糙椭圆框。暖赭褐、黄赭、炭色与狭窄冷蓝灰开口组成克制的哥特调色。来自中央开口的柔光触及突出平面，深阴影仍留在包围的纹理中。树皮般沟纹、布料和头发保留手工不规则感；气氛诡异、温柔且略带喜剧，而非光滑写实。",
+  "theme_en": "A wide-eyed elongated man in a black suit before a twisted woodland tunnel",
+  "theme_zh": "一名黑衣长脸男子睁大双眼，站在扭曲林间隧道前",
+  "wh_ratio": "1:1",
+  "id": "1908",
+  "name": "Henry Selick",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/henry-selick",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/henry-selick.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "39f81d60f13644678c9aed93a6f87096a327e731e4713623e3673cf8edc9b557",
+    "gpt_submission_prompt": "A square stop-motion-like illustration shows a thin, long-faced man standing inside an oval tunnel of twisted trees. He faces the viewer from the center of the frame, wearing a narrow black suit, white shirt, and slim dark red tie. His body is small and straight, but his head is enlarged, with a pointed nose, hollow cheeks, and huge anxious brown eyes. Dark hair rises in uneven wisps. Behind him, tangled trunks and roots sweep around the edge in a tight circular pattern, forming a rough frame that opens to a pale blue-gray patch of sky. Gnarled branches cross this opening and reach toward the center, while the ground falls into warm brown darkness below. The surrounding bark looks carved and weathered: ridges, grooves, knots, and torn fibers twist in different directions. A few small golden highlights pick out the left roots and tree edges, while the upper and right rim is nearly black. Soft cool light from the tunnel opening strikes the man's forehead, nose, and shoulders, leaving his suit and the deeper root passages in shadow. The central character is sharply modeled, with visible dimensional texture despite the illustrative stylization. The frame is symmetrical in broad shape but irregular in its natural details, and the oval opening keeps the eye fixed on the face. Warm brown tree forms contrast with the cold sky and black clothing. The image has a mournful, slightly comic unease: the exaggerated expression is readable at once, while the dense winding forest makes the small figure feel enclosed.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "f3b572e793a5d364cfa02a8ac246c71dbd9ae69c7d37223e8c656580c60ed348",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

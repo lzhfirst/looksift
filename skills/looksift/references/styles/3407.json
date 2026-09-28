@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "The finished square is a bold animated close-up centered on a blond young ninja. Spiky yellow hair fans across the upper edge and partly overlaps a broad black forehead band with a gray metal plate. An engraved spiral-like emblem sits on the plate, with small rivets at either side. His large golden eyes stare directly forward beneath sharply angled brows, conveying concentrated alarm or resolve. Three short whiskerlike marks score each cheek. The face is modeled in warm peach and tan planes, with a wide hard-edged shadow crossing one side of the nose and lower cheek. Fine ink hatching adds roughness around the eyes and jaw, while heavier black contours define the lids, mouth and collar. His mouth is shut in a straight, compressed line. A high dark jacket collar rises along the lower frame, with narrow orange garment edges visible at both shoulders. Behind the head is a completely flat, saturated orange field without landscape or objects. This background strengthens the circular rhythm of the eyes and emblem while making the hair silhouette immediate. The light is bright but directional, leaving angular shadows under the brow, on the cheek and beneath the chin. Color remains tightly limited to yellow, amber, orange, peach, charcoal and gray. The rendering has the immediacy of a dramatic animation still: crisp expressive linework, cel-like blocks of color and selective sketchy texture inside the face. The frontal symmetry and uncompromising crop hold all attention on the intense gaze.",
+  "full_prompt_zh": "成品正方形是一幅大胆的动画近景，中央是一位金发年轻忍者。尖刺状黄发向上缘散开，局部盖住宽阔黑色额带上的灰金属片。金属片刻有旋涡般标记，两侧有小铆钉。金黄色大眼在锐利下压的眉毛下直视前方，传达集中警觉或决心。每侧脸颊都有三道短短的胡须状线痕。面孔由暖桃与棕褐色面塑造，一块宽阔硬边阴影跨过鼻侧和下脸颊。细墨排线在眼周和下颌增加粗糙感，更厚的黑轮廓定义眼睑、嘴与衣领。嘴巴闭合为一条紧绷直线。深色高立领沿下边缘升起，两肩可见狭窄橙色衣料。头后是完全平涂、饱和的橙色，没有风景或物件。背景强化眼睛与徽记的圆形节奏，同时使发型剪影立即突出。光线明亮而有方向，在眉下、脸颊和下巴形成棱角阴影。色彩严格限制在黄、琥珀、橙、桃、炭黑与灰。画法具有戏剧动画定格的即时感：清晰且有表现力的线条、赛璐珞式色块，以及脸部内部选择性的速写质感。正面近似对称与强势的裁切，把全部注意力锁在强烈目光上。",
+  "style_prompt_en": "Bold cel-style animation uses sharply angled contours, firm ink outlines, warm flat color planes and small patches of sketchy hatching. A saturated orange field supports yellow and amber highlights against charcoal accents. Directional light cuts hard geometric shadow shapes through a tightly centered square composition.",
+  "style_prompt_zh": "大胆的赛璐珞式动画运用锐角轮廓、有力墨线、暖色平涂面与少量速写排线。饱和橙色区域承托黄和琥珀高光，并与炭黑点缀相对。定向光在紧密居中的正方形构图中切出坚硬几何暗面。",
+  "theme_en": "A determined blond ninja in a blazing orange close-up",
+  "theme_zh": "炽橙近景中神情坚定的金发忍者",
+  "wh_ratio": "1:1",
+  "id": "3407",
+  "name": "Naruto",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/naruto",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "5d568308f283d587cdb2539c2065e21d947a4cd59144b406186a9cbade303eef",
+    "gpt_submission_prompt": "The finished square is a bold animated close-up centered on a blond young ninja. Spiky yellow hair fans across the upper edge and partly overlaps a broad black forehead band with a gray metal plate. An engraved spiral-like emblem sits on the plate, with small rivets at either side. His large golden eyes stare directly forward beneath sharply angled brows, conveying concentrated alarm or resolve. Three short whiskerlike marks score each cheek. The face is modeled in warm peach and tan planes, with a wide hard-edged shadow crossing one side of the nose and lower cheek. Fine ink hatching adds roughness around the eyes and jaw, while heavier black contours define the lids, mouth and collar. His mouth is shut in a straight, compressed line. A high dark jacket collar rises along the lower frame, with narrow orange garment edges visible at both shoulders. Behind the head is a completely flat, saturated orange field without landscape or objects. This background strengthens the circular rhythm of the eyes and emblem while making the hair silhouette immediate. The light is bright but directional, leaving angular shadows under the brow, on the cheek and beneath the chin. Color remains tightly limited to yellow, amber, orange, peach, charcoal and gray. The rendering has the immediacy of a dramatic animation still: crisp expressive linework, cel-like blocks of color and selective sketchy texture inside the face. The frontal symmetry and uncompromising crop hold all attention on the intense gaze.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "022df776c520b27f291e73a3301a791d3e529195525df14f38dae1fe7c2a4b3a",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

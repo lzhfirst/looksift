@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square monochrome portrait presents an elderly man from the chest up against a dark, worn wall. His very large ears, bald head, long neck, and deeply lined face are rendered with almost sculptural clarity. He looks upward and slightly left with wide eyes and a troubled, searching expression. A plain work shirt and suspenders hang loosely from his narrow shoulders. The wall behind him carries rough scratches, seams, and uneven charcoal texture, while a dark diagonal fabric or architectural edge enters from the upper left. Soft overhead light illuminates the forehead, eyes, nose, and folded collar; the neck and sides of the face descend into dense gray shadow. The tonal range stays black, silver gray, and pale paper-white, with fine grain visible in both skin and background. The crop is close, giving the unusual facial proportions and gaze immediate psychological force. The clothing is ordinary and quietly described, preventing the image from becoming caricature. The composition balances the central head against a broad empty wall, creating stillness around the anxious upward look. The whole frame feels like a serious photographic or charcoal study of vulnerability, tactile and direct without theatrical props.",
+  "full_prompt_zh": "一幅方形单色肖像将一位老人从胸部以上放在深色磨旧墙前。他很大的耳朵、光秃头顶、长脖颈和深刻皱纹以近乎雕塑般的清晰度呈现。他睁大眼睛略向左上仰望，表情忧虑而探寻。朴素工作衬衣与背带松松挂在窄肩上。身后墙面有粗刮痕、接缝和不均匀木炭肌理，一道深色斜向布料或建筑边缘从左上进入。柔和上方光照亮额头、眼睛、鼻和折起的衣领；脖子与面孔两侧降入密实灰影。色谱仅有黑、银灰和浅纸白，皮肤与背景中都可见细颗粒。近裁切使独特的五官比例和目光立刻具有心理力量。衣装平凡且安静描写，使画面不沦为夸张漫画。构图用宽阔空墙平衡中央头部，在焦虑的仰望周围制造静止。整体像一张严肃的脆弱感摄影或木炭习作，直接、可触，没有戏剧道具。",
+  "style_prompt_en": "A stark monochrome character-study style uses close framing, expressive proportion, and a rough dark ground. Soft overhead light catches the highest facial or object planes, while narrow side recesses and neck-like passages hold dense gray shadow. Fine grain, scratches, and uneven charcoal texture connect the focal form to the wall. Ordinary clothing or simple materials remain understated so gaze and structure carry the emotion. A broad area of empty dark background balances a centered head or other upright focal shape. The tonal range spans near black to pale silver-white without color or glossy smoothing. The mood is vulnerable, serious, and psychologically direct.",
+  "style_prompt_zh": "冷峻单色人物习作风格使用近景裁切、富表现力的比例和粗糙深色底。柔和上方光照亮面部或物体最高色面，狭窄侧凹处和脖颈般的段落保持密实灰影。细颗粒、刮痕和不均匀木炭肌理把焦点形体与墙连起来。日常衣装或简单材质保持低调，让目光和结构承担情绪。大片空深色背景平衡居中头部或其他直立焦点形状。明度从近黑到浅银白，没有彩色或油亮抹平。气氛脆弱、严肃、心理上直接。",
+  "theme_en": "An elderly man with large ears looks upward in a stark monochrome portrait",
+  "theme_zh": "一位大耳朵的老人于冷峻单色肖像中仰望",
+  "wh_ratio": "1:1",
+  "id": "4275",
+  "name": "Roger Ballen",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/roger-ballen.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "2a10977454ed0f9c077e4a3ef3e47825039631c577b00c7f247f3c6f1113a9c9",
+    "gpt_submission_prompt": "A square monochrome portrait presents an elderly man from the chest up against a dark, worn wall. His very large ears, bald head, long neck, and deeply lined face are rendered with almost sculptural clarity. He looks upward and slightly left with wide eyes and a troubled, searching expression. A plain work shirt and suspenders hang loosely from his narrow shoulders. The wall behind him carries rough scratches, seams, and uneven charcoal texture, while a dark diagonal fabric or architectural edge enters from the upper left. Soft overhead light illuminates the forehead, eyes, nose, and folded collar; the neck and sides of the face descend into dense gray shadow. The tonal range stays black, silver gray, and pale paper-white, with fine grain visible in both skin and background. The crop is close, giving the unusual facial proportions and gaze immediate psychological force. The clothing is ordinary and quietly described, preventing the image from becoming caricature. The composition balances the central head against a broad empty wall, creating stillness around the anxious upward look. The whole frame feels like a serious photographic or charcoal study of vulnerability, tactile and direct without theatrical props.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "7d4225d3d6519e8772f15654f4ed4952a19060804cabc444697f708943813422",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

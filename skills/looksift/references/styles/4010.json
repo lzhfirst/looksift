@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square low-fidelity color photograph shows a young woman standing near a leafy wall on a city street at night. She holds a compact camera to her face, her long dark hair falling over a red cardigan and pale top. The camera partly hides her expression, making the small dark lens the point of contact with the viewer. At left, the street dissolves into out-of-focus amber lamps, pale storefront glows, and a few indistinct shapes. Deep teal-green shadows cover the leaves and pavement; reddish orange light warms the distant street and the edge of her clothing. The woman stands slightly right of center, leaving a broad, blurred corridor of night on the left. The image has soft focus, visible grain, muted saturation, and slightly muddy color separation, as though made on inexpensive film or a modest compact camera. A dim local light catches strands of hair and the top of the camera, while most facial detail remains underexposed. Foreground foliage breaks the outline of her body and adds a grainy texture next to the smooth bokeh. The composition feels casual and intimate, neither polished nor precisely lit. The image's appeal comes from the imperfect glow, compressed nighttime depth, and a moment of private looking. No graphic overlay, caption, or clean studio background appears.",
+  "full_prompt_zh": "一幅方形低保真彩色照片中，年轻女子夜里站在城市街道的叶墙旁。她把小型相机举到脸前，长深发垂在红色开衫与浅色上衣外。相机遮住部分表情，使小小深色镜头成为与观者接触的点。左边街道融入失焦琥珀路灯、浅色店面辉光与几个难辨形体。深青绿暗影覆盖树叶和路面；红橙色光温暖远街与衣服边缘。女子站在中央略右，左边留出宽阔而模糊的夜街走廊。画面焦点柔软，有可见颗粒、低调饱和度与略浑浊的色彩分离，像用廉价胶片或普通小相机拍得。微弱局部光擦亮发丝与相机顶部，大部分面部细节则欠曝。前景叶片打破身体轮廓，在平滑散景旁添上颗粒肌理。构图随意而亲密，既不精致，也未被精确照亮。图像魅力来自不完美辉光、压缩的夜间纵深和一瞬私密观看。没有图形叠层、字幕或干净影棚背景。",
+  "style_prompt_en": "Lo-fi nighttime color photography with soft focus, visible grain, underexposed teal-green shadows, and small pools of amber-red practical light. Blurred background points become gentle bokeh, while nearby textured shapes interrupt the silhouette. Muted saturation and imperfect color separation preserve a compact-camera feel. Off-center framing and compressed depth make the image casual, intimate, and quietly cinematic.",
+  "style_prompt_zh": "低保真夜景彩色摄影以柔焦、可见颗粒、欠曝青绿暗影和小片琥珀红实景光构成。失焦背景光点化作柔和散景，近处有纹理形态打断剪影。低调饱和度与不完美色彩分离保留小相机感。偏心取景和压缩纵深使画面随意、亲密而安静地具有电影感。",
+  "theme_en": "A young photographer on a dim neon-lit street",
+  "theme_zh": "昏暗霓虹街道上的年轻摄影者",
+  "wh_ratio": "1:1",
+  "id": "4010",
+  "name": "Lo-fi photography",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/lo-fi-photography.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "e0f4172993652d5d62cfd411e23f7ebe8d27723c94c35cf802af11940ceca917",
+    "gpt_submission_prompt": "A square low-fidelity color photograph shows a young woman standing near a leafy wall on a city street at night. She holds a compact camera to her face, her long dark hair falling over a red cardigan and pale top. The camera partly hides her expression, making the small dark lens the point of contact with the viewer. At left, the street dissolves into out-of-focus amber lamps, pale storefront glows, and a few indistinct shapes. Deep teal-green shadows cover the leaves and pavement; reddish orange light warms the distant street and the edge of her clothing. The woman stands slightly right of center, leaving a broad, blurred corridor of night on the left. The image has soft focus, visible grain, muted saturation, and slightly muddy color separation, as though made on inexpensive film or a modest compact camera. A dim local light catches strands of hair and the top of the camera, while most facial detail remains underexposed. Foreground foliage breaks the outline of her body and adds a grainy texture next to the smooth bokeh. The composition feels casual and intimate, neither polished nor precisely lit. The image's appeal comes from the imperfect glow, compressed nighttime depth, and a moment of private looking. No graphic overlay, caption, or clean studio background appears.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "0bc304f692c20f690093553017b470fb52fe6e726defafbe8cafd172459a967a",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

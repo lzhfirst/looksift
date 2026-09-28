@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A tightly cropped mixed-media portrait centers a face turned slightly upward into light, with most of the surrounding space falling away to black. One blue-green eye near the upper center catches a fine reflection, while the second eye remains partly obscured in shadow at the left edge. Broad strokes of cobalt, electric blue, saffron yellow, vermilion, coral, green, and violet sweep across the forehead, nose, cheeks, and chin. The color behaves like thick paint applied directly over a realistically modeled, glossy surface: some marks have blunt flat ends, others taper into quick slashes, and small pools of specular light sparkle on the bridge of the nose and cheek. The lips remain legible beneath red, blue, and warm gold accents, their soft contours grounding the image in a human expression. The central planes are bright and almost wet-looking, while the jaw and hairline dissolve into dark blue-black. The crop is intimate enough to let each irregular pigment boundary matter; it removes clothing, setting, and most background so the viewer moves between the visible eye, the painted cheek, and the reflective mouth. Strong side lighting gives volume to the nose and lips without smoothing away the paint's rough geometry. The whole frame turns a quiet upward gaze into a vivid study of saturated marks against deep shadow.",
+  "full_prompt_zh": "一幅紧密裁切的混合媒介人像将一张微微仰向光线的脸置于中央，周围空间大多落入黑暗。上方中央附近一只蓝绿色眼睛映出细小亮点，另一只眼睛则在左边的阴影里部分隐没。钴蓝、电光蓝、藏红花黄、朱红、珊瑚红、绿色和紫色的宽阔笔触扫过额头、鼻子、脸颊与下巴。色彩像厚颜料直接涂在写实塑造、带光泽的表面上：一些色块有平直钝拙的收笔，另一些收成迅疾的斜线；鼻梁与脸颊上细小的镜面高光闪闪发亮。嘴唇在红、蓝和暖金色的点染之下仍清晰可辨，柔软轮廓将图像落在真实的人类表情上。面部中央明亮，几乎像被打湿，颌线和发际则融入深蓝黑色。亲密的裁切让每一道不规则颜料边界都变得重要；衣着、环境和大部分背景被移走，观者的视线在可见的眼睛、上色的脸颊和反光的嘴唇之间游移。强烈的侧光赋予鼻与唇体积，却没有抹平颜料粗粝的几何感。整幅画把安静的上望目光转化为饱和色彩与深重阴影相遇的鲜活研究。",
+  "style_prompt_en": "The mixed-media image joins realistic, glossy volume with broad, graphic sweeps of pigment. Saturated cobalt and electric blue cut through saffron, coral, vermilion, violet, and green, creating an irregular mosaic of warm and cool zones. Some strokes terminate in blunt flat edges, while others narrow into diagonal slashes and scraped color transitions. Tiny specular highlights sit on top of the rough color surface, making the central area appear almost wet. Most of the surrounding field is dense blue-black, with selected forms emerging sharply from it and peripheral contours fading back into darkness. The crop is extremely close, so the rhythm of color boundaries replaces environmental detail. Strong side light preserves dimensional form under the assertive paint marks. The whole frame feels intimate and electric through the tension between tactile pigment, luminous realism, and near-total shadow.",
+  "style_prompt_zh": "这幅混合媒介图像把写实、带光泽的体积塑造与宽阔、图形化的颜料笔扫结合起来。饱和的钴蓝和电光蓝穿过藏红花黄、珊瑚红、朱红、紫色与绿色，形成冷暖区域交错的不规则拼片。有些笔触止于平直钝拙的边缘，另一些逐渐收细为斜向短划与刮擦般的过渡。细小的镜面高光浮在粗粝色彩表面上，让中央区域几乎显得湿润。周围大部分区域是浓密的蓝黑色，少数形体从中清晰浮现，边缘轮廓又退回黑暗。裁切极近，因此色块边界的节奏取代了环境细节。强烈侧光让鲜明颜料痕迹下的立体形态依然成立。整幅画通过可触的颜料、发光的写实感和几乎彻底的阴影之间的张力，显得亲密而充满电流般的活力。",
+  "theme_en": "A face covered in vivid color",
+  "theme_zh": "覆盖鲜亮色彩的面容",
+  "wh_ratio": "1:1",
+  "id": "0239",
+  "name": "Luminous colors",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/luminous-colors",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/luminous-colors.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "a7b99dceebde3fe08f1216ffef0fd0bb6a3373f5d0fd5567a8e192036a88fddb",
+    "gpt_submission_prompt": "A tightly cropped mixed-media portrait centers a face turned slightly upward into light, with most of the surrounding space falling away to black. One blue-green eye near the upper center catches a fine reflection, while the second eye remains partly obscured in shadow at the left edge. Broad strokes of cobalt, electric blue, saffron yellow, vermilion, coral, green, and violet sweep across the forehead, nose, cheeks, and chin. The color behaves like thick paint applied directly over a realistically modeled, glossy surface: some marks have blunt flat ends, others taper into quick slashes, and small pools of specular light sparkle on the bridge of the nose and cheek. The lips remain legible beneath red, blue, and warm gold accents, their soft contours grounding the image in a human expression. The central planes are bright and almost wet-looking, while the jaw and hairline dissolve into dark blue-black. The crop is intimate enough to let each irregular pigment boundary matter; it removes clothing, setting, and most background so the viewer moves between the visible eye, the painted cheek, and the reflective mouth. Strong side lighting gives volume to the nose and lips without smoothing away the paint's rough geometry. The whole frame turns a quiet upward gaze into a vivid study of saturated marks against deep shadow.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "697029c6df8478c7ce4208c7e5e2b60f35e90f585cd919b24bec2995f3db9a03",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

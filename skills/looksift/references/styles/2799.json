@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square flat-vector illustration shows a woman sitting on the ground beside a black dog against an uninterrupted vivid orange field. The woman faces right in profile, resting her chin on one hand and looking upward with a small smile. Her black hair is gathered into a low bun, and she wears a dark desaturated green dress with a narrow yellow accent at the neckline, a round orange earring, and black low shoes. One knee rises toward her chest and the other leg angles across the lower frame. The dog sits upright close to her right side, its head turned toward her and a simple pale line indicating the eye. A smaller dark curve near the woman's lap may be part of her silhouette or another overlapping limb, but the main paired forms remain clear. There is no scenery, texture, or shadow; the orange ground makes the black dog, hair, and shoes read as crisp graphic shapes. Cream skin areas and the muted green dress temper the saturated background. Edges are smooth and clean, with a few dark contour lines reserved for facial features and garment divisions. The two profiles create a gentle exchange without direct eye contact. No readable lettering appears. The overall composition is intimate, playful, and spare, using bold color fields and negative space to give ordinary companionship a poster-like clarity.",
+  "full_prompt_zh": "一幅方形平面矢量插画描绘一名女子与黑狗坐在不间断的鲜橙色场前。女子侧身向右，一手托着下巴，略向上看并带小小笑意。黑发在脑后束成低髻，她穿暗灰绿色连衣裙，领口有细黄点缀，戴圆橙耳环、穿黑色低鞋。一侧膝盖抬向胸前，另一条腿斜过下方画幅。狗在她右侧紧挨着端坐，头转向她，一道简单浅线指出眼睛。女子膝边一处较小深色曲线可能属于剪影或另一处重叠肢体，但主要一对形体清楚。没有景物、纹理或阴影；橙色底使黑狗、黑发和鞋成为清晰图形。乳白肤色与暗绿裙子缓和饱和背景。边缘平滑干净，只有少数深轮廓线用于面部和衣物分界。两道侧影形成温柔交流，却没有直接对视。没有可辨认文字。整体构图亲密、俏皮而稀疏，以大胆色场和留白给寻常陪伴海报般清晰感。",
+  "style_prompt_en": "A flat-vector illustration uses smooth untextured color fields and crisp silhouettes rather than modeled volume. A saturated orange ground holds near-black shapes, muted green planes, warm cream areas, and tiny yellow-orange accents. Curved contours and a few reserved dark lines carry expression, while broad open space keeps the paired central masses readable. Light is graphic and even, with no cast shadow or gradient; contrast comes from color adjacency and shape. The low, compact arrangement leaves generous upper space and feels playful, intimate, and poster-like. Small asymmetries in the curves keep the minimalist geometry human.",
+  "style_prompt_zh": "平面矢量插画使用平滑无纹理色场和清晰剪影，而非塑造体积。饱和橙色底承托近黑形、暗绿平面、暖乳白区域与极小黄橙重音。弯曲轮廓和少数保留的深线承担表情，宽阔开放空间使中央相伴的大形易读。光图形化且均匀，没有投影或渐变；对比来自颜色相邻与形状。低矮紧凑的排列在上方留出充足空间，显得俏皮、亲密而像海报。曲线里的小不对称使极简几何有人味。",
+  "theme_en": "A woman and black dog sitting together against vivid orange",
+  "theme_zh": "鲜橙底前并坐的女子与黑狗",
+  "wh_ratio": "1:1",
+  "id": "2799",
+  "name": "Agathe Sorlet",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/agathe-sorlet",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/agathe-sorlet.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "49d766666b781fefcb2ec3d4dd0c05a07608523c04b6c816984de15dec57e897",
+    "gpt_submission_prompt": "A square flat-vector illustration shows a woman sitting on the ground beside a black dog against an uninterrupted vivid orange field. The woman faces right in profile, resting her chin on one hand and looking upward with a small smile. Her black hair is gathered into a low bun, and she wears a dark desaturated green dress with a narrow yellow accent at the neckline, a round orange earring, and black low shoes. One knee rises toward her chest and the other leg angles across the lower frame. The dog sits upright close to her right side, its head turned toward her and a simple pale line indicating the eye. A smaller dark curve near the woman's lap may be part of her silhouette or another overlapping limb, but the main paired forms remain clear. There is no scenery, texture, or shadow; the orange ground makes the black dog, hair, and shoes read as crisp graphic shapes. Cream skin areas and the muted green dress temper the saturated background. Edges are smooth and clean, with a few dark contour lines reserved for facial features and garment divisions. The two profiles create a gentle exchange without direct eye contact. No readable lettering appears. The overall composition is intimate, playful, and spare, using bold color fields and negative space to give ordinary companionship a poster-like clarity.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "6172c1750238c5f43db14f0321ae71a90c1ff498181b03ada2582423ef8f2968",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

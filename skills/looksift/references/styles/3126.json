@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "An expressive oil landscape looks across a hill town beneath a restless painted sky. The upper half is filled with long curling strokes of turquoise, ultramarine, cream, and pale gold, their repeated swirls giving the clouds almost as much movement as water. Below, a winding blue river cuts through the left side of the town, while ochre roads and tiled roofs climb toward a group of slender towers on the right. Dark cypress-like trees punctuate the slope and help separate near houses from the flatter distant plain. The buildings are recognizable but assembled from small, thick strokes and warm color patches rather than exact architectural lines. Every surface vibrates with visible paint: sky marks flow horizontally, river strokes follow the curve of the channel, and short dabs pick out stone walls, foliage, and roofs. The palette sets cool blue-green against honeyed yellow and burnt sienna, with deep green-black accents grounding the lower half. Light feels broad and late in the day, warming the hilltop and the cloud crests without creating sharp shadows. A curving road and river lead the eye from the foreground into the hazy horizon. The high viewpoint makes the town and terrain feel broad, while the dense brush rhythm keeps the image intimate and handmade. The whole composition moves continuously from churning sky to textured land.",
+  "full_prompt_zh": "一幅富于表现力的油画风景俯瞰山城，上方是一片翻涌的绘画天空。上半部充满青绿、群青、奶油白和浅金色的长卷曲笔触，反复旋动的云让天空几乎像水一样活跃。其下，一条弯曲蓝河切过城镇左侧，赭黄色道路与瓦顶房屋向右侧一组细长高塔攀升。深色、近似柏树的树木点在坡上，区分近处房屋与更平坦的远方。建筑可辨，却由厚实的小笔触和暖色块拼成，而非精确建筑线条。每一处表面都因可见颜料而震动：天空的笔迹横向流动，河水笔触顺着河道弯曲，短小点染挑出石墙、叶丛与屋顶。色盘将冷蓝绿与蜜黄、焦赭并置，以深绿黑色重点压住下半部。光感宽阔，像傍晚时分，温暖山顶与云峰，却没有锐利投影。弯曲道路和河流把目光从前景带入朦胧地平线。高视点使城镇与地形显得宽广，密集笔触节奏又让画面亲近而手工。整幅构图从翻腾天空到有纹理的土地持续流动。",
+  "style_prompt_en": "An expressive oil painting with thick, visibly directional strokes across every surface. Turquoise, ultramarine, cream, pale gold, ochre, and sienna interweave in curling horizontal bands above smaller, blockier marks below. Dark slender verticals punctuate the lower field. Cool blue-green channels curve through warm textured masses, creating a winding route into haze. Broad late-day light catches raised color ridges but casts few hard shadows. The brush rhythm is dense and continuous, making sky and ground feel equally active while the underlying perspective remains readable.",
+  "style_prompt_zh": "一幅表现性油画，每一处表面都有厚实、方向明确的可见笔触。青绿、群青、奶油白、浅金、赭黄和焦褐在上方卷曲横带中交织，下方转为更小、更块状的笔迹。深色细长竖形点在下部。冷蓝绿通道在暖色纹理体块中蜿蜒，形成通向薄雾的路径。宽阔的傍晚光照亮隆起的色脊，却少有硬影。笔触节奏密集而连续，使天空与地面同样活跃，底层透视仍清楚可读。",
+  "theme_en": "A hill town under a restless painted sky",
+  "theme_zh": "翻涌笔触天空下的山城",
+  "wh_ratio": "1:1",
+  "id": "3126",
+  "name": "David Burliuk",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/david-burliuk",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "6f4fb0710a1821efaa23b38c253785cd6f671d23ac2c947f3896b3d3411723a7",
+    "gpt_submission_prompt": "An expressive oil landscape looks across a hill town beneath a restless painted sky. The upper half is filled with long curling strokes of turquoise, ultramarine, cream, and pale gold, their repeated swirls giving the clouds almost as much movement as water. Below, a winding blue river cuts through the left side of the town, while ochre roads and tiled roofs climb toward a group of slender towers on the right. Dark cypress-like trees punctuate the slope and help separate near houses from the flatter distant plain. The buildings are recognizable but assembled from small, thick strokes and warm color patches rather than exact architectural lines. Every surface vibrates with visible paint: sky marks flow horizontally, river strokes follow the curve of the channel, and short dabs pick out stone walls, foliage, and roofs. The palette sets cool blue-green against honeyed yellow and burnt sienna, with deep green-black accents grounding the lower half. Light feels broad and late in the day, warming the hilltop and the cloud crests without creating sharp shadows. A curving road and river lead the eye from the foreground into the hazy horizon. The high viewpoint makes the town and terrain feel broad, while the dense brush rhythm keeps the image intimate and handmade. The whole composition moves continuously from churning sky to textured land.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "8e57d0413d045a52b3d8ca287189beea6d91009c2f64cc8d108604b79459792c",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

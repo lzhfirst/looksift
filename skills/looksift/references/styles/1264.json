@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square interior photograph presents a dramatic open stair crossing a quiet concrete room. Individual thick gray treads project from a warm ochre and burnt-orange wall at the right, ascending diagonally toward a dark upper landing without a visible railing. The underside receives pale light, making each step read as a separate weighty slab. Across the left, a blue-gray plaster wall holds one small warm-toned framed picture and a slender potted tree in a rough concrete planter. Two simple wooden chairs stand near the lower center on a worn terracotta and gray floor. A bright yellow light well beneath the stair produces a luminous wedge that contrasts with deep shadow at the upper corner. The room has generous empty floor in the foreground, emphasizing the strong stair diagonal and the small human-scale furniture. Surfaces are imperfect: concrete has slight stains, plaster carries mottling, and floor color varies from tile to tile. The camera's frontal-oblique position preserves the stair's geometry while allowing the side wall and landing to have depth. No people appear. The atmosphere combines sculptural mass and everyday habitation, with warmth supplied by paint and light rather than decoration. The image remains still and contemplative even though its main architectural line climbs forcefully across the square frame.",
+  "full_prompt_zh": "一幅正方形室内照片呈现一座醒目的开放式楼梯横穿安静混凝土房间。厚重灰色踏步从右侧暖赭与焦橙墙面逐块悬出，沿对角线上升至深色上层平台，没有可见扶手。踏步底面承接浅光，使每块台阶都成为独立而有重量的板。左侧蓝灰灰泥墙挂一幅小型暖色框画，旁边粗混凝土花盆内立一棵纤细树。两把简朴木椅位于下方中央附近，地面是磨损的陶土红与灰色。梯下明亮黄色光井形成发光楔形，与上角深影对照。前景留有宽敞空地，突出强烈阶梯斜线和具人尺度的小家具。表面并不完美：混凝土微有污痕，灰泥斑驳，地面颜色逐块变化。相机从正面略偏斜处观看，既保留楼梯几何，也使侧墙和平台有纵深。画面没有人物。氛围将雕塑体量和日常居住结合，暖意来自墙色和光线，而非堆叠装饰。即使主要建筑线有力地爬过正方形画幅，图像仍静止沉思。",
+  "style_prompt_en": "The style is material-rich modernist interior photography with exposed structural forms, a strong diagonal movement and generous unoccupied floor. Raw concrete and mottled blue-gray plaster meet burnt orange, ochre and a concentrated yellow light well. Soft side daylight and deep architectural recesses create a layered tonal range. Sparse wooden furnishings supply scale without crowding. The square frame balances a forceful geometric ascent against a quiet lower foreground, making rough surfaces and inhabited warmth equally visible.",
+  "style_prompt_zh": "这种风格是材料丰富的现代主义室内摄影，包含裸露结构形体、有力对角运动和宽敞空地。原始混凝土与斑驳蓝灰灰泥遇到焦橙、赭色及集中的黄色光井。柔和侧窗光与深建筑凹处形成层叠明暗。稀少木家具提供尺度而不拥挤。正方形画幅把强烈几何上升与安静下部前景平衡，让粗糙表面和有人使用的暖意同样可见。",
+  "theme_en": "A floating concrete stair against blue and ochre walls",
+  "theme_zh": "蓝与赭色墙面之间悬浮的混凝土楼梯",
+  "wh_ratio": "1:1",
+  "id": "1264",
+  "name": "Lina Bo Bardi",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/lina-bo-bardi",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/lina-bo-bardi.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "c5c02b8a3bb97442b14682361e747d8c26bb3f9675129646a67156030d7d3da8",
+    "gpt_submission_prompt": "A square interior photograph presents a dramatic open stair crossing a quiet concrete room. Individual thick gray treads project from a warm ochre and burnt-orange wall at the right, ascending diagonally toward a dark upper landing without a visible railing. The underside receives pale light, making each step read as a separate weighty slab. Across the left, a blue-gray plaster wall holds one small warm-toned framed picture and a slender potted tree in a rough concrete planter. Two simple wooden chairs stand near the lower center on a worn terracotta and gray floor. A bright yellow light well beneath the stair produces a luminous wedge that contrasts with deep shadow at the upper corner. The room has generous empty floor in the foreground, emphasizing the strong stair diagonal and the small human-scale furniture. Surfaces are imperfect: concrete has slight stains, plaster carries mottling, and floor color varies from tile to tile. The camera's frontal-oblique position preserves the stair's geometry while allowing the side wall and landing to have depth. No people appear. The atmosphere combines sculptural mass and everyday habitation, with warmth supplied by paint and light rather than decoration. The image remains still and contemplative even though its main architectural line climbs forcefully across the square frame.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "a45d8b803e07003b9f8680d20d04fe73b3ac747b410fa8a4bffb8f594cfc19c6",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

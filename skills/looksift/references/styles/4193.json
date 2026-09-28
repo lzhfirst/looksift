@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square aged monochrome portrait shows a young woman facing the viewer from the chest upward against a dark neutral background. Her center-parted hair is drawn back beneath a pale lace bonnet that frames the top and sides of the head. She has a steady, calm gaze, a softly modeled oval face, and a small closed mouth. A patterned shawl covers the shoulders, while a dark ribbon is tied in a bow at the throat over a light inner garment. The figure is centered, and the shoulders fade gently into the blackened lower corners. The image has the silvery tonal depth of an early photographic plate: bright lace threads stand out against dark hair, while subtle gray transitions carry the skin. Scratches, tiny specks, tarnished marks, and worn edges interrupt the otherwise clear likeness, especially near the border. The background has no furniture or detailed scenery; it works as a deep field behind the illuminated face. Soft frontal light from slightly above catches the forehead, nose bridge, cheeks, and bonnet, leaving the jaw and shawl in darker gray. The sitter's eyes remain the most precise details, surrounded by the delicate material texture of lace and patterned cloth. No lettering is readable. The overall composition is direct and intimate, preserving a formal stillness within the imperfect metallic-looking surface of an old portrait plate.",
+  "full_prompt_zh": "一幅方形陈旧黑白肖像在深色中性底面前呈现一位胸上半身、正面望向观者的年轻女子。中分头发向后收在浅色蕾丝头罩下，头罩围住头顶与两侧。她目光稳定平静，椭圆脸柔和塑形，小嘴闭合。带图案披肩覆盖肩部，一条深丝带在喉间系成蝴蝶结，内层衣服较浅。人物居中，双肩向发黑的下角柔和淡去。图像带早期摄影银版的银灰纵深：明亮蕾丝丝线衬着深发，皮肤由细微灰阶过渡承载。划痕、小斑点、失光痕和磨旧边缘打断原本清楚的肖似，在边框附近尤其明显。背景没有家具或细致景物，只在受光面孔后形成深色域。略偏上方的柔和正面光照到额头、鼻梁、面颊与头罩，让下颌和披肩处于较深灰色。坐者眼睛是最精确的细节，周围是蕾丝和花纹织物的精巧材料肌理。没有可读文字。整体构图直接而亲密，在陈旧肖像银版并不完美的金属感表面中保留正式的静止。",
+  "style_prompt_en": "Daguerreotype-like photography uses silvery grayscale transitions, precise central detail, and dark peripheral falloff. Pale fine texture glows against deep charcoal, while scratches, small tarnished flecks, and worn borders reveal the plate-like support. Soft near-frontal light from above models exposed planes without harsh cast shadow. A centered stable form retains the clearest tonal detail as the lower and outer areas darken and soften. The palette stays within warm silver, gray, cream, and near black. The effect is formal, intimate, and visibly aged.",
+  "style_prompt_zh": "近似银版的摄影使用银灰色阶过渡、精确中央细节与外围深暗衰减。浅色细肌理在深炭色前发亮，划痕、小失光斑点和磨损边界显露银版般的载体。来自上方的近正面柔光塑造外露平面，没有强烈投影。居中稳定的形体保有最清楚的调性细节，下方和外围则变暗并柔化。色域限定在暖银、灰、奶油色与近黑之间。效果正式、亲密而明显陈旧。",
+  "theme_en": "A young woman in a lace bonnet in an aged monochrome portrait",
+  "theme_zh": "陈旧黑白肖像中戴蕾丝头罩的年轻女子",
+  "wh_ratio": "1:1",
+  "id": "4193",
+  "name": "Daguerreotype",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/daguerreotype.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "19cae2a2107fe994850e345be82532e72a960de4259cf48d917ebd02a44d18ef",
+    "gpt_submission_prompt": "A square aged monochrome portrait shows a young woman facing the viewer from the chest upward against a dark neutral background. Her center-parted hair is drawn back beneath a pale lace bonnet that frames the top and sides of the head. She has a steady, calm gaze, a softly modeled oval face, and a small closed mouth. A patterned shawl covers the shoulders, while a dark ribbon is tied in a bow at the throat over a light inner garment. The figure is centered, and the shoulders fade gently into the blackened lower corners. The image has the silvery tonal depth of an early photographic plate: bright lace threads stand out against dark hair, while subtle gray transitions carry the skin. Scratches, tiny specks, tarnished marks, and worn edges interrupt the otherwise clear likeness, especially near the border. The background has no furniture or detailed scenery; it works as a deep field behind the illuminated face. Soft frontal light from slightly above catches the forehead, nose bridge, cheeks, and bonnet, leaving the jaw and shawl in darker gray. The sitter's eyes remain the most precise details, surrounded by the delicate material texture of lace and patterned cloth. No lettering is readable. The overall composition is direct and intimate, preserving a formal stillness within the imperfect metallic-looking surface of an old portrait plate.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "8181fa956aa72887f373850f0872b3de6d460b41c8b801f6aa9627d4668abd18",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

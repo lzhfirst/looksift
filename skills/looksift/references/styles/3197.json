@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square Symbolist oil painting presents a close head-and-shoulders view of a young red-haired figure with eyes lowered. The face turns slightly toward the left, the pale forehead and cheek emerging softly from a deep teal background. Loose copper, amber, and auburn curls frame the head, with small blue-green flecks woven through the hair as though color from the surroundings has entered it. The expression is inward and melancholy: eyelids rest low, the mouth is closed, and the long neck slopes into dark blue-green clothing at the bottom. There is no clear room or landscape behind the figure. Instead, layered strokes of turquoise, near-black, and brown create an atmospheric field that meets the hair and shoulder without a hard boundary. Warm light grazes the crown, brow, and cheek, leaving the lower face and garment more subdued. The paint surface is soft but visibly worked, with brushed and scumbled transitions rather than photographic smoothness. The composition is intimate and cropped close, giving nearly the entire square to the contemplative head. Color carries emotion as much as anatomy: fiery hair contrasts with cool shadow and the pale skin acts as a quiet bridge. The image feels timeless, dreamlike, and solemn. No text, ornament, or frame is included.",
+  "full_prompt_zh": "一幅方形象征主义油画呈现红发年轻人物的贴近头肩视角，双眼垂下。面孔稍向左转，浅色前额与面颊从深青绿背景柔和浮出。松散铜色、琥珀和赤褐卷发围着头，小片蓝绿碎色织入发丝，仿佛环境颜色渗了进去。神情向内而忧郁：眼睑低垂，唇闭合，长颈向底部深蓝绿衣物倾去。身后没有清楚房间或风景。层叠松石、近黑和棕色笔痕形成空气色场，以不硬的边界接上头发与肩。暖光擦过发顶、眉和颊，下半脸和衣物更含蓄。颜料表面柔软但留有明显操作痕，是刷染和擦抹过渡，而非摄影平滑。构图亲密且截切贴近，几乎整个方幅都给沉思的头部。色彩同解剖一样承载情感：火红头发对照冷暗影，浅肤色成为安静过桥。图像超越时间、如梦而肃穆。没有文字、花饰或外框。",
+  "style_prompt_en": "Symbolist oil painting with intimate close cropping, soft anatomical modeling, and emotionally charged color. Copper, amber, and auburn warmth meets deep teal, turquoise, and near-black shadow. Scumbled layers and brushed transitions let boundaries dissolve into an atmospheric ground, while selective warm light finds a few pale planes. The composition is inward, quiet, and dreamlike, with color resonance more important than explicit setting.",
+  "style_prompt_zh": "象征主义油画结合亲密贴近截切、柔和解剖塑形和富情感的色彩。铜、琥珀、赤褐暖色遇上深青绿、松石与近黑暗影。擦抹层和刷染过渡使边界融入空气背景，选择性暖光找到少数浅平面。构图向内、安静而如梦，色彩共鸣比明确场所更重要。",
+  "theme_en": "A pensive red-haired figure with downcast eyes",
+  "theme_zh": "垂眼沉思的红发人物",
+  "wh_ratio": "1:1",
+  "id": "3197",
+  "name": "George Frederic Watts",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/george-frederic-watts",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "95977e1bfebd6c5f22deffebbc38d2156cfcf9fe3a17757aca4a6810e3467715",
+    "gpt_submission_prompt": "A square Symbolist oil painting presents a close head-and-shoulders view of a young red-haired figure with eyes lowered. The face turns slightly toward the left, the pale forehead and cheek emerging softly from a deep teal background. Loose copper, amber, and auburn curls frame the head, with small blue-green flecks woven through the hair as though color from the surroundings has entered it. The expression is inward and melancholy: eyelids rest low, the mouth is closed, and the long neck slopes into dark blue-green clothing at the bottom. There is no clear room or landscape behind the figure. Instead, layered strokes of turquoise, near-black, and brown create an atmospheric field that meets the hair and shoulder without a hard boundary. Warm light grazes the crown, brow, and cheek, leaving the lower face and garment more subdued. The paint surface is soft but visibly worked, with brushed and scumbled transitions rather than photographic smoothness. The composition is intimate and cropped close, giving nearly the entire square to the contemplative head. Color carries emotion as much as anatomy: fiery hair contrasts with cool shadow and the pale skin acts as a quiet bridge. The image feels timeless, dreamlike, and solemn. No text, ornament, or frame is included.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "b78d08f67e2888a0ac789b2b66fc59569e11475b171ba4cd050519d5df1fa25f",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square anatomical-style illustration presents a human skeleton in right-facing profile from the upper ribs to the skull. The jaw is slightly open, exposing carefully drawn teeth; vertebrae, clavicle, shoulder joint and rib cage are rendered with delicate engraved shading. Behind and through the bones, fine branching trees emerge like a miniature landscape, with one canopy growing near the back of the skull and another around the spine. At the bottom, a tiny classical building appears partly enclosed by the ribs and vegetation. The surrounding page is warm cream and largely empty, making the complicated central structure appear like an old scientific plate. Faint horizontal guide lines and a few narrow vertical marks cross the background. Bone surfaces have patient tonal hatching, while the trees use thinner, more filament-like strokes. The imagined overlap is precise enough to feel diagrammatic, yet the substitution of landscape for anatomy gives it a contemplative surrealism. The profile is shifted slightly right of center; branching forms extend leftward, balancing the forward thrust of the skull. The image favors graphite-gray and sepia-black over strong color. Its emotional effect is quiet and reflective, joining mortality, natural growth and measured observation within a single spare composition.",
+  "full_prompt_zh": "一幅正方形解剖图式插画呈现从上肋骨到头骨的人体骨架右侧面。下颌略张，露出仔细描绘的牙齿；脊椎、锁骨、肩关节和肋骨笼都以纤细版画明暗表现。骨骼后方与内部，细枝树木像微型景观般生长，一处树冠靠近头骨后侧，另一处围绕脊柱。底部有一座小小古典建筑，被肋骨与植物部分包围。四周纸面暖乳色，大片空白使复杂中央结构像一张旧科学图版。淡水平辅助线和几道窄竖线穿过背景。骨面以耐心排线塑造，树木则采用更细、更像丝线的笔痕。幻想重叠精确得近似图解，而以风景替入解剖结构又带来沉思式超现实感。侧面形体略偏右，分枝向左伸展，平衡头骨向前的动势。图像使用石墨灰和赭黑，而非强色彩。情绪安静而反思，把死亡、自然生长与审慎观察结合在单一简洁构图中。",
+  "style_prompt_en": "The style is antique scientific engraving joined with restrained surreal montage. Meticulous graphite-gray hatching describes solid volume, while finer filament lines build airy secondary structures. Warm cream paper and large negative space isolate a compact central assembly. Faint ruled guides, tiny details and soft plate-like wear evoke archival illustration. Two systems of texture overlap through precise registration rather than abrupt collage. The result is analytical in draftsmanship and meditative in mood.",
+  "style_prompt_zh": "这种风格是古旧科学版画与克制超现实蒙太奇的结合。细密石墨灰排线描述坚实体积，更细的丝状线条构建轻盈的次级结构。暖乳色纸面和大片留白隔离紧凑的中央组合。淡淡的辅助直线、微小细节和轻柔版面磨损唤起档案插画。两套肌理通过精确对位重叠，而非突兀拼贴。结果在制图上具有分析性，在气氛上则有沉思意味。",
+  "theme_en": "A skeletal profile entwined with a miniature branching landscape",
+  "theme_zh": "与微型分枝景观交织的骨骼侧面图",
+  "wh_ratio": "1:1",
+  "id": "4372",
+  "name": "Anatomical illustration",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/anatomical-illustration.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "62f30ac8eef5878d529c44723e565445f89f4775595e6c6ba816609ddaabde07",
+    "gpt_submission_prompt": "A square anatomical-style illustration presents a human skeleton in right-facing profile from the upper ribs to the skull. The jaw is slightly open, exposing carefully drawn teeth; vertebrae, clavicle, shoulder joint and rib cage are rendered with delicate engraved shading. Behind and through the bones, fine branching trees emerge like a miniature landscape, with one canopy growing near the back of the skull and another around the spine. At the bottom, a tiny classical building appears partly enclosed by the ribs and vegetation. The surrounding page is warm cream and largely empty, making the complicated central structure appear like an old scientific plate. Faint horizontal guide lines and a few narrow vertical marks cross the background. Bone surfaces have patient tonal hatching, while the trees use thinner, more filament-like strokes. The imagined overlap is precise enough to feel diagrammatic, yet the substitution of landscape for anatomy gives it a contemplative surrealism. The profile is shifted slightly right of center; branching forms extend leftward, balancing the forward thrust of the skull. The image favors graphite-gray and sepia-black over strong color. Its emotional effect is quiet and reflective, joining mortality, natural growth and measured observation within a single spare composition.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "7cf660e8cef1b3f9da5d2340191fd741a81227b9f3a7fcd058af90acbb395f2a",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

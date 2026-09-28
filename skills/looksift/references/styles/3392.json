@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "The finished square image presents a full-length figure standing against a softly mottled plaster wall. Her short silver-white bob is cut level around the jaw, and heavy bangs together with a dark eye band hide most of the upper face. A narrow black headband arcs above the hair. She wears a closely fitted black high-neck dress with rounded puff sleeves, sheer lace across the upper chest, a small horizontal opening below the neckline and a short skirt that flares into layered panels. The fabric is almost monochrome, but delicate gray embroidered patterns and a pale underlayer appear along the hem. Dark gloves end in fine featherlike wisps at the wrists; long dark stockings cover the legs above a pair of boots near the lower crop. Her arms rest loosely at her sides, while two thin hanging straps or blade-like accessories descend beside the skirt. The pose is still and balanced, directly facing the viewer. The background has no detailed location, only a weathered warm-gray surface with ochre patches and soft scratches. Illumination is diffuse and frontal, catching the silver hair and the curved shoulder seams while keeping the dark costume rich rather than flat. The style combines realistic fabric and light rendering with a game-character silhouette: sharply designed costume layers, restrained ornament and a slightly unreal serenity. Muted black, charcoal, cream and warm stone gray dominate. The generous wall around the figure makes the ornate clothing legible and keeps the square composition quietly monumental.",
+  "full_prompt_zh": "成品正方形呈现一位全身人物，站在柔和斑驳的灰泥墙前。她的银白短波波头齐至下颌，厚重刘海和深色眼带遮住上半张脸，细黑发箍跨过头顶。她身穿贴身黑色高领短裙，圆鼓袖，胸上部有半透明蕾丝，领口下有一道小小横向开口，裙摆向外张成层叠布片。布料近乎单色，但裙边可见细灰色刺绣与浅色内衬。深色手套在腕部收为羽毛般的细碎边缘；深色长袜覆盖双腿，靴子靠近下缘裁切。双臂松松垂在身体两侧，两条细长吊带或刀形配饰从裙边旁垂下。姿态静止而平衡，正面面对观众。背景没有具体场所，只有带赭色斑块和柔软刮痕的风化暖灰墙面。漫射正面光照亮银发和弯曲肩线，同时使深色服装丰富而非扁平。画法把写实布料与光线塑造，同游戏角色式轮廓结合：服装层次设计清楚，装饰克制，神情带一点非现实的安静。黑、炭灰、乳白与暖石灰是主色。人物周围宽阔墙面使华丽衣装清晰可读，也令正方形构图安静而庄重。",
+  "style_prompt_en": "Painterly digital illustration combines realistic material shading with a sharply designed silhouette, delicate dark-on-dark ornament, soft diffuse frontal light and a subtly distressed warm-gray ground. Near-monochrome blacks retain layered texture through fine linear detail, fringed edges and translucent surfaces. A centered vertical form surrounded by generous quiet space gives the square image calm monumentality.",
+  "style_prompt_zh": "绘画式数字插画结合写实材质明暗、设计鲜明的剪影、深色上的细微深色装饰、柔和漫射正面光和略显风化的暖灰底面。近单色黑通过纤细线性细节、碎边和半透明表面保有丰富纹理。中央竖直形体周围的充足安静空间，赋予正方形画面平静的庄重感。",
+  "theme_en": "A silver-haired android in a dark dress against a worn plaster wall",
+  "theme_zh": "银发机械少女身着深裙站在旧灰泥墙前",
+  "wh_ratio": "1:1",
+  "id": "3392",
+  "name": "Nier Automata",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/nier-automata",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "05b382b1ce643c9656de789787dc47c3f39ac57f93a34f49b5cfc5b58edacab8",
+    "gpt_submission_prompt": "The finished square image presents a full-length figure standing against a softly mottled plaster wall. Her short silver-white bob is cut level around the jaw, and heavy bangs together with a dark eye band hide most of the upper face. A narrow black headband arcs above the hair. She wears a closely fitted black high-neck dress with rounded puff sleeves, sheer lace across the upper chest, a small horizontal opening below the neckline and a short skirt that flares into layered panels. The fabric is almost monochrome, but delicate gray embroidered patterns and a pale underlayer appear along the hem. Dark gloves end in fine featherlike wisps at the wrists; long dark stockings cover the legs above a pair of boots near the lower crop. Her arms rest loosely at her sides, while two thin hanging straps or blade-like accessories descend beside the skirt. The pose is still and balanced, directly facing the viewer. The background has no detailed location, only a weathered warm-gray surface with ochre patches and soft scratches. Illumination is diffuse and frontal, catching the silver hair and the curved shoulder seams while keeping the dark costume rich rather than flat. The style combines realistic fabric and light rendering with a game-character silhouette: sharply designed costume layers, restrained ornament and a slightly unreal serenity. Muted black, charcoal, cream and warm stone gray dominate. The generous wall around the figure makes the ornate clothing legible and keeps the square composition quietly monumental.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "8785af848e4b858652624cad78fa698093aaa0344683c63c63c6a3b3280db39a",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

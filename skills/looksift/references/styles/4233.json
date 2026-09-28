@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square surreal figurative painting shows a woman in left-facing profile against a pale aged wall. She wears a deep crimson dress with long sleeves, a red headband, and a translucent white veil that falls from the crown down beyond the lower edge. Her dark hair is mostly hidden. Both hands hold a halved pomegranate near her chest; its rough dark red rind and jewel-like seeds become the strongest small detail in the otherwise spare scene. Her face is finely modeled, eyes lowered toward the fruit, lips closed, and expression inward. A black collar cuts a sharp shape between pale neck and red dress. The wall behind is warm ivory with subtle stains, scratched lines, and faint geometric scoring. The figure occupies the left and center, with a broad open field of pale wall to the right. Light is soft and frontal-side, making the veil translucent and giving cheek and fingers delicate shadows. The red garment has matte folds, while the fruit's seeds catch tiny dark highlights. The composition feels ceremonial, quiet, and slightly uncanny. Its visual power comes from precise realism in face and hands set against weathered blank space and restrained symbolic color.",
+  "full_prompt_zh": "一幅方形超现实人物绘画呈现一位朝左侧面的女性，背后是浅色老化墙。她穿深绯红长袖裙，戴红头带，半透明白纱从头顶垂到画框下方。深发大多被遮住。双手在胸前托着半颗石榴；粗糙深红果皮和宝石般籽粒成为稀疏场景中最强的小细节。脸塑得精细，眼低望水果，嘴唇闭合，神情内向。黑领在浅颈与红衣之间切出锐形。背后墙面暖象牙色，带细污迹、刮线和淡几何划痕。人物占左及中央，右侧留出宽阔浅墙空场。光柔和且从正侧面来，使纱半透明，在脸颊和手指处留下细影。红衣褶哑光，果籽接住极小深亮点。构图有仪式感、安静且略诡异。视觉力量来自脸手的准确写实，对照风化空白与克制象征色彩。",
+  "style_prompt_en": "Surreal figurative painting with finely modeled realistic focal detail, matte crimson clothlike planes, translucent pale layering, and wide weathered ivory negative space. Soft frontal-side light gives delicate facial and handlike shadow transitions without drama. Tiny jewel-red accents anchor the spare composition. Subtle scratches and aged wall texture keep the symbolic stillness tactile.",
+  "style_prompt_zh": "超现实具象绘画，以准确塑形的写实焦点细节、哑光绯红布状平面、半透明浅色层和宽阔风化象牙留白构成。柔和正侧光形成细腻面与手般阴影过渡，而不戏剧化。极小宝石红重点稳定稀疏构图。细刮痕和老墙肌理使象征式静止可触。",
+  "theme_en": "A veiled woman examining a cut pomegranate",
+  "theme_zh": "一位披纱女性端详切开的石榴",
+  "wh_ratio": "1:1",
+  "id": "4233",
+  "name": "Afarin Sajedi",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/afarin-sajedi.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "fdc580d7db76e734249569683bea2d9a1a2ce9a89887188e0cf0ae494ed81e6a",
+    "gpt_submission_prompt": "A square surreal figurative painting shows a woman in left-facing profile against a pale aged wall. She wears a deep crimson dress with long sleeves, a red headband, and a translucent white veil that falls from the crown down beyond the lower edge. Her dark hair is mostly hidden. Both hands hold a halved pomegranate near her chest; its rough dark red rind and jewel-like seeds become the strongest small detail in the otherwise spare scene. Her face is finely modeled, eyes lowered toward the fruit, lips closed, and expression inward. A black collar cuts a sharp shape between pale neck and red dress. The wall behind is warm ivory with subtle stains, scratched lines, and faint geometric scoring. The figure occupies the left and center, with a broad open field of pale wall to the right. Light is soft and frontal-side, making the veil translucent and giving cheek and fingers delicate shadows. The red garment has matte folds, while the fruit's seeds catch tiny dark highlights. The composition feels ceremonial, quiet, and slightly uncanny. Its visual power comes from precise realism in face and hands set against weathered blank space and restrained symbolic color.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "6e67d0c683658915f5a5ecc0c19bf5111571b343f0bfa133c665d0714ac77ac9",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

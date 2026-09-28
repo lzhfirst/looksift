@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "This is a square, atmospheric photographic composite of a lone woman facing a large luminous orb in a dark teal field. She stands near the lower center with her back to the viewer, wearing a long black dress whose skirt broadens around the legs. Her head and shoulders make a small, clear silhouette against the brighter mist behind her. Ahead, a round pale turquoise light hangs low in the upper middle, its surface filled with intricate mottled detail like illuminated cloud or a textured moon. Its glow spreads into the surrounding blue-green haze rather than drawing a hard circular edge. Low plants and small pale wildflowers fill the foreground and rise around the woman's waist; shadowed tree shapes frame the far left and right. The ground is dark and uneven, with a narrow opening toward the orb. Light comes mainly from that central luminous form, outlining the woman's shoulders and hair and catching scattered flower heads, while the dress and near vegetation remain almost black. The sky and field blend into one misty atmosphere, making the distance feel deep without a visible horizon. Fine photographic grain and soft gradients coexist with the sharply patterned orb surface. The composition is nearly symmetrical, but uneven vegetation keeps it natural rather than ceremonial. A tiny mark in the lower corner is too small to read reliably. The overall image is quiet and dreamlike, using one pale circular glow to draw a dark figure through a dense, cool-toned night.",
+  "full_prompt_zh": "这是一幅方形、有空气感的摄影合成图，一名孤身女子在深青色旷野中面向巨大光球。她背对观者站在下方中央附近，穿一条黑色长裙，裙摆在腿旁展开。头肩在身后较明亮的薄雾前形成小而清楚的剪影。前方，一轮浅青色圆光低悬于上方中央，表面布满精细斑驳，像受光云层或有肌理的月球。光晕散入周围蓝绿雾气，而非画出硬圆边。低矮植物和浅色小野花填满前景，在女子腰旁升起；深影中的树形框住最左和最右。地面昏暗而不平，向光球方向留有狭窄开口。光主要来自中央发亮形体，勾出女子肩膀和头发，照亮零散花头；长裙与近处植物几乎全黑。天空与草地融成一种薄雾空气，没有可见地平线也能感觉距离很深。细微摄影颗粒与柔软渐变并存，光球表面花纹却相当清楚。构图接近对称，但不均匀植物使它保持自然，而非仪式化。下角一处极小记号无法可靠辨认。整体图像安静而梦幻，以一道浅色圆光引导深色人物穿过浓密冷色夜景。",
+  "style_prompt_en": "The atmospheric photographic-composite treatment sets one textured pale circular glow within a broad blue-green and near-black field. Light bleeds softly through haze, catching sparse small accents while the near masses stay almost silhouette-dark. The central bright surface has intricate mottling, contrasting with smoother surrounding gradients and fine grain. Organic edge detail encloses a narrow visual opening; strong tonal hierarchy guides the eye inward without many objects. The dark lower band has tactile unevenness rather than a flat fill. Color stays within teal, cyan-gray, and charcoal, creating a quiet cool harmony. The overall effect is meditative and uncanny, with a luminous center held at a deliberate distance.",
+  "style_prompt_zh": "这种有空气感的摄影合成处理把一处有肌理的浅色圆光置于宽阔蓝绿与近黑画域中。光透过雾柔软地渗出，照到稀疏小强调，近处体量几乎保持剪影般深暗。中央亮面有精细斑驳，与周围更平顺的渐变和细颗粒相对。有机边缘细节围住狭窄视觉开口；有力明度层级无需许多物件便把视线引向内部。下方深色带有可触的不平整，而非平板填色。颜色保持在青绿、青灰与炭色范围，形成安静冷色和声。整体效果冥想而怪异，发亮中央被有意置于远方。",
+  "theme_en": "A lone woman facing a luminous moonlike orb in a dark teal field",
+  "theme_zh": "一名孤身女子在深青色旷野中面向发光的月亮般圆球",
+  "wh_ratio": "1:1",
+  "id": "3093",
+  "name": "Aliza Razell",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/aliza-razell",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "f8a32ffb94f95d093a31817b363861e51fe3cfd7ee2a2635268630570d14a93c",
+    "gpt_submission_prompt": "This is a square, atmospheric photographic composite of a lone woman facing a large luminous orb in a dark teal field. She stands near the lower center with her back to the viewer, wearing a long black dress whose skirt broadens around the legs. Her head and shoulders make a small, clear silhouette against the brighter mist behind her. Ahead, a round pale turquoise light hangs low in the upper middle, its surface filled with intricate mottled detail like illuminated cloud or a textured moon. Its glow spreads into the surrounding blue-green haze rather than drawing a hard circular edge. Low plants and small pale wildflowers fill the foreground and rise around the woman's waist; shadowed tree shapes frame the far left and right. The ground is dark and uneven, with a narrow opening toward the orb. Light comes mainly from that central luminous form, outlining the woman's shoulders and hair and catching scattered flower heads, while the dress and near vegetation remain almost black. The sky and field blend into one misty atmosphere, making the distance feel deep without a visible horizon. Fine photographic grain and soft gradients coexist with the sharply patterned orb surface. The composition is nearly symmetrical, but uneven vegetation keeps it natural rather than ceremonial. A tiny mark in the lower corner is too small to read reliably. The overall image is quiet and dreamlike, using one pale circular glow to draw a dark figure through a dense, cool-toned night.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "4d63e18b0c938cc2ee5ea5420fbeab990b40c5113f50e09517aa81691e7f40e3",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

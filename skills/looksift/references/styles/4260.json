@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square cinematic fantasy seascape shows tall sailing ships moored in a crowded harbor at dusk. The nearest ship rises at the right with intricate dark rigging and a high mast, while smaller boats occupy the left water. A stone bridge spans the middle distance toward a skyline of slender towers and domes. Behind the city, an immense blue-gray planet curves across the clouded sky, its faint illuminated rim and scattered sparks making the world feel otherworldly. Warm amber sunset light gathers at the horizon, shines through the bridge opening, and breaks into trembling reflections on the dark harbor water. Small figures line the quay beneath glowing lamps, giving human scale to the ships and planetary sky. Deep indigo, slate blue, charcoal, and muted violet dominate above, balanced by orange and gold near the waterline. Painterly atmosphere softens the distant city, while masts, rigging, quay stones, and silhouettes remain more sharply drawn. The composition layers foreground vessel, busy waterfront, bridge, skyline, and vast celestial form in clear depth. The whole frame feels grand, melancholy, and exploratory, with a historical port made strange by cosmic scale and luminous weather.",
+  "full_prompt_zh": "一幅方形电影感奇幻海景呈现黄昏时拥挤港口里的高桅帆船。最近一艘船在右侧升起，带复杂深色索具和高桅杆；更小的船占据左侧水面。一座石桥跨过中景，通向纤细塔楼与圆顶构成的天际线。城市身后，一颗巨大的蓝灰行星弯过布云天空，淡淡受光边缘与散落光点让世界显得非凡。暖琥珀落日光聚在地平线，穿过桥洞，在深色港水上碎成摇晃倒影。码头灯下排列细小人物，标明船与行星天空之间的人类尺度。深靛蓝、石板蓝、炭黑与低饱和紫色主导上方，由水线附近的橙金平衡。绘画性空气柔化远方城市，桅杆、索具、码头石材和剪影则更清楚。构图把前景船、繁忙滨水、桥、天际线和巨大天体层层叠成明确纵深。整体宏大、忧郁、富于探索气息，历史港口因宇宙尺度与发亮天气而变得陌生。",
+  "style_prompt_en": "A cinematic fantasy-landscape style layers detailed dark foreground silhouettes against a glowing horizon and immense atmospheric sky. Indigo, slate blue, charcoal, and muted violet hold most of the frame, while concentrated amber and gold light breaks across water or another reflective plane. Thin vertical rigging, towers, or similar structures provide a rhythmic counterpoint to a broad celestial curve. Distant forms soften in haze; near edges retain fine drawn detail and tactile weathering. Tiny human-scale marks clarify monumentality. Painterly cloud and light transitions give depth without dissolving the strong structural silhouettes. The mood is grand, exploratory, and melancholy.",
+  "style_prompt_zh": "电影感奇幻风景风格把细致的深色前景剪影叠在发亮地平线与巨大空气天空前。靛蓝、石板蓝、炭灰和低饱和紫色占据大部分画面，集中的琥珀与金光在水面或其他反光平面上碎开。纤细竖向索具、塔楼或类似结构与宽阔天体弧线形成节奏对照。远方形态在薄雾中柔化，近处边缘保留细密描绘与可触风化。极小的人物尺度笔迹说明纪念碑感。绘画性的云光过渡建立纵深，却不消解有力结构剪影。气氛宏大、探索性强、忧郁。",
+  "theme_en": "Tall ships fill a harbor beneath a giant luminous planet at dusk",
+  "theme_zh": "黄昏巨大发光行星下，高桅帆船停满港口",
+  "wh_ratio": "1:1",
+  "id": "4260",
+  "name": "Bob Eggleton",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/bob-eggleton.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "c2157ac7a4082a99abf78e625ee645516d25f56e6e49e802bbcdfa7f8fabdc90",
+    "gpt_submission_prompt": "A square cinematic fantasy seascape shows tall sailing ships moored in a crowded harbor at dusk. The nearest ship rises at the right with intricate dark rigging and a high mast, while smaller boats occupy the left water. A stone bridge spans the middle distance toward a skyline of slender towers and domes. Behind the city, an immense blue-gray planet curves across the clouded sky, its faint illuminated rim and scattered sparks making the world feel otherworldly. Warm amber sunset light gathers at the horizon, shines through the bridge opening, and breaks into trembling reflections on the dark harbor water. Small figures line the quay beneath glowing lamps, giving human scale to the ships and planetary sky. Deep indigo, slate blue, charcoal, and muted violet dominate above, balanced by orange and gold near the waterline. Painterly atmosphere softens the distant city, while masts, rigging, quay stones, and silhouettes remain more sharply drawn. The composition layers foreground vessel, busy waterfront, bridge, skyline, and vast celestial form in clear depth. The whole frame feels grand, melancholy, and exploratory, with a historical port made strange by cosmic scale and luminous weather.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "c3f850442e7114d701f80201ccd634dd69c4e1a32bae92a03f768861022501a9",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white comic drawing shows a wide-eyed woman sitting on a cushioned chair beside a fireplace, with a small black cat on the floor before her. She occupies the left half of the room, leaning forward with elbows on her knees and both hands supporting her cheeks. Her dark hair is gathered into loose side buns, and her gaze goes toward the cat with a curious, slightly anxious expression. A short-sleeved dress with a full skirt reaches below her knees, and dark low shoes rest close together on the striped wooden floor. At center-right, the cat sits upright, its round eyes and pointed ears bright against a body filled almost entirely in black. The fireplace behind it forms a dark rectangular opening under a simple mantel. Small dishes and a teapot-like object line the shelf above, with framed pictures on the pale wall. The armchair's patterned upholstery and the floorboards receive loose parallel hatching, while the woman's face remains mostly white paper with a few precise lines. Ink strokes vary from soft sketchy gray to dense black, giving the scene a spontaneous storybook quality. Even indoor light leaves the face and wall pale; the hearth and cat provide the deepest shadows. The overall composition balances two still, watchful figures in a modest room, making the quiet encounter humorous and gently strange.",
+  "full_prompt_zh": "一幅方形黑白漫画画描绘一位睁大眼的女子坐在壁炉旁的软椅上，地上有一只小黑猫。她占据房间左半部，前倾身子，双肘支在膝上，两手托着脸颊。深发收成松散的两侧发髻，目光投向猫，神情好奇又略带不安。短袖连衣裙的宽裙摆垂过膝盖，深色低鞋在有条纹的木地板上靠拢。中央偏右，猫端坐，圆眼和尖耳在几乎全黑的身体上明亮突出。它后面的壁炉在简洁壁炉架下形成深色矩形洞口。架上排着小餐具和壶状物，浅色墙上挂着装框图片。扶手椅的花纹软垫与地板获得松散平行排线，女子的脸则主要保留白纸，只用少量精准线条。墨笔从柔软速写灰到浓黑变化，赋予场景即兴故事书气质。均匀室内光让脸与墙面保持浅色，炉膛和猫成为最深阴影。整体构图平衡朴素房间里两个静止又警觉的形体，使安静相遇显得幽默而微妙古怪。",
+  "style_prompt_en": "A monochrome storybook comic style uses expressive black ink, rough gray hatching and generous untouched paper. Simple rounded forms carry emotion through sparse features, while furniture-like structural planes are suggested by quick straight strokes. Dark filled shapes appear sparingly, gaining emphasis against broad pale areas. Contours are lively rather than mechanically even, with small wavering marks and loose crosshatch that keep the surface handmade. Illumination is broadly even; value changes come mainly from ink density rather than a strong cast-light effect. A compact focal exchange sits within a lightly furnished interior-like arrangement, with negative space preserving a gentle comic pause. The result is intimate, whimsical and slightly uncanny.",
+  "style_prompt_zh": "这种黑白故事书漫画风格使用表现力强的黑墨、粗糙灰排线和大量未着笔纸面。简化圆润的形体以少量特征传情，结构平面由快速直笔暗示。少量实黑形状在宽阔浅色区前获得强调。轮廓生动而非机械均匀，微小摇曳痕和松散交叉排线保持手工表面。照明整体均匀，明度变化主要来自墨色密度，而非强烈投光效果。紧凑的焦点交流置于轻量布置的空间关系中，负空间保留温柔的漫画式停顿。效果亲密、奇想且略显诡异。",
+  "theme_en": "A wide-eyed woman sitting by a fireplace with a small black cat",
+  "theme_zh": "一位睁大眼的女子坐在壁炉旁，面前有只小黑猫",
+  "wh_ratio": "1:1",
+  "id": "3810",
+  "name": "Kate Beaton",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/kate-beaton",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "4b75b6c0b1a56ed8be493b2fccb2b7ebdc1fa611bfa729485cf2efc04fb71391",
+    "gpt_submission_prompt": "A square black-and-white comic drawing shows a wide-eyed woman sitting on a cushioned chair beside a fireplace, with a small black cat on the floor before her. She occupies the left half of the room, leaning forward with elbows on her knees and both hands supporting her cheeks. Her dark hair is gathered into loose side buns, and her gaze goes toward the cat with a curious, slightly anxious expression. A short-sleeved dress with a full skirt reaches below her knees, and dark low shoes rest close together on the striped wooden floor. At center-right, the cat sits upright, its round eyes and pointed ears bright against a body filled almost entirely in black. The fireplace behind it forms a dark rectangular opening under a simple mantel. Small dishes and a teapot-like object line the shelf above, with framed pictures on the pale wall. The armchair's patterned upholstery and the floorboards receive loose parallel hatching, while the woman's face remains mostly white paper with a few precise lines. Ink strokes vary from soft sketchy gray to dense black, giving the scene a spontaneous storybook quality. Even indoor light leaves the face and wall pale; the hearth and cat provide the deepest shadows. The overall composition balances two still, watchful figures in a modest room, making the quiet encounter humorous and gently strange.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "a670f0d8bc615fb056dafc5f68bca8dcc67230e02e7e67d8c5357baa015eea92",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

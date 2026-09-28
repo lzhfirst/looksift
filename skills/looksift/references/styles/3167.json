@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A serene mountain landscape opens around a still turquoise lake. Dark evergreen trees frame both sides, their narrow silhouettes rising against a bank of soft blue haze. At the center, a steep snow-covered peak catches cool daylight beneath a pale, cloud-filled sky. Smaller ridges recede on either side, and a low island of trees and brush reaches into the water from the right. The near shore is irregular, edged with warm yellow grasses and dark earth. Reflections soften the tree line and the mountain colors in the lake, giving the scene a slow, restful balance.\n\nThe painting uses familiar landscape-oil techniques with visible dabs and dragged strokes. Snow is built from broken cream and blue-white marks over slate and violet rock; foliage is layered in short green and black strokes; foreground grasses catch small yellow highlights. The sky is softly blended, more airy than the textured land below. Light seems to come through high cloud, brightening the peak and the shoreline without producing severe shadows. Cool blue-green water occupies a broad quiet band across the lower middle and offsets the busy tree edges. The composition is symmetrical enough to feel stable, yet the uneven shores and varied tree heights keep it natural. The texture is generous and approachable, with atmospheric depth and no legible lettering.",
+  "full_prompt_zh": "一幅安宁的山地风景围绕平静的蓝绿色湖泊展开。深色常青树从两侧框住画面，细长剪影升在柔软蓝雾之前。中央陡峭的雪峰在布满浅云的天空下承受冷日光。较小山脊从两旁后退，右侧一片低矮树丛和灌木伸进水面。近岸形状不规则，由暖黄草地和深色泥土镶边。倒影把树线与山色柔化在湖中，使场景获得缓慢安稳的平衡。\n\n画面使用熟悉的风景油画技法，点涂和拖拽笔触清晰可见。积雪由石板蓝和紫色岩石上的断续乳白、蓝白笔迹组成；叶丛以短促绿黑笔触叠加；前景草叶抓住细小黄光。天空晕合得柔软，比下方有纹理的土地更通气。光似乎穿过高云，使峰顶与岸边明亮，却不造成严厉阴影。冷蓝绿湖水在下方中央占据宽阔安静的色带，对照繁忙的树缘。构图足够对称而稳定，不规则岸线和不同树高又使它自然。纹理丰厚而亲近，有空气深度，没有可辨认文字。",
+  "style_prompt_en": "A restful landscape-oil surface combines softly blended sky with textured land and water. Cool turquoise and blue-green form a broad central band, framed by narrow dark evergreen shapes and distant slate-blue ridges. Broken cream and blue-white marks brighten high rocky forms; short green-black dabs build dense foliage; tiny ochre-yellow touches warm the near edge. The light is diffuse and cool, leaving gentle shadows and a luminous haze between near and far planes. A fairly stable composition is enlivened by irregular shorelines and varied vertical rhythms. Reflections are softened rather than mirror sharp. Visible dragged strokes and layered dabs keep the scene tactile, calm, and approachable.",
+  "style_prompt_zh": "安稳的风景油画表面，将柔和晕合的天空与有纹理的陆地和水面结合。冷调绿松石色与蓝绿形成宽阔的中央色带，两侧由细长深色常青形和远处石板蓝山脊框住。断续的乳白与蓝白笔迹点亮高处岩形；短促绿黑点笔织出浓密叶丛；微小赭黄触点温暖近边。光线弥散而偏冷，让阴影柔和，近远平面之间有发亮的霭气。相当稳定的构图，被不规则岸线和不同的垂直节奏带活。倒影柔化，并不如镜面锐利。可见的拖笔和层叠点涂使场景可触、平静而亲近。",
+  "theme_en": "A quiet turquoise lake below snowy peaks",
+  "theme_zh": "雪峰下安静的蓝绿色湖",
+  "wh_ratio": "1:1",
+  "id": "3167",
+  "name": "Bob Ross",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/bob-ross",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "84041899f13a5da546a3ee2c2d31db9f8e4675d2a32c6e2564024d9f8059864c",
+    "gpt_submission_prompt": "A serene mountain landscape opens around a still turquoise lake. Dark evergreen trees frame both sides, their narrow silhouettes rising against a bank of soft blue haze. At the center, a steep snow-covered peak catches cool daylight beneath a pale, cloud-filled sky. Smaller ridges recede on either side, and a low island of trees and brush reaches into the water from the right. The near shore is irregular, edged with warm yellow grasses and dark earth. Reflections soften the tree line and the mountain colors in the lake, giving the scene a slow, restful balance.\n\nThe painting uses familiar landscape-oil techniques with visible dabs and dragged strokes. Snow is built from broken cream and blue-white marks over slate and violet rock; foliage is layered in short green and black strokes; foreground grasses catch small yellow highlights. The sky is softly blended, more airy than the textured land below. Light seems to come through high cloud, brightening the peak and the shoreline without producing severe shadows. Cool blue-green water occupies a broad quiet band across the lower middle and offsets the busy tree edges. The composition is symmetrical enough to feel stable, yet the uneven shores and varied tree heights keep it natural. The texture is generous and approachable, with atmospheric depth and no legible lettering.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "cc961c22566bade15960570e012b254cdea281f99d606c2779b623a6faeb3db1",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

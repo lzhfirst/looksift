@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square storybook landscape painting opens onto a small coastal cove under a vast blue sky. At the left foreground, a narrow stone lighthouse rises behind a cottage with steep red roofs, white walls, and a few small windows. Warm light glows in the lantern room at the top. The cottage stands on a grassy rise above dark rocks and low surf, with a strip of pale beach curving across the bottom right. In the center distance a tall sailing ship floats on turquoise water. Its brown wooden hull and dark masts are crisp enough to read, while the sails are mostly furled or absent. On the right, an ocher rock headland lifts a cluster of orange-roofed buildings and a few dark green pines above the water. Another tiny white sail appears farther back near the horizon. Towering cumulus clouds fill the left half of the sky in cream, pale peach, and cool gray, their edges broken into thick square-like brush marks. The upper sky is a deep cobalt blue with a small pale moon near the ship and scattered flecks that suggest distant birds. The light is warm from the left, catching roofs, cliffs, and cloud edges while casting blue-violet shadows into the rocks and buildings. Brushwork is textured and confident, with layered opaque strokes giving solid shapes to the cloud bank and cliff. The composition has the spacious charm of an illustrated adventure: stable landmasses frame the central ship, and the bright water invites the eye through the gap.",
+  "full_prompt_zh": "一幅方形故事书式风景画展现广阔蓝天下的小海湾。左侧前景，狭长石灯塔立在一间小屋后，小屋有陡峭红屋顶、白墙和几扇小窗。塔顶灯室透出暖光。小屋坐落在暗礁和低浪之上的草坡，浅色沙滩从底部向右弯去。中央远处一艘高大的帆船浮于青绿海水中，棕色木船身和深色桅杆清晰可辨，船帆大多收起或不见。右边赭色岩石岬角把一簇橙屋顶房屋和几株深绿松树举到水面上方。更远的地平线附近还有一片细小白帆。高耸的积云占据天空左半，呈奶油、浅桃和冷灰色，边缘由厚实近方形笔痕打散。上方天空是深钴蓝，船附近有一轮淡月，还有散点似远鸟。暖光从左侧照来，触及屋顶、崖面和云缘，并在岩石与建筑上投下蓝紫阴影。笔触厚实自信，层叠不透明颜料赋予云墙和峭壁坚实形状。构图有插图冒险故事的开阔魅力：稳定陆地围住中央帆船，明亮海水把视线引过缺口。",
+  "style_prompt_en": "Use richly colored storybook painting with opaque layered strokes and solid, slightly blocky modeling. Give clouds, rock, foliage, and built surfaces visible brush texture, avoiding photographic smoothness. Balance cobalt and turquoise expanses with cream cloud masses, ocher stone, warm roof accents, and blue-violet shadow. Let clear side light illuminate edges and small focal details while the larger shapes stay readable at a distance. Frame an open central passage with asymmetrical land or object masses for a sense of invitation and adventure.",
+  "style_prompt_zh": "采用色彩浓郁的故事书绘画，以层叠不透明笔触和略带方块感的坚实体积塑形。云、岩、叶与人工表面保留可见刷痕，避免摄影式平滑。以钴蓝和青绿的开阔色域平衡奶油色云团、赭石、暖屋顶色和蓝紫阴影。清晰侧光照亮边缘与小型焦点细节，较大形状仍可远观辨认。让不对称的陆地或物体色块围出开放中央通道，带来邀请与冒险感。",
+  "theme_en": "A lighthouse cottage and sailing ship beside a turquoise cove",
+  "theme_zh": "青绿海湾旁的灯塔小屋与帆船",
+  "wh_ratio": "1:1",
+  "id": "0384",
+  "name": "Michael Humphries",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/michael-humphries",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/michael-humphries.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "0804cf1295bde7804c89fab1da21a271c88a6388d22de617e97cd081282b008b",
+    "gpt_submission_prompt": "A square storybook landscape painting opens onto a small coastal cove under a vast blue sky. At the left foreground, a narrow stone lighthouse rises behind a cottage with steep red roofs, white walls, and a few small windows. Warm light glows in the lantern room at the top. The cottage stands on a grassy rise above dark rocks and low surf, with a strip of pale beach curving across the bottom right. In the center distance a tall sailing ship floats on turquoise water. Its brown wooden hull and dark masts are crisp enough to read, while the sails are mostly furled or absent. On the right, an ocher rock headland lifts a cluster of orange-roofed buildings and a few dark green pines above the water. Another tiny white sail appears farther back near the horizon. Towering cumulus clouds fill the left half of the sky in cream, pale peach, and cool gray, their edges broken into thick square-like brush marks. The upper sky is a deep cobalt blue with a small pale moon near the ship and scattered flecks that suggest distant birds. The light is warm from the left, catching roofs, cliffs, and cloud edges while casting blue-violet shadows into the rocks and buildings. Brushwork is textured and confident, with layered opaque strokes giving solid shapes to the cloud bank and cliff. The composition has the spacious charm of an illustrated adventure: stable landmasses frame the central ship, and the bright water invites the eye through the gap.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "e421e5bb28143e8881c63e4a6b19638ab1ed2aef53b89fffa7d8af1a9b7d0520",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

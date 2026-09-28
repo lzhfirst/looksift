@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "The image depicts a garden promenade seen from the middle of a paved walkway. Low stone borders run from the near corners toward a small cluster of buildings in the distance, while mature trees frame the route from both sides. The view retains the spatial depth of an outdoor photograph: trunks rise in the foreground, lawns and planted beds occupy the middle distance, and a bright blue sky spreads above the low roofline. Across that recognizable scene, many parts of the image appear shifted into thin horizontal strips and angular fragments. Some strips carry saturated turquoise sky into the foliage; others break the ground into peach, lime, and blue facets. These displaced pieces are especially dense over the central path and upper sky, yet the original direction of the walkway can still be followed. The foliage combines dark green photographic detail with abrupt bands of cooler cyan and warm orange. The light feels like clear daytime sunlight, with bright openings in the clouded sky and darker tree canopies providing a stable underlying contrast. There is no clean decorative border around the disruptions: the glitches pass through branches, architecture, ground, and atmosphere alike. Fine photographic texture is interrupted by hard pixel-edged cuts and translucent overlays. The whole frame reads as a real place momentarily broken into overlapping digital coordinates, its calm garden perspective held in tension with restless color displacement.",
+  "full_prompt_zh": "画面从铺砌步道中央望向一处花园。低矮石栏由近景两角向远处的小楼收拢，成熟树木从两侧围住通道。图像保留户外摄影的纵深：前景树干向上伸展，中景是草地与种植区，屋顶上方铺开明亮的蓝天。与此同时，许多局部被错移成细窄横条和棱角碎片。有的条带把饱和的青蓝天空挪入树冠，有的把地面切成桃色、浅绿和蓝色的斜面。碎片在中央步道与上方天空尤为密集，但步道原本的走向仍可辨认。树叶的深绿摄影细节与突兀的冷青、暖橙色带交错。光线像晴朗日照，云间亮处与较暗树冠维持底层明暗关系。故障并无整齐装饰边框，而是穿过枝条、建筑、地面和空气。细致的照片质感被硬边像素切口及半透明叠层打断。整体如真实地点瞬时裂成重叠的数字坐标：平静的花园透视与躁动的色彩位移并存。",
+  "style_prompt_en": "Use a legible photographic base with natural perspective and detailed tonal texture, then interrupt it with offset horizontal scans, angular digital shards, and partially transparent color overlays. Let saturated cyan, turquoise, peach, lime, and warm orange slice across darker organic detail. Preserve enough underlying structure to keep depth readable while displaced fragments cross multiple spatial planes. Combine crisp pixel-like seams with irregular collage edges; balance calm daylight and restless electronic color interference throughout the square frame.",
+  "style_prompt_zh": "以透视清楚、影调细致的摄影底图为基础，叠加错位的横向扫描条、棱角状数字碎片及半透明色层。让饱和青蓝、湖绿、桃色、浅绿和暖橙穿过较暗的有机细节。保留足够底层结构，使纵深可读，同时让位移碎片跨越多个空间层次。结合清脆的像素式接缝与不规则拼贴边缘，在方形画幅中平衡平静日光与躁动的电子色彩干扰。",
+  "theme_en": "Glitch-fragmented garden promenade",
+  "theme_zh": "故障碎片化的花园步道",
+  "wh_ratio": "1:1",
+  "id": "1195",
+  "name": "Johannes VanDerBeek",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/johannes-vanderbeek",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/johannes-vanderbeek.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "f00f1635b1d0c2538519af5db621a86c64c3e5d59c643976d8f36938ac6c2434",
+    "gpt_submission_prompt": "The image depicts a garden promenade seen from the middle of a paved walkway. Low stone borders run from the near corners toward a small cluster of buildings in the distance, while mature trees frame the route from both sides. The view retains the spatial depth of an outdoor photograph: trunks rise in the foreground, lawns and planted beds occupy the middle distance, and a bright blue sky spreads above the low roofline. Across that recognizable scene, many parts of the image appear shifted into thin horizontal strips and angular fragments. Some strips carry saturated turquoise sky into the foliage; others break the ground into peach, lime, and blue facets. These displaced pieces are especially dense over the central path and upper sky, yet the original direction of the walkway can still be followed. The foliage combines dark green photographic detail with abrupt bands of cooler cyan and warm orange. The light feels like clear daytime sunlight, with bright openings in the clouded sky and darker tree canopies providing a stable underlying contrast. There is no clean decorative border around the disruptions: the glitches pass through branches, architecture, ground, and atmosphere alike. Fine photographic texture is interrupted by hard pixel-edged cuts and translucent overlays. The whole frame reads as a real place momentarily broken into overlapping digital coordinates, its calm garden perspective held in tension with restless color displacement.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "11b6ee5780ae631122a79152343c74e64ca6b8511fdb63d44b9cad0583e86c41",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

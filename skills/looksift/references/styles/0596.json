@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square hand-colored caricature shows a middle-aged gentleman hurrying across a dusty street in front of a worn stone wall. The wall fills the pale background, covered with faded lines, scuffs and patches of exposed masonry. The main figure stands left of center, caught mid-stride with one knee lifted, his torso leaning forward and his mouth open in an animated expression. A tall dark green top hat tilts over his red face and gray side hair. He wears a deep teal coat over a mustard waistcoat, pale trousers and black shoes. One hand grips a small object near his chest, while the other trails behind with a pale green cloth or paper. Two other men in top hats follow close behind on the right, partly overlapping one another and drawn in quieter brown-gray colors. Their faces turn toward the lively leading figure. Several crumpled sheets and scraps lie near the lower-left ground, adding to the sense of motion through a rough public place. Fine black pen contours describe the hooked facial features, coat seams, shoes and broken wall, while thin watercolor washes add teal, ochre, rose and gray without hiding the sketch. The warm daylight is broad and even, with light shadows under hats and feet but no strong directional beam. The overall composition pushes the energetic foreground figure against still masonry and a compressed group behind him, producing brisk social satire through gesture and line.",
+  "full_prompt_zh": "这幅方形手工设色讽刺漫画里，一位中年绅士匆匆穿过旧石墙前的灰土地面。苍白背景由墙面填满，上面有褪色线条、擦痕和露出的砌石斑块。主角位于中心偏左，正跨步抬起一边膝盖，躯干前倾，嘴巴张开，神情十分生动。高高的深绿礼帽斜戴在发红的脸和灰色鬓发上。他穿深青绿色外套、芥黄色马甲、浅色裤子和黑鞋。一只手在胸前握着小物，另一只手拖在身后，拿着浅绿色布料或纸张。右侧两名同样戴高礼帽的男子紧跟在后，彼此部分重叠，用较安静的褐灰色画成。他们的脸转向活跃的领头人。几张皱纸与碎片躺在左下地面，为粗糙公共空间中的移动感添上一层线索。细黑钢笔轮廓描写弯钩般的面部特征、衣缝、鞋和破墙，薄水彩色层添上青绿、赭黄、玫瑰与灰色，却不盖住速写。暖日光宽泛均匀，帽下和脚下有浅影，却没有强定向光束。整体构图把充满活力的前景人物推到静止砌体和身后压紧的人群前，以动作与线条产生快捷的社会讽刺意味。",
+  "style_prompt_en": "The caricature combines incisive black pen outlines with light, uneven watercolor washes on aged cream paper. Features and postures are deliberately stretched, but small observed gestures and fabric folds keep the figures specific. Teal, olive, ochre and muted rose supply restrained color to a mostly gray-brown line drawing. Hatching and broken strokes roughen the ground and edges, while open paper prevents the detail from becoming heavy. Broad daylight keeps shadows mild; movement is expressed through slanted poses and clustered overlaps rather than dramatic lighting. The result is witty, brisk and visibly handmade, with drawing leading color.",
+  "style_prompt_zh": "这种讽刺漫画把敏锐黑钢笔轮廓与旧奶油纸上的浅薄、不均匀水彩色层结合。特征与姿势被有意拉长，但细小的观察动作和衣褶仍让形体具有具体性。青绿、橄榄、赭黄与压低玫瑰色，为主要由灰褐线条组成的图像增添克制颜色。排线和破碎笔痕磨粗地面与边缘，敞开的纸面又防止细节过重。宽泛日光让阴影温和；动势由倾斜姿势与聚集重叠而非戏剧性照明表达。成品机智、快捷且明显手绘，线描引领色彩。",
+  "theme_en": "A caricatured gentleman in a tall hat hurrying past a worn wall",
+  "theme_zh": "一位戴高礼帽的夸张绅士从旧墙前匆匆经过",
+  "wh_ratio": "1:1",
+  "id": "0596",
+  "name": "James Gillray",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/james-gillray",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/james-gillray.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "cca61c179fcc65c9a380032ad53241ded5647b0d511edccc2a44b27a9c1daf77",
+    "gpt_submission_prompt": "A square hand-colored caricature shows a middle-aged gentleman hurrying across a dusty street in front of a worn stone wall. The wall fills the pale background, covered with faded lines, scuffs and patches of exposed masonry. The main figure stands left of center, caught mid-stride with one knee lifted, his torso leaning forward and his mouth open in an animated expression. A tall dark green top hat tilts over his red face and gray side hair. He wears a deep teal coat over a mustard waistcoat, pale trousers and black shoes. One hand grips a small object near his chest, while the other trails behind with a pale green cloth or paper. Two other men in top hats follow close behind on the right, partly overlapping one another and drawn in quieter brown-gray colors. Their faces turn toward the lively leading figure. Several crumpled sheets and scraps lie near the lower-left ground, adding to the sense of motion through a rough public place. Fine black pen contours describe the hooked facial features, coat seams, shoes and broken wall, while thin watercolor washes add teal, ochre, rose and gray without hiding the sketch. The warm daylight is broad and even, with light shadows under hats and feet but no strong directional beam. The overall composition pushes the energetic foreground figure against still masonry and a compressed group behind him, producing brisk social satire through gesture and line.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "13d7582330c4eefe1aee5a3efdffc9af6ae86ad83858b65f42657931ebf15acd",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white photograph shows a quiet muddy lane beside the wall of a simple house. The house fills the right half, its dark roof slanting down from the upper center and two small windows visible in the pale wall. Dense fog erases the far background and merges the lane with a soft white sky. Near the left middle distance, two small walkers stand together; one appears beneath an umbrella. A dark dog is beside them, while another smaller blurred animal shape approaches from the lower left. Wet ground reflects a narrow pale light and carries uneven tracks toward the distant figures. The corners are strongly vignetted, with the left foreground and lower right falling into near black. Focus is deliberately soft: the house wall has modest texture, but the distant forms are reduced to silhouettes in the mist. Light is diffused through the fog from behind the walkers, creating a bright central opening without sharp shadows. Fine film grain and faint scratches add an aged quality. The composition is spare and slightly uncanny, balancing the large immobile wall against the tiny figures in open haze. Its grayscale range moves from silver white mist to charcoal shadow, with very little middle-distance detail. The scene feels cold and hushed, as if encountered unexpectedly on a solitary morning walk.",
+  "full_prompt_zh": "这幅方形黑白摄影呈现一条安静泥路，沿着简朴房屋墙面延伸。房子占右半幅，暗屋顶从上中斜下，浅色墙上可见两扇小窗。浓雾抹去远方背景，让小路与柔白天空相融。左侧中远景两个细小行人站在一起，其中一人似乎撑伞。身边有一只深色狗，另一个更小的模糊动物形从左下靠近。湿地反射一条浅光，起伏的车辙通向远处人物。四角有强烈暗角，左前和右下落入近黑。焦点有意柔软：房墙保留适度纹理，远形在雾中缩成剪影。光从人影后方经雾漫散，形成明亮中央开口，没有锐利投影。细胶片颗粒和淡刮痕添上旧质感。构图稀疏而略奇异，大块不动墙面平衡开放雾中的微小身影。灰阶从银白雾走向炭色阴影，中景细节很少。场景寒冷安静，像独行晨路上偶然遇见。",
+  "style_prompt_en": "The black-and-white photograph uses dense fog, strong corner vignetting and deliberately soft focus. Silver white opens near the center while charcoal masses close the edges. Diffuse backlight reduces distant detail to silhouettes, and wet grainy surfaces hold faint reflections without hard shadows. Small dark accents sit in a broad pale field beside one large tonal mass. Film grain and subtle scratches give the image an aged, hushed uncertainty.",
+  "style_prompt_zh": "这种黑白摄影使用浓雾、强四角暗化和刻意柔焦。银白在中央附近打开，炭色体量收拢边缘。漫射逆光把远处细节缩成剪影，潮湿颗粒表面保留微弱反光而无硬影。小暗点处在宽阔浅色域与一块大调子体量之间。胶片颗粒和细微刮痕赋予画面古旧、安静而不确定的气息。",
+  "theme_en": "Two distant walkers and dogs beside a foggy house",
+  "theme_zh": "浓雾房屋旁的远处行人与狗",
+  "wh_ratio": "1:1",
+  "id": "3853",
+  "name": "Ando Fuchs",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/ando-fuchs",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "7b89ec0c58f3cd07e53e1cf028959e9f87613f5233aebcaa742cae6dae22524c",
+    "gpt_submission_prompt": "A square black-and-white photograph shows a quiet muddy lane beside the wall of a simple house. The house fills the right half, its dark roof slanting down from the upper center and two small windows visible in the pale wall. Dense fog erases the far background and merges the lane with a soft white sky. Near the left middle distance, two small walkers stand together; one appears beneath an umbrella. A dark dog is beside them, while another smaller blurred animal shape approaches from the lower left. Wet ground reflects a narrow pale light and carries uneven tracks toward the distant figures. The corners are strongly vignetted, with the left foreground and lower right falling into near black. Focus is deliberately soft: the house wall has modest texture, but the distant forms are reduced to silhouettes in the mist. Light is diffused through the fog from behind the walkers, creating a bright central opening without sharp shadows. Fine film grain and faint scratches add an aged quality. The composition is spare and slightly uncanny, balancing the large immobile wall against the tiny figures in open haze. Its grayscale range moves from silver white mist to charcoal shadow, with very little middle-distance detail. The scene feels cold and hushed, as if encountered unexpectedly on a solitary morning walk.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "af169e2e317c78852f9b110dd0da84308a2e7df6835b2e4dcddab53ad9fc3418",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

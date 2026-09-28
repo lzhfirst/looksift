@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square near-monochrome photographic scene looks into a fog-filled woodland at night. Heavy black branches occupy the upper right and spread inward like a roof. On the left, a tall conifer stands as a charcoal silhouette, with softer rows of trees behind it dissolving into gray mist. The foreground is almost entirely black: an uneven ground line, low grasses, and brush form a dark band along the bottom. Near the middle-right, a streetlamp shines through the fog as a bright white core surrounded by a wide pale halo. A smaller, dimmer lamp recedes farther back on the right, giving the empty route a sparse sense of depth. Above the nearest glow, a tiny narrow humanlike silhouette appears suspended in the gray air; its distance and haze leave details unresolved. A small pair of pale rectangular lights shows low at the far left edge beneath the trees. Faint horizontal wires or poles cross the fog near the lamps, barely separating from the haze. The image contains no readable text and very little color, only gradations of black, gray, and misty white. Light is local and diffused by moisture, so it reveals air more than objects and creates no crisp cast shadows. The dark foliage closes around the bright middle opening, making the small vertical form and lamp feel remote. Dense shadow, fading silhouettes, and isolated halos give the scene an eerie, uncertain stillness.",
+  "full_prompt_zh": "一幅方形近单色摄影场景望向夜里充满浓雾的林地。沉重黑枝占据右上，像屋檐般向内伸展。左侧一棵高大针叶树成为炭灰剪影，后方更柔的树林行列消入灰雾。前景几乎全黑：起伏地面、低草和灌木沿底部形成暗带。中央偏右，一盏路灯穿过雾气发亮，白色核心周围扩散宽阔浅色光晕。更小、更暗的另一盏灯退在右后方，让空寂通路有稀疏纵深。最近光晕上方，一道狭窄微小、近似人形的剪影似乎悬在灰色空气里；距离和雾气使细节无法分辨。最左下方树下还露出一对浅色矩形灯光。淡淡横向电线或杆线穿过灯旁的雾，几乎与灰气融为一体。图中没有可读文字，也几乎没有色彩，只有黑、灰与雾白的层次。光局限在灯附近，受湿气漫散，因此更多显露空气而非物件，不产生清楚硬影。暗色枝叶围住中部明亮开口，让小小竖形与灯显得遥远。浓影、渐隐剪影和孤立光晕使场景阴森、含混而静止。",
+  "style_prompt_en": "Near-monochrome atmospheric photography gives fog a wide middle-gray field between nearly black foreground framing and tiny white light cores. Silhouettes recede by losing contrast and detail rather than by crisp perspective lines. Dense dark branches or irregular masses close around open luminous mist, making negative space feel charged. Artificial lights bloom into soft halos and reveal suspended moisture, while cast shadows remain indistinct. The composition places small vertical marks in a much larger empty field, supported by only a few faint horizontal traces. Restrained texture, deep value separation, and uncertain distant forms create quiet unease.",
+  "style_prompt_zh": "近单色空气感摄影让雾成为宽阔中灰区域，夹在近黑前景框形与细小白色光核之间。剪影通过失去反差和细节退远，而不是依靠清晰透视线。密集暗枝或不规则体块围拢发亮的开阔雾气，使负空间带上压力。人工灯光胀成柔晕，显露悬浮水汽，落影则不清楚。构图把小小竖向记号置于大得多的空场，仅有少数淡横线支撑。克制纹理、深明度分离和难以确定的远形体共同造成安静不安。",
+  "theme_en": "A small suspended silhouette above a lamp in a foggy dark woodland",
+  "theme_zh": "浓雾暗林里，路灯上方悬着小小剪影",
+  "wh_ratio": "1:1",
+  "id": "0175",
+  "name": "Eerie atmosphere",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/eerie-atmosphere",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/eerie-atmosphere.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "af7a428e07cc067087f532f6a8bc91edbcbecc0eb088ab4c55ebe6e34fa88c27",
+    "gpt_submission_prompt": "A square near-monochrome photographic scene looks into a fog-filled woodland at night. Heavy black branches occupy the upper right and spread inward like a roof. On the left, a tall conifer stands as a charcoal silhouette, with softer rows of trees behind it dissolving into gray mist. The foreground is almost entirely black: an uneven ground line, low grasses, and brush form a dark band along the bottom. Near the middle-right, a streetlamp shines through the fog as a bright white core surrounded by a wide pale halo. A smaller, dimmer lamp recedes farther back on the right, giving the empty route a sparse sense of depth. Above the nearest glow, a tiny narrow humanlike silhouette appears suspended in the gray air; its distance and haze leave details unresolved. A small pair of pale rectangular lights shows low at the far left edge beneath the trees. Faint horizontal wires or poles cross the fog near the lamps, barely separating from the haze. The image contains no readable text and very little color, only gradations of black, gray, and misty white. Light is local and diffused by moisture, so it reveals air more than objects and creates no crisp cast shadows. The dark foliage closes around the bright middle opening, making the small vertical form and lamp feel remote. Dense shadow, fading silhouettes, and isolated halos give the scene an eerie, uncertain stillness.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "33dbf37bbe1ebaafd11231ff3122bd925374465b9756bf10020c31317c598f0b",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "An exuberant impasto oil painting fills the square canvas with an overlapping garden of oversized flowers. At the center, a broad pink blossom opens toward the viewer, its five irregular petals shaped by thick directional strokes and a small dark green center held slightly below the middle. A bright yellow patch rises immediately behind it, while saturated cobalt blue blossoms occupy the upper left and lower left corners. Around the central flower, smaller orange, red, and pink blooms push into the picture from every edge, with green stems and foliage threaded through the narrow spaces between them. The background is a deep, almost black mix of blue and violet, visible only in broken pockets, so each bright color appears to jump forward. Paint remains visibly raised, scraped, and dragged; some marks are broad and creamy, while others are short sharp accents that suggest leaves, stamens, or shadows without tightening into botanical detail. The composition gives no open horizon or empty breathing room, yet the large pink form provides a calm visual center amid the crowded rhythm. Light is conveyed through the clash of luminous pigment rather than a depicted sun, with cool blues and warm oranges intensifying each other. The whole image feels immediate, tactile, and joyfully unruly, like a close view of color in full bloom.",
+  "full_prompt_zh": "一幅奔放的厚涂油画将方形画布铺满相互叠压的硕大花朵。中央，一朵宽阔的粉色花朝观者盛开，五片不规则花瓣由厚重而有方向性的笔触塑形，略低于中心处留着一个深绿色的小花心。其后紧贴着一块明亮的黄色，上左与下左角则由饱和的钴蓝色花朵占据。围绕中央花朵，较小的橙色、红色与粉色花从各边缘挤入画面，绿色茎叶穿行于它们之间的狭小空隙。背景是近乎黑色的深蓝与紫色混合，只从破碎的间隙中露出，因此每一处亮色都像向前跃出。颜料保持可见的凸起、刮擦与拖曳痕迹；有些笔触宽阔而浓厚，另一些是短促锐利的点缀，暗示叶片、花蕊或阴影，却不收紧成精确的植物细节。构图没有敞开的地平线或大片留白，但巨大的粉色形态为拥挤的节奏提供了平静的视觉中心。光感来自发亮颜料之间的碰撞，而非画中的太阳；冷蓝与暖橙相互强化。整幅画直接、可触且欢快不羁，仿佛近距离看见色彩正盛放。",
+  "style_prompt_en": "A densely packed impasto oil painting driven by oversized, overlapping color shapes and highly visible brushwork. Build forms with thick, dragged, sometimes scraped pigment; let broad creamy marks meet short incisive accents. Place vivid pink, cobalt blue, orange, yellow, and green against pockets of near black blue violet so color creates its own light. Keep edges irregular and energetic, allowing neighboring shapes to press into one another without losing a clear central anchor. Suggest fine details only through a few contrasting dabs; preserve the direct physical presence of paint over precise delineation. Fill the square frame nearly to every edge, with little open background and a buoyant, unruly rhythm. The result should feel tactile, immediate, and exuberantly chromatic.",
+  "style_prompt_zh": "以硕大而相互叠压的色块与清晰可见的笔触构成密集的厚涂油画。用厚实、拖曳、偶有刮擦的颜料塑造形体，让宽阔浓厚的涂抹与短促锐利的点笔相接。将鲜明的粉、钴蓝、橙、黄与绿置于近乎黑色的蓝紫间隙之前，使色彩自身产生光感。边缘保持不规则而充满活力，邻近形状彼此挤压，同时留出明确的视觉中心。细节只靠少量对比色点暗示；优先保留颜料直接的物质存在，而非精密勾勒。方形画面几乎填至每个边缘，背景留白极少，节奏轻快而不羁。整体应可触、直接，洋溢强烈的色彩活力。",
+  "theme_en": "Electric flower garden",
+  "theme_zh": "电光般的花园",
+  "wh_ratio": "1:1",
+  "id": "1606",
+  "name": "Walasse Ting",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/walasse-ting",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/walasse-ting.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "3e5ab11f8f6b0ca2243ba6ab6189a91006f3c3c3d4975333ef6ac98dd462871e",
+    "gpt_submission_prompt": "An exuberant impasto oil painting fills the square canvas with an overlapping garden of oversized flowers. At the center, a broad pink blossom opens toward the viewer, its five irregular petals shaped by thick directional strokes and a small dark green center held slightly below the middle. A bright yellow patch rises immediately behind it, while saturated cobalt blue blossoms occupy the upper left and lower left corners. Around the central flower, smaller orange, red, and pink blooms push into the picture from every edge, with green stems and foliage threaded through the narrow spaces between them. The background is a deep, almost black mix of blue and violet, visible only in broken pockets, so each bright color appears to jump forward. Paint remains visibly raised, scraped, and dragged; some marks are broad and creamy, while others are short sharp accents that suggest leaves, stamens, or shadows without tightening into botanical detail. The composition gives no open horizon or empty breathing room, yet the large pink form provides a calm visual center amid the crowded rhythm. Light is conveyed through the clash of luminous pigment rather than a depicted sun, with cool blues and warm oranges intensifying each other. The whole image feels immediate, tactile, and joyfully unruly, like a close view of color in full bloom.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "f42cb49c1ac86ec036c55d3d472195552dd51ac3336bc19a9df50b363c5bfa39",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

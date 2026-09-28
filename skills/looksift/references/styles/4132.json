@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square mixed-media portrait presents a young Black man from the chest upward against a muted pale blue-gray ground. He faces straight forward with a steady gaze, close-cropped hair, and a cream scarf wrapped at the neck beneath a brown-gold coat. Much of the right side of his face is realistically modeled in warm browns and cool shadow, but the left brow, cheek, and forehead are interrupted by torn-looking fragments of another image. Within those pale fragments are small figures and architectural passages in gray-brown, as though a historical scene has been inserted into the portrait surface. Jagged edges cross the eye line and descend along the cheek, revealing dark gaps and layered paint beneath. The portrait remains coherent through the shared frontal alignment of its intact and disrupted sections. Fine brushwork defines the lips, nose, and eyes, while rougher scraped texture appears at the collage seams. The scarf folds create a bright knot below the face; the coat provides a broad warm base at the lower edge. Soft light falls from upper left, catching the brow, nose, lips, scarf, and some raised collage edges, while the neck and torn recesses sink into shadow. The background is flat and unobtrusive, concentrating attention on the altered surface. No text is visible. The overall composition feels solemn and confrontational, balancing precise likeness with visible rupture, memory-like fragments, and controlled warm-cool contrast.",
+  "full_prompt_zh": "一幅方形混合媒材肖像在低调浅蓝灰底面前呈现一位胸上半身的年轻黑人男子。他正面凝视，头发剃得很短，颈部裹着奶油色围巾，外穿棕金色外套。脸的右侧大部以暖棕与冷影写实塑形，但左眉、面颊和额头被仿佛撕开的另一幅图像碎片打断。浅色碎片中可见灰棕色小人物与建筑片段，如同一段历史场景嵌入肖像表面。锯齿边缘横过眼线并沿脸颊向下，露出深色间隙和底下叠层颜料。完整部分与中断部分保持同一正面轴线，使肖像仍然连贯。细致笔触勾出嘴唇、鼻子和眼睛，较粗糙的刮擦肌理出现在拼贴接缝处。围巾褶皱在脸下形成明亮结点，外套在底边提供宽厚暖色基座。柔光从左上方照到眉、鼻、嘴唇、围巾和部分凸起拼贴边缘，颈部与撕裂凹处则沉入阴影。背景平坦而不抢眼，让注意力集中在被改动的表面。没有文字。整体构图肃穆而有直面感，以精确肖似平衡可见裂变、记忆般的碎片和受控冷暖反差。",
+  "style_prompt_en": "Mixed-media painting merges precise soft modeling with torn-looking inserts, scraped seams, and exposed underlying layers. Smooth focal passages are crossed by jagged pale fragments and small embedded tonal scenes, so a coherent form and visual rupture coexist. Warm umber, muted gold, cream, charcoal, and cool blue-gray remain restrained. Gentle light from one upper side catches raised edges and selected planes, while narrow gaps deepen abruptly into shadow. A stable central axis holds the disruptions together against a quiet field. The surface feels thoughtful, material, and deliberately unresolved.",
+  "style_prompt_zh": "混合媒材绘画把精确柔和的塑形与仿撕裂嵌片、刮擦接缝和外露底层结合。光滑焦点部分被锯齿浅色碎片和细小嵌入的灰调图像横切，使连贯形体与视觉裂变共存。暖熟褐、暗金、奶油色、炭色与冷蓝灰保持克制。来自上方一侧的柔光照到凸边和部分平面，狭窄间隙骤然沉入阴影。稳定中央轴线在安静底面前把这些断裂维系在一起。表面有思想重量、材料感，并有意保留未决状态。",
+  "theme_en": "A frontal young man with his painted face interrupted by torn historical fragments",
+  "theme_zh": "绘画面孔被撕裂的历史图像碎片打断的正面青年",
+  "wh_ratio": "1:1",
+  "id": "4132",
+  "name": "Titus Kaphar",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/titus-kaphar.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "49bcb2b679d174f1a37915919fee6f85f6b9b779916ed43a08153f16def5c21e",
+    "gpt_submission_prompt": "A square mixed-media portrait presents a young Black man from the chest upward against a muted pale blue-gray ground. He faces straight forward with a steady gaze, close-cropped hair, and a cream scarf wrapped at the neck beneath a brown-gold coat. Much of the right side of his face is realistically modeled in warm browns and cool shadow, but the left brow, cheek, and forehead are interrupted by torn-looking fragments of another image. Within those pale fragments are small figures and architectural passages in gray-brown, as though a historical scene has been inserted into the portrait surface. Jagged edges cross the eye line and descend along the cheek, revealing dark gaps and layered paint beneath. The portrait remains coherent through the shared frontal alignment of its intact and disrupted sections. Fine brushwork defines the lips, nose, and eyes, while rougher scraped texture appears at the collage seams. The scarf folds create a bright knot below the face; the coat provides a broad warm base at the lower edge. Soft light falls from upper left, catching the brow, nose, lips, scarf, and some raised collage edges, while the neck and torn recesses sink into shadow. The background is flat and unobtrusive, concentrating attention on the altered surface. No text is visible. The overall composition feels solemn and confrontational, balancing precise likeness with visible rupture, memory-like fragments, and controlled warm-cool contrast.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "1bfce46352414ca90ec1e4ee3ae77238a50734e9cd8a0ce3605aeb5e1f20ded2",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

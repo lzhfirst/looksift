@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square muted realist painting shows a young girl standing still in front of a dense field of tall wheat under a gray-green sky. She faces the viewer from the center of the frame, head slightly lowered and expression serious. Her dark brown hair is parted in the middle and braided into two long plaits that fall over the chest, each tied near the end with a pale ribbon. The faded sage-green dress has short gathered sleeves, a modest collar, and a narrow waist tie, with soft folds descending beyond the lower crop. Her hands are clasped low in front of her body, holding a few thin stems near the left side. Behind her, packed stalks rise to shoulder height and continue to the horizon in a sea of gray-gold heads. A narrow dark gap or path opens immediately behind her lower body, but the rest of the field remains thick and enclosing. The sky occupies a shallow upper strip and is flat, overcast, and low in contrast. Soft frontal light reveals the pale face and dress folds without forming a clear hard shadow; the wheat recedes into a quieter olive haze. Brushwork is fine and slightly grainy, especially in the repeated vertical stalks and worn cloth, while the face is smoother and more carefully modeled. The color range is narrow, moving among sage, olive, straw beige, brown, and muted cream. No other person, building, or readable text appears in the chosen scene. The overall composition is centered and restrained, with the still human figure held against the field's dense vertical rhythm and subdued weather.",
+  "full_prompt_zh": "一幅方形低饱和写实绘画描绘一位年轻女孩静静站在灰绿天空下密集高麦田前。她位于中央面向观者，头略低，表情严肃。深棕头发中分，编成两条长辫垂在胸前，辫尾各用浅色丝带系住。褪色鼠尾草绿连衣裙有短皱袖、朴素领口和窄腰带，柔褶向下延到裁切外。双手在身前低处相握，左侧附近握着几根细茎。身后密集麦秆升至肩高，灰金麦穗像海一样延续到地平线。一道窄暗缝或小路在她下半身正后方打开，其余麦田仍浓密包围。天空只占上方浅浅一带，阴天平坦且低反差。柔和正面光显出浅脸和裙褶，没有清楚硬影；麦田退入更安静的橄榄色薄雾。笔触细而略带颗粒，尤其在重复竖麦秆与磨旧布料处，脸则更平滑、塑形更仔细。色域很窄，在鼠尾草、橄榄、麦秆米色、棕和低饱和奶油色间移动。所选场景没有其他人、建筑或可读文字。整体构图居中而克制，静止人物被麦田密集竖向节奏和阴郁天气托住。",
+  "style_prompt_en": "The painting has muted realist handling with a smooth central focal form set against countless fine vertical marks. Sage green, olive, straw beige, and gray cream remain close in value, making the mood quiet and slightly uneasy. Repeated thin strokes build dense texture behind the focal plane, while soft edges and atmospheric haze flatten the far distance. Clothlike matte surfaces and gently modeled skin contrast with grainier surrounding marks. Overcast frontal light creates little cast shadow, allowing the still central silhouette and dark gaps to carry the composition. The overall effect is restrained, intimate, and melancholic.",
+  "style_prompt_zh": "绘画具有低饱和写实处理，平滑中央焦点形体置于无数细竖痕前。鼠尾草绿、橄榄、麦秆米色与灰奶油色明度接近，使气氛安静而略不安。重复细笔触在焦点平面后搭出密集肌理，柔边与空气雾压平远距离。织物般哑光表面和温和塑形的皮肤对照更粗颗粒的周围笔痕。阴天正面光几乎没有投影，让静止中央剪影与暗缝承担构图。整体效果克制、亲密且忧郁。",
+  "theme_en": "A solemn girl in a faded green dress standing in a tall wheat field",
+  "theme_zh": "神情严肃的女孩穿褪色绿裙，站在高麦田里",
+  "wh_ratio": "1:1",
+  "id": "3831",
+  "name": "Aron Wiesenfeld",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/aron-wiesenfeld",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "4f90ee88d15a9336ff81e02a88855e7435a42a35568a57d226e063c4a424049c",
+    "gpt_submission_prompt": "A square muted realist painting shows a young girl standing still in front of a dense field of tall wheat under a gray-green sky. She faces the viewer from the center of the frame, head slightly lowered and expression serious. Her dark brown hair is parted in the middle and braided into two long plaits that fall over the chest, each tied near the end with a pale ribbon. The faded sage-green dress has short gathered sleeves, a modest collar, and a narrow waist tie, with soft folds descending beyond the lower crop. Her hands are clasped low in front of her body, holding a few thin stems near the left side. Behind her, packed stalks rise to shoulder height and continue to the horizon in a sea of gray-gold heads. A narrow dark gap or path opens immediately behind her lower body, but the rest of the field remains thick and enclosing. The sky occupies a shallow upper strip and is flat, overcast, and low in contrast. Soft frontal light reveals the pale face and dress folds without forming a clear hard shadow; the wheat recedes into a quieter olive haze. Brushwork is fine and slightly grainy, especially in the repeated vertical stalks and worn cloth, while the face is smoother and more carefully modeled. The color range is narrow, moving among sage, olive, straw beige, brown, and muted cream. No other person, building, or readable text appears in the chosen scene. The overall composition is centered and restrained, with the still human figure held against the field's dense vertical rhythm and subdued weather.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "ef9fa3e4fd8a91e1727848558d631189beae006b69721c6308d5eaeb18b7e5eb",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

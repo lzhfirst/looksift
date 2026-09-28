@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A cinematic photograph places a lone woman on a simple bench in a wide, barren landscape. She wears a pale long dress and sits upright with her hands folded, small against a huge dark green-grey sky. A low overpass runs horizontally behind her and fades toward the left, while rough earth and sparse scrub fill the lower foreground. Nothing else appears nearby. The large empty upper field and the modest scale of the seated figure make the place feel suspended, as though an event is expected but has not yet arrived.\n\nThe color is desaturated and carefully restrained: moss green, charcoal, muddy brown, and muted cream. Soft, directional light touches the dress and face, separating the figure from the dark field without producing a bright theatrical spotlight. The photograph has broad tonal gradations in the sky and a finer grain in the gravel and vegetation. The bench and bridge create thin horizontal lines that emphasize isolation within the square frame. Focus stays clear on the figure and near ground, while the far structure becomes slightly hazy. The composition is spare but charged, using proportion and quiet negative space to make an ordinary waiting posture feel uncanny. There is no readable text or signage in the selected image.",
+  "full_prompt_zh": "一张电影感照片把一名独自坐着的女子放在宽阔荒地里的简易长凳上。她穿一条浅色长裙，坐姿端正，双手交叠，在巨大的深绿灰色天空下显得很小。一座低矮高架桥在身后水平延伸，并向左方渐渐淡去；下方前景是粗糙地面与稀疏灌木。附近没有其他人事物。上方大片空旷和坐姿人物的谦小尺度，使地点像被悬置，仿佛有件事即将发生，却仍未到来。\n\n色彩去饱和且严谨收敛：苔绿、炭灰、泥褐与暗乳白。柔和而有方向的光触及衣裙和面部，将人物从深色场中分开，却不形成明亮戏剧性的聚光灯。天空有宽阔的明暗渐变，碎石和植被则有更细的颗粒。长凳与桥形成纤细水平线，强调方形画幅中的孤立感。焦点在人物与近地保持清晰，远处结构稍带雾感。构图稀疏却有张力，以比例和安静留白让寻常等待姿态变得奇异。所选图像没有可辨认文字或标识。",
+  "style_prompt_en": "A small pale form sits low within an expansive dark green-grey field. Desaturated moss, charcoal, muddy brown, and muted cream create a restrained cinematic palette. Soft directional light separates the central shape without turning it into a harsh spotlight. Thin horizontal structures cross the middle distance and reinforce the weight of the immense empty upper space. Broad tonal gradations make the atmosphere smooth, while gravelly near textures retain fine grain. Focus is firm near the quiet center and softens gently toward far structural lines. The composition is spare, balanced, and subtly uncanny, relying on scale, subdued color, and patient negative space rather than overt action.",
+  "style_prompt_zh": "一块小小浅色形落在辽阔的深绿灰色场域下部。去饱和的苔绿、炭灰、泥褐和暗乳白组成克制的电影色谱。柔和的方向光把中央形状分开，却不把它变成生硬聚光灯。纤细水平结构横过中远处，强化巨大空白上方区域的重量。宽阔明暗过渡让气氛平滑，近处砂砾状纹理则保留细颗粒。焦点在安静的中心附近稳固，向远处结构线轻轻软化。构图稀疏、平衡而微微奇异，依赖尺度、含蓄色彩与耐心留白，而非外露动作。",
+  "theme_en": "A lone woman waiting beside an empty overpass",
+  "theme_zh": "空旷高架桥旁独自等待的女子",
+  "wh_ratio": "1:1",
+  "id": "3180",
+  "name": "Nadav Kander",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/nadav-kander",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "7ff4b0d6d1f79054f1005bdb005116966b1f52a1f31d91f027cf74f9ddf79729",
+    "gpt_submission_prompt": "A cinematic photograph places a lone woman on a simple bench in a wide, barren landscape. She wears a pale long dress and sits upright with her hands folded, small against a huge dark green-grey sky. A low overpass runs horizontally behind her and fades toward the left, while rough earth and sparse scrub fill the lower foreground. Nothing else appears nearby. The large empty upper field and the modest scale of the seated figure make the place feel suspended, as though an event is expected but has not yet arrived.\n\nThe color is desaturated and carefully restrained: moss green, charcoal, muddy brown, and muted cream. Soft, directional light touches the dress and face, separating the figure from the dark field without producing a bright theatrical spotlight. The photograph has broad tonal gradations in the sky and a finer grain in the gravel and vegetation. The bench and bridge create thin horizontal lines that emphasize isolation within the square frame. Focus stays clear on the figure and near ground, while the far structure becomes slightly hazy. The composition is spare but charged, using proportion and quiet negative space to make an ordinary waiting posture feel uncanny. There is no readable text or signage in the selected image.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "686d274b0729b25990ef96962a34e663b5288a6b870e480b4192e8acbcd3bde7",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

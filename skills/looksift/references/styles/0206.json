@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square macro-style fantasy image peers through a close dark arch into a small winding landscape that looks built from densely textured fibers. Massive near forms fill the top and both sides of the frame: dark brown ridges at the right, blue and orange mounds at the left, and uneven cream strands around the opening. A narrow pale path runs from the lower center into the distance, its surface made of layered rope-like lines that curve between the larger masses. Near the middle, a tiny upright human figure stands on the path, barely more than a dark vertical mark. Behind the figure, a thick trunk rises into a rounded burgundy-purple crown with a fuzzy, clustered surface. More blue, green, and orange mound-like forms fill the spaces around it, becoming softer and less distinct toward the far opening. The close foreground texture is strikingly tactile: loops, ridges, and dense tufts catch small warm highlights while recessed gaps remain deep brown or charcoal. The image seems like a crafted miniature or a digital rendering imitating yarn, felt, and rough woven material; the exact physical medium is not visible. Light enters from the distant opening and grazes the textured edges, giving the path a warm guiding line through the darker frame. Shallow depth of field softens the far shapes and some near edges while preserving the central route. Extreme scale contrast makes the tiny traveler feel enclosed within a richly colored, touchable world.",
+  "full_prompt_zh": "一幅方形微距感幻想图像透过近处暗色拱形，望向一个仿佛由密集纤维建成的弯曲小世界。巨大的近处形体填满顶部与两侧：右侧深褐棱脊、左侧蓝橙色小丘，以及开口周围起伏的奶油色丝束。狭窄浅色小路从下方中央伸向远处，表面由层层绳状线条组成，在大体块之间弯行。接近中部，一个极小直立人影站在路上，几乎只是一道暗色竖痕。人物后方，一根厚树干托起圆润酒红紫树冠，表面毛茸茸、簇集成团。更多蓝、绿和橙色丘状形体填满周围空隙，向远端开口逐渐变柔、失去明确性。近前景纹理尤其可触：环线、棱脊和密集绒簇承接细小暖亮部，凹处仍深褐或炭黑。图像像一件手作微型景观，或模仿纱线、毡与粗织材料的数字渲染；看不出确切实体媒介。光从远端开口进入，擦过纹理边缘，让小路成为暗框中的一条暖色导线。浅景深柔化远处形体和部分近边，同时保留中央路线。极端尺度反差让细小旅人仿佛被浓艳、可触的世界围住。",
+  "style_prompt_en": "Macro-scale crafted imagery emphasizes dense loops, tufts, ridges, and layered fiber-like lines across almost every surface. Cool blue and green mounds interlock with orange, rust, cream, and burgundy areas, while deep brown recesses separate their tactile edges. A close dark frame opens toward a brighter central route, creating a tunnel-like depth and extreme difference between foreground scale and tiny distant marks. Grazing light catches raised strands and leaves gaps dark, making texture the main source of volume. Shallow focus softens selected near and far planes while keeping the middle route legible. The resulting space feels miniature, saturated, and physically touchable.",
+  "style_prompt_zh": "微距尺度的手作感图像让密集环线、绒簇、棱脊和层叠纤维状线条布满几乎每一处表面。冷蓝与绿色团块同橙、锈、奶油和酒红区域互相嵌合，深褐凹处隔开可触边缘。近处暗框朝更亮的中央通路打开，形成隧道般纵深，并让前景尺度与微小远处记号相差极大。掠过表面的光照亮凸起丝束，缝隙保持深暗，使纹理成为体积主要来源。浅焦点柔化部分近远平面，中部路线仍然可读。形成的空间显得微型、饱和且真实可触。",
+  "theme_en": "A tiny traveler on a winding path through a fiber-textured fantasy grove",
+  "theme_zh": "细小旅人沿弯路穿过纤维质感的幻想树林",
+  "wh_ratio": "1:1",
+  "id": "0206",
+  "name": "Macro view",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/macro-view",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/macro-view.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "5ca01d596ae8155f5378526d285c8176209645430e3639f1cb15349a66aefd8a",
+    "gpt_submission_prompt": "A square macro-style fantasy image peers through a close dark arch into a small winding landscape that looks built from densely textured fibers. Massive near forms fill the top and both sides of the frame: dark brown ridges at the right, blue and orange mounds at the left, and uneven cream strands around the opening. A narrow pale path runs from the lower center into the distance, its surface made of layered rope-like lines that curve between the larger masses. Near the middle, a tiny upright human figure stands on the path, barely more than a dark vertical mark. Behind the figure, a thick trunk rises into a rounded burgundy-purple crown with a fuzzy, clustered surface. More blue, green, and orange mound-like forms fill the spaces around it, becoming softer and less distinct toward the far opening. The close foreground texture is strikingly tactile: loops, ridges, and dense tufts catch small warm highlights while recessed gaps remain deep brown or charcoal. The image seems like a crafted miniature or a digital rendering imitating yarn, felt, and rough woven material; the exact physical medium is not visible. Light enters from the distant opening and grazes the textured edges, giving the path a warm guiding line through the darker frame. Shallow depth of field softens the far shapes and some near edges while preserving the central route. Extreme scale contrast makes the tiny traveler feel enclosed within a richly colored, touchable world.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "972056ea86d844ce53ecd5d7468a876bda8621e67c784ec95a4f8673e5360c2b",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

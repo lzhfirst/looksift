@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square staged documentary-style photograph shows a small group standing in tall dry grass beneath a stormy dusk sky. In the left foreground, the largest figure wears a pale loose robe, heavy beaded necklaces, and a dark animal-like mask with round eye openings and pointed ears. Their hands are clasped low in front, making a still formal pose. Behind and to the right, several men in dark or earth-colored coats stand at different distances, faces turned toward the camera. A pale shaggy dog stands near the lower center, its light fur catching more sky glow than the surrounding clothing. The horizon sits low behind the group, opening into a broad dark blue-gray sky with a narrow pink-orange band near the setting sun. Heavy layered clouds stretch across the upper frame, darkening toward the right. Dry grass stems rise around knees and lower bodies, partly hiding the ground and making the people feel physically placed in the field. The mask's carved surface and necklaces have crisp detail, while the farther figures soften slightly with distance. Light is dim and diffuse from the last glow of the horizon, leaving faces and coats in cool shadow but giving the mask, robe, and dog subtle pale highlights. The group is arranged as a shallow diagonal from large left foreground to smaller right background, and no building or readable sign breaks the landscape. The overall composition is solemn and cinematic, using human scale, theatrical masking, and an ominous sky in a restrained earth-and-slate palette.",
+  "full_prompt_zh": "一幅方形、带布置感的纪实式摄影描绘一小群人站在高干草里，头顶是风暴般暮色天空。左前景最大的人物穿浅色宽袍、佩戴厚重珠串，脸上是一张带圆眼孔和尖耳的深色动物般面具。双手在身前低处相握，姿态静止而正式。其后偏右，几位男子穿深色或大地色外套，以不同距离站着，面孔朝向镜头。一只浅色长毛狗站在下方中央附近，浅毛比周围衣服接住更多天空余光。人群后地平线很低，敞开成宽阔深蓝灰天空，落日附近有一条窄粉橙色带。厚重层云横贯上方，向右更暗。干草茎升到膝部和下半身周围，部分遮住地面，让人们确实站在田野里。面具雕刻面与项链有清楚细节，更远人物随距离略柔。光来自地平线最后的余晖，昏暗而漫射，使脸和外套落入冷影，却给面具、长袍和狗留微弱浅亮部。队列从左前景的大人物到右后景的小人物形成浅斜线，没有建筑或可读标牌打断风景。整体构图庄重而电影化，以克制大地与石板色域呈现人体尺度、戏剧面具和不祥天空。",
+  "style_prompt_en": "The photograph combines documentary surface detail with staged cinematic group composition. Slate-blue storm cloud and low warm dusk form a broad backdrop for subdued earth-colored masses and a few pale focal accents. A shallow diagonal of upright forms gives depth without a crowded environment, while tall dry texture rises through the lower frame. Diffuse fading light keeps faces and garments in gentle shadow and puts limited highlights on light materials. Near details remain crisp; farther shapes soften into the horizon. The overall effect is solemn, theatrical, and grounded in weather and place.",
+  "style_prompt_zh": "照片把纪实表面细节与布置过的电影式群像构图结合。石板蓝风暴云和低位暖暮色构成宽阔背景，承托低调大地色体量与少数浅色焦点。竖向形体排列成浅斜线，在环境不拥挤的情况下形成纵深，下方高而干的纹理穿过画幅。渐暗漫射光使脸与衣服留在温和阴影，只在浅色材料上落有限亮部。近处细节清楚，远形向地平线柔化。整体效果庄重、戏剧化，并扎根于天气和场所。",
+  "theme_en": "A masked figure and companions standing with a pale dog on a dusk grassland",
+  "theme_zh": "暮色草原上，戴面具的人与同伴及浅色狗站在一起",
+  "wh_ratio": "1:1",
+  "id": "1310",
+  "name": "Brent Stirton",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/brent-stirton",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/brent-stirton.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "f92b61cc7c79c5c7fac21dd38783b4f6a69241d5c6d2a929732b8b29a9bc1f52",
+    "gpt_submission_prompt": "A square staged documentary-style photograph shows a small group standing in tall dry grass beneath a stormy dusk sky. In the left foreground, the largest figure wears a pale loose robe, heavy beaded necklaces, and a dark animal-like mask with round eye openings and pointed ears. Their hands are clasped low in front, making a still formal pose. Behind and to the right, several men in dark or earth-colored coats stand at different distances, faces turned toward the camera. A pale shaggy dog stands near the lower center, its light fur catching more sky glow than the surrounding clothing. The horizon sits low behind the group, opening into a broad dark blue-gray sky with a narrow pink-orange band near the setting sun. Heavy layered clouds stretch across the upper frame, darkening toward the right. Dry grass stems rise around knees and lower bodies, partly hiding the ground and making the people feel physically placed in the field. The mask's carved surface and necklaces have crisp detail, while the farther figures soften slightly with distance. Light is dim and diffuse from the last glow of the horizon, leaving faces and coats in cool shadow but giving the mask, robe, and dog subtle pale highlights. The group is arranged as a shallow diagonal from large left foreground to smaller right background, and no building or readable sign breaks the landscape. The overall composition is solemn and cinematic, using human scale, theatrical masking, and an ominous sky in a restrained earth-and-slate palette.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "68c427ccedf26eababf6ef6970ec3f06ac7189b6a79795423a48846a13e70aa9",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

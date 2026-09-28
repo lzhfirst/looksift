@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square hand-drawn caricature on warm off-white paper shows the enormous head of a blue creature with a long projecting snout and a mouth full of irregular yellow teeth. The head enters from the upper right and is cropped at the top and right edges, leaving a wide expanse of bare paper on the left. A single bulging yellow eye glances left from beneath a dark blue brow. At the end of the snout, a round pink nose sits above a thin dark line that stretches toward the left edge. The jaw opens into a broad grin, exposing pointed teeth of different lengths, rosy gums, and a deep maroon interior. A long narrow tongue curls out from the lower mouth and flicks leftward into the empty field. Pale blue and turquoise washes shape the snout and neck, with darker cobalt strokes concentrated around the eye, cheek, and back of the mouth. Fine red, brown, and black pen lines trace folds and wiry tufts, often extending beyond the painted contour as loose sketch marks. The lower right shows a partial neck descending out of frame, while the lower left remains nearly blank except for stray pencil lines. No setting or ground plane is drawn; the creature is presented as a loose character study on paper. Even light makes the page cream and flat, while painted shadows beneath the nose and inside the jaw give the head its volume. The overall composition contrasts a crowded, aggressively comic profile with broad unmarked space, creating a lively balance of grotesque detail and airy drawing.",
+  "full_prompt_zh": "这幅画在暖米白纸上以手绘夸张漫画呈现一只蓝色怪物的巨大头部：它有向前突出的长口鼻，嘴里满是不规则的黄牙。头从右上方进入，被顶边和右边裁切，左侧留下大片裸纸。一只鼓起的黄眼从深蓝眉下向左瞥。口鼻前端的圆粉鼻下方有一道细深线，延伸向左边缘。下颌张成宽阔怪笑，露出长短不一的尖牙、玫瑰色牙龈和深栗色口腔。一条又长又窄的舌头从嘴下卷出，向左甩进空白处。浅蓝和青绿淡染塑出鼻吻与颈部，较深的钴蓝笔触聚在眼、脸颊与嘴后。细红、棕、黑色钢笔线追踪皱褶和细毛，经常越过上色轮廓，成为松散草图线迹。右下只见一截颈部伸出画框，左下除了零星铅笔线外几乎空白。画中没有场所或地平面；怪物像是一张纸上的松散角色习作。均匀光让纸面保持奶油色和平坦，而鼻下与颌内的彩绘阴影赋予头部体积。整体构图以拥挤、攻击性十足的滑稽侧脸对照宽阔未画区域，在怪诞细节与通透画稿之间形成活泼平衡。",
+  "style_prompt_en": "The drawing combines spidery pen contours, loose pencil construction, and thin watercolor washes on pale paper. Exaggerated curved volumes are sharpened by angular teethlike marks, wiry strokes, and sudden dark accents. Cobalt and turquoise pools sit beside small hot pink, yellow, and rusty red notes, while much of the support stays visible. Lines often overshoot the colored forms, keeping the image restless and visibly exploratory. Even page light preserves the open ground; local dark washes supply depth where forms overlap. A dense off-center focal cluster against generous emptiness gives the caricature both ferocity and levity.",
+  "style_prompt_zh": "这类绘画把蜘蛛丝般的钢笔轮廓、松散铅笔构线和浅纸上的薄水彩淡染结合起来。夸大的弧形体积被尖锐的齿状线迹、细乱笔画和突然的深色重音加强。钴蓝与青绿积色旁有少量亮粉、黄和锈红点缀，大部分承载纸面仍可见。线条常常越出上色形体，使图像躁动而带明显探索过程。均匀纸面光保留开阔底色，局部深染在形体交叠处提供纵深。偏心的密集焦点与充足空白相对，使夸张画同时凶猛而轻盈。",
+  "theme_en": "A blue long-snouted creature grinning across an open paper page",
+  "theme_zh": "一只蓝色长吻怪物在空白纸页上咧嘴怪笑",
+  "wh_ratio": "1:1",
+  "id": "2973",
+  "name": "Gerald Scarfe",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/gerald-scarfe",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/gerald-scarfe.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "28ecde10661c153eb828f004c34d384acf3c3084cf69e2fd313d61289a725a54",
+    "gpt_submission_prompt": "A square hand-drawn caricature on warm off-white paper shows the enormous head of a blue creature with a long projecting snout and a mouth full of irregular yellow teeth. The head enters from the upper right and is cropped at the top and right edges, leaving a wide expanse of bare paper on the left. A single bulging yellow eye glances left from beneath a dark blue brow. At the end of the snout, a round pink nose sits above a thin dark line that stretches toward the left edge. The jaw opens into a broad grin, exposing pointed teeth of different lengths, rosy gums, and a deep maroon interior. A long narrow tongue curls out from the lower mouth and flicks leftward into the empty field. Pale blue and turquoise washes shape the snout and neck, with darker cobalt strokes concentrated around the eye, cheek, and back of the mouth. Fine red, brown, and black pen lines trace folds and wiry tufts, often extending beyond the painted contour as loose sketch marks. The lower right shows a partial neck descending out of frame, while the lower left remains nearly blank except for stray pencil lines. No setting or ground plane is drawn; the creature is presented as a loose character study on paper. Even light makes the page cream and flat, while painted shadows beneath the nose and inside the jaw give the head its volume. The overall composition contrasts a crowded, aggressively comic profile with broad unmarked space, creating a lively balance of grotesque detail and airy drawing.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "65498d22d06c01066181a5fee0c581b5cfcb7f22c38d5ad3e382bfec0acdd070",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

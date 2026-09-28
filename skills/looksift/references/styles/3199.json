@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square nineteenth-century oil portrait presents a young woman from the waist up against a dark leafy background. She turns slightly toward the right while looking toward the viewer. Her dark hair is parted in the middle and gathered into glossy curls, decorated with a small bright crown of orange, pink and yellow flowers. She wears a crimson satin dress with broad sleeves and pale lace along the neckline. Layered gold jewelry and a colored pendant sit over the bodice, giving small points of shine. Her face is smooth and softly lit, with gentle pink cheeks and a composed half smile. The strongest light comes from the upper left, illuminating the face, lace, shoulders and satin folds, then dropping into dark olive and brown behind her. A suggestion of foliage and muted blooms appears at the left edge but stays subordinate to the central figure. The rich red cloth has both bright reflective ridges and deep burgundy folds, painted with careful tonal transitions. Fine detail in hair, lace and jewelry contrasts with the less defined gardenlike background. The composition is formal and intimate at once, balancing the luminous oval of the face above the broad triangular red dress. The overall effect is polished, romantic and richly colored, with the surrounding shadow making the floral accents feel especially vivid.",
+  "full_prompt_zh": "这幅方形十九世纪油画肖像在深色叶丛背景前呈现一位年轻女子的上半身。她身体略向右转，却望向观者。深发从中间分开，盘成有光泽的卷发，上面点缀一小圈橙、粉、黄鲜花。她穿深红缎裙，袖子宽阔，领口镶浅色蕾丝。层叠金色首饰和彩色坠饰落在上身，提供细小闪点。面孔平滑，受柔光照亮，脸颊微粉，嘴角带克制浅笑。最强光从左上来到，照亮脸、蕾丝、肩与缎面褶线，然后落进身后的深橄榄与棕色。左边缘隐约有叶片与柔和花朵，但始终从属于中央形体。浓红布料既有反光的明亮凸脊，也有深酒红褶皱，以谨慎的调子过渡绘成。头发、花边和珠宝的细节对照较模糊的花园式背景。构图既正式又亲近，明亮的椭圆面孔位于宽阔三角红裙之上。整体精致、浪漫且色彩丰富，周围阴影让鲜花点缀尤其鲜明。",
+  "style_prompt_en": "The polished oil painting combines smooth tonal modeling with lustrous, carefully edged folds and tiny jewel-like accents. Deep crimson, burgundy and warm ivory glow against olive brown shadow. Upper side light selects rounded central planes and reflective ridges, while peripheral foliage-like texture remains indistinct. Fine detail is concentrated near the center; outer passages are softened and dark. A balanced triangular arrangement and rich but restrained palette give the image romantic formality.",
+  "style_prompt_zh": "这种精致油画把平滑调子塑造与有光泽、边缘谨慎处理的褶线及宝石般小亮点结合。深绯红、酒红与暖象牙色在橄榄棕阴影前发亮。上方侧光挑亮中央圆转平面和反光凸脊，外围近似叶形的纹理保持模糊。精细部分集中在中央，外圈段落柔化变暗。平衡的三角形安排与丰富而克制的色盘带来浪漫的正式感。",
+  "theme_en": "A young woman in crimson satin with flowers in her hair",
+  "theme_zh": "发间插花、身穿深红缎裙的年轻女子",
+  "wh_ratio": "1:1",
+  "id": "3199",
+  "name": "Franz Xaver Winterhalter",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/franz-xaver-winterhalter",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "2d269bae87f9e67d371a1f052061c49178c97ceec82dce87a5f7a46a6a77c10a",
+    "gpt_submission_prompt": "A square nineteenth-century oil portrait presents a young woman from the waist up against a dark leafy background. She turns slightly toward the right while looking toward the viewer. Her dark hair is parted in the middle and gathered into glossy curls, decorated with a small bright crown of orange, pink and yellow flowers. She wears a crimson satin dress with broad sleeves and pale lace along the neckline. Layered gold jewelry and a colored pendant sit over the bodice, giving small points of shine. Her face is smooth and softly lit, with gentle pink cheeks and a composed half smile. The strongest light comes from the upper left, illuminating the face, lace, shoulders and satin folds, then dropping into dark olive and brown behind her. A suggestion of foliage and muted blooms appears at the left edge but stays subordinate to the central figure. The rich red cloth has both bright reflective ridges and deep burgundy folds, painted with careful tonal transitions. Fine detail in hair, lace and jewelry contrasts with the less defined gardenlike background. The composition is formal and intimate at once, balancing the luminous oval of the face above the broad triangular red dress. The overall effect is polished, romantic and richly colored, with the surrounding shadow making the floral accents feel especially vivid.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "1fdf1cc1a013a486bbf01db926b001fae716c0c502334dc7cc789aa9992e4280",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

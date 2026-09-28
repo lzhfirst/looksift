@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square expressive mixed-media painting shows a close face emerging through a patchwork of opaque and translucent color. The subject looks forward from the center, dark eyes set beneath loosely rendered black brows and curls. The nose and softly closed mouth remain recognizable, but broad rectangular strokes partly interrupt the cheeks, forehead and jaw. Pale mint, dusty pink, warm peach and buttery yellow move through the skin tones, while charcoal, deep green and violet-black marks crowd the outer edges. A bright orange patch sits to the right of the face, sharpening the contrast with the darker eye and hair. Near the lower edge, overlapping mint and rose blocks nearly dissolve the neck and clothing into the painted surface. The left background is lighter, with cream and green fragments, while the upper and right margins are heavier with dark scraped texture. Facial planes are built with finer blending than the rough surrounding areas, so the expression holds together even as the surface breaks apart. Dry brush, palette-knife-like smears, thin scratches and small drips all remain visible. Light feels diffuse, with warm central planes lifted against the dark periphery rather than a single hard beam or cast shadow. No setting or readable text is present. The overall composition is intimate and restless, balancing a quiet direct gaze with fractured pastel color and dense tactile paint.",
+  "full_prompt_zh": "一幅方形表现性混合媒介绘画呈现一张贴近的脸，从不透明与透明色块拼片中浮现。人物从中央正面望来，深色眼睛位于松散描绘的黑眉与卷发下。鼻子和轻闭的嘴仍可辨，但宽阔矩形笔触部分切断脸颊、额头与下颌。浅薄荷绿、灰粉、暖桃和奶油黄穿行于肤色，炭黑、深绿与紫黑笔痕挤在外缘。面部右侧一块亮橙色强化了与深色眼睛及头发的反差。下缘附近，重叠薄荷绿和玫瑰色块几乎把颈部与衣服溶入颜料表面。左背景较亮，带奶油色与绿色碎片；上缘和右边则有更厚重的深色刮擦肌理。面部色面比粗糙外围更细致地晕合，因此表情即使在表面破碎时仍能成立。干刷、仿佛刮刀擦抹、细划痕与小滴痕都明显保留。光感漫射，中央暖色面从深色周边提起，而非来自一道硬束光或投影。没有具体场景或可读文字。整体构图亲密而躁动，以安静直视平衡破碎粉彩色彩与密集可触的颜料。",
+  "style_prompt_en": "An expressive mixed-media painting treatment overlays translucent pastel veils with opaque scraped blocks and deep charcoal accents. Mint, blush, peach, yellow, violet and orange appear in shifting patches, held together by a few concentrated dark anchors. Selected central forms receive smoother modeling, while surrounding areas break into rectangular smears, dry-brush edges, fine scratches and occasional drips. The support remains tactile and layered, with earlier colors showing through rubbed later marks. Light is diffuse and value-based: warm pale planes advance from cooler, darker margins without a fixed directional cast shadow. The composition keeps a quiet focal center amid a busy all-over surface, creating a balance of recognition, abstraction and energetic paint handling.",
+  "style_prompt_zh": "表现性混合媒介绘画处理把透明粉彩薄纱与不透明刮擦色块、深炭色重音叠合。薄荷绿、腮红粉、桃色、黄色、紫色与橙色以不断变化的碎块出现，由少数集中的暗色锚点联系。中央选定形体接受更平滑的塑形，周围则散成矩形擦抹、干笔边缘、细划痕与偶尔滴痕。载体保持有触感且层层堆叠，早先颜色从后来的揉擦痕下透出。光漫射并依靠明度组织：暖浅色面从更冷更暗的边缘前移，没有固定方向的投影。构图在忙碌满幅表面中保留安静焦点中心，平衡可识别性、抽象性和活跃颜料处理。",
+  "theme_en": "A close face emerging through layered pastel and dark abstract paint patches",
+  "theme_zh": "一张贴近的脸从粉彩与深色抽象颜料层中浮现",
+  "wh_ratio": "1:1",
+  "id": "1063",
+  "name": "Sandy Welch",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/sandy-welch",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/sandy-welch.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "c60ff50160bf121e57e5e27a078432c383ba79a081e429c15b7f54ef6acf6f9f",
+    "gpt_submission_prompt": "A square expressive mixed-media painting shows a close face emerging through a patchwork of opaque and translucent color. The subject looks forward from the center, dark eyes set beneath loosely rendered black brows and curls. The nose and softly closed mouth remain recognizable, but broad rectangular strokes partly interrupt the cheeks, forehead and jaw. Pale mint, dusty pink, warm peach and buttery yellow move through the skin tones, while charcoal, deep green and violet-black marks crowd the outer edges. A bright orange patch sits to the right of the face, sharpening the contrast with the darker eye and hair. Near the lower edge, overlapping mint and rose blocks nearly dissolve the neck and clothing into the painted surface. The left background is lighter, with cream and green fragments, while the upper and right margins are heavier with dark scraped texture. Facial planes are built with finer blending than the rough surrounding areas, so the expression holds together even as the surface breaks apart. Dry brush, palette-knife-like smears, thin scratches and small drips all remain visible. Light feels diffuse, with warm central planes lifted against the dark periphery rather than a single hard beam or cast shadow. No setting or readable text is present. The overall composition is intimate and restless, balancing a quiet direct gaze with fractured pastel color and dense tactile paint.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "584816802e5f06bd041c661e007abd47672f19e52bf064949fb74242d55b77cb",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

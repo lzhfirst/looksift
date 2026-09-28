@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A tall-cropped macro floral image centers a golden-yellow bud among larger blue and violet petals. The background is a soft blur of deep indigo, purple, and occasional muted orange, with no visible horizon or setting. The main bud rises on a thin green stem near the center-right. Its rounded overlapping petals curve inward at the top, where warm orange and a small pink fold appear inside the cup. Fine parallel ridges run down the yellow surface, catching light and giving the petal a woven, almost sculpted texture. A second flower at left opens in layers of turquoise-blue and purple; its broad curved petals cross behind the yellow bud, their own delicate lines visible on the nearer surfaces. Soft cyan slivers and violet forms fill the gaps, while darker purple blossoms in the back dissolve into blur. The warm yellow-orange center stands out sharply against the cool blue-violet majority of the frame. Light falls gently from the upper left, brightening the ridges and rounded lip of the bud; folds and overlaps shade toward red-brown or deep blue. The image has a polished photographic or digital macro quality, with shallow depth of field and crisp tactile detail only on the nearest petals. The close vertical framing trims the surrounding blooms and leaves the main bud clearly dominant. Complementary color contrast, curved interlocking shapes, and fine surface striations make the floral study vivid yet calm.",
+  "full_prompt_zh": "一幅竖向裁切的微距花卉图像把金黄色花苞置于较大的蓝色与紫色花瓣之间。背景是深靛蓝、紫色和偶尔柔暗橙色的软焦，没有可见地平线或具体场所。主花苞在中央稍右，从细绿茎上升起。圆润重叠的花瓣在顶部向内弯，其中有暖橙色内侧和一小块粉色折痕。细密平行棱纹顺黄色表面向下延伸，接住光线，让花瓣有编织般、近似雕塑的纹理。左侧另一朵花以青蓝与紫色层层打开；宽阔弯曲花瓣从黄花苞后穿过，较近的表面上也可见细线。柔青色窄条与紫色形体填满缝隙，更后方的深紫花朵融入模糊。暖黄橙中心从占画面多数的冷蓝紫中鲜明突出。光从左上柔和落下，照亮花苞的细棱与圆润唇缘；褶皱和重叠处向红褐或深蓝变暗。图像具有精修摄影或数字微距质感，景深浅，只有最近的花瓣有清晰可触细节。贴近的竖向框景裁去周围花朵，让主花苞清楚主导。互补色反差、互相嵌合的曲形与细密表面纹路，使花卉习作鲜明又安静。",
+  "style_prompt_en": "Macro imagery organizes a warm focal color inside a much larger cool complementary field. Rich yellow-orange and small pink notes project from layered indigo, violet, and cyan, while darker cool background shapes recede into shallow focus. Curved overlapping planes carry fine parallel striations that remain crisp in the focal area and soften quickly elsewhere. Gentle upper-side light catches ridges and lips, leaving narrow saturated shadows in folds. Close vertical cropping lets forms run past the edges, building density without a distant setting. The smooth blur and precise tactile surface detail coexist, making color opposition feel dimensional rather than diagrammatic.",
+  "style_prompt_zh": "微距图像把一处暖色焦点组织在大得多的冷色互补场中。浓黄橙和少量粉色从层叠靛蓝、紫罗兰与青蓝中向前突出，更暗的冷色背景形体退入浅景深。弯曲重叠平面带着细密平行纹路，焦点处保持清楚，其他区域迅速变柔。柔和的上侧光照亮棱纹和唇缘，在褶皱里留下狭窄饱和阴影。紧贴的竖向裁切让形体越出边缘，在没有远处场景的情况下建立密度。平滑柔焦和精准可触的表面细节并存，使色彩对立具有体积而不是示意图般平板。",
+  "theme_en": "A golden flower bud among blue-violet petals",
+  "theme_zh": "蓝紫花瓣间的一枚金黄色花苞",
+  "wh_ratio": "1:1",
+  "id": "0182",
+  "name": "Complementary colors",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/complementary-colors",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/complementary-colors.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "38deb044e82cc42a0cbc73e9c2a4a277f82d806de798944a4bf67b7089f5e4c9",
+    "gpt_submission_prompt": "A tall-cropped macro floral image centers a golden-yellow bud among larger blue and violet petals. The background is a soft blur of deep indigo, purple, and occasional muted orange, with no visible horizon or setting. The main bud rises on a thin green stem near the center-right. Its rounded overlapping petals curve inward at the top, where warm orange and a small pink fold appear inside the cup. Fine parallel ridges run down the yellow surface, catching light and giving the petal a woven, almost sculpted texture. A second flower at left opens in layers of turquoise-blue and purple; its broad curved petals cross behind the yellow bud, their own delicate lines visible on the nearer surfaces. Soft cyan slivers and violet forms fill the gaps, while darker purple blossoms in the back dissolve into blur. The warm yellow-orange center stands out sharply against the cool blue-violet majority of the frame. Light falls gently from the upper left, brightening the ridges and rounded lip of the bud; folds and overlaps shade toward red-brown or deep blue. The image has a polished photographic or digital macro quality, with shallow depth of field and crisp tactile detail only on the nearest petals. The close vertical framing trims the surrounding blooms and leaves the main bud clearly dominant. Complementary color contrast, curved interlocking shapes, and fine surface striations make the floral study vivid yet calm.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "bc41d91cba474d60895d54fbc972e036bffc038de6828ef8049ca1777ca65280",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

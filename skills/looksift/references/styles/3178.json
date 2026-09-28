@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white fine-art photograph looks along a narrow stone embankment disappearing into thick fog. Two tiny human silhouettes stand together near the point where the path vanishes into a white-gray glow. Still water occupies the left side, almost merging with the mist, while the rough dark walkway cuts a strong diagonal from the bottom center toward the distant pair. At far right, a massive wall or bridge support rises into darkness; its edges fade as they climb out of the frame. The scene contains very few objects, yet the relationship between black stone, luminous air, and small figures creates deep space. The nearest paving blocks are dark and wet-looking, with subtle grit; farther surfaces lose texture rapidly into fog. The light is entirely diffuse, strongest in the empty background and weakest along the right vertical mass. A broad gradient moves from near-black at the corners to silver white around the figures. Their separation from the background is only a thin dark outline, emphasizing solitude and scale. The camera remains level and distant, observing rather than dramatizing the people. Long exposure may have softened the water and atmosphere, but the path retains enough definition to guide the eye. The picture is hushed, minimal, and contemplative, without caption, border, or added graphic marks.",
+  "full_prompt_zh": "一幅方形黑白艺术摄影沿着窄石堤望向浓雾里消失的小径。两个极小人影并肩站在道路融入白灰亮处附近。静水占左侧，几乎同雾合一；粗糙深色步道从底部中央强烈斜向远处二人。最右边庞大墙体或桥支柱升入黑暗，边缘向上越出画幅时渐渐模糊。场景物件很少，黑石、发亮空气与小人物的关系却创造深空间。最近处铺石深暗，似被水浸，保留细微砂砾；远处表面迅速失去纹理，融入雾中。光完全漫射，空背景最亮，右侧竖向巨形最暗。宽阔渐层从角落近黑移向人影周围银白。人物同背景的分离仅靠纤细深轮廓，突出孤独与尺度。相机平稳而距离较远，观察人物而不戏剧化。长曝光可能软化水面与空气，步道仍有足够清晰度引导视线。作品寂静、极简、沉思，没有字幕、边框或附加图形。",
+  "style_prompt_en": "Minimal black-and-white fine-art photography with dense fog, a deep diagonal plane, and tiny dark accents nearly swallowed by luminous distance. Rough near textures fade quickly into smooth silver atmosphere. Broad gradients move from near-black edges to a soft white center, with diffuse light and restrained detail. Spacious negative areas and still water sustain a hushed, meditative tone.",
+  "style_prompt_zh": "极简单色艺术摄影以浓雾、深长斜向平面和几乎被明亮远处吞没的微小深色重音构成。粗糙近景纹理迅速退入平滑银色空气。宽广渐层从近黑边缘移向柔白中心，光线漫射、细节节制。宽阔负空间与静水维持寂静冥想气息。",
+  "theme_en": "Two small figures on a fogbound riverside path",
+  "theme_zh": "浓雾河岸小径上的两个微小身影",
+  "wh_ratio": "1:1",
+  "id": "3178",
+  "name": "Michael Kenna",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/michael-kenna",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "03e9a6df9deb7a1c9e89ce60c761c326f5a1f1809fa0df949b1fc6facd50114f",
+    "gpt_submission_prompt": "A square black-and-white fine-art photograph looks along a narrow stone embankment disappearing into thick fog. Two tiny human silhouettes stand together near the point where the path vanishes into a white-gray glow. Still water occupies the left side, almost merging with the mist, while the rough dark walkway cuts a strong diagonal from the bottom center toward the distant pair. At far right, a massive wall or bridge support rises into darkness; its edges fade as they climb out of the frame. The scene contains very few objects, yet the relationship between black stone, luminous air, and small figures creates deep space. The nearest paving blocks are dark and wet-looking, with subtle grit; farther surfaces lose texture rapidly into fog. The light is entirely diffuse, strongest in the empty background and weakest along the right vertical mass. A broad gradient moves from near-black at the corners to silver white around the figures. Their separation from the background is only a thin dark outline, emphasizing solitude and scale. The camera remains level and distant, observing rather than dramatizing the people. Long exposure may have softened the water and atmosphere, but the path retains enough definition to guide the eye. The picture is hushed, minimal, and contemplative, without caption, border, or added graphic marks.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "dd606fef4f4351391182a333c7e284dfb5058984318832d7256900106a3fb913",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square, dark comic-book painting shows a bald clown leaning toward the viewer against an almost black background. The head and shoulders fill the frame, leaving little surrounding space. A pale scalp rises to the top edge, with faint skin marks and hard gray shading shaping its rounded volume. The face is turned downward but the eyes glare forward from deep sockets beneath sharply angled brows. Thin red painted streaks run from the upper forehead toward the eyes and continue around the cheeks, framing a round crimson nose and a wide red mouth. The mouth curves into an unsettling smile, with darker marks at the corners and chin. Large ears stand out on either side of the head. Below the face, a black bow tie sits over a rumpled off-white shirt, and a dark waistcoat covers the torso. The sleeves on both sides are pale and loosely folded, with brown-gray shadows caught in the creases. Broad painterly passages establish the body, while fine scratched lines and small scuffs roughen the face and clothing. The background carries faint vertical streaks and mottled dark brown patches but no recognizable setting or readable text. Low, directional light strikes the upper scalp, nose, and shirt front, leaving the eye sockets, waistcoat, and edges in dense shadow. Red markings become the sharpest accents within a nearly monochrome cream, charcoal, and black palette. The overall composition is tightly centered and confrontational, using extreme facial contrast and worn paint texture to hold the gaze.",
+  "full_prompt_zh": "这幅方形暗调漫画绘画呈现一名秃头小丑朝观者俯身，背后几乎全黑。头与肩填满画框，四周只剩很少空间。浅色头皮延伸至上缘，淡淡皮肤痕迹与坚硬灰影塑造其圆形体积。脸虽向下，双眼仍从深陷眼窝里，在尖斜眉毛下直瞪前方。细红色涂绘线从额头上方延向眼周，又绕过脸颊，框住鲜红圆鼻与宽大的红嘴。嘴角弯成令人不安的笑容，两侧和下巴带更深的痕迹。两只大耳朵从头部两侧突出。脸下方，黑色领结压在揉皱的灰白衬衫上，深色马甲盖住躯干。两侧衣袖浅色而松散起褶，皱处积着棕灰阴影。宽阔的绘画笔块建立身体，细碎刮线和小磨痕则粗化面孔与衣服。背景只有淡淡竖向流痕和斑驳深棕色块，没有可辨场景或可读文字。较低而方向明确的光照到头顶、鼻子和衬衫正面，让眼窝、马甲及边缘沉在浓影里。红色妆痕成为几乎只含奶油色、炭灰与黑色的色盘中最鲜明的强调。整体构图紧密居中而充满对峙感，靠极端面部反差和磨损颜料肌理抓住目光。",
+  "style_prompt_en": "Dark comic-book painting combines solid charcoal masses with rough brushed midtones and fine scratch marks. Warm off-white highlights break through deep brown-black shadows, while small crimson accents carry the strongest color and tension. Contours are sharp around focal planes but become scuffed and partly swallowed by darkness toward the edges. Directional light models rounded forms with abrupt value changes instead of even illumination. Dense central detail is compressed against a nearly empty background, creating a close, dramatic visual pressure. The surface retains a worn, gritty painted quality rather than a glossy finish.",
+  "style_prompt_zh": "暗调漫画绘画把厚实的炭黑色团、粗刷中间调和细小刮痕结合起来。暖灰白亮部穿透深棕黑阴影，少量深红强调承载最强色彩与紧张感。焦点平面周围轮廓尖锐，向画边则磨损并被黑暗部分吞没。定向光以突兀的明度变化塑造圆弧形体，而不是均匀照亮。密集的中央细节被压在几乎空无的背景前，形成近距离、戏剧性的视觉压力。表面保留磨旧而粗粝的颜料质感，没有光滑亮泽的完成面。",
+  "theme_en": "A menacing bald clown leaning toward the viewer",
+  "theme_zh": "一名秃头小丑带着威胁感朝观者俯身",
+  "wh_ratio": "1:1",
+  "id": "2317",
+  "name": "Clayton Crain",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/clayton-crain",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/clayton-crain.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "5e31ec6c2f97bcdeadb20cc1c8c89c1598e7760bbd2be0e2965161733e253512",
+    "gpt_submission_prompt": "A square, dark comic-book painting shows a bald clown leaning toward the viewer against an almost black background. The head and shoulders fill the frame, leaving little surrounding space. A pale scalp rises to the top edge, with faint skin marks and hard gray shading shaping its rounded volume. The face is turned downward but the eyes glare forward from deep sockets beneath sharply angled brows. Thin red painted streaks run from the upper forehead toward the eyes and continue around the cheeks, framing a round crimson nose and a wide red mouth. The mouth curves into an unsettling smile, with darker marks at the corners and chin. Large ears stand out on either side of the head. Below the face, a black bow tie sits over a rumpled off-white shirt, and a dark waistcoat covers the torso. The sleeves on both sides are pale and loosely folded, with brown-gray shadows caught in the creases. Broad painterly passages establish the body, while fine scratched lines and small scuffs roughen the face and clothing. The background carries faint vertical streaks and mottled dark brown patches but no recognizable setting or readable text. Low, directional light strikes the upper scalp, nose, and shirt front, leaving the eye sockets, waistcoat, and edges in dense shadow. Red markings become the sharpest accents within a nearly monochrome cream, charcoal, and black palette. The overall composition is tightly centered and confrontational, using extreme facial contrast and worn paint texture to hold the gaze.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "5429b2231b3ab97ad7259ae511ac83eeda9a4d23e46531d7888173e02868960d",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

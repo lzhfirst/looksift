@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "This is a square, high-contrast black-and-white photographic abstraction centered on an eye-like opening within deep geometric shadow. Most of the upper and right parts of the frame are nearly black. A pointed white crescent enters from the left center and frames a circular irislike detail, which is the smallest and most precise focal point. Beneath it, a second pale curved wedge opens toward the lower right, separated from the upper light by a heavy black band. A narrow bright diagonal slice crosses the upper right, echoing the pointed angle of the lower wedge. At the bottom left, a rough granular surface rises diagonally into the frame, its closely packed pebblelike texture providing a physical counterweight to the smoother black and white curves. The image offers no clear wider object or setting; its power comes from the sharply cropped fragments and their uncertain scale. Strong light from one side creates hard-edged white shapes and lets the central circular detail catch a small glint. The black areas retain very little detail, while the textured lower corner shows a full ladder of silver grays. Fine photographic grain appears within the pale areas and prevents the abstraction from feeling digitally flat. The large dark field makes each small bright plane feel deliberate. No text is visible. The overall composition is stark and mysterious, balancing a compact, watchful focal mark with broad curves, acute diagonals, and tactile granular ground.",
+  "full_prompt_zh": "这是一幅方形、高反差的黑白摄影抽象图像，中央是深色几何阴影里一处眼睛般的开口。上方与右侧大部分画域近乎全黑。一道尖尖的白色新月从中央左侧进入，围住圆形虹膜般细节；它是最小也最精确的焦点。其下，另一道浅色弧形楔块向右下打开，与上方亮区之间隔着厚重黑带。一条细亮斜片横过右上，与下方楔块的尖角互相呼应。左下角，粗颗粒表面斜向升入画面，紧密堆积的小石般肌理为更平顺的黑白弧线提供实体平衡。图像不显露清楚的整体物件或场景；力量来自锐利裁切的碎片及其不确定尺度。一侧强光形成硬边白形，让中央圆形细节接住一小点亮光。黑域几乎不保留细节，有肌理的下角则展示从深到浅的完整银灰阶。浅色区域内可见细微摄影颗粒，使抽象图形没有变成数字般的平板。大片暗域让每个小亮面显得有意安排。没有文字。整体构图鲜明而神秘，以紧凑、仿佛注视的焦点标记平衡宽阔弧线、尖锐斜线和有触感的颗粒底面。",
+  "style_prompt_en": "The black-and-white photographic treatment strips form to near-solid black, hard white wedges, and one granular gray region. Strong directional light creates sharp cut edges, while small internal details receive disproportionate attention inside the negative space. Curves and diagonals intersect without a full explanatory context, making scale ambiguous. Fine grain and rough surface texture distinguish the image from flat vector geometry. Gray tones are concentrated in a small textured area; most of the frame moves abruptly between dark and light. Close cropping lets edges leave the frame, increasing graphic tension. The overall effect is spare, watchful, and enigmatic, with material detail held against severe abstraction.",
+  "style_prompt_zh": "这种黑白摄影处理将形体剥离为近乎实黑、硬边白色楔形与一处颗粒灰区。强烈定向光制造清楚切边，微小内部细节在负空间中获得不成比例的注意力。弧线与斜线相交，却没有完整解释性背景，使尺度变得含糊。细颗粒和粗糙表面肌理将图像与平板矢量几何区分开。灰色调集中在一小块有肌理区域；大部分画面在深与浅之间陡然转换。贴近裁切让边缘伸出画框，增加图形张力。整体效果精简、如在注视且难以捉摸，材料细节被置于严厉抽象之中。",
+  "theme_en": "An eye-like opening isolated in black geometric shadow above a rough pale surface",
+  "theme_zh": "眼睛般的开口孤立于黑色几何阴影中，下方是粗糙浅色表面",
+  "wh_ratio": "1:1",
+  "id": "3087",
+  "name": "Brett Weston",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/brett-weston",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "cf7445f50457541e5ac465e92b8411cb5609ac959dd290219c2041a9c266a701",
+    "gpt_submission_prompt": "This is a square, high-contrast black-and-white photographic abstraction centered on an eye-like opening within deep geometric shadow. Most of the upper and right parts of the frame are nearly black. A pointed white crescent enters from the left center and frames a circular irislike detail, which is the smallest and most precise focal point. Beneath it, a second pale curved wedge opens toward the lower right, separated from the upper light by a heavy black band. A narrow bright diagonal slice crosses the upper right, echoing the pointed angle of the lower wedge. At the bottom left, a rough granular surface rises diagonally into the frame, its closely packed pebblelike texture providing a physical counterweight to the smoother black and white curves. The image offers no clear wider object or setting; its power comes from the sharply cropped fragments and their uncertain scale. Strong light from one side creates hard-edged white shapes and lets the central circular detail catch a small glint. The black areas retain very little detail, while the textured lower corner shows a full ladder of silver grays. Fine photographic grain appears within the pale areas and prevents the abstraction from feeling digitally flat. The large dark field makes each small bright plane feel deliberate. No text is visible. The overall composition is stark and mysterious, balancing a compact, watchful focal mark with broad curves, acute diagonals, and tactile granular ground.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "2311c5471fa7169d8ce5b6ddb928ef3587551d53f4fbcd38939210fc0cc318bb",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

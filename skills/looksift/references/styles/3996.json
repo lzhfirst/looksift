@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square architectural drawing on warm ivory paper presents the front elevation of a narrow, many-level city house. The building occupies almost the entire central width, with its ground line placed low and its irregular roofline stepping upward toward the middle. The drawing shows the facade in dense graphite and black ink, mixing exact straight construction lines with soft smudged shading. At street level, set a central recessed entrance between dark rectangular openings and a slightly projecting base. Above it, stack asymmetrical windows, little balconies, deep lintels, and narrow pilasters. A prominent upper window sits inside a projecting frame with vertical divisions; small parapets and a thin roof rail finish the top. On the right, a short exterior stair rises beside a lower neighboring mass, while faint adjacent buildings are only suggested with loose pale lines. The image keeps the masonry pale and the interiors of openings dark, so the structure reads through its recesses and shadows. Fine cross-hatching defines moldings, window jambs, cornices, and worn edges; The composition lets a few searching lines remain visible around the silhouette. The image uses no dramatic light source: an even page glow and careful tonal drawing make the shallow projections legible. The image preserves the generous cream margin above and around the building, a quiet, studied mood, and the tactile unevenness of a hand-drafted study rather than a polished photograph.",
+  "full_prompt_zh": "一张画在暖象牙色纸面上的方形建筑图，呈现一座窄幅、多层城市住宅的正立面。建筑几乎占据中央全部宽度，地面线靠近下缘，不规则屋顶线向中部逐级升高。画面用密集铅笔灰和黑墨绘制立面，把准确的直线构造与柔和的擦痕阴影混合。街道层中央为内凹入口，两侧是深色矩形开口，底座略向外凸。上方不对称地叠置窗户、小阳台、深窗楣和细窄壁柱。一个醒目的高层窗置于向外凸出的框架内，带有竖向分隔；小女儿墙和细屋顶栏杆收住顶部。右侧有一道短外部台阶沿邻接的低体块上升，周边建筑仅用松散的淡线暗示。墙体保留浅色，开口内部压深，让凹进处与阴影勾勒出结构。细密交叉排线描出装饰线脚、窗侧、檐口和磨损边缘；轮廓旁保留少许探寻性的线条。无需戏剧性光源：均匀的纸面亮度与谨慎的调子便足以呈现浅浮起的部分。画面保留建筑上下周围充足的奶油色留白、安静研究式气氛，以及手工制图不均匀的触感。",
+  "style_prompt_en": "Restrained architectural draftsmanship in fine graphite and black ink on warm ivory paper. The image builds form from measured straight lines, delicate cross-hatching, pale rubbed graphite, and small dark recesses. The composition lets the silhouette step unevenly while internal divisions stay exact; The image retains exploratory guide marks and lightly sketched neighboring forms. The image uses a nearly monochrome palette, even page illumination, broad pale margins, and tactile handmade irregularities for a quiet analytical rhythm.",
+  "style_prompt_zh": "暖象牙纸上的克制建筑制图风格，使用细铅笔灰和黑墨。画面以可测的直线、纤细交叉排线、淡擦铅笔灰与少量深凹处构成立体形态。外轮廓层层错落，内部划分仍保持精确；画面保留探索性的辅助痕及轻描的邻近形体。画面采用近乎单色的色阶、均匀的纸面照明、宽阔浅色边缘与手工不均匀的触感，形成安静的分析性节奏。",
+  "theme_en": "A finely drafted narrow city house with a stepped facade",
+  "theme_zh": "一座立面层层退进的窄幅城市住宅精细线稿",
+  "wh_ratio": "1:1",
+  "id": "3996",
+  "name": "Adolf Loos",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/adolf-loos.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "d0704d71e4c4d495124692f035d8a5d6ff62f20c60cd6cac8d3c4ba5f401b229",
+    "gpt_submission_prompt": "A square architectural drawing on warm ivory paper presents the front elevation of a narrow, many-level city house. The building occupies almost the entire central width, with its ground line placed low and its irregular roofline stepping upward toward the middle. The drawing shows the facade in dense graphite and black ink, mixing exact straight construction lines with soft smudged shading. At street level, set a central recessed entrance between dark rectangular openings and a slightly projecting base. Above it, stack asymmetrical windows, little balconies, deep lintels, and narrow pilasters. A prominent upper window sits inside a projecting frame with vertical divisions; small parapets and a thin roof rail finish the top. On the right, a short exterior stair rises beside a lower neighboring mass, while faint adjacent buildings are only suggested with loose pale lines. The image keeps the masonry pale and the interiors of openings dark, so the structure reads through its recesses and shadows. Fine cross-hatching defines moldings, window jambs, cornices, and worn edges; The composition lets a few searching lines remain visible around the silhouette. The image uses no dramatic light source: an even page glow and careful tonal drawing make the shallow projections legible. The image preserves the generous cream margin above and around the building, a quiet, studied mood, and the tactile unevenness of a hand-drafted study rather than a polished photograph.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "8a1bab231b5f187ca75d35561fa680a7833e591eccf4db56fcb84c0fccfcb473",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

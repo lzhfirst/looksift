@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square experimental photograph records an empty country road at dusk beneath an immense fan of thin luminous arcs. The road begins in the dark lower foreground and bends gently toward a low bright horizon near the right edge. Small rooftops and indistinct rural structures line the left horizon, while a single large tree stands as a dark silhouette on the right. Above them, dozens of closely spaced pale streaks sweep diagonally from the upper left down to the warm horizon, like successive paths of the sun compressed into one view. The streaks vary subtly in brightness and color, shifting between ivory, pale gold, mint, and cyan. Their converging lower ends glow peach-orange at the horizon. The upper sky is a deep, uneven blue-green, softly mottled and veiled with chemical haze rather than a crisp night sky. Along the road, faint wet reflections and a low orange light trail add a horizontal counterline. Details in the land are partly lost in long exposure and low light; the tree and rooftops are stronger as silhouettes than as objects to inspect. The photograph includes small scratches, dust specks, edge discoloration, and other weathered marks consistent with a pinhole solargraph. The luminous arcs, not a conventional sunset disc, dominate the composition. No people, labels, or typography appear. The mood is patient and uncanny: an ordinary road remains almost still while accumulated time draws a radiant geometric pattern across the sky.",
+  "full_prompt_zh": "一张方形实验摄影记录了暮色中一条空旷乡间路，其上是一大片细亮弧线扇面。道路从深色下前景开始，缓缓弯向右边缘附近低矮明亮的地平线。左侧地平线上有小屋顶和模糊乡间建筑，右侧一棵大树呈深色剪影。上方数十条间距紧密的浅色光迹从左上斜扫向暖色地平线，仿佛太阳连续轨迹被压缩进一幅画面。光迹在亮度和颜色上微妙变化，从象牙白、浅金到薄荷绿和青色，汇向下方处发出桃橙色光。上部天空呈深而不均的蓝绿，带柔软斑驳与化学雾感，不是清脆夜空。路面上微弱湿反射和低处橙色光痕添一道水平反线。地景细节因长曝光和低光部分消失；树与屋顶更像剪影，而不是供细看的物件。照片带小划痕、尘点、边缘变色等风化痕迹，符合针孔太阳轨迹摄影。主导构图的是发亮弧线，而非普通日落圆盘。没有人物、标签或排版文字。氛围耐心而奇异：平常道路几乎静止，累积时间却在天上画出辐射几何图案。",
+  "style_prompt_en": "Create a weathered pinhole solargraph look in which accumulated time appears as many fine, parallel luminous arcs crossing a darkened sky. Let the arcs fan from a high edge toward a low warm point, varying slightly in spacing, intensity, and hue. Use deep cyan-blue and teal atmospheric stains, creamy gold streaks, and a small peach-orange glow near the horizon. Render lower forms as simple silhouettes and subdued reflections so they anchor the immense sky without competing. Include faint scratches, dust, uneven exposure, and soft chemical discoloration integrated into the image. The composition should feel patient, strange, and photographic, with temporal repetition forming its main geometry.",
+  "style_prompt_zh": "营造风化针孔太阳轨迹照片效果，使累积时间化为多道细密平行亮弧穿过昏暗天空。让弧线从高处边缘扇形汇向低处暖色点，在间距、强度与色相上微妙变化。使用深青蓝与蓝绿大气污色、奶油金色光迹，以及地平线附近一小片桃橙辉光。下方形体化作简洁剪影和低调反射，支撑浩大天空而不争夺视线。融入浅划痕、尘点、不均匀曝光与柔和化学变色。构图应耐心、奇异且有摄影性，以时间重复形成主要几何。",
+  "theme_en": "A long-exposure road beneath sweeping solar arcs at dusk",
+  "theme_zh": "暮色道路上方掠过漫长太阳轨迹的长曝光画面",
+  "wh_ratio": "1:1",
+  "id": "4296",
+  "name": "Solargraph",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/solargraph.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "3712310891fe27de766f782c2813d2f765b7c479561bcd953f22cc36b1b6ef17",
+    "gpt_submission_prompt": "A square experimental photograph records an empty country road at dusk beneath an immense fan of thin luminous arcs. The road begins in the dark lower foreground and bends gently toward a low bright horizon near the right edge. Small rooftops and indistinct rural structures line the left horizon, while a single large tree stands as a dark silhouette on the right. Above them, dozens of closely spaced pale streaks sweep diagonally from the upper left down to the warm horizon, like successive paths of the sun compressed into one view. The streaks vary subtly in brightness and color, shifting between ivory, pale gold, mint, and cyan. Their converging lower ends glow peach-orange at the horizon. The upper sky is a deep, uneven blue-green, softly mottled and veiled with chemical haze rather than a crisp night sky. Along the road, faint wet reflections and a low orange light trail add a horizontal counterline. Details in the land are partly lost in long exposure and low light; the tree and rooftops are stronger as silhouettes than as objects to inspect. The photograph includes small scratches, dust specks, edge discoloration, and other weathered marks consistent with a pinhole solargraph. The luminous arcs, not a conventional sunset disc, dominate the composition. No people, labels, or typography appear. The mood is patient and uncanny: an ordinary road remains almost still while accumulated time draws a radiant geometric pattern across the sky.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "7d64dc7e7da513e1454c6ce3efd4c208b9046fda72590e1065a5a24d23442dee",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

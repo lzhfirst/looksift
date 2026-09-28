@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square minimalist vector illustration places a single crouching human figure inside a broad warm gray inset surrounded by an off-white margin. The inset is quiet and flat, with no room or landscape. The figure fills most of its center, folded into a compact rounded shape. A dark blue circular head sits at the upper right, lowered toward the knees, while a coral-red face and a pale angular hand press near the cheek. One broad gray arm loops downward from the shoulder and curves back toward the lower middle. The back forms a large gray arc containing a bold coral-red oval, and the lower body turns into deep cobalt and navy triangular planes. Bent legs cross near the bottom, ending in a broad black curved foot shape and an orange-red shoe or base. A narrow stack of horizontal dark blue, cream and coral bars supports the pose at the lower edge. A few small crisp white gaps separate overlapping limbs so that the compact silhouette can be read despite the abstraction. There are no drawn eyes, fabric patterns or interior shadows; identity and action come from geometric proportion and the hand-to-face gesture. Color fields are perfectly smooth, with hard clean edges and no visible brush grain. The light is graphic and even, suggested by adjacent warm and cool values rather than a cast shadow or physical source. The overall composition balances a weighted folded figure against generous neutral margin, making a quiet pose feel architecturally precise.",
+  "full_prompt_zh": "这幅方形极简矢量插画，在米白边框围住的宽阔暖灰色内框中放置一个蹲伏人物。内框平静而平涂，没有房间或地景。人物占据中央大部分，折成紧凑圆形。深蓝圆头位于右上，向膝部低垂，珊瑚红脸与浅色棱角手靠在脸颊旁。一条宽灰手臂从肩下垂，再弯回下方中部。背部形成大灰弧，内部包着醒目的珊瑚红椭圆，下半身转为深钴蓝与海军蓝三角平面。弯腿在底部附近交叉，接上宽阔黑色弧形脚和橙红鞋或底座。下缘一叠窄窄的深蓝、奶油与珊瑚色横条承托姿势。几个小而清楚的白色空隙分开重叠四肢，让紧凑剪影虽抽象仍可读。没有画眼睛、衣服花纹或内部阴影；身份和动作来自几何比例及手靠脸的姿势。色面完全平滑，硬边干净，没有可见笔触颗粒。光图形化而均匀，由相邻冷暖明度暗示，而非投影或实体光源。整体构图让有重量的折叠人体与宽裕中性边框平衡，使安静姿势显得像几何结构般精确。",
+  "style_prompt_en": "The flat-vector treatment compresses complex form into interlocking circles, arcs, triangles and clean color slabs. Coral orange, cobalt, navy and middle gray carry the main contrast against a generous warm neutral field. Edges are hard and mechanically smooth, while carefully placed gaps make overlapping masses legible. There is no material grain or naturalistic shading; value and warm-cool adjacency supply all dimensional cues. Large rounded areas counter smaller angular cuts, producing a poised rhythm even when the center is tightly packed. Broad outer margin gives the geometry breathing room. The result is direct, modern and quietly expressive through proportion alone.",
+  "style_prompt_zh": "这种平面矢量处理把复杂形体压缩成互锁的圆、弧、三角和干净色板。珊瑚橙、钴蓝、海军蓝与中灰在宽裕暖中性色域前构成主要对照。边缘硬而机械平滑，精心留出的缝隙让重叠量块清楚可读。没有材料颗粒或写实阴影；明度及冷暖相邻承担全部体积线索。大块圆润区域与较小棱角切口相对，即使中心压得很紧也保持从容节奏。宽阔外框为几何形留下呼吸空间。成品直接而现代，仅凭比例便具有安静的表现力。",
+  "theme_en": "A crouching figure reduced to overlapping coral, blue and gray shapes",
+  "theme_zh": "一个蹲伏人物被概括为重叠的珊瑚、蓝与灰色形体",
+  "wh_ratio": "1:1",
+  "id": "2896",
+  "name": "Geoff McFetridge",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/geoff-mcfetridge",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/geoff-mcfetridge.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "d1e6972c60dbb06bf81940b4810cff9bf74e2f3a75e87a2155d21f6630e7cd0f",
+    "gpt_submission_prompt": "A square minimalist vector illustration places a single crouching human figure inside a broad warm gray inset surrounded by an off-white margin. The inset is quiet and flat, with no room or landscape. The figure fills most of its center, folded into a compact rounded shape. A dark blue circular head sits at the upper right, lowered toward the knees, while a coral-red face and a pale angular hand press near the cheek. One broad gray arm loops downward from the shoulder and curves back toward the lower middle. The back forms a large gray arc containing a bold coral-red oval, and the lower body turns into deep cobalt and navy triangular planes. Bent legs cross near the bottom, ending in a broad black curved foot shape and an orange-red shoe or base. A narrow stack of horizontal dark blue, cream and coral bars supports the pose at the lower edge. A few small crisp white gaps separate overlapping limbs so that the compact silhouette can be read despite the abstraction. There are no drawn eyes, fabric patterns or interior shadows; identity and action come from geometric proportion and the hand-to-face gesture. Color fields are perfectly smooth, with hard clean edges and no visible brush grain. The light is graphic and even, suggested by adjacent warm and cool values rather than a cast shadow or physical source. The overall composition balances a weighted folded figure against generous neutral margin, making a quiet pose feel architecturally precise.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "0720f5aac07da82dc23917eaa6c10495377d67ca56e3c2ce17dd414df9f817de",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A richly painted fantasy scene shows a small sailing ship suspended over a blue shoreline at sunset. Its dark wooden hull and several orange-lit sails float left of center, in front of an enormous pale moon that fills much of the upper sky. The moon's cool blue lower half blends into a star-speckled night, while below it a broad bank of amber clouds burns along the horizon. On the right, a distant cluster of slender spires rises in blue silhouette from a low plain. The foreground is rough and dark, with scattered rocks and scrub forming a shallow frame across the bottom. The ship is the most detailed object: rigging, masts, curved hull, and glowing sail planes stand sharply against the softer celestial disc. Painted clouds and distant land dissolve into layered color rather than hard outlines. Light comes from the low golden horizon, warming the ship and lower clouds, while the moon adds a cold halo behind them. The composition balances the ship's compact vertical stack against the wider city silhouette and broad horizontal bands of water and land. Deep navy, blue-gray, peach, gold, and dark umber carry a dramatic but coherent palette. The enormous scale difference between ship, moon, and landscape creates a sense of wonder, yet the carefully brushed atmospheric transitions keep the image grounded as a traditional illustrated painting.",
+  "full_prompt_zh": "一幅绘制精细的奇幻画面描绘一艘小帆船悬在落日时分的蓝色海岸上空。深色木船身与几面被橙光照亮的船帆漂在中心偏左，在其后，一轮巨大的浅色月亮占据上方天空的大部分。月亮偏冷的蓝色下半部融入稀疏星点的夜空；其下，一大带琥珀色云沿地平线燃亮。右侧，远处一簇细长尖塔以蓝色剪影从低地升起。前景粗糙而深暗，零散石头与矮灌木沿下缘形成浅浅框架。船是细节最密的物体：索具、桅杆、弯曲船身和发光的帆面在更柔软的天体圆盘前清楚显出。绘制的云与远地融入层叠色彩，而非硬轮廓。光来自低低的金色地平线，温暖船只和下层云；月亮则在它们身后添上一圈冷光。构图用船紧凑的竖向层叠，平衡更宽的城市剪影以及水面和陆地的横向带。深海军蓝、蓝灰、桃色、金色和深棕构成戏剧性却连贯的色盘。船、月亮与风景之间巨大的尺度差带来奇妙感，而仔细刷绘的大气过渡又让作品保有传统插画的可信质感。",
+  "style_prompt_en": "A traditional fantasy painting with vast scale contrasts and layered atmospheric color. A giant cool pale disc rises above horizontal blue land and water bands, while a compact dark vertical cluster catches warm gold light in front of it. Amber clouds glow along a low horizon; the upper field deepens to star-dotted navy. Near texture is rough and dark, distant silhouettes are softened by haze, and selected central details remain sharply brushed. The palette balances moonlit blue-gray with peach, gold, and umber. Broad bands and one small floating accent give the scene an expansive, wondrous rhythm.",
+  "style_prompt_zh": "一幅传统奇幻绘画，尺度反差巨大，大气色彩层层叠置。巨大的冷浅色圆盘升在横向蓝色水陆色带之上，前方一组紧凑的深色竖向形体接住暖金光。琥珀色云沿低地平线发亮；上方渐深为点有星光的海军蓝。近处纹理粗糙深暗，远景剪影被雾柔化，中心少数细节则保留清楚的画笔刻画。色盘以月光蓝灰平衡桃色、金色和深棕。宽阔横带与一个小小悬浮重点形成辽阔而奇妙的节奏。",
+  "theme_en": "An airborne sailing ship above an alien shoreline",
+  "theme_zh": "异世界海岸上空的飞行帆船",
+  "wh_ratio": "1:1",
+  "id": "3123",
+  "name": "Don Maitz",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/don-maitz",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "12841e762985d6f1ae3a3a27469dc4762515fbcdea47400751156b00b24acbf9",
+    "gpt_submission_prompt": "A richly painted fantasy scene shows a small sailing ship suspended over a blue shoreline at sunset. Its dark wooden hull and several orange-lit sails float left of center, in front of an enormous pale moon that fills much of the upper sky. The moon's cool blue lower half blends into a star-speckled night, while below it a broad bank of amber clouds burns along the horizon. On the right, a distant cluster of slender spires rises in blue silhouette from a low plain. The foreground is rough and dark, with scattered rocks and scrub forming a shallow frame across the bottom. The ship is the most detailed object: rigging, masts, curved hull, and glowing sail planes stand sharply against the softer celestial disc. Painted clouds and distant land dissolve into layered color rather than hard outlines. Light comes from the low golden horizon, warming the ship and lower clouds, while the moon adds a cold halo behind them. The composition balances the ship's compact vertical stack against the wider city silhouette and broad horizontal bands of water and land. Deep navy, blue-gray, peach, gold, and dark umber carry a dramatic but coherent palette. The enormous scale difference between ship, moon, and landscape creates a sense of wonder, yet the carefully brushed atmospheric transitions keep the image grounded as a traditional illustrated painting.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "e85269d5e345acbf0aeae9e3ea3459727d54a01b44265d6d744dd258a1bde491",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

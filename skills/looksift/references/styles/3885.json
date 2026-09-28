@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A moody color image shows a young woman standing in a field of white, cottony flowers beneath a heavy storm sky. She faces forward near the center, holding a small cluster of pale blossoms at her waist. Her long, high-necked dress is a muted sage green with narrow patterned texture, gathered sleeves, and gently puffed shoulders; its shape feels old-fashioned without relying on elaborate ornament. Dark reddish-brown hair is pulled back with a few loose strands, and her calm expression meets the viewer directly. The nearest flower heads are large and softly blurred, framing her lower body and giving the foreground a floating, tactile quality. Behind her, the field continues toward a low, straight horizon, where a thin band of cool light sits beneath deep blue-gray clouds. The sky occupies nearly half the image, with layered, rolling shapes that make the quiet figure feel exposed to approaching weather. Color is restrained: pale ivory flowers, gray-green fabric and grass, cool teal shadows, and a small amount of warm skin and hair. Light is diffuse but directional enough to separate her face and dress from the darker backdrop. Soft focus at the margins, subtle grain, and a gently painterly finish blend photographic realism with a storybook atmosphere. The composition is still and centered, balancing a tangible human presence against the unsettled breadth of the landscape.",
+  "full_prompt_zh": "一幅情绪浓郁的彩色图像，表现一位年轻女子站在白色绒球般花朵的田野里，头顶是沉重的暴风云。她靠近画面中心正面站立，双手在腰前捧着一小束浅色花朵。长裙是低饱和鼠尾草绿，高领、布面有细窄花纹，袖子收拢，肩部轻微蓬起；版型显得旧时，却不依靠繁复装饰。深红棕色头发向后束起，留下几缕松散发丝，她平静地直视观看者。最近处的花头较大且柔焦，围住下半身，让前景有漂浮而可触的感觉。身后花田一直延伸至低而平直的地平线，深蓝灰云层下保留一条冷色亮带。天空几乎占据半幅图像，层层翻卷的形状使静止的人物仿佛暴露在将至的天气中。配色克制：象牙白花朵、灰绿色布料与草地、冷青色阴影，以及少量温暖的肤色和发色。光线漫射，却仍有足够方向感，把脸和裙子从较暗的背景中分离出来。边缘柔焦、微妙颗粒和轻微绘画感，将摄影真实与故事书般的气氛融合。构图稳定而居中，让可触的人物存在与不安的广阔原野相平衡。",
+  "style_prompt_en": "Atmospheric color photography with a soft, gently painterly finish and restrained, weathered hues. Pale ivory accents hover against muted sage, cool teal, and deep blue-gray fields, with a small amount of warm color near the visual center. The foreground is tactile but softly out of focus; middle forms remain clear, and distant layers flatten into a low horizon beneath broad rolling tonal masses. Diffuse light separates the central shape from a darker backdrop without sharp shadows. Subtle grain, softened edges, and a still, centered arrangement create a quiet storybook mood touched by approaching weather.",
+  "style_prompt_zh": "具有空气感的彩色摄影风格，表面柔和且略带绘画质地，色彩压低并有风化感。浅象牙色点缀浮在低饱和鼠尾草绿、冷青色与深蓝灰区域之间，视觉中心附近留有少量暖色。前景可触却处于柔焦，中层形态保持清晰，远层压平为低地平线与上方宽阔翻卷的明暗体块。漫射光将中心形状从较暗背景中分开，却不产生锐利影子。细微颗粒、柔化边缘及安静的居中安排，营造带有风雨将至感觉的故事书气氛。",
+  "theme_en": "A young woman in a pale dress amid cottony flowers before a storm",
+  "theme_zh": "暴风雨前浅色裙装女子立于绒白花田",
+  "wh_ratio": "1:1",
+  "id": "3885",
+  "name": "Veronika Pinke",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/veronika-pinke.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "6016fc37b131d6b4fbb196fd0bb7a19ebc559e17f301fde664320a4d8463364a",
+    "gpt_submission_prompt": "A moody color image shows a young woman standing in a field of white, cottony flowers beneath a heavy storm sky. She faces forward near the center, holding a small cluster of pale blossoms at her waist. Her long, high-necked dress is a muted sage green with narrow patterned texture, gathered sleeves, and gently puffed shoulders; its shape feels old-fashioned without relying on elaborate ornament. Dark reddish-brown hair is pulled back with a few loose strands, and her calm expression meets the viewer directly. The nearest flower heads are large and softly blurred, framing her lower body and giving the foreground a floating, tactile quality. Behind her, the field continues toward a low, straight horizon, where a thin band of cool light sits beneath deep blue-gray clouds. The sky occupies nearly half the image, with layered, rolling shapes that make the quiet figure feel exposed to approaching weather. Color is restrained: pale ivory flowers, gray-green fabric and grass, cool teal shadows, and a small amount of warm skin and hair. Light is diffuse but directional enough to separate her face and dress from the darker backdrop. Soft focus at the margins, subtle grain, and a gently painterly finish blend photographic realism with a storybook atmosphere. The composition is still and centered, balancing a tangible human presence against the unsettled breadth of the landscape.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "2e1e9a1ab7cdbaf3aab3e9f7b3b72863da834ef7e6b3cfb6d4f179d71e786091",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

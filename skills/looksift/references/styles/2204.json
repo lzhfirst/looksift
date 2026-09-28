@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white studio photograph presents a woman facing forward against a completely dark background. A broad metallic-looking band is wrapped across her eyes, and both raised hands touch its sides near her temples. The lower half of her face remains visible, with a softly lit nose and closed, full lips, while her neck and upper chest emerge from the black. A glittering, tightly textured garment covers her shoulders and sleeves. The figure is nearly symmetrical but not rigid: the fingers spread at slightly different angles, and the reflective folds across the eye covering make irregular horizontal bands. Strong frontal and slightly high light strikes the hands, lips, neck, and metallic surface, creating silver highlights that fall quickly to near-black in the hollows. Fine skin texture and the garment's granular shimmer remain distinct, giving the monochrome image several different kinds of shine. The background contains no visible setting, so the gesture, hidden gaze, and material contrast carry the scene. The crop ends at the upper torso and places the face at the center, with the hands framing it as tall vertical shapes. There is no readable text. The overall composition is theatrical and controlled, balancing luminous skin and bright metallic grain against a deep black field.",
+  "full_prompt_zh": "一张方形黑白摄影棚照片呈现一名女子正面站在全黑背景前。一条宽阔、带金属质感的带子横过双眼，举起的双手在太阳穴附近触碰带子两侧。脸下半部仍可见，鼻子和闭合的丰满双唇受到柔和光照，颈部和上胸从黑暗中浮出。闪亮而纹理紧密的衣物覆盖肩部与袖子。人物近乎对称，却不僵硬：手指以略不同的角度展开，遮眼物上的反光褶层形成不规则水平带。强烈的正面、略偏高的光打在手、唇、颈和金属表面，形成银色高光，并在凹处迅速降为近黑。细腻皮肤纹理和衣物颗粒般的闪光彼此分明，使单色图像有几种不同的光泽。背景没有可见场所，因此手势、被遮挡的目光和材料对比承担场景。画幅止于上身，面容位于中央，两手像高高的竖形从两侧框住。没有可辨认文字。整体构图戏剧性强而受控，以发亮皮肤和金属颗粒对照深黑场域。",
+  "style_prompt_en": "A studio photographic surface uses high contrast monochrome with a near-black field and narrow islands of luminous silver grey. Strong frontal light from slightly above reveals fine matte grain, smooth tonal transitions, and sharply reflective crumpled texture as separate materials. Bright ridges fall quickly into dark folds, and small highlights make a rhythmic horizontal pattern within a centered arrangement. Two tall side shapes frame a softer central area, giving the crop almost ritual symmetry while slight irregularities keep it alive. There is little spatial background; depth comes from overlapping forms and rapid changes of value. The mood is controlled, sensual, and theatrical, with tactile contrast doing more work than color.",
+  "style_prompt_zh": "摄影棚质感使用高对比单色，近黑场域中只有狭窄的发亮银灰色区域。略偏上方的强正面光将细哑光颗粒、平滑明暗过渡与锐利反光的皱褶纹理区分为不同材料。亮脊迅速落入深褶，小高光在居中的排列里形成水平节奏。两道高侧形框住较柔软的中央区域，使贴近裁切近乎仪式性对称，细微不规则又让它保持活力。几乎没有空间背景；深度来自重叠形体和迅速的明度变化。情绪受控、感官性强且戏剧化，触感对比比色彩更重要。",
+  "theme_en": "A dramatic close study of hidden sight and metallic texture",
+  "theme_zh": "遮蔽视线与金属质感的戏剧性近景",
+  "wh_ratio": "1:1",
+  "id": "2204",
+  "name": "Guido Argentini",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/guido-argentini",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/guido-argentini.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "5d6127e5c8333b9454dc956d844e725bc74f1e69fbc57ab31889ec9989111cb5",
+    "gpt_submission_prompt": "A square black-and-white studio photograph presents a woman facing forward against a completely dark background. A broad metallic-looking band is wrapped across her eyes, and both raised hands touch its sides near her temples. The lower half of her face remains visible, with a softly lit nose and closed, full lips, while her neck and upper chest emerge from the black. A glittering, tightly textured garment covers her shoulders and sleeves. The figure is nearly symmetrical but not rigid: the fingers spread at slightly different angles, and the reflective folds across the eye covering make irregular horizontal bands. Strong frontal and slightly high light strikes the hands, lips, neck, and metallic surface, creating silver highlights that fall quickly to near-black in the hollows. Fine skin texture and the garment's granular shimmer remain distinct, giving the monochrome image several different kinds of shine. The background contains no visible setting, so the gesture, hidden gaze, and material contrast carry the scene. The crop ends at the upper torso and places the face at the center, with the hands framing it as tall vertical shapes. There is no readable text. The overall composition is theatrical and controlled, balancing luminous skin and bright metallic grain against a deep black field.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "b98decdf333501e0758551fa647b943315bc616be2dba3742a2a1f779f3ff24a",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

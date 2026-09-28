@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "An Impressionist city view looks down from an upper-floor window onto a broad pale square. A triangular stand of leafy green trees occupies the middle, dividing the road into two channels that recede toward distant streets. Small pedestrians and dark carriages are scattered across the light ground, their brisk painted marks suggesting movement without detailed anatomy. Rows of stone façades line both sides, with green awnings at the left and a warm salmon-colored building rising behind the trees. Above, a large quiet gray-blue sky gives the busy street room to breathe. The scene is built from broken dabs of paint rather than crisp outlines: foliage is a mass of many dark and light green touches, the façades soften into beige and rosy patches, and distant figures become small strokes. Daylight is diffuse, making shadows gentle and allowing the open square to glow a warm cream. The elevated viewpoint reveals an orderly street plan, but lively uneven brushwork keeps the composition from feeling rigid. The eye follows the two converging roads past the central trees into haze, then returns to the people spaced across the foreground. The painting balances urban activity and spacious atmosphere, using a restrained palette of chalk, green, dusty rose, blue-gray, and charcoal. Its surface has the soft grain and visual vibration of pigment applied in many small touches.",
+  "full_prompt_zh": "一幅印象派城市景观从楼上的窗口俯瞰宽阔的浅色广场。中间一片呈三角形排列的绿树，把道路分成两股，分别退向远处街道。小行人与深色马车散布在明亮地面上，简短迅疾的笔迹暗示运动，却不细画身体结构。两侧排着石砌立面，左边有绿色遮篷，树后升起一栋暖鲑粉色建筑。上方大片安静的灰蓝天空给繁忙街道留出呼吸空间。画面由破碎的小色点而非清晰轮廓构成：树叶是深浅绿色笔触的集合，立面柔化成米色与粉玫瑰色的斑块，远处人物则化为小笔划。日光漫射，使阴影柔和，也让开阔广场泛着暖奶油色。高视点显示出井然有序的街道规划，但活跃而不均匀的笔触避免构图显得僵硬。视线沿中央树木两侧逐渐收拢的道路进入薄雾，再回到前景错落的人群。画作平衡城市活动与宽裕空气感，采用粉白、绿色、灰粉、蓝灰和炭色的克制色盘。许多小笔触堆出的颜料表面带有柔和颗粒与视觉震颤。",
+  "style_prompt_en": "An airy Impressionist oil painting seen from a high vantage. Broken, short touches assemble foliage, pale ground, and distant architectural blocks without hard outlines. Chalk cream, muted green, dusty rose, blue-gray, and charcoal form a light, restrained palette. Diffuse daylight gives the broad central opening a gentle glow, with only soft compact shadows. Repeated tiny dark marks animate the lower field, while two receding channels pull the eye through a central green mass into haze. The upper space remains quiet and open, balancing busy flecked texture below.",
+  "style_prompt_zh": "从较高视点观看的通透印象派油画。短促破碎的笔触拼出叶丛、浅色地面与远处块状结构，不依赖硬轮廓。粉白、柔绿、灰粉、蓝灰和炭色构成轻盈而节制的色盘。漫射日光让宽阔的中心空地柔和发亮，阴影小而轻。下方反复出现的细小深色笔迹增加活力，两条退远的通道把目光带过中央绿块送入薄雾。上部空间保持安静开阔，平衡下方繁忙的斑点肌理。",
+  "theme_en": "A tree-lined city square viewed from above",
+  "theme_zh": "从高处俯瞰林荫城市广场",
+  "wh_ratio": "1:1",
+  "id": "3082",
+  "name": "Camille Pissarro",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/camille-pissarro",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "db5c6ea179a810b588476794815abe2594f3a8797b86f7dcc725fe8fbc763530",
+    "gpt_submission_prompt": "An Impressionist city view looks down from an upper-floor window onto a broad pale square. A triangular stand of leafy green trees occupies the middle, dividing the road into two channels that recede toward distant streets. Small pedestrians and dark carriages are scattered across the light ground, their brisk painted marks suggesting movement without detailed anatomy. Rows of stone façades line both sides, with green awnings at the left and a warm salmon-colored building rising behind the trees. Above, a large quiet gray-blue sky gives the busy street room to breathe. The scene is built from broken dabs of paint rather than crisp outlines: foliage is a mass of many dark and light green touches, the façades soften into beige and rosy patches, and distant figures become small strokes. Daylight is diffuse, making shadows gentle and allowing the open square to glow a warm cream. The elevated viewpoint reveals an orderly street plan, but lively uneven brushwork keeps the composition from feeling rigid. The eye follows the two converging roads past the central trees into haze, then returns to the people spaced across the foreground. The painting balances urban activity and spacious atmosphere, using a restrained palette of chalk, green, dusty rose, blue-gray, and charcoal. Its surface has the soft grain and visual vibration of pigment applied in many small touches.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "a13f6e8b886a27015aaef449aedeb996bc95fd8e2e8e3bceb5d6d6659b8132f2",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

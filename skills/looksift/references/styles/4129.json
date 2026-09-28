@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square fantasy illustration places a dark winged creature across a vast red-orange sky. The creature flies from left toward right near the center, with long tapering wings extending almost to both edges and a narrow body held between them. Behind it, a huge pale red moon rises in the upper half, its faint crater marks barely visible through the saturated atmosphere. At the left, several black castle spires climb from a shadowy rocky ridge, their silhouettes softened by red haze as they recede. The foreground is a low strip of rough stone and dark earth, with a few isolated rocks catching dull blue-gray highlights. Toward the right, the land falls away into a flat distant horizon, leaving the creature's outer wing unobstructed. The entire scene is built from a restricted palette: scarlet, brick red, wine shadow, charcoal, and small blue-violet glints in the ground. Brush texture and fine atmospheric grain keep the sky from becoming a simple solid color. Light comes from the enormous moon and the glowing red sky behind the subject, throwing the creature and spires into deep silhouette; their edges carry only a thin warm rim. The large circles and steep verticals give the scene mythic scale without a crowded cast. There is no readable text. The overall composition is ominous and spacious, suspending one sharp moving shape between a monumental pale disc and a dark descending landscape.",
+  "full_prompt_zh": "一幅方形幻想插画把深色翼兽置于广阔的红橙天空中。它在中央附近从左向右飞，两片渐尖长翼几乎伸到两侧画边，狭长身体夹在翼间。后方一轮巨大的浅红月升在上半部，淡淡的环形痕迹几乎被饱和空气吞没。左侧几座黑色城堡尖塔从阴暗岩脊升起，剪影随距离增加而被红雾柔化。前景是一条粗糙石地与深色土面的低带，几块孤立石头接住暗蓝灰亮点。向右，土地降向平坦远方地平线，让翼尖不受遮挡。全景由收窄色域构成：猩红、砖红、酒色阴影、炭黑，以及地面的少量蓝紫微光。笔触肌理和细微空气颗粒使天空不是简单实色。光来自巨大月亮与主体后方发亮的红天，使翼兽和尖塔陷入深剪影；边缘只留一线暖色轮廓。大圆和陡直竖线赋予场景神话尺度，却没有拥挤角色。没有可读文字。整体构图不祥而开阔，让一道锐利移动的形状悬在宏大的浅色圆盘与下降的深色地景之间。",
+  "style_prompt_en": "Digital fantasy illustration uses broad atmospheric color fields, strongly simplified dark silhouettes, and a few sharply tapering contours. Scarlet, brick red, orange-red, wine, and charcoal dominate, with tiny blue-violet notes cooling the lower region. A large pale circular glow backlights the darker forms, producing thin warm rims while most internal detail remains hidden. Fine grain and soft haze break up the saturated field and create depth around distant shapes. Broad negative space is balanced by a clustered vertical zone and one long diagonal movement. The effect is cinematic, ominous, and monumental without requiring dense detail.",
+  "style_prompt_zh": "数字幻想插画采用宽阔空气色域、强烈简化的深色剪影与少数锐利渐尖轮廓。猩红、砖红、橙红、酒色与炭黑占主导，极少蓝紫色在下部降温。大型浅亮圆形从后方照亮深色形体，形成纤细暖色轮廓，而内部细节大多隐去。细颗粒与柔雾打散饱和色域，并围绕远处形态建立纵深。宽阔留白由聚集的竖向区域和一道长斜向动势平衡。效果电影化、不祥而宏大，无需密集细节。",
+  "theme_en": "A winged creature crossing a red moon above dark spires",
+  "theme_zh": "红月与深色尖塔之间飞过的翼兽",
+  "wh_ratio": "1:1",
+  "id": "4129",
+  "name": "Wayne Barlowe",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/wayne-barlowe.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "f5228c03cfc7d1cfd9d321e5719ec09de58735892399873925b96588126f60fd",
+    "gpt_submission_prompt": "A square fantasy illustration places a dark winged creature across a vast red-orange sky. The creature flies from left toward right near the center, with long tapering wings extending almost to both edges and a narrow body held between them. Behind it, a huge pale red moon rises in the upper half, its faint crater marks barely visible through the saturated atmosphere. At the left, several black castle spires climb from a shadowy rocky ridge, their silhouettes softened by red haze as they recede. The foreground is a low strip of rough stone and dark earth, with a few isolated rocks catching dull blue-gray highlights. Toward the right, the land falls away into a flat distant horizon, leaving the creature's outer wing unobstructed. The entire scene is built from a restricted palette: scarlet, brick red, wine shadow, charcoal, and small blue-violet glints in the ground. Brush texture and fine atmospheric grain keep the sky from becoming a simple solid color. Light comes from the enormous moon and the glowing red sky behind the subject, throwing the creature and spires into deep silhouette; their edges carry only a thin warm rim. The large circles and steep verticals give the scene mythic scale without a crowded cast. There is no readable text. The overall composition is ominous and spacious, suspending one sharp moving shape between a monumental pale disc and a dark descending landscape.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "4888fa7777524d605b6078dce2a633505e796d922f55f4c40a214cdab3e5f58c",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

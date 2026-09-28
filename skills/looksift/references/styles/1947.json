@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square ocean photograph is taken from inside a large breaking wave, looking toward a small surfer near the lower-left opening of the barrel. The curved wall of water rises from the dark foreground and sweeps overhead, occupying nearly the entire frame. Its surface is deep cobalt and teal, with translucent cyan streaks and foamy white textures caught in the moving crest. A bright opening near the middle-left lets daylight through, turning the water there pale aqua and creating a glowing path along the wave face. The surfer appears as a tiny dark silhouette in the open section, low on a board and balanced against the immense moving water. The lower part of the image holds a smooth but rippled band of dark sea, its surface reflecting scattered silver-blue light. To the right, the wave closes into a denser blue-black mass, and the upper curve contains fine bubbles and streaks that reveal its speed. No shore or other people are visible. The camera sits near water level, making the hollow wave feel like a temporary vaulted space, with a narrow route to daylight at one end. Light enters through the translucent crest and the barrel opening, while deep shadow builds beneath the thick water. The limited cool palette is rich with gradations rather than flat color. The small human figure gives scale but does not dominate the scene. The overall photograph is immersive and dynamic, balancing the surfer's poised stillness with the violent, graceful architecture of the curling wave.",
+  "full_prompt_zh": "一幅方形海洋摄影从巨大破浪内部拍摄，望向卷浪左下方开口附近的一名小小冲浪者。弯曲水墙从深暗前景升起并扫过头顶，几乎占据整幅画面。水面呈深钴蓝与青绿，流动浪尖间夹着半透明青色条纹和泡沫白色纹理。中央偏左附近一道明亮开口让日光穿入，使那里的水转为浅水蓝，并在浪面上划出发亮路径。冲浪者在敞开区域里成为极小的暗色剪影，低伏在板上，与巨大运动水体保持平衡。画面下方是一条平滑却有波纹的深色海带，表面反射零散银蓝光。右侧浪壁收为更密的蓝黑体量，上方弯曲处有细小气泡与流线显出速度。看不到海岸或其他人。相机位于接近水面的高度，使空心浪管像一个短暂的拱顶空间，一端有通往日光的狭窄出口。光透过半透明浪尖和浪管开口进入，厚水体之下则形成深阴影。有限冷色调拥有丰富渐变，而非扁平色面。小人物提供尺度却不主导场景。整幅照片沉浸而富动势，以冲浪者有分寸的静稳对照卷浪猛烈而优美的结构。",
+  "style_prompt_en": "Immersive water-level photography uses a sweeping translucent curve as both subject and spatial frame. Deep cobalt and teal shadow contrast with cyan transmission and a narrow silver-white opening. Fine foam, bubbles, ripple lines, and wet reflections describe fast movement, while a tiny dark accent supplies scale. Backlight through thin water creates luminous gradients; thicker areas stay nearly black. Keep the viewpoint low and close, the wide curve dominant, and the path to open light clearly visible. The image should feel physically immediate, dynamic, and cool-toned.",
+  "style_prompt_zh": "沉浸式近水面摄影以扫过画面的半透明曲线同时作为主体和空间边框。深钴蓝、深青阴影对照透光的青色和一道狭窄银白出口。细泡沫、气泡、波纹线与湿润反射描出快速运动，小小深色重音提供尺度。逆光穿过薄水层制造发亮渐变，较厚区域保持近黑。视点低而近，宽大曲线主导，通向开阔亮处的路径清晰。图像应有身体临场感、动势与冷色气氛。",
+  "theme_en": "A small surfer beneath the vast blue curl of a breaking wave",
+  "theme_zh": "一名小小冲浪者位于巨大蓝色卷浪之下",
+  "wh_ratio": "1:1",
+  "id": "1947",
+  "name": "Morgan Maassen",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/morgan-maassen",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/morgan-maassen.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "0f01a3b41644f1d782bb0646aa9c494ed858077733bc2a29f044bdb29235e646",
+    "gpt_submission_prompt": "A square ocean photograph is taken from inside a large breaking wave, looking toward a small surfer near the lower-left opening of the barrel. The curved wall of water rises from the dark foreground and sweeps overhead, occupying nearly the entire frame. Its surface is deep cobalt and teal, with translucent cyan streaks and foamy white textures caught in the moving crest. A bright opening near the middle-left lets daylight through, turning the water there pale aqua and creating a glowing path along the wave face. The surfer appears as a tiny dark silhouette in the open section, low on a board and balanced against the immense moving water. The lower part of the image holds a smooth but rippled band of dark sea, its surface reflecting scattered silver-blue light. To the right, the wave closes into a denser blue-black mass, and the upper curve contains fine bubbles and streaks that reveal its speed. No shore or other people are visible. The camera sits near water level, making the hollow wave feel like a temporary vaulted space, with a narrow route to daylight at one end. Light enters through the translucent crest and the barrel opening, while deep shadow builds beneath the thick water. The limited cool palette is rich with gradations rather than flat color. The small human figure gives scale but does not dominate the scene. The overall photograph is immersive and dynamic, balancing the surfer's poised stillness with the violent, graceful architecture of the curling wave.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "02035356502b5ca4aa17c93cff558a83f9c1ce8cb92a2e9109b6c3f557ea9a55",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

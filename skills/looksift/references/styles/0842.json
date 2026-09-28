@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square political caricature shows an elderly man in a tall black top hat standing with a cane amid rubble, dead brush, and broken industrial ground. His long narrow face, heavy brows, and downturned mouth are sharply exaggerated. A dark coat and bright green necktie give his thin body an old-fashioned formal air. Behind him, factory chimneys rise through a turquoise sky, and smoke or haze spreads over the ruined landscape. Torn fence lines and littered stones mark the foreground. Fine ink hatching and scratchy graphite describe wrinkles, coat folds, weeds, masonry, and distant pipes. Loose colored washes in teal, gray, cream, and muted brown soften the intricate linework, while the green tie supplies a concentrated accent. The figure is positioned left of center, with the industrial wreckage extending to the right. Light is diffuse, allowing the face and hat to read clearly without a dramatic spotlight. The composition juxtaposes dignified attire and devastated environment, creating satire through contrast rather than a caption. The whole frame feels bleak, intelligent, and hand-worked, with a strong caricature surrounded by atmospheric social landscape.",
+  "full_prompt_zh": "一幅方形政治漫画呈现一位年长男子戴着高黑礼帽、拄手杖站在瓦砾、枯灌木与破损工业地面中。长而窄的脸、重眉与下垂嘴角被尖锐夸张。深色大衣与鲜绿领带赋予瘦身形过时的正式气质。背后工厂烟囱升入青绿色天空，烟或雾铺过废墟风景。断裂围栏线和散石标出前景。细墨排线与刮擦石墨描写皱纹、衣褶、杂草、石造与远方管道。深青、灰、乳白与低饱和棕的松动彩色薄染柔化繁复线描，绿领带则是集中的点缀。人物位于略偏左，工业破败向右侧延伸。光漫射，使面孔与帽子无需戏剧聚光仍清楚。构图把体面的服装与毁坏环境并置，讽刺来自反差而非文字说明。整幅画荒凉、机敏、手工痕迹明显，强烈夸张人物被富于空气感的社会风景围住。",
+  "style_prompt_en": "A political caricature style places one strongly exaggerated, old-fashioned figure in a damaged atmospheric landscape. Fine ink hatching, graphite scratches, and loose muted color washes work together. Turquoise or smoky teal sky contrasts with black clothing, pale rubble, brown brush, and one small bright accent. Diffuse light keeps both face and environmental evidence readable. Broken fences, chimneys, and debris form a rough horizontal field around a narrow vertical silhouette. The mood is bleak and satirical, with humor or criticism emerging from the mismatch between formal posture and ruined setting. The surface stays visibly drawn and washed, not digitally slick.",
+  "style_prompt_zh": "政治夸张漫画风格把一位明显变形、衣着过时的人物放进受损而富于空气感的风景。细墨排线、石墨刮痕和松动低饱和彩色薄染共同起作用。青绿色或烟雾深青天空对照黑衣、浅色瓦砾、棕灌木和一处小鲜色点缀。漫射光让面孔与环境证据同时可读。破栅栏、烟囱与碎物在狭窄竖向剪影周围组成粗糙水平场。气氛荒凉而讽刺，幽默或批评来自正式姿态与毁坏场地的不匹配。表面保持明显手绘薄染，而非油亮数字效果。",
+  "theme_en": "An elderly top-hatted man stands in polluted ruins beneath a turquoise sky",
+  "theme_zh": "一位戴高礼帽的老人立于污染废墟中，背后是青绿色天空",
+  "wh_ratio": "1:1",
+  "id": "0842",
+  "name": "Martin Rowson",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/martin-rowson",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/martin-rowson.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "13b705b81683bf794081dfc12ea8c35f1408b92c5938b53c23827d028935776e",
+    "gpt_submission_prompt": "A square political caricature shows an elderly man in a tall black top hat standing with a cane amid rubble, dead brush, and broken industrial ground. His long narrow face, heavy brows, and downturned mouth are sharply exaggerated. A dark coat and bright green necktie give his thin body an old-fashioned formal air. Behind him, factory chimneys rise through a turquoise sky, and smoke or haze spreads over the ruined landscape. Torn fence lines and littered stones mark the foreground. Fine ink hatching and scratchy graphite describe wrinkles, coat folds, weeds, masonry, and distant pipes. Loose colored washes in teal, gray, cream, and muted brown soften the intricate linework, while the green tie supplies a concentrated accent. The figure is positioned left of center, with the industrial wreckage extending to the right. Light is diffuse, allowing the face and hat to read clearly without a dramatic spotlight. The composition juxtaposes dignified attire and devastated environment, creating satire through contrast rather than a caption. The whole frame feels bleak, intelligent, and hand-worked, with a strong caricature surrounded by atmospheric social landscape.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "83b20d24fb9956fe25af35d13fa218563d7d57ee7d3bd30ebbee53b182d85c8a",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

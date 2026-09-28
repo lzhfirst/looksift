@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square traditional oil painting looks across a blue stream toward a child sitting alone among tall dry grass on the right bank. The child is seen from behind in a light blue dress or shirt, a pale straw hat shading the head. One knee rises slightly, and the small body curves toward the water in a relaxed, contemplative posture. The stream occupies most of the left half, with layered blue, slate, and silver brushstrokes suggesting gentle surface movement. Golden grasses, green reeds, and clumps of low vegetation follow the uneven bank and lead toward more distant meadow and darker trees. Warm sunlight touches the hat, shoulder, grass tips, and scattered water highlights. Shadows in the trees and bank are deep olive, while the water remains cool. The brushwork is broad and visible, but small strokes articulate straw, foliage, and sparkling reflections. The camera-like viewpoint sits slightly above and behind the child, making the stream's curve and surrounding bank easy to read. No other people, buildings, or text enter the scene. The image is peaceful and intimate, with a simple human pause held inside richly painted natural textures.",
+  "full_prompt_zh": "一幅方形传统油画隔着蓝色溪流望向右岸高高干草中的独坐孩子。孩子从背后看，穿浅蓝裙或衫，浅草帽遮头。一只膝略抬，小身体朝水轻弯，姿势放松而沉思。溪流占左半部大部分，层叠蓝、板岩和银色笔触暗示轻微水面运动。金草、绿芦与低矮植被沿不平岸边延伸，导向更远草甸和深树。暖阳触到帽、肩、草尖和零散水亮点。树和岸的阴影深橄榄，水则保持冷。笔触宽而可见，小笔痕仍交代稻草、枝叶和闪烁倒影。近似相机的视点位于孩子稍上后方，使溪流曲线和周边岸坡易读。没有其他人物、建筑或文字进入。画面平和亲密，简单的人类暂停被丰厚绘画式自然纹理托住。",
+  "style_prompt_en": "Traditional oil painting with visible broken brushwork, cool blue waterlike planes, golden dry strokes, and deep olive foliage shadows. Warm sunlight appears as small flecks across textured surfaces rather than a polished glow. Broad directional marks establish flow, while shorter strokes articulate reeds and reflections. A quiet compact focal form sits within richly layered natural color and soft distance.",
+  "style_prompt_zh": "传统油画，以可见断续笔触、冷蓝流动平面、金色干笔痕和深橄榄枝叶影构成。暖阳以纹理表面小碎亮出现，而非磨亮光泽。宽定向笔痕建立流势，短笔触交代芦草和反射。安静紧凑焦点形置于丰厚层叠自然色与柔远景之间。",
+  "theme_en": "A child sitting by a blue stream in tall sunlit grass",
+  "theme_zh": "一个孩子坐在阳光草丛间的蓝色溪边",
+  "wh_ratio": "1:1",
+  "id": "0907",
+  "name": "Frances Tipton Hunter",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/frances-tipton-hunter",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/frances-tipton-hunter.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "1a8f55f52415d37ce684ff01616778aac9f5ad8791f6fbf1b4976a1bf8ba7606",
+    "gpt_submission_prompt": "A square traditional oil painting looks across a blue stream toward a child sitting alone among tall dry grass on the right bank. The child is seen from behind in a light blue dress or shirt, a pale straw hat shading the head. One knee rises slightly, and the small body curves toward the water in a relaxed, contemplative posture. The stream occupies most of the left half, with layered blue, slate, and silver brushstrokes suggesting gentle surface movement. Golden grasses, green reeds, and clumps of low vegetation follow the uneven bank and lead toward more distant meadow and darker trees. Warm sunlight touches the hat, shoulder, grass tips, and scattered water highlights. Shadows in the trees and bank are deep olive, while the water remains cool. The brushwork is broad and visible, but small strokes articulate straw, foliage, and sparkling reflections. The camera-like viewpoint sits slightly above and behind the child, making the stream's curve and surrounding bank easy to read. No other people, buildings, or text enter the scene. The image is peaceful and intimate, with a simple human pause held inside richly painted natural textures.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "b7b690fc667965dd6946798a720bb0bf55befe31bac04ffc9396b7df7aece5af",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

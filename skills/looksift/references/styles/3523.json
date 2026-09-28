@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square cinematic landscape photograph places one small person and a red-leaved tree on a low sloping ridge beneath an immense dark sky. The tree stands near the lower left, its short trunk holding a wide irregular crown of rusty crimson foliage. A lone dark figure walks or stands a little to its right on the ridge line, separated by a stretch of dry brown grass. The land rises gently toward the right edge and occupies only the bottom quarter, making the human and tree very small against the weather. Above them, a heavy charcoal storm cloud sweeps in from the upper left and curls toward a pale opening in the right-center sky. Around that opening, intense orange and peach light stains the cloud undersides, creating a glowing spiral-like passage between the dark mass and bright air. The far right remains pale gray-white, while the left side descends toward almost black. Fine wind-bent grasses cover the slope in reddish brown tones, but no buildings or detailed road appear. The silhouette of the person is too small for clothing or facial detail; its upright scale mark is enough to make the sky feel vast. Light seems to break from behind the clouds on the right, warming the upper edges of the land and the tree crown while the foreground stays dark. The image has clear silhouettes but softly blended atmospheric cloud boundaries and a subtle photographic grain. The overall composition is spare and dramatic, balancing two tiny grounded forms against a wide, turbulent orange-black sky.",
+  "full_prompt_zh": "一幅方形电影式风景摄影把一个小人影和一棵红叶树放在低矮倾斜的山脊上，头顶是巨大的暗天。树靠近左下，短树干托着宽而不规则的锈红色树冠。一个孤独深色身影在山脊线上、树的稍右方行走或站立，中间隔着一段干枯棕草。土地向右边缘缓缓抬升，只占下方四分之一，使人物和树在天气面前格外渺小。上方，沉重炭黑风暴云从左上扫来，卷向右中天空的浅色开口。开口周围，强烈橙色与桃色染亮云底，在暗色云团与明亮空气间形成像螺旋般发光的通道。最右侧保持浅灰白，左侧则降至近黑。细密被风压弯的草覆盖山坡，呈红棕调，看不到建筑或明确道路。人物剪影太小，看不清衣服或面容；它直立的尺度标记已足以让天空显得巨大。光似乎从右方云后破出，温暖土地上缘和树冠，前景仍暗。图像的剪影清楚，云的空气边界则柔和融合，并带细微摄影颗粒。整体构图稀疏而戏剧化，以两个渺小的落地形体平衡宽阔、翻涌的橙黑天空。",
+  "style_prompt_en": "The image uses cinematic landscape photography with extreme negative space and a very low horizon. Charcoal storm masses dominate a narrow strip of rusty land, while a concentrated orange-peach break in the cloud provides the emotional center. Tiny dark vertical marks supply scale; their crisp silhouettes contrast with the soft turbulent edges of atmospheric light. Color remains restrained outside the luminous warm passage, and the ground carries subdued granular texture. Backlight touches upper contours but leaves most near surfaces in shadow. The overall effect is solitary, vast, and charged with impending weather.",
+  "style_prompt_zh": "图像采用电影式风景摄影，留白极大，地平线很低。炭黑风暴云团压住狭窄锈红土地，云间集中的橙桃色裂光成为情绪中心。极小的深色竖记号提供尺度，清晰剪影同空气光的柔软湍动边缘形成对照。除发亮暖色通道之外，颜色保持克制，地面带低调颗粒肌理。逆光触及上部轮廓，近处表面大多留在阴影里。整体效果孤独、广阔，并带着天气将变的力量。",
+  "theme_en": "A lone walker and red tree beneath an immense storm cloud",
+  "theme_zh": "巨大的风暴云下，孤独行人与红树立在山坡上",
+  "wh_ratio": "1:1",
+  "id": "3523",
+  "name": "Bess Hamiti",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/bess-hamiti",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "9f532911425bef1591298b3fb3e466bec8c367432431dba08656a4bcd2b34559",
+    "gpt_submission_prompt": "A square cinematic landscape photograph places one small person and a red-leaved tree on a low sloping ridge beneath an immense dark sky. The tree stands near the lower left, its short trunk holding a wide irregular crown of rusty crimson foliage. A lone dark figure walks or stands a little to its right on the ridge line, separated by a stretch of dry brown grass. The land rises gently toward the right edge and occupies only the bottom quarter, making the human and tree very small against the weather. Above them, a heavy charcoal storm cloud sweeps in from the upper left and curls toward a pale opening in the right-center sky. Around that opening, intense orange and peach light stains the cloud undersides, creating a glowing spiral-like passage between the dark mass and bright air. The far right remains pale gray-white, while the left side descends toward almost black. Fine wind-bent grasses cover the slope in reddish brown tones, but no buildings or detailed road appear. The silhouette of the person is too small for clothing or facial detail; its upright scale mark is enough to make the sky feel vast. Light seems to break from behind the clouds on the right, warming the upper edges of the land and the tree crown while the foreground stays dark. The image has clear silhouettes but softly blended atmospheric cloud boundaries and a subtle photographic grain. The overall composition is spare and dramatic, balancing two tiny grounded forms against a wide, turbulent orange-black sky.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "4a9e54d44dc25111db611f4d21b0b98374116fc062a6c441592cf24fffda142b",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

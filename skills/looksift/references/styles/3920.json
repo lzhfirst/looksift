@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square Japanese woodblock-style print places a circular blue seascape on warm cream paper. The circle occupies most of the frame but leaves broad bare margins at the corners. Along its lower-left edge, a tall indigo wave rises and curls inward, its crest breaking into many small cream claws of foam. Several narrower bands of water sweep around the bottom and right, carrying fine parallel lines that describe the current. In the open center, a pale snow-capped mountain stands under a light sky, its triangular peak centered slightly right and its lower slopes softened by atmospheric blue. A smaller dark ridge lies near the bottom of the circular opening. Above, a thick navy arc curves from upper left to upper right like a deep night sky or enclosing wave, with mottled ink grain in its blue field. The foamy crest crosses this arc and nearly touches the top of the inner opening, making the sea appear both powerful and carefully contained. The design uses flat printed color rather than modeled light: dark blue, faded blue, pale cream, and the unprinted paper create all depth. Fine contour lines and repeated wave striations remain crisp, while the paper shows faint age spots and uneven pigment. There are no people, boats, or written characters. The circular framing holds the restless waves against the stable mountain and broad paper border. The overall composition is rhythmic and balanced, combining forceful movement, precise linework, and calm distant space.",
+  "full_prompt_zh": "一幅方形日式木版画把圆形蓝色海景放在暖奶油色纸上。圆形占据大部分画面，却在四角留下宽阔空白。沿左下缘，一道高高的深蓝浪升起并向内卷，浪峰碎成许多奶油色泡沫小爪。数条较窄水带绕过底部与右侧，细密平行线描出水流。敞开的中心，一座浅色雪山立在淡天之下，三角峰略偏右居中，下坡被大气蓝软化。一道更小深色山脊位于圆形开口底部附近。上方，厚海军蓝弧从左上弯向右上，像深色夜空或包围的巨浪，蓝色域中留有斑驳墨粒。泡沫浪峰穿过这道弧，几乎触到内部开口顶部，使海既强劲又被精心收束。设计使用平面印色而非塑形光：深蓝、褪蓝、浅奶油和未印纸面构成所有纵深。细轮廓和重复浪纹保持清晰，纸面有浅淡旧斑与不均匀颜料。没有人物、船只或文字。圆形框景让奔涌海浪与稳定山体、宽阔纸边相对。整体构图有节奏且平衡，结合强烈运动、精确线描与平静远景。",
+  "style_prompt_en": "Use Japanese woodblock-print construction with flat limited inks, strong contour lines, repeated parallel hatching, and visible paper grain. Balance deep indigo against faded blue and warm unprinted cream. Build motion through nested curves and finely broken foam-like edges, while a simple distant form remains calm inside the composition. Keep shading graphic rather than volumetric and allow slight pigment irregularity or age spotting. Use a bold enclosing shape and generous paper margin for a clear emblematic rhythm.",
+  "style_prompt_zh": "采用日式木版画构造，以有限平面印色、强轮廓、重复平行刻线和可见纸纹成形。深靛蓝与褪蓝、暖奶油色未印纸面相平衡。用套叠曲线和细碎泡沫般边缘建立动势，同时让内部简单远景保持平静。明暗图形化而不求立体塑形，允许轻微颜料不均或旧斑。以强烈围合形和宽纸边形成清晰徽记般节奏。",
+  "theme_en": "A circular indigo wave framing a distant snow-capped mountain",
+  "theme_zh": "深蓝圆形巨浪环绕远处雪峰",
+  "wh_ratio": "1:1",
+  "id": "3920",
+  "name": "Katsushika Hokusai",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/katsushika-hokusai.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "1dc794465de99a24d0a16950ba96c0db05acd2ff2958cea8abceeca239697d80",
+    "gpt_submission_prompt": "A square Japanese woodblock-style print places a circular blue seascape on warm cream paper. The circle occupies most of the frame but leaves broad bare margins at the corners. Along its lower-left edge, a tall indigo wave rises and curls inward, its crest breaking into many small cream claws of foam. Several narrower bands of water sweep around the bottom and right, carrying fine parallel lines that describe the current. In the open center, a pale snow-capped mountain stands under a light sky, its triangular peak centered slightly right and its lower slopes softened by atmospheric blue. A smaller dark ridge lies near the bottom of the circular opening. Above, a thick navy arc curves from upper left to upper right like a deep night sky or enclosing wave, with mottled ink grain in its blue field. The foamy crest crosses this arc and nearly touches the top of the inner opening, making the sea appear both powerful and carefully contained. The design uses flat printed color rather than modeled light: dark blue, faded blue, pale cream, and the unprinted paper create all depth. Fine contour lines and repeated wave striations remain crisp, while the paper shows faint age spots and uneven pigment. There are no people, boats, or written characters. The circular framing holds the restless waves against the stable mountain and broad paper border. The overall composition is rhythmic and balanced, combining forceful movement, precise linework, and calm distant space.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "f163436829c177749c3c906363c3821177b324e8fe7ae36d98664982607f10e0",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

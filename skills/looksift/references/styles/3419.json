@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "The finished square is a monochrome graphite study of a horned goat's head and upper neck, set inside a pale rectangular printed border. The goat turns toward the right in three-quarter profile. One large curved horn rises above the head and bends backward, its ridged surface carefully shaded; part of the other horn appears behind the crown. Long pointed ears stand out from the head, and a narrow pale eye looks calmly to the side. The muzzle projects toward the right edge with a dark nostril and slight closed-mouth curve. A thin beard hangs beneath the chin, made from individually drawn strands that fade into the warm paper tone. The thick coat on the neck is built from many short pencil marks, with darker shadow under the jaw and around the base of the horn. In the otherwise quiet background, a few bare twigs trace faint lines behind the head. The tonal structure is delicate rather than stark: gray midtones, deep charcoal accents around eye and nostril, and broad untouched ivory paper give the animal volume. Fine crosshatching and soft smudged graphite blend at the transitions, revealing the texture of fur, horn and skin without glossy effects. The frame has slight foxing, grain and an aged paper edge, suggesting a preserved illustration plate. Most of the square is given to the animal's dignified silhouette, whose naturalistic attention and spare setting feel both scientific and affectionate.",
+  "full_prompt_zh": "成品正方形是一幅黑白石墨习作：一只长角山羊的头和上颈置于浅色矩形印刷边框内。山羊以四分之三侧面转向右边。一只大弯角从头顶升起并向后弯，角上的棱纹被仔细画出；另一只角有一部分露在头顶后方。长而尖的耳朵从头侧伸出，一只细长浅色眼睛平静地望向侧边。口鼻向右缘突出，有深色鼻孔和微弯的闭嘴线。细胡须从下巴垂下，由一根根线条构成，渐渐淡入暖色纸面。颈部厚毛由许多短铅笔痕组成，下颌和角根周围阴影更深。其余安静背景中，几根裸枝在头后留下浅线。灰阶结构细腻而非强烈：灰色中间调、眼和鼻孔周围的炭黑重点，以及大片未着笔的象牙白纸，共同给予动物体积。细交叉排线和轻微擦揉的石墨在过渡处融合，呈现毛、角和皮肤的质地，没有光滑特效。边框带轻微黄斑、颗粒和旧纸边缘，像保存至今的插图版页。正方形大部分空间交给动物庄重的轮廓，其自然主义细察与简洁场景兼具科学感和温情。",
+  "style_prompt_en": "Monochrome graphite drawing on warm aged paper combines fine crosshatching, short tactile strokes, softly rubbed midtones and sparing charcoal accents. Broad ivory reserves support precise naturalistic texture without glossy finish. A thin printed border, subtle foxing and restrained background marks give the square image the character of an old study plate.",
+  "style_prompt_zh": "暖色旧纸上的黑白石墨绘画结合细交叉排线、短促可触笔痕、轻柔擦揉的中间调和少量炭黑重点。宽阔象牙白留空承托准确的自然主义纹理，没有光滑表面。纤细印刷边框、轻微黄斑和克制背景线，使正方形画面呈现旧式写生版页气质。",
+  "theme_en": "A calm horned goat rendered as an old graphite natural-history study",
+  "theme_zh": "以旧式石墨博物写生呈现的宁静山羊",
+  "wh_ratio": "1:1",
+  "id": "3419",
+  "name": "Adonna Khare",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/adonna-khare",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "704f862fd2496db57d700c2a28409a5deb0d46893bfa6f6a445a5c34e1587e16",
+    "gpt_submission_prompt": "The finished square is a monochrome graphite study of a horned goat's head and upper neck, set inside a pale rectangular printed border. The goat turns toward the right in three-quarter profile. One large curved horn rises above the head and bends backward, its ridged surface carefully shaded; part of the other horn appears behind the crown. Long pointed ears stand out from the head, and a narrow pale eye looks calmly to the side. The muzzle projects toward the right edge with a dark nostril and slight closed-mouth curve. A thin beard hangs beneath the chin, made from individually drawn strands that fade into the warm paper tone. The thick coat on the neck is built from many short pencil marks, with darker shadow under the jaw and around the base of the horn. In the otherwise quiet background, a few bare twigs trace faint lines behind the head. The tonal structure is delicate rather than stark: gray midtones, deep charcoal accents around eye and nostril, and broad untouched ivory paper give the animal volume. Fine crosshatching and soft smudged graphite blend at the transitions, revealing the texture of fur, horn and skin without glossy effects. The frame has slight foxing, grain and an aged paper edge, suggesting a preserved illustration plate. Most of the square is given to the animal's dignified silhouette, whose naturalistic attention and spare setting feel both scientific and affectionate.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "34a1f6c0ab2bac86eca7a0608ff8ad97607bf670b4a7b4f2ced31e9b020a5368",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

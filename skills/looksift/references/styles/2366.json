@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square impressionist architectural landscape shows a pale classical columned building beside a sunlit road on a hillside. On the left, a monumental portico with tall ivory columns and a triangular pediment rises close to the viewer. Its shadowed interior is deep and cool, while the outer columns and upper stonework catch warm sunlight. Across the center, a lower pale wall and a few shrubs step down toward the road. Several slender dark cypress trees stand upright near the middle and right, their dense shapes contrasting with the open sky. Beyond them, a light rectangular building sits on a terrace, and distant pale rooftops spread toward a hazy horizon. The road enters at the lower right and curves gently behind the trees, its dusty cream surface broken by patches of blue-gray shade. Above, a rich blue sky contains large softly modeled cream clouds. The masonry, leaves, and ground are all made from small visible oil strokes, with sharper architectural edges held amid looser foliage and atmosphere. Light arrives from the upper left, highlighting column faces and the road while casting cool shadows beneath the portico and among the trees. The overall composition balances formal pale stone at the left with vertical greenery and a receding open view at the right, creating a clear, airy Mediterranean mood.",
+  "full_prompt_zh": "这是一幅方形印象派建筑风景，浅色古典柱廊建筑坐落在阳光照亮的山坡道路旁。左侧，带高大象牙色柱子与三角山墙的雄伟门廊靠近观者升起。深处室内冷而暗，外侧柱子和上部石构则承接暖日光。中央，一道较低浅墙和少量灌木沿道路方向层层降低。几棵纤细深色柏树在中部及右方直立，密实形状与开阔天空形成对比。其后，一座浅色矩形建筑立在露台上，更远处浅色屋顶伸向朦胧地平线。道路从右下进入，轻轻弯过树后，尘土般奶油色表面被蓝灰色阴影斑块打断。上方浓蓝天空里有大块柔和塑形的奶油色云。石材、树叶和地面都由可见的小油彩笔触构成，较清晰的建筑边缘置于更松动的枝叶和空气之间。光从左上方照来，提亮柱面与道路，在门廊下和树间投下冷色阴影。整体构图以左侧正式的浅色石构平衡右侧竖向绿意和退远的开阔景色，形成清爽通透的地中海气息。",
+  "style_prompt_en": "The painting uses loose but controlled oil strokes to join pale mineral geometry with small dark vertical accents and atmospheric distance. Cream and warm ivory planes sit against cobalt blue, olive green, and soft blue-gray shadow. Firm straight edges remain readable within visibly brushed color, while irregular organic masses and clouds dissolve more gently. Small dabs of contrasting pigment create surface vibration without hiding the larger structure. Directional daylight warms upper and outward-facing planes, and cool recesses give the scene depth. The composition opens from a close substantial form toward a lighter, receding side, maintaining balance between architectural order and airy painterly freedom. The overall effect is sunny, refined, and gently tactile.",
+  "style_prompt_zh": "绘画以松动而受控的油彩笔触，将浅色矿物几何形、小型深色竖向强调与大气远景结合。奶油和暖象牙色平面置于钴蓝、橄榄绿及柔和蓝灰阴影前。坚实直边在可见笔痕的色彩里仍清楚，有机不规则团块与云则更温和地消散。对比颜料的小点涂造成表面振动，却不遮住大的结构。定向日光温暖上部及朝外平面，冷调凹处赋予纵深。构图从近处厚重形体向一侧较轻、退远区域敞开，在几何秩序与通透绘画自由之间保持平衡。整体效果明朗、精致且略有触感。",
+  "theme_en": "A classical columned building beside a sunlit hillside road",
+  "theme_zh": "阳光山路旁的古典柱廊建筑",
+  "wh_ratio": "1:1",
+  "id": "2366",
+  "name": "Colin Campbell Cooper",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/colin-campbell-cooper",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/colin-campbell-cooper.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "1d7a5e464f38b523562aec8f28215a3f812065397dcdc3a7ec13dd5863e06180",
+    "gpt_submission_prompt": "A square impressionist architectural landscape shows a pale classical columned building beside a sunlit road on a hillside. On the left, a monumental portico with tall ivory columns and a triangular pediment rises close to the viewer. Its shadowed interior is deep and cool, while the outer columns and upper stonework catch warm sunlight. Across the center, a lower pale wall and a few shrubs step down toward the road. Several slender dark cypress trees stand upright near the middle and right, their dense shapes contrasting with the open sky. Beyond them, a light rectangular building sits on a terrace, and distant pale rooftops spread toward a hazy horizon. The road enters at the lower right and curves gently behind the trees, its dusty cream surface broken by patches of blue-gray shade. Above, a rich blue sky contains large softly modeled cream clouds. The masonry, leaves, and ground are all made from small visible oil strokes, with sharper architectural edges held amid looser foliage and atmosphere. Light arrives from the upper left, highlighting column faces and the road while casting cool shadows beneath the portico and among the trees. The overall composition balances formal pale stone at the left with vertical greenery and a receding open view at the right, creating a clear, airy Mediterranean mood.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "eca5977bd608349a167866430f5bb072a26060161991c579f57af8e5b2cfbe2b",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "records": 4012,
+  "website_unique_ids": 4012,
+  "production_manifest_ids": 4012,
+  "gpt_frozen_jobs": 4012,
+  "qwen_active_sources": 4012,
+  "four_prompt_fields_equal": true,
+  "display_name_differences_from_source": 23,
+  "gpt_submission_suffixes": {
+    "\n\nOutput aspect ratio: 1:1 (square).": 4012
+  },
+  "website_scripts": [
+    "../data/catalog.js",
+    "../data/comparisons.js",
+    "../data/rebuild/prompt_batches/generated/gallery-index.js",
+    "native-gpt.js",
+    "../data/rebuild/prompt_batches/generated/gpt-v4/gallery-index.js"
+  ],
+  "id_sha256": "a79b3300ed04da816083a1dc1f1288a497cf770f742e6cf833a6be9e6f753912",
+  "authority": "production-controller-full-manifest-v4",
+  "source_manifest": "data/rebuild/prompt_batches/source-prompts-v4/full-manifest.json",
+  "source_manifest_sha256": "c144b12003a086bbe6f5539ebe6dbd7a1f9a32ff2e0f3774f6f3e0f4276fbb01",
+  "source_records": "data/rebuild/prompt_batches/source-prompts-v4/prompts/{id}.json",
+  "prompt_revision": [
+    "official-t2i-source-v4"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square comic-book scene shows a lone man from behind standing amid rubble and looking toward a ruined city beneath a vivid blue sky. He occupies the center of the view, wearing a pale blue long-sleeved shirt with rolled sleeves, blue trousers, and brown shoes. His hands hang loosely by his sides as he faces away toward the distant buildings. The foreground is a broken street of stone slabs, dust, and angular fragments, with larger debris piled along both edges. On the far left, the fractured wall of a tall building rises out of frame, its torn masonry forming a heavy dark border. To the right of the man, jagged remains and a pale upright spire interrupt the distant skyline. Across the middle distance, a broad field of damaged pale structures stretches under the horizon, their details becoming smaller and softer with depth. Above them, energetic white and gray cloud shapes sweep across a saturated blue sky; a small bird-like form appears high toward the right. Black and blue-gray ink lines define the debris and edges, while warm ochre marks catch the dusty roadway. Fine hatching and rough color patches give the damaged ground texture without losing the main path through the frame. Strong daylight falls from above and to the left, making the shirt and clouds bright and casting cooler shadows into the rubble. The overall composition sends the eye past the still central figure into a vast fractured distance, combining clear heroic scale with a mournful, open atmosphere.",
+  "full_prompt_zh": "这幅方形漫画场景呈现一名男子背对观者，独自站在瓦砾中，仰望鲜蓝天空下的城市废墟。他位于视野中央，穿浅蓝长袖衬衫，袖子卷起，下身是蓝裤与棕鞋。双手自然垂于身体两侧，面向远方建筑。前景是一条由碎石板、尘土和棱角碎片组成的破损街道，两侧堆着较大瓦砾。最左侧，一座高楼的断裂墙体冲出画框，撕裂的砖石成为沉重暗色边框。男子右侧，参差残骸和一根浅色直立尖塔打断远方天际线。中景处，大片受损浅色建筑在地平线下延伸，细节随距离增加而缩小、柔化。其上，有活力的白灰云形扫过饱和蓝天；右上方有一个细小似鸟的形体。黑色与蓝灰色墨线定义碎石和边缘，暖赭色痕迹接住蒙尘道路上的光。细排线与粗糙色块赋予破损地面肌理，同时保留穿过画面的主要路径。强烈日光从上方偏左照下，使衬衫与云层明亮，让瓦砾凹处沉入较冷阴影。整体构图引导视线越过静止的中央人物，进入辽阔破碎的远景，把清晰的英雄式尺度与哀伤而开阔的氛围结合。",
+  "style_prompt_en": "Comic-book illustration pairs forceful ink contours and dense hatching with broad painted fields of blue, chalky white, gray, and dusty ochre. Angular broken shapes crowd the near edges, then diminish into a softly layered distance, producing dramatic scale. Highlights stay bright and open, especially in large upper color fields, while cool shadows and black linework give the lower masses weight. Brush texture and small scuffs roughen surfaces without burying the main silhouettes. A clear central axis leads through busy foreground detail toward a spacious horizon. The overall treatment is energetic, cinematic, and weathered.",
+  "style_prompt_zh": "漫画插画将有力墨线轮廓和密集排线，与大块蓝、粉白、灰和蒙尘赭色绘画区域结合。棱角破碎形状挤在近处边缘，向柔和层叠的远处缩小，产生戏剧性尺度。亮部保持明快开阔，尤其是上方大片色域；冷影和黑线给下方色团增加重量。笔刷肌理与细小擦痕粗化表面，却不掩埋主要剪影。清晰中央轴线穿过繁忙前景细节，通向宽阔地平线。整体有能量、电影感和风化质地。",
+  "theme_en": "A lone man surveying a ruined city beneath a vivid blue sky",
+  "theme_zh": "孤身男子在鲜蓝天空下眺望城市废墟",
+  "wh_ratio": "1:1",
+  "id": "2374",
+  "name": "Andy Kubert",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/andy-kubert",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/andy-kubert.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "c6600222d02ca312c1fe327a3fae8c9e2ca41ff645b0e6c155bb62a152223988",
+    "gpt_submission_prompt": "A square comic-book scene shows a lone man from behind standing amid rubble and looking toward a ruined city beneath a vivid blue sky. He occupies the center of the view, wearing a pale blue long-sleeved shirt with rolled sleeves, blue trousers, and brown shoes. His hands hang loosely by his sides as he faces away toward the distant buildings. The foreground is a broken street of stone slabs, dust, and angular fragments, with larger debris piled along both edges. On the far left, the fractured wall of a tall building rises out of frame, its torn masonry forming a heavy dark border. To the right of the man, jagged remains and a pale upright spire interrupt the distant skyline. Across the middle distance, a broad field of damaged pale structures stretches under the horizon, their details becoming smaller and softer with depth. Above them, energetic white and gray cloud shapes sweep across a saturated blue sky; a small bird-like form appears high toward the right. Black and blue-gray ink lines define the debris and edges, while warm ochre marks catch the dusty roadway. Fine hatching and rough color patches give the damaged ground texture without losing the main path through the frame. Strong daylight falls from above and to the left, making the shirt and clouds bright and casting cooler shadows into the rubble. The overall composition sends the eye past the still central figure into a vast fractured distance, combining clear heroic scale with a mournful, open atmosphere.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "a048fa08be2f23abd8fc47dec7cbaef034e0089f440df4e77b74f7ceb84ac4c8",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

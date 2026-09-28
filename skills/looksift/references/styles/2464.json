@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square visionary painting shows two seated figures on a high wooded ledge overlooking a vast patterned valley beneath a golden circular sun. The foreground is framed by a heavy tree trunk and dense dark leaves at the upper left, with mossy green stone and intricate carved structures descending along the sides. The figures sit close together left of center. One in yellow leans behind and lightly embraces the other, who wears warm rust-orange clothing and looks outward over the landscape. Their backs are largely turned toward the viewer, keeping attention on the expansive view. At the horizon, a large gold disc is partly hidden by luminous white clouds that billow across its lower half. Below, bands of green fields, winding waterways, tiny buildings, and trees stretch into the distance. The right side is crowded with stacked golden-brown terraces and small architectural details, while a narrow cascade drops through the lower right. Leaves, masonry, garments, and distant terrain are all covered with fine repeated marks, giving the whole surface a tapestry-like density. Warm gold and ochre details contrast with emerald, olive, dark teal, and the bright white cloud. Light appears to come from the sun and open sky, brightening the clouds and valley while the ledge and framing tree stay relatively dark. The overall composition is lush and meditative, placing an intimate pair before an immense radiant world of intricate natural and built forms.",
+  "full_prompt_zh": "这是一幅方形幻象绘画，两位人物坐在高处林木岩台上，俯瞰金色圆日下广阔的纹样山谷。前景由左上方厚树干与浓密深叶框住，苔绿色石头和精巧雕刻结构沿两侧向下延伸。两人靠近中央左侧坐在一起。一位穿黄色者从后方倾向另一位并轻轻环抱；另一位穿暖锈橙衣，望向远方。他们大体背向观者，让注意力落在开阔视野上。地平线处，大金盘下半部被发光的白云遮住，云团向周围翻卷。其下，层层绿色田地、蜿蜒水道、微小建筑和树木延向远方。右侧挤满堆叠的金褐露台与小型建筑细节，一道细瀑从右下落下。叶、石构、衣物和远处地面都布满重复细痕，使整个表面具有织毯般密度。暖金与赭色细节对照祖母绿、橄榄、深青和亮白云。光似乎来自太阳与开阔天空，照亮云和山谷，让岩台与框景树木保持相对深暗。整体构图丰盛而冥想，让亲密二人立在由自然与人工形体精密交织的宏大光辉世界前。",
+  "style_prompt_en": "The visionary painted style layers densely patterned natural and geometric forms into a tapestry-like surface. Emerald, olive, deep teal, ochre, bronze, and radiant gold repeat in tiny marks, while concentrated white light opens a central breathing space. Dark framing masses and ornate side details guide the eye into a deep, panoramic middle distance. Edges are precise on carved and decorative passages but soften in luminous atmosphere. Scale shifts from intimate focal shapes to miniature far detail without abandoning the same fine surface rhythm. Light appears warm and symbolic, radiating through clouds and catching selected patterns while foreground contours remain dark. The effect is lush, intricate, and meditative.",
+  "style_prompt_zh": "这种幻象绘画把密集纹样化的自然与几何形层叠为织毯般表面。祖母绿、橄榄、深青、赭色、青铜和发光金色在微小笔痕中重复，集中白光则打开中央的呼吸空间。深色框景团块与华丽侧边细节引导视线进入纵深全景。雕刻和装饰区域边缘精确，发光空气中则柔化。尺度从贴近焦点形体变化到远处微型细节，却不放弃相同的细密表面节奏。光显得温暖而富象征性，穿透云层，照亮部分纹样，前景轮廓仍深暗。效果丰盛、精巧且冥想。",
+  "theme_en": "Two seated figures overlooking a patterned valley beneath a golden sun",
+  "theme_zh": "两位坐着的人俯瞰纹样山谷与金色太阳",
+  "wh_ratio": "1:1",
+  "id": "2464",
+  "name": "Mati Klarwein",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/mati-klarwein",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/mati-klarwein.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "75eb4a24c746bbcc433c7814cba1b54d24abfb6c289dfe097678230656518d0d",
+    "gpt_submission_prompt": "A square visionary painting shows two seated figures on a high wooded ledge overlooking a vast patterned valley beneath a golden circular sun. The foreground is framed by a heavy tree trunk and dense dark leaves at the upper left, with mossy green stone and intricate carved structures descending along the sides. The figures sit close together left of center. One in yellow leans behind and lightly embraces the other, who wears warm rust-orange clothing and looks outward over the landscape. Their backs are largely turned toward the viewer, keeping attention on the expansive view. At the horizon, a large gold disc is partly hidden by luminous white clouds that billow across its lower half. Below, bands of green fields, winding waterways, tiny buildings, and trees stretch into the distance. The right side is crowded with stacked golden-brown terraces and small architectural details, while a narrow cascade drops through the lower right. Leaves, masonry, garments, and distant terrain are all covered with fine repeated marks, giving the whole surface a tapestry-like density. Warm gold and ochre details contrast with emerald, olive, dark teal, and the bright white cloud. Light appears to come from the sun and open sky, brightening the clouds and valley while the ledge and framing tree stay relatively dark. The overall composition is lush and meditative, placing an intimate pair before an immense radiant world of intricate natural and built forms.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "34af3f48c902f24e4e9a250bfd8f0e2a6105a87f2a9ffb0c2e3dd667fde18cb5",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

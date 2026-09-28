@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square oil painting depicts a cluster of pedestrians passing through a shadowed city street at dusk. Near the center-left, a man in a dark suit and brimmed hat strides toward the viewer with hands in his pockets. Beside him, a woman in a long teal coat and warm coral hat turns to look over her shoulder. Two other people stand just behind them, their faces picked out by small patches of pale light, while the rest of the crowd fades into deep brown and gray on either side. Tall dark buildings rise close to the street, and a faint warm glow slips down the canyon between them. The figures are constructed with broad visible brushstrokes rather than tight outlines: coats become weighty blocks of charcoal, teal, tan, and black, and faces resolve from a few confident dabs. The ground is a loose plane of gray-brown paint with minimal detail. The composition is crowded yet focused, as the coral hat and teal coat draw attention within a low-key palette. Light is diffuse, smoky, and selective, leaving the edges of the picture incomplete. The painterly surface has thick scumbles and scraped transitions that give people and city a shared material atmosphere. The scene feels urban, restless, and candid, without any readable signage or decorative border.",
+  "full_prompt_zh": "一幅方形油画描绘暮色里一群行人穿过阴影中的城市街道。中央稍左，戴宽檐帽、穿深西服的男子双手插兜朝观者走来。身旁穿长青绿外套、戴暖珊瑚色帽的女子回头望。后面又站两人，面孔由小片浅光点出，其余人潮在两边深棕与灰色中淡去。高而深的建筑紧靠街道升起，一缕暖光从其间城市峡谷漏下。人物由宽阔可见笔触构成而非严密轮廓：外套化成厚重炭黑、青绿、棕黄和黑色块，面孔由几笔果断点画成形。地面只是细节极少的松动灰褐色平面。构图拥挤却有焦点，珊瑚帽和青绿衣在低调配色里吸住视线。光漫射、烟雾化且有选择性，画面边缘留着未完成感。绘画表面有厚重擦抹和刮削过渡，使人与城市共享同一种物质空气。场景都市、躁动而像抓拍，没有可读招牌或装饰边框。",
+  "style_prompt_en": "Loose urban oil painting with broad loaded strokes, scumbled transitions, and figures assembled from weighty color blocks. Charcoal, umber, slate, and smoky gray dominate, interrupted by selective teal and coral accents. Diffuse light touches a few focal planes while peripheral forms merge with dark atmospheric paint. Crowded overlap, incomplete edges, and a tactile surface create restless candid energy.",
+  "style_prompt_zh": "松动都市油画以宽阔饱含颜料的笔触、擦抹过渡和厚重色块拼成形体。炭黑、赭褐、板岩与烟灰占主导，选择性青绿与珊瑚色打断其中。漫射光只触几处焦点平面，周边形态并入深色空气颜料。拥挤重叠、未完成边缘与可触表面带来躁动抓拍能量。",
+  "theme_en": "A cluster of pedestrians on a dusky city street",
+  "theme_zh": "暮色城市街道上的一群行人",
+  "wh_ratio": "1:1",
+  "id": "3194",
+  "name": "George Luks",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/george-luks",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "3f77115ba4dd0ded8bc7c94aa771a70421f77ccb272d4504b8a06bd359d9317a",
+    "gpt_submission_prompt": "A square oil painting depicts a cluster of pedestrians passing through a shadowed city street at dusk. Near the center-left, a man in a dark suit and brimmed hat strides toward the viewer with hands in his pockets. Beside him, a woman in a long teal coat and warm coral hat turns to look over her shoulder. Two other people stand just behind them, their faces picked out by small patches of pale light, while the rest of the crowd fades into deep brown and gray on either side. Tall dark buildings rise close to the street, and a faint warm glow slips down the canyon between them. The figures are constructed with broad visible brushstrokes rather than tight outlines: coats become weighty blocks of charcoal, teal, tan, and black, and faces resolve from a few confident dabs. The ground is a loose plane of gray-brown paint with minimal detail. The composition is crowded yet focused, as the coral hat and teal coat draw attention within a low-key palette. Light is diffuse, smoky, and selective, leaving the edges of the picture incomplete. The painterly surface has thick scumbles and scraped transitions that give people and city a shared material atmosphere. The scene feels urban, restless, and candid, without any readable signage or decorative border.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "30dd98c0d2137c5bd085f2269a0279ed954fdba89ff70e1accebdda620cfbd0d",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "The photograph shows a young woman in close left-facing profile with her eyes closed. Her face is tilted slightly upward, lips relaxed, and the line of nose and forehead emerges from a dark surrounding interior. Brown hair falls softly behind the ear, blending into shadow at the right side of the square. In the lower foreground and along the right edge, small flowers and stems occupy a separate, shallow plane. Some blooms are peach and coral, others cream, but all are softened into delicate blurs rather than described with crisp botanical detail. A cool teal glow enters from the upper-left corner, as though filtered through a window or translucent glass. Across the cheek and neck, warmer amber light mingles with deep brown shadow. The photograph has a subtle film-like grain and a veiled surface, with hazy reflections or misty patches suspended between camera and subject. Focus rests gently on the face while the foreground petals remain diffuse. The composition is intimate and asymmetrical: the profile is placed left of center, with the darker floral mass filling the right and lower portions. No explicit room or narrative action is shown. The light and soft overlap of face, glassy haze, and flowers create a floating sense of distance, as if the viewer were seeing a quiet private moment through several layers of memory. The overall tone is warm, subdued, and dreamlike.",
+  "full_prompt_zh": "照片以近距离左向侧影呈现一位年轻女子，她闭着双眼，脸略微上扬，嘴唇放松，鼻梁和额头线条从深暗的周围空间浮现。棕发轻轻落在耳后，在方形右侧融入阴影。下方前景与右边缘，细小花朵和枝茎占据另一道浅空间。有些花是桃色和珊瑚色，有些偏奶油白，但都被柔化成轻盈模糊，而非清晰的植物细节。冷青蓝的微光从左上角进入，仿佛透过窗或半透明玻璃。脸颊与颈部的暖琥珀光同深棕阴影交混。图像有细微胶片颗粒和薄纱般表面，朦胧反光或雾斑悬在相机与人物之间。焦点轻轻落在脸上，前景花瓣则保持弥散。构图亲密且不对称：侧脸位于中央偏左，较暗的花丛填满右侧和下方。画中没有明确房间或叙事动作。面容、玻璃般薄雾与花的柔软交叠，制造漂浮的距离感，仿佛观者隔着几层记忆看到安静的私人时刻。整体温暖、低调而梦幻。",
+  "style_prompt_en": "Use softly focused color photography with shallow depth, translucent veiling, and fine film grain. Let cool teal-blue haze meet muted amber, brown, peach, and cream light in uneven gradients. Layer blurred foreground forms over a gently focused center, allowing reflections and misty patches to soften boundaries. Keep the square composition intimate and asymmetrical, with shadow occupying substantial space and highlights diffused rather than sharply specular. Aim for a quiet, floating, memory-like atmosphere.",
+  "style_prompt_zh": "采用柔焦彩色摄影、浅景深、半透明薄雾和细胶片颗粒。让冷青蓝雾光与柔和琥珀、棕色、桃色和奶油白以不均匀渐变相遇。把模糊前景叠于较柔和的焦点区域之上，利用反射与雾斑软化边界。方形构图亲密而不对称，让阴影占据足够空间，高光保持弥散而非尖锐镜面反光。营造安静、漂浮、近似记忆的氛围。",
+  "theme_en": "Dreamy profile among soft flowers",
+  "theme_zh": "柔花之间的梦幻侧影",
+  "wh_ratio": "1:1",
+  "id": "0777",
+  "name": "Martina Hoogland Ivanow",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/martina-hoogland-ivanow",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/martina-hoogland-ivanow.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "bb6936a6ffd59726f119c8195513ef4624893091854cba2ca1438e7572ca51a6",
+    "gpt_submission_prompt": "The photograph shows a young woman in close left-facing profile with her eyes closed. Her face is tilted slightly upward, lips relaxed, and the line of nose and forehead emerges from a dark surrounding interior. Brown hair falls softly behind the ear, blending into shadow at the right side of the square. In the lower foreground and along the right edge, small flowers and stems occupy a separate, shallow plane. Some blooms are peach and coral, others cream, but all are softened into delicate blurs rather than described with crisp botanical detail. A cool teal glow enters from the upper-left corner, as though filtered through a window or translucent glass. Across the cheek and neck, warmer amber light mingles with deep brown shadow. The photograph has a subtle film-like grain and a veiled surface, with hazy reflections or misty patches suspended between camera and subject. Focus rests gently on the face while the foreground petals remain diffuse. The composition is intimate and asymmetrical: the profile is placed left of center, with the darker floral mass filling the right and lower portions. No explicit room or narrative action is shown. The light and soft overlap of face, glassy haze, and flowers create a floating sense of distance, as if the viewer were seeing a quiet private moment through several layers of memory. The overall tone is warm, subdued, and dreamlike.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "b90d94ed97ff6d7e6088c468a9b8e7296e600ef8220baf01e75da7b4a317b679",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

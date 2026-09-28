@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square oil portrait shows a woman from the chest upward against a mottled brown wall. Her face is long and narrow, with almond eyes, a slim straight nose and a tiny red mouth set in a calm, unreadable expression. A black hat caps short dark bangs; below, an unusually elongated pale neck rises from a dark jacket and warm rust-colored blouse. Blush sits high on both cheeks as broad coral patches. The anatomy is deliberately stylized: the neck is stretched, the shoulders simplified, and the face reduced to a few elegant planes. Warm ochre and umber paint in the background is scrubbed and layered, exposing a rough, tactile surface. Dark clothing forms a stable triangular base for the light face. The brushwork remains visible throughout but is especially grainy behind the head, where tan, gray and brown mingle. The sitter looks nearly outward without strong eye contact, and the stillness has a distant, private quality. There are no props or setting details; color, proportion and surface carry the portrait. Its composition is direct and symmetrical enough to feel formal, yet the asymmetric texture and subtle tilt keep it human. The image balances decorative flatness with gentle modeling, producing a poised melancholy rather than photographic likeness.",
+  "full_prompt_zh": "一幅正方形油画从胸部以上描绘一位女子，身后是斑驳褐色墙面。她的脸又长又窄，杏眼、纤直鼻梁和极小的红嘴构成平静而难以读透的表情。黑帽压住短深色刘海；下方，一段异常修长的浅色脖颈从深色外套和暖锈色衬衣间升起。双颊高处有宽阔珊瑚红晕。解剖比例刻意风格化：脖子被拉长，肩部被简化，面容减为几个优雅平面。背景中暖赭和棕色颜料经擦刷与层叠，露出粗糙可触表面。深色衣服形成稳定三角底座，托住浅色脸。笔触处处可见，在头部后方尤其有颗粒感，黄褐、灰与棕相互混合。人物几乎朝外看，却没有强烈眼神接触；静止状态带有疏远而私密的气质。没有道具或环境细节，色彩、比例和表面承载整幅肖像。构图直接且足够对称，显得正式；不对称肌理和轻微倾斜又保留人味。图像平衡装饰平面性与温和塑造，形成端静忧郁而非摄影肖似。",
+  "style_prompt_en": "The style is modernist oil portraiture with elongated proportions, simplified facial planes and a restrained earthy palette. A pale vertical focal area rises from a broad near-black base against rough ochre and umber scumbling. Selective coral warmth punctuates otherwise muted values. Visible brush grain and uneven background layers retain material presence while the central features stay elegantly spare. Formal near-symmetry meets subtle distortion, creating poised distance and quiet melancholy within a square frame.",
+  "style_prompt_zh": "这种风格是现代主义油画肖像，具有拉长比例、简化面部平面与克制土色谱。浅色竖向焦点从宽阔近黑底座升起，置于粗糙擦涂的赭黄与棕色前。选择性的珊瑚暖色点醒其余压低明度。可见笔触颗粒和不均匀背景层保留材料存在感，中央细节则优雅精简。近乎对称的正式结构与轻微变形相遇，在正方形画幅内形成端静疏离和安静忧郁。",
+  "theme_en": "An elongated portrait of a woman in a black hat",
+  "theme_zh": "戴黑帽女子的修长肖像",
+  "wh_ratio": "1:1",
+  "id": "4369",
+  "name": "Amedeo Modigliani",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/amedeo-modigliani.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "d85e59807c3f0eff03a9803d3a2c12e1633f4f0fd01a82791f0c238c6af8ba70",
+    "gpt_submission_prompt": "A square oil portrait shows a woman from the chest upward against a mottled brown wall. Her face is long and narrow, with almond eyes, a slim straight nose and a tiny red mouth set in a calm, unreadable expression. A black hat caps short dark bangs; below, an unusually elongated pale neck rises from a dark jacket and warm rust-colored blouse. Blush sits high on both cheeks as broad coral patches. The anatomy is deliberately stylized: the neck is stretched, the shoulders simplified, and the face reduced to a few elegant planes. Warm ochre and umber paint in the background is scrubbed and layered, exposing a rough, tactile surface. Dark clothing forms a stable triangular base for the light face. The brushwork remains visible throughout but is especially grainy behind the head, where tan, gray and brown mingle. The sitter looks nearly outward without strong eye contact, and the stillness has a distant, private quality. There are no props or setting details; color, proportion and surface carry the portrait. Its composition is direct and symmetrical enough to feel formal, yet the asymmetric texture and subtle tilt keep it human. The image balances decorative flatness with gentle modeling, producing a poised melancholy rather than photographic likeness.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "e5f6b9d2e48afa553dc92c3ef8bacfe21bff8c558d13fa1b55d0a90a5e36830c",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

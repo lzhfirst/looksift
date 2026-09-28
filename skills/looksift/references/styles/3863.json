@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white outdoor fashion photograph looks steeply down onto a woman reclining inside a narrow wooden boat beside a broad patch of glittering dark water. The boat enters diagonally from the upper-left edge and continues toward the lower-right corner, its worn planks and raised sides making a strong angular frame. The woman lies along the boat's middle, wearing a light flowing dress whose gathered fabric spreads across her legs and the boards. A wide-brimmed dark hat shades her head. Her upper body leans against a bundle or cushion; one hand rests near her chin as she looks upward and slightly out toward the water. A slim pale oar or boat edge crosses near the left side, and ropes or bundled material collect at the lower right. The right half of the image is nearly black water broken by hundreds of sharp silver reflections. A bright sun disk or intense flare glitters near the upper-right center, turning nearby ripples into an irregular white constellation. In contrast, the figure's dress is pale and softly folded, with seams and wrinkles visible where light reaches it. The boat interior remains deep gray, and the hat and water form dense dark anchors. Strong direct sunlight from the upper right creates hard sparkling highlights on the ripples and softer dappled light on the dress and face. The composition uses the diagonal craft against a vast glittering field to make the solitary resting figure feel both glamorous and remote.",
+  "full_prompt_zh": "一幅方形黑白户外时尚摄影以陡俯角看向窄木舟里斜卧的女子，旁边大片深水闪亮。船从左上缘斜入，延向右下角，磨旧木板与抬起船舷构成强烈折角框架。女子沿船中部躺着，穿浅色飘逸长裙，打褶布料铺过双腿和木板。宽檐深色帽子为头部遮阴。上身倚着包裹或靠垫，一只手停在下巴附近，她向上、略朝水面看。细浅色船桨或船边从左侧附近穿过，下右角聚着绳索或捆扎物。右半幅几乎全是黑水，数百个锐利银色反光将其打碎。明亮太阳光斑或强烈眩光在右上中央附近闪烁，使邻近波纹变成不规则白色星群。相对地，人物长裙浅而柔软，受光处看得见衣缝和皱褶。船内保持深灰，帽子与水面形成浓重暗锚点。右上方强烈直射日光在水波上制造硬亮闪点，在裙子和脸上则形成较柔的斑驳光。构图让斜向小舟对着广阔闪光水面，使独自休息的人既华美又疏离。",
+  "style_prompt_en": "Black-and-white fashion photography uses an elevated oblique viewpoint, strong diagonal framing, and hard specular sparkle against deep near-black areas. Balance pale flowing fabric or another soft surface with rough structural texture and a broad field of small bright glints. Let direct sunlight produce intense highlights while shadows remain graphic and substantial. The focal form can recline or settle within an angular enclosure, with large surrounding negative space carrying the mood. Preserve film-like grain and tonal detail in the midrange rather than flattening everything to pure black and white. The effect is elegant, solitary, and slightly distant.",
+  "style_prompt_zh": "黑白时尚摄影采用高位斜视角、强烈对角框围和深近黑区域中的硬质闪光。浅色流动布料或其他柔软表面，与粗糙结构纹理及大片细亮光点相平衡。直射日光制造强亮高光，阴影保持图形化和分量。焦点形体可以安置在折角包围中，大面积周围负空间承担气氛。中间调保留胶片般颗粒和细节，而非全压成纯黑白。效果优雅、孤独且略有距离感。",
+  "theme_en": "A woman reclining in a wooden boat beside sparkling dark water",
+  "theme_zh": "女子倚卧木舟旁，深色水面闪着阳光",
+  "wh_ratio": "1:1",
+  "id": "3863",
+  "name": "Toni Frissell",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/toni-frissell",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "7de32872564d7d1af6b5cf725cf44517259635cb1695823a5d1268dc24b37185",
+    "gpt_submission_prompt": "A square black-and-white outdoor fashion photograph looks steeply down onto a woman reclining inside a narrow wooden boat beside a broad patch of glittering dark water. The boat enters diagonally from the upper-left edge and continues toward the lower-right corner, its worn planks and raised sides making a strong angular frame. The woman lies along the boat's middle, wearing a light flowing dress whose gathered fabric spreads across her legs and the boards. A wide-brimmed dark hat shades her head. Her upper body leans against a bundle or cushion; one hand rests near her chin as she looks upward and slightly out toward the water. A slim pale oar or boat edge crosses near the left side, and ropes or bundled material collect at the lower right. The right half of the image is nearly black water broken by hundreds of sharp silver reflections. A bright sun disk or intense flare glitters near the upper-right center, turning nearby ripples into an irregular white constellation. In contrast, the figure's dress is pale and softly folded, with seams and wrinkles visible where light reaches it. The boat interior remains deep gray, and the hat and water form dense dark anchors. Strong direct sunlight from the upper right creates hard sparkling highlights on the ripples and softer dappled light on the dress and face. The composition uses the diagonal craft against a vast glittering field to make the solitary resting figure feel both glamorous and remote.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "8f5c8535bde74ad33bc5cdd96fc69ff8534f10dfa61c756828e0dc30edf73803",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

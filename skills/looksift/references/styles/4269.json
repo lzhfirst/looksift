@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square color manga illustration presents the determined face of a young boy with round glasses across the upper half of the frame. Spiky black hair pushes against the top edge, and wide eyes look forward above a clenched mouth. His red-orange scarf or garment wraps the lower face and shoulders. Below him, a ring of pale gray cloud or dust opens around a much smaller version of the boy running or leaping, surrounded by several tiny companions and creatures. The layered scales make the upper face read as an emblem of resolve while the lower scene suggests a busy adventure. Inked contours around eyes, hair, and glasses are bold; the smaller figures use finer marks and looser color. Warm brick red, ochre, cream, charcoal, and smoky gray dominate, with subtle printed grain and aged-paper texture across the surface. The lighting is even and illustrative, giving the face clear volume without photographic shadow. The composition moves from immense eyes to a central cloud opening and then into the tiny action below. The whole frame feels energetic and nostalgic, like a densely composed manga cover that combines character close-up, humor, and storytelling in one image.",
+  "full_prompt_zh": "一幅方形彩色漫画插画把戴圆眼镜少年的坚定面孔铺在上半幅。黑色尖发顶住画面上缘，睁大的眼睛直视前方，嘴巴紧紧咬合。红橙色围巾或服装包住下方面孔与肩膀。下方一圈浅灰云或尘埃围出开口，里面是更小的少年奔跑或跃起，周围还有几位细小同伴与生物。尺度层叠使上方面孔成为决心的标记，下方场景则暗示繁忙冒险。眼、头发和眼镜的墨线轮廓粗而有力，小人物则使用更细的笔迹和较松动颜色。砖红、赭、乳白、炭黑和烟灰占主导，表面带细微印刷颗粒与旧纸肌理。光均匀且属于插画式照明，使面孔体积清楚，没有摄影阴影。视线从巨大眼睛移向中央云团开口，再进入下方细小动作。整幅画像一张构图密集的漫画封面，充满能量与怀旧感，在一幅画中结合人物特写、幽默和故事。",
+  "style_prompt_en": "A dense color-manga cover style layers a monumental close-up over tiny narrative action. Bold ink contours give the main eyes, hair, or other focal features immediate readability, while smaller scenes use finer lines and looser marks. Brick red, ochre, cream, charcoal, and smoky gray create a warm aged-print palette. Clouds or dust can form a pale middle band that separates scales and directs the eye downward. Even illustrative light clarifies expression without photographic realism. Fine grain, worn paper tone, and hand-inked variation keep the packed composition tactile. The mood is energetic, humorous, and adventurous, with a strong hierarchy between emblematic face and small story details.",
+  "style_prompt_zh": "密集彩色漫画封面风格把纪念碑式特写叠在细小叙事动作之上。粗墨轮廓让主眼睛、头发或其他焦点特征立刻可读，较小场景用更细线与更松笔迹。砖红、赭、乳白、炭黑和烟灰组成温暖旧印刷色谱。云或尘埃可形成浅色中间带，分开不同尺度并引视线向下。均匀插画光让表情清楚，不追求摄影写实。细颗粒、磨旧纸色与手工墨线变化使拥挤构图仍可触。气氛充满能量、幽默和冒险，有明确层级区分标志性大脸与小故事细节。",
+  "theme_en": "A determined anime boy with round glasses amid clouds and smaller adventurers",
+  "theme_zh": "戴圆眼镜的坚定动漫少年出现在云团与小冒险者之上",
+  "wh_ratio": "1:1",
+  "id": "4269",
+  "name": "Akira Toriyama",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/akira-toriyama.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "57ef16f9b0e0d69d876ca2c8281fadde80f69be02e9d5fe278121d5c69c2eb41",
+    "gpt_submission_prompt": "A square color manga illustration presents the determined face of a young boy with round glasses across the upper half of the frame. Spiky black hair pushes against the top edge, and wide eyes look forward above a clenched mouth. His red-orange scarf or garment wraps the lower face and shoulders. Below him, a ring of pale gray cloud or dust opens around a much smaller version of the boy running or leaping, surrounded by several tiny companions and creatures. The layered scales make the upper face read as an emblem of resolve while the lower scene suggests a busy adventure. Inked contours around eyes, hair, and glasses are bold; the smaller figures use finer marks and looser color. Warm brick red, ochre, cream, charcoal, and smoky gray dominate, with subtle printed grain and aged-paper texture across the surface. The lighting is even and illustrative, giving the face clear volume without photographic shadow. The composition moves from immense eyes to a central cloud opening and then into the tiny action below. The whole frame feels energetic and nostalgic, like a densely composed manga cover that combines character close-up, humor, and storytelling in one image.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "b9f282314ffcf2cd533e3bc804e431461a61644e6d932cfd7970d297e9ab2294",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

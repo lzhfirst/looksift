@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square richly ornamental illustration centers a calm young figure among several sheep and a dense night garden of flowers, hanging lanterns, and tiny buildings. The figure's pale face faces forward, with large brown eyes and a small quiet smile. An elaborate rounded headdress rises around the head in cream, gold, lavender, and blue, with beaded chains and jewel-like discs. On both sides, sheep with curling wool and gentle long faces cluster close to the figure; a smaller lamb peers from below. Broad patterned sleeves and layered fabric fill the lower half in turquoise, ochre, rust, and violet. Behind them, a dark navy field is packed with stylized blooms, towers, foliage, and glowing golden lantern forms, leaving almost no plain space. Every surface carries small mosaic-like marks, dots, spirals, or fine outlines. The lighting is decorative rather than realistic: pale faces and wool glow softly, while gold discs and lanterns add luminous accents against midnight blue. The composition is nearly symmetrical, with the headdress as a halo and the animals balancing both sides. Its density remains readable through repeated circular motifs and clear focal face. The result feels magical, textile-like, and carefully hand-assembled from countless miniature color fragments.",
+  "full_prompt_zh": "一幅方形华丽装饰插画在绵羊、花朵、悬灯与小楼组成的密集夜园中安置一位神情平静的年轻人物。浅色脸正面朝前，大棕眼，小而安静的笑。繁复圆形头饰以奶油、金、淡紫和蓝色围起头部，带珠链和宝石般圆片。两侧卷毛羊和温柔长脸紧挨人物，更小羊羔从下方探出。宽花纹衣袖和层叠布料以绿松石、赭黄、锈红和紫色填满下半幅。身后深海军蓝色场域塞满程式化花、塔、枝叶和发亮金色灯形，几乎没有纯空白。每处表面带马赛克般小痕、点、螺旋或细轮廓。光具有装饰性而非写实：浅面与羊毛柔和发亮，金圆片和灯在午夜蓝前添光点。构图近乎对称，头饰像光环，动物在两侧平衡。密度仍可读，依靠重复圆形纹样和清楚的焦点脸。成品魔法般、似织物，由无数微型彩片仔细手工拼成。",
+  "style_prompt_en": "Maximal ornamental illustration with near-symmetric clustering, jewel-toned micro-patterns, repeated circular halos, and a dark navy field packed with luminous details. Cream, gold, turquoise, rust, lavender, and violet are distributed as tiny mosaic-like fragments. Fine outlines, dots, spirals, and textile texture keep the dense image coherent. Decorative light makes pale central planes and small golden accents glow without realistic shadow.",
+  "style_prompt_zh": "极繁装饰插画，以近对称簇拥、宝石色微纹、重复圆形光环和塞满发光细节的深海军蓝场域构成。奶油、金、绿松石、锈红、淡紫和紫色分布为微小马赛克碎片。细轮廓、点、螺旋与织物肌理使密集画面保持连贯。装饰性光使浅中央平面与小金重点发亮，而无需写实阴影。",
+  "theme_en": "A jeweled figure among sheep and glowing floral ornaments",
+  "theme_zh": "一位戴宝石饰物的人物处于绵羊与发光花饰之间",
+  "wh_ratio": "1:1",
+  "id": "0924",
+  "name": "Oxana Zaika",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/oxana-zaika",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/oxana-zaika.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "fb202ed0b63cceae9d42e0ba2091ae8da6ee678034ec7afc3c279b3c407751cf",
+    "gpt_submission_prompt": "A square richly ornamental illustration centers a calm young figure among several sheep and a dense night garden of flowers, hanging lanterns, and tiny buildings. The figure's pale face faces forward, with large brown eyes and a small quiet smile. An elaborate rounded headdress rises around the head in cream, gold, lavender, and blue, with beaded chains and jewel-like discs. On both sides, sheep with curling wool and gentle long faces cluster close to the figure; a smaller lamb peers from below. Broad patterned sleeves and layered fabric fill the lower half in turquoise, ochre, rust, and violet. Behind them, a dark navy field is packed with stylized blooms, towers, foliage, and glowing golden lantern forms, leaving almost no plain space. Every surface carries small mosaic-like marks, dots, spirals, or fine outlines. The lighting is decorative rather than realistic: pale faces and wool glow softly, while gold discs and lanterns add luminous accents against midnight blue. The composition is nearly symmetrical, with the headdress as a halo and the animals balancing both sides. Its density remains readable through repeated circular motifs and clear focal face. The result feels magical, textile-like, and carefully hand-assembled from countless miniature color fragments.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "c637a4ed2b7d363d14c0a6866017cd8ab32c0857592b49f71fdf109bc618e12f",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

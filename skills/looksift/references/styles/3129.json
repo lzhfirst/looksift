@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A whimsical fantasy painting looks down into a densely stacked city of narrow towers, steep roofs, balconies, and arched bridges. The buildings climb around an orange-lit central lane that twists downward through the composition like a river of lantern light. Small warm windows sparkle in otherwise cool gray-green façades, and pale round globes hover or hang among the upper rooftops. At the lower right, a pale bridge curves across the street, offering a broad clean shape amid the intricate miniature architecture. The viewpoint is high, almost like looking into a carefully built model, but foliage, tiny steps, and layered balconies keep the space organic. Fine painted lines describe window trim, cornices, stair rails, masonry, and potted plants. The surface is softened by watercolor-like veils and a slightly grainy finish, so the many details never become mechanically sharp. Cool teal, sage, cream, and stone gray dominate, while peach, amber, and gold gather in windows and along the main lane. Light seems to rise from within the city rather than descend from a single sky, creating pockets of warmth at several depths. The scene is busy but balanced: repeated vertical towers set the rhythm, bridges and curving paths connect them, and the brightest passage draws the eye through the center. The result feels miniature, intricate, and dreamlike.",
+  "full_prompt_zh": "一幅奇幻绘画从高处俯瞰由窄塔、陡屋顶、阳台与拱桥密密叠成的城市。建筑围绕一条橙光小巷升起，小巷在构图中向下弯曲，像一道流动的灯光河。冷灰绿色立面上的小暖窗星星点点，上方屋顶之间还悬着浅色圆球。右下方，一座浅色桥梁弯过街道，在繁复的微缩建筑中提供一块宽阔干净的形状。视点很高，几乎像俯视一座精心搭建的模型，但叶丛、小台阶和层叠阳台使空间仍然有机。细致绘线描出窗饰、檐口、楼梯栏杆、石纹与盆栽。水彩般的薄色罩染和略带颗粒的表面柔化了画面，使众多细节不显机械锐利。冷青绿、鼠尾草绿、奶油白与石灰主导色盘，桃色、琥珀和金色聚在窗户及主要小巷里。光仿佛从城内升起，而非来自单一天空，在不同深度形成几处暖光。场景繁忙却有平衡：重复的竖向塔楼建立节奏，桥与弯路将它们连接，最明亮的通道把目光沿中心带下去。整体像微缩模型般细密、奇巧而梦幻。",
+  "style_prompt_en": "A miniature-feeling fantasy painting crowded with slim vertical masses, steep caps, tiny apertures, and curving connectors. Cool sage, teal, cream, and stone gray form the main field, with amber and peach light glowing from small openings and one winding central passage. Fine architectural linework is softened by translucent washes and mild grain. Repeated towers give a clear upward rhythm, while pale arcs lead across the dense structure. Light appears to come from within at several depths, creating a dreamlike balance between intricate detail and soft atmosphere.",
+  "style_prompt_zh": "一幅具有微缩感的奇幻绘画，充满细长竖形、陡峭顶盖、细小开口和弯曲连接线。冷鼠尾草绿、青绿、奶油白与石灰色构成主体，琥珀和桃色光从小开口及一道蜿蜒中心通道内发亮。精细结构绘线被半透明薄色与轻微颗粒柔化。重复高形建立清楚的向上节奏，浅色弧线穿过密集结构。光仿佛从不同深度的内部透出，在繁复细节与柔和空气之间形成梦境般的平衡。",
+  "theme_en": "A whimsical city of narrow towers and glowing lanes",
+  "theme_zh": "窄塔与发光小巷组成的奇幻城市",
+  "wh_ratio": "1:1",
+  "id": "3129",
+  "name": "Daniel Merriam",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/daniel-merriam",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "50e0843ec32c386100b96d96321bf16115c9010447acddf819b489d5c70a085f",
+    "gpt_submission_prompt": "A whimsical fantasy painting looks down into a densely stacked city of narrow towers, steep roofs, balconies, and arched bridges. The buildings climb around an orange-lit central lane that twists downward through the composition like a river of lantern light. Small warm windows sparkle in otherwise cool gray-green façades, and pale round globes hover or hang among the upper rooftops. At the lower right, a pale bridge curves across the street, offering a broad clean shape amid the intricate miniature architecture. The viewpoint is high, almost like looking into a carefully built model, but foliage, tiny steps, and layered balconies keep the space organic. Fine painted lines describe window trim, cornices, stair rails, masonry, and potted plants. The surface is softened by watercolor-like veils and a slightly grainy finish, so the many details never become mechanically sharp. Cool teal, sage, cream, and stone gray dominate, while peach, amber, and gold gather in windows and along the main lane. Light seems to rise from within the city rather than descend from a single sky, creating pockets of warmth at several depths. The scene is busy but balanced: repeated vertical towers set the rhythm, bridges and curving paths connect them, and the brightest passage draws the eye through the center. The result feels miniature, intricate, and dreamlike.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "6200feb9a42cf56b3eeb17b2ec51ade4ddd6903ac552f0d66e55d1d2ba458f9c",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

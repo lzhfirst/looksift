@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "An intimate, enigmatic painting brings two figures close together against a dark brown-black ground. Their elongated pale faces are almost masklike: the left figure tilts inward, and the red-haired figure beside her turns slightly toward the viewer. Heavy dark eye shapes, narrow noses, and tiny closed mouths give both expressions a guarded stillness. The clothing is reduced to large black and burnt-orange planes, with little description below the shoulders. The two heads overlap enough to become a single quiet arrangement of light oval forms against shadow.\n\nThe painterly style uses simplified geometry without losing the warmth of imperfect handwork. Creamy ivory, ochre, amber, muted red, and charcoal are laid down in soft, uneven layers. Edges around the faces are more definite than those in the clothing and background, but even the firm outlines feel brushed and a little worn. Orange shadow gathers around the eyes and along the cheek, while the pale facial planes catch diffuse frontal light. The background is shallow and textural, allowing no clear setting to distract from the relationship between the forms. The composition is closely cropped and frontal, with a slight asymmetry in height and gaze. The emotional register is restrained and melancholy, and the surface retains subtle scumbling and scratches. There is no readable lettering in the image.",
+  "full_prompt_zh": "一幅亲密而难解的绘画，把两道身影拉近，放在深棕近黑背景前。她们拉长的浅色面容几乎像面具：左侧人物向内倾斜，旁边红发的人略转向观看者。浓重的深色眼部形状、窄鼻和小小合拢的嘴，使两种表情都显得克制而静止。衣着被简化为大片黑与焦橙色平面，肩部以下几乎不再描述。两颗头部重叠到几乎合成一个浅色椭圆形与暗影的安静组合。\n\n绘画风格使用简化几何，却不失不完美手工的温度。奶油象牙色、赭黄、琥珀、暗红与炭黑以柔和不均的层次铺下。面部边缘比衣着和背景更明确，但即使是坚实轮廓，也像用笔刷画成，略带磨旧感。橙色阴影聚在眼周与脸颊旁，浅色脸面承受柔和的正面光。背景浅而有纹理，不提供明确场所，以免分散两组形体之间的关系。贴近的正面裁切伴随高度和视线上的细微不对称。情绪收敛而忧郁，表面有轻微擦画与划痕。画面没有可辨认文字。",
+  "style_prompt_en": "Elongated pale oval forms gather closely on a shallow brown-black ground. Simplified geometry carries the composition, softened by uneven brushed layers of ivory, ochre, amber, muted red, and charcoal. Dark cavities and a few narrow precise marks punctuate the light planes, while burnt-orange shadow gives them warmth. Edges are relatively clear at the central forms and loosen into scumbled, worn texture farther out. Diffuse frontal light leaves little spatial depth; overlap and a slight difference in height create the main rhythm. Broad dark areas below balance the concentrated pale upper shapes. The surface feels hand painted and gently abraded, with restrained melancholy and an intimate, enigmatic stillness.",
+  "style_prompt_zh": "拉长的浅色椭圆形紧密聚在浅空间的棕黑色底上。简化几何承担构图，又被象牙白、赭黄、琥珀、暗红和炭黑不均匀的笔刷层次柔化。深色空隙与少数狭窄精准的笔迹点破浅色平面，焦橙阴影给它们带来温度。中央形状的边缘相对清晰，向外则松散为擦画的磨旧纹理。漫射的正面光留下很少空间深度；重叠和略有差异的高度构成主要节奏。下方大片暗色平衡上方集中的浅色形状。表面像手工绘制并轻轻磨蚀，带收敛的忧郁和亲密、难解的静止感。",
+  "theme_en": "Two quiet figures sharing an enigmatic glance",
+  "theme_zh": "两道安静身影间难解的目光",
+  "wh_ratio": "1:1",
+  "id": "3146",
+  "name": "Charles Blackman",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/charles-blackman",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "f3e31ac12aa66b6210bece3dcd7bf67a18781254d5c164dcf1437dc64c030cb2",
+    "gpt_submission_prompt": "An intimate, enigmatic painting brings two figures close together against a dark brown-black ground. Their elongated pale faces are almost masklike: the left figure tilts inward, and the red-haired figure beside her turns slightly toward the viewer. Heavy dark eye shapes, narrow noses, and tiny closed mouths give both expressions a guarded stillness. The clothing is reduced to large black and burnt-orange planes, with little description below the shoulders. The two heads overlap enough to become a single quiet arrangement of light oval forms against shadow.\n\nThe painterly style uses simplified geometry without losing the warmth of imperfect handwork. Creamy ivory, ochre, amber, muted red, and charcoal are laid down in soft, uneven layers. Edges around the faces are more definite than those in the clothing and background, but even the firm outlines feel brushed and a little worn. Orange shadow gathers around the eyes and along the cheek, while the pale facial planes catch diffuse frontal light. The background is shallow and textural, allowing no clear setting to distract from the relationship between the forms. The composition is closely cropped and frontal, with a slight asymmetry in height and gaze. The emotional register is restrained and melancholy, and the surface retains subtle scumbling and scratches. There is no readable lettering in the image.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "99390ad9b93e61c4a823569db65cbda33fcbc74eccfe8f49ad38af496ec3ac8d",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

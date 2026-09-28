@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square atmospheric fantasy image shows one small human silhouette standing at the far end of a narrow path beneath a towering storm sky. The foreground is a dark, uneven track that begins at the lower center and runs straight toward a low glowing horizon. Tall tangled grasses line both sides, their fine stems leaning inward and sharpening into black spikes along the middle distance. At the center, the person stands upright and faces away from the viewer, reduced to a small dark shape in the light. No facial features or clothing details are visible. Behind the figure, the horizon glows in warm peach and dusty orange, illuminating mist that rises from the ground. Above it, vast gray-brown clouds spread across nearly the whole frame. Their edges curl and diffuse around a faint brighter break high near the upper center, making the sky feel heavy and moving. A few thin bare branches enter from the right side, while the left bank remains a dark mass of vegetation. The track contains shallow reflective patches that catch streaks of warm light and draw the eye forward. The light source is low and distant, backlighting the person and reeds; the nearest ground remains almost black, with no clear cast shadow separate from the surrounding darkness. Grainy, painterly atmosphere softens the cloud layers but keeps the silhouetted grasses crisp. The overall composition uses a tiny traveler and converging dark banks to make the luminous distance feel both inviting and ominous.",
+  "full_prompt_zh": "这幅方形、空气感强的奇幻图像里，一个很小的人影站在窄路远端，头顶是高耸暴风云天。前景是一条深暗不平的路，从下方中央起，笔直通向低位发亮地平线。两侧排着高而纠缠的草，细茎向内倾，在中景形成黑色尖刺。中央的人直立，背对观众，在亮光中缩成小深形；面部或衣着细节均不可见。人物背后，地平线泛暖桃与灰橙色，照亮从地面升起的薄雾。其上，巨大的灰褐云铺满几乎整个画幅。云边在上方中央附近较亮的裂口周围卷曲融散，让天空显得沉重而流动。右侧伸进几根纤细枯枝，左侧坡岸仍是深色植物量块。路上浅浅反光斑接住暖光条，引导目光前行。光源低而遥远，逆光勾出人物和草；最近的地面近乎黑色，没有可从周围暗处单独分出的清楚投影。颗粒状绘画空气柔化云层，却让剪影草茎保持清楚。整体构图用微小旅人与向远处汇聚的暗岸，使发亮远方同时显得诱人与不祥。",
+  "style_prompt_en": "The atmospheric image builds a dramatic value gradient from almost black foreground masses to a narrow warm luminous distance. Tangled fine silhouettes stay sharp against mist, while large cloud forms dissolve through grainy brown-gray and muted peach transitions. A single low backlight creates bright rim traces and shallow reflective marks without revealing much near detail. Lines converge toward one small center, giving broad sky and dark ground a strong spatial pull. The palette is restricted to soot, umber and dusty orange, with little saturated color. The result feels cinematic, solitary and uneasy, carried by scale contrast and the tension between crisp edges and drifting vapor.",
+  "style_prompt_zh": "这种空气感图像从近黑前景量块渐变到一条窄而暖的发亮远处，建立戏剧化明度梯度。纠缠的细剪影在雾前保持锋利，大云形则经颗粒灰褐与压低桃色过渡融散。单一低位逆光产生亮边和浅反光笔痕，却不揭示太多近处细节。线条朝一个细小中心汇聚，让宽阔天空和深地面有强烈空间吸引力。配色限于烟黑、赭褐与灰橙，饱和色很少。成品有电影感、孤独而不安，由尺度反差和清楚边缘与飘动水汽之间的张力承载。",
+  "theme_en": "A lone figure on a narrow path beneath an immense storm-lit sky",
+  "theme_zh": "孤独身影站在窄路上，头顶是巨大的暴风光天空",
+  "wh_ratio": "1:1",
+  "id": "3836",
+  "name": "Andy Fairhurst",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/andy-fairhurst",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "a96d1c046f26dbc208b9d5fa45441c5953f88327cf90a629ce6ce8a58a180dd2",
+    "gpt_submission_prompt": "A square atmospheric fantasy image shows one small human silhouette standing at the far end of a narrow path beneath a towering storm sky. The foreground is a dark, uneven track that begins at the lower center and runs straight toward a low glowing horizon. Tall tangled grasses line both sides, their fine stems leaning inward and sharpening into black spikes along the middle distance. At the center, the person stands upright and faces away from the viewer, reduced to a small dark shape in the light. No facial features or clothing details are visible. Behind the figure, the horizon glows in warm peach and dusty orange, illuminating mist that rises from the ground. Above it, vast gray-brown clouds spread across nearly the whole frame. Their edges curl and diffuse around a faint brighter break high near the upper center, making the sky feel heavy and moving. A few thin bare branches enter from the right side, while the left bank remains a dark mass of vegetation. The track contains shallow reflective patches that catch streaks of warm light and draw the eye forward. The light source is low and distant, backlighting the person and reeds; the nearest ground remains almost black, with no clear cast shadow separate from the surrounding darkness. Grainy, painterly atmosphere softens the cloud layers but keeps the silhouetted grasses crisp. The overall composition uses a tiny traveler and converging dark banks to make the luminous distance feel both inviting and ominous.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "d0e9cce5b363e13da9117fb7344e482333beeb53d3f6926119f8060b00b3f956",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

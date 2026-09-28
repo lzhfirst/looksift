@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A stark graphic anime illustration shows a white haired swordsman against a flat, saturated red background. The figure stands on the left half of the square image in three quarter view, turning his face back toward the viewer from deep shadow. Sharp white hair spikes outward and upward, catching the brightest light and forming a ragged edge against the red field. One eye and a narrow cheek plane emerge from the black face shadow, while the other features are reduced to hard pale accents and thin dark lines. A loose black robe fills the lower frame as a broad connected silhouette, with a slim pale opening at the collar and a few jagged red highlights following the shoulder folds. A dark sword or scabbard rises diagonally behind the left shoulder toward the upper left corner. The right half remains mostly empty crimson, increasing the pressure of the tight black silhouette rather than adding scenery. Shapes are cut with bold ink like boundaries, and selective fine scratches around the hair and garment prevent the flat fields from becoming sterile. Strong side light from the upper right strikes the hair and one face plane, leaving most of the body nearly black; the red background acts as a visual glow without cast shadows. The whole image feels tense and iconic, its force coming from minimal color, asymmetrical placement, and the contrast of black mass against blazing red.",
+  "full_prompt_zh": "一幅冷峻的图形化动漫插画把白发剑士置于平整而饱和的红色背景前。人物站在方形画面的左半，以三分之四侧身从浓暗中回望观者。锐利白发向上、向外竖起，承接最亮的光，并在红色场前形成参差边缘。一只眼睛和一道狭窄的脸颊平面从黑色面影中显现，其余五官则被简化成坚硬的浅色强调面与纤细暗线。宽松黑袍作为相连的大块剪影填满下部画面，领口露出一道细窄浅色开口，几缕锯齿状红色反光沿肩部衣褶滑落。一柄深色刀或刀鞘在左肩后斜向左上角升起。右半部大体保留空旷的深红色，不用场景填充，反而加强紧绷的黑色剪影压力。形状由大胆的墨线式边界切出，发丝与衣物周围少量细刮痕避免平涂色场过于机械。来自右上方的强侧光击中头发与一块面部平面，身体大部保持近黑；红色背景像视觉辉光，却没有投影。整幅画紧张而具有标志性，力量来自极简色彩、不对称安置，以及黑色体块与炽热红底的对照。",
+  "style_prompt_en": "A stark graphic anime image reduced to three dominant values: saturated red, near black, and a few sharp pale highlights. Place the main dark silhouette asymmetrically so a large uninterrupted color field remains open beside it. Cut shapes with decisive ink like contours, allowing hairlike or clothlike edges to break into energetic pointed fragments. Reveal only selected focal planes from deep shadow, and use tiny linear scratches sparingly within the broad black mass. A diagonal secondary line can reinforce tension and direction without adding clutter. Strong side lighting should illuminate one upper edge and leave most interior surfaces dark; avoid gradient heavy modeling. The overall effect is tense, iconic, and immediate at a glance.",
+  "style_prompt_zh": "将图形化动漫画面压缩为三组主导明度：饱和红、近黑，以及少量锐利的浅色高光。把主要暗色剪影不对称地置于画面一侧，使旁边留下一大片连续的色场。以果断的墨线式轮廓切出形状，让发丝状或布料状边缘裂成有动能的尖锐碎片。只从深影中揭示选定的焦点平面，在大块黑色内部节制地加入细小线性刮痕。一道对角次要线条可加强紧张感与方向，而不增添杂乱。强侧光应照亮一处上缘，让大部分内部表面保持黑暗；减少依赖渐变的塑造。整体效果紧绷、具有标志性，一眼即能读出。",
+  "theme_en": "White haired swordsman on red",
+  "theme_zh": "红底白发剑士",
+  "wh_ratio": "1:1",
+  "id": "3378",
+  "name": "Bleach",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/bleach",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "ace82fecf0e371f43ee366b8351bb7e8f1a68791eec670228f20830b3d1a12fa",
+    "gpt_submission_prompt": "A stark graphic anime illustration shows a white haired swordsman against a flat, saturated red background. The figure stands on the left half of the square image in three quarter view, turning his face back toward the viewer from deep shadow. Sharp white hair spikes outward and upward, catching the brightest light and forming a ragged edge against the red field. One eye and a narrow cheek plane emerge from the black face shadow, while the other features are reduced to hard pale accents and thin dark lines. A loose black robe fills the lower frame as a broad connected silhouette, with a slim pale opening at the collar and a few jagged red highlights following the shoulder folds. A dark sword or scabbard rises diagonally behind the left shoulder toward the upper left corner. The right half remains mostly empty crimson, increasing the pressure of the tight black silhouette rather than adding scenery. Shapes are cut with bold ink like boundaries, and selective fine scratches around the hair and garment prevent the flat fields from becoming sterile. Strong side light from the upper right strikes the hair and one face plane, leaving most of the body nearly black; the red background acts as a visual glow without cast shadows. The whole image feels tense and iconic, its force coming from minimal color, asymmetrical placement, and the contrast of black mass against blazing red.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "1f5f6fb5dddc08b23519652fceda6bad5749914506de72d4cc2bc232b1b190d1",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

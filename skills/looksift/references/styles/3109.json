@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "This is a square, richly detailed Pre-Raphaelite-style painting of a red-haired young woman seated beside a dark lily pond. She sits on a pale stone ledge near the center-right, her long rust-red dress spreading across the masonry and dropping toward the water. One elbow rests on a raised knee or the ledge, with her cheek supported by her hand as she looks thoughtfully toward the left. Her abundant copper hair falls down her back in loose waves, partly held by a small floral band. Pale cream lace edges the sleeves and neckline beneath the heavy red fabric. Behind her, an old stone wall is covered with climbing leaves, white blossoms, and small inset colored tile-like details. Below, still green-black water holds several round lily pads, reflecting the wall and flowers in broken dark shapes. A pale flower and vine growth close the right foreground. Warm daylight from the upper left brightens her profile, hair, red skirt folds, and portions of the stone, while deep shade stays in the pond and between the plants. The painting gives equal attention to patterned masonry, petals, fabric, and hair, each rendered with fine, deliberate strokes. The woman's quiet posture contrasts with the intricate natural frame and dense decorative surfaces. No text is visible. The overall composition is contemplative and romantic, with warm red and copper held against moss green water and weathered stone.",
+  "full_prompt_zh": "这是一幅方形、细节丰富的前拉斐尔派式绘画，一名红发年轻女子坐在深色睡莲池边。她坐在中央偏右的浅色石台沿上，长长锈红裙摆铺过砌石并垂向水面。一只手肘支在抬起的膝或台沿上，手托着脸颊，她若有所思地望向左侧。浓密铜红头发以松散波浪垂在背后，部分由小花冠固定。厚重红布下，浅奶油色蕾丝沿袖口与领口露出。她身后，古老石墙覆着攀援叶片、白花和细小镶入的彩色砖状细节。下方，墨绿色静水浮着数片圆睡莲叶，把墙与花反映成断续深色形状。一朵浅花与藤蔓封住右侧前景。从左上来的暖日光照亮女子侧面、头发、红裙衣褶与部分石面，深影停在池中和植物之间。画面对花纹砌体、花瓣、布料和头发投注同样注意，以精细而有意的笔触绘成。女子安静姿态与精巧自然框架、浓密装饰表面相对。没有可见文字。整体构图沉思而浪漫，暖红与铜色被置于苔绿水面和风化石头之间。",
+  "style_prompt_en": "The richly painted treatment uses finely observed texture, decorative natural framing, and a warm red focal area against moss green and aged stone. Copper, cream, muted gold, and deep olive are woven through detailed small strokes. Soft high-side daylight selects exposed hairlike, petal-like, and folded surfaces, while dark waterlike lower areas deepen the image. Repeated small shapes create ornament without flattening the larger figure-ground hierarchy. Edges are clear in the central lit area and busier, more entangled at the perimeter. The composition rests on a horizontal ledge above a dark reflective band, with vertical growth enclosing the scene. The overall effect is romantic, tactile, and contemplative.",
+  "style_prompt_zh": "这种细密绘画处理以精确观察的肌理、装饰性自然框架和暖红焦点区域对照苔绿与旧石色。铜色、奶油色、低饱和金和深橄榄由精细小笔交织。柔和上侧日光挑出发丝般、花瓣般与褶皱状外露表面，下方深色水般区域加深图像。重复小形制造装饰，却不压平较大的图底层级。中央受光区边缘清楚，外围则更忙碌、更纠结。构图以深色反射带上方的水平支撑为基，竖向生长纹理围住场景。整体效果浪漫、有触感而沉思。",
+  "theme_en": "A red-haired woman in a long red dress seated beside a lily pond",
+  "theme_zh": "一位红发女子穿长红裙坐在睡莲池边",
+  "wh_ratio": "1:1",
+  "id": "3109",
+  "name": "Eleanor Fortescue-Brickdale",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/eleanor-fortescue-brickdale",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "cd5bf9ef726919f4c3857395af2daaff54a8c137bd645ec26be09c0bd9068bf6",
+    "gpt_submission_prompt": "This is a square, richly detailed Pre-Raphaelite-style painting of a red-haired young woman seated beside a dark lily pond. She sits on a pale stone ledge near the center-right, her long rust-red dress spreading across the masonry and dropping toward the water. One elbow rests on a raised knee or the ledge, with her cheek supported by her hand as she looks thoughtfully toward the left. Her abundant copper hair falls down her back in loose waves, partly held by a small floral band. Pale cream lace edges the sleeves and neckline beneath the heavy red fabric. Behind her, an old stone wall is covered with climbing leaves, white blossoms, and small inset colored tile-like details. Below, still green-black water holds several round lily pads, reflecting the wall and flowers in broken dark shapes. A pale flower and vine growth close the right foreground. Warm daylight from the upper left brightens her profile, hair, red skirt folds, and portions of the stone, while deep shade stays in the pond and between the plants. The painting gives equal attention to patterned masonry, petals, fabric, and hair, each rendered with fine, deliberate strokes. The woman's quiet posture contrasts with the intricate natural frame and dense decorative surfaces. No text is visible. The overall composition is contemplative and romantic, with warm red and copper held against moss green water and weathered stone.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "cf955e969210fd43712b5c73d269f1b19636285e9484078d502fabcec8406fdb",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

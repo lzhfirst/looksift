@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A color film street photograph shows a pale blue older sedan parked at the left of a quiet roadside lot. Behind it, a broad tree spreads almost the full width of the frame, its dark green crown dotted with many pale pink blossoms. A low weathered building sits beneath the branches, with corrugated walls, narrow openings, and several vertical panels in muted red, yellow, and grey near the right. Palm fronds rise along the far left, while a slender antenna reaches into the light sky on the right. The foreground is a wide strip of worn asphalt with cracks and small irregular patches. Overcast daylight is soft and even, giving the car body gentle reflections and keeping shadows shallow. The photograph's pastel cyan, blush pink, dusty green, and warm grey colors are modestly saturated and slightly blended by fine grain. Edges of the car and roofline remain readable, while the mass of tiny blossoms softens at a distance. The tree forms a wide rounded canopy over the low horizontal car and building, and the open sky makes breathing room above them. The frame reads as an ordinary street corner held in quiet balance by its broad floral crown and low foreground lines.",
+  "full_prompt_zh": "一幅彩色胶片街景照片中，浅蓝色旧款轿车停在安静路边空地的左侧。车后宽阔的树几乎横展至画框两边，深绿树冠点缀许多浅粉花朵。枝下是一栋低矮而风化的建筑，有波纹墙面、狭窄开口，右侧几块竖向板面呈低饱和红、黄与灰色。最左边升起棕榈叶，右边一根细长天线伸入浅色天空。前景是宽阔的旧沥青路面，带裂缝与不规则小斑块。阴天日光柔和均匀，给车身轻微反射，阴影很浅。照片中粉青、淡粉、灰绿和暖灰的色彩饱和度适中，并被细颗粒轻轻融合。汽车与屋顶边缘清楚，远处密集花朵则略柔。树冠的宽阔圆形罩在低矮汽车与建筑之上，上方天空提供透气空隙。画面像被花冠与低位水平线保持住的平凡街角，节奏安静而平衡。",
+  "style_prompt_en": "A modestly saturated color-film photograph favors pastel cyan, blush pink, dusty green, and warm grey. Fine grain and soft overcast light blend color boundaries while preserving the legibility of large straight edges. Numerous small bright flecks gather into a broad, uneven rounded mass above low horizontal bands. A pale sky gives the upper frame open space; worn grey pavement occupies the lower portion with sparse cracks and mottling. Shadows are shallow and diffuse, and reflections remain gentle rather than glossy. The composition relies on a layered street-level arrangement: textured foreground, a narrow middle band of built forms, a dense branching canopy, and open sky. The eye moves along the low horizontal lines, rises through repeated small color accents, and rests in the light empty area above.",
+  "style_prompt_zh": "饱和度适中的彩色胶片照片偏向粉青、浅粉、灰绿与暖灰。细颗粒和阴天柔光融合色彩边界，同时保留大块笔直边缘的可辨性。大量微小亮点聚成上方宽阔、不规则的圆团。浅色天空为画面上部留空；磨旧灰色路面占据下部，只有疏落裂缝与斑驳。阴影浅而漫散，反射温和而不油亮。构图依靠街道视平线处的层叠排列：有纹理的前景、窄窄的建筑中带、密集分枝的树冠和开放天空。视线沿低位横线移动，穿过重复的小色点上升，最后停在上方明亮空处。",
+  "theme_en": "A pale blue car beneath a flowering roadside tree",
+  "theme_zh": "花树下停着浅蓝色汽车的路边街景",
+  "wh_ratio": "1:1",
+  "id": "2858",
+  "name": "Fujicolor C200",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/fujicolor-c200",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/fujicolor-c200.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "32911dfaf02f2027b45f8676820f12b3042e27c0e9919087ae03237fb6849049",
+    "gpt_submission_prompt": "A color film street photograph shows a pale blue older sedan parked at the left of a quiet roadside lot. Behind it, a broad tree spreads almost the full width of the frame, its dark green crown dotted with many pale pink blossoms. A low weathered building sits beneath the branches, with corrugated walls, narrow openings, and several vertical panels in muted red, yellow, and grey near the right. Palm fronds rise along the far left, while a slender antenna reaches into the light sky on the right. The foreground is a wide strip of worn asphalt with cracks and small irregular patches. Overcast daylight is soft and even, giving the car body gentle reflections and keeping shadows shallow. The photograph's pastel cyan, blush pink, dusty green, and warm grey colors are modestly saturated and slightly blended by fine grain. Edges of the car and roofline remain readable, while the mass of tiny blossoms softens at a distance. The tree forms a wide rounded canopy over the low horizontal car and building, and the open sky makes breathing room above them. The frame reads as an ordinary street corner held in quiet balance by its broad floral crown and low foreground lines.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "856fe5edc03a27add094f3df319f4074b3906efb8b56ff36979de88973876683",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

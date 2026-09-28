@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square early Renaissance-style oil portrait presents the head and upper torso of a young girl against a nearly black background. Her shoulders turn toward the left, while her pale face looks directly toward the viewer with a composed, unreadable expression. Smooth brown hair parts near the center and slips beneath a dark wrapped head covering whose fine horizontal bands catch faint light. A large velvety red rose is pinned high at the left side of the covering, its layered petals the only strong color in the frame. Small gold beads dot the edge of the headdress, and a delicate drop earring hangs beside the cheek. The girl's rounded cheeks carry a restrained pink flush. Her straight nose, soft closed lips, and gray-brown eyes are modeled with careful translucent tones and fine precise contours. A heavy black garment rises over both shoulders, with just a narrow pale trim visible at the neckline. On the left, a dark veil or folded textile falls vertically behind the rose and ear, almost merging with the background. No room or objects are visible beyond the figure. Soft frontal light from the upper left illuminates the forehead, nose, cheeks, rose petals, and tiny jewelry, then fades gently into the black garment. The painted finish is smooth on skin and more tactile in the flower and cloth. The composition uses close restrained symmetry, a single vivid floral accent, and dense surrounding darkness to create quiet dignity.",
+  "full_prompt_zh": "一幅方形早期文艺复兴气息油画肖像，在近黑背景前呈现年轻女孩的头与上身。肩膀朝左，浅色面孔却直望观者，神情镇定而难以读透。平滑棕发在中央附近分开，收入深色缠绕头巾，细横带承接微弱光。头巾左侧高处别着一朵丝绒般大红玫瑰，层叠花瓣是画中唯一强色。细小金珠点在头饰边，一只精致垂坠耳环挂在面颊旁。女孩圆润面颊带克制粉晕。笔直鼻梁、柔和闭唇与灰棕眼睛由仔细的半透明色调和精细轮廓塑成。厚黑衣裳覆盖双肩，领口只露窄浅色边。左侧，深面纱或叠布在玫瑰和耳后竖垂，几乎并入背景。人物外看不见房间或物件。柔和正面偏左上光照亮额头、鼻梁、面颊、玫瑰花瓣与细小首饰，再温和淡入黑衣。皮肤上的油彩平滑，花与布较有触感。构图以贴近而克制的对称、一处鲜明花色和周围浓暗营造安静尊严。",
+  "style_prompt_en": "Early Renaissance-style oil painting uses careful translucent skin modeling, fine contour control, and dark enveloping backgrounds. Keep the palette restrained in warm ivory, umber, soft rose, and near black, reserving one rich red or comparable accent for strong visual focus. Allow soft upper-side light to reveal rounded facial planes and tiny metallic details without harsh shadow. Contrast smooth flesh with tactile layered fabric and petal texture. Crop closely, with few objects and a poised quiet gaze, so a single ornament gains significance through color and placement. The transferable effect is intimate, dignified, and still.",
+  "style_prompt_zh": "早期文艺复兴气息油画以仔细的半透明肌肤塑形、精密轮廓和包围性深背景为要。配色克制于暖象牙白、赭棕、浅玫瑰与近黑，只留一处浓红或相当的重点形成强视觉焦点。柔和偏上侧光显出圆润面部平面和微小金属细节，不造生硬阴影。平滑肌肤对照有触感的叠布与花瓣纹理。近距离裁切，物件稀少、目光安静端正，让单件装饰因颜色与位置而重要。可迁移效果亲密、庄重且静止。",
+  "theme_en": "A young girl in dark dress and head covering with a red rose",
+  "theme_zh": "深衣与头巾的少女佩戴一朵红玫瑰",
+  "wh_ratio": "1:1",
+  "id": "3748",
+  "name": "Ambrosius Benson",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/ambrosius-benson",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "ca29890938e028f7513c335eaf7f332e2330d2d27fe43b932d3ea8542d9b0c4d",
+    "gpt_submission_prompt": "A square early Renaissance-style oil portrait presents the head and upper torso of a young girl against a nearly black background. Her shoulders turn toward the left, while her pale face looks directly toward the viewer with a composed, unreadable expression. Smooth brown hair parts near the center and slips beneath a dark wrapped head covering whose fine horizontal bands catch faint light. A large velvety red rose is pinned high at the left side of the covering, its layered petals the only strong color in the frame. Small gold beads dot the edge of the headdress, and a delicate drop earring hangs beside the cheek. The girl's rounded cheeks carry a restrained pink flush. Her straight nose, soft closed lips, and gray-brown eyes are modeled with careful translucent tones and fine precise contours. A heavy black garment rises over both shoulders, with just a narrow pale trim visible at the neckline. On the left, a dark veil or folded textile falls vertically behind the rose and ear, almost merging with the background. No room or objects are visible beyond the figure. Soft frontal light from the upper left illuminates the forehead, nose, cheeks, rose petals, and tiny jewelry, then fades gently into the black garment. The painted finish is smooth on skin and more tactile in the flower and cloth. The composition uses close restrained symmetry, a single vivid floral accent, and dense surrounding darkness to create quiet dignity.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "61e5cf1d783b3113442e2e08baaa8824f228d2f2b324b5ebf060ebf0c65addcd",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

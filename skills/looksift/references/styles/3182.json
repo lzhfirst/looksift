@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square modernist painting places a solemn man's head and shoulders directly in the center. His pale face is long and narrow, with a high rectangular forehead, heavy lowered eyelids, a sharp vertical nose and a small compressed mouth. Wide ears interrupt the thin outer contour. A dark jacket and muted mustard panel sit at the bottom, while the background is built from gray, taupe and brown rectangular fragments that resemble worn walls or overlapping paper. Faint architectural lines and small scratchlike marks appear among those patches without forming a complete room. The whole image is almost frontal and nearly symmetrical, but the irregular surface keeps it from feeling rigid. Light is diffuse and flat, with gentle ivory highlights on the forehead and nose; shadows are made from thin layers of gray rather than deep black. Fine crosshatching and dry brush marks cover the face and background alike, letting skin and wall share a weathered material quality. A red brown collar and tiny yellow accent warm the otherwise muted picture. The sitter's eyes look outward but seem withdrawn, giving the image a quiet emotional weight. The close crop and tall vertical facial geometry make the head monumental even within a modest square. Its restrained palette, handmade marks and uneasy proportions give the portrait a humane, reflective severity.",
+  "full_prompt_zh": "这幅方形现代主义绘画把一位神情庄重的男子头肩正面放在中央。浅色面孔长而窄，额头高且近矩形，眼睑沉下，鼻子形成锐利竖线，嘴唇小而紧。宽耳打断细长外轮廓。深外衣和低饱和芥黄块位于下部，背景由灰、灰褐和棕色矩形碎块组成，像磨旧墙面或重叠纸片。微弱建筑线和刮痕散在其中，却没有形成完整房间。图像几乎完全正面，也几乎对称，但不规则表面避免了僵硬。光漫散平缓，额头与鼻梁有温和象牙色亮面；阴影由薄灰层构成而非深黑。细交叉排线和干刷痕同时覆盖脸与背景，让皮肤与墙面共享磨旧材质感。红棕领口和一点黄色暖化原本克制的图像。人物目光朝外，却似乎退向内心，带来安静情绪重量。紧裁切与高竖向面部几何让头像在不大的方框里仍显宏伟。收敛色盘、手工笔迹和略不安的比例给肖像一种有人情味的严肃。",
+  "style_prompt_en": "The modernist painting uses elongated geometry, flattened value and a patchwork of worn rectangular planes. Ivory, taupe, gray and brown dominate, with tiny mustard and rust accents. Diffuse light keeps shadows shallow and allows dry brush, crosshatching and scraped marks to remain visible everywhere. Fine vertical lines organize the focal area while irregular blocks resist perfect symmetry. Edges are deliberate but slightly frayed, creating a quiet, humane austerity.",
+  "style_prompt_zh": "这种现代主义绘画使用拉长几何、压平的明度和磨旧矩形平面的拼贴。象牙色、灰褐、灰与棕占主调，仅有细小芥黄和锈色点缀。漫射光使阴影浅薄，让干刷、交叉排线与刮痕在各处可见。细竖线组织焦点区域，不规则色块又抵抗完全对称。边缘经过安排却略有磨散，形成安静而有人情味的简朴。",
+  "theme_en": "A solemn elongated face against a patchwork city wall",
+  "theme_zh": "拼贴城市墙面前的庄重细长面容",
+  "wh_ratio": "1:1",
+  "id": "3182",
+  "name": "Ben Shahn",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/ben-shahn",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "c174d8bd79923fb6865f3a66450168aacd676d10b3b435b6d23fbf662131c7b2",
+    "gpt_submission_prompt": "A square modernist painting places a solemn man's head and shoulders directly in the center. His pale face is long and narrow, with a high rectangular forehead, heavy lowered eyelids, a sharp vertical nose and a small compressed mouth. Wide ears interrupt the thin outer contour. A dark jacket and muted mustard panel sit at the bottom, while the background is built from gray, taupe and brown rectangular fragments that resemble worn walls or overlapping paper. Faint architectural lines and small scratchlike marks appear among those patches without forming a complete room. The whole image is almost frontal and nearly symmetrical, but the irregular surface keeps it from feeling rigid. Light is diffuse and flat, with gentle ivory highlights on the forehead and nose; shadows are made from thin layers of gray rather than deep black. Fine crosshatching and dry brush marks cover the face and background alike, letting skin and wall share a weathered material quality. A red brown collar and tiny yellow accent warm the otherwise muted picture. The sitter's eyes look outward but seem withdrawn, giving the image a quiet emotional weight. The close crop and tall vertical facial geometry make the head monumental even within a modest square. Its restrained palette, handmade marks and uneasy proportions give the portrait a humane, reflective severity.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "31fb95ff32c16e5f0e8c49d681d380f76e7593c9e38aa9b9ff75a3cf322eb0e9",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

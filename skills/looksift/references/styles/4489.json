@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white photograph shows a man seated low in a sparse, dim interior. He wears a broad-brimmed light hat, a heavy dark sweater, rolled trousers, and worn lace-up boots. One knee rises toward his chest, while the other leg bends outward; his arm rests across the raised knee. He looks toward the left with a thoughtful, slightly guarded expression. A narrow table or ledge at left holds a plain cup, and a rough curtain hangs beside the window. On the wall behind, two more hats are visible as dark and pale ovals, adding a subtle echo to the hat he wears. The room's plaster is worn and uneven, with soft stains and chipped patches. Window light enters from the left, picking out his face, hands, knee, and boot while leaving the right side of the room in deeper shadow. His pose forms a compact angular shape against the rectangular wall and table. Fine grain and gently rich midtones suggest a classic silver-gelatin print rather than pristine digital monochrome. The atmosphere is quiet and unposed, attentive to a person's solitude and to the tactile surfaces of an ordinary room.",
+  "full_prompt_zh": "一张方形黑白照片呈现一位男子低坐在简朴昏暗室内。他戴浅色宽檐帽，穿厚深色毛衣、卷起的长裤和磨损系带靴。一条膝盖抬向胸前，另一条腿向外弯，手臂横搭在抬起的膝上。他向左看，神情若有所思且略有戒备。左侧窄桌或窗台上有一只素杯，粗布帘挂在窗边。身后墙上另有两顶帽子，成为深与浅的椭圆形，微妙呼应头上的帽。室内灰泥磨旧不平，带柔和污迹与剥落斑。左窗光照到脸、手、膝和靴，房间右侧则更深暗。姿势在矩形墙与桌前形成紧凑的有棱角形。细颗粒与柔和丰厚的中间调暗示经典银盐印相，而非纯净数字黑白。气氛安静且未摆拍，细心关注独处的人与普通房间可触摸的表面。",
+  "style_prompt_en": "Classic black-and-white fine-art photography with compact angular form, deep room shadow, a single soft window-light direction, and richly graded silver midtones. Everyday surfaces show wear without becoming picturesque. Fine grain, restrained framing, and quiet unposed stillness preserve a humane tactile mood. Pale small accents punctuate a mainly charcoal composition.",
+  "style_prompt_zh": "经典黑白艺术摄影，以紧凑棱角形、深室内阴影、单一柔窗光方向和丰厚银色中间调组成。日常表面显露磨损，却不被浪漫化。细颗粒、克制取景和未摆拍的安静静止感保留人情味与触感。少量浅色重点刺破以炭灰为主的构图。",
+  "theme_en": "A seated man in a hat inside a sparse room",
+  "theme_zh": "一位戴帽男子坐在简朴室内",
+  "wh_ratio": "1:1",
+  "id": "4489",
+  "name": "Imogen Cunningham",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/imogen-cunningham.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "206b458b6fc05c6212e07e5d500d0cbbe2a162a39c7c4824802b72224b055cfa",
+    "gpt_submission_prompt": "A square black-and-white photograph shows a man seated low in a sparse, dim interior. He wears a broad-brimmed light hat, a heavy dark sweater, rolled trousers, and worn lace-up boots. One knee rises toward his chest, while the other leg bends outward; his arm rests across the raised knee. He looks toward the left with a thoughtful, slightly guarded expression. A narrow table or ledge at left holds a plain cup, and a rough curtain hangs beside the window. On the wall behind, two more hats are visible as dark and pale ovals, adding a subtle echo to the hat he wears. The room's plaster is worn and uneven, with soft stains and chipped patches. Window light enters from the left, picking out his face, hands, knee, and boot while leaving the right side of the room in deeper shadow. His pose forms a compact angular shape against the rectangular wall and table. Fine grain and gently rich midtones suggest a classic silver-gelatin print rather than pristine digital monochrome. The atmosphere is quiet and unposed, attentive to a person's solitude and to the tactile surfaces of an ordinary room.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "a98fd135db948432ca0a3f0d82bb5669c761f3d652ee5c53636b0fc29a197c57",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

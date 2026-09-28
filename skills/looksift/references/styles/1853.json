@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square extreme close portrait fills the frame with a young woman's face turned slightly toward the right. Her gray-green eyes look up and past the viewer, one near the upper-left center and the other near the upper-right corner. Dark brows and a strong nose remain realistically legible beneath irregular fields of saturated paint. Her softly closed lips sit near the lower center. Dark hair crowds the right edge and the upper corners, while the left side of her face and neck are almost submerged in intersecting color. Vivid turquoise, cobalt, violet, magenta, yellow, orange, and green are applied as angular fragments, broad strokes, thin scratched lines, and translucent smears. Some strokes follow the planes of cheek and forehead; others cross them diagonally without obeying anatomy. A small area of pale skin around the nose, eyes, and mouth keeps the expression readable. The background is little more than a sliver of light at the right edge. Light appears to fall from the front right, lifting the nose and cheek while the opposite side holds deeper purples and blues. The surface has thick brush ridges and scraped, layered marks alongside smoother skin. The crop is deliberately tight, cutting off the chin and top of the head. The image balances an intimate realistic gaze with an energetic abstract skin of color, making the eyes the still center of an otherwise restless painted field.",
+  "full_prompt_zh": "一幅方形极近距离肖像让一名年轻女子稍向右转的脸填满画面。灰绿色双眼向上并越过观者望去，一只位于左上中部，另一只靠近右上角。深色眉毛和挺直鼻形在不规则饱和颜料之下仍可写实辨认。轻合的嘴唇位于下部中央附近。深发挤在右边和上角，左侧脸颊与颈部几乎埋在交叉的颜色里。鲜艳的青绿、钴蓝、紫色、洋红、黄色、橘色与绿色以棱角碎片、宽笔触、细刮线和半透明抹痕叠上去。有些笔触顺着脸颊与额头的平面，有些斜穿而不服从解剖结构。眼、鼻、口周围保留少量浅肤色，使表情仍清楚。背景只剩右边一条浅色窄缝。光似乎从正面偏右照来，提亮鼻和颊，另一侧则承接更深的紫蓝。表面既有厚重笔脊与刮擦叠痕，也有较平滑的皮肤。裁切刻意紧密，截去下巴和头顶。图像用亲密的写实目光平衡充满活力的抽象色彩皮层，使双眼成为躁动颜料场中的静止中心。",
+  "style_prompt_en": "Combine realistically legible focal features with a thick overlay of abstract, high-chroma painted fragments. Work in angular strokes, scraped lines, translucent smears, and layered impasto; let some marks follow underlying form while others cut across it. Use turquoise, cobalt, violet, magenta, orange, yellow, and emerald in bold near-complementary collisions, with dark hair or shadow holding the edges. Preserve a few quiet pale passages so the viewer can orient around the focal features. Crop very close, making texture and expression equally important. Light should lift selected planes through the color rather than flatten the surface into a uniform pattern. The transferable effect is a fusion of intimate realism and restless chromatic abstraction, with the gaze or another precise detail acting as a stable anchor.",
+  "style_prompt_zh": "把写实可辨的焦点特征与厚厚一层抽象高饱和颜料碎片结合。使用棱角笔触、刮线、半透明抹痕和层叠厚涂；让部分痕迹顺着底层形体，另一些直接斜切而过。青绿、钴蓝、紫色、洋红、橘黄和翠绿大胆碰撞，深色头发或阴影压住边缘。保留少量安静的浅色区域，让观者能围绕焦点特征定位。裁切非常靠近，使肌理与表情同等重要。光线应穿过颜色提亮选中的平面，而不是把表面压成均匀纹样。可迁移的效果是亲密写实与躁动的色彩抽象融合，由目光或另一处准确细节充当稳定锚点。",
+  "theme_en": "An extreme close portrait layered with vivid angular paint",
+  "theme_zh": "一幅叠满鲜艳棱角色彩的极近距离肖像",
+  "wh_ratio": "1:1",
+  "id": "1853",
+  "name": "Thiago Valdi",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/thiago-valdi",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/thiago-valdi.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "9bb10c7826db319df88024e5a7717fa3daa5c2c7b7a81dd3608b1965b5465d77",
+    "gpt_submission_prompt": "A square extreme close portrait fills the frame with a young woman's face turned slightly toward the right. Her gray-green eyes look up and past the viewer, one near the upper-left center and the other near the upper-right corner. Dark brows and a strong nose remain realistically legible beneath irregular fields of saturated paint. Her softly closed lips sit near the lower center. Dark hair crowds the right edge and the upper corners, while the left side of her face and neck are almost submerged in intersecting color. Vivid turquoise, cobalt, violet, magenta, yellow, orange, and green are applied as angular fragments, broad strokes, thin scratched lines, and translucent smears. Some strokes follow the planes of cheek and forehead; others cross them diagonally without obeying anatomy. A small area of pale skin around the nose, eyes, and mouth keeps the expression readable. The background is little more than a sliver of light at the right edge. Light appears to fall from the front right, lifting the nose and cheek while the opposite side holds deeper purples and blues. The surface has thick brush ridges and scraped, layered marks alongside smoother skin. The crop is deliberately tight, cutting off the chin and top of the head. The image balances an intimate realistic gaze with an energetic abstract skin of color, making the eyes the still center of an otherwise restless painted field.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "ceb194618dd9e4e32e2c69836058d87e3a81f681e5e442fc9d5d6cb9eec10a7e",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

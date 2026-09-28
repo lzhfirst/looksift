@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A black-and-grey tattoo portrait fills the frame, its tonal work rendered with the density and smooth gradation of ink settled into skin. A solemn face turns slightly toward the viewer from a three-quarter angle, cropped closely so that the eyes, nose, mouth, and patterned crown command nearly all the space. Along the top edge, the ornate headpiece is built from small interlocking curves, beadlike marks, and dark recesses, each picked out by thin pale highlights. One eye sits left of center beneath a heavy shadowed brow, while the other appears farther back near the right edge; their fine iris details give the expression a quiet, direct intensity. A narrow dark line descends from the outer eye across the cheek. Soft stippled texture and closely graded grey washes model the cheek, nose bridge, and lips, while the deepest blacks collect under the brows, inside the nostrils, and around the crown. The portrait occupies a curved skin surface whose subtle grain remains visible through the shading. A nearly black surround isolates the face and heightens the pale midtones. Controlled, low-key illumination catches the crown ridges and facial planes, leaving the image moody yet precise. The whole composition reads as a tightly cropped, realistic monochrome tattoo study with elaborate ornamental detail and restrained contrast.",
+  "full_prompt_zh": "一幅黑灰纹身肖像占满画面，墨色沉入皮肤般的浓度与平滑灰阶构成其基调。肃穆的面孔以略微偏转的四分之三侧面朝向观者，近距离裁切使双眼、鼻、嘴和带花纹的冠饰几乎占据全部空间。上沿的华丽头饰由相互扣合的小弧线、珠点般的记号和深色凹隙组成，细窄的浅色高光逐一勾出纹样。左侧眼睛位于中央偏左处，藏在浓重的眉影下；另一只眼靠近右边缘，精细的虹膜让神情显得安静而直视。眼角外侧有一道纤细的深线斜落在面颊上。柔和的点状颗粒与紧密过渡的灰色洗染塑造脸颊、鼻梁和双唇，最深的黑色集中在眉下、鼻孔内和冠饰间。肖像贴合略有弧度的皮肤表面，细微肤理透过阴影仍清晰可见。近乎纯黑的周围空间把面孔孤立出来，也衬出浅灰中间调。克制的低调照明掠过冠饰凸起和面部转折，使画面阴郁却准确。整体是一幅紧密裁切的写实单色纹身研究，装饰细节繁复，明暗对比收敛。",
+  "style_prompt_en": "The image uses realistic black-and-grey tattoo rendering, with dark ink masses balanced against broad, carefully graded midtones. Fine stippling and smooth wash-like transitions preserve a visible skin grain beneath the tonal modeling. Sharp micro-lines define ornamental intricacy, while softly feathered edges control volume and depth. Deep surrounding darkness and low-key directional illumination produce an intimate, dramatic crop. The palette remains near-monochrome and slightly warm from the underlying surface; highlights are sparse and precisely placed. Dense detail in selected zones contrasts with quieter shaded passages, giving the whole frame a tactile, disciplined finish.",
+  "style_prompt_zh": "画面采用写实黑灰纹身语言，深墨块与大面积细致过渡的中间灰相互平衡。细点描和洗染般的平滑转折让底层皮肤颗粒透过塑形灰阶可见。锐利的微细线条组织繁密装饰，柔和羽化的边缘控制体积与纵深。深色周围空间和低调的定向照明形成亲密而戏剧性的近景裁切。色域接近单色，底层材质带来些许暖意；高光稀少，落点精确。局部密集细节与较安静的阴影段落相对照，使整幅画面拥有可触的、克制的完成质感。",
+  "theme_en": "An intimate black-and-grey tattoo portrait of a solemn face beneath an intricately patterned crown against deep darkness.",
+  "theme_zh": "深色背景中，一张戴繁复纹饰冠饰的肃穆面孔，以细腻黑灰纹身肖像呈现。",
+  "wh_ratio": "1:1",
+  "id": "0729",
+  "name": "Ami James",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/ami-james",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/ami-james.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "e972e0ccb9aa5bd3057eadb2958f15837fc23f70a5376c7393957682f988aab1",
+    "gpt_submission_prompt": "A black-and-grey tattoo portrait fills the frame, its tonal work rendered with the density and smooth gradation of ink settled into skin. A solemn face turns slightly toward the viewer from a three-quarter angle, cropped closely so that the eyes, nose, mouth, and patterned crown command nearly all the space. Along the top edge, the ornate headpiece is built from small interlocking curves, beadlike marks, and dark recesses, each picked out by thin pale highlights. One eye sits left of center beneath a heavy shadowed brow, while the other appears farther back near the right edge; their fine iris details give the expression a quiet, direct intensity. A narrow dark line descends from the outer eye across the cheek. Soft stippled texture and closely graded grey washes model the cheek, nose bridge, and lips, while the deepest blacks collect under the brows, inside the nostrils, and around the crown. The portrait occupies a curved skin surface whose subtle grain remains visible through the shading. A nearly black surround isolates the face and heightens the pale midtones. Controlled, low-key illumination catches the crown ridges and facial planes, leaving the image moody yet precise. The whole composition reads as a tightly cropped, realistic monochrome tattoo study with elaborate ornamental detail and restrained contrast.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "7f2d17786384d01f1d51050019ef9b1b202e62397405043d3489a0545d585293",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

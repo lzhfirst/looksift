@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A dreamlike digital painting shows a lone sitter on a bench by a wide reflective pool at sunset. A vivid red umbrella opens behind the small dark silhouette and becomes the central accent in an otherwise spacious scene. One tall lamp rises on the left, and a broad tree canopy pours copper and scarlet leaves from the upper right. The bench, lamps, and distant railing form a narrow horizontal band near the middle; below it the water repeats their shapes in loose, broken reflections. The sky shifts from deep teal overhead to coral and gold at the horizon, and the same colors scatter across the pool in short flecks. Dark silhouettes carry the main structure, while thousands of small leaf-like and painterly marks make the air and water feel alive. Edges stay crisp on the bench and lamp but loosen into luminous texture in the foliage and reflection. The warm sunset is strongest behind the sitter, creating a simple backlit shape; the pool keeps cooler blue-green shadow between islands of orange light. The composition balances the umbrella's round bright form against the tall lamp and the large tree. Open sky above and an expansive water surface below give the scene an unhurried rhythm. The overall image is quiet, romantic, and richly atmospheric.",
+  "full_prompt_zh": "一幅梦境般的数字绘画描绘落日时分，一名独坐者在宽阔倒影水池旁的长椅上。鲜红的雨伞在小小深色剪影身后张开，成为开阔场景中的中心亮点。左侧竖起一盏高路灯，右上方宽大的树冠洒下铜橙与绯红的树叶。长椅、路灯和远处栏杆在画幅中部形成一条窄窄的横带；下方的水面用松散破碎的倒影重复它们的形状。天空由上方深青绿渐变为地平线附近的珊瑚色和金色，同样的色彩又以短小碎点散落在水池上。暗色剪影构成主要骨架，成千上万的叶片般小笔触和绘画斑点让空气与水面显得有生命。长椅与路灯的边缘清晰，树叶与倒影则松开，融入发光的纹理。最暖的落日光位于坐者身后，形成简洁的逆光剪影；水池在橙色光斑之间保持偏冷的蓝绿色阴影。构图用雨伞明亮的圆形平衡高灯柱和大树。上方的开阔天空与下方宽广水面带来从容的节奏。整幅画安静、浪漫而富于大气层次。",
+  "style_prompt_en": "A luminous digital painting with a deep teal-to-coral gradient and warm copper foliage. A narrow band of crisp dark silhouettes divides an open upper field from a broad reflective lower field. One small saturated red round accent anchors the center. Thousands of flecked marks, leaf-like particles, and short paint strokes scatter through the air and dissolve in broken reflections. The light glows low behind the central mass, while blue-green shadow remains between orange highlights. Broad spacing, repeated verticals, and a near-symmetrical reflection create a quiet, expansive rhythm.",
+  "style_prompt_zh": "一幅发光的数字绘画，深青绿渐变到珊瑚色，配以温暖的铜橙色叶状纹理。一条清晰的深色剪影横带，把上方开阔色域与下方宽阔倒影区分开。中心一小块饱和红色圆形成为锚点。无数碎点、叶片般的颗粒与短笔触在空中散开，又在破碎倒影中融化。光从中心形体背后低低发亮，橙色亮斑之间仍保留蓝绿色阴影。宽裕间距、重复竖线和近似对称的倒影形成安静而辽阔的节奏。",
+  "theme_en": "A quiet sunset beside a reflective pool",
+  "theme_zh": "倒影水池旁的宁静落日",
+  "wh_ratio": "1:1",
+  "id": "3079",
+  "name": "Cyril Rolando",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/cyril-rolando",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "6c135f9f676e2752b9450615111a845f227728bf5f776ac106930c998ac1b135",
+    "gpt_submission_prompt": "A dreamlike digital painting shows a lone sitter on a bench by a wide reflective pool at sunset. A vivid red umbrella opens behind the small dark silhouette and becomes the central accent in an otherwise spacious scene. One tall lamp rises on the left, and a broad tree canopy pours copper and scarlet leaves from the upper right. The bench, lamps, and distant railing form a narrow horizontal band near the middle; below it the water repeats their shapes in loose, broken reflections. The sky shifts from deep teal overhead to coral and gold at the horizon, and the same colors scatter across the pool in short flecks. Dark silhouettes carry the main structure, while thousands of small leaf-like and painterly marks make the air and water feel alive. Edges stay crisp on the bench and lamp but loosen into luminous texture in the foliage and reflection. The warm sunset is strongest behind the sitter, creating a simple backlit shape; the pool keeps cooler blue-green shadow between islands of orange light. The composition balances the umbrella's round bright form against the tall lamp and the large tree. Open sky above and an expansive water surface below give the scene an unhurried rhythm. The overall image is quiet, romantic, and richly atmospheric.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "66ef2839471ae8332e191c1bcf336865fccee2ec76089acba2d631bbf6cef858",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

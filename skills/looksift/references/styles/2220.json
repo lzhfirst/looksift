@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square surreal oil-like painting shows two elderly bearded men riding a long narrow boat through an open expanse of blue cloud. The boat curves across the middle of the frame from left to right, its dark hull forming a strong horizontal crescent. At the right, a man in deep teal sits upright near the bow and faces outward; a thin pole or oar extends beside him. Behind him, a second man in rusty red reclines with bent knees, his pale beard and face turned toward his companion. Billowing orange cloud masses rise on the left behind the boat, while dense turquoise and midnight-blue forms fill the lower and right background. There is no visible waterline, making the vessel seem suspended in color rather than floating on a conventional river. The figures are modeled with earthy brush patches and dark contours, their clothing folding into broad warm and cool shapes. The cloud edges are soft and rounded, but their surfaces retain irregular painted texture and scuffed pigment. Light is diffuse and slightly warm from the left, lifting the orange masses and pale hair while the boat's underside stays almost black. The composition rests on the dark horizontal hull between opposing fields of vermilion and teal. No readable lettering appears. The overall mood is strange and reflective, with simplified dream space and visibly worked color.",
+  "full_prompt_zh": "一幅方形超现实油画式绘画描绘两名长胡子的年长男子乘一只狭长小舟穿过开阔蓝色云海。船从左向右横跨画面中部，深色船体形成有力的水平弯月。在右侧，一名穿深青绿色衣物的男子端坐船头附近，面向外侧；身旁伸出一根细竿或桨。后方另一名穿锈红衣物的男子屈膝斜靠，浅色胡须和脸转向同伴。左侧船后升起翻卷的橙色云团，浓密绿松石色与午夜蓝形填满下方和右侧背景。没有可见水线，使船像悬在颜色中，而非浮在寻常河流上。人物由土色笔块与深色轮廓塑造，衣褶融成宽阔冷暖形。云缘柔软而圆，表面仍保留不规则绘画纹理与擦磨颜料。光弥散，从左侧略带暖意，托起橙色团块和浅发，船底则近乎黑色。构图以深水平船体为支点，位于朱红与青绿两片对立色场之间。没有可辨认文字。整体情绪奇异而沉思，空间像梦一样简化，颜色有明显手工劳作痕迹。",
+  "style_prompt_en": "An oil-like painted surface sets broad vermilion and rust masses against deep teal, turquoise, and midnight blue. Rounded billowing forms have soft edges but retain rubbed, mottled pigment and visible directional brushwork. A near-black horizontal curve cuts through the color fields and stabilizes their opposing weight. Earthy smaller patches gather along that axis, with pale accents receiving diffuse warm light from one side. Conventional depth is reduced; layered color and overlap create a dreamlike suspended space. Dark contours clarify key intersections without enclosing every shape. The overall rhythm is slow and strange, with tactile scuffing and a strong warm-cool division.",
+  "style_prompt_zh": "油画式表面让宽阔朱红与锈色体块对照深青绿、绿松石和午夜蓝。翻卷的圆团形边缘柔软，仍保留擦磨、斑驳颜料和可见的有方向笔触。近黑水平弯线切过色场，稳定彼此对立的重量。较小的土色斑块沿该轴聚集，浅色点接受来自一侧的弥散暖光。传统深度被压低；层叠色彩与重叠关系创造如梦的悬浮空间。深色轮廓澄清重要交接处，不封闭每个形。整体节奏缓慢而奇异，擦磨质感可触，冷暖分界鲜明。",
+  "theme_en": "Two elderly travelers drifting through clouds in a narrow boat",
+  "theme_zh": "两名年长旅者乘窄舟穿过云海",
+  "wh_ratio": "1:1",
+  "id": "2220",
+  "name": "Yasuo Kuniyoshi",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/yasuo-kuniyoshi",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/yasuo-kuniyoshi.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "f240a7cb383e0b7d054ed1de5f0449707d284b9c5f716c95a93a7778e32cd021",
+    "gpt_submission_prompt": "A square surreal oil-like painting shows two elderly bearded men riding a long narrow boat through an open expanse of blue cloud. The boat curves across the middle of the frame from left to right, its dark hull forming a strong horizontal crescent. At the right, a man in deep teal sits upright near the bow and faces outward; a thin pole or oar extends beside him. Behind him, a second man in rusty red reclines with bent knees, his pale beard and face turned toward his companion. Billowing orange cloud masses rise on the left behind the boat, while dense turquoise and midnight-blue forms fill the lower and right background. There is no visible waterline, making the vessel seem suspended in color rather than floating on a conventional river. The figures are modeled with earthy brush patches and dark contours, their clothing folding into broad warm and cool shapes. The cloud edges are soft and rounded, but their surfaces retain irregular painted texture and scuffed pigment. Light is diffuse and slightly warm from the left, lifting the orange masses and pale hair while the boat's underside stays almost black. The composition rests on the dark horizontal hull between opposing fields of vermilion and teal. No readable lettering appears. The overall mood is strange and reflective, with simplified dream space and visibly worked color.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "4e919a5ece25a93790440888f955b76fe6ad5433420219eea2a28b031a738236",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

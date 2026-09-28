@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square naturalist oil painting places a young field worker at the front of an open, dry rural landscape. The figure is shown from the waist up, slightly left of center, facing left with a serious, attentive expression. A flat brown cap shades short hair; a dark weathered jacket hangs over a brown waistcoat and pale shirt. One hand holds the long wooden handle of a working tool rising beside the shoulder. The foreground is thick with tangled stems and seed heads in russet, olive, and tan, partly obscuring the lower body. Behind the figure, low fields roll toward a thin horizon with scattered distant people and small pale buildings. A cloudy gray sky takes a modest strip at the top. The palette is earthy and subdued: tobacco brown, dusty green, charcoal, gray, and muted cream. Paint is built with small broken touches and dry scumbled passages that give the weeds and soil a tactile grain. Facial features are more carefully modeled, while background details dissolve into atmospheric strokes. Soft daylight spreads across the scene without hard cast shadows, catching the cheek, shirt collar, and cap brim. The figure feels materially present but inseparable from the laboring landscape. The full frame has a close, sober human focus within a broad, weathered countryside.",
+  "full_prompt_zh": "一幅方形自然主义油画把一位年轻田间劳动者放在开阔干燥乡野的前景。人物呈腰以上，略偏画面左侧，面朝左方，神情严肃而专注。棕色扁帽遮住短发；深色旧外套罩在棕色背心和浅色衬衫之外。一只手握着从肩旁竖起的长木工具柄。前景密布锈褐、橄榄与棕黄的乱茎和种穗，遮住部分下身。人物身后，低缓田地延向细窄地平线，有零星远处人影与浅色小建筑。多云灰天只占顶部不宽一带。配色朴素而低调：烟草棕、尘绿、炭灰、灰色与淡奶油色。颜料由细碎断续笔触和干擦色层堆出，令野草与土地产生可触颗粒。脸部特征塑形较仔细，背景细节则化入带空气感的笔痕。柔和日光铺满画面，没有硬朗投影，照亮面颊、衬衫领口与帽檐。人物具有切实的存在感，却又与劳动中的乡野不可分开。整幅画在宽阔而风化的乡村中保有贴近、沉静的人物焦点。",
+  "style_prompt_en": "Naturalist oil painting uses a restrained range of russet, dusty olive, charcoal, gray, and cream. Fine broken strokes and dry scumbling create a weathered surface, with more deliberate modeling at the visual center and looser marks toward the distance. Edges vary from carefully resolved to softly lost, allowing forms to merge with surrounding texture. Overcast daylight gives the image a quiet, even illumination and subdued highlights. Foreground density thins toward a low horizon, making a modest but convincing spatial recession. The overall feeling is sober, humane, and tactile.",
+  "style_prompt_zh": "自然主义油画采用锈褐、尘橄榄、炭灰、灰色与奶油色的克制色域。细碎断笔和干擦营造风化表面，视觉中心塑形更有意，远处笔痕更松。边缘从细致确定变为柔和消失，使形体与周围肌理相融。阴天日光带来安静均匀的照明与低调高光。浓密前景逐渐稀向低地平线，建立朴实但可信的空间后退。整体沉静、有人情味，也富于可触感。",
+  "theme_en": "A young field worker holding a tool amid dry grasses",
+  "theme_zh": "干草地里手持工具的年轻劳动者",
+  "wh_ratio": "1:1",
+  "id": "2497",
+  "name": "Jules Bastien-Lepage",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/jules-bastien-lepage",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/jules-bastien-lepage.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "1de1a7056a2e27fded199091914656e6183cded6ecb146dd5fc0f16fbc27001e",
+    "gpt_submission_prompt": "A square naturalist oil painting places a young field worker at the front of an open, dry rural landscape. The figure is shown from the waist up, slightly left of center, facing left with a serious, attentive expression. A flat brown cap shades short hair; a dark weathered jacket hangs over a brown waistcoat and pale shirt. One hand holds the long wooden handle of a working tool rising beside the shoulder. The foreground is thick with tangled stems and seed heads in russet, olive, and tan, partly obscuring the lower body. Behind the figure, low fields roll toward a thin horizon with scattered distant people and small pale buildings. A cloudy gray sky takes a modest strip at the top. The palette is earthy and subdued: tobacco brown, dusty green, charcoal, gray, and muted cream. Paint is built with small broken touches and dry scumbled passages that give the weeds and soil a tactile grain. Facial features are more carefully modeled, while background details dissolve into atmospheric strokes. Soft daylight spreads across the scene without hard cast shadows, catching the cheek, shirt collar, and cap brim. The figure feels materially present but inseparable from the laboring landscape. The full frame has a close, sober human focus within a broad, weathered countryside.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "b6e125d72f523b5941e632bcae4280dfb48f5e8018ae7691705eba79080099a3",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

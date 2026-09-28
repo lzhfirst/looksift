@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square mid-century magazine illustration shows a man and a woman in red exchanging an alert glance in a close interior scene. The background is a warm, loosely painted beige wall with dark areas at the sides. On the left, the man leans toward the woman, wearing a tan jacket, pale shirt, and dark teal tie. His dark hair is combed back; one hand covers part of his mouth and chin as he looks toward her with raised brows. Near the center, the woman in a saturated red short-sleeved dress turns her face left to meet his gaze. Her dark curled hair frames her cheeks, and bright red lips echo the dress. Her forearms rest across a surface near the lower edge, with a small bracelet at one wrist. At the far right, part of another man's shoulder and neck in a blue jacket enters the frame, cut off before his face becomes clear. This partial form narrows the space around the central exchange. Brushwork is smoothest in the faces and bare arms, with visible broader strokes in clothing and the muted wall. Warm cream skin tones are modeled by small rosy and gray shadows; the red garment remains the clearest color accent against tan and blue. Soft light comes from above and in front, lifting the woman's face and the man's forehead while leaving the sides and lower corners darker. The overall composition is intimate and slightly tense, using close cropping, vivid red, and the direction of two gazes to focus the moment.",
+  "full_prompt_zh": "这是一幅方形中世纪杂志插画，一位男子与身穿红裙的女子在贴近的室内场景中警觉地交换目光。背景是一面暖米色、笔触松动的墙，两侧有深色区域。左边男子靠向女子，穿棕褐夹克、浅色衬衫和深青领带。深发向后梳，一只手遮住部分口与下颌，抬眉看向她。中央附近，女子穿饱和红色短袖连衣裙，脸转向左侧与他对视。深色卷发围住双颊，鲜红唇色呼应裙子。前臂搭在靠近下缘的表面上，一侧腕部有小手链。最右边，另一个穿蓝夹克男子的部分肩颈进入画框，脸尚未清楚呈现便被裁掉。这局部形体收紧了中央交流的空间。面部和裸露手臂的笔法最平滑，衣物与低调墙面保留较宽可见笔触。暖奶油色皮肤以细小玫瑰色与灰色阴影塑形；红衣是棕褐与蓝色之间最清楚的色彩强调。柔光从上方与前方照来，提亮女子的脸和男子的额头，让两侧及下方角落更暗。整体构图贴近而略带紧张感，用紧密裁切、鲜红色和两道目光的方向聚焦这一瞬间。",
+  "style_prompt_en": "The painted illustration has a polished mid-century editorial realism with carefully modeled focal surfaces and looser, visible strokes at the margins. Warm beige, tan, cream, and charcoal create a stable field for one saturated red accent and smaller cool blue notes. Facial planes turn gently through rosy midtones and soft gray shadows, while fabric retains firmer edges and more decisive brush marks. Close cropping lets overlapping large forms compress the space and direct attention toward a central exchange of angles. Soft frontal light brightens the primary forms, with deeper values held at the sides for focus. The result feels theatrical and immediate but remains warmly painterly rather than photographic.",
+  "style_prompt_zh": "这种绘画插画具有精致的中世纪编辑式写实气质，焦点表面经过仔细塑形，边缘则保留更松动可见的笔触。暖米色、棕褐、奶油色和炭色为一处饱和红色强调与少量冷蓝色调提供稳定场域。受光平面经过玫瑰中间调和柔灰阴影轻轻转折，布料则保留更坚实边缘与果断笔痕。贴近裁切使叠压的大形体压缩空间，把注意力引向中央的角度交流。柔和前侧光提亮主要形体，较深明度留在两侧以聚焦。效果富于戏剧性且直接，但保持暖调绘画质地，而非摄影感。",
+  "theme_en": "A man and a woman in red exchanging an alert glance",
+  "theme_zh": "一位男子与身穿红裙的女子警觉地对视",
+  "wh_ratio": "1:1",
+  "id": "2375",
+  "name": "Andrew Loomis",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/andrew-loomis",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/andrew-loomis.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "56b63a48a0d6eb267eba131121a8436da95eae1baa58ad1d3366bad9267bed7a",
+    "gpt_submission_prompt": "A square mid-century magazine illustration shows a man and a woman in red exchanging an alert glance in a close interior scene. The background is a warm, loosely painted beige wall with dark areas at the sides. On the left, the man leans toward the woman, wearing a tan jacket, pale shirt, and dark teal tie. His dark hair is combed back; one hand covers part of his mouth and chin as he looks toward her with raised brows. Near the center, the woman in a saturated red short-sleeved dress turns her face left to meet his gaze. Her dark curled hair frames her cheeks, and bright red lips echo the dress. Her forearms rest across a surface near the lower edge, with a small bracelet at one wrist. At the far right, part of another man's shoulder and neck in a blue jacket enters the frame, cut off before his face becomes clear. This partial form narrows the space around the central exchange. Brushwork is smoothest in the faces and bare arms, with visible broader strokes in clothing and the muted wall. Warm cream skin tones are modeled by small rosy and gray shadows; the red garment remains the clearest color accent against tan and blue. Soft light comes from above and in front, lifting the woman's face and the man's forehead while leaving the sides and lower corners darker. The overall composition is intimate and slightly tense, using close cropping, vivid red, and the direction of two gazes to focus the moment.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "f6e4dcdf74bcf1709d4b5e8ab164cef07b29ac9a9f57dce0a0c0e822a566508f",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

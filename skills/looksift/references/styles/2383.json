@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square sepia archival photograph presents a mustached man from the chest upward against a plain, slightly mottled studio backdrop. The sitter occupies the center, facing the camera squarely with level shoulders and a steady unsmiling gaze. His short dark hair is brushed back from a high forehead, with small uneven tufts at the sides. A thick dark mustache extends across the upper lip and curves subtly toward both cheeks, becoming the strongest facial feature. Deep-set eyes, a straight nose, and faint lines at the temples are rendered through soft brown shadows rather than sharp modern contrast. He wears a dark double-breasted coat with broad lapels and visible buttons, over a high white collar and narrow dark neckwear. The coat merges gradually with the deeper brown lower corners, keeping attention on the lighter face and collar. The background is warm tan near the head and darkens gently toward the edges, with a few small specks and surface marks revealing the age of the print. The image remains frontal and simple: there are no props, decorative furniture, or readable labels in the chosen view. Soft studio light comes from slightly above and left of the camera, brightening the forehead, nose ridge, and left cheek while letting the opposite cheek and eye sit in mild shade. Fine grain and faded tonal transitions give the photograph a matte, paper-based texture. The overall composition is formal and restrained, using centered symmetry and warm brown tonal range to make the sitter's expression feel direct and enduring.",
+  "full_prompt_zh": "这幅方形棕褐色档案照片呈现一名留胡须男子，从胸部向上取景，背景是简单而略有斑驳的影棚布景。人物居中，正面对着相机，双肩平稳，目光坚定且没有笑意。短深发从较高的额头向后梳，两侧有少量不整齐发束。浓密深色八字胡横过上唇，并轻轻向双颊弯去，成为最醒目的面部特征。深陷眼睛、直鼻以及鬓边淡纹由柔和棕影描出，没有现代照片那种极锐利反差。他穿深色双排扣外套，翻领宽大、纽扣可见，内搭高白领和细窄深色领饰。外套逐渐融入更深的棕色下角，让注意集中在较亮的脸与领口。背景在头部周围呈暖褐色，向边缘温和变深，少量细点和表面痕迹显出旧印相年代。画面正面而简洁：所选视图没有道具、装饰家具或可读标签。柔和影棚光从相机左上方略偏处照来，照亮额头、鼻梁和左脸颊，让另一侧脸与眼保持轻微阴影。细颗粒与褪色明暗过渡赋予照片哑光纸本肌理。整体构图正式而克制，以居中对称和暖棕色调，让人物神情直接且经久。",
+  "style_prompt_en": "Sepia archival photography relies on centered, formal framing and a narrow range of warm tan, umber, and deep brown. Soft studio light models the main planes through gentle tonal changes, while dark clothing or large shadow masses merge toward the margins. Fine paper grain, faded edges, and occasional tiny specks give the surface a matte historical character. Detail is clearest at the focal center, with the plain ground kept quiet and slightly mottled. The overall treatment is steady, intimate, and restrained.",
+  "style_prompt_zh": "棕褐色档案摄影依靠居中的正式取景，以及暖褐、赭棕和深棕的狭窄色调范围。柔和影棚光以温和明暗变化塑造主要平面，深色衣料或大片阴影向边缘融合。细纸纹、褪色边缘和偶发微小斑点赋予表面哑光历史气息。焦点中央的细节最清楚，简单底面则安静且略有斑驳。整体稳定、亲密而克制。",
+  "theme_en": "A formal sepia head-and-shoulders photograph of a mustached man",
+  "theme_zh": "一张留胡须男子的正式棕褐色半身照片",
+  "wh_ratio": "1:1",
+  "id": "2383",
+  "name": "Alphonse Bertillon",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/alphonse-bertillon",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/alphonse-bertillon.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "516173838f2fa382a424661e1295ef20aff50f307a78c5e4ad2579d2963daac7",
+    "gpt_submission_prompt": "A square sepia archival photograph presents a mustached man from the chest upward against a plain, slightly mottled studio backdrop. The sitter occupies the center, facing the camera squarely with level shoulders and a steady unsmiling gaze. His short dark hair is brushed back from a high forehead, with small uneven tufts at the sides. A thick dark mustache extends across the upper lip and curves subtly toward both cheeks, becoming the strongest facial feature. Deep-set eyes, a straight nose, and faint lines at the temples are rendered through soft brown shadows rather than sharp modern contrast. He wears a dark double-breasted coat with broad lapels and visible buttons, over a high white collar and narrow dark neckwear. The coat merges gradually with the deeper brown lower corners, keeping attention on the lighter face and collar. The background is warm tan near the head and darkens gently toward the edges, with a few small specks and surface marks revealing the age of the print. The image remains frontal and simple: there are no props, decorative furniture, or readable labels in the chosen view. Soft studio light comes from slightly above and left of the camera, brightening the forehead, nose ridge, and left cheek while letting the opposite cheek and eye sit in mild shade. Fine grain and faded tonal transitions give the photograph a matte, paper-based texture. The overall composition is formal and restrained, using centered symmetry and warm brown tonal range to make the sitter's expression feel direct and enduring.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "4de5385d191bf05bb7fd073cc8744293930213a959258e1e4139415135b98bb5",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

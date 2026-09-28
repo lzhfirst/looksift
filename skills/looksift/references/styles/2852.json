@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A black-and-white landscape photograph shows a large tree rising from the left bank of a quiet body of water. Its dark trunk splits into broad arching branches that sweep across almost the entire upper frame. Small leaves break the pale sky into a dense mesh of black and white marks. Light bursts through the far canopy and reflects off the water near the center-right, producing a wide white patch surrounded by dark foliage. In the foreground, a rough path or bank angles from the lower left toward the water. Long branching shadows fall across its granular surface, echoing the overhead limbs. A slender white border remains visible around the picture. The photograph has strong contrast but preserves mid-grey texture in the path, tree bark, and distant shore. Edges are sharp where branches silhouette against the bright opening and softer where foliage merges into darker masses. The spatial path begins at the shaded ground, travels beneath the canopy, and opens suddenly at the glowing water. The image is organized by one dark vertical anchor, a network of overhead lines, and a broad reflected light area.",
+  "full_prompt_zh": "一幅黑白风景照片呈现一棵大树立在平静水域的左岸。深色树干分出宽阔弧形树枝，几乎横扫整个画面上部。细小树叶把浅色天空切成密集的黑白网状痕迹。光从远处树冠间射入，在画面中央偏右的水面形成宽阔白色反光，周围环绕深色树丛。前景粗糙小径或岸坡从左下角斜向水边，长而分叉的影子落在其颗粒表面，与头顶枝条呼应。照片四周留有窄窄白色边框。画面反差强，但路面、树皮和远岸仍保留中灰纹理。枝条在亮处前形成清晰剪影；树叶与深色团块相接处则稍柔。空间路径从阴影中的地面出发，穿过树冠下面，在发光水面突然敞开。整幅图由一根深色纵向锚点、上方线条网络和大片反射亮区组织。",
+  "style_prompt_en": "A monochrome photographic surface uses deep blacks, luminous whites, and textured middle greys rather than color separation. Thin branching silhouettes weave across a bright upper field, while a heavy dark vertical mass anchors one side. Light pierces the dense pattern and blooms into a broad reflective patch farther back. Angular shadows repeat the overhead lines across a grainy lower plane. Fine leaves and rough ground produce a high-frequency texture, balanced by quieter open highlights. Edges are crisp against bright openings and less distinct where dark forms overlap. A narrow light border frames the image. The composition moves from foreground shadow under a dense canopy toward a glowing distant gap, creating depth through successive tonal layers and converging diagonals.",
+  "style_prompt_zh": "单色摄影表面使用深黑、明亮白色与有纹理的中灰，而不是靠色彩分区。细密分叉的剪影在上方亮色区域交织，一侧有沉重的深色纵向块面压住画幅。光穿过稠密图案，在远处扩成宽阔反射亮片。棱角分明的影线在颗粒状下部平面重复头顶的枝状线条。细叶与粗糙地面带来高频纹理，由较安静的开放亮处平衡。亮背景前的边缘清楚，深色形体重叠处则较模糊。窄浅色边框包住画面。构图从密集覆盖下的前景阴影走向发光的远处缺口，连续色调层和汇聚斜线建立纵深。",
+  "theme_en": "A black-and-white photograph of a spreading tree beside bright water",
+  "theme_zh": "亮水岸边舒展大树的黑白照片",
+  "wh_ratio": "1:1",
+  "id": "2852",
+  "name": "Ilford XP2 400",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/ilford-xp2-400",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/ilford-xp2-400.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "ccea0ef1d2eed9f1af17d7b0d730782723b792043cc531a3f07a9b8059ec3007",
+    "gpt_submission_prompt": "A black-and-white landscape photograph shows a large tree rising from the left bank of a quiet body of water. Its dark trunk splits into broad arching branches that sweep across almost the entire upper frame. Small leaves break the pale sky into a dense mesh of black and white marks. Light bursts through the far canopy and reflects off the water near the center-right, producing a wide white patch surrounded by dark foliage. In the foreground, a rough path or bank angles from the lower left toward the water. Long branching shadows fall across its granular surface, echoing the overhead limbs. A slender white border remains visible around the picture. The photograph has strong contrast but preserves mid-grey texture in the path, tree bark, and distant shore. Edges are sharp where branches silhouette against the bright opening and softer where foliage merges into darker masses. The spatial path begins at the shaded ground, travels beneath the canopy, and opens suddenly at the glowing water. The image is organized by one dark vertical anchor, a network of overhead lines, and a broad reflected light area.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "8d87a3589d5842f85d71fc674dd1e3f832b7497a9209e48a644da6f8dfd80b19",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

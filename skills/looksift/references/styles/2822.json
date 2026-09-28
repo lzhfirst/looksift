@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square studio portrait photograph shows a young woman from the chest up against a nearly black background. Her body turns slightly left while her face comes back toward the camera, meeting the viewer with a steady, serious gaze. Dense dark curls frame the head and fall to both shoulders, their upper edges catching small warm highlights while the lower coils disappear into shadow. She wears a black V-neck garment, a thin chain necklace with a small pendant, and a subtle earring. A concentrated warm light from above and slightly left illuminates the forehead, brows, bridge of the nose, lips, collarbone, and the nearest shoulder. The eye sockets retain soft shadow, but the eyes catch tiny bright points. Her cheeks and jaw are smoothly modeled from gold-brown light into deep umber. The background has no visible objects or horizon; a faint brown halo behind the hair is the only separation from black. The lower garment merges into the backdrop so that the lit face and upper chest dominate. Skin texture is natural and softly detailed, while individual curls make a fine irregular border around the face. There is no hard visible cast shadow on a surface; the top light shapes volumes through gradual falloff. The composition is close, simple, and centered, with the warm face suspended in a dark field. The strong vertical light gradient creates an intimate, contemplative mood.",
+  "full_prompt_zh": "一幅方形影棚肖像摄影呈现一位年轻女子胸部以上形象，身后近乎全黑。身体略向左转，脸回向镜头，以稳定严肃的目光望着观者。浓密深卷发围住头部并落到双肩，上缘接到微小暖高光，下方发卷消入阴影。她穿黑色V领衣服，戴细链与小吊饰，还有一枚低调耳环。一束集中暖光从上方略偏左落下，照亮额头、眉骨、鼻梁、嘴唇、锁骨和近侧肩。眼窝保留柔影，但眼里有极小亮点。双颊与下颌从金褐光平顺过渡到深棕褐。背景没有物件或地平线；头发后方淡褐光晕是与黑色的唯一分界。下部衣物并入背景，使受光面庞和上胸占主导。肤质自然且柔和细致，单根卷发在脸周形成细密不规则边。没有表面上的清楚硬投影；顶光靠逐渐衰减塑造体量。构图近、简单而居中，暖色面孔像悬在深色域里。强烈竖向光梯度营造亲密沉思氛围。",
+  "style_prompt_en": "A low-key studio photograph uses concentrated warm light from above to lift a compact central form out of near-black space. Highlights gather on upper planes and taper down through gold-brown midtones to deep umber shadow. A fine irregular dark perimeter catches a few tiny glints but largely merges with the background. The lower mass remains almost black, making the upper illuminated region the only strong focus. Edges are softly photographic rather than graphic, with natural skinlike texture and gentle gradation. A faint halo behind the silhouette separates it minimally from the void. No environment or cast-shadow pattern distracts from the top-down light falloff. The composition is simple, close, and still, balancing small eye-level glints against broad velvet darkness.",
+  "style_prompt_zh": "低调影棚摄影用集中暖顶光把紧凑中央形体从近黑空间中提起。高光聚在上部平面，再经金褐中间调向深棕褐阴影下行。纤细不规则深色外围只接住几处微亮，其余大部融入背景。下部团块几乎全黑，使上部受光区域成为唯一强焦点。边缘柔和带摄影感而非图形化，有自然肤质般肌理和平顺渐层。剪影后淡光晕仅做最小程度分离。没有环境或投影纹样干扰从上向下的光衰减。构图简单、贴近且静止，以眼位小亮点对照宽阔天鹅绒般黑暗。",
+  "theme_en": "A curly-haired woman lit from above against a dark background",
+  "theme_zh": "深色背景前受顶光照亮的卷发女子",
+  "wh_ratio": "1:1",
+  "id": "2822",
+  "name": "Portrait shot with top lighting",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/portrait-shot-with-top-lighting",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/portrait-shot-with-top-lighting.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "2cf1a9000372be51d4c0f638e057400378299f53851cfdbb9ceefcc5aa406d06",
+    "gpt_submission_prompt": "A square studio portrait photograph shows a young woman from the chest up against a nearly black background. Her body turns slightly left while her face comes back toward the camera, meeting the viewer with a steady, serious gaze. Dense dark curls frame the head and fall to both shoulders, their upper edges catching small warm highlights while the lower coils disappear into shadow. She wears a black V-neck garment, a thin chain necklace with a small pendant, and a subtle earring. A concentrated warm light from above and slightly left illuminates the forehead, brows, bridge of the nose, lips, collarbone, and the nearest shoulder. The eye sockets retain soft shadow, but the eyes catch tiny bright points. Her cheeks and jaw are smoothly modeled from gold-brown light into deep umber. The background has no visible objects or horizon; a faint brown halo behind the hair is the only separation from black. The lower garment merges into the backdrop so that the lit face and upper chest dominate. Skin texture is natural and softly detailed, while individual curls make a fine irregular border around the face. There is no hard visible cast shadow on a surface; the top light shapes volumes through gradual falloff. The composition is close, simple, and centered, with the warm face suspended in a dark field. The strong vertical light gradient creates an intimate, contemplative mood.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "6d9ba3ee2d9cd74a7452a1b1528c507bb08ebed01d7b742ed685230940d739b9",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

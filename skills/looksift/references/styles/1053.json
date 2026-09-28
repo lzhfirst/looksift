@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square wildlife photograph shows a giraffe's face very close to a low camera against a quiet gray sky. The animal faces straight forward, its broad muzzle and nostrils centered, with large dark eyes set far to either side. Two short fuzzy ossicones rise above the forehead, and wide ears stretch toward the upper corners. Fine lashes, mottled fur and small whiskerlike hairs remain visible around the eyes and nose. The long neck narrows down through the lower edge, where its dark markings begin to appear but the rest of the body is cropped away. A strip of distant land sits very low along the bottom, softened by haze. Behind the head, the sky grades from pale warm gray near the horizon to deeper slate gray above, with a few low diffuse cloud bands. The perspective makes the muzzle slightly prominent while the ears and ossicones fan out against the simple background. Soft open-sky light reveals the fur without harsh highlights, and a subtle shadow under the brow gives depth to the eyes. Brown-gray color is restrained rather than vivid; texture and direct eye contact supply the interest. The photograph is sharply focused on the face while the horizon falls gently out of focus. There are no people, structures or readable text. The overall composition is intimate and humorous, balancing a very large centered animal head against ample still gray air.",
+  "full_prompt_zh": "一张方形野生动物照片呈现一只长颈鹿的脸贴近低位相机，背后是安静灰天。动物正面望来，宽阔口鼻与鼻孔居中，大而深的眼睛分置两侧。两根短而毛茸茸的角状突起从额头升起，宽耳朵伸向上方两角。眼睛和鼻子周围的细睫毛、斑驳毛发与细小须毛仍可见。长颈向下收窄穿出下缘，深色花纹刚开始显现，身体其余部分被裁掉。一条远地带极低地横在底部，被薄雾柔化。头后天空从地平线附近的浅暖灰渐变到上方较深的板岩灰，只有几道低矮漫散云带。透视让口鼻略突出，耳朵和短角在简单背景前扇形展开。柔和开放天空光照出毛发而无强烈高光，眉骨下轻影让眼睛更有深度。棕灰配色克制，不追求鲜艳；肌理和直接的目光承担吸引力。面部焦点清晰，地平线则轻柔失焦。没有人物、建筑或可读文字。整体构图亲密且幽默，以非常大的居中动物头部平衡宽裕静止的灰色空气。",
+  "style_prompt_en": "A naturalistic wildlife-photography treatment uses an unexpectedly close, low viewpoint and a simple muted backdrop. Earthy brown-gray surfaces carry crisp tactile detail at the focal plane, while distant tones soften smoothly into haze. Diffuse overcast light keeps highlights gentle and shadows shallow, preserving subtle variations in texture and form. A restrained palette of warm taupe, cool slate and off-white makes direct shape and scale the main compositional devices. The central mass fills much of the frame but leaves breathing room around the upper edges. Shallow depth of field separates precise near detail from a quiet blurred horizon, giving the result immediacy and an understated comic warmth.",
+  "style_prompt_zh": "自然主义野生动物摄影处理采用出人意料的贴近低视点与简单低调背景。土棕灰表面在焦点平面保留清晰可触的细节，远处色调则平滑柔化进薄雾。阴天漫射光让高光温和、阴影浅淡，保存肌理与形体的细微变化。暖灰褐、冷板岩色与灰白组成克制色盘，使直接的形状与尺度成为主要构图手段。中央体量占据画面大部，上边缘周围仍有透气空间。浅景深把精确近景细节同安静模糊的地平线分开，带来即时感与低调的幽默温度。",
+  "theme_en": "A giraffe looking directly into a low wildlife camera beneath a gray sky",
+  "theme_zh": "灰天下，一只长颈鹿低头直视贴近的野外相机",
+  "wh_ratio": "1:1",
+  "id": "1053",
+  "name": "Will Burrard-Lucas",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/will-burrard-lucas",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/will-burrard-lucas.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "a7a2cf3c230cbf3735eb2366cd39009d4f083eaf594880f957230f871d9b0a45",
+    "gpt_submission_prompt": "A square wildlife photograph shows a giraffe's face very close to a low camera against a quiet gray sky. The animal faces straight forward, its broad muzzle and nostrils centered, with large dark eyes set far to either side. Two short fuzzy ossicones rise above the forehead, and wide ears stretch toward the upper corners. Fine lashes, mottled fur and small whiskerlike hairs remain visible around the eyes and nose. The long neck narrows down through the lower edge, where its dark markings begin to appear but the rest of the body is cropped away. A strip of distant land sits very low along the bottom, softened by haze. Behind the head, the sky grades from pale warm gray near the horizon to deeper slate gray above, with a few low diffuse cloud bands. The perspective makes the muzzle slightly prominent while the ears and ossicones fan out against the simple background. Soft open-sky light reveals the fur without harsh highlights, and a subtle shadow under the brow gives depth to the eyes. Brown-gray color is restrained rather than vivid; texture and direct eye contact supply the interest. The photograph is sharply focused on the face while the horizon falls gently out of focus. There are no people, structures or readable text. The overall composition is intimate and humorous, balancing a very large centered animal head against ample still gray air.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "a1a29ed57400e13739c7fe873479a0d5f72e9306dd1619fcd97bb2905830bce7",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

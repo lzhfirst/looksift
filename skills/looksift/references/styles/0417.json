@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square romantic oil painting shows a young woman seated on a stone ledge in a garden. Her body extends diagonally from the lower center toward the upper left, with a full cream skirt pooled around her knees. She rests one elbow on a low block of weathered masonry and supports her cheek with her hand, looking pensively off to the left. Brown hair is gathered into a soft low arrangement beneath a small pale covering. A gold and warm brown embroidered bodice lies over the white blouse and long sleeves, while a dark green sash or drape descends behind her. The blouse sleeves are loose and textured, catching light in cream and gray folds. Rose bushes and deep green foliage crowd the left and upper edges, with small pink blossoms punctuating the shadow. Behind the figure, old stone pillars and a wall carry vines and mottled warm-gray stains. The foreground ledge is rough and chipped, grounding the elegant dress in a tangible place. Soft daylight enters from the upper left, illuminating her cheek, forearm, blouse, and upper skirt, while the garden and recesses remain dark olive and brown. The paint blends the face with gentle smoothness but leaves visible, more active strokes in stone, fabric, and leaves. The woman's gaze and resting pose suggest a private pause rather than an event. The composition uses the bright diagonal skirt to draw the eye through the dark garden frame, balancing decorative richness with stillness and a quiet melancholy.",
+  "full_prompt_zh": "一幅方形浪漫主义油画描绘一位年轻女子坐在花园石台上。她的身体从下方中央斜向左上，丰满的奶油色裙摆堆在双膝周围。她把一只手肘支在风化石砌的低矮方块上，以手托腮，沉思地望向左边画外。棕发在一小片浅色罩饰下柔和束于脑后。金色与暖棕刺绣紧身上衣罩在白衬衫和长袖外，深绿色腰带或披布垂在身后。衬衫袖宽松有纹理，奶油和灰色褶层接住光。玫瑰丛与深绿叶片挤在左边和上边，零星粉花点亮阴影。人物背后，旧石柱和墙面带有藤蔓与暖灰斑驳痕迹。前景石台粗糙有缺口，使优雅衣裙落在可触的地方。柔日光从左上进入，照亮脸颊、前臂、衬衫和裙上部，花园与凹处仍呈暗橄榄和棕色。颜料在脸部温和晕染，在石、布与叶处留下更活跃的可见笔触。女子的视线和倚靠姿态像私人的暂停，而非某件事件。构图以明亮斜向裙摆引导视线穿过暗花园边框，在装饰的丰盛与静止、轻微忧伤之间保持平衡。",
+  "style_prompt_en": "Use romantic oil painting with softly blended faces or focal surfaces set against richly worked foliage, cloth, and weathered textures. Let a pale diagonal form emerge from an enclosing frame of olive, umber, rose, and warm stone. Side daylight should touch cheek-like curves, folds, and edges gently, while recesses stay deep and natural. Keep ornate detail tactile rather than uniformly sharp, allowing controlled brush movement in surrounding materials. The mood is still, reflective, and slightly wistful.",
+  "style_prompt_zh": "采用浪漫主义油画：脸部或焦点表面柔和晕染，周围叶片、衣料与风化肌理处理丰厚。让浅色斜向形体从橄榄、赭褐、玫瑰与暖石色围成的边框中显出。侧向日光轻触弧面、褶层与边缘，凹处保持自然深暗。繁复细节应可触而非处处锐利，周围材质容许克制笔触运动。情绪静止、沉思、略带惆怅。",
+  "theme_en": "A pensive woman in cream and gold seated beside roses and old stone",
+  "theme_zh": "身着乳白与金色衣裙的沉思女子坐在玫瑰与旧石墙旁",
+  "wh_ratio": "1:1",
+  "id": "0417",
+  "name": "Francis Bernard Dicksee",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/francis-bernard-dicksee",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/francis-bernard-dicksee.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "ab577dbc3a5600f17fbeb4052d0beab05b5b46d724ac57519acf8dc17b2b9212",
+    "gpt_submission_prompt": "A square romantic oil painting shows a young woman seated on a stone ledge in a garden. Her body extends diagonally from the lower center toward the upper left, with a full cream skirt pooled around her knees. She rests one elbow on a low block of weathered masonry and supports her cheek with her hand, looking pensively off to the left. Brown hair is gathered into a soft low arrangement beneath a small pale covering. A gold and warm brown embroidered bodice lies over the white blouse and long sleeves, while a dark green sash or drape descends behind her. The blouse sleeves are loose and textured, catching light in cream and gray folds. Rose bushes and deep green foliage crowd the left and upper edges, with small pink blossoms punctuating the shadow. Behind the figure, old stone pillars and a wall carry vines and mottled warm-gray stains. The foreground ledge is rough and chipped, grounding the elegant dress in a tangible place. Soft daylight enters from the upper left, illuminating her cheek, forearm, blouse, and upper skirt, while the garden and recesses remain dark olive and brown. The paint blends the face with gentle smoothness but leaves visible, more active strokes in stone, fabric, and leaves. The woman's gaze and resting pose suggest a private pause rather than an event. The composition uses the bright diagonal skirt to draw the eye through the dark garden frame, balancing decorative richness with stillness and a quiet melancholy.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "24862f75d9ab2e0a397b6f8bba61f4f9b8c0289b5abcf2913d257ac3249a4b18",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

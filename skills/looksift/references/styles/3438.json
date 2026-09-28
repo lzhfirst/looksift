@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square cut-paper silhouette scene shows three small riders on flying broomlike forms crossing an immense orange sky. The riders travel from left toward right across the upper middle, their capes and pointed shapes caught in motion. Below, a black hill rises across the foreground. A leafless tree with curling branches stands at the left, and a castle with narrow pointed towers climbs from the lower right. Behind the silhouettes, the sky is layered with irregular bands of rust, vermilion and ember orange, like torn paper or shallow watercolor washes. Darker cloud shapes drift across the top and partially frame the riders. The figures themselves are completely black, with no internal facial or clothing detail; their identity comes from contour and pose. A few smaller branches reach into the open space at the lower edge. The light appears to glow from the warm background, making the black cutouts absolute and flat rather than casting separate shadows. The composition has the clarity of shadow theater, where overlapping black forms define depth against a luminous screen. The riders make a rhythmic diagonal across the upper half, balanced by the rising castle on the right and spreading tree on the left. The overall image is playful and slightly eerie, relying on strong contrast, crisp profiles and layered orange atmosphere.",
+  "full_prompt_zh": "这幅方形剪纸剪影画呈现三名小骑手乘扫帚般飞行形体穿越巨大的橙色天空。骑手从左向右掠过上方中部，披风与尖形在运动中扬起。下方一座黑色山坡横过前景。左侧一棵枯树伸出卷曲枝条，右下城堡以窄尖塔升起。剪影后天空由锈色、朱红与炭火橙的不规则带层叠，像撕纸或浅水彩洗。较暗云形漂过顶部，部分框住骑手。人物完全是黑色，没有内部脸或衣服细节；身份来自轮廓与姿态。几条更小的枝伸进下缘空隙。光像从暖背景发出，让黑剪纸绝对平坦，而非投下独立阴影。构图有皮影戏般清晰度，层叠黑形在亮幕前界定深度。骑手在上半幅形成有节奏斜线，由右侧上升的城堡和左侧展开的树平衡。整体俏皮且略诡异，依靠强对比、清脆侧形与层叠橙色空气。",
+  "style_prompt_en": "The cut-paper silhouette image uses absolute black forms against layered luminous orange and rust. Crisp profiles carry all the detail, while irregular translucent bands provide atmospheric depth without internal modeling. A broad dark base anchors thinner branching shapes and a rising cluster at the edge. Strong backlight makes the foreground read as flat shadow theater. Rhythmic diagonals and generous warm negative space keep the composition clear, playful and faintly uncanny.",
+  "style_prompt_zh": "这种剪纸剪影图像以绝对黑色形体对着层叠发光的橙与锈色。清脆外形承担全部细节，不规则半透明色带提供空气深度，却没有内部体积塑造。宽暗基底固定较细分枝形和边缘一组升起形体。强逆光使前景读作平坦皮影。节奏斜线与宽裕暖色留域让构图清楚、俏皮而微微奇异。",
+  "theme_en": "Three flying riders crossing an orange sky above a castle",
+  "theme_zh": "三名飞行骑手掠过城堡上方的橙色天空",
+  "wh_ratio": "1:1",
+  "id": "3438",
+  "name": "Lotte Reiniger",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/lotte-reiniger",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "abe664088ce82fa56e63f69000e73641aefe600903bba1e1112cef5d3a23107b",
+    "gpt_submission_prompt": "A square cut-paper silhouette scene shows three small riders on flying broomlike forms crossing an immense orange sky. The riders travel from left toward right across the upper middle, their capes and pointed shapes caught in motion. Below, a black hill rises across the foreground. A leafless tree with curling branches stands at the left, and a castle with narrow pointed towers climbs from the lower right. Behind the silhouettes, the sky is layered with irregular bands of rust, vermilion and ember orange, like torn paper or shallow watercolor washes. Darker cloud shapes drift across the top and partially frame the riders. The figures themselves are completely black, with no internal facial or clothing detail; their identity comes from contour and pose. A few smaller branches reach into the open space at the lower edge. The light appears to glow from the warm background, making the black cutouts absolute and flat rather than casting separate shadows. The composition has the clarity of shadow theater, where overlapping black forms define depth against a luminous screen. The riders make a rhythmic diagonal across the upper half, balanced by the rising castle on the right and spreading tree on the left. The overall image is playful and slightly eerie, relying on strong contrast, crisp profiles and layered orange atmosphere.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "02c25a37fd613f6c499f3071d5507909bcb196feadff6a992d57f9228019ef4a",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

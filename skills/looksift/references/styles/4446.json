@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square close-up portrait shows a theatrical young woman facing slightly left while her large eyes glance outward. Short dark hair is framed by curled blue-black side pieces and an ornate small headpiece edged with gold. Her pale face carries sharply outlined blue brows, heavy blue shadow around the eyes, and two flat pink hearts painted on the cheeks. Deep rose lips and a powdered complexion intensify the almost doll-like expression. Below the chin, a white ruffled collar separates the face from layers of saturated pink, gold and dark blue costume. A tiny bright jewel sits at the center of the neckline. The background is a blur of magenta, crimson and gold decoration, close enough to feel crowded but soft enough to hold the face forward. Light is glossy and controlled: the eyes catch crisp reflections, cosmetic pigment has a matte grain, and metallic trim flashes in small highlights. The makeup is boldly graphic rather than natural, while the skin retains photographic pores and subtle shading. Saturation is high, with cool blue framing the eyes and warm pink controlling the cheeks and surrounding fabric. The composition crops close, leaving little empty space; every edge contributes an ornamental fragment. The mood is festive yet slightly uncanny because a real photographic face carries the simplified symbols and polished surface of a manufactured character.",
+  "full_prompt_zh": "一幅正方形近景肖像呈现一位戏剧化的年轻女子，脸微微转向左侧，大眼睛却望向画外。短黑发两侧由卷曲的蓝黑色发片框住，头上有镶金边的精巧小头饰。苍白面容带着线条分明的蓝色眉毛、眼周浓重蓝影，以及双颊两枚平涂的粉色爱心。深玫瑰色嘴唇与扑粉肤色增强了近似玩偶的神情。下巴下方的白色荷叶领将面部与高饱和粉、金、深蓝戏服层次分开。领口中央有一颗明亮的小宝石。背景是洋红、绯红与金色装饰的虚影，距离近得令人感到拥挤，却又足够柔软，使脸部向前凸显。光线光滑而受控：双眼映出清脆反光，彩妆颜料带有哑光颗粒，金属饰边闪出点点高光。妆面大胆图形化而非自然，皮肤仍保留摄影毛孔与细微明暗。色彩高度饱和，冷蓝色框住眼睛，暖粉色主导脸颊与周围布料。构图紧密裁切，空白很少；每个边缘都贡献一片装饰。气氛欢庆却稍显诡异，因为真实摄影面容承载了制造角色般的简化符号与抛光表面。",
+  "style_prompt_en": "The style is hyper-saturated theatrical portrait photography with graphic cosmetic color, ornate layered surfaces and polished yet slightly uncanny realism. Close cropping fills a square frame with decorative fragments, while shallow focus separates the sharp central plane from a dense chromatic blur. Matte pigment, photographic skin texture, glossy reflections and sparkling trim provide contrasting material finishes. Cool jewel tones press against warm pink, red and gold. Simplified flat symbols coexist with subtle modeled volume, producing an image that feels festive, artificial and physically present at once.",
+  "style_prompt_zh": "这种风格是极高饱和的剧场肖像摄影，具有图形化彩妆色块、繁复层叠表面和光洁却略显诡异的写实感。近距离裁切以装饰碎片填满正方形画面，浅景深则把清楚的中央平面与浓密彩色虚影分开。哑光颜料、摄影皮肤肌理、光泽反射和闪亮饰边形成不同材质表面的对照。冷宝石色与暖粉、红、金相互挤压。简化的平涂符号和细腻塑造的体积共存，使图像同时显得欢庆、人造而又真实在场。",
+  "theme_en": "A theatrical heroine with painted heart cheeks and elaborate costume",
+  "theme_zh": "脸颊绘有爱心、身着繁复戏装的剧场女主角",
+  "wh_ratio": "1:1",
+  "id": "4446",
+  "name": "Rachel Maclean",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/rachel-maclean.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "6b499e58f798fb3edb287704a90ee91c16d4a2ad238463a9166eb8cde905965b",
+    "gpt_submission_prompt": "A square close-up portrait shows a theatrical young woman facing slightly left while her large eyes glance outward. Short dark hair is framed by curled blue-black side pieces and an ornate small headpiece edged with gold. Her pale face carries sharply outlined blue brows, heavy blue shadow around the eyes, and two flat pink hearts painted on the cheeks. Deep rose lips and a powdered complexion intensify the almost doll-like expression. Below the chin, a white ruffled collar separates the face from layers of saturated pink, gold and dark blue costume. A tiny bright jewel sits at the center of the neckline. The background is a blur of magenta, crimson and gold decoration, close enough to feel crowded but soft enough to hold the face forward. Light is glossy and controlled: the eyes catch crisp reflections, cosmetic pigment has a matte grain, and metallic trim flashes in small highlights. The makeup is boldly graphic rather than natural, while the skin retains photographic pores and subtle shading. Saturation is high, with cool blue framing the eyes and warm pink controlling the cheeks and surrounding fabric. The composition crops close, leaving little empty space; every edge contributes an ornamental fragment. The mood is festive yet slightly uncanny because a real photographic face carries the simplified symbols and polished surface of a manufactured character.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "25f3053a8c00595d0619d201e3a5fccc4ee37a4c9afe91a3507c54dc7198c6a8",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white landscape photograph shows a solitary tree standing beside a rough wet track on an open moor. The track begins in the lower left and curves toward the tree near the center, then slips away across a low, nearly straight horizon. Its puddles and slick mud reflect a pale strip of sky as irregular silver shapes. The tree is short and windswept, with a slightly leaning trunk and a dense crown pushed to the right. It rises against a bright break in the cloud cover, making its silhouette crisp. The ground on either side is dark, sparse, and uneven, dotted with low scrub, stones, and shallow ruts. A vast storm sky occupies the upper half, layered with heavy charcoal cloud banks, lighter turbulent streaks, and a luminous opening near the center-left. The sun is hidden, but bright light grazes the wet road and sets a thin halo around the tree. Strong tonal contrast is balanced by subtle detail within both the sky and shadowed earth. Fine photographic grain and a broad depth of field retain the realism of the landscape. The composition is austere: one path, one tree, low land, and weather. There are no people, buildings, fences, words, or decorative effects. The track serves as a direct visual route to the isolated tree, while the moving clouds make the still land feel exposed. The mood is brooding, spacious, and quietly resilient, shaped by natural light and the physical texture of a damp open place.",
+  "full_prompt_zh": "一张方形黑白风景照片呈现一棵孤树立在开阔荒原的粗糙湿路旁。小路从左下起，弯向中央附近的树，然后沿低而近直的地平线远去。水洼与滑泥把一条浅天空反射成不规则银形。树矮且迎风，树干稍斜，密树冠向右偏，在云层亮裂口前形成清楚剪影。两侧地面深、稀疏不平，散低灌木、石块和浅车辙。巨大暴风天空占上半幅，层层厚炭云、较浅的翻动条纹和中央偏左亮开口交织。太阳隐没，但亮光擦过湿路，给树周一道细晕。强明暗对比下，天空与深土地仍有微妙细节。细摄影颗粒与宽景深保留景观真实感。构图严简：一条路、一棵树、低土地与天气。没有人物、建筑、篱笆、文字或装饰特效。路作为直达孤树的视觉通道，移动云层让静止土地显得无遮无挡。氛围阴郁、开阔且安静地坚韧，由自然光和潮湿开放场所的实体肌理塑成。",
+  "style_prompt_en": "Use austere black-and-white landscape photography with a low horizon, enormous weathered sky, and one clear dark anchor reached by a reflective leading line. Render storm clouds in layered charcoal, silver, and pale gray, preserving texture within dramatic contrast. Let wet or rough ground catch irregular highlights against deep earth shadows. Keep depth of field broad and details natural, with fine grain rather than stylized effects. Compose sparely so open atmosphere and the route through the frame carry the visual weight. The mood is brooding, spacious, and resilient, arising from weather, reflected light, and isolated form.",
+  "style_prompt_zh": "采用严简黑白风景摄影，以低地平线、巨大风云天空和由反光引导线抵达的一处清楚深锚点构图。暴风云以分层炭色、银色与浅灰呈现，在戏剧对比中仍保留纹理。湿或粗地面以不规则亮点对照深土影。景深宽，细节自然，只有细颗粒而非风格特效。构图简疏，使开放大气和贯穿画面的路径承担视觉重量。氛围阴郁、开阔而坚韧，来自天气、反射光与孤立形体。",
+  "theme_en": "A lone windswept tree beside a wet track beneath a storm sky",
+  "theme_zh": "暴风云下湿路旁一棵迎风独树",
+  "wh_ratio": "1:1",
+  "id": "4500",
+  "name": "Fay Godwin",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/fay-godwin.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "93780c965c765a6c25ec48df3798df2b563dc92204e100f06701d2a6e79518cc",
+    "gpt_submission_prompt": "A square black-and-white landscape photograph shows a solitary tree standing beside a rough wet track on an open moor. The track begins in the lower left and curves toward the tree near the center, then slips away across a low, nearly straight horizon. Its puddles and slick mud reflect a pale strip of sky as irregular silver shapes. The tree is short and windswept, with a slightly leaning trunk and a dense crown pushed to the right. It rises against a bright break in the cloud cover, making its silhouette crisp. The ground on either side is dark, sparse, and uneven, dotted with low scrub, stones, and shallow ruts. A vast storm sky occupies the upper half, layered with heavy charcoal cloud banks, lighter turbulent streaks, and a luminous opening near the center-left. The sun is hidden, but bright light grazes the wet road and sets a thin halo around the tree. Strong tonal contrast is balanced by subtle detail within both the sky and shadowed earth. Fine photographic grain and a broad depth of field retain the realism of the landscape. The composition is austere: one path, one tree, low land, and weather. There are no people, buildings, fences, words, or decorative effects. The track serves as a direct visual route to the isolated tree, while the moving clouds make the still land feel exposed. The mood is brooding, spacious, and quietly resilient, shaped by natural light and the physical texture of a damp open place.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "77489ec4a4374551ac1e848928589a1ab15a9918baf1d36b0ce4c46239c21d88",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

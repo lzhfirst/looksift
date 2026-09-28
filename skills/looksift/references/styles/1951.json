@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square photograph looks close at a rough ocher cave wall carrying two ancient-looking painted animal figures. The stone slopes diagonally from upper left to lower right, with deep fissures, raised ridges, and a lighter central area used as the picture surface. On the left, a dark reddish-brown antlered animal faces right in profile. Its back and legs are indicated with thin, uneven pigment lines, and the antlers rise into several branching prongs. A second animal sits farther right, also in profile, rendered with a fuller warm rust body and a dense spray of dark branching antlers. Their limbs appear long and lightly sketched, suggesting motion without detailed anatomy. The two figures overlap the stone's natural cracks, and some lines are faded or broken where the rock surface changes. Around them, bare cave wall remains visible in tan, ocher, charcoal, and chalky cream patches. Warm artificial light grazes the uneven stone from above and left, brightening the raised face of the rock and leaving crevices dark. The camera is close enough to show granular mineral texture but wide enough to hold both animal figures and the rocky frame. There is no modern object or printed text in view. The composition is guided by the diagonal slab and the two antler shapes, which echo one another across the pale center. Pigment, irregular line, and porous stone are inseparable. The image feels tactile and quiet, inviting attention to how simple marks and the cave's existing contours join to suggest living forms.",
+  "full_prompt_zh": "一幅方形照片近看粗糙赭色洞壁，上面有两只看似古老的彩绘动物。石面从左上向右下倾斜，深裂缝、凸起棱脊和一片较浅中央区域共同构成画面底。左侧一只深红褐色长角动物向右侧身。背部和四肢以细而不均匀的颜料线暗示，角向上分出数叉。第二只动物在更右侧，也呈侧身，以更饱满暖锈色身体和一簇深色分叉长角绘出。肢体细长、略带草图感，暗示运动，却无详细解剖。两只形体跨过岩石自然裂纹，部分线条在石面变化处褪去或断开。周围仍露裸洞壁，有棕褐、赭黄、炭色和粉白色块。暖色人造光从上方和左方擦过不平石面，照亮凸起岩面，让裂隙留黑。相机足够近，可以看清颗粒状矿物质地，也足够宽，可容纳两只动物和石壁边框。画面里没有现代物件或印刷文字。构图由斜向石板和彼此呼应的两组鹿角引导。颜料、不规则线条与多孔石头不可分开。图像可触而安静，引人留意简单痕线如何与洞穴原有轮廓合力暗示活的形体。",
+  "style_prompt_en": "Documentary photography of hand-marked stone preserves the uneven mineral support as strongly as the pigment on it. Warm grazing light catches raised ocher and cream surfaces while cracks and recesses stay deep brown-black. Thin, irregular rust and charcoal lines may form simple profiles, with broken contours that follow the rock's fissures. Frame closely enough to reveal granular texture and fading marks, but retain the surrounding bare surface. The palette is earthbound and limited; the effect is tactile, spare, and quietly ancient.",
+  "style_prompt_zh": "记录手绘石面的摄影让不平整矿物底面与上面颜料同等重要。暖色擦光照亮凸起的赭黄与奶油岩面，裂缝和凹处保持深棕黑。细而不规则的锈色及炭色线条可构成简单侧影，断续轮廓顺着石裂变化。取景足够近，以显露颗粒质地与褪色痕迹，同时保留周围裸石。调色扎根大地且有限；效果可触、简朴而静静古老。",
+  "theme_en": "Two antlered animal figures painted on rough ocher cave stone",
+  "theme_zh": "粗糙赭色洞壁上绘着两只长角动物",
+  "wh_ratio": "1:1",
+  "id": "1951",
+  "name": "Lascaux",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/lascaux",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/lascaux.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "2057fd800e03c6c02f815c505224cf22985066c9668068f8014fcd50dee98172",
+    "gpt_submission_prompt": "A square photograph looks close at a rough ocher cave wall carrying two ancient-looking painted animal figures. The stone slopes diagonally from upper left to lower right, with deep fissures, raised ridges, and a lighter central area used as the picture surface. On the left, a dark reddish-brown antlered animal faces right in profile. Its back and legs are indicated with thin, uneven pigment lines, and the antlers rise into several branching prongs. A second animal sits farther right, also in profile, rendered with a fuller warm rust body and a dense spray of dark branching antlers. Their limbs appear long and lightly sketched, suggesting motion without detailed anatomy. The two figures overlap the stone's natural cracks, and some lines are faded or broken where the rock surface changes. Around them, bare cave wall remains visible in tan, ocher, charcoal, and chalky cream patches. Warm artificial light grazes the uneven stone from above and left, brightening the raised face of the rock and leaving crevices dark. The camera is close enough to show granular mineral texture but wide enough to hold both animal figures and the rocky frame. There is no modern object or printed text in view. The composition is guided by the diagonal slab and the two antler shapes, which echo one another across the pale center. Pigment, irregular line, and porous stone are inseparable. The image feels tactile and quiet, inviting attention to how simple marks and the cave's existing contours join to suggest living forms.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "49335567f9f21a1210005709d0b8f168cb1647fbb7ffec1a1f1064cdac74a749",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A gleefully grotesque hot-rod scene has the kinetic exaggeration of a vintage monster-car illustration. A low turquoise roadster charges diagonally from the left background toward the right foreground, its front wheels planted wide and its exposed chrome engine crowding the hood. The driver has a wiry green face, spiky dark hair, oversized circular yellow goggles, pointed ears, and a jagged open mouth; the driver's small head rises above the car body like an absurd animated emblem. The lamps burn as two soft yellow discs, echoing the goggles, while chunky brown tire walls and a simple tan seat balance the intense cool body color. Behind the car, crooked blue buildings bend inward on a deserted street. A pale full moon hangs in the upper left, and white lightning branches through a violet night sky; the bright lines pull the eye down toward the driver and car. Bluish tire smoke and rough patches of pavement sweep around the wheels, suggesting speed. Attentive metal highlights, grilles, springs and tubular parts define the machinery, contrasting with caricatured anatomy and theatrical expression. Layered opaque paint has visible brushed texture and a slight printed grain. Cool violet and teal dominate, punctuated by the warm lamp glow and brown wheel rims. The entire square composition feels lively, irreverent and hand-painted rather than sleek or photoreal.",
+  "full_prompt_zh": "一幅欢闹而怪诞的热杆车场面，带有复古怪物汽车插画的夸张动势。一辆低矮的青绿色敞篷车从左后方向右前方斜冲而来，前轮向两侧张开，裸露的镀铬发动机挤满车头。驾驶者有瘦削绿色面孔、深色刺发、巨大的圆形黄色护目镜、尖耳朵和露出锯齿牙的张嘴表情；小小头部从车身上冒出，像荒诞的活动徽章。两盏车灯是柔和的黄色圆盘，与护目镜呼应；厚实的棕色轮胎侧壁和简单的褐色座椅平衡了强烈的冷色车身。车后是一条空无一人的街道，两旁歪斜的蓝色建筑向内倾倒。左上方悬着苍白满月，白色闪电穿过紫色夜空，使亮线把视线导向司机和汽车。车轮周围卷起蓝色胎烟和粗糙的路面笔触，表现冲刺速度。细致的金属高光、格栅、弹簧和管件定义机械，与夸张的人体比例和舞台化表情形成对照。层层不透明颜料带有可见笔触和轻微印刷颗粒。冷紫和青绿占主导，灯光及棕色轮圈点出暖色。整幅正方形构图活泼、顽皮、富有手绘感，没有光滑的照片质感。",
+  "style_prompt_en": "Vintage illustration in layered opaque paint combines exaggerated shapes, energetic diagonal motion, detailed interlocking reflective parts, broad teal and violet fields, glowing yellow circles, rough surface strokes, and fine printed grain. Theatrical exaggeration coexists with carefully defined metallic highlights. Lightning-like marks and swept brush texture carry movement through the square frame.",
+  "style_prompt_zh": "复古插画以层层不透明颜料、夸张形体和有力斜向动势构成。细致咬合的反光形体、青绿与紫色大色块、发亮的黄色圆形光斑、粗放表面笔触和细微印刷颗粒并存。舞台化夸张与清晰的金属高光形成对照，闪电般线条和扫动笔痕贯穿正方形画面。",
+  "theme_en": "A wild green driver hurtling through a moonlit street in a custom hot rod",
+  "theme_zh": "绿色怪客驾驶改装热杆车冲过月夜街道",
+  "wh_ratio": "1:1",
+  "id": "3455",
+  "name": "Ed Roth",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/ed-roth",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "ec7084e7d0ec71aedd7bbcc5477d9d27341b9f1c81d4807271aee7a4cc8edafe",
+    "gpt_submission_prompt": "A gleefully grotesque hot-rod scene has the kinetic exaggeration of a vintage monster-car illustration. A low turquoise roadster charges diagonally from the left background toward the right foreground, its front wheels planted wide and its exposed chrome engine crowding the hood. The driver has a wiry green face, spiky dark hair, oversized circular yellow goggles, pointed ears, and a jagged open mouth; the driver's small head rises above the car body like an absurd animated emblem. The lamps burn as two soft yellow discs, echoing the goggles, while chunky brown tire walls and a simple tan seat balance the intense cool body color. Behind the car, crooked blue buildings bend inward on a deserted street. A pale full moon hangs in the upper left, and white lightning branches through a violet night sky; the bright lines pull the eye down toward the driver and car. Bluish tire smoke and rough patches of pavement sweep around the wheels, suggesting speed. Attentive metal highlights, grilles, springs and tubular parts define the machinery, contrasting with caricatured anatomy and theatrical expression. Layered opaque paint has visible brushed texture and a slight printed grain. Cool violet and teal dominate, punctuated by the warm lamp glow and brown wheel rims. The entire square composition feels lively, irreverent and hand-painted rather than sleek or photoreal.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "590e67792e13fec106d66993cdb7926e82e5516c080022cc131a4cf925505469",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

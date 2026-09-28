@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square early Renaissance fresco-like painting shows an older figure in a dusty rose cloak bending toward a small child beside a series of monumental stone columns. The elder stands left of center with the back and bowed head partly visible, one hand lifted near the face. The child wears a long pale garment and stands in a shallow doorway or niche near the middle. Another taller figure in a brown robe looks toward the child from behind. At the far left, a dark archway and interior shadow contrast with the sunlit stone architecture. The nearest column fills the right side, its cylindrical shaft and carved capital painted with restrained, exact geometry. The ground is flat pale gray stone, with a few low steps separating the figures. Colors are muted rose, cream, warm gray, umber, and small touches of olive. Surface wear, fine cracks, and slightly chalky paint give the scene a mural quality. Light is diffuse but directional enough to brighten the elder's cloak and column face, while the arch and door stay dark. The bodies have calm weight and measured gestures rather than dramatic motion. Perspective and column spacing create quiet depth. The overall composition feels solemn, balanced, and devotional, with human interaction held inside stable architecture.",
+  "full_prompt_zh": "一幅方形早期文艺复兴壁画般作品描绘一位披尘玫瑰色斗篷的长者在巨大石柱旁俯向小孩。长者位于中央偏左，背与低头部分可见，一手抬到脸旁。孩子穿长浅衣，立在中央附近浅门洞或壁龛中。另一个穿棕袍的较高人物从后方望向孩子。最左边深拱门与室内阴影对照受光石建筑。最近的柱占右侧，圆柱身与雕饰柱头以克制准确几何绘出。地面是平坦浅灰石板，几级低台阶分开人物。颜色是低调玫瑰、奶油、暖灰、熟褐与少量橄榄。表面磨损、细裂纹和略粉质颜料令场景像壁画。光弥散但有方向，提亮长者斗篷和柱面，拱与门仍暗。身体有平静重量，手势有分寸而非戏剧动作。透视与柱间距建立安静纵深。整体庄严、平衡且虔敬，让人物交流安置在稳定建筑之内。",
+  "style_prompt_en": "Early Renaissance fresco-like painting uses measured geometry, calm gestures, and a chalky muted palette. Dusty rose, cream, warm gray, umber, and olive sit in broad quiet planes. Cylindrical and rectangular forms establish stable depth through spacing and overlap. Figures have substantial but simplified volume, edged with fine contours and modest shadows. Diffuse light warms selected stone and cloth while recessed openings remain dark. Hairline cracks and worn pigment create an aged mural surface. The composition is balanced, solemn, and devotional.",
+  "style_prompt_zh": "早期文艺复兴壁画般绘画运用有分寸几何、平静手势和粉质低调配色。尘玫瑰、奶油、暖灰、熟褐和橄榄形成宽阔安静平面。圆柱与长方形通过间距和覆盖建立稳定深度。形体有坚实体积却被简化，以细轮廓和适度阴影界定。弥散光暖化部分石与布，凹入开口仍暗。细裂和磨旧颜料构成陈旧壁画表面。构图平衡、庄严而虔敬。",
+  "theme_en": "An elder in a rose cloak bending toward a child beside stone columns",
+  "theme_zh": "石柱旁披玫瑰色斗篷的长者俯身靠近孩子",
+  "wh_ratio": "1:1",
+  "id": "4151",
+  "name": "Piero della Francesca",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/piero-della-francesca.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "6613a3972c7226d2aab9f91aa56c334d81d0f5b3914c4332cdfceee4667cbd5a",
+    "gpt_submission_prompt": "A square early Renaissance fresco-like painting shows an older figure in a dusty rose cloak bending toward a small child beside a series of monumental stone columns. The elder stands left of center with the back and bowed head partly visible, one hand lifted near the face. The child wears a long pale garment and stands in a shallow doorway or niche near the middle. Another taller figure in a brown robe looks toward the child from behind. At the far left, a dark archway and interior shadow contrast with the sunlit stone architecture. The nearest column fills the right side, its cylindrical shaft and carved capital painted with restrained, exact geometry. The ground is flat pale gray stone, with a few low steps separating the figures. Colors are muted rose, cream, warm gray, umber, and small touches of olive. Surface wear, fine cracks, and slightly chalky paint give the scene a mural quality. Light is diffuse but directional enough to brighten the elder's cloak and column face, while the arch and door stay dark. The bodies have calm weight and measured gestures rather than dramatic motion. Perspective and column spacing create quiet depth. The overall composition feels solemn, balanced, and devotional, with human interaction held inside stable architecture.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "10088a5af49f7395361e8fedfaba96d64fec857f42aa50ef33d44558536511db",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

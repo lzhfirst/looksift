@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square, tightly cropped pop-art portrait painting shows a woman's face turned slightly toward the left while her blue-green eyes look directly at the viewer. The composition cuts off the top of the forehead and much of the hair, making the large eyes, long lashes, narrow nose, and glossy red mouth fill the frame. Dark brows arch strongly over the pale eyes. The skin is built from broad, sharply separated patches of cream, warm ocher, amber, and deep brown shadow rather than continuous natural shading. A nearly white highlight runs down the bridge of the nose; a dark angular shadow shapes the nostril and one side of the face. The lips are vivid lacquer red with small white glints, their full shape precisely outlined. One cheek and a small length of dark hair enter at the right edge, while a flat teal-blue plane remains open behind the left side of the face. Brushstrokes are mostly hidden inside smooth color fields, though a few irregular scraped edges and tiny pale surface marks remain. Light appears hard and frontal-side, carving strong warm and cool contrast across the face without a detailed environment. The portrait's scale is intimate and confrontational, with the gaze as the upper focal point and the red lips as the lower counterweight. Clean graphic boundaries, saturated accent colors, and the cropped face give the image an editorial, poster-like intensity.",
+  "full_prompt_zh": "一幅方形、裁切很近的波普肖像画呈现一张女子面孔略向左转，蓝绿眼睛直视观者。构图切掉额头上缘和大部分头发，让大眼、长睫毛、窄鼻及发亮红唇填满画幅。深色眉毛在浅色眼睛上方有力拱起。皮肤由大片边界分明的奶油色、暖赭色、琥珀色和深褐阴影组成，而非连续自然晕染。一道近白高光沿鼻梁下行；深色棱角影塑造鼻翼和半边脸。嘴唇是鲜亮漆红，带小白光点，丰满形状勾得精确。一侧面颊和少量深发从右缘进入，脸左后方则保留平直青蓝底色。笔触大多藏在平滑色域内，不过仍有几处不规则刮擦边和小浅色表面痕迹。光似乎硬而从正侧进入，把脸切出强烈暖冷反差，没有详细环境。肖像尺度亲密且直面观者，目光是上部焦点，红唇成为下部对重。干净平面边界、饱和重音颜色和裁断面庞使图像带编辑海报般强度。",
+  "style_prompt_en": "A polished pop-art painting enlarges one focal form until it nearly fills the square, using sharply bounded patches of cream, amber, ocher, brown, and teal. Cool blue-green high-contrast accents sit above a compact lacquer-red accent, creating a clear two-level focus. Dark linear arcs and fine tapered strokes sharpen selected edges, while broad skinlike planes remain smooth and flat. Hard frontal-side light produces bright white highlights and angular deep shadows rather than soft continuous modeling. A single open teal area gives breathing room beside the crowded central form. The paint surface is mostly slick, with a few tiny scraped imperfections. Close cropping, graphic value breaks, and saturated red against cool teal create a direct, posterlike rhythm with little background depth.",
+  "style_prompt_zh": "精修波普绘画把一处焦点形体放大到几乎填满正方形，用奶油色、琥珀、赭色、褐色与青蓝的边界清楚色片塑造。上部冷蓝绿高反差重音与下部紧凑漆红重音形成明确两级焦点。深色弧线和纤细渐尖笔痕锐化选定边缘，宽阔肤色般平面则保持平滑平直。硬正侧光造成亮白高光和棱角深影，而非柔和连续塑形。侧边一块开放青蓝区域给拥挤中央留呼吸空间。颜料表面大多光洁，只留少量微小擦损瑕疵。近景裁切、图形化明暗切换以及饱和红对照冷青绿形成直接的海报节奏，背景纵深极少。",
+  "theme_en": "A close pop-art portrait with blue eyes and bright red lips",
+  "theme_zh": "蓝眼红唇的近景波普肖像",
+  "wh_ratio": "1:1",
+  "id": "2224",
+  "name": "Richard Phillips",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/richard-phillips",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/richard-phillips.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "0dbf84599f1b9b6f3405efed5fa29658e969e25a439053ce3d9cbc33c43918d8",
+    "gpt_submission_prompt": "A square, tightly cropped pop-art portrait painting shows a woman's face turned slightly toward the left while her blue-green eyes look directly at the viewer. The composition cuts off the top of the forehead and much of the hair, making the large eyes, long lashes, narrow nose, and glossy red mouth fill the frame. Dark brows arch strongly over the pale eyes. The skin is built from broad, sharply separated patches of cream, warm ocher, amber, and deep brown shadow rather than continuous natural shading. A nearly white highlight runs down the bridge of the nose; a dark angular shadow shapes the nostril and one side of the face. The lips are vivid lacquer red with small white glints, their full shape precisely outlined. One cheek and a small length of dark hair enter at the right edge, while a flat teal-blue plane remains open behind the left side of the face. Brushstrokes are mostly hidden inside smooth color fields, though a few irregular scraped edges and tiny pale surface marks remain. Light appears hard and frontal-side, carving strong warm and cool contrast across the face without a detailed environment. The portrait's scale is intimate and confrontational, with the gaze as the upper focal point and the red lips as the lower counterweight. Clean graphic boundaries, saturated accent colors, and the cropped face give the image an editorial, poster-like intensity.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "b17868b73ebf67812786e85fdfef7e95fa5b7264318b7929546856b514a13d0f",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

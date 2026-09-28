@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square science fiction illustration shows a weary radio operator close to the viewer, folded over a desk or ledge inside a crowded industrial city. He wears a weathered orange coat, a headset with a microphone, and an amber visor that catches the light. His head tilts down and one hand rests near his mouth, making the pose feel absorbed in a difficult conversation. Behind him, a tangle of pipes, frameworks and windows rises into smoky darkness. Tiny figures move along a bright lane at the left, giving scale to the much larger foreground body. Warm lamps and pale haze cut through the deep brown and blue gray background. The bright orange sleeve occupies a broad area at the lower right, but it is broken by dark creases, scuffs and irregular brush marks. The face is more carefully modeled: light selects the nose, cheek, ear and stubble, while the headset and shadow partly conceal the upper head. Strong diagonals of cables and architecture pull the eye back through the city, yet the figure remains the clearest shape. The painted surface mixes tight details with loose scraping and mottled texture, suggesting worn metal, dust and moisture. The scene feels lived in and cinematic, with amber highlights against cool mechanical shadow and a quiet pause amid dense activity.",
+  "full_prompt_zh": "这幅方形科幻插画让一位疲惫的通讯员靠近观者，俯身支在拥挤工业城市中的桌面或矮墙上。他穿磨旧的橙色外套，戴着带话筒的耳机和接住光线的琥珀色护目镜。头向下倾，一只手靠近嘴边，姿态像是沉在艰难通话中。身后管道、框架和窗洞纠缠着升入烟雾般暗处。左侧明亮通道里有极小的人影，为巨大的前景身体提供尺度。暖灯与浅色雾气穿过深棕和蓝灰背景。明橙色袖子占据右下大块面积，但深褶、磨痕与不规则笔迹不断打破它。脸塑造得更细，光挑亮鼻梁、脸颊、耳朵和胡茬，耳机与阴影遮住部分头顶。缆线和建筑的强烈斜线把视线引向城市深处，人物仍是最清楚的形体。画面把精细细节与松散刮擦、斑驳质地混用，暗示磨损金属、尘埃与湿气。琥珀亮点对着冷色机械阴影，繁忙密集的环境里出现一个安静停顿，带有电影般的真实感。",
+  "style_prompt_en": "The digital painting has a cinematic, weathered realism. Broad warm rust and amber shapes stand forward against a maze of cool blue gray, charcoal and smoky brown. Light breaks through haze in small bright pockets, catching hard rims and soft modeled planes. Brushwork alternates between carefully rendered focal detail and scraped, mottled passages that let structures dissolve into atmosphere. Diagonal lines and nested openings create depth without clearing the crowded frame. The surface carries marks of age and use, while the strongest contrast stays concentrated near the center.",
+  "style_prompt_zh": "这种数字绘画呈现电影般的磨旧写实感。宽阔的暖锈色与琥珀色形体突出在冷蓝灰、炭黑及烟棕交织的背景前。光穿过雾气形成小块亮区，同时捕捉坚硬边缘和柔和塑造的平面。笔触在精细焦点与刮擦斑驳的段落之间转换，让结构逐渐消散在空气里。斜线和层叠开口制造深度，却不把拥挤画面清空。表面带有使用与岁月痕迹，最强对比集中在中央附近。",
+  "theme_en": "A weary radio operator in an orange coat inside an industrial city",
+  "theme_zh": "工业城市中的橙衣疲惫通讯员",
+  "wh_ratio": "1:1",
+  "id": "3127",
+  "name": "Dave Dorman",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/dave-dorman",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "04a2fc352c2d1127ac900b767408646d6c71f00bbcac73c70f9f38308143df22",
+    "gpt_submission_prompt": "A square science fiction illustration shows a weary radio operator close to the viewer, folded over a desk or ledge inside a crowded industrial city. He wears a weathered orange coat, a headset with a microphone, and an amber visor that catches the light. His head tilts down and one hand rests near his mouth, making the pose feel absorbed in a difficult conversation. Behind him, a tangle of pipes, frameworks and windows rises into smoky darkness. Tiny figures move along a bright lane at the left, giving scale to the much larger foreground body. Warm lamps and pale haze cut through the deep brown and blue gray background. The bright orange sleeve occupies a broad area at the lower right, but it is broken by dark creases, scuffs and irregular brush marks. The face is more carefully modeled: light selects the nose, cheek, ear and stubble, while the headset and shadow partly conceal the upper head. Strong diagonals of cables and architecture pull the eye back through the city, yet the figure remains the clearest shape. The painted surface mixes tight details with loose scraping and mottled texture, suggesting worn metal, dust and moisture. The scene feels lived in and cinematic, with amber highlights against cool mechanical shadow and a quiet pause amid dense activity.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "7fe568363f61810a755e17ebe84a68a4fcc846c09f6a062a98810cf7c80392f6",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white photograph shows a dark-haired woman in a black veil and richly textured floral crown, framed from the chest upward in an outdoor setting. She is turned slightly toward the left, with her chin raised and eyes closed. Her lips are softly parted, and both hands rise together near her face, fingertips touching in a quiet, prayer-like gesture. The crown is made from dense small flowers and branches, its rough pale clusters standing out from the darker hair and veil below. Long dark fabric drops over the shoulders and down the chest, while lace-like sleeves reveal fine patterns near the wrists. The woman's face and hands are the brightest forms, modeled by gentle side light against a mottled dark background of foliage or rough ground. A small patch of lighter leaves appears at the far left lower edge, but the location remains ambiguous and shadowed. The focus is strongest on facial features, hands, and crown, with the outer veil and background gradually merging into near black. Film grain and soft tonal transitions give the print an aged, tactile quality; there are no colored accents to distract from shape and light. The composition places the woman's head just left of center and uses the upward line of hands to echo the raised chin. Floral texture spreads across the top like a ragged halo, while the deep drapery anchors the lower frame. The still pose, closed eyes, and dark surroundings create a solemn, dreamlike atmosphere without showing any narrative action beyond this held moment.",
+  "full_prompt_zh": "一幅方形黑白照片描绘一名深发女子戴黑纱和质地丰厚的花冠，在户外场景中从胸部以上入画。她略向左转，下巴抬起，双眼闭合。嘴唇微张，双手一起举到脸边，指尖相碰，形成安静、近似祈祷的手势。花冠由密集小花和枝条组成，粗糙的浅色花簇从下面较深的头发与面纱中突出。长长深色布料垂过双肩和胸前，花边般衣袖在手腕旁显出细纹。脸和手是最亮的形状，由温和侧光在斑驳暗色的枝叶或粗糙地面背景前塑形。左下边缘有一小片更浅叶子，但地点仍模糊而阴暗。面部特征、双手和花冠最清晰，外侧面纱与背景逐渐融入近黑。胶片颗粒和柔和色调过渡让印相具有陈旧而可触的质地；没有彩色重音分散形状与光线。构图把女子头部放在中央偏左，向上的双手线条呼应抬起的下巴。花的质地像参差光环铺过顶部，深色垂布则稳住下方。静止姿势、闭上的眼睛与暗环境营造肃穆梦境般气氛，除了这一刻的停留，没有展示更多叙事动作。",
+  "style_prompt_en": "Black-and-white fine-art photography uses a narrow tonal range of luminous skin, pale textured accents, and deep clothlike blacks. Gentle side light rounds facial and hand forms while allowing outer edges to disappear into a mottled dark ground. Keep fine floral, lace, and fabric detail visible near the focal area, then soften progressively into shadow. A close crop, upward gesture, and ragged halo-like texture create a solemn vertical rhythm. Film grain and slightly softened tonal transitions lend an aged, dreamlike presence without flattening the photographic detail.",
+  "style_prompt_zh": "黑白艺术摄影采用发亮肤色、浅色纹理重音与深布料般黑色组成的狭窄色调范围。温和侧光使面部与手部圆润，外缘则消失进斑驳暗底。让焦点附近的细花、花边与布纹保持可见，再逐步柔化入阴影。近景裁切、向上手势与参差的光环状纹理形成肃穆的纵向节奏。胶片颗粒和略柔的色调过渡赋予陈旧、梦境般存在感，却不抹平摄影细节。",
+  "theme_en": "A veiled woman in a floral crown with closed eyes and raised hands",
+  "theme_zh": "一名戴花冠与黑纱的女子闭眼举手",
+  "wh_ratio": "1:1",
+  "id": "1950",
+  "name": "Nona Limmen",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/nona-limmen",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/nona-limmen.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "2b2d33f635df4335d72f1b37b3ca2d44f8423e64df1754ebf54555f1a3c5e55e",
+    "gpt_submission_prompt": "A square black-and-white photograph shows a dark-haired woman in a black veil and richly textured floral crown, framed from the chest upward in an outdoor setting. She is turned slightly toward the left, with her chin raised and eyes closed. Her lips are softly parted, and both hands rise together near her face, fingertips touching in a quiet, prayer-like gesture. The crown is made from dense small flowers and branches, its rough pale clusters standing out from the darker hair and veil below. Long dark fabric drops over the shoulders and down the chest, while lace-like sleeves reveal fine patterns near the wrists. The woman's face and hands are the brightest forms, modeled by gentle side light against a mottled dark background of foliage or rough ground. A small patch of lighter leaves appears at the far left lower edge, but the location remains ambiguous and shadowed. The focus is strongest on facial features, hands, and crown, with the outer veil and background gradually merging into near black. Film grain and soft tonal transitions give the print an aged, tactile quality; there are no colored accents to distract from shape and light. The composition places the woman's head just left of center and uses the upward line of hands to echo the raised chin. Floral texture spreads across the top like a ragged halo, while the deep drapery anchors the lower frame. The still pose, closed eyes, and dark surroundings create a solemn, dreamlike atmosphere without showing any narrative action beyond this held moment.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "12507ee9306a0a18fca0cc01054536823b0bbf22f3cc4535299407245ab64967",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

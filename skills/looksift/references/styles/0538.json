@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square, quietly lit oil painting shows a young kitchen worker seated at a table covered in dark green cloth, surrounded by a few simple foods. The background is an almost featureless brown-black interior, opening only slightly into warmer shadow at the upper right. The figure occupies the left and center of the frame. A tall white cloth cap tilts over light hair, and the downward-facing head is softly lit from the left. The face appears focused on the work at hand rather than turned toward the viewer. A pale gray jacket with loose sleeves and white cuffs folds around the bent arms. One hand steadies a large round brown dish or shallow pan at the center-left, while the other works near a smaller plate on the cloth. Across the tabletop, a few small pieces of food sit in separate groups. Near the right edge, several pale round fruits or eggs and one rosy piece rest beside a narrow clear drinking glass. At the left front, darker food shapes lie close to the folds of the fabric. The green cloth has heavy hanging creases, painted with broad, soft strokes that carry light along the raised ridges and deepen into shadow underneath. Warm daylight from the upper left touches the cap, cheek, hands and tabletop, with the rear wall falling away into darkness. The overall composition makes the ordinary preparation scene intimate and dignified through a small pool of light, subdued earth colors and careful attention to surface.",
+  "full_prompt_zh": "这幅方形、光线安静的油画里，一位年轻的厨房工作者坐在铺着深绿布的桌边，周围是少量简单食物。背景是近乎无细节的褐黑色室内，只在右上略微露出更暖的阴影。人物占据左侧与中央。高高的白色布帽斜罩浅发，低垂的头从左侧柔和受光。面孔专注于手上的活，而非转向观众。浅灰外套有宽松衣袖和白色袖口，在弯曲的手臂周围形成褶皱。一只手稳住中央偏左的大圆褐色盘子或浅锅，另一只手在桌布上的小盘附近操作。桌面上几组少量食物彼此分开。靠右缘，几个浅色圆果或蛋和一块玫瑰色食物置于细长透明饮杯旁。左前方，更深色食物形体挨着布料褶皱。绿色桌布有厚重下垂的折痕，用宽而柔的笔触画出凸起处的受光及下方渐深的阴影。来自左上方的暖日光触及帽子、脸颊、双手和桌面，后墙则退入黑暗。整体构图借一小片亮光、克制土色与细心描写的表面，让寻常准备食物的场景显得亲密而庄重。",
+  "style_prompt_en": "The oil painting uses deep brown shadow as a broad ground from which a few warm, carefully modeled forms emerge. Moss green, soft gray, cream and muted rose remain restrained within a narrow earthy range. Edges sharpen gently around the focal activity, then dissolve into the surrounding darkness. Thick clothlike folds are described by broad strokes and subtle reflected light; smaller surfaces receive more precise touches without becoming glossy. Warm light enters from one side, making an intimate island of visibility and leaving most of the frame in velvety low values. The composition is quiet and compact, with ordinary texture carrying a sense of weight and presence.",
+  "style_prompt_zh": "这种油画以深褐阴影为宽阔底色，少量温暖而仔细塑形的形体从中浮出。苔绿、柔灰、奶油色与压低玫瑰色都限制在狭窄的土色范围。边缘在焦点活动周围轻轻变清楚，继而融入四周黑暗。厚布般的褶皱由宽笔触与细微反光描写，较小表面得到更精确的触笔，却不变得光滑耀眼。暖光从一侧进入，形成一片亲密的可见区域，让画幅大部留在天鹅绒般低明度中。构图安静紧凑，寻常肌理承载重量与存在感。",
+  "theme_en": "A young kitchen worker arranging food at a green-draped table",
+  "theme_zh": "年轻的厨房工作者在铺绿布的桌边摆弄食物",
+  "wh_ratio": "1:1",
+  "id": "0538",
+  "name": "Jean-Baptiste-Simeon Chardin",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/jean-baptiste-simeon-chardin",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/jean-baptiste-simeon-chardin.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "802f4d92a7deadaf26cdb6b0d9e2b62d45e05083ce12453f8971b303638fac83",
+    "gpt_submission_prompt": "A square, quietly lit oil painting shows a young kitchen worker seated at a table covered in dark green cloth, surrounded by a few simple foods. The background is an almost featureless brown-black interior, opening only slightly into warmer shadow at the upper right. The figure occupies the left and center of the frame. A tall white cloth cap tilts over light hair, and the downward-facing head is softly lit from the left. The face appears focused on the work at hand rather than turned toward the viewer. A pale gray jacket with loose sleeves and white cuffs folds around the bent arms. One hand steadies a large round brown dish or shallow pan at the center-left, while the other works near a smaller plate on the cloth. Across the tabletop, a few small pieces of food sit in separate groups. Near the right edge, several pale round fruits or eggs and one rosy piece rest beside a narrow clear drinking glass. At the left front, darker food shapes lie close to the folds of the fabric. The green cloth has heavy hanging creases, painted with broad, soft strokes that carry light along the raised ridges and deepen into shadow underneath. Warm daylight from the upper left touches the cap, cheek, hands and tabletop, with the rear wall falling away into darkness. The overall composition makes the ordinary preparation scene intimate and dignified through a small pool of light, subdued earth colors and careful attention to surface.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "ca0cf87771a7a8301515033062bbe720a704fa635eed090ea2bfa931356f3f94",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

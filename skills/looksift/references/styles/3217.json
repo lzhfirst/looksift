@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white ink illustration shows a young woman viewed from below, her chin raised and mouth slightly open as she looks upward. Thick dark glasses frame wide eyes. Short wavy hair surrounds her head, and a pale collared shirt enters at the lower left. Behind her, a dense black field is split by branching white lines that spread from near the top of the head across the upper edge, resembling lightning or exposed roots. The central face is mostly light, shaped by fine stippling and short crosshatched shadows along the neck, jaw and glasses. Strong black areas around the hair, glasses and background produce dramatic contrast. The close low-angle crop makes the expression feel startled and immediate. There is little setting beyond the crackling abstract pattern; a white margin and fine rectangular border frame the image. Light appears to come from above and in front, brightening the forehead and lower face while the area behind stays almost completely dark. The drawn surface combines delicate tonal dots with sharp, high-contrast linework. Branching white strokes create restless motion above a relatively still face. The composition is bold but economical, using the upward gaze, low viewpoint and radiating marks to suggest a sudden moment of realization.",
+  "full_prompt_zh": "这幅方形黑白墨线插画从下方仰看一位年轻女子，她抬起下巴、嘴微张，向上望。厚深色眼镜框住睁大的眼。短波发围住头，下方左侧出现浅色有领衫。她身后密实黑色域被分枝白线劈开，线从头顶附近向上缘蔓延，像闪电或暴露树根。中央面孔大多浅亮，颈、下颌和眼镜旁由细点纹与短交叉阴影塑造。发、眼镜和背景的强黑区制造戏剧性对比。贴近的低角度裁切使神情显得受惊而即时。除噼啪般抽象图案外，几乎没有环境；白边和细矩形框围住图像。光似乎从上前方来到，照亮额头和下脸，身后几乎完全深暗。绘图表面把细腻调子点与锐利高对比线结合。分枝白笔在相对静止面孔上方制造躁动。构图大胆但经济，仰望、低视点和辐射线暗示突然领悟的一刻。",
+  "style_prompt_en": "The black-and-white ink image pairs delicate stippling and short crosshatching with large solid black fields. Jagged white branching lines radiate through darkness, giving a still central light area sudden energy. Close cropping and low perspective heighten tension. Bright frontal light keeps the focal plane pale while adjacent edges cut sharply to black. A thin border and clean margin emphasize the printed graphic surface. The effect is immediate, dramatic and precise.",
+  "style_prompt_zh": "这种黑白墨线图像把细点纹和短交叉排线与大片实黑结合。锯齿状白分枝线穿过深暗辐射，使静止中央亮域突然有能量。近裁切和低角度透视加重紧张。明亮正面光使焦点平面浅亮，邻近边缘锐利切入黑色。细边框与干净外缘强调印刷图形表面。效果即时、戏剧化而准确。",
+  "theme_en": "An upward-looking woman in glasses beneath branching white light",
+  "theme_zh": "分枝白光下戴眼镜仰望的女子",
+  "wh_ratio": "1:1",
+  "id": "3217",
+  "name": "Apollonia Saintclair",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/apollonia-saintclair",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "81f0076d62326d27be0c71751feff74d85205aa4c4b4d349c7a2792bde16f74f",
+    "gpt_submission_prompt": "A square black-and-white ink illustration shows a young woman viewed from below, her chin raised and mouth slightly open as she looks upward. Thick dark glasses frame wide eyes. Short wavy hair surrounds her head, and a pale collared shirt enters at the lower left. Behind her, a dense black field is split by branching white lines that spread from near the top of the head across the upper edge, resembling lightning or exposed roots. The central face is mostly light, shaped by fine stippling and short crosshatched shadows along the neck, jaw and glasses. Strong black areas around the hair, glasses and background produce dramatic contrast. The close low-angle crop makes the expression feel startled and immediate. There is little setting beyond the crackling abstract pattern; a white margin and fine rectangular border frame the image. Light appears to come from above and in front, brightening the forehead and lower face while the area behind stays almost completely dark. The drawn surface combines delicate tonal dots with sharp, high-contrast linework. Branching white strokes create restless motion above a relatively still face. The composition is bold but economical, using the upward gaze, low viewpoint and radiating marks to suggest a sudden moment of realization.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "643346ca1ddfffef037e09e9c9eca096072427e032b1975d8f1e1d332a0db62b",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

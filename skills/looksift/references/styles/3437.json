@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A blue-toned storybook illustration shows a little rowboat floating close to a rocky shore. A white, round-snouted creature sits upright at the left side of the boat, with a smaller companion in striped clothing seated opposite. A thin oar reaches into the dark blue water. Great smooth boulders rise behind them, their rounded faces layered from deep cobalt shadow to lighter washed blue. Narrow conifers and small trees stand along the upper ridge and recede toward a bright pale horizon on the right. The near shore curves around the lower frame as an ivory strip of sand, scattered with tufts of blue grass and a few small stones. Short horizontal ink strokes ripple across the lake, becoming sparse in the bright reflection beside the shore. Fine pen-like outlines and hatching articulate the figures, tree branches, rock seams, and grass. Transparent blue washes spread unevenly over warm cream paper, leaving grain and tiny unpainted flecks visible. Light opens from the right, bleaching the far water and sky while the left boulders stay dark. The boat makes a small still center between massive rocks and open water, and the diagonal shoreline carries the eye toward the quiet distance.",
+  "full_prompt_zh": "一幅蓝调故事书插画中，小划艇漂在岩岸附近。船左侧坐着一只白色圆鼻小生物，对面坐着穿条纹衣服的较小同伴。一支细桨伸进深蓝水里。巨大的圆滑石块立在身后，圆面从深钴蓝阴影一层层转入浅蓝水洗。狭长针叶树和小树沿上方山脊生长，向右侧浅亮地平线退去。近岸像一道象牙色沙带弯过画幅下边，散布蓝色草簇和几块小石头。短促水平墨线在湖上画出涟漪，到岸边亮反光处逐渐稀疏。纤细钢笔式轮廓和排线刻画小人、树枝、石缝与草。透明蓝色水洗不均匀地铺在暖奶油色纸面上，颗粒和未染的细小空点仍可见。光从右侧敞开，漂白远水和天空，左边巨石保持深暗。小船在巨大岩石和开放水面之间形成安静的小中心，斜向岸线把视线带向平和远处。",
+  "style_prompt_en": "A pen-and-wash storybook surface combines fine dark-blue contour lines, short hatching, and transparent uneven color washes over warm cream paper. Cobalt and ultramarine gather in large rounded shadow masses, then thin toward pale blue and untouched ivory. Small horizontal marks break the smooth water-like areas, while delicate vertical strokes and stippled paper grain animate the margins. Light opens from one side, leaving the far plane almost white and the opposite mass deeply blue. Edges are crisp in the tiny focal details but soften where wash bleeds across larger forms. The space layers a textured foreground strip, a compact central accent, overlapping rounded masses, and a sparse bright horizon. Broad quiet fields balance clusters of fine marks, giving the composition a gentle exploratory rhythm.",
+  "style_prompt_zh": "钢笔线条加水洗的故事书表面，把纤细深蓝轮廓、短排线和不均匀透明色层铺在暖奶油色纸上。钴蓝和群青聚成宽阔圆润的暗块，随后稀释成浅蓝与未染的象牙白。细小水平痕打破平滑的水状区域，边缘的纤细竖笔和纸面颗粒增添活气。光从一侧敞开，让远层近乎白色，反侧色块则浓蓝。细小焦点处边缘清楚，大形体的水洗溢开处边界柔和。空间依次叠入有纹理的前景带、紧凑中心点、交错圆形团块和稀疏浅亮地平线。宽阔安静色面与成簇细痕平衡，使构图呈现柔和探行的节奏。",
+  "theme_en": "Two small companions rowing past blue boulders on a quiet lake",
+  "theme_zh": "两位小伙伴划船经过蓝色巨石的静湖",
+  "wh_ratio": "1:1",
+  "id": "3437",
+  "name": "Tove Jansson",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/tove-jansson",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "88b3a30d7849487713ba779e2cce89a5fd7835f94e12eab34937d8c61a2b8bf7",
+    "gpt_submission_prompt": "A blue-toned storybook illustration shows a little rowboat floating close to a rocky shore. A white, round-snouted creature sits upright at the left side of the boat, with a smaller companion in striped clothing seated opposite. A thin oar reaches into the dark blue water. Great smooth boulders rise behind them, their rounded faces layered from deep cobalt shadow to lighter washed blue. Narrow conifers and small trees stand along the upper ridge and recede toward a bright pale horizon on the right. The near shore curves around the lower frame as an ivory strip of sand, scattered with tufts of blue grass and a few small stones. Short horizontal ink strokes ripple across the lake, becoming sparse in the bright reflection beside the shore. Fine pen-like outlines and hatching articulate the figures, tree branches, rock seams, and grass. Transparent blue washes spread unevenly over warm cream paper, leaving grain and tiny unpainted flecks visible. Light opens from the right, bleaching the far water and sky while the left boulders stay dark. The boat makes a small still center between massive rocks and open water, and the diagonal shoreline carries the eye toward the quiet distance.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "99fc21e47f8e89667e180b7088515fcefa5876f34d020abe0c560172782e6417",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "The image presents a face looking straight outward through several translucent rectangular layers. Both eyes are clear and almost level, fixed on the viewer, while the rest of the features gradually dissolve into deep blue shadow. The upper forehead is partially hidden by a dark horizontal panel; a paler band crosses the eyes and nose; another broad, dimmer band cuts through the mouth and chin. Vertical seams divide the surface as well, making the picture resemble overlapping panes of glass, projected slides, or pieces of a photographic print. A narrow strip at the far left is much lighter than the dark right edge, and faint ghost images seem to appear behind the primary face. Light is cold and directional, concentrating around the eyes and upper cheeks before falling sharply into indigo and navy. The palette is nearly monochrome, ranging from icy cyan and silver blue to dense midnight blue. Scratches, soft stains, and subtle photographic grain are visible inside the translucent panels, while the sharp rectangle boundaries stay distinctly artificial. The square crop keeps the face close but allows the edges of the layered construction to remain visible. There is no fully continuous surface: every feature can be read, yet every feature is crossed by another image plane. The whole frame feels like a mediated encounter in which memory, surveillance, and self-presentation occupy the same fragile, luminous blue space.",
+  "full_prompt_zh": "画面是一张正面面孔，仿佛隔着数层半透明矩形望向观者。双眼清楚而近乎齐平，视线直接向外，其他五官则逐渐溶入深蓝阴影。额头上半被一道深色横幅遮住；较浅的色带掠过眼睛和鼻梁；另一道更暗的宽带切过口部和下颌。竖直接缝也分割表面，使图像像重叠玻璃、投影幻灯片或照片剪片。最左缘的窄条明显比深暗右侧更亮，主面容后面似乎浮现淡淡的重影。冷光具有方向性，集中在双眼与上脸颊，之后迅速跌入靛蓝和海军蓝。色盘近乎单色，从冰青、银蓝延伸到深夜蓝。半透明层内可见刮痕、柔软污渍与细微摄影颗粒，矩形边界却保持鲜明的人工切割感。方形取景贴近脸部，同时让层叠结构的边缘仍可见。画面中没有完全连续的表面：每个五官都能辨认，却又都被另一层图像穿过。整体像一次受到媒介阻隔的相遇，记忆、监视与自我呈现共处于脆弱而发光的蓝色空间。",
+  "style_prompt_en": "Create a layered photographic image in an almost monochrome range of icy cyan, silver blue, indigo, and midnight navy. Place translucent horizontal bands and vertical seams across a continuous tonal base, allowing details to align imperfectly between panels. Concentrate cool light in a small central zone and let the edges descend into darkness. Mix soft photographic grain, faint scratches, stains, and ghosted duplicates with crisp artificial rectangle boundaries. Keep a direct focal center and a fragile, mediated mood.",
+  "style_prompt_zh": "以冰青、银蓝、靛蓝和深夜海军蓝的近单色范围构造层叠摄影图像。在连续影调底层上横贯半透明横带与竖直接缝，使各片细节略微错位。让冷光集中在中央小区域，四周逐渐沉入暗色。把柔和胶片颗粒、淡刮痕、污渍及重影与清脆的人工矩形边缘结合，保持直接的视觉中心和脆弱的媒介感。",
+  "theme_en": "Blue face fragmented by transparent screens",
+  "theme_zh": "被透明屏层切割的蓝色面容",
+  "wh_ratio": "1:1",
+  "id": "1223",
+  "name": "Lynn Hershman Leeson",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/lynn-hershman-leeson",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/lynn-hershman-leeson.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "c30d6860697e259754b3455de394b631c06d08db31467ad806389631ff6209b6",
+    "gpt_submission_prompt": "The image presents a face looking straight outward through several translucent rectangular layers. Both eyes are clear and almost level, fixed on the viewer, while the rest of the features gradually dissolve into deep blue shadow. The upper forehead is partially hidden by a dark horizontal panel; a paler band crosses the eyes and nose; another broad, dimmer band cuts through the mouth and chin. Vertical seams divide the surface as well, making the picture resemble overlapping panes of glass, projected slides, or pieces of a photographic print. A narrow strip at the far left is much lighter than the dark right edge, and faint ghost images seem to appear behind the primary face. Light is cold and directional, concentrating around the eyes and upper cheeks before falling sharply into indigo and navy. The palette is nearly monochrome, ranging from icy cyan and silver blue to dense midnight blue. Scratches, soft stains, and subtle photographic grain are visible inside the translucent panels, while the sharp rectangle boundaries stay distinctly artificial. The square crop keeps the face close but allows the edges of the layered construction to remain visible. There is no fully continuous surface: every feature can be read, yet every feature is crossed by another image plane. The whole frame feels like a mediated encounter in which memory, surveillance, and self-presentation occupy the same fragile, luminous blue space.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "875b2e9a8801be03fa72e16458442071b0f38678d0bf755dc536f5c242c2d4f9",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

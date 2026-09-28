@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "The square painting shows a young couple seated close together in a loosely indicated interior. The man occupies the left side, leaning back in a dark tailored suit with one hand raised to his mouth and the other resting casually near his knee. A small warm yellow vest or tie catches light beneath his jacket. Beside him, a woman in a broad dark hat and a deep blue-violet dress sits with her fingers touching the side of her neck. Pale ruffled trim brightens one shoulder, and the voluminous skirt sweeps across the lower half of the canvas in broad folding masses. Their expressions are reserved and somewhat inward, with their eyes directed away from one another rather than engaged in conversation. A warm orange cushion or drape occupies the right side, while the wall behind them is an unfinished-looking mixture of cream, gray, ochre and blue strokes. A vague third figure or portraitlike mark appears high at the right, secondary to the seated pair. The paint is visibly handled: brisk broken strokes sketch the surroundings, while faces and hands receive more careful modeling. Dark clothing creates the main structural mass, countered by the luminous skin and small yellow and orange accents. Light falls softly from the upper left, separating the faces from the busy background without hard studio shadows. The painting retains a sense of immediacy and incompletion in the edges, yet the two seated bodies and sweeping blue skirt give the entire square a stable, intimate rhythm.",
+  "full_prompt_zh": "正方形绘画呈现一对年轻伴侣紧挨着坐在略加暗示的室内。男子占据左侧，穿深色剪裁西装向后倚，一只手抬到嘴边，另一只手随意停在膝附近。外套下面一小片暖黄色背心或领饰接住光。旁边的女子戴宽大的深色帽子，穿深蓝紫长裙，手指触在颈侧。一侧肩膀的浅色荷叶边发亮，丰厚裙摆以宽阔褶皱扫过画布下半部。两人神情克制且有些内向，目光分别投向别处，并未互相交谈。右边是一块暖橙色靠垫或布料，身后墙面混合乳白、灰、赭与蓝的近乎未完成笔触。右上高处隐约有第三个人影或肖像般的痕迹，地位次于坐着的两人。颜料处理清楚可见：急促断笔勾出环境，面孔和双手则更细致地塑造。深衣形成主要结构体量，发亮肤色与少量黄橙点缀构成对照。柔光从左上落下，把脸从繁忙背景中分离，却没有硬影棚投影。画边带有即兴与未完成感，但并坐的两具身体和横扫的蓝色裙摆赋予整幅正方形稳定而亲密的节奏。",
+  "style_prompt_en": "Loose painterly oil color alternates brisk broken background strokes with carefully modeled focal passages. Deep blue-violet and near-black masses are lifted by creamy light, warm ochre and small orange accents. Edges remain varied and partly unresolved, while soft directional light and broad folding shapes lend a stable rhythm to the intimate square composition.",
+  "style_prompt_zh": "松动的油画色彩，在急促断裂的背景笔触与细心塑造的焦点区域之间交替。深蓝紫和近黑体量受到乳白亮光、暖赭与少量橙色抬升。边缘变化丰富且部分未收尽，柔和定向光与宽阔褶皱形使亲密的正方形构图具有稳定节奏。",
+  "theme_en": "A formally dressed couple sitting together in a painterly studio interior",
+  "theme_zh": "穿着正式的伴侣并坐于绘画感影棚室内",
+  "wh_ratio": "1:1",
+  "id": "3512",
+  "name": "Alfred Henry Maurer",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/alfred-henry-maurer",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "d1f0c59fd9bb3847b580275d79a7b340c05158dd1da42f02d0516f426920a120",
+    "gpt_submission_prompt": "The square painting shows a young couple seated close together in a loosely indicated interior. The man occupies the left side, leaning back in a dark tailored suit with one hand raised to his mouth and the other resting casually near his knee. A small warm yellow vest or tie catches light beneath his jacket. Beside him, a woman in a broad dark hat and a deep blue-violet dress sits with her fingers touching the side of her neck. Pale ruffled trim brightens one shoulder, and the voluminous skirt sweeps across the lower half of the canvas in broad folding masses. Their expressions are reserved and somewhat inward, with their eyes directed away from one another rather than engaged in conversation. A warm orange cushion or drape occupies the right side, while the wall behind them is an unfinished-looking mixture of cream, gray, ochre and blue strokes. A vague third figure or portraitlike mark appears high at the right, secondary to the seated pair. The paint is visibly handled: brisk broken strokes sketch the surroundings, while faces and hands receive more careful modeling. Dark clothing creates the main structural mass, countered by the luminous skin and small yellow and orange accents. Light falls softly from the upper left, separating the faces from the busy background without hard studio shadows. The painting retains a sense of immediacy and incompletion in the edges, yet the two seated bodies and sweeping blue skirt give the entire square a stable, intimate rhythm.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "451afc9cb40dda50b9e54bc74bc4727e3c57e659ce67dbb10e36e56b5b9a48a4",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

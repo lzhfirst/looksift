@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square whimsical painting shows a young rider crossing a bright cloud-filled sky on a compact blue flying machine. He leans forward over two curved handlebars, wearing a dark navy jacket, slim trousers and oversized round goggles. A brown pack rises behind his shoulder. The little craft has a rounded front with one glowing amber lamp, exposed joints and a small rear engine that throws out a warm yellow flame. Far below, a dense city of towers, domes and peaked roofs appears through pale haze. Another tiny airborne vehicle hovers in the upper left, adding scale to the open sky. Blue, turquoise and cream clouds curl around the rider, with a few peach and gold patches near the horizon. The paint is built from visible, lively strokes rather than smooth rendering. Metal surfaces are described by rounded blocks and dark outlines, while the sky breaks into soft swirls. Light is bright and diffuse, but the amber lamp and exhaust supply strong local warmth. The rider's goggles and determined posture form a clear focal point against the light cloudbank. The composition is diagonal and buoyant: the small machine points toward the upper left, while the distant city anchors the lower edge. The scene feels adventurous and playful, filled with mechanical detail yet carried by broad painterly color.",
+  "full_prompt_zh": "这幅方形奇趣绘画呈现一名年轻骑手驾驶紧凑蓝色飞行器穿过明亮云天。他俯身握着两根弯曲把手，穿深海军蓝外套和窄裤，戴夸张圆护目镜。棕色背包从肩后升起。小飞行器前部圆润，有一盏发琥珀光的灯、外露关节和喷出暖黄火焰的小后发动机。远下方密集的塔、圆顶和尖屋顶从浅雾中显现。左上还有一架极小飞行器，为开阔天空提供尺度。蓝、青绿和奶油色云卷绕骑手，天边附近有几处桃金色。颜料由活跃可见笔触构成，而非平滑渲染。金属表面以圆色块和暗轮廓描写，天空则碎成柔软漩涡。光明亮漫散，但琥珀前灯和尾焰提供强烈局部暖色。骑手护目镜和坚决姿态在浅云前形成清楚焦点。构图倾斜而轻盈：小机器指向左上，远处城市固定下缘。场景冒险又俏皮，充满机械细节，却由宽阔绘画色彩承载。",
+  "style_prompt_en": "The whimsical painting uses lively visible strokes, rounded mechanical geometry and curling atmospheric color. Turquoise, sky blue and cream dominate, with amber and peach concentrated in small luminous accents. Diffuse daylight keeps the broad planes bright; local warm glows sharpen the focal contrast. Dark outlines and exposed tiny details sit within loosely brushed clouds. A strong diagonal path floats above a low intricate band, giving the image buoyant depth and playful energy.",
+  "style_prompt_zh": "这种奇趣绘画使用活跃可见笔触、圆润机械几何与卷曲空气色彩。青绿、天蓝和奶油白占主调，琥珀与桃色集中在细小发光点。漫射日光使宽阔平面明亮，局部暖光加强焦点对比。暗轮廓与外露小细节置于松散刷出的云团中。一条强斜向路径漂浮在低矮繁密色带上方，使画面有轻盈深度与俏皮能量。",
+  "theme_en": "A goggled rider on a small flying blue machine",
+  "theme_zh": "戴护目镜的骑手乘坐蓝色小飞行器",
+  "wh_ratio": "1:1",
+  "id": "3218",
+  "name": "Aaron Jasinski",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/aaron-jasinski",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "ccbe10dc48f5ffbaef1230b918f3f97bc1e3123b93d52967a257dc6503b705ec",
+    "gpt_submission_prompt": "A square whimsical painting shows a young rider crossing a bright cloud-filled sky on a compact blue flying machine. He leans forward over two curved handlebars, wearing a dark navy jacket, slim trousers and oversized round goggles. A brown pack rises behind his shoulder. The little craft has a rounded front with one glowing amber lamp, exposed joints and a small rear engine that throws out a warm yellow flame. Far below, a dense city of towers, domes and peaked roofs appears through pale haze. Another tiny airborne vehicle hovers in the upper left, adding scale to the open sky. Blue, turquoise and cream clouds curl around the rider, with a few peach and gold patches near the horizon. The paint is built from visible, lively strokes rather than smooth rendering. Metal surfaces are described by rounded blocks and dark outlines, while the sky breaks into soft swirls. Light is bright and diffuse, but the amber lamp and exhaust supply strong local warmth. The rider's goggles and determined posture form a clear focal point against the light cloudbank. The composition is diagonal and buoyant: the small machine points toward the upper left, while the distant city anchors the lower edge. The scene feels adventurous and playful, filled with mechanical detail yet carried by broad painterly color.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "eaa70452b85bea8ba993f320402d3c7e260b42e8cdb0c83f81279b35e308596b",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

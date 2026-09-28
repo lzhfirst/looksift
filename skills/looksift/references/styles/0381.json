@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A painterly mid-century illustration shows an older man and a young woman studying a paper map together on a train. They sit close on a glossy turquoise bench beneath a wide dark-framed window. The man at left wears a brimmed hat, wire-rim glasses, a teal suit, white shirt, and patterned tie; he leans forward and points to a place on the open map across his knees. The woman at right wears a coral-red sleeveless dress with a small pale floral print and a light hat with dark ribbon. She turns toward the map with crossed legs and hands resting near its edge. A bag and bundled belongings occupy the lower right, suggesting travel without needing a view of the train exterior. Beyond the window, indistinct muted shapes pass in softened blue, cream, and ochre. Broad strokes model the shiny seat, jacket, and dark carriage shadows, while finer touches describe faces, fingers, and the folds of the map. Sunlight from the window lights her arms and the paper, then breaks into cool green reflections across the upholstery. The two figures form a compact, easy diagonal around the bright map, which is the compositional center. Edges are loose and visibly painted, but gestures remain precise enough to carry the story. The whole frame feels optimistic and companionable, full of the ordinary excitement of deciding where to go next.",
+  "full_prompt_zh": "一幅带绘画感的世纪中叶风格插画描绘一位年长男子与年轻女子在列车上一起研究纸质地图。两人紧挨着坐在光亮的青绿色长椅上，头顶是一扇宽大的深框车窗。左侧男子戴有檐帽和细框眼镜，穿青色西装、白衬衫与花纹领带；他向前倾身，指着摊在膝上的地图一处。右侧女子穿带浅色小花纹的珊瑚红无袖裙，戴系深色带子的浅色帽。她交叠双腿，双手靠近地图边缘，转头看向纸面。下方右侧放着一只包和成捆行李，暗示旅程，却不需要展示列车外观。窗外是被蓝、奶油色和赭黄柔化的模糊形状。宽阔笔触塑造光亮座椅、外套和暗色车厢阴影，较细笔点描写面孔、手指与地图褶皱。窗边日光照亮她的手臂和纸面，随后在椅面上破碎成冷绿色反光。两个人围绕明亮地图形成紧凑而自然的斜线，地图也成为构图中心。边缘松动且显露绘制痕迹，手势却准确到足以承载故事。整幅画乐观而亲密，充满决定下一站去哪里的日常兴奋。",
+  "style_prompt_en": "The painterly illustration uses visible broad strokes, softened edges, and a mid-century palette of turquoise, coral red, cream, brown, and muted ochre. A cool saturated horizontal field supports warmer compact accents, while a pale folded plane near the center acts as the brightest focal area. Dark framing lines establish an interior rhythm; beyond them, distant color dissolves into soft blur. Faces, hands, and other small narrative details receive finer marks than upholstery or background. Window-like side light creates warm highlights and cool green reflections on glossy surfaces. Brushwork alternates between opaque blocks and lighter scraped passages, preserving a handmade print-era feel. The composition gathers attention around a shared diagonal gesture and leaves peripheral edges loose. The whole frame feels companionable, optimistic, and lightly nostalgic through warm-cool contrast and economical storytelling marks.",
+  "style_prompt_zh": "这幅绘画感插画使用可见的宽阔笔触、柔化边缘，以及青绿、珊瑚红、奶油白、棕色与低饱和赭黄组成的世纪中叶色盘。一片冷而饱和的水平色域支撑较暖、紧凑的重点，中央附近浅色折叠平面成为最亮焦点。深色框线建立内部节奏，框线之外的远处色彩融入柔软模糊。面孔、双手和其他细小叙事细节所用笔迹比座面与背景更细。侧向窗光创造暖色高光和光泽表面上的冷绿反光。笔法在不透明色块和较浅的刮擦段落之间交替，保留手工印刷年代的气息。构图将注意力聚在共同的斜向手势周围，让外围边缘保持松动。整幅画凭借冷暖对比与节省的叙事笔迹，显得亲密、乐观而略带怀旧。",
+  "theme_en": "Planning a journey on a vintage train",
+  "theme_zh": "老式列车上规划旅程",
+  "wh_ratio": "1:1",
+  "id": "0381",
+  "name": "Harry Anderson",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/harry-anderson",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/harry-anderson.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "0a3164e1f4a5022a0d6bb1abd53c49b4cd27f2520fa6ca1560a5ab088651d5d2",
+    "gpt_submission_prompt": "A painterly mid-century illustration shows an older man and a young woman studying a paper map together on a train. They sit close on a glossy turquoise bench beneath a wide dark-framed window. The man at left wears a brimmed hat, wire-rim glasses, a teal suit, white shirt, and patterned tie; he leans forward and points to a place on the open map across his knees. The woman at right wears a coral-red sleeveless dress with a small pale floral print and a light hat with dark ribbon. She turns toward the map with crossed legs and hands resting near its edge. A bag and bundled belongings occupy the lower right, suggesting travel without needing a view of the train exterior. Beyond the window, indistinct muted shapes pass in softened blue, cream, and ochre. Broad strokes model the shiny seat, jacket, and dark carriage shadows, while finer touches describe faces, fingers, and the folds of the map. Sunlight from the window lights her arms and the paper, then breaks into cool green reflections across the upholstery. The two figures form a compact, easy diagonal around the bright map, which is the compositional center. Edges are loose and visibly painted, but gestures remain precise enough to carry the story. The whole frame feels optimistic and companionable, full of the ordinary excitement of deciding where to go next.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "6e66fb01c8174bfea1ca39eb77db5f6b5d213ad5d5a2b15667b3357c1cd8fbbf",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

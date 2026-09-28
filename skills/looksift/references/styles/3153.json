@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A lively pen-and-watercolor illustration shows a man sitting on the steps of a modest townhouse, facing a small brown dog on the pavement. The man leans forward with elbows near his knees, making a casual triangle beneath a tall blue-gray door. The dog sits at lower left, its thin tail and long snout rendered in a few quick lines. Black iron railings rise on either side of the stoop, giving the loose scene a simple vertical frame. Warm peach washes suggest brick walls, while pale cream marks define door columns and light stone steps. Objects beside the man and a few small items on the pavement are sketched economically, enough to make the entrance feel lived in without filling the blank paper. The drawing is intentionally irregular: black lines wobble, overlap, and break; watercolor bleeds gently beyond some contours. Light is soft and clear, expressed mostly by the white page left around and between the colored areas. Blue-gray, olive, dusty orange, tan, and brown are applied in transparent patches. The composition centers on the quiet exchange between two small figures, with the large doorway anchoring them behind. Wide untouched margins keep the eye on the gesture. The overall mood is humorous and affectionate, carried by spontaneous line and spare color rather than detailed realism.",
+  "full_prompt_zh": "一幅活泼的钢笔水彩插画描绘一名男子坐在普通联排屋门前的台阶上，面对人行道上的小棕狗。男子向前俯身，手肘靠近膝盖，在高高的蓝灰色门下形成随意的三角形。小狗坐在左下方，细尾巴和长鼻子只用几笔迅疾的线条画出。黑色铁栏杆从台阶两侧竖起，为松动的场景提供简洁竖向边框。温暖桃色薄涂暗示砖墙，浅奶油色笔迹界定门柱与浅色石阶。男子身旁的物件和地上的几样小东西画得很节制，足以让门口显得有人生活，却不填满空白纸面。绘线有意保持不规则：黑线晃动、重叠和中断；有些水彩轻轻漫出轮廓。光线柔和明净，主要由着色区域周围和之间留出的白纸表达。蓝灰、橄榄色、灰橙、棕黄和棕色以半透明斑块铺放。构图以两道小身影间安静的交流为中心，后方大门将其固定。宽裕的未画留边让目光落在动作上。整体幽默而亲切，靠自发线条与节制色彩，而非细密写实，传出情绪。",
+  "style_prompt_en": "A spontaneous pen-and-watercolor drawing on mostly white paper. Uneven black contours wobble, overlap, and break around loosely placed transparent washes of blue-gray, olive, peach, tan, and brown. A tall central rectangle and slim paired verticals give a light structural frame, while a small low exchange anchors the open foreground. Paint bleeds softly past some lines; short scratchy marks supply texture where needed. Daylight comes from broad untouched paper rather than shaded modeling. Generous margins and economical detail make the scene warm, comic, and easy to read.",
+  "style_prompt_zh": "主要画在白纸上的自发钢笔水彩画。不均匀黑轮廓轻微晃动、重叠和中断，围着松散铺放的蓝灰、橄榄、桃色、棕黄和棕色半透明薄涂。中央高矩形与两侧细长成对竖线形成轻巧结构框架，低处一组小形体固定开阔前景。颜料在某些线外轻轻漫开，需要质地的地方才有短促刮线。日光来自大片未画的白纸，而非明暗塑形。宽裕留边与节制细节使场景温暖、幽默且容易阅读。",
+  "theme_en": "A man and small dog on a front stoop",
+  "theme_zh": "门前台阶上的男子与小狗",
+  "wh_ratio": "1:1",
+  "id": "3153",
+  "name": "Quentin Blake",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/quentin-blake",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "3015d7522945f4c6d5f385d8c8c9c27f7608c43ff6c199bac8ee3307359440d8",
+    "gpt_submission_prompt": "A lively pen-and-watercolor illustration shows a man sitting on the steps of a modest townhouse, facing a small brown dog on the pavement. The man leans forward with elbows near his knees, making a casual triangle beneath a tall blue-gray door. The dog sits at lower left, its thin tail and long snout rendered in a few quick lines. Black iron railings rise on either side of the stoop, giving the loose scene a simple vertical frame. Warm peach washes suggest brick walls, while pale cream marks define door columns and light stone steps. Objects beside the man and a few small items on the pavement are sketched economically, enough to make the entrance feel lived in without filling the blank paper. The drawing is intentionally irregular: black lines wobble, overlap, and break; watercolor bleeds gently beyond some contours. Light is soft and clear, expressed mostly by the white page left around and between the colored areas. Blue-gray, olive, dusty orange, tan, and brown are applied in transparent patches. The composition centers on the quiet exchange between two small figures, with the large doorway anchoring them behind. Wide untouched margins keep the eye on the gesture. The overall mood is humorous and affectionate, carried by spontaneous line and spare color rather than detailed realism.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "7d743aa78a220dae175be9d2b4a98a0dacf947f8406a06bd56319103a1b09be2",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

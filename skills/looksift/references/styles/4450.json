@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square studio portrait shows a woman in a black headwrap and an asymmetric black dress against a softly mottled, dark green-gray backdrop. She turns toward the camera from a seated three-quarter angle, bringing one bare shoulder forward while the other side falls into a broad dark sleeve. Her expression is direct and reserved. Heavy shadow around the eyes, dark lipstick and a few loose strands of hair give the face a 1920s editorial poise without turning the image into a period costume scene. Diffused light lands most strongly on the forehead, cheeks and rounded shoulder, then falls away into the dress and background. The tonal transitions are velvety and low in contrast; even the pale skin looks muted rather than brightly illuminated. Slight blur around the contours and fine photographic grain soften the portrait while the eyes and lips retain enough definition to anchor attention. A restrained palette of warm ivory, charcoal, black and desaturated green produces a near-monochrome appearance. The headwrap forms a dense irregular crown, its edges dissolving into shadow. Empty backdrop surrounds the upper body but remains close and smoky rather than spacious. The square crop feels intimate and formal at once, with the face occupying the upper center and the bare shoulder creating a gentle diagonal below. The result resembles an aged fashion photograph whose softness is part of its emotional precision.",
+  "full_prompt_zh": "一幅正方形影棚肖像呈现一位戴黑色头巾、穿不对称黑裙的女子，身后是柔和斑驳的深灰绿色背景。她从坐姿的四分之三侧面转向镜头，一侧裸露肩膀向前，另一侧沉入宽大的深色衣袖。她的神情直接而矜持。浓重眼影、深色唇妆与几缕散发赋予面容二十世纪二十年代时装画报般的气度，却未将图像变成时代戏服场景。漫射光最强地落在额头、脸颊和圆润肩部，然后逐渐隐入裙子与背景。明暗过渡如天鹅绒般柔软，整体对比度低；即便浅色皮肤也显得收敛而非耀眼。轮廓周围的轻微模糊与细摄影颗粒使肖像变柔，而眼睛和嘴唇保留足够定义来固定视线。暖象牙色、炭灰、黑色与去饱和绿色的克制色谱造成近乎单色的外观。头巾形成浓密而不规则的冠形，边缘消融进阴影。上身周围留有背景空白，但它依旧贴近、烟雾般，而非开阔。正方形裁切同时亲密而正式，面部位于上方中央，裸肩在下方形成柔和对角线。结果像一张老时装照片，其柔化本身就是情绪精度的一部分。",
+  "style_prompt_en": "The style is low-contrast vintage studio photography with restrained near-monochrome color and velvety tonal transitions. Diffused directional illumination models a few pale planes before they recede gradually into charcoal shadow. Fine grain, slight contour softness and a mottled dark ground evoke aged photographic printing. An intimate square crop balances a stable upper focal area with one gentle diagonal below. Sharpness concentrates selectively in small expressive details while large forms remain smoky. The palette joins warm ivory with desaturated green-gray and deep black for a quiet, formal atmosphere.",
+  "style_prompt_zh": "这种风格是低对比度复古影棚摄影，采用克制的近单色色彩和天鹅绒般的明暗过渡。柔和定向光塑造少量浅色平面，再使其逐渐隐入炭灰阴影。细颗粒、轻微轮廓柔化与斑驳深背景唤起旧式摄影印相质感。亲密的正方形裁切平衡上部稳定焦点与下方一道柔和对角线。清晰度选择性集中在少数富于表情的细节，大形体则保持烟雾感。色谱将暖象牙色、去饱和灰绿色与深黑色结合，形成安静而正式的气氛。",
+  "theme_en": "A dark vintage studio portrait in green-black tones",
+  "theme_zh": "墨绿与黑色调中的复古影棚肖像",
+  "wh_ratio": "1:1",
+  "id": "4450",
+  "name": "Paolo Roversi",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/paolo-roversi.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "6287fc2e0698dd31e67034fc131100cd275e1a88aafadc92905dafc6815e3ac1",
+    "gpt_submission_prompt": "A square studio portrait shows a woman in a black headwrap and an asymmetric black dress against a softly mottled, dark green-gray backdrop. She turns toward the camera from a seated three-quarter angle, bringing one bare shoulder forward while the other side falls into a broad dark sleeve. Her expression is direct and reserved. Heavy shadow around the eyes, dark lipstick and a few loose strands of hair give the face a 1920s editorial poise without turning the image into a period costume scene. Diffused light lands most strongly on the forehead, cheeks and rounded shoulder, then falls away into the dress and background. The tonal transitions are velvety and low in contrast; even the pale skin looks muted rather than brightly illuminated. Slight blur around the contours and fine photographic grain soften the portrait while the eyes and lips retain enough definition to anchor attention. A restrained palette of warm ivory, charcoal, black and desaturated green produces a near-monochrome appearance. The headwrap forms a dense irregular crown, its edges dissolving into shadow. Empty backdrop surrounds the upper body but remains close and smoky rather than spacious. The square crop feels intimate and formal at once, with the face occupying the upper center and the bare shoulder creating a gentle diagonal below. The result resembles an aged fashion photograph whose softness is part of its emotional precision.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "e6e51bac6d0921683e75260ede33ba798ffe97e7a915f35ef7ed15e5754d70ac",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

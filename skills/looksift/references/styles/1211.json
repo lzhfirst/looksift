@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white documentary photograph shows a young Black woman seated in a lived-in family room with an open illustrated magazine across her lap. She wears a patterned dress and small hoop earrings; her dark curly hair frames a direct, thoughtful gaze toward the camera. One hand holds the near page while the other supports the book, allowing the reading activity to remain visible even as she pauses. The chair and cushion carry floral and woven textures. Behind her, framed pictures, a vase of flowers, curtains and domestic furniture recede into a dim layered background. A bright side window at the left contributes soft natural light, while the area behind her stays richly shadowed. The photograph's visual complexity comes from ordinary patterned surfaces rather than staged props: printed pages, upholstery, wallpaper and hair all have different grayscale textures. The woman's face receives the clearest focus and a gentle run of middle values; her clothing and the magazine retain detail without appearing artificially lit. The camera is close enough to feel invited into the room but leaves sufficient context to establish a home. Fine film grain, quiet posture and eye-level framing create intimacy. The image reads as a real pause in domestic life, with the subject's calm self-possession at its center.",
+  "full_prompt_zh": "一幅正方形黑白纪实照片呈现一位年轻黑人女性坐在有生活痕迹的家庭客厅里，膝上摊着一本带插图的杂志。她穿有图案的连衣裙，戴小圈耳环，深色卷发围出一双直接而沉思的眼睛。一只手握着近侧书页，另一只手支撑杂志；她虽停下阅读，阅读行为仍清楚可见。椅子和靠垫带花纹与编织肌理。身后框画、花瓶、窗帘及家居物件退入略暗而层叠的背景。左侧明亮窗户贡献柔和自然光，背后空间则保留丰厚阴影。照片的视觉复杂性来自普通表面图案而非布置道具：印刷页、软装、壁纸与头发各有不同灰阶纹理。面孔最清晰，拥有柔和的中间调；衣着和杂志也保留细节，不像被人工打亮。相机距离足以使观者仿佛走进房间，又留下建立家庭空间的必要环境。细胶片颗粒、安静姿态和平视构图带来亲密感。图像像家居生活中的真实停顿，以人物沉稳的自我存在为中心。",
+  "style_prompt_en": "The style is intimate monochrome documentary photography with an eye-level environmental crop, fine film grain and natural side-window illumination. Rich domestic patterns create layered visual texture while a softly focused background keeps the central presence clear. Deep blacks, luminous middle grays and unforced tonal transitions preserve physical detail in both skin and surrounding materials. The composition feels close but not isolated, with ordinary context and quiet self-possession carrying its emotional weight.",
+  "style_prompt_zh": "这种风格是亲密的单色纪实摄影，具有平视环境裁切、细胶片颗粒和来自侧窗的自然照明。丰富的日常图案形成层叠视觉肌理，略柔的背景使中央存在感保持清楚。深黑、明亮中间灰和不费力的明暗过渡保留皮肤与周围材料的实体细节。构图亲近却不隔绝环境，普通生活背景与安静的自我存在承担情绪重量。",
+  "theme_en": "A woman with an open magazine in a family living room",
+  "theme_zh": "家庭客厅里手持杂志的女子",
+  "wh_ratio": "1:1",
+  "id": "1211",
+  "name": "LaToya Ruby Frazier",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/latoya-ruby-frazier",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/latoya-ruby-frazier.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "5c24739d411e190ad2950398251e4c3e5bd5e29b772cbbc51d208f2767f05808",
+    "gpt_submission_prompt": "A square black-and-white documentary photograph shows a young Black woman seated in a lived-in family room with an open illustrated magazine across her lap. She wears a patterned dress and small hoop earrings; her dark curly hair frames a direct, thoughtful gaze toward the camera. One hand holds the near page while the other supports the book, allowing the reading activity to remain visible even as she pauses. The chair and cushion carry floral and woven textures. Behind her, framed pictures, a vase of flowers, curtains and domestic furniture recede into a dim layered background. A bright side window at the left contributes soft natural light, while the area behind her stays richly shadowed. The photograph's visual complexity comes from ordinary patterned surfaces rather than staged props: printed pages, upholstery, wallpaper and hair all have different grayscale textures. The woman's face receives the clearest focus and a gentle run of middle values; her clothing and the magazine retain detail without appearing artificially lit. The camera is close enough to feel invited into the room but leaves sufficient context to establish a home. Fine film grain, quiet posture and eye-level framing create intimacy. The image reads as a real pause in domestic life, with the subject's calm self-possession at its center.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "02099811fd22d155da6ed6d12694c5fc04886731030c3579f60004bf320c7a4d",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

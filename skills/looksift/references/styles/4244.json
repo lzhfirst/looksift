@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square minimalist science-fiction illustration places a lone dark figure on a narrow shore before a vast layered orange sun. The sun sits low near the horizon, built from overlapping red-orange, coral, and yellow semicircles. A long black colonnade recedes diagonally from the left foreground toward the central light, its repeated vertical supports becoming tiny in the distance. Above, enormous curving fields of deep teal, blue-green, and muted burgundy sweep across the sky like abstract atmospheric bands. A pale strip of water or flat land reflects a little light beneath the sun. The figure is very small and slightly right of center, giving the architecture and sky monumental scale. Surfaces are flat but weathered with subtle grain, stains, and scratches, so the graphic shapes retain a printed-paper quality. Light is carried by the warm disk and thin horizon, while the colonnade remains a nearly black silhouette. The composition is sparse and geometric, balancing the circular sun against the linear architecture and one human mark. The whole frame feels contemplative, futuristic, and quietly lonely, with mood created by color fields, scale, and clean negative space rather than fine narrative detail.",
+  "full_prompt_zh": "一幅方形极简科幻插画把一个深色独行人物放在狭窄岸边，面对巨大的层叠橙色太阳。太阳贴近地平线，由重叠的红橙、珊瑚色和黄色半圆构成。一道长长黑色柱廊从左前景斜向中央亮光后退，重复竖向支柱在远处变得极小。上方大幅深青、蓝绿和低饱和酒红色弧形区域掠过天空，像抽象大气色带。太阳下方一条浅色水面或平地映着些许光。人物极小且略偏右，赋予建筑和天空纪念碑式尺度。表面虽平，却有微妙颗粒、污渍和刮痕，使图形色面仍有印刷纸张质感。光由暖色圆盘和纤细地平线承担，柱廊保持近黑剪影。构图稀疏而几何化，圆形太阳、线性建筑与一个人类笔迹互相平衡。整体沉思、未来感强、安静孤独，情绪来自色面、尺度和干净负空间，而非细密叙事。",
+  "style_prompt_en": "A minimalist retro-futurist print style organizes a vast scene with broad curved color fields, one warm layered circle, and a long dark linear structure. Deep teal, blue-green, burgundy, coral, orange, and yellow remain distinct rather than smoothly blended. A tiny human-scale mark emphasizes immensity. Repeated verticals create perspective against otherwise flat graphic masses. Thin horizon light separates land or water from sky, while black silhouettes hold the lower edge. Subtle grain, stains, and scuffs lend the simple shapes an aged printed surface. The mood is solitary and contemplative, driven by proportion, color area, and negative space.",
+  "style_prompt_zh": "极简复古未来印刷风格用宽阔弧形色域、一个暖色层叠圆盘和一道深色长线性结构组织辽阔场景。深青、蓝绿、酒红、珊瑚、橙和黄保持分明，不做光滑晕染。极小的人物尺度笔迹强调宏大。重复竖线在平面图形大块中建立透视。纤细地平线亮光分开地面或水面与天空，黑剪影稳住下缘。细微颗粒、污渍和擦伤赋予简单形状陈旧印刷表面。气氛孤独而沉思，由比例、色彩面积和负空间推动。",
+  "theme_en": "A lone figure stands before a layered orange sun in a vast teal landscape",
+  "theme_zh": "孤独人物立于层叠橙日之前，四周是辽阔青蓝景观",
+  "wh_ratio": "1:1",
+  "id": "4244",
+  "name": "Dan Matutina",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/dan-matutina.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "bbe6690d5c3d4ca119f9501d4d981b66deeda62b789226c81fd45c406cbf4f4a",
+    "gpt_submission_prompt": "A square minimalist science-fiction illustration places a lone dark figure on a narrow shore before a vast layered orange sun. The sun sits low near the horizon, built from overlapping red-orange, coral, and yellow semicircles. A long black colonnade recedes diagonally from the left foreground toward the central light, its repeated vertical supports becoming tiny in the distance. Above, enormous curving fields of deep teal, blue-green, and muted burgundy sweep across the sky like abstract atmospheric bands. A pale strip of water or flat land reflects a little light beneath the sun. The figure is very small and slightly right of center, giving the architecture and sky monumental scale. Surfaces are flat but weathered with subtle grain, stains, and scratches, so the graphic shapes retain a printed-paper quality. Light is carried by the warm disk and thin horizon, while the colonnade remains a nearly black silhouette. The composition is sparse and geometric, balancing the circular sun against the linear architecture and one human mark. The whole frame feels contemplative, futuristic, and quietly lonely, with mood created by color fields, scale, and clean negative space rather than fine narrative detail.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "9a62051b7143138369a8cad6e7f1054148f44fd701be56312efa065af2e751d4",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

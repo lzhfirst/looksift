@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square fantasy character plate focuses on an elderly king with swept gray hair, a long white beard, and a deeply lined face. He turns slightly downward toward a small sculpted dragon or beast head held near his left shoulder. A pale crowned female figure stands behind him at upper left, and faint architectural studies and a small seated figure appear in the background like parts of a manuscript page. The king's head and shoulder are rendered in cool blue-gray washes, while the secondary figure and ornamental drawing remain in warm sepia. Fine pencil and ink contours map beard strands, wrinkles, the dragon's scales, and the decorative border. The face receives soft side light that catches the brow, nose, and beard; deeper navy shadows gather beneath the jaw and around the ear. The composition layers a near monumental head over lighter sketch fragments, making the focal form both solid and part of an illustrated archive. Parchment-like cream paper peeks through the lines, and unfinished edges remain visible. The whole frame feels scholarly and mythic, as if a character study, bestiary note, and story fragment were gathered on one richly worked page.",
+  "full_prompt_zh": "一幅方形奇幻人物图版以一位年长国王为焦点：灰发向后梳，白胡须长，面孔布满深纹。他略低头看向左肩附近握着的一枚雕刻小龙或兽首。上方左后有一位浅色戴冠女子，背景还有淡淡建筑习作和小坐姿人物，像手稿页中的多个部分。国王头肩由冷蓝灰薄染表现，次要人物与装饰性绘图则保持暖棕褐。细铅笔与墨线勾出胡须、皱纹、龙鳞和装饰边界。柔侧光照亮眉、鼻和胡须，较深海军蓝阴影聚在下颌与耳旁。构图把近乎纪念碑式的头部叠在更浅的速写碎片上，使焦点既坚实又属于插画档案。乳白羊皮纸般的纸面从线条间露出，未完成边缘仍可见。整幅画既像学术习作又有神话气息，仿佛人物研究、异兽笔记和故事碎片汇集于一页繁复画稿。",
+  "style_prompt_en": "A fantasy manuscript-plate style layers a strongly modeled cool-blue focal form over lighter sepia sketches and ornamental fragments. Fine pencil and ink line follows hair, wrinkles, carved surfaces, and small decorative marks. Transparent blue-gray wash gives the main shape volume, while warm cream paper and brown line keep secondary studies airy. Soft side light selects raised facial or object planes; deep navy gathers in narrow recesses. The composition can mix a monumental close view with faint small scenes without losing hierarchy. Unfinished edges, paper tooth, and visible construction lines preserve the sense of an illustrated archive. The mood is scholarly, mythic, and tactile.",
+  "style_prompt_zh": "奇幻手稿图版风格把塑形强烈的冷蓝焦点形体叠在较浅棕褐速写与装饰碎片之上。细铅笔和墨线顺着头发、皱纹、雕刻表面与小纹饰行走。透明蓝灰薄染给主形体体积，暖乳白纸面和棕线让次要习作轻盈。柔侧光挑出隆起的面部或物体色面，深海军蓝聚在狭窄凹处。构图可混合纪念碑式近景与淡淡小场景，却不失层级。未完成边缘、纸面齿纹和可见结构线保留插画档案感。气氛有学术性、神话感和触感。",
+  "theme_en": "A white-bearded king studies a small sculpted dragon in a blue-and-gold fantasy plate",
+  "theme_zh": "白胡子国王凝视手中的小龙雕像，置于蓝金奇幻插页中",
+  "wh_ratio": "1:1",
+  "id": "4241",
+  "name": "Donato Giancola",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/donato-giancola.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "708d4a117cd1064888f3ea3605d6259b93404e88485f5a8a84af59d7cf6e3379",
+    "gpt_submission_prompt": "A square fantasy character plate focuses on an elderly king with swept gray hair, a long white beard, and a deeply lined face. He turns slightly downward toward a small sculpted dragon or beast head held near his left shoulder. A pale crowned female figure stands behind him at upper left, and faint architectural studies and a small seated figure appear in the background like parts of a manuscript page. The king's head and shoulder are rendered in cool blue-gray washes, while the secondary figure and ornamental drawing remain in warm sepia. Fine pencil and ink contours map beard strands, wrinkles, the dragon's scales, and the decorative border. The face receives soft side light that catches the brow, nose, and beard; deeper navy shadows gather beneath the jaw and around the ear. The composition layers a near monumental head over lighter sketch fragments, making the focal form both solid and part of an illustrated archive. Parchment-like cream paper peeks through the lines, and unfinished edges remain visible. The whole frame feels scholarly and mythic, as if a character study, bestiary note, and story fragment were gathered on one richly worked page.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "1e4a9a4d437def287892d2985f9ee021b9684c4156d0fd5b230b96a3d9068b08",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

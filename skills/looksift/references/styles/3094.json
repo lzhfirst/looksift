@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A quiet color photograph shows a weathered fence following the edge of still water toward a dim pink sun. The fence begins large and dark at the lower left, then its closely spaced posts shrink and dissolve into fog near the center of the frame. A faint reflection repeats those posts below, turning the narrow strip of water into a soft mirror. Most of the image is open, almost featureless mist: pale mint-gray above, pale green water to the right, and a gradual blush around the hidden horizon. The near bank forms a dark triangular wedge across the lower left, its rough sediment and scattered stones only lightly defined. The photograph uses atmospheric recession rather than sharp optical detail as its main structure. The repeated verticals provide the only firm rhythm, and even they lose contrast as they approach the glow. Light is diffuse and low, with no hard shadows; the pink source warms a small central area and barely touches the bank. Fine grain and muted color suggest an analog print, while the lack of visible activity leaves the place suspended in time. The composition is deliberately spare, setting a modest man-made line against a vast fogbound expanse. Its calm depends on subdued teal and rose color, horizontal stillness, and the slow fading of dark marks into air.",
+  "full_prompt_zh": "一张安静的彩色照片描绘风化的栅栏沿静水边伸向朦胧粉色太阳。栅栏在左下方高大而深暗，随后间距紧密的栏柱逐渐变小，在画面中心附近融入雾中。下方若有若无的倒影重复这些栏柱，使狭窄水带成为柔软的镜面。画面大部分是开阔而几乎没有特征的薄雾：上方浅薄荷灰、右侧浅绿水面，以及隐没地平线周围渐起的淡粉色。近岸在左下形成深色三角形，粗糙泥沙和零散石块只被轻轻描出。照片以大气层次后退而非锐利光学细节作为主要结构。重复的竖线提供唯一坚实的节奏，而它们靠近光晕时也失去反差。光线漫射而低，没有硬阴影；粉色光源温暖中心的一小块区域，几乎不碰到岸边。细颗粒与柔和色彩令人想到胶片照片，画面中没有可见活动，使地点像悬在时间之外。构图刻意稀疏，把一道不起眼的人造线条放在巨大的雾气空间之前。柔青与玫瑰色、横向的静止感，以及暗色笔迹缓慢隐入空气，共同构成平静。",
+  "style_prompt_en": "A minimal analog color photograph in muted mint, teal-gray, and dusty rose. Most of the frame is broad low-contrast haze, with a dark wedge low at one side and a repeated line of slender vertical marks receding toward a small warm glow. Faint mirrored marks soften into still water. Diffuse low light leaves no hard shadows; fine grain and gentle color bleed give the surface an aged print quality. Spatial depth comes from a slow loss of contrast and detail, creating an unusually quiet, suspended rhythm.",
+  "style_prompt_zh": "极简的胶片彩照，色彩为柔薄荷绿、青灰和灰玫瑰色。画幅大部分是低反差的宽阔薄雾，一侧低处有深色楔形，细长竖线反复排列，向一处小小暖光后退。淡淡的镜像痕迹融入静水。漫射低光没有硬影；细颗粒与柔和色彩渗散赋予画面旧冲印质感。空间深度来自反差与细节缓慢消失，形成异常安静、仿佛悬停的节奏。",
+  "theme_en": "A fence dissolving into fog beside still water",
+  "theme_zh": "静水旁渐隐在雾中的栅栏",
+  "wh_ratio": "1:1",
+  "id": "3094",
+  "name": "Richard Misrach",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/richard-misrach",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "3396afd63e8f418518f9d541631fd11027bac0c77b9b243e06e0a556374c8ae7",
+    "gpt_submission_prompt": "A quiet color photograph shows a weathered fence following the edge of still water toward a dim pink sun. The fence begins large and dark at the lower left, then its closely spaced posts shrink and dissolve into fog near the center of the frame. A faint reflection repeats those posts below, turning the narrow strip of water into a soft mirror. Most of the image is open, almost featureless mist: pale mint-gray above, pale green water to the right, and a gradual blush around the hidden horizon. The near bank forms a dark triangular wedge across the lower left, its rough sediment and scattered stones only lightly defined. The photograph uses atmospheric recession rather than sharp optical detail as its main structure. The repeated verticals provide the only firm rhythm, and even they lose contrast as they approach the glow. Light is diffuse and low, with no hard shadows; the pink source warms a small central area and barely touches the bank. Fine grain and muted color suggest an analog print, while the lack of visible activity leaves the place suspended in time. The composition is deliberately spare, setting a modest man-made line against a vast fogbound expanse. Its calm depends on subdued teal and rose color, horizontal stillness, and the slow fading of dark marks into air.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "fb01eefa600dbe32c610ad107585eea3836681a176bdad50b6f7d5737cbbf7d5",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

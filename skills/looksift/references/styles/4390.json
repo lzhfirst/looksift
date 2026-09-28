@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square character illustration shows a lanky teenager from the chest upward against an uninterrupted warm orange background. His unruly pale blond curls rise above a backward navy cap, and his long narrow neck lifts an expressive face with oversized white eyes and tiny dark pupils. The eyes turn slightly upward and to the side; one brow rises higher than the other, giving the quiet pose a hesitant, curious humor. A small rounded nose, prominent ears and a thin uncertain mouth complete the exaggerated but affectionate design. He wears a faded red shirt beneath a blue jacket with a gray hood, and brown backpack straps travel over both shoulders. Clean dark contours hold the silhouette, while short sketchy strokes describe hair, fabric folds and the slight shadow beneath the chin. The colored areas have gentle unevenness and a hint of printed grain, avoiding a glassy digital finish. The figure occupies the middle and lower portion of the frame, leaving a generous orange field around the head. Lighting is simple and diffuse, with modest highlights on curls and face rather than a dramatic spotlight. The finished image reads immediately at a glance, yet small asymmetries in the eyes and linework keep the character alive and personable.",
+  "full_prompt_zh": "一幅正方形人物插画呈现一个身形细长的少年，上半身位于连续的暖橙背景前。凌乱浅金卷发从反戴的深蓝帽下翘起，细长脖颈托起表情丰富的脸，大而白的眼睛里只有小小深色瞳孔。目光略向侧上方转动，两边眉毛高低不同，让安静站姿带上犹豫又好奇的幽默。小圆鼻、醒目的耳朵和一条不确定的细嘴组成夸张却亲切的造型。他在褪色红上衣外穿蓝夹克和灰帽衫，两条棕色背包带越过肩膀。清楚深色轮廓固定剪影，短而略松的线条描绘头发、衣褶与下巴下的轻影。涂色区域略不均匀，带一丝印刷颗粒，避免玻璃般的数字亮面。人物占据画面中下部，头部四周保留宽阔橙色区域。照明简单漫射，卷发与脸上只有适度亮部，没有戏剧化聚光。最终画面一眼便可读懂，而眼睛和线条的细小不对称又使人物鲜活亲近。",
+  "style_prompt_en": "The style is lively hand-drawn cartoon illustration with stretched proportions, expressive facial asymmetry, clean dark contour lines and a few loose descriptive strokes. Broad matte color areas are slightly uneven and faintly grainy. A limited warm-cool palette places saturated orange against muted blue, gray and red. Simple diffuse lighting keeps the emphasis on shape and gesture. The square composition leaves ample plain negative space around a compact central silhouette, providing instant readability while preserving personable irregularity.",
+  "style_prompt_zh": "这种风格是鲜活的手绘卡通插画，具有拉长的比例、表情的不对称性、清楚深色轮廓与少量松动的描述性线条。宽阔哑光色面略不均匀，并有淡颗粒。有限的暖冷配色将饱和橙色对应低饱和蓝、灰与红。简单漫射光使注意力落在形状与姿态上。正方形构图在紧凑中央剪影周围留下充分纯色留白，兼具即时可读性与亲切的不规则感。",
+  "theme_en": "A curious teenager against a warm orange backdrop",
+  "theme_zh": "暖橙背景前神情好奇的少年",
+  "wh_ratio": "1:1",
+  "id": "4390",
+  "name": "Cartoon style",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/cartoon-style.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "87a548c1e251c0356833b60dc6ff4a6336281d53274ea3afae531e24b4f193ed",
+    "gpt_submission_prompt": "A square character illustration shows a lanky teenager from the chest upward against an uninterrupted warm orange background. His unruly pale blond curls rise above a backward navy cap, and his long narrow neck lifts an expressive face with oversized white eyes and tiny dark pupils. The eyes turn slightly upward and to the side; one brow rises higher than the other, giving the quiet pose a hesitant, curious humor. A small rounded nose, prominent ears and a thin uncertain mouth complete the exaggerated but affectionate design. He wears a faded red shirt beneath a blue jacket with a gray hood, and brown backpack straps travel over both shoulders. Clean dark contours hold the silhouette, while short sketchy strokes describe hair, fabric folds and the slight shadow beneath the chin. The colored areas have gentle unevenness and a hint of printed grain, avoiding a glassy digital finish. The figure occupies the middle and lower portion of the frame, leaving a generous orange field around the head. Lighting is simple and diffuse, with modest highlights on curls and face rather than a dramatic spotlight. The finished image reads immediately at a glance, yet small asymmetries in the eyes and linework keep the character alive and personable.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "681e377a53536ebaae7e7ad1fc782e80d0c4bd2937f9826297d231ba94a7e342",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

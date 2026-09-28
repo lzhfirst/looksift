@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square fantasy character illustration shows an elderly warrior in left profile against pale parchment. His long white beard spills over a heavy patterned collar, while a prominent nose and deeply creased cheek give the face a rugged, lived-in quality. A large weathered bronze helmet crowns the head. Its round ear guard, layered riveted plates, and swept birdlike wing dominate the upper left of the frame. A red cloak crosses the lower left shoulder, the warm fabric contrasting with tarnished olive metal and the cool ivory beard. Fine technical sketches and faint geometric marks sit behind the figure on the aged cream ground, so the portrait feels like a page from an illustrated design archive. The linework is meticulous: tiny scratches on armor, directional strands in the beard, and narrow hatching along the brow and jaw. Watercolor-like color sits within these ink contours, with soft brown shadows pooling under the helmet and at the neck. Light is even and gentle, strongest on the face and wing plates, while recesses remain deep sepia. The head fills nearly the whole image but leaves a slim area of breathing room ahead of the gaze. The overall image is ornate, weathered, and highly readable, balancing character weight with delicate surface detail.",
+  "full_prompt_zh": "一幅方形奇幻角色插画在浅色羊皮纸背景前描绘一位左侧面的年长武士。长白胡须垂过厚重花纹衣领，突出的鼻子和深刻面颊皱纹让脸具有饱经风霜的质感。大型风化青铜头盔覆盖头部，其圆形护耳、层叠铆钉金属片和向后展开的鸟翼占据画面左上。红色披风穿过左下肩，与失去光泽的橄榄色金属和冷象牙白胡须形成对比。纤细技术草图与淡淡几何痕迹留在陈旧奶油色底纸上，使肖像像图鉴的一页。线条极细致：盔甲小划痕、胡须的定向发丝以及眉颌处窄密排线。类似水彩的颜色停留在墨线轮廓中，柔棕阴影积在头盔下与颈侧。光线均匀温和，脸和翼片最亮，凹陷处保持深褐色。头部几乎填满图像，但视线前仍留出窄小空间。整体华丽、风化而清晰，以厚重角色感平衡精密表面细节。",
+  "style_prompt_en": "Fantasy illustration combines intricate ink contours with translucent, watercolor-like washes on warm aged paper. Tarnished olive bronze, sepia, ivory, and a concentrated red accent form an antique palette. Fine scratches, hatching, and directional lines describe worn surfaces without making the ground busy. Edges are precise at the focal center and dissolve into faint schematic marks toward the margin. Gentle diffuse light reveals raised detail while deep brown remains in recesses. The composition is close and richly ornamented, yet pale negative space keeps its silhouette legible. The finish feels archival, tactile, and carefully drawn.",
+  "style_prompt_zh": "奇幻插画把复杂墨线轮廓与暖色旧纸上的透明水彩式渲染结合。失光泽橄榄青铜、深褐、象牙白与集中的红色点缀组成古旧配色。细划痕、排线和定向笔痕描述磨损表面，同时让底色保持简净。焦点边缘准确，向边缘化为淡淡示意痕。柔和漫射光显出凸起细节，凹处保留深棕。构图紧贴且装饰丰富，浅色负空间仍让剪影清晰。成品带有档案般、可触且精细绘制的气质。",
+  "theme_en": "An elderly warrior in a winged bronze helmet",
+  "theme_zh": "佩戴翼形青铜头盔的年长武士",
+  "wh_ratio": "1:1",
+  "id": "2509",
+  "name": "John Blanche",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/john-blanche",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/john-blanche.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "f00e87490bae2c4c7f71a185c045b0fe96eff8d926348da60f7a4dab0364c183",
+    "gpt_submission_prompt": "A square fantasy character illustration shows an elderly warrior in left profile against pale parchment. His long white beard spills over a heavy patterned collar, while a prominent nose and deeply creased cheek give the face a rugged, lived-in quality. A large weathered bronze helmet crowns the head. Its round ear guard, layered riveted plates, and swept birdlike wing dominate the upper left of the frame. A red cloak crosses the lower left shoulder, the warm fabric contrasting with tarnished olive metal and the cool ivory beard. Fine technical sketches and faint geometric marks sit behind the figure on the aged cream ground, so the portrait feels like a page from an illustrated design archive. The linework is meticulous: tiny scratches on armor, directional strands in the beard, and narrow hatching along the brow and jaw. Watercolor-like color sits within these ink contours, with soft brown shadows pooling under the helmet and at the neck. Light is even and gentle, strongest on the face and wing plates, while recesses remain deep sepia. The head fills nearly the whole image but leaves a slim area of breathing room ahead of the gaze. The overall image is ornate, weathered, and highly readable, balancing character weight with delicate surface detail.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "694c2d6d5098761db1b953af9fc0c12f14d4a6de79275dc0f1448e5c4000c8bf",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

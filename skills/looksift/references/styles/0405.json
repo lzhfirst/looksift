@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square classical landscape oil painting opens from a shaded foreground into a sunlit valley. At the far left, dense green trees and a weathered rock wall frame a flight of broad stone steps. A dark opening or recess lies beneath the foliage, while a few tiny figures gather near the base. Across the center foreground, a sandy path runs toward the distance; one small traveler in warm red stands out along it. To the right, a pale rocky rise carries a compact temple with columns and a pediment, joined by broken walls and other stone structures. Rounded boulders and patches of green growth step down from the ruins into the path. The middle distance extends through low hills and scattered buildings, softened by blue-gray haze. Above, a clear muted blue sky holds large cream clouds, their sunlit tops echoed in the pale masonry. The scene is carefully staged: trees form a dark left curtain, the temple provides a high right accent, and the path guides the eye into a bright central opening. Warm light falls from the upper left, striking the temple face, rock edges, and figures while leaving the foreground trees and recesses in olive-brown shadow. Paint is smoothly blended at a distance but more tactile around stone, bark, and leaves. The tiny people supply scale without dominating the ancient setting. The overall composition is orderly and spacious, blending idealized architecture, natural forms, and gentle atmospheric depth into a calm historical vision.",
+  "full_prompt_zh": "一幅方形古典风景油画从有阴影的前景展向受阳光照亮的山谷。最左侧，浓密绿树与风化石壁围住一段宽阔石阶。叶下有深色洞口或凹处，底部附近聚着几个细小人物。前景中央，一条沙土路通向远处；路上一位穿暖红衣服的小行者格外显眼。右边，浅色岩台托起一座有立柱和山花的小神庙，与残墙和其他石构相连。圆石与零星绿植从遗迹逐级落向道路。中景延伸至低丘和分散建筑，在蓝灰薄雾中软化。上方暗蓝天空容纳大团奶油色云，受光云顶与浅色石砌互相呼应。场景经过周密安排：树木成左侧暗幕，神庙成为右上亮点，道路把目光引向中央明亮开口。暖光从左上落下，照亮神庙立面、岩缘与人影，前景树丛和凹处则留在橄榄棕阴影中。远处颜料晕染平滑，石、树皮和叶片周围更可触。小人物提供尺度，却不主导古老环境。整体构图有秩序而开阔，将理想化建筑、自然形体和温和大气纵深融成平静历史图景。",
+  "style_prompt_en": "Use classical oil-painting construction with balanced dark framing masses, a luminous central passage, and clear recession through warm foreground, softened middle distance, and cool horizon. Model stone, foliage, and cloud with controlled naturalistic brushwork, keeping distant details smoother and paler. Favor olive, umber, ocher, muted blue, and warm cream under gentle directional sunlight. Place small accents of brighter color to establish scale and guide attention. The mood is composed, idealized, and quietly monumental.",
+  "style_prompt_zh": "采用古典油画构造，以平衡的暗色边框、明亮中央通道，以及暖前景、柔和中景、冷色地平线的清晰退远组织画面。用克制写实笔触塑造石、叶与云，远处细节更平滑浅淡。温和侧向日光下偏重橄榄、赭褐、赭黄、暗蓝和暖奶油色。少量更亮色彩建立尺度并引导注意。情绪沉着、理想化而安静宏伟。",
+  "theme_en": "A classical valley with stone steps, travelers, and a temple on rocky heights",
+  "theme_zh": "石阶、行旅与岩岭神庙构成的古典山谷",
+  "wh_ratio": "1:1",
+  "id": "0405",
+  "name": "Nicolas Poussin",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/nicolas-poussin",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/nicolas-poussin.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "33ee73fcd7e04b74914503d1a39c76e76e30865c03dfde56681adc14c2c3c94e",
+    "gpt_submission_prompt": "A square classical landscape oil painting opens from a shaded foreground into a sunlit valley. At the far left, dense green trees and a weathered rock wall frame a flight of broad stone steps. A dark opening or recess lies beneath the foliage, while a few tiny figures gather near the base. Across the center foreground, a sandy path runs toward the distance; one small traveler in warm red stands out along it. To the right, a pale rocky rise carries a compact temple with columns and a pediment, joined by broken walls and other stone structures. Rounded boulders and patches of green growth step down from the ruins into the path. The middle distance extends through low hills and scattered buildings, softened by blue-gray haze. Above, a clear muted blue sky holds large cream clouds, their sunlit tops echoed in the pale masonry. The scene is carefully staged: trees form a dark left curtain, the temple provides a high right accent, and the path guides the eye into a bright central opening. Warm light falls from the upper left, striking the temple face, rock edges, and figures while leaving the foreground trees and recesses in olive-brown shadow. Paint is smoothly blended at a distance but more tactile around stone, bark, and leaves. The tiny people supply scale without dominating the ancient setting. The overall composition is orderly and spacious, blending idealized architecture, natural forms, and gentle atmospheric depth into a calm historical vision.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "3877c882f41819a3d86ec158fc23cb9a5f3a945848095908aeb639d9ba4ba175",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

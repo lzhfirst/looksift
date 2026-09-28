@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square cinematic environment painting looks along a crowded old harbor street beneath immense masonry bridges and overhanging buildings. The view begins low on a wet road in the foreground, where dark cobbles and puddles reflect thin streaks of amber light. On the left, a red streetcar and a few small vehicles sit among pedestrians, establishing the scale of the towering architecture. Massive stone supports and connecting arches climb up both sides, while distant façades fade into pale smoky light at the far end of the street. The upper frame is dense with angled beams, hanging structures, windows, and recessed shadows. Warm shop or window lights punctuate the gloom near ground level. The palette is primarily soot brown, charcoal, desaturated olive, and smoky cream, with the streetcar's red as a small saturated accent. Brushwork is energetic and rough, especially in the shadowed stone, but strong perspective and broad value masses keep the architecture readable. Light pours from the distant opening and filters down between high structures, creating bright haze behind the small foreground figures. The composition feels compressed, immense, and lived in. Human movement remains tiny against the built mass, while damp reflections carry a thread of brightness through the dark lower frame.",
+  "full_prompt_zh": "一幅方形电影感环境画沿着拥挤旧港街道望去，街道上方是巨大的石砌桥梁与悬垂建筑。视角从低处潮湿路面开始，深色石板与水洼反射细长琥珀光线。左侧一辆红色有轨电车、几辆小车与行人，说明了高耸建筑的尺度。巨型石支柱和连接拱廊沿两侧向上攀升，远处立面消隐于街尾浅色烟雾般光中。画面上部布满斜梁、悬挂结构、窗与深凹阴影。暖色店面或窗光在地面附近的幽暗中点亮。配色以烟尘棕、炭色、低饱和橄榄和烟白为主，电车红色是小块饱和点缀。笔触有力且粗粝，尤其在阴影石面，但强透视与宽阔明暗形块使建筑易读。光从远方开口涌入，穿过高处结构落下，使前景小人物背后发亮。构图压缩、宏大而有生活痕迹。人的活动与建筑体量相比极小，潮湿反射则把一线亮光带过深色下半幅。",
+  "style_prompt_en": "Cinematic environment painting uses rough, energetic brushwork over strong perspective and broad architectural value blocks. Soot brown, charcoal, muted olive, and smoky cream dominate, with isolated warm and red accents. High structures frame a distant pale opening; diffuse backlight catches wet surfaces and pushes near masses into shadow. Small bright windows and broken reflections create rhythm inside the large dark forms. Edges sharpen along key supports and dissolve in smoke and distance. Dense layered detail is held together by a clear central recession, producing an immense, weathered, lived-in atmosphere.",
+  "style_prompt_zh": "电影感环境绘画在强透视和宽阔明暗体块上运用粗粝、有力的笔触。烟尘棕、炭色、低调橄榄与烟白占主导，间有孤立暖光和红色点缀。高处结构框住远方浅色开口；弥散逆光照亮湿表面，近处大块形体退入阴影。小亮窗与破碎倒影在大片深色中建立节奏。关键支撑处边缘清楚，烟雾和远处则消隐。浓密层叠细节被清晰中央后退空间统合，呈宏大、风化且有人居气息的氛围。",
+  "theme_en": "An old harbor street beneath monumental bridges",
+  "theme_zh": "巨型桥梁下的旧港街道",
+  "wh_ratio": "1:1",
+  "id": "2515",
+  "name": "James Paick",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/james-paick",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/james-paick.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "f645e5922584e1f58720ea20eabdc50f1cf03de503583ad6b3be0b9b17cf2af6",
+    "gpt_submission_prompt": "A square cinematic environment painting looks along a crowded old harbor street beneath immense masonry bridges and overhanging buildings. The view begins low on a wet road in the foreground, where dark cobbles and puddles reflect thin streaks of amber light. On the left, a red streetcar and a few small vehicles sit among pedestrians, establishing the scale of the towering architecture. Massive stone supports and connecting arches climb up both sides, while distant façades fade into pale smoky light at the far end of the street. The upper frame is dense with angled beams, hanging structures, windows, and recessed shadows. Warm shop or window lights punctuate the gloom near ground level. The palette is primarily soot brown, charcoal, desaturated olive, and smoky cream, with the streetcar's red as a small saturated accent. Brushwork is energetic and rough, especially in the shadowed stone, but strong perspective and broad value masses keep the architecture readable. Light pours from the distant opening and filters down between high structures, creating bright haze behind the small foreground figures. The composition feels compressed, immense, and lived in. Human movement remains tiny against the built mass, while damp reflections carry a thread of brightness through the dark lower frame.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "6da37032390791a4dae19ba99ad80b324ee4ebcedb53fb11c65276d60d785cb1",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

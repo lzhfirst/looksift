@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white portrait photograph shows a curly-haired young man seated in a dark suit and tie. He leans slightly forward toward the camera, shoulders hunched just enough to bring the face close. His dense, unruly curls rise high above the forehead and spread outward over the ears. The expression is serious and direct: dark eyes stare into the lens beneath strong brows, and the mouth remains closed. A light shirt collar emerges from the jacket, and a diagonally striped tie runs down the center of the chest. The suit's lapels make two broad dark triangular shapes around the narrow strip of shirt. Behind him, a plain gray wall or studio backdrop is softly mottled and darker at the edges. A narrow horizontal line and the top of a simple chair appear near the lower right, providing only minimal spatial context. Soft light from the upper left illuminates the curls, forehead, nose, and one cheek, while the far side of the face and jacket fall into richer gray. The lighting is subdued rather than theatrical, allowing skin texture and individual hair strands to stay visible. The camera is at eye level and tightly framed from the chest up. The centered face and direct gaze organize the image, while the unruly hair adds a complex silhouette against the quiet background. Fine film grain and slightly imperfect tonal transitions preserve the photograph's analog character. The whole portrait feels intimate and unguarded, with formal clothing set against a youthful, somewhat defiant stillness.",
+  "full_prompt_zh": "一幅方形黑白肖像照片描绘一名卷发年轻男子坐着穿深色西装领带。他略向相机前倾，肩膀微微弓起，让面孔靠近镜头。浓密不驯的卷发高高升过额头，向双耳外铺开。表情严肃直接：深色眼睛在浓眉下望入镜头，嘴巴紧闭。浅色衬衫领从外套中露出，一条斜纹领带沿胸部中央垂下。西装翻领在狭窄浅衬衫两旁形成两块宽阔深色三角形。身后简单灰墙或影棚底布柔和斑驳，边缘更暗。下方右侧附近出现一条细水平线和简单椅背顶部，只提供极少空间信息。柔光从左上方照亮卷发、额头、鼻子与一侧脸颊，脸远侧和外套落入更浓的灰度。照明低调而非戏剧化，皮肤纹理和单根发丝仍然可见。相机与眼睛同高，从胸部以上紧密裁切。居中的脸和直接目光组织图像，不驯的发型则在安静背景前增添复杂剪影。细胶片颗粒和略不完美的色调过渡保留照片的模拟质地。整幅肖像亲密而无防备，正式衣着与年轻、略带倔强的静止感相对。",
+  "style_prompt_en": "Black-and-white analog photography favors direct eye-level framing, fine grain, and a quiet mottled ground. Soft one-sided light separates a densely textured silhouette from the background and models skin with gradual gray transitions. Dark tailored planes can surround a narrow bright central strip, creating a simple formal structure. Keep individual hair or fiber detail lively, the gaze sharply focused, and the rest of the scene minimal. The overall effect is intimate, slightly raw, and restrained, with small imperfections preserved in the tonal finish.",
+  "style_prompt_zh": "黑白模拟摄影偏好视线同高的直接取景、细颗粒与安静斑驳底面。柔和单侧光把质地浓密的剪影从背景分离，并以渐变灰调塑造皮肤。深色剪裁平面可围住狭窄明亮中央带，形成简单正式结构。让单根头发或纤维细节鲜活，目光锐利聚焦，场景其余部分极简。整体效果亲密、稍显粗粝而克制，色调完成面保留小小不完美。",
+  "theme_en": "A curly-haired young man in a dark suit looking directly at the camera",
+  "theme_zh": "一名卷发年轻男子穿深色西装直视镜头",
+  "wh_ratio": "1:1",
+  "id": "1923",
+  "name": "Gered Mankowitz",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/gered-mankowitz",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/gered-mankowitz.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "60dc282b7fcfbddbd31cb2eacdeb07f76a8a4573d918567cdc8b4bff45984a18",
+    "gpt_submission_prompt": "A square black-and-white portrait photograph shows a curly-haired young man seated in a dark suit and tie. He leans slightly forward toward the camera, shoulders hunched just enough to bring the face close. His dense, unruly curls rise high above the forehead and spread outward over the ears. The expression is serious and direct: dark eyes stare into the lens beneath strong brows, and the mouth remains closed. A light shirt collar emerges from the jacket, and a diagonally striped tie runs down the center of the chest. The suit's lapels make two broad dark triangular shapes around the narrow strip of shirt. Behind him, a plain gray wall or studio backdrop is softly mottled and darker at the edges. A narrow horizontal line and the top of a simple chair appear near the lower right, providing only minimal spatial context. Soft light from the upper left illuminates the curls, forehead, nose, and one cheek, while the far side of the face and jacket fall into richer gray. The lighting is subdued rather than theatrical, allowing skin texture and individual hair strands to stay visible. The camera is at eye level and tightly framed from the chest up. The centered face and direct gaze organize the image, while the unruly hair adds a complex silhouette against the quiet background. Fine film grain and slightly imperfect tonal transitions preserve the photograph's analog character. The whole portrait feels intimate and unguarded, with formal clothing set against a youthful, somewhat defiant stillness.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "7013244a6508b0f8d352947f602e9d5833a28e459be64f8bdfc7af1ddd22310a",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

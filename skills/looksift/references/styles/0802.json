@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square children's-book illustration shows a tall dark cat-like creature sitting on a weathered wooden step and reading from an open book. Oversized white eyes look down at the pages, while long pointed ears reach almost to the top of the frame. Four smaller companions line up around the reader: a yellow round creature, a tiny pinkish one in a striped top, a taller pink rabbit, and a squat blue creature with equally wide eyes. The characters are simplified into soft rounded bodies, narrow limbs, and clean humorous expressions. A beige plaster wall with subtle seams fills the background, leaving the group easy to read. Pencil-like outlines, light watercolor washes, and softly rubbed texture give each body a handmade surface. The palette is muted rather than candy-bright: charcoal blue, dusty pink, ochre, faded green, and warm gray. Gentle frontal daylight casts small shadows beneath feet and across the step. The composition is compact and centered, with the open book acting as a quiet shared focal point. Small sneakers on the reader add an everyday comic detail. The whole frame feels friendly, odd, and patiently observed, with generous plain space around the group and a worn-paper storybook finish.",
+  "full_prompt_zh": "一幅方形儿童书插画呈现一只高高的深色猫样小生物坐在磨旧木阶上，捧着翻开的书朗读。夸张的白眼睛低头看书页，长尖耳朵几乎顶到画面上缘。四个更小的伙伴围着读者排开：黄色圆胖生物、穿条纹上衣的小粉色生物、更高的粉兔，以及同样瞪大眼的矮蓝色生物。角色由柔软圆形身体、纤细四肢和清楚滑稽表情概括。背后是带轻微接缝的米色灰泥墙，让群像易读。铅笔般轮廓、浅水彩薄染和柔擦肌理给每个身体手工表面。配色低调而非糖果般鲜艳：炭蓝、灰粉、赭、褪色绿和暖灰。温和正面日光在脚下和台阶上投出小影。构图紧凑居中，翻开的书成为大家共享的安静焦点。读者脚上的小运动鞋添了日常喜剧细节。整体友好、古怪、观察耐心，群像周围留有宽松平面空间，带磨旧纸面的故事书质感。",
+  "style_prompt_en": "A gentle children's-book drawing style uses simple eccentric silhouettes, oversized eyes, and restrained watercolor color over pencil-like contour. Warm beige paper or plaster provides quiet negative space; muted charcoal blue, dusty pink, ochre, sage, and gray distinguish compact figures. Light rubbed texture, uneven outlines, and a few everyday costume details keep the creatures tactile and personable. Grouping stays centered and readable, with one shared object or action connecting the forms. Soft diffuse daylight creates only small grounding shadows. Humor comes from scale and expression rather than visual noise. The result feels handmade, friendly, and slightly odd, like a well-loved illustrated page.",
+  "style_prompt_zh": "温和的儿童书绘画风格使用简单古怪剪影、夸张大眼和铅笔般轮廓上的克制水彩色。暖米纸或灰泥底提供安静负空间；低饱和炭蓝、灰粉、赭、鼠尾草绿和灰区分紧凑形体。浅擦肌理、不均匀轮廓与少量日常服饰细节使生物可触且有人情味。群像居中易读，一件共享物或动作将形体连接。漫射柔光只产生细小落地影。幽默来自尺度与表情，而非视觉嘈杂。结果手工感、友善、略古怪，像一本常被翻阅的插画书。",
+  "theme_en": "A group of odd little creatures listens as a tall cat reads on a wooden step",
+  "theme_zh": "一群古怪的小动物坐在木阶上，听高个猫咪读书",
+  "wh_ratio": "1:1",
+  "id": "0802",
+  "name": "Mo Willems",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/mo-willems",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/mo-willems.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "65c669210f16e188278b378bb93bb4d412395e8167678187c731747bbe1c992f",
+    "gpt_submission_prompt": "A square children's-book illustration shows a tall dark cat-like creature sitting on a weathered wooden step and reading from an open book. Oversized white eyes look down at the pages, while long pointed ears reach almost to the top of the frame. Four smaller companions line up around the reader: a yellow round creature, a tiny pinkish one in a striped top, a taller pink rabbit, and a squat blue creature with equally wide eyes. The characters are simplified into soft rounded bodies, narrow limbs, and clean humorous expressions. A beige plaster wall with subtle seams fills the background, leaving the group easy to read. Pencil-like outlines, light watercolor washes, and softly rubbed texture give each body a handmade surface. The palette is muted rather than candy-bright: charcoal blue, dusty pink, ochre, faded green, and warm gray. Gentle frontal daylight casts small shadows beneath feet and across the step. The composition is compact and centered, with the open book acting as a quiet shared focal point. Small sneakers on the reader add an everyday comic detail. The whole frame feels friendly, odd, and patiently observed, with generous plain space around the group and a worn-paper storybook finish.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "cdf8b420b7ffdbd6a1d6bff01e6e24f2738f1c5c45cb56b1322a7838c6575662",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square fantasy illustration centers on a young woman whose face emerges from a dense surround of translucent flowers and drifting petals. The face is shown close and in three-quarter view, with wide violet eyes turned toward the viewer and a soft, thoughtful expression. Fine strands of wavy hair thread through the flowers, so the boundary between hair, fabric, and petals becomes gently ambiguous. The floral forms fill the left edge and lower corner, while her illuminated cheek and lips hold the visual center. Pale lavender, dusty rose, powder blue, muted teal, and warm ivory blend in layered washes. Fine pencil-like contours define the eye, nose, and lips; surrounding petals have softer edges that seem to dissolve into mist. Light falls delicately from the upper right, making the skin luminous without a hard spotlight. The image carries a velvety, watercolor-like surface with faint paper grain and translucent overlaps. Small folds and veins within the petals add quiet detail, but the overall rhythm remains soft and flowing. Dark violet notes around the upper hair and flower cluster frame the pale face without closing the composition. The whole frame feels intimate, romantic, and dreamlike, with pastel color, precise facial drawing, and airy botanical layering held in careful balance.",
+  "full_prompt_zh": "一幅方形奇幻插画以一位年轻女子为中心，她的面孔从密集的半透明花朵与飘动花瓣中浮现。面孔近距离呈四分之三角度，紫色大眼睛望向观者，神情柔和而若有所思。细细的波浪发丝穿过花丛，使头发、布料与花瓣的边界温柔地交融。花形填满左缘和下角，受光的脸颊与嘴唇则稳住视觉中心。淡薰衣草紫、灰玫瑰粉、粉蓝、低饱和青绿与暖象牙色在层叠薄染中交融。眼、鼻、唇由铅笔般的纤细轮廓界定；周围花瓣的边缘较软，仿佛消散在雾里。光线从右上方轻轻落下，使皮肤明亮而没有强硬聚光。画面带有天鹅绒般的水彩表面、隐约纸纹和半透明的重叠。花瓣中的小褶皱和叶脉提供安静细节，但整体节奏仍柔软流动。头发和上方花簇里的深紫色围住浅色面孔，却不封闭构图。整幅画面亲密、浪漫、如梦，粉彩颜色、准确的面部描绘与轻盈的植物层叠保持细致平衡。",
+  "style_prompt_en": "A dreamy watercolor and colored-pencil language blends translucent pastel washes with delicate precise contour. Soft lavender, dusty rose, powder blue, muted teal, and warm ivory overlap without hard boundaries. A gently lit focal area remains relatively clear while surrounding organic shapes flow together and fade into pale paper. Fine linear detail appears in selected features and small surface veins, then gives way to hazy edges and layered color elsewhere. Deep violet accents near the upper edge provide a loose frame and keep the composition from becoming weightless. The finish is velvety, romantic, and tactile, with faint grain, nuanced light, and no glossy digital smoothness.",
+  "style_prompt_zh": "梦幻的水彩与彩铅语言把半透明粉彩薄染和纤细准确的轮廓融合起来。柔和薰衣草紫、灰玫瑰粉、粉蓝、低饱和青绿和暖象牙色层层叠合，边界不过分生硬。受柔光照亮的焦点区域保持较清楚，周围有机形态相互流动并淡入浅色纸面。精选局部出现细线与微小表面纹脉，其他地方则交给朦胧边缘和叠色。上缘附近的深紫色点缀形成松散框架，避免构图失重。表面如天鹅绒般浪漫而可触，带着隐约颗粒、细腻光感，没有油亮的数字平滑感。",
+  "theme_en": "A young woman surrounded by translucent flowers in soft lavender light",
+  "theme_zh": "柔和薰衣草色光中，一位年轻女子被半透明花朵环绕",
+  "wh_ratio": "1:1",
+  "id": "4265",
+  "name": "Anna Dittmann",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/anna-dittmann.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "9932cdac1fdc8cf1acbfc0d2063d529ba8a4ece329a4d29cdc9ea7a376e36259",
+    "gpt_submission_prompt": "A square fantasy illustration centers on a young woman whose face emerges from a dense surround of translucent flowers and drifting petals. The face is shown close and in three-quarter view, with wide violet eyes turned toward the viewer and a soft, thoughtful expression. Fine strands of wavy hair thread through the flowers, so the boundary between hair, fabric, and petals becomes gently ambiguous. The floral forms fill the left edge and lower corner, while her illuminated cheek and lips hold the visual center. Pale lavender, dusty rose, powder blue, muted teal, and warm ivory blend in layered washes. Fine pencil-like contours define the eye, nose, and lips; surrounding petals have softer edges that seem to dissolve into mist. Light falls delicately from the upper right, making the skin luminous without a hard spotlight. The image carries a velvety, watercolor-like surface with faint paper grain and translucent overlaps. Small folds and veins within the petals add quiet detail, but the overall rhythm remains soft and flowing. Dark violet notes around the upper hair and flower cluster frame the pale face without closing the composition. The whole frame feels intimate, romantic, and dreamlike, with pastel color, precise facial drawing, and airy botanical layering held in careful balance.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "94639dbfb9f2733fa56b8769a06b5bb3b535fb6f1d4d051296179159387dd71d",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

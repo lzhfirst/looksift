@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square double portrait combines carefully staged figures with flattened elegance and a precise painted finish. Two young women stand shoulder to shoulder but look in opposite directions, one in left profile and one in right profile. The left figure has brown hair gathered low beneath a pale headband and wears a cream blouse under a muted brown vest. The right figure has a short sculpted blond bob, a crisp white collar and a warm vermilion top; a thin cigarette rests at her lips. Both stand against an all-over pale blue and ivory ornamental wall covering, where scrolling leaf-like motifs repeat behind the silhouettes without overpowering them. Their faces are smooth but gently modeled, with delicate noses, slight blush and controlled red accents at the lips. Compressed shallow space, clean edges and an almost poster-like division of warm red, brown and pale cream define the composition. The profiles create a mirrored rhythm while maintaining individual asymmetry in hair and costume. Their separation of gaze provides the scene's quiet tension. The patterned ground has fine, subdued lines and lightly aged paper texture, while the figures retain a polished, painted surface. The result feels poised, quiet and subtly enigmatic, like an interwar portrait translated into a decorative modern composition.",
+  "full_prompt_zh": "正方形双人肖像构图精心，具有平面化的优雅秩序与精确的绘画表面。两位年轻女性肩背相近，却朝相反方向看：一人向左侧面，一人向右侧面。左侧人物棕发低挽，系浅色发带，乳白衬衫外穿低饱和棕色背心。右侧人物留雕塑般的金色短波波头，白色衣领鲜明，上衣为暖朱红，唇边含一支细烟。背景是一整面浅蓝与象牙白的装饰壁纸，卷曲的叶形纹样在剪影后重复，却不夺取主体。面孔光滑但有轻柔塑形，鼻梁纤细，面颊略有红晕，唇色红调受控。空间压得很浅，边缘干净，暖红、棕和浅乳色形成近似海报的色块分布。侧面轮廓构成镜像节奏，发型与服装仍保持各自的不对称。分离的目光提供安静的张力。背景纹样用细而柔的线条与微旧纸感描绘，人物保留精致绘画表面。作品端整、安静、略带谜意，仿佛两次大战之间的肖像被转译为现代装饰构图。",
+  "style_prompt_en": "Decorative painting combines poised contour rhythms, shallow space, crisp silhouette edges and gently modeled planes. Muted powder blue, ivory and brown balance one concentrated warm vermilion accent. Repeating curvilinear ornament occupies the background at a quieter contrast than the foreground, with fine line detail and slight aged-paper softness. Smooth matte paint and careful symmetry with small deviations give the square composition a composed, restrained character. Directional balance carries the visual tension.",
+  "style_prompt_zh": "装饰性绘画结合端整的轮廓节奏、浅空间、清晰剪影边缘和柔和塑造的色面。低饱和粉蓝、象牙白与棕色平衡一处集中的暖朱红重音。重复的曲线纹样分布在背景，其明暗对比低于前景，细线细节与轻微旧纸般柔和感并存。光滑哑光颜料以及带细微偏差的周密对称，赋予正方形构图端整、克制的气质。方向平衡承载视觉张力。",
+  "theme_en": "Two women facing away from one another before an ornamental wall",
+  "theme_zh": "在纹样墙前背向而立的两位女子",
+  "wh_ratio": "1:1",
+  "id": "1131",
+  "name": "Meredith Frampton",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/meredith-frampton",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/meredith-frampton.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "b2b7abd9d4ee33dc6b6e8a375cedacc6b7aaae604edd2522ee5c5917e4f862ad",
+    "gpt_submission_prompt": "A square double portrait combines carefully staged figures with flattened elegance and a precise painted finish. Two young women stand shoulder to shoulder but look in opposite directions, one in left profile and one in right profile. The left figure has brown hair gathered low beneath a pale headband and wears a cream blouse under a muted brown vest. The right figure has a short sculpted blond bob, a crisp white collar and a warm vermilion top; a thin cigarette rests at her lips. Both stand against an all-over pale blue and ivory ornamental wall covering, where scrolling leaf-like motifs repeat behind the silhouettes without overpowering them. Their faces are smooth but gently modeled, with delicate noses, slight blush and controlled red accents at the lips. Compressed shallow space, clean edges and an almost poster-like division of warm red, brown and pale cream define the composition. The profiles create a mirrored rhythm while maintaining individual asymmetry in hair and costume. Their separation of gaze provides the scene's quiet tension. The patterned ground has fine, subdued lines and lightly aged paper texture, while the figures retain a polished, painted surface. The result feels poised, quiet and subtly enigmatic, like an interwar portrait translated into a decorative modern composition.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "ada3736b33f05b8e3cc135b0a3fb1dc98f6bf5ef4b8b4fa133d9d207b0fba08a",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

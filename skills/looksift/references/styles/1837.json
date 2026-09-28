@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square painted landscape shows a winding ocher path crossing a turquoise stream in a stylized green valley. The path begins broad in the lower foreground, rises over a low curved bridge near the center, and continues toward a distant pale tower. The water bends across the left and middle ground in flat blue-green pools, broken by dark banks and a few small black boatlike shapes. On either side, rounded hills carry layers of olive, pink, mauve, mustard, and mint. Tall trees rise at the left and right, their trunks slender and dark and their canopies compressed into flattened green masses. Several narrow cypress-like shapes stand farther back, repeating the upward rhythm. A small human figure in warm red walks near the bridge, giving the valley scale. In the distance, a white building with pointed blue-green roofs and a narrow tower appears between the trees, softly set against pale green and cream hills. The sky is light and subdued, with a small round sunlike disc near the upper left. The entire surface is built from tiny closely placed dabs or grainy marks that break each color field into a rich mosaic. There is little naturalistic shadow; depth comes from overlapping hills, scale shifts, and the receding path. The scene balances a decorative flatness with a legible journey inward. Warm ocher and coral guide the eye through cool turquoise and green, while dark trunks anchor the otherwise pastel landscape. The result feels quiet, fanciful, and painstakingly painted.",
+  "full_prompt_zh": "一幅方形绘画风景呈现一条弯曲赭黄小路，在风格化绿色山谷中跨过青绿溪流。道路从下前景宽阔起步，在中央附近越过一道低弧桥，继续通向远处浅色塔楼。水以扁平蓝绿池面横过左侧和中景，被深岸和几个小黑船形打断。两边圆润山丘层叠橄榄、粉、淡紫、芥末与薄荷色。左右高树升起，树干细而深，树冠压成扁平绿团。远处几道狭长柏树般形状重复向上节奏。一名暖红色小人物走在桥附近，为山谷提供尺度。远处白色建筑有尖尖蓝绿屋顶与细塔，位于树木之间，柔和安放在浅绿和奶油色山前。天空浅而低调，左上附近有一枚小小太阳般圆盘。整个表面由紧密排布的微小点染或颗粒笔痕建立，把每块色域分解为丰富马赛克。几乎没有自然主义阴影；纵深来自重叠山丘、尺度变化和退远的道路。场景在装饰性平面感与可读的深入旅程间平衡。暖赭与珊瑚色引目光穿过冷青绿和绿色，深树干固定其余粉彩景物。效果安静、奇趣且笔绘费心。",
+  "style_prompt_en": "Decorative landscape painting builds broad simplified forms from countless small grainy dabs, giving flat color fields a stippled mosaic surface. Olive, mint, turquoise, ocher, coral, mauve, and cream are layered in rounded bands. A winding warm path can thread through cooler terrain, while slender dark vertical accents and flattened canopies structure the view. Depth comes from overlap, scale reduction, and color shifts more than realistic shadow. Light remains even and gentle, preserving a storybook calm. The overall image should feel meticulously marked, softly colored, and quietly fanciful.",
+  "style_prompt_zh": "装饰性风景绘画以无数细颗粒点染建立宽阔简化形体，让扁平色域带点纹马赛克表面。橄榄、薄荷、青绿、赭黄、珊瑚、淡紫和奶油色层叠为圆润色带。弯曲暖色路径可穿过较冷地形，细深竖向重音和压平树冠组织视野。纵深更多来自重叠、尺度缩小和色彩变化，而非真实阴影。光保持均匀温和，保留故事书般宁静。整体图像应笔痕细密、颜色柔和、安静而奇趣。",
+  "theme_en": "A winding yellow path crossing a turquoise stream toward a distant pale tower",
+  "theme_zh": "黄色弯路跨过青绿溪流，通往远处浅色塔楼",
+  "wh_ratio": "1:1",
+  "id": "1837",
+  "name": "Gustave De Smet",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/gustave-de-smet",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/gustave-de-smet.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "26609fa3395e7c7b7a1e8d60991d8961a9576ebfb0a39e7d677c22add8980616",
+    "gpt_submission_prompt": "A square painted landscape shows a winding ocher path crossing a turquoise stream in a stylized green valley. The path begins broad in the lower foreground, rises over a low curved bridge near the center, and continues toward a distant pale tower. The water bends across the left and middle ground in flat blue-green pools, broken by dark banks and a few small black boatlike shapes. On either side, rounded hills carry layers of olive, pink, mauve, mustard, and mint. Tall trees rise at the left and right, their trunks slender and dark and their canopies compressed into flattened green masses. Several narrow cypress-like shapes stand farther back, repeating the upward rhythm. A small human figure in warm red walks near the bridge, giving the valley scale. In the distance, a white building with pointed blue-green roofs and a narrow tower appears between the trees, softly set against pale green and cream hills. The sky is light and subdued, with a small round sunlike disc near the upper left. The entire surface is built from tiny closely placed dabs or grainy marks that break each color field into a rich mosaic. There is little naturalistic shadow; depth comes from overlapping hills, scale shifts, and the receding path. The scene balances a decorative flatness with a legible journey inward. Warm ocher and coral guide the eye through cool turquoise and green, while dark trunks anchor the otherwise pastel landscape. The result feels quiet, fanciful, and painstakingly painted.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "779af0db8f578547ab3fd4f9dba8ce3b815f93fba5eb746b0ee48dd93163edc3",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

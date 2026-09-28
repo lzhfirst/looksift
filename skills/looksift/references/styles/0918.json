@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square abstract expressionist painting presents one large rough heart shape filling nearly the whole canvas. Its left half is a saturated golden yellow, thickly brushed and scraped, while the right half is a lively rose pink with violet and magenta variation. The two lobes meet along a rough dark seam near the center and taper together to a pointed lower middle. A broad near black outline wraps much of the shape, but breaks into irregular marks and exposed underlayers. Around it, the background is heavily worked with patches of white, deep umber, orange red, cobalt blue, olive green, and gray. The upper corners are crowded and dark, while bright rough white areas open at the top and right. The lower left glows in rusty red and orange; a deep green patch balances it at the lower right. The painting is enclosed by a thin dark rectangular border that leaves a narrow pale margin outside. Thick paint ridges, palette knife smears, cracks, scumbled color, and scratched lines remain visible across every area. There is no illusionistic room or landscape; the heart is a simple emblem given weight through layered material. Light is even across the painted surface, though the yellow lobe seems to radiate against the surrounding black and the pink area has softer internal glow. The composition feels direct, vulnerable, and energetic, its childlike central symbol complicated by a rough, scarred surface.",
+  "full_prompt_zh": "一幅方形抽象表现主义绘画以一颗粗粝的大爱心几乎填满整张画布。左半是饱和金黄，由厚笔和刮擦堆成；右半是活跃玫瑰粉，内部变化出紫罗兰与洋红。两瓣在中央附近沿粗暗接缝相遇，一起收尖至下方中央。宽阔近黑轮廓包住大部分形状，却裂成不规则痕迹和露出的底色。周围背景反复加工，带白、深棕、橙红、钴蓝、橄榄绿与灰色斑块。上方两角拥挤深暗，顶部和右侧打开粗糙亮白区域。左下在锈红橙色里发亮，右下深绿斑块与之平衡。一道细深矩形边框围住绘画，外面留窄浅色页边。厚颜料脊线、刮刀抹痕、裂纹、干擦色和刮痕在各处都可见。没有幻觉式室内或风景；爱心是简洁符号，通过层叠材料获得重量。光均匀落在颜料表面，不过黄瓣在周围黑色前仿佛自发光，粉色区域内部亮度更柔。构图直接、脆弱而充满能量，孩子般中央符号被粗糙伤痕般表面复杂化。",
+  "style_prompt_en": "Abstract expressionist painting uses a single bold two part curved form within a densely worked square field. Thick impasto, scraped palette knife passages, cracks, scumbling, and exposed underlayers make the surface physically assertive. Saturated yellow and pink occupy the center, meeting at a dark seam and surrounded by broken black contour. Rust orange, cobalt, olive, white, and umber fragment the perimeter into rough, competing zones. The shape is simple and nearly symmetrical, but every edge remains uneven and handmade. Even illumination reveals raised ridges and small incisions rather than modeling an imagined scene. A narrow dark border contains the turbulent color. The result feels direct, raw, and emotionally exposed, with exuberant color complicated by wear and abrasion.",
+  "style_prompt_zh": "抽象表现主义绘画在加工密集的方形色域里放一块大胆的双瓣曲形。厚涂、刮刀通道、裂纹、干擦和露出的底色让表面带强烈物理存在。饱和黄与粉占中央，在深色接缝相接，被断续黑轮廓包围。锈橙、钴蓝、橄榄绿、白与棕褐把周缘碎成粗糙竞争的区域。形状简洁、近乎对称，但每道边缘仍不齐整且有手工痕迹。均匀照明揭示凸脊与小刻痕，而非塑造想象场景。窄深边框收住激荡颜色。结果直接、原始而情绪外露，欢腾颜色被磨损与擦痕复杂化。",
+  "theme_en": "Large two colored heart painted in thick impasto on a distressed ground",
+  "theme_zh": "厚涂黄粉双色大爱心置于磨损底色上",
+  "wh_ratio": "1:1",
+  "id": "0918",
+  "name": "Jim Dine",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/jim-dine",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/jim-dine.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "6bba55f74c6129ef50c9d7a5e8dd3ad8b94567e34ed54b93a265033c915f9b39",
+    "gpt_submission_prompt": "A square abstract expressionist painting presents one large rough heart shape filling nearly the whole canvas. Its left half is a saturated golden yellow, thickly brushed and scraped, while the right half is a lively rose pink with violet and magenta variation. The two lobes meet along a rough dark seam near the center and taper together to a pointed lower middle. A broad near black outline wraps much of the shape, but breaks into irregular marks and exposed underlayers. Around it, the background is heavily worked with patches of white, deep umber, orange red, cobalt blue, olive green, and gray. The upper corners are crowded and dark, while bright rough white areas open at the top and right. The lower left glows in rusty red and orange; a deep green patch balances it at the lower right. The painting is enclosed by a thin dark rectangular border that leaves a narrow pale margin outside. Thick paint ridges, palette knife smears, cracks, scumbled color, and scratched lines remain visible across every area. There is no illusionistic room or landscape; the heart is a simple emblem given weight through layered material. Light is even across the painted surface, though the yellow lobe seems to radiate against the surrounding black and the pink area has softer internal glow. The composition feels direct, vulnerable, and energetic, its childlike central symbol complicated by a rough, scarred surface.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "7c8e148a1b6acc45885dd59dfe7afe1c5e1c7991c37e64f357187f22b290b3c8",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

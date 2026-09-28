@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square fantasy game illustration sets a young adventurer in midair against a clean white background. The figure curves diagonally from upper right toward lower center, knees bent and one foot extended as if leaping. Long brown hair streams around the head, while a dark navy cape sweeps outward to the right in a broad crescent. A fitted top with pale sleeves, brown belts, small pouches, and layered blue trousers gives the character a practical traveling outfit. Sturdy boots and protective pieces at the knees and wrists are picked out in warm leather and dull gold. The adventurer's hand reaches toward a dark turquoise orb hovering above the left shoulder. The orb has a bright rim and internal speckles, reading as glass or magical energy. Around the lower body, broken stone, wooden fragments, pages from an open book, and curving blue-gray strokes form a circular burst of motion. Thin arc-like lines carry the eye from the orb through the debris and back to the cloak. The face is small but attentive, looking toward the floating sphere. The rendering combines clean anime-like linework with softly painted surfaces: hair strands, folds, leather straps, metal ornaments, and book pages have fine detail, while the white ground remains empty. Light comes from the upper left, illuminating the orb, hair, and pale fabric and casting modest shadows within the layered costume. The composition is weightless but controlled, using a loose circular sweep to keep many flying parts legible without a background setting.",
+  "full_prompt_zh": "一幅方形奇幻游戏插画把年轻冒险者放在纯白背景前的半空中。人物从右上向下方中央斜向弯曲，双膝收起，一脚伸出，仿佛正在跃起。棕色长发绕头飞扬，深海军蓝斗篷向右扫成宽大新月。合体上衣带浅色袖子、棕色束带、小包和多层蓝裤，形成实用旅装。结实靴子与膝腕护件用暖皮革和暗金色点出。冒险者一只手伸向左肩上方悬浮的深青绿光球。球边缘发亮，内部有斑点，像玻璃或魔法能量。身体下方周围，碎石、木片、翻开书页和弯曲蓝灰笔痕形成环形动作爆发。细弧线把视线从球带过飞散物，再引回斗篷。面孔虽小却专注，望向悬浮球。渲染结合干净的动漫式线描与柔和绘画表面：发丝、布褶、皮带、金属饰件和书页都有细节，白色底面仍空旷。光从左上来，照亮光球、头发和浅布，并在层叠服装内留适度阴影。构图失重却可控，以松散环形动势让众多飞散部分在无背景场景中仍易辨认。",
+  "style_prompt_en": "Use polished fantasy-game illustration with clean fine linework, softly painted color, and detailed layered materials. Place an energetic full-form silhouette against generous white or very pale negative space. Build motion with a circular sweep of cloth, hair, fragments, and thin arc marks, keeping individual details legible. Combine navy, teal, warm leather brown, pale cream, and restrained gold highlights. Use clear upper-side light and small internal shadows to separate fabric, metal, and floating elements without making the image heavy.",
+  "style_prompt_zh": "采用精修奇幻游戏插画：细洁线描、柔和上色和丰富的层叠材质。把富动势的完整形体置于宽阔白色或极浅留白前。用布、发、碎片与细弧线的环形扫动构造运动，同时让各细节可读。组合海军蓝、青绿、暖皮棕、浅奶油和克制金色高光。以上侧清光与小面积内部阴影分离布、金属及悬浮元素，不使画面沉重。",
+  "theme_en": "A flying fantasy adventurer with a floating blue orb and sweeping cloak",
+  "theme_zh": "飞跃的奇幻冒险者、悬浮蓝色光球与扬起的斗篷",
+  "wh_ratio": "1:1",
+  "id": "0467",
+  "name": "Granblue Fantasy",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/granblue-fantasy",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/granblue-fantasy.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "e8e8edff811ec3ac5600f85391f78ffa49a4d823a681427febee8302354e6182",
+    "gpt_submission_prompt": "A square fantasy game illustration sets a young adventurer in midair against a clean white background. The figure curves diagonally from upper right toward lower center, knees bent and one foot extended as if leaping. Long brown hair streams around the head, while a dark navy cape sweeps outward to the right in a broad crescent. A fitted top with pale sleeves, brown belts, small pouches, and layered blue trousers gives the character a practical traveling outfit. Sturdy boots and protective pieces at the knees and wrists are picked out in warm leather and dull gold. The adventurer's hand reaches toward a dark turquoise orb hovering above the left shoulder. The orb has a bright rim and internal speckles, reading as glass or magical energy. Around the lower body, broken stone, wooden fragments, pages from an open book, and curving blue-gray strokes form a circular burst of motion. Thin arc-like lines carry the eye from the orb through the debris and back to the cloak. The face is small but attentive, looking toward the floating sphere. The rendering combines clean anime-like linework with softly painted surfaces: hair strands, folds, leather straps, metal ornaments, and book pages have fine detail, while the white ground remains empty. Light comes from the upper left, illuminating the orb, hair, and pale fabric and casting modest shadows within the layered costume. The composition is weightless but controlled, using a loose circular sweep to keep many flying parts legible without a background setting.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "7f287616be44d5a3246eae31e235b93cc0bba87afef7225709476e6111c392f6",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

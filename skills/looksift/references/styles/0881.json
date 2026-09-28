@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square satirical cartoon illustration shows two older men riding a bulky, low mechanical vehicle through a street lit by orange fire. The forward rider has close gray hair, a heavy white beard, stern brow, and dark jacket; his gloved hands grip a handlebar over a round lamp. Behind him sits a thin hatted man with a long nose and white beard, his legs and coat tails stretched by the motion. The machine's wheels and underside disappear partly into swirling yellow-orange smoke and sparks at the lower edge. Jagged brick buildings and towers rise in the background as orange silhouettes against a deep violet sky. The figures' heads are enlarged and faces closely caricatured, while bodies and vehicle bend into dynamic perspective. Black ink contours, cross-hatching, rough colored-pencil texture, and small white highlights give the scene a hand-worked newspaper-cartoon surface. The fire casts warm underlight onto wheels and trouser legs, but the faces remain readable in cooler neutral tones. The composition moves diagonally from lower left toward upper right, with the bearded foreground face anchoring its urgent energy. It is comic, crowded, and dramatic, with expressive anatomy and visual motion taking priority over mechanical realism.",
+  "full_prompt_zh": "一幅方形讽刺漫画插画描绘两位年长男子骑着粗笨低矮机械车经过橙色火光照亮的街道。前方骑手短灰发、厚白胡子、眉头紧锁、穿深外套，戴手套的手握住圆灯上方车把。后方一位戴帽、长鼻、白胡须的瘦男子随车前进，腿和衣摆被动势拉长。机器轮子和底部部分没入下缘翻卷的黄橙烟与火花。锯齿状砖楼和塔在背景升起，成为深紫天空前的橙色剪影。人物头部放大，脸部紧密夸张，身体与车辆弯入动态透视。黑墨轮廓、交叉排线、粗彩铅肌理与小白高光形成手工作报纸漫画表面。火焰从下照亮车轮与裤腿，脸部仍在较冷中性调子中可读。构图从左下斜向右上运动，前景胡须脸稳定其急迫能量。画面滑稽、拥挤而戏剧化，表现性解剖与视觉运动优于机械真实。",
+  "style_prompt_en": "Energetic editorial cartooning with enlarged expressive forms, forceful diagonal motion, scratchy black ink, tight cross-hatching, and rough colored-pencil fills. Hot orange and yellow underlight clash with violet distance and neutral face tones. White flecks and smoke-like curls amplify motion. The composition stays legible through bold foreground mass and caricatured silhouette despite crowded action.",
+  "style_prompt_zh": "富于能量的社论漫画，以放大的表现性形态、强斜向运动、刮擦黑墨、紧密交叉排线和粗彩铅填色组成。热橙黄下方光撞上紫色远处与中性面色。白碎点和烟卷形增强运动。即使动作拥挤，大胆前景大形与夸张剪影仍保持构图可读。",
+  "theme_en": "Two exaggerated riders on a smoking machine before a purple city",
+  "theme_zh": "两位夸张骑手驾着冒烟机器经过紫色城市",
+  "wh_ratio": "1:1",
+  "id": "0881",
+  "name": "Rick McKee",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/rick-mckee",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/rick-mckee.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "596650aff89bdbb704a5c614dd0581df435ddcfb636edb346a5a159d4b7fde64",
+    "gpt_submission_prompt": "A square satirical cartoon illustration shows two older men riding a bulky, low mechanical vehicle through a street lit by orange fire. The forward rider has close gray hair, a heavy white beard, stern brow, and dark jacket; his gloved hands grip a handlebar over a round lamp. Behind him sits a thin hatted man with a long nose and white beard, his legs and coat tails stretched by the motion. The machine's wheels and underside disappear partly into swirling yellow-orange smoke and sparks at the lower edge. Jagged brick buildings and towers rise in the background as orange silhouettes against a deep violet sky. The figures' heads are enlarged and faces closely caricatured, while bodies and vehicle bend into dynamic perspective. Black ink contours, cross-hatching, rough colored-pencil texture, and small white highlights give the scene a hand-worked newspaper-cartoon surface. The fire casts warm underlight onto wheels and trouser legs, but the faces remain readable in cooler neutral tones. The composition moves diagonally from lower left toward upper right, with the bearded foreground face anchoring its urgent energy. It is comic, crowded, and dramatic, with expressive anatomy and visual motion taking priority over mechanical realism.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "711ac981e4d27e6996d94d99fa642f9af6711ae30d5bdbd24d5304e27500f355",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

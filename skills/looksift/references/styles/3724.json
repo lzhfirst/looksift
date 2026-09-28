@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "An impressionist oil landscape shows a broad river curving through open green country beneath a richly colored, clouded sky. The viewpoint is set on the near bank, where a pale earth path enters from the lower right and bends toward a stand of trees farther back. The river begins at the lower left as a wide, light-reflecting surface, narrows across the middle of the painting, and disappears behind the grassy far bank. Low shrubs and darker tufts break up the foreground; narrow bands of yellow-green and orange catch light along the sloping near shore. At the right, a tall pine with a red-brown trunk rises nearly out of the frame. Its dark spreading crown cuts across the bright upper sky, while shorter rounded trees cluster behind it along the path. Beyond the water, a nearly level line of fields, scattered trees, and blue-green distant ridges holds the horizon low. The sky occupies much of the painting, its turquoise and pale green passages crossed by lavender, pink, and warm peach clouds. Loose, visible strokes move diagonally through the clouds, ripple across the river in cooler blue-white bands, and turn into shorter, denser marks in the grass. Light seems to diffuse through the open sky from the left, brightening the water and warm bands of shore without a single hard-edged shadow. The sweeping river curve, tall dark tree, and lively complementary colors give the scene an expansive yet grounded calm.",
+  "full_prompt_zh": "这是一幅印象派油画风景：宽阔的河流在开阔的绿色乡野间弯曲，头顶是色彩丰富、布满云层的天空。视点落在近岸，一条浅土色小路从右下方进入画面，弯向后方一片树木。河流从左下方较宽的反光水面开始，在画面中部变窄，随后消失在长草的对岸后方。低矮灌木和更深色的草丛打破前景的平整；黄绿色与橙色的细带沿着倾斜的近岸接住光线。右侧一棵高大的松树以红棕色树干几乎冲出画框，深暗而舒展的树冠横切明亮的上方天空；较矮的圆冠树木沿小路聚在它后面。河对岸近乎水平的田地、零散树木与蓝绿色远处山脊，把地平线安置在较低的位置。天空占据画面很大部分，青绿和浅绿色的区域交错着淡紫、粉色与暖桃色的云。松动而可见的笔触斜向掠过云层，在水面形成较凉的蓝白色波纹，又在草地化成更短、更密的笔痕。光似乎从左侧开阔天空漫射而来，使河面与暖色河岸明亮起来，却没有形成一道边缘生硬的阴影。回旋的河湾、高耸的深色树木和活跃的互补色，让景象既舒展又安稳。",
+  "style_prompt_en": "Broken oil-paint strokes keep the surface visibly active, shifting from long diagonal sweeps to short clustered touches and horizontal reflective bands. Turquoise and blue-green set a cool field for peach, orange, lavender, and yellow-green notes. Dark, tall accents anchor broad luminous areas; layered marks suggest depth without smoothing away the paint. Diffuse light spreads through the open upper portion and returns in cooler, fragmented highlights below. Curving pathways and low horizontal bands guide the eye past a strong vertical counterweight, giving the composition buoyant movement and spacious balance.",
+  "style_prompt_zh": "断续的油画笔触让表面持续活跃，在长而斜向的扫笔、短促成簇的点笔与横向反光色带之间转换。青绿和蓝绿色铺出冷色底域，桃色、橙色、淡紫和黄绿色在其中跳出。高而深暗的强调形固定大片明亮区域；层叠笔痕暗示纵深，却不把颜料磨平。漫射光铺开于上部宽敞空间，又在下方形成较凉、碎裂的亮点。弯曲的引导线和低矮的水平色带，让视线经过强烈的竖向重心，使构图既轻快流动又保持开阔平衡。",
+  "theme_en": "River bend beneath a colorful clouded sky",
+  "theme_zh": "彩云天空下的河湾",
+  "wh_ratio": "1:1",
+  "id": "3724",
+  "name": "Armand Guillaumin",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/armand-guillaumin",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "d621b7276c54adb805cc2fd36228a38bd2be61e7d5ac954b5c6cd6c15d29f751",
+    "gpt_submission_prompt": "An impressionist oil landscape shows a broad river curving through open green country beneath a richly colored, clouded sky. The viewpoint is set on the near bank, where a pale earth path enters from the lower right and bends toward a stand of trees farther back. The river begins at the lower left as a wide, light-reflecting surface, narrows across the middle of the painting, and disappears behind the grassy far bank. Low shrubs and darker tufts break up the foreground; narrow bands of yellow-green and orange catch light along the sloping near shore. At the right, a tall pine with a red-brown trunk rises nearly out of the frame. Its dark spreading crown cuts across the bright upper sky, while shorter rounded trees cluster behind it along the path. Beyond the water, a nearly level line of fields, scattered trees, and blue-green distant ridges holds the horizon low. The sky occupies much of the painting, its turquoise and pale green passages crossed by lavender, pink, and warm peach clouds. Loose, visible strokes move diagonally through the clouds, ripple across the river in cooler blue-white bands, and turn into shorter, denser marks in the grass. Light seems to diffuse through the open sky from the left, brightening the water and warm bands of shore without a single hard-edged shadow. The sweeping river curve, tall dark tree, and lively complementary colors give the scene an expansive yet grounded calm.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "fef6c5a4482fbf03acbdde3b1993908721ec8f645568582e9f1585958d4fb552",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square pop-art screenprint crops a woman's face so tightly that the eyes dominate the upper half and only part of the nose and dark lips remain below. The face is turned almost straight toward the viewer. Intense crimson red fills the skin areas, while heavy black shapes define the eyebrows, eyelashes, hairline, nostrils, and lips. The left eye sits near the upper center and is ringed by a smoky black shadow; the second eye approaches the upper-right edge and is partly cut by the frame. Small pale highlights inside the irises give the gaze a sharp, slightly distant presence. At the lower edge, the mouth is visible only in part, with its upper lip and surrounding dark shadow disappearing beyond the crop. The print is not smooth. Dense halftone dots, irregular ink grain, scratches, and uneven pressure break up the red and black fields. In places the crimson looks thin enough for darker underlying texture to show through; elsewhere black ink closes into broad opaque masses. The background is absorbed into hair and shadow rather than separated as a room or setting. No clothing, hands, or props appear. The light in the underlying photograph appears frontal and high, but the print translates it into a simple clash of red midtones, pale eye glints, and deep black. The graphic scale makes a familiar photographic face feel monumental and slightly confrontational. The overall composition is urgent and compressed, with extreme cropping and distressed ink texture carrying as much force as the gaze itself.",
+  "full_prompt_zh": "一幅方形波普丝网印刷把女子面孔裁得极近，使双眼主导上半幅，下方只留下部分鼻子和深色嘴唇。脸几乎正对观众。强烈猩红填满肌肤区域，厚重黑形界定眉毛、睫毛、发际、鼻孔与嘴唇。左眼位于上方中央附近，被烟状黑影包围；另一只眼贴近右上边缘，并被画框截去一部分。虹膜内的小浅色亮点使目光锐利又略显疏离。下缘只看到部分嘴，唇上缘及周围深影消失在裁切之外。印面并不平滑。密集网点、不规则墨粒、刮痕和不均匀压印打散红黑色域。有些地方猩红薄得露出下层暗纹，别处黑墨闭合成宽阔不透明块。背景融入头发与阴影，没有独立的房间或场景。看不到衣服、手或道具。底层照片的光似乎从前上方来，但印刷把它转化为红色中间调、浅色眼光和深黑的简单碰撞。图形化的大尺度使熟悉的摄影面孔显得宏大且略带逼视。整体构图紧迫压缩，极近裁切与磨损墨纹的力量不亚于目光本身。",
+  "style_prompt_en": "Use distressed pop-art screenprinting derived from a high-contrast photograph. Limit the image to saturated crimson, heavy black, and tiny pale highlights. Enlarge the focal crop until features or object parts run beyond the frame, creating graphic pressure. Keep halftone dots, uneven ink density, scratches, and rough edges visible; avoid smooth digital gradients. Let apparent frontal light collapse into hard tonal blocks and sharp glints. The result is bold, imperfect, and confrontational.",
+  "style_prompt_zh": "采用源自高反差照片的磨损波普丝印。把画面限于饱和猩红、厚黑和极少浅色亮点。将焦点放大裁到局部越出边框，形成图形压力。保留网点、不均匀墨色、刮痕和粗边，避免平滑数字渐层。让似正面光的效果压缩成硬色块与锐亮点。整体大胆、不完美，带逼视感。",
+  "theme_en": "A crimson and black halftone close-up of a woman's eyes and face",
+  "theme_zh": "女子眼睛与面孔的猩红黑色网点特写",
+  "wh_ratio": "1:1",
+  "id": "0411",
+  "name": "Russell Young",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/russell-young",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/russell-young.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "c5ac19d4c8db31b57aa2f4ef3bb23ec21fb146f9841d20e9f5a87292d4ababad",
+    "gpt_submission_prompt": "A square pop-art screenprint crops a woman's face so tightly that the eyes dominate the upper half and only part of the nose and dark lips remain below. The face is turned almost straight toward the viewer. Intense crimson red fills the skin areas, while heavy black shapes define the eyebrows, eyelashes, hairline, nostrils, and lips. The left eye sits near the upper center and is ringed by a smoky black shadow; the second eye approaches the upper-right edge and is partly cut by the frame. Small pale highlights inside the irises give the gaze a sharp, slightly distant presence. At the lower edge, the mouth is visible only in part, with its upper lip and surrounding dark shadow disappearing beyond the crop. The print is not smooth. Dense halftone dots, irregular ink grain, scratches, and uneven pressure break up the red and black fields. In places the crimson looks thin enough for darker underlying texture to show through; elsewhere black ink closes into broad opaque masses. The background is absorbed into hair and shadow rather than separated as a room or setting. No clothing, hands, or props appear. The light in the underlying photograph appears frontal and high, but the print translates it into a simple clash of red midtones, pale eye glints, and deep black. The graphic scale makes a familiar photographic face feel monumental and slightly confrontational. The overall composition is urgent and compressed, with extreme cropping and distressed ink texture carrying as much force as the gaze itself.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "1a7a99ddc2655ce0d52ddb0f19f92a0bc7dbcfad8aafd6b80793c3767508dfd0",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square architectural photograph shows a sculptural earthen dwelling with rounded walls and small blue-framed windows beneath a clear deep-blue sky. The building fills the center and right side, its irregular tan surfaces rising in several connected volumes rather than a regular rectangular block. At the far right, a taller section has a softly sloping roofline and a dark small opening near the top. A single bright blue window sits below it, while a recessed wooden door occupies the lower middle under a shallow curved overhang. To the left, thick cylindrical and buttress-like forms step outward, with a narrow blue window set into one rough wall. The plaster looks hand-shaped and coarse, with small pits and horizontal traces that catch the daylight. In front, a broad dusty courtyard extends across the lower frame, its pale stone path leading toward the doorway. A few small shrubs and low plants collect at the base of the walls, and a taller tree rises behind the left part of the structure. Large white clouds stack against the blue sky in the upper left, giving the open background a strong airy contrast to the heavy earth walls. Bright sun from the upper left lights the rounded plaster and leaves clear shadows inside openings and beneath overhangs. The viewpoint is slightly low and frontal, making the connected shapes appear substantial while keeping the ground entrance legible. The overall composition balances warm handworked mass, small cool-blue apertures, and a broad clean sky to make the dwelling feel rooted in its dry setting.",
+  "full_prompt_zh": "这幅方形建筑照片呈现一座雕塑感很强的土质住宅，圆润墙体和小蓝框窗位于清澈深蓝天空下。建筑填满中央和右侧，不规则浅褐表面升成几个相连体量，而非规整矩形。最右侧较高部分有柔斜屋线，靠近顶部有一道小暗开口。其下是一扇明亮蓝窗，较低中央的内凹木门位于浅弧挑檐下。左侧厚圆柱与扶壁状形体逐级向外，一扇窄蓝窗嵌在粗糙墙上。灰泥看起来由手塑成且粗粝，细孔和水平痕迹接住日光。前方宽阔尘土院落横过下方画面，浅色石路通向门口。少量小灌木和低矮植物聚在墙脚，较高树木从建筑左部后方升起。大片白云在左上深蓝天空前堆起，让开放背景与厚重土墙形成强烈空气对照。明亮太阳从左上照亮圆润灰泥，开口内部和挑檐下留下清楚阴影。视点略低而正面，使相连体量显得坚实，同时地面入口仍可读。整体构图平衡温暖手作块体、少数冷蓝开口与宽阔晴空，让住宅扎根于干燥场所。",
+  "style_prompt_en": "The photograph emphasizes hand-shaped, thick earthen volume and rough matte texture under clear daylight. Warm sand, ochre, and straw colors dominate, while small cool-blue recesses and a deep azure field provide precise contrast. Rounded edges and irregular rooflines keep the geometry organic, but strong sunlight makes each mass and opening easy to read. Fine pits and horizontal tool marks remain visible in the near surfaces; shadows collect inside apertures and under projections. A wide pale foreground and broad sky give the heavy central forms breathing room. The result feels grounded, sun-warmed, and materially direct.",
+  "style_prompt_zh": "这种摄影强调清澈日光下手塑般厚重土质体量和粗糙哑光肌理。暖沙色、赭黄与稻草色占主导，少量冷蓝凹处与深蓝大色域提供准确对照。圆润边缘和不规则顶线让几何有机，但强阳光使每块体量和开口都易读。近处表面可见细孔与水平工具痕，阴影聚在孔洞内和突出部下方。宽浅前景与广阔色域给厚实中央形体呼吸空间。结果扎实、受日光温暖，材料表达直接。",
+  "theme_en": "A rounded earthen dwelling with blue windows under a bright sky",
+  "theme_zh": "明亮天空下，一座带蓝窗的圆润土质住宅",
+  "wh_ratio": "1:1",
+  "id": "3055",
+  "name": "Vernacular architecture",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/vernacular-architecture",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "a50828a5927ca00e3d82d43e99cb3ef3700c58912f27f616158d548155a87c82",
+    "gpt_submission_prompt": "A square architectural photograph shows a sculptural earthen dwelling with rounded walls and small blue-framed windows beneath a clear deep-blue sky. The building fills the center and right side, its irregular tan surfaces rising in several connected volumes rather than a regular rectangular block. At the far right, a taller section has a softly sloping roofline and a dark small opening near the top. A single bright blue window sits below it, while a recessed wooden door occupies the lower middle under a shallow curved overhang. To the left, thick cylindrical and buttress-like forms step outward, with a narrow blue window set into one rough wall. The plaster looks hand-shaped and coarse, with small pits and horizontal traces that catch the daylight. In front, a broad dusty courtyard extends across the lower frame, its pale stone path leading toward the doorway. A few small shrubs and low plants collect at the base of the walls, and a taller tree rises behind the left part of the structure. Large white clouds stack against the blue sky in the upper left, giving the open background a strong airy contrast to the heavy earth walls. Bright sun from the upper left lights the rounded plaster and leaves clear shadows inside openings and beneath overhangs. The viewpoint is slightly low and frontal, making the connected shapes appear substantial while keeping the ground entrance legible. The overall composition balances warm handworked mass, small cool-blue apertures, and a broad clean sky to make the dwelling feel rooted in its dry setting.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "e2a84ee1d3d5f79cc17aad8ef291b5c97ca2e87abd5365de209448cde12141cb",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

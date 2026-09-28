@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A whimsical painted scene stretches a long banquet table across a blue-walled dining room, crowded with eccentric guests in formal clothing. Figures with elongated necks, angular noses, and very large eyes sit shoulder to shoulder behind a white tablecloth loaded with plates of food, fruit, bottles, glasses, and small serving dishes. At the far left a chef in a tall white hat stands near the table, while dark suits and ties create a repeating band across the middle. Faces turn in different directions, some solemn and some quietly amused, but no single guest dominates the crowded gathering. The room's cool blue walls are scraped and mottled, with visible brush marks and small warm hanging lights above. Dark wood or deep shadow forms a heavy base below the table, giving the bright cloth and varied dishes a clear horizontal stage. The painting uses loose, textured strokes and intentionally awkward proportions rather than polished cartoon outlines. Skin tones are pale cream and warm ocher, the clothing mostly charcoal and brown, and small red-orange food accents punctuate the cooler field. Light is warm but uneven, concentrated on faces, glassware, and the tabletop while corners remain dark. The composition is broad and rhythmic, its repeating heads and scattered table objects creating a lively social frieze with a slightly melancholic sense of humor.",
+  "full_prompt_zh": "一幅诙谐绘画把一张长宴席桌横铺在蓝墙餐厅里，桌后挤满身着正式服装的怪趣宾客。人物脖颈拉长、鼻子棱角分明、眼睛很大，肩并肩坐在白桌布后；桌上堆满食物、果子、酒瓶、杯子和小碟。最左边一位戴高白帽的厨师站在桌旁，深色西装与领带则在中部形成重复的带状节奏。面孔朝向各异，有些严肃，有些像在暗自发笑，但没有哪一位压倒整个拥挤聚会。房间冷蓝色墙面有刮擦与斑驳，可见笔痕；上方悬着几盏小小的暖光灯。深木色或深影在桌下形成厚重底座，让明亮桌布和各式餐点拥有清楚的水平舞台。绘画使用松散有纹理的笔触和有意笨拙的比例，而非精修的卡通线条。肤色是浅奶油色与暖赭色，服装多为炭灰和棕色，少量红橙食物点破较冷的色场。光线温暖却不均匀，集中于面孔、玻璃器皿与桌面，角落保持昏暗。构图宽而有节奏，反复出现的头部与散落桌物组成热闹的社交长卷，幽默中带一丝忧郁。",
+  "style_prompt_en": "Whimsical figurative painting with elongated proportions, awkward angular forms, large simple features, and loose textured brushwork. A cool scraped blue field sits behind a repeated horizontal rhythm of pale shapes, dark vertical marks, and scattered warm accents. Cream, ocher, charcoal, brown, and small red-orange notes balance the dominant blue. Warm uneven light picks out selected surfaces while the lower band and corners stay deep. Outlines are suggested by contrasting paint rather than perfectly clean ink. The composition feels crowded and sociable, its eccentric repetition carrying both gentle humor and faint melancholy.",
+  "style_prompt_zh": "诙谐的具象绘画风格，比例拉长，形状有些笨拙而棱角分明，简化特征偏大，笔触松散且有纹理。刮擦感冷蓝色场后方，浅色形状、深色竖痕和零散暖色点形成反复的水平节奏。奶油白、赭黄、炭灰、棕色与少量红橙平衡占主导的蓝色。温暖而不均匀的光提起部分表面，下方色带和角落仍深。轮廓由对比色块暗示，而非完美整洁的墨线。构图拥挤而有社交气息，古怪的重复同时带着温和幽默与淡淡忧郁。",
+  "theme_en": "A long banquet of eccentric guests in a blue dining room",
+  "theme_zh": "蓝色餐厅里怪趣宾客的长桌宴席",
+  "wh_ratio": "1:1",
+  "id": "1240",
+  "name": "Guy Buffet",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/guy-buffet",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/guy-buffet.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "3c43b769bba5de50cecc8620d7d67bc3efaad7f5db57fcd589bfee9b1af9a2fc",
+    "gpt_submission_prompt": "A whimsical painted scene stretches a long banquet table across a blue-walled dining room, crowded with eccentric guests in formal clothing. Figures with elongated necks, angular noses, and very large eyes sit shoulder to shoulder behind a white tablecloth loaded with plates of food, fruit, bottles, glasses, and small serving dishes. At the far left a chef in a tall white hat stands near the table, while dark suits and ties create a repeating band across the middle. Faces turn in different directions, some solemn and some quietly amused, but no single guest dominates the crowded gathering. The room's cool blue walls are scraped and mottled, with visible brush marks and small warm hanging lights above. Dark wood or deep shadow forms a heavy base below the table, giving the bright cloth and varied dishes a clear horizontal stage. The painting uses loose, textured strokes and intentionally awkward proportions rather than polished cartoon outlines. Skin tones are pale cream and warm ocher, the clothing mostly charcoal and brown, and small red-orange food accents punctuate the cooler field. Light is warm but uneven, concentrated on faces, glassware, and the tabletop while corners remain dark. The composition is broad and rhythmic, its repeating heads and scattered table objects creating a lively social frieze with a slightly melancholic sense of humor.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "3882b20ee5036f9348f38bdd700b66fff247f7f1706b11eaa84660d808b3cd64",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

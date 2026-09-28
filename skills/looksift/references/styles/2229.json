@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white editorial photograph catches a young woman turning toward the camera at a social gathering. She wears a dark tailored jacket and a broad black hat tilted across her forehead, with a fine net veil grazing one side of her face. Her light hair is arranged in soft rolled waves at the back. One hand rises near her mouth, and her wide eyes meet the lens with a surprised, watchful expression. The near figure fills the right and central frame; behind her, arched architectural openings, blurred guests, and a pale basket-like form at the lower left establish a busy but indistinct setting. Soft daylight from the left illuminates her eyes, cheek, and fingers, leaving the underside of the hat and dark jacket in deeper shadow. The focus is sharp on the face and hand, then falls off rapidly into rounded background blur. Fine print grain, gentle silver-grey midtones, and a few crisp black accents give the image a tactile magazine-photograph surface. The hat's sweeping diagonal and the raised hand make a small frame around the luminous face, while the arched background repeats softer curves. No readable lettering is visible. The overall composition feels immediate and poised, combining public bustle with a private moment of direct attention.",
+  "full_prompt_zh": "一张方形黑白编辑摄影，在社交聚会中捕捉一名年轻女子转向镜头。她穿深色合身外套，宽黑帽斜压额头，细网纱轻掠脸的一侧。浅色头发在脑后卷成柔软波浪。一只手举到嘴边，睁大的眼睛直对镜头，神情惊讶而警觉。近处人物占据中央和右侧画幅；身后，拱形建筑开口、模糊宾客和左下一个浅色篮状形，建立忙碌却不清晰的环境。柔和日光从左侧照亮眼睛、脸颊和手指，使帽檐下与深色外套留在更深阴影中。焦点在脸和手上锐利，随后迅速落入圆润的背景模糊。细冲印颗粒、柔银灰中间调与少数清晰黑色重音，使图像有可触的杂志照片表面。帽子扫出的对角线与举起的手给发亮的脸构成小框，背景拱形重复较软的曲线。没有可辨认文字。整体构图即时而端庄，把公共场合的喧闹与私密的直接注视结合。",
+  "style_prompt_en": "A black-and-white editorial photographic surface holds crisp luminous detail in a close central area against rapidly softened surroundings. Fine print grain and silver-grey midtones bridge pale highlights and a few decisive black shapes. Side daylight catches narrow smooth planes and leaves overhanging forms in deeper shadow. A strong dark diagonal sweeps across repeated softer curves, creating movement within a balanced square crop. Shallow focus turns distant activity into rounded blur while preserving tactile detail at the focal point. The tonal language is candid yet poised, intimate without isolating the scene from its wider ambience.",
+  "style_prompt_zh": "黑白编辑摄影表面把清晰发亮的细节留在贴近的中央区域，周围迅速柔化。细冲印颗粒和银灰中间调连接浅高光与少数果断黑形。侧日光照到狭窄平滑平面，让悬在上方的形留在深影中。一道强深色对角线扫过反复的较软曲线，在平衡的方形裁切中形成运动。浅景深把远处活动化成圆润模糊，焦点处仍保留触感细节。明暗语言随性而端庄，亲密却不切断更宽的环境气息。",
+  "theme_en": "A candid portrait under a veiled hat at a social gathering",
+  "theme_zh": "社交聚会中戴薄纱帽的随性肖像",
+  "wh_ratio": "1:1",
+  "id": "2229",
+  "name": "Nina Leen",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/nina-leen",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/nina-leen.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "3ae8ec987c592c972c091fb684cd41337025c3a70bcba5c5f1769eafdd1aed92",
+    "gpt_submission_prompt": "A square black-and-white editorial photograph catches a young woman turning toward the camera at a social gathering. She wears a dark tailored jacket and a broad black hat tilted across her forehead, with a fine net veil grazing one side of her face. Her light hair is arranged in soft rolled waves at the back. One hand rises near her mouth, and her wide eyes meet the lens with a surprised, watchful expression. The near figure fills the right and central frame; behind her, arched architectural openings, blurred guests, and a pale basket-like form at the lower left establish a busy but indistinct setting. Soft daylight from the left illuminates her eyes, cheek, and fingers, leaving the underside of the hat and dark jacket in deeper shadow. The focus is sharp on the face and hand, then falls off rapidly into rounded background blur. Fine print grain, gentle silver-grey midtones, and a few crisp black accents give the image a tactile magazine-photograph surface. The hat's sweeping diagonal and the raised hand make a small frame around the luminous face, while the arched background repeats softer curves. No readable lettering is visible. The overall composition feels immediate and poised, combining public bustle with a private moment of direct attention.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "fe35b18cab93f58ef737b26a89b2f0d462830caa1d0dcf866a322178d82513fa",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

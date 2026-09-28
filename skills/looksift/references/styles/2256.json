@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square minimalist poster illustration shows a huge flat red circle behind the black silhouette of a leafless tree. The circle is centered and fills most of the frame, leaving a broad warm cream margin at the top and sides. A thick dark trunk rises from a ragged mound at the bottom center, branching into many fine twisting twigs that spread across the red field. At the lower left of the tree, a lone small person stands on a narrow path or ledge, facing into the scene. Dark silhouettes of houses with pitched roofs appear faintly at the lower sides of the circle, suggesting a village beyond the tree. A tiny bird crosses the upper left red area. The bottom edge is crowded with black thorns, broken branches, and a low angular structure that supports the mound. The red disk has subtle dark scuffs and uneven pigment near its lower edge, but most of its area remains clean and saturated. The cream ground is almost blank, emphasizing the graphic simplicity. There is no modeled directional light; the circle acts as a visual sun or glowing backdrop, turning the tree and person into solid black cutouts. Fine branch lines provide intricate texture against the broad red mass. The composition is nearly symmetrical around the trunk, offset by the solitary person and slight irregularity of the branches. Strong scale contrast and limited red, black, and cream color make the scene stark, quiet, and cinematic.",
+  "full_prompt_zh": "一幅方形极简海报插画把巨大的平涂红圆放在一棵无叶树的黑剪影后面。圆居中，填满画幅大部，顶部和两侧留有宽暖奶油色边。粗深树干从底部中央的破碎土丘升起，分叉出许多纤细扭曲枝梢，铺满红色色域。树左下，一个独自小人站在狭窄小路或高台上，朝画内望去。红圆下部两侧隐约有斜屋顶房屋的深剪影，暗示树后村落。上部左侧红色区域掠过一只极小飞鸟。下缘挤满黑荆棘、断枝和承托土丘的低矮棱角结构。红圆下缘有微妙深擦痕与不均颜料，但大部分面积干净、饱和。奶油底色几乎空白，突出图形简洁性。没有塑形的定向光；红圆充当视觉太阳或发光背景，把树和人压成实黑剪纸。细枝线在宽阔红色团块前提供繁密肌理。构图沿树干近乎对称，孤独人物和枝条轻微不规则打破平衡。强尺度对比和仅红、黑、奶油色三色令场景严峻、安静、电影化。",
+  "style_prompt_en": "A minimalist screen-print-like illustration is built from one enormous saturated red disk, solid near-black cutout shapes, and generous warm-cream negative space. A strong vertical center branches into a dense network of hairline dark curves, contrasting with the unbroken color field behind it. Small silhouettes near the lower edge establish scale, while a ragged dark base prevents the geometry from becoming sterile. Edges are mostly sharp, but faint scuffs and irregular pigment at the red boundary preserve a handmade printed surface. Lighting is symbolic rather than modeled; the red area reads as a luminous backdrop without gradients or cast shadows. The composition is nearly symmetrical, lightly disturbed by off-center miniature accents and uneven fine lines. Restricted color and dramatic size contrast give it a stark, contemplative rhythm.",
+  "style_prompt_zh": "极简丝网印刷感插画由一个巨大饱和红圆、实心近黑剪纸形和宽裕暖奶油负空间构成。强竖向中心向外分出发丝般密集深曲线网络，对照后方连续大色域。下缘小剪影建立尺度，参差深色基底阻止几何变得无机。边缘大多锐利，红色边界淡淡擦损与不均颜料仍保留手工印制表面。光是象征性的，而非塑形的；红区像发亮背景，却没有渐变或投影。构图近乎对称，由偏侧微小重音和不规则细线轻轻扰动。有限颜色与戏剧性尺寸对比形成严峻而沉思的节奏。",
+  "theme_en": "A bare tree and lone figure silhouetted against a giant red circle",
+  "theme_zh": "巨大的红圆前，一棵枯树和独自行影形成剪影",
+  "wh_ratio": "1:1",
+  "id": "2256",
+  "name": "Olly Moss",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/olly-moss",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/olly-moss.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "5ce864023189dd7f8fc1fa5778aa82b35b806243630a5b63b68c822496c68b52",
+    "gpt_submission_prompt": "A square minimalist poster illustration shows a huge flat red circle behind the black silhouette of a leafless tree. The circle is centered and fills most of the frame, leaving a broad warm cream margin at the top and sides. A thick dark trunk rises from a ragged mound at the bottom center, branching into many fine twisting twigs that spread across the red field. At the lower left of the tree, a lone small person stands on a narrow path or ledge, facing into the scene. Dark silhouettes of houses with pitched roofs appear faintly at the lower sides of the circle, suggesting a village beyond the tree. A tiny bird crosses the upper left red area. The bottom edge is crowded with black thorns, broken branches, and a low angular structure that supports the mound. The red disk has subtle dark scuffs and uneven pigment near its lower edge, but most of its area remains clean and saturated. The cream ground is almost blank, emphasizing the graphic simplicity. There is no modeled directional light; the circle acts as a visual sun or glowing backdrop, turning the tree and person into solid black cutouts. Fine branch lines provide intricate texture against the broad red mass. The composition is nearly symmetrical around the trunk, offset by the solitary person and slight irregularity of the branches. Strong scale contrast and limited red, black, and cream color make the scene stark, quiet, and cinematic.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "d43fbd2e154dc2a4ff78cecc1c7e9ba217c4c0659883dabace3da61d00d6657d",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

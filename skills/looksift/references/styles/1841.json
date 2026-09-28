@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square oil-like portrait places a young woman at the center of a dim brown room, seated facing the viewer. She has a pale, softly lit face, large dark eyes, and a small closed mouth. Her dark hair is parted exactly in the middle and gathered into smooth rounded forms on either side of her head. She wears a long-sleeved deep red dress with a broad neckline trimmed in a delicate grayish lace. A nearly black cat sits upright in her lap, its pointed ears and bright small eyes visible against the dark cloth. The woman's hands rest gently together below the cat, fingers loosely crossed. At the lower right, a cluster of old-fashioned cream and dusty rose flowers with dark leaves presses into the frame. Behind her, the plain umber wall has faint shadowy floral or branch marks, most visible to the right of her head. Warm light falls from the front left, lifting the face, throat, hands, and edges of the dress out of the brown surrounding darkness. The brushwork is smooth on the skin and slightly more textured in the flowers and background. The portrait is frontal and nearly symmetrical, but the flower cluster and subtle turn of the shoulders break that balance. The mood is still, intimate, and faintly mysterious, with the cat forming a dark central shape between the sitter and viewer.",
+  "full_prompt_zh": "一幅方形油画感肖像把一位年轻女子置于昏暗棕色房间中央，坐着正对观者。她的脸色浅而受柔光照亮，眼睛大且深，嘴唇小而闭合。深色头发正中分缝，两侧梳成平滑圆鼓的形状。她身穿长袖深红连衣裙，宽领口以纤细灰色蕾丝镶边。一只近乎黑色的猫直立坐在膝上，尖耳和小而明亮的眼睛在深色衣料前可辨。她的双手轻轻交叠在猫下方，手指松弛地交叉。右下角，一簇带深叶的旧式奶油色与灰玫瑰色花朵挤入画面。身后素棕色墙壁带隐约花枝影痕，在头部右侧更明显。暖光从正面偏左落下，将脸、颈、双手和裙子的边缘从周围棕暗中提出来。皮肤笔触平滑，花和背景则稍有更多质感。肖像正面且近乎对称，但花簇和肩部的细微转向打破均衡。气氛静止、亲密，又略带神秘；猫在人物与观者之间构成中央深色形体。",
+  "style_prompt_en": "Create a softly modeled, oil-painted portrait with a restrained antique palette: warm umber and olive shadow, deep wine red, muted cream, and pale skin tones. Keep a central, composed arrangement with a calm gaze and gently clasped hands, while one off-center cluster or accent prevents rigid symmetry. Illumination is warm and focused on face and hands, with surrounding forms sinking gradually into velvety darkness. Use smooth transitions on skin, finer details around eyes and lips, and more broken textured paint in decorative edges and the backdrop. Dark masses should retain subtle shape rather than collapse into flat black. Slightly aged surface texture and faint background markings add depth without distraction. The transferable effect is intimate, poised, and quietly uncanny, created through stillness, warm chiaroscuro, and delicate material contrast.",
+  "style_prompt_zh": "创作柔和塑形的油画肖像，采用克制的古典色盘：暖棕与橄榄色阴影、深酒红、柔和奶油色和浅肤色。布局居中而端正，目光安静、双手轻拢，同时以一处偏心的装饰或重点避免僵硬对称。暖光集中在脸与手，周围形状逐渐沉入丝绒般的暗部。皮肤用平滑过渡，眼唇附近细节更精细，装饰边缘与背景则用较破碎的有纹理笔触。深色块仍保留细微形状，不坍缩成平黑。略显陈旧的表面肌理和背景隐约的纹样增加纵深而不分散注意。可迁移的效果是亲密、端庄且悄然奇异，由静止、暖色明暗法与纤细的材质对比共同形成。",
+  "theme_en": "A young woman in a deep red dress cradles a black cat",
+  "theme_zh": "一位身穿深红连衣裙的年轻女子怀抱黑猫",
+  "wh_ratio": "1:1",
+  "id": "1841",
+  "name": "Stephen Mackey",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/stephen-mackey",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/stephen-mackey.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "595046274515a9d94ed946d25cf5b2c6291c9fbdefe05e6e3d2e284932586f46",
+    "gpt_submission_prompt": "A square oil-like portrait places a young woman at the center of a dim brown room, seated facing the viewer. She has a pale, softly lit face, large dark eyes, and a small closed mouth. Her dark hair is parted exactly in the middle and gathered into smooth rounded forms on either side of her head. She wears a long-sleeved deep red dress with a broad neckline trimmed in a delicate grayish lace. A nearly black cat sits upright in her lap, its pointed ears and bright small eyes visible against the dark cloth. The woman's hands rest gently together below the cat, fingers loosely crossed. At the lower right, a cluster of old-fashioned cream and dusty rose flowers with dark leaves presses into the frame. Behind her, the plain umber wall has faint shadowy floral or branch marks, most visible to the right of her head. Warm light falls from the front left, lifting the face, throat, hands, and edges of the dress out of the brown surrounding darkness. The brushwork is smooth on the skin and slightly more textured in the flowers and background. The portrait is frontal and nearly symmetrical, but the flower cluster and subtle turn of the shoulders break that balance. The mood is still, intimate, and faintly mysterious, with the cat forming a dark central shape between the sitter and viewer.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "09bc37be07627d248959c18ff11538e316deadd2a18a9f9308b833a207e9556e",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

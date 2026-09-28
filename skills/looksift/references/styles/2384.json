@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square cinematic landscape photograph shows an old stone monastery or fortified chapel on a rocky hill above a winding river in a steep mountain valley. The background is filled with tall jagged mountains, their nearest faces warm brown and charcoal while successive ridges become paler in the haze. A soft peach and lavender sky opens along the upper left, with thin clouds catching the low light. The building complex sits on the right side of the middle ground. Its compact masonry walls, pointed roof, and narrow tower rise from a dry ochre slope dotted with sparse shrubs. A small ruined wall or outlying stone structure lies lower on the same ridge. The river enters from the left foreground, curves past gray stones, and disappears into the shadowed gap between mountains. Dark grasses and uneven rocks line the near bank, providing a textured base. The monastery and sunward cliff edges glow in copper and gold, while the river and the left valley wall remain cool gray-blue. The light is low and directional from the left, laying a broad warm band across the ridges and leaving deep folds in shadow; the water reflects only a little of the pale sky. Atmospheric haze separates the distant peaks without removing their sharp upper profiles. The overall composition is expansive and contemplative, using the river's curve to draw the eye from a dark foreground toward the sunlit stone landmark and layered mountains.",
+  "full_prompt_zh": "这是一幅方形电影感风景摄影，一座古老石砌修道院或设防礼拜堂立在岩丘上，俯瞰陡峭山谷中的蜿蜒河流。背景充满高耸崎岖山脉，最近山面呈暖褐与炭色，层层山脊在薄雾中逐渐变浅。左上方展开柔和桃色与淡紫天空，薄云接住低角度光。建筑群坐落中景右侧，紧凑石墙、尖屋顶和窄塔从稀疏灌木点缀的干燥赭色坡地上升起。较低处同一山脊上有一道小残墙或外围石构。河流从左侧前景进入，绕过灰石，消失在山间阴影缝隙。深色草丛与不平石块沿近岸排布，形成带肌理的底座。修道院与朝阳的峭壁边缘泛出铜金色，河水和左侧谷壁则保持冷灰蓝。光从左侧低处定向照来，在山脊上铺出宽阔暖色带，让深凹处留在阴影中；水面只反射少量浅色天空。大气薄雾分开远峰，却没有抹掉其锐利上缘。整体构图开阔而沉思，以河流曲线引导视线从深暗前景走向受光石构和层叠群山。",
+  "style_prompt_en": "The photograph has a cinematic landscape finish built from large tonal planes, clear geological texture, and layered atmospheric depth. Copper, ochre, and muted rose highlights meet charcoal, slate blue, and pale lavender shadow. Low directional light cuts across raised surfaces, while deep recesses remain cool and dense. Distant forms fade progressively through haze but retain a readable silhouette; foreground textures stay more tactile and contrasty. A curving low-value passage can lead through the frame toward a compact warm focal area. The image is crisp where rock and structure meet light, softer in cloud and far distance. The overall mood is grand, quiet, and slightly ancient.",
+  "style_prompt_zh": "摄影具有电影感风景完成面，由大块明暗平面、清楚的地质肌理和层叠大气纵深构成。铜色、赭色与低调玫瑰色高光遇上炭色、石板蓝和浅紫阴影。低角度定向光横切抬起的表面，深凹处仍冷而浓。远处形体透过薄雾逐层变淡，却保留可读剪影；前景肌理更可触、对比更强。一条弯曲低明度通道可以引导视线穿过画框，走向紧凑暖色焦点。岩石和坚实体块受光处图像清晰，云与远处则更柔。整体氛围宏大、安静，略有古老感。",
+  "theme_en": "A stone monastery above a river in a steep mountain valley",
+  "theme_zh": "陡峭山谷中俯瞰河流的石砌修道院",
+  "wh_ratio": "1:1",
+  "id": "2384",
+  "name": "Daniel Kordan",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/daniel-kordan",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/daniel-kordan.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "1c4c18100a6140cb0065e923197e84e20c89217a63a5f833b01e492de0405df0",
+    "gpt_submission_prompt": "A square cinematic landscape photograph shows an old stone monastery or fortified chapel on a rocky hill above a winding river in a steep mountain valley. The background is filled with tall jagged mountains, their nearest faces warm brown and charcoal while successive ridges become paler in the haze. A soft peach and lavender sky opens along the upper left, with thin clouds catching the low light. The building complex sits on the right side of the middle ground. Its compact masonry walls, pointed roof, and narrow tower rise from a dry ochre slope dotted with sparse shrubs. A small ruined wall or outlying stone structure lies lower on the same ridge. The river enters from the left foreground, curves past gray stones, and disappears into the shadowed gap between mountains. Dark grasses and uneven rocks line the near bank, providing a textured base. The monastery and sunward cliff edges glow in copper and gold, while the river and the left valley wall remain cool gray-blue. The light is low and directional from the left, laying a broad warm band across the ridges and leaving deep folds in shadow; the water reflects only a little of the pale sky. Atmospheric haze separates the distant peaks without removing their sharp upper profiles. The overall composition is expansive and contemplative, using the river's curve to draw the eye from a dark foreground toward the sunlit stone landmark and layered mountains.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "229d6d3c1f33a2b3580aa5fbc7d5cf1e11f6d19d577db71437ff3efe3bd897d6",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

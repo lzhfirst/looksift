@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A black-and-white ink landscape shows a wooded ridge rising through drifting mountain mist. Tall, slender pines stand in uneven groups along the crest, their dark needles and trunks interrupting pale vapor. A rocky slope descends diagonally toward a faint open path or watercourse at the lower right. Behind the trees, softened mountain forms appear and vanish in layered white space. The scene contains no people or buildings; scale comes from the relative height of the pines and the breadth of the fog-filled valley.\n\nThe image uses varied concentrations of ink on an ivory paper ground. Dark dry strokes and dense stippled marks build the near trees and shrubs, while diluted washes make the distant peaks almost weightless. The strongest blacks gather low and left, balancing the broad blank sky and mist to the right. Branches have sharp calligraphic tips, yet many edges dissolve where ink meets moisture. The ridge's diagonal provides movement, while scattered tree groups create a syncopated vertical rhythm. Light is implied by the untouched paper and the white fog that rises between dark forms. The painting feels quiet and expansive, with tactile brushwork and deliberate empty space. There is no readable calligraphy or text in the selected panel.",
+  "full_prompt_zh": "一幅黑白水墨风景描绘一条树木覆盖的山脊从流动山雾中升起。高而细的松树沿山脊不均匀地成群站立，深色针叶和树干切开浅色雾气。岩坡沿对角线向右下方淡淡的通路或水道下降。树后，柔化山形在层层白色空间中忽隐忽现。场景没有人或建筑；尺度来自松树的相对高度与雾谷的宽度。\n\n图像在象牙色纸底上使用浓淡不一的墨。深色干笔和密集点笔堆起近处树木灌丛，稀释薄涂使远峰近乎失重。最强黑色聚在左下，平衡右边宽阔留白的天空与雾。枝梢有尖锐书法性笔端，但许多边缘在墨遇水处融化。山脊对角线提供运动，散布的树群建立切分的竖向节奏。光由未触碰的纸色和在暗形之间上升的白雾暗示。绘画安静而辽阔，笔刷可触，留白有意。所选画面没有可辨认书法或文字。",
+  "style_prompt_en": "Concentrated black ink and diluted grey wash share an ivory paper ground. Dark dry strokes and stippled texture gather along a diagonal lower ridge, while distant forms become almost weightless in broad misty white space. Slender vertical clusters rise at irregular intervals, their sharp calligraphic tips alternating with edges softened by moisture. The deepest values collect on one side and low in the frame, leaving generous pale air above and opposite. Light comes from untouched paper rather than an illustrated source. The rhythm is quiet but varied, with tactile brush drag, layered wash, and deliberate emptiness giving the composition expansive mountain depth.",
+  "style_prompt_zh": "浓黑墨和稀释灰洗共同落在象牙色纸底上。深色干笔与点状纹理沿下方对角山脊聚集，远方形体在宽阔雾白空间里变得几乎失重。纤细竖向团簇以不规则间隔升起，尖锐书法性笔端与受潮柔化的边缘交替。最深明度集中在一侧和下部，给上方及对侧留下充足浅色空气。光来自未落笔的纸，而非画出的光源。节奏安静却富于变化，可触的拖笔、分层薄墨和有意留白赋予构图辽阔山地深度。",
+  "theme_en": "Pines disappearing into mountain mist",
+  "theme_zh": "松林隐入山雾",
+  "wh_ratio": "1:1",
+  "id": "3219",
+  "name": "Fu Baoshi",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/fu-baoshi",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "ae6d5791b4dacc2c592208952818f997ccbf2a41b0ff18a8716c47e6ea2477a9",
+    "gpt_submission_prompt": "A black-and-white ink landscape shows a wooded ridge rising through drifting mountain mist. Tall, slender pines stand in uneven groups along the crest, their dark needles and trunks interrupting pale vapor. A rocky slope descends diagonally toward a faint open path or watercourse at the lower right. Behind the trees, softened mountain forms appear and vanish in layered white space. The scene contains no people or buildings; scale comes from the relative height of the pines and the breadth of the fog-filled valley.\n\nThe image uses varied concentrations of ink on an ivory paper ground. Dark dry strokes and dense stippled marks build the near trees and shrubs, while diluted washes make the distant peaks almost weightless. The strongest blacks gather low and left, balancing the broad blank sky and mist to the right. Branches have sharp calligraphic tips, yet many edges dissolve where ink meets moisture. The ridge's diagonal provides movement, while scattered tree groups create a syncopated vertical rhythm. Light is implied by the untouched paper and the white fog that rises between dark forms. The painting feels quiet and expansive, with tactile brushwork and deliberate empty space. There is no readable calligraphy or text in the selected panel.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "d79da8b75991c4e22f8cf63e3dff5c5ae093552ab62d98006d1dca2a80abb79c",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

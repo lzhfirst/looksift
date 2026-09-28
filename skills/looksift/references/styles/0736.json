@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white ink illustration places an enormous cat at the edge of a miniature coastal world. The cat fills the lower left, its nearly solid black head emerging from a dark, rough vertical mass behind it. Two triangular ears cut into the sky, and its large circular eyes are left almost entirely white, with no visible pupils. A small pale muzzle, triangular nose, fine whiskers, and broad white forepaws soften the otherwise dense silhouette. The ground under those paws is packed with individually outlined rounded stones that diminish toward a narrow horizon. Several tiny creatures or figures scatter among the rocks, emphasizing the comic shift in scale. Farther back, a small boat sits on the water to the right, while birds cross the pale opening beneath voluminous white clouds. The upper sky is filled with closely spaced horizontal hatching, and the dark wall or tree-like mass at left is built from dense flecks and stippled marks. Clean white paper shows through the eyes, paws, clouds, and distant water, creating lively contrast with the heavily inked foreground. Light feels like bright overcast daylight, described entirely through reserved whites and layered marks. The result is meticulous yet playful: a strange, calm animal encounter arranged like an engraved storybook scene.",
+  "full_prompt_zh": "一幅方形黑白钢笔画把一只巨猫放在微缩海岸世界的边缘。猫占据左下方，近乎纯黑的头部从后方粗糙而深暗的竖向形体中探出。两只三角耳朵切入天空，大而圆的眼睛几乎完全留白，没有可见瞳孔。浅色的小嘴套、三角鼻、纤细胡须与宽大的白色前爪，柔化了其余部分密实的剪影。爪下地面由逐颗描出的圆石铺满，石块向窄窄的地平线逐渐缩小。几只微小生物或人物散落石间，突显滑稽的比例变化。更远处右侧水面上有一艘小船，飞鸟穿过蓬松白云下方的明亮空隙。上方天空由紧密平行的横向排线填充，左侧深暗的墙面或树状体则由密集斑点和点描构成。洁白纸面透过双眼、爪子、云朵及远处水面显露出来，与重墨前景形成活跃对比。光线近似明亮阴天，只通过保留的白色和层叠线痕表现。整体细致又诙谐，像一幅版画故事书插图般安排奇异而平静的相遇。",
+  "style_prompt_en": "The illustration is built entirely from black ink and reserved white paper, using fine outlines, compact stippling, short crosshatching, and parallel tonal strokes. Heavily saturated dark regions anchor the composition, while open white shapes create crisp graphic rhythm and exaggerated depth. Tiny meticulously drawn textures remain legible beside broad simplified silhouettes. Scale relationships feel quietly surreal, yet the spatial recession is carefully structured by shrinking marks and a narrow horizon. An engraved storybook sensibility combines technical patience with deadpan humor. The finish is dry, tactile, and high contrast, with no color or soft digital glow.",
+  "style_prompt_zh": "插画完全由黑墨与保留的白纸构成，使用细轮廓、紧密点描、短交叉排线和平行调子线。饱满的深色区域稳定构图，开放的白色形状带来鲜明的图形节奏和夸张纵深。细小而精心描绘的纹理与大块简化剪影并置，依然清晰可读。尺度关系安静地带有超现实意味，空间后退却由逐渐缩小的线痕和狭窄地平线严谨组织。版画故事书的气质将耐心技法与冷面幽默结合。画面干燥、可触、对比强烈，没有色彩或柔软的数字光晕。",
+  "theme_en": "A giant black-and-white cat with blank glowing eyes peers across a tiny rocky seashore in a whimsical monochrome ink illustration.",
+  "theme_zh": "一只双眼雪白、体形巨大的黑白猫伏在微缩海岸旁，以奇想单色钢笔画呈现。",
+  "wh_ratio": "1:1",
+  "id": "0736",
+  "name": "B. Kliban",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/b-kliban",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/b-kliban.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "de96578a707df1c6a2bb9978f4d33ad2bdf3e13a2d8123e148838de68baed290",
+    "gpt_submission_prompt": "A square black-and-white ink illustration places an enormous cat at the edge of a miniature coastal world. The cat fills the lower left, its nearly solid black head emerging from a dark, rough vertical mass behind it. Two triangular ears cut into the sky, and its large circular eyes are left almost entirely white, with no visible pupils. A small pale muzzle, triangular nose, fine whiskers, and broad white forepaws soften the otherwise dense silhouette. The ground under those paws is packed with individually outlined rounded stones that diminish toward a narrow horizon. Several tiny creatures or figures scatter among the rocks, emphasizing the comic shift in scale. Farther back, a small boat sits on the water to the right, while birds cross the pale opening beneath voluminous white clouds. The upper sky is filled with closely spaced horizontal hatching, and the dark wall or tree-like mass at left is built from dense flecks and stippled marks. Clean white paper shows through the eyes, paws, clouds, and distant water, creating lively contrast with the heavily inked foreground. Light feels like bright overcast daylight, described entirely through reserved whites and layered marks. The result is meticulous yet playful: a strange, calm animal encounter arranged like an engraved storybook scene.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "e8532c9c8e7f3ce0b4e1ee076a090e90a6f084fb5e6f48cfadd24db2337b00ca",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

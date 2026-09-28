@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white photographic portrait shows a bearded man in close side profile, head tilted upward and eyes closed against a nearly black background. The backdrop is a soft charcoal field with no identifiable place, brighter in a faint halo behind the upper head and darkening toward the right and lower edges. The man fills the left and middle of the frame, the crown of his shaved head near the upper edge. His nose points to the left and the closed eyelid forms a small pale curve beneath a strongly lit brow. A full gray-flecked beard spreads from the jaw and chin, its individual coarse hairs catching silver light along the lower left. The ear remains visible on the dark side of the head, while the neck descends into a thick scarf or high-collared garment. His shoulders and upper chest occupy the lower right, largely absorbed into black fabric with only a few faint seam and fold highlights. The lifted posture and relaxed mouth give the expression a private, reflective quality. Side light from the upper left grazes the forehead, cheek and beard, leaving the underside of the nose, neck and far shoulder in deep shadow. Fine grain remains in the middle tones, and the skin shows natural texture rather than a polished surface. The overall composition isolates the upward face and luminous beard within deep darkness, creating a quiet image of breath, pause and concentrated feeling.",
+  "full_prompt_zh": "这幅方形黑白摄影肖像里，一位留胡子的男子以近距离侧脸闭眼仰头，身后近乎全黑。背景是柔和炭灰色域，没有可辨地点，头部上方后面有微弱亮晕，向右缘和下缘渐暗。男子填满左侧与中部，剃短的头顶靠近上缘。鼻子指向左侧，闭合眼睑在强受光眉下形成一条浅亮小弧。夹灰白的浓胡须从下颌和下巴铺出，单根粗毛在左下沿接住银光。耳朵在头部暗侧仍可见，脖子向下没入厚围巾或高领衣服。肩膀和上胸占据右下，大多被黑布吞没，只剩几道微弱衣缝与褶皱亮痕。抬起的姿态与放松的嘴，让神情显得私密沉思。来自左上的侧光擦过额头、面颊与胡须，让鼻下、颈部和远肩留在深影中。中间调仍保留细颗粒，皮肤有自然肌理，而非抛光表面。整体构图把仰起的脸与发亮胡须孤立在深暗里，形成关于呼吸、停顿和凝聚情绪的安静图像。",
+  "style_prompt_en": "The monochrome photograph relies on deep charcoal, selective silver highlights and finely resolved surface texture. Directional side light catches raised contours and coarse fibers, while broad dark areas swallow the far edges without losing the main silhouette. Midtones are narrow and softly grained rather than glossy or heavily retouched. The close crop removes context and gives a small relaxed gesture unusual visual weight. A faint background lift separates the central form from the near-black field. The result is intimate and contemplative, with tonal restraint and tactile detail carrying the emotional force.",
+  "style_prompt_zh": "这种单色摄影依靠深炭色、经过选择的银色高光和精细分辨的表面肌理。定向侧光接住凸起轮廓与粗纤维，宽阔暗区吞没远边，却不损失主要剪影。中间调狭窄且带柔颗粒，而非光亮或过度修饰。近距离裁切去掉环境，使微小放松动作获得不寻常的视觉重量。背景一点浅亮变化把中央形体从近黑色域中分开。成品亲密而沉思，克制调性与可触细节承担情绪力量。",
+  "theme_en": "A bearded man tilting his face upward with eyes closed in deep shadow",
+  "theme_zh": "一位留胡子的男子在深影中闭眼仰起面孔",
+  "wh_ratio": "1:1",
+  "id": "3848",
+  "name": "Bradford Young",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/bradford-young",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "f2d92376963797588391f269c4f594464412d3407d692deec647709ca399a148",
+    "gpt_submission_prompt": "A square black-and-white photographic portrait shows a bearded man in close side profile, head tilted upward and eyes closed against a nearly black background. The backdrop is a soft charcoal field with no identifiable place, brighter in a faint halo behind the upper head and darkening toward the right and lower edges. The man fills the left and middle of the frame, the crown of his shaved head near the upper edge. His nose points to the left and the closed eyelid forms a small pale curve beneath a strongly lit brow. A full gray-flecked beard spreads from the jaw and chin, its individual coarse hairs catching silver light along the lower left. The ear remains visible on the dark side of the head, while the neck descends into a thick scarf or high-collared garment. His shoulders and upper chest occupy the lower right, largely absorbed into black fabric with only a few faint seam and fold highlights. The lifted posture and relaxed mouth give the expression a private, reflective quality. Side light from the upper left grazes the forehead, cheek and beard, leaving the underside of the nose, neck and far shoulder in deep shadow. Fine grain remains in the middle tones, and the skin shows natural texture rather than a polished surface. The overall composition isolates the upward face and luminous beard within deep darkness, creating a quiet image of breath, pause and concentrated feeling.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "84e047ca0794e7d80e678352a6aaec17058bbaefc04da37b5d892b42f53b355c",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

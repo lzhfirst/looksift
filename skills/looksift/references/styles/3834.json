@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white cartoon illustration shows a row of strange people standing close together against a dark stippled background. Six tall figures fill the middle, each wearing a long coat, stiff hat, or both, and their simplified faces vary from human to animal-like. At the far left, a short dark figure in a rounded hat faces the group. Next to it, a pale cat-headed or mask-like figure looks upward, its triangular ears and snout standing out against the darker coats. Near the center, taller narrow men in high hats have long noses, round eyes, and solemn mouths. A shorter black-coated figure with a flat brim interrupts their vertical pattern, and a pale figure in a broad hat closes the right edge. A small light-colored dog sits near the lower center in front of the row, looking up and giving the formal gathering a second level of scale. The ground is paved with tiny rectangular stones drawn across the bottom, while the background darkens evenly toward the top. Fine ink stippling creates soft gray shading inside the coats and faces without using smooth digital gradients. Firm black outlines keep the heads, hats, hands, and shoes readable despite their crowded overlap. Light appears to come from the upper front, making pale faces and the seated animal brighter than the charcoal surroundings; shadows under the feet are shallow. There is no readable caption or speech balloon. The overall composition is deadpan and mildly absurd, using repeated upright silhouettes, tiny pointillist texture, and one low animal shape to create a restrained comic scene.",
+  "full_prompt_zh": "一幅方形黑白漫画插画描绘一排怪异人物紧挨着站在深色点描背景前。六个高形体填满中部，每个都穿长外套、戴硬帽或兼而有之，简化面孔从人形到兽形各不相同。最左边，一个戴圆帽的矮深色人物面向人群。旁边一位浅色猫头或面具般人物抬头，三角耳与口鼻在深衣前突出。中央附近，戴高帽的瘦长男子有长鼻、圆眼和严肃嘴形。一个戴平檐帽、穿黑外套的较矮人物打断竖向排列，右边一位戴宽帽的浅色人物收住边缘。一只浅色小狗坐在下方中央这一排人前，向上望，给正式聚会增加第二层尺度。底部地面铺着细小矩形石块，上方背景均匀变暗。细密墨点在衣服和脸内制造柔灰阴影，不用平滑数字渐层。坚实黑轮廓让头、帽、手与鞋在拥挤重叠中仍可读。光似乎从上前方来，使浅脸和坐姿动物比炭灰周围更亮；脚下影子较浅。没有可读说明或对话框。整体构图面无表情且略荒诞，以重复直立剪影、微小点描肌理和一处低矮动物形制造克制漫画场景。",
+  "style_prompt_en": "The illustration is black-and-white pen cartooning built with dense stipple, firm contour, and deliberately simplified anatomy. Repeated upright dark masses form a close rhythm, interrupted by pale focal shapes and a small low counterweight. Dot density grades faces, fabric, and background from white to charcoal without smooth tonal blur. Rounded and angular silhouettes coexist, and tiny ground marks provide a stable base. Light is graphic and frontal, preserving readable forms within the crowded arrangement. The overall effect is dryly humorous, intricate, and slightly uncanny.",
+  "style_prompt_zh": "插画是以密点、坚实轮廓和有意简化的形体构成的黑白钢笔漫画。重复直立的深色体量形成紧密节奏，被浅色焦点形和一处低矮小平衡打断。点的密度让脸、布料和背景从白过渡到炭灰，不用平滑影调模糊。圆形与折角剪影共存，细小地面记号提供稳定基底。光图形化且从正面来，使拥挤布局中的形体仍可读。整体效果冷幽默、细密且略诡异。",
+  "theme_en": "A row of strange coated figures and a seated dog in a stippled cartoon",
+  "theme_zh": "点描漫画里一排穿外套的怪异人物与坐姿狗",
+  "wh_ratio": "1:1",
+  "id": "3834",
+  "name": "Andy Singer",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/andy-singer",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "c4d2846d46e5e766f81262edbee60707b2705676cb9fcdab6bde821f6baf6ea2",
+    "gpt_submission_prompt": "A square black-and-white cartoon illustration shows a row of strange people standing close together against a dark stippled background. Six tall figures fill the middle, each wearing a long coat, stiff hat, or both, and their simplified faces vary from human to animal-like. At the far left, a short dark figure in a rounded hat faces the group. Next to it, a pale cat-headed or mask-like figure looks upward, its triangular ears and snout standing out against the darker coats. Near the center, taller narrow men in high hats have long noses, round eyes, and solemn mouths. A shorter black-coated figure with a flat brim interrupts their vertical pattern, and a pale figure in a broad hat closes the right edge. A small light-colored dog sits near the lower center in front of the row, looking up and giving the formal gathering a second level of scale. The ground is paved with tiny rectangular stones drawn across the bottom, while the background darkens evenly toward the top. Fine ink stippling creates soft gray shading inside the coats and faces without using smooth digital gradients. Firm black outlines keep the heads, hats, hands, and shoes readable despite their crowded overlap. Light appears to come from the upper front, making pale faces and the seated animal brighter than the charcoal surroundings; shadows under the feet are shallow. There is no readable caption or speech balloon. The overall composition is deadpan and mildly absurd, using repeated upright silhouettes, tiny pointillist texture, and one low animal shape to create a restrained comic scene.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "31f4465e3af58e223a1a0862e77f9b58479e7ff6c061cd73c65f978fa3318c06",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

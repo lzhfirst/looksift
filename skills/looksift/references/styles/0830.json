@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square classical landscape painting looks out from a shaded hillside toward a wide river valley at sunset. A cluster of ancient stone columns stands at the left foreground, partly hidden by a dark tree canopy. Across the middle distance, a calm waterway winds between wooded banks, carrying a few small sailboats toward a glowing horizon. On the right, a broad tree leans over a rocky path and low shrubs, framing the warm sky. Distant hills and faint buildings retreat through golden haze. The composition is built in successive planes: dark near foliage and masonry, sunlit middle ground, silver-gold water, and pale atmospheric distance. Warm amber and cream light spreads from the low sun, while olive, umber, and deep green shadows cool the foreground. Smooth oil glazes and controlled brushwork describe the sky and distance; finer marks articulate leaves, rocks, columns, and boat masts. The ancient architecture gives the view historical grandeur without overwhelming the natural setting. Figures, if present, remain small enough to establish scale rather than narrative. The whole frame feels serene, ordered, and contemplative, with balanced framing, luminous distance, and a carefully idealized sense of nature.",
+  "full_prompt_zh": "一幅方形古典风景画从阴影山坡望向落日里的宽阔河谷。左前景一组古石柱部分藏在深色树冠下。中景平静水道在树岸之间弯曲，几艘小帆船朝发亮地平线行进。右侧一棵宽树探过岩石小径和低灌木，围住暖天空。远方山丘与淡淡建筑退入金色薄雾。构图由连续平面建立：近处深叶与石造、受光中景、银金水面和浅色空气远景。暖琥珀与乳白光从低太阳扩散，橄榄、赭褐和深绿阴影冷却前景。平滑油画罩染与受控笔触描绘天空与远方，更细笔迹刻画叶、石、柱和船桅。古建筑赋予景观历史宏大感，却不压过自然环境。人物若有，也足够小，只建立尺度而非叙事。整体安详、有秩序、沉思，通过平衡的框景、发亮远方和经过理想化的自然感成立。",
+  "style_prompt_en": "A classical ideal-landscape painting style frames a luminous distance with dark foreground trees and fragments of old masonry. Successive planes of foliage, path, water, hills, and sky establish calm depth. Olive, umber, and deep green cool the near shadows, while amber, cream, and silver-gold brighten the horizon and reflections. Smooth glazes carry atmospheric distance; fine controlled brushwork describes near leaves, rock, and carved stone. Small vessels or figures give scale without stealing attention. The composition is balanced and gently theatrical, with a low sun and ordered natural forms. The mood is serene, historic, and contemplative.",
+  "style_prompt_zh": "古典理想风景绘画风格以深色前景树木与旧石造碎片框住发亮远方。叶丛、小路、水面、山丘和天空的连续平面建立平静纵深。橄榄、赭褐和深绿冷却近处阴影，琥珀、乳白和银金照亮地平线与倒影。平滑罩染承载空气远景，细而受控笔触描写近叶、岩石与雕石。小船或人物标明尺度，却不抢注意。构图平衡且温和地有舞台感，低日与有秩序的自然形态并存。气氛安详、历史感强、沉思。",
+  "theme_en": "Ancient columns overlook a golden river valley at sunset",
+  "theme_zh": "古代石柱俯望落日下的金色河谷",
+  "wh_ratio": "1:1",
+  "id": "0830",
+  "name": "Claude Lorrain",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/claude-lorrain",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/claude-lorrain.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "bb6c99c838cd9b54eeb80aed10478f25c8af9f4511ddb0520bc06b13872cf376",
+    "gpt_submission_prompt": "A square classical landscape painting looks out from a shaded hillside toward a wide river valley at sunset. A cluster of ancient stone columns stands at the left foreground, partly hidden by a dark tree canopy. Across the middle distance, a calm waterway winds between wooded banks, carrying a few small sailboats toward a glowing horizon. On the right, a broad tree leans over a rocky path and low shrubs, framing the warm sky. Distant hills and faint buildings retreat through golden haze. The composition is built in successive planes: dark near foliage and masonry, sunlit middle ground, silver-gold water, and pale atmospheric distance. Warm amber and cream light spreads from the low sun, while olive, umber, and deep green shadows cool the foreground. Smooth oil glazes and controlled brushwork describe the sky and distance; finer marks articulate leaves, rocks, columns, and boat masts. The ancient architecture gives the view historical grandeur without overwhelming the natural setting. Figures, if present, remain small enough to establish scale rather than narrative. The whole frame feels serene, ordered, and contemplative, with balanced framing, luminous distance, and a carefully idealized sense of nature.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "d5261e56bc3791e4e9d5b69f9f40c5dada2184afab61cb9ea71154c69835c7da",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

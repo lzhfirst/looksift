@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square retro editorial illustration shows a stylish couple seated in a sunlit plaza before a red vintage car. The woman sits on the left in a sleeveless vermilion dress and matching shoes, her legs turned toward the man. He sits on the right in a muted gray suit, leaning forward slightly with one arm resting on his knee. Their faces are simplified but readable as they look toward each other across a small gap. The car runs horizontally behind them, its red body and pale wheel arch forming a strong middle band. Above, a broad orange architectural plane cuts diagonally from the upper left toward the center, against a muted olive-gray wall. Pale square paving fills the foreground, interrupted by crisp long shadows from the people, car, and structure. The palette is limited and graphic: warm red, terracotta, orange, cream, gray, and deep greenish shadow. Edges are clean and nearly vector-like, although small tonal shifts within the car and clothing suggest soft painted depth. The people are rendered as elegant geometric silhouettes with selective facial detail, not realistic skin texture. Hard afternoon sunlight enters from the upper left, creating clear dark angles across the tiles and bright planes on the dress and car. The diagonal overhead form opposes the horizontal vehicle and grounds the two seated figures. No readable text or elaborate street detail intrudes. The overall composition feels poised and cinematic, using simplified retro shapes and long architectural shadows to hold a quiet conversation in bright color.",
+  "full_prompt_zh": "一幅方形复古社论插画中，一对时髦伴侣坐在阳光广场上，身后是一辆红色老车。女子位于左侧，穿无袖朱红裙和同色鞋，双腿转向男子。男子位于右侧，穿低饱和灰色西服，略微前倾，一只手臂搭在膝上。两人的脸经过简化，却能看出隔着小小间隙互相望着。汽车在身后水平延伸，红色车身和浅色轮拱形成有力中部色带。上方，宽阔橙色建筑平面从左上斜切向中央，背后是低饱和橄榄灰墙。浅色方形铺地占据前景，被人物、汽车和建筑投下的锐利长影打断。配色有限而图形化：暖红、赤陶、橙、奶油色、灰和深绿灰阴影。边缘干净，近似矢量，尽管汽车和衣服内部的小明暗变化带来柔和绘画纵深。人物以优雅几何剪影呈现，只保留选择性五官，而非写实皮肤纹理。强烈午后阳光从左上射入，在铺地上形成清楚的深色角线，同时照亮裙子与车的平面。头顶斜向形态对抗车辆的水平线，并稳住两位坐姿人物。画面没有可读文字或复杂街景细节。整体从容而有电影感，以简化复古形状和长建筑阴影把安静对话留在明亮色彩中。",
+  "style_prompt_en": "A retro editorial illustration style built from crisp geometric silhouettes, broad flat color areas, and a few smooth tonal steps. Vermilion, terracotta, orange, cream, warm gray, and muted olive create a restrained midcentury palette. Hard angled sunlight casts long, sharply bounded shadows across simple planar space. Diagonal structural shapes counter horizontal bands, while small focal forms remain elegant and readable with minimal detail. Clean almost-vector edges coexist with subtle painterly depth. The result is poised, cinematic, and graphic.",
+  "style_prompt_zh": "复古社论插画风格由清脆几何剪影、宽阔平涂色域和少量平滑明暗层级构成。朱红、赤陶、橙、奶油色、暖灰及低饱和橄榄色组成克制的中世纪现代配色。硬而斜的阳光在简化平面空间中投下长而边界清楚的阴影。斜向结构形状与水平色带相制衡，细小中心形态以最少细节保持优雅可读。近似矢量的干净边缘与细微绘画纵深共存。成品从容、有电影感，且图形性鲜明。",
+  "theme_en": "A stylish couple seated before a red vintage car in a sunlit plaza",
+  "theme_zh": "一对时髦伴侣坐在阳光广场的红色老车前",
+  "wh_ratio": "1:1",
+  "id": "3814",
+  "name": "Jack Hughes",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/jack-hughes",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "ac65060f83afdd2c318f6f6c9ac5850435334f98394b4087c5a451b5ee0518f7",
+    "gpt_submission_prompt": "A square retro editorial illustration shows a stylish couple seated in a sunlit plaza before a red vintage car. The woman sits on the left in a sleeveless vermilion dress and matching shoes, her legs turned toward the man. He sits on the right in a muted gray suit, leaning forward slightly with one arm resting on his knee. Their faces are simplified but readable as they look toward each other across a small gap. The car runs horizontally behind them, its red body and pale wheel arch forming a strong middle band. Above, a broad orange architectural plane cuts diagonally from the upper left toward the center, against a muted olive-gray wall. Pale square paving fills the foreground, interrupted by crisp long shadows from the people, car, and structure. The palette is limited and graphic: warm red, terracotta, orange, cream, gray, and deep greenish shadow. Edges are clean and nearly vector-like, although small tonal shifts within the car and clothing suggest soft painted depth. The people are rendered as elegant geometric silhouettes with selective facial detail, not realistic skin texture. Hard afternoon sunlight enters from the upper left, creating clear dark angles across the tiles and bright planes on the dress and car. The diagonal overhead form opposes the horizontal vehicle and grounds the two seated figures. No readable text or elaborate street detail intrudes. The overall composition feels poised and cinematic, using simplified retro shapes and long architectural shadows to hold a quiet conversation in bright color.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "de793c00dd08db35d52f60ad59c22315b90520e125e08cf191849328cb802292",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

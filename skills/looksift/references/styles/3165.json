@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A detailed eighteenth-century-style city view looks across a busy harbor basin toward a grand waterfront square. A tall, slender bell tower rises at the left, while a long pale palace façade and arcaded buildings stretch across the right. Small boats occupy the foreground and middle distance, their dark curved hulls and tiny passengers adding lively scale to the large architectural forms. The water is a muted blue-green, softly broken by wake lines and rippled reflections. Above, a broad blue sky carries a few white clouds, opening the composition around the tower and the sunlit roofline. The architecture is rendered with measured linear perspective: repeated arches, evenly spaced windows, cornices, and columns remain clear even as they diminish into the distance. Warm cream and pale stone colors catch direct daylight, while arcades and boat interiors hold compact dark shadows. Fine brush marks describe crowds, rigging, masonry, and water without losing the broad organization of sky, city, and harbor. The scene has a nearly panoramic breadth despite the square crop, because the buildings extend beyond both sides and the boats lead the eye into the central channel. The light is crisp and clear, but atmospheric softness tempers the far horizon. The painting balances documentary precision with gentle color and everyday movement.",
+  "full_prompt_zh": "一幅细致的十八世纪式城市风景越过繁忙港湾，望向宏大的滨水广场。左侧升起一座高而细的钟楼，右侧伸展着长长的浅色宫殿立面和拱廊建筑。小船占据前景与中景，深色弯曲船身和小小乘客为宏大建筑提供活泼尺度。水面呈柔和蓝绿色，被船迹和涟漪倒影轻轻打碎。上方宽阔蓝天飘着几块白云，在钟楼与受日光照亮的屋线周围打开构图。建筑以有分寸的线性透视表现：重复拱洞、等距窗户、檐口与柱子即使逐渐远去也清晰可辨。暖奶油色和浅石色受到直射日光照亮，拱廊与船舱内部则保留紧凑深影。细笔触描出人群、索具、石纹与水波，却没有损失天空、城市、港湾的宽阔组织。虽然裁成方形，场景仍近乎全景般开阔，因为建筑向两侧画外延伸，船只把目光引入中央水道。光线清晰爽朗，远处地平线又有一点空气柔化。画作平衡近乎记录性的准确与柔和色彩、日常活动。",
+  "style_prompt_en": "A precise painted city view organized into broad sky, an orderly architectural middle band, and reflective blue-green water below. Repeated arches, windows, and slim verticals establish measured perspective, while tiny dark curved accents animate the lower plane. Warm cream stone catches clear daylight; compact shadows gather under recesses, and distance softens slightly into haze. Fine brush marks describe texture and activity without obscuring the strong horizontal structure. Pale blue, muted green, honeyed stone, and charcoal give the scene a spacious, documentary calm.",
+  "style_prompt_zh": "一幅精确绘制的城市风景，分成宽阔天空、有序的中部结构带和下方有倒影的蓝绿水面。重复拱洞、窗户与细长竖线建立有分寸的透视，下部小小深色弧形重点增添活力。暖奶油色石面接住清楚日光，凹处聚起紧凑暗影，远方轻轻融入薄雾。细笔触描出纹理与活动，却不遮蔽强烈横向结构。浅蓝、柔绿、蜜色石面和炭色赋予画面宽裕而近乎记录性的平静。",
+  "theme_en": "A sunlit harbor square with boats and a tall bell tower",
+  "theme_zh": "船只与高钟楼环绕的日照港口广场",
+  "wh_ratio": "1:1",
+  "id": "3165",
+  "name": "Canaletto",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/canaletto",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "854be16fa7f50bc61385082e8f2ae3044bddf40de2bede386d7a1a09a1b825ad",
+    "gpt_submission_prompt": "A detailed eighteenth-century-style city view looks across a busy harbor basin toward a grand waterfront square. A tall, slender bell tower rises at the left, while a long pale palace façade and arcaded buildings stretch across the right. Small boats occupy the foreground and middle distance, their dark curved hulls and tiny passengers adding lively scale to the large architectural forms. The water is a muted blue-green, softly broken by wake lines and rippled reflections. Above, a broad blue sky carries a few white clouds, opening the composition around the tower and the sunlit roofline. The architecture is rendered with measured linear perspective: repeated arches, evenly spaced windows, cornices, and columns remain clear even as they diminish into the distance. Warm cream and pale stone colors catch direct daylight, while arcades and boat interiors hold compact dark shadows. Fine brush marks describe crowds, rigging, masonry, and water without losing the broad organization of sky, city, and harbor. The scene has a nearly panoramic breadth despite the square crop, because the buildings extend beyond both sides and the boats lead the eye into the central channel. The light is crisp and clear, but atmospheric softness tempers the far horizon. The painting balances documentary precision with gentle color and everyday movement.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "da584e4e2c458ee31a65c2f665d5202ad6efbd77db902e821f004a7e799947c6",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

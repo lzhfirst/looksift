@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-ink comic illustration catches a muscular man charging toward the viewer. His dark hair is pushed back, his brow clenched, and his shoulders twist as one arm thrusts into the foreground. The oversized hand and thick forearm create forceful foreshortening, while the opposite arm drives back through the scene. He wears a simple dark upper garment and trousers, with anatomy defined by bold contour and dense hatching rather than color. Behind him at the upper left, a huge snarling reptilian or beastlike head opens its jaws, its teeth and rough scales drawn in quick black marks. Smaller figures and fragments scatter through the background, giving the action a sense of pursuit without detailed scenery. Sweeping ink strokes across the lower right suggest speed, disturbed ground, and air moving past the central body. Much of the page remains bright white; black ink pools in hair, clothing, facial shadow, and the creature's mouth. Fine crosshatching and scratch lines model muscles and texture between those dark masses. The implied light is broad and high, preserving the paper-white planes of the shoulders and face while deep black marks locate the undersides. The diagonal thrust of the charging figure carries the eye from the beast into the near foreground. The overall composition is urgent and heroic, combining anatomical weight, dramatic foreshortening, and energetic penwork in a high-contrast monochrome frame.",
+  "full_prompt_zh": "一幅方形黑墨漫画插画抓住强壮男子向观者冲来的瞬间。深色头发向后掠，眉头紧锁，肩膀扭转，一只手臂猛然伸入前景。放大的手与粗壮前臂构成有力的透视缩短，另一只手臂则向后带动动作。他穿简单深色上衣和裤子，解剖形态由大胆轮廓与密集排线定义，而不是依靠彩色。身后左上，一颗巨大的爬行类或野兽般头颅张开嘴咆哮，牙齿与粗糙鳞片由快速黑痕勾成。更远处散着较小人物与碎片，使动作有追逐感，却不需要详细布景。右下方扫动的墨笔暗示速度、被扰动的地面与掠过身体的气流。纸面大部分保持明亮白色；黑墨聚于头发、衣服、面部阴影和野兽口内。细密交叉排线与抓痕在这些深块之间塑造肌肉和肌理。暗示的光宽广且来自上方，保留肩膀和脸部纸白平面，浓黑墨痕定位下缘阴影。冲锋人物的斜向推力把视线从野兽带向近前景。整体构图紧迫而英勇，以解剖重量、戏剧性透视缩短和充满能量的钢笔线条组成高反差单色画面。",
+  "style_prompt_en": "A heroic black-ink comic style with bold anatomy, dramatic foreshortening, dense crosshatching, and fast sweeping action strokes. Large white paper reserves sharpen solid black accents in hairlike, clothlike, and recessed forms. Heavy contour anchors the focal gesture while finer scratch lines build volume and rough texture. Distant marks simplify quickly, allowing strong near-to-far movement without elaborate setting. Broad implied top light leaves bright planes open and places shadows through decisive ink. The result is kinetic, weighty, and high contrast.",
+  "style_prompt_zh": "英勇气质的黑墨漫画风格，具有大胆解剖、戏剧性透视缩短、密集交叉排线和快速扫动的动作笔痕。大面积纸白强化毛发状、布料状与凹处形态的整片黑色强调。粗重轮廓稳住中心动作，细抓痕建立体积与粗糙肌理。远处标记迅速简化，不用复杂背景也能形成强烈远近运动。宽广的上方暗示光保留明亮平面，再以果断墨痕安排阴影。成品富于动势、有重量且高反差。",
+  "theme_en": "A powerful man charging forward as a snarling creature looms behind",
+  "theme_zh": "一名强壮男子向前冲来，身后有咆哮的生物逼近",
+  "wh_ratio": "1:1",
+  "id": "3811",
+  "name": "John Buscema",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/john-buscema",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "cc1f8a8ea192b6cb900f7dd2e040174aa4c0a52301d419b1fdb2f8a985a99c85",
+    "gpt_submission_prompt": "A square black-ink comic illustration catches a muscular man charging toward the viewer. His dark hair is pushed back, his brow clenched, and his shoulders twist as one arm thrusts into the foreground. The oversized hand and thick forearm create forceful foreshortening, while the opposite arm drives back through the scene. He wears a simple dark upper garment and trousers, with anatomy defined by bold contour and dense hatching rather than color. Behind him at the upper left, a huge snarling reptilian or beastlike head opens its jaws, its teeth and rough scales drawn in quick black marks. Smaller figures and fragments scatter through the background, giving the action a sense of pursuit without detailed scenery. Sweeping ink strokes across the lower right suggest speed, disturbed ground, and air moving past the central body. Much of the page remains bright white; black ink pools in hair, clothing, facial shadow, and the creature's mouth. Fine crosshatching and scratch lines model muscles and texture between those dark masses. The implied light is broad and high, preserving the paper-white planes of the shoulders and face while deep black marks locate the undersides. The diagonal thrust of the charging figure carries the eye from the beast into the near foreground. The overall composition is urgent and heroic, combining anatomical weight, dramatic foreshortening, and energetic penwork in a high-contrast monochrome frame.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "d4a97d2096bd3deb9f0ba520bab729757af45f512019420afbb15a26f0760f75",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

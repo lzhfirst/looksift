@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square picture-book illustration shows a father and child sitting close together in a lush night garden beneath a large pale full moon. The adult wears round goggles or glasses and a light patterned shirt; the child turns toward the sky with an open, curious expression. Tall grasses, leaves, and small flowers surround them, and a little white animal peeks out near the child's shoulder. The moon glows above a patchwork of deep blue and teal paper-like shapes. Warm ochre, cream, and soft brown faces emerge from cool foliage, creating a tender human center. The image is built from layered watercolor, colored pencil, dry brush, and collage-like fragments, with numerous tiny lines and flecks describing plants and clothing. The many textures make the garden feel abundant, yet the faces and moon remain clear. Soft moonlight provides gentle edge highlights, while the surrounding plants hold deeper blue shadows. The composition brings the pair close to the lower left and leaves room for the large moon in the upper right. Some paper seams and pigment scratches remain visible, reinforcing the handmade quality. The whole frame feels imaginative, warm, and quietly magical, as if it belongs to an illustrated bedtime story.",
+  "full_prompt_zh": "一幅方形图画书插画呈现父亲与孩子在茂密夜晚花园中亲密并坐，头上是一轮浅色满月。大人戴圆形护目镜或眼镜，穿浅色图案衬衣；孩子带着好奇的神情望向天空。高草、叶片和小花围住他们，一只白色小动物从孩子肩边探出。月亮在深蓝和深青纸片般的拼色上方发亮。暖赭、乳白和柔棕色面孔从冷色叶丛中浮现，形成温柔的人物中心。画面由层叠水彩、彩铅、干笔与拼贴似碎片构成，许多细小线条和色点描写植物与衣服。肌理繁多使花园显得丰茂，面孔和月亮仍保持清楚。柔和月光提供边缘高光，周围植物保持较深蓝影。构图把两人放在左下近处，为右上大月亮留出空间。部分纸面接缝和颜料刮痕仍可见，加强手工性质。整幅画富于想象、温暖而安静地神奇，像一页睡前故事插画。",
+  "style_prompt_en": "A richly layered picture-book illustration language combines transparent watercolor, colored pencil, dry brush, and paper-like collage fragments. Cool blue and teal fields surround concentrated warm cream, ochre, and soft brown focal forms. Dense botanical or similarly organic detail is built from tiny lines, flecks, and overlapping textures, but a broad pale circular light shape keeps the hierarchy clear. Soft edge illumination links the central forms to their environment, while deeper blue shadows hold the frame. Visible pigment scratches, seams, and grain preserve a handmade surface. The mood is tender, abundant, and quietly magical, with detail serving a simple emotional center.",
+  "style_prompt_zh": "层次丰厚的图画书插画语言结合透明水彩、彩铅、干笔和纸片般的拼贴碎面。冷蓝与深青色域围住集中在焦点处的暖乳白、赭色和柔棕。密集植物或类似有机细节由小线、色点与重叠肌理构成，一处宽阔浅色圆形光体仍保持清楚层级。柔和边缘光连接中央形体和周围环境，更深蓝影稳住画框。可见颜料刮痕、接缝和颗粒保留手工表面。气氛温柔、丰茂、安静而神奇，丰富细节服务于简单的情感中心。",
+  "theme_en": "A father and child look toward a full moon in a richly layered storybook collage",
+  "theme_zh": "父亲与孩子望向满月，身处层次丰厚的故事书拼贴中",
+  "wh_ratio": "1:1",
+  "id": "4401",
+  "name": "Jerry Pinkney",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/jerry-pinkney.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "c9a3f250cfe2a202dd518ac799780cebd646afbd9220b8d61460fbc5f90b2f68",
+    "gpt_submission_prompt": "A square picture-book illustration shows a father and child sitting close together in a lush night garden beneath a large pale full moon. The adult wears round goggles or glasses and a light patterned shirt; the child turns toward the sky with an open, curious expression. Tall grasses, leaves, and small flowers surround them, and a little white animal peeks out near the child's shoulder. The moon glows above a patchwork of deep blue and teal paper-like shapes. Warm ochre, cream, and soft brown faces emerge from cool foliage, creating a tender human center. The image is built from layered watercolor, colored pencil, dry brush, and collage-like fragments, with numerous tiny lines and flecks describing plants and clothing. The many textures make the garden feel abundant, yet the faces and moon remain clear. Soft moonlight provides gentle edge highlights, while the surrounding plants hold deeper blue shadows. The composition brings the pair close to the lower left and leaves room for the large moon in the upper right. Some paper seams and pigment scratches remain visible, reinforcing the handmade quality. The whole frame feels imaginative, warm, and quietly magical, as if it belongs to an illustrated bedtime story.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "8bb2fdf7a0ae6547a8590b5cee6d1f7c50c0f3db6efee652c2f5e0dd6b49fcec",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

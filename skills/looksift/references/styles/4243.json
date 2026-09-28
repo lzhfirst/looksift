@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square mixed media portrait presents a stern figure partly fused with an angular raven mask. The face sits close to the picture plane, with one intent eye held in deep shadow and a long dark beak cutting diagonally across the cheek. The head is built from overlapping, imperfect planes of paper, stained plaster, and dry pigment instead of smooth anatomical rendering. The human face remains recognizable beneath the bird form; the mouth is small and closed, and the expression is grave. Irregular fragments of burnt orange, mustard yellow, tobacco brown, charcoal, and sooty black lie behind and across the figure. Broad flat geometric patches provide a quiet scaffold, while scratches, grain, rubbed ink, and distressed printing roughen their edges. The forceful diagonal beak and heavy brow organize the composition, and a warm amber glow catches selected cheek and mask planes. The far side nearly disappears into dark texture. Uneven paper seams and small shifts in color registration make the image feel handled and aged. The lower face carries gentler tonal transitions than the sharply cut beak, giving the hybrid form a tense visual balance. The whole frame has the solemn, tactile, slightly uncanny character of an old illustrated book plate or symbolic editorial collage, with visible asymmetry and no polished digital sheen.",
+  "full_prompt_zh": "一幅方形混合媒介肖像呈现一位神情严峻、与棱角分明乌鸦面具局部融合的人物。面孔贴近画面，一只目光专注的眼睛沉在深影里，长而暗的鸟喙斜切过脸颊。头部由相互叠压、不甚规整的纸片、染色灰泥与干颜料色面构成，而非光滑的人体写实。鸟的形态之下仍能辨认人的面孔，嘴唇紧闭，神情凝重。焦橙、芥末黄、烟草棕、炭灰和煤黑的不规则碎片在人物身后与面部交错。大块平面的几何色片支撑结构，刮痕、颗粒、擦拭墨迹与旧印刷的磨损感打破边缘。强烈的鸟喙对角线和厚重眉骨组织构图，温暖的琥珀色光只照亮部分脸颊与面具色面。另一侧几乎没入暗纹。不均匀的纸面接缝与轻微套色偏移让画面像经过长期翻阅。下方面孔的明暗过渡比锋利鸟喙柔和，使混合形态保持紧张的视觉平衡。整体仿佛陈旧的插图书页或象征性的编辑拼贴：肃穆、可触、略带诡异，带着可见的不对称和未经数字抛光的表面。",
+  "style_prompt_en": "Use an aged mixed media collage language with large angular paper planes, layered dry pigment, rubbed charcoal, and distressed printed texture. Compose around a forceful diagonal shape crossing a close, tightly cropped focal form. Balance warm ochre, mustard, burnt orange, and tobacco against dense black and muted stone gray. Keep tonal transitions abrupt in some places and scuffed, granular, and softly abraded in others. Allow overlapping seams, torn-looking edges, scratches, stains, and imperfect registration to remain visible. Concentrate a small amber highlight near the visual center, then let peripheral forms sink into near-black. Aim for the solemn, symbolic weight of an old illustrated book plate, with tactile surface and asymmetrical geometry rather than smooth digital finish.",
+  "style_prompt_zh": "采用陈旧的混合媒介拼贴语言：大块棱角纸面、层叠的干颜料、擦抹木炭和磨损印刷肌理。用一条有力的斜向形体横穿贴近画面的焦点形态来组织构图。让暖赭、芥末黄、焦橙和烟草棕与浓黑、低饱和石灰色形成平衡。部分明暗交界保持突然的色面切换，其他部分则以擦损、颗粒与柔和磨蚀过渡。保留叠压接缝、似被撕开的边缘、刮痕、污渍和不完美套印。视觉中心附近聚拢少量琥珀色亮光，让外围形体沉入近黑。追求旧插图书页般肃穆而象征性的重量，以可触的表面和不对称几何取代光滑数字质感。",
+  "theme_en": "A stern figure with an angular raven mask emerging from layered ochre collage",
+  "theme_zh": "一位戴着棱角分明乌鸦面具的严肃人物，从赭色拼贴中浮现",
+  "wh_ratio": "1:1",
+  "id": "4243",
+  "name": "Dave McKean",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/dave-mckean.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "e01ab09854162cf88b557bf8b0f76be1171356390333eb2f3f97f185c7840eab",
+    "gpt_submission_prompt": "A square mixed media portrait presents a stern figure partly fused with an angular raven mask. The face sits close to the picture plane, with one intent eye held in deep shadow and a long dark beak cutting diagonally across the cheek. The head is built from overlapping, imperfect planes of paper, stained plaster, and dry pigment instead of smooth anatomical rendering. The human face remains recognizable beneath the bird form; the mouth is small and closed, and the expression is grave. Irregular fragments of burnt orange, mustard yellow, tobacco brown, charcoal, and sooty black lie behind and across the figure. Broad flat geometric patches provide a quiet scaffold, while scratches, grain, rubbed ink, and distressed printing roughen their edges. The forceful diagonal beak and heavy brow organize the composition, and a warm amber glow catches selected cheek and mask planes. The far side nearly disappears into dark texture. Uneven paper seams and small shifts in color registration make the image feel handled and aged. The lower face carries gentler tonal transitions than the sharply cut beak, giving the hybrid form a tense visual balance. The whole frame has the solemn, tactile, slightly uncanny character of an old illustrated book plate or symbolic editorial collage, with visible asymmetry and no polished digital sheen.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "46dca5fef75c8f44000b7e1ed414723fea865e1c991ff69380b14b4aab85facf",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

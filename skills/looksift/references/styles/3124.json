@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square oil portrait places a seated nobleman against a deep brown interior. His dark, glossy garment spreads broadly across the lower half of the frame, while a crisp white ruff rings his neck and catches the strongest light. He faces the viewer with a restrained, alert expression. One hand rests over the other near the center, their pale shapes emerging from dark sleeves and drawing attention down from the face. A ring and the curved arms of the chair supply small, warm accents. The wall behind him is almost empty, its brown planes and faint panel lines giving just enough depth to place the sitter in a room. His short dark hair, narrow moustache and carefully modeled face are defined by light from the upper left. That illumination brightens the forehead, cheek, collar and hands, then falls away through a wide range of umber and near black. The black fabric is not a flat silhouette: small silver gray highlights follow creases across the shoulders, chest and sleeves. Edges around the face and collar are clear; the outer body and chair soften into the shadow. The upright pose and broad dark mass give the image a formal stillness, while the visible brushwork and slight shifts of tone keep it physically present. The composition has a measured balance, with a pale triangle of face and collar above the quiet arrangement of hands.",
+  "full_prompt_zh": "这幅方形油画肖像把一位端坐的贵族置于深棕色室内。深色而有光泽的衣服铺展在画面下半部，挺括的白色皱领围住颈部，承接最强的光。他面向观者，神情克制而警觉。一只手叠在另一只手上，位于中央附近；浅色的手从深袖中显出，把视线从面部引向下方。戒指和椅子的弯曲扶手提供细小暖色点缀。身后墙面几乎空白，棕色平面与隐约的板缝只用少量信息表明室内深度。短黑发、细胡须和精心塑造的面部由左上方来光界定。光照亮额头、脸颊、衣领与双手，然后在多层赭棕与近黑中消退。黑衣并非平涂轮廓，细小银灰亮痕沿肩、胸和袖子的褶皱起伏。脸与衣领的边缘清楚，身体外缘和椅子逐渐融入暗处。挺直坐姿和宽阔暗色块使画面庄重静止，而可见笔痕与微妙调子又保有真实触感。整体均衡克制，浅色脸与衣领构成上方三角焦点，下方双手安静呼应。",
+  "style_prompt_en": "The oil painting is built from deep umber, brown-black and restrained silver gray, interrupted by small areas of warm flesh color and luminous white. Light enters from one upper side, selecting a few clear planes before receding into layered shadow. Broad dark masses hold the composition, while sharp accents on folded fabric and pale surfaces create its rhythm. Some edges are precise and modeled; others dissolve gently into the background. The surface feels dense and brushed rather than polished to uniform smoothness. Its formal spacing and narrow tonal range give the frame quiet weight.",
+  "style_prompt_zh": "这种油画以深赭棕、棕黑和克制的银灰构成，仅由少量暖浅色与明亮白色打断。光从上方一侧进入，挑亮少数清楚平面，随后退入层叠阴影。宽阔暗色块稳定构图，褶面与浅色表面的锐利亮点建立节奏。有些边缘准确塑造，另一些则柔和地消失在背景中。表面厚实，有笔刷痕迹，并非统一光滑。正式而宽缓的留距及狭窄明度范围使画面沉静有分量。",
+  "theme_en": "A seated nobleman in dark dress against a brown interior",
+  "theme_zh": "棕色室内背景前端坐的深衣贵族",
+  "wh_ratio": "1:1",
+  "id": "3124",
+  "name": "Diego Velazquez",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/diego-velazquez",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "5f69276d270418227e4bbb2c55c39f786ff4b1ec8c5201b7a3daaf22a8a4de5f",
+    "gpt_submission_prompt": "A square oil portrait places a seated nobleman against a deep brown interior. His dark, glossy garment spreads broadly across the lower half of the frame, while a crisp white ruff rings his neck and catches the strongest light. He faces the viewer with a restrained, alert expression. One hand rests over the other near the center, their pale shapes emerging from dark sleeves and drawing attention down from the face. A ring and the curved arms of the chair supply small, warm accents. The wall behind him is almost empty, its brown planes and faint panel lines giving just enough depth to place the sitter in a room. His short dark hair, narrow moustache and carefully modeled face are defined by light from the upper left. That illumination brightens the forehead, cheek, collar and hands, then falls away through a wide range of umber and near black. The black fabric is not a flat silhouette: small silver gray highlights follow creases across the shoulders, chest and sleeves. Edges around the face and collar are clear; the outer body and chair soften into the shadow. The upright pose and broad dark mass give the image a formal stillness, while the visible brushwork and slight shifts of tone keep it physically present. The composition has a measured balance, with a pale triangle of face and collar above the quiet arrangement of hands.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "da9feb107caab216ccf21bfe3388800b3731fa3ee70883609e6a6306ecef2dba",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

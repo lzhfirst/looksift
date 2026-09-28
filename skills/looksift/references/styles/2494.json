@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square ink-and-wash illustration centers a young woman with dark hair against a near-black ground, while bright scarlet blossoms gather around her head and shoulder. Her face is pale and softly shaded, turned toward the viewer with a quiet, distant expression. One hand rests lightly against the side of her face. A dark garment merges with the background, so the face, fingers, a narrow white collar, and the flowers carry the composition. The hair is rendered in dense black strands and inked masses, with thin loose lines escaping around the ears and neck. Red petals are outlined with fine black veins; some blooms are fully open, while smaller shapes recede into the dark corners. Fine pale leaves and stems wind across the lower edge and into the black space. The drawing uses delicate contour lines for facial features and translucent gray shading beneath the eyes, nose, and jaw. Its restricted palette of ivory, black, smoky gray, and saturated red gives the flowers a sharp visual pulse without disturbing the calm expression. The flat dark field has little depth, yet overlapping hair, petals, and foliage form a layered frame. Light appears as clear paper-toned areas left open against dark ink, rather than a broad painted glow. The overall image feels intimate, slightly melancholic, and intricately hand drawn.",
+  "full_prompt_zh": "一幅方形水墨线描插画以一位深色头发的年轻女子为中心，背景近黑，鲜红花朵围绕她的头部与肩侧。她的脸色浅淡，受到轻柔灰调塑形，朝向观者，神情安静而疏离。一只手轻靠脸侧。深色衣物与背景相融，使脸、手指、窄白领以及花朵承担构图。头发由密集黑色发丝与墨块描出，细而松的线条从耳侧和颈边逸出。红色花瓣有细黑脉络勾边；一些花完全盛开，较小形体隐入深色角落。浅色的细叶与花茎穿过下缘，伸入黑色空间。面部特征以纤细轮廓线绘出，眼下、鼻侧和下颌铺有透明灰调。象牙白、黑、烟灰与饱和红的有限配色，让花朵形成鲜明跳动，却不破坏平静神情。平坦深色底层几乎没有纵深，但相互覆盖的头发、花瓣与叶片构成层叠边框。明处像是在暗墨前保留的纸色区域，而非大片涂出的光晕。整体亲密、略带忧郁，并具有精密手绘感。",
+  "style_prompt_en": "Fine ink contours and lightly translucent gray wash sit against broad areas of velvety black. A narrow ivory, charcoal, and scarlet palette creates strong focal contrast. Dense parallel strokes build dark texture, while irregular loose lines prevent the edges from feeling mechanically clean. Small pale details and vivid red patches punctuate the dark field. Light is expressed through retained paper color and soft tonal shading; depth comes from overlap rather than a deep setting. The arrangement balances quiet open surfaces with intricate clusters of line and shape, creating an intimate and faintly wistful rhythm.",
+  "style_prompt_zh": "纤细墨线与轻薄透明灰色渲染置于大片柔哑黑色前。象牙白、炭黑与鲜红的窄幅配色建立强烈焦点对比。密集平行笔痕形成深色肌理，不规则松线使边缘避免机械般洁净。小块浅色细节和明红色块刺入暗底。光感来自保留的纸色与柔和调子，纵深主要由覆盖关系而非深远场景形成。布局在安静的开阔表面与繁密线形簇之间求得平衡，产生亲密而微带怅惘的节奏。",
+  "theme_en": "A dark-haired woman framed by scarlet flowers",
+  "theme_zh": "深色头发女子与鲜红花朵",
+  "wh_ratio": "1:1",
+  "id": "2494",
+  "name": "Kaethe Butcher",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/kaethe-butcher",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/kaethe-butcher.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "03eb2b5b1a8f59208eb03cfc5c5a7f3eac66a2edf1e7a4de6b0fe8fc87b9da82",
+    "gpt_submission_prompt": "A square ink-and-wash illustration centers a young woman with dark hair against a near-black ground, while bright scarlet blossoms gather around her head and shoulder. Her face is pale and softly shaded, turned toward the viewer with a quiet, distant expression. One hand rests lightly against the side of her face. A dark garment merges with the background, so the face, fingers, a narrow white collar, and the flowers carry the composition. The hair is rendered in dense black strands and inked masses, with thin loose lines escaping around the ears and neck. Red petals are outlined with fine black veins; some blooms are fully open, while smaller shapes recede into the dark corners. Fine pale leaves and stems wind across the lower edge and into the black space. The drawing uses delicate contour lines for facial features and translucent gray shading beneath the eyes, nose, and jaw. Its restricted palette of ivory, black, smoky gray, and saturated red gives the flowers a sharp visual pulse without disturbing the calm expression. The flat dark field has little depth, yet overlapping hair, petals, and foliage form a layered frame. Light appears as clear paper-toned areas left open against dark ink, rather than a broad painted glow. The overall image feels intimate, slightly melancholic, and intricately hand drawn.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "8e0efd2444a9fa67cced432b892037acda0d206ef2a6ef47686866a1bab62554",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

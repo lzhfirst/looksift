@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white ink illustration shows a bespectacled man crouched in a rough stone opening, looking upward with an uneasy expression. The opening cuts a deep black void across the upper left, while large pale irregular blocks of masonry fill the right and lower sides. The man wears a soft cap, round glasses, a pale rolled-sleeve shirt, dark tie, and gray trousers. His knees are drawn up close to the chest, and one hand grips or rests on the lower stone ledge while the other bends over a knee. The round lenses magnify wide eyes that look toward the upper right; a long nose and downturned mouth sharpen the anxious comic character of the face. His sleeves and trousers are built from quick hatching and broken gray wash, with crisp dark folds at the elbows and knees. The rough stones around him are marked by irregular contour lines, stippling, cracks, and chalky white reserves. A narrow plant stem or trailing vine appears near the far right edge, but most of the setting is masonry and shadow. Strong daylight from the upper right catches the face, shirt, and the edges of the blocks, leaving the recess behind him almost solid black. The close view compresses figure and wall so the opening feels cramped and precarious. Fine pen lines concentrate at face and hands, while broader brush-black masses simplify the deepest areas. The overall composition uses a small nervous pose within exaggerated rough geometry to make the scene vivid, humorous, and slightly tense.",
+  "full_prompt_zh": "这幅方形黑白墨线插图描绘一名戴眼镜的男子蜷在粗糙石质开口里，带不安表情向上望。开口在左上方切出深黑空洞，右侧和下方则被大块浅色不规则石砌填满。男子戴软帽、圆眼镜，穿卷袖浅衬衫、深领带和灰裤。双膝抬近胸前，一只手握住或搭在下方石台，另一只手臂弯在膝上。圆镜片放大了望向右上方的宽眼睛，长鼻和向下的嘴让面容显得焦虑而滑稽。袖子和裤子由快速排线与破碎灰色水洗构成，肘膝有清楚深褶。周围粗石带不规则轮廓线、点描、裂缝和粉白留白。最右缘有一根窄植物茎或垂藤，但场景主要是石砌与阴影。强日光从右上方照亮面部、衬衫和石块边缘，身后凹处近乎实黑。贴近视角压缩人物与墙，使开口显得狭窄且不稳。细钢笔线集中在面与手，宽阔毛笔黑块简化最深区域。整体构图把微小紧张姿势放进夸张粗糙几何里，使场景鲜活、诙谐且略带紧张。",
+  "style_prompt_en": "The image has a black-and-white comic-ink finish, using lively contour lines, dense hatching, stippling, and decisive brush-black shadows. Chalky white paper and pale gray washes oppose near-solid black recesses. Fine marks accumulate around focal expressions and contact points, while large broken geometric masses frame them with rough texture. Edges shift from sharp ink cuts to scratchy, incomplete outlines, giving the surface a handmade speed. Directional light strikes exposed planes and leaves interior gaps starkly dark. A compressed central grouping and angled surrounding blocks create mild visual tension. The overall effect is expressive, humorous, and gritty.",
+  "style_prompt_zh": "图像具有黑白漫画墨线质感，运用活跃轮廓线、密集排线、点描和果断毛笔黑影。粉白纸面与浅灰水洗对抗近实黑的凹处。细笔画累积在焦点表情和接触点周围，大块破碎几何体量以粗糙肌理将其框住。边缘从尖锐墨切变成粗划、未完成轮廓，赋予表面快速手工感。定向光打在暴露平面上，使内部缝隙保持鲜明深暗。压缩的中央组合与倾斜周围块面造成轻微视觉紧张。整体效果富表现力、诙谐且粗粝。",
+  "theme_en": "A bespectacled man crouched in a rough stone opening",
+  "theme_zh": "戴眼镜的男子蜷在粗石开口中",
+  "wh_ratio": "1:1",
+  "id": "4328",
+  "name": "Will Eisner",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/will-eisner.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "f648daa6ddf0f8d7184ef0fcd186d01013737e14cdd01e17abe1507f853b6c10",
+    "gpt_submission_prompt": "A square black-and-white ink illustration shows a bespectacled man crouched in a rough stone opening, looking upward with an uneasy expression. The opening cuts a deep black void across the upper left, while large pale irregular blocks of masonry fill the right and lower sides. The man wears a soft cap, round glasses, a pale rolled-sleeve shirt, dark tie, and gray trousers. His knees are drawn up close to the chest, and one hand grips or rests on the lower stone ledge while the other bends over a knee. The round lenses magnify wide eyes that look toward the upper right; a long nose and downturned mouth sharpen the anxious comic character of the face. His sleeves and trousers are built from quick hatching and broken gray wash, with crisp dark folds at the elbows and knees. The rough stones around him are marked by irregular contour lines, stippling, cracks, and chalky white reserves. A narrow plant stem or trailing vine appears near the far right edge, but most of the setting is masonry and shadow. Strong daylight from the upper right catches the face, shirt, and the edges of the blocks, leaving the recess behind him almost solid black. The close view compresses figure and wall so the opening feels cramped and precarious. Fine pen lines concentrate at face and hands, while broader brush-black masses simplify the deepest areas. The overall composition uses a small nervous pose within exaggerated rough geometry to make the scene vivid, humorous, and slightly tense.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "dd9bd4cd0f25465c84824f60de9f0e3c3758c9a773b6059546cb1baa5f8d992b",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

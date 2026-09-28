@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white macabre illustration has intricate stippled and engraved texture. A cloaked skeletal scholar sits in three-quarter profile at the right, holding a smaller skull in one bony hand and studying it with a quiet, intent expression of the empty sockets. Behind the scholar's head rises a large dark circular ring, its broad outer band filled with tightly spaced radial engraving. A bird in flight enters from the upper left, its feathered wings caught just before they overlap the ring. Dry leaves, twigs and fragments gather along the lower edge, anchoring the composition. The background is an uncompromising velvety black, so the pale bone and densely worked gray fabric stand forward without resorting to white outlines. Every surface emerges through fine ink hatching, stippling and scratch-like highlights: pores and fissures in bone, layered folds in the cloak, feather barbs, and wiry plant textures. The circle provides a stark geometric counterweight to the organic silhouettes, centered high behind the main head. The brightest whites lie on rounded bone and selected feather edges, with grainy mid-grays grading into saturated black. The mood is contemplative and occult; this is an image of still attention rendered with the obsessive craft of underground pen-and-ink illustration.",
+  "full_prompt_zh": "正方形黑白诡谲插画具有细密的点刻和版画般纹理。一位披斗篷的骷髅学者坐在画面右侧，以四分之三侧面面对手中托举的较小头骨，空洞眼眶传达安静的凝视。学者头后升起一圈巨大的深色圆环，宽阔外圈刻满紧密的放射线。左上方一只飞鸟闯入，羽翼将与圆环轮廓相叠。画面下缘聚拢枯叶、细枝和碎片，以稳住构图。背景保持坚实的丝绒黑，使浅色骨骼与密集刻画的灰色布料向前浮现，而不依赖白色描边。所有表面都通过精细墨线排线、点描与刮擦般高光呈现：骨面微孔和裂隙、斗篷层叠褶皱、羽枝及细瘦植物纹理。圆环成为有机剪影的醒目几何配重，位置保持在主头部后方偏高处。最亮白色落在圆润骨面与少数羽毛边缘，再经颗粒状中间灰进入饱和黑色。气氛沉思而带神秘感，并不诉诸暴力；这是一幅用地下墨笔插画般近乎执着的工艺刻画安静凝视的图像。",
+  "style_prompt_en": "Black-and-white pen-and-ink illustration has obsessive stippling, fine crosshatching, scratch-like highlights and an engraved print sensibility. Pale, intricately worked forms stand against a solid velvety black field, with granular middle grays providing tonal transitions. One bold geometric rhythm counters organic, irregular silhouettes within a densely balanced square composition. Tactile fissures, layered textures, thin line clusters and selective luminous edges create a contemplative, arcane and austere atmosphere. Accumulated manual marks give the surface its intricate character.",
+  "style_prompt_zh": "黑白钢笔墨画具有近乎执着的点描、细密交叉排线、刮擦般高光和版画刻印质感。浅色且精细刻画的形体浮现在坚实的丝绒黑底上，颗粒状中间灰形成明暗过渡。醒目的几何节奏平衡有机、不规则剪影，正方形构图密集而稳定。可触摸的裂隙、层叠肌理、细线群与选择性的发亮边缘形成沉思、幽秘而冷峻的气氛。累积的手工痕迹赋予表面精细繁复的特征。",
+  "theme_en": "A skeletal scholar holding a skull beneath a carved dark ring",
+  "theme_zh": "在暗色刻纹圆环前托举头骨的骷髅学者",
+  "wh_ratio": "1:1",
+  "id": "1126",
+  "name": "Mark Riddick",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/mark-riddick",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/mark-riddick.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "55ca7de0bc86d8912a000da41fe76fe1ba540dd05ce6929c29f8b694355cdc87",
+    "gpt_submission_prompt": "A square black-and-white macabre illustration has intricate stippled and engraved texture. A cloaked skeletal scholar sits in three-quarter profile at the right, holding a smaller skull in one bony hand and studying it with a quiet, intent expression of the empty sockets. Behind the scholar's head rises a large dark circular ring, its broad outer band filled with tightly spaced radial engraving. A bird in flight enters from the upper left, its feathered wings caught just before they overlap the ring. Dry leaves, twigs and fragments gather along the lower edge, anchoring the composition. The background is an uncompromising velvety black, so the pale bone and densely worked gray fabric stand forward without resorting to white outlines. Every surface emerges through fine ink hatching, stippling and scratch-like highlights: pores and fissures in bone, layered folds in the cloak, feather barbs, and wiry plant textures. The circle provides a stark geometric counterweight to the organic silhouettes, centered high behind the main head. The brightest whites lie on rounded bone and selected feather edges, with grainy mid-grays grading into saturated black. The mood is contemplative and occult; this is an image of still attention rendered with the obsessive craft of underground pen-and-ink illustration.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "01810c2fcc7593a1a17578a0896b2e88ec7154dc248bd3561b18f161c7fbbfec",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

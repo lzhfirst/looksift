@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square graphic novel illustration shows a black-haired man with glasses sitting on a plain wooden chair in a crowded room. He leans forward with elbows on his knees and hands clasped near his mouth, gazing toward the left with a still, pensive expression. His muted olive-gray shirt and dark trousers are rendered in broad flat color areas bounded by fine, confident black lines. Behind him, an off-white wall carries many framed photographs and drawings of different sizes, arranged in a dense but readable pattern. Stacks of books and papers lie around the floor near a doorway; at far left, a compact white desk and lamp add an everyday domestic note. Ochre floorboards and pale cream walls keep the palette warm, while the dark hair, frames, and shadows supply crisp punctuation. The room's small objects are simplified into rectangles, diagonals, and short contour strokes rather than elaborate shading. The seated body anchors the lower center, surrounded by a carefully balanced field of visual clutter. Perspective is straightforward and slightly compressed, like a quiet panel from a literary comic. Light is even, with soft local shadows and no dramatic glare. The mood is private and observant. Every outline remains legible, and there is no visible caption, word balloon, or decorative border.",
+  "full_prompt_zh": "一幅方形图像小说插画中，黑发戴眼镜的男子坐在拥挤房间里一把朴素木椅上。他俯身，双肘搁在膝间，双手在嘴边交握，朝左凝望，神情安静而沉思。低饱和橄榄灰衬衫与深色长裤由宽阔平涂色面描出，并以纤细而果断的黑线围合。身后灰白墙上挂满尺寸各异的相片与画作，排列密集却清晰可读。书和纸堆在靠门的地板上；最左边的小白桌和台灯带来日常家居气息。赭色地板与浅奶油色墙保持暖调，深发、相框和阴影则成为清晰标点。屋内小物简化成矩形、斜线和短轮廓笔，而非复杂明暗。坐姿身体锚定下方中央，周围是被仔细平衡的杂物色场。透视直接且略压缩，像文学漫画中安静的一格。光线均匀，有柔和局部影，没有戏剧眩光。情绪私密而观察入微。每道轮廓清楚，画中没有字幕、对话框或装饰边框。",
+  "style_prompt_en": "Literary graphic-novel illustration with economical dark contour lines and broad, even fields of muted cream, sage gray, ochre, and charcoal. Small rectangular details are spaced with deliberate rhythm around a clear central mass. Perspective stays direct and slightly compressed; shadows are shallow and quiet. Restrained line weight, simplified surfaces, and ordinary light give the image an observant, intimate tone.",
+  "style_prompt_zh": "文学图像小说插画以节约的深色轮廓线和大块均匀的低饱和奶油、鼠尾草灰、赭黄与炭黑色面构成。细小矩形细节在清晰中心体量周围按有意节奏排列。透视直接且略压缩，阴影浅淡安静。克制线重、简化表面与日常光线赋予画面敏锐而私密的语调。",
+  "theme_en": "A thoughtful man among framed pictures and stacked books",
+  "theme_zh": "相框与堆书之间沉思的男子",
+  "wh_ratio": "1:1",
+  "id": "4270",
+  "name": "Adrian Tomine",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/adrian-tomine.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "d7346eb3eb8b106b28b19ad54d7472c8ad59d85f2d62a11b8c469542b9586700",
+    "gpt_submission_prompt": "A square graphic novel illustration shows a black-haired man with glasses sitting on a plain wooden chair in a crowded room. He leans forward with elbows on his knees and hands clasped near his mouth, gazing toward the left with a still, pensive expression. His muted olive-gray shirt and dark trousers are rendered in broad flat color areas bounded by fine, confident black lines. Behind him, an off-white wall carries many framed photographs and drawings of different sizes, arranged in a dense but readable pattern. Stacks of books and papers lie around the floor near a doorway; at far left, a compact white desk and lamp add an everyday domestic note. Ochre floorboards and pale cream walls keep the palette warm, while the dark hair, frames, and shadows supply crisp punctuation. The room's small objects are simplified into rectangles, diagonals, and short contour strokes rather than elaborate shading. The seated body anchors the lower center, surrounded by a carefully balanced field of visual clutter. Perspective is straightforward and slightly compressed, like a quiet panel from a literary comic. Light is even, with soft local shadows and no dramatic glare. The mood is private and observant. Every outline remains legible, and there is no visible caption, word balloon, or decorative border.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "29a69d328a3ecea9267265b423e392538668d7250b5de99180b7e51fc22ccf64",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

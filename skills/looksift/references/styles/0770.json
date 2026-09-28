@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square photorealist city painting shows a turquoise 1950s car parked at the curb, viewed from a low front three-quarter angle. Its broad chrome grille, circular headlight, whitewall tire, curved hood, and polished bumper catch crisp daylight. A shallow puddle spreads across the entire foreground and reflects the car, nearby buildings, traffic, and pale sky in broken vertical bands. The avenue stretches behind the vehicle, lined with tall masonry and glass facades; smaller cars, including a yellow taxi, recede into the distance. Trees soften part of the right sidewalk. The camera viewpoint is close to the wet street, making the reflected forms almost as important as the car itself. Surface differences are carefully observed: mirrorlike chrome, glossy turquoise paint, wet black asphalt, clear window glass, and matte stone walls. The color palette is cool teal and blue-gray with warm tan building faces and small yellow traffic accents. Strong sun makes bright specular points but leaves deep dark pools under the car and along the curb. Perspective lines of the street and facades carry the eye into the urban distance. The rendering is extremely precise, yet the puddle distortion adds movement and visual complexity. No readable brand text, poster, or decorative border is central to the image.",
+  "full_prompt_zh": "一幅方形照相写实城市绘画中，一辆青蓝色五十年代老车停在路缘，从贴地前方四分之三角度观看。宽阔镀铬格栅、圆大灯、白边胎、弧形车盖和抛光保险杠接住清晰日光。浅水洼铺满整个前景，以破碎竖带倒映汽车、邻楼、交通和浅天空。车后大道向远处伸去，两侧高耸石砌与玻璃立面排开；更小车辆，包括黄色出租车，向远方退去。树木软化右边部分人行道。机位接近湿街，使反射形态几乎同汽车一样重要。材质差异观察仔细：镜面镀铬、发亮青蓝车漆、湿黑沥青、清透车窗和亚光石墙。调色以冷青绿和蓝灰为主，暖棕建筑面与小黄色交通重音穿插。强阳光点出明亮镜面光点，车下和路缘却保留深暗水影。街道与立面透视线把视线带入城市深处。形体描绘极精准，水洼扭曲又添运动与视觉复杂度。画中没有作为中心的可读品牌字、海报或装饰边框。",
+  "style_prompt_en": "Photorealist urban painting with precise linear perspective and meticulous separation of glossy, reflective, wet, transparent, and matte materials. Cool teal and blue-gray planes meet warm tan facades and small yellow accents. Crisp daylight creates bright specular points and deep curbside shadow. Large puddle reflections repeat the scene in broken, wavering bands, adding a second visual layer beneath finely observed solid forms.",
+  "style_prompt_zh": "照相写实都市绘画具有精准线性透视，并细致区分亮漆、镜面、湿面、透明与亚光材质。冷青绿和蓝灰平面遇上暖棕立面与小黄色重音。清晰日光制造明亮镜面点与路缘深影。大片水洼以破碎摇曳条带重复场景，在精细观察的实体下再添一层视觉结构。",
+  "theme_en": "A turquoise vintage car reflected in a wet city street",
+  "theme_zh": "湿城市街道中倒映的青蓝色老车",
+  "wh_ratio": "1:1",
+  "id": "0770",
+  "name": "Richard Estes",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/richard-estes",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/richard-estes.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "7279e697ccd03ce5e83e7e05c3961dbeeba9a4a5fb9704f441a6b7d755d590e1",
+    "gpt_submission_prompt": "A square photorealist city painting shows a turquoise 1950s car parked at the curb, viewed from a low front three-quarter angle. Its broad chrome grille, circular headlight, whitewall tire, curved hood, and polished bumper catch crisp daylight. A shallow puddle spreads across the entire foreground and reflects the car, nearby buildings, traffic, and pale sky in broken vertical bands. The avenue stretches behind the vehicle, lined with tall masonry and glass facades; smaller cars, including a yellow taxi, recede into the distance. Trees soften part of the right sidewalk. The camera viewpoint is close to the wet street, making the reflected forms almost as important as the car itself. Surface differences are carefully observed: mirrorlike chrome, glossy turquoise paint, wet black asphalt, clear window glass, and matte stone walls. The color palette is cool teal and blue-gray with warm tan building faces and small yellow traffic accents. Strong sun makes bright specular points but leaves deep dark pools under the car and along the curb. Perspective lines of the street and facades carry the eye into the urban distance. The rendering is extremely precise, yet the puddle distortion adds movement and visual complexity. No readable brand text, poster, or decorative border is central to the image.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "01293f7d8cc4d64bf26da8b6816603a6c995d3f72765d083b3d9a1060b15cecb",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "The image is a square sepia photographic motion study arranged in horizontal bands of repeated side views of a runner. A pale grey-beige wall forms a plain background within each band, above a narrow strip of rough brown ground. Dark borders divide the upper and lower rows into paired sections, while the middle row stretches more continuously across the sheet. Within these divisions, the same capped man appears at successive points in a running stride, facing left in a dark long-sleeved top, loose trousers and dark shoes. Bent arms and alternating legs create small changes from one exposure to the next, with the body leaning forward and the feet extending across the ground line. Some appearances are pale and slightly ghosted, while others have darker, more distinct contours. Clothing folds remain broadly readable, but facial detail is soft and subordinate to the repeated body shapes. Fine grain, faint scuffs and uneven exposure give the pale surfaces an aged photographic-print texture. Soft, diffuse light produces modest tonal modelling and subdued ground shadows, maintaining comparable visibility across the sequence. Narrow gaps and dark dividing rules provide a measured rhythm against the repeated movement. The overall composition is orderly and analytical, balancing warm neutral tones, gently worn print surfaces and incremental changes in silhouette within a compact serial layout.",
+  "full_prompt_zh": "这是一幅方形棕褐色摄影动作研究，多组跑者侧面影像排列成横向条带。每个条带内，浅灰米色素墙构成背景，下方是一窄条粗糙棕色地面。深色边框将上排和下排分成成对区域，中间一排则较连续地横贯画面。在这些分区中，同一位戴帽男子以连续跑步瞬间重复出现，朝向左侧，穿深色长袖上衣、宽松长裤和深色鞋子。弯曲手臂与交替双腿使相邻曝光产生细小变化，身体前倾，双脚沿地面线向两侧伸展。部分影像较浅并略带残影，另一些较暗且轮廓清楚。衣褶的大形仍可辨认，面部细节柔软，次于重复身体形状的节奏。细颗粒、轻微擦痕和不均匀曝光，使浅色区域带有老照片印面般的质感。柔和漫射光形成轻度明暗塑形与低调地面阴影，让各段影像的可读程度相近。窄间隔和深色分隔线为反复动作建立有分寸的节奏。整体排列有序且带分析意味，在紧凑连续版式中平衡暖中性色、轻度磨损的印面和剪影的逐步变化。",
+  "style_prompt_en": "Sequential photography organizes repeated forms into horizontal bands with measured spacing and thin dark divisions. Warm sepia-grey and near-monochrome values emphasize contour and incremental positional change over colour variety. Slightly uneven exposures, occasional faint ghosting and fine grain give the surface an aged print character. Clearer dark outlines alternate with softer pale impressions, creating a controlled rhythm within the series. Diffuse even light and restrained tonal modelling maintain legibility across the repeated frames, while shallow spatial depth keeps attention on the serial arrangement. The overall effect is analytical and quietly tactile, combining orderly repetition with subtle photographic irregularity.",
+  "style_prompt_zh": "序列摄影以有分寸的间隔和深色细分区，将重复形体组织为横向条带。暖棕灰及近单色明暗突出轮廓和逐步位置变化，色彩变化则较少。略不均匀的曝光、偶见的浅淡残影与细颗粒形成老照片印面质感。较清楚的深色轮廓与柔淡影像交替，在序列内建立受控节奏。均匀漫射光和克制明暗塑形使重复画格保持易读，较浅空间纵深将注意力留给连续排列。整体兼具分析性与安静触感，将有序重复同细微摄影不规则性结合起来。",
+  "theme_en": "A sepia photographic motion study repeats a side-view runner in horizontal bands.",
+  "theme_zh": "棕褐色摄影动作研究以横向条带重复呈现侧面的跑者。",
+  "wh_ratio": "1:1",
+  "id": "3065",
+  "name": "Muybridge sequence",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/muybridge-sequence",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "6c0a92a62619725e9e89381d6f4178f0165a4604d70fe60194da079421da18fb",
+    "gpt_submission_prompt": "The image is a square sepia photographic motion study arranged in horizontal bands of repeated side views of a runner. A pale grey-beige wall forms a plain background within each band, above a narrow strip of rough brown ground. Dark borders divide the upper and lower rows into paired sections, while the middle row stretches more continuously across the sheet. Within these divisions, the same capped man appears at successive points in a running stride, facing left in a dark long-sleeved top, loose trousers and dark shoes. Bent arms and alternating legs create small changes from one exposure to the next, with the body leaning forward and the feet extending across the ground line. Some appearances are pale and slightly ghosted, while others have darker, more distinct contours. Clothing folds remain broadly readable, but facial detail is soft and subordinate to the repeated body shapes. Fine grain, faint scuffs and uneven exposure give the pale surfaces an aged photographic-print texture. Soft, diffuse light produces modest tonal modelling and subdued ground shadows, maintaining comparable visibility across the sequence. Narrow gaps and dark dividing rules provide a measured rhythm against the repeated movement. The overall composition is orderly and analytical, balancing warm neutral tones, gently worn print surfaces and incremental changes in silhouette within a compact serial layout.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "012829e8a212f4a9c889b532d306b9f0884cd0c9bf06e367008d827e55aa7aef",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

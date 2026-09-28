@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square fashion photograph presents a person from the waist up beneath a cloudless muted turquoise sky. They wear a sharply tailored pale peach suit jacket with broad lapels, while short light-brown hair curves out at the sides. Both hands hold a large bouquet of clustered peach, coral, and cream flowers directly in front of the face, obscuring every facial feature. The stems angle downward and cross at the chest; a small portion of the neck remains visible beneath the blossoms. The jacket catches warm late-day sun on its shoulders and sleeves, creating clean cream highlights and gentle apricot shadows. The flower heads are richly textured, with many curled petals and small irregular color changes, in contrast to the suit's smooth planes and the sky's broad flat field. Framing is direct and centered, with the bouquet as a rounded mass against the simple blue-green background. There is no additional setting, readable text, or extra prop. The image feels surreal but visually restrained: one impossible substitution is staged as a crisp editorial portrait. Fine photographic detail in petals, fingers, and tailored seams grounds the concept, while large empty sky gives the central color contrast room to breathe.",
+  "full_prompt_zh": "一张方形时装照片在无云、低饱和青绿色天空下呈现一位腰部以上的人物。人物穿裁剪利落的浅桃色西装外套，宽驳领清楚，短浅棕发从两侧微微弯出。双手将一大束密集的桃、珊瑚与奶油色花朵举在脸前，遮住所有面部特征。花茎向下斜伸，在胸前交叉；花朵下方还能看见一小段颈部。傍晚暖阳落在西装肩部和袖子上，形成干净的奶油色亮面与浅杏色阴影。花头肌理丰富，有许多卷曲花瓣和细小不规则色变，对照西装平滑平面与天空大片纯色。取景直接居中，花束作为圆浑形体立在简单的蓝绿背景前。没有额外场景、可读文字或多余道具。画面超现实却在视觉上克制：一次不可思议的置换被拍成清晰的编辑肖像。花瓣、手指和剪裁缝线的细腻摄影细节使概念落地，大片空天空则给中央色彩对比留出空间。",
+  "style_prompt_en": "Conceptual editorial photography with one bold visual substitution, centered symmetry, crisp tactile detail, and a broad unbroken pastel color field. Warm peach, coral, cream, and cool muted turquoise create a clean complementary balance. Soft directional sun gives smooth tailoring-like surfaces clear planes while clustered organic texture stays richly varied. Minimal props and abundant negative space make the strange gesture feel matter-of-fact.",
+  "style_prompt_zh": "概念式编辑摄影，以一次大胆视觉置换、居中对称、清晰可触细节和大块不间断粉彩色场组成。暖桃、珊瑚、奶油与冷低饱和青绿形成洁净的互补平衡。柔和定向阳光使平滑剪裁般表面有明确块面，而团簇有机肌理保持丰富变化。极少道具与充足留白使奇异动作显得理所当然。",
+  "theme_en": "A pastel-suited figure holding a bouquet in front of the face",
+  "theme_zh": "一位穿粉彩西装的人以花束遮住面部",
+  "wh_ratio": "1:1",
+  "id": "4453",
+  "name": "Olivia Locher",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/olivia-locher.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "91d5244959b71b1fc3cdfcdc1e3a62a0ab039e4f7d4fd634383701a7dd4b40ee",
+    "gpt_submission_prompt": "A square fashion photograph presents a person from the waist up beneath a cloudless muted turquoise sky. They wear a sharply tailored pale peach suit jacket with broad lapels, while short light-brown hair curves out at the sides. Both hands hold a large bouquet of clustered peach, coral, and cream flowers directly in front of the face, obscuring every facial feature. The stems angle downward and cross at the chest; a small portion of the neck remains visible beneath the blossoms. The jacket catches warm late-day sun on its shoulders and sleeves, creating clean cream highlights and gentle apricot shadows. The flower heads are richly textured, with many curled petals and small irregular color changes, in contrast to the suit's smooth planes and the sky's broad flat field. Framing is direct and centered, with the bouquet as a rounded mass against the simple blue-green background. There is no additional setting, readable text, or extra prop. The image feels surreal but visually restrained: one impossible substitution is staged as a crisp editorial portrait. Fine photographic detail in petals, fingers, and tailored seams grounds the concept, while large empty sky gives the central color contrast room to breathe.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "1c54c95b2bb630a89435db281e5be0bdd693b88bbe43c53855fd388f849c66a7",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

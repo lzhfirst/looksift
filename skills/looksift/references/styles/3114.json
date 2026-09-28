@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A romantic historical oil painting shows three courtiers standing quietly beside a castle moat. The nearest figure in a long russet gown occupies the right foreground, her pale veil falling in a clean vertical line against the richly patterned fabric. Two companions stand just behind in warm gold and ivory, their profiles aligned toward the water. Across the moat, small groups gather near a stone landing, while massive round towers and banners rise behind them. The broad green water fills the lower left and holds soft vertical reflections of the crowd and masonry. Every material is carefully observed: rough stone blocks, embroidered sleeves, trailing cloth, foliage at the bank, and the water's restrained ripples. Yet the painting keeps a measured hierarchy, giving the foreground figures firmer modeling and letting the distant gathering soften into small color notes. Light is overcast and even, with gentle illumination across pale fabric and faces rather than sharp theatrical contrast. Russet, cream, olive, moss green, and weathered gray form a subdued palette, enlivened by small heraldic reds. The arrangement is balanced between the tall vertical figures at right and the solid castle mass at left. A narrow path and the water edge guide the eye toward the far landing. The mood is ceremonial but quiet, with patient detail and naturalistic depth holding the scene together.",
+  "full_prompt_zh": "一幅浪漫的历史油画描绘三位宫廷人物安静地站在城堡护城河旁。最近处身穿赤褐长裙的人物占据右前景，浅色面纱沿着纹样丰富的衣料垂成清楚的竖线。身后两位同伴分别穿暖金色与象牙白衣裙，侧脸朝向水面。河对岸，小群人聚在石台附近，巨大的圆塔和旗帜在他们身后升起。宽阔绿水填满左下方，柔软的竖向倒影映着人群和石墙。每种材料都经过细心观察：粗糙石块、刺绣衣袖、拖地布料、岸边植物以及水面克制的涟漪。然而绘画仍有明确的层级，前景人物塑形较实，远处聚会则柔化成细小色点。阴天的光线均匀，浅色布料和面孔被温和照亮，而没有锐利的戏剧性对比。赤褐、奶油白、橄榄色、苔绿和风化灰组成柔和色盘，少量纹章红加以提亮。构图由右侧高挑的竖向人物与左侧坚实的城堡体量取得平衡。狭窄小路和水边把目光引向对岸平台。气氛带有仪式感却安静，耐心描绘的细节与自然主义纵深将场景连成整体。",
+  "style_prompt_en": "A romantic realist oil painting with patient material detail and soft atmospheric distance. Tall warm russet and ivory forms stand against weathered gray stone and deep moss-green water. Embroidered surface marks, foliage flecks, rough masonry, and gentle reflections are carefully differentiated. Overcast light spreads evenly, brightening pale areas without hard shadow. The composition balances a strong vertical group on one side against a broad solid mass on the other, while a curved lower edge leads into the distance. Distant small marks soften but keep the narrative space alive.",
+  "style_prompt_zh": "一幅浪漫主义写实油画，耐心描绘材料细节，并以柔和大气层次处理远景。高挑的暖赤褐与象牙色形体衬在风化灰石和深苔绿水面前。刺绣状表面笔迹、植物碎点、粗糙石纹和柔和倒影各有区别。阴天光线均匀铺开，使浅色区域明亮而没有硬阴影。构图以一侧强烈竖向组合平衡另一侧宽大的坚实体量，下方弯曲边缘将视线带向远处。远景小笔迹变软，却仍让叙事空间保持生气。",
+  "theme_en": "Three courtiers beside a castle moat",
+  "theme_zh": "城堡护城河旁的三位宫廷人物",
+  "wh_ratio": "1:1",
+  "id": "3114",
+  "name": "Edmund Leighton",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/edmund-leighton",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "c593fb6a885c7931b43930aa43c2d2208dbbc396f7f5b8404672efd70c2d745f",
+    "gpt_submission_prompt": "A romantic historical oil painting shows three courtiers standing quietly beside a castle moat. The nearest figure in a long russet gown occupies the right foreground, her pale veil falling in a clean vertical line against the richly patterned fabric. Two companions stand just behind in warm gold and ivory, their profiles aligned toward the water. Across the moat, small groups gather near a stone landing, while massive round towers and banners rise behind them. The broad green water fills the lower left and holds soft vertical reflections of the crowd and masonry. Every material is carefully observed: rough stone blocks, embroidered sleeves, trailing cloth, foliage at the bank, and the water's restrained ripples. Yet the painting keeps a measured hierarchy, giving the foreground figures firmer modeling and letting the distant gathering soften into small color notes. Light is overcast and even, with gentle illumination across pale fabric and faces rather than sharp theatrical contrast. Russet, cream, olive, moss green, and weathered gray form a subdued palette, enlivened by small heraldic reds. The arrangement is balanced between the tall vertical figures at right and the solid castle mass at left. A narrow path and the water edge guide the eye toward the far landing. The mood is ceremonial but quiet, with patient detail and naturalistic depth holding the scene together.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "2134ecb05fae1ce2d0d7703762ca568bfadcb76bc451bd56a10a719db0d71c6d",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

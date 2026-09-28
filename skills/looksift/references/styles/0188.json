@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square backlit woodland image looks along a dark path toward a small lone figure beneath a canopy glowing rose pink. Nearly black trees fill both side margins and much of the top, their irregular branches making a tunnel-like opening through the center. The path itself is barely visible in the lower half, appearing as a deep navy-black wedge edged by low shrubs. Near the center of the distant opening, one upright human silhouette stands on the path; only the head, shoulders, and narrowing body are legible against the light, with no visible face or clothing detail. Behind and above the figure, layers of leaves are lit in coral, magenta, and pale peach. The brightest patch lies low at the center-right of the canopy and fades upward into muted violet and cool blue-gray sky. Fine leaf clusters form a soft, densely speckled boundary between bright opening and dark tree walls. The foreground remains unlit, so most trunks and undergrowth merge into broad near-black masses rather than detailed individual plants. The image has a photographic or naturalistic cinematic quality, with atmospheric softness in the glowing distance and grain in the deep shadows. The light comes from behind the figure and vegetation, outlining a few inner branches while keeping the central person a silhouette. The dark frame, luminous vertical opening, and very small human scale create a quiet sense of passage into an uncertain place.",
+  "full_prompt_zh": "一幅方形逆光林地图像沿深暗小路望向一位孤身人物，头上树冠泛着玫瑰粉光。近黑树木填满两侧边界和顶部大部，不规则枝条在中央围出隧道般开口。下半幅路面几乎看不清，是一块深海军蓝黑的楔形，两旁有低灌木。远处开口中央附近，一个直立人形剪影站在路上；只有头、肩和向下收窄的身体在亮光前可辨，面孔和衣服细节都看不到。人物后方和上方，层层叶片被珊瑚、洋红与浅桃色照亮。最亮的一块位于树冠中央偏右的低处，向上逐渐化为柔暗紫和冷蓝灰天空。细密叶团在明亮开口和暗树墙之间形成柔软而稠密的点状边界。前景没有受光，所以多数树干和灌丛融成宽阔近黑体块，不再有独立植物细节。图像带摄影或自然主义电影质感，发亮远处有空气柔化，深影里带颗粒。光从人物和植物身后照来，勾亮少数内部枝条，却让中央人物保持剪影。暗色框景、发亮的竖向开口和极小人物尺度，使画面有安静走向未知之处的感觉。",
+  "style_prompt_en": "Backlit naturalistic imagery holds most of the near frame in deep blue-black while a narrow distant opening carries saturated rose, coral, and violet light. Irregular silhouettes close around the bright field, so soft glowing edges become more important than interior detail. Fine clustered texture appears where backlight passes through small forms; unlit masses merge into broad darkness. The light source sits behind the subject area, preserving small focal silhouettes and atmospheric haze instead of revealing front-facing surfaces. A central path or recession narrows into the glow. The composition depends on extreme value difference, warm light inside cool shade, and a small dark marker within the opening.",
+  "style_prompt_zh": "逆光自然主义图像让近处大部分画面沉在深蓝黑色中，狭窄远处开口承载饱和玫瑰、珊瑚与紫光。不规则剪影包住亮场，因此柔和发光边缘比内部细节更重要。背光穿过细小形体处出现密集点簇纹理，未受光体块融合为宽阔黑暗。光源位于主体区域背后，留下小焦点剪影和空气雾，而非照出正面表面。中央通路或后退空间向亮处收窄。构图依赖极端明度差、冷影里的暖光和开口中的小暗点。",
+  "theme_en": "A solitary silhouette at the end of a dark path beneath rose-lit trees",
+  "theme_zh": "孤身剪影站在暗路尽头，身后树木透着玫瑰色光",
+  "wh_ratio": "1:1",
+  "id": "0188",
+  "name": "Backlit",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/backlit",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/backlit.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "05233369b1afa3e6151dd7ed855d6f61be9f1aab9b6575e9de9e0e5b93b8a573",
+    "gpt_submission_prompt": "A square backlit woodland image looks along a dark path toward a small lone figure beneath a canopy glowing rose pink. Nearly black trees fill both side margins and much of the top, their irregular branches making a tunnel-like opening through the center. The path itself is barely visible in the lower half, appearing as a deep navy-black wedge edged by low shrubs. Near the center of the distant opening, one upright human silhouette stands on the path; only the head, shoulders, and narrowing body are legible against the light, with no visible face or clothing detail. Behind and above the figure, layers of leaves are lit in coral, magenta, and pale peach. The brightest patch lies low at the center-right of the canopy and fades upward into muted violet and cool blue-gray sky. Fine leaf clusters form a soft, densely speckled boundary between bright opening and dark tree walls. The foreground remains unlit, so most trunks and undergrowth merge into broad near-black masses rather than detailed individual plants. The image has a photographic or naturalistic cinematic quality, with atmospheric softness in the glowing distance and grain in the deep shadows. The light comes from behind the figure and vegetation, outlining a few inner branches while keeping the central person a silhouette. The dark frame, luminous vertical opening, and very small human scale create a quiet sense of passage into an uncertain place.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "9682a699b9eb436177ee0cf1f200b3db4e66f68b0cc087b55a4daf5a27b08086",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

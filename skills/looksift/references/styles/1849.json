@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square modernist landscape painting shows a large yellow moon hanging above a colorful shoreline and still lake. The moon is almost perfectly round and occupies the upper center-right, its surface made from pale cream and golden faceted patches. A smaller orange circle peeks from behind a low purple hill beneath it. Across the middle of the image, blocky rocks and slender trees rise along the shore in pink, coral, orange, mauve, blue, and deep violet. The trunks are thin vertical strokes, while their canopies are simplified into small dark rounded shapes. Behind them, hills overlap in broad bands of lilac, indigo, and muted blue. The foreground lake mirrors the bright moon, trees, rocks, and sky as broken upright strips of yellow, orange, magenta, and cobalt. A few nearly horizontal dark lines across the water break the reflection and establish the quiet surface. The painting has no photoreal light source beyond the depicted moon, yet the warm circle seems to brighten the surrounding color blocks. Edges are decisive but not mechanically straight; visible brush texture and layered paint remain inside each geometric area. The viewpoint is level with the water, dividing land and reflection near the middle. The oversized moon and repeated vertical trees lend a dreamlike scale, while the mirrored lower half balances the composition. Warm yellows and oranges glow against cool purple and blue, producing a luminous decorative rhythm. The whole image feels tranquil and theatrical, turning a simple lakeshore into a field of bold color and shape.",
+  "full_prompt_zh": "一幅方形现代主义风景画呈现一轮大黄月悬在彩色湖岸和静水上方。月亮近乎正圆，占据上方偏右中央，表面由浅奶油和金色多面形色块组成。其下低紫山后露出一枚较小橙圆。画面中部，方块状岩石和纤细树木沿岸升起，呈粉、珊瑚、橙、淡紫、蓝和深紫。树干是细竖笔，树冠简化为小而深的圆形。后方山丘以淡紫、靛蓝和低饱和蓝色宽带重叠。前景湖水把亮月、树、石和天空映成黄色、橙色、洋红和钴蓝断续竖条。几道近乎水平的深线横过水面，打断倒影并建立安静水面。画作没有除画中月亮外的照片般光源，但暖圆似乎照亮周围色块。边缘明确却非机械笔直，每块几何区域内仍保留可见笔触与层漆。视点与水面同高，把陆地与倒影大约在中线分开。过大的月亮与重复竖树带来梦境般尺度，下半镜像保持构图平衡。暖黄和橙在冷紫与蓝前发亮，形成明亮装饰节奏。整幅图宁静而有戏剧性，把简单湖岸变成大胆色彩与形状的场域。",
+  "style_prompt_en": "Modernist color painting simplifies a scene into broad faceted patches, thin vertical accents, and broken mirrored strips. A large warm circular light can dominate cool layered bands of purple, indigo, cobalt, and blue. Coral, orange, gold, and cream supply concentrated contrast. Keep edges decisive but visibly painted, with texture within flat-looking shapes. A near-central horizon allows the lower field to echo upper forms through fragmented reflection. The result is luminous, theatrical, and calm, using color geometry more than naturalistic modeling.",
+  "style_prompt_zh": "现代主义彩色绘画把场景简化为宽阔多面色块、细竖向重音和断续镜像条带。巨大暖色圆光可主导冷紫、靛蓝、钴蓝与蓝色层带。珊瑚、橙、金和奶油色提供集中的反差。边缘明确却显出画笔痕迹，扁平形状内部仍有纹理。近中线地平线让下方区域通过碎裂倒影呼应上方形体。效果发亮、戏剧化而平静，更依靠色彩几何而非自然主义塑形。",
+  "theme_en": "A huge golden moon above colorful rocks and their lake reflections",
+  "theme_zh": "巨大的金月悬在彩色岩石及湖中倒影上方",
+  "wh_ratio": "1:1",
+  "id": "1849",
+  "name": "Stephen Quiller",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/stephen-quiller",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/stephen-quiller.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "45116ba5f2dad47b162025a37213d49053d2e16ff9032d10a73eb0302dc0302c",
+    "gpt_submission_prompt": "A square modernist landscape painting shows a large yellow moon hanging above a colorful shoreline and still lake. The moon is almost perfectly round and occupies the upper center-right, its surface made from pale cream and golden faceted patches. A smaller orange circle peeks from behind a low purple hill beneath it. Across the middle of the image, blocky rocks and slender trees rise along the shore in pink, coral, orange, mauve, blue, and deep violet. The trunks are thin vertical strokes, while their canopies are simplified into small dark rounded shapes. Behind them, hills overlap in broad bands of lilac, indigo, and muted blue. The foreground lake mirrors the bright moon, trees, rocks, and sky as broken upright strips of yellow, orange, magenta, and cobalt. A few nearly horizontal dark lines across the water break the reflection and establish the quiet surface. The painting has no photoreal light source beyond the depicted moon, yet the warm circle seems to brighten the surrounding color blocks. Edges are decisive but not mechanically straight; visible brush texture and layered paint remain inside each geometric area. The viewpoint is level with the water, dividing land and reflection near the middle. The oversized moon and repeated vertical trees lend a dreamlike scale, while the mirrored lower half balances the composition. Warm yellows and oranges glow against cool purple and blue, producing a luminous decorative rhythm. The whole image feels tranquil and theatrical, turning a simple lakeshore into a field of bold color and shape.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "68056ea27986db58dc0bb8defbbf0ad97b6dcf4eaf76ba9db3f108b792baa4bc",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

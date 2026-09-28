@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A formally dressed rider moves toward the foreground on a dark horse through a crowded street procession. He wears a brimmed hat and long dark coat, holding the reins close to his chest. The horse's body cuts diagonally across the lower right, its head lowered and legs suggested by bold angular strokes. Behind it, a pink horse and several bundled figures gather in a dense shallow space, their faces and clothing reduced to pointed planes of color. Buildings or banners rise only as fragmented orange shapes in the background, so the street feels compressed rather than carefully mapped. The image is an energetic expressionist oil painting. Hot orange, coral, magenta, and rose collide with emerald, turquoise, cobalt, and inky blue-black. Heavy dark lines sharpen the edges of bodies and objects, but broad visible brushstrokes still break and rejoin the forms. The pigment appears thick in places, with scratched or dragged passages that reveal the physical movement of the brush. Faces are recognizable but slightly distorted, emphasizing gaze and posture over delicate likeness. Light is carried by saturated color rather than naturalistic sun or shadow; a bright orange upper field presses against the dark rider and horse. The square composition is packed to its edges and layered in short depth, creating a restless rhythm of diagonals and overlapping silhouettes. The finished scene feels vivid, tense, and urban, with motion conveyed by jagged construction and rapid color shifts.",
+  "full_prompt_zh": "一名衣着正式的骑手骑着深色马，在拥挤的街头队列中向前景行进。他戴宽檐帽，穿深色长外套，将缰绳收在胸前。马身斜切过右下区域，低垂的马头与腿部由大胆的棱角笔触概括。后方是一匹粉色马和数位聚集的人物；在密集而浅的空间中，脸部与衣服被归纳为尖锐的色彩平面。建筑或旗帜只以背景中碎片般的橙色形态升起，因此街道显得压缩，而非经过精确测绘。画面是一幅充满能量的表现主义油画。炽橙、珊瑚、洋红与玫瑰色同祖母绿、青绿、钴蓝和墨蓝黑相撞。粗重深线强化人物与物体的边缘，宽阔可见的笔触又让形态断裂并重新接合。颜料局部显得厚重，刮擦和拖曳的色痕显露画笔运动。面孔仍可识别，却略有变形，强调视线和姿态胜于精细肖似。光感由饱和色彩承担，而非自然主义的阳光或阴影；明亮橙色上部区域挤压深色骑手和马。方形构图几乎塞满边缘，纵深很短，斜线与重叠剪影形成躁动节奏。成品鲜烈、紧张，带有城市气息，运动感来自锯齿状构造与快速的色彩变换。",
+  "style_prompt_en": "A vivid expressionist oil-paint language of angular planes, heavy dark contours, and broad directional brushstrokes. Saturated hot orange, pink, and magenta clash with emerald, turquoise, cobalt, and blue-black. Color carries the light more than realistic illumination; complementary patches push and pull across a shallow, crowded space. Forms stay recognizable while their proportions and edges bend toward emotional intensity. Thick pigment, dragged marks, and scratchy interruptions keep the surface active. A packed square composition builds movement through diagonals, overlapping silhouettes, and abrupt color transitions, producing an urgent urban rhythm.",
+  "style_prompt_zh": "鲜烈的表现主义油画语言，由棱角分明的平面、粗重深色轮廓和宽阔的定向笔触构成。饱和的热橙、粉红与洋红撞上祖母绿、青绿、钴蓝及蓝黑。色彩比写实光照更直接地承担光感；互补色斑在拥挤浅空间中相互推拉。形态保持可辨，但比例和边缘朝情绪强度弯折。厚颜料、拖曳痕与带刮擦感的中断让表面持续活跃。紧密的方形构图借斜线、重叠剪影与突兀色彩过渡制造运动，形成急促的都市节奏。",
+  "theme_en": "A formally dressed rider moving through a crowded street on a dark horse",
+  "theme_zh": "一名衣着正式的骑手骑着深色马穿行拥挤街道",
+  "wh_ratio": "1:1",
+  "id": "4208",
+  "name": "Ernst Ludwig Kirchner",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/ernst-ludwig-kirchner.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "f13333da249c589ccd364c6724968d073558a2db4212c6812ad38041021da3ba",
+    "gpt_submission_prompt": "A formally dressed rider moves toward the foreground on a dark horse through a crowded street procession. He wears a brimmed hat and long dark coat, holding the reins close to his chest. The horse's body cuts diagonally across the lower right, its head lowered and legs suggested by bold angular strokes. Behind it, a pink horse and several bundled figures gather in a dense shallow space, their faces and clothing reduced to pointed planes of color. Buildings or banners rise only as fragmented orange shapes in the background, so the street feels compressed rather than carefully mapped. The image is an energetic expressionist oil painting. Hot orange, coral, magenta, and rose collide with emerald, turquoise, cobalt, and inky blue-black. Heavy dark lines sharpen the edges of bodies and objects, but broad visible brushstrokes still break and rejoin the forms. The pigment appears thick in places, with scratched or dragged passages that reveal the physical movement of the brush. Faces are recognizable but slightly distorted, emphasizing gaze and posture over delicate likeness. Light is carried by saturated color rather than naturalistic sun or shadow; a bright orange upper field presses against the dark rider and horse. The square composition is packed to its edges and layered in short depth, creating a restless rhythm of diagonals and overlapping silhouettes. The finished scene feels vivid, tense, and urban, with motion conveyed by jagged construction and rapid color shifts.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "bd4ad407cce2c6efcb1261517ddd4c8306bd58642ffcd24b3c64a52785ee0084",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

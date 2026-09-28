@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white street photograph depicts a narrow waterside platform jutting from deep shadow at the left. A single small person stands near its edge in profile, wearing a brimmed hat and dark coat, with a few empty chairs or railings nearby. To the right, an enormous pale wall and open hazy space fill most of the frame. Several broad shafts of sunlight descend diagonally from upper left toward lower right, cutting through dust or mist and washing the wall with layered gray bands. The water at the bottom is dark and lightly rippled, catching only a thin spill of brightness near the platform. The figure is almost pure black, reduced to a precise silhouette against luminous haze. A solid vertical mass at the far left frames the scene like a doorway; beyond it, architectural details are minimal. The camera is distant and level, making the human presence very small inside the geometric arrangement. High contrast separates the black platform from the silver-gray atmosphere, while fine grain and soft air preserve the physical feel of a film print. The photograph is patient and quiet, with its drama arising from the meeting of one still figure, broad empty space, and visible light beams.",
+  "full_prompt_zh": "一张方形黑白街头照片描绘一条从左侧深影中伸出的狭窄水边平台。一个很小的人戴宽檐帽、穿深外套，侧身站在边缘附近，旁边有几把空椅或栏杆。右侧巨大的浅色墙面与开阔薄雾空间填满画框大部分。数道宽日光束从左上向右下斜落，穿过尘埃或水雾，在墙面上洗出层层灰带。底部水面深暗、微有波纹，只在平台附近接住一线亮光。人影几乎纯黑，在发亮薄雾前成为准确剪影。最左侧坚实竖向体块像门框一样围住场景；之外建筑细节极少。相机位于远处并保持水平，使人的存在在几何布置中显得极小。高反差分开黑平台和银灰空气，细颗粒与柔软空气保留胶片印相的物理感。照片耐心而安静，戏剧性来自一个静止身影、宽阔空处与可见光束的相遇。",
+  "style_prompt_en": "Poetic black-and-white street photography with a tiny near-black silhouette set against enormous silver-gray atmospheric space. Broad diagonal shafts of light cross strict vertical framing and a low dark horizontal base. Fine film grain, mist-softened surfaces, crisp silhouette edges, and deep shadow create geometric calm. The tonal hierarchy is strong but the illuminated air remains gentle and layered.",
+  "style_prompt_zh": "诗意黑白街头摄影，以极小近黑剪影对照巨大银灰空气空间。宽阔斜光束横过严格竖向框边与低处深色水平底座。细胶片颗粒、雾中柔化的表面、清楚剪影边缘及深影组成几何般平静。调子层级强烈，受光空气却温和且有层次。",
+  "theme_en": "A tiny silhouette at a waterside platform under diagonal sunbeams",
+  "theme_zh": "水边平台上的小剪影与斜射日光",
+  "wh_ratio": "1:1",
+  "id": "4499",
+  "name": "Fan Ho",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/fan-ho.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "d1665f1df98f98540ac0d63d53663c73ee0e6a06ef73e0d31f2363e98a4f5b1f",
+    "gpt_submission_prompt": "A square black-and-white street photograph depicts a narrow waterside platform jutting from deep shadow at the left. A single small person stands near its edge in profile, wearing a brimmed hat and dark coat, with a few empty chairs or railings nearby. To the right, an enormous pale wall and open hazy space fill most of the frame. Several broad shafts of sunlight descend diagonally from upper left toward lower right, cutting through dust or mist and washing the wall with layered gray bands. The water at the bottom is dark and lightly rippled, catching only a thin spill of brightness near the platform. The figure is almost pure black, reduced to a precise silhouette against luminous haze. A solid vertical mass at the far left frames the scene like a doorway; beyond it, architectural details are minimal. The camera is distant and level, making the human presence very small inside the geometric arrangement. High contrast separates the black platform from the silver-gray atmosphere, while fine grain and soft air preserve the physical feel of a film print. The photograph is patient and quiet, with its drama arising from the meeting of one still figure, broad empty space, and visible light beams.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "2db1f8ecc0e0b6663ebeaae331c8418f125375a9a7b676ed4e5e5e7ef2c87671",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

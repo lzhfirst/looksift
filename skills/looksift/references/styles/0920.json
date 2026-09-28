@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-ink cartoon on warm white paper shows two people standing in conversation near the center-left. A tall thin man in jacket and trousers leans slightly forward, his large nose and round glasses drawn with quick decisive lines. Opposite him, a woman in a simple dark dress stands with arms crossed, dark bobbed hair framing a calm but skeptical face. Farther back at right, a third small person sits at a round table, face turned toward the pair, providing a subtle social context. The page around them remains largely empty; only a few faint lines suggest floor and table legs. The bodies are outlined with lively uneven pen strokes, while gray wash or dense hatching darkens jackets, dress, and shoes. Anatomical proportions are gently exaggerated, especially the tall man's length and the heads' expressive shape. Light is simply the untouched white paper, with no elaborate shadows or background. A small handwritten mark may sit beneath the figures but does not serve as a caption. The relationship among gazes and postures carries the scene's humor. The image feels economical, conversational, and wry, with ample negative space allowing every gesture to register.",
+  "full_prompt_zh": "一幅方形暖白纸上的黑墨漫画呈现两人于中央偏左站着交谈。一位瘦高男子穿夹克长裤，略向前倾，大鼻与圆眼镜由快速果断线条描出。对面穿简单深裙的女性双臂交叉，深色短发围着平静却怀疑的脸。更后方右侧第三个小人物坐在圆桌旁，脸转向他们，提供微妙社会情境。周围页面大面积空白，只有几根淡线暗示地面与桌脚。身体以活跃不均钢笔线勾出，灰洗或密排线压深夹克、裙和鞋。解剖比例轻微夸张，尤其男子长度与头部富表情的形状。光仅是未涂的纸白，没有繁复阴影或背景。人物下方可有一小处手写痕，但并非内容字幕。目光与姿势关系承担场景幽默。画面经济、对话性强而机敏，充足留白使每个动作都能显出。",
+  "style_prompt_en": "Economical black-ink cartooning with loose variable-weight contours, a few gray hatch or wash masses, gently exaggerated proportions, and expansive warm-white page space. Gesture and relational spacing carry meaning in place of detailed scenery. Page light stays even; minimal ground marks anchor the forms. The hand-drawn line remains nimble, observant, and dryly humorous.",
+  "style_prompt_zh": "经济的黑墨漫画，以松散粗细变化轮廓、少量灰排线或洗染大形、轻微夸张比例和宽阔暖白纸空间组成。动作与彼此间距替代详尽景物承担意义。纸面光均匀，极少地面标记稳定形体。手绘线灵活、善于观察且含蓄幽默。",
+  "theme_en": "A sparse ink cartoon of two people conversing with a seated observer",
+  "theme_zh": "一幅两人交谈、旁有坐者的稀疏墨线漫画",
+  "wh_ratio": "1:1",
+  "id": "0920",
+  "name": "Jules Feiffer",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/jules-feiffer",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/jules-feiffer.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "442756e9dcafd059edc38778354d52cb2350d1076f816308a0995f8a26537551",
+    "gpt_submission_prompt": "A square black-ink cartoon on warm white paper shows two people standing in conversation near the center-left. A tall thin man in jacket and trousers leans slightly forward, his large nose and round glasses drawn with quick decisive lines. Opposite him, a woman in a simple dark dress stands with arms crossed, dark bobbed hair framing a calm but skeptical face. Farther back at right, a third small person sits at a round table, face turned toward the pair, providing a subtle social context. The page around them remains largely empty; only a few faint lines suggest floor and table legs. The bodies are outlined with lively uneven pen strokes, while gray wash or dense hatching darkens jackets, dress, and shoes. Anatomical proportions are gently exaggerated, especially the tall man's length and the heads' expressive shape. Light is simply the untouched white paper, with no elaborate shadows or background. A small handwritten mark may sit beneath the figures but does not serve as a caption. The relationship among gazes and postures carries the scene's humor. The image feels economical, conversational, and wry, with ample negative space allowing every gesture to register.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "d7e363a87909b487260a312c1870e50e8763d63fd3d367c3aa3e1550f8aa4d01",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

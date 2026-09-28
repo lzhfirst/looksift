@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square worn monochrome photograph shows a young woman seated close to the camera with her head tilted slightly down and left. Dark smooth hair is parted and drawn back, leaving the pale face unobstructed. Her eyes are lowered and one hand touches the cheek near the jaw, giving the pose a private, thoughtful stillness. A light blouse with generous sleeves contrasts with a dark vest or bodice over the torso. The lower part of her arms and clothing soften into the dim foreground, while a vague dark interior remains behind her. The print is not clean: milky haze, scratches, cloudy edges, and scattered specks pass across the background and partially over the figure. The brightest area is the woman's face and upper sleeve; deep charcoal surrounds the head and gathers in the vest. Light appears to enter softly from the upper left, catching brow, nose, cheek, and knuckles, with mild shade beneath the chin and along the far sleeve. The image retains photographic detail at the eyelashes and mouth, but its worn emulsion gives the edges a fragile, dissolved character. No inscription is readable. The overall composition is intimate and subdued, holding a quiet gesture inside a narrow silver-gray range and the visible imperfections of an old photographic process.",
+  "full_prompt_zh": "一幅方形磨旧黑白照片呈现一位靠近镜头坐着的年轻女子，头微微向左下倾。平滑深发中分并向后收，让浅色脸部完全露出。她双眼低垂，一只手触及下颌附近的脸颊，使姿态带私密而沉思的静止。宽袖浅色上衣与上身深背心或紧身衣相对。双臂下部和衣物柔化进昏暗前景，身后是模糊的深色室内。印片并不干净：乳白雾、划痕、浑浊边缘与散落斑点越过背景，部分也覆在人物上。最亮区域是女子的脸与上部衣袖；深炭色围住头部并聚在背心。光似从左上柔和进入，照到眉、鼻、面颊和指节，下巴下及远侧袖子留有温和阴影。照片在睫毛与嘴部仍保留细节，但磨损乳剂令边缘脆弱而溶解。没有可读铭文。整体构图亲密而收敛，在狭窄银灰色阶和旧摄影过程的可见瑕疵中保留一个安静动作。",
+  "style_prompt_en": "Collodion-like photography combines soft silver-gray modeling with visible emulsion wear. Milky haze, cloudy borders, fine scratches, and scattered specks pass across a deep charcoal field, occasionally veiling otherwise precise details. Near-white highlights are concentrated in a small upper focal area; surrounding regions fade through gray into dense black. Soft light from one upper side gives rounded form and mild under-edge shadow without crisp modern contrast. Tight framing and a narrow neutral palette make the imperfections feel integral rather than added decoration. The image is intimate, fragile, and quietly aged.",
+  "style_prompt_zh": "近似火胶棉的摄影把柔和银灰塑形与可见乳剂磨损结合。乳白薄雾、浑浊边缘、细划痕和散点越过深炭色底面，偶尔遮住原本精确的细节。近白高光集中于上方小片焦点，周围区域经灰色淡入浓黑。来自上方一侧的柔光给予圆润体积与温和下沿阴影，没有现代照片般锐利反差。紧密取景和狭窄中性色域使瑕疵成为整体一部分，而非外加装饰。图像亲密、脆弱且安静陈旧。",
+  "theme_en": "A woman with lowered eyes in a worn collodion portrait",
+  "theme_zh": "陈旧火胶棉肖像中低垂双眼的女子",
+  "wh_ratio": "1:1",
+  "id": "4196",
+  "name": "Collodion print",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/collodion-print.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "b38db7dcd0048aadda0fdd5e67d2fc5f8cac6843880396040c4105058fa03b6f",
+    "gpt_submission_prompt": "A square worn monochrome photograph shows a young woman seated close to the camera with her head tilted slightly down and left. Dark smooth hair is parted and drawn back, leaving the pale face unobstructed. Her eyes are lowered and one hand touches the cheek near the jaw, giving the pose a private, thoughtful stillness. A light blouse with generous sleeves contrasts with a dark vest or bodice over the torso. The lower part of her arms and clothing soften into the dim foreground, while a vague dark interior remains behind her. The print is not clean: milky haze, scratches, cloudy edges, and scattered specks pass across the background and partially over the figure. The brightest area is the woman's face and upper sleeve; deep charcoal surrounds the head and gathers in the vest. Light appears to enter softly from the upper left, catching brow, nose, cheek, and knuckles, with mild shade beneath the chin and along the far sleeve. The image retains photographic detail at the eyelashes and mouth, but its worn emulsion gives the edges a fragile, dissolved character. No inscription is readable. The overall composition is intimate and subdued, holding a quiet gesture inside a narrow silver-gray range and the visible imperfections of an old photographic process.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "e759f1bdfc067d0d6b1d7c5bfe795f573f6eaf0b382c8831cea1c9d53ad5f07d",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square miniature painting shows a broad dark-blue river running horizontally between a pale palace on the far bank and a small flowered island in the foreground. Two tiny figures meet near the island's center: one sits in a light garment while the other stands in ochre and blue. Round trees with carefully dotted foliage flank them, including a pink-blossomed tree at the right. Across the water, an arcaded cream-and-rose building stretches beneath tiered rocky hills. The hills are drawn in rhythmic bands of pink, tan and blue-gray, each contour made legible by fine dark lines. Tiny birds or boats mark the nearly black water. The island edge consists of small ochre stones; low blossoms and blades of grass fill its otherwise empty pockets. There is no Western atmospheric vanishing point. Forms remain crisply bounded and stacked in shallow layers from foreground garden to water, palace and mountains. The palette stays jewel-like yet restrained: midnight blue, dusty rose, muted gold, ivory and silvery foliage. The whole image has a meticulous hand-painted surface, with miniature marks resolving trees, stone and architecture at a very small scale. The square presentation preserves a horizontal scene within it, leaving dark bands above and below. The quiet meeting feels intimate even though landscape and architecture occupy most of the view.",
+  "full_prompt_zh": "一幅正方形细密画呈现一条宽阔深蓝河流横贯画面，远岸是浅色宫殿，前景是一座开花小岛。两位微小人物在岛中央附近相遇：一人身着浅衣坐着，另一人穿赭黄与蓝衣站立。两侧有叶片由细点构成的圆冠树，右边是一棵粉花树。水对岸，带拱廊的乳白与玫色建筑延伸在层叠岩山之下。山体由粉、黄褐和蓝灰色节奏带构成，每道轮廓都由细深线清楚界定。极深的水面上有微小鸟或舟的痕迹。岛岸由细小赭石组成，低矮花朵和草叶填满其余空处。图像没有西方大气透视的消失点；形体保持明确边界，从前景花园到水、宫殿和山体逐层浅叠。色谱如宝石却克制：午夜蓝、灰粉、压低金色、象牙白和银色叶丛。整个画面有精密手绘表面，微型笔痕在极小尺度上说明树、石和建筑。正方形呈现中保留横幅场景，上下留有深色条带。尽管风景与建筑占据大半视野，这次安静相遇仍显亲密。",
+  "style_prompt_en": "The style is meticulous miniature painting with crisply bounded shallow layers and extremely fine repeated marks. Horizontal spatial bands organize a compact narrative across a square support. Dark jewel tones meet dusty pink, muted gold and ivory; tiny dotted textures distinguish foliage, stone and surface ornament. Contours remain explicit rather than dissolving in atmospheric perspective. Small figures or accents receive precise attention without overwhelming the patterned terrain. The result is intimate, decorative and patiently observed at miniature scale.",
+  "style_prompt_zh": "这种风格是精密细密画，具有边界清楚的浅叠层次和极细重复笔痕。水平空间带在正方形承载面中组织紧凑叙事。深宝石色与灰粉、压低金色及象牙白相遇；微小点状肌理区分叶丛、石面和表面纹饰。轮廓明确，而非消散于大气透视。微型形体或色彩重音受到精确关注，却未压过带图案的地形。结果在细小尺度上显得亲密、装饰化且耐心观察。",
+  "theme_en": "Two small figures beside a dark river beneath patterned hills",
+  "theme_zh": "纹理山丘下深色河岸边的两个人物",
+  "wh_ratio": "1:1",
+  "id": "2495",
+  "name": "Kangra painting",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/kangra-painting",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/kangra-painting.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "d347329ad509a3554dfa5c60150e1916e68e84dc58379e008996fb0d24811bce",
+    "gpt_submission_prompt": "A square miniature painting shows a broad dark-blue river running horizontally between a pale palace on the far bank and a small flowered island in the foreground. Two tiny figures meet near the island's center: one sits in a light garment while the other stands in ochre and blue. Round trees with carefully dotted foliage flank them, including a pink-blossomed tree at the right. Across the water, an arcaded cream-and-rose building stretches beneath tiered rocky hills. The hills are drawn in rhythmic bands of pink, tan and blue-gray, each contour made legible by fine dark lines. Tiny birds or boats mark the nearly black water. The island edge consists of small ochre stones; low blossoms and blades of grass fill its otherwise empty pockets. There is no Western atmospheric vanishing point. Forms remain crisply bounded and stacked in shallow layers from foreground garden to water, palace and mountains. The palette stays jewel-like yet restrained: midnight blue, dusty rose, muted gold, ivory and silvery foliage. The whole image has a meticulous hand-painted surface, with miniature marks resolving trees, stone and architecture at a very small scale. The square presentation preserves a horizontal scene within it, leaving dark bands above and below. The quiet meeting feels intimate even though landscape and architecture occupy most of the view.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "1ed052957276bfe0a48a826a8e898d5dadad83b9bdfd2354ed3d9208abfe45c3",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

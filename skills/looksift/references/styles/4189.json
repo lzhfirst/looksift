@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square gumoil-style monochrome print shows a fantastical figure whose head resembles a fish, in close profile against a mottled gray ground. A long pointed snout projects left from a large round eye and heavy gill-like folds. Behind the head, broad ribbed fins fan outward, with one dark curved band resembling a cap or harness crossing the upper form. A narrow hand or fin at the lower left holds a thin upright stick. The figure's body disappears into granular black shadow on the right, making the pale textured head the main focus. Fine etched contours describe scales, wrinkles, and fin ribs, while the surrounding ink breaks into cloudy specks, scratches, and uneven stains. The print is not a smooth grayscale photograph; deep blacks have slight gaps and light gray passages carry embedded grain. Illumination seems to come from the upper left, lifting the snout, eye ridge, and front fin but leaving the lower body nearly submerged in shadow. The head fills most of the image, with little contextual space. This close view turns a strange invented anatomy into something almost specimen-like. The overall image feels antique, curious, and slightly unsettling, with distressed printing marks giving the fantasy form physical presence.",
+  "full_prompt_zh": "一幅方形树胶油墨式单色版画近距离描绘一位头部似鱼的奇异人物侧面，背景斑驳灰色。长尖吻向左伸出，大圆眼旁是厚厚鳃状褶。头后宽阔带肋鳍向外扇开，一道像帽或束带的深色弯带横过上部。左下窄小手或鳍握一根细竖棒。身体在右侧颗粒黑影里消失，使浅色带肌理的头成为主焦点。细蚀刻轮廓描出鳞片、皱纹和鳍肋，周围油墨则裂成云状点、划痕与不均匀污迹。这不是平顺灰阶照片；深黑里有小空隙，浅灰段也嵌着颗粒。光似从左上来，提亮吻、眼脊和前鳍，下身几乎沉入阴影。头占据大部分画面，环境空间很少。贴近视角把虚构的奇异构造变得近乎标本。整体古旧、好奇而微有不安，破损印迹赋予幻想形体实在存在感。",
+  "style_prompt_en": "Gumoil-like printmaking combines etched line detail with irregular rubbed blacks and cloudy gray stains. Fine ribs, wrinkles, and stippled grain remain visible inside the larger dark masses. The palette is strictly warm gray, bone, and charcoal. Side light is expressed through paper-toned highlights and inky recesses, giving strange shapes convincing relief. Edges can be precise at the focal contour and broken, smudged, or eroded toward the surrounding field. A close compressed arrangement limits contextual space. The finish feels antique, specimen-like, and materially unpredictable.",
+  "style_prompt_zh": "树胶油墨式版画把蚀刻细线与不规则磨擦黑色、云灰污迹结合。细肋、皱纹和点状颗粒在更大深色块内仍可见。色域严格限于暖灰、骨白与炭色。侧光通过纸色高光和油墨凹暗表现，使奇异形体有可信起伏。焦点轮廓可精确，周围则断裂、擦花或侵蚀。贴近压缩布局限制环境空间。完成面古旧、近似标本，物质变化不可预测。",
+  "theme_en": "A fantastical fish-headed figure in a dark etched print",
+  "theme_zh": "深色蚀刻版画中的奇异鱼头人物",
+  "wh_ratio": "1:1",
+  "id": "4189",
+  "name": "Gumoil print",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/gumoil-print.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "54879f6c2935c123a8b85733cd2cadff78ae74eeb864fb1bf74aa822ffc1ccd4",
+    "gpt_submission_prompt": "A square gumoil-style monochrome print shows a fantastical figure whose head resembles a fish, in close profile against a mottled gray ground. A long pointed snout projects left from a large round eye and heavy gill-like folds. Behind the head, broad ribbed fins fan outward, with one dark curved band resembling a cap or harness crossing the upper form. A narrow hand or fin at the lower left holds a thin upright stick. The figure's body disappears into granular black shadow on the right, making the pale textured head the main focus. Fine etched contours describe scales, wrinkles, and fin ribs, while the surrounding ink breaks into cloudy specks, scratches, and uneven stains. The print is not a smooth grayscale photograph; deep blacks have slight gaps and light gray passages carry embedded grain. Illumination seems to come from the upper left, lifting the snout, eye ridge, and front fin but leaving the lower body nearly submerged in shadow. The head fills most of the image, with little contextual space. This close view turns a strange invented anatomy into something almost specimen-like. The overall image feels antique, curious, and slightly unsettling, with distressed printing marks giving the fantasy form physical presence.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "bdeeb0c6148311be5ca81ccc8655a2a2c560e11cf65dc1669d637c01d79a8c8c",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

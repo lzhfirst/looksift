@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A lush impressionistic oil painting places two lightly dressed figures amid a flowering garden beyond a small reflective pool. Their pale garments are glimpsed near the upper center, surrounded by dense, almost enveloping foliage; faces and hands are suggested through a few warm strokes rather than carefully outlined. Large rose-like blooms in cream, coral, pink, and vermilion punctuate the dark greens on both sides, while small yellow and blue marks flicker between leaves. The lower half opens into water, its blue-green surface broken by horizontal yellow-white reflections and scattered warm petal colors. There is no crisp dividing line between bank and pool; a dark low band and a thin bright reflection merely indicate where one changes into the other. Thick, rapid brush dabs and scraped passages give the image a tactile oil-paint surface, with brighter marks laid over deeper forest-green and umber layers. Light appears filtered through canopy, forming a glowing cream-and-gold patch high on the left and catching selected flowers, sleeves, and ripples. The figures remain subordinate to the garden's color and atmosphere, serving as calm human anchors inside the floral abundance. The composition alternates crowded, vertical foliage at the edges with a softer open channel through the middle, carrying the gaze from sparkling foreground water toward the quiet pair. The whole frame feels fragrant and sun-dappled, its loose paint making color and light more important than precise botanical detail.",
+  "full_prompt_zh": "一幅丰茂的印象派油画将两名穿浅色衣服的人物置于小小倒影水池后方的花园之中。他们的浅色衣装在上部中央若隐若现，被浓密、几乎包围身体的树叶环绕；面孔与手靠几笔暖色暗示，并未仔细勾边。奶油白、珊瑚、粉色与朱红的大朵玫瑰状花朵点缀两侧深绿，细小黄蓝笔触在叶间闪动。画面下半部敞开为水面，蓝绿色水色被横向的黄白倒影与零散暖色花瓣打断。岸和池之间没有清晰分界；一条低低的深色带和细细的明亮反射仅暗示二者交接的位置。厚而迅速的点笔与刮擦痕迹赋予画面可触的油彩表面，亮笔覆盖在较深的森林绿和赭褐层之上。光仿佛透过树冠过滤，在左上方形成奶油金色的发光区域，并照到选定的花朵、衣袖与涟漪。人物居于花园色彩与空气的次要位置，成为繁花之中安静的人类锚点。构图让边缘拥挤、竖向的枝叶与中央较柔和的开放通道交替，把目光从闪烁的前景水面引向安静的两人。整幅画像带着花香、斑驳日光，松散油彩使色彩与光比精确植物细节更重要。",
+  "style_prompt_en": "A lush impressionistic oil painting uses thick broken dabs, dragged strokes, and scraped highlights over deep green and umber layers. Cream, gold, coral, pink, and vermilion accents sparkle beside blue-green midtones, while filtered light selects a few luminous islands within broad shadow. Edges stay loose and partly merged; horizontal reflective strokes counter crowded vertical textures. Dense margins open into a softer central passage, giving the whole frame a sun-dappled, fragrant rhythm where color and atmosphere lead.",
+  "style_prompt_zh": "一幅丰茂的印象派油画在深绿与赭褐底层上使用厚实的断续点笔、拖笔和刮出的高光。奶油白、金色、珊瑚、粉色和朱红点缀在蓝绿色中间调旁闪烁，过滤后的光在宽阔阴影中挑出几个明亮区域。边缘保持松散并部分融合；横向反射笔触与拥挤的竖向纹理相对。浓密的边缘向较柔和的中央通道敞开，使整幅画呈现日光斑驳、花香般的节奏，由色彩和空气感引领。",
+  "theme_en": "Figures among flowers beside a reflective garden pool",
+  "theme_zh": "花丛中的人物与倒映花色的花园水池",
+  "wh_ratio": "1:1",
+  "id": "1818",
+  "name": "Stephen Shortridge",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/stephen-shortridge",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/stephen-shortridge.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "0149d559a9e36a9433c9fb6224ab6bdd78851aea5fcd3595b012e932c12a79c1",
+    "gpt_submission_prompt": "A lush impressionistic oil painting places two lightly dressed figures amid a flowering garden beyond a small reflective pool. Their pale garments are glimpsed near the upper center, surrounded by dense, almost enveloping foliage; faces and hands are suggested through a few warm strokes rather than carefully outlined. Large rose-like blooms in cream, coral, pink, and vermilion punctuate the dark greens on both sides, while small yellow and blue marks flicker between leaves. The lower half opens into water, its blue-green surface broken by horizontal yellow-white reflections and scattered warm petal colors. There is no crisp dividing line between bank and pool; a dark low band and a thin bright reflection merely indicate where one changes into the other. Thick, rapid brush dabs and scraped passages give the image a tactile oil-paint surface, with brighter marks laid over deeper forest-green and umber layers. Light appears filtered through canopy, forming a glowing cream-and-gold patch high on the left and catching selected flowers, sleeves, and ripples. The figures remain subordinate to the garden's color and atmosphere, serving as calm human anchors inside the floral abundance. The composition alternates crowded, vertical foliage at the edges with a softer open channel through the middle, carrying the gaze from sparkling foreground water toward the quiet pair. The whole frame feels fragrant and sun-dappled, its loose paint making color and light more important than precise botanical detail.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "c24acab0f016bc9064f7baa130898e44f59bcb5b9cc29c815d0a765d9a79151b",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A cinematic color portrait shows a young woman in profile amid gently falling snow, holding a black raven on one gloved hand. She stands near the center left, facing the bird, her reddish-brown hair gathered into an elaborate bun with a few loose strands. A high-necked black Victorian-style dress has puffed shoulders, lace details, and a full skirt that spreads across the lower frame. The raven perches on her raised hand, its beak pointing toward her and its glossy feathers catching small cold highlights. Snowflakes drift between the figures and through the softly blurred woodland behind them. The background is muted blue-gray and nearly featureless in the distance, allowing the dark dress and bird to form a strong twin silhouette against the pale winter air. Light is diffuse and cold, touching the woman's cheek and hair while preserving texture in the black fabric and feathers. The image has a shallow photographic depth of field and a finely polished, storybook finish, with subtle grain and crisp detail concentrated on face, bird, and ornate clothing. The palette is restrained: charcoal, ink black, cold gray-blue, ivory snow, and a small warm note in the hair and skin. The composition is quiet and ceremonial, focused on the space between the woman's gaze and the raven rather than on action or spectacle.",
+  "full_prompt_zh": "一张电影感彩色肖像，描绘一位年轻女子在缓缓落雪中以侧面站立，戴手套的手托着一只黑色渡鸦。她位于中心偏左，面向鸟，红棕色头发挽成繁复发髻，几缕发丝松散垂下。黑色维多利亚式高领长裙有蓬起的肩部、蕾丝细节与宽大裙摆，铺满画面下部。渡鸦停在她抬起的手上，喙朝向她，油亮羽毛接住几处微小冷光。雪花从两者之间飘过，也散落在身后柔焦的林地中。背景低饱和蓝灰，远处几乎没有具体形状，使深色裙子和鸟在浅淡冬日空气前形成两个强烈剪影。漫射冷光照到女子的脸颊与头发，同时保留黑色布料和羽毛中的纹理。图像具有浅摄影景深与精细打磨的故事书质感，颗粒微妙，清晰细节集中在面部、鸟与华丽衣物上。配色克制：炭灰、墨黑、冷灰蓝、象牙白雪，以及头发与皮肤中的一点暖色。构图安静而有仪式感，焦点是女子目光与渡鸦之间的空间，而非动作或奇观。",
+  "style_prompt_en": "Cinematic color photography with shallow depth of field, fine grain, and a polished storybook atmosphere. Inky black and charcoal forms stand against soft blue-gray air, scattered ivory flecks, and a small warm accent. Diffuse cold light reveals fine surface texture in the darkest areas and catches selected curved planes without sharp glare. The central silhouettes remain crisp while the distance dissolves into a smooth blur. Layered fabriclike details and glossy featherlike highlights create a tactile contrast. The mood is quiet and ceremonial, with suspended particles lending gentle motion to an otherwise still arrangement.",
+  "style_prompt_zh": "电影感彩色摄影风格，浅景深、细颗粒和精致的故事书气氛。墨黑与炭灰形态立于柔软蓝灰空气、零散象牙白细点及少量暖色点缀前。漫射冷光揭示最深区域中的细密表面纹理，也抓住选定曲面而不产生刺眼眩光。中心剪影保持清楚，远处则溶成平滑模糊。层叠布料般细节和带光泽的羽毛般亮点形成可触对照。气氛安静而有仪式感，悬浮颗粒为静止安排添上轻微运动。",
+  "theme_en": "A Victorian-dressed woman holding a raven in falling snow",
+  "theme_zh": "维多利亚式衣裙女子在落雪中托着渡鸦",
+  "wh_ratio": "1:1",
+  "id": "1225",
+  "name": "Margarita Kareva",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/margarita-kareva",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/margarita-kareva.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "3c050db0b9988eb27248340df7bbed667ab85238a8d0356bb8076b810c278678",
+    "gpt_submission_prompt": "A cinematic color portrait shows a young woman in profile amid gently falling snow, holding a black raven on one gloved hand. She stands near the center left, facing the bird, her reddish-brown hair gathered into an elaborate bun with a few loose strands. A high-necked black Victorian-style dress has puffed shoulders, lace details, and a full skirt that spreads across the lower frame. The raven perches on her raised hand, its beak pointing toward her and its glossy feathers catching small cold highlights. Snowflakes drift between the figures and through the softly blurred woodland behind them. The background is muted blue-gray and nearly featureless in the distance, allowing the dark dress and bird to form a strong twin silhouette against the pale winter air. Light is diffuse and cold, touching the woman's cheek and hair while preserving texture in the black fabric and feathers. The image has a shallow photographic depth of field and a finely polished, storybook finish, with subtle grain and crisp detail concentrated on face, bird, and ornate clothing. The palette is restrained: charcoal, ink black, cold gray-blue, ivory snow, and a small warm note in the hair and skin. The composition is quiet and ceremonial, focused on the space between the woman's gaze and the raven rather than on action or spectacle.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "0b06e43d591b85f2f842e8e6ba9247ff35a7d96ce8a59470dc00d62bb4796708",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

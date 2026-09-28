@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square graphic fantasy illustration presents two enlarged faces confronting each other across a thin vertical cream divider. The whole image sits inside a broad warm cream margin, giving it the appearance of a printed diptych. On the left, a blue-green creature fills its panel with overlapping featherlike and scaled plates. One red-orange eye looks toward the center beneath a heavy angular brow. At the right, a red and dark teal creature faces inward with a curved horn, a sharp pale muzzle, and a partly open jaw. Its eye is cooler and more hooded. Both faces are cropped closely, so their surrounding mane and plated shapes run beyond the panel edges. Fine dark lines segment the angular color pieces, while pale ivory highlights move through both sides and keep the middle snouts visible. The left panel is dominated by teal, muted cyan, and navy; the right by coral red, rust, olive-gray, and deep green. A small white serif word, “Vus,” appears near the top of each panel. The centered seam remains clean and straight, contrasting with the restless organic diagonals of the faces. Light is stylized through bright flat color facets rather than a realistic source, with dark wedge shadows around eyes and mouths. The nearly mirrored inward gaze, narrow divider, and opposing warm-cool color fields make the two creatures feel locked in a tense symbolic contest.",
+  "full_prompt_zh": "一幅方形图形幻想插画让两张放大的面孔隔着一条细奶油色竖线互相对峙。整幅画置于宽阔暖奶油色边缘内，像一张印制双联画。左侧蓝绿色生物由重叠羽状和鳞片状板块填满面板。一只红橙眼睛在沉重棱角眉下望向中央。右侧红色与深青色生物向内面对，带一根弯角、锐利浅色口鼻和略张的下颌。它的眼睛更冷、眼皮更低。两张脸都贴近裁切，周围鬃毛和片状形体延伸出画面边缘。细暗线分割棱角颜色碎片，浅象牙色亮部穿过两侧，使中央口鼻保持可见。左面板以青绿、柔暗青蓝和海军蓝为主；右面板以珊瑚红、锈、橄榄灰和深绿为主。每一面板顶部附近都有一个小小白色衬线词“Vus”。中央接缝干净笔直，与面孔躁动的有机对角线相对。光由明亮平涂色面表现，而非真实光源，眼睛与嘴周围有深楔形阴影。近乎镜像的向内凝视、狭窄分界线和相对的暖冷色场，使两只生物像被锁进紧张的象征性对抗。",
+  "style_prompt_en": "Graphic fantasy illustration divides the square into opposing halves with a precise pale central seam and a broad quiet margin. One side carries layered cool teal, cyan, and navy; the other carries rust red, coral, and dark green, with pale ivory facets linking them. Angular organic planes overlap in dense directional strokes, and thin dark contours hold small features without smoothing the whole surface. Light is constructed as hard colored facets and dark wedges rather than a natural gradient. Close cropped inward-facing focal masses create confrontation through mirrored placement and unequal color temperature. The result is decorative, intense, and legible despite intricate internal segmentation.",
+  "style_prompt_zh": "图形幻想插画以精准浅色中缝和宽阔安静的外缘把方形分成相对两半。一侧叠着冷青绿、青蓝和海军蓝；另一侧叠着锈红、珊瑚和深绿，浅象牙色切面在两边相连。棱角有机平面以密集定向笔触互相覆盖，细暗轮廓稳住小特征，却不磨平整幅表面。光由硬朗彩色切面与深暗楔形构建，而非自然渐层。紧贴裁切、向内相对的焦点体块通过镜像位置与不均衡色温制造对峙。整体装饰性强、紧张，内部虽细密分段仍然可读。",
+  "theme_en": "Two opposing fantasy faces divided by a thin pale line",
+  "theme_zh": "两张对峙的幻想面孔被细浅线分开",
+  "wh_ratio": "1:1",
+  "id": "0223",
+  "name": "Versus",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/versus",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/versus.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "08a2a6dd46130060ee270a830eb67dc7e87dbe2f0fa8c09f181ac5b9e120858f",
+    "gpt_submission_prompt": "A square graphic fantasy illustration presents two enlarged faces confronting each other across a thin vertical cream divider. The whole image sits inside a broad warm cream margin, giving it the appearance of a printed diptych. On the left, a blue-green creature fills its panel with overlapping featherlike and scaled plates. One red-orange eye looks toward the center beneath a heavy angular brow. At the right, a red and dark teal creature faces inward with a curved horn, a sharp pale muzzle, and a partly open jaw. Its eye is cooler and more hooded. Both faces are cropped closely, so their surrounding mane and plated shapes run beyond the panel edges. Fine dark lines segment the angular color pieces, while pale ivory highlights move through both sides and keep the middle snouts visible. The left panel is dominated by teal, muted cyan, and navy; the right by coral red, rust, olive-gray, and deep green. A small white serif word, “Vus,” appears near the top of each panel. The centered seam remains clean and straight, contrasting with the restless organic diagonals of the faces. Light is stylized through bright flat color facets rather than a realistic source, with dark wedge shadows around eyes and mouths. The nearly mirrored inward gaze, narrow divider, and opposing warm-cool color fields make the two creatures feel locked in a tense symbolic contest.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "cdae369068b258dc8754b7eadda69f5b292ee35134e754ad3ec6e06e2bae4a45",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

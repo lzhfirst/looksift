@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square blue-pencil fantasy illustration shows a rugged rider mounted behind the enormous head of a horned beast. The animal dominates the foreground: its broad muzzle, curling horns, ridged skin and heavy nostrils are rendered through dense directional hatching. Its eyes look outward beneath a rough brow. The rider sits higher in the upper right, gripping reins with one hand while a windblown cloak spreads behind his shoulder. His weathered face, tousled hair and layered clothing are drawn with the same careful linework as the creature, binding them into one moving mass. The background contains lightly sketched terrain and small distant shapes but leaves much of the upper left pale. A tiny winged form near that open corner gives another scale cue. The composition pushes the beast toward the viewer, while reins and diagonally tilted shoulders direct the eye back to the rider. Blue lines range from faint construction marks to packed dark crosshatching. Highlights come from the unmarked paper, particularly on horn curves and cloth folds. The image feels like a highly developed comic illustration before color: anatomically imaginative, dramatic and full of tactile detail. Despite the fantasy subject, the draftsmanship remains grounded in weight, tension and the visible mechanics of riding.",
+  "full_prompt_zh": "一幅正方形蓝铅笔幻想插画呈现粗犷骑手坐在巨大有角兽的头后。动物占据前景：宽阔口鼻、卷曲长角、隆起皮肤和沉重鼻孔都由密集方向性排线构成。眼睛从粗眉下向外看。骑手位于右上方，一手抓住缰绳，随风扬起的斗篷在肩后展开。风霜面容、乱发与层叠衣物都采用与野兽相同的细致线条，把两者绑成一个运动体块。背景只有轻轻勾出的地形和小小远处形状，左上方留有大片浅色。一只微小飞行生物在开放角落提供另一层尺度。构图将兽头推向观者，缰绳和倾斜肩线再把视线导回骑手。蓝线从淡淡结构草线延伸到密集深色交叉排线。高光来自空白纸面，尤其落在弯角和衣褶上。图像像上色前高度完成的漫画插画：解剖富于想象，戏剧性强，触感细节繁多。尽管题材幻想，制图仍扎根于重量、张力和骑乘动作的可见力学。",
+  "style_prompt_en": "The style is elaborate monochrome comic draftsmanship with a single colored line medium, dense crosshatching and visible construction marks. Strong foreshortening enlarges the foreground mass while diagonal reins, limbs or folds direct attention through the scene. Packed directional strokes model rough textures and muscular volume; untouched paper provides sharp highlights and breathing room. Selective distant detail preserves scale without competing with the near focal cluster. The effect is energetic, tactile and dramatically narrative.",
+  "style_prompt_zh": "这种风格是以单色线材、密集交叉排线和可见结构草痕完成的繁复漫画制图。强烈透视缩短放大前景体块，对角的绳线、肢体或衣褶引导视线穿过场景。密集有方向的笔触塑造粗糙肌理和肌肉体积，未落笔纸面提供锐利高光与呼吸空间。远处细节经过选择，保留尺度而不与近处焦点群争夺注意。效果充满能量、触感和戏剧性叙事。",
+  "theme_en": "A rugged rider mounted on an enormous horned fantasy beast",
+  "theme_zh": "骑乘巨大有角幻想兽的粗犷骑手",
+  "wh_ratio": "1:1",
+  "id": "4375",
+  "name": "Marc Silvestri",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/marc-silvestri.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "5fffb0cc7c9459de1ce52e75c229b89b18c615387e99c3a40557a684255edb80",
+    "gpt_submission_prompt": "A square blue-pencil fantasy illustration shows a rugged rider mounted behind the enormous head of a horned beast. The animal dominates the foreground: its broad muzzle, curling horns, ridged skin and heavy nostrils are rendered through dense directional hatching. Its eyes look outward beneath a rough brow. The rider sits higher in the upper right, gripping reins with one hand while a windblown cloak spreads behind his shoulder. His weathered face, tousled hair and layered clothing are drawn with the same careful linework as the creature, binding them into one moving mass. The background contains lightly sketched terrain and small distant shapes but leaves much of the upper left pale. A tiny winged form near that open corner gives another scale cue. The composition pushes the beast toward the viewer, while reins and diagonally tilted shoulders direct the eye back to the rider. Blue lines range from faint construction marks to packed dark crosshatching. Highlights come from the unmarked paper, particularly on horn curves and cloth folds. The image feels like a highly developed comic illustration before color: anatomically imaginative, dramatic and full of tactile detail. Despite the fantasy subject, the draftsmanship remains grounded in weight, tension and the visible mechanics of riding.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "c3752c80e4fb496c9c5022c667db92845a03beb5219c3e37f64b889af0ce42f5",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

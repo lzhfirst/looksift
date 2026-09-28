@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square fantasy illustration shows a cluster of eccentric travelers gathered on a dark rocky ridge beneath a glowing orange sky. A stout central figure wearing a dark pointed hat and red outer garment sits or stands low amid the group, with a pale beard and bright face catching the light. Smaller companions crowd to the left, including a striped creature-like shape, while another figure rises behind with an arm raised. At the right, a large gray animal head projects toward the edge of the frame, its broad muzzle and watchful eye rendered in softly comic shapes. Far behind them, narrow castle towers appear as hazy silhouettes, and a winged figure crosses the hot upper sky. Orange and yellow clouds expand across the background, fading into smoke-gray at the upper left. The foreground rock is painted with broken charcoal, moss-green and ochre strokes, giving the group a rough stage above a warm reddish ground. The characters are outlined with quick dark marks and modeled by loose brushy color rather than polished gradients. Light from the bright sky catches their upper edges and faces, while the ridge and undersides remain deeply shaded. The overall composition packs lively silhouettes into a single horizontal mound, creating a playful but slightly ominous tale-like mood against the fiery open backdrop.",
+  "full_prompt_zh": "一幅方形奇幻插画描绘一群奇异旅人聚在深色岩脊上，背后是发亮的橙色天空。中央一位敦实人物戴深色尖帽、披红色外衣，低低地坐或站在群体中，浅色胡须和明亮的脸接住光。较小伙伴挤在左侧，其中有一团条纹的生物状形体；后方另有人物抬起手臂。右侧，一只灰色大动物头伸向画边，宽吻和警觉的眼睛用柔和而带漫画感的形状描绘。远处，细窄城堡尖塔呈朦胧剪影，一个带翅的身影掠过炙热的上方天空。橙黄云团在背景扩张，到左上渐成烟灰。前景岩石用断续炭色、苔绿与赭色笔触画成，让人物群站在暖红地面上方的粗糙舞台。人物以快速深线勾出，再用松动的刷笔色彩塑形，而非光滑渐变。亮天空照亮他们的上缘与脸，岩脊和下侧则保留浓影。整体构图把活泼剪影挤在一条水平土丘上，在炽热开阔背景前形成嬉戏却微带不祥的故事气氛。",
+  "style_prompt_en": "The fantasy painting uses elastic dark outlines, rough dry-brush color and theatrical value contrasts. Large atmospheric fields blend amber, burnt orange and smoky violet, while foreground masses collect charcoal, moss green and muted red. Figures read first as lively silhouettes; within them, uneven strokes and occasional crisp accents suggest volume without smoothing away the drawn energy. Background shapes fade into haze, allowing densely grouped foreground forms to remain dominant. The light is dramatic and broadly backlit, brightening upper edges while leaving undersides heavy and cool. A compact horizontal cluster against a wide luminous field creates a storybook stage with both humor and unease. The finish feels hand-painted, vigorous and slightly unruly.",
+  "style_prompt_zh": "这种奇幻绘画使用富弹性的深色轮廓、粗糙干刷色彩和戏剧性明度对比。大片氛围色域混合琥珀、焦橙与烟紫，前景团块聚集炭色、苔绿和低饱和红。形体先以活泼剪影被识别，其内部再用不均匀笔触和偶尔清楚的重音暗示体积，却不磨平手绘能量。背景形状淡入烟雾，让密集聚合的前景保持主导。光线戏剧化，整体呈逆光，上缘发亮而下侧厚重偏冷。紧凑横向群体对照宽阔亮色域，形成兼具幽默与不安的故事舞台。完成面手绘感强、充满活力且略显不羁。",
+  "theme_en": "A gathering of eccentric travelers on a rocky ridge before a glowing orange sky",
+  "theme_zh": "橙色发光天空前岩脊上的奇异旅人一群",
+  "wh_ratio": "1:1",
+  "id": "3786",
+  "name": "Ralph Bakshi",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/ralph-bakshi",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "17982aee77eb40150d667acbcc8d625e292b3fbdaaaedb7c8d224a6909afddf5",
+    "gpt_submission_prompt": "A square fantasy illustration shows a cluster of eccentric travelers gathered on a dark rocky ridge beneath a glowing orange sky. A stout central figure wearing a dark pointed hat and red outer garment sits or stands low amid the group, with a pale beard and bright face catching the light. Smaller companions crowd to the left, including a striped creature-like shape, while another figure rises behind with an arm raised. At the right, a large gray animal head projects toward the edge of the frame, its broad muzzle and watchful eye rendered in softly comic shapes. Far behind them, narrow castle towers appear as hazy silhouettes, and a winged figure crosses the hot upper sky. Orange and yellow clouds expand across the background, fading into smoke-gray at the upper left. The foreground rock is painted with broken charcoal, moss-green and ochre strokes, giving the group a rough stage above a warm reddish ground. The characters are outlined with quick dark marks and modeled by loose brushy color rather than polished gradients. Light from the bright sky catches their upper edges and faces, while the ridge and undersides remain deeply shaded. The overall composition packs lively silhouettes into a single horizontal mound, creating a playful but slightly ominous tale-like mood against the fiery open backdrop.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "260cb7b92e9d6bae4e4f112392e7b2874b9d4d8ac3368c4215bd55df9ce30ae3",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

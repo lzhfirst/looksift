@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square traditional folk-painting-style panel shows two richly dressed riders on pale horses moving from left to right across a narrow patterned band of ground. Each figure has a long flowing scarf and layered warm red, cream, and green garments; the horses have decorated saddles and carefully drawn legs. A large red-orange sun hangs above the center in an almost black sky. Stylized trees rise on both sides, their branches and leaves built from repeated small gold marks. Tiny pale architectural and cloudlike motifs float behind the riders. Along the lower right, a blue-grey water band curves under an orange embankment, while a dense patterned border encloses the entire scene. The figures are shown in a flattened profile rather than realistic perspective, with forms stacked clearly and every empty interval filled by small ornament. Fine dark outlines define faces, tack, and textile patterns, and gold, rust red, muted teal, and cream sit in matte areas over the black ground. Light is symbolic and even: the sun is a graphic disc rather than a source of cast shadows. The border's repeated tiny marks give the scene a rhythmic frame. No readable lettering appears. The overall composition is ceremonial and narrative, dense but ordered, with warm ornament shining against a dark field.",
+  "full_prompt_zh": "一幅方形传统民俗绘画式图版描绘两名衣饰华丽的骑者乘浅色马，从左向右穿过狭窄的带图案地带。每个人都有长飘带和层叠的暖红、乳白与绿色衣物；马配装饰马鞍，腿部细细画出。一轮大红橙太阳悬在中央上方几乎黑色的天空里。两侧升起风格化树木，枝叶由反复的小金色笔迹组成。骑者身后浮着细小浅色建筑和云状纹样。右下方，一条蓝灰水带在橙色岸边下弯曲，密集纹样边框围住整个场景。人物以压平侧面呈现，而非真实透视，形体清楚叠放，每个空隙都填着小装饰。细深轮廓定义脸、马具和织纹；金色、锈红、暗青绿与乳白以哑光区域落在黑底上。光象征性且均匀：太阳是一枚图形圆盘，不是投影光源。边框反复的小笔迹为场景提供有节奏的框架。没有可辨认文字。整体构图有仪式性和叙事感，浓密却有序，暖色装饰在深色场前发亮。",
+  "style_prompt_en": "A traditional folk-painting surface organizes dense narrative ornament within a narrow patterned border. Fine dark contours and repeated tiny marks articulate layered matte areas of rust red, gold, cream, muted teal, and near-black. Forms are flattened and stacked for clear reading rather than arranged in realistic perspective. Symmetrical side accents and a central warm disc give the upper region ceremonial balance, while a curved lower band introduces movement. Empty intervals are filled with small rhythmic motifs, yet strong color blocks keep the main shapes distinct. Illumination is graphic and even, with little cast shadow. The result is intricate, warm, and ordered, its decorative repetition carrying both texture and story.",
+  "style_prompt_zh": "传统民俗绘画表面把密集叙事装饰组织在狭窄纹样边框内。细深轮廓和反复的小笔迹，描出锈红、金色、乳白、暗青绿与近黑的层叠哑光区域。形体压平并叠放以清楚阅读，而非按真实透视排列。两侧对称重音和中央暖圆使上方有仪式性平衡，下方弯带加入运动。空隙填满细小节奏纹样，强色块仍使主形分明。照明图形化且均匀，少有投影。结果精密、温暖而有序，装饰性重复同时承担纹理与故事。",
+  "theme_en": "Two riders crossing an ornamented landscape beneath a red sun",
+  "theme_zh": "红日下两名骑者穿越装饰性风景",
+  "wh_ratio": "1:1",
+  "id": "2802",
+  "name": "Phad painting",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/phad-painting",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/phad-painting.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "bc865e3a41b390ee08adabf3c24b83050b355a57232ef3a6f7350a252f4a2394",
+    "gpt_submission_prompt": "A square traditional folk-painting-style panel shows two richly dressed riders on pale horses moving from left to right across a narrow patterned band of ground. Each figure has a long flowing scarf and layered warm red, cream, and green garments; the horses have decorated saddles and carefully drawn legs. A large red-orange sun hangs above the center in an almost black sky. Stylized trees rise on both sides, their branches and leaves built from repeated small gold marks. Tiny pale architectural and cloudlike motifs float behind the riders. Along the lower right, a blue-grey water band curves under an orange embankment, while a dense patterned border encloses the entire scene. The figures are shown in a flattened profile rather than realistic perspective, with forms stacked clearly and every empty interval filled by small ornament. Fine dark outlines define faces, tack, and textile patterns, and gold, rust red, muted teal, and cream sit in matte areas over the black ground. Light is symbolic and even: the sun is a graphic disc rather than a source of cast shadows. The border's repeated tiny marks give the scene a rhythmic frame. No readable lettering appears. The overall composition is ceremonial and narrative, dense but ordered, with warm ornament shining against a dark field.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "e7367b53448e1b39095b9e8f2f063485fe11a2b2cdf33c3c88a2f5cead1c21c9",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

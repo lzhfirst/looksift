@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square old-master oil portrait depicts a young aristocrat in a lustrous red satin coat against a dark brown interior. The sitter is shown from the waist up, turned slightly toward the viewer, with one hand supporting the head in an unhurried, thoughtful pose. Soft curls of light brown hair frame a pale face, delicate mustache, and small beard. A white lace collar catches light at the neck, while the red sleeves billow into broad folds across the lower half of the composition. Warm directional illumination falls from the upper left, making the face luminous and drawing sharp, silky highlights along the coat. The background recedes into deep umber and near black, with only faint suggestions of drapery or a wall. Rich oil glazing gives the shadows depth; thicker, confident brush marks describe the reflective satin. The sitter's direct but relaxed gaze holds the viewer, while the pose and costume establish a courtly character. The palette stays focused on crimson, burnt sienna, cream, flesh pink, and deep brown. Subtle canvas texture remains beneath the polished modeling. The whole portrait feels intimate yet formal, with the dramatic color and warm chiaroscuro of seventeenth-century European painting.",
+  "full_prompt_zh": "一幅方形古典大师式油画肖像描绘一位年轻贵族，他穿着发亮的红缎外套，身后是深棕色室内。人物以腰部以上入画，身体略向观者转，一只手托着头，姿态从容而若有所思。浅棕色卷发围住白皙面孔、细小髭须和短胡须。脖颈处的白色蕾丝领接住亮光，红色袖子在画面下半部起伏成宽阔衣褶。温暖的定向光从左上方落下，使面孔明亮，并在外套上拉出尖锐丝绸高光。背景退入深赭褐与近黑，只有帘布或墙面的微弱暗示。丰富的油画罩染使阴影深厚，较厚而自信的笔迹描绘反光缎面。人物直接却放松的目光吸引观者，姿态与服装建立宫廷气质。配色集中在绯红、焦赭、乳白、肤粉和深棕。精细塑形之下仍隐约留有画布肌理。整幅肖像既亲密又正式，带有十七世纪欧洲绘画富于戏剧性的色彩与温暖明暗对照。",
+  "style_prompt_en": "A classical oil-painting language uses warm chiaroscuro, deep brown glazing, and a concentrated rich color accent. A softly modeled light focal plane emerges from a nearly black surrounding field. Satin or another reflective material catches broad, broken highlights, while matte surfaces stay muted. Loose confident strokes in fabric contrast with careful, pale modeling in the focal detail. Cream and flesh pink temper crimson, burnt sienna, and umber. The composition is compact and dignified, with a single relaxed gesture giving it human ease. Fine canvas texture and layered paint remain subtly visible beneath the polished old-master finish.",
+  "style_prompt_zh": "古典油画语言依靠温暖明暗对照、深棕罩染与一处集中的丰厚色彩。柔和塑形的浅色焦点从近黑的外围场域中浮现。缎面或其他反光材质接住宽阔破碎高光，哑光表面则保持低调。布料上松动而自信的笔触与焦点细节里细致的浅色塑形形成对照。乳白和肤粉调和绯红、焦赭与深棕。构图紧凑而端庄，一处放松的姿势为画面带来人的从容。精细画布纹和层叠颜料在抛光般的古典效果之下隐约可见。",
+  "theme_en": "A young aristocrat in a red satin coat poses against a dark old-master background",
+  "theme_zh": "一位穿红缎外套的年轻贵族立于古典暗背景前",
+  "wh_ratio": "1:1",
+  "id": "4387",
+  "name": "Anthony van Dyck",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/anthony-van-dyck.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "d1caf35342af869f247abb99a49d8299a8b4f5116af070b812c711bcddfd9b1d",
+    "gpt_submission_prompt": "A square old-master oil portrait depicts a young aristocrat in a lustrous red satin coat against a dark brown interior. The sitter is shown from the waist up, turned slightly toward the viewer, with one hand supporting the head in an unhurried, thoughtful pose. Soft curls of light brown hair frame a pale face, delicate mustache, and small beard. A white lace collar catches light at the neck, while the red sleeves billow into broad folds across the lower half of the composition. Warm directional illumination falls from the upper left, making the face luminous and drawing sharp, silky highlights along the coat. The background recedes into deep umber and near black, with only faint suggestions of drapery or a wall. Rich oil glazing gives the shadows depth; thicker, confident brush marks describe the reflective satin. The sitter's direct but relaxed gaze holds the viewer, while the pose and costume establish a courtly character. The palette stays focused on crimson, burnt sienna, cream, flesh pink, and deep brown. Subtle canvas texture remains beneath the polished modeling. The whole portrait feels intimate yet formal, with the dramatic color and warm chiaroscuro of seventeenth-century European painting.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "1eb091d18156ddaa72e82c8221f3a329b398f86d30e99f261799dead5816593a",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

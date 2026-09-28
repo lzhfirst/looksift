@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A loose watercolor-and-ink cityscape centers an old two-story townhouse at the edge of a misty street. Its front gable and twin chimneys rise into pale gray air, while the walls alternate between cool blue-gray and a broad wash of luminous amber. Dark window openings punctuate the facade; one upper window and the doorway show warm interior light. Short steps lead from the entrance to the wet street, where the building's colors blur into an uneven reflection. Fine railings run along the lower edge, and at the far right three small silhouetted people stand near an orange-lit patch of wall. A thin lamp post and faint structural guide lines barely emerge from the haze. The building is recognizable, but the image does not insist on perfect architectural detail: roof edges break into sketch marks, washes bleed beyond contours, and the background disappears into paper-colored mist. The strongest darks collect around the windows, door, and base, making the central warmth more vivid. Cool turquoise and slate shadows on the right balance the yellow-orange glow on the left, while the tiny figures offer scale. The foreground reflection is rendered with vertical runs and soft horizontal pooling rather than crisp mirror symmetry. The whole frame feels like a remembered street corner, animated by wet color, a small human presence, and light blooming through fog.",
+  "full_prompt_zh": "一幅松动的水彩与墨线城市风景把一栋旧式两层联排住宅放在雾蒙蒙街道的边缘。正面山墙与两根烟囱升入浅灰空气，墙面在冷蓝灰与宽阔、发亮的琥珀色薄染之间交替。深色窗洞点缀外墙；一扇楼上窗户和门口透出室内暖光。短阶梯从入口通往潮湿街面，建筑色彩在那里化成不均匀的倒影。纤细栏杆沿下缘延伸，最右侧有三个小小的人影立在橙光照亮的墙边。细灯杆和淡淡的结构辅助线几乎刚从雾中显现。建筑可以辨认，但图像不追求完美的建筑细节：屋檐边缘散成速写笔迹，水彩晕出轮廓之外，背景消失在纸色雾气中。最深色集中于窗、门和基座，让中央暖光更加鲜明。右侧冷青绿与石板色阴影平衡左侧黄橙亮光，小小人影提供尺度。前景倒影由竖向流痕和柔软的水平积色绘成，而非清晰对称的镜像。整幅画像记忆里的一处街角，被潮湿色彩、少量人迹和在雾中扩散的灯光唤活。",
+  "style_prompt_en": "The watercolor-and-ink image layers transparent blue-gray, turquoise, amber, and orange washes over a pale paper ground. Recognizable geometry is held by fine sketch lines and compact dark openings, but many contours bleed, break, or vanish into mist. One broad warm field meets a cooler shadowed field at the visual center, establishing the main color tension. Vertical drips and soft pooled strokes below echo the forms above without forming a perfect reflection. Small dark silhouettes and slender rails give scale to the broad atmospheric masses. The strongest values cluster low and centrally; upper edges remain airy and partly unfinished. Light appears to bloom from within the color wash, especially where warm pigment meets the fog-colored ground. The whole frame feels remembered rather than measured, with loose wet pigment and selective line carrying both structure and mood.",
+  "style_prompt_zh": "这幅水彩与墨线图像在浅色纸底上层叠透明的蓝灰、青绿、琥珀与橙色薄染。可辨认的几何结构由纤细草图线和紧凑的深色开口支撑，但许多轮廓晕开、断裂或消失在雾里。一片宽阔的暖色域在视觉中心与较冷的阴影色域相遇，建立主要色彩张力。下方竖向流痕和柔软积色呼应上部形体，却不形成完美倒影。细小深色剪影和纤细栏杆为宽阔氛围块面提供尺度。最强明度差聚在中央偏下，上部边缘保持通透、部分未完成。光仿佛从色彩薄染内部绽开，尤其当暖色颜料遇到雾色底面时更为明显。整幅画更像记忆而非测量结果，松动的湿颜料和有选择的线条共同承载结构与情绪。",
+  "theme_en": "A glowing townhouse in a misty street",
+  "theme_zh": "雾中街道上一栋发光的联排住宅",
+  "wh_ratio": "1:1",
+  "id": "0313",
+  "name": "John Lovett",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/john-lovett",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/john-lovett.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "14f2bc8ed5e7c6731e5cc7fdd2fb941cc7e2f6211b4f51bade5c6179a55244c7",
+    "gpt_submission_prompt": "A loose watercolor-and-ink cityscape centers an old two-story townhouse at the edge of a misty street. Its front gable and twin chimneys rise into pale gray air, while the walls alternate between cool blue-gray and a broad wash of luminous amber. Dark window openings punctuate the facade; one upper window and the doorway show warm interior light. Short steps lead from the entrance to the wet street, where the building's colors blur into an uneven reflection. Fine railings run along the lower edge, and at the far right three small silhouetted people stand near an orange-lit patch of wall. A thin lamp post and faint structural guide lines barely emerge from the haze. The building is recognizable, but the image does not insist on perfect architectural detail: roof edges break into sketch marks, washes bleed beyond contours, and the background disappears into paper-colored mist. The strongest darks collect around the windows, door, and base, making the central warmth more vivid. Cool turquoise and slate shadows on the right balance the yellow-orange glow on the left, while the tiny figures offer scale. The foreground reflection is rendered with vertical runs and soft horizontal pooling rather than crisp mirror symmetry. The whole frame feels like a remembered street corner, animated by wet color, a small human presence, and light blooming through fog.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "6196bbe37c9388c137be6cd18e1b1c61ee47913523d2f89b960133c55e43ea19",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

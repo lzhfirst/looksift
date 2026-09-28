@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A delicate pencil-and-watercolor portrait presents a young figure from the chest upward against an uninterrupted warm ivory ground. Short ash-brown hair sweeps across the forehead in many fine, curved strands, while the head turns slightly toward the left and the eyes look downward with a quiet, inward expression. A pale jacket lies over a blue-gray collared shirt and a narrow ochre-brown tie, all described with restrained lines and thin muted washes. The face is the most finished area: warm peach and soft ochre tint the cheeks and nose, subtle cool gray marks shape the jaw and neck, and tiny dark strokes define eyelashes, brows, and the edges of the lips. Around the jacket, contours become lighter and less certain, allowing the clothing to merge gently with the blank paper. There is no scenic background; spacious cream negative space above and beside the head keeps the drawing calm and gives every small change of line weight significance. Light is broad and diffuse, with no hard cast shadow, so the skin appears softly translucent and the graphite-like hatching remains visible beneath the color. The hair is more densely worked than the open clothes, creating a gradual transition from detailed crown through face to faint lower edges. A simple triangular torso anchors the subtly tilted head, while the gaze draws attention into the empty left side. The whole frame feels sensitive and unfinished in a deliberate way, its emotional clarity emerging from fine line, pale wash, and generous paper.",
+  "full_prompt_zh": "一幅细腻的铅笔与水彩淡彩肖像，以胸部以上构图呈现一名年轻人物，背景是一片不间断的暖象牙色。灰褐色短发以许多纤细的弯曲发丝扫过额头，头微微转向左侧，眼睛低垂，流露安静而内省的神情。浅色外套叠在蓝灰色翻领衬衫和一条窄窄的赭褐色领带上，均由克制的线条和稀薄低饱和色层描绘。面孔是完成度最高的区域：暖桃色和柔赭色染上脸颊与鼻梁，微妙冷灰痕迹塑造下颌和颈部，细小深色笔触界定睫毛、眉毛与嘴唇边缘。到了外套周围，轮廓变得更浅、更不确定，让衣服轻轻融进空白纸面。这里没有具体场景背景；头上和旁边宽裕的奶油色留白使画面平静，也让线条粗细的每一点变化显得重要。光宽广而漫射，没有硬投影，因此皮肤看起来柔和透明，色彩下面仍可见类似石墨的排线。头发比开阔的衣服刻画得更密，细节从发冠经过面孔向下方淡淡的边缘逐步减弱。简洁三角形躯干稳住微微倾斜的头，目光则将注意力引向左侧空白。整幅画以有意保留未完成感的方式显得敏感，情绪清晰度来自细线、薄涂和宽裕纸面。",
+  "style_prompt_en": "A delicate pencil-and-watercolor image builds a fine graphite-like contour beneath translucent, low-saturation washes. Warm ivory paper remains widely visible; muted peach, ochre, blue-gray, and ash-brown gather only where form needs emphasis. Tiny directional hatching and varied line weight sharpen selected details, while outer edges fade gently into open space. Broad diffuse light avoids hard shadows and preserves a softly translucent surface. The whole frame feels intimate, restrained, and intentionally airy.",
+  "style_prompt_zh": "一幅细腻的铅笔与水彩图像，在透明、低饱和薄涂下面建立纤细的石墨般轮廓。暖象牙色纸面大面积可见；低调桃色、赭色、蓝灰与灰褐仅在需要强调形体之处汇聚。细小顺势排线和变化的线重使选定细节更清晰，外部边缘则轻轻淡入开放空间。宽广漫射光避免硬阴影，保留柔软透明的表面。整幅画亲密、克制且有意保持通透。",
+  "theme_en": "A contemplative young figure in a delicate pencil-and-wash portrait",
+  "theme_zh": "细腻铅笔淡彩肖像中的沉思青年",
+  "wh_ratio": "1:1",
+  "id": "1830",
+  "name": "Henrietta Harris",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/henrietta-harris",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/henrietta-harris.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "94bf1a7fabcfe14bf2aa23d85fbb4eccdaae2d8f15f297235b7f0a6e5ac0d086",
+    "gpt_submission_prompt": "A delicate pencil-and-watercolor portrait presents a young figure from the chest upward against an uninterrupted warm ivory ground. Short ash-brown hair sweeps across the forehead in many fine, curved strands, while the head turns slightly toward the left and the eyes look downward with a quiet, inward expression. A pale jacket lies over a blue-gray collared shirt and a narrow ochre-brown tie, all described with restrained lines and thin muted washes. The face is the most finished area: warm peach and soft ochre tint the cheeks and nose, subtle cool gray marks shape the jaw and neck, and tiny dark strokes define eyelashes, brows, and the edges of the lips. Around the jacket, contours become lighter and less certain, allowing the clothing to merge gently with the blank paper. There is no scenic background; spacious cream negative space above and beside the head keeps the drawing calm and gives every small change of line weight significance. Light is broad and diffuse, with no hard cast shadow, so the skin appears softly translucent and the graphite-like hatching remains visible beneath the color. The hair is more densely worked than the open clothes, creating a gradual transition from detailed crown through face to faint lower edges. A simple triangular torso anchors the subtly tilted head, while the gaze draws attention into the empty left side. The whole frame feels sensitive and unfinished in a deliberate way, its emotional clarity emerging from fine line, pale wash, and generous paper.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "16c269c00981bd1c5839b657c8c9464f6d23cbce030ba9bef9977f8cc5500b25",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

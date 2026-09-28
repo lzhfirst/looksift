@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square minimalist editorial illustration shows a small dark figure standing beside a group of pale stepped platforms beneath tall slender trees. The upper half is almost empty warm cream sky, with a small white sun near the upper center and a loose scattering of tiny black birds on the left. A cluster of pine-like trees rises from the right side, their dark stippled crowns packed together while their narrow trunks remain visible. Below them, geometric cream platforms climb from the lower left toward the upper right in several clean horizontal levels. The solitary figure stands near the left edge of the tallest lower step, carrying or wearing a dark shape and facing toward the trees. At the very bottom, a thin band of dry ocher grass cuts across the left, while a pale blue-gray area occupies the lower right. The meeting of those color fields creates a crisp horizontal line beneath the platforms. The tree foliage is much more textured than the solid steps and flat ground, giving the sparse image one concentrated zone of detail. Light is broad and diffuse, with no realistic cast shadow; the white disk and pale cream sky suggest a quiet hazy day. The figure is too small for facial or clothing detail, and there is no building, sign, or readable lettering. The composition uses large negative space around a tight right-hand cluster, letting tiny birds and the small human mark measure the open air. Its overall effect is calm, poetic, and slightly lonely, balancing organic stipple against exact architectural steps and muted color blocks.",
+  "full_prompt_zh": "一幅方形极简编辑插画描绘一个小小深色人影站在浅色阶梯平台和高细树群旁。上半部几乎全是暖奶油色空天，上方中央附近有一枚小白太阳，左侧散着细小黑鸟。右侧升起一簇松树般高树，深色点描树冠紧挤，窄树干仍可见。其下，奶油色几何平台从左下到右上以数道干净水平层级升高。孤独人影站在较高低层台阶的左边缘，身上或手里有深色形状，面向树群。最下方，干赭色草带横切左侧，浅蓝灰区域占据右下。两色域的交接在平台下形成清楚水平线。树叶比实心台阶和平坦地面有更多纹理，让稀疏图像的细节集中在一处。光宽阔而漫射，没有写实投影；白圆盘和浅奶油天空暗示安静的薄雾天气。人物太小，无法看清面孔或衣服，也没有建筑、标牌或可读文字。构图在紧密的右侧聚团周围留下大片空白，让小鸟和小人形丈量开放空气。整体效果平静、富诗意又略孤独，以有机点描平衡精确阶梯和低饱和色块。",
+  "style_prompt_en": "The illustration is minimalist and editorial, with broad matte fields, exact horizontal steps, and one concentrated patch of fine stippled texture. Cream, dry ocher, charcoal, and pale blue-gray occupy separate quiet zones with crisp boundaries. Tiny scattered marks and a small vertical scale cue animate the empty upper area without filling it. Organic silhouettes rise from a geometric base, producing a measured contrast of soft crowns and hard levels. Light is diffuse and almost shadowless, leaving mood to color, proportion, and negative space. The overall effect is hushed, poetic, and carefully balanced.",
+  "style_prompt_zh": "插画极简且有编辑性，以宽阔哑光色域、精确水平层级和一处集中的细点描肌理为特征。奶油色、干赭、炭黑和浅蓝灰分占安静区域，边界清楚。极小散点与一枚竖向尺度标记让上方空域有活动，却不填满。柔软冠状有机剪影从几何底座升起，形成软树冠与硬层级的审慎对照。光漫射且几乎无影，情绪交给颜色、比例和留白。整体效果低声、诗意且精心平衡。",
+  "theme_en": "A tiny figure beside stepped platforms and a stand of trees under a pale sun",
+  "theme_zh": "浅色太阳下，小人站在阶梯平台与一片树旁",
+  "wh_ratio": "1:1",
+  "id": "3843",
+  "name": "Alessandro Gottardo",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/alessandro-gottardo",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "b67783db2350cd16f49f43cc39f66ba6b345d41a9de322b6796eede2854a576d",
+    "gpt_submission_prompt": "A square minimalist editorial illustration shows a small dark figure standing beside a group of pale stepped platforms beneath tall slender trees. The upper half is almost empty warm cream sky, with a small white sun near the upper center and a loose scattering of tiny black birds on the left. A cluster of pine-like trees rises from the right side, their dark stippled crowns packed together while their narrow trunks remain visible. Below them, geometric cream platforms climb from the lower left toward the upper right in several clean horizontal levels. The solitary figure stands near the left edge of the tallest lower step, carrying or wearing a dark shape and facing toward the trees. At the very bottom, a thin band of dry ocher grass cuts across the left, while a pale blue-gray area occupies the lower right. The meeting of those color fields creates a crisp horizontal line beneath the platforms. The tree foliage is much more textured than the solid steps and flat ground, giving the sparse image one concentrated zone of detail. Light is broad and diffuse, with no realistic cast shadow; the white disk and pale cream sky suggest a quiet hazy day. The figure is too small for facial or clothing detail, and there is no building, sign, or readable lettering. The composition uses large negative space around a tight right-hand cluster, letting tiny birds and the small human mark measure the open air. Its overall effect is calm, poetic, and slightly lonely, balancing organic stipple against exact architectural steps and muted color blocks.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "cd60d9bf54f634f24d215311394bd7e615f877373ee49b5a706509e14c16aa9a",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

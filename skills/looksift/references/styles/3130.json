@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square fantasy landscape is drawn in dense, sharply etched lines. A narrow path of uneven stones descends from the lower left, bends around the immense roots of old trees, and leads toward a ruined stone city in the distance. Tall arches and broken towers rise through a glowing orange sky. The foreground is held in deep blue black shadow, so the distant warm light seems to burn from within the opening between the trunks. One giant tree occupies the right side, its roots spreading across the ground like braided cables and its branches locking with those above. On the left, another dark trunk and clustered foliage frame the scene. The city architecture is partly hidden by vines and shadow; its vertical windows and pointed silhouettes remain legible against the bright horizon. A dark pool near the center reflects a small patch of the orange sky, giving the eye a second warm point amid the cool terrain. Every surface is threaded with curved hatching, from bark and leaves to masonry and broken paving. The outlines are crisp, while tiny changes in line density create depth and softness. The composition leads inward through several nested openings: the path, the gap between trees, and finally the tall urban forms. Coral orange and dusty red light contrast with teal, navy and charcoal, creating an ornate, ominous stillness.",
+  "full_prompt_zh": "这幅方形奇幻风景由密集而锐利的刻线绘成。高低不平的石路从左下向下延伸，绕过老树巨大的根系，通向远处的石造废城。高拱与残塔穿过发橙光的天空。前景沉在深蓝黑阴影里，因此树干之间的远处暖光像从开口内部燃起。一棵巨树占据右侧，根系如编结缆绳般铺开，枝条与上方树冠相扣。左侧另一根暗树干及成团叶丛为场景镶边。城市建筑被藤蔓和阴影部分遮住；竖向窗洞与尖形轮廓在明亮天边仍可辨认。中央附近的暗水池映出一点橙色天空，使冷色地形中又出现一个暖点。树皮、叶片、砌石和碎路都织满弯曲排线。外轮廓清晰，线密度的细微变化却建立深度和柔和感。构图借石路、树间缝隙直到高耸城市形体的层层开口，把视线引向内部。珊瑚橙和灰红光对照青绿、深蓝与炭黑，形成繁复而不安的静止气氛。",
+  "style_prompt_en": "The illustration is an intricate dark fantasy engraving with tightly controlled contour lines and fine crosshatching. Teal, midnight blue and charcoal fill the near forms; coral orange and dusty rose radiate through a distant opening. Dense curling patterns cover the surface, yet alternating dark masses and clear illuminated gaps keep the depth readable. Hard silhouettes frame a warm center, and repeated branching lines draw the gaze inward. Its texture is crisp and graphic, with a luminous gradient behind the detailed foreground.",
+  "style_prompt_zh": "这种插画像繁密的黑暗奇幻版画，轮廓线严格控制，细排线层层交织。青绿、午夜蓝和炭黑填满近处形体；珊瑚橙与灰玫红从远方开口透出。密集卷曲纹样覆盖表面，而暗色大块与明亮空隙交替，让深度保持清楚。坚硬剪影围出暖色中心，重复分枝线引导视线向内。质地锐利而具有图形性，细节丰富的前景后方带有发光渐变。",
+  "theme_en": "A ruined stone city beyond twisted trees at sunset",
+  "theme_zh": "夕照下扭曲树林之后的石造废城",
+  "wh_ratio": "1:1",
+  "id": "3130",
+  "name": "Dan Mumford",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/dan-mumford",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "791a0d3db8158a74ef83dbcbb7fa0ac35ae671ade600f7688c121e592d61529c",
+    "gpt_submission_prompt": "A square fantasy landscape is drawn in dense, sharply etched lines. A narrow path of uneven stones descends from the lower left, bends around the immense roots of old trees, and leads toward a ruined stone city in the distance. Tall arches and broken towers rise through a glowing orange sky. The foreground is held in deep blue black shadow, so the distant warm light seems to burn from within the opening between the trunks. One giant tree occupies the right side, its roots spreading across the ground like braided cables and its branches locking with those above. On the left, another dark trunk and clustered foliage frame the scene. The city architecture is partly hidden by vines and shadow; its vertical windows and pointed silhouettes remain legible against the bright horizon. A dark pool near the center reflects a small patch of the orange sky, giving the eye a second warm point amid the cool terrain. Every surface is threaded with curved hatching, from bark and leaves to masonry and broken paving. The outlines are crisp, while tiny changes in line density create depth and softness. The composition leads inward through several nested openings: the path, the gap between trees, and finally the tall urban forms. Coral orange and dusty red light contrast with teal, navy and charcoal, creating an ornate, ominous stillness.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "c07dae64703cacb50d57ec1c9e2f8c440cc01cdc85d0a33a7ccb885756aee566",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

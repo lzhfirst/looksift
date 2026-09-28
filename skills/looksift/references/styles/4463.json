@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square macro photograph shows one tiny pink flower or seed head rising from a mossy, dew-covered surface on a very thin red stem. The central bloom sits slightly right of center and opens like a fragile starburst. Its narrow translucent petals shift from warm apricot near the base to bright pink at the tips. Numerous round water droplets cling to the ends of fine hair-like filaments and the petal edges, each bead catching miniature reflections of the surrounding light. Behind the main bloom, two or three similar forms appear as soft pink and coral blurs, one on the left and another farther right. The background is a smooth saturated blue field with scattered pale cyan circular bokeh highlights. Along the bottom edge, the ground is a narrow band of dark teal moss, minute grass blades, and tiny points of moisture. The focal plane is extremely shallow: the central droplets and petal edges have crisp sparkling detail, while the rear blooms and most of the ground dissolve into round blur. Cool blue ambient light surrounds the scene, balanced by warm orange within the flower. The camera is placed nearly at the bloom's height, making a miniature subject feel monumental and delicate. There is no sky horizon, container, hand, insect, text, or graphic effect. The image feels luminous and enchanted but remains grounded in photographic water tension, translucent petals, and precise depth-of-field control.",
+  "full_prompt_zh": "一张方形微距照片呈现一朵极小粉花或种头从沾露的苔地升起，支在极细红茎上。中央花略偏右，像脆弱星芒般绽开。窄而半透的花瓣从基部暖杏色渐到尖端亮粉。许多圆水珠黏在发丝般细蕊和花瓣边缘，每一滴都收进周围光的微小倒影。主花后两三朵相似形体化作柔粉与珊瑚色模糊，其中一朵在左，一朵更远在右。背景是平滑饱和蓝色场，散着浅青色圆形散景光点。底边地面是一条窄窄深青绿苔、细草叶和微小水光。焦平面极浅：中央水珠与花瓣边清晰闪亮，后方花与地面大部分溶成圆模糊。冷蓝环境光围住场景，花内部的暖橙与之平衡。相机几乎位于花的高度，让微小主体显得巨大而精巧。没有天际线、容器、手、昆虫、文字或图形特效。图像明亮似魔法，却仍建立在摄影中的水表面张力、半透花瓣和精确景深控制上。",
+  "style_prompt_en": "Use extreme macro photography with a razor-thin focus plane, luminous translucent microforms, and crystal-clear droplets. Place the main small structure near center, with very fine filaments and bead-like highlights sharply resolved while secondary layers dissolve into large cool bokeh circles. Balance saturated blue and teal surroundings against tiny pink, apricot, and coral accents. Keep the viewpoint at the subject's own scale and restrict the ground to a narrow textured strip. Let moisture, refraction, and backlit edges create sparkle without hard artificial glows. The image should feel delicate and enchanted through optical precision, warm-cool color contrast, and generous blurred negative space.",
+  "style_prompt_zh": "采用极微距摄影，以薄如刀锋的焦平面、发亮半透微形体和晶莹水滴构图。主小结构靠近中央，极细丝线与珠状高光锐利，而次要层溶成大而冷的散景圆点。饱和蓝与青绿周围对比极小的粉、杏与珊瑚色重音。视点降至主体自身尺度，地面仅留一条窄纹理带。让水汽、折射与逆光边缘产生闪耀，不用生硬人工辉光。画面通过光学精度、冷暖色对比和宽阔模糊负空间显得精巧而近乎魔法。",
+  "theme_en": "A tiny pink flower holding crystal water droplets against a blue bokeh field",
+  "theme_zh": "蓝色散景前一朵托着晶莹水珠的微型粉花",
+  "wh_ratio": "1:1",
+  "id": "4463",
+  "name": "Miki Asai",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/miki-asai.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "e25b1e5d9cdcacbc2375822cc45119309462cd91d3d9d9898ebca3eaa7701609",
+    "gpt_submission_prompt": "A square macro photograph shows one tiny pink flower or seed head rising from a mossy, dew-covered surface on a very thin red stem. The central bloom sits slightly right of center and opens like a fragile starburst. Its narrow translucent petals shift from warm apricot near the base to bright pink at the tips. Numerous round water droplets cling to the ends of fine hair-like filaments and the petal edges, each bead catching miniature reflections of the surrounding light. Behind the main bloom, two or three similar forms appear as soft pink and coral blurs, one on the left and another farther right. The background is a smooth saturated blue field with scattered pale cyan circular bokeh highlights. Along the bottom edge, the ground is a narrow band of dark teal moss, minute grass blades, and tiny points of moisture. The focal plane is extremely shallow: the central droplets and petal edges have crisp sparkling detail, while the rear blooms and most of the ground dissolve into round blur. Cool blue ambient light surrounds the scene, balanced by warm orange within the flower. The camera is placed nearly at the bloom's height, making a miniature subject feel monumental and delicate. There is no sky horizon, container, hand, insect, text, or graphic effect. The image feels luminous and enchanted but remains grounded in photographic water tension, translucent petals, and precise depth-of-field control.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "e88734e41e8578f809fd45cb5affdd99eb2ccb5885751bc37ac44c9a72a70933",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

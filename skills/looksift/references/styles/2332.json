@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square old-master oil painting presents an elderly man with a long gray beard looking upward from a dark interior. His head and shoulders fill most of the left and central image, while the background remains a deep brown-black field with only indistinct warm forms. Thick gray hair curls back from his forehead and around his ears, with individual pale strands catching light against the darkness. His face turns slightly to the right and upward; blue-gray eyes focus beyond the frame, and raised brows deepen the lines across his forehead. Warm amber light touches the bridge of the nose, cheekbone, and edge of the ear, while softer shadows settle below the eyes and around the mouth. His full beard spreads across the lower center in silvery, cream, and smoke-gray waves, with darker passages giving the hair weight and depth. At the lower left, a piece of dark armor or ceremonial clothing curves into view, carrying a small gold ornament and cool metallic reflections. A dark red-brown drape lies along the right shoulder, merging into the unlit side of the painting. Brushwork is controlled around the eyes and nose but broader and more tactile in the beard, fabric, and background. The surface has an aged, varnished warmth rather than a clean photographic appearance. Light falls diagonally from the upper left, lifting the face and hair from the deep ground while leaving the body in lower contrast. The overall composition uses a close, upward gaze and concentrated warm illumination to create a solemn, weighty presence.",
+  "full_prompt_zh": "这幅方形古典油画呈现一位留长灰须的老人，在幽暗室内向上凝望。他的头和肩占据左侧及中央大部分画面，背景仍是深棕黑色域，只有模糊的暖色形状。厚密的灰发从额头向后卷到耳周，单根浅色发丝在黑暗前接住光。他的脸略向右并抬起；蓝灰色眼睛望向画框之外，扬起的眉毛加深额头横纹。暖琥珀色光触及鼻梁、颧骨和耳缘，较柔和的阴影落在眼下与嘴周。浓密胡须以银、奶油和烟灰色波浪铺满下方中央，深色部分赋予毛发重量和纵深。左下方，一块深色甲胄或仪式服饰弯入画面，带有小金色饰件和冷调金属反光。深红棕色披布沿右肩展开，融入画面暗侧。眼睛与鼻子周围的笔触受控而精细，胡须、布料和背景中的笔触则更宽阔、更可触。表面具有陈旧上光油的暖意，而非干净的摄影质感。光从左上方斜落，将面孔和头发从深色底面中抬起，身体仍保持较低反差。整体构图借近距离向上的目光和集中的暖光，营造庄严而厚重的存在感。",
+  "style_prompt_en": "Old-master oil painting draws solid volume from layered umber, deep red-brown, charcoal, and restrained amber highlights. Luminous warm midtones gather on selected planes while broad dark passages absorb surrounding detail. Fine controlled strokes define the focal edges; loose, thicker brushwork gives secondary surfaces a tactile, aged texture. Diagonal light produces gradual turning shadows rather than graphic flat blocks, and small metallic glints remain subordinate to the warm flesh of the central form. The composition is close and weighty, with a dark ground granting dramatic relief to illuminated textures.",
+  "style_prompt_zh": "古典油画以层叠赭棕、深红棕、炭色和克制的琥珀亮部塑造坚实体积。发亮的暖色中间调聚于选定平面，大片暗部吸收周围细节。细而受控的笔触定义焦点边缘，松散厚实的笔触赋予次要表面可触的陈旧肌理。斜光产生渐进的转折阴影，而非平面图形色块；小面积金属亮点仍从属于中央形体的暖色表面。构图近而厚重，深色底面让受光肌理获得戏剧性的浮现感。",
+  "theme_en": "An elderly bearded man looking upward in warm shadow",
+  "theme_zh": "一位留长须的老人于暖色阴影中向上凝望",
+  "wh_ratio": "1:1",
+  "id": "2332",
+  "name": "Charles Le Brun",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/charles-le-brun",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/charles-le-brun.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "b624d79f1ab2721dee8d6542171022b985b54c2cfe8e99800f2927d11d696b3a",
+    "gpt_submission_prompt": "A square old-master oil painting presents an elderly man with a long gray beard looking upward from a dark interior. His head and shoulders fill most of the left and central image, while the background remains a deep brown-black field with only indistinct warm forms. Thick gray hair curls back from his forehead and around his ears, with individual pale strands catching light against the darkness. His face turns slightly to the right and upward; blue-gray eyes focus beyond the frame, and raised brows deepen the lines across his forehead. Warm amber light touches the bridge of the nose, cheekbone, and edge of the ear, while softer shadows settle below the eyes and around the mouth. His full beard spreads across the lower center in silvery, cream, and smoke-gray waves, with darker passages giving the hair weight and depth. At the lower left, a piece of dark armor or ceremonial clothing curves into view, carrying a small gold ornament and cool metallic reflections. A dark red-brown drape lies along the right shoulder, merging into the unlit side of the painting. Brushwork is controlled around the eyes and nose but broader and more tactile in the beard, fabric, and background. The surface has an aged, varnished warmth rather than a clean photographic appearance. Light falls diagonally from the upper left, lifting the face and hair from the deep ground while leaving the body in lower contrast. The overall composition uses a close, upward gaze and concentrated warm illumination to create a solemn, weighty presence.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "ce7a553eafead18880830b72a6a849bdad57204eed6e2ad64d48d6a01db53f69",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

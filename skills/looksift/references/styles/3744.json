@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "Two companions sit close together in a small wooden boat, turning toward one another in quiet conversation. An older white-bearded man in a dark jacket occupies the left side, his crossed legs and relaxed arm forming a dense, grounded shape. On the right, a young woman in a loose white dress leans forward with her chin near her hand, her bright clothing gathering into broad sunlit folds. The boat cuts across the lower part of the square image as a dark brown horizontal form. Behind them, blue and green water fills the scene, broken into lively short strokes of reflected cream, ocher, and turquoise light. There is no hard distant horizon; the water itself acts as both setting and luminous backdrop. Strong daylight selects the white hair, sleeves, and dress, while the man's coat and the boat's interior anchor the composition in deep charcoal and olive. Faces are attentive but painted with economical marks rather than photographic smoothness. Broad, confident brushwork lets fabric, water, skin, and wood keep distinct material rhythms. The color changes are abrupt at some edges and soft at others, giving the scene the spontaneity of a study caught outdoors. Reflections beneath the hull are fragmented and mobile, suggesting a slight movement across the surface. The image balances human closeness with sparkling surrounding space, using a compact conversational triangle inside a loose, bright field of painterly color.",
+  "full_prompt_zh": "两位同伴相邻坐在一只小木船里，转身相向，安静地交谈。一位白胡子的年长男子身穿深色外套，位于左侧，交叠的双腿和放松的手臂组成稳重而紧凑的形体。右侧，一位穿宽松白裙的年轻女子向前倾身，下巴靠近手背，明亮的衣料聚成宽阔的受光褶皱。小船作为深棕色水平形体横贯方形画面的下部。身后，蓝绿水面填满场景，奶油白、赭黄和绿松石色的反光被活泼短笔触打碎。没有清晰的远方地平线；水面本身既是环境又是发亮的背景。强烈日光挑出白发、袖子和裙子，男子的外套及船舱内部则用深炭色和橄榄色稳住构图。面容专注，但由节省的笔痕塑造，而非照片般平滑。宽大而自信的笔触让布料、水、皮肤和木头各自保有不同材质节奏。有些边缘色彩变化突然，有些则柔和，使场景带有户外速写般的即时感。船身下的倒影碎裂且流动，暗示水面轻微起伏。画面让亲近的人际关系与闪烁的周围空间保持平衡，在松动明亮的绘画色域里安排了紧凑的对话三角形。",
+  "style_prompt_en": "Confident, visible brushwork builds forms from broken patches of light and shadow. Deep charcoal and olive masses sit against luminous cream, pale blue, turquoise, and scattered ocher. Reflections are short, horizontal, and fragmented, keeping the surrounding color field mobile. Broad light planes remain readable from a distance, while close viewing reveals economical strokes and small shifts in hue. Some contours are firm where dark meets light; others dissolve into adjacent colors. Strong outdoor illumination gives pale surfaces a warm glow without flattening their texture. A compact arrangement of weighted shapes occupies one area of the composition while loose, sparkling marks open the rest. The result is immediate, social, and painterly.",
+  "style_prompt_zh": "自信而可见的笔触用破碎的明暗色块建立形体。深炭色和橄榄色的大块区域与发亮的奶油白、浅蓝、绿松石色及零散赭黄相对。倒影短促、水平且碎裂，使周围色域保持流动。宽阔的亮面从远处仍清晰可读，近看则能见到节省的笔痕和细微色相变化。有些轮廓在深浅交界处坚实，另一些则融入相邻色彩。强烈户外照明让浅色表面温暖发亮，又不抹去材质纹理。一组紧凑而有分量的形状占据构图一处，其余空间由松动闪烁的笔痕打开。整体即时、富有人情味并保有浓厚绘画感。",
+  "theme_en": "Two companions conversing in a small boat on sunlit water",
+  "theme_zh": "两位同伴坐在阳光照耀的小船上交谈",
+  "wh_ratio": "1:1",
+  "id": "3744",
+  "name": "Anders Zorn",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/anders-zorn",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "9c177b8219ea28fb9ec984d82bc40c8a498479d219a4b81fdc053a7174da4668",
+    "gpt_submission_prompt": "Two companions sit close together in a small wooden boat, turning toward one another in quiet conversation. An older white-bearded man in a dark jacket occupies the left side, his crossed legs and relaxed arm forming a dense, grounded shape. On the right, a young woman in a loose white dress leans forward with her chin near her hand, her bright clothing gathering into broad sunlit folds. The boat cuts across the lower part of the square image as a dark brown horizontal form. Behind them, blue and green water fills the scene, broken into lively short strokes of reflected cream, ocher, and turquoise light. There is no hard distant horizon; the water itself acts as both setting and luminous backdrop. Strong daylight selects the white hair, sleeves, and dress, while the man's coat and the boat's interior anchor the composition in deep charcoal and olive. Faces are attentive but painted with economical marks rather than photographic smoothness. Broad, confident brushwork lets fabric, water, skin, and wood keep distinct material rhythms. The color changes are abrupt at some edges and soft at others, giving the scene the spontaneity of a study caught outdoors. Reflections beneath the hull are fragmented and mobile, suggesting a slight movement across the surface. The image balances human closeness with sparkling surrounding space, using a compact conversational triangle inside a loose, bright field of painterly color.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "4aada05492c5190b38b655cd411946dbd897d9b155b6b5224b32454afcc00fee",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

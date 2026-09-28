@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square oil portrait shows a young girl with two dark braids facing the viewer against a deep green-black background. Her head and shoulders fill most of the frame, with the darkest paint gathered behind her hair and to the right. Brown hair parts near the center and sweeps back in soft waves before falling as two long plaits over the front of her white blouse. Her pale face is lit gently from the left, with rosy cheeks, a softly modeled nose, and cool blue-green eyes looking straight outward. The mouth is closed and relaxed, giving the expression a composed, observant stillness. At the neck, a high white collar and a loosely tied white bow sit above the blouse's broad shoulder folds. The fabric is not rendered as an even white sheet; creamy highlights, cool gray shadows, and visible brush strokes distinguish the collar, sleeves, and gathered front. The lower edge crops the body at the chest, emphasizing the oval of the face and the dark vertical braids. Shorter, careful strokes define the eyes, lips, and hairline, while broader rougher passages build the clothing and dark ground. The paint surface carries a soft, aged texture without erasing the sitter's clear features. Diffuse daylight from the upper left brightens the forehead, cheek, and shirt front, with gentle shadow along the opposite side of the face. No objects or legible writing interrupt the simple setting. The overall composition is direct and restrained, balancing a luminous white blouse and quiet face against deep green-brown shadow.",
+  "full_prompt_zh": "这幅方形油画肖像呈现一名梳着两条深色辫子的少女，面向观者，背景是深绿黑色。她的头与肩占据画面大部，最深的颜料聚在头发后方和右侧。棕发近中央分缝，先以柔和波浪向后梳去，再编成两条长辫垂到白衬衫前。她的浅色脸庞受到左侧柔光照亮，有红润脸颊、轻柔塑形的鼻子和直视外方的冷蓝绿色眼睛。嘴唇闭合而放松，神情沉着、警觉且安静。颈边，高高的白领和松系白蝴蝶结位于宽阔的衬衫肩褶之上。布料并非均匀白色平面；奶油色亮部、冷灰阴影和可见笔触区分衣领、衣袖与抽褶前襟。下缘在胸部裁断身体，强调面孔的椭圆形及深色竖向双辫。较短而细致的笔触描出眼睛、嘴唇与发际，较宽且粗的笔块构建衣服和深色底面。颜料表面带柔和陈旧肌理，却没有抹去人物清楚的五官。漫射日光从左上方照亮额头、脸颊和衬衫正面，脸的另一侧留有温和阴影。没有物件或可读文字打断简洁环境。整体构图直接而克制，以发亮的白衬衫和安静面孔平衡深绿棕阴影。",
+  "style_prompt_en": "Oil portraiture blends careful facial modeling with broader, visible strokes in larger fabric and background areas. Cream and pale rose highlights emerge from deep green-brown shadow, while cool gray turns give bright surfaces depth. Edges are most precise around the central focal planes and soften gradually into the dark surrounding field. Diffuse side light produces quiet volume without theatrical hard shadow. The composition is close and restrained, allowing a few luminous textures to carry the image against an unobtrusive ground. Its finish feels natural, tactile, and gently aged.",
+  "style_prompt_zh": "油画肖像把细致的面部塑形与衣料、背景较大区域中宽阔可见的笔触结合。奶油色与浅玫瑰色亮部从深绿棕阴影中浮现，冷灰转折赋予亮色表面纵深。中央焦点平面周围的边缘最精确，向周围深色域逐渐柔化。漫射侧光形成安静体积，没有戏剧性的硬影。构图近而克制，让少数发亮肌理在不干扰主体的底面前承载图像。完成面自然、可触且略带陈旧感。",
+  "theme_en": "A young girl with two braids in a white blouse",
+  "theme_zh": "一位梳双辫、穿白衬衫的少女",
+  "wh_ratio": "1:1",
+  "id": "2353",
+  "name": "Cecilia Beaux",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/cecilia-beaux",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/cecilia-beaux.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "704bbcb7b06bcc0cfafafeec517e333a3c5e87aed35449adaedc7c95e6bba54c",
+    "gpt_submission_prompt": "A square oil portrait shows a young girl with two dark braids facing the viewer against a deep green-black background. Her head and shoulders fill most of the frame, with the darkest paint gathered behind her hair and to the right. Brown hair parts near the center and sweeps back in soft waves before falling as two long plaits over the front of her white blouse. Her pale face is lit gently from the left, with rosy cheeks, a softly modeled nose, and cool blue-green eyes looking straight outward. The mouth is closed and relaxed, giving the expression a composed, observant stillness. At the neck, a high white collar and a loosely tied white bow sit above the blouse's broad shoulder folds. The fabric is not rendered as an even white sheet; creamy highlights, cool gray shadows, and visible brush strokes distinguish the collar, sleeves, and gathered front. The lower edge crops the body at the chest, emphasizing the oval of the face and the dark vertical braids. Shorter, careful strokes define the eyes, lips, and hairline, while broader rougher passages build the clothing and dark ground. The paint surface carries a soft, aged texture without erasing the sitter's clear features. Diffuse daylight from the upper left brightens the forehead, cheek, and shirt front, with gentle shadow along the opposite side of the face. No objects or legible writing interrupt the simple setting. The overall composition is direct and restrained, balancing a luminous white blouse and quiet face against deep green-brown shadow.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "c8387961d18a446694ad9896c94f5b1e70ba6e9f75e39a632fd4b0632d9ae3d1",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A closely cropped oil portrait in a Northern Renaissance manner shows two young adults shoulder to shoulder against a nearly black interior. Their faces dominate the square image, with both looking outward toward the viewer and little space between them. On the left, a young man wears a soft, red-brown cap above short brown curls. His dark eyes, straight nose, and closed mouth are modeled with subtle changes of warm ivory and grey-brown. A red outer garment rises around his neck, where a narrow dark band is visible. On the right, a second young adult wears a broad black hat that meets the top and right edges of the frame. Curled brown hair appears beneath it on either side of a pale, oval face. The expression is quiet and direct, with small, softly colored lips and light grey eyes. A black outer garment surrounds a high neckline filled with intricate gold-brown ornament. At the top behind them, a narrow strip of patterned, stone-like decoration is visible above the dark background; most of the remaining space is absorbed by shadow. Soft frontal light, a little stronger from the upper left, rounds the cheeks and catches the bridge of each nose without hard cast shadows. The smooth paint handling gives the skin a porcelain-like surface, while tighter marks articulate curls, fabric seams, and the gilded pattern. Deep black, muted red, warm brown, and pale cream are held in a compact, symmetrical arrangement that feels solemn and intimate.",
+  "full_prompt_zh": "这是一幅取景紧密、带有北方文艺复兴气息的油画肖像：两位年轻人肩并肩站在近黑色的室内背景前。两张面孔主导着方形画面，彼此间距很小，都朝观者看过来。左侧年轻男子戴着一顶柔软的红棕色帽子，帽下露出短短的棕色卷发。他的深色眼睛、笔直的鼻梁和闭合的嘴，通过暖象牙色与灰棕色的细微变化塑造出来。红色外衣围到颈部，那里露出一条窄窄的深色领边。右侧另一位年轻人戴着宽大的黑帽，帽子触及画面上缘和右缘。棕色卷发从帽下两侧露出，围住一张浅色的椭圆面孔。神情安静而直视，嘴唇小巧、色调柔和，眼睛呈淡灰色。黑色外衣围绕着饰有繁密金棕色纹样的高领。两人背后的上方，深暗背景之上只见一条带纹样、似石材装饰的窄带；其余空间大多被阴影吸收。柔和的正面光略偏左上，在脸颊和两道鼻梁上形成圆润亮部，却没有生硬的投影。平滑的颜料处理使面部具有瓷器般的表面，较密的笔痕则刻出卷发、衣缝和金色花纹。深黑、沉静红色、暖棕和淡奶油色被收进紧凑且近乎对称的布局，气氛庄重而亲密。",
+  "style_prompt_en": "Northern Renaissance oil painting uses smooth, controlled modeling and fine, precise contours. Pale ivory and warm grey values emerge gradually from nearly black surrounding masses, while muted red and dull gold provide restrained color accents. Diffuse frontal light rounds prominent planes with minimal cast shadow. Hairline marks, tiny patterned highlights, and carefully joined edges concentrate detail near the focal area; broad dark fields remain still and dense. Close framing and balanced adjacent forms create a quiet, formal rhythm with a tactile yet polished surface.",
+  "style_prompt_zh": "北方文艺复兴式油画以平滑、克制的塑形和细致准确的轮廓见长。淡象牙色和暖灰色的明度从近黑色的周围色块中渐渐浮出，沉静的红色与暗金色提供有限的色彩点缀。漫散的正面光让突出的平面变得圆润，投影很少。发丝般的细笔痕、微小的纹样亮点和精心衔接的边缘，将细节聚集在视觉焦点附近；大片深色则保持静止、密实。贴近的取景和相邻形体的平衡形成安静正式的节奏，表面既可感又精致。",
+  "theme_en": "Two young adults in dark formal dress",
+  "theme_zh": "身着深色礼服的两位年轻人",
+  "wh_ratio": "1:1",
+  "id": "1079",
+  "name": "Rogier van der Weyden",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/rogier-van-der-weyden",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/rogier-van-der-weyden.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "22388cdd48dc4657d2d04504f7509e928c573a90f4c8c8ad71784bc38a3c4b11",
+    "gpt_submission_prompt": "A closely cropped oil portrait in a Northern Renaissance manner shows two young adults shoulder to shoulder against a nearly black interior. Their faces dominate the square image, with both looking outward toward the viewer and little space between them. On the left, a young man wears a soft, red-brown cap above short brown curls. His dark eyes, straight nose, and closed mouth are modeled with subtle changes of warm ivory and grey-brown. A red outer garment rises around his neck, where a narrow dark band is visible. On the right, a second young adult wears a broad black hat that meets the top and right edges of the frame. Curled brown hair appears beneath it on either side of a pale, oval face. The expression is quiet and direct, with small, softly colored lips and light grey eyes. A black outer garment surrounds a high neckline filled with intricate gold-brown ornament. At the top behind them, a narrow strip of patterned, stone-like decoration is visible above the dark background; most of the remaining space is absorbed by shadow. Soft frontal light, a little stronger from the upper left, rounds the cheeks and catches the bridge of each nose without hard cast shadows. The smooth paint handling gives the skin a porcelain-like surface, while tighter marks articulate curls, fabric seams, and the gilded pattern. Deep black, muted red, warm brown, and pale cream are held in a compact, symmetrical arrangement that feels solemn and intimate.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "d578d7640da8a68344234ad7c2e51d58b58b2a04db0180abb68861130fd187fc",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

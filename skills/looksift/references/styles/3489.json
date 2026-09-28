@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square grainy black-and-white photograph brings three young people close to the camera in a cramped dark interior. At the far left, one figure is cut off by the frame, showing only part of a pale face, dark hair, a light shirt, and a dark outer layer. In the center, a young woman sits facing forward with short dark bangs and an unsmiling direct gaze. She props her cheek on one hand; a small pale stick-like object rests between fingers near her lips. Her dark jacket opens over light cuffs, and her bent knee rises along the lower edge. At the right, another young person leans toward the camera, head angled slightly down and eyes glancing left. Tousled light hair, a sharp cheekbone, a pale shirt, and a dark leather-like jacket are visible. The two central faces nearly touch in the crowded composition, while their clothing merges into a broad black mass across the bottom. Behind them, a dark doorway or panel and indistinct wall surfaces offer little spatial relief. Uneven frontal light from slightly left picks out faces and shirt cuffs, leaving eye sockets, hair, and the background in heavy shadow. The image retains strong film grain, worn highlights, and a narrow grayscale range from white skin to near-black fabric. The camera is at their seated eye level, close enough to crop shoulders and knees. The composition feels unposed and tense, with three separate gazes sharing a single shallow pocket of space.",
+  "full_prompt_zh": "一幅方形粗颗粒黑白照片让三名年轻人在狭窄昏暗室内靠近镜头。最左侧一人被画框截断，只露出部分浅色面孔、深发、浅色衬衫和深色外层。中央一名年轻女子正面坐着，短深刘海下目光直视且不带笑意。她用一只手托住脸颊，指间靠嘴唇处有一件浅色细棒状小物。深外套敞开，露出浅袖口，弯起的膝盖沿下边缘升起。右侧另一年轻人向镜头靠近，头略低，眼睛向左看。乱浅发、清楚颧骨、浅衬衫和深色皮革般外套可辨。两张中央面孔在拥挤构图中几乎碰到一起，衣服则在底部合成宽阔黑体量。身后深门洞或板面及不清楚的墙面几乎不给空间缓冲。略偏左的非均匀正面光挑亮面孔和衣袖，眼窝、头发与背景留在深影。照片保留强胶片颗粒、磨旧亮部，以及从白肤色到近黑布料的狭窄灰阶。相机接近他们坐着时的眼睛高度，近到肩与膝都被裁掉。构图似未摆拍而紧绷，三道不同目光共享一小块浅浅的空间。",
+  "style_prompt_en": "Black-and-white candid photography uses close eye-level framing, uneven available light, and strong grain to preserve raw proximity. Arrange overlapping figures or forms so separate focal planes nearly touch, while dark clothing-like masses merge at the lower edge. Let pale faces or other light surfaces emerge from a shallow charcoal interior, with background detail deliberately sparse. Maintain worn highlights, dense shadows, and slight softness rather than polished studio clarity. Cropped edges and divergent gaze directions give the image an incidental, unsettled rhythm. A few bright cuffs or small light details can punctuate the dark base without becoming decorative. The transferable effect is intimate and unguarded, built from compressed space, gritty grayscale, uneven light, and multiple competing points of attention.",
+  "style_prompt_zh": "黑白抓拍摄影以近距离平视裁切、不均匀现场光和强颗粒保留原始贴近感。让重叠人物或形体的不同焦平面几乎相接，底边深衣般体量并成一片。浅色面孔或其他亮表面从浅纵深炭黑室内浮出，背景细节刻意稀少。保持磨旧亮部、浓重阴影和轻微软化，而非精整影棚清晰度。边缘裁切与分向目光带来偶然、略不安的节奏。几处亮袖口或小浅色细节可点破深色基底，却不成为装饰。可迁移的效果亲密而无防备，来自压缩空间、粗粝灰阶、不均匀光线和彼此竞争的注意焦点。",
+  "theme_en": "Three young people close together in a dark black-and-white room",
+  "theme_zh": "三名年轻人在昏暗黑白室内靠坐在一起",
+  "wh_ratio": "1:1",
+  "id": "3489",
+  "name": "Larry Clark",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/larry-clark",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "800b1ce1ffcb85328a42ae29052ab3917f8a55fd292850127dab10fde487dbaa",
+    "gpt_submission_prompt": "A square grainy black-and-white photograph brings three young people close to the camera in a cramped dark interior. At the far left, one figure is cut off by the frame, showing only part of a pale face, dark hair, a light shirt, and a dark outer layer. In the center, a young woman sits facing forward with short dark bangs and an unsmiling direct gaze. She props her cheek on one hand; a small pale stick-like object rests between fingers near her lips. Her dark jacket opens over light cuffs, and her bent knee rises along the lower edge. At the right, another young person leans toward the camera, head angled slightly down and eyes glancing left. Tousled light hair, a sharp cheekbone, a pale shirt, and a dark leather-like jacket are visible. The two central faces nearly touch in the crowded composition, while their clothing merges into a broad black mass across the bottom. Behind them, a dark doorway or panel and indistinct wall surfaces offer little spatial relief. Uneven frontal light from slightly left picks out faces and shirt cuffs, leaving eye sockets, hair, and the background in heavy shadow. The image retains strong film grain, worn highlights, and a narrow grayscale range from white skin to near-black fabric. The camera is at their seated eye level, close enough to crop shoulders and knees. The composition feels unposed and tense, with three separate gazes sharing a single shallow pocket of space.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "29043973a9bf8223efe738145b3428c8cf40ab295e9ff22403c7a222dce6436a",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

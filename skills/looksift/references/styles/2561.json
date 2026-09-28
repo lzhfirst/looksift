@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square brightly colored digital caricature shows the oversized head and upper shoulder of a curly-haired man against a flat golden-yellow background. His face turns slightly toward the right while the mouth opens extremely wide in a shout, filling much of the lower center with deep red-brown shadow, pale teeth, and a bright tongue. Thick unruly chestnut curls balloon around the top and left edges, leaving narrow yellow gaps between strands. Large angular black glasses exaggerate both eyes; one lens sits nearly frontal while the other angles away, and the wide pupils appear startled behind them. An elongated, sharply pointed nose projects over the mouth. The brow is furrowed into stacked ridges, and deep cheek folds sweep toward the jaw. A dark mustache and short beard frame the open mouth, built with many sharp brown strokes. At the lower left, a blue-gray jacket and white shirt collar anchor the large head in a small cropped torso. Skin is modeled in chiseled planes of ochre, tan, burnt orange, and dark brown, with hard-edged highlights across forehead, nose, and cheekbones. The background is an uninterrupted saturated yellow, with no scenery or text. Even frontal graphic light brightens the raised facial planes while heavy dark values collect inside the mouth and under the glasses. The composition pushes the distorted expression close to the viewer, using bold silhouette and exaggerated anatomy for loud comic immediacy.",
+  "full_prompt_zh": "一幅方形鲜艳数字漫画肖像把卷发男子过大的头和上肩置于平坦金黄背景前。脸微朝右转，嘴极大地张开喊叫，深红棕口腔、浅色牙齿和亮舌占据下部中央。浓密不驯的栗色卷发在顶边与左缘膨起，发束间留窄黄色空隙。巨大棱角黑眼镜夸张两眼，一侧镜片近乎正对，另一侧斜出，宽大的瞳孔在镜后显得吃惊。长而尖的鼻子伸在口部上方。眉额皱成叠起的脊，深面颊褶痕扫向下颌。深色胡须和短鬓须以许多尖棕笔触围住张开的嘴。左下，蓝灰外套和白衬衣领把大头固定在一小段裁切上身。皮肤由赭色、棕褐、焦橙和深棕的雕凿平面塑成，额头、鼻梁与颧骨有硬边亮面。背景是不间断的饱和黄色，没有景物或文字。均匀正面图形光照亮突起的面部平面，浓重暗值聚在嘴内和镜框下。构图把扭曲表情推近观者，以大胆剪影和夸张解剖形成喧闹的漫画即时感。",
+  "style_prompt_en": "Digital caricature exaggerates proportions through swollen, angular, and stretched forms while retaining a readable underlying structure. Model surfaces with chiseled blocks of warm color, sharp edge highlights, deep creases, and dark graphic outlines. Set the focal form close against one uninterrupted saturated field, letting silhouette and expression dominate. Push key features much larger than natural scale, and cluster detailed marks around the strongest emotional center while simplifying clothing and surroundings. Bright even frontal light creates hard planes rather than soft atmospheric depth. The transferable effect is loud, comic, and forceful, with sculptural volume and clean color separation.",
+  "style_prompt_zh": "数字夸张漫画通过膨大、折角和拉伸形体改变比例，同时保留可辨的内在结构。用凿切般暖色色块、锐边亮部、深皱纹与深色图形轮廓塑造表面。焦点形体贴近单一连续的饱和色场，使剪影与表情支配画面。关键特征远大于自然尺度，最强情绪中心密布细节，衣服和环境则简化。明亮均匀的正面光形成硬平面，而非柔和大气纵深。可迁移效果喧闹、诙谐而有力，兼具雕塑般体积与干净色彩分隔。",
+  "theme_en": "A curly-haired man with huge glasses shouting on a yellow background",
+  "theme_zh": "卷发男子戴着巨大眼镜，在黄底前张口大喊",
+  "wh_ratio": "1:1",
+  "id": "2561",
+  "name": "Extreme caricature",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/extreme-caricature",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/extreme-caricature.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "806bad1388d510e20829da590612f440f0dc83197191cf5460f6e523b5ae9f86",
+    "gpt_submission_prompt": "A square brightly colored digital caricature shows the oversized head and upper shoulder of a curly-haired man against a flat golden-yellow background. His face turns slightly toward the right while the mouth opens extremely wide in a shout, filling much of the lower center with deep red-brown shadow, pale teeth, and a bright tongue. Thick unruly chestnut curls balloon around the top and left edges, leaving narrow yellow gaps between strands. Large angular black glasses exaggerate both eyes; one lens sits nearly frontal while the other angles away, and the wide pupils appear startled behind them. An elongated, sharply pointed nose projects over the mouth. The brow is furrowed into stacked ridges, and deep cheek folds sweep toward the jaw. A dark mustache and short beard frame the open mouth, built with many sharp brown strokes. At the lower left, a blue-gray jacket and white shirt collar anchor the large head in a small cropped torso. Skin is modeled in chiseled planes of ochre, tan, burnt orange, and dark brown, with hard-edged highlights across forehead, nose, and cheekbones. The background is an uninterrupted saturated yellow, with no scenery or text. Even frontal graphic light brightens the raised facial planes while heavy dark values collect inside the mouth and under the glasses. The composition pushes the distorted expression close to the viewer, using bold silhouette and exaggerated anatomy for loud comic immediacy.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "fd244e2fdf420418689ac9aba08477196302898b1e4703e60cd4d573d3d01c72",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

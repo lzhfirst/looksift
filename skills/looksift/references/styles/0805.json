@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square regionalist landscape painting looks down a pale dirt road winding through rolling farmland toward a small red barn and distant hills. The road begins wide near the lower center and bends left around a grassy rise. Rounded trees, rocky outcrops, and sunlit yellow-green fields create layered shapes on both sides. Above them, enormous sculptural cumulus clouds billow against a deep blue sky, occupying nearly half the frame. The clouds range from warm ivory and cream at their sunlit peaks to deep slate gray underneath. Strong directional sunlight cuts clear light and shadow across the road, slopes, rocks, and trees. The forms have a rhythmic, almost carved quality, with broad smooth planes and curved contours rather than loose impressionist flicks. Warm ochre, olive green, blue-black shadow, rust red, and clear cobalt organize the palette. A few small buildings near the horizon give the country setting human scale. The composition guides the eye from the bright road through the patchwork hills to the towering cloud bank. The whole scene feels expansive and distinctly American in its open land, combining idealized clarity, robust shape, and dramatic weather in a carefully painted surface.",
+  "full_prompt_zh": "一幅方形地方主义风景画沿一条浅色土路望去，它穿过起伏农田，通往一座小红谷仓和远山。道路从下方中央宽处开始，绕过长草的山坡向左弯。圆润树木、岩石露头和受光黄绿田地在两侧形成层叠形状。其上巨大的雕塑般积云在深蓝天空前翻涌，占据近半幅。云顶受光处由暖象牙白到乳白，云底则是深石板灰。强定向日光在道路、坡地、岩石和树上切出清楚明暗。形态有节奏且近乎雕刻，依靠宽阔平滑色面和弯曲轮廓，而非松散印象派短笔。暖赭、橄榄绿、蓝黑阴影、锈红和清澈钴蓝组织色谱。地平线附近几座小建筑提供乡间的人类尺度。构图从明亮道路经拼块山丘引视线走向高耸云墙。整幅画因开阔土地而具有鲜明美国气质，理想化清晰、健壮形体和戏剧天气结合于精心绘制的表面。",
+  "style_prompt_en": "A regionalist landscape-painting style shapes fields, trees, rock, and sky into robust rounded masses with clear carved contours. A pale winding path leads through layered hills toward small human-scale structures. Strong sunlight creates broad, legible shadow planes. Yellow-green, ochre, olive, rust, cobalt, and slate gray balance warmth against a deep sky. Monumental cumulus clouds carry much of the composition, with cream highlights and heavy dark undersides. Brushwork stays controlled and solid rather than flickering. The mood is expansive, idealized, and grounded in land and weather, with a strong sense of spatial rhythm.",
+  "style_prompt_zh": "地方主义风景绘画风格把田、树、岩石和天空塑成健壮圆润的大形体，轮廓清楚如雕刻。浅色弯路穿过层叠山丘，通向有人物尺度的小建筑。强日光形成宽阔易读的阴影色面。黄绿、赭、橄榄、锈红、钴蓝和石板灰平衡暖土地与深天空。纪念碑式积云承担大部分构图，乳白高光与沉重暗底并存。笔触受控而坚实，不闪烁破碎。气氛开阔、理想化、扎根于土地与天气，有强烈空间节奏。",
+  "theme_en": "A winding country road beneath monumental summer clouds",
+  "theme_zh": "蜿蜒乡间道路延伸在巨大的夏日云团下",
+  "wh_ratio": "1:1",
+  "id": "0805",
+  "name": "Thomas Hart Benton",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/thomas-hart-benton",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/thomas-hart-benton.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "29012f829656dba81b60ce9a1392aa0188e1aaeb450cc96590a7ff4637c17229",
+    "gpt_submission_prompt": "A square regionalist landscape painting looks down a pale dirt road winding through rolling farmland toward a small red barn and distant hills. The road begins wide near the lower center and bends left around a grassy rise. Rounded trees, rocky outcrops, and sunlit yellow-green fields create layered shapes on both sides. Above them, enormous sculptural cumulus clouds billow against a deep blue sky, occupying nearly half the frame. The clouds range from warm ivory and cream at their sunlit peaks to deep slate gray underneath. Strong directional sunlight cuts clear light and shadow across the road, slopes, rocks, and trees. The forms have a rhythmic, almost carved quality, with broad smooth planes and curved contours rather than loose impressionist flicks. Warm ochre, olive green, blue-black shadow, rust red, and clear cobalt organize the palette. A few small buildings near the horizon give the country setting human scale. The composition guides the eye from the bright road through the patchwork hills to the towering cloud bank. The whole scene feels expansive and distinctly American in its open land, combining idealized clarity, robust shape, and dramatic weather in a carefully painted surface.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "af31c745598fbe0337741fb0dc2a2449d6294b6b610680265b06bbbbb18a6d03",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A detailed watercolor-like domestic scene shows a family gathered at a large table covered with a white cloth. An elderly man sits on an orange upholstered chair at left; several adults and children sit farther around the table, where glassware, plates, fruit, and serving dishes form an intricate still life. A large pale dog lies on the wooden floor in the foreground beside a basket of oranges. Patterned walls, paneled doors, and a hanging lamp enclose the room, giving the ordinary meal a sense of place and duration. The figures are observed through small gestures rather than theatrical poses.\n\nThe image combines precise drawn contours with thin, transparent washes of warm cream, ochre, sage green, muted orange, and soft brown. Pale daylight seems to mingle with the gentle light of the room, leaving shadows light and open. Fine marks describe patterned wallpaper, dishes, hair, and wood grain, but the white tablecloth provides a broad quiet shape across the center. The orange chair, fruit, and small food accents repeat warm notes against cooler grey-green architectural details. The composition is full yet comfortable, with the dog and basket anchoring the bottom edge and the table pulling the eye inward. A slightly matte paper texture remains visible beneath the paint. There is no readable lettering in the selected scene.",
+  "full_prompt_zh": "一幅细致、近似水彩的家居场景，描绘一家人围坐在铺有白桌布的大餐桌旁。一名年长男子坐在左侧橙色软椅上；几位大人和孩子坐在更远处，桌上的玻璃器皿、盘子、水果和餐盘组成精巧的静物。一只浅色大狗卧在前景木地板上，旁边是一篮橙子。带图案的墙、镶板门和吊灯围合房间，让普通的一餐有了地点感和持续的时间感。人物通过细小动作被观察，而非戏剧性姿态。\n\n画面结合精准的绘制轮廓与暖乳白、赭黄、鼠尾草绿、暗橙和柔褐色的透明薄涂。浅色日光似乎与室内柔和的光混合，使阴影轻而敞亮。细密痕迹描写墙纸图案、餐具、头发和木纹，白桌布则在中央提供一大片安静形状。橙色椅子、水果和细小食物色点，在较冷的灰绿色建筑细节之间反复出现。构图丰富却舒适，狗与篮子压住下边缘，餐桌把视线带进室内。略带哑光的纸面纹理透过颜料可见。所选场景没有可辨认文字。",
+  "style_prompt_en": "Precise drawn contours and thin transparent washes meet on a matte paper-like surface. Warm cream, ochre, muted orange, sage green, and soft brown are distributed in many small observed details. Light stays broad and gentle, leaving shadows open and pale rather than dramatic. A large quiet light plane steadies a busy field of fine patterned marks and closely placed objects. Repeated orange accents carry the eye through cooler grey-green surroundings. The composition is full yet calm, with foreground weight leading toward a more intricate middle distance. Wood grain, glass, fabric, and ornamental pattern are suggested through selective fine lines, while the washes preserve softness. The effect is affectionate domestic observation with an airy, hand-painted finish.",
+  "style_prompt_zh": "精准的绘制轮廓与透明薄涂在哑光纸样表面相遇。暖乳白、赭黄、暗橙、鼠尾草绿和柔褐色分布在许多被细致观察的小细节中。光线宽泛而温和，阴影敞亮而浅淡，没有戏剧性。一大片安静的浅色平面稳定了布满精细纹样与紧密物件的区域。反复出现的橙色点缀引导视线穿过较冷的灰绿色环境。构图丰满而平静，前层的重量把视线引向更复杂的中层。木纹、玻璃、织物和装饰图案由有选择的细线暗示，薄涂则保留柔软度。整体是带感情的日常观察，手绘收尾轻盈通透。",
+  "theme_en": "A family meal in a warmly decorated dining room",
+  "theme_zh": "温暖装饰的餐厅里一家人的饭食",
+  "wh_ratio": "1:1",
+  "id": "3155",
+  "name": "Carl Larsson",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/carl-larsson",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "3e1608545aa6030c3b622a17ec15fd9e9efcd8601b9e19ab5b59133fe8a6dafd",
+    "gpt_submission_prompt": "A detailed watercolor-like domestic scene shows a family gathered at a large table covered with a white cloth. An elderly man sits on an orange upholstered chair at left; several adults and children sit farther around the table, where glassware, plates, fruit, and serving dishes form an intricate still life. A large pale dog lies on the wooden floor in the foreground beside a basket of oranges. Patterned walls, paneled doors, and a hanging lamp enclose the room, giving the ordinary meal a sense of place and duration. The figures are observed through small gestures rather than theatrical poses.\n\nThe image combines precise drawn contours with thin, transparent washes of warm cream, ochre, sage green, muted orange, and soft brown. Pale daylight seems to mingle with the gentle light of the room, leaving shadows light and open. Fine marks describe patterned wallpaper, dishes, hair, and wood grain, but the white tablecloth provides a broad quiet shape across the center. The orange chair, fruit, and small food accents repeat warm notes against cooler grey-green architectural details. The composition is full yet comfortable, with the dog and basket anchoring the bottom edge and the table pulling the eye inward. A slightly matte paper texture remains visible beneath the paint. There is no readable lettering in the selected scene.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "b9d90995d849b5062459ecc5e4af3982c62f24a973e6b5e5df78cf9989ee44df",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

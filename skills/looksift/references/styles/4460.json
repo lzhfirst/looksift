@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square cinematic photograph frames a young woman from the upper chest to the top of her dark, softly waved hair. She faces the camera through a pane of rain-speckled glass, her pale blue eyes looking directly outward. Short dark bangs fall across her forehead, and her lips are slightly parted. She wears a powder-blue blouse with a delicate white lace collar and a narrow blue tie or bow at the neck. A pale band of rain-streaked reflection crosses the upper glass above her eyes, while fine droplets and vertical water traces scatter over the rest of the pane. Her face remains recognizable and relatively sharp behind the glass, but the surrounding details are softened by moisture and shallow depth of field. A dark cool background offers little environmental information, making the window itself a central material layer. The color palette is desaturated teal, slate blue, pale skin, charcoal hair, and small muted rose tones in the lips. Light is soft and overcast, with a brighter cool patch from the upper left and gentle shadows at the sides of her face. Subtle film grain and subdued contrast give the image a nostalgic, melancholy quality. The frame is tight and almost symmetric, yet the irregular reflections and droplets make it feel accidental and lived in. No hands, props, signage, or readable writing appear. The image conveys an intimate moment of separation: a clear steady gaze viewed through a fragile surface of weather, blur, and quiet light.",
+  "full_prompt_zh": "一张方形电影感照片从上胸部裁到一位年轻女子深色柔波发顶。她隔着沾满雨滴的玻璃面对镜头，浅蓝眼睛直向外看。短深刘海落过额头，嘴唇微张。她穿粉蓝上衣，领口有细白蕾丝和窄蓝领带或蝴蝶结。浅色雨痕反射横过眼睛上方的玻璃，细雨珠和竖水迹散在其余窗面。脸在玻璃后仍可辨且相对清楚，周围细节则被水汽和浅景深柔化。冷暗背景几乎不提供环境信息，使窗本身成为重要材料层。色板为低饱和青绿、石板蓝、浅肤色、炭色头发和嘴唇一点低调玫瑰色。光线柔和如阴天，左上有较亮冷光，脸侧是轻影。细微胶片颗粒与低调对比赋予画面怀旧、忧郁气质。构图紧且近乎对称，但不规则反射与水滴让它显得偶然、真实。没有手、道具、标牌或可读文字。图像传达一刻亲近的隔离：稳定清楚的目光被天气、模糊和安静光线形成的脆弱表面隔开。",
+  "style_prompt_en": "Use melancholic cinematic photography with desaturated teal-blue color, soft overcast illumination, shallow depth of field, and a translucent weathered layer between viewer and focal form. Keep the central gaze or small focal detail comparatively clear while rain droplets, streaks, and reflections soften the perimeter. Favor pale cool highlights, charcoal shadows, low rose accents, and subtle film grain. Crop closely and nearly symmetrically, then allow irregular water marks and slight blur to disturb that order. The image should feel intimate, nostalgic, and quietly separated, with atmospheric surface texture integrated into the lens view rather than pasted on afterward.",
+  "style_prompt_zh": "采用忧郁的电影感摄影，以低饱和青蓝、柔和阴天光、浅景深和观者与焦点之间的半透风化层为核心。中央目光或小焦点细节相对清楚，雨滴、水痕与反射柔化外围。选用浅冷高光、炭灰影、小片低调玫瑰色和细胶片颗粒。紧裁且近乎对称，再让不规则水迹与轻模糊扰动秩序。画面应亲近、怀旧并带安静的隔离感，大气表面纹理融进镜头视野，而非事后贴上。",
+  "theme_en": "A blue-eyed young woman seen through a rain-speckled window",
+  "theme_zh": "隔着沾满雨滴的窗看一位蓝眼年轻女子",
+  "wh_ratio": "1:1",
+  "id": "4460",
+  "name": "Natalia Drepina",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/natalia-drepina.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "76ec0348f8969e11b8424d2c3b2de20d368d5caca5a7c219ef156bafcfc6cad8",
+    "gpt_submission_prompt": "A square cinematic photograph frames a young woman from the upper chest to the top of her dark, softly waved hair. She faces the camera through a pane of rain-speckled glass, her pale blue eyes looking directly outward. Short dark bangs fall across her forehead, and her lips are slightly parted. She wears a powder-blue blouse with a delicate white lace collar and a narrow blue tie or bow at the neck. A pale band of rain-streaked reflection crosses the upper glass above her eyes, while fine droplets and vertical water traces scatter over the rest of the pane. Her face remains recognizable and relatively sharp behind the glass, but the surrounding details are softened by moisture and shallow depth of field. A dark cool background offers little environmental information, making the window itself a central material layer. The color palette is desaturated teal, slate blue, pale skin, charcoal hair, and small muted rose tones in the lips. Light is soft and overcast, with a brighter cool patch from the upper left and gentle shadows at the sides of her face. Subtle film grain and subdued contrast give the image a nostalgic, melancholy quality. The frame is tight and almost symmetric, yet the irregular reflections and droplets make it feel accidental and lived in. No hands, props, signage, or readable writing appear. The image conveys an intimate moment of separation: a clear steady gaze viewed through a fragile surface of weather, blur, and quiet light.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "05fe9390dfdf55169d8fb869749e84a33f990076bc7ca365c024423d14f67aea",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

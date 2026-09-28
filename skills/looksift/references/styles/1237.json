@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A black-and-white architectural photograph looks through a large, irregular opening cut across the wall of an old building. Broken plaster and exposed masonry form a jagged border around the view, with thick fragments jutting from the left and top edges. Beyond the opening lies a succession of bare rooms: a rubble-filled foreground, a central supporting column, damaged ceiling planes, and a bright window at the far end. The floor is fractured into pits and mounds of stone, drawing the eye inward through the layered spaces. Daylight from the distant window and openings above lights the pale debris, while deep shadows collect under beams and inside cavities. The image is not a tidy interior study; demolition and geometry are equally visible, as if the structure has been sliced open to reveal its depth. The grayscale ranges from chalky white plaster to charcoal voids, with many rough middle tones describing brick, dust, and broken concrete. Fine film grain and slight softness in the far room give the documentary photograph a tactile, archival feel. The composition uses the jagged near frame to contrast with the more regular column, doorways, and window in the distance. Its mood is investigative and physical, revealing space by showing the torn material that once enclosed it.",
+  "full_prompt_zh": "一张黑白建筑照片，视线穿过旧建筑墙面上巨大而不规则的切口。破裂灰泥和裸露砌体在画面四周形成锯齿边框，厚重碎块从左侧和顶部伸出。开口后面是一连串空房间：前景堆满瓦砾，中央有一根支撑柱，天花板平面受损，最远处是一扇明亮的窗。地板裂成坑洞和石块堆，把目光沿层叠空间引向内部。远窗和上方开口送入的日光照亮浅色碎屑，深影则聚在横梁下和空腔里。图像并非整洁的室内研究；拆毁痕迹与几何结构同样醒目，仿佛建筑被切开以显露纵深。灰阶从粉白灰泥到炭黑空洞，中间有大量粗糙层次描写砖、灰尘和碎混凝土。细密胶片颗粒和远处房间的轻微软化，让纪实照片有可触、档案般的质感。构图以近处锯齿形画框，对照远方更规则的柱、门洞和窗。气氛具有调查性且物理感强，通过曾经围住房间的撕裂材料来显露空间。",
+  "style_prompt_en": "Black-and-white documentary photography focused on torn material and layered depth. Jagged pale edges frame a sequence of more regular dark and light planes, vertical masses, and openings. Chalky surfaces, coarse-grained layers, dust, and granular fragments retain rough tactile detail. Daylight enters from distant apertures, creating bright endpoints and deep shadowed cavities without smoothing the damage away. Fine grain and a wide grayscale give the scene an archival physicality. The eye moves from an irregular near border through successive spaces to a small luminous distance. The composition is investigative, austere, and spatially clear.",
+  "style_prompt_zh": "黑白纪实摄影风格，重在被撕开的材料与层叠纵深。锯齿状浅色边缘框住一连串更规则的深浅平面、竖直体量和开口。粉白表面、粗粒层次、尘土与颗粒碎片保留粗糙可触细节。日光从远处开口进入，形成明亮终点和深影空腔，不抹平破损。细颗粒与宽广灰阶赋予场景档案般的物理感。目光从不规则的近处边框穿过连续空间，来到小小的发亮远处。构图有调查性、简朴且空间清楚。",
+  "theme_en": "A room opened by a vast cut through crumbling walls",
+  "theme_zh": "巨大切口打开残破墙体中的房间",
+  "wh_ratio": "1:1",
+  "id": "1237",
+  "name": "Gordon Matta-Clark",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/gordon-matta-clark",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/gordon-matta-clark.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "03b98f471088023393c145e9b501869215c36e1c63ce70540ee5b7421e7e0e17",
+    "gpt_submission_prompt": "A black-and-white architectural photograph looks through a large, irregular opening cut across the wall of an old building. Broken plaster and exposed masonry form a jagged border around the view, with thick fragments jutting from the left and top edges. Beyond the opening lies a succession of bare rooms: a rubble-filled foreground, a central supporting column, damaged ceiling planes, and a bright window at the far end. The floor is fractured into pits and mounds of stone, drawing the eye inward through the layered spaces. Daylight from the distant window and openings above lights the pale debris, while deep shadows collect under beams and inside cavities. The image is not a tidy interior study; demolition and geometry are equally visible, as if the structure has been sliced open to reveal its depth. The grayscale ranges from chalky white plaster to charcoal voids, with many rough middle tones describing brick, dust, and broken concrete. Fine film grain and slight softness in the far room give the documentary photograph a tactile, archival feel. The composition uses the jagged near frame to contrast with the more regular column, doorways, and window in the distance. Its mood is investigative and physical, revealing space by showing the torn material that once enclosed it.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "b800f8223b6e28cf79f82b07b9583869640526156da3f6b7220d8741da9e0712",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

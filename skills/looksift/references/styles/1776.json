@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square nineteenth-century oil portrait shows a young woman from the upper chest upward against a soft brown-black background. Her shoulders turn slightly to the right, but the face looks gently toward the viewer. Dark brown hair is arranged in short curls around the temples and gathered behind the head, with a few ringlets falling toward the cheek. The face is pale and warmly lit, with dark eyes, soft pink cheeks, a small straight nose, and a restrained smile. A white dress opens across the shoulders and chest, its neckline edged with fine ruffles and lace-like folds. The sleeves rise as airy white puffs at both sides, their delicate fabric catching the most light below the face. At the bottom edge, a darker sash or garment area interrupts the white bodice. The background has no clear room or landscape; it changes subtly from warm olive-gray near the head to deeper brown and black toward the corners. Gentle light arrives from the upper left, touching the forehead, cheek, throat, and gauzy sleeve edges while leaving the far side softly shaded. Oil paint is smoothly blended on the skin, with lighter, freer brush marks in the fabric and blurred backdrop. The head sits just left of center, leaving a narrow field of darkness around the curls and shoulders. The composition is formal yet intimate, with luminous whites, warm flesh, and dark ground held in a restrained balance.",
+  "full_prompt_zh": "一幅方形十九世纪油画肖像在柔和棕黑背景前描绘一位年轻女子的上胸以上。双肩略向右转，面孔却温和地望向观众。深棕发在两鬓成短卷，脑后收起，几缕小卷垂向脸颊。面孔苍白且受暖光照亮，深眼、柔粉脸颊、小而直的鼻子与克制笑意都清楚。白裙横过肩与胸敞开，领口镶细褶和蕾丝般层叠。两边蓬起轻盈白袖，纤细布料在脸下接住最多光。底缘一段更深的腰带或衣物区域打断白色上衣。背景没有明确房间或风景，只从头旁暖橄榄灰微变到角落较深棕黑。柔光从左上来，触及额、颊、喉和薄袖边缘，远侧保留柔影。肌肤上的油彩平滑晕染，衣料和模糊背景有更浅、更自由的笔痕。头位于中央稍左，卷发和肩周围留窄暗色空间。构图正式却亲密，发亮白衣、暖肤与深底保持克制平衡。",
+  "style_prompt_en": "Use nineteenth-century oil portrait painting with smoothly blended focal surfaces and looser brush marks in pale fabric or background. Set warm illuminated skin or similarly soft material against a deep olive-brown to black ground. Gentle upper-side light should reveal rounded contours, fine folds, and airy edges without hard contrast. Keep the palette narrow in cream, warm pink, umber, and charcoal. Use close framing and a slight turn to make the formal arrangement feel approachable.",
+  "style_prompt_zh": "采用十九世纪油画肖像技法：焦点表面平滑晕染，浅色布料或背景笔痕更松。让暖光下的肌肤或同样柔和材质立在深橄榄棕至黑色底前。温和上侧光显出圆润轮廓、细褶与轻薄边缘，不造硬反差。调色限于奶油、暖粉、赭褐和炭黑。近距离构图与轻微转身让正式安排显得亲近。",
+  "theme_en": "A young woman with dark curls and a white ruffled dress against shadow",
+  "theme_zh": "深色卷发、白色褶边长裙的年轻女子立于暗背景",
+  "wh_ratio": "1:1",
+  "id": "1776",
+  "name": "Thomas Sully",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/thomas-sully",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/thomas-sully.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "be1c6ba3463ca3e31848682b737c93a896922c49955539ade125c208377e6f9a",
+    "gpt_submission_prompt": "A square nineteenth-century oil portrait shows a young woman from the upper chest upward against a soft brown-black background. Her shoulders turn slightly to the right, but the face looks gently toward the viewer. Dark brown hair is arranged in short curls around the temples and gathered behind the head, with a few ringlets falling toward the cheek. The face is pale and warmly lit, with dark eyes, soft pink cheeks, a small straight nose, and a restrained smile. A white dress opens across the shoulders and chest, its neckline edged with fine ruffles and lace-like folds. The sleeves rise as airy white puffs at both sides, their delicate fabric catching the most light below the face. At the bottom edge, a darker sash or garment area interrupts the white bodice. The background has no clear room or landscape; it changes subtly from warm olive-gray near the head to deeper brown and black toward the corners. Gentle light arrives from the upper left, touching the forehead, cheek, throat, and gauzy sleeve edges while leaving the far side softly shaded. Oil paint is smoothly blended on the skin, with lighter, freer brush marks in the fabric and blurred backdrop. The head sits just left of center, leaving a narrow field of darkness around the curls and shoulders. The composition is formal yet intimate, with luminous whites, warm flesh, and dark ground held in a restrained balance.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "71ca79f31687a6c3e2b3a624e541d2e1b20d1b2d3e7838c34d7ad4dfff89e13e",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

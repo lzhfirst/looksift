@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square portrait painting shows a young Black woman seated in left-facing profile against a broad, uninterrupted vermilion background. Her natural hair forms a dense rounded silhouette; a small gold hoop catches light beside her cheek. She wears a fitted long-sleeved turtleneck covered with large irregular ivory dots and a full mustard-yellow skirt gathered at the waist. Her hands rest quietly near her knees. The body occupies the lower right and central area, leaving a generous field of red to the left and above. The pose is self-contained and reflective rather than theatrical. Her face, hands and patterned shirt are modeled carefully, but the background stays flat, with no furniture or room detail to explain the setting. Slight variations in the red paint and the skirt's folded yellow planes preserve a handmade surface. The color design is simple and forceful: burnt red, ochre, ivory, dark brown skin and near-black hair. The dotted fabric introduces a lively graphic rhythm that contrasts with the figure's stillness. The profile edge remains crisp against the red, while the skirt spreads into a broad soft shape at the bottom. The portrait has a poised contemporary dignity, using controlled pattern, saturated color and open space to hold attention on an individual presence.",
+  "full_prompt_zh": "一幅正方形肖像绘画呈现一位年轻黑人女子朝左侧坐着，背景是宽阔而不间断的朱红平面。自然卷发形成浓密圆形剪影；脸颊旁的小金环接住一点光。她穿着布满大而不规则象牙白圆点的贴身长袖高领上衣，腰间收拢一条宽大的芥黄裙。双手安静落在膝附近。身体占据下方右侧和中央，在左边与上方留下大片红色。姿态自足而沉思，并非剧场化。面容、手和图案上衣经过仔细塑造，但背景始终平坦，没有家具或室内细节解释环境。红色颜料中的轻微变化与裙褶黄色平面保留手工表面。色彩设计简单有力：焦红、赭黄、象牙白、深棕肤色与近黑头发。圆点布料带来活泼的图形节奏，与人物静止状态形成对照。侧面边缘在红底上保持清楚，裙子则在下方展开成宽阔柔软形状。肖像具有端静的当代尊严，以受控图案、饱和色彩和开放空间维持对个人存在的关注。",
+  "style_prompt_en": "The style is contemporary figurative painting with carefully modeled focal detail set against broad flat saturated color. A crisp silhouette and ample negative space give the square composition poise. Graphic repeated marks energize one area while large unpatterned fields and softly folded volumes remain calm. The palette is restricted to a few bold warm hues, creamy light accents and deep near-black. Slight pigment variation preserves a painted surface. Stillness, strong color separation and dignified presentation define the emotional tone.",
+  "style_prompt_zh": "这种风格是当代具象绘画，精心塑造的焦点细节安放在宽阔平涂饱和色前。清楚剪影和充足留白使正方形构图端正。重复图形笔痕激活一处区域，大块无图案色场与柔软折叠体积则保持平静。色谱限于少数大胆暖色、乳色浅重音与深近黑色。轻微颜料变化保留绘画表面。静止、强烈色彩分离和有尊严的呈现决定情绪。",
+  "theme_en": "A seated woman in mustard clothing against a flat vermilion ground",
+  "theme_zh": "朱红平面前身穿芥黄衣装的坐姿女子",
+  "wh_ratio": "1:1",
+  "id": "4364",
+  "name": "Amy Sherald",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/amy-sherald.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "ba70d02b425bd8c1ff2ad917e1fc82c40eb5b02444385a46256446b7ec33226c",
+    "gpt_submission_prompt": "A square portrait painting shows a young Black woman seated in left-facing profile against a broad, uninterrupted vermilion background. Her natural hair forms a dense rounded silhouette; a small gold hoop catches light beside her cheek. She wears a fitted long-sleeved turtleneck covered with large irregular ivory dots and a full mustard-yellow skirt gathered at the waist. Her hands rest quietly near her knees. The body occupies the lower right and central area, leaving a generous field of red to the left and above. The pose is self-contained and reflective rather than theatrical. Her face, hands and patterned shirt are modeled carefully, but the background stays flat, with no furniture or room detail to explain the setting. Slight variations in the red paint and the skirt's folded yellow planes preserve a handmade surface. The color design is simple and forceful: burnt red, ochre, ivory, dark brown skin and near-black hair. The dotted fabric introduces a lively graphic rhythm that contrasts with the figure's stillness. The profile edge remains crisp against the red, while the skirt spreads into a broad soft shape at the bottom. The portrait has a poised contemporary dignity, using controlled pattern, saturated color and open space to hold attention on an individual presence.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "0e4f0b7637e7a0517cfc5ba31be63fe13a9e077b4e591ab55569ddfa898dcc83",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square presentation of a vintage monochrome print places a vertical profile portrait of a young woman inside a wide black border. The inner image occupies the left-center and extends from near the top to the lower middle, leaving a deep black margin on the right. Within the print, the woman faces right with her chin lowered slightly. Dark hair is piled at the back of her head and woven with large pale blossoms and leaves near the crown. Her forehead, straight nose, lips and chin form a clean pale silhouette against a mottled gray background. One eye is partly shaded beneath the brow, and the expression appears quiet and withdrawn. The light garment at her shoulder and neckline is loosely draped, its folds rendered in broad cream and gray areas rather than sharp detail. Dense black tones collect in the hair, flowers' deepest centers and the space behind the neck. The print surface is visibly grainy, with uneven ink or pigment deposits that soften some contours and make the image feel worked by hand. There is no visible inscription or surrounding setting beyond the dark border. A soft side light from the upper right catches the face and upper petals, then fades across the garment toward the lower-left corner. The black mount separates this luminous, tactile portrait from the rest of the page. The overall composition is intimate and restrained, balancing a delicate profile and floral texture against heavy negative space and velvety print shadow.",
+  "full_prompt_zh": "这幅方形呈现的复古单色相片，把一张竖向年轻女子侧脸肖像放在宽黑边框内。内图位于左侧中部，从接近顶部伸到下方中部，在右侧留下深黑边缘。相片中女子朝右，下巴略垂。深发在后脑盘起，头顶附近编进大朵浅色花和叶。额头、直鼻、嘴唇与下巴在斑驳灰底前组成干净浅色剪影。一只眼在眉下部分受影，神情安静而内收。肩与领口的浅色衣物松松披着，褶层表现为宽阔奶油与灰色区域，而非尖锐细节。密黑调子积在头发、花芯最深处和颈后空间。相纸表面颗粒明显，墨或颜料沉积不均，柔化一些轮廓，使图像像经过手工加工。除深色边框外，没有可见题字或周围场所。柔和侧光从右上照亮脸与上方花瓣，随后沿衣物向左下渐淡。黑色装裱把这张发光而可触的肖像与页面其余部分分开。整体构图亲密克制，使精致侧脸和花卉肌理同厚重负空间、天鹅绒般的相片阴影平衡。",
+  "style_prompt_en": "The antique print aesthetic uses a narrow sepia-gray scale, velvety deep blacks and irregular hand-worked grain. Pale areas seem lifted from dense pigment rather than sharply outlined, with some edges crisp in profile and others softly dissolved. Broad black mounting space heightens the small luminous image. Directional light touches only selected planes, leaving dark masses intact and giving the surface a low, tactile glow. Tonal variation resembles brush-ink deposits more than clean modern photographic contrast. The result is quiet, intimate and historically textured, with the material process visible in the mottled transitions.",
+  "style_prompt_zh": "这种古旧相纸美学使用狭窄深褐灰色阶、天鹅绒般深黑与不规则手工颗粒。浅色区域像从密颜料里提起，而非全靠锐轮廓描出；部分边缘在侧线处清楚，另一些柔和融散。宽阔黑装裱空间让较小发亮图像更突出。定向光只触及经过选择的平面，保留深色量块，并给表面低调可触的光。调性变化更像笔刷上墨沉积，而非干净现代摄影反差。成品安静、亲密且有历史肌理，斑驳过渡中可见制作过程。",
+  "theme_en": "A floral-crowned woman in profile in a grainy monochrome print",
+  "theme_zh": "颗粒感单色相纸上一位戴花冠的女子侧影",
+  "wh_ratio": "1:1",
+  "id": "4201",
+  "name": "Bromoil print",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/bromoil-print.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "6ea1f5deedd19b117b56afd71cbab7b7fe21c73257a166cdc70fc8c39dc949ee",
+    "gpt_submission_prompt": "A square presentation of a vintage monochrome print places a vertical profile portrait of a young woman inside a wide black border. The inner image occupies the left-center and extends from near the top to the lower middle, leaving a deep black margin on the right. Within the print, the woman faces right with her chin lowered slightly. Dark hair is piled at the back of her head and woven with large pale blossoms and leaves near the crown. Her forehead, straight nose, lips and chin form a clean pale silhouette against a mottled gray background. One eye is partly shaded beneath the brow, and the expression appears quiet and withdrawn. The light garment at her shoulder and neckline is loosely draped, its folds rendered in broad cream and gray areas rather than sharp detail. Dense black tones collect in the hair, flowers' deepest centers and the space behind the neck. The print surface is visibly grainy, with uneven ink or pigment deposits that soften some contours and make the image feel worked by hand. There is no visible inscription or surrounding setting beyond the dark border. A soft side light from the upper right catches the face and upper petals, then fades across the garment toward the lower-left corner. The black mount separates this luminous, tactile portrait from the rest of the page. The overall composition is intimate and restrained, balancing a delicate profile and floral texture against heavy negative space and velvety print shadow.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "06ecb2919b1eb479fbe987680a53660e176fa26e6013b0d86abe8580d5fec021",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

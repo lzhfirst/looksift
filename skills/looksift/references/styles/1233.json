@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A high-contrast black-and-white woodcut shows a man in a dark coat and brimmed hat seated on a raised ledge overlooking a broad city. He occupies the right foreground, seen from behind and in partial profile, one hand lifted near his face. A small dark dog stands to his left on the ledge, alert and turned toward the view. Below them, roofs and chimneys cascade toward a river and a distant skyline of towers and domes. The city is rendered in compact bands of angular white cuts and deep black masses, making individual structures readable while preserving an overall graphic sweep. Above the horizon, enormous curling white cloud shapes carve into a black sky, their repeated arcs echoing the river and the bend of the seated figure. The image has no gray wash or soft gradient; light exists as the exposed white paper, and shadow as dense ink. Short gouged lines describe roof tiles, water, stone, and the folds of the coat, while broader cut shapes provide the composition's weight. The man and dog form a strong near silhouette against the intricate pale city beyond. The visual rhythm moves from dense textured foreground to small skyline marks, then up into dramatic rolling sky. The result is forceful yet contemplative, combining urban scale, private observation, and the unmistakable tactile language of relief printing.",
+  "full_prompt_zh": "一幅高对比黑白木刻，描绘一名身穿深色大衣、头戴宽檐帽的男子坐在高处边缘，俯瞰广阔城市。他位于右侧前景，从背面和部分侧面可见，一只手抬到脸旁。一只深色小狗站在他左边的边缘上，警觉地望向景色。下方屋顶和烟囱层层下降，通向一条河与远处由塔楼、圆顶构成的天际线。城市由密集的棱角白色刀痕和深黑体块雕出，让各个建筑可辨，同时保持整体图形动势。地平线上方，巨大的卷曲白云切进黑色天空，反复的弧线与河流、坐姿的弯度互相呼应。画面没有灰色晕染或柔软渐变；亮处就是露出的白纸，暗处就是浓墨。短小凿刻线描出屋瓦、水面、石材和大衣褶皱，较宽的刻面则提供构图分量。男子与狗在繁密的浅色城市前形成强烈近景剪影。视觉节奏从纹理密集的前景移向细小天际线，再升到戏剧性翻卷的天空。结果有力而沉思，结合城市尺度、私人观看与凸版印刷不可替代的触觉语言。",
+  "style_prompt_en": "Bold black-and-white relief print with dense ink masses cut by bright exposed-paper strokes. Angular short marks describe small surfaces, while broad gouged curves build a dramatic upper rhythm. There are no smooth gray gradients: light and shadow alternate through hatching, negative space, and sharply carved silhouettes. A large near dark form balances an intricate distant band of smaller shapes. Repeated arcs carry the eye across the frame and upward. The surface is tactile and slightly rough, retaining the force of hand-cut marks. The mood is graphic, contemplative, and expansive.",
+  "style_prompt_zh": "强烈的黑白凸版印刷风格，浓墨体块被露出纸面的亮色刀痕切开。棱角短痕描写小尺度表面，宽大的凿刻弧线建立戏剧性上部节奏。没有平滑灰阶渐变；明暗通过排线、留白和锐利刻出的剪影交替。近处大型深色形态与远处由细小形状组成的繁密带相平衡。反复弧线引导目光横穿画面再向上。表面有触感且略粗糙，保留手工刻痕的力量。气氛图形化、沉思而辽阔。",
+  "theme_en": "A man and dog overlooking a city in a bold woodcut",
+  "theme_zh": "粗犷木刻中男子与狗俯瞰城市",
+  "wh_ratio": "1:1",
+  "id": "1233",
+  "name": "Frans Masereel",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/frans-masereel",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/frans-masereel.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "018a5a7a969edd5c85a906e478a895a5578b36aa27506a267ff203d80f5b110c",
+    "gpt_submission_prompt": "A high-contrast black-and-white woodcut shows a man in a dark coat and brimmed hat seated on a raised ledge overlooking a broad city. He occupies the right foreground, seen from behind and in partial profile, one hand lifted near his face. A small dark dog stands to his left on the ledge, alert and turned toward the view. Below them, roofs and chimneys cascade toward a river and a distant skyline of towers and domes. The city is rendered in compact bands of angular white cuts and deep black masses, making individual structures readable while preserving an overall graphic sweep. Above the horizon, enormous curling white cloud shapes carve into a black sky, their repeated arcs echoing the river and the bend of the seated figure. The image has no gray wash or soft gradient; light exists as the exposed white paper, and shadow as dense ink. Short gouged lines describe roof tiles, water, stone, and the folds of the coat, while broader cut shapes provide the composition's weight. The man and dog form a strong near silhouette against the intricate pale city beyond. The visual rhythm moves from dense textured foreground to small skyline marks, then up into dramatic rolling sky. The result is forceful yet contemplative, combining urban scale, private observation, and the unmistakable tactile language of relief printing.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "235a78d7b84b06b0c95b89f12af9eeafa42d55bf6d1368a2cbaf6318ae1519fa",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

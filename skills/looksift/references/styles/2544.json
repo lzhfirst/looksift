@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square intimate oil painting shows a woman seated thoughtfully beside a round table set with flowers, dishes, and glasses in a dim interior. She occupies the right side, leaning back against a muted green upholstered seat with one elbow on the table and her hand supporting her cheek. Dark hair is pinned up, and her pale face turns slightly left with a distant, inward gaze. A deep blue-black dress covers her arms and lap, its folds merging into the shadowed lower right. The round table fills the lower-left foreground, draped with a pale cloth that hangs in loose vertical folds. A plate, small dishes, bottles, and slender stemmed glasses catch scattered bright highlights. A bouquet of white flowers with one orange bloom rises near the left edge, creating a luminous cluster against the darkness. Behind the woman, the room recedes into green-black shadow; a vague rectangular opening or framed area and more flower-like marks are visible but not sharply defined. The painting uses loose, broken strokes on cloth, flowers, and reflected glass, while the woman's face is modeled more smoothly. The palette stays subdued in deep green, charcoal, cream, and soft blue, with small warm orange and gold accents. Light comes from the upper left, illuminating the tabletop, flowers, and one side of her face before falling off into the surrounding room. No text is legible. The overall composition feels hushed and slightly melancholy, with bright still-life details balanced against the solitary dark figure.",
+  "full_prompt_zh": "这幅方形亲密油画呈现一名女子沉思地坐在一张摆有花、餐具和酒杯的圆桌旁，室内昏暗。她占据右侧，靠在柔和绿色软座上，一只手肘放在桌边，手托脸颊。深发盘起，浅色面孔略向左转，目光遥远而内省。深蓝黑长裙覆盖手臂与膝部，衣褶融入右下方阴影。圆桌填满左下前景，垂着浅色桌布，形成松散竖向褶皱。盘子、小碟、瓶子和细长高脚杯接住零星明亮亮点。一束白花带一朵橙花从左缘升起，在黑暗前形成发亮色簇。女子身后，房间退入绿黑阴影；模糊矩形开口或画框区域与更多花般痕迹可见，却不清楚。绘画在布料、花和玻璃反光上使用松散破碎笔触，女子面孔塑形更平滑。色盘以深绿、炭色、奶油与柔蓝为主，小面积暖橙和金色强调。光从左上方来到，照亮桌面、花和一侧脸，然后在周围房间迅速减弱。没有可读文字。整体构图寂静且略带忧郁，以明亮静物细节平衡孤独的深色人物。",
+  "style_prompt_en": "Intimate oil painting places softly modeled focal planes and loose broken still-life strokes within a deep green-black interior. Cream whites and small amber or orange accents catch light against charcoal, muted blue, and dark olive. Reflections appear as short bright marks rather than polished mirror surfaces, while fabric folds and foliage dissolve gently into shadow. Side lighting concentrates on a compact foreground area and falls away rapidly, leaving generous darkness around it. The result is quiet, tactile, and contemplative.",
+  "style_prompt_zh": "亲密油画把柔和塑形的焦点平面与松散破碎的静物笔触放在深绿黑室内。奶油白和少量琥珀、橙色强调在炭色、柔蓝和深橄榄前接光。反射呈短亮痕，而非抛光镜面，布褶与植物形体轻轻融进阴影。侧光集中在紧凑前景区域并迅速衰减，周围留下宽阔黑暗。整体安静、可触且沉思。",
+  "theme_en": "A woman seated thoughtfully beside flowers and a set table",
+  "theme_zh": "一名女子沉思地坐在摆好餐具与鲜花的桌旁",
+  "wh_ratio": "1:1",
+  "id": "2544",
+  "name": "Harriet Backer",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/harriet-backer",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/harriet-backer.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "9107937e106220d952c35d0255927ed6332f2d9f10b61f6a262751bba95a25f7",
+    "gpt_submission_prompt": "A square intimate oil painting shows a woman seated thoughtfully beside a round table set with flowers, dishes, and glasses in a dim interior. She occupies the right side, leaning back against a muted green upholstered seat with one elbow on the table and her hand supporting her cheek. Dark hair is pinned up, and her pale face turns slightly left with a distant, inward gaze. A deep blue-black dress covers her arms and lap, its folds merging into the shadowed lower right. The round table fills the lower-left foreground, draped with a pale cloth that hangs in loose vertical folds. A plate, small dishes, bottles, and slender stemmed glasses catch scattered bright highlights. A bouquet of white flowers with one orange bloom rises near the left edge, creating a luminous cluster against the darkness. Behind the woman, the room recedes into green-black shadow; a vague rectangular opening or framed area and more flower-like marks are visible but not sharply defined. The painting uses loose, broken strokes on cloth, flowers, and reflected glass, while the woman's face is modeled more smoothly. The palette stays subdued in deep green, charcoal, cream, and soft blue, with small warm orange and gold accents. Light comes from the upper left, illuminating the tabletop, flowers, and one side of her face before falling off into the surrounding room. No text is legible. The overall composition feels hushed and slightly melancholy, with bright still-life details balanced against the solitary dark figure.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "1755fbb44ed60a50936cbfd7430ffbc153ca2779bfeacfb7fc12292dbf677af3",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

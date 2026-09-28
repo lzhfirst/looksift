@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A lively anime inspired digital painting looks up at a young figure standing beneath a broad clear blue sky. The figure is seen from a low angle, framed from the hips upward, and wears a red helmet with large round brass rimmed goggles resting on top. Stray orange brown hair sticks out from either side of the helmet, and the large blue eyes gaze slightly upward with an alert, searching expression. A loose red T shirt dominates the lower half, painted in broad folds with an oversized white blocky emblem across the chest. A black underlayer appears at the sleeves and waist, while pale gray trousers and a brown glove are cut off at the bottom edge. The sky is a nearly unbroken saturated cyan blue, with soft white clouds brushing the lower corners and providing a strong clean silhouette around the head and shoulders. The anatomy and facial marks are concise and graphic, but the clothes, helmet, and glove retain painterly scuffs, angular patches of shadow, and irregular brush edges. Sunlight from high above and the right catches the goggles, cheek, and shirt while deeper warm shadows shape the underside of the visor and folds. The whole frame feels youthful, wind exposed, and ready for movement, with a simple sky field giving the colorful figure the full visual emphasis.",
+  "full_prompt_zh": "一幅活泼的动漫风数字绘画从低处仰望一位站在开阔晴蓝天空下的年轻人物。画面以低机位截取腰部以上，他戴着红色头盔，顶上搁着一副黄铜边的大圆护目镜。橙棕色散发从头盔两边翘出，一双大蓝眼略向上看，神情警觉而寻觅。宽松红色 T 恤占据下半部，以宽阔的褶皱笔触绘成，胸前横着醒目的白色块状标记。袖口与腰部露出黑色内层，浅灰裤子和一只棕色手套在底边被裁断。天空几乎是一整片饱和的青蓝，柔软白云轻刷下方两角，使头部与肩膀周围形成有力而干净的剪影。解剖形态与面部标记简洁而图形化，但衣服、头盔和手套保留绘画性的擦痕、棱角状阴影和不规则笔缘。来自高处偏右的阳光照亮护目镜、脸颊与衬衫，较深的暖色阴影则塑造镜片下方和衣褶。整幅画年轻、迎风且蓄势待发，简单的天空色场让彩色人物获得全部视觉强调。",
+  "style_prompt_en": "An anime inspired digital painting with low angle composition, youthful kinetic energy, and broad clean color fields. Use concise graphic features and simplified anatomy, then add painterly scuffs and angular broken brush marks to clothing and hard surfaces. Pair a saturated warm focal color with an expansive clear cyan blue field, allowing only a few soft pale clouds or washes near the frame edge. Keep the silhouette bold and readable against the sky, with large simple shapes carrying the design and small precise highlights marking reflective details. Light from high to one side should create bright planes and warm shadow wedges without overcomplicating the image. The mood is open air, optimistic, and poised just before action.",
+  "style_prompt_zh": "采用动漫风数字绘画，以低视点构图、年轻的动势和宽阔干净的色场为特征。用简洁图形化的特征与概括形体建立主体，再在衣物和硬质表面加入绘画性擦痕与棱角分明的破碎笔触。让一种饱和暖色焦点与大片清澈的青蓝色场相配，只在画框边缘放入少量柔和浅色云团或水洗。剪影在天空前应大胆清楚，由大而简单的形状承担设计，小而精准的高光标记反光细节。高处单侧来光形成明亮平面与暖色阴影楔块，却不使画面复杂化。气氛开阔、乐观，像动作发生前的一瞬。",
+  "theme_en": "Goggle helmet under a blue sky",
+  "theme_zh": "蓝天下戴护目镜头盔的少年",
+  "wh_ratio": "1:1",
+  "id": "3363",
+  "name": "FLCL",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/flcl",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "0d3c6dc433e4f2247a5dc6627bdc67fb5523bc6a5112669fede0f85eef6bc82c",
+    "gpt_submission_prompt": "A lively anime inspired digital painting looks up at a young figure standing beneath a broad clear blue sky. The figure is seen from a low angle, framed from the hips upward, and wears a red helmet with large round brass rimmed goggles resting on top. Stray orange brown hair sticks out from either side of the helmet, and the large blue eyes gaze slightly upward with an alert, searching expression. A loose red T shirt dominates the lower half, painted in broad folds with an oversized white blocky emblem across the chest. A black underlayer appears at the sleeves and waist, while pale gray trousers and a brown glove are cut off at the bottom edge. The sky is a nearly unbroken saturated cyan blue, with soft white clouds brushing the lower corners and providing a strong clean silhouette around the head and shoulders. The anatomy and facial marks are concise and graphic, but the clothes, helmet, and glove retain painterly scuffs, angular patches of shadow, and irregular brush edges. Sunlight from high above and the right catches the goggles, cheek, and shirt while deeper warm shadows shape the underside of the visor and folds. The whole frame feels youthful, wind exposed, and ready for movement, with a simple sky field giving the colorful figure the full visual emphasis.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "378643343fbaa49c44782c94fa294ff4ef97726c61df1052a4eb7bf0dabdbc1a",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

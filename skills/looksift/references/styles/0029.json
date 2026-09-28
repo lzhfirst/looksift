@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square screen-print-style poster centers a monumental close view of a man's face against a dense red-and-black radiating background. The portrait is cropped at the forehead and chest, with both ears near the side edges and the chin reaching into the lower dark region. The man looks upward beyond the viewer, eyes partly shadowed by thick black brow shapes. His broad nose and slightly open mouth are modeled in hard blocks of orange, vermilion, charcoal, and deep black. Bright orange covers the upper forehead, nose ridge, and parts of the cheek, while red bands cut across the lower face. Dark gray stippled areas make the unlit side heavy and tactile. Behind the head, sharp red rays spread diagonally from the upper central area into a near-black field crowded with faint floral curves and ornamental symbols. At the lower right, intricate red scrollwork rises across the dark shoulder area, and a few thin vertical drip lines run toward the bottom. The edges of color are deliberately rough, with distressed flecks and halftone-like dot texture interrupting the bold graphic planes. Light is expressed as posterized warm color from above and slightly left, not as a soft photographic gradient. The face remains the largest simple shape while the background is densely patterned but low in value. This severe crop, angular light, and forceful red-black contrast give the image the urgency of a worn public poster.",
+  "full_prompt_zh": "一幅方形丝网印刷风格海报把男子面孔的巨大近景置于密集的红黑放射背景前。肖像在额头和胸前被裁切，两耳靠近左右边缘，下巴伸入下方深暗区域。男子越过观者向上望，眼睛部分藏在浓黑眉形下。宽鼻和略微张开的嘴由橙、朱红、炭灰与深黑硬色块塑造。明亮橙色覆盖上额、鼻梁和部分脸颊，红色带状块切过下半张脸。深灰点纹让未被照亮的一侧沉重且可触。头部后方，锐利红色射线从上方中央向近黑底色斜向散开，底色里挤着淡淡花卉曲线与装饰符号。右下方精细红色卷纹爬上暗色肩部区域，几条细竖向流痕朝底边延伸。色块边缘刻意粗糙，磨损斑点和类似网点的纹理打断大胆图形平面。光以从上方略偏左的海报式暖色分区表现，而非柔滑摄影渐层。面孔始终是最大的简明形状，背景虽密集花纹却保持低明度。严厉的裁切、棱角光线和有力红黑反差，使图像带着磨损公共海报的急迫感。",
+  "style_prompt_en": "Graphic screen-print treatment builds volume from a few hard-edged tonal blocks rather than continuous shading. Red, vermilion, and hot orange dominate against charcoal and black, with little unprinted light area. Distressed specks, halftone-like dots, thin drips, and ornamental line fragments roughen the otherwise flat shapes. Rays or strong directional bands organize the background around a simple oversized focal mass, while dense low-value pattern stays subordinate. Illumination appears as abrupt warm color changes across planes, leaving strong black cutouts for shadow. The close crop and unequal color areas make the composition direct and emphatic, and the printed wear gives it physical grit.",
+  "style_prompt_zh": "图形丝网印刷处理以少数硬边明暗块建立体积，而不是连续渐层。红、朱红和炽橙对抗炭灰与黑色，未着色的浅亮区域很少。磨损斑点、类似网点的小点、细流痕与装饰线碎片让原本平坦的形体变粗粝。射线或强方向色带围绕一个放大的简明焦点组织背景，密集低明度纹样保持从属。光照以平面上突变的暖色呈现，强黑色镂空保留为阴影。近距离裁切和不均衡色彩面积让构图直接而有力，印刷磨损赋予实体般的粗粝感。",
+  "theme_en": "A monumental face against red radiating poster rays",
+  "theme_zh": "红色放射海报光束前的巨大面孔",
+  "wh_ratio": "1:1",
+  "id": "0029",
+  "name": "红黑丝网海报画法",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/obey-giant",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/obey-giant.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "82f77ca42199e7bfa2a9e6f85cfa54419d5337de922d3f3e115c77341093624c",
+    "gpt_submission_prompt": "A square screen-print-style poster centers a monumental close view of a man's face against a dense red-and-black radiating background. The portrait is cropped at the forehead and chest, with both ears near the side edges and the chin reaching into the lower dark region. The man looks upward beyond the viewer, eyes partly shadowed by thick black brow shapes. His broad nose and slightly open mouth are modeled in hard blocks of orange, vermilion, charcoal, and deep black. Bright orange covers the upper forehead, nose ridge, and parts of the cheek, while red bands cut across the lower face. Dark gray stippled areas make the unlit side heavy and tactile. Behind the head, sharp red rays spread diagonally from the upper central area into a near-black field crowded with faint floral curves and ornamental symbols. At the lower right, intricate red scrollwork rises across the dark shoulder area, and a few thin vertical drip lines run toward the bottom. The edges of color are deliberately rough, with distressed flecks and halftone-like dot texture interrupting the bold graphic planes. Light is expressed as posterized warm color from above and slightly left, not as a soft photographic gradient. The face remains the largest simple shape while the background is densely patterned but low in value. This severe crop, angular light, and forceful red-black contrast give the image the urgency of a worn public poster.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "a77853f99e50f7155ebb6a824692079de21cfda768eccacf9b3c236792983d5f",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white documentary photograph shows two young women seated close together at a counter in a crowded interior. The woman on the left wears a patterned headscarf tied around dark hair, round eyeglasses, layered necklaces, and a textured top. She leans forward with both forearms on the counter and turns to look at her companion. The woman on the right rests her chin on one hand and gazes outward past the camera with a pensive expression. Short curly hair is held back by a small floral or patterned band, and a long string of pale beads drops over her dark clothing. A wide horizontal counter edge runs across the bottom, creating a stable foreground line. Behind the pair, several people are visible in soft focus, their faces and shoulders compressed into the narrow space. Tall window panes at the upper right admit pale daylight, rim-lighting hair and shoulders and leaving parts of the room dark. The women's faces are strongly individualized: light catches the glasses and headscarf at left, while the right woman's cheek, nose, and bead necklace stand out against shadow. Fine film grain and natural contrast preserve the atmosphere of a candid moment. The two opposing gaze directions create the image's emotional rhythm, one attentive to a nearby person and the other distant in thought. The crowded background and tight crop add intimacy without a staged pose.",
+  "full_prompt_zh": "一幅方形黑白纪实摄影呈现两位年轻女子在拥挤室内并肩坐在柜台旁。左侧女子用带纹样头巾束住深发，戴圆眼镜、层叠项链和有肌理上衣。她双前臂靠在柜台，身体前倾，转头看向同伴。右侧女子用一只手托住下巴，越过相机望向远方，神情沉思。短卷发由小花形或纹样发带收住，一串长浅色珠链落在深衣前。宽水平柜台边横过底部，建立稳定前景线。两人身后可见数个人，面孔和肩膀在浅焦中压缩进狭窄空间。右上高窗格让浅日光进入，沿头发和肩勾亮，同时室内部分区域保持暗。两张脸个性鲜明：左侧眼镜与头巾接光，右侧女子的脸颊、鼻和珠链则从阴影里突出。细胶片颗粒与自然反差保留抓拍瞬间的氛围。两道相反的目光方向形成情绪节奏，一道关注近旁同伴，一道沉入远思。拥挤背景和紧凑裁切增添亲密感，而姿态并不刻意摆布。",
+  "style_prompt_en": "A candid black-and-white interior photograph uses tight framing and a strong low horizontal line to gather two near foreground silhouettes. Soft daylight enters from one upper side, rim-lighting hairlike edges and pale jewelry-like dots while leaving the crowded rear area in charcoal. Faces are modeled with natural midtone gradation and fine film grain, not polished studio smoothness. One focal contour turns laterally toward its neighbor, while another looks beyond the frame, creating a quiet counter-rhythm. Repeated blurred heads behind them give depth through overlap and softened edges. Small high-contrast accents on glasses, patterned cloth, and light beads punctuate the dark clothing masses. The composition is intimate and observational, balanced between a stable foreground plane and layered social movement behind it.",
+  "style_prompt_zh": "抓拍式黑白室内摄影以紧密框景和低处强水平线聚拢两处近前景剪影。柔日光从上方一侧进入，勾亮发丝般边缘和珠点般浅饰，而拥挤后景留在炭灰中。面孔由自然中灰渐层与细胶片颗粒塑形，而非光洁影棚效果。一处焦点轮廓侧向邻近形体，另一处望向画外，形成安静的对位节奏。身后重复模糊头形通过遮叠与软边建立纵深。眼镜、纹布和浅珠上的小高反差重音点破深衣团块。构图亲密、观察感强，在稳定前景平面与后方层叠人群活动之间取得平衡。",
+  "theme_en": "Two women seated together in a crowded black-and-white café scene",
+  "theme_zh": "黑白拥挤室内，两位女子并肩坐着",
+  "wh_ratio": "1:1",
+  "id": "2263",
+  "name": "Jill Freedman",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/jill-freedman",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/jill-freedman.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "d7cc15fc7c5eeeb92dd10a6e4b0d2c61c04e4be470e044ab286415b40e642051",
+    "gpt_submission_prompt": "A square black-and-white documentary photograph shows two young women seated close together at a counter in a crowded interior. The woman on the left wears a patterned headscarf tied around dark hair, round eyeglasses, layered necklaces, and a textured top. She leans forward with both forearms on the counter and turns to look at her companion. The woman on the right rests her chin on one hand and gazes outward past the camera with a pensive expression. Short curly hair is held back by a small floral or patterned band, and a long string of pale beads drops over her dark clothing. A wide horizontal counter edge runs across the bottom, creating a stable foreground line. Behind the pair, several people are visible in soft focus, their faces and shoulders compressed into the narrow space. Tall window panes at the upper right admit pale daylight, rim-lighting hair and shoulders and leaving parts of the room dark. The women's faces are strongly individualized: light catches the glasses and headscarf at left, while the right woman's cheek, nose, and bead necklace stand out against shadow. Fine film grain and natural contrast preserve the atmosphere of a candid moment. The two opposing gaze directions create the image's emotional rhythm, one attentive to a nearby person and the other distant in thought. The crowded background and tight crop add intimacy without a staged pose.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "50f388f46d0d2fa355d3d2ebe2a5f6d353ab34a2cf301a64231373e6c552d88e",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

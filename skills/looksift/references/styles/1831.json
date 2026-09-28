@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white studio portrait frames a young dark-haired woman from the upper chest to just above her head. Her body turns slightly to the right, while her face angles back toward the left side of the frame. She looks downward past the camera rather than meeting it, with a quiet, self-contained expression and lips slightly parted. Straight heavy bangs fall across her forehead to her eyebrows. The rest of her long hair falls behind her shoulders and over her near shoulder, held at the crown by a thin dark headband with a small knot or bow. A plain black turtleneck and dark outer layer merge into the lower portion of the image, making her pale face the clear focal point. A gray studio background darkens gradually around the edges and carries no objects or text. Soft light from the upper left traces the bridge of her nose, cheekbone, forehead, and upper lip, while the far side of her face and her hair recede into deep but readable shadow. The image has a modest film grain and restrained tonal scale: luminous skin, charcoal gray backdrop, and almost-black clothing and hair. The crop is close but leaves breathing space beside her gaze. The overall composition relies on an elegant asymmetry between a bright face on the left half and the dense curtain of hair on the right.",
+  "full_prompt_zh": "一幅方形黑白影棚肖像从胸口上方裁到头顶上方，拍摄一位深发年轻女子。身体略向右转，面部却回转向画面左侧。她的目光向下掠过镜头，没有直视观者，神情安静自持，嘴唇微微张开。厚实的齐刘海落到眉毛附近；其余长发披在肩后和近侧肩上，头顶用一条细深色发箍收住，带有小结或蝴蝶结。素黑高领上衣和深色外层融入画面下部，使浅色面庞成为明确焦点。灰色影棚背景向边缘逐渐变暗，没有物件或文字。左上方柔光沿鼻梁、颧骨、额头与上唇勾出亮部，脸的远侧和头发则退入深但可辨的阴影。图像有轻微胶片颗粒，色阶克制：发亮的皮肤、炭灰背景与近黑的衣服及头发。裁切紧凑，却在她视线前方留出呼吸空间。整体构图依赖优雅的不对称：左半幅的亮面孔对应右半幅密实的长发帘幕。",
+  "style_prompt_en": "Make a close, monochrome portrait with deep charcoal blacks, softly graded grays, and luminous but natural midtone skin. Keep the styling spare: dark, low-detail clothing and hair form a continuous mass beneath a sharply legible face. Place a soft directional key light high to one side so brow, nose, cheek, and lips emerge gradually from shadow without a hard glamour sheen. Use a plain, gently vignetted background and fine film-like grain for tactile depth. Crop near the head and shoulders, leave more space along the direction of the gaze, and balance one light focal area against a larger dark shape. Expression and pose remain restrained and inward-looking. The transferable visual language is intimate editorial photography driven by tonal compression, asymmetrical balance, and quiet controlled light.",
+  "style_prompt_zh": "制作近距离单色肖像，以深炭黑、柔和递进的灰色和明亮却自然的中间调皮肤为主。造型保持简洁：深色且细节低调的衣服和头发在清晰可辨的脸下方连成一片。柔和定向主光从一侧较高处照来，使眉、鼻、颊和嘴唇逐渐从阴影浮出，而没有坚硬的时尚光泽。背景素净并轻微暗角，以细小胶片感颗粒增加触感和纵深。靠近头肩裁切，在视线方向留较多空间，用一处明亮焦点平衡较大的深色形体。神情与姿态克制、内敛。可迁移的视觉语言是由压缩的明暗层次、不对称平衡与安静可控的光线驱动的亲密编辑摄影。",
+  "theme_en": "A dark-haired woman in a black turtleneck photographed in profile",
+  "theme_zh": "一位身穿黑色高领上衣的深发女子侧向肖像",
+  "wh_ratio": "1:1",
+  "id": "1831",
+  "name": "Hedi Slimane",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/hedi-slimane",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/hedi-slimane.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "9b952e1ce4116ff4bc8b8e082652166ab5d511cd3c213784f0d3aa27b7937f34",
+    "gpt_submission_prompt": "A square black-and-white studio portrait frames a young dark-haired woman from the upper chest to just above her head. Her body turns slightly to the right, while her face angles back toward the left side of the frame. She looks downward past the camera rather than meeting it, with a quiet, self-contained expression and lips slightly parted. Straight heavy bangs fall across her forehead to her eyebrows. The rest of her long hair falls behind her shoulders and over her near shoulder, held at the crown by a thin dark headband with a small knot or bow. A plain black turtleneck and dark outer layer merge into the lower portion of the image, making her pale face the clear focal point. A gray studio background darkens gradually around the edges and carries no objects or text. Soft light from the upper left traces the bridge of her nose, cheekbone, forehead, and upper lip, while the far side of her face and her hair recede into deep but readable shadow. The image has a modest film grain and restrained tonal scale: luminous skin, charcoal gray backdrop, and almost-black clothing and hair. The crop is close but leaves breathing space beside her gaze. The overall composition relies on an elegant asymmetry between a bright face on the left half and the dense curtain of hair on the right.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "6be15853842bda77130c1a92e201bd2182ff334b43bda87933728be2323408b2",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

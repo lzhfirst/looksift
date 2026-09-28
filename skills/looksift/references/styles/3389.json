@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "The finished square image is a polished character illustration in a close three-quarter crop. A young woman occupies nearly the whole frame, her head tilted slightly as she looks upward toward the viewer's left. Brilliant cyan-blue eyes with crisp white reflections stand beneath dark brows and long lashes. Saturated magenta hair falls in irregular layered strands around the face, with thicker plaited sections descending over the shoulders. The fine flyaway ends are darker at the edges and catch bright pink accents where the light strikes. Her face has a smooth warm peach surface, a small glint on the nose, soft cheek shadow and lightly parted rose lips. A black sleeveless top forms a broad dark base beneath the face. At her neck, a black band with round metal eyelets and a hanging oval pendant provides small hard highlights against the softer skin and hair. One bare shoulder is cropped at the left border; the other arm is only partly visible at the right. The background is an almost featureless medium charcoal gray, allowing the hot pink, blue and black color grouping to read instantly. The rendering combines clean animated linework with carefully graduated digital shading, especially along the cheeks, hair and exposed shoulder. Light comes from the upper left, placing small glossy marks on the eyes, nose, lips and hair while deepening the underside of the chin. The compressed composition feels vivid and contemporary, with the intense color and direct gaze held in a quiet gray field.",
+  "full_prompt_zh": "成品正方形是一幅精致的角色插画，画面为近距离四分之三裁切。一位年轻女子几乎占满全幅，头略微倾斜，目光朝观众左上方。明亮青蓝眼睛有清楚白色反光，深色眉毛和长睫毛在上方形成轮廓。饱和洋红头发以不规则层叠发束包围面孔，较粗的编发垂在肩头。纤细散发的边缘更暗，受光处出现亮粉色点缀。她的脸是平滑暖桃色，小鼻尖有一处亮点，脸颊有柔影，玫瑰色嘴唇轻轻张开。黑色无袖上衣在脸下形成宽阔暗色底座。颈部的黑色颈圈有圆形金属孔和悬挂的椭圆坠饰，在柔软皮肤和头发之间提供细小坚硬高光。左边框裁断一侧裸肩，另一只手臂在右侧只露出局部。背景是几乎没有细节的中度炭灰，使亮粉、蓝与黑的配色组合立即可读。画法将清洁的动画式线条与仔细过渡的数字明暗结合，特别体现在脸颊、头发和露出的肩部。光从左上来，在眼、鼻、唇和发丝上留下细小光泽，并加深下颌阴影。紧凑构图鲜明而当代，强烈色彩和直接目光被安置在安静灰色区域中。",
+  "style_prompt_en": "Polished digital illustration balances crisp animated contours with smooth graduated shading, selective glossy highlights and sharply saturated accent color. A large near-black mass anchors the lower field, while vivid magenta and cyan-blue notes flare against neutral charcoal gray. Layered fine linework and controlled soft shadow give the close square composition dimensional clarity without photographic texture.",
+  "style_prompt_zh": "精致数字插画以清晰动画式轮廓平衡平滑渐层、选择性光泽高光和高度饱和的强调色。大片近黑色压住下方区域，鲜明洋红与青蓝在中性炭灰前亮起。层叠细线和受控软影赋予紧凑正方形构图清楚体积，却没有摄影纹理。",
+  "theme_en": "A pink-haired character with bright blue eyes against a muted gray ground",
+  "theme_zh": "灰色背景前，粉发蓝眼的角色近景",
+  "wh_ratio": "1:1",
+  "id": "3389",
+  "name": "Realistic anime style",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/realistic-anime-style",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "e7d8ba16e5f1bac6c62adc95d0a42db5ad0c4acc27ead843dfff8460394fac05",
+    "gpt_submission_prompt": "The finished square image is a polished character illustration in a close three-quarter crop. A young woman occupies nearly the whole frame, her head tilted slightly as she looks upward toward the viewer's left. Brilliant cyan-blue eyes with crisp white reflections stand beneath dark brows and long lashes. Saturated magenta hair falls in irregular layered strands around the face, with thicker plaited sections descending over the shoulders. The fine flyaway ends are darker at the edges and catch bright pink accents where the light strikes. Her face has a smooth warm peach surface, a small glint on the nose, soft cheek shadow and lightly parted rose lips. A black sleeveless top forms a broad dark base beneath the face. At her neck, a black band with round metal eyelets and a hanging oval pendant provides small hard highlights against the softer skin and hair. One bare shoulder is cropped at the left border; the other arm is only partly visible at the right. The background is an almost featureless medium charcoal gray, allowing the hot pink, blue and black color grouping to read instantly. The rendering combines clean animated linework with carefully graduated digital shading, especially along the cheeks, hair and exposed shoulder. Light comes from the upper left, placing small glossy marks on the eyes, nose, lips and hair while deepening the underside of the chin. The compressed composition feels vivid and contemporary, with the intense color and direct gaze held in a quiet gray field.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "cf676572e8bbc8c3eab56f286ab876266c9e116aa310fa9943ed1252169699f7",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A spare black-and-white editorial cartoon shows two fictional officials sitting at opposite ends of an old upholstered sofa. The older man at left bends forward in a dark suit, hands clasped between his knees and a short cigarette at his lips. The woman at right leans toward him, one hand supporting her cheek; her dark dress and pale hairstyle create a clear opposing shape. Their exaggerated profiles face one another across the empty center cushion. A small stocky dog sits on the floor in the foreground and looks out toward the viewer, while a shallow bowl rests nearby. Two lightly sketched picture frames hang high on the plain gray wall. The figures are built from fine pencil and ink lines, with faces delicately modeled through hatching, but the clothing forms nearly solid black silhouettes. The sofa is rendered in soft gray contour and parallel seat lines, enough to describe upholstery without clutter. Large blank wall and floor areas surround the small group, making the strained conversation feel isolated. Light is even and untheatrical; the drawing depends on value contrast and body language rather than shadow effects. The composition is nearly symmetrical but subtly unsettled by the dog's low central placement and the different angles of the two sitters. It feels dryly humorous and observational, with a quiet pause carrying more weight than any written caption.",
+  "full_prompt_zh": "一幅简净黑白编辑漫画描绘两位虚构官员坐在旧软沙发两端。左侧年长男子穿深西装前倾，双手在膝间合拢，嘴边叼短烟。右侧女子向他倾，单手支颊；深裙与浅发型形成清楚对向形。他们夸张的侧脸隔着中间空座垫相望。一只矮壮小狗坐在前景地上朝观者望来，旁边有一只浅碗。两幅轻描的框画挂在素灰墙较高处。人物由细铅笔墨线构成，脸通过排线精细塑造，衣服则近乎实黑剪影。沙发由柔灰轮廓和平行座线表现，足以描述软包而不杂乱。大片空白墙与地围住小群体，使紧绷对话显得孤立。光均匀而不戏剧化；画面依赖明度对比与身体语言，而非光影效果。构图近乎对称，却被狗较低的中央位置和两位坐者的不同倾角轻轻扰动。它干冷幽默、善观察，一个安静停顿比任何文字说明更有重量。",
+  "style_prompt_en": "Sparse monochrome editorial cartooning sets nearly solid black shapes against a pale gray paper field. Fine pencil and ink contour, delicate facial hatching, and restrained parallel texture define small focal details; broad empty areas do much of the compositional work. A light middle-gray support shape can connect two opposed dark masses, while a smaller low accent interrupts their formal balance. Edges are clean but hand-drawn, with occasional soft pencil fade. Even illumination leaves little cast shadow, so character and tension arise through silhouette, gesture, spacing, and the direction of lines. Background marks are few and light, preserving quiet negative space. The rhythm alternates dense black blocks, thin gray furniture-like contours, and open paper. The result is dryly witty, legible, and emotionally pointed without color or visual noise.",
+  "style_prompt_zh": "稀疏单色编辑漫画把近乎实黑形置于浅灰纸场前。细铅笔墨线轮廓、纤细面部排线和克制平行纹理界定小焦点细节；宽大空域承担许多构图任务。一块浅中灰支撑形可连接两处相对暗体量，较低小强调打断其正式平衡。边缘干净却手绘，偶尔柔铅笔淡去。均匀照明几乎不投影，因此性格与张力来自剪影、手势、间距和线的方向。背景笔痕少而浅，保持安静留白。节奏在浓黑块、细灰支撑轮廓与开放纸面间交替。结果干冷机智、易读且情绪明确，无需颜色或视觉噪音。",
+  "theme_en": "Two fictional officials share a terse conversation while a small dog watches",
+  "theme_zh": "两位虚构官员短促交谈，一只小狗在旁观看",
+  "wh_ratio": "1:1",
+  "id": "0913",
+  "name": "Steve Kelley",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/steve-kelley",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/steve-kelley.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "85c75404ea6ba5c9f223034942aef8aafb44ee33af65dcaa80cb2849a3009ae5",
+    "gpt_submission_prompt": "A spare black-and-white editorial cartoon shows two fictional officials sitting at opposite ends of an old upholstered sofa. The older man at left bends forward in a dark suit, hands clasped between his knees and a short cigarette at his lips. The woman at right leans toward him, one hand supporting her cheek; her dark dress and pale hairstyle create a clear opposing shape. Their exaggerated profiles face one another across the empty center cushion. A small stocky dog sits on the floor in the foreground and looks out toward the viewer, while a shallow bowl rests nearby. Two lightly sketched picture frames hang high on the plain gray wall. The figures are built from fine pencil and ink lines, with faces delicately modeled through hatching, but the clothing forms nearly solid black silhouettes. The sofa is rendered in soft gray contour and parallel seat lines, enough to describe upholstery without clutter. Large blank wall and floor areas surround the small group, making the strained conversation feel isolated. Light is even and untheatrical; the drawing depends on value contrast and body language rather than shadow effects. The composition is nearly symmetrical but subtly unsettled by the dog's low central placement and the different angles of the two sitters. It feels dryly humorous and observational, with a quiet pause carrying more weight than any written caption.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "948280e8a76679fa0826f014d383299d66e7102caf57fb4575d75ee66481a642",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

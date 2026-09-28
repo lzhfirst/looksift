@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A hand-painted adventure poster brings together an original ensemble in a layered square composition. An older explorer's face dominates the upper center, lit warmly from one side; a younger companion occupies the left middle, and smaller travelers, strange devices, and distant scenes gather near the bottom. Additional faces flank the central one and fade into a deep blue-black upper background. The figures are arranged by scale rather than physical location, allowing the poster to suggest a larger story in one view. Fine pencil-like drawing gives the faces particular expression, while broad airbrushed transitions blend them into one another. Amber and rose light glows across the lower half, contrasting with indigo, slate blue, and charcoal in the upper corners. A few star-like flares punctuate the scene and connect the small narrative fragments. The edges of the main faces remain precise, but clothing, machinery, and background architecture dissolve through dry-brush marks and soft colored mist. No title lettering is needed; the cascading arrangement provides the theatrical emphasis. The composition grows denser toward the bottom, where small repeated forms create movement, then opens around the large faces above. The entire surface carries a slightly worn printed-paper texture that unifies its many painted elements into a single nostalgic poster.",
+  "full_prompt_zh": "一张手绘冒险海报在方形画幅中层层汇集原创的角色群像。一位年长探险者的面孔主导上方中心，一侧受到暖光照亮；年轻同伴位于左侧中景，较小的旅人、奇异装置和远处场景聚集在下缘。其他面孔分列中心两侧，逐渐融入深蓝黑色上方背景。人物按照尺度而非实际所在位置排列，使海报在同一视野中暗示更大的故事。近似铅笔的细致绘线赋予面庞鲜明表情，宽阔的喷绘式过渡则把不同形象融为一体。琥珀色和玫瑰色光在下半部发亮，与上角的靛蓝、石板蓝和炭色形成对比。几处星芒般的亮点点缀场景，并把小型叙事片段连在一起。主要面孔的边缘保持准确，但衣物、机器和背景结构通过干笔痕与柔软彩雾逐渐消散。不需要标题文字；层叠下行的安排本身就具备戏剧重点。构图向下逐渐变密，细小重复形态带来运动，上方大面孔周围则更开阔。整个表面带有略微磨旧的印刷纸纹，把众多绘画元素统一成一张怀旧海报。",
+  "style_prompt_en": "A nostalgic hand-painted poster assembled in cascading layers of different scale. Large expressive forms occupy the upper area, while smaller fragments gather densely below. Precise pencil-like drawing meets broad airbrushed color transitions and occasional dry-brush edges. Warm amber, rose, and cream glow against indigo, slate, and charcoal. A few sharp star-like highlights tie the layers together. The surface has faint printed grain and wear; overlapping edges soften into colored mist rather than being cleanly cut. The visual rhythm moves from open large masses above into many small marks below.",
+  "style_prompt_zh": "一张怀旧手绘海报，以不同尺度的形体逐层向下汇聚。大的表情性形态占据上方，较小碎片在下部密集聚集。精确的铅笔般绘线遇上宽阔的喷绘色彩过渡和偶尔的干笔边缘。暖琥珀、玫瑰和奶油色在靛蓝、石板色与炭色前发亮。少量尖锐星芒高光把层次连起来。表面有轻微印刷颗粒和旧痕；重叠边缘融入彩色薄雾，而非被整齐剪开。视觉节奏从上部开阔的大形逐渐走向下部许多小笔迹。",
+  "theme_en": "An original science adventure ensemble poster",
+  "theme_zh": "一张原创科幻冒险群像海报",
+  "wh_ratio": "1:1",
+  "id": "3085",
+  "name": "Drew Struzan",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/drew-struzan",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "49e935382849bdec0fe0ebfee9bfbeb585765bbf550b35770c97850b9abdd6fd",
+    "gpt_submission_prompt": "A hand-painted adventure poster brings together an original ensemble in a layered square composition. An older explorer's face dominates the upper center, lit warmly from one side; a younger companion occupies the left middle, and smaller travelers, strange devices, and distant scenes gather near the bottom. Additional faces flank the central one and fade into a deep blue-black upper background. The figures are arranged by scale rather than physical location, allowing the poster to suggest a larger story in one view. Fine pencil-like drawing gives the faces particular expression, while broad airbrushed transitions blend them into one another. Amber and rose light glows across the lower half, contrasting with indigo, slate blue, and charcoal in the upper corners. A few star-like flares punctuate the scene and connect the small narrative fragments. The edges of the main faces remain precise, but clothing, machinery, and background architecture dissolve through dry-brush marks and soft colored mist. No title lettering is needed; the cascading arrangement provides the theatrical emphasis. The composition grows denser toward the bottom, where small repeated forms create movement, then opens around the large faces above. The entire surface carries a slightly worn printed-paper texture that unifies its many painted elements into a single nostalgic poster.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "6978f9e866d555731a891e132dc0d91694540bc9524fe0b669e334a7b7b90b1f",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

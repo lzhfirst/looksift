@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square retro modernist illustration shows a sharply dressed couple standing beside a turquoise vintage car. The man, in a brown suit and dark sunglasses, stands at the left with one hand in his pocket. The woman stands near the car door in a narrow black dress, pale blond hair and dark sunglasses, holding a small red handbag. They appear elongated and deliberately angular, more like elegant cut-paper figures than naturalistic bodies. The turquoise car extends horizontally across the right half, its rounded white headlight and dark wheels made from clean geometric shapes. A warm orange and red city setting surrounds them, with tall simplified palms, abstract leaves and vertical building forms. Dark trunks and black negative spaces cut through the saturated background. Light is flat and graphic; color contrast, rather than shaded volume, separates the couple and car. Red orange ground and ochre walls are balanced by the cool car and small green plant shapes. The image is tightly packed yet organized through strong vertical palms and the car's horizontal body. Thin scratches and speckles in the flat fills suggest a screen-printed surface. The scene has a playful, midcentury lounge mood, with exaggerated poise, limited color and decorative pattern taking precedence over realistic depth.",
+  "full_prompt_zh": "这幅方形复古现代主义插画呈现一对穿着时髦的男女站在一辆青绿色老式汽车旁。男子在左，穿棕西装、戴深色墨镜，一只手插在口袋。女子靠车门站立，穿窄黑裙，留浅金发、戴深墨镜，手提小红包。两人被刻意拉长并处理得有棱角，更像优雅剪纸形体而非写实身体。青绿汽车横过右半幅，圆白车灯与深车轮由干净几何形组成。暖橙红的城市场景包围他们，有高而简化的棕榈、抽象叶片和竖向建筑形。深树干与黑色留域切开饱和背景。光平坦而图形化；色彩对比而非明暗体积区分人物和车。红橙地面与赭墙由冷车身和细小绿植形平衡。画面塞得紧密，却由强竖向棕榈和汽车的水平车身组织。平涂中细小刮痕和斑点暗示丝网印刷表面。场景有俏皮的世纪中期休闲气息，夸张姿态、有限色彩和装饰图案优先于真实纵深。",
+  "style_prompt_en": "The retro modernist illustration uses elongated cut-paper geometry and saturated flat color. Turquoise, burnt orange, ochre, black and cream repeat in a limited graphic palette. Strong vertical dark shapes intersect a broad horizontal band, organizing a crowded decorative field. Lighting is indicated by clean color separation rather than gradual shading. Thin speckles and scuffs suggest a printed surface, while crisp silhouettes keep the rhythm playful and precise.",
+  "style_prompt_zh": "这种复古现代主义插画使用拉长的剪纸几何与饱和平色。青绿、焦橙、赭黄、黑与奶油色在有限图形色盘中重复。强竖向暗形与宽阔水平带相交，组织拥挤的装饰色域。光由干净色块分隔暗示，而非渐进明暗。细斑点与擦痕暗示印刷表面，清脆剪影让节奏俏皮而准确。",
+  "theme_en": "A stylish couple beside a turquoise vintage car",
+  "theme_zh": "青绿色复古汽车旁的时髦男女",
+  "wh_ratio": "1:1",
+  "id": "3228",
+  "name": "Josh Agle",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/josh-agle",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "abf606e6cdd71033fd1880bd7be2376b32f8547c14eeff4b6a00521567d81ad6",
+    "gpt_submission_prompt": "A square retro modernist illustration shows a sharply dressed couple standing beside a turquoise vintage car. The man, in a brown suit and dark sunglasses, stands at the left with one hand in his pocket. The woman stands near the car door in a narrow black dress, pale blond hair and dark sunglasses, holding a small red handbag. They appear elongated and deliberately angular, more like elegant cut-paper figures than naturalistic bodies. The turquoise car extends horizontally across the right half, its rounded white headlight and dark wheels made from clean geometric shapes. A warm orange and red city setting surrounds them, with tall simplified palms, abstract leaves and vertical building forms. Dark trunks and black negative spaces cut through the saturated background. Light is flat and graphic; color contrast, rather than shaded volume, separates the couple and car. Red orange ground and ochre walls are balanced by the cool car and small green plant shapes. The image is tightly packed yet organized through strong vertical palms and the car's horizontal body. Thin scratches and speckles in the flat fills suggest a screen-printed surface. The scene has a playful, midcentury lounge mood, with exaggerated poise, limited color and decorative pattern taking precedence over realistic depth.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "e37fff736fd0f7daf3420c2a5eaf80c98d66de5d486f60711dac492aa0ee4ae2",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

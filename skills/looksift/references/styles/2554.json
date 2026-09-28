@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square Rococo-style oil painting shows an elderly white-bearded man reclining in an ornate chair beside a pale stone column. He wears a voluminous burgundy robe with golden trim over a bright cream shirt. His head tilts upward and left, eyes raised toward an open blue sky where soft white clouds drift. One hand rests on the chair arm, the other holds a pale folded sheet on his lap. The figure fills most of the lower and left frame, while the right side opens to luminous sky. The chair and robe carry flowing curves and layered fabric that amplify the relaxed pose. Warm light strikes the forehead, beard, shirt folds, and raised edges of the burgundy cloth; deeper brown-red shadow sits in the pleats and under the arms. Paint is fluid and confident, with broad visible strokes in the sky and more detailed modeling around face and hands. The whites range from cream to blue-gray, making the beard distinct from the shirt and cloud. The stone column is cool and lightly textured, giving a firm vertical foil to the expansive fabric. The composition feels theatrical yet airy: a substantial human form settled against moving cloud and open color. Its overall character is graceful, richly colored, and illuminated by high daylight.",
+  "full_prompt_zh": "一幅方形洛可可风格油画描绘一位白须老人斜倚在淡色石柱旁的华丽椅上。他身穿有金边的宽大勃艮第红长袍，内有亮奶油色衬衣。头朝左上仰起，目光望向柔白云朵飘过的开阔蓝天。一只手放在椅扶手上，另一只在膝前持浅色折纸。人物占据下方和左侧大部，右侧则向发光天空打开。椅与长袍的流线曲线、层叠布料放大悠然姿态。暖光打在额、胡须、衬衣褶与红袍凸起边缘，较深棕红影落在褶内和手臂下。笔触流畅自信，天空有可见宽笔，脸与手周围塑形更细。白色从奶油变到蓝灰，让胡须与衬衣、云朵彼此区别。石柱冷而轻带肌理，给铺展的布料一个坚实竖向对照。构图戏剧化却通透：厚重人物安坐在流云与开阔颜色前。整体优雅、浓艳，受高处日光照亮。",
+  "style_prompt_en": "Rococo oil painting favors fluid curves, ample drapery, and broad luminous sky. Burgundy, gold, cream, and clear blue create rich but airy contrast. Confident painterly strokes remain visible in open areas; focal features are more delicately modeled. High daylight catches raised folds and pale surfaces while warm brown-red remains in the recesses. Firm vertical accents balance soft cloud and flowing fabric rhythms. The composition has theatrical abundance without heaviness, using open light and curved movement to keep it graceful.",
+  "style_prompt_zh": "洛可可油画偏爱流畅曲线、丰厚布褶与宽阔发亮天空。勃艮第红、金、奶油与清蓝形成浓艳而通透的对比。开阔区域保留自信可见的绘画笔痕，焦点特征则塑形更精。高处日光落在凸褶与浅色面，暖棕红留在凹处。坚实竖向点平衡柔云和流动布料节奏。构图丰饶而不沉重，借开阔光与曲线运动保持优雅。",
+  "theme_en": "An elderly robed man reclining beneath a blue sky",
+  "theme_zh": "蓝天下斜倚的长袍老人",
+  "wh_ratio": "1:1",
+  "id": "2554",
+  "name": "Giovanni Battista Tiepolo",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/giovanni-battista-tiepolo",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/giovanni-battista-tiepolo.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "a271b4c173cc12ea16a99645b086b674c17a0596c27ef14ad2f2fa12a247e8c2",
+    "gpt_submission_prompt": "A square Rococo-style oil painting shows an elderly white-bearded man reclining in an ornate chair beside a pale stone column. He wears a voluminous burgundy robe with golden trim over a bright cream shirt. His head tilts upward and left, eyes raised toward an open blue sky where soft white clouds drift. One hand rests on the chair arm, the other holds a pale folded sheet on his lap. The figure fills most of the lower and left frame, while the right side opens to luminous sky. The chair and robe carry flowing curves and layered fabric that amplify the relaxed pose. Warm light strikes the forehead, beard, shirt folds, and raised edges of the burgundy cloth; deeper brown-red shadow sits in the pleats and under the arms. Paint is fluid and confident, with broad visible strokes in the sky and more detailed modeling around face and hands. The whites range from cream to blue-gray, making the beard distinct from the shirt and cloud. The stone column is cool and lightly textured, giving a firm vertical foil to the expansive fabric. The composition feels theatrical yet airy: a substantial human form settled against moving cloud and open color. Its overall character is graceful, richly colored, and illuminated by high daylight.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "8c73860eb14f8768ad6f9cf6caf4244b4ff1c34ea3d9e7930f34f3a6323e305c",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

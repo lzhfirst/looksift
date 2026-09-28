@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square pastel portrait shows a young girl from the chest upward, turned in profile toward the upper right. Her light brown hair is gathered loosely behind the head, with short wisps catching orange and pale yellow light. One hand rests beneath her chin, and her gaze travels upward beyond the edge of the picture. A blue garment folds across her shoulder and chest, its cool strokes blending into a deep navy background. The face is modeled with soft peach, pink, and warm cream marks, while cobalt, cyan, and violet shadow the cheek, neck, and sleeve. The colors are not rubbed into a single smooth gradient: narrow pastel strokes remain visible in the hair, clothing, and dark background, giving the surface a dry, powdery grain. The upper right contains a slender pale diagonal shape and a few warm stripes, but the setting stays mostly abstract and does not compete with the girl's profile. Light falls from the upper right, warming the brow, nose, lips, and loose hair, while cool blue shadow occupies the side of the face and lower garment. The dark field makes the illuminated features appear especially quiet and close. There is no readable text. The overall composition is intimate and contemplative, balancing a strongly upward gaze with dense cool color and a handful of bright warm accents.",
+  "full_prompt_zh": "一幅方形粉彩肖像描绘一位胸上半身的年轻女孩，以侧面转向右上方。浅棕发松松地收在脑后，短发丝接住橙色与浅黄色光。一只手托在下巴下，目光向上越过画面边缘。蓝色衣服叠在肩胸处，冷色笔痕融入深海军蓝背景。脸部由柔桃色、粉色和暖奶油色塑形，钴蓝、青蓝与紫色给脸颊、颈部和衣袖投下冷影。颜色并未揉成单一光滑渐变：狭长粉彩笔触仍可见于发丝、衣服和深背景，令表面带干燥粉质颗粒。右上方有一条狭窄浅色斜形和几道暖色条纹，但环境大体保持抽象，不与女孩侧脸争夺注意力。光从右上落下，温暖额头、鼻子、嘴唇和松散发丝，冷蓝阴影占据面部一侧与下方衣物。深色底面使受光五官显得格外安静而贴近。没有可读文字。整体构图亲密且沉思，用强烈向上的目光平衡浓密冷色与少数明亮暖色强调。",
+  "style_prompt_en": "Pastel drawing uses visible dry strokes and powdery overlap instead of polished blending. Fine directional marks describe edges and volume, while some contours dissolve into a dense dark field. Cobalt, cyan, violet, and navy dominate; peach, rose, and pale gold appear in small illuminated passages. Oblique light from above warms the most exposed planes and leaves broad cool shadows below and behind. A compact bright focal region sits inside large saturated darkness, with a few linear accents guiding the eye outward. The tactile surface feels immediate, luminous, and quietly introspective.",
+  "style_prompt_zh": "粉彩绘画使用可见的干笔痕和粉质叠色，而非抛光式融合。细而有方向的笔痕描述边缘与体积，部分轮廓则消入浓密深色域。钴蓝、青蓝、紫与海军蓝占主导；桃色、玫瑰色和浅金只出现在小片受光处。上方斜光温暖最外露平面，让宽阔冷影留在下方和后侧。紧凑明亮的焦点处于大片饱和深色中，少数线性强调引导视线向外。表面触感直接、发亮且安静内省。",
+  "theme_en": "A young girl in blue looking upward in a pastel portrait",
+  "theme_zh": "粉彩肖像中向上凝望的蓝衣女孩",
+  "wh_ratio": "1:1",
+  "id": "4109",
+  "name": "Pastel drawing",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/pastel-drawing.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "d003ef61fe68c8f5c522ffa745b592d858a6692d18b0937fbd796c3bfbf9bf36",
+    "gpt_submission_prompt": "A square pastel portrait shows a young girl from the chest upward, turned in profile toward the upper right. Her light brown hair is gathered loosely behind the head, with short wisps catching orange and pale yellow light. One hand rests beneath her chin, and her gaze travels upward beyond the edge of the picture. A blue garment folds across her shoulder and chest, its cool strokes blending into a deep navy background. The face is modeled with soft peach, pink, and warm cream marks, while cobalt, cyan, and violet shadow the cheek, neck, and sleeve. The colors are not rubbed into a single smooth gradient: narrow pastel strokes remain visible in the hair, clothing, and dark background, giving the surface a dry, powdery grain. The upper right contains a slender pale diagonal shape and a few warm stripes, but the setting stays mostly abstract and does not compete with the girl's profile. Light falls from the upper right, warming the brow, nose, lips, and loose hair, while cool blue shadow occupies the side of the face and lower garment. The dark field makes the illuminated features appear especially quiet and close. There is no readable text. The overall composition is intimate and contemplative, balancing a strongly upward gaze with dense cool color and a handful of bright warm accents.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "e2affa6d5c5293c46743a05ea475ad165421be43e5550a5dd13ad636fb5453f9",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

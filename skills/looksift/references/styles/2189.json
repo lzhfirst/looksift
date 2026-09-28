@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square oil portrait places a young woman's face in left profile extremely close to a dark violet bird. Her eyes are lowered and her lips slightly parted. The bird's glossy black beak points toward her nose, while its layered purple feathers overlap her shoulder and the lower edge of the frame. A cloud of violet shapes covers the upper head like loose petals or an indistinct hat. The background is deep blue-purple, so the pale face becomes the main source of light. Warm rose and peach model the cheek and lips, and cool lilac shadow moves along the brow, hair and neck. The relationship between the two living forms is intimate but ambiguous: they seem to occupy the same narrow space without any overt action. The paint surface is textured and softly blended, with broader palette-knife-like marks in the violet mass and finer transitions across the skin. The bird's eye is a small dark point near the beak, while the woman's closed lashes receive delicate emphasis. The square crop excludes any setting, concentrating the encounter into color and touch. Deep indigo borders nearly surround the figures; a few bright lavender patches keep the shadows from becoming flat. The result is a contemplative fantasy portrait whose atmosphere depends on saturated cool color, tactile feathers and a tender, inward gesture.",
+  "full_prompt_zh": "一幅正方形油画肖像把年轻女子的左侧脸放得极近，紧挨一只深紫色鸟。她双眼低垂，嘴唇微张。鸟的光亮黑喙指向鼻子，层叠紫羽覆盖她的肩膀与画框下缘。一团紫色形状像松散花瓣或模糊帽子般罩住头部上方。背景深蓝紫色，因此浅色面容成为主要亮源。暖玫色与桃色塑造脸颊和嘴唇，冷丁香紫阴影沿眉、发与颈移动。两种生命形体之间亲密却暧昧：它们似乎共享狭窄空间，却没有明显动作。颜料表面带肌理且柔和融合，紫色形群中有较宽的调色刀般笔痕，皮肤上则是较细的过渡。鸟眼是喙旁的小深点，女子闭合的睫毛受到纤细强调。正方形裁切排除环境，使相遇集中于色彩和触感。深靛色几乎环绕两者；几块明亮淡紫让阴影不至于平板。结果是一幅沉思式幻想肖像，气氛依靠饱和冷色、可触羽毛与温柔内向的动作。",
+  "style_prompt_en": "The style is dreamlike oil painting with a close crop, saturated violet-blue atmosphere and selective warm flesh-like highlights. Broad tactile marks build dense dark masses, while softer blending protects the luminous focal passage. Overlapping organic forms share the same narrow space and create intimacy without explicit narrative. Fine edge details emerge from thick chromatic shadow. Cool indigo, lavender and purple dominate; small rose and peach notes supply warmth. The square image feels hushed, sensuous and emotionally inward.",
+  "style_prompt_zh": "这种风格是梦境般油画，采用近距离裁切、饱和紫蓝气氛和选择性暖色肤感高光。宽阔可触笔痕建立浓密深色体块，较柔和的融合则保护发亮焦点段落。彼此重叠的有机形体共享同一狭窄空间，不靠明确叙事也能产生亲密感。纤细边缘细节从厚重彩色阴影中浮现。冷靛蓝、淡紫与紫色占主导，少量玫色和桃色提供温度。正方形图像安静、感性而情绪内向。",
+  "theme_en": "A woman and a dark violet bird in a close dreamlike portrait",
+  "theme_zh": "梦境般近景肖像里的女子与深紫色鸟",
+  "wh_ratio": "1:1",
+  "id": "2189",
+  "name": "Dorina Costras",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/dorina-costras",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/dorina-costras.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "e510857e6a4142c97b14ddf46968253ee5d8536ed5af222bd83117964fbae619",
+    "gpt_submission_prompt": "A square oil portrait places a young woman's face in left profile extremely close to a dark violet bird. Her eyes are lowered and her lips slightly parted. The bird's glossy black beak points toward her nose, while its layered purple feathers overlap her shoulder and the lower edge of the frame. A cloud of violet shapes covers the upper head like loose petals or an indistinct hat. The background is deep blue-purple, so the pale face becomes the main source of light. Warm rose and peach model the cheek and lips, and cool lilac shadow moves along the brow, hair and neck. The relationship between the two living forms is intimate but ambiguous: they seem to occupy the same narrow space without any overt action. The paint surface is textured and softly blended, with broader palette-knife-like marks in the violet mass and finer transitions across the skin. The bird's eye is a small dark point near the beak, while the woman's closed lashes receive delicate emphasis. The square crop excludes any setting, concentrating the encounter into color and touch. Deep indigo borders nearly surround the figures; a few bright lavender patches keep the shadows from becoming flat. The result is a contemplative fantasy portrait whose atmosphere depends on saturated cool color, tactile feathers and a tender, inward gesture.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "2102d0050d2bf4b42bb9ab49122249e7f2a3ceed1925813949c1fbe74f24e2c3",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

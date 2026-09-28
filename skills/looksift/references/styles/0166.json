@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square neon-lit portrait photograph shows a young woman from the shoulders up against a smooth background shifting from purple at left to cyan blue at right. She tilts her face upward and toward the left with her eyes closed, her expression calm and absorbed. Dark shoulder-length hair falls around the face, with a few loose strands crossing the left cheek and neck. A large thin hoop earring at the visible right ear glows yellow-green. A sleeveless top enters at the bottom, its narrow straps and neckline edged in fluorescent green and warm orange. Strong cyan light covers the forehead, right cheek, jaw, shoulder, and much of the neck, while saturated magenta spreads across the left eye area, cheek, lips, and collarbone. A smaller orange-red source catches the hair and lower left shoulder. The colored beams meet without turning into neutral daylight, giving the skin smooth rounded volume through sharply different hues. The eyes, lips, ear, and earring remain clear, but the far side of the hair merges into the purple background. There is no visible room detail or text. A subtle photographic grain and soft focus in the backdrop contrast with the crisp ring and illuminated facial contours. The close crop, opposing colored lights, and uninterrupted gradient field make the still pose feel intimate and electrically vivid.",
+  "full_prompt_zh": "一幅方形霓虹灯人像照片描绘一位年轻女子的肩部以上，背景平滑地从左侧紫色过渡到右侧青蓝。她把脸向上、向左倾，闭着眼睛，神情平静而沉浸。深色齐肩头发围住面孔，几缕散发越过左脸颊和颈部。可见的右耳上，一只大而细的圈形耳环发出黄绿色光。无袖上衣从下缘进入，窄肩带与领口边缘带荧光绿和暖橙。强烈青蓝光覆盖额头、右脸颊、下颌、肩和大部分颈部，饱和洋红则散在左眼周、脸颊、嘴唇和锁骨处。较小的橙红光源照亮头发和左下肩。不同色光相遇却不变为中性日光，以截然不同的色相给皮肤塑造圆润体积。眼睛、嘴唇、耳朵和耳环仍清晰，远侧头发却融入紫色背景。没有可见房间细节或文字。微妙摄影颗粒与柔焦背景和清楚圆环、受光面部轮廓形成对比。近距离裁切、相向色光与连续渐变底色，使静止姿态显得亲密而电光鲜明。",
+  "style_prompt_en": "Neon-lit photography builds smooth volume from opposing saturated light colors. Cyan and electric blue occupy one broad side; magenta, violet, and small orange-red accents press in from the other, with fluorescent green reserved for thin edges. Shadows retain color instead of falling to neutral gray. A soft gradient ground has almost no descriptive detail, allowing a close, clear silhouette and selective reflective accents to dominate. Edges soften where dark regions merge with similarly colored background, while illuminated contours remain precise. The light feels close and directional, producing high chromatic contrast without a harsh white key. The composition is intimate, vivid, and sensuous through color alone.",
+  "style_prompt_zh": "霓虹灯摄影通过相向的饱和色光建立平滑体积。青蓝与电蓝占据宽阔一侧，洋红、紫罗兰和少量橙红从另一侧压入，荧光绿留给细窄边缘。阴影保留颜色，而不落成中性灰。柔和渐变底色几乎没有叙事细节，让贴近清楚的剪影和选择性的反光点主导。深色区域与相近色背景融合时边缘柔化，受光轮廓则保持精准。光线显得贴近且有方向，以很强色相反差代替刺眼白色主光。构图只凭色彩就变得亲密、鲜明且富有感官性。",
+  "theme_en": "A closed-eye portrait under cyan and magenta neon light",
+  "theme_zh": "青蓝与洋红霓虹灯下闭眼的人像",
+  "wh_ratio": "1:1",
+  "id": "0166",
+  "name": "Neon colors",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/neon-colors",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/neon-colors.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "f4e2885e4faac6fb2770d7b1faecfe1519a36730f9082c9006ccf7c4daaf86f5",
+    "gpt_submission_prompt": "A square neon-lit portrait photograph shows a young woman from the shoulders up against a smooth background shifting from purple at left to cyan blue at right. She tilts her face upward and toward the left with her eyes closed, her expression calm and absorbed. Dark shoulder-length hair falls around the face, with a few loose strands crossing the left cheek and neck. A large thin hoop earring at the visible right ear glows yellow-green. A sleeveless top enters at the bottom, its narrow straps and neckline edged in fluorescent green and warm orange. Strong cyan light covers the forehead, right cheek, jaw, shoulder, and much of the neck, while saturated magenta spreads across the left eye area, cheek, lips, and collarbone. A smaller orange-red source catches the hair and lower left shoulder. The colored beams meet without turning into neutral daylight, giving the skin smooth rounded volume through sharply different hues. The eyes, lips, ear, and earring remain clear, but the far side of the hair merges into the purple background. There is no visible room detail or text. A subtle photographic grain and soft focus in the backdrop contrast with the crisp ring and illuminated facial contours. The close crop, opposing colored lights, and uninterrupted gradient field make the still pose feel intimate and electrically vivid.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "fa0c0fa414750c8f4638c4087ba037bd3bc9f6df019fe0ecc0ac2324597fc4f1",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

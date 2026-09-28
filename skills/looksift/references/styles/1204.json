@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "The image presents a close, three-quarter view of a young woman's face almost filling the frame. She turns slightly toward the left edge but looks past the camera with a composed, distant expression. Dark curled hair frames her forehead and ear, and a red scarf or glossy fabric gathers near her jaw and neck. A slim vertical line of small warm lights runs down the far left edge, suggesting a dressing mirror or theatrical fixture without revealing the wider room. The background is nearly black, so the face, hair, and luminous trim carry the composition. Intense red light washes over the left side of the face and adjacent fabric, while cool cyan reaches across the cheek and hair on the right. These colors meet in soft, uneven transitions rather than in clean graphic divisions. The lips are a saturated crimson accent below dark eyes; skin retains a gentle photographic softness and visible tonal variation despite the artificial color. Fine film grain, slight halation around the bright bulbs, and subdued focus give the image the feel of a found cinema still. Shadow takes away peripheral detail, concentrating attention on expression and the tension between warm and cold illumination. The square crop presses close but leaves enough negative darkness for the reflected points of light to breathe. The overall impression is intimate, glamorous, and faintly enigmatic.",
+  "full_prompt_zh": "画面以近距离四分之三侧角呈现一位年轻女子的面部，几乎填满画幅。她略向左转，视线越过相机，神情平静而疏离。深色卷发围住额头与耳侧，红色围巾或有光泽的织物聚在下颌和颈部。最左边沿有一列细小暖光点向下延伸，暗示化妆镜或舞台灯具，却不展开更广的空间。背景接近纯黑，因此面部、头发和发亮饰边构成主要结构。强烈红光洗过左侧脸庞和邻近织物，冷青光则触及右侧脸颊与发丝。两种颜色以柔软而不均匀的过渡相接，并非规整的图形分割。深色眼眸下的双唇形成饱和绯红色点；即使在人工彩光里，皮肤仍保有摄影式的柔和质感和细微明暗。细密胶片颗粒、灯点周围轻微的光晕与压低的清晰度，使它像一格被找到的电影画面。阴影抹去边缘细节，将注意力收束于神情与冷暖灯光的张力。方形取景贴近主体，但仍留给反光点呼吸的黑暗空间。整体亲密、华丽，又带一点难以捉摸的气息。",
+  "style_prompt_en": "Use cinematic color photography with saturated crimson and cool cyan light entering from opposing directions. Let the colored pools overlap softly across textured surfaces, with deep surrounding blacks, selective gleaming accents, and restrained halation around small bright sources. Preserve fine film grain, gentle focus, and tonal variation beneath the bold color wash. Frame closely with dark negative space and an intimate, slightly mysterious mood rather than clean studio polish.",
+  "style_prompt_zh": "采用电影感彩色摄影，让饱和绯红与冷青光从相对方向进入。色彩光域在有质感的表面柔和重叠，周围保持深黑，以少量闪亮细节和小光源旁克制的晕光作点缀。在强烈彩光之下保留细密胶片颗粒、柔和焦点及影调变化。贴近取景并留出暗色负空间，营造亲密而微带神秘的氛围，避免过度洁净的影棚质感。",
+  "theme_en": "Red and cyan close-up under theatrical light",
+  "theme_zh": "红青舞台光中的面部特写",
+  "wh_ratio": "1:1",
+  "id": "1204",
+  "name": "Kenneth Anger",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/kenneth-anger",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/kenneth-anger.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "e7926b12d09876f8116c9067ee863200ece86fdf50bc7baccaff52c14a6e15c0",
+    "gpt_submission_prompt": "The image presents a close, three-quarter view of a young woman's face almost filling the frame. She turns slightly toward the left edge but looks past the camera with a composed, distant expression. Dark curled hair frames her forehead and ear, and a red scarf or glossy fabric gathers near her jaw and neck. A slim vertical line of small warm lights runs down the far left edge, suggesting a dressing mirror or theatrical fixture without revealing the wider room. The background is nearly black, so the face, hair, and luminous trim carry the composition. Intense red light washes over the left side of the face and adjacent fabric, while cool cyan reaches across the cheek and hair on the right. These colors meet in soft, uneven transitions rather than in clean graphic divisions. The lips are a saturated crimson accent below dark eyes; skin retains a gentle photographic softness and visible tonal variation despite the artificial color. Fine film grain, slight halation around the bright bulbs, and subdued focus give the image the feel of a found cinema still. Shadow takes away peripheral detail, concentrating attention on expression and the tension between warm and cold illumination. The square crop presses close but leaves enough negative darkness for the reflected points of light to breathe. The overall impression is intimate, glamorous, and faintly enigmatic.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "b48c428f028e691ef0f023d32a0201be284c441dff0dfdf55d2ead25fcdac0c0",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

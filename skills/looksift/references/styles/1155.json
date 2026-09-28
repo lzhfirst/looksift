@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square fantasy character sketch on white paper depicts a stern bearded traveler from the thighs upward. He stands in a three-quarter pose, facing slightly left, with dark swept-back hair, sharp eyebrows, a pointed goatee, and a high red collar. A weathered tan coat layers over a blue-gray tunic and wide belt packed with pouches, buckles, and small tools. His left hand holds a shallow dish or orb-like object near the chest, while his right grips a long staff or sword crossing diagonally toward the lower right. The anatomy and costume are drawn with energetic black and gray ink lines, thin crosshatching, and selectively filled watercolor-like washes in tan, slate, red, and muted blue. Behind him, a huge serpentine dragon is only partly developed as pale red construction lines. Its horned head curls in from the upper left and its scaled body coils across the top and right, creating motion without competing with the traveler. Much of the paper remains blank white, with stray guide lines and unfinished edges visible around arms, belts, and the dragon. A tiny red seal-like mark sits near the lower right edge, but no readable words appear. The pose is confident and still; the dragon's sketchy loops supply surrounding energy. The composition balances precise facial and equipment detail against intentionally open, provisional drawing. It feels like a richly imagined concept-art sheet, preserving the artist's searching marks and revision process rather than presenting a fully rendered background.",
+  "full_prompt_zh": "一幅方形奇幻人物草图绘在白纸上，从大腿以上呈现一名严肃留胡旅人。他以四分之三姿态略朝左，深发向后、眉锋利、尖山羊胡、衣领高而红。风化棕黄外套叠在蓝灰上衣和塞满小包、扣与工具的宽腰带上。左手在胸前托浅盘或球状物，右手握一根长杖或剑斜越向右下。解剖与服装用有力黑灰墨线、细交叉排线及选择性棕黄、石板灰、红、低调蓝水彩般罩色绘出。背后一条巨大蛇形龙只由浅红构图线部分成形。角头从左上卷入，带鳞身体绕过上方与右边，提供运动却不抢旅人。白纸大部分仍空，手臂、腰带和龙周围可见游离辅助线与未完成边缘。右下附近有极小红印状记号，但没有可读文字。姿态自信而静，龙的速写环线给周围能量。构图以精准脸与装备细节平衡有意开放的暂定绘画，像想象丰富的概念艺术页，保留寻找与修订过程，而非完全渲染背景。",
+  "style_prompt_en": "Use energetic concept-art sketching on open white paper. Layer fine black and gray contour lines, loose construction arcs, crosshatching, and selective muted color washes rather than filling every area. Resolve the focal anatomy or mechanism carefully, then let larger surrounding gestures remain provisional in a second warm line color. Keep pouches, seams, joints, and small equipment tactile through compressed detail, while blank ground and stray guide marks preserve the working-sheet feel. Compose with one stable central form and broad looping lines behind it. The effect is inventive, dynamic, and visibly handmade, balancing precision with process.",
+  "style_prompt_zh": "在开放白纸上采用有力概念草图法。层叠细黑灰轮廓、松散构图弧、交叉排线与选择性低调罩色，而不填满每处。焦点解剖或机制仔细定型，周围更大动作线则用第二种暖线色保持暂定。小包、接缝、关节和小装备靠密集细节变得可触，空底与游离辅助线保留工作纸感。中央一处稳定形，后方宽弧线环绕。效果富想象、有动势且明显手作，在精确与过程之间平衡。",
+  "theme_en": "A stern fantasy traveler sketched with red dragon lines on white paper",
+  "theme_zh": "白纸上用红龙线条衬托一名严肃奇幻旅人",
+  "wh_ratio": "1:1",
+  "id": "1155",
+  "name": "Eric Canete",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/eric-canete",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/eric-canete.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "67af2082d459c3b68fd745d25c2b81c103f7cb05d81203c4c9f796cc01397e8b",
+    "gpt_submission_prompt": "A square fantasy character sketch on white paper depicts a stern bearded traveler from the thighs upward. He stands in a three-quarter pose, facing slightly left, with dark swept-back hair, sharp eyebrows, a pointed goatee, and a high red collar. A weathered tan coat layers over a blue-gray tunic and wide belt packed with pouches, buckles, and small tools. His left hand holds a shallow dish or orb-like object near the chest, while his right grips a long staff or sword crossing diagonally toward the lower right. The anatomy and costume are drawn with energetic black and gray ink lines, thin crosshatching, and selectively filled watercolor-like washes in tan, slate, red, and muted blue. Behind him, a huge serpentine dragon is only partly developed as pale red construction lines. Its horned head curls in from the upper left and its scaled body coils across the top and right, creating motion without competing with the traveler. Much of the paper remains blank white, with stray guide lines and unfinished edges visible around arms, belts, and the dragon. A tiny red seal-like mark sits near the lower right edge, but no readable words appear. The pose is confident and still; the dragon's sketchy loops supply surrounding energy. The composition balances precise facial and equipment detail against intentionally open, provisional drawing. It feels like a richly imagined concept-art sheet, preserving the artist's searching marks and revision process rather than presenting a fully rendered background.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "6cf1a2c097d722a57c6872b8803b4dd1849972830f72db03ce9ed2eb9becbc5a",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

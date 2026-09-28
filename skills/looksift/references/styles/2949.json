@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white cinematic close-up shows a young woman leaning into the dark foreground and looking upward toward the right. Her face is near the center, turned three quarters away from the camera, with light falling across her brow, eyes, nose, and cheek. Dark hair is loosely drawn back, and stray bright strands trace a fine halo against the darker background at the top. One hand rests close to her mouth and chin, its soft gray shape joining the face to the heavy black lower edge. Her eyes are sharply attentive, while the lips remain relaxed, giving the expression a quiet, inward tension. The left side of the frame is almost entirely dark, with a rough vertical surface beside her head. On the right, indistinct pale circles and blurred shapes suggest a background that is physically close but visually out of focus. The upper right contains small bright patches that do not resolve into particular objects, and a shadowed dark form sits just behind her shoulder. The shallow depth of field makes the face clear while hair, hand, and surrounding surfaces lose definition at different rates. Light appears to come from above and to the right, crossing the forehead and upper cheek before fading into the lower face; shadows remain soft but deep. Fine film grain gives the pale skin and gray background a tactile quality without spoiling the smooth tonal transitions. The overall composition places an alert illuminated gaze inside a close enclosure of darkness and blur, creating a private, unsettled mood.",
+  "full_prompt_zh": "这幅方形黑白电影近景呈现一位年轻女子倚向深暗前景，向右上方凝望。她的脸靠近中央，以四分之三侧角背离镜头，光掠过眉、眼、鼻和脸颊。深色头发松松向后拢起，几缕亮发在顶部较暗的背景前勾出细环。一只手靠近嘴和下巴，柔灰色手形把面孔接向沉黑的下边缘。双眼格外专注，双唇仍放松，使神情带有安静而内敛的张力。画面左侧几乎全黑，头旁是一道粗糙的竖向表面。右侧模糊的浅圆点和形状暗示背景在物理距离上很近，视觉上却失焦。右上部有小块亮斑，无法明确辨成具体物件，肩后还压着一道深色暗形。浅景深使脸清楚，让头发、手和周围表面以不同程度失去界定。光似乎来自右上方，越过前额与上脸颊后淡入下半张脸；阴影柔和却深。细胶片颗粒给浅色皮肤和灰背景以可触质感，同时没有破坏平滑调子过渡。整体构图把专注而发亮的目光放在黑暗与模糊的近距离围合之中，形成私密而不安的情绪。",
+  "style_prompt_en": "The monochrome photographic image relies on intimate cropping, selective focus, and deep but softly graded shadow. Pale highlights reveal a narrow focal plane, while surrounding forms retreat through blur into charcoal and black. Fine film grain gives smooth gray transitions a tactile finish. Light arrives from one side and above, catching curved surfaces and leaving the opposite areas quiet and nearly unmarked. The dark mass occupies much of the frame, so small bright passages carry emotional weight. The result is spare, psychologically tense, and closely observed.",
+  "style_prompt_zh": "这类单色摄影依靠亲近的裁切、有选择性的焦点和深而柔和渐变的阴影。浅色高光揭示狭窄的焦平面，周围形体经模糊退入炭灰与黑色。细胶片颗粒给平滑灰阶过渡以可触完成面。光从一侧和上方抵达，碰亮曲面，让相反区域安静而近乎没有线迹。暗色块占据画面大部，因此少量亮处承担情绪重量。结果简净、心理张力浓，且观察距离很近。",
+  "theme_en": "A young woman looking upward in a close black-and-white portrait",
+  "theme_zh": "一位年轻女子在黑白近景中向上凝望",
+  "wh_ratio": "1:1",
+  "id": "2949",
+  "name": "Ingmar Bergman",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/ingmar-bergman",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/ingmar-bergman.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "44d392acd4939b05c48cb477bd7782357b1602d476139ab8f7613f26ee916832",
+    "gpt_submission_prompt": "A square black-and-white cinematic close-up shows a young woman leaning into the dark foreground and looking upward toward the right. Her face is near the center, turned three quarters away from the camera, with light falling across her brow, eyes, nose, and cheek. Dark hair is loosely drawn back, and stray bright strands trace a fine halo against the darker background at the top. One hand rests close to her mouth and chin, its soft gray shape joining the face to the heavy black lower edge. Her eyes are sharply attentive, while the lips remain relaxed, giving the expression a quiet, inward tension. The left side of the frame is almost entirely dark, with a rough vertical surface beside her head. On the right, indistinct pale circles and blurred shapes suggest a background that is physically close but visually out of focus. The upper right contains small bright patches that do not resolve into particular objects, and a shadowed dark form sits just behind her shoulder. The shallow depth of field makes the face clear while hair, hand, and surrounding surfaces lose definition at different rates. Light appears to come from above and to the right, crossing the forehead and upper cheek before fading into the lower face; shadows remain soft but deep. Fine film grain gives the pale skin and gray background a tactile quality without spoiling the smooth tonal transitions. The overall composition places an alert illuminated gaze inside a close enclosure of darkness and blur, creating a private, unsettled mood.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "5b9b88310529d47460165c62157962c6847311f40e762fcb7e52402a18937e55",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

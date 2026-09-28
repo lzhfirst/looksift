@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square stylized portrait painting shows a small child from the chest upward against a pale wall covered in loose paint patches and scribbles. The child is placed slightly left of center and tilts the head up toward the right, with an uncertain, curious expression. Oversized round goggles with thick blue frames dominate the face. Their lenses magnify the large eyes, which look sideways and upward, while the small nose and downturned mouth remain below. Short dense black curls form an uneven cap of hair. The child wears a blue jacket with visible seams and worn folds, open over a pink-and-white striped shirt. A lime-olive scarf is wrapped loosely around the neck, and a dark backpack strap or shoulder shape appears behind the right side. The background is creamy off-white but far from blank: small pastel blue, ocher, pink, and gray strokes, scratches, faint letters or marks, and rubbed-out rectangles scatter around the figure. The edges of the jacket and hair are more heavily painted than the thin background marks, bringing the child forward. Light is broad and frontal, with soft shadow beneath the goggles and chin; color contrast, not a distinct lamp, gives the face its focus. The palette combines cool blue and violet hardware with warm ocher skin, olive scarf, and pale distressed ground. The close crop and exaggerated head-to-body ratio make the child feel vulnerable and animated. Rough painterly texture tempers the cartoonlike proportions, producing a whimsical yet slightly thoughtful image.",
+  "full_prompt_zh": "一幅方形风格化肖像绘画在布满松散色斑和涂写的浅墙前呈现一名孩子的胸部以上。孩子位于中央略左，头向右上方偏，表情不确定而好奇。厚蓝框的巨大圆形护目镜主导面孔。镜片放大双眼，眼神斜向上方；小鼻子和下垂嘴角留在镜下。短而密的黑卷发形成不齐整的头顶。孩子穿带可见接缝和磨旧褶纹的蓝外套，里面是粉白条纹衫。橄榄黄绿色围巾松松绕在颈上，右侧肩后可见暗色背包带或肩部形状。背景为奶油米白，却远非空白：淡蓝、赭黄、粉、灰色小笔触、划痕、模糊字样般痕迹和擦去的矩形散在人物四周。外套与头发边缘比纤细背景痕迹画得更厚，使孩子浮到前面。光宽泛而从正面来，护目镜和下巴下有柔阴影；面孔焦点来自色彩反差而非明确灯具。调色把冷蓝与紫色硬件同暖赭肤色、橄榄围巾和浅色磨旧底结合。近景裁切及夸大的头身比例使孩子显得脆弱而活泼。粗糙绘画质地缓和了卡通比例，形成奇趣却略有思考的图像。",
+  "style_prompt_en": "Mixed-media character painting combines exaggerated head-to-body proportions, large graphic features, and rough hand-worked surfaces. Cool blue and violet accents sit against warm ocher flesh, olive fabric, and an off-white wall mottled with pastel scuffs. Thick painterly edges on the focal form contrast with faint scratches, rubbed patches, and loose marks behind it. Broad frontal light keeps the expression clear, with soft local shadow rather than a dramatic light source. A close crop, slightly tilted pose, and uneven texture make the image playful, vulnerable, and tactile.",
+  "style_prompt_zh": "混合媒介角色绘画把夸张头身比例、大型图形化特征和粗糙手工表面结合。冷蓝与紫色重音立于暖赭肤色、橄榄布料和布满粉彩擦痕的米白墙前。焦点形体较厚的绘画边缘对照后方模糊划线、擦抹色块和松散痕迹。宽泛正面光让表情清楚，只有局部柔阴影，没有戏剧光源。近景裁切、略偏的姿态与不均匀纹理使图像活泼、脆弱而可触。",
+  "theme_en": "A big-eyed child in oversized blue goggles and jacket against a painted wall",
+  "theme_zh": "戴巨大蓝护目镜、穿蓝外套的大眼孩子站在涂绘墙前",
+  "wh_ratio": "1:1",
+  "id": "1929",
+  "name": "Hebru Brantley",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/hebru-brantley",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/hebru-brantley.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "f044fb674230dcb100f1f01df5820a9ea4b88529baa7daa31a15dd162934df07",
+    "gpt_submission_prompt": "A square stylized portrait painting shows a small child from the chest upward against a pale wall covered in loose paint patches and scribbles. The child is placed slightly left of center and tilts the head up toward the right, with an uncertain, curious expression. Oversized round goggles with thick blue frames dominate the face. Their lenses magnify the large eyes, which look sideways and upward, while the small nose and downturned mouth remain below. Short dense black curls form an uneven cap of hair. The child wears a blue jacket with visible seams and worn folds, open over a pink-and-white striped shirt. A lime-olive scarf is wrapped loosely around the neck, and a dark backpack strap or shoulder shape appears behind the right side. The background is creamy off-white but far from blank: small pastel blue, ocher, pink, and gray strokes, scratches, faint letters or marks, and rubbed-out rectangles scatter around the figure. The edges of the jacket and hair are more heavily painted than the thin background marks, bringing the child forward. Light is broad and frontal, with soft shadow beneath the goggles and chin; color contrast, not a distinct lamp, gives the face its focus. The palette combines cool blue and violet hardware with warm ocher skin, olive scarf, and pale distressed ground. The close crop and exaggerated head-to-body ratio make the child feel vulnerable and animated. Rough painterly texture tempers the cartoonlike proportions, producing a whimsical yet slightly thoughtful image.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "d71bbbcc3605686154a323869a7b025832cb433d86b042a0f3be030c4c696fdc",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

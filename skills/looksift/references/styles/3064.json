@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "The image is a square red-and-black graphic portrait of a wide-eyed woman, rendered with dense ink-like lines and splattered marks. A flat, brilliant scarlet field fills the background and the exposed areas of the face, while a large black mass closes around the right and lower edges. Along the left border, scattered dots, drips and ragged strokes spread outward from the hair. The woman faces forward in a tight crop, her head occupying nearly the entire frame and her gaze directed slightly upward. Short dark hair curves around the left cheek, with loose strands and irregular bangs crossing the upper edge. Her large eyes are encircled by heavy black lashes, curved contour lines and smaller scratchy strokes. Fine hatching models the brow, nose and cheeks, while solid black areas describe the nostrils, parted lips and shadow beneath the chin. Across the lower-left corner, angular linear marks and red gaps break up the dark neck area. The red remains broad and largely unmodulated, so the impression of volume comes from the density and direction of the black drawing rather than smooth gradients. Illumination reads as strong frontal brightness translated into two-colour contrast, with deeper shadow gathering at the right contour and below the face. The overall composition combines an enlarged expressive face, abrupt dark framing and distressed ink texture in a stark, urgent poster-like design.",
+  "full_prompt_zh": "这是一幅方形红黑图形肖像，睁大双眼的女子由密集墨线与飞溅痕迹描绘。平整鲜亮的猩红色填满背景和面部露出的区域，大块黑色从右侧与下缘包围面孔。左边框沿线，散点、滴痕和参差笔划从头发向外扩散。女子正面出现在紧密裁切中，头部几乎占满画幅，目光略向上。深色短发沿左侧面颊弯曲，散乱发丝和不整齐刘海跨过上缘。大眼睛周围是浓黑睫毛、弯曲轮廓线和更细的刮擦短线。纤细排线塑造眉部、鼻子和面颊，实黑区域则表现鼻孔、微张嘴唇和下巴底部阴影。左下角，棱角线痕及红色间隙打断深色颈部区域。红色始终宽阔且大致平整，体积感依靠黑色线条的密度与方向建立，而非平滑渐层。照明呈现为转换成双色反差的强正面亮度，较深阴影聚集于右侧轮廓和面孔下方。整体将放大的表情面孔、突然而强烈的暗色包围与磨损墨线肌理结合成鲜明急迫的海报式画面。",
+  "style_prompt_en": "Two-colour graphic illustration builds form from a vivid scarlet ground and dense black ink-like drawing. Fine hatching, curved contour strokes and irregular scratches meet solid shadow masses, giving volume through changing mark density rather than soft gradients. Spatters and rough broken edges disturb the otherwise broad flat colour areas. Tight cropping and asymmetrical dark framing concentrate attention in a strongly defined central zone. Light is compressed into high tonal contrast, with open red regions acting as brightness against opaque black. The overall effect is expressive and severe, combining poster-like colour economy with restless, visibly drawn texture.",
+  "style_prompt_zh": "双色图形插画以鲜亮猩红底色和密集黑色墨线建立形体。细排线、弯曲轮廓笔划及不规则刮痕与实色暗块相接，依靠笔痕密度变化而非柔软渐层塑造体积。飞溅痕迹和粗糙断裂边缘打破宽阔平整的色域。紧密裁切与不对称暗色包围将注意力集中在明确的中央区域。光线被压缩为强烈明暗反差，敞开的红色区域相对于不透亮的黑色呈现亮度。整体表情张力鲜明而严峻，将海报般精简配色与躁动、可辨手绘痕迹的肌理结合起来。",
+  "theme_en": "A wide-eyed woman fills a red-and-black ink-style portrait with scratched lines and splattered edges.",
+  "theme_zh": "睁大双眼的女子占据红黑墨线肖像，周围交织刮擦线条与飞溅墨点。",
+  "wh_ratio": "1:1",
+  "id": "3064",
+  "name": "Dario Argento",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/dario-argento",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "771ff484dc16a4ca3b2d6c3626606ce90d4d60ffb6d87419b7976b86b9506f3d",
+    "gpt_submission_prompt": "The image is a square red-and-black graphic portrait of a wide-eyed woman, rendered with dense ink-like lines and splattered marks. A flat, brilliant scarlet field fills the background and the exposed areas of the face, while a large black mass closes around the right and lower edges. Along the left border, scattered dots, drips and ragged strokes spread outward from the hair. The woman faces forward in a tight crop, her head occupying nearly the entire frame and her gaze directed slightly upward. Short dark hair curves around the left cheek, with loose strands and irregular bangs crossing the upper edge. Her large eyes are encircled by heavy black lashes, curved contour lines and smaller scratchy strokes. Fine hatching models the brow, nose and cheeks, while solid black areas describe the nostrils, parted lips and shadow beneath the chin. Across the lower-left corner, angular linear marks and red gaps break up the dark neck area. The red remains broad and largely unmodulated, so the impression of volume comes from the density and direction of the black drawing rather than smooth gradients. Illumination reads as strong frontal brightness translated into two-colour contrast, with deeper shadow gathering at the right contour and below the face. The overall composition combines an enlarged expressive face, abrupt dark framing and distressed ink texture in a stark, urgent poster-like design.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "4c29e346c6fe48d0629252d288b286242fd0e8c839131020021ea9ac28c4b19d",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

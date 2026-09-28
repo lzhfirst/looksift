@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square decorative landscape painting centers a broad dark tree beside a narrow stream. The trunk rises from a green bank near the lower middle and divides into heavy curving branches that spread across the upper half. Its crown is assembled from rounded masses of moss green, teal, mustard, and orange foliage, each filled with small stippled or scale-like marks. On the left, the dark blue-green stream enters from the bottom edge and bends behind the tree toward a warm distance. Across the right, layered hills slope in bands of sage, turquoise, ocher, and olive, their contours drawn as flowing lines rather than naturalistic shadows. Smaller trees and shrubs appear behind the main trunk, including pale orange forms near the left edge and dark green clusters at the far right. Above the hills, the sky glows warm yellow and apricot, while additional rounded tree tops overlap it. The painting compresses space into interlocking decorative areas. Each leaf mass is bounded by dark outlines, and thin curved lines mark the ground and water. Light feels like a broad golden afternoon glow, but the color is placed evenly rather than tied to a single realistic source. Textured paint or print grain is visible through the flat color fields. The tree's near-black trunk anchors the composition, and the stream provides a cool passage through the otherwise warm, crowded landscape. The overall effect is calm and richly patterned, balancing organic curves, saturated earth colors, and shallow storybook depth.",
+  "full_prompt_zh": "一幅方形装饰性风景画把一棵宽大的深色树置于窄溪旁。树干从下方中央附近的绿岸升起，分成沉重弯曲的枝，铺满上半幅。树冠由苔绿、青绿、芥黄和橙色的圆团组成，每团内有细小点刺或鳞片状笔痕。左侧，深蓝绿溪流从下缘进入，绕树弯向温暖远处。右边，层叠山丘以鼠尾草绿、青绿、赭黄与橄榄色带倾斜，轮廓由流动线条而非写实阴影描出。主干后还有小树和灌木，包括左缘浅橙形和最右深绿簇。山丘上方，天空发出暖黄与杏色光，其他圆树冠压在其上。绘画把空间压成相扣的装饰区域。每团叶片有深色边线，细曲线标出地面与水。光像宽阔金色午后辉光，但色彩铺得均匀，并不服从单一写实光源。平面色域中可见颜料或印刷颗粒。近黑树干稳住构图，溪流为其余暖色而密集的景观提供冷色通道。整体平静且纹样丰富，平衡有机曲线、饱和土色和浅浅的故事书纵深。",
+  "style_prompt_en": "Use decorative post-impressionist painting with flattened interlocking color areas, dark flowing contours, and repeated stippled marks within organic masses. Balance moss, teal, sage, mustard, ocher, and apricot with a deep near-black anchor. Let hills, foliage, water, or other forms curve rhythmically into one another rather than receding through strict perspective. Treat light as broad warm color harmony, with little hard cast shadow. Preserve slight pigment grain and a calm, richly patterned shallow space.",
+  "style_prompt_zh": "采用装饰性后印象主义绘画，以压平相扣的色域、深色流动轮廓和有机色块中的重复点纹成形。平衡苔绿、青绿、鼠尾草绿、芥黄、赭黄和杏色，并以近黑深形压住画面。山、叶、水或其他形体按节奏互相弯入，而不靠严格透视退远。将光处理为宽阔暖色和谐，少用硬投影。保留轻微颜料颗粒与平静、纹样丰富的浅空间。",
+  "theme_en": "A dark-trunked tree beside a stream in patterned green and ocher hills",
+  "theme_zh": "深色树干立于溪边，四周是绿赭纹样山丘",
+  "wh_ratio": "1:1",
+  "id": "1782",
+  "name": "Paul Ranson",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/paul-ranson",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/paul-ranson.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "fd998594b469757a7f50067cddca7f81f43ae215e936badb6720bdbc5cfacda2",
+    "gpt_submission_prompt": "A square decorative landscape painting centers a broad dark tree beside a narrow stream. The trunk rises from a green bank near the lower middle and divides into heavy curving branches that spread across the upper half. Its crown is assembled from rounded masses of moss green, teal, mustard, and orange foliage, each filled with small stippled or scale-like marks. On the left, the dark blue-green stream enters from the bottom edge and bends behind the tree toward a warm distance. Across the right, layered hills slope in bands of sage, turquoise, ocher, and olive, their contours drawn as flowing lines rather than naturalistic shadows. Smaller trees and shrubs appear behind the main trunk, including pale orange forms near the left edge and dark green clusters at the far right. Above the hills, the sky glows warm yellow and apricot, while additional rounded tree tops overlap it. The painting compresses space into interlocking decorative areas. Each leaf mass is bounded by dark outlines, and thin curved lines mark the ground and water. Light feels like a broad golden afternoon glow, but the color is placed evenly rather than tied to a single realistic source. Textured paint or print grain is visible through the flat color fields. The tree's near-black trunk anchors the composition, and the stream provides a cool passage through the otherwise warm, crowded landscape. The overall effect is calm and richly patterned, balancing organic curves, saturated earth colors, and shallow storybook depth.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "ece88b241cc5874f8367d8bcc515010f7ee2b18a365c58826499267fece4b6d0",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

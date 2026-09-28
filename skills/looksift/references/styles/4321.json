@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square high-dynamic-range photograph looks straight down a long, abandoned corridor. The viewpoint is low enough to show a broad, dusty tile floor, yet high enough to see the sequence of vaulted arches receding toward a small pale window at the far end. Both walls are faced with cream and ocher glazed tiles up to waist height. Above the tiles, stained plaster peels and cracks, exposing darker patches. Tall side doors and windows open at intervals, some admitting soft cool daylight and others revealing warm brown wooden frames. A row of small amber pendant lamps hangs down the center of the arched ceiling, the nearest glowing near the top of the frame. The corridor's central vanishing point is strongly defined by repeated arch curves, floor joints, wall seams, and ceiling lamps. The floor is worn, mottled, and lightly littered; dark corners retain detail instead of collapsing into black. Window light brightens sections of the floor and tile, while the lamps provide warm highlights in the cooler space. The image has the slightly intensified local contrast and tonal clarity characteristic of restrained HDR processing: faint surface texture is visible in both bright windows and shadowed walls. Colors stay natural but a little heightened, with ivory, tan, gray, muted blue, and amber. There are no people, signs, or readable words. The mood is empty and quietly uncanny, inviting the eye to travel down the repeating architecture while inspecting every weathered surface along the way.",
+  "full_prompt_zh": "一张方形高动态范围照片正对一条漫长废弃走廊。视点低到能看见宽阔积灰砖地，又高到足以看清一连串拱形穹顶向尽头小浅色窗退去。两侧墙面腰线以下铺着奶油与赭色釉砖，以上的灰泥染污、剥落、开裂，露出深斑。高侧门与窗间隔出现，有的放入柔冷日光，有的露出暖棕木框。一排小琥珀色吊灯沿拱顶中央垂下，最近的一盏在顶边附近发亮。重复拱弧、地砖缝、墙缝和吊灯强烈界定中央消失点。地面磨旧斑驳，散少量杂物；暗角仍有细节，而非压成黑色。窗光照亮部分地面和瓷砖，吊灯则在冷空间里添暖高光。图像带克制 HDR 的略强化局部对比与明暗清晰度：亮窗和阴影墙面里的微小表面纹理都可见。色彩自然但略增强，以象牙白、棕黄、灰、低调蓝和琥珀色为主。没有人物、标牌或可读文字。氛围空寂而微妙诡异，邀请视线沿重复建筑深行，同时细看沿途每处风化表面。",
+  "style_prompt_en": "Use restrained HDR photography to retain texture simultaneously in pale highlights and deep shadow. Give weathered surfaces crisp local contrast and a slightly heightened, still believable color range. Set cool ambient light against small warm luminous points, allowing both to reveal cracks, gloss, dust, and worn edges. Organize the frame with repeated forms and a strong central vanishing point so fine detail leads inward rather than becoming visual noise. Keep broad exposure balanced, avoid blown windows and empty black corners, and preserve an uncanny stillness. The visual effect is richly inspectable and spatially deep, with tonal detail distributed through every layer of the composition.",
+  "style_prompt_zh": "采用克制 HDR 摄影，让浅亮部和深阴影同时保有纹理。给风化表面清楚的局部对比，并让色彩略增强却仍可信。以冷环境光对置少量暖亮点，让两者共同揭示裂纹、光泽、灰尘和磨损边缘。使用重复形体和强中央消失点组织画面，使细节引人向内而不成视觉噪声。整体曝光平衡，避免亮窗死白或角落死黑，并保留微妙不安的静止感。视觉效果层层可细看且空间深远，明暗细节分布于构图每一层。",
+  "theme_en": "An abandoned tiled corridor receding through repeated arches",
+  "theme_zh": "重复拱门下纵深延伸的废弃瓷砖走廊",
+  "wh_ratio": "1:1",
+  "id": "4321",
+  "name": "HDR",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/hdr.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "e841b3454d0c7aac84841368b6d6295f945123ca9a44da43d7216aa1f73ca15a",
+    "gpt_submission_prompt": "A square high-dynamic-range photograph looks straight down a long, abandoned corridor. The viewpoint is low enough to show a broad, dusty tile floor, yet high enough to see the sequence of vaulted arches receding toward a small pale window at the far end. Both walls are faced with cream and ocher glazed tiles up to waist height. Above the tiles, stained plaster peels and cracks, exposing darker patches. Tall side doors and windows open at intervals, some admitting soft cool daylight and others revealing warm brown wooden frames. A row of small amber pendant lamps hangs down the center of the arched ceiling, the nearest glowing near the top of the frame. The corridor's central vanishing point is strongly defined by repeated arch curves, floor joints, wall seams, and ceiling lamps. The floor is worn, mottled, and lightly littered; dark corners retain detail instead of collapsing into black. Window light brightens sections of the floor and tile, while the lamps provide warm highlights in the cooler space. The image has the slightly intensified local contrast and tonal clarity characteristic of restrained HDR processing: faint surface texture is visible in both bright windows and shadowed walls. Colors stay natural but a little heightened, with ivory, tan, gray, muted blue, and amber. There are no people, signs, or readable words. The mood is empty and quietly uncanny, inviting the eye to travel down the repeating architecture while inspecting every weathered surface along the way.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "ec8ae558e7a05f74aef78cc44a56e99becdb1ae2dfba3d00b46a749169ad96cf",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "An abstract landscape arranges broad nested ribbons of color beneath a round golden sun. Deep green hills rise and fall across the center, while ochre and rust arcs curve through the lower space like roads, rivers, or contours of land. A dark near-black band cuts across the middle and gives the bright shapes above and below a strong division. The sun sits high but close to the upper edge, its simple circle echoing the rounded hills and curved lower bands. The image suggests a valley at evening without identifying a particular place.\n\nThe painting uses flattened organic shapes with subtly textured surfaces. Emerald, jade, mustard yellow, copper red, maroon, and charcoal are placed in adjacent layers rather than blended into illusionistic depth. A fine mottled grain runs through each color field, making the matte paint feel worn and tactile. The shapes overlap cleanly but with slight irregularities at their edges, so the geometry remains handmade. Light comes from the warm circle by association, yet the color planes do not cast literal shadows. Rhythm comes from the repeated sweep of convex and concave bands, which pull the eye from the lower left through the center and back upward. The mood is calm and elemental, with no objects, figures, or readable writing in the selected image.",
+  "full_prompt_zh": "一幅抽象风景把宽阔的嵌套色带排列在圆形金太阳下。深绿色山丘在中央起伏，赭黄与锈红弧带穿过下方空间，像道路、河流或地形等高线。一道近黑的深色带横切中部，给上下明亮形状形成强分界。太阳高悬且靠近上边缘，简单圆形呼应圆丘和下方弯带。图像暗示傍晚山谷，却不指向具体地点。\n\n绘画使用压平的有机形状，表面带细微纹理。祖母绿、玉绿、芥黄、铜红、栗紫与炭黑以相邻层次铺排，而非晕成幻觉式深度。细密斑驳颗粒贯穿每片色场，使哑光颜料显得磨旧且可触。形状清楚重叠，但边缘略有不规则，因此几何仍保留手工感。光在联想上来自暖色圆形，色彩平面却不投下真实阴影。节奏来自反复的凸弧与凹弧，引导视线从左下穿过中心再回到上方。情绪平静而基本，所选图像没有物件、人物或可辨认文字。",
+  "style_prompt_en": "Broad flattened organic bands overlap in emerald, jade, mustard, copper red, maroon, and charcoal beneath a single warm circle. Convex and concave curves repeat across the composition, moving the eye through stacked layers without relying on realistic perspective. Adjacent color fields stay distinct; subtle mottled grain and slight edge irregularities give the matte surface a worn handmade feel. A dark horizontal sweep divides brighter upper and lower passages and lends the arrangement weight. Light is suggested by color and placement rather than cast shadow. The result is calm, elemental, and abstract, with strong simple shapes and tactile restraint.",
+  "style_prompt_zh": "祖母绿、玉绿、芥黄、铜红、栗紫与炭黑的宽阔压平有机带，在单一暖色圆形下互相重叠。凸弧与凹弧反复横过构图，带动视线穿过层层色面，不依赖真实透视。相邻色场各自清楚；细微斑驳颗粒与略不规则的边缘，让哑光表面有磨旧手工感。一道深色水平扫线分开上下较亮区域，并赋予排列重量。光由颜色和位置暗示，而非投影。结果平静、基本且抽象，大形有力，触感克制。",
+  "theme_en": "An abstract landscape of layered hills under a golden sun",
+  "theme_zh": "金色太阳下层叠山丘的抽象风景",
+  "wh_ratio": "1:1",
+  "id": "3210",
+  "name": "Arthur Dove",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/arthur-dove",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "198b50b2b5b5e776ef8d4237ee3ba937dd95a1278e43b9814bdf2a047d3c64f4",
+    "gpt_submission_prompt": "An abstract landscape arranges broad nested ribbons of color beneath a round golden sun. Deep green hills rise and fall across the center, while ochre and rust arcs curve through the lower space like roads, rivers, or contours of land. A dark near-black band cuts across the middle and gives the bright shapes above and below a strong division. The sun sits high but close to the upper edge, its simple circle echoing the rounded hills and curved lower bands. The image suggests a valley at evening without identifying a particular place.\n\nThe painting uses flattened organic shapes with subtly textured surfaces. Emerald, jade, mustard yellow, copper red, maroon, and charcoal are placed in adjacent layers rather than blended into illusionistic depth. A fine mottled grain runs through each color field, making the matte paint feel worn and tactile. The shapes overlap cleanly but with slight irregularities at their edges, so the geometry remains handmade. Light comes from the warm circle by association, yet the color planes do not cast literal shadows. Rhythm comes from the repeated sweep of convex and concave bands, which pull the eye from the lower left through the center and back upward. The mood is calm and elemental, with no objects, figures, or readable writing in the selected image.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "373b70e52f69862a5aaa55b1b1e8051d785a1f3dd2a962269275a0d849ab2708",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

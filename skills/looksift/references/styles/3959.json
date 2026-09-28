@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square architectural photograph looks into an ornate Art Nouveau dining hall beneath an arched glass roof. At the left, a broad wooden staircase rises and turns upward beside an intricately curved metal balustrade. Across the center, long white-clothed tables and closely spaced bentwood chairs run toward the back of the room. The far wall and side galleries recede through several rounded openings, making the hall feel deep but gently enclosed. Slender greenish iron supports branch into leaf-like curves at the ceiling, balcony edges, and columns. Overhead, large glazed panels admit pale daylight, their narrow ribs forming a loose grid that bends with the roof. Hanging lamps and smaller wall lights add warm points among the dark metal and timber. The floor is pale wood or stone with visible linear joints, leading the eye toward the tables and rear arch. Muted moss green, warm brown, cream, and tarnished brass dominate the scene. Decorative swirls are dense but coherent: each stair rail, column, and overhead bracket seems to grow into the next. Light falls diffusely from the roof and upper left, creating soft highlights on glass, tablecloth, and polished handrails while leaving recesses in warm shadow. The photograph is level enough to read the room's symmetry, but the foreground staircase gives it an asymmetrical entrance. There are no prominent diners or legible signs. The overall composition emphasizes flowing structure, filtered light, and the tactile mix of metal, wood, glass, and cloth.",
+  "full_prompt_zh": "一幅方形建筑照片望进拱形玻璃顶下装饰丰富的新艺术餐厅。左侧，宽木楼梯沿精细弯曲的金属栏杆升起并向上转折。中央，铺白桌布的长桌和密排弯木椅向大厅后方延伸。远墙与两侧廊道穿过数个圆拱开口退远，使空间深却温和围合。纤细灰绿色铁支撑在顶棚、楼廊边和立柱处向叶状曲线分叉。上方，大面积玻璃板透进浅日光，细框形成随屋顶弯曲的疏网格。吊灯与小壁灯在深金属和木材间点出暖亮。地面为浅木或石，线状接缝将视线引向桌椅和后方拱口。暗苔绿、暖棕、奶油和旧黄铜主导。装饰卷线密集却有一致性：每段楼梯扶栏、立柱和顶部支架都像长入下一部分。光从屋顶和左上漫散而下，在玻璃、桌布与磨亮扶手上形成柔亮，凹处留暖影。摄影视角足够水平，可读大厅对称性，前景楼梯又给它不对称入口。没有突出的食客或可读标牌。整体构图强调流动结构、过滤光线和金属、木、玻璃、布的可触混合。",
+  "style_prompt_en": "Use warm, softly lit photography with flowing organic curves, slender branching lines, and delicate gridded translucency. Let filtered overhead daylight meet small amber practical lights, producing gentle highlights on glass, polished metal, fabric, and wood while recesses stay warmly shaded. Balance repeated arches or loops with one asymmetrical foreground sweep. Keep moss green, aged brass, brown, and cream subdued and tactile. Favor connected curves and material rhythm across the whole frame without restricting the subject to a building.",
+  "style_prompt_zh": "采用暖而柔的摄影表现，以流动有机曲线、细枝状线条和轻巧透光网格组织画面。让顶部过滤日光与小型琥珀光点相遇，在玻璃、磨亮金属、织物和木材上产生柔高光，凹处保持暖影。以重复弧形或环线平衡一条不对称前景扫线。苔绿、旧黄铜、棕与奶油色低调可触。让相连曲线和材质节奏贯穿全幅。",
+  "theme_en": "A warm Art Nouveau dining hall beneath curving iron and glass",
+  "theme_zh": "曲线铁艺与玻璃顶下的暖色新艺术餐厅",
+  "wh_ratio": "1:1",
+  "id": "3959",
+  "name": "Victor Horta",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/victor-horta.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "199fc3a1748f7f3d04f261b9db9559cf9f6fb5dffc32e582e2dbcdd2df2fa829",
+    "gpt_submission_prompt": "A square architectural photograph looks into an ornate Art Nouveau dining hall beneath an arched glass roof. At the left, a broad wooden staircase rises and turns upward beside an intricately curved metal balustrade. Across the center, long white-clothed tables and closely spaced bentwood chairs run toward the back of the room. The far wall and side galleries recede through several rounded openings, making the hall feel deep but gently enclosed. Slender greenish iron supports branch into leaf-like curves at the ceiling, balcony edges, and columns. Overhead, large glazed panels admit pale daylight, their narrow ribs forming a loose grid that bends with the roof. Hanging lamps and smaller wall lights add warm points among the dark metal and timber. The floor is pale wood or stone with visible linear joints, leading the eye toward the tables and rear arch. Muted moss green, warm brown, cream, and tarnished brass dominate the scene. Decorative swirls are dense but coherent: each stair rail, column, and overhead bracket seems to grow into the next. Light falls diffusely from the roof and upper left, creating soft highlights on glass, tablecloth, and polished handrails while leaving recesses in warm shadow. The photograph is level enough to read the room's symmetry, but the foreground staircase gives it an asymmetrical entrance. There are no prominent diners or legible signs. The overall composition emphasizes flowing structure, filtered light, and the tactile mix of metal, wood, glass, and cloth.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "7832f2f8bde885d4e284f61fb7056839ec32fcc2ad9802f9d15043b511522fb6",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

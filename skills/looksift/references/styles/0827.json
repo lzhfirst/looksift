@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square editorial cartoon presents a small child and a taller adult on a bare open ground beneath a huge dark funnel of swirling leaves and debris. The funnel narrows toward the earth at the center of the scene, rising into a dense black canopy that fills the upper half. The child stands slightly left of center; the adult stands to the right holding a short object, both rendered as tiny figures against the weather. Low blocky buildings sit far at either edge beneath a cloudy gray sky. Fine black pen strokes pack the vortex with circular motion, while individual ochre leaves spin through the surrounding air. Sparse colored washes in gray, dusty blue, warm brown, and muted yellow keep the drawing restrained. The ground is a thin horizontal strip with scattered leaves, allowing the immense funnel to dominate. Even light and pale space behind the vortex make its black texture readable. The scene feels both absurd and ominous: a natural event becomes an editorial symbol through scale, silence, and the disproportionate sky. A rough panel border and hand-inked surface make the image feel like a published newspaper cartoon.",
+  "full_prompt_zh": "一幅方形编辑漫画呈现一个小孩和一名较高的成人站在空旷地面上，头顶是由落叶与碎物构成的巨大深色漏斗。漏斗在场景中央向地面收窄，向上升成占据上半幅的密实黑色树冠。孩子略偏左，成人站在右侧握着短物，两人面对天气都十分渺小。低矮方块建筑位于两侧遥远处，天空灰云密布。细黑钢笔笔触把龙卷填满圆周运动，单片赭色叶子在周围空气中旋转。灰、灰蓝、暖棕与低饱和黄的稀疏色层让画面克制。地面只是散落叶片的细水平带，使巨大漏斗占主导。均匀光与漩涡后浅色空间使黑色肌理可读。场景既荒诞又不祥：自然事件通过尺度、寂静与失衡的天空成为编辑象征。粗画格边框与手绘墨线表面使画面像一张已发表的报纸漫画。",
+  "style_prompt_en": "An editorial ink-cartoon style creates scale with a massive textured dark shape above a few tiny human marks. Fine circular hatching can fill a vortex or other moving mass, while loose individual fragments scatter into pale gray space. A thin ground band and remote simple buildings keep the lower frame sparse. Black, dusty blue, warm brown, muted ochre, and paper white remain restrained. A rough panel edge and visible hand line give the scene a newspaper-print character. The light stays even so the symbolic shape reads instantly. The mood mixes absurdity and threat through disproportionate composition rather than explicit action.",
+  "style_prompt_zh": "编辑墨线漫画风格以巨大有肌理深色形体压在几个细小人物笔迹上建立尺度。细圆周排线可填满漩涡或其他运动体量，松散独立碎片飘进浅灰空间。细地面带和远处简单建筑让下方保持稀疏。黑、灰蓝、暖棕、低饱和赭与纸白维持克制。粗画格边缘与可见手绘线条赋予报纸印刷感。光保持均匀，使象征形状立即可读。气氛通过失衡构图而非明确动作混合荒诞与威胁。",
+  "theme_en": "A small child and adult stand beneath a dark tornado of leaves",
+  "theme_zh": "一名孩子和成人站在深色落叶龙卷风下",
+  "wh_ratio": "1:1",
+  "id": "0827",
+  "name": "Joel Pett",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/joel-pett",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/joel-pett.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "d25d06e598d0bddf284473d0ec3b769b749ec11929cf0740c622f83720e0da38",
+    "gpt_submission_prompt": "A square editorial cartoon presents a small child and a taller adult on a bare open ground beneath a huge dark funnel of swirling leaves and debris. The funnel narrows toward the earth at the center of the scene, rising into a dense black canopy that fills the upper half. The child stands slightly left of center; the adult stands to the right holding a short object, both rendered as tiny figures against the weather. Low blocky buildings sit far at either edge beneath a cloudy gray sky. Fine black pen strokes pack the vortex with circular motion, while individual ochre leaves spin through the surrounding air. Sparse colored washes in gray, dusty blue, warm brown, and muted yellow keep the drawing restrained. The ground is a thin horizontal strip with scattered leaves, allowing the immense funnel to dominate. Even light and pale space behind the vortex make its black texture readable. The scene feels both absurd and ominous: a natural event becomes an editorial symbol through scale, silence, and the disproportionate sky. A rough panel border and hand-inked surface make the image feel like a published newspaper cartoon.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "bf658492ce9fc48a337460ac18a8e7c7210ab4f2b9af47d2772ccb8e9e4a3792",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

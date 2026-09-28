@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A highly finished graphite-and-ink illustration portrays an adult rider reclining against a pale brick wall. The person wears small dark oval sunglasses and a black leather jacket with a raised collar, metal buttons, and sharply folded sleeves. One bent arm brings the hand near the chin, while a leg cuts across the lower left foreground. The pose feels relaxed and self-possessed, with the head tilted slightly away from the viewer. The light brick wall behind is sketched with fine broken mortar lines and minimal shading, leaving a broad cream paper field around the darker figure. In contrast, the jacket is densely worked with smooth charcoal blacks, fine hatching, and sharp white highlights that follow every glossy fold. The face is modeled with smaller tonal transitions, enough to show cheekbone, nose, and mouth without losing the drawing's graphic clarity. A few metal fasteners catch tiny bright points. The image is monochrome or warm black on off-white paper, with no saturated color. Light arrives from above and one side, creating crisp gleams on leather and soft shadows beneath the collar and arm. The figure fills most of the frame, while the light wall remains an uncluttered counterweight. The composition feels direct and iconic, combining meticulous material rendering with an easy, unforced attitude.",
+  "full_prompt_zh": "一幅精细完成的石墨与墨线插画描绘成年骑手倚靠浅砖墙斜坐。人物戴小巧深色椭圆墨镜，穿黑皮夹克，领立起，有金属扣和锐利折叠的袖。弯起一臂把手送到下巴附近，一条腿从左下前景切入。姿态放松自持，头略偏离观者。后方浅砖墙以纤细断续砂浆线与最少的阴影画出，留下大块奶油纸场围住更暗人物。相比之下，夹克以浓密平滑炭黑、细排线和锐白亮部精工描绘，顺着每道油亮褶皱。脸由较小的调子过渡塑造，足以显出颧骨、鼻和嘴，却不失绘画的图形清晰。几枚金属扣抓住微小亮点。图像是单色或暖黑印在米白纸上，没有饱和颜色。光从上方一侧来，在皮革上造成清晰闪光，在领和手臂下留下柔影。人物占画框大部，浅墙则作为不拥挤的平衡。构图直接而有图像标志性，把精密材质呈现与轻松自然态度结合。",
+  "style_prompt_en": "Highly finished graphite and ink drawing relies on warm off-white paper, deep charcoal blacks, and a wide range of silvery midtones. Fine contour and layered hatching describe form, while smooth dark fills are cut by sharp white highlights on glossy or folded surfaces. A broad pale lightly sketched field balances a dense central dark mass. Material contrast is crucial: reflective planes receive crisp narrow gleams, matte areas stay softly shaded, and rough background texture is expressed with sparse broken lines. Light comes from above one side, giving strong local modeling without needing a painted color field. The composition is close, slightly diagonal, and confident, with large simple shapes supporting meticulous details. Edges alternate between clean focal contours and loose pencil fade at the margins. The finish is tactile, graphic, and polished while retaining visible draftsmanship.",
+  "style_prompt_zh": "精细完成的石墨墨线画依靠暖米白纸、深炭黑与宽银灰中间调。细轮廓和层叠排线描述形体，平滑暗填色被油亮或折叠表面的锐白高光切开。宽大浅色、轻起稿场域平衡浓密中央暗体量。材质对比关键：反射平面有清晰窄亮，哑光区柔和遮阴，粗背景纹理以稀少断线表达。光从上方一侧进入，给予强局部塑造，不需要有色绘画场。构图贴近、略斜且自信，大而简单的形支撑精密细节。边缘在干净焦点轮廓和边际松铅笔淡出间交替。饰面可触、图形化且光洁，同时保留可见起稿。",
+  "theme_en": "A confident rider in dark leather rests against a sunlit brick wall",
+  "theme_zh": "一位穿深皮衣的自信骑手倚在日照砖墙上休息",
+  "wh_ratio": "1:1",
+  "id": "0906",
+  "name": "Tom of Finland",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/tom-of-finland",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/tom-of-finland.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "1a03a5fdd9a9372fca8723cc9d31a2924462715356715ee1bc2b2822d169aaa8",
+    "gpt_submission_prompt": "A highly finished graphite-and-ink illustration portrays an adult rider reclining against a pale brick wall. The person wears small dark oval sunglasses and a black leather jacket with a raised collar, metal buttons, and sharply folded sleeves. One bent arm brings the hand near the chin, while a leg cuts across the lower left foreground. The pose feels relaxed and self-possessed, with the head tilted slightly away from the viewer. The light brick wall behind is sketched with fine broken mortar lines and minimal shading, leaving a broad cream paper field around the darker figure. In contrast, the jacket is densely worked with smooth charcoal blacks, fine hatching, and sharp white highlights that follow every glossy fold. The face is modeled with smaller tonal transitions, enough to show cheekbone, nose, and mouth without losing the drawing's graphic clarity. A few metal fasteners catch tiny bright points. The image is monochrome or warm black on off-white paper, with no saturated color. Light arrives from above and one side, creating crisp gleams on leather and soft shadows beneath the collar and arm. The figure fills most of the frame, while the light wall remains an uncluttered counterweight. The composition feels direct and iconic, combining meticulous material rendering with an easy, unforced attitude.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "f69b4879147b695c18c44913618d6ce5127bbbf06cc63ae9d995d0ca86a42d34",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

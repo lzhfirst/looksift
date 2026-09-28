@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white engraved illustration shows a solitary figure facing a hilltop abbey beneath immense storm clouds. The abbey rises in the center distance, its towers and pointed roofline forming a dark, detailed silhouette above a rocky island or steep shore. A broad white surge of mist or surf sweeps across the lower left and curls around the base of the hill. In the right foreground, a small cloaked figure stands on a dark sloping ridge, seen from behind and looking toward the building. The foreground earth is cut with dense diagonal marks and short wiry grasses, giving it a rugged surface. The sky consumes most of the upper half: huge black cloud masses break around a luminous white opening directly behind the tallest spire. Light rays or torn cloud edges radiate outward from this central gap, making the structure appear sharply backlit. Smaller dark rocks and faint masonry emerge along the lower hillside, but much of the distance is hidden by the pale swirling mist. Fine scratchboard-like lines articulate the architecture and terrain, while broad near-black fields preserve the drama of the silhouette. There is no added color, only stark changes between paper white, stippled gray, and solid black. The brightest light comes from behind the abbey, leaving the near ridge and figure in deep shadow. The overall composition is solemn and cinematic, using the tiny observer, storm sky, and luminous spray to magnify the distant landmark.",
+  "full_prompt_zh": "这是一幅方形黑白雕版插画，一位孤身人物在巨大风暴云下望向山顶修道院。修道院升起于中远景，塔楼和尖屋脊在岩岛或陡岸上构成深色、细节丰富的剪影。宽阔白色雾浪或海浪横扫左下方，卷过山脚。右侧前景，一位披斗篷的小人物背向观者站在深色斜坡上，望向建筑。前景地面布满密集斜线与短硬草，显得粗犷。天空吞下上半部大部分：巨大黑云在最高尖塔后方一个明亮白色开口周围裂开。光芒或破云边缘从这个中央空隙向外放射，使建筑形成鲜明逆光。更小深石和隐约石构沿下方山坡显露，但远处大部分被浅色旋雾遮住。刮板般细线刻画建筑与地形，大片近黑色域保留剪影戏剧性。没有附加色彩，只有纸白、点刻灰和纯黑之间的鲜明变化。最亮的光从修道院背后照来，让近岸与人物沉在深影中。整体构图庄严而有电影感，以微小观看者、风暴天空和发光雾浪放大远处地标。",
+  "style_prompt_en": "The monochrome illustration uses scratchboard and engraving-like mark making, shifting abruptly between solid black, stippled gray, and exposed white. Dense diagonal hatching gives dark terrain a rough grain, while finer vertical and angular lines articulate distant structure. Large turbulent masses surround one intense luminous opening, producing dramatic backlight and sharply readable silhouettes. Near forms remain low in value and highly textured; distant forms are partly swallowed by pale mist or spray. A very small dark accent against the bright middle distance creates monumental scale. The composition is asymmetric but strongly centered by a radiating light gap. The overall effect is solemn, stormy, and cinematic.",
+  "style_prompt_zh": "这幅黑白插画采用刮板与雕版般制痕，在实黑、点刻灰和外露纸白之间突然转换。密集斜排线赋予深色地面粗粒感，更细竖线与折角线刻画远处结构。巨大动荡团块围住一个强光开口，产生戏剧性逆光和清楚剪影。近处形体保持低明度且高度带肌理；远处形体部分被浅雾或飞沫吞没。明亮中远景前极小的深色强调建立宏大尺度。构图不对称，却被放射状光口牢牢居中。整体效果庄严、风暴感强且富电影性。",
+  "theme_en": "A solitary figure facing a hilltop abbey under storm clouds",
+  "theme_zh": "孤身人物在风暴云下望向山顶修道院",
+  "wh_ratio": "1:1",
+  "id": "2451",
+  "name": "Nicolas Delort",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/nicolas-delort",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/nicolas-delort.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "350b36cc6ba5efd858b86cd169e8e765394216718bae0b8792755d9b49718621",
+    "gpt_submission_prompt": "A square black-and-white engraved illustration shows a solitary figure facing a hilltop abbey beneath immense storm clouds. The abbey rises in the center distance, its towers and pointed roofline forming a dark, detailed silhouette above a rocky island or steep shore. A broad white surge of mist or surf sweeps across the lower left and curls around the base of the hill. In the right foreground, a small cloaked figure stands on a dark sloping ridge, seen from behind and looking toward the building. The foreground earth is cut with dense diagonal marks and short wiry grasses, giving it a rugged surface. The sky consumes most of the upper half: huge black cloud masses break around a luminous white opening directly behind the tallest spire. Light rays or torn cloud edges radiate outward from this central gap, making the structure appear sharply backlit. Smaller dark rocks and faint masonry emerge along the lower hillside, but much of the distance is hidden by the pale swirling mist. Fine scratchboard-like lines articulate the architecture and terrain, while broad near-black fields preserve the drama of the silhouette. There is no added color, only stark changes between paper white, stippled gray, and solid black. The brightest light comes from behind the abbey, leaving the near ridge and figure in deep shadow. The overall composition is solemn and cinematic, using the tiny observer, storm sky, and luminous spray to magnify the distant landmark.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "9190692bd5f9788bd80005f6b1302bda59f4de621e012d2b7ae96a05b075bbf2",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

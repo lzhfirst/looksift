@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square naive modern oil painting presents a woman from the waist up against a flat soft peach background. She faces forward with a calm, slightly guarded expression. A rounded black hat with a curved brim sits low over short dark wavy hair, and large black circular eyeglasses frame her blue gray eyes. Her pale face is simplified into warm cream and muted pink planes, with a small straight nose and neat coral red lips. She wears a black short sleeved dress with a modest pointed collar and a tiny white button or brooch at the neck. The dark garment fills the lower half of the composition as a single broad mass, its edges softened by short visible strokes. At the bottom center, a narrow glimpse of green and ocher patterned waistband interrupts the black. The peach field behind her is almost unbroken, with subtle streaks and brush ridges that make the paint surface visible. Her shoulders are slightly sloped and her arms fall out of frame, so the composition remains quiet and frontal. Light comes broadly from the upper left, warming one side of the face and arms; shadows are shallow and never dramatic. The outline of the hat and glasses is much darker and sharper than the softly modeled skin, giving the image a direct graphic focus. The painting feels intimate, witty, and a little austere, using a limited palette and confident shape simplification to hold the viewer's attention.",
+  "full_prompt_zh": "一幅方形朴素现代油画把一名女子从腰部以上画在平坦柔和桃色背景前。她面向前方，神情平静而略带防备。圆润黑帽带弯曲帽檐，低低压在短而微卷的深发上；大圆黑眼镜框住蓝灰眼睛。浅色脸庞简化为暖奶油白与低饱和粉色平面，有小巧笔直鼻子和整齐珊瑚红嘴唇。她穿黑色短袖裙，上有朴素尖领，颈间一粒小白纽扣或胸针。深色衣服作为单一大块填满画面下半部，短而可见的笔触柔化边缘。底部中央，一小段绿赭花纹腰带打断黑色。身后桃色区域几乎不受打扰，细微条痕和笔触凸脊显出颜料表面。肩膀略垂，双臂落出画框，构图保持安静正面。光从左上宽广而来，温暖脸和手臂的一侧；阴影很浅，从不戏剧化。帽子和眼镜轮廓远比柔和塑造的皮肤深而清晰，给图像直接的图形焦点。绘画亲密、机智且稍显朴素，以有限色域和自信的形状简化留住视线。",
+  "style_prompt_en": "Naive modern oil painting simplifies the scene into a few strong flat color masses with visible handworked texture. Soft peach or coral surrounds a dominant velvety black form, while cream, warm pink, and tiny green ocher accents provide balance. Shapes are frontal and compact, with rounded upper contours and a broad dark lower area. Selected narrow dark outlines sharpen small focal details, but most edges remain gently uneven from brushwork. Surface ridges and short strokes are visible across otherwise quiet color fields. Lighting is broad and shallow, warming pale planes without deep dramatic shadow. The limited palette and nearly empty backdrop make the image direct and memorable. Its mood is poised, slightly wry, and intimate, with confident graphic economy carried through tactile paint.",
+  "style_prompt_zh": "朴素现代油画把场景简化为少数强烈平涂色块，保留手工涂抹肌理。柔和桃色或珊瑚色围住主导的天鹅绒般黑色形体，奶油白、暖粉与极少绿赭重音提供平衡。形状正面且紧凑，上方轮廓圆润，下方是一大片深色区域。选定窄深轮廓锐化小小焦点细节，多数边缘则被笔触留得柔和不齐。表面凸脊与短笔痕可见于原本安静的色域。光宽广而浅，温暖浅色平面，却不带深重戏剧阴影。有限色域与近乎空白的背景让图像直接而难忘。气氛端正、略带揶揄且亲密，自信的图形简约通过可触颜料贯穿。",
+  "theme_en": "Woman in a black hat and round glasses against a peach background",
+  "theme_zh": "桃色背景前戴黑帽与圆眼镜的女子",
+  "wh_ratio": "1:1",
+  "id": "0858",
+  "name": "Maira Kalman",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/maira-kalman",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/maira-kalman.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "94c5450bf063351b5ae1fca7f4f2fdea240f68605f37a9a8ae11895fcc9a266d",
+    "gpt_submission_prompt": "A square naive modern oil painting presents a woman from the waist up against a flat soft peach background. She faces forward with a calm, slightly guarded expression. A rounded black hat with a curved brim sits low over short dark wavy hair, and large black circular eyeglasses frame her blue gray eyes. Her pale face is simplified into warm cream and muted pink planes, with a small straight nose and neat coral red lips. She wears a black short sleeved dress with a modest pointed collar and a tiny white button or brooch at the neck. The dark garment fills the lower half of the composition as a single broad mass, its edges softened by short visible strokes. At the bottom center, a narrow glimpse of green and ocher patterned waistband interrupts the black. The peach field behind her is almost unbroken, with subtle streaks and brush ridges that make the paint surface visible. Her shoulders are slightly sloped and her arms fall out of frame, so the composition remains quiet and frontal. Light comes broadly from the upper left, warming one side of the face and arms; shadows are shallow and never dramatic. The outline of the hat and glasses is much darker and sharper than the softly modeled skin, giving the image a direct graphic focus. The painting feels intimate, witty, and a little austere, using a limited palette and confident shape simplification to hold the viewer's attention.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "ea0b8781d8e3e6c4941a4410d9aaa5871c3eeb38dbb414ce2faa586777501a55",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

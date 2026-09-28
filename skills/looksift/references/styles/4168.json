@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square dreamlike oil painting gathers a cluster of human faces close together, with a white bird spreading its wings across the lower foreground. At the left, a bearded older man in a dark cap looks upward toward a red-haired woman near the center. Around them appear several smaller faces in hats, a white-haired elder at the upper right, and a second pale bird crossing the top. The crowd does not occupy a realistic room; heads overlap within dark blue, gray, russet, and warm cream paint as if memories were layered on one surface. The red-haired woman's profile is the clearest face, her green garment and warm skin pulling the eye through the surrounding people. The lower bird is broad and luminous against dark coats, its wing feathers suggested with swift pale strokes. Faces are outlined in loose dark marks and modeled with broken patches of color rather than smooth photographic skin. Light is scattered, brightening foreheads, noses, and white feathers from several directions without a single fixed source. Brush texture remains visible in the clothing and background, where forms dissolve into one another. The composition is tightly cropped, almost crowded to every edge, yet the diagonal white wings create room for movement. The result feels affectionate, theatrical, and slightly impossible, balancing intimate human expressions with floating symbolic imagery.",
+  "full_prompt_zh": "一幅方形梦幻油画把一群人脸聚在一起，一只白鸟张翼横过下方前景。左边戴深帽的有胡须老人仰望中央附近的红发女子。周围有几个戴帽小脸、右上白发长者，以及一只从顶部穿过的浅色鸟。人群不在写实房间里；头部在深蓝、灰、锈红和暖奶油色油彩中交叠，像记忆分层压在一张表面。红发女子侧面最清楚，绿衣与暖肤色把视线从周围人引入。下方白鸟在深色外套前宽阔发亮，羽毛由快速浅笔暗示。人脸用松动深线描边，以碎色片塑形，而非平滑照片皮肤。光散在多处，从不同方向提亮额头、鼻与白羽，没有单一固定光源。衣物和背景中可见笔触肌理，形体彼此融化。构图贴近，几乎每处边缘都拥挤，但斜向白翅为运动留出空间。结果亲切、戏剧化而略不可能，以贴近的人类表情平衡漂浮象征形象。",
+  "style_prompt_en": "Dreamlike oil painting layers expressive outlines, broken color patches, and translucent seeming overlaps. Deep blue, russet, cream, gray, and muted green form a rich but slightly weathered palette. Pale sweeping accents cut diagonally through dense dark clusters, lending movement to a close composition. Faces and forms remain legible at the center and dissolve into brushy texture toward the edges. Illumination is scattered and symbolic rather than tied to a single physical source. The surface feels affectionate and theatrical, combining intimate observation with floating, impossible relationships.",
+  "style_prompt_zh": "梦幻油画层叠表现性轮廓、破碎色片与似透明的重叠。深蓝、锈红、奶油、灰和低调绿组成丰厚而略风化的配色。浅色扫笔斜切浓密深色簇，让贴近构图获得运动。中心人脸与形体可辨，边缘逐渐溶入笔触肌理。照明分散而带象征性，不绑在单一物理光源上。表面亲切且戏剧化，把贴近观察与漂浮、不可能的关系结合。",
+  "theme_en": "A cluster of faces with a white bird in the foreground",
+  "theme_zh": "聚集的人脸与前景白鸟",
+  "wh_ratio": "1:1",
+  "id": "4168",
+  "name": "Marc Chagall",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/marc-chagall.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "e5ddd7f7ab0d33548003a82d2d43f9fda1521b39bcd1189b20e5b394268f025a",
+    "gpt_submission_prompt": "A square dreamlike oil painting gathers a cluster of human faces close together, with a white bird spreading its wings across the lower foreground. At the left, a bearded older man in a dark cap looks upward toward a red-haired woman near the center. Around them appear several smaller faces in hats, a white-haired elder at the upper right, and a second pale bird crossing the top. The crowd does not occupy a realistic room; heads overlap within dark blue, gray, russet, and warm cream paint as if memories were layered on one surface. The red-haired woman's profile is the clearest face, her green garment and warm skin pulling the eye through the surrounding people. The lower bird is broad and luminous against dark coats, its wing feathers suggested with swift pale strokes. Faces are outlined in loose dark marks and modeled with broken patches of color rather than smooth photographic skin. Light is scattered, brightening foreheads, noses, and white feathers from several directions without a single fixed source. Brush texture remains visible in the clothing and background, where forms dissolve into one another. The composition is tightly cropped, almost crowded to every edge, yet the diagonal white wings create room for movement. The result feels affectionate, theatrical, and slightly impossible, balancing intimate human expressions with floating symbolic imagery.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "327db906a42519a657dc7fb33ac8de68de4bfba9789eb7f27fb8d37b9618ee8d",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

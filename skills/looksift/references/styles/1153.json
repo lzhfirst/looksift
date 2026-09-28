@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A meticulously rendered color painting shows a tall mustard-yellow wooden house standing beside a dusty road on a flat, sparsely settled plain. The house sits slightly left of center, with a steep roof, narrow chimneys, a wraparound porch, and warm light glowing from several windows. Low sheds, utility poles, a small vehicle, and scattered buildings recede across the middle distance, giving the setting a lonely roadside scale. Above the roofline, a large silver airship glides across the darkening sky, its rounded hull catching cool light; a small amber glow burns beneath it. Behind everything rises an immense wall of billowing storm clouds, painted in layered blue-gray and cream, their bright upper lobes sharply illuminated against a deep navy sky. The road curves through rough grass and patchy earth in the foreground, leading the eye toward the house before the gaze rises to the airborne shape and cloud mass. The paint handling is smooth and exact on the architecture and airship, with subtle weathering on wood and ground, while cloud edges are soft, voluminous, and carefully modeled. Cool atmospheric shadow surrounds the warm ocher building, creating a cinematic contrast without losing its painterly character. The composition is spacious and slightly uncanny, balancing precise small human structures against overwhelming weather and an unexpected object in the sky.",
+  "full_prompt_zh": "一幅刻画细密的彩色绘画，描绘一栋芥末黄的高大木屋矗立在平坦、住户稀少的原野上，旁边是一条尘土道路。房屋位于中心稍左，陡峭屋顶、窄烟囱、环绕门廊清晰可见，几扇窗内透出暖光。低矮棚屋、电线杆、一辆小车和零散建筑退向中景，使这片路边环境显得孤独而辽阔。屋顶上方，一艘巨大的银色飞艇滑过逐渐阴沉的天空，圆鼓鼓的艇身接住冷光，下面亮着一点琥珀色光。所有事物背后是一整堵翻涌的暴风云墙，蓝灰与奶油白层层堆叠；上方明亮的云团在深海军蓝天空前被清楚照亮。前景道路穿过粗草和斑驳泥地弯向房子，引导目光先靠近建筑，再抬升到空中的物体和云体。建筑与飞艇的绘制平滑精确，木板和地面带有微妙风化痕迹；云缘则柔软、饱满，体积经过细致塑造。冷色空气阴影包围暖赭色房屋，形成电影感对照，同时保留绘画性。构图开阔而略显奇异，让精密而渺小的人造结构与压倒性的天气、天空中意料之外的形状取得平衡。",
+  "style_prompt_en": "Meticulous representational painting with smooth, precisely defined hard forms set beneath vast, softly modeled atmospheric masses. Muted ocher and earth colors glow against slate blue, charcoal, and cream, with a few pinpoint warm lights. Fine weathered texture appears on solid surfaces, while layered cloudlike forms roll across a broad upper field. A curving foreground line guides the eye toward a compact central cluster, then upward into immense volume. Light is theatrical but believable, cool in the surrounding air and warm on select planes. The mood is spacious, still, and subtly uncanny.",
+  "style_prompt_zh": "细密的具象绘画风格，轮廓精确且平滑的坚实形态置于巨大、柔和塑造的空气体块之下。低饱和赭黄与土色在石板蓝、炭黑和奶油白之间发亮，点缀几处针尖般的暖光。坚实表面具有细微风化纹理，层叠如云的形状则翻卷于宽阔上部。前景一条弯曲的线引导目光靠近紧凑的中心组合，再抬升到庞大体积中。光线有戏剧性但可信，周围空气偏冷，部分平面偏暖。气氛开阔、静止且隐约奇异。",
+  "theme_en": "A yellow house beneath a huge storm cloud and passing airship",
+  "theme_zh": "黄色房屋、巨大暴风云与掠过的飞艇",
+  "wh_ratio": "1:1",
+  "id": "1153",
+  "name": "Jeffrey Smart",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/jeffrey-smart",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/jeffrey-smart.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "69200bd79ae8671d3f5e1c6a221879f816a393fae665d08cb7bc62edab365e0a",
+    "gpt_submission_prompt": "A meticulously rendered color painting shows a tall mustard-yellow wooden house standing beside a dusty road on a flat, sparsely settled plain. The house sits slightly left of center, with a steep roof, narrow chimneys, a wraparound porch, and warm light glowing from several windows. Low sheds, utility poles, a small vehicle, and scattered buildings recede across the middle distance, giving the setting a lonely roadside scale. Above the roofline, a large silver airship glides across the darkening sky, its rounded hull catching cool light; a small amber glow burns beneath it. Behind everything rises an immense wall of billowing storm clouds, painted in layered blue-gray and cream, their bright upper lobes sharply illuminated against a deep navy sky. The road curves through rough grass and patchy earth in the foreground, leading the eye toward the house before the gaze rises to the airborne shape and cloud mass. The paint handling is smooth and exact on the architecture and airship, with subtle weathering on wood and ground, while cloud edges are soft, voluminous, and carefully modeled. Cool atmospheric shadow surrounds the warm ocher building, creating a cinematic contrast without losing its painterly character. The composition is spacious and slightly uncanny, balancing precise small human structures against overwhelming weather and an unexpected object in the sky.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "49906f79a59c80a8dea9da69b7b1b2ebc8947ae6b135a704ab6eefd238370c53",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

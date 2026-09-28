@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square Japanese woodblock-style portrait shows a young woman in left-facing profile against an intense vermilion background filled with thin flowering branches. Her black hair is smooth and abundant, cut into a straight fringe over the forehead and gathered into a neat bun at the back. She lowers her eyes and chin, giving the pale face a quiet, inward expression. The forehead, nose, lips, and neck are outlined with delicate dark lines and slight warm shading. A nearly black kimono fills the lower-right portion, its broad shoulder curve edged by a narrow red and cream collar. Behind and around her, line-drawn blossoms, stems, and leaves spread across the red field. Some flowers are filled with darker red, while others remain little more than fine outlines. A few muted olive leaves and buds punctuate the lower left and right. The image is flat in space: the woman and floral screen sit close together, separated by strong silhouette rather than perspective or cast shadow. Light is even and diffuse, indicated by the warm cream of her skin and small tonal changes at the cheek and neck. The black hair and kimono have subtle ink grain, not glossy photographic highlights. The red ground contains faint print texture and slight variation in density. No room, landscape, or lettering appears. The woman's downward profile creates a still vertical counterpoint to the busy branching pattern. The overall composition is restrained and elegant despite the vivid red, balancing broad dark shapes, delicate facial linework, and intricate botanical ornament.",
+  "full_prompt_zh": "一幅方形日式木版画肖像描绘一名年轻女子向左的侧脸，背景是布满细花枝的浓烈朱红色域。她的黑发平滑丰厚，整齐刘海落在额前，后部束成端正发髻。她垂下眼与下巴，使浅色面孔显得安静内省。额、鼻、唇和颈由细深线勾勒，带少量暖阴影。近黑和服填满右下部分，宽肩曲线边有窄红与奶油色衣领。她身后周围，线画花朵、茎和叶穿过红底。有的花填入更深的红，有的几乎只是细轮廓。少许暗橄榄叶和花苞点在左下与右侧。空间压平：女子与花屏紧贴，靠强剪影而非透视或投影分开。光线均匀漫射，由肌肤暖奶油色以及颊、颈的小调子变化表示。黑发和和服有细微墨粒，没有摄影式光泽高光。红底含淡印纹与轻微浓淡差别。画面没有房间、风景或文字。女子低垂的侧脸在繁忙枝纹前形成静止的竖向对照。整体构图虽红色鲜烈仍克制优雅，平衡宽阔深形、细致脸部线描和复杂植物装饰。",
+  "style_prompt_en": "Use refined Japanese woodblock-print portrait treatment with flat vermilion, ink black, warm cream, and sparse muted olive. Separate forms by graceful contour and broad silhouette rather than volumetric shadow. Keep facial or focal linework extremely delicate, while the surrounding field carries fine branching ornament and slight ink grain. Use even diffuse illumination and almost no perspective depth. Balance one still simple shape against a busier pattern for calm elegance.",
+  "style_prompt_zh": "采用精致日式木版画处理，以平面朱红、墨黑、暖奶油和少量暗橄榄成色。通过优雅轮廓与宽阔剪影而非立体阴影分开形体。面部或焦点线条极细，周围色域则有细枝装饰和轻微墨粒。光线均匀漫射，几乎没有透视纵深。以一个静止简形平衡较繁复图案，形成平静优雅。",
+  "theme_en": "A downward-looking woman in dark kimono against red flowering branches",
+  "theme_zh": "深色和服女子低头立于红色花枝前",
+  "wh_ratio": "1:1",
+  "id": "3949",
+  "name": "Ito Shinsui",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/ito-shinsui.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "f1e0845c5b7ea1ac2717e31d62e22cc86135b0785e1ae5de1728cab6f8afd655",
+    "gpt_submission_prompt": "A square Japanese woodblock-style portrait shows a young woman in left-facing profile against an intense vermilion background filled with thin flowering branches. Her black hair is smooth and abundant, cut into a straight fringe over the forehead and gathered into a neat bun at the back. She lowers her eyes and chin, giving the pale face a quiet, inward expression. The forehead, nose, lips, and neck are outlined with delicate dark lines and slight warm shading. A nearly black kimono fills the lower-right portion, its broad shoulder curve edged by a narrow red and cream collar. Behind and around her, line-drawn blossoms, stems, and leaves spread across the red field. Some flowers are filled with darker red, while others remain little more than fine outlines. A few muted olive leaves and buds punctuate the lower left and right. The image is flat in space: the woman and floral screen sit close together, separated by strong silhouette rather than perspective or cast shadow. Light is even and diffuse, indicated by the warm cream of her skin and small tonal changes at the cheek and neck. The black hair and kimono have subtle ink grain, not glossy photographic highlights. The red ground contains faint print texture and slight variation in density. No room, landscape, or lettering appears. The woman's downward profile creates a still vertical counterpoint to the busy branching pattern. The overall composition is restrained and elegant despite the vivid red, balancing broad dark shapes, delicate facial linework, and intricate botanical ornament.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "b1cbe54847d677a87b2d80e3cc03276a0b8f82b00be2ccbb14747e3a0ca8c75e",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square graphic portrait shows a dark-clad figure standing with folded arms before a wall packed edge to edge with black doodles. The figure is centered low in the frame, wearing a plain black top and round glasses, with pale short hair and a direct upward gaze. The monochrome wall behind is almost entirely covered by thick black outlines: smiling faces, simplified bodies, eyes, curved arrows, small boxes and energetic abstract marks fit together with very little open paper. Some symbols overlap while others share borders, creating a continuous visual field. The figure's black clothing forms a calm solid shape against the restless line pattern. Light is even and frontal, making the pale face and hands legible without strong cast shadows. The doodles remain flat and graphic; their line width is bold and consistent, with white gaps acting as color rather than deep space. The lower edge is darker where the figure merges with the wall's black marks. The image juxtaposes photographic or carefully rendered human presence with spontaneous-looking street-art drawing. Despite the enormous density of marks, the center stays readable because the face and folded arms form a simple dark-and-light arrangement. The overall composition is busy, playful and confrontational, using repeated icons and high black-white contrast around a still central pose.",
+  "full_prompt_zh": "这幅方形图形化肖像呈现一名深衣身影交叉双臂站在一面从边到边满是黑色涂鸦的墙前。人物居中偏下，穿朴素黑衣、戴圆眼镜，浅色短发，目光直接向上。身后单色墙几乎完全由粗黑轮廓覆盖：笑脸、简化身体、眼睛、弯箭头、小方框和活跃抽象符号紧紧拼合，留下极少空纸。有些符号重叠，另一些共用边界，形成连续视觉色域。人物黑衣作为平静实色形，对照躁动线图。光均匀正面，使浅色脸与手清楚，没有强投影。涂鸦保持平坦图形性；线宽粗且一致，白缝作为颜色存在，而非深空间。下边缘较暗，人物与墙上的黑笔记相融。图像把摄影式或细致绘制的人体存在与看似即兴的街头绘图并置。尽管笔记极其密集，中央仍易读，因为脸和交叉双臂组成简单明暗安排。整体繁忙、俏皮而直面观者，重复图标与高黑白对比围住静止中央姿态。",
+  "style_prompt_en": "The graphic image relies on bold, nearly uniform black outlines densely interlocked over a white ground. Simplified icons, loops and angular marks create a continuous high-contrast field, while one broad solid dark mass gives the eye a resting point. Flat frontal light leaves the linework crisp and the pale gaps clear. Repetition and overlap build energetic rhythm without modeled depth. The effect is playful, direct and visually crowded.",
+  "style_prompt_zh": "这种图形图像依靠粗而近乎等宽的黑轮廓在白底上密集互锁。简化图标、环线和棱角笔记形成连续高对比色域，一块宽实黑形则给视线休息点。平坦正面光保持线条清脆、浅色空隙清楚。重复与叠压建立活跃节奏，不依靠塑造纵深。效果俏皮、直接且视觉拥挤。",
+  "theme_en": "A dark-clad figure before a dense black-and-white doodle wall",
+  "theme_zh": "密集黑白涂鸦墙前的深衣身影",
+  "wh_ratio": "1:1",
+  "id": "3426",
+  "name": "Keith Haring",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/keith-haring",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "37bfcfd5e842c7d1f29f8021668df43069e1be1d15d9ea0cf41fc2471e09a9af",
+    "gpt_submission_prompt": "A square graphic portrait shows a dark-clad figure standing with folded arms before a wall packed edge to edge with black doodles. The figure is centered low in the frame, wearing a plain black top and round glasses, with pale short hair and a direct upward gaze. The monochrome wall behind is almost entirely covered by thick black outlines: smiling faces, simplified bodies, eyes, curved arrows, small boxes and energetic abstract marks fit together with very little open paper. Some symbols overlap while others share borders, creating a continuous visual field. The figure's black clothing forms a calm solid shape against the restless line pattern. Light is even and frontal, making the pale face and hands legible without strong cast shadows. The doodles remain flat and graphic; their line width is bold and consistent, with white gaps acting as color rather than deep space. The lower edge is darker where the figure merges with the wall's black marks. The image juxtaposes photographic or carefully rendered human presence with spontaneous-looking street-art drawing. Despite the enormous density of marks, the center stays readable because the face and folded arms form a simple dark-and-light arrangement. The overall composition is busy, playful and confrontational, using repeated icons and high black-white contrast around a still central pose.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "381668ade7cd9bb45c525688723771ef74056e58eea41d19041e0dc3f3bab7b4",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

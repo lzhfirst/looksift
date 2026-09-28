@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square cinematic science-fiction painting shows a lone suited explorer descending through a vast teal atmosphere beneath towering orange cloud formations. The small figure is seen from behind near the center, legs angled downward and a dark backpack or life-support unit attached to the torso. Rounded shoulder plates and a helmet catch narrow highlights, but the face is hidden. Fine cables or straps hang from the suit as the person drifts into the open space below. Across the upper half, enormous burnt-orange and amber cloudlike masses curl inward from left and right, their illuminated edges cut with countless rough brush marks. The lower half opens into deep turquoise and green-blue haze. A sloping textured terrain or cloud bank crosses the bottom left, speckled with orange streaks and dark particulate marks. Tiny bright flecks scattered around the explorer suggest distant particles in the air, giving scale to the surrounding immensity. The light seems to originate high on the right, making the orange masses glow intensely and placing the underside of the suited figure in shadow. The teal field absorbs light and deepens toward the lower corners. Broad painterly strokes create the large atmosphere, while finer marks describe the suit and nearby specks. No recognizable buildings or readable text appear. The overall composition is vertiginous and solitary, balancing a minute dark figure against a colossal warm cloud canopy and deep cool void.",
+  "full_prompt_zh": "一幅方形电影感科幻绘画呈现一名穿防护服的孤身探险者，在高耸橘色云团下穿过辽阔青蓝大气向下漂浮。小人物位于中央附近，从背后看到，双腿向下斜伸，躯干上连着深色背包或维生设备。圆润肩甲与头盔接住窄高光，面部被遮住。细缆线或绑带从服装垂下，人正漂入下方开放空间。上半部，巨大的焦橙与琥珀云状体从左右向内卷，受光边缘由无数粗糙笔痕切出。下半部打开为深绿松石与绿蓝雾域。一道倾斜、有纹理的地貌或云岸横过左下，点有橘色线与深色颗粒痕。探险者周围散着细小亮屑，像空气中远近不一的颗粒，为周围巨大空间提供尺度。光似乎来自右上，让橘色体量强烈发亮，防护服下侧留在阴影里。青蓝色域吸收光，在下方两角加深。宽阔绘画笔触塑成大片空气，更细的痕迹描出防护服与附近亮点。没有可识别建筑或可读文字。整体构图有眩晕般纵深与孤独感，以微小深色人影平衡庞大暖云顶盖和深冷空域。",
+  "style_prompt_en": "A cinematic science-fiction painting treatment sets immense textured warm masses against a deep teal atmospheric void. Burnt orange, amber and rust glow where high light grazes rough edges; turquoise and green-blue sink into darker haze beneath. Broad brush sweeps establish large directional flow, while fine specks and small sharply modeled accents create scale. Edges alternate between luminous crisp ridges and soft dissolving vapor. Strong upper-side light drives the warm-cool division, leaving central dark shapes rimmed rather than evenly lit. A tiny focal concentration floats inside enormous negative space, making the composition feel vertiginous, solitary and grand.",
+  "style_prompt_zh": "电影感科幻绘画处理把巨大的有纹理暖色体量置于深青蓝空气空域前。焦橙、琥珀与锈色在高位光擦过粗糙边缘处发亮；绿松石与绿蓝色在下方沉入更深雾层。宽阔扫笔建立大方向流动，细亮屑和少量锐利塑形的重音提供尺度。边缘在发光清晰的脊线与柔化消散的雾气间交替。强上侧光推动冷暖分区，使中央暗形被镶边而非均匀受光。微小焦点集中于巨大的负空间内，让构图显得眩晕、孤独而壮阔。",
+  "theme_en": "A lone suited explorer descending through a teal and orange alien atmosphere",
+  "theme_zh": "孤身防护服探险者穿过青蓝与橘色外星大气向下漂浮",
+  "wh_ratio": "1:1",
+  "id": "1098",
+  "name": "Neil Blevins",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/neil-blevins",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/neil-blevins.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "367a69968056c2bdb020fa2f095687e0195842730105686e93b083a9fdf87007",
+    "gpt_submission_prompt": "A square cinematic science-fiction painting shows a lone suited explorer descending through a vast teal atmosphere beneath towering orange cloud formations. The small figure is seen from behind near the center, legs angled downward and a dark backpack or life-support unit attached to the torso. Rounded shoulder plates and a helmet catch narrow highlights, but the face is hidden. Fine cables or straps hang from the suit as the person drifts into the open space below. Across the upper half, enormous burnt-orange and amber cloudlike masses curl inward from left and right, their illuminated edges cut with countless rough brush marks. The lower half opens into deep turquoise and green-blue haze. A sloping textured terrain or cloud bank crosses the bottom left, speckled with orange streaks and dark particulate marks. Tiny bright flecks scattered around the explorer suggest distant particles in the air, giving scale to the surrounding immensity. The light seems to originate high on the right, making the orange masses glow intensely and placing the underside of the suited figure in shadow. The teal field absorbs light and deepens toward the lower corners. Broad painterly strokes create the large atmosphere, while finer marks describe the suit and nearby specks. No recognizable buildings or readable text appear. The overall composition is vertiginous and solitary, balancing a minute dark figure against a colossal warm cloud canopy and deep cool void.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "b99b14674534d54a6090d59632767fae79b5fd1afbee72c5f7bd68e0064b3217",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

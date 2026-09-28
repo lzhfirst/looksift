@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square, softly modeled oil painting shows a small child in a red dress sitting on a worn green settee beside a white lamb. The child occupies the left middle of the frame, looking down at clasped hands in the lap. Dark brown wavy hair surrounds the pale face; the expression is quiet and withdrawn. The deep red dress has long sleeves, a small front bow, and a broad skirt that spreads over the cushion. Dark shoes point toward the bottom edge, one leg slightly crossing the other. At the right, the lamb curls into a compact white shape with its head lowered to the seat and a long pale ear falling forward. Its thick wool is made of small warm cream and gray strokes, distinct from the smoother red cloth. The settee runs across the lower third in faded teal-green, with an upright back cushion patterned by restrained red and brown marks. Behind it, a plain brown wall and a dark vertical recess fill the upper half. Light falls from the upper left, making the child's forehead and dress folds glow and picking out the lamb's wool, while the background corners remain deep umber. There is little hard contour in the dim room; forms emerge from warm value transitions and textured paint. The red dress is the largest saturated color area, set against muted green and brown. The child and animal do not interact visibly, but their close placement and still poses create a tender, contemplative quiet.",
+  "full_prompt_zh": "一幅方形、柔和塑形的油画呈现一个穿红裙的小孩坐在磨旧绿长椅上，身旁卧着白色小羊。孩子占画面左中，低头看着叠在腿上的双手。深棕波浪发围住浅色面庞，神情安静而内收。深红裙有长袖、胸前小结，宽裙摆铺在坐垫上。深色鞋朝向下缘，两腿略有交叠。右侧小羊蜷成紧凑白色形体，头低伏在座面，长浅耳向前垂下。厚羊毛由小小暖奶油和灰色笔画组成，与较平顺的红布不同。长椅以褪色青绿色横过下三分之一，立起的靠垫带克制红褐纹样。其后素褐墙与一处深竖凹位填满上半幅。光从左上落下，使孩子的额头与裙褶发亮，也挑出羊毛，背景角落仍是深棕褐。暗室里很少有坚硬轮廓；形体从温暖明度过渡和颜料肌理中浮现。红裙是最大饱和色区，置于低饱和绿与褐之间。孩子和小羊没有明显互动，但近距离并置与静止姿态形成温柔、沉思的安静。",
+  "style_prompt_en": "A subdued oil-painted interior places one deep red focal mass against faded teal-green and warm umber fields. Pale rounded accents sit nearby, built from small broken cream and gray strokes, while the red area has broader, softer folds. Faces and smooth planes are modeled gently through warm value transitions; background contours disappear into shadow. A low horizontal support shape grounds the composition, with a dark upper field leaving the focal pair enclosed and still. Light enters from the upper left and picks out selected pale surfaces and red ridges, but hard cast shadows are minimal. Visible brush grain and worn muted color give the scene a timeworn tactility. The rhythm is quiet and compact, balancing one saturated area against larger subdued surroundings and a small soft white counterweight.",
+  "style_prompt_zh": "低调油画室内把一块深红焦点色团放在褪色青绿与暖棕褐色域前。旁边浅色圆润重音由细小断裂的奶油和灰色笔触构成，红色区域则以更宽、更柔的褶面呈现。面容和平顺平面经暖明度过渡轻柔塑形；背景轮廓隐入阴影。低处水平承托形状稳住构图，深暗上部色域把焦点并置形体围在静止空间内。光从左上进入，挑亮选定浅色表面和红色凸褶，但硬投影很少。可见笔触颗粒与磨旧的低饱和颜色让场景带经年触感。节奏安静紧凑，以一处饱和色块平衡更大低调周围和小块柔白对重。",
+  "theme_en": "A child in a red dress seated beside a sleeping white lamb",
+  "theme_zh": "红裙孩子坐在睡着的白色小羊旁",
+  "wh_ratio": "1:1",
+  "id": "2181",
+  "name": "Eastman Johnson",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/eastman-johnson",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/eastman-johnson.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "2a1017a07b067e8a983be7775c5cf619ffafbc46452bf00f21f5208607e446a6",
+    "gpt_submission_prompt": "A square, softly modeled oil painting shows a small child in a red dress sitting on a worn green settee beside a white lamb. The child occupies the left middle of the frame, looking down at clasped hands in the lap. Dark brown wavy hair surrounds the pale face; the expression is quiet and withdrawn. The deep red dress has long sleeves, a small front bow, and a broad skirt that spreads over the cushion. Dark shoes point toward the bottom edge, one leg slightly crossing the other. At the right, the lamb curls into a compact white shape with its head lowered to the seat and a long pale ear falling forward. Its thick wool is made of small warm cream and gray strokes, distinct from the smoother red cloth. The settee runs across the lower third in faded teal-green, with an upright back cushion patterned by restrained red and brown marks. Behind it, a plain brown wall and a dark vertical recess fill the upper half. Light falls from the upper left, making the child's forehead and dress folds glow and picking out the lamb's wool, while the background corners remain deep umber. There is little hard contour in the dim room; forms emerge from warm value transitions and textured paint. The red dress is the largest saturated color area, set against muted green and brown. The child and animal do not interact visibly, but their close placement and still poses create a tender, contemplative quiet.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "61adc067db52510de2bf67eb40d311f73e56e4ed0c567829a8014f2b4e4550d6",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

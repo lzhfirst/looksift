@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white street photograph shows a broad worn city wall almost completely occupied by a huge faded poster or mural. In the image on the wall, a shadowy figure and distant columns are barely visible through peeling, rain-streaked gray tones. At street level, a woman in a dark coat and fitted skirt stands on the left, facing an older man who sits several steps away on a low stone ledge near the right. Both are small beneath the monumental wall image. The woman wears heels and a dark hat, her silhouette crisp against pale plaster. The seated man wears a dark suit and white shirt, his face brighter than his clothing. The sidewalk forms a wide empty strip across the bottom, with large stone blocks and a column base along the wall. Light is diffuse, creating subtle gray transitions rather than hard shadows. The street figures appear still and separate; no clear conversation can be confirmed by their poses. The giant wall surface carries scratches, stains, and patches of worn paper, creating a visual dialogue between the photographic people and the ghostlike printed figure above. The composition is strongly horizontal, with the dark wall rectangle occupying the upper majority and the real figures punctuating the lower line. The image has fine grain and old-print softness. There are no readable words, shop names, or captions. Its mood is formal yet enigmatic, using scale and placement to turn an ordinary street encounter into a quiet theatrical tableau.",
+  "full_prompt_zh": "一张方形黑白街头照片呈现一面宽阔磨旧城市墙，几乎全被巨大褪色海报或壁画占据。墙上图像里，一道影子般形体和远处柱列透过剥落、雨痕灰调隐约可见。街面左侧一名穿深外套和合身裙的女子站着，面向右侧数步外坐在低石檐上的年长男子。两人都比巨大墙画小得多。女子穿高跟鞋与深帽，剪影在浅灰泥前清楚。男子穿深西装与白衬衫，脸比衣服亮。人行道在底部形成宽空条，墙沿有大石块与柱基。光漫散，形成微妙灰度过渡而非硬影。街上人物静止且分开；姿势不足以确认交谈。巨大墙面带刮痕、污渍与磨旧纸片，使现实摄影人物与上方幽灵般印刷形体构成视觉对话。构图强水平，深色墙画矩形占上方大部，真实人物点在下线。影像有细颗粒与旧印相柔化。没有可读字、店名或说明。氛围正式又谜般，以尺度和位置把平常街头相遇变成安静舞台画面。",
+  "style_prompt_en": "Use formal monochrome street photography that makes small real-world marks converse with a much larger faded graphic surface. Compose with a broad horizontal wall or field occupying most of the frame, and a few widely spaced dark anchors along a low line. Let peeling, stains, streaks, and ghosted imagery add texture without resolving into readable text. Favor diffuse light, fine grain, soft old-print edges, and subtle middle-gray separation over dramatic contrast. Maintain physical distance between focal points so scale and silence become expressive. The effect is enigmatic and theatrical while still feeling like a candid observation of public space.",
+  "style_prompt_zh": "采用形式感强的单色街头摄影，让小的现实记号与大得多的褪色图形表面形成对话。宽水平墙面或场占画面大部，少数相隔很远的深锚点沿低线排列。剥落、污渍、条痕和幽灵般图像添纹理，却不落实成可读字。偏用漫散光、细颗粒、旧印相软边及微妙中灰分离，而非戏剧高对比。焦点之间保持实体距离，让尺度和沉默有表达力。效果谜般、有舞台性，同时仍像对公共空间的偶然观察。",
+  "theme_en": "Two dark-clad figures separated beneath a monumental weathered wall image",
+  "theme_zh": "两道深衣身影在巨大风化墙画下相隔站坐",
+  "wh_ratio": "1:1",
+  "id": "1169",
+  "name": "Ferdinando Scianna",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/ferdinando-scianna",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/ferdinando-scianna.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "c9d868d2a52167a237b52e90935fcb769753c53621516c770b6bb432fe400173",
+    "gpt_submission_prompt": "A square black-and-white street photograph shows a broad worn city wall almost completely occupied by a huge faded poster or mural. In the image on the wall, a shadowy figure and distant columns are barely visible through peeling, rain-streaked gray tones. At street level, a woman in a dark coat and fitted skirt stands on the left, facing an older man who sits several steps away on a low stone ledge near the right. Both are small beneath the monumental wall image. The woman wears heels and a dark hat, her silhouette crisp against pale plaster. The seated man wears a dark suit and white shirt, his face brighter than his clothing. The sidewalk forms a wide empty strip across the bottom, with large stone blocks and a column base along the wall. Light is diffuse, creating subtle gray transitions rather than hard shadows. The street figures appear still and separate; no clear conversation can be confirmed by their poses. The giant wall surface carries scratches, stains, and patches of worn paper, creating a visual dialogue between the photographic people and the ghostlike printed figure above. The composition is strongly horizontal, with the dark wall rectangle occupying the upper majority and the real figures punctuating the lower line. The image has fine grain and old-print softness. There are no readable words, shop names, or captions. Its mood is formal yet enigmatic, using scale and placement to turn an ordinary street encounter into a quiet theatrical tableau.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "497be1f5b6b64c341ecec3c25e03267f016e7674136629a9a8928cd3a5d5043d",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square, hard-edged comic illustration shows a black-haired person in close profile leaning over a dark horizontal surface against a vivid orange background. The warm field fills the upper left and much of the middle, with only a few thin stray ink marks breaking its flat color. From the upper right, a dense black sweep of hair and shadow enters the frame, nearly swallowing the head. A pale orange facial plane emerges near the center, with a sharply cut nose, downturned mouth and one bright eye looking toward the lower left. Long strands of hair cross the cheek and fall into the surrounding darkness. The shoulder and bent arm descend along the right side, with the hand stretching across the lower center toward an indistinct dark object or edge. On the far left, a pale curl of smoke or vapor rises from the black lower band, its thin line contrasting with the broad heavy shadows. No room, text or horizon is visible. The figure is cropped at the top, right and bottom so that expression and gesture fill the image. Light is entirely graphic, as if the orange field itself illuminates the profile and hand; sharp black areas replace soft natural shadow. Small scratches and tapered brush marks keep the ink masses from feeling mechanically flat. The overall composition holds a tense inward glance between a vast hot color plane and a sweeping black silhouette, with one slender vapor line giving the still scene motion.",
+  "full_prompt_zh": "这幅方形、硬边漫画插画里，一个黑发人物以近距离侧脸俯向深色横面，背后是鲜亮橙色。暖色域填满左上和中段大部分，只有几笔细墨游线打断平涂。从右上方，一片密黑头发与阴影扫入画框，几乎吞没头部。中央附近露出浅橙色面部平面，有尖切的鼻、下垂的嘴和一只望向左下的亮眼。长发丝越过脸颊，垂入周围黑暗。肩和弯曲手臂沿右侧下降，手伸过下方中部，靠近难辨的深色物件或边缘。最左侧，一缕浅色烟或水汽从下方黑带升起，细线与宽阔厚重阴影相对。没有可见房间、文字或地平线。人物在顶部、右侧和下方被裁切，使表情与动作占满图像。光完全图形化，仿佛橙色域本身照亮侧脸和手；锋利黑块取代柔和自然阴影。小刮痕与尖细笔锋让墨块不显机械平坦。整体构图把紧张向内的视线安置在巨大热色平面和扫过的黑剪影之间，一缕细水汽给静止画面添上运动。",
+  "style_prompt_en": "The comic image uses severe black silhouette against a single hot orange field, with a few pale highlights cut into the darkness. Curved hairlike strokes and tapered ink edges soften an otherwise graphic division, while scratch marks add analog surface texture. The figure-ground relationship is compressed and close, leaving little ordinary setting. Light behaves as a flat warm source, exposing only selected facial and gestural planes; deep shadow remains uninterrupted across large regions. One or two fine linear accents create movement within the broad color masses. The result is dramatic, economical and noir-inflected, with emotion carried by crop, edge shape and value contrast.",
+  "style_prompt_zh": "这种漫画图像让严厉黑剪影立在单一炽橙色域前，黑暗中只切入少量浅亮强调。弯曲发丝状笔痕与尖细墨边缓和原本图形化的分割，刮擦笔迹添入模拟介质肌理。形与底关系压紧贴近，几乎不留普通场所。光像平涂暖源，只暴露经过选择的面部和动作平面；大块深影保持不断开。一两条细线性强调在宽阔色块中产生运动。成品戏剧化、节约且带黑色电影气质，情绪由裁切、边缘形态和明暗反差承载。",
+  "theme_en": "A black-haired profile leaning over a dark surface against hot orange",
+  "theme_zh": "黑发侧脸俯向深色表面，背后是一片炽橙",
+  "wh_ratio": "1:1",
+  "id": "3839",
+  "name": "Alex Toth",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/alex-toth",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "6e077beb03bc383562a479669601dc13e4c01625b4f13f9e32600d3298047c4c",
+    "gpt_submission_prompt": "A square, hard-edged comic illustration shows a black-haired person in close profile leaning over a dark horizontal surface against a vivid orange background. The warm field fills the upper left and much of the middle, with only a few thin stray ink marks breaking its flat color. From the upper right, a dense black sweep of hair and shadow enters the frame, nearly swallowing the head. A pale orange facial plane emerges near the center, with a sharply cut nose, downturned mouth and one bright eye looking toward the lower left. Long strands of hair cross the cheek and fall into the surrounding darkness. The shoulder and bent arm descend along the right side, with the hand stretching across the lower center toward an indistinct dark object or edge. On the far left, a pale curl of smoke or vapor rises from the black lower band, its thin line contrasting with the broad heavy shadows. No room, text or horizon is visible. The figure is cropped at the top, right and bottom so that expression and gesture fill the image. Light is entirely graphic, as if the orange field itself illuminates the profile and hand; sharp black areas replace soft natural shadow. Small scratches and tapered brush marks keep the ink masses from feeling mechanically flat. The overall composition holds a tense inward glance between a vast hot color plane and a sweeping black silhouette, with one slender vapor line giving the still scene motion.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "64c732fdc480667a108e7c461679f9db3e78f836bb3c9d567518be00dc1ba58b",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

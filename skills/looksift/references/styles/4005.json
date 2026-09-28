@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square instant-film-like photograph presents a young dark-haired woman in a close chest-up portrait. She leans back against pale rumpled pillows, raises one arm behind her head, and looks directly toward the camera with a calm, slightly tired expression. Her loose wavy hair spreads across her shoulders and the pillow. Dress her in a light, softly wrinkled blouse with an open neckline and subtle floral or mottled marks; beneath it, a dark inner garment creates a small deep patch at the center. The room behind is dim and indistinct, with horizontal seams and muted green-gray surfaces barely visible. The composition lets soft window light arrive from the upper left, tracing her cheek, nose, lips, and fabric folds while the right side of the image settles into warm shadow. The image uses a muted palette of olive gray, beige, charcoal, and faint amber. The photograph should have a thick, slightly uneven pale border on the left and bottom, fine grain, shallow detail, small scratches, dust, and rubbed corners. The image keeps the pose natural rather than formal, with the head and raised arm filling the frame but without excessive sharpness. The image preserves the nostalgic chemistry of a slightly faded physical snapshot: tender highlights, crushed but textured shadows, and a quiet intimate moment.",
+  "full_prompt_zh": "一张近似即时相片的方形照片呈现一位深发年轻女性的胸部以上近景。她倚靠在浅色皱枕上，一只手臂抬到脑后，以平静而略显疲倦的神情直视镜头。松散波浪发丝散落肩上和枕边。她穿一件有柔软皱褶、领口微开的浅色衬衫，带淡淡的花纹或斑驳痕迹；里面的深色衣物在中央形成一小片暗区。室内背景昏暗而不明确，只隐约看见横向接缝和灰绿色表面。柔软窗光从左上方落下，描出面颊、鼻梁、嘴唇与衣褶，画面右侧则渐入暖影。色彩压低为橄榄灰、米色、炭黑与微弱琥珀色。照片在左侧和下方有略不均匀的厚浅边，伴随细颗粒、小划痕、灰尘及磨损角。姿势自然，不似正式摆拍；头部和抬起的手臂填满画面，但不要过分锐利。画面保留略微褪色的实体快照那种怀旧化学质感：温柔高光、仍有纹理的浓重暗部和安静亲近的瞬间。",
+  "style_prompt_en": "Muted instant-film photography with square framing, a pale uneven print border, fine grain, dust, shallow sharpness, and rubbed edges. The image combines soft side light with tender highlights and textured dense shadows. The palette limits color to olive gray, warm beige, charcoal, and faint amber; The composition lets slight fading and chemical irregularity create a private, nostalgic atmosphere. The image keeps the composition close, casual, and unpolished.",
+  "style_prompt_zh": "低饱和即时摄影风格，方形取景，浅而不齐的相纸边框、细颗粒、灰尘、浅景深锐度与磨损边缘并存。柔和侧光配温柔高光和有纹理的浓重阴影。色彩限制在橄榄灰、暖米色、炭黑和微弱琥珀色；轻微褪色与显影不规则性带来私密怀旧气息。构图靠近、随意而未加过度修饰。",
+  "theme_en": "A softly lit dark-haired woman in an aged square instant photograph",
+  "theme_zh": "一张做旧方形即时照片中柔光下的深发女性",
+  "wh_ratio": "1:1",
+  "id": "4005",
+  "name": "Polaroid",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/polaroid.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "3a89e2bca70716a30233c2400f8563b9c4cbc93fc41a5efc9a39150c21fa192b",
+    "gpt_submission_prompt": "A square instant-film-like photograph presents a young dark-haired woman in a close chest-up portrait. She leans back against pale rumpled pillows, raises one arm behind her head, and looks directly toward the camera with a calm, slightly tired expression. Her loose wavy hair spreads across her shoulders and the pillow. Dress her in a light, softly wrinkled blouse with an open neckline and subtle floral or mottled marks; beneath it, a dark inner garment creates a small deep patch at the center. The room behind is dim and indistinct, with horizontal seams and muted green-gray surfaces barely visible. The composition lets soft window light arrive from the upper left, tracing her cheek, nose, lips, and fabric folds while the right side of the image settles into warm shadow. The image uses a muted palette of olive gray, beige, charcoal, and faint amber. The photograph should have a thick, slightly uneven pale border on the left and bottom, fine grain, shallow detail, small scratches, dust, and rubbed corners. The image keeps the pose natural rather than formal, with the head and raised arm filling the frame but without excessive sharpness. The image preserves the nostalgic chemistry of a slightly faded physical snapshot: tender highlights, crushed but textured shadows, and a quiet intimate moment.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "c3754fe60f0bf3883384258144ae39e7edc6d8b71d6ea6d8e9dbd2448dc65e2a",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

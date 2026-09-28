@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square European comic illustration shows a quiet riverside quay at dusk, with an old dark car and a seated man beside a broad slow river. The sky is a flat dusty blue in the upper half, warming to salmon pink at the low horizon. Across the river, rows of tightly packed stone buildings stretch from the left toward the center distance; a pointed tower rises above their roofs near the left edge. A low bridge crosses the water farther back, its arches drawn with crisp black lines. In the foreground, a cobbled embankment slopes down to the right. An old rounded car is parked near the center-left, its brown body and dark wheels facing the river. Two small figures stand by its open side or trunk, while another person sits on the stone edge closer to the center-right with their back toward the viewer. A small warm lantern rests near the lower-left edge. The river reflects the pale sunset in a broad smooth band, bordered by darker blue-gray water under the bridge. Fine hatch marks and straight ink contours describe cobbles, facades and vehicle details, while the sky and water receive flatter, cleaner color areas. Low evening light from the right horizon warms the quay and distant walls, with long soft shadows gathering beneath the car and figures. The overall composition holds a few quiet human actions against an expansive river and city skyline, creating a restrained historical comic mood.",
+  "full_prompt_zh": "这幅方形欧式漫画插画里，一处黄昏河岸安静展开，旧深色汽车和一名坐着的男子位于宽阔缓流旁。上半部天空是平坦灰蓝色，到低位地平线暖成鲑粉色。河对岸，紧密排列的石建筑从左侧延向中央远处；左缘附近一座尖塔高出屋顶。远处低桥跨过水面，桥拱由清楚黑线画出。前景铺石岸沿向右下倾。一辆圆润旧车停在中心偏左，褐色车身和深轮朝着河。两位小人物站在车侧或打开的车厢旁，另一人更靠右坐在石沿上，背对观众。左下边缘有一盏小暖灯。河流以宽阔平滑色带映着浅色晚霞，桥下水面则偏深蓝灰。细排线和直墨轮廓描写石路、立面及车的细节，天空和水域使用较平坦干净的色面。低位傍晚光从右侧地平线来，暖化岸边和远墙，车及人物下方聚着长而柔的阴影。整体构图让几件安静人事面对广阔河流与城市天际线，营造克制的历史漫画气氛。",
+  "style_prompt_en": "The comic image uses exact black ink architecture, restrained hatching and broad flat color fields. Dusty blue, warm stone gray and muted salmon form a low-contrast evening palette, punctuated by a few charcoal silhouettes and small amber lights. Perspective lines and repeated masonry marks establish depth, but the open sky and smooth reflective band keep the frame calm. Contours remain clear at foreground objects and soften into closely packed distant detail. Low warm light is suggested through horizon color and gentle ground shadow rather than dramatic glare. The finish feels observational, cinematic and slightly archival, with narrative held in small gestures inside a larger urban rhythm.",
+  "style_prompt_zh": "这种漫画图像使用精确黑墨结构、克制排线和宽阔平涂色域。灰蓝、暖石灰与压低鲑粉组成低反差傍晚配色，少量炭色剪影与小琥珀灯点穿其间。透视线和重复砌体笔痕建立纵深，敞开天空和平滑反光带又让画面平静。前景物件轮廓清楚，远处密排细节则柔化。低暖光由地平线色彩和柔和地面影暗示，而非戏剧性眩光。完成面有观察力、电影感与轻微档案气息，叙事藏在更大都市节奏中的小动作里。",
+  "theme_en": "A quiet river quay at dusk with an old car and a seated man",
+  "theme_zh": "黄昏宁静河岸上停着旧车，一名男子坐在岸边",
+  "wh_ratio": "1:1",
+  "id": "4213",
+  "name": "Jacques Tardi",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/jacques-tardi.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "b06137d777493a45b6710ee3fafff7bfcb681a149bd147ab0aa32a47bbbb76cd",
+    "gpt_submission_prompt": "A square European comic illustration shows a quiet riverside quay at dusk, with an old dark car and a seated man beside a broad slow river. The sky is a flat dusty blue in the upper half, warming to salmon pink at the low horizon. Across the river, rows of tightly packed stone buildings stretch from the left toward the center distance; a pointed tower rises above their roofs near the left edge. A low bridge crosses the water farther back, its arches drawn with crisp black lines. In the foreground, a cobbled embankment slopes down to the right. An old rounded car is parked near the center-left, its brown body and dark wheels facing the river. Two small figures stand by its open side or trunk, while another person sits on the stone edge closer to the center-right with their back toward the viewer. A small warm lantern rests near the lower-left edge. The river reflects the pale sunset in a broad smooth band, bordered by darker blue-gray water under the bridge. Fine hatch marks and straight ink contours describe cobbles, facades and vehicle details, while the sky and water receive flatter, cleaner color areas. Low evening light from the right horizon warms the quay and distant walls, with long soft shadows gathering beneath the car and figures. The overall composition holds a few quiet human actions against an expansive river and city skyline, creating a restrained historical comic mood.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "30b4f10fd6f063b2aa53cc1a4f9c5db7b52597501515f8a181fcaa626123705e",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

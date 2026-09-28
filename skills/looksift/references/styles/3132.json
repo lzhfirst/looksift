@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A whimsical character illustration fills the square with a small inventor wearing an oversized blue-gray mask and round copper goggles. The head is much larger than the narrow body, making the two dark circular eye openings and protruding respirator the dominant shapes. A tall dark hat rises out of the top edge, and sharp fin-like extensions angle from either side. Below, a teal coat, tan vest, and narrow red tie provide a tidy vertical stack. A tiny pink creature peeks up near the lower right, giving the central figure a playful companion and a scale counterpoint. The background is warm parchment covered with faint citylike silhouettes, curling lines, and scratched marks. The image has the tactile surface of aged mixed-media painting: matte color, rubbed pigment, delicate outlines, and small scuffs visible in the coat and wall. Cool teal and slate blue contrast with ochre, dusty rose, copper, and brown. Light is soft and frontal, catching the metal rims of the goggles and edges of the mask without making them glossy. The composition is tightly centered, but looping cables and small side figures keep the margins lively. Circular motifs recur in lenses, eye holes, buttons, and background curls. The whole scene feels curious and slightly odd rather than threatening, with careful craft detail balancing the simplified, toy-like proportions.",
+  "full_prompt_zh": "一幅奇想角色插画把一位小发明家放满方形画幅，他戴着巨大的蓝灰色面具和圆形铜框护目镜。头部远大于狭窄身躯，使两处深色圆形眼孔与突出的呼吸器成为主导形状。高高的深色帽子伸出上缘，两侧有尖鳍般的部件斜向展开。下方的青绿色外套、棕色背心和细红领带叠成整洁的竖向结构。一只小小的粉色生物在右下探出，为中心人物提供俏皮伙伴和尺度对照。背景是温暖的羊皮纸色，铺有淡淡的城市般剪影、卷曲线和刮擦痕。画面有老旧混合材料绘画的可触表面：哑光色、擦磨颜料、细致轮廓与外套和墙面上的小磨痕。冷青绿与石板蓝同赭黄、灰玫瑰、铜色和棕色对比。光线柔和且来自正面，照出护目镜金属边和面具边缘，却不使其过度光滑。构图紧密居中，但盘绕电缆与侧边小形体使边缘保持活跃。镜片、眼孔、纽扣和背景卷线反复呈圆形。整个场景好奇而略显古怪，并不令人畏惧；精细工艺与简化的玩具般比例取得平衡。",
+  "style_prompt_en": "An aged mixed-media illustration with oversized rounded masses above a narrow vertical base. Cool teal and slate blue meet parchment ochre, dusty rose, copper, and brown. Dark circular voids and metal-rimmed rings repeat across the center, offset by a few pointed extensions and looping side lines. Matte paint, rubbed pigment, thin contours, and small scratches make the surface tactile. Soft frontal light touches select rims without strong shine. A centered, toy-like proportion gives clear focus while faint architectural and curling marks keep the background active.",
+  "style_prompt_zh": "一幅做旧的混合材料插画，巨大的圆润形体压在狭窄竖向基座之上。冷青绿和石板蓝遇上羊皮纸赭色、灰玫瑰、铜色与棕色。深色圆孔和金属圈在中心反复出现，少量尖形延伸与侧边盘绕线条形成对照。哑光颜料、擦磨痕、细轮廓和小刮痕使表面可感。柔和正面光轻触少数边缘，不产生强烈光泽。居中且玩具般的比例建立明确焦点，淡淡的结构线与卷曲痕让背景保持活跃。",
+  "theme_en": "A whimsical masked inventor and tiny companion",
+  "theme_zh": "戴面具的奇想发明家与小伙伴",
+  "wh_ratio": "1:1",
+  "id": "3132",
+  "name": "Craola",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/craola",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "16fbe744fa89cc4db78ca594e60d663f1bd53d90398d055ec0d1c13dc0b7fe41",
+    "gpt_submission_prompt": "A whimsical character illustration fills the square with a small inventor wearing an oversized blue-gray mask and round copper goggles. The head is much larger than the narrow body, making the two dark circular eye openings and protruding respirator the dominant shapes. A tall dark hat rises out of the top edge, and sharp fin-like extensions angle from either side. Below, a teal coat, tan vest, and narrow red tie provide a tidy vertical stack. A tiny pink creature peeks up near the lower right, giving the central figure a playful companion and a scale counterpoint. The background is warm parchment covered with faint citylike silhouettes, curling lines, and scratched marks. The image has the tactile surface of aged mixed-media painting: matte color, rubbed pigment, delicate outlines, and small scuffs visible in the coat and wall. Cool teal and slate blue contrast with ochre, dusty rose, copper, and brown. Light is soft and frontal, catching the metal rims of the goggles and edges of the mask without making them glossy. The composition is tightly centered, but looping cables and small side figures keep the margins lively. Circular motifs recur in lenses, eye holes, buttons, and background curls. The whole scene feels curious and slightly odd rather than threatening, with careful craft detail balancing the simplified, toy-like proportions.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "6be5857904006c6ee4ebbb834a9414817c3774ed146f968099d66a56c1de2936",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

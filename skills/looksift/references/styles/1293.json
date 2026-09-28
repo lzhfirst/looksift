@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white conceptual photograph records a museum gallery where scale and focus play against one another. A large framed photographic face hangs on a plain light wall at the back, its eyes looking outward over the room. Two visitors stand far apart near the frame, one on each side, examining the display. In the near foreground, two other people pass close to the camera as dark out-of-focus silhouettes, their heads partly merging to cover the lower half of the exhibited face. The polished floor carries faint reflections of the standing visitors, while the wall stays almost featureless. The camera focuses more clearly on the framed image and distant figures than on the soft foreground shapes, producing layered planes of looking and being looked at. Tonal organization is stark: near-black silhouettes, broad white gallery wall, and middle-gray photographic face. The composition is deliberately balanced around the central image but interrupted by the moving foreground pair, so no single interpretation settles easily. There are no dramatic gestures, artworks beyond the one large portrait, or decorative museum details. Fine analog grain and subtle softness make the photograph feel observed rather than digitally assembled. Its visual idea is simple and precise: actual viewers, photographed viewers and the face within the picture overlap into one unstable field of perception.",
+  "full_prompt_zh": "一幅正方形黑白观念摄影记录一间美术馆，尺度与焦点彼此作用。后方素净浅墙挂着一幅巨大的框装面孔摄影，画中双眼向展厅外看。两位观众相距较远，分别站在画框两侧观看展品。近前景另有两人从相机前经过，成为深色失焦剪影，两个头部部分相叠，遮住展出面孔的下半部。抛光地面有站立观众的淡淡倒影，墙面几乎没有其他信息。相机对焦更偏向框中影像和远处人物，近前景形状更软，于是形成观看与被观看的多层平面。明暗组织鲜明：近黑剪影、宽阔白墙和中灰摄影面孔。构图围绕中央大画保持有意平衡，又被走过的近景双人打断，使解释难以稳定。没有戏剧化手势，也没有其他作品或美术馆装饰细节。细胶片颗粒和微妙柔化使照片像现场观察，而非数字合成。视觉想法简单而精确：真实观众、被拍摄的观众和画中面孔在同一不稳定的知觉场里重叠。",
+  "style_prompt_en": "The style is monochrome conceptual photography using photographic recursion, scale shifts and layered focus. Broad pale negative space meets near-black soft foreground silhouettes and sharply framed middle-distance planes. A balanced central arrangement gains tension from partial occlusion and small peripheral observers. Fine analog grain, restrained gray transitions and faint floor reflection preserve documentary plausibility. The square composition encourages the viewer to reconsider which layer is subject, image or audience without graphic effects or explanatory symbols.",
+  "style_prompt_zh": "这种风格是单色观念摄影，利用影像递归、尺度变化与层叠焦点。宽阔浅色留白面对近黑而柔化的前景剪影，以及清楚框住的中距离平面。平衡中央安排因局部遮蔽和边缘微小观看者产生张力。细胶片颗粒、克制灰阶过渡及淡地面倒影保持纪实可信。正方形构图促使观者重新判断哪一层是主体、影像或观众，没有图形特效和解释性符号。",
+  "theme_en": "Museum visitors layered against an oversized photographic gaze",
+  "theme_zh": "美术馆观众与巨幅影像目光的层叠",
+  "wh_ratio": "1:1",
+  "id": "1293",
+  "name": "Kenneth Josephson",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/kenneth-josephson",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/kenneth-josephson.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "93d032d7bc7e6d03a45f807567cb5c8901c92be088090bf99aefcb8719b178a5",
+    "gpt_submission_prompt": "A square black-and-white conceptual photograph records a museum gallery where scale and focus play against one another. A large framed photographic face hangs on a plain light wall at the back, its eyes looking outward over the room. Two visitors stand far apart near the frame, one on each side, examining the display. In the near foreground, two other people pass close to the camera as dark out-of-focus silhouettes, their heads partly merging to cover the lower half of the exhibited face. The polished floor carries faint reflections of the standing visitors, while the wall stays almost featureless. The camera focuses more clearly on the framed image and distant figures than on the soft foreground shapes, producing layered planes of looking and being looked at. Tonal organization is stark: near-black silhouettes, broad white gallery wall, and middle-gray photographic face. The composition is deliberately balanced around the central image but interrupted by the moving foreground pair, so no single interpretation settles easily. There are no dramatic gestures, artworks beyond the one large portrait, or decorative museum details. Fine analog grain and subtle softness make the photograph feel observed rather than digitally assembled. Its visual idea is simple and precise: actual viewers, photographed viewers and the face within the picture overlap into one unstable field of perception.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "d102d154b27aad3e759a051cfea7ddf8adc125a80cf78138d1e7428a5db683f6",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

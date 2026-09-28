@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A delicate digital painting portrays a pale-haired young woman in side profile amid large blush peonies. Her short, softly curled bob has nearly white blonde tones, and her face turns toward a small flower at the right. She wears a dark slate-blue collared dress with a lighter grey panel across the shoulders. Large layered blooms cluster behind and around her, some petals warm cream and others dusty pink; pale leaves and thin stems fill the remaining gaps. A faint circular line arches behind her head and the flowers, barely darker than the mint-grey background. The image has smooth, matte color fields with subtle grain and restrained painterly shading. Facial features are modeled with soft pink and grey transitions, while petal edges remain fine but not sharply outlined. The light is even and diffuse, with gentle highlights on hair and upper petals and soft grey shadow under the chin and inside the flower layers. The figure stands slightly left of center; the flower masses make a rounded enclosure around her. Cool mint and slate keep the composition quiet beneath the warmer blush tones. Space feels shallow and decorative, with overlapping petals and a barely visible circular frame creating depth without a hard horizon.",
+  "full_prompt_zh": "一幅细腻的数字绘画中，浅发年轻女子侧身立在硕大的淡粉牡丹之间。她近白金色的短发柔和卷曲，面孔朝向右边一朵小花。身穿深石板蓝色翻领连衣裙，肩背部分有较浅灰色拼接。层层花瓣的大花团聚在她身后和四周，有些呈暖奶油色，有些是灰粉色；浅色叶片与细茎填满余隙。一条很淡的圆弧线绕过她的头部和花朵，只比薄荷灰背景稍深。图像以平滑哑光色面、轻微颗粒和克制的绘画明暗构成。五官由柔软粉色与灰色过渡塑出，花瓣边缘纤细，却没有坚硬描线。光均匀漫散，在头发和上部花瓣留下柔亮，下颌与花层内部有浅灰阴影。人物位于画面中央稍左，花团围成圆润的包裹形。冷薄荷色与石板蓝压住暖粉色，使构图安静。空间浅而装饰性强，重叠花瓣与若隐若现的圆形边界建立纵深，却不出现硬地平线。",
+  "style_prompt_en": "A matte digital-painting surface uses muted pastel fields and very fine grain. Cream, blush pink, mint grey, and slate blue sit in large quiet areas rather than sharp high-contrast blocks. Rounded layered forms overlap densely around a compact central silhouette, with delicate thin lines only at select edges. Soft diffuse illumination gives gradual tonal turns and almost no cast shadow. A faint circular arc sits behind the foreground arrangement and lends a restrained decorative frame. Near forms remain softly resolved; farther layers fade toward the background color without a hard horizon. The eye follows pale curved contours through clustered warm areas, rests on a small cool dark mass, and returns to broad open mint space. The image's rhythm is gentle and enclosed, built from repeated rounded shapes and low-contrast transitions.",
+  "style_prompt_zh": "哑光数字绘画表面使用低饱和粉彩色面和极细颗粒。奶油色、灰粉色、薄荷灰与石板蓝占据大片安静区域，不形成尖锐高反差块。圆润的层叠形体在紧凑中心剪影四周密集交叠，只有少数边缘用纤细线条点出。柔和漫射光使明暗缓慢转折，投影几乎消失。一条淡圆弧落在前景组合之后，构成克制的装饰边框。近处形体柔和但可辨，远层逐渐接近背景色，没有硬地平线。视线沿浅色弯曲轮廓穿过成团暖色区，停在一小块冷暗色上，再返回宽阔开放的薄荷色。重复圆形与低反差过渡构成轻柔而围合的节奏。",
+  "theme_en": "A pale-haired young woman in profile among blush peonies",
+  "theme_zh": "浅发少女侧身站在淡粉牡丹花丛中",
+  "wh_ratio": "1:1",
+  "id": "2871",
+  "name": "Hsiao Ron Cheng",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/hsiao-ron-cheng",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/hsiao-ron-cheng.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "89868adef7829ae3d00bfd5571d95ab6720396e94a6b68e091e864e5e14071ed",
+    "gpt_submission_prompt": "A delicate digital painting portrays a pale-haired young woman in side profile amid large blush peonies. Her short, softly curled bob has nearly white blonde tones, and her face turns toward a small flower at the right. She wears a dark slate-blue collared dress with a lighter grey panel across the shoulders. Large layered blooms cluster behind and around her, some petals warm cream and others dusty pink; pale leaves and thin stems fill the remaining gaps. A faint circular line arches behind her head and the flowers, barely darker than the mint-grey background. The image has smooth, matte color fields with subtle grain and restrained painterly shading. Facial features are modeled with soft pink and grey transitions, while petal edges remain fine but not sharply outlined. The light is even and diffuse, with gentle highlights on hair and upper petals and soft grey shadow under the chin and inside the flower layers. The figure stands slightly left of center; the flower masses make a rounded enclosure around her. Cool mint and slate keep the composition quiet beneath the warmer blush tones. Space feels shallow and decorative, with overlapping petals and a barely visible circular frame creating depth without a hard horizon.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "884052ea5658b68bbc7b7e898d1574feab38a8fdb1b8d40f92251326f1ff60ca",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

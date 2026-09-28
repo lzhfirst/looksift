@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square retro science-fiction cartoon depicts a large orange circular habitat raised above a snowy plaza. The structure has broad stacked rings, dark window bands, slim supports, and a central tower that rises toward a vast blue ceiling. Smaller matching discs recede behind it, making the place feel like a planned complex. A wide stairway leads from the snow-covered foreground to the main entrance; two tiny people stand near its foot for scale. Dark evergreen trees, bare rock, and low icy banks line the sides. Overhead, the curved blue enclosure is streaked with irregular marks that suggest water or ice above the scene, giving the environment an underwater or sealed-world ambiguity. The architecture is outlined with clean, confident comic-ink lines and filled with simple orange and slate-gray color planes. Cool blue shadows define the ground and background, while the orange platforms become a warm graphic focus. The view is slightly low and broad, allowing the nearest disc to dominate the upper left as the stairs pull attention inward. Light is cool and diffuse with brighter glints across the snow and the roof edge. Textured hatching in the ceiling, trees, and rocky foreground keeps the art from feeling sterile. The image combines functional-looking futuristic design with an adventurous animated-series atmosphere and a quiet sense of exploration.",
+  "full_prompt_zh": "一幅方形复古科幻漫画描绘一座巨大的橙色圆盘居所架在积雪广场上方。建筑由宽阔的层叠圆环、深色窗带、细支柱和伸向巨大蓝色穹顶的中央塔构成。后方还有更小的相似圆盘，让场所像经过规划的综合体。宽阔阶梯从覆雪前景通向主入口；两名极小的人物站在阶梯脚下提供比例。深色常青树、裸岩和低矮冰雪土堤排列在两侧。上方弯曲的蓝色封闭空间布满不规则划痕，仿佛场景上方是水或冰，使环境带有海底世界或封闭世界的含混感。建筑由干净有力的漫画墨线勾出，填入简明的橙色与石板灰色平面。冷蓝阴影塑造地面和背景，橙色平台成为温暖的图形焦点。视角略低且宽广，让最近的圆盘占据左上方，阶梯把目光向内牵引。光线冷而漫射，积雪和屋顶边缘有较亮的反光。穹顶、树木和岩石前景中的排线肌理避免画面显得过于无菌。作品把看似实用的未来设计与冒险动画氛围结合，带有安静的探索感。",
+  "style_prompt_en": "Retro science-fiction comic art with confident ink outlines, functional geometric forms, and simple cel-like color planes. Warm orange structures stand against a broad family of icy blues, slate grays, and dark evergreens. Receding repeated shapes and a strong stair or path create clear spatial movement. Diffuse cool light leaves crisp highlights on exposed edges. Modest hatching and irregular surface marks add hand-drawn texture to otherwise clean design, balancing technical clarity with exploratory atmosphere.",
+  "style_prompt_zh": "复古科幻漫画采用自信的墨线轮廓、功能感强的几何形体和简洁的赛璐珞式色面。暖橙色结构立于冰蓝、石板灰和深常青色组成的冷色背景前。重复形体逐渐缩小，强烈的阶梯或路径建立清晰的空间动线。冷色漫射光在裸露边缘留下利落高光。适量排线与不规则表面痕迹为整洁设计增添手绘纹理，在技术清晰度与探索气氛之间取得平衡。",
+  "theme_en": "An orange futuristic habitat in a snowy enclosed landscape",
+  "theme_zh": "积雪封闭景观中的橙色未来居所",
+  "wh_ratio": "1:1",
+  "id": "2167",
+  "name": "Sealab 2021",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/sealab-2021",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/sealab-2021.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "e3ca6ed468c29439630554638dc2e3e7f3b98969bac57d5921311fb459c2aefd",
+    "gpt_submission_prompt": "A square retro science-fiction cartoon depicts a large orange circular habitat raised above a snowy plaza. The structure has broad stacked rings, dark window bands, slim supports, and a central tower that rises toward a vast blue ceiling. Smaller matching discs recede behind it, making the place feel like a planned complex. A wide stairway leads from the snow-covered foreground to the main entrance; two tiny people stand near its foot for scale. Dark evergreen trees, bare rock, and low icy banks line the sides. Overhead, the curved blue enclosure is streaked with irregular marks that suggest water or ice above the scene, giving the environment an underwater or sealed-world ambiguity. The architecture is outlined with clean, confident comic-ink lines and filled with simple orange and slate-gray color planes. Cool blue shadows define the ground and background, while the orange platforms become a warm graphic focus. The view is slightly low and broad, allowing the nearest disc to dominate the upper left as the stairs pull attention inward. Light is cool and diffuse with brighter glints across the snow and the roof edge. Textured hatching in the ceiling, trees, and rocky foreground keeps the art from feeling sterile. The image combines functional-looking futuristic design with an adventurous animated-series atmosphere and a quiet sense of exploration.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "3701e324f5cf4d060684555d02039406b3996a48cd909b684c0b922c1d2bfa2b",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

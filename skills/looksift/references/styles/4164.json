@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square surrealist mixed-media painting places tall ruined stone towers on a barren ochre plain beneath an unnaturally large pale moon. A narrow dark tree stands in front of the left tower, while several tiny figures rest or walk at its base. A second block-like tower rises near the middle, and smaller white monoliths recede toward a blue-gray horizon. The moon hangs high in a dark teal sky, its mottled circular surface appearing almost pasted onto the scene. Stone faces combine photographic texture, scuffed paint, and sharp rectangular cut edges; the desert ground is rubbed with tan, amber, and black grain. Long shadows and worn paths converge between the towers, creating a believable depth despite the dreamlike scale. The lower frame is busy with eroded rock and scratched marks, while the sky remains broad and nearly empty. Light is cool and even from the sky, but warm yellow earth and pale wall planes seem to glow on their own. The mixed surface makes the image feel assembled from old printed fragments and hand-painted passages. There is no clear narrative action, only a quiet sense that the tiny people have entered a place larger and older than themselves. The composition is austere, mysterious, and texturally rich.",
+  "full_prompt_zh": "一幅方形超现实混合媒介绘画把高大的残破石塔置于荒凉赭色平原，头顶悬着不合常理的巨大浅色月亮。左塔前立一株细瘦深色树，几个极小的人影在塔基休息或行走。中央附近还有一座方块般高塔，较小白色石碑退向蓝灰地平线。月亮高挂深青天中，斑驳圆面几乎像贴进画里。石面结合照片般肌理、磨擦色层和清楚长方剪边；荒地则以棕黄、琥珀与黑色颗粒擦出。长影与磨损小径在塔间汇合，使梦境尺度仍有可信纵深。下部画幅充满侵蚀岩面和刮擦痕，天空宽阔近乎空无。天空光冷而均匀，暖黄土地与浅墙面却像自行发亮。混合表面让图像像旧印刷碎片与手绘段落拼装。没有明确故事动作，只有小人进入比自身庞大古老之地的安静感受。构图严峻、神秘，肌理丰厚。",
+  "style_prompt_en": "Surrealist mixed media joins photographic grain, rubbed paint, and hard collage-like edges. Weathered ochre, charcoal, dusty cream, and deep teal create an antique yet uncanny palette. Monumental geometric masses rise from scratched, granular ground, while a large mottled circular form floats in broad negative space. Light is cool and subdued, with warmer planes seeming to hold residual glow. Scale shifts between tiny marks and towering forms, making depth both credible and dreamlike. The surface remains visibly worn and assembled, with crisp cuts interrupting softer scuffs and haze.",
+  "style_prompt_zh": "超现实混合媒介把照片颗粒、磨擦颜料与硬朗拼贴式边缘结合。风化赭、炭色、尘奶油与深青组成古旧而奇异的配色。宏大几何团块从刮擦颗粒地面升起，一枚巨大斑驳圆形浮在宽阔负空间里。光冷而低调，较暖平面仿佛保有余辉。尺度在极小笔点与高耸形体间跳变，使纵深既可信又如梦。表面可见磨旧和拼装，清楚切边打断柔和擦痕与薄雾。",
+  "theme_en": "Ancient stone towers on a barren plain beneath an oversized moon",
+  "theme_zh": "巨大月亮下荒原上的古老石塔",
+  "wh_ratio": "1:1",
+  "id": "4164",
+  "name": "Max Ernst",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/max-ernst.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "0089ddc5d59eefa5f7ae43247af21567de1a4c11c682625927410f56611fdad1",
+    "gpt_submission_prompt": "A square surrealist mixed-media painting places tall ruined stone towers on a barren ochre plain beneath an unnaturally large pale moon. A narrow dark tree stands in front of the left tower, while several tiny figures rest or walk at its base. A second block-like tower rises near the middle, and smaller white monoliths recede toward a blue-gray horizon. The moon hangs high in a dark teal sky, its mottled circular surface appearing almost pasted onto the scene. Stone faces combine photographic texture, scuffed paint, and sharp rectangular cut edges; the desert ground is rubbed with tan, amber, and black grain. Long shadows and worn paths converge between the towers, creating a believable depth despite the dreamlike scale. The lower frame is busy with eroded rock and scratched marks, while the sky remains broad and nearly empty. Light is cool and even from the sky, but warm yellow earth and pale wall planes seem to glow on their own. The mixed surface makes the image feel assembled from old printed fragments and hand-painted passages. There is no clear narrative action, only a quiet sense that the tiny people have entered a place larger and older than themselves. The composition is austere, mysterious, and texturally rich.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "039505df8722ca815637e0e9f72b3015b98ce8506f91d2cb73143b743b84b0ca",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

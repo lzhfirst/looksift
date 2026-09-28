@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square realist oil portrait shows a young dark-haired man from the shoulders up, turned slightly left yet looking directly outward. Thick black hair curls close to the head. The face is pale with warm rose notes in the cheeks and nose, framed by a dense moustache and pointed dark beard. A crisp, loosely tied white collar rises against a deep navy-black jacket. Behind him is a nearly black green-brown ground with subtle brush variation but no identifiable setting. The left side of the face catches cool daylight, giving the forehead, cheekbone, and bridge of the nose a clear solid form. Shadows gather beneath the brow, around the beard, and along the right jaw, where facial edges gently merge into the dark background. The eyes are finely described and alert, making the expression serious without theatrical pose. Short layered oil strokes build the hair and beard; broader soft blends turn the skin. The white collar is painted with compact bright strokes and blue-gray shadows, creating a clean hinge between face and clothing. The frame is close and stable, with little surrounding ornament. Its restrained brown, black, cream, and muted flesh palette lets the face carry the full emotional weight. The overall effect is direct, tactile, and quietly self-possessed.",
+  "full_prompt_zh": "一幅方形写实油画肖像展示一位深发年轻男子的肩上半身，身体略向左转，目光直接朝外。浓黑头发贴头卷曲。浅色面容在双颊与鼻上有暖玫瑰色调，由浓密小胡子和尖形深色下巴胡须围住。松系的洁白衣领从深藏蓝黑外套上升起。背后是近黑绿棕底色，只有细微笔触变化，没有可辨场景。脸左侧接住冷日光，使额、颧骨和鼻梁形成清楚坚实体积。眉下、胡须周围与右颌聚起阴影，脸缘在此轻柔并入深色背景。眼睛描绘精细而机警，神情严肃却没有戏剧姿态。短促层叠油彩笔触构建头发与胡须，较宽柔的调和让皮肤转折。白领以紧凑亮笔和蓝灰暗面绘出，在脸与衣服间形成干净连接。画框贴近而稳定，周围几乎没有装饰。克制的棕、黑、奶油与低调肤色使面孔承担全部情绪重量。整体直接、可触且安静自持。",
+  "style_prompt_en": "Realist oil painting uses close observation and restrained color. Deep green-black and brown surround warm pale tones and a compact ivory accent. Brushwork changes with material: soft blended transitions on smooth surfaces, short layered dark marks in coarse textures, and firmer bright strokes on crisp edges. Gentle side light models a solid focal volume while adjacent outlines are lost into shadow. The composition stays close, stable, and spare, with no decorative interruption. Tonal depth and subtle surface variation carry a serious, self-possessed mood.",
+  "style_prompt_zh": "写实油画采用贴近观察与克制颜色。深绿黑与棕包围暖浅色调和紧凑象牙白点。笔触依材料而变：平滑表面以柔和调和转折，粗糙肌理用短促层叠暗笔，清脆边缘用更坚实亮笔。柔侧光塑造坚实体积，相邻轮廓消失于阴影。构图贴近、稳定、简省，没有装饰打断。明暗纵深和微妙表面变化承载严肃而自持的气氛。",
+  "theme_en": "A young bearded man in a white collar against a dark ground",
+  "theme_zh": "深色背景前戴白领的年轻胡须男子",
+  "wh_ratio": "1:1",
+  "id": "2548",
+  "name": "Gustave Courbet",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/gustave-courbet",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/gustave-courbet.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "fd2cd8db10f6d5ae799af69d4fc3bedff7a1cddeb7f90b5ad3e9400e4ebdbeab",
+    "gpt_submission_prompt": "A square realist oil portrait shows a young dark-haired man from the shoulders up, turned slightly left yet looking directly outward. Thick black hair curls close to the head. The face is pale with warm rose notes in the cheeks and nose, framed by a dense moustache and pointed dark beard. A crisp, loosely tied white collar rises against a deep navy-black jacket. Behind him is a nearly black green-brown ground with subtle brush variation but no identifiable setting. The left side of the face catches cool daylight, giving the forehead, cheekbone, and bridge of the nose a clear solid form. Shadows gather beneath the brow, around the beard, and along the right jaw, where facial edges gently merge into the dark background. The eyes are finely described and alert, making the expression serious without theatrical pose. Short layered oil strokes build the hair and beard; broader soft blends turn the skin. The white collar is painted with compact bright strokes and blue-gray shadows, creating a clean hinge between face and clothing. The frame is close and stable, with little surrounding ornament. Its restrained brown, black, cream, and muted flesh palette lets the face carry the full emotional weight. The overall effect is direct, tactile, and quietly self-possessed.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "31106d1ae4b80ab1cc06375d115b10b473a4065ab407e2b2aa7b38c51096c24e",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

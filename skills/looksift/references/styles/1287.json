@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square post-apocalyptic cinematic scene looks over the shoulders of a woman and a huge armored companion standing on a rubble-strewn hill. Both face a distant damaged city under a blue-gray sky of broad broken clouds. The woman's blue utility suit has a small warm red accent at the collar, and her human scale sharply contrasts with the companion's massive worn metal armor, round shoulder plates and heavy jointed limbs. A small dog sits near her legs. Below them, rows of ruined low buildings, crooked utility poles and a few taller surviving towers extend toward a hazy river. The foreground contains dark earth, fragments of concrete and sparse dry grass. Sunlight comes through gaps in the clouds from the right, tracing the armor edges and leaving much of the city in subdued atmosphere. The two standing figures occupy the right half of the frame, while the left remains open to the view they contemplate. The armor is substantial and mechanically legible, with dents, seams and rubbed paint, but no glossy superhero finish. No combat occurs. The image's tension comes from scale and future uncertainty, not an explosion. Painterly cinematic realism balances large readable shapes with granular weathering. The closing feeling is one of companionship before a vast difficult journey, with the human, machine and animal all oriented toward the same horizon.",
+  "full_prompt_zh": "一幅正方形末日后电影画面从一位女性与巨大装甲同伴身后望向远方，两人站在碎石遍布的高坡上，面对蓝灰天空下受损的城市。女性穿蓝色实用连身服，领口有一小处暖红重音；人的尺度与同伴庞大而磨损的金属装甲、圆肩板和厚重关节肢体形成强烈对照。一只小狗坐在她脚边。下方成排毁坏的低矮房屋、歪斜电线杆及少量尚存高塔延向雾中河流。前景有深色土壤、混凝土碎片和稀疏枯草。阳光从右侧云隙进入，勾亮铠甲边缘，使大部分城市留在低调空气里。两个站立身影占画面右半，左侧则向他们凝望的景观敞开。装甲厚实而机械结构清楚，有凹痕、接缝和磨掉的涂层，没有光亮超级英雄质感。场内没有战斗。张力来自尺度与前路的不确定，而非爆炸。带绘画感的电影写实平衡大形可读性与细颗粒风化。收束的情绪是艰难长途之前的陪伴，人、机器和动物共同面向同一地平线。",
+  "style_prompt_en": "The style is post-apocalyptic cinematic realism with a low rear viewpoint, monumental scale contrast and a ruined panorama fading into atmospheric haze. Worn metal, rubble and dry ground carry granular surface detail, while broad cloud light supplies a cool blue-gray structure with sparse warm accents. Strong silhouettes on one side leave an open vista on the other. Mechanical forms remain legible and weighty without gloss. The mood is contemplative and companionable, with stillness and horizon distance replacing action spectacle.",
+  "style_prompt_zh": "这种风格是末日后电影写实，具有偏低背面视角、巨大的尺度对照和渐入空气薄雾的废墟全景。磨损金属、碎石与干地带细颗粒表面细节，宽阔云隙光提供冷蓝灰结构及稀少暖色重音。一侧强剪影把另一侧留给敞开远景。机械形体清楚厚重，不发亮。气氛沉思而带同伴感，以静止和地平线距离取代动作奇观。",
+  "theme_en": "Two travelers overlooking a ruined city with an armored companion",
+  "theme_zh": "两位旅人和装甲同伴俯瞰废墟城市",
+  "wh_ratio": "1:1",
+  "id": "1287",
+  "name": "Fallout 4",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/fallout-4",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/fallout-4.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "6b4e5501a3e09d92420b5d347e307baa3456997f40ad9057c769c435a62add87",
+    "gpt_submission_prompt": "A square post-apocalyptic cinematic scene looks over the shoulders of a woman and a huge armored companion standing on a rubble-strewn hill. Both face a distant damaged city under a blue-gray sky of broad broken clouds. The woman's blue utility suit has a small warm red accent at the collar, and her human scale sharply contrasts with the companion's massive worn metal armor, round shoulder plates and heavy jointed limbs. A small dog sits near her legs. Below them, rows of ruined low buildings, crooked utility poles and a few taller surviving towers extend toward a hazy river. The foreground contains dark earth, fragments of concrete and sparse dry grass. Sunlight comes through gaps in the clouds from the right, tracing the armor edges and leaving much of the city in subdued atmosphere. The two standing figures occupy the right half of the frame, while the left remains open to the view they contemplate. The armor is substantial and mechanically legible, with dents, seams and rubbed paint, but no glossy superhero finish. No combat occurs. The image's tension comes from scale and future uncertainty, not an explosion. Painterly cinematic realism balances large readable shapes with granular weathering. The closing feeling is one of companionship before a vast difficult journey, with the human, machine and animal all oriented toward the same horizon.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "074925ab5cf15595b09f9c8f265a5da80c7c3f763eb2ae2361e8fbdc3e865e9c",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

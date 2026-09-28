@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square painted portrait shows a woman in a wide, dark hat turning her head down and to the right. Her eyes are lowered, and a softly lit pale profile emerges from a warm gray-beige wall. A black jacket forms a broad dark shape below the face; a slender gray collar separates it from the neck. The hat brim sweeps horizontally across the upper third of the frame, with its far edge dissolving into the wall's thin, scratched texture. There is little descriptive detail in the clothing or setting. Instead, the image concentrates on the delicate transition from forehead to nose, lips and chin. The wall carries vertical scraping, faint ruled marks and patches where one layer seems rubbed away to reveal another. The lower jacket is similarly incomplete, with edges fading into a dry black scumble. Colors stay close to bone white, warm gray, taupe and charcoal. A muted light grazes the face, giving it a luminous stillness amid the worn surface. The figure occupies the left and central portions of the square, while the empty right field gives her downward gaze space. The portrait feels private, almost like a recollection: its recognizable features remain precise enough to hold attention, but the body and room retreat into unfinished paint, scratches and silence.",
+  "full_prompt_zh": "一幅正方形绘画肖像呈现一位戴宽大深色帽子的女子低头向右。双眼垂下，受柔光照亮的浅色侧脸从暖灰米色墙面浮现。黑外套在脸下形成宽阔深色形块，纤细灰衣领将它与脖颈分开。帽檐横扫画面上三分之一处，远侧边缘消融进墙上纤细刮擦肌理。衣服和环境没有多少描述性细节。图像集中于额头、鼻梁、嘴唇和下巴之间的细腻过渡。墙面带有竖向擦痕、淡淡直线和仿佛一层被磨去后露出下一层的斑块。下方外套也同样未完成，边缘淡入干涩黑色擦涂。颜色靠近骨白、暖灰、灰褐与炭黑。压低的光掠过面容，令其在磨旧表面中安静发亮。人物占据正方形的左侧与中央，右方空白色场为下垂的视线留出空间。肖像显得私密，几乎像回忆：可辨五官仍足够精确地抓住注意力，身体与房间却退入未完成的颜料、刮痕与寂静。",
+  "style_prompt_en": "The style is restrained tonal painting in which a softly modeled focal passage emerges from dry, abraded layers. Bone white, taupe, warm gray and charcoal form a narrow low-saturation palette. Broad dark masses fade at their edges, while a few delicate contours remain exact. Vertical scratches, rubbed patches and exposed support register process without becoming decoration. An off-center arrangement and generous pale negative space deepen the sense of quiet inwardness. Light is diffused and selective, lending the image a remembered quality.",
+  "style_prompt_zh": "这种风格是克制的调性绘画，柔和塑造的焦点段落从干涩、磨损的层次中浮现。骨白、灰褐、暖灰与炭黑构成狭窄低饱和色谱。宽阔深色体块在边缘消散，少数纤细轮廓却保持精确。竖向刮痕、揉擦斑块与裸露底材记录过程而未变成装饰。偏心布局与充足浅色留白加深安静内向的感受。光线漫射且有选择性，使图像带有回忆气质。",
+  "theme_en": "A softly painted woman in a dark hat against a worn pale wall",
+  "theme_zh": "旧浅色墙前戴深帽的柔化女子",
+  "wh_ratio": "1:1",
+  "id": "2180",
+  "name": "Helene Schjerfbeck",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/helene-schjerfbeck",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/helene-schjerfbeck.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "4178a83f9614ce4f4c3421f515d431c1fd4c8b930840d28880486908c57235e8",
+    "gpt_submission_prompt": "A square painted portrait shows a woman in a wide, dark hat turning her head down and to the right. Her eyes are lowered, and a softly lit pale profile emerges from a warm gray-beige wall. A black jacket forms a broad dark shape below the face; a slender gray collar separates it from the neck. The hat brim sweeps horizontally across the upper third of the frame, with its far edge dissolving into the wall's thin, scratched texture. There is little descriptive detail in the clothing or setting. Instead, the image concentrates on the delicate transition from forehead to nose, lips and chin. The wall carries vertical scraping, faint ruled marks and patches where one layer seems rubbed away to reveal another. The lower jacket is similarly incomplete, with edges fading into a dry black scumble. Colors stay close to bone white, warm gray, taupe and charcoal. A muted light grazes the face, giving it a luminous stillness amid the worn surface. The figure occupies the left and central portions of the square, while the empty right field gives her downward gaze space. The portrait feels private, almost like a recollection: its recognizable features remain precise enough to hold attention, but the body and room retreat into unfinished paint, scratches and silence.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "14a58178ad0ae9683f165f7985dc808f965b4e6b573425f6303c13422cdb96c0",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

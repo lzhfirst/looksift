@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white photograph frames a young woman lying on her side, her cheek close to a soft pale pillow that fills the lower foreground. The camera approaches at the level of her face, so the nearest eye, bridge of the nose, lips, and fine freckles form the central field of detail. Her gaze turns toward the camera without a fixed smile. Dark hair spreads across the upper edge and falls in a loose strand over the forehead, partly hiding the far side of the face. The two visible eyes are sharply observed, with delicate catchlights and distinct lashes; the skin stays natural, showing pores, small freckles, and subtle tonal shifts around the cheeks. Her lips are gently closed and soft in focus compared with the eyes. The pillow is very close to the lens and becomes a broad blurred light shape at the bottom left, creating a smooth boundary against the detailed face. The background beyond the hair is nearly black and free of recognizable objects. Diffuse side light reaches the face from the left, brightening the nearer cheek and the pillow while letting the hair and outer contour fall into shadow. The monochrome scale runs from pale silver skin to rich charcoal blacks, with moderate grain lending the image a tactile film quality. The composition is tightly cropped around the head, leaving little space for context and no visible action beyond the quiet resting pose. Shallow depth of field and the off-center angle make the image intimate and unposed, as though the camera has found a brief, private pause.",
+  "full_prompt_zh": "一幅方形黑白照片近距离框住一名侧卧的年轻女子，她的脸颊贴近占据下前景的浅色软枕。相机与面孔处于同一高度，较近的眼睛、鼻梁、嘴唇和细小雀斑成为中央细节区域。她望向镜头，却没有固定的笑容。深色头发铺过上边缘，一绺松发落在额前，部分遮住面孔远侧。可见的双眼刻画锐利，带细微眼神光和清楚睫毛；皮肤保持自然，可见毛孔、小雀斑与脸颊周围轻微的色调变化。嘴唇轻轻闭合，相比眼睛略为柔焦。枕头离镜头很近，在左下方化为宽阔而模糊的浅色形状，与细致面孔形成柔和分界。头发后的背景近乎黑色，没有可辨认物件。漫射侧光从左方照到脸上，使较近的脸颊和枕头亮起，让头发与外轮廓落入阴影。黑白色阶从浅银色肌肤延伸至浓炭黑，适度颗粒让照片具有可触的胶片质感。构图紧贴头部裁切，几乎不留下环境信息，安静伏卧之外也没有明显动作。浅景深与偏斜角度令画面亲密而不造作，仿佛相机捕捉到短暂私密的停顿。",
+  "style_prompt_en": "Black-and-white film photography favors a tight, eye-level crop, shallow depth of field, and soft natural tonal transitions. Diffuse side light opens a pale zone against deep charcoal hair and background. Keep fine skin texture, freckles, and eye catchlights visible, while nearer fabric or other foreground material falls into a broad smooth blur. The gray scale should retain silvery midtones and tactile grain instead of hard posterized contrast. An off-center resting angle and minimal setting make the image feel candid, intimate, and still.",
+  "style_prompt_zh": "黑白胶片摄影偏向与视线同高的紧密裁切、浅景深和柔和自然的色调过渡。漫射侧光在深炭色头发与背景前打开一片浅亮区域。保留细微皮肤纹理、雀斑和眼神光，让更近处的布料或其他前景材质化为宽阔柔滑的模糊形状。灰阶应有银色中间调和可触颗粒，而不是生硬的色阶分层反差。偏心的静卧角度与极简环境使画面显得自然、亲密、安静。",
+  "theme_en": "A close black-and-white photograph of a freckled face resting on a pillow",
+  "theme_zh": "一张带雀斑的脸伏在枕上，呈现黑白近景摄影",
+  "wh_ratio": "1:1",
+  "id": "1871",
+  "name": "Davide Sorrenti",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/davide-sorrenti",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/davide-sorrenti.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "469a35064f7cb0923f3199ed05dd4da8a31bf8a43e6afa24eb0d768ed00d6de2",
+    "gpt_submission_prompt": "A square black-and-white photograph frames a young woman lying on her side, her cheek close to a soft pale pillow that fills the lower foreground. The camera approaches at the level of her face, so the nearest eye, bridge of the nose, lips, and fine freckles form the central field of detail. Her gaze turns toward the camera without a fixed smile. Dark hair spreads across the upper edge and falls in a loose strand over the forehead, partly hiding the far side of the face. The two visible eyes are sharply observed, with delicate catchlights and distinct lashes; the skin stays natural, showing pores, small freckles, and subtle tonal shifts around the cheeks. Her lips are gently closed and soft in focus compared with the eyes. The pillow is very close to the lens and becomes a broad blurred light shape at the bottom left, creating a smooth boundary against the detailed face. The background beyond the hair is nearly black and free of recognizable objects. Diffuse side light reaches the face from the left, brightening the nearer cheek and the pillow while letting the hair and outer contour fall into shadow. The monochrome scale runs from pale silver skin to rich charcoal blacks, with moderate grain lending the image a tactile film quality. The composition is tightly cropped around the head, leaving little space for context and no visible action beyond the quiet resting pose. Shallow depth of field and the off-center angle make the image intimate and unposed, as though the camera has found a brief, private pause.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "efffbf2c6a0ae6826f70ff2d20f3c0768fa710864b6ef799fdb52f4b95a9f417",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

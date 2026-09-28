@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "Two walkers move away along a narrow, muddy path through an open field of dry golden grass. The nearer figure carries a small basket and wears dark brown clothing with a pale head covering; the second figure follows the same route a little farther ahead. Shallow puddles collect in the foreground, reflecting a soft strip of the overcast sky. The path bends gently toward a tiny group of low roofs on the distant right horizon. A vast grey-beige sky occupies the upper half of the image, its diffuse brightness falling evenly across the land without strong shadows. The field is built from muted ocher, olive, umber, and weathered green, while the figures form two compact dark accents within a broad, quiet setting. Their forms are legible through silhouette and posture rather than facial detail. Loose grasses and damp ruts are described with small, irregular, directional strokes that grow softer with distance. The horizon stays low and thin, and atmospheric haze merges the remote buildings into the ground. This is an intimate rural moment given the space of a wide landscape: the people are small enough to let the weather, earth, and silence dominate. The oil-paint surface has a restrained, matte softness, with fine flecks of grass and reflected water interrupting larger blended fields of color. The composition feels unhurried, observational, and tender without theatrical lighting or exaggerated gesture.",
+  "full_prompt_zh": "两名行人沿一条狭窄泥泞的小路远去，穿过长满干燥金色草丛的开阔田野。较近的一人提着小篮，身穿深棕色衣服，头上有浅色头巾；另一人沿同一路线走在稍远处。前景的浅水洼映出阴天的一小片柔光。小路轻轻弯向右侧远方地平线上一组低矮的屋顶。广阔的灰米色天空占据画面上半部，弥散的亮度均匀洒在地面，没有强烈阴影。田野由柔和的赭黄、橄榄绿、棕褐和旧绿色组成，人物则是宽阔安静环境中的两处紧凑暗色重音。他们的姿态和轮廓清楚可辨，面部细节却并非重点。零散草茎和潮湿车辙以细小、不规则且带方向性的笔触表现，越往远处越柔和。地平线低而细，空气中的薄雾让远处建筑与地面融合。这是被宽阔风景包围的亲近乡村瞬间：人物足够小，使天气、土地和寂静占据主导。油画表面呈现克制的哑光柔和感，细碎草点与水面反光打断了更大面积的融合色块。构图不急不缓，带着观察的真切和温柔，没有戏剧化照明或夸张动作。",
+  "style_prompt_en": "Muted earth colors spread across broad, low-contrast tonal fields under a pale, diffuse sky. A low, thin horizon gives the upper area generous breathing room, while small dark accents establish scale without overpowering the setting. Edges soften gradually with distance; nearby textures remain lightly broken through short directional marks and fine flecks. Warm ocher and brown sit beside cool grey, dull olive, and weathered green. Reflections appear as understated pale interruptions in matte, irregular surfaces. The visual rhythm is horizontal and unhurried, with a gently winding passage guiding the eye through quiet space. Light is overcast, even, and atmospheric, creating a tender observational mood through restraint rather than spectacle.",
+  "style_prompt_zh": "柔和的土色铺展成低对比的大块明暗区域，上方是一片苍白而弥散的天空。低而细的地平线为画面上部留下充足空间，少量深色重音确立尺度，却不压过环境。边缘随距离逐渐变软；近处肌理以短而有方向性的笔痕和细碎色点轻轻打散。温暖的赭黄和棕色与冷灰、暗橄榄绿、旧绿色并置。反光作为不规则哑光表面上克制的浅色间断出现。视觉节奏横向且舒缓，一条微微蜿蜒的通道引导视线穿过安静空间。光线阴沉、均匀且富有空气感，以克制而非奇观营造温柔的观察氛围。",
+  "theme_en": "Two walkers crossing a damp open field toward a distant village",
+  "theme_zh": "两名行人穿过潮湿旷野走向远处村庄",
+  "wh_ratio": "1:1",
+  "id": "3728",
+  "name": "Anton Mauve",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/anton-mauve",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "1fffa6ed27ba52b3f7662bff5e6a379ad7521300111d31a55537d53c6733b449",
+    "gpt_submission_prompt": "Two walkers move away along a narrow, muddy path through an open field of dry golden grass. The nearer figure carries a small basket and wears dark brown clothing with a pale head covering; the second figure follows the same route a little farther ahead. Shallow puddles collect in the foreground, reflecting a soft strip of the overcast sky. The path bends gently toward a tiny group of low roofs on the distant right horizon. A vast grey-beige sky occupies the upper half of the image, its diffuse brightness falling evenly across the land without strong shadows. The field is built from muted ocher, olive, umber, and weathered green, while the figures form two compact dark accents within a broad, quiet setting. Their forms are legible through silhouette and posture rather than facial detail. Loose grasses and damp ruts are described with small, irregular, directional strokes that grow softer with distance. The horizon stays low and thin, and atmospheric haze merges the remote buildings into the ground. This is an intimate rural moment given the space of a wide landscape: the people are small enough to let the weather, earth, and silence dominate. The oil-paint surface has a restrained, matte softness, with fine flecks of grass and reflected water interrupting larger blended fields of color. The composition feels unhurried, observational, and tender without theatrical lighting or exaggerated gesture.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "11cd35a4af6789e7d1f5ea72c396d3d5f5f94f5840a23e958563fcaba2d110c0",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

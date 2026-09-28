@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "The finished square is a stark animated close-up with a girl's face centered against near-total blackness. Her long straight black hair and blunt bangs merge with the background, leaving a pale oval face and two luminous red eyes as the immediate focus. Each iris is a saturated crimson ring with a dark pupil and tiny white glints. The eyes are large and unblinking, set inside firm charcoal outlines. A narrow white highlight cuts across the bridge of the nose and one cheek, while the other half of the face is held in a flat violet-gray shadow. Small lips remain nearly expressionless, giving the direct gaze a quiet unease rather than overt anger. At the lower edge, the gray collar of a garment and a thin dark cord are just visible; the rest of the body disappears into the dark. The forms are strongly simplified: broad flat shadow shapes model the face, while a few fine tapered lines describe loose strands of hair and eyelids. Black occupies most of the upper and side space, making the pale face seem suspended forward. There is no visible setting, and no decorative detail competes with the eyes. The lighting is graphic and abrupt, with a hard division between cool pale illumination and muted shadow. Restrained gray, violet, black and white amplify the narrow red color accent. Clean animation cels, subtle line variation and a little surface grain give the image a tense, minimal theatrical finish.",
+  "full_prompt_zh": "成品正方形是一幅强烈的动画近景：少女的脸位于中央，背景几乎全黑。长直黑发与齐刘海融入背景，留下浅色椭圆面孔和两只发亮红眼作为立即可见的焦点。每只虹膜都是饱和深红圆环，中心深暗，带细小白色反光。眼睛大而不眨，被有力炭黑轮廓围住。狭窄白色高光划过鼻梁和一侧脸颊，另一半面孔落在平涂紫灰阴影中。小嘴几乎没有表情，使直视目光呈现安静不安，而非明显愤怒。下缘仅露出衣服的灰色领口和一根细暗线，身体其余部分消失在黑暗里。形体高度简化：宽阔平涂阴影塑造脸，少量细而收尖的线条描述散发与眼睑。黑色占据上方和两侧大部分空间，使浅色脸仿佛悬在前方。没有可见场所，也没有装饰细节与眼睛竞争。照明是突然的图形化分割，冷浅亮面与柔暗阴影边界分明。克制的灰、紫、黑、白放大了狭窄红色强调。清楚的动画赛璐珞色块、细微线条变化和一点表面颗粒，令画面具有紧张而极简的戏剧感。",
+  "style_prompt_en": "Stark cel-style digital illustration uses broad flat shadow planes, clean tapered ink contours, nearly black negative space and one saturated crimson accent. Cool pale highlights are sharply divided from muted violet-gray shade. Minimal detail, tiny specular glints and subtle grain focus the square composition into a tense graphic statement.",
+  "style_prompt_zh": "强烈的赛璐珞式数字插画运用宽阔平涂阴影、清洁收尖墨线、近黑负空间和单一饱和深红强调。冷浅高光与柔和紫灰阴影被清晰分开。极少细节、细小镜面亮点和轻微颗粒使正方形构图收束为紧张的图形表达。",
+  "theme_en": "A red-eyed girl emerging from blackness in a stark animated close-up",
+  "theme_zh": "红眼少女从黑暗中浮现的强烈动画特写",
+  "wh_ratio": "1:1",
+  "id": "3395",
+  "name": "Jigoku Shoujo",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/jigoku-shoujo",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "f481434c07ab86377f7009a9f645e505f15269a3c8d90f336d4b1329e53cc9a5",
+    "gpt_submission_prompt": "The finished square is a stark animated close-up with a girl's face centered against near-total blackness. Her long straight black hair and blunt bangs merge with the background, leaving a pale oval face and two luminous red eyes as the immediate focus. Each iris is a saturated crimson ring with a dark pupil and tiny white glints. The eyes are large and unblinking, set inside firm charcoal outlines. A narrow white highlight cuts across the bridge of the nose and one cheek, while the other half of the face is held in a flat violet-gray shadow. Small lips remain nearly expressionless, giving the direct gaze a quiet unease rather than overt anger. At the lower edge, the gray collar of a garment and a thin dark cord are just visible; the rest of the body disappears into the dark. The forms are strongly simplified: broad flat shadow shapes model the face, while a few fine tapered lines describe loose strands of hair and eyelids. Black occupies most of the upper and side space, making the pale face seem suspended forward. There is no visible setting, and no decorative detail competes with the eyes. The lighting is graphic and abrupt, with a hard division between cool pale illumination and muted shadow. Restrained gray, violet, black and white amplify the narrow red color accent. Clean animation cels, subtle line variation and a little surface grain give the image a tense, minimal theatrical finish.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "b3b2a297e344c48b56c6f406fe3a49cf15e0b1cce8ccfc431d049f283501eb8d",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

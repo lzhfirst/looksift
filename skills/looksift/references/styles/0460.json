@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A bright hand-painted anime illustration shows a young explorer seated on a low grassy rock beside a small orange reptilian companion. The explorer's tousled auburn hair and large blue-lensed goggles make a lively crown at the upper center; a relaxed smile and loosely folded arms give the figure an easy, optimistic presence. Rolled blue trousers, fingerless gloves, layered shirt and overshirt, and heavy scuffed boots are drawn in clear shapes with selective fabric folds. The creature sits upright to the right, its large blue eye, pale chest, pointed claws, and compact curved body simplified into friendly, expressive forms. Behind them, a saturated cerulean sky and large soft-edged white clouds fill most of the frame, giving the close figures generous breathing room. Short grasses and broken stones mark the lower edge without becoming an elaborate landscape. Dark, controlled outlines define hair spikes, clothes, and the creature's silhouette, while broad flat-to-softly-shaded color areas retain the feel of painted animation cels. Sunlight is open and high, brightening the orange skin, cheeks, cloud edges, and top planes of boots; cool blue-green shadows anchor the seated pose. Warm orange and ochre accents stand forward against the dominant blue atmosphere. The composition settles into a broad triangle from hair through bent knees to the companion, with the clouds adding a loose counter-rhythm. The whole frame feels adventurous and companionable, held together by crisp anime drawing and airy daylight.",
+  "full_prompt_zh": "一幅明亮的手绘动画插画中，一名年轻探险者坐在低矮的草地岩石上，身旁是一只橙色的小型爬行动物伙伴。探险者凌乱的赤褐色头发与蓝色镜片护目镜在上部中央构成活泼的形状；放松的微笑和松松交叠的手臂让人物显得轻快而乐观。卷起的蓝色裤腿、露指手套、叠穿的上衣和磨旧的厚靴，均以清晰的形体与有选择的衣褶画出。小生物坐在右侧，大大的蓝眼睛、浅色胸口、尖爪和紧凑弯曲的身体被概括成友善而有表情的形体。后方饱和的蔚蓝天空与大片柔边白云占据大部分画幅，给近处人物充分的呼吸空间。短草与碎石标出下边缘，却不构成复杂风景。深色而受控的轮廓勾出发梢、衣服和小生物剪影，宽阔的平涂到柔和渐层的色域保留手绘动画赛璐珞的感觉。阳光开放而居高，照亮橙色皮肤、脸颊、云边与靴子的朝上表面；冷蓝绿色阴影稳住坐姿。暖橙与赭色点缀在占主导的蓝色空气前方凸显。构图从头发经弯曲的膝盖到伙伴组成宽阔三角形，云朵带来松弛的反向节奏。整幅画充满冒险感与伙伴情谊，由清晰的动画线条和通透日光连成一体。",
+  "style_prompt_en": "A bright hand-painted anime illustration combines controlled dark outlines, simplified expressive silhouettes, and broad cel-like color areas with selective soft shading. Saturated cerulean and pale cloud whites create airy negative space, balanced by warm orange-ochre accents and cooler blue-green shadows. Sunlit upper planes receive clean highlights while textured lower marks add grounded detail. A compact triangular center sits comfortably within a spacious, gently moving backdrop. The whole frame feels optimistic, clear, and lightly tactile.",
+  "style_prompt_zh": "一幅明亮的手绘动画插画结合受控的深色轮廓、简洁而富有表情的剪影，以及带少量柔和渐层的宽阔赛璐珞式色域。饱和蔚蓝与浅色云白形成通透留白，暖橙赭色点缀和偏冷的蓝绿色阴影与之平衡。朝阳的上表面承接干净高光，低处的纹理笔触带来落地的细节。紧凑的三角形中心舒适地置于宽裕、轻轻流动的背景之中。整幅画乐观、清晰且略有手绘触感。",
+  "theme_en": "A young explorer and a friendly small creature beneath a wide blue sky",
+  "theme_zh": "年轻探险者与友善的小生物坐在开阔蓝天下",
+  "wh_ratio": "1:1",
+  "id": "0460",
+  "name": "Digimon",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/digimon",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/digimon.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "924aa6d6fc4267a67f3c5ac417299d212b48b2d253046246da9db7e528b99d29",
+    "gpt_submission_prompt": "A bright hand-painted anime illustration shows a young explorer seated on a low grassy rock beside a small orange reptilian companion. The explorer's tousled auburn hair and large blue-lensed goggles make a lively crown at the upper center; a relaxed smile and loosely folded arms give the figure an easy, optimistic presence. Rolled blue trousers, fingerless gloves, layered shirt and overshirt, and heavy scuffed boots are drawn in clear shapes with selective fabric folds. The creature sits upright to the right, its large blue eye, pale chest, pointed claws, and compact curved body simplified into friendly, expressive forms. Behind them, a saturated cerulean sky and large soft-edged white clouds fill most of the frame, giving the close figures generous breathing room. Short grasses and broken stones mark the lower edge without becoming an elaborate landscape. Dark, controlled outlines define hair spikes, clothes, and the creature's silhouette, while broad flat-to-softly-shaded color areas retain the feel of painted animation cels. Sunlight is open and high, brightening the orange skin, cheeks, cloud edges, and top planes of boots; cool blue-green shadows anchor the seated pose. Warm orange and ochre accents stand forward against the dominant blue atmosphere. The composition settles into a broad triangle from hair through bent knees to the companion, with the clouds adding a loose counter-rhythm. The whole frame feels adventurous and companionable, held together by crisp anime drawing and airy daylight.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "39ed935cfe8e8edade89692be93b32ff2c30d702f107c4e4d59962a7643ebcee",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

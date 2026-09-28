@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square painted science fiction landscape opens onto a cold shoreline under a very dark blue sky. A narrow tan road begins at the bottom center and runs toward a bright horizon, with white snow or salt lying on both sides. Small silhouettes of travelers stand partway along it, making the setting feel immense. At the left, dark blue water reflects a horizontal strip of white light. Two enormous blue planets rise behind the horizon, one cropped by the upper left edge and another rounder body near the center. At the right, a vertical wall or cliff of blue stone towers beyond the road, its planar face extending out of the frame. A low amber sun touches the horizon beside it, sending a small gold reflection across the water. Thin pale spires and distant structures appear in front of the planetary discs, giving this impossible view a sense of built scale. The foreground is handled with rough, granular marks, while the far shore and planets are more smoothly blended. Light is crisp and low: it whitens the shoreline, outlines the distant forms and warms one small section of the horizon. The composition is quiet and monumental, with a clear central path drawing the eye through horizontal bands of snow, sea, sky and celestial forms.",
+  "full_prompt_zh": "这幅方形科幻风景画展现极深蓝天空下的寒冷海岸。一条狭窄黄褐道路从下方中央开始，通向明亮天边，两侧铺着白雪或盐层。几名很小的旅行者剪影站在路上，使环境显得巨大。左侧深蓝海水映出一道水平白光。两颗巨大的蓝色行星从地平线上升起，一颗被左上边缘截断，另一颗在中央附近更圆。右侧有竖直的蓝石墙或峭壁高耸在道路远端，平直面伸出画框。低悬的琥珀色太阳贴着它旁边的地平线，在水面送出一小段金色倒影。细长浅色尖塔及远处结构出现在行星圆盘前，让这不可能的景象有了建造尺度。前景以粗糙颗粒笔迹处理，远岸和行星融合得更平滑。光清脆且低，照白海岸、勾出远形，只温暖天边的一小块。构图安静而宏大，清楚的中央道路引导目光穿过雪、海、天空与天体的层层水平带。",
+  "style_prompt_en": "The painted landscape combines astronomical scale with measured, almost architectural spacing. Deep navy and blue gray fill the sky and monumental planes; icy white and muted tan bands lie low across the frame. One small amber light warms the horizon. Edges are crisp where planes meet, while distant rounded forms soften into atmospheric gradients. Granular strokes in the foreground contrast with smooth, broad tonal transitions above. Strong horizontals are interrupted by a few tall verticals and a receding central line, giving the quiet image vast depth.",
+  "style_prompt_zh": "这种绘画风景把天文尺度与近乎建筑式的克制间距结合。深海军蓝和蓝灰铺满天空及巨大的平面；冰白与低饱和黄褐横带压在画面下方。一处小琥珀色亮光温暖地平线。平面相接处边缘清脆，远方圆形在大气渐变中柔化。前景颗粒笔迹对照上方平滑宽阔的调子过渡。强水平线被少数高竖线和向远处收敛的中央线打断，使安静画面具有浩大深度。",
+  "theme_en": "A shoreline road beneath enormous blue planets",
+  "theme_zh": "巨大蓝色行星下的海岸道路",
+  "wh_ratio": "1:1",
+  "id": "3142",
+  "name": "Chesley Bonestell",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/chesley-bonestell",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "108862ddd82baf194d62573ec9a774f016c738751845ae4bfa59b6b9c8ff892b",
+    "gpt_submission_prompt": "A square painted science fiction landscape opens onto a cold shoreline under a very dark blue sky. A narrow tan road begins at the bottom center and runs toward a bright horizon, with white snow or salt lying on both sides. Small silhouettes of travelers stand partway along it, making the setting feel immense. At the left, dark blue water reflects a horizontal strip of white light. Two enormous blue planets rise behind the horizon, one cropped by the upper left edge and another rounder body near the center. At the right, a vertical wall or cliff of blue stone towers beyond the road, its planar face extending out of the frame. A low amber sun touches the horizon beside it, sending a small gold reflection across the water. Thin pale spires and distant structures appear in front of the planetary discs, giving this impossible view a sense of built scale. The foreground is handled with rough, granular marks, while the far shore and planets are more smoothly blended. Light is crisp and low: it whitens the shoreline, outlines the distant forms and warms one small section of the horizon. The composition is quiet and monumental, with a clear central path drawing the eye through horizontal bands of snow, sea, sky and celestial forms.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "f6e8e70871fff4fa67257851df7c9f281956231d54c97ee1afb28da050fd9c55",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

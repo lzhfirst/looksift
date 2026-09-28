@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white illustration assembles a dense pyramid of whimsical macabre characters above a tiny dark castle silhouette. At the top, a narrow spire rises into a radiant halo of fine black rays. Around it, skeletal faces, wide-eyed monsters, witches' hats, hooked beaks, and grinning masks crowd together with almost no empty space. Several large skull-like faces anchor the middle, while smaller heads peek through every gap. Along the bottom, miniature peaked roofs, chimneys, and towers form a theatrical stage. At their center, a small round opening glows white and contains the silhouette of one tiny standing person, creating a sharp scale contrast. The drawing uses heavy black fills for deep recesses, delicate white scratches for hair and texture, thin hatch lines, and abrupt high-contrast transitions. Some characters are comical, others unsettling, but they share rounded eyes and exaggerated facial geometry. The edges of the group form an irregular cloudlike contour against clean white paper. Light is graphic rather than natural: a bright central aperture and radiating upper halo establish the hierarchy. The overall arrangement feels like an elaborate inked emblem or poster, packed with narrative incidents yet held together by strict monochrome and a triangular silhouette.",
+  "full_prompt_zh": "一幅方形黑白插画将密集的俏皮怪诞角色堆成金字塔，下方是细小深色城堡剪影。顶端一座尖塔伸入由细黑射线构成的放射光环。骷髅脸、睁大眼的怪物、巫师尖帽、钩状鸟喙和咧嘴面具围在周围，几乎不留空隙。几张较大的骷髅样面孔稳定中段，更小的头从每道缝中探出。底部细小的尖屋顶、烟囱和塔组成戏剧舞台。其中央有一个发白光的圆开口，内有一位极小的站立人影，形成明显尺度反差。画面以厚重黑填充表现深凹处，用纤细白刮痕描毛发和肌理，另有细排线及突然的高反差转换。有些角色滑稽，有些令人不安，却共享圆瞪眼与夸张面部几何。人物群外缘在洁白纸面上形成不规则云状轮廓。光是图形性的而非自然的：中央亮孔和顶部射线光环确立层级。整体像一枚复杂的墨绘徽章或海报，叙事细节极密，却由严格单色和三角轮廓收拢。",
+  "style_prompt_en": "Playfully macabre monochrome ink illustration with tightly interlocked caricature shapes, emphatic black fills, fine white scratch detail, and radiating hatch lines. Oversized round accents repeat through a triangular crowded mass, while tiny crisp forms below provide scale. Graphic white apertures and stark paper negative space organize the visual hierarchy without naturalistic lighting. The texture feels hand-inked, busy, and sharply legible.",
+  "style_prompt_zh": "俏皮怪诞的单色墨绘，以紧密咬合的夸张形体、醒目黑填充、细白刮痕和放射排线为主。放大的圆形重点在拥挤三角大形中重复，下方细小清晰形体提供尺度。图形化白孔与强烈纸面留白建立层级，不依赖写实光照。肌理具有手工上墨的忙碌感，同时保持清楚可辨。",
+  "theme_en": "A crowded monochrome gathering of playful macabre creatures and a tiny castle",
+  "theme_zh": "俏皮怪诞生物与小城堡挤成一团的单色图像",
+  "wh_ratio": "1:1",
+  "id": "4339",
+  "name": "mcbess",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/mcbess.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "52cb5fa29d6489d95a7f070e38480fd5ffddc154c8da5ac04fa61158ce5e2ad3",
+    "gpt_submission_prompt": "A square black-and-white illustration assembles a dense pyramid of whimsical macabre characters above a tiny dark castle silhouette. At the top, a narrow spire rises into a radiant halo of fine black rays. Around it, skeletal faces, wide-eyed monsters, witches' hats, hooked beaks, and grinning masks crowd together with almost no empty space. Several large skull-like faces anchor the middle, while smaller heads peek through every gap. Along the bottom, miniature peaked roofs, chimneys, and towers form a theatrical stage. At their center, a small round opening glows white and contains the silhouette of one tiny standing person, creating a sharp scale contrast. The drawing uses heavy black fills for deep recesses, delicate white scratches for hair and texture, thin hatch lines, and abrupt high-contrast transitions. Some characters are comical, others unsettling, but they share rounded eyes and exaggerated facial geometry. The edges of the group form an irregular cloudlike contour against clean white paper. Light is graphic rather than natural: a bright central aperture and radiating upper halo establish the hierarchy. The overall arrangement feels like an elaborate inked emblem or poster, packed with narrative incidents yet held together by strict monochrome and a triangular silhouette.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "4cd13c96f0a5368cc3521711e00918fb17a5febec78baa483858cfbd9f2e4c2f",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

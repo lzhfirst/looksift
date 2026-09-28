@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square historical genre painting has a richly observed oil surface. Two women pause in conversation against a weathered stone wall, seated low among market baskets and produce. The woman on the right wears a vivid yet aged turquoise dress and a pale headscarf; she turns toward her companion with one hand open as if explaining a small detail. The woman on the left wears a darker charcoal jacket, a muted rose skirt and a cream scarf, leaning forward with her hands together as she listens. A broad shallow basket of bright orange flowers or small produce occupies the lower right, a basket of pale vegetables sits to the left, and rough wooden boards cross the foreground. The masonry behind them is built from large horizontal blocks marked by faded circular motifs and stains, giving the image a grounded sense of place. Natural indirect daylight, warm earth colors, and small accents of turquoise and orange guide the eye. Dense brushwork and modest scuffs describe the fabric; the stone shows age, the wood has visible grain, and the woven baskets have uneven edges. The figures have a natural human scale, and their gestures are quiet and believable. The scene feels observed rather than staged, with narrative carried by glances, hand position and the close relationship of material surfaces.",
+  "full_prompt_zh": "正方形历史风俗油画具有细致观察形成的丰富表面。两位女子靠着风化石墙停下交谈，低坐在市场篮筐和货品之间。右侧女子穿鲜明却带旧感的青绿色长裙，包浅色头巾，转向同伴，一只手摊开，像在解释一件小事。左侧女子穿深炭灰外衣、低饱和玫瑰色裙子和奶油色头巾，身体前倾，双手相合倾听。右下角是一只宽而浅的篮筐，盛满明亮橙色花朵或小型农货；左边是浅色蔬菜筐，前景横铺粗糙木板。身后墙体由大块水平石砖砌成，上有褪色圆形纹样和污痕，赋予画面可信的地点感。自然间接日光与暖土色覆盖画面，小面积青绿与橙色引导目光。布料通过密集笔触和轻微磨损表现，石面显出年代，木板保留纹理，篮筐编织边缘不求完美。人物保持真实尺度，手势安静可信。场景如同被观察到的生活，而非刻意排演；叙事来自目光、手的位置和材料表面之间的紧密关系。",
+  "style_prompt_en": "Historically inflected oil painting combines warm earth pigments, muted aging and selective jewel-toned accents. Compact visible brushwork, layered glazes and small irregular marks distinguish soft, granular, grainy and woven textures. Soft indirect daylight models forms within their surroundings, while a low viewpoint makes material relationships feel close and tangible. Subtle color contrasts and balanced intervals lead the composition. Quiet realism and narrative restraint give the painted surface an observational character.",
+  "style_prompt_zh": "带历史气息的油画结合暖土色颜料、经过岁月压低的色度与少量宝石色重音。紧凑可见的笔触、叠层罩染和微小不规则痕迹区分柔软、颗粒、纹路与编织质地。柔和间接日光塑造融入环境的形体，低位视角使材料关系显得亲近可触。微妙色差与平衡间距引导构图。安静写实和叙事克制赋予绘画表面细致观察的气质。",
+  "theme_en": "Two women speaking beside baskets in an old stone market",
+  "theme_zh": "旧石市场里在篮筐旁交谈的两位女子",
+  "wh_ratio": "1:1",
+  "id": "1137",
+  "name": "Osman Hamdi Bey",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/osman-hamdi-bey",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/osman-hamdi-bey.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "613e9d2569d574d18ac0c016842a6d9d099f1ad113d9ff0c69b03eed42ff9243",
+    "gpt_submission_prompt": "A square historical genre painting has a richly observed oil surface. Two women pause in conversation against a weathered stone wall, seated low among market baskets and produce. The woman on the right wears a vivid yet aged turquoise dress and a pale headscarf; she turns toward her companion with one hand open as if explaining a small detail. The woman on the left wears a darker charcoal jacket, a muted rose skirt and a cream scarf, leaning forward with her hands together as she listens. A broad shallow basket of bright orange flowers or small produce occupies the lower right, a basket of pale vegetables sits to the left, and rough wooden boards cross the foreground. The masonry behind them is built from large horizontal blocks marked by faded circular motifs and stains, giving the image a grounded sense of place. Natural indirect daylight, warm earth colors, and small accents of turquoise and orange guide the eye. Dense brushwork and modest scuffs describe the fabric; the stone shows age, the wood has visible grain, and the woven baskets have uneven edges. The figures have a natural human scale, and their gestures are quiet and believable. The scene feels observed rather than staged, with narrative carried by glances, hand position and the close relationship of material surfaces.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "064a13ded490da105d559cb4e211820238fb008d9b7b6c679a7d93a8ca7c5135",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

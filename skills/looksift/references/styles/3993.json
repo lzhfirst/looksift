@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A quiet architectural photograph of an austere white structure on a gently sloping stretch of dry brown grass. The scene places a tall, stepped rectangular tower just right of center, its large nearly blank front plane brilliantly lit by the sun. Lower white volumes extend to the left and nest against the tower; among their straight edges, introduce one broad wall whose upper edge sweeps in a shallow curve. The scene sets a small square, deeply recessed entrance near the lower middle, its interior almost black. A short projecting notch and a narrow vertical return create subtle depth where the volumes join. The image keeps the structure's surfaces smooth and minimally detailed, allowing the precise geometry and small shifts from warm white to cool blue-gray shade to carry the image. Behind it, low distant hills sit close to the horizon. The composition lets the upper half of the square composition open into a clear saturated blue sky, slightly deeper above and paler near the horizon. Direct strong daylight from the left so the front planes glow, side planes turn cooler, and a broad dark shadow sweeps across the grassy foreground. The image uses a restrained, natural photographic rendering with crisp edges, a stable eye-level vantage, and ample uncluttered space. The image should feel still, sunlit, and severe, with no figures, signage, or decorative additions.",
+  "full_prompt_zh": "一张宁静的建筑摄影作品：一座冷峻的白色建筑立在缓缓倾斜、覆着枯褐色草的地面上。画面中部偏右是一座高耸、层层退进的矩形塔体，近乎空白的正面被阳光照得明亮。较低的白色体块向左延伸并与塔体相接；画面在直线边缘之间，让一道宽阔墙面以浅缓的弧线收束上缘。下方接近中央处设一个小小的方形深凹入口，内部几乎漆黑。体块交接处有一处短小的突出转折及狭窄的竖向侧面，带出细微纵深。表面保持平滑，少作细节，让精确几何形态以及暖白到冷蓝灰阴影的微妙变化成为画面主角。后方的低矮远山贴近地平线。方形构图的上半部留给晴朗而饱和的蓝天，上方颜色更深，近地平线处略浅。强烈的日光从左侧照来，使正面发亮、侧面转冷，一大片深影掠过草地前景。画面以克制、自然的摄影质感呈现清晰边缘、稳定的平视视角和充足的空旷空间。整体安静、明亮且严肃，不出现人物、标识或装饰。",
+  "style_prompt_en": "Minimalist daylight photography built from broad clean planes, exact right angles, and one restrained sweeping curve. The image uses a pale nearly white primary mass against a large, uninterrupted blue field, with sparse warm ochre at the base and a tiny near-black aperture as an anchor. Strong directional sun produces luminous flat surfaces, crisp cool blue-gray side shadows, and one broad foreground shadow. The image preserves smooth material texture, precise hard edges, a stable eye-level perspective, generous negative space, and a quiet, severe visual rhythm.",
+  "style_prompt_zh": "极简日光摄影，以大块洁净平面、精确直角和一道克制的舒展弧线组织画面。画面让近白色的主体块面与大片不间断的蓝色区域相对，底部只留少量暖赭色，并以一个近黑的小孔洞稳定视觉重心。强烈的定向阳光形成明亮平面、边缘清楚的冷蓝灰侧影，以及横跨前景的一片宽阔阴影。画面保留平滑材质、准确硬边、稳定的平视透视、充足留白和安静严峻的视觉节奏。",
+  "theme_en": "Austere white modernist structure on dry sloping grass beneath a clear blue sky",
+  "theme_zh": "晴朗蓝天下、枯草斜坡上的冷峻白色现代主义建筑",
+  "wh_ratio": "1:1",
+  "id": "3993",
+  "name": "Alvaro Siza",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/alvaro-siza.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "12ccda1c9ceff70a5e6a3b690f129109466d0c47816a2f11ac53c73849b0cfab",
+    "gpt_submission_prompt": "A quiet architectural photograph of an austere white structure on a gently sloping stretch of dry brown grass. The scene places a tall, stepped rectangular tower just right of center, its large nearly blank front plane brilliantly lit by the sun. Lower white volumes extend to the left and nest against the tower; among their straight edges, introduce one broad wall whose upper edge sweeps in a shallow curve. The scene sets a small square, deeply recessed entrance near the lower middle, its interior almost black. A short projecting notch and a narrow vertical return create subtle depth where the volumes join. The image keeps the structure's surfaces smooth and minimally detailed, allowing the precise geometry and small shifts from warm white to cool blue-gray shade to carry the image. Behind it, low distant hills sit close to the horizon. The composition lets the upper half of the square composition open into a clear saturated blue sky, slightly deeper above and paler near the horizon. Direct strong daylight from the left so the front planes glow, side planes turn cooler, and a broad dark shadow sweeps across the grassy foreground. The image uses a restrained, natural photographic rendering with crisp edges, a stable eye-level vantage, and ample uncluttered space. The image should feel still, sunlit, and severe, with no figures, signage, or decorative additions.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "0ac1d27bdc55bc7961e43bbcc6e2e83c05aa320175876c30a8cd96cd17b5faf0",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

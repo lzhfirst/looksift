@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A vintage newspaper-comic watercolor illustration shows three cheerful woodland travelers arriving at a grassy stream bank. A long-nosed furry creature in a green striped shirt and blue trousers strides at the front, smiling broadly and carrying a short walking stick. One small yellow bird rides in a pack on its back, while another follows close behind with lively orange feet. The figures gather on a mossy ledge above shallow blue-green water. Clumps of grass, rounded stones, and a few reeds indicate the stream edge, but most of the upper background remains open warm cream paper. The characters are exaggerated and flexible, their large noses, small eyes, loose limbs, and tilted poses giving them an easy comic rhythm. Thin black pen outlines define beaks, clothing folds, fur tufts, and grass, with darker crosshatching under the bank and around the pack. Transparent hand-colored washes fill the forms in ochre yellow, teal blue, olive green, tawny brown, and a little coral orange. Color is slightly uneven, allowing the paper texture and earlier linework to show. Light is gentle and unmodeled; the scene depends on contour and local wash rather than realistic cast shadow. The figures occupy the upper middle, with the water forming a low horizontal counterweight. Small incidental strokes create a lively shoreline, while broad empty paper keeps the image light. The mood is friendly, mischievous, and comfortably old-fashioned.",
+  "full_prompt_zh": "一幅复古报刊漫画水彩插画呈现三位快乐的林地旅人来到长草溪岸。一只长鼻毛茸生灵穿绿条纹衣和蓝裤走在前方，咧嘴笑，拿短手杖。一只小黄鸟坐在它背上的行囊里，另一只以活泼橙脚紧随其后。人物聚在浅蓝绿水上的苔草岸沿。草簇、圆石和几根芦苇指出溪边，但上部背景大多保留暖奶油空纸。角色夸张而灵活，大鼻、小眼、松肢和倾斜姿势带来轻快喜剧节奏。细黑钢笔轮廓界定鸟喙、衣褶、毛尖与草，较深交叉排线落在岸下与背包周围。透明手工上色罩染以赭黄、青蓝、橄榄、黄棕和少量珊瑚橙填形。颜色略不均，纸纹与底层线稿仍透出。光温和而不塑造体积；场景依赖轮廓与局部罩染，而非写实投影。人物占上中部，水形成低水平对向重量。细小偶然笔痕造出活泼岸线，宽大空纸保持图像轻盈。气氛友好、顽皮且舒适地怀旧。",
+  "style_prompt_en": "Vintage comic watercolor combines lively thin black pen contour with transparent, slightly uneven hand coloring on warm aged paper. Elastic rounded forms and small expressive marks create an easy rhythm without needing exact anatomical realism. Ochre yellow, teal blue, olive green, tawny brown, and sparing coral accents stay moderate in saturation. Hatching and short scratchy strokes thicken under edges or around textured clusters, while broad cream paper remains largely untouched. A compact action group can sit above a low horizontal band, balanced by generous open upper space. Light is mild and even, with form suggested through line density and local wash rather than hard shadows. Visible paper grain, tiny ink irregularities, and soft watercolor overlaps preserve the printed handmade character. The result is warm, agile, humorous, and immediately readable.",
+  "style_prompt_zh": "复古漫画水彩把活泼细黑钢笔轮廓与暖旧纸上透明、略不均的手工上色结合。弹性圆形与小表情笔痕创造轻快节奏，无需准确解剖写实。赭黄、青蓝、橄榄、黄棕与少量珊瑚强调饱和适中。排线与短抓纸笔在边缘下或纹理簇周围加密，宽阔奶油纸大部分未触。紧凑动作簇可位于低水平带之上，由宽大开放上部空间平衡。光温和均匀，形由线密度和局部罩染暗示，而非硬影。可见纸颗粒、小墨线不规则和柔水彩叠压保留印刷手工气质。结果温暖、灵活、幽默且立即可读。",
+  "theme_en": "Three cheerful woodland travelers arrive at a grassy stream bank",
+  "theme_zh": "三位快乐的林地旅人来到长草溪岸",
+  "wh_ratio": "1:1",
+  "id": "3775",
+  "name": "Walt Kelly",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/walt-kelly",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "14de91577ade3e8f1fc2ce8099e3707efa8f75405554361ff9c437be2a34b277",
+    "gpt_submission_prompt": "A vintage newspaper-comic watercolor illustration shows three cheerful woodland travelers arriving at a grassy stream bank. A long-nosed furry creature in a green striped shirt and blue trousers strides at the front, smiling broadly and carrying a short walking stick. One small yellow bird rides in a pack on its back, while another follows close behind with lively orange feet. The figures gather on a mossy ledge above shallow blue-green water. Clumps of grass, rounded stones, and a few reeds indicate the stream edge, but most of the upper background remains open warm cream paper. The characters are exaggerated and flexible, their large noses, small eyes, loose limbs, and tilted poses giving them an easy comic rhythm. Thin black pen outlines define beaks, clothing folds, fur tufts, and grass, with darker crosshatching under the bank and around the pack. Transparent hand-colored washes fill the forms in ochre yellow, teal blue, olive green, tawny brown, and a little coral orange. Color is slightly uneven, allowing the paper texture and earlier linework to show. Light is gentle and unmodeled; the scene depends on contour and local wash rather than realistic cast shadow. The figures occupy the upper middle, with the water forming a low horizontal counterweight. Small incidental strokes create a lively shoreline, while broad empty paper keeps the image light. The mood is friendly, mischievous, and comfortably old-fashioned.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "be18821bbb8bca7ee3c937ae72a97a7227d4608d8bdb282cf7decc0c7489e12d",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

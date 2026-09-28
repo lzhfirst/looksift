@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square intaglio-like print presents an extreme close-up of an animal's muzzle against a dark, heavily worked ground. A rounded black nose occupies the lower center, with pale fur and whiskered texture rising around it. Above and to the right, one shadowed eye is only partly visible, giving the face an intimate, slightly mysterious gaze. Fine lines radiate from the nose and cheek in many directions, becoming longer and more forceful as they travel into the dark left field. The muzzle is not smoothly shaded; it emerges from thousands of incised strokes, rubbed gray patches, and exposed warm paper. Deep black gathers inside the nose, under the muzzle, and near the upper corners, while a soft pale region wraps around the bridge. The contrast creates a strong center without a literal spotlight. The printed surface shows grain, scratches, uneven ink pressure, and a worn irregular edge, making the material process visible. The animal is cropped so closely that no body or setting is described. Its whisker lines and fur become almost abstract linear energy, yet the nose and eye hold the image as a recognizable face. Diffuse light seems to strike the front of the muzzle, leaving recessed areas dark and giving the broad pale plane gentle relief. The composition is compressed and tactile, with radial lines pushing outward from one dense focal point. The overall effect is dramatic but quiet, combining intimate observation with the coarse, engraved depth of an old monochrome print.",
+  "full_prompt_zh": "一幅方形凹版画式作品呈现一只动物的极近距离口鼻，背后是深色、反复处理的底面。圆润黑鼻子位于下方中央，浅色兽毛与须状肌理从周围升起。右上方，一只藏于阴影的眼睛只部分可见，使脸带亲近而稍显神秘的凝视。细线从鼻子和脸颊向四面放射，进入左侧暗场时逐渐变长、更有力度。口鼻并非光滑明暗塑形，而是从成千刻入般笔痕、擦抹灰色块和裸露暖纸色中浮现。浓黑聚在鼻内、口鼻下方及上方角落，鼻梁周围则绕着柔和浅色区域。对比建立强中心，却没有字面上的聚光灯。印刷表面可见颗粒、划痕、不均匀着墨压力和磨损的不规则边缘，使制作过程显现。动物被裁得很近，没有身体或场景描绘。须线与兽毛几乎变成抽象线性能量，但鼻子和眼睛仍让图像成为可辨认的脸。漫射光似乎落在口鼻前方，让凹处保持深暗，宽阔浅色平面有轻微浮凸。构图压缩而可触，放射线从密集焦点向外推动。整体戏剧性却安静，把亲密观察与旧式黑白版画粗粝的刻线纵深结合。",
+  "style_prompt_en": "An intaglio-like monochrome print language builds volume from densely incised radiating lines, crosshatching, rubbed plate tone, and exposed warm paper. Deep black pools in recessed areas, while grainy gray transitions soften the brightest planes. Uneven ink, scratches, and worn boundaries keep the surface materially present. A close compressed focal area sends fine marks outward into darker negative space, creating movement without color. Diffuse light is inferred from pale reserves against etched shadow. The result is tactile, dramatic, and antique.",
+  "style_prompt_zh": "凹版画式单色语言以密集刻入般放射线、交叉排线、擦抹版面灰调和裸露暖纸色建立体积。浓黑积于凹处，颗粒灰过渡柔化最亮平面。不均匀着墨、划痕与磨损边界让材质表面持续可见。压缩的近景焦点把细线向外送入更深负空间，无需彩色就形成运动。漫射光由浅色保留区与刻线阴影的对照推断。成品可触、戏剧性强且古旧。",
+  "theme_en": "A close animal muzzle emerging from radiating engraved lines",
+  "theme_zh": "一只动物的口鼻从放射状雕版线条中浮现",
+  "wh_ratio": "1:1",
+  "id": "0741",
+  "name": "Intaglio",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/intaglio",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/intaglio.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "bbb01a5461eec40fde3d4c39c0958c981081b721f356a9dad44b1421b5b5c35e",
+    "gpt_submission_prompt": "A square intaglio-like print presents an extreme close-up of an animal's muzzle against a dark, heavily worked ground. A rounded black nose occupies the lower center, with pale fur and whiskered texture rising around it. Above and to the right, one shadowed eye is only partly visible, giving the face an intimate, slightly mysterious gaze. Fine lines radiate from the nose and cheek in many directions, becoming longer and more forceful as they travel into the dark left field. The muzzle is not smoothly shaded; it emerges from thousands of incised strokes, rubbed gray patches, and exposed warm paper. Deep black gathers inside the nose, under the muzzle, and near the upper corners, while a soft pale region wraps around the bridge. The contrast creates a strong center without a literal spotlight. The printed surface shows grain, scratches, uneven ink pressure, and a worn irregular edge, making the material process visible. The animal is cropped so closely that no body or setting is described. Its whisker lines and fur become almost abstract linear energy, yet the nose and eye hold the image as a recognizable face. Diffuse light seems to strike the front of the muzzle, leaving recessed areas dark and giving the broad pale plane gentle relief. The composition is compressed and tactile, with radial lines pushing outward from one dense focal point. The overall effect is dramatic but quiet, combining intimate observation with the coarse, engraved depth of an old monochrome print.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "72135f26bb30dfde1aa20abb0c47668083f6574a01be98c22412ca7b0d474ab9",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

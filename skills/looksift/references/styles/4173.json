@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square surrealist painting shows two figures at the left edge of a misty town scene, dwarfed by the enormous pale head of a long-beaked bird. The bird occupies the upper center and right, its amber eye glowing from a softly modeled white face. Its pointed beak extends horizontally across the scene, above a dark gap that opens toward distant architecture. The nearer figure wears a rust-red coat and faces right in profile; a smaller pale-clad companion stands immediately beside them. Behind both, pale towers, narrow roofs, and a distant steeple rise through gray-brown haze. A small bird shape crosses the open air near the right, echoing the giant presence without matching its scale. The lower area is filled with dim, loosely described stone and shadow, so the figures seem to stand at the edge of a dream rather than a stable street. Thin scratched lines, soft washes, and mottled paper-like texture cover the image. Diffuse light enters from above and right, illuminating the bird's face and the distant pale towers; the figures and foreground sit in warmer brown shadow. The restricted palette mixes cream, smoky gray, rust, and muted gold. No lettering can be read. The overall composition is quiet and uncanny, using extreme scale contrast and atmospheric layering to hold ordinary figures beside an impossible luminous creature.",
+  "full_prompt_zh": "一幅方形超现实主义绘画呈现迷雾城镇左缘的两个人影，他们在一只巨大的浅色长嘴鸟头旁显得渺小。鸟占据上方中央和右侧，琥珀色眼睛从柔和塑形的白脸中发亮。尖嘴横向越过场景，位于一处通向远方建筑的暗开口上方。较近的人穿铁锈红外套，以侧面朝右；一位较小、穿浅色衣服的同伴紧靠其侧。两人后方，浅色塔楼、狭窄屋顶和远处尖塔从灰棕雾气中升起。右侧开阔空气里一只小鸟形掠过，呼应巨大的存在，却并非相同尺度。下部是昏暗、松散描绘的石面与阴影，使人物像站在梦境边缘，而非稳固街道。细划线、柔洗色与斑驳纸质肌理覆盖画面。漫光从上方偏右进入，照亮鸟脸和远方浅塔；人物与前景留在较暖的棕色阴影里。受限色域混合奶油色、烟灰、铁锈色与暗金。没有可读文字。整体构图安静而诡异，用极端尺度对比与空气层次让普通人物站在不可能的发光生物旁。",
+  "style_prompt_en": "Surrealist painting combines softly modeled large forms with much smaller crisp accents across a hazy, shallow depth. Cream, smoky gray, rust, warm brown, and muted gold stay restrained, while one tiny luminous accent can draw the eye. Thin scratches and mottled paper-like grain interrupt smooth washes. Diffuse light favors a pale upper region and distant fragments, leaving lower zones in warm shadow. Extreme shifts in scale create unease, but balanced spacing and slow atmospheric transitions keep the scene calm. The visual effect is dreamlike, worn, and quietly monumental.",
+  "style_prompt_zh": "超现实主义绘画把柔和塑形的大形与雾蒙浅纵深中的极小清晰强调结合。奶油色、烟灰、铁锈色、暖棕和暗金保持克制，一处细小发亮重点即可吸引视线。细划痕与斑驳纸状颗粒打断光滑淡洗。漫光偏向浅色上部和远处碎片，下方区域留在暖影中。尺度的极端转换制造异样，但均衡间距和缓慢空气过渡让画面平静。视觉效果梦幻、磨旧且安静地宏大。",
+  "theme_en": "Two figures beside an enormous pale bird in a misty town",
+  "theme_zh": "迷雾城镇中站在巨型浅色鸟旁的两个人",
+  "wh_ratio": "1:1",
+  "id": "4173",
+  "name": "Leonora Carrington",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/leonora-carrington.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "b89b2eb8fabdb6bbf5d882582b785956baa44218880d33f6dbc0725e9dd859bc",
+    "gpt_submission_prompt": "A square surrealist painting shows two figures at the left edge of a misty town scene, dwarfed by the enormous pale head of a long-beaked bird. The bird occupies the upper center and right, its amber eye glowing from a softly modeled white face. Its pointed beak extends horizontally across the scene, above a dark gap that opens toward distant architecture. The nearer figure wears a rust-red coat and faces right in profile; a smaller pale-clad companion stands immediately beside them. Behind both, pale towers, narrow roofs, and a distant steeple rise through gray-brown haze. A small bird shape crosses the open air near the right, echoing the giant presence without matching its scale. The lower area is filled with dim, loosely described stone and shadow, so the figures seem to stand at the edge of a dream rather than a stable street. Thin scratched lines, soft washes, and mottled paper-like texture cover the image. Diffuse light enters from above and right, illuminating the bird's face and the distant pale towers; the figures and foreground sit in warmer brown shadow. The restricted palette mixes cream, smoky gray, rust, and muted gold. No lettering can be read. The overall composition is quiet and uncanny, using extreme scale contrast and atmospheric layering to hold ordinary figures beside an impossible luminous creature.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "1bb767f7b8b30de0f1daaf4d277a0e46383c55670af8887efd707cfeecc8f35e",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square vintage illustration places a young woman reading against an almost unbroken golden yellow field. She sits on a narrow dark ledge near the lower part of the frame, her knees raised toward the right and her head bowed over a small black book. Her long ochre dress creates a broad triangular shape, broken by a pale blouse, lace cuffs and slim gray stockings. A light patterned head covering follows the curve of her hair, while a small black shoe and the book supply crisp dark accents. Below the ledge, a loose cluster of dark leaves and small flowers hangs into the open yellow ground. A plate with fruit rests at the left end of the seat, adding a quiet domestic note. The arrangement is strikingly simple: one isolated figure, a thin horizontal support and a few decorative details floating in wide flat color. The face and hands receive delicate modeling, but much of the dress is treated as a clean, flowing shape with restrained folds. Light seems even and warm rather than dramatic, allowing the white fabric and skin to separate from the golden background. Fine outlines hold the silhouette, with small areas of stippled texture and soft shading. The image feels poised and leisurely, its large empty field lending the intimate reading gesture unusual clarity.",
+  "full_prompt_zh": "这幅方形复古插画把一位读书的年轻女子放在几乎完整的金黄色底色前。她坐在画面下方一条窄暗台面上，双膝向右抬起，低头看一本小黑书。长赭黄裙形成宽阔三角形，浅色上衣、花边袖口和细灰袜打断这块大形。浅色纹样头巾顺着发际弯曲，小黑鞋和书本提供清晰暗色点。台面下方一簇松散的深色叶子与小花垂入开阔黄地。左端座位上有一盘水果，添了一点安静家居气息。安排十分简洁：一个孤立形体、一条细水平支撑，以及漂浮在大片纯色中的少量装饰细节。脸与手得到细致塑造，裙子大部分却作为干净流动的形状处理，褶皱克制。光均匀而温暖，并不戏剧化，让白布料与肤色从金色背景中分离。细轮廓线约束剪影，局部有细点纹理与柔和阴影。画面从容闲适，大面积空白色域使亲近的阅读动作格外清楚。",
+  "style_prompt_en": "The vintage illustration relies on a broad, flat golden field and one graceful asymmetrical cluster. Ochre and pale cream sit close together, punctuated by a few charcoal accents and subdued green foliage. Lighting is warm and even, with delicate shading reserved for the focal forms. Fine, clean outlines define flowing shapes; stippled or softly grainy passages give the otherwise smooth color some paper texture. A thin horizontal line anchors the composition, while generous untouched space keeps the rhythm airy and poised.",
+  "style_prompt_zh": "这种复古插画依靠宽阔平坦的金色底面与一组优雅的不对称形体。赭黄和浅奶油色彼此靠近，少数炭黑点与低饱和绿叶打断色面。光温暖均匀，细致明暗主要留给焦点形体。干净细线限定流动外形；点状或轻微颗粒区域给原本平滑的色块添上纸面质感。一条细水平线固定构图，充足未触及的空间让节奏轻盈而安定。",
+  "theme_en": "A seated reader in a yellow dress against a golden field",
+  "theme_zh": "金黄底色前身着黄裙的坐姿读者",
+  "wh_ratio": "1:1",
+  "id": "3136",
+  "name": "Coles Phillips",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/coles-phillips",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "f5ec0eeac45dfa76d3bfb6fbbb537e205fc5824bd5c77318e74ef9f4e55e2656",
+    "gpt_submission_prompt": "A square vintage illustration places a young woman reading against an almost unbroken golden yellow field. She sits on a narrow dark ledge near the lower part of the frame, her knees raised toward the right and her head bowed over a small black book. Her long ochre dress creates a broad triangular shape, broken by a pale blouse, lace cuffs and slim gray stockings. A light patterned head covering follows the curve of her hair, while a small black shoe and the book supply crisp dark accents. Below the ledge, a loose cluster of dark leaves and small flowers hangs into the open yellow ground. A plate with fruit rests at the left end of the seat, adding a quiet domestic note. The arrangement is strikingly simple: one isolated figure, a thin horizontal support and a few decorative details floating in wide flat color. The face and hands receive delicate modeling, but much of the dress is treated as a clean, flowing shape with restrained folds. Light seems even and warm rather than dramatic, allowing the white fabric and skin to separate from the golden background. Fine outlines hold the silhouette, with small areas of stippled texture and soft shading. The image feels poised and leisurely, its large empty field lending the intimate reading gesture unusual clarity.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "77b16680ef3bb976c740388eb5a65e3045ae7ceedbff2dc8d86aafe3267c38d8",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

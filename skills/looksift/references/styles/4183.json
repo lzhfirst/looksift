@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square xerographic mixed-media image shows an old tabletop copying or printing machine on a dark workbench. The machine sits slightly right of center, its typewriter-like keys and metal body facing outward while a single pale sheet rises at an angle from the back. Cables and indistinct tools recede into a dim room. The image is printed in smoky sepia, charcoal, and yellowed cream rather than full color. Detail is uneven: the keyboard and front edge emerge sharply, while the machine's upper parts and surroundings dissolve into streaks, toner dust, and pale rectangular ghosts. A heavy dark band grounds the table, with scratchy grays below suggesting floor or paper wear. Light seems to spread from the upper left across the sheet and top housing, but the illumination is flattened by the copy process. The paper remains the brightest surface, drawing the eye through a tangle of aged mechanical forms. Repeated fuzzy outlines around edges suggest duplication or misregistration. The composition is simple, nearly still-life, yet the distressed surface makes it feel recovered from an archive. The whole frame has a grainy, industrial quiet, balancing recognizable machine parts with the uncertain marks of reproduction.",
+  "full_prompt_zh": "一幅方形静电复印混合媒介图像描绘一台旧式桌面复印或印刷机器，放在深色工作台上。机器略偏右中，像打字机的按键与金属机身向外，一张浅色纸从后方斜升。电线和难辨工具退入昏暗房间。图像以烟褐、炭色和泛黄奶油色印成，而非全彩。细节不均：键盘与前缘清楚浮出，机器上部和周围则溶入条痕、碳粉灰和淡淡长方残影。一道厚重暗带稳定桌面，下方刮擦灰色暗示地面或纸面磨损。光似从左上方散在纸张与机壳顶部，但复印工艺把照明压平。纸保持最亮，把视线从陈旧机械纠结中带过。边缘重复模糊轮廓暗示多次复制或错版。构图简单，近似静物，但破损表面使它像从档案中找回。整幅带颗粒的工业寂静，在可辨机器零件与复制留下的不确定痕迹之间平衡。",
+  "style_prompt_en": "Xerographic mixed media turns a recognizable form into a distressed reproduction. Sepia, charcoal, and yellowed cream replace natural color. Toner speckle, streaks, ghosted rectangles, and slightly doubled edges interrupt uneven areas of sharp mechanical detail. Contrast is flattened in places yet punctuated by one pale sheet-like plane and a heavy dark base. The surface feels dusty and archival, as though copied repeatedly from an aging original. Light is suggested by value patches rather than continuous modeling. The composition is spare, industrial, and quietly uncanny.",
+  "style_prompt_zh": "静电复印混合媒介把可辨形体变成磨损复制品。烟褐、炭色和泛黄奶油色代替自然色。碳粉点、条痕、长方残影和略重复边缘打断局部清楚的机械细节。对比有处被压平，却由一块纸状浅面和厚重深底刺破。表面带尘、似档案，好像由衰老原件反复复制。光靠明暗斑块暗示，而非连贯塑形。构图简省、工业化而安静奇异。",
+  "theme_en": "An old copying machine with a paper sheet in a faded workspace",
+  "theme_zh": "褪色工作间里放着纸张的旧复印机器",
+  "wh_ratio": "1:1",
+  "id": "4183",
+  "name": "Xerography",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/xerography.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "d640b6db43ae72f0fcadb56437f94b5c618cda06a3bde38ec24cce2ae37d0ada",
+    "gpt_submission_prompt": "A square xerographic mixed-media image shows an old tabletop copying or printing machine on a dark workbench. The machine sits slightly right of center, its typewriter-like keys and metal body facing outward while a single pale sheet rises at an angle from the back. Cables and indistinct tools recede into a dim room. The image is printed in smoky sepia, charcoal, and yellowed cream rather than full color. Detail is uneven: the keyboard and front edge emerge sharply, while the machine's upper parts and surroundings dissolve into streaks, toner dust, and pale rectangular ghosts. A heavy dark band grounds the table, with scratchy grays below suggesting floor or paper wear. Light seems to spread from the upper left across the sheet and top housing, but the illumination is flattened by the copy process. The paper remains the brightest surface, drawing the eye through a tangle of aged mechanical forms. Repeated fuzzy outlines around edges suggest duplication or misregistration. The composition is simple, nearly still-life, yet the distressed surface makes it feel recovered from an archive. The whole frame has a grainy, industrial quiet, balancing recognizable machine parts with the uncertain marks of reproduction.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "bcea8aedf6aa361db4ebb6c4322a9cf3dba4cad161b42f9b6ce4e752536d35cc",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

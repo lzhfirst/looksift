@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square richly colored portrait shows a woman facing forward against a dense wall of dark green foliage and blossoms. Her hair is gathered high and decorated with yellow, crimson, and purple flowers across the crown. Strong dark brows frame a steady direct gaze; her pale warm face is carefully modeled with rosy cheeks and deep red lips. She wears a dark green blouse with embroidered or patterned sleeves and layered necklaces at the neck. The background presses close, with leaves and flowers overlapping until there is almost no open space. Jewel-like reds, violets, and golds punctuate the cool green field. The figure is centered and symmetrical enough to feel iconic, yet the irregular plant shapes and varied flower sizes keep the frame lively. Light from the front left makes the forehead, nose, cheeks, and selected petals glow while foliage recedes into teal-black shadow. The skin is relatively smooth and luminous; cloth, jewelry, and botanical areas have denser detail and more visible texture. A small gap between face and wreath keeps the features clear amid ornament. The painting-like finish heightens color and symbolism without losing a believable human presence. The overall effect is confident, lush, and intimate, with the face holding steady within a flourishing natural frame.",
+  "full_prompt_zh": "一幅方形浓艳肖像把一位女子正面放在深绿叶片和花朵的密墙前。头发高高收起，冠上装饰黄、深红与紫花。浓深眉围住坚定直视的目光；暖浅脸以玫瑰色面颊和深红唇细致塑形。她穿深绿上衣，袖子有刺绣或花纹，颈边叠戴项链。背景贴得很近，叶和花相互覆盖，几乎没有开放空间。宝石般红、紫和金点缀冷绿底域。人物居中并近乎对称，显得标志性，但不规则植物形体和各式花朵大小让画面有生气。左前方光照亮额、鼻、面颊和部分花瓣，叶丛退入青黑阴影。皮肤相对平滑发光；布、首饰和植物区细节更密、肌理更明显。脸与花冠之间留小小间隔，使五官在装饰中清楚。绘画般完成面提高颜色与象征感，却没有失去可信的人物存在。整体自信、繁茂而贴近，面孔在盛放自然边框中稳稳停住。",
+  "style_prompt_en": "Richly colored figurative painting combines smooth luminous focal modeling with dense botanical ornament. Deep emerald and teal-black carry the ground; crimson, violet, gold, and warm flesh tones punctuate it. Front-side light clarifies selected raised forms while layered leaves retain dark depth. Details multiply toward the margins, but a quiet central area and direct value contrast preserve readability. Texture varies from softly blended surfaces to patterned cloth and petal edges. The composition is close, iconic, and lush, using saturated color and organic enclosure to create confidence and intimacy.",
+  "style_prompt_zh": "浓色具象绘画把平滑发光的焦点塑形与繁密植物装饰结合。深祖母绿与青黑承载底层，深红、紫、金与暖肤色点入其中。前侧光清楚照出选定凸起形，层叠叶片仍有深纵深。细节向边缘繁殖，但安静中央区域和直接明暗对比维持可读。肌理从柔和调和表面变到花纹布与花瓣边。构图贴近、标志性且繁茂，以饱和颜色和有机包围创造自信与亲密。",
+  "theme_en": "A woman with flowers in her hair against dense green foliage",
+  "theme_zh": "浓绿叶丛前头戴花朵的女子",
+  "wh_ratio": "1:1",
+  "id": "4186",
+  "name": "Frida Kahlo",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/frida-kahlo.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "8361e3fbecdd2048560954e80d013e8a9ec6e25e0e720bae95263fdee6cfb4bf",
+    "gpt_submission_prompt": "A square richly colored portrait shows a woman facing forward against a dense wall of dark green foliage and blossoms. Her hair is gathered high and decorated with yellow, crimson, and purple flowers across the crown. Strong dark brows frame a steady direct gaze; her pale warm face is carefully modeled with rosy cheeks and deep red lips. She wears a dark green blouse with embroidered or patterned sleeves and layered necklaces at the neck. The background presses close, with leaves and flowers overlapping until there is almost no open space. Jewel-like reds, violets, and golds punctuate the cool green field. The figure is centered and symmetrical enough to feel iconic, yet the irregular plant shapes and varied flower sizes keep the frame lively. Light from the front left makes the forehead, nose, cheeks, and selected petals glow while foliage recedes into teal-black shadow. The skin is relatively smooth and luminous; cloth, jewelry, and botanical areas have denser detail and more visible texture. A small gap between face and wreath keeps the features clear amid ornament. The painting-like finish heightens color and symbolism without losing a believable human presence. The overall effect is confident, lush, and intimate, with the face holding steady within a flourishing natural frame.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "2fd08c686c5d76f5f5b3caf93de9a722a950d6e1f3f47da2babc7f23f4556a71",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

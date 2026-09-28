@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white comic illustration crowds three exaggerated faces into a theatrical close-up. At lower left, an older man with a bow tie and deeply wrinkled cheeks stares outward. Above him, a wild-eyed figure grins with clenched teeth and a dark round nose. At lower right, a hat-wearing person turns sideways with an open-mouthed smile. The heads overlap so tightly that almost no background remains, creating a comic yet unsettling sense of pressure. Fine ink cross-hatching describes skin folds, eyebrows, hair, hats, and clothing. Dense black areas sit behind and between the faces, while clean paper white opens on cheeks, teeth, and the hat brim. The expressions are highly elastic, with wide eyes and stretched mouths, but the rendering still carries careful line control. The composition moves in a triangle from left face to upper grin to right profile. There is no color or soft painted gradient; tone comes from varied line density and sharply defined black shapes. The image feels like a vintage comic-book plate or caricature sheet, humorous and manic with a slightly sinister edge. Its energy comes from facial contrast, compressed framing, and confident engraved-style ink work.",
+  "full_prompt_zh": "一幅方形黑白漫画插画把三张夸张面孔挤进戏剧性的近景。左下，一位戴领结的年长男子以深深皱起的脸颊看向外。上方，一位双眼圆睁的人露出紧咬牙齿的笑容和深色圆鼻。右下，一位戴帽人物侧身张嘴笑。头部紧密重叠，几乎不留背景，形成滑稽却令人不安的压迫感。细墨交叉排线描写皮肤褶皱、眉毛、头发、帽子和衣服。密实黑色夹在面孔背后与之间，干净纸白落在脸颊、牙齿与帽檐上。表情极富弹性，眼睛瞪大、嘴巴拉长，但画法仍受细致线条控制。构图从左脸到上方笑脸再到右侧面形成三角移动。没有彩色或柔和绘画渐变；调子来自变化的线条密度与明确黑色形状。画面像复古漫画书页或漫画肖像集，幽默而躁动，带一点不祥边缘。能量来自面部反差、压缩取景和自信的雕版式墨线。",
+  "style_prompt_en": "A vintage comic-ink caricature style packs several expressive forms tightly into a high-contrast frame. Fine cross-hatching, strong contour, and dense black pockets shape wrinkles, fabric, and hair, while clean paper white sharpens selected eyes, teeth, and edges. Exaggerated gestures or expressions are rendered with disciplined line rather than loose paint. Overlapping silhouettes form a compressed triangular rhythm with little background. Tonal variation comes from line density instead of gray wash. The mood can be humorous, manic, and faintly sinister, with a worn printed-page feel and clear graphic impact.",
+  "style_prompt_zh": "复古漫画墨线夸张画风把多个富于表情的形体紧密压进高反差画框。细交叉排线、有力轮廓和密实黑色凹处塑造皱纹、布料与头发，干净纸白强化精选眼睛、牙齿和边缘。夸张动作或表情由严谨线条而非松散颜料描绘。重叠剪影形成压缩的三角节奏，背景极少。明暗变化来自线条密度，而非灰色薄染。气氛可幽默、躁动、略带不祥，带磨旧印刷页感和清楚图形冲击。",
+  "theme_en": "Three exaggerated black-and-white comic faces crowd the frame",
+  "theme_zh": "三张夸张黑白漫画面孔挤满画框",
+  "wh_ratio": "1:1",
+  "id": "4257",
+  "name": "Brian Bolland",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/brian-bolland.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "b716dd14bbc096ec6e91ca70d7b9876ab74a2cc5ecd929deff28f3b588c33736",
+    "gpt_submission_prompt": "A square black-and-white comic illustration crowds three exaggerated faces into a theatrical close-up. At lower left, an older man with a bow tie and deeply wrinkled cheeks stares outward. Above him, a wild-eyed figure grins with clenched teeth and a dark round nose. At lower right, a hat-wearing person turns sideways with an open-mouthed smile. The heads overlap so tightly that almost no background remains, creating a comic yet unsettling sense of pressure. Fine ink cross-hatching describes skin folds, eyebrows, hair, hats, and clothing. Dense black areas sit behind and between the faces, while clean paper white opens on cheeks, teeth, and the hat brim. The expressions are highly elastic, with wide eyes and stretched mouths, but the rendering still carries careful line control. The composition moves in a triangle from left face to upper grin to right profile. There is no color or soft painted gradient; tone comes from varied line density and sharply defined black shapes. The image feels like a vintage comic-book plate or caricature sheet, humorous and manic with a slightly sinister edge. Its energy comes from facial contrast, compressed framing, and confident engraved-style ink work.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "2c2fb042d917b568a962d4b6f7961fe82df3df99bd6499d2ab7f97358e187720",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

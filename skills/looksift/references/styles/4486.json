@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square large-format-looking color photograph views a messy lived-in bedroom from its doorway. A rumpled bed sits against the left wall beneath a framed painting, with pillows and pale covers spilling toward the floor. Beside it, a small table holds a lit cream lampshade, providing a warm pool of light in the otherwise cool daytime room. Books, loose papers, magazines, clothing, bags, and other household objects cover nearly the entire dark floor, creating many small overlapping rectangles and soft folds. On the right, a tall wooden dresser rises from the clutter, its top crowded with bottles, flowers, and miscellaneous items. Through an open doorway in the rear wall, a second small room is visible with another lamp, shelves, and a dense cluster of objects. Framed pictures hang irregularly across the pale walls. Natural light enters from a window outside the frame at right, illuminating the dresser edge and floor debris, while the lamps add amber accents. The camera is steady and frontal, preserving detailed spatial depth through the two rooms. Colors are quiet cream, brown, faded green, and warm ochre. The image is carefully composed despite the disorder, turning accumulated daily life into a dense, believable visual field.",
+  "full_prompt_zh": "一张方形、近似大画幅质感的彩色照片从门口看进一间杂乱的生活卧室。未整理的床靠左墙，墙上挂一幅框画，枕头与浅色被单向地面散下。旁边小桌有一盏亮着的奶油色台灯，在其余受冷日光照亮的房间里形成暖光池。书、散纸、杂志、衣物、袋子和其他家用品覆盖几乎整个深色地板，形成无数重叠的小矩形与柔软褶形。右侧高木柜从杂物中升起，柜顶挤着瓶、花及零碎物件。后墙敞开的门洞通向第二间小房，里面还能看见另一盏灯、架子和密集物品。浅墙上不规则悬着多幅框画。自然光从画框外右侧的窗进入，照亮柜边和地面杂物，台灯则添琥珀色重点。相机稳定且正面，通过两间房保留细致空间纵深。色彩安静，为奶油、棕、褪色绿和暖赭。尽管场景混乱，图像仍经过精心构图，把日常积累转成密集可信的视觉场域。",
+  "style_prompt_en": "Carefully composed color documentary photography of accumulated everyday texture, layered rectangular fragments, and nested interior depth. A steady frontal perspective and fine detail make clutter legible as a spatial pattern. Cool diffuse daylight mingles with small amber practical-light pools. Cream, brown, faded green, and ochre stay subdued; worn surfaces and soft folds remain materially specific without theatrical staging.",
+  "style_prompt_zh": "经过精心构图的彩色纪实摄影，日常累积肌理、层叠矩形碎片和套叠的室内纵深共同组成。稳定正面透视与细节使杂乱成为可读的空间纹样。冷漫射日光与少量琥珀色实景灯光池交融。奶油、棕、褪色绿和赭色保持低调；磨旧表面与柔褶在没有戏剧性布置下仍有具体材质。",
+  "theme_en": "A cluttered bedroom with scattered books and a lamp still glowing",
+  "theme_zh": "书籍散落、台灯仍亮的凌乱卧室",
+  "wh_ratio": "1:1",
+  "id": "4486",
+  "name": "Jeff Wall",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/jeff-wall.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "f38264207421537dc3415ba011f08347ce1e54c2bc6f2a53530db3d9a44db6a3",
+    "gpt_submission_prompt": "A square large-format-looking color photograph views a messy lived-in bedroom from its doorway. A rumpled bed sits against the left wall beneath a framed painting, with pillows and pale covers spilling toward the floor. Beside it, a small table holds a lit cream lampshade, providing a warm pool of light in the otherwise cool daytime room. Books, loose papers, magazines, clothing, bags, and other household objects cover nearly the entire dark floor, creating many small overlapping rectangles and soft folds. On the right, a tall wooden dresser rises from the clutter, its top crowded with bottles, flowers, and miscellaneous items. Through an open doorway in the rear wall, a second small room is visible with another lamp, shelves, and a dense cluster of objects. Framed pictures hang irregularly across the pale walls. Natural light enters from a window outside the frame at right, illuminating the dresser edge and floor debris, while the lamps add amber accents. The camera is steady and frontal, preserving detailed spatial depth through the two rooms. Colors are quiet cream, brown, faded green, and warm ochre. The image is carefully composed despite the disorder, turning accumulated daily life into a dense, believable visual field.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "e8e9428b8051655091bfdb1aee4afd901ff44ee3110bf2d5dca4194ab5b75929",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square Impressionist painting shows a young woman from the shoulders upward before a dense sunlit garden. She turns her face toward the viewer from a slight three-quarter angle, her expression quiet and direct. A broad brimmed hat crosses the upper part of the frame, its crown and brim made of quick blue, green, yellow, and cream strokes. Dark brown hair gathers under the hat and frames the sides of her face. Her pale blouse fills the lower left and center, where energetic short marks of white, lavender, blue, and mint describe folds without drawing each seam. Behind her, dense foliage breaks into small irregular dabs of emerald, cobalt, turquoise, and bright yellow. The garden is close enough to become a textured field rather than a deep landscape, yet darker cool passages still separate the head and shoulders from it. The face is more carefully modeled than the surroundings: warm peach, rose, and soft beige planes hold the eyes, nose, and pink lips together. Brush edges remain visible across the surface, with paint laid in compact, broken touches rather than smooth blended layers. Sunlight comes from above and slightly left, catching the hat brim, cheek, and blouse; the underside of the brim and hair fall into a cooler blue-violet shadow. The clustered marks flicker between warm and cool, so the still figure appears surrounded by moving light. The overall composition is intimate and buoyant, keeping a readable face within a lively mosaic of garden color.",
+  "full_prompt_zh": "一幅方形印象派绘画描绘一位年轻女子的肩上半身，身后是密集而受阳光照亮的花园。她从略偏侧的角度转脸望向观者，神情安静而直接。宽阔帽檐横过画面上部，帽顶与檐边由蓝、绿、黄、奶油色的快捷笔触组成。深棕发收在帽下，围住脸的两侧。浅色上衣占据左下与中央，白、淡紫、蓝和薄荷色的活跃短笔痕描出褶皱，却不逐条勾画衣缝。身后浓密植物碎为祖母绿、钴蓝、绿松石色和亮黄的不规则小点。花园近得更像肌理色域，而非深远风景，但较暗的冷色部分仍把头肩从中分离。面部比周围刻画得更仔细：暖桃色、玫瑰色与柔米色平面把眼睛、鼻子和粉唇结合起来。画面各处可见笔触边缘，颜料以紧凑、破碎的触点叠放，而非光滑混色。阳光从上方略偏左照来，落在帽檐、脸颊与上衣；帽檐下与发间则沉入较冷的蓝紫阴影。密集笔痕在冷暖之间闪动，使静止的人物仿佛被流动光色包围。整体构图亲密而轻快，将可读的面孔置于活跃的花园色彩马赛克之中。",
+  "style_prompt_en": "Oil-like painterly treatment builds form from compact, broken strokes whose individual edges remain visible. Nearby marks of contrasting warm and cool color vibrate together instead of blending into a uniform gradient. Emerald, cobalt, turquoise, lemon yellow, cream, peach, and lavender cluster in uneven patches, with darker cool intervals preserving structure. Sunlight appears as scattered warm touches across exposed areas, while soft blue-violet shadows gather beneath overlapping forms. Depth comes from relative detail and color temperature more than exact linework: a calmer focal region emerges from a busy textured surround. The image feels immediate, airy, and full of flickering light.",
+  "style_prompt_zh": "近似油画的绘画处理用紧凑破碎的笔触塑形，每一道笔触的边缘仍可见。相邻的冷暖对比色一起颤动，不混成均匀渐变。祖母绿、钴蓝、绿松石色、柠檬黄、奶油色、桃色和淡紫在不匀的色块中聚集，较深冷色间隔保持结构。阳光表现为散落在外露区域的暖色触点，柔和蓝紫阴影积在重叠形体下。深度更多来自细节程度和色温，而非精确勾线：较平静的焦点区域从繁忙的肌理周围浮出。画面直接、轻盈，充满闪动的光。",
+  "theme_en": "A woman in a broad hat before a sunlit garden",
+  "theme_zh": "阳光花园前戴宽檐帽的女子",
+  "wh_ratio": "1:1",
+  "id": "4058",
+  "name": "Impressionism",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/impressionism.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "df25f776d5d89b9d75136da3ae7fc198c8a99f79379abc16496b703a13be5ec0",
+    "gpt_submission_prompt": "A square Impressionist painting shows a young woman from the shoulders upward before a dense sunlit garden. She turns her face toward the viewer from a slight three-quarter angle, her expression quiet and direct. A broad brimmed hat crosses the upper part of the frame, its crown and brim made of quick blue, green, yellow, and cream strokes. Dark brown hair gathers under the hat and frames the sides of her face. Her pale blouse fills the lower left and center, where energetic short marks of white, lavender, blue, and mint describe folds without drawing each seam. Behind her, dense foliage breaks into small irregular dabs of emerald, cobalt, turquoise, and bright yellow. The garden is close enough to become a textured field rather than a deep landscape, yet darker cool passages still separate the head and shoulders from it. The face is more carefully modeled than the surroundings: warm peach, rose, and soft beige planes hold the eyes, nose, and pink lips together. Brush edges remain visible across the surface, with paint laid in compact, broken touches rather than smooth blended layers. Sunlight comes from above and slightly left, catching the hat brim, cheek, and blouse; the underside of the brim and hair fall into a cooler blue-violet shadow. The clustered marks flicker between warm and cool, so the still figure appears surrounded by moving light. The overall composition is intimate and buoyant, keeping a readable face within a lively mosaic of garden color.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "27fe6c1e2a96099ac31c0687b52ec1f5c0266efb0057be54c11be6cb1a5d2d2d",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

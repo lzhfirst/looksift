@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square Romantic oil landscape opens through a steep wooded gorge toward a low setting sun. Dark rocky cliffs rise on both sides, narrowing the view at the center. A small waterfall drops from the middle distance into a still pool that fills the foreground. The round sun sits just above the far horizon, where pink and gold light spreads across hazy mountains. A vertical reflection runs from the sun down the central water, broken by ripples and the fall's pale foam. The cliff on the left has warm brown stone and patches of green foliage; the right side is darker, with a few trees silhouetted against the bright gap. Cloud wisps catch coral light across a blue gray sky. The painting uses carefully layered distance: sharp near rocks and leaves, softened waterfall and receding violet hills. Light is strongest at the far opening, leaving foreground banks in deep shadow and rim-lighting selected edges. The water's quiet surface provides a luminous path into the picture. Brushwork is detailed but smooth, especially in the sky and reflection, with more broken strokes on rock and vegetation. The composition balances heavy dark sides against a glowing center. Its scale feels grand and serene, drawing the viewer from a sheltered foreground toward an expansive, radiant horizon.",
+  "full_prompt_zh": "这幅方形浪漫主义油画风景穿过陡峭林峡，通向低悬落日。深暗岩崖从两侧升起，把中央视野收窄。一道小瀑布从中景落入填满前景的静池。圆太阳悬在远地平线上方，粉金光散过朦胧山脉。一条竖倒影从太阳延到中央水面，被水纹和瀑布浅泡打断。左崖是暖棕岩石与绿色植被斑块；右侧更暗，几棵树在明亮缝隙前成剪影。细云在蓝灰天空上接住珊瑚光。绘画仔细叠出远近：近岩与叶锐利，瀑布柔和，紫色远山渐退。光在远方开口最强，让前景岸边留在深影，并给选定边缘勾光。安静水面提供通入画内的亮路径。笔触细致而平滑，尤其天空与倒影；岩石和植被处更断续。构图以两侧沉重暗块平衡发亮中心。尺度宏大而宁静，把观者从受庇护前景引向宽广光辉的天边。",
+  "style_prompt_en": "The Romantic oil painting builds depth through dark framing masses, softened distant layers and a luminous central opening. Warm gold, coral and violet light meet brown, green and blue gray shadow. Backlight rims selected edges and stretches a broken vertical reflection through the lower field. Smooth atmospheric blending above contrasts with more tactile strokes near the viewer. Heavy sides guide the gaze inward, creating grandeur and serenity.",
+  "style_prompt_zh": "这种浪漫主义油画以深暗边框体量、柔化远层与发光中央开口建立深度。暖金、珊瑚和紫色光与棕、绿及蓝灰阴影相接。逆光为部分边缘描亮线，并把断续竖向倒影拉过下方色域。上方平滑空气融合对照近处更可触的笔触。沉重两侧引导视线向内，形成宏伟与宁静。",
+  "theme_en": "A sunset above a waterfall and reflective mountain gorge",
+  "theme_zh": "瀑布与反光山峡上方的落日",
+  "wh_ratio": "1:1",
+  "id": "3435",
+  "name": "Frederic Edwin Church",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/frederic-edwin-church",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "c442d13eaa1ec7b9c55ba28ff9ce44b72b5e1ceec9f87a7f56da1941d0434c6e",
+    "gpt_submission_prompt": "A square Romantic oil landscape opens through a steep wooded gorge toward a low setting sun. Dark rocky cliffs rise on both sides, narrowing the view at the center. A small waterfall drops from the middle distance into a still pool that fills the foreground. The round sun sits just above the far horizon, where pink and gold light spreads across hazy mountains. A vertical reflection runs from the sun down the central water, broken by ripples and the fall's pale foam. The cliff on the left has warm brown stone and patches of green foliage; the right side is darker, with a few trees silhouetted against the bright gap. Cloud wisps catch coral light across a blue gray sky. The painting uses carefully layered distance: sharp near rocks and leaves, softened waterfall and receding violet hills. Light is strongest at the far opening, leaving foreground banks in deep shadow and rim-lighting selected edges. The water's quiet surface provides a luminous path into the picture. Brushwork is detailed but smooth, especially in the sky and reflection, with more broken strokes on rock and vegetation. The composition balances heavy dark sides against a glowing center. Its scale feels grand and serene, drawing the viewer from a sheltered foreground toward an expansive, radiant horizon.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "1c3922d3d6c6c2c6ae0d0ed1153a60dfcb62a6cb92dc15fe810449b3066fc7bb",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square storybook illustration looks over an old European canal town at dusk. Narrow cobbled streets wind between tall, irregular stone houses with steep blue slate roofs, gables, chimneys, and little towers. In the foreground, stone steps descend to a calm canal, while a small bridge crosses the water toward a cluster of buildings. Tiny pedestrians and a boat give the scene human scale. Warm amber light shines from windows, doorways, and hanging lamps, gathering near the streets and reflecting faintly in the blue-gray water. The sky is pale and overcast, and the far rooftops fade into mist. Precise pen lines describe masonry, roof tiles, railings, and ornamental silhouettes, while transparent watercolor washes soften the forms and add age to the paper. The perspective is slightly elevated, allowing several crooked lanes and water edges to interlock in one intricate composition. Fine stipple and light brown stains make the page feel handled and old. Despite the detail, the lighting directs attention from the near bridge into the warmly lit town center. The whole frame feels whimsical, historic, and gently melancholy, like a richly observed illustration from an antique children's book.",
+  "full_prompt_zh": "一幅方形故事书插画俯看黄昏里的古老欧洲运河小镇。狭窄石板路在高低错落的石屋之间蜿蜒，房屋有陡峭蓝灰石板屋顶、山墙、烟囱和小塔。前景石阶下行至平静运河，一座小桥跨水通向建筑群。细小行人与一条小船标明人物尺度。暖琥珀色灯光从窗户、门口与悬灯中亮起，聚在街巷附近，也微微映在蓝灰水面。天空浅淡阴沉，远方屋顶退入雾中。精确钢笔线描绘砖石、屋瓦、栏杆和装饰性剪影，透明水彩薄染则柔化形态并给纸面添上年代感。略高的视点让多条弯曲街道和水岸在一幅繁复构图中交错。细点描和浅棕污渍使画页像被翻阅过。细节虽然丰富，灯光仍引视线从近桥进入温暖的小镇中心。整体有奇趣、历史感和轻微忧郁，像一本古老童书中精心观察的插页。",
+  "style_prompt_en": "An antique pen-and-watercolor illustration style joins meticulous architectural line with transparent muted washes. Crooked verticals, steep silhouettes, small repeated windows, and winding paths form a richly layered space. Blue-gray, stone beige, faded slate, and pale cream are warmed by concentrated amber lights. Fine hatching, stipple, paper stains, and uneven ink edges preserve the feel of a handled book plate. A slightly elevated view lets foreground structures lead into hazy distance. Detail stays dense but organized by pools of warm light and a clear path inward. The mood is whimsical, historic, and softly melancholy, with hand-drawn irregularity more important than polished geometry.",
+  "style_prompt_zh": "古董钢笔水彩插画风格把细密建筑线描与透明低饱和薄染结合。歪斜竖线、陡峭剪影、重复小窗和蜿蜒道路组成层次丰富的空间。蓝灰、石米、褪色石板色和浅乳白由集中的琥珀灯光温暖。细排线、点描、纸面污渍和不均匀墨边保留被翻阅书页的触感。略高视点让前景结构通向朦胧远方。细节密集但由暖光聚点与清楚的内向路线组织。气氛奇趣、古老、轻微忧郁，手绘不规则重于抛光几何。",
+  "theme_en": "An old canal town glows with lamplight at dusk",
+  "theme_zh": "黄昏时分，古老运河小镇在灯光中发亮",
+  "wh_ratio": "1:1",
+  "id": "4389",
+  "name": "Anton Pieck",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/anton-pieck.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "1e693f6a7eef9ab5c55780f811f9d4c823862eac3af6e89adb975c3d61e91b1f",
+    "gpt_submission_prompt": "A square storybook illustration looks over an old European canal town at dusk. Narrow cobbled streets wind between tall, irregular stone houses with steep blue slate roofs, gables, chimneys, and little towers. In the foreground, stone steps descend to a calm canal, while a small bridge crosses the water toward a cluster of buildings. Tiny pedestrians and a boat give the scene human scale. Warm amber light shines from windows, doorways, and hanging lamps, gathering near the streets and reflecting faintly in the blue-gray water. The sky is pale and overcast, and the far rooftops fade into mist. Precise pen lines describe masonry, roof tiles, railings, and ornamental silhouettes, while transparent watercolor washes soften the forms and add age to the paper. The perspective is slightly elevated, allowing several crooked lanes and water edges to interlock in one intricate composition. Fine stipple and light brown stains make the page feel handled and old. Despite the detail, the lighting directs attention from the near bridge into the warmly lit town center. The whole frame feels whimsical, historic, and gently melancholy, like a richly observed illustration from an antique children's book.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "7b9a172d876c5674ff9eb9b177a35cc2237a5ab7701d094db05af249b822f925",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

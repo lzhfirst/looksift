@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square vintage comic illustration shows a noisy encounter in a cluttered room. On the left, a lanky man in a bright blue suit and small hat springs up from a worn red chair. His mouth opens wide and one knee rises high, making his angular body appear to jump forward. He holds a smoking pipe in one hand, and a tall curl of pale smoke climbs toward the top edge. On the right, a shorter older man in red gestures back with a similarly animated expression. Between them and behind them lie bottles, a tablecloth, papers and small objects scattered on the floor. Two framed pictures hang on the yellowed wall. The setting has a warm beige and dusty rose base, while the blue suit and red jacket create strong opposing colors. Ink outlines stretch noses, jaws, hands and shoes into caricature, and transparent washes fill the forms with uneven color. Light is broad and domestic, with soft shadows under the chair and feet rather than a hard spotlight. Quick hatching and loose gray strokes suggest the messy floor and smoke. The scene is crowded, but the jumping diagonal of the blue figure and the small red counterfigure make its action instantly clear. The overall effect is theatrical, humorous and slightly shabby, like a midcentury newspaper drawing brought into color.",
+  "full_prompt_zh": "这幅方形复古漫画插画呈现杂乱房间里一场喧闹相遇。左侧一个瘦长男子穿亮蓝西装、戴小帽，从磨旧红椅上猛地弹起。他张大嘴，一只膝盖高高抬起，棱角分明的身体像向前跳。他一手握着冒烟烟斗，一道浅色烟卷向上爬到画面顶。右侧一名较矮的红衣老者也以活跃表情伸手回应。两人之间和身后有瓶子、桌布、纸张与散落地面的细小物件。发黄墙上挂着两幅框画。环境以暖米和灰粉为底，蓝西装与红外套构成鲜明对色。墨线把鼻子、下颌、手和鞋拉长成漫画夸张形，透明色洗以不均匀颜色填入。光宽阔而居家，椅子和脚下是柔影，没有硬聚光。迅速排线与松散灰笔暗示凌乱地面和烟。场景拥挤，但蓝色人物跳起的斜线与小小红色对应形使动作立刻清楚。整体戏剧化、幽默且略显破旧，像有色彩的世纪中期报纸漫画。",
+  "style_prompt_en": "The vintage comic illustration relies on elastic ink contours and lively transparent color washes. Bright blue and brick red figures stand out against warm beige, dusty rose and gray. Exaggerated diagonals, stretched curves and quick hatching make the action readable within a busy frame. Broad even light leaves only soft grounding shadows. Uneven fill and paperlike grain preserve an informal printed quality. The result is theatrical and humorous rather than polished.",
+  "style_prompt_zh": "这种复古漫画插画依靠有弹性的墨线轮廓和活跃透明色洗。亮蓝与砖红色块从暖米、灰粉和灰色里突出。夸张斜线、拉长曲线和迅疾排线使繁忙画面中的动作可读。宽阔均匀光只留下柔和接地影。不均匀填色和纸面颗粒保留随性的印刷品质。效果戏剧化而幽默，不追求光滑。",
+  "theme_en": "Two exaggerated men arguing in a cluttered room",
+  "theme_zh": "杂乱房间里争执的两个夸张男子",
+  "wh_ratio": "1:1",
+  "id": "3844",
+  "name": "Al Capp",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/al-capp",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "3b02dd2d034b41319649e74d588421fcbf50cec92b53cf16569e5a4103386d9c",
+    "gpt_submission_prompt": "A square vintage comic illustration shows a noisy encounter in a cluttered room. On the left, a lanky man in a bright blue suit and small hat springs up from a worn red chair. His mouth opens wide and one knee rises high, making his angular body appear to jump forward. He holds a smoking pipe in one hand, and a tall curl of pale smoke climbs toward the top edge. On the right, a shorter older man in red gestures back with a similarly animated expression. Between them and behind them lie bottles, a tablecloth, papers and small objects scattered on the floor. Two framed pictures hang on the yellowed wall. The setting has a warm beige and dusty rose base, while the blue suit and red jacket create strong opposing colors. Ink outlines stretch noses, jaws, hands and shoes into caricature, and transparent washes fill the forms with uneven color. Light is broad and domestic, with soft shadows under the chair and feet rather than a hard spotlight. Quick hatching and loose gray strokes suggest the messy floor and smoke. The scene is crowded, but the jumping diagonal of the blue figure and the small red counterfigure make its action instantly clear. The overall effect is theatrical, humorous and slightly shabby, like a midcentury newspaper drawing brought into color.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "35545008404db4fec51cbebae830b2e117bc4dd59c031280b5325de8cad34172",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

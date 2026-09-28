@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white street photograph catches several children crowding close to the camera on a narrow urban lane. A laughing girl dominates the right foreground, leaning toward the lens with her mouth open and eyes bright. Her short dark hair lifts around her face, and the knit texture of her sweater remains visible even in the soft focus. At the far left, a boy's face and shoulder are partly cut by the frame, making the encounter feel sudden and unposed. Behind them, another child sits or stands slightly farther back, eyes lowered and expression quieter. Still farther along the lane, two blurred adults and street structures recede toward the background. The perspective is close and low, so the foreground faces seem large while the lane contracts rapidly behind them. Dark walls and railings line both sides, framing a pale strip of sky and distant light. The near girl's face carries the clearest light, but the image retains gentle tonal transitions rather than harsh theatrical shadow. Grain, small motion softness and uneven sharpness keep the photograph immediate. A narrow white print border surrounds the image, distinguishing the dark street scene from the page around it. No signs or readable words are clear. The overall composition is lively and candid, balancing one exuberant close expression with cropped companions, a quiet figure behind and the receding geometry of the street.",
+  "full_prompt_zh": "一张方形黑白街头照片抓住几个孩子在狭窄城市巷道里挤向镜头的瞬间。右侧前景一名大笑女孩占据主导，向镜头探身，嘴张开，眼睛明亮。短深发在脸旁扬起，即使焦点略软，毛衣针织纹理仍可见。最左边，一名男孩的半张脸与肩膀被画边裁掉，使这次相遇显得突然、未经摆拍。他们后方，另一名孩子坐着或站在稍远处，垂眼，神情更安静。巷道更远处，两名模糊大人与街道结构逐渐退远。视点贴近且低，前景面孔显得大，巷道在身后迅速收束。深色墙体与栏杆排列两侧，框住一道浅色天空与远光。近处女孩的脸受光最清楚，但画面保留温和明暗过渡，而非严酷舞台阴影。颗粒、轻微运动柔化和不均匀清晰度让照片保持即时感。一圈窄白相纸边围住影像，将深色街景与周围纸面分开。看不清任何标识或可读词语。整体构图活泼而抓拍感强，以一个欢快的贴近表情平衡被裁切的伙伴、后方安静的人影与街道退远的几何线。",
+  "style_prompt_en": "A candid monochrome street-photography treatment favors close perspective, natural expressions and imperfect momentary framing. Black, silver gray and soft white form a full tonal range without polished studio lighting. Fine film grain and slight movement blur coexist with a few sharp focal details, giving the frame a tactile documentary quality. Cropped near forms press against the edges while smaller figures and linear structures recede quickly into softer focus. Diffuse outdoor light brightens the closest planes and leaves the surrounding dark values readable. A narrow pale border adds the feeling of a physical print. The composition is animated and direct, finding rhythm through unequal scale, spontaneous overlap and a rapidly deepening background.",
+  "style_prompt_zh": "抓拍式黑白街头摄影处理偏爱贴近视点、自然表情与不完美的瞬间框景。黑、银灰与柔白组成完整灰阶，却没有光洁的影棚照明。细胶片颗粒与轻微运动模糊同少数清晰焦点细节共存，使画面有触感与纪实性。被裁切的近处形体挤在边缘，更小形体与线性结构迅速退入较软的焦点。漫射户外光照亮最近的色面，周围暗部仍可辨。狭窄浅边框增添实体相纸的感觉。构图活跃直接，节奏来自不均衡尺度、即兴重叠与迅速加深的背景。",
+  "theme_en": "Laughing children crowding close to the camera on a narrow city street",
+  "theme_zh": "狭窄街道上，几个孩子笑着挤到镜头前",
+  "wh_ratio": "1:1",
+  "id": "1023",
+  "name": "Roger Mayne",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/roger-mayne",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/roger-mayne.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "6f26b1ca3c8eb81e9fb8a206de25496897e771ba30c70d1e7353ce5a7f7e1308",
+    "gpt_submission_prompt": "A square black-and-white street photograph catches several children crowding close to the camera on a narrow urban lane. A laughing girl dominates the right foreground, leaning toward the lens with her mouth open and eyes bright. Her short dark hair lifts around her face, and the knit texture of her sweater remains visible even in the soft focus. At the far left, a boy's face and shoulder are partly cut by the frame, making the encounter feel sudden and unposed. Behind them, another child sits or stands slightly farther back, eyes lowered and expression quieter. Still farther along the lane, two blurred adults and street structures recede toward the background. The perspective is close and low, so the foreground faces seem large while the lane contracts rapidly behind them. Dark walls and railings line both sides, framing a pale strip of sky and distant light. The near girl's face carries the clearest light, but the image retains gentle tonal transitions rather than harsh theatrical shadow. Grain, small motion softness and uneven sharpness keep the photograph immediate. A narrow white print border surrounds the image, distinguishing the dark street scene from the page around it. No signs or readable words are clear. The overall composition is lively and candid, balancing one exuberant close expression with cropped companions, a quiet figure behind and the receding geometry of the street.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "513d372769d488ae9188f5bab8aeb6202e2d9f6af327eb1ac9c8363e4db2f0e4",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

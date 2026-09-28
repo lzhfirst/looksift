@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black ink political cartoon shows three caricatured leaders riding a rhinoceros as it bounds along the edge of a steep riverbank. The animal occupies the lower center, its heavy gray body drawn in intricate crosshatching and its horn projecting toward the left. Its front feet lift above a rough ledge that crumbles over a broad river, creating a precarious sense of motion. The three riders have oversized heads and undersized bodies. At left, a bespectacled man with a drooping mustache leans forward, his suit sleeves and shoes flapping. In the middle, an older white haired man sits upright and raises one hand, his expressive face drawn in tight wrinkles. At right, a dark haired man with a broad open mouth thrusts a leg forward as if reacting to the leap. A small white bird flies overhead, and another tiny bird appears near the right background. Far below the ledge, a little boat or floating shape sits in the water. Across the river, a row of domed public buildings forms a faint city skyline under broad mostly blank sky. Fine pen contours, dense stippling, and layered hatching give the rhinoceros, clothing, and rough ground a gritty texture. White paper supplies the brightest areas, with gray ink density establishing all shadow. The composition is crowded at the cliff edge but spacious above and below, turning the unstable ride into a satirical visual gag. The result feels energetic, precise, and dryly comic.",
+  "full_prompt_zh": "一幅方形黑墨政治漫画描绘三位夸张的领导人骑在犀牛背上，犀牛沿陡峭河岸跃起。动物位于下方中央，沉重灰色身体由繁密排线刻画，尖角朝左伸。前脚离开粗糙崖缘，崖边向宽阔河流坍下，形成摇摇欲坠的动势。三名骑手头大身小。左边，戴眼镜、垂八字胡的男子前倾，西装袖口和鞋随动作飞起。中央，白发年长男子挺直坐着，一只手举起，表情由紧密皱纹画出。右边，深发男子大张嘴，一条腿向前伸，像对跳跃作出反应。小白鸟飞在头顶，右侧背景另有一只微小飞鸟。崖下很远处，河面上有一只小船或漂浮形状。河对岸，一排穹顶公共建筑在大片近空白天空下形成淡淡城景。细钢笔轮廓、密集点描和层叠排线赋予犀牛、衣服和粗地面砂砾肌理。纸白提供最亮区域，所有阴影由墨色密度建立。构图在崖边拥挤，却在上方和下方留出空间，把不稳骑行化成讽刺性视觉笑话。整体活跃、精确且带干冷幽默。",
+  "style_prompt_en": "Black ink political cartoon uses detailed crosshatching, precise contour drawing, and extreme proportional exaggeration. Several small forms with enlarged upper masses cluster above a heavy textured shape, all held near a dramatic uneven edge. Fine stippling and layered strokes build gray values without colored wash; untouched paper provides highlights and open air. The densest linework gathers in the foreground while distant elements reduce to thin light outlines. Curving silhouettes and abrupt diagonals create unstable motion, balanced by broad white space. Shadows are drawn through mark density, deepening beneath overlaps and inside rough crevices. The visual language is energetic, observant, and sharp, with intricate craft serving a clear satirical rhythm.",
+  "style_prompt_zh": "黑墨政治漫画使用细致交叉排线、精准轮廓素描和极端比例夸张。几块上部放大的小形体聚在一块沉重有纹理的形体上方，整体贴着戏剧性不平边缘。细点描与层叠笔划在没有彩色洗色的条件下建立灰阶；未着墨纸面提供高光和开放空气。最密集线条聚在前景，远处元素简化为浅薄细轮廓。弯曲剪影与突然的斜线产生不稳定运动，由宽阔留白平衡。阴影通过笔痕密度绘成，在重叠下方和粗糙裂隙里加深。视觉语言活跃、观察敏锐而尖锐，繁密手艺服务于清楚的讽刺节奏。",
+  "theme_en": "Three caricatured leaders riding a rhinoceros over a riverbank",
+  "theme_zh": "三位夸张领导人骑犀牛越过河岸",
+  "wh_ratio": "1:1",
+  "id": "0886",
+  "name": "Zapiro",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/zapiro",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/zapiro.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "d35d80c3eb9d0ba47ee29f6a31607aa1ad97fe78148bf67a0acce600eb020bd6",
+    "gpt_submission_prompt": "A square black ink political cartoon shows three caricatured leaders riding a rhinoceros as it bounds along the edge of a steep riverbank. The animal occupies the lower center, its heavy gray body drawn in intricate crosshatching and its horn projecting toward the left. Its front feet lift above a rough ledge that crumbles over a broad river, creating a precarious sense of motion. The three riders have oversized heads and undersized bodies. At left, a bespectacled man with a drooping mustache leans forward, his suit sleeves and shoes flapping. In the middle, an older white haired man sits upright and raises one hand, his expressive face drawn in tight wrinkles. At right, a dark haired man with a broad open mouth thrusts a leg forward as if reacting to the leap. A small white bird flies overhead, and another tiny bird appears near the right background. Far below the ledge, a little boat or floating shape sits in the water. Across the river, a row of domed public buildings forms a faint city skyline under broad mostly blank sky. Fine pen contours, dense stippling, and layered hatching give the rhinoceros, clothing, and rough ground a gritty texture. White paper supplies the brightest areas, with gray ink density establishing all shadow. The composition is crowded at the cliff edge but spacious above and below, turning the unstable ride into a satirical visual gag. The result feels energetic, precise, and dryly comic.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "b54bcadf85cf60e48950f1d9a7a2d0f0f1a83e7defd4d21cd9efdcfe89ff6afe",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

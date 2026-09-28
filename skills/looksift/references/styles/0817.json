@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square editorial cartoon shows a gray-haired man in glasses leaning over a cluttered table with his chin resting on one hand. He wears a blue shirt and red tie, and a cigarette or thin white stick projects from his lips. His expression is tired and skeptical, directed toward an absurd array of food, glasses, and machinery. A burger, plate of food, and drinking glass sit in front of him; behind them, a small robotic contraption and other eccentric objects crowd the room. A hanging lamp casts warm light from above, while sketchy framed pictures and pale blue walls fill the background. Fine ink outlines, cross-hatching, and colored-pencil-like texture give the figure crisp caricatured features, while watercolor washes in blue, warm cream, rust, and gray keep the scene lively. The foreground face is larger and more detailed than the busy secondary objects. Shadows under the brow and along the table give depth without losing the cartoon's readability. The composition feels deliberately overcrowded, but the man's pose provides a still center. The whole frame is witty, anxious, and observational, using a cluttered tabletop as an editorial stage for thought.",
+  "full_prompt_zh": "一幅方形编辑漫画呈现一位灰发戴眼镜的男子倚在拥挤桌前，一手托着下巴。他穿蓝衬衣和红领带，嘴边伸出香烟或细白棒。表情疲倦而怀疑，望着一堆荒诞的食物、杯子和机械。汉堡、餐盘与玻璃杯在面前，后方有小机器人装置和其他古怪物件挤满房间。一盏吊灯从上方投下暖光，速写般装框画和浅蓝墙面填满背景。细墨轮廓、交叉排线和彩铅般肌理使人物夸张五官清楚，蓝、暖乳白、锈色和灰的水彩薄染让场景活跃。前景面孔比繁忙的次要物件更大、更细致。眉下和桌边阴影提供纵深，却不损害漫画可读性。构图有意拥挤，但男子姿态提供静止中心。整幅画机智、焦虑、善于观察，用拥挤桌面为思考搭起编辑舞台。",
+  "style_prompt_en": "An editorial caricature style combines a carefully exaggerated focal face with a busy field of small satirical props. Fine ink contour, cross-hatching, and colored-pencil grain sharpen expression; loose watercolor washes keep the room light and imperfect. Cool blue, warm cream, rust, and gray share the frame, with a small red accent guiding the eye. Overhead practical light singles out the central gesture and tabletop while background sketches stay secondary. Density is deliberate but hierarchical: a still large figure faces many smaller objects. The mood is witty and uneasy, carried by precise line, cluttered staging, and human weariness.",
+  "style_prompt_zh": "编辑夸张漫画风格把精细夸张的焦点面孔与一片细小讽刺道具结合。细墨轮廓、交叉排线和彩铅颗粒强化表情；松动水彩薄染使室内轻盈且不完美。冷蓝、暖乳白、锈色和灰分享画框，一小处红色引视线。上方实用灯光挑出中央手势与桌面，背景速写保持次要。密度有意而层级明确：静止的大人物面对许多小物。气氛机智又不安，由准确线描、拥挤布景和人的疲惫承担。",
+  "theme_en": "A bespectacled man contemplates a crowded table of food and machines",
+  "theme_zh": "一位戴眼镜的男子面对挤满食物与机械的桌子沉思",
+  "wh_ratio": "1:1",
+  "id": "0817",
+  "name": "Matt Wuerker",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/matt-wuerker",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/matt-wuerker.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "c92e5b55c2592eafd4e5c1701ca70cfd8851482ddf2abca1506968e321ecdf5a",
+    "gpt_submission_prompt": "A square editorial cartoon shows a gray-haired man in glasses leaning over a cluttered table with his chin resting on one hand. He wears a blue shirt and red tie, and a cigarette or thin white stick projects from his lips. His expression is tired and skeptical, directed toward an absurd array of food, glasses, and machinery. A burger, plate of food, and drinking glass sit in front of him; behind them, a small robotic contraption and other eccentric objects crowd the room. A hanging lamp casts warm light from above, while sketchy framed pictures and pale blue walls fill the background. Fine ink outlines, cross-hatching, and colored-pencil-like texture give the figure crisp caricatured features, while watercolor washes in blue, warm cream, rust, and gray keep the scene lively. The foreground face is larger and more detailed than the busy secondary objects. Shadows under the brow and along the table give depth without losing the cartoon's readability. The composition feels deliberately overcrowded, but the man's pose provides a still center. The whole frame is witty, anxious, and observational, using a cluttered tabletop as an editorial stage for thought.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "d059e0b4218f91addd19d1ee7b9b86aa7c9bab58bd70ab09ec56cb3abe47503c",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

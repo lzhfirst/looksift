@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A cinematic painted scene frames a woman seated inside an aircraft cockpit, seen from the side in a moment of calm waiting. Her saturated rust-orange dress and folded hands form the warm center of the image. Around her, curved dark framing, weathered control surfaces, and deep turquoise upholstery enclose the space. Through the large window, pale blue light reveals rounded futuristic craft and structural arcs outside. She looks toward that distant activity rather than toward the viewer, so the composition feels caught between quiet interior time and a larger world just beyond the glass.\n\nThe rendering combines sturdy midcentury science-fiction illustration with atmospheric, painterly realism. Broad brush patches and scraped-looking texture describe metal and fabric; smaller crisp strokes define seams, window edges, and the profile. The palette has a limited but vivid contrast of orange red against petrol blue, teal, and near-black. Exterior light enters from the window at upper left, cooling the surroundings while grazing the face and sleeves. Inside shadows are broad and weighty, but enough reflected blue light separates each curved surface. Off-center placement and layered arcs give the square frame spatial depth. The mood is contemplative, not action filled. No readable words or symbols appear in the selected panel.",
+  "full_prompt_zh": "一幅电影感绘画场景从侧面框住坐在飞行器驾驶舱里的女子，呈现她安静等待的一刻。浓郁的锈橙色连衣裙和交叠的双手构成画面的暖色中心。周围，弯曲的深色框架、带旧痕的控制表面和深青绿座椅围合出舱内空间。透过宽大的舷窗，淡蓝色光线照出外面的圆形未来飞行器与弧状结构。她望向远方的活动，而非观看者，因此构图停在静谧的室内时间与玻璃之外更大世界之间。\n\n画法把扎实的二十世纪中叶科幻插画与有气氛的绘画写实结合起来。宽阔的笔刷色块和似刮擦的纹理描出金属与织物；更小、更清晰的笔触标出接缝、窗缘和侧脸。有限配色形成鲜明的橙红与汽油蓝、蓝绿及近黑色对照。外界光从左上舷窗进入，使周围偏冷，同时掠过面部和袖子。舱内阴影宽大而沉稳，但反射的蓝光足以分开每片弯曲表面。保留偏心的人物位置和层叠弧线，使方形画幅显得深而不扁平。情绪是沉思，而非动作场面。所选画面没有可辨认的字词或符号。",
+  "style_prompt_en": "A cinematic painted surface places a concentrated warm orange-red form within layered arcs of petrol blue, deep teal, and near-black. Broad, slightly scraped brush passages give large shadowed planes their weight, while smaller sharp marks articulate seams and lit edges. Cool light enters through an upper opening and softly grazes central contours; reflected turquoise light separates adjacent dark surfaces. The palette is narrow but vivid, and the warm-cool contrast carries much of the image's structure. Off-center placement and overlapping curves create a sheltered foreground with pale open space beyond. Painterly texture remains visible even in carefully modeled passages, giving the scene a midcentury speculative illustration character and a quiet, suspended mood.",
+  "style_prompt_zh": "电影感绘画表面将一团集中的暖橙红色放在层叠的汽油蓝、深蓝绿和近黑色弧线之间。宽阔、略似刮擦的笔触赋予大片阴影平面重量，较细而锐利的痕迹则挑明接缝和受光边缘。冷光从上方开口进入，轻轻掠过中央轮廓；反射的青绿色光把相邻暗面分开。色谱收敛却鲜明，冷暖对照承担了大部分画面结构。偏心的布置与重叠曲线形成受庇护的前层，并通向后方淡亮的开放空间。即使在仔细塑造的区域，绘画纹理仍然可见，呈现二十世纪中叶推想插画的气质和安静悬停的情绪。",
+  "theme_en": "A moment of waiting inside a retrofuturist cockpit",
+  "theme_zh": "复古未来驾驶舱中的等待片刻",
+  "wh_ratio": "1:1",
+  "id": "3125",
+  "name": "Dean Ellis",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/dean-ellis",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "957e52d7be0f1787168390934f0fee933102dafb52a089185d45bc0486b336f6",
+    "gpt_submission_prompt": "A cinematic painted scene frames a woman seated inside an aircraft cockpit, seen from the side in a moment of calm waiting. Her saturated rust-orange dress and folded hands form the warm center of the image. Around her, curved dark framing, weathered control surfaces, and deep turquoise upholstery enclose the space. Through the large window, pale blue light reveals rounded futuristic craft and structural arcs outside. She looks toward that distant activity rather than toward the viewer, so the composition feels caught between quiet interior time and a larger world just beyond the glass.\n\nThe rendering combines sturdy midcentury science-fiction illustration with atmospheric, painterly realism. Broad brush patches and scraped-looking texture describe metal and fabric; smaller crisp strokes define seams, window edges, and the profile. The palette has a limited but vivid contrast of orange red against petrol blue, teal, and near-black. Exterior light enters from the window at upper left, cooling the surroundings while grazing the face and sleeves. Inside shadows are broad and weighty, but enough reflected blue light separates each curved surface. Off-center placement and layered arcs give the square frame spatial depth. The mood is contemplative, not action filled. No readable words or symbols appear in the selected panel.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "1cdb898d30cedf2bf612693665a34a613e68e3714c34a784a904e01dc1636cbd",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

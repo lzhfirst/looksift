@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square anime-style illustration shows a young traveler in side profile beside the head of a huge white wolf. The traveler stands at the lower left, facing right, with short dark hair, a determined gaze and a red triangular mark on the cheek. A dense white fur hood or cape surrounds the shoulders, and a round bronze ornament sits near the ear. The wolf's head enters from the upper right, its pointed muzzle facing the same direction. Red markings cross the forehead and nose, and one golden eye peers past the traveler. Black featherlike tufts and rough white fur fill the upper left, making the two forms overlap closely. The background is a flat, weathered pale green gray, with scratched grain and little sense of place. Strong black contours define the faces and fur, while broad cream, charcoal and red shapes keep the design readable. Light is diffuse and slightly cool, brightening white fur and the traveler's cheek; darker folds and feather tips provide contrast. The image is tightly cropped, with the relationship between the calm human profile and alert animal face carrying all the drama. Painterly dry marks break the otherwise graphic surfaces. The composition feels protective and tense, using parallel gazes and repeated red accents to bind the two figures.",
+  "full_prompt_zh": "这幅方形动漫式插画呈现一位年轻旅者与巨大白狼的头并肩侧视。旅者位于左下、朝右，短深发，目光坚决，脸颊有红三角纹。密白毛帽或披肩围住肩部，耳旁有圆铜饰。狼头从右上进入，尖吻同向。红纹横过额头和鼻，一只金眼越过旅者望出。黑羽般毛束与粗白毛填满左上，使两形紧密重叠。背景是平坦磨旧的浅绿灰，有刮擦颗粒，几乎没有地点感。强黑轮廓界定面孔和毛发，宽奶油、炭和红形让设计易读。光漫散且略冷，照亮白毛与旅者脸颊；较暗褶和羽尖提供对比。图像裁切紧密，平静人侧面与警觉动物脸的关系承担全部戏剧性。干燥绘画笔记打断原本图形化表面。构图有保护性且紧张，以平行目光和重复红色点缀把两者连在一起。",
+  "style_prompt_en": "The anime-style image combines strong black contours, broad cream and charcoal masses, and sharp red graphic accents. Dry scratched grain roughens a subdued green gray ground. Diffuse cool light separates pale surfaces from dark clustered edges without heavy modeling. Two overlapping directional forms create a close, tense composition. Repetition of angular markings and parallel lines gives the image mythic visual force while preserving clarity.",
+  "style_prompt_zh": "这种动漫式图像把强黑轮廓、宽奶油和炭色色块与锐红图形点缀结合。干刮颗粒使低调绿灰底色变粗。漫散冷光把浅表面从深色簇边分出，而不依靠厚重体积塑造。两个重叠的定向形体建立贴近紧张的构图。棱角标记与平行线重复，让图像有神话式视觉力量，同时保持清楚。",
+  "theme_en": "A young traveler beside a white wolf with red markings",
+  "theme_zh": "带红纹白狼身旁的年轻旅者",
+  "wh_ratio": "1:1",
+  "id": "3408",
+  "name": "Mononoke",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/mononoke",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "e9de5351fa504e6c046f87e82cbdfc61444f5cf8c424bf420672249acfb8574c",
+    "gpt_submission_prompt": "A square anime-style illustration shows a young traveler in side profile beside the head of a huge white wolf. The traveler stands at the lower left, facing right, with short dark hair, a determined gaze and a red triangular mark on the cheek. A dense white fur hood or cape surrounds the shoulders, and a round bronze ornament sits near the ear. The wolf's head enters from the upper right, its pointed muzzle facing the same direction. Red markings cross the forehead and nose, and one golden eye peers past the traveler. Black featherlike tufts and rough white fur fill the upper left, making the two forms overlap closely. The background is a flat, weathered pale green gray, with scratched grain and little sense of place. Strong black contours define the faces and fur, while broad cream, charcoal and red shapes keep the design readable. Light is diffuse and slightly cool, brightening white fur and the traveler's cheek; darker folds and feather tips provide contrast. The image is tightly cropped, with the relationship between the calm human profile and alert animal face carrying all the drama. Painterly dry marks break the otherwise graphic surfaces. The composition feels protective and tense, using parallel gazes and repeated red accents to bind the two figures.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "66c949f664f6dc5838aec1b4dfb4606ed948ae8925440e1484bc6494248ddb26",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

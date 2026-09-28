@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square decorative folk painting shows two small blue owls perched close together on a thick red branch. Their round golden eyes face the viewer, while the beaks and feather marks are reduced to neat dark and white details. The branch grows from a strong trunk at the left, splitting across the frame beneath a canopy of repeated blue leaves. Behind the birds, a large yellow-orange sun fills much of the upper middle, and the remaining sky is a saturated vermilion red. The lower area becomes a red-orange band with fine dot texture, with almost no conventional ground or depth. The owls are placed just below the sun's center, their paired shapes forming a calm, symmetrical focus within the branching movement. Each blue feather area is filled with tiny repeated strokes and spots, while the leaves have similarly patterned interiors. The tree's contour is clean and graphic, but the densely stippled surface gives the flat colors a handmade rhythm. Lighting is symbolic and even; the yellow disc functions as a bold color shape rather than casting realistic shadows. The palette is deliberately limited to red, orange, yellow, dark blue, and small white marks. No readable lettering appears. The overall composition is joyful and ordered, with repeating pattern binding birds, leaves, and background into one vibrant surface.",
+  "full_prompt_zh": "一幅方形装饰性民俗绘画描绘两只小蓝猫头鹰紧挨着停在一根粗红树枝上。圆圆金眼面向观看者，鸟喙和羽毛痕迹被简化为整齐的深色与白色细节。树枝从左侧有力树干生出，横穿画幅分叉，上方是反复的蓝叶树冠。鸟后，一轮大黄橙太阳占据上方中央大半空间，其余天空是饱和朱红。下方区域变成带细点纹理的红橙色带，几乎没有寻常地面或深度。两只猫头鹰位于太阳中心稍下，成对形体在分枝运动中形成平静对称焦点。每片蓝羽区域填满细小重复笔迹和斑点，叶片内部同样有图案。树轮廓干净图形化，但密集点描表面让平涂颜色有手作节奏。照明象征性且均匀；黄色圆盘是大胆色形，而非真实投影光源。色谱有意限制于红、橙、黄、深蓝和少量白笔。没有可辨认文字。整体构图欢乐而有序，重复图案把鸟、叶和背景绑成一片鲜活表面。",
+  "style_prompt_en": "A decorative folk-painted surface fills clean graphic shapes with dense dots, short strokes, and repeated small motifs. Saturated vermilion and orange form a warm field behind a broad yellow circle; deep blue clusters and narrow white marks provide sharp cool contrast. Thick branching curves establish structure, while many small leaflike marks make a rhythmic canopy above a paired central focus. Depth is intentionally shallow and lighting even, so color adjacency and pattern carry the image. The matte handmade texture prevents the flat areas from feeling mechanically uniform. The composition is joyful and orderly, balancing strong simple masses with intricate interior marks.",
+  "style_prompt_zh": "装饰性民俗绘画表面在干净图形形状中填入密集点、短笔和反复小纹样。饱和朱红与橙色构成暖场，衬托宽阔黄圆；深蓝团块与狭窄白痕形成尖锐冷对比。粗壮分枝曲线建立结构，许多小叶状笔迹在成对中央焦点上方织成有节奏的冠。深度有意压浅，照明均匀，因此色彩相邻和图案承担图像。哑光手工纹理使平色区不显机械均匀。构图欢乐而有序，以有力简单大形平衡复杂内部小痕。",
+  "theme_en": "Two blue owls perched before a golden sun in a red tree",
+  "theme_zh": "红树枝上两只蓝猫头鹰与金色太阳",
+  "wh_ratio": "1:1",
+  "id": "2806",
+  "name": "Gond painting",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/gond-painting",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/gond-painting.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "5eeb8a3d6ca7d4bb659d1204eda90c6271688a8a8db06d9728258051bdbee68c",
+    "gpt_submission_prompt": "A square decorative folk painting shows two small blue owls perched close together on a thick red branch. Their round golden eyes face the viewer, while the beaks and feather marks are reduced to neat dark and white details. The branch grows from a strong trunk at the left, splitting across the frame beneath a canopy of repeated blue leaves. Behind the birds, a large yellow-orange sun fills much of the upper middle, and the remaining sky is a saturated vermilion red. The lower area becomes a red-orange band with fine dot texture, with almost no conventional ground or depth. The owls are placed just below the sun's center, their paired shapes forming a calm, symmetrical focus within the branching movement. Each blue feather area is filled with tiny repeated strokes and spots, while the leaves have similarly patterned interiors. The tree's contour is clean and graphic, but the densely stippled surface gives the flat colors a handmade rhythm. Lighting is symbolic and even; the yellow disc functions as a bold color shape rather than casting realistic shadows. The palette is deliberately limited to red, orange, yellow, dark blue, and small white marks. No readable lettering appears. The overall composition is joyful and ordered, with repeating pattern binding birds, leaves, and background into one vibrant surface.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "58c58fc97c7b56ab5ae0732dbb0b4ef2eab62a529d6340185a0f4f2b97fe2ccf",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A lone traveler stands on a rocky lakeshore in the lower center, facing a distant city of slender towers. The city glows with copper and apricot light along the far bank, while a vast ringed planet fills the deep blue sky behind it. A smaller bright celestial point sits off to the right. The still water mirrors the towers and the warm horizon, broken only by the uneven foreground stones and narrow grasses. Dark trees bracket the view and give the grand scale a quiet, human point of entry.\n\nThe illustration combines detailed science-fiction worldbuilding with painterly atmosphere. Cobalt and ultramarine dominate the sky, contrasting with warm salmon, gold, and rust in the planet and city. Small crisp strokes describe spires, shoreline rocks, and vegetation; the giant planetary surface is smoother, with sweeping bands and soft mottling. Twilight light falls low and sideways, leaving the near shore cool and dark while the far structures seem internally luminous. The horizon sits just below the midpoint, and the great circular mass takes command of the upper frame. Repeated vertical towers and their reflections make a measured rhythm against the curved celestial form. The mood is full of wonder and distance, with tactile brush texture in the foreground and no legible lettering in the selected panel.",
+  "full_prompt_zh": "一名独行旅者站在下方中央的岩石湖岸，望向远处细塔林立的城市。城市在对岸发出铜橙与杏色光，巨大的带环星球占满其后的深蓝天空。右侧还有一点较小的明亮天体。静水映出尖塔与暖色地平线，只被不规则的前景石块和细草打断。深色树木从两边框住景色，让宏大的尺度有了安静的人类入口。\n\n插画将细致的科幻世界构建与绘画气氛结合。钴蓝和群青主导天空，与星球和城市里的暖鲑色、金色、锈色对照。细小清晰的笔触描写尖塔、岸石与植被；巨大的星球表面更平滑，带扫过的色带和柔和斑纹。暮光低而侧向地落下，让近岸冷暗，远处结构仿佛从内部发亮。地平线略低于中点，巨大的圆形体占据上半幅。重复的竖塔及其倒影与弯曲天体形成有分寸的节奏。情绪充满惊奇与距离感，前景有可触的笔刷纹理，所选图像没有可辨认文字。",
+  "style_prompt_en": "A vast smooth circular form dominates a saturated cobalt-blue field above a narrow band of warm, intricate silhouettes. Copper, apricot, gold, and rust glow at the horizon against cool ultramarine and near-black foreground shapes. Small crisp strokes build thin vertical rhythms and stony textures, while broad soft bands and mottling give the upper mass atmospheric scale. A still reflective plane repeats the far forms with gentle distortion. Low twilight light keeps the near edge dark and allows the distance to seem luminous. The composition balances an enormous curve with tiny repeated spires and a single minute anchor near the bottom. It is painterly, detailed, and contemplative, with a clear sense of wonder and open distance.",
+  "style_prompt_zh": "巨大的平滑圆形体主导浓钴蓝色场域，下方只有一条暖色而精细的剪影带。铜橙、杏色、金色和锈色在地平线发亮，对照冷群青与近黑的前层形状。细小清晰的笔触建立纤细竖向节奏和石质纹理，宽阔柔和色带与斑纹则赋予上方体块空气尺度。静止反光平面以轻微变形重复远处形状。低处暮光让近边深暗，使远景像在发光。构图用巨大曲线平衡细小重复尖形与底部唯一微小锚点。整体绘画性强、细节丰富且沉思，具有清楚的惊奇感与开放距离。",
+  "theme_en": "A lone traveler watching a distant city under a giant planet",
+  "theme_zh": "孤旅者仰望巨星下的远城",
+  "wh_ratio": "1:1",
+  "id": "3186",
+  "name": "Barclay Shaw",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/barclay-shaw",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "9b7838a5e31d5c5d542d03a4dc3749ba6d579ef764d728fbbb5f10105da4c162",
+    "gpt_submission_prompt": "A lone traveler stands on a rocky lakeshore in the lower center, facing a distant city of slender towers. The city glows with copper and apricot light along the far bank, while a vast ringed planet fills the deep blue sky behind it. A smaller bright celestial point sits off to the right. The still water mirrors the towers and the warm horizon, broken only by the uneven foreground stones and narrow grasses. Dark trees bracket the view and give the grand scale a quiet, human point of entry.\n\nThe illustration combines detailed science-fiction worldbuilding with painterly atmosphere. Cobalt and ultramarine dominate the sky, contrasting with warm salmon, gold, and rust in the planet and city. Small crisp strokes describe spires, shoreline rocks, and vegetation; the giant planetary surface is smoother, with sweeping bands and soft mottling. Twilight light falls low and sideways, leaving the near shore cool and dark while the far structures seem internally luminous. The horizon sits just below the midpoint, and the great circular mass takes command of the upper frame. Repeated vertical towers and their reflections make a measured rhythm against the curved celestial form. The mood is full of wonder and distance, with tactile brush texture in the foreground and no legible lettering in the selected panel.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "95492da1fd6d6d41f500ac35fac84bc008ad246f63ccaa2b0265e675088b22ad",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

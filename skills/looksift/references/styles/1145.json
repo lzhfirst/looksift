@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square narrative oil illustration shows a pale-faced man in a dark suit standing on a few rough steps before a crowded room. He leans with one foot raised, one hand gesturing outward, and a red neck accent catches light at his chest. Men in caps and dark jackets cluster along the left, some seated and some looking up toward him. In the lower foreground, a woman in a vivid red dress sits with her back toward the viewer, making the audience's attention visible through her turned head. Another large figure in a rust-red shirt and cap stands at the right edge, partly blocking the steps. The room is suggested by pale, worn wall panels and sketchy structural lines rather than precise architecture. The composition is busy and compressed, but the speaker's dark silhouette against the light central wall remains easy to read. Brushwork alternates between broad scraped blocks and quick fine accents on faces and hands. Muted sage, charcoal, cream, umber, and rust red dominate; the reds mark the foreground and the speaker's chest. Light from the upper left brightens the central wall and selected faces while deep shadows gather in the crowd. No readable lettering appears. The overall scene feels charged and historical, with loose paint preserving the energy of many bodies in a small space.",
+  "full_prompt_zh": "一幅方形叙事油画插画描绘一名面色苍白的男子穿深色西装，站在粗糙的几级台阶上，对拥挤室内讲话。他倚身，一脚抬高，一手向外示意，胸前一抹红色颈饰接住光。左边戴帽、穿深夹克的男子们挤在一起，有人坐着，有人抬头看他。下方前景，一名穿鲜红裙的女子背对观看者坐着，转过去的头使听众注意力可见。另一名穿锈红衬衫、戴帽的大人物站在右边缘，部分挡住台阶。房间由浅色磨旧墙板和草图样结构线暗示，而非精确建筑。构图繁忙而压紧，但演说者的深剪影在中央浅墙前仍容易辨认。笔触在宽阔刮擦色块与脸、手上的迅速细重音之间变化。暗鼠尾草绿、炭灰、乳白、赭褐和锈红占主导；红色标出前景与演说者胸前。光从左上照亮中央墙和部分面容，人群里聚起深影。没有可辨认文字。整体场景紧张且有历史感，松动颜料保留小空间里众多身体的能量。",
+  "style_prompt_en": "A narrative oil-illustration surface places loose scraped color blocks beside quick fine accents. Muted sage, charcoal, cream, umber, and rust red build a crowded shallow space with one pale central area holding a dark silhouette clearly. Upper-side light selects a few planes and leaves overlapping outer forms in deep shadow. Figures and structural marks press together, yet value contrast preserves the focal action. Edges are often broken and brush-driven rather than carefully sealed; small sharper marks give expression at key points. Warm red accents repeat across the lower and middle field. The overall rhythm is charged, painterly, and compressed, with human movement suggested through energetic handling rather than photographic finish.",
+  "style_prompt_zh": "叙事油画插画表面让松动刮擦色块与迅速细重音并置。暗鼠尾草绿、炭灰、乳白、赭褐与锈红搭建拥挤浅空间，一片浅色中央区域清楚托住深色剪影。上侧光选择少数平面照亮，外围重叠形留在深影中。形体和结构笔迹互相挤压，明度对比仍保存焦点动作。边缘常断开、由笔刷驱动，而非仔细封死；少数更尖锐小笔迹在关键处提供表情。暖红重音在下方和中部反复。整体节奏紧张、绘画性强且压紧，运动由富能量的处理暗示，而非摄影式收尾。",
+  "theme_en": "A speaker addressing a crowded room from a stair landing",
+  "theme_zh": "演说者站在楼梯平台对拥挤房间讲话",
+  "wh_ratio": "1:1",
+  "id": "1145",
+  "name": "Mead Schaeffer",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/mead-schaeffer",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/mead-schaeffer.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "cc7068f35e72e66ee522c3cb1646dba274415541e7116f0b789d3f8bd84eb7e3",
+    "gpt_submission_prompt": "A square narrative oil illustration shows a pale-faced man in a dark suit standing on a few rough steps before a crowded room. He leans with one foot raised, one hand gesturing outward, and a red neck accent catches light at his chest. Men in caps and dark jackets cluster along the left, some seated and some looking up toward him. In the lower foreground, a woman in a vivid red dress sits with her back toward the viewer, making the audience's attention visible through her turned head. Another large figure in a rust-red shirt and cap stands at the right edge, partly blocking the steps. The room is suggested by pale, worn wall panels and sketchy structural lines rather than precise architecture. The composition is busy and compressed, but the speaker's dark silhouette against the light central wall remains easy to read. Brushwork alternates between broad scraped blocks and quick fine accents on faces and hands. Muted sage, charcoal, cream, umber, and rust red dominate; the reds mark the foreground and the speaker's chest. Light from the upper left brightens the central wall and selected faces while deep shadows gather in the crowd. No readable lettering appears. The overall scene feels charged and historical, with loose paint preserving the energy of many bodies in a small space.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "6e0015c887f2b91caf962263c58de6e98c812eb58b03e216d95521a22215e3d9",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

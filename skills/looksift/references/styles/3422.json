@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square gothic character illustration centers an eccentric, narrow-shouldered figure holding a small old-fashioned camera at the lower left. The figure has a long pale face, extremely wide ringed eyes, a small mouth, and a mass of unruly dark curls rising and folding outward. A red-brown coat with textured lapels lies over a dark waistcoat, and a round metal ornament hangs at the throat. One hand grips the camera, whose lens, knobs, and angular casing are carefully modeled as tactile metal parts. Behind the figure, the wall is crowded with large gray spiral patterns that curl around the head without merging into it. The color scheme stays muted: bone white skin, charcoal and warm black hair, rusty red fabric, and stone gray background. Soft side lighting brightens the face and camera while leaving darker pockets in the hair and clothing. The facial proportions are deliberately elongated and doll-like, with a still expression that feels both curious and uneasy. Fine etched lines and mottled paint texture give the image a handmade, slightly weathered surface. The close frontal framing lets the eyes dominate, while the spirals create restless movement behind an otherwise motionless pose. The whole composition balances whimsical invention with melancholy theatricality, using shape and texture more than action to establish its strange atmosphere.",
+  "full_prompt_zh": "一幅方形哥特式人物插画把一位肩膀狭窄的古怪人物放在中央，他在左下方握着一台老式小相机。人物面孔苍白而细长，眼睛极大并带环状眼圈，嘴巴小，凌乱的深色卷发向上蓬起并向外翻折。带肌理的红褐色外套翻领覆盖深色背心，喉间垂着圆形金属饰件。一只手抓住相机，镜头、旋钮和棱角分明的机身都以可触的金属质感仔细塑造。人物身后的墙面布满巨大的灰色螺旋纹，它们绕着头部卷曲，却没有与头发混在一起。配色保持压低：骨白皮肤、炭灰与暖黑头发、锈红布料及石灰色背景。柔和的侧光照亮面孔与相机，在头发和衣物中留下更深的暗部。面部比例被有意拉长，带玩偶感；静止的神情同时显得好奇与不安。纤细刻线和斑驳的颜料肌理赋予图像手工制作、略显风化的表面。贴近正面的取景让双眼占据主导，螺旋纹则在几乎不动的姿态后方制造躁动。整体构图以形状和纹理而非动作，在奇想发明与忧郁舞台感之间建立奇异氛围。",
+  "style_prompt_en": "Gothic storybook character art with elongated doll-like proportions, oversized circular eyes, and sculptural unruly contours. Bone white, charcoal, rusty red, and stone gray form a subdued palette. Soft directional light pulls selected forms forward while fine etched marks and mottled paint keep surfaces tactile. Repeated spirals or other curling geometry provide visual agitation behind a still focal silhouette. Carefully rendered small objects can contrast with deliberately exaggerated anatomy, creating whimsical unease and quiet theatricality.",
+  "style_prompt_zh": "哥特式故事书人物画以拉长的玩偶比例、夸张的圆眼和雕塑般凌乱的轮廓为特征。骨白、炭灰、锈红与石灰色组成低饱和配色。柔和定向光把局部形体推向前景，纤细刻线和斑驳颜料保持可触的表面。重复螺旋或其他卷曲几何纹样在静止的焦点剪影背后制造视觉躁动。细致刻画的小物件与有意夸张的解剖形成对比，营造奇想、不安与安静的舞台感。",
+  "theme_en": "An eccentric inventor holding a small camera against a swirling wall",
+  "theme_zh": "古怪发明家手持小相机站在旋纹墙前",
+  "wh_ratio": "1:1",
+  "id": "3422",
+  "name": "Tim Burton",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/tim-burton",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "b8e5e4d6fd2057aecf0a31d086640525517a66028372863d419ef043fdd579a8",
+    "gpt_submission_prompt": "A square gothic character illustration centers an eccentric, narrow-shouldered figure holding a small old-fashioned camera at the lower left. The figure has a long pale face, extremely wide ringed eyes, a small mouth, and a mass of unruly dark curls rising and folding outward. A red-brown coat with textured lapels lies over a dark waistcoat, and a round metal ornament hangs at the throat. One hand grips the camera, whose lens, knobs, and angular casing are carefully modeled as tactile metal parts. Behind the figure, the wall is crowded with large gray spiral patterns that curl around the head without merging into it. The color scheme stays muted: bone white skin, charcoal and warm black hair, rusty red fabric, and stone gray background. Soft side lighting brightens the face and camera while leaving darker pockets in the hair and clothing. The facial proportions are deliberately elongated and doll-like, with a still expression that feels both curious and uneasy. Fine etched lines and mottled paint texture give the image a handmade, slightly weathered surface. The close frontal framing lets the eyes dominate, while the spirals create restless movement behind an otherwise motionless pose. The whole composition balances whimsical invention with melancholy theatricality, using shape and texture more than action to establish its strange atmosphere.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "fcb1b77051a77b2e4378a9d21899d0c31a39b16f200a02d3b5d7066180aecc5a",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

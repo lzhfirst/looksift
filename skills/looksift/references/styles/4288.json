@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square illustrated character study shows an upright traveling mouse against mostly white paper. The mouse has large round ears, fine whiskers, and a small alert eye. Goggles rest on the head above a weathered blue-gray coat and layered cream shirt. An oversized brown backpack bulges with rolled blankets, pouches, and small tools, while a thin walking stick or antenna rises behind it. One paw holds a small folded map or note, and a battered leather suitcase stands by the feet. The long tail trails across the open ground toward the right. Fine pencil and ink outlines describe fur, stitches, straps, buckles, and scuffed luggage corners. Transparent watercolor or gouache washes in gray, taupe, ochre, and faded blue give gentle form without obscuring the drawing. A small soft shadow anchors the feet and case; the rest of the background remains empty, making every traveling detail easy to read. The character stands in three-quarter view, slightly turned as if ready to depart. The whole image feels practical, endearing, and adventurous, like a carefully worked concept sketch from a picture book with tactile paper and modest color.",
+  "full_prompt_zh": "一幅方形插画人物习作把一只直立旅行老鼠放在几乎全白的纸面前。老鼠有大圆耳、细胡须和一只警觉的小眼睛。护目镜架在头顶，身穿风化蓝灰外套与层叠乳白衬衣。过大的棕色背包塞满卷毯、袋子和小工具，一根纤细手杖或天线从后方升起。一只爪子拿着折起的小地图或便条，脚旁立着磨旧皮箱。长尾沿开放地面向右拖开。细铅笔与墨线描写毛发、缝线、背带、扣件和刮伤的箱角。灰、灰褐、赭与褪色蓝的透明水彩或不透明水彩薄染轻轻塑形，不遮住线稿。脚与箱下的小柔影把它们压在地面；其余背景保持空白，使旅行细节都易读。角色以四分之三角度站立，略微转身，像随时准备出发。整幅画实用、讨喜、富于冒险感，像一本图画书里细致绘制的人物概念稿，纸面可触、配色适度。",
+  "style_prompt_en": "A picture-book character-sketch style combines delicate pencil and ink outline with restrained watercolor or gouache washes. Faded blue, taupe, ochre, cream, and gray distinguish cloth, leather, fur, and small metal fittings. A central full-body form stands against largely untouched paper, with a modest ground shadow for weight. Many tiny practical objects can gather around a clear silhouette without making it unreadable. Stitches, straps, buckles, fur, and scuffs are rendered through material-specific line work. Slightly irregular contours and paper grain preserve the exploratory concept-drawing quality. The mood is endearing and adventurous, grounded in tactile everyday equipment.",
+  "style_prompt_zh": "图画书人物速写风格把纤细铅笔墨线与克制水彩或不透明水彩薄染结合。褪色蓝、灰褐、赭、乳白和灰区分布料、皮革、毛发与小金属扣件。中央全身形体站在大面积未着墨纸面上，一小片地面柔影赋予重量。许多实用小物可围住清楚剪影，而不使其难读。缝线、背带、扣、毛发和磨痕由针对材质的线描表现。略不规则轮廓和纸纹保留探索性概念绘图性质。气氛讨喜又富冒险感，扎根于可触的日常装备。",
+  "theme_en": "A traveling mouse with goggles, coat, backpack and suitcase",
+  "theme_zh": "一只戴护目镜、穿外套、背行囊并提箱子的旅行老鼠",
+  "wh_ratio": "1:1",
+  "id": "4288",
+  "name": "Jean-Baptiste Monge",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/jean-baptiste-monge.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "c12651784478b1c577c1511bca5ab5b79b9828eecd8e7be661188c6dffc9eb58",
+    "gpt_submission_prompt": "A square illustrated character study shows an upright traveling mouse against mostly white paper. The mouse has large round ears, fine whiskers, and a small alert eye. Goggles rest on the head above a weathered blue-gray coat and layered cream shirt. An oversized brown backpack bulges with rolled blankets, pouches, and small tools, while a thin walking stick or antenna rises behind it. One paw holds a small folded map or note, and a battered leather suitcase stands by the feet. The long tail trails across the open ground toward the right. Fine pencil and ink outlines describe fur, stitches, straps, buckles, and scuffed luggage corners. Transparent watercolor or gouache washes in gray, taupe, ochre, and faded blue give gentle form without obscuring the drawing. A small soft shadow anchors the feet and case; the rest of the background remains empty, making every traveling detail easy to read. The character stands in three-quarter view, slightly turned as if ready to depart. The whole image feels practical, endearing, and adventurous, like a carefully worked concept sketch from a picture book with tactile paper and modest color.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "12a2d3d1ff54497d647b6341e9ffac9c265741d8d16a9ec41cb38746e6a4173a",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

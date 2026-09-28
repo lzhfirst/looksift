@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square painterly illustration shows an elderly white-haired man sitting thoughtfully in a dim and cluttered workshop. The back wall is dark brown and olive, with shelves, jars, and circular objects barely emerging from shadow. He sits near the center on a low stool or bench, leaning forward with one elbow on his knee and his hand near his mouth. His rolled pale sleeves catch the warm light, while a dark green vest and trousers fold into the room's deeper tones. Thick white hair and beard frame a face mostly turned downward. A broad wooden work surface behind him holds several glass vessels and small tools; one rounded translucent bottle at the right catches a concentrated gold highlight. In the lower foreground, scattered papers, small objects, and a squat green turtle-like form occupy the floor. Their shapes are suggested with quick, rough marks rather than meticulous outlines. The room feels densely used, but the man's pale head and shirt remain the stable focal point amid the surrounding objects. Paint is applied in thick broken touches, with scraped dark passages and flashes of ochre, moss green, cream, and brass. Warm localized light falls from the upper left onto his head, sleeve, nearby glass, and the center of the floor; corners and overhead shelves remain nearly black. The overall composition is intimate and reflective, using luminous small details to draw a quiet figure out of heavy, tactile shadow.",
+  "full_prompt_zh": "这是一幅方形绘画插画，一位白发老人坐在昏暗而杂乱的工作室里沉思。后墙呈深褐与橄榄色，架子、罐子和圆形物件仅隐约从阴影里浮现。他靠近中央坐在低凳或长椅上，身体前倾，一肘撑膝，手靠近嘴部。卷起的浅色袖子接住暖光，深绿色马甲和长裤则折入室内更深色调。浓密白发与胡须围住一张大多朝下的脸。身后宽木工作台摆着几只玻璃器皿和小工具；右侧一只圆形透明瓶接住集中的金色高光。下方前景地面散落纸张、小物件和一个矮胖的绿色龟状形体。它们以迅疾粗略笔痕暗示，而非细密勾线。房间显得频繁使用，但老人的浅色头部和衬衫仍是周围物件之间稳定的焦点。颜料以厚实断续笔触涂布，深色处有刮擦痕，并闪出赭、苔绿、奶油与黄铜色。局部暖光从左上方落在头、袖、附近玻璃与地面中心；角落和头顶架子仍近乎全黑。整体构图贴近而沉思，以发光的小细节把安静人物从厚重可触的阴影中引出。",
+  "style_prompt_en": "The illustration is built from thick, broken painterly strokes and a dark old-master palette of umber, olive, ochre, cream, and muted brass. Focal pale areas receive warm concentrated light, while surrounding forms are allowed to merge into near-black textured shadow. Hard objects gain brief sharp highlights but retain loose, scraped edges elsewhere. Small glints are distributed through a dense interior field, guiding the eye toward a calmer central mass. Brush marks remain visible and uneven, giving matte surfaces a handled, aged quality and reflective ones a narrow glow. The space feels layered and close rather than clean or expansive. The overall effect is rugged, atmospheric, and quietly introspective.",
+  "style_prompt_zh": "插画由厚实断续的绘画笔触，以及赭褐、橄榄、赭色、奶油与低调黄铜构成的古典深色盘建立。浅色焦点区域接住集中的暖光，周围形体则容许融入近黑的带肌理阴影。坚硬形体获得短促锐利高光，其余边缘仍松动且有刮擦感。小亮点分散在密集场域内，引导视线走向较安静的中央团块。笔触可见且不均，赋予哑光表面被使用、带年代感的质地，反光表面则出现细窄亮泽。空间层叠而贴近，不显干净或开阔。整体效果粗粝、有氛围且安静内省。",
+  "theme_en": "An elderly man sitting thoughtfully in a cluttered workshop",
+  "theme_zh": "一位老人在杂乱工作室里沉思而坐",
+  "wh_ratio": "1:1",
+  "id": "2381",
+  "name": "Arthur Suydam",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/arthur-suydam",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/arthur-suydam.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "1ca9d3a4974e4711be26fcda1791727bbdf2d0f228679d10de17f89117a5942b",
+    "gpt_submission_prompt": "A square painterly illustration shows an elderly white-haired man sitting thoughtfully in a dim and cluttered workshop. The back wall is dark brown and olive, with shelves, jars, and circular objects barely emerging from shadow. He sits near the center on a low stool or bench, leaning forward with one elbow on his knee and his hand near his mouth. His rolled pale sleeves catch the warm light, while a dark green vest and trousers fold into the room's deeper tones. Thick white hair and beard frame a face mostly turned downward. A broad wooden work surface behind him holds several glass vessels and small tools; one rounded translucent bottle at the right catches a concentrated gold highlight. In the lower foreground, scattered papers, small objects, and a squat green turtle-like form occupy the floor. Their shapes are suggested with quick, rough marks rather than meticulous outlines. The room feels densely used, but the man's pale head and shirt remain the stable focal point amid the surrounding objects. Paint is applied in thick broken touches, with scraped dark passages and flashes of ochre, moss green, cream, and brass. Warm localized light falls from the upper left onto his head, sleeve, nearby glass, and the center of the floor; corners and overhead shelves remain nearly black. The overall composition is intimate and reflective, using luminous small details to draw a quiet figure out of heavy, tactile shadow.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "1d80f614068e550a448e8a066622c691447568a6751b1112c43d050aef507e86",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

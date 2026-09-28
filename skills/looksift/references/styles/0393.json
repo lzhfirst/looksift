@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square color photograph presents a small, box-shaped seaside building in a nearly empty paved setting. The structure fills the middle of the frame but leaves a broad band of clean blue sky above and a pale concrete forecourt below. Its walls are a light, slightly weathered cyan. A taller rectangular upper block rises from the center-right, with a single white-framed window and a narrow rust-red railing crossing in front of it. Beneath, a flat roof projects over the lower level. At far left a white garage door sits under the same cyan facade. Near the center, a modest rust-red entrance door breaks the pale wall, flanked by a tiny utility fitting and a dark recess beneath the overhang. The roof edge, balcony rail, window frames, pavement joints, and curb form a grid of straight horizontal and vertical lines. A few small fixtures and stains remain visible near the base, but no people or cars interrupt the frontal view. The sky is an even turquoise-blue, only faintly lighter toward the horizon. Hard sunlight arrives from the upper left, making the wall broadly bright while leaving a compact dark shadow below the projecting roof and to the side of the door. The camera is level and square to the facade, flattening depth into adjoining color planes. The vacant foreground emphasizes the precise placement of each opening and the contrast between cyan, white, and red. The overall composition is quiet, geometric, and sun-washed, turning an ordinary roadside building into a spare study of color and proportion.",
+  "full_prompt_zh": "一幅方形彩色照片呈现一栋小型方盒状海边建筑，四周是近乎空荡的铺装场地。建筑占据画面中部，上方仍留一条宽阔纯净蓝天，下方则是浅色混凝土前场。墙面为略有风化的浅青色。较高的矩形上层从中央偏右升起，只有一扇白框窗，窗前横过细窄锈红栏杆。下方，平顶向外挑出，遮住底层。最左侧有一扇白车库门，也嵌在同一青色立面中。靠近中央，小巧的锈红入口门打破浅墙，旁边有细小设施，门上方挑檐下留深色凹处。屋檐、栏杆、窗框、铺地接缝与路缘组成笔直的横竖线网格。基部还可见几个小配件和污痕，但没有人车打断正面视角。天空均匀地呈青蓝色，越近地平线略浅。硬阳光从左上照来，使墙面整体明亮，只在挑檐下和门侧留下紧凑深影。相机保持水平并正对立面，把纵深压成相邻色面。空旷前景强调每个开口的位置以及青、白、红之间的反差。整体构图安静、几何、浸满阳光，把一栋普通路边建筑化成关于色彩和比例的简洁研究。",
+  "style_prompt_en": "Use a level, frontal color-photography approach that turns ordinary surfaces into precise geometric planes. Keep a broad zone of clear turquoise or cyan, generous empty foreground or sky, and a few small warm red accents. Align straight horizontal and vertical edges carefully, with minimal perspective distortion. Hard clean daylight creates compact shadows under projecting edges and reveals subtle weathering without clutter. Favor quiet repetition, flat color relationships, and isolated details placed with measured spacing.",
+  "style_prompt_zh": "采用水平正面的彩色摄影，把日常表面转为精确几何色面。保留大面积纯净青绿或浅蓝、宽阔空前景或天空，并以少量暖红作点缀。细致对齐横竖直边，尽量减少透视畸变。干净硬日光在突出边缘下形成紧凑阴影，也显出轻微风化而不杂乱。偏重安静重复、平面色彩关系，以及有节制间距中的孤立细节。",
+  "theme_en": "A pale cyan box-shaped building with a red door and empty paved forecourt",
+  "theme_zh": "浅青色方盒建筑、红门与空旷铺装前场",
+  "wh_ratio": "1:1",
+  "id": "0393",
+  "name": "Matthias Heiderich",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/matthias-heiderich",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/matthias-heiderich.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "f9ee0a09793c1643854525c8945ad92f331947dd8c9e40755b02ac7030d43760",
+    "gpt_submission_prompt": "A square color photograph presents a small, box-shaped seaside building in a nearly empty paved setting. The structure fills the middle of the frame but leaves a broad band of clean blue sky above and a pale concrete forecourt below. Its walls are a light, slightly weathered cyan. A taller rectangular upper block rises from the center-right, with a single white-framed window and a narrow rust-red railing crossing in front of it. Beneath, a flat roof projects over the lower level. At far left a white garage door sits under the same cyan facade. Near the center, a modest rust-red entrance door breaks the pale wall, flanked by a tiny utility fitting and a dark recess beneath the overhang. The roof edge, balcony rail, window frames, pavement joints, and curb form a grid of straight horizontal and vertical lines. A few small fixtures and stains remain visible near the base, but no people or cars interrupt the frontal view. The sky is an even turquoise-blue, only faintly lighter toward the horizon. Hard sunlight arrives from the upper left, making the wall broadly bright while leaving a compact dark shadow below the projecting roof and to the side of the door. The camera is level and square to the facade, flattening depth into adjoining color planes. The vacant foreground emphasizes the precise placement of each opening and the contrast between cyan, white, and red. The overall composition is quiet, geometric, and sun-washed, turning an ordinary roadside building into a spare study of color and proportion.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "679575174dd70d642016d12ed8067ce4b65ceb16497c0f194bf94ea8d81947cf",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

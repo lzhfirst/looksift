@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A black-and-white studio fashion portrait presents a woman in a poised three-quarter view, her head angled back slightly as she looks past the camera. Her dark hair is lifted into a loose, elaborate arrangement of curls and wisps, creating an airy crown above her face. One shoulder is bare; a fitted floral bodice crosses the lower part of the frame, while a large cluster of dark, translucent tulle rises against the other shoulder like a soft, irregular sculptural form. The crop reaches from her upper torso to just above the hair, placing the luminous face and exposed shoulder at the center of attention. Behind her is a mottled charcoal-gray studio backdrop, softly clouded rather than flat, with no visible set details. Light from the upper left skims across her forehead, cheekbone, collarbone, and shoulder, then falls off into deep black fabric and hair. The grayscale is polished yet tactile: smooth skin, feathery netting, glossy curled strands, and fine fabric pattern remain distinct. Contrast is strong but controlled, with bright skin never blown out and the dark ornament retaining a few delicate edges. The composition combines a clean editorial pose with romantic volume, using soft tonal gradation, carefully placed highlights, and a subtle photographic grain for a timeless luxury-magazine feeling.",
+  "full_prompt_zh": "一张黑白影棚时尚人像，呈现一位女子从容的四分之三侧身姿态，头微微后仰，目光越过镜头。深色头发被盘成松散而繁复的卷曲造型，细碎发丝向外伸展，在脸上方形成轻盈的轮廓。她的一侧肩膀裸露，合身的花纹抹胸占据画面下部；另一侧肩旁升起一大簇深色半透明薄纱，像柔软而不规则的雕塑。构图从上半身裁至发型上缘，让明亮的面部和肩部成为视觉中心。身后是斑驳的炭灰色影棚背景，灰阶如云雾般柔和变化，没有可辨认的场景道具。来自左上方的光掠过额头、颧骨、锁骨和肩膀，随后落入布料与头发的深黑处。灰阶精致又保有触感：平滑皮肤、羽状网纱、有光泽的卷发和细密衣料花纹各自清楚。对比强烈但有控制，亮部皮肤不过曝，深色装饰也留下纤细边缘。画面将利落的杂志姿态与浪漫的体积感结合，以柔和层次、精确安放的高光及淡淡摄影颗粒，形成经得住时间的高端时尚摄影气息。",
+  "style_prompt_en": "A polished monochrome editorial photograph with controlled high contrast and finely graduated charcoal grays. Smooth luminous areas are set against deep, textured dark masses; translucent layers keep their delicate edges even where they overlap. Soft directional studio light picks out rounded planes and small highlights, then falls away gently into shadow. A mottled, unobtrusive background supplies depth without pulling focus. The framing is close and sculptural, balancing a clear central form with airy irregular volumes. Fine photographic grain and tangible surface differences add richness while the overall finish remains clean and elegant.",
+  "style_prompt_zh": "精致的黑白杂志摄影风格，对比度较高但控制准确，炭灰色阶细密渐变。平滑明亮的区域与有肌理的深色体块相对，半透明层叠处仍保留纤巧边缘。柔和而有方向的影棚灯光提炼圆润面，高光细小，阴影则平缓加深。斑驳却不抢眼的背景提供空间深度。近距离构图富于雕塑感，在清晰的中心形态与轻盈不规则的体积之间取得平衡。细微摄影颗粒和可触知的材质差异增加丰厚感，整体依然干净、优雅。",
+  "theme_en": "An elegant studio fashion portrait with sculptural black tulle",
+  "theme_zh": "以黑色薄纱塑形的优雅影棚时尚人像",
+  "wh_ratio": "1:1",
+  "id": "3864",
+  "name": "Patrick Demarchelier",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/patrick-demarchelier",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "81f6ade8be2fc6338dd00a2fc5cde998783e2ca3ecbda9370963872b0bbd8471",
+    "gpt_submission_prompt": "A black-and-white studio fashion portrait presents a woman in a poised three-quarter view, her head angled back slightly as she looks past the camera. Her dark hair is lifted into a loose, elaborate arrangement of curls and wisps, creating an airy crown above her face. One shoulder is bare; a fitted floral bodice crosses the lower part of the frame, while a large cluster of dark, translucent tulle rises against the other shoulder like a soft, irregular sculptural form. The crop reaches from her upper torso to just above the hair, placing the luminous face and exposed shoulder at the center of attention. Behind her is a mottled charcoal-gray studio backdrop, softly clouded rather than flat, with no visible set details. Light from the upper left skims across her forehead, cheekbone, collarbone, and shoulder, then falls off into deep black fabric and hair. The grayscale is polished yet tactile: smooth skin, feathery netting, glossy curled strands, and fine fabric pattern remain distinct. Contrast is strong but controlled, with bright skin never blown out and the dark ornament retaining a few delicate edges. The composition combines a clean editorial pose with romantic volume, using soft tonal gradation, carefully placed highlights, and a subtle photographic grain for a timeless luxury-magazine feeling.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "aefc4d78e3ec0c3cf42d1bde99a1e4766474050600cf7460e3a7cd59766a84c6",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

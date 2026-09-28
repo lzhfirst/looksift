@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A dark storybook illustration shows two women facing one another in a narrow woodland opening. The woman on the left wears a rust-red hood and a long orange skirt; a pale braid falls over the back of her dark bodice, and she holds a small round-handled basket near her waist. The woman on the right has long black hair, an olive-grey blouse, and another rust-red skirt. They lean slightly inward as if speaking quietly. A thick twisting tree trunk separates their profiles, while thin black branches cross the lower foreground. Dense clusters of small red leaves fill the upper left and center. Large ivory blossoms and pale pointed leaves crowd the right border, standing out against deep charcoal shadow. Fine ink contours describe the hands, hair, fabric folds, twigs, and individual petals, with scratchy short marks inside the flatter color areas. The palette stays narrow: brick red and burnt orange, olive grey, cream, brown, and black. Light appears diffuse and low, giving the pale faces and blossoms the strongest value contrast without bright highlights. Layered stems and the central trunk create shallow woodland depth, yet the vegetation presses forward like an ornamental screen. The paired figures hold the central stillness while red and ivory botanical marks repeat around them.",
+  "full_prompt_zh": "一幅深色故事书插画中，两位女子在狭窄的林间空隙里相对而立。左边女子戴锈红兜帽，穿长橙红裙；浅色辫子垂在深色上衣背后，她在腰旁提着小圆柄篮子。右边女子留黑色长发，身穿橄榄灰上衣与另一条锈红裙。两人略向内倾，仿佛低声交谈。粗而扭曲的树干隔在两张侧脸之间，细黑枝条横穿下部前景。密集红色小叶簇填满左上与中央。象牙白大花和浅色尖叶拥在右边缘，从深炭色阴影中跳出。细墨线勾出手、头发、衣褶、枝条和单独花瓣，较平的色面内还有短促刮擦状痕迹。色域克制在砖红、焦橙、橄榄灰、奶白、棕与黑。光低而漫散，浅色脸庞和花朵靠明度反差突出，没有耀眼高光。层叠枝茎与中央树干建立浅浅林间纵深，但植物又像装饰屏风般挤到眼前。双人形成中央静止点，红色与象牙色植物记号在四周反复出现。",
+  "style_prompt_en": "An ink-lined illustration combines precise dark contours with matte, muted color fills. Rust red and burnt orange occupy broad connected areas, while olive grey and brown bridge them to a nearly black ground; small ivory shapes provide the highest value accents. Thin branching lines, delicate hatching, and short scratch-like marks remain visible across the surface. Edges are deliberate and intricate in the focal region, with overlapping dark silhouettes creating a shallow layered space rather than atmospheric blur. Diffuse low light produces little cast shadow; contrast comes chiefly from pale shapes against dense dark texture. The composition places two compact vertical masses within an all-over screen of repeated small marks. Curving branches and clustered pale accents pull the eye between the central figures and the crowded margins, creating a hushed, ornamental rhythm.",
+  "style_prompt_zh": "墨线插画把精确深色轮廓与哑光低饱和填色结合。锈红与焦橙占据宽阔相接色块，橄榄灰和棕色把它们接入近黑底色；少量象牙色形状形成最亮点。纤细分叉线、轻微排线与短促刮擦状痕迹留在表面。焦点区域边缘细致而有意控制，相互遮盖的暗色剪影构成浅层空间，而非空气式模糊。低而漫散的光几乎不产生投影；反差主要来自浅色形状对密集深色纹理。构图将两个紧凑竖向块面放进满布细小重复记号的屏状画面。弯曲线条与成簇浅色点将视线从中央带向拥挤边缘，形成安静而装饰性的节奏。",
+  "theme_en": "Two women meeting among autumn branches and pale blossoms",
+  "theme_zh": "秋枝与浅色花朵间相遇的两位女子",
+  "wh_ratio": "1:1",
+  "id": "3434",
+  "name": "Abigail Larson",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/abigail-larson",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "e0e5b129b045fc25242f437cd37a1472df031bcfc0ac85fbb74799f7da3072e1",
+    "gpt_submission_prompt": "A dark storybook illustration shows two women facing one another in a narrow woodland opening. The woman on the left wears a rust-red hood and a long orange skirt; a pale braid falls over the back of her dark bodice, and she holds a small round-handled basket near her waist. The woman on the right has long black hair, an olive-grey blouse, and another rust-red skirt. They lean slightly inward as if speaking quietly. A thick twisting tree trunk separates their profiles, while thin black branches cross the lower foreground. Dense clusters of small red leaves fill the upper left and center. Large ivory blossoms and pale pointed leaves crowd the right border, standing out against deep charcoal shadow. Fine ink contours describe the hands, hair, fabric folds, twigs, and individual petals, with scratchy short marks inside the flatter color areas. The palette stays narrow: brick red and burnt orange, olive grey, cream, brown, and black. Light appears diffuse and low, giving the pale faces and blossoms the strongest value contrast without bright highlights. Layered stems and the central trunk create shallow woodland depth, yet the vegetation presses forward like an ornamental screen. The paired figures hold the central stillness while red and ivory botanical marks repeat around them.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "766ecc08696a5865b3678916f0e592401f0f6bfac0fe0eef1d73b82e1fb3e5a4",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

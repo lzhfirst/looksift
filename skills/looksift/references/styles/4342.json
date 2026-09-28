@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square fantasy landscape painting leads along a narrow mossy path toward an arched stone doorway set into a rocky hillside. A massive ancient tree grows from the right foreground, its thick twisted trunk and branches curving across the entire top of the composition like a dark natural canopy. Soft green leaves filter daylight into scattered patches on the uneven ground. The path rises gently through ferns, roots, small boulders, and dense low plants to reach the doorway, whose interior is almost black. A few small travelers or animals are suggested near the lower middle, giving the tree and entrance scale without becoming a focal scene. On the left, a still reflective water edge and layered distant trees open a glimpse of a blue-green valley. The rock face carries cracks, moss, and subtle carved details, partially hidden by foliage. The palette is rich but controlled: deep forest green, olive, cool blue, warm sunlit yellow-green, and gray stone. Daylight enters obliquely from the left, creating a luminous clearing around the path and gentle shadow beneath the canopy. Painterly detail remains crisp in foreground roots and leaves, then softens through the valley haze. The mood is ancient, sheltered, and expectant, with the dark doorway drawing the eye through the frame.",
+  "full_prompt_zh": "一幅方形奇幻风景绘画沿狭窄苔藓小径通往岩石山坡中的拱形石门。巨大的古树从右前景生长，粗壮扭曲的树干与枝条弯过画面整个上方，像深色天然棚顶。柔绿叶片过滤日光，在凹凸不平的地上洒出斑驳光点。小径经过蕨类、树根、小岩块和密实低矮植物轻轻上升，抵达门洞，洞内几乎全黑。下方中央附近隐约有几个小旅人或动物，为树与入口提供尺度，但并不成为中心情节。左侧静止的反光水边与层叠远树打开一角蓝绿山谷。岩壁带裂缝、青苔和隐约雕刻细节，部分被叶片遮住。色彩浓郁但受控：深森林绿、橄榄、冷蓝、受阳光照亮的暖黄绿和灰石。日光从左侧斜入，在小径周围形成发亮空地，树冠下则保持柔和阴影。前景根与叶有清晰绘画细节，往山谷薄雾中渐渐柔化。气氛古老、受庇护而有所期待，深门洞把视线引向画框内部。",
+  "style_prompt_en": "Detailed fantasy landscape painting with a dark overarching organic frame, mossy layered ground, and a small deep focal aperture. Deep forest green and olive masses open onto cool blue atmospheric distance and patches of warm yellow-green light. Foreground bark, stone, and foliage have crisp tactile brush detail; farther forms soften through haze. Oblique daylight creates a sheltered, ancient sense of depth.",
+  "style_prompt_zh": "细致奇幻风景绘画，以笼罩上方的深色有机框架、层叠苔藓地面与一个小而深的焦点开口组织。深森林绿和橄榄色大块向冷蓝空气远景打开，并散布暖黄绿亮斑。前景树皮、石材和叶片有清晰可触的笔触细节，远处形体在雾中柔化。斜入日光形成受庇护的古老纵深感。",
+  "theme_en": "A mossy path beneath an ancient tree toward a stone doorway",
+  "theme_zh": "古树下的苔藓小径通往石门",
+  "wh_ratio": "1:1",
+  "id": "4342",
+  "name": "Ted Nasmith",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/ted-nasmith.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "19886d0d23e6541e49f36067c8705ede029a8c053942f30f55e5d1aaa2886114",
+    "gpt_submission_prompt": "A square fantasy landscape painting leads along a narrow mossy path toward an arched stone doorway set into a rocky hillside. A massive ancient tree grows from the right foreground, its thick twisted trunk and branches curving across the entire top of the composition like a dark natural canopy. Soft green leaves filter daylight into scattered patches on the uneven ground. The path rises gently through ferns, roots, small boulders, and dense low plants to reach the doorway, whose interior is almost black. A few small travelers or animals are suggested near the lower middle, giving the tree and entrance scale without becoming a focal scene. On the left, a still reflective water edge and layered distant trees open a glimpse of a blue-green valley. The rock face carries cracks, moss, and subtle carved details, partially hidden by foliage. The palette is rich but controlled: deep forest green, olive, cool blue, warm sunlit yellow-green, and gray stone. Daylight enters obliquely from the left, creating a luminous clearing around the path and gentle shadow beneath the canopy. Painterly detail remains crisp in foreground roots and leaves, then softens through the valley haze. The mood is ancient, sheltered, and expectant, with the dark doorway drawing the eye through the frame.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "47f38f570ecd2cc56edec04f329dc7bb246df0d8ca586d5280eb503c483acec7",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

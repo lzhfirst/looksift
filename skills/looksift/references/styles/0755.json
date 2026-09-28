@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A naturalist oil painting captures a quiet walk beside a sheltered stretch of water. A young woman occupies the left foreground in side profile, moving toward the right with her gaze lowered. She wears a high-necked white blouse tucked into a full, nearly black skirt, and her brown hair is drawn back into a low braid. One hand hangs at her side while the skirt brushes through tall yellow-brown grasses. The water curves across the middle of the canvas in muted silver, green, and deep blue, interrupted by reeds along the near bank. On the opposite shore, broad rounded grey rocks emerge from sparse ochre vegetation, guiding the eye toward a small white cottage with a warm red roof near the upper right. Low dark shrubs and a pale, overcast sky complete the distant horizon. The figure's blouse is one of the brightest areas, clearly separated from the surrounding earth colors, but the light remains soft and cloudy. The face and fabric folds are observed with careful, smooth modeling, while grasses, rock surfaces, and water are built with freer broken brushstrokes. The composition gives equal attention to the human figure and the spacious shore, preserving a reflective pause rather than a dramatic event. Subdued autumnal color and quiet horizontal recession hold the frame together.",
+  "full_prompt_zh": "一幅自然主义油画捕捉了避风水域旁安静的步行瞬间。年轻女子以侧面占据左前景，朝右行走，目光低垂。她身穿高领白衬衫与宽大、近乎黑色的长裙，棕发梳成低垂的辫子。一只手垂在身侧，裙摆擦过高高的黄褐色草丛。水面以灰银、绿色和深蓝横穿画面中部，并被近岸的芦苇打断。对岸宽阔圆钝的灰色岩石从稀疏的赭色植被中露出，引导视线通往右上方一间红瓦白屋。低矮深色灌木与苍白阴天构成远处的地平线。女子的白衬衫是画中最亮的区域之一，与周围泥土色清晰分离，但光线始终柔和而多云。面孔与布料褶皱经过细致平滑的塑造，草地、岩面和水面则用更自由的断续笔触堆砌。构图给予人物和宽阔岸边同等关注，保留内省的停顿感，而非戏剧事件。低饱和的秋季颜色与安静的横向纵深维系整幅画面。",
+  "style_prompt_en": "The painting uses late nineteenth-century naturalist oil handling, with carefully modeled focal forms set into a more freely brushed outdoor environment. Earthy ochre, olive, slate grey, muted green-blue, and a single clean pale value establish a subdued palette. Broken strokes describe grasses, water, and weathered surfaces; soft transitions reserve calm detail for the focal area. Diffuse overcast light reduces hard shadows and lets subtle color-temperature shifts carry depth. The composition is spacious and quiet, with low horizontal bands balanced by a distinct foreground vertical. Its finish is observant, tactile, and gently atmospheric.",
+  "style_prompt_zh": "画面采用十九世纪末自然主义油画笔法，将细致塑形的焦点融入更自由刷绘的户外环境。泥土赭色、橄榄绿、板岩灰、灰绿蓝与一处干净的浅明度建立低饱和色调。断续笔触描绘草、流水和风化表面，柔和过渡把平静细节留给视觉中心。漫射阴天光减弱硬影，让细微的色温变化承担纵深。构图宽敞而安静，低矮的水平色带由明确的前景竖向形体平衡。完成质感善于观察、可触且带温和空气感。",
+  "theme_en": "A young woman walks through tawny grass beside a quiet inlet, with grey rocks and a white red-roofed cottage beyond, in a naturalist oil painting.",
+  "theme_zh": "一位年轻女子走过安静水湾旁的黄褐草地，远处是灰色岩石与红瓦白屋，以自然主义油画表现。",
+  "wh_ratio": "1:1",
+  "id": "0755",
+  "name": "Albert Edelfelt",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/albert-edelfelt",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/albert-edelfelt.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "58257b45582ac0c0e12d91aef9b18ac1489b871ea06e86fa05251e1167eebdde",
+    "gpt_submission_prompt": "A naturalist oil painting captures a quiet walk beside a sheltered stretch of water. A young woman occupies the left foreground in side profile, moving toward the right with her gaze lowered. She wears a high-necked white blouse tucked into a full, nearly black skirt, and her brown hair is drawn back into a low braid. One hand hangs at her side while the skirt brushes through tall yellow-brown grasses. The water curves across the middle of the canvas in muted silver, green, and deep blue, interrupted by reeds along the near bank. On the opposite shore, broad rounded grey rocks emerge from sparse ochre vegetation, guiding the eye toward a small white cottage with a warm red roof near the upper right. Low dark shrubs and a pale, overcast sky complete the distant horizon. The figure's blouse is one of the brightest areas, clearly separated from the surrounding earth colors, but the light remains soft and cloudy. The face and fabric folds are observed with careful, smooth modeling, while grasses, rock surfaces, and water are built with freer broken brushstrokes. The composition gives equal attention to the human figure and the spacious shore, preserving a reflective pause rather than a dramatic event. Subdued autumnal color and quiet horizontal recession hold the frame together.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "f693586034e3067dc1a7f0f95acb93e8efb25b56ce63fe97cec2656ee197342a",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

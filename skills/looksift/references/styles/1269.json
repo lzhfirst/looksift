@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square architectural photograph shows an empty outdoor courtyard formed by monumental plaster walls. On the left, a tall dusty pink wall fills nearly half the frame, with one small dark rectangular doorway cut near its base. A second paler pink wall rises behind it. On the right, a huge white wall catches full sunlight, its lightly rough surface revealing subtle gray and cream variation. Between these planes, a straight staircase climbs diagonally from the lower right toward the upper center-left. The stair treads and side wall are rose pink, each step casting a narrow dark line beneath its lip. A deep blue sky fills the upper band between the walls, pure and cloudless. The foreground floor is a broad pale gray sunlit plane; a sharply triangular shadow extends from the pink wall across its left portion. The image contains no people, plants, furniture, railings, signs, or readable words. Its austerity directs attention to proportion, color, light, and the way the stair's repeated steps articulate an otherwise large quiet space. The camera is level and close enough that the structures fill the frame, but far enough back to show the entire run of stairs and the enclosing void. Colors are richly saturated yet simple: dusty rose, warm white, intense cobalt sky, and charcoal shadow. Surface texture is matte and gently irregular rather than polished. The atmosphere is serene and almost abstract, with architectural space understood through planes, a single diagonal ascent, and decisive sunlight.",
+  "full_prompt_zh": "一张方形建筑照片呈现由纪念碑般灰泥墙围成的空旷室外庭院。左侧一面高而灰粉色的墙占近半幅，基脚附近开一处小深色矩形门洞，后面另一面更浅粉墙升起。右侧巨大白墙受足日光，轻粗表面显细灰与奶油色差。两墙之间一道直梯从右下斜升到中上偏左。踏步和侧墙是玫瑰粉，每一级边缘下投一道窄深线。两墙之间上方一带是浓蓝无云天空。前景地面是宽阔浅灰受光平面，粉墙的锐利三角影伸过左侧部分。图中没有人、植物、家具、扶手、标牌或可读字。严简结构把注意力放在比例、颜色、光，以及重复台阶如何分节原本宽阔安静的空间。相机水平，近到结构铺满画面，又退到能看全阶梯和围合虚空。颜色饱和丰富却简单：灰粉、暖白、强钴蓝天与炭影。表面哑光且轻微不平，而非抛光。氛围宁静近抽象，建筑空间由平面、唯一斜向上升和果断日光来理解。",
+  "style_prompt_en": "Use austere color-field photography with monumental matte planes, one repeated diagonal sequence, and decisive hard sunlight. Restrict the palette to saturated dusty rose, warm white, cobalt blue, and deep triangular shadow. Let slight plaster-like irregularity keep broad fields tactile without adding visual clutter. Compose so adjoining planes form an enclosed void and a clear upward vector, with generous unoccupied ground and sky. Preserve crisp geometric shadow boundaries and small step rhythms against otherwise quiet expanses. The effect is serene, spatial, and nearly abstract, relying on proportion and light rather than ornament.",
+  "style_prompt_zh": "采用严简色域摄影，以纪念碑般哑光平面、一组重复斜向序列及果断硬日光构图。色板限于饱和灰粉、暖白、钴蓝和深三角影。让灰泥般轻微不平为宽色域保留可触性，却不增杂乱。相邻平面围出空处与清楚上行方向，并留足未占地面与天空。大块安静色面前保留清晰几何影边及小台阶节律。效果宁静、有空间感且近抽象，依赖比例与光而非装饰。",
+  "theme_en": "A pink staircase between tall plaster walls under a blue sky",
+  "theme_zh": "蓝天下高灰泥墙之间的粉色阶梯",
+  "wh_ratio": "1:1",
+  "id": "1269",
+  "name": "Luis Barragan",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/luis-barragan",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/luis-barragan.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "1e689a8f3ed2d14f07c8eb1f0c2c23ba2685d9826ebecdf93ad5a7d7984ff823",
+    "gpt_submission_prompt": "A square architectural photograph shows an empty outdoor courtyard formed by monumental plaster walls. On the left, a tall dusty pink wall fills nearly half the frame, with one small dark rectangular doorway cut near its base. A second paler pink wall rises behind it. On the right, a huge white wall catches full sunlight, its lightly rough surface revealing subtle gray and cream variation. Between these planes, a straight staircase climbs diagonally from the lower right toward the upper center-left. The stair treads and side wall are rose pink, each step casting a narrow dark line beneath its lip. A deep blue sky fills the upper band between the walls, pure and cloudless. The foreground floor is a broad pale gray sunlit plane; a sharply triangular shadow extends from the pink wall across its left portion. The image contains no people, plants, furniture, railings, signs, or readable words. Its austerity directs attention to proportion, color, light, and the way the stair's repeated steps articulate an otherwise large quiet space. The camera is level and close enough that the structures fill the frame, but far enough back to show the entire run of stairs and the enclosing void. Colors are richly saturated yet simple: dusty rose, warm white, intense cobalt sky, and charcoal shadow. Surface texture is matte and gently irregular rather than polished. The atmosphere is serene and almost abstract, with architectural space understood through planes, a single diagonal ascent, and decisive sunlight.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "fe5ebc7293b301741cbc3b09d3eb93c67fa5d9eafb6a55c8c2ce494fdf61ea1f",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

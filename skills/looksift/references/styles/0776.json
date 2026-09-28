@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square vintage comic-book illustration shows three costumed adventurers running toward the viewer under a large silver rocket craft. The lead man at left wears a light blue uniform and holds a dark pistol; his body leans forward with a determined face. A woman in a bright red fitted outfit runs at the center, her dark hair and black belt making a clear silhouette. A second man in pale blue follows at the right, smaller and partly obscured by smoke. The rocket hangs diagonally overhead, with orange engine light glowing at the rear. Jagged tan rock, dark machinery, and billowing yellow-gray dust fill the lower and side areas, making the scene fast and crowded. Strong black ink contours define anatomy, fabric folds, and mechanical panels. Color is printed in bold flat areas of blue, red, ochre, cream, and black, with halftone-like grain and slightly aged paper tone. Directional highlights on uniforms and craft add volume but do not erase the graphic linework. The composition runs diagonally from the ship above to the figures below, with repeated forward strides giving clear motion. The frame is tightly packed and theatrical, conveying an urgent escape in a readable mid-century action-comic language.",
+  "full_prompt_zh": "一幅方形复古漫画插画描绘三名穿鲜明服装的冒险者在大型银色火箭飞行器下朝观者跑来。左侧领跑男子穿浅蓝制服，手持深色手枪，身体前倾，神情坚决。中央女子穿亮红贴身服装奔跑，深发与黑腰带形成清晰剪影。第二名浅蓝衣男子在右侧跟随，较小且部分被烟遮住。火箭斜悬头顶，尾部有橙色引擎光。锯齿棕黄岩石、深色机器和翻滚黄灰烟尘填满下方与两侧，让场景快速而拥挤。强黑墨线界定人体、衣褶与机器面板。颜色印成蓝、红、赭、奶油和黑的大胆平块，带网点般颗粒和略陈旧纸色。制服与飞行器上的定向亮面加入体积，却没有抹去图形线。构图从上方飞船斜向下方人物推进，重复前跨步伐给出清楚运动。画面紧凑戏剧化，以易读的二十世纪中叶动作漫画语言传达紧急逃离。",
+  "style_prompt_en": "Vintage comic illustration uses bold black ink contours, flat printed color, and visible halftone-like grain. Primary red and pale blue punch through ochre, cream, charcoal, and aged paper. Angular diagonals and repeated forward gestures create immediate movement. Mechanical forms and dust clouds are simplified into readable graphic masses. Highlights model selected planes, but linework remains dominant and crisp. Dense action fills the square without losing focal hierarchy because saturated accents and strong silhouettes guide the eye. The finish is energetic, theatrical, and unmistakably printed.",
+  "style_prompt_zh": "复古漫画插画运用粗黑墨线轮廓、平面印色与可见网点般颗粒。主红与浅蓝从赭、奶油、炭和旧纸色中跳出。棱角斜线与重复前冲动作制造直接运动。机器形和尘云简化为易读图形团块。高光塑出部分平面，但线条仍占主导且清楚。浓密动作填满方幅，饱和点与强剪影仍引导焦点层级。完成面有能量、戏剧化，且明显属于印刷品。",
+  "theme_en": "Three costumed heroes fleeing beneath a rocket craft",
+  "theme_zh": "三名装束鲜明的英雄在火箭飞行器下奔跑",
+  "wh_ratio": "1:1",
+  "id": "0776",
+  "name": "Don Heck",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/don-heck",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/don-heck.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "eacc16f6659a4189d127068b27222f9419c38025fc15da1f68a13ce3c11d3abf",
+    "gpt_submission_prompt": "A square vintage comic-book illustration shows three costumed adventurers running toward the viewer under a large silver rocket craft. The lead man at left wears a light blue uniform and holds a dark pistol; his body leans forward with a determined face. A woman in a bright red fitted outfit runs at the center, her dark hair and black belt making a clear silhouette. A second man in pale blue follows at the right, smaller and partly obscured by smoke. The rocket hangs diagonally overhead, with orange engine light glowing at the rear. Jagged tan rock, dark machinery, and billowing yellow-gray dust fill the lower and side areas, making the scene fast and crowded. Strong black ink contours define anatomy, fabric folds, and mechanical panels. Color is printed in bold flat areas of blue, red, ochre, cream, and black, with halftone-like grain and slightly aged paper tone. Directional highlights on uniforms and craft add volume but do not erase the graphic linework. The composition runs diagonally from the ship above to the figures below, with repeated forward strides giving clear motion. The frame is tightly packed and theatrical, conveying an urgent escape in a readable mid-century action-comic language.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "881683a30338ae31fccaeaa3df0f263b7316e6eb2fa37c1a8fe36707d0b3ad5b",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square editorial caricature on a mostly white page shows a gray-haired older man in a blue suit standing at left before a large green dragon-like creature. The man's enlarged head tilts down with a stern tight-lipped expression, and one arm reaches forward as if addressing the beast. His compact body and blue jacket are rendered with quick angular pen marks. The creature fills the right half, with broad scaled snout, open mouth, visible teeth, yellow-green belly, and thick clawed forelimbs. Smaller caricatured people and bits of architecture cluster around and behind both figures, partly drawn and partly dissolved into loose lines. Tiny figures at the bottom emphasize the improbable scale. The background remains white paper, so splashes of muddy green, pale ochre, blue, and rust become the main spatial cues. Fine black ink cross-hatching gives wrinkles, scales, suit folds, and rubble their texture. Some outlines are crisp; others are exploratory and unfinished, with paint bleeds extending beyond the forms. Even page light eliminates a realistic cast-shadow system. The confrontation reads clearly despite the sketchy edges because the two large profiles face one another. The mood is satirical and fantastical, with the lively handmade surface carrying as much character as the exaggerated faces.",
+  "full_prompt_zh": "一幅方形社论夸张画置于大面积白纸上，左侧灰发年长男子穿蓝西装，面对一只巨大的绿龙般生物。男子放大的头低垂，嘴紧抿、神情严厉，一只手向前伸，仿佛正对怪物发话。紧凑身体和蓝外套由快速有棱角钢笔痕塑成。生物填满右半画面，宽阔鳞吻、张开嘴、可见牙齿、黄绿腹部和粗壮有爪前肢清楚。两者身后与周围簇着较小夸张人物和建筑碎片，部分完成，部分融入松线。底部极小人物强调不可能的尺度。背景保留白纸，泥绿、淡赭、蓝与锈色飞溅成为主要空间线索。细黑交叉排线为皱纹、鳞片、西装褶和瓦砾提供肌理。有些轮廓清楚，有些探索而未完成，颜料洇出形外。均匀纸面亮度消除写实投影系统。虽然边缘草率，两张大侧面相向使对峙清晰。气氛讽刺且奇幻，活泼手工表面和夸张脸一样有性格。",
+  "style_prompt_en": "Expressive editorial caricature with inflated profile masses, agile black ink contour, dense cross-hatching, and irregular translucent color splashes on white paper. Muddy green, dusty blue, rust, and ochre appear in selective clusters rather than full backgrounds. Tiny incidental marks establish scale around two dominant opposing forms. Unfinished exploratory edges and page light preserve quick satirical energy.",
+  "style_prompt_zh": "表现性社论夸张画，以膨胀的侧面大形、灵活黑墨轮廓、密集交叉排线和白纸上不规则透明色溅组成。泥绿、灰蓝、锈红与赭黄只在部分群落出现，不铺满背景。极小附属标记在两大相对形体周围建立尺度。未完成的探索边缘与纸面亮度保留快速讽刺能量。",
+  "theme_en": "A caricatured elder confronting a green dragon",
+  "theme_zh": "一位夸张年长男子面对绿色龙",
+  "wh_ratio": "1:1",
+  "id": "0901",
+  "name": "Daryl Cagle",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/daryl-cagle",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/daryl-cagle.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "b4ddfb101a81392740fba114d32404ac89bb0baf0741044e349f6b7195889ba5",
+    "gpt_submission_prompt": "A square editorial caricature on a mostly white page shows a gray-haired older man in a blue suit standing at left before a large green dragon-like creature. The man's enlarged head tilts down with a stern tight-lipped expression, and one arm reaches forward as if addressing the beast. His compact body and blue jacket are rendered with quick angular pen marks. The creature fills the right half, with broad scaled snout, open mouth, visible teeth, yellow-green belly, and thick clawed forelimbs. Smaller caricatured people and bits of architecture cluster around and behind both figures, partly drawn and partly dissolved into loose lines. Tiny figures at the bottom emphasize the improbable scale. The background remains white paper, so splashes of muddy green, pale ochre, blue, and rust become the main spatial cues. Fine black ink cross-hatching gives wrinkles, scales, suit folds, and rubble their texture. Some outlines are crisp; others are exploratory and unfinished, with paint bleeds extending beyond the forms. Even page light eliminates a realistic cast-shadow system. The confrontation reads clearly despite the sketchy edges because the two large profiles face one another. The mood is satirical and fantastical, with the lively handmade surface carrying as much character as the exaggerated faces.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "f90fd414482ebeef3427ba5acb0e7d41ee2e88e9f688479638e41093fe10bf14",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square expressionist painting fills the entire frame with a turbulent, nearly abstract mass of thick color. A huge yellow spiral-like form turns across the upper right and center, its curved ridges suggesting the side of an imaginary creature. Near its middle sits one conspicuous round eye-like mark: a dark blue and black center surrounded by pale cream, ocher, and a thin reddish ring. Smaller broken forms in green, white, orange, and dark navy gather at the left and bottom, hinting at a snout, open mouth, or limbs without settling into a literal anatomy. The background alternates between scraped sky blue and chalky off-white, with bare flecks of ground showing through. Paint is laid on in heavy, directional strokes, broad knife smears, short dragged arcs, splatters, and scratched thin lines. The yellow area is built from several tones, ranging from lemon to deep ocher; blue and green passages keep it from becoming flat. Some strokes curl inward, others slash outward, so the visual motion feels both circular and explosive. There is no smooth contour separating figure and background. Instead, adjacent colors collide, overlap, and tear apart. The surface is rough and almost relief-like, with visible ridges and embedded flecks. There is no text or framing device inside the panel. The composition feels impulsive, humorous, and unruly, inviting the viewer to discover a face in the paint without requiring one stable interpretation.",
+  "full_prompt_zh": "一幅方形表现主义绘画让汹涌、近乎抽象的厚重色彩铺满全幅。巨大的黄色旋涡状形体转过右上与中央，其弯曲隆起的笔触令人联想到某种想象生物的侧面。中间附近有一个突出的圆形眼状标记：深蓝黑中心被浅奶油色、赭色和细红环围住。更小的绿、白、橙、深海蓝破碎形聚在左侧与底部，隐约像口鼻、张口或肢体，却始终不落实为字面解剖。背景在刮擦天空蓝与粉笔白之间交替，露出细碎底层。颜料以厚重定向笔触、宽阔刮刀抹痕、短促拖拽弧线、泼点和细划线堆上。黄色区域由柠檬黄到深赭的多个色阶构成；蓝绿段落防止它变平。有些笔触向内卷，有些向外劈，因此视觉运动既旋转又爆发。形体与背景之间没有平滑轮廓，相邻颜色碰撞、覆盖并撕开。表面粗糙，近乎浮雕，显出隆起和嵌入小色屑。单幅内部没有文字或装框元素。构图冲动、幽默且不守规矩，邀请观者从颜料中发现脸，却不要求固定解释。",
+  "style_prompt_en": "Use unruly expressionist impasto with thick ridges, knife smears, scraped ground, splashes, and scratched linear marks. Organize the composition around one oversized curling color mass, then let smaller fragments collide around it without clean borders. Set hot lemon yellow and ocher against sky blue, chalk white, dark navy, green, and occasional red-orange. Keep paint visibly physical and directional; some marks turn inward in arcs while others burst outward. Let recognizable hints emerge from color collisions but remain ambiguous. Avoid smooth blending, strict symmetry, and resolved contour. The effect is energetic, tactile, improvisational, and slightly comic, with the rough painted surface carrying as much meaning as any inferred form.",
+  "style_prompt_zh": "使用不受拘束的表现主义厚涂，显出隆起颜料、刮刀抹痕、刮露底层、泼点和细划线。以一处放大的卷曲色团组织构图，再让较小碎片在周围碰撞而没有干净边界。用炽热柠檬黄与赭黄对置天空蓝、粉笔白、深海蓝、绿色及偶尔的红橙。颜料保持可见的实体感与方向性；有些痕迹沿弧线内卷，另一些向外爆开。让可辨形状的暗示从颜色碰撞中浮现，却仍有歧义。避免平滑混色、严格对称与已定型轮廓。效果有能量、可触、即兴而略带诙谐，粗糙画面表面与任何推测形体一样重要。",
+  "theme_en": "A whirling yellow abstract creature emerging from impasto color",
+  "theme_zh": "厚涂色彩中旋出的黄色抽象生物",
+  "wh_ratio": "1:1",
+  "id": "4293",
+  "name": "Asger Jorn",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/asger-jorn.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "c0d2e698dc05001c349c8a5ee5861c9559b574469546bc0ffc47b28596ec1e7b",
+    "gpt_submission_prompt": "A square expressionist painting fills the entire frame with a turbulent, nearly abstract mass of thick color. A huge yellow spiral-like form turns across the upper right and center, its curved ridges suggesting the side of an imaginary creature. Near its middle sits one conspicuous round eye-like mark: a dark blue and black center surrounded by pale cream, ocher, and a thin reddish ring. Smaller broken forms in green, white, orange, and dark navy gather at the left and bottom, hinting at a snout, open mouth, or limbs without settling into a literal anatomy. The background alternates between scraped sky blue and chalky off-white, with bare flecks of ground showing through. Paint is laid on in heavy, directional strokes, broad knife smears, short dragged arcs, splatters, and scratched thin lines. The yellow area is built from several tones, ranging from lemon to deep ocher; blue and green passages keep it from becoming flat. Some strokes curl inward, others slash outward, so the visual motion feels both circular and explosive. There is no smooth contour separating figure and background. Instead, adjacent colors collide, overlap, and tear apart. The surface is rough and almost relief-like, with visible ridges and embedded flecks. There is no text or framing device inside the panel. The composition feels impulsive, humorous, and unruly, inviting the viewer to discover a face in the paint without requiring one stable interpretation.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "1e2f851e48334a3522ab685ae89d808de95d6eab62f1cf393c87e4b7b0200f3a",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

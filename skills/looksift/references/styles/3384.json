@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A dense dark fantasy manga illustration shows an armored warrior in left facing profile, gripping a tall sword amid a crimson field of ghostly faces and figures. The steel blade rises vertically near the left edge, its engraved surface pale against saturated red. The warrior's gloved hand closes tightly around the crossguard at the lower left, and a scale plated helmet slopes over a bowed face. His cheek and mouth are the clearest pale areas, while the eyes are hidden beneath the helmet's deep shadow. A huge black cloak sweeps from the shoulder across the upper right, rendered in rough parallel strokes that make the fabric seem heavy and wind pulled. Below the cloak, numerous sinister heads, helmets, and skeletal forms are packed into the red background, drawn with fine dark hatching and sharp outlines; they remain secondary to the larger profile. The composition has almost no open space, with the vertical sword cutting through the dense surrounding imagery. Black and gray ink textures define worn armor, chainlike details, and cloth folds, while the flat red ground bleeds into the smaller figures. Illumination is harsh and selective, catching helmet scales, blade, and the face plane while leaving the cloak nearly black. The whole frame feels oppressive and relentless, using extreme red black contrast and layered detail to turn a still grip on the sword into a moment of looming conflict.",
+  "full_prompt_zh": "一幅密集的黑暗奇幻漫画插画描绘披甲战士朝左侧身，在绯红色鬼影般的人脸与身形中紧握一柄高剑。钢制刀刃沿左边缘附近竖起，其刻纹表面在饱和红色前显得苍白。战士戴手套的手在左下紧紧握住护手，鳞片状头盔压在低垂的脸上。脸颊与嘴是最清楚的浅色区域，眼睛则藏于盔檐深影中。一袭巨大的黑披风从肩部卷向右上，以粗糙的平行笔触绘出，使布料显得沉重且被风牵扯。披风下，许多阴森的头颅、头盔与骷髅形态挤在红色背景里，以细密深色排线和锐利轮廓描绘，但仍从属于较大的侧面人物。构图几乎没有留白，竖剑切开周围密集的图像。黑灰墨纹表现磨损的铠甲、链状细节与布褶，平涂红底则渗入较小的人形。照明严酷而有选择地擦亮头盔鳞片、剑刃与面部平面，让披风保持近乎黑色。整幅画压迫而不息，以极端红黑对照和叠层细节把静止的握剑姿态转化成冲突将至的时刻。",
+  "style_prompt_en": "A dense dark fantasy manga treatment dominated by saturated crimson, black ink, and steel gray. Anchor the composition with one large sharply shaded silhouette and a strong vertical line, then crowd the surrounding field with many smaller etched forms that read as ominous texture at a distance and detailed figures up close. Use fine crosshatching, scratched armor surfaces, scale patterns, and broad rough parallel strokes for dark clothlike masses. Keep white or pale gray highlights rare and concentrated on blade like edges and a few focal planes. Let the red background penetrate the secondary forms rather than separating them cleanly. Hard selective light should flash across metal while deep shadow swallows much of the image. The effect is oppressive, intricate, and charged with imminent action.",
+  "style_prompt_zh": "采用密集的黑暗奇幻漫画处理，以饱和绯红、黑墨和钢灰为主。以一个巨大而明暗鲜明的剪影及一条强竖线固定构图，再用许多较小的刻蚀形体挤满周围色场，使远看像不祥肌理，近看可辨细节。运用细密交叉排线、刮擦的铠甲表面、鳞片纹样，以及大幅粗糙的平行笔触描出暗色布料体块。白色或浅灰高光应少而集中，只落在刀刃状边缘与少数焦点平面。让红色背景渗入次级形态，不必把它们干净分开。坚硬而有选择的光在金属上闪现，深影吞没画面大部。效果压迫、繁复且充满动作将至的张力。",
+  "theme_en": "Armored warrior amid crimson apparitions",
+  "theme_zh": "绯红幻影中的披甲战士",
+  "wh_ratio": "1:1",
+  "id": "3384",
+  "name": "Berserk",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/berserk",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "6cf4473a507354732d7ccc94dc79c025faf333847d42b5ee22968f8bcabfbe89",
+    "gpt_submission_prompt": "A dense dark fantasy manga illustration shows an armored warrior in left facing profile, gripping a tall sword amid a crimson field of ghostly faces and figures. The steel blade rises vertically near the left edge, its engraved surface pale against saturated red. The warrior's gloved hand closes tightly around the crossguard at the lower left, and a scale plated helmet slopes over a bowed face. His cheek and mouth are the clearest pale areas, while the eyes are hidden beneath the helmet's deep shadow. A huge black cloak sweeps from the shoulder across the upper right, rendered in rough parallel strokes that make the fabric seem heavy and wind pulled. Below the cloak, numerous sinister heads, helmets, and skeletal forms are packed into the red background, drawn with fine dark hatching and sharp outlines; they remain secondary to the larger profile. The composition has almost no open space, with the vertical sword cutting through the dense surrounding imagery. Black and gray ink textures define worn armor, chainlike details, and cloth folds, while the flat red ground bleeds into the smaller figures. Illumination is harsh and selective, catching helmet scales, blade, and the face plane while leaving the cloak nearly black. The whole frame feels oppressive and relentless, using extreme red black contrast and layered detail to turn a still grip on the sword into a moment of looming conflict.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "ce7bdc30c9bdf949e0b82955fcfa32fc545969c1080dff4ebdf1965c533cb2a3",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square surreal landscape painting looks outward from beneath a vast rocky arch toward a bright blue river valley filled with towering cloudlike forms. The dark stone ceiling curves across the upper frame, its rough gray texture framing an irregular opening of clear blue sky. Large white clouds rise in the distance beyond the opening, their rounded shapes visually echoing the pale cliffs along the river. On the far left, a narrow elevated platform or walkway projects into the scene, with a few small figures standing beside a glass-fronted structure. Below it, steep rock drops toward the water. Near the center, a lone figure stands on a pale sandy path at the river edge, tiny against the broad landscape. To the right, a sunlit ledge carries a leafy tree and several more small figures, its edge turning sharply down into a cliff. The river winds through the middle, reflecting the blue sky and pale cloud towers so clearly that water and atmosphere seem to exchange places. At the lower right, shadowed stone slopes into the foreground, keeping the viewer physically under the arch. Bright daylight arrives through the opening from the upper left, striking the right ledge and distant formations while leaving the cavern ceiling and near rock dark. Fine painterly detail shapes crags, foliage, and water, but distant edges soften in light haze. The overall composition creates a gradual passage from enclosed shadow to open brightness, letting the cloud-cliff resemblance make the familiar valley quietly impossible.",
+  "full_prompt_zh": "这幅方形超现实风景画从巨大岩拱下向外望，眼前是明亮蓝河谷和高耸的云状形体。深色石顶横过上半幅，以粗糙灰纹框住不规则的晴蓝天空开口。远处大朵白云从开口外升起，圆润形态在视觉上呼应沿河的浅色悬崖。最左侧一道窄高平台或步道伸入景色，几道小人影立在带玻璃面的结构旁。其下陡岩落向水边。中央附近，一个孤身人物站在浅沙小路与河岸相接处，与宽阔风景相比很小。右侧受日光照亮的平台有一棵茂叶树和另外几个小人影，平台边缘急转向下成为悬崖。河在中部蜿蜒，蓝天和浅云塔清楚倒映其间，让水与空气似乎交换位置。右下阴影石坡伸入前景，使观者的位置仍在拱下。明亮日光从左上开口进入，照亮右侧平台和远处形体，洞顶与近岩保留深暗。精细绘画细节塑出岩隙、叶丛与水面，远处边缘则在光雾中变柔。整体构图形成从围合阴影逐渐走向开放亮处的通路，让云与崖的相似使熟悉河谷悄悄变得不可能。",
+  "style_prompt_en": "The painting uses precise landscape modeling to create a visual ambiguity between solid and vaporous forms. Cool blue and blue-gray occupy the open middle, while warm cream highlights pick out edges against a heavy charcoal frame. Repeated rounded contours and mirrored light patterns make distant layers echo one another across separate planes. Strong daylight enters from a large opening, leaving the near boundary dark and the far space luminous. Detail is crisp in close textured areas and gently softened by haze in the distance. The composition guides the eye from an enclosing curved border toward a bright central passage, making the impossible transition feel calm and convincing.",
+  "style_prompt_zh": "这种绘画以精确的风景式塑形制造实体与气态形体之间的视觉歧义。冷蓝与蓝灰占据开放中部，暖奶油高光从厚炭色框边前挑出边缘。重复的圆润轮廓与镜像亮纹让不同平面上的远层相互呼应。强日光从大开口进入，使近处边界深暗、远处空间发亮。近处带肌理区域细节清晰，远处则被薄雾温柔柔化。构图引导视线由围合曲边走向明亮中央通道，使不可能的转换显得平静可信。",
+  "theme_en": "A luminous river valley seen through a rocky arch, with clouds echoing cliffs",
+  "theme_zh": "从岩拱望向发亮河谷，云团与悬崖互相呼应",
+  "wh_ratio": "1:1",
+  "id": "3095",
+  "name": "Rob Gonsalves",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/rob-gonsalves",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "200612eea43c5164dbac65329336032adac6ad3139e254bae10ba546c703f4c8",
+    "gpt_submission_prompt": "A square surreal landscape painting looks outward from beneath a vast rocky arch toward a bright blue river valley filled with towering cloudlike forms. The dark stone ceiling curves across the upper frame, its rough gray texture framing an irregular opening of clear blue sky. Large white clouds rise in the distance beyond the opening, their rounded shapes visually echoing the pale cliffs along the river. On the far left, a narrow elevated platform or walkway projects into the scene, with a few small figures standing beside a glass-fronted structure. Below it, steep rock drops toward the water. Near the center, a lone figure stands on a pale sandy path at the river edge, tiny against the broad landscape. To the right, a sunlit ledge carries a leafy tree and several more small figures, its edge turning sharply down into a cliff. The river winds through the middle, reflecting the blue sky and pale cloud towers so clearly that water and atmosphere seem to exchange places. At the lower right, shadowed stone slopes into the foreground, keeping the viewer physically under the arch. Bright daylight arrives through the opening from the upper left, striking the right ledge and distant formations while leaving the cavern ceiling and near rock dark. Fine painterly detail shapes crags, foliage, and water, but distant edges soften in light haze. The overall composition creates a gradual passage from enclosed shadow to open brightness, letting the cloud-cliff resemblance make the familiar valley quietly impossible.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "3e1532f3ef74a8221962778dcf56c523d17dac234faa2db6f5ef27c6743bb59a",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

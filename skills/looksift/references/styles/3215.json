@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square retro vector illustration shows a camper and a pale dog sitting in a long brown canoe on dark blue water. A red orange triangular tent stands on the bank behind them, among rows of simplified pine trees. The camper wears a warm brown jacket and orange cap and holds a thin upright pole or paddle. The dog's head rises beside him, turning toward the right. Above the forest, rounded teal cloud bands stretch horizontally across a charcoal sky. A stylized sun with an orange center and radiating dark points sits near the upper left. Small white bird shapes, thin floating clouds and a distant orange fire add details without breaking the bold pattern. The water at the bottom is made from repeated blue and cream wave stripes, with a few black silhouettes skimming the surface. The entire scene uses clean cut shapes rather than modeled depth. Teal, cream, orange and deep navy form a compact color system, and slight grain gives the flat fills a printed-paper feel. Light is symbolic rather than physically consistent: bright cream shapes and orange accents are distributed to guide the eye. The camper, dog, tent and sun create a diagonal chain from lower left to upper center. The image feels playful and organized, with every small object fitting into the same geometric rhythm.",
+  "full_prompt_zh": "这幅方形复古矢量插画呈现一位露营者和浅色狗坐在深蓝水面上的棕色长独木舟里。后方岸上，红橙三角帐篷立于一排排简化松树间。露营者穿暖棕外套、戴橙帽，手里握着一根细直杆或桨。狗的头在旁边升起，转向右方。森林上方，圆润青绿色云带横越炭黑天空。一个橙心、深色尖光芒的风格化太阳位于左上附近。小白鸟形、细浮云和远处橙色火光添细节，却不打破强烈图案。下方水面由重复蓝白波纹条带构成，几道黑剪影掠过表面。全景采用干净剪纸般色形，而不依靠塑造深度。青绿、奶油白、橙和深海军蓝形成紧凑色系，轻微颗粒让平色有印纸感觉。光更具符号性，而非物理一致：亮奶油形与橙点被分散来引导视线。露营者、狗、帐篷和太阳从左下到上中形成斜向链。画面俏皮有序，每个小物都融入相同几何节奏。",
+  "style_prompt_en": "The retro vector illustration is built from crisp cut-paper geometry, broad flat fills and light print grain. Deep navy, teal, cream and burnt orange repeat in a tightly limited palette. Rounded horizontal bands alternate with pointed vertical forms and short striped rhythms. Lighting works through distributed bright accents rather than realistic shading. Small silhouettes and simple line marks fit into the same orderly grid. The result is cheerful, graphic and compact.",
+  "style_prompt_zh": "这种复古矢量插画由清脆剪纸几何、宽阔平色和轻印刷颗粒组成。深海军蓝、青绿、奶油白与焦橙在严格有限的色盘中重复。圆润水平带与尖锐竖形、短条节奏交替。光通过分布的亮色点缀起作用，而非写实明暗。小剪影和简单线记都融入同一有序网格。结果愉快、图形感强而紧凑。",
+  "theme_en": "A camper and dog in a canoe beside a forest campsite",
+  "theme_zh": "森林营地旁独木舟中的露营者和狗",
+  "wh_ratio": "1:1",
+  "id": "3215",
+  "name": "Dave Perillo",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/dave-perillo",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "8d1295689392c50b806e81ebf06bedb466c33bbdd5968c98ca0793800f8e7d80",
+    "gpt_submission_prompt": "A square retro vector illustration shows a camper and a pale dog sitting in a long brown canoe on dark blue water. A red orange triangular tent stands on the bank behind them, among rows of simplified pine trees. The camper wears a warm brown jacket and orange cap and holds a thin upright pole or paddle. The dog's head rises beside him, turning toward the right. Above the forest, rounded teal cloud bands stretch horizontally across a charcoal sky. A stylized sun with an orange center and radiating dark points sits near the upper left. Small white bird shapes, thin floating clouds and a distant orange fire add details without breaking the bold pattern. The water at the bottom is made from repeated blue and cream wave stripes, with a few black silhouettes skimming the surface. The entire scene uses clean cut shapes rather than modeled depth. Teal, cream, orange and deep navy form a compact color system, and slight grain gives the flat fills a printed-paper feel. Light is symbolic rather than physically consistent: bright cream shapes and orange accents are distributed to guide the eye. The camper, dog, tent and sun create a diagonal chain from lower left to upper center. The image feels playful and organized, with every small object fitting into the same geometric rhythm.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "78a345f4c0ffad708ab4113e14e1c34df5d0ce5e754f21d8327fc70ff448f341",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

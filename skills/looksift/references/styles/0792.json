@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square Belle Époque oil painting shows a fashionable crowd moving along a busy city street. Near the center, a stout man in a black top hat and dark coat turns toward a woman in a fitted black dress and elaborate hat. Her white blouse front and pale face stand out against the dark tailoring. Around them, other women in long gowns and men in suits pass in overlapping groups; faces and hats recede into the crowd at the right and rear. A green awning and muted storefront architecture fill the upper background, while the pavement below is brushed in warm tan, ochre, and gray. The composition is close to street level, making the figures the main subject rather than a distant city view. Loose oil strokes describe skirts, coats, and passing gestures, but key faces and silhouettes are more carefully resolved. Soft daylight brightens hats, cheeks, and the woman's white front without casting hard shadow. Black, cream, muted green, brown, and dusty gold dominate, with small warm accents in hair and accessories. Movement flows diagonally across the image, yet the central encounter holds a pause inside the bustle. The painting feels social, observant, and lively, capturing a transient urban moment through atmosphere and painterly shorthand.",
+  "full_prompt_zh": "一幅方形美好年代油画描绘时髦人群在繁忙城市街道移动。中央附近，一位戴黑高礼帽、穿深外套的壮实男子转向一位穿贴身黑裙、戴华丽帽子的女子。她的白色上衣前片和浅脸在深色剪裁前突出。周围其他长裙女子和西服男子成群交错，脸与帽向右和后方人群退去。绿遮篷与低调店面建筑填满上方背景，下方路面则由暖棕黄、赭和灰色扫笔绘出。构图贴近街道高度，使人群成为主体，而非远城景。松散油彩笔触描出裙、外套和经过的手势，关键脸与剪影则更仔细定形。柔日光照亮帽、颊和女子白衣前片，没有硬影。黑、奶油、低调绿、棕和尘金占主导，发与配件中有小暖色点。运动斜穿画面，但中央相遇在喧闹中留下一次停顿。画面社交性强、善于观察而生动，以空气感和绘画速记捕捉短暂都市时刻。",
+  "style_prompt_en": "Belle Époque oil painting uses selective detail within a crowd of overlapping dark and pale shapes. Black tailoring, cream highlights, muted green, brown, and dusty gold form an urban palette. Loose broken strokes carry movement through fabric and pavement; focal faces and silhouettes remain firmer. Soft daylight brightens small surfaces without strong cast shadows. Diagonal pedestrian rhythm creates bustling depth under a relatively stable architectural band. The surface feels observant and immediate, as if a transient social moment were caught through painterly shorthand.",
+  "style_prompt_zh": "美好年代油画在深浅形体重叠的人群中选择性保留细节。黑色剪裁、奶油高光、低调绿、棕和尘金构成都市配色。松散断笔让布料和路面有运动，焦点脸与剪影更稳。柔日光提亮小表面，没有强投影。行人斜向节奏在相对稳定建筑带下建立繁忙纵深。表面善观察而即时，像以绘画速记抓住一瞬社交场景。",
+  "theme_en": "Fashionable pedestrians mingling on a busy Paris street",
+  "theme_zh": "繁忙巴黎街头交错而行的时髦行人",
+  "wh_ratio": "1:1",
+  "id": "0792",
+  "name": "Jean Beraud",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/jean-beraud",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/jean-beraud.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "6025ea22deee76920a68f8eceee8c87eafc713d315e3d8adb66f7edc575656b8",
+    "gpt_submission_prompt": "A square Belle Époque oil painting shows a fashionable crowd moving along a busy city street. Near the center, a stout man in a black top hat and dark coat turns toward a woman in a fitted black dress and elaborate hat. Her white blouse front and pale face stand out against the dark tailoring. Around them, other women in long gowns and men in suits pass in overlapping groups; faces and hats recede into the crowd at the right and rear. A green awning and muted storefront architecture fill the upper background, while the pavement below is brushed in warm tan, ochre, and gray. The composition is close to street level, making the figures the main subject rather than a distant city view. Loose oil strokes describe skirts, coats, and passing gestures, but key faces and silhouettes are more carefully resolved. Soft daylight brightens hats, cheeks, and the woman's white front without casting hard shadow. Black, cream, muted green, brown, and dusty gold dominate, with small warm accents in hair and accessories. Movement flows diagonally across the image, yet the central encounter holds a pause inside the bustle. The painting feels social, observant, and lively, capturing a transient urban moment through atmosphere and painterly shorthand.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "bf8459b8c52c257d7e1c89b0abb6a5237be59983e9221e042fc234d67eb91114",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

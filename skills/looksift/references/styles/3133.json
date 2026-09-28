@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square painterly illustration catches three children rushing out of a dark doorway into a pale open space. The central child, wearing a mustard cap and round glasses, leads with one foot stretched forward and both arms bent in motion. A smaller child follows at the left, and a girl in a red dress leaps from the doorway on the right. Their bodies form a loose diagonal from the shadowed opening toward the lower center. The setting is spare: a rough green doorframe, a nearly black interior, and a warm cream ground that offers little specific detail. That economy makes the movement and facial expressions stand out. Light from the open space brightens the cap, cheeks, shirt sleeves and swinging skirt, while the background remains a deep green brown. Ochre, rust red and muted olive dominate, with pale skin and floor tones offering relief. The paint is laid in with broad, broken strokes; edges of hair, clothing and feet flicker as if the moment were glimpsed quickly. Faces receive a few precise marks, but surrounding forms are handled loosely, with rubbed and scraped areas of color visible. The image feels playful and slightly nostalgic rather than polished or photographic. Its broad empty foreground gives the running figures room to advance, and the hard rectangular doorway steadies the restless diagonal motion.",
+  "full_prompt_zh": "这幅方形绘画式插画抓住三个孩子从暗门口奔向浅色空地的一刻。中央孩子戴芥黄帽和圆眼镜，领先一步，一只脚向前伸出，双臂弯曲摆动。左侧较小的孩子跟上，右侧红裙女孩从门口跃出。身体从暗开口到下方中央形成松散斜线。环境简洁：粗糙绿门框、几乎发黑的内部，以及缺少具体细节的暖奶油色地面。这种节制让动作和表情格外显眼。外部的光照亮帽子、脸颊、衬衫袖和摆动裙边，背景仍是深绿棕。赭黄、锈红与柔和橄榄绿占主调，浅色肌肤和地面让眼睛得以休息。颜料以宽而断续的笔触铺出，头发、衣边和脚的边缘闪动，像匆匆瞥见的一瞬。面孔只接受少数准确笔记，周围形体更松散，擦抹和刮开的色块清楚可见。画面活泼而带一点怀旧感，不像摄影般光滑。宽阔空前景给奔跑形体留出前进余地，坚硬矩形门洞则稳住躁动的斜向节奏。",
+  "style_prompt_en": "The painterly illustration uses broad, broken strokes and a lightly scraped surface. Mustard ochre, rust red, olive green and warm cream are held against a deep green brown recess. Simple rectangular shadow provides a stable frame for quick diagonal movement. Light selects a few small planes, while adjacent edges remain soft or unfinished. The composition leaves generous pale space around the active center. Expressive marks matter more than precise surface description, giving the image a lively, remembered quality.",
+  "style_prompt_zh": "这种绘画式插画使用宽阔断续的笔触与略经刮擦的表面。芥黄赭色、锈红、橄榄绿和暖奶油色靠着深绿棕的凹陷暗处。简单矩形阴影提供稳定框架，容纳迅疾的斜向运动。光挑亮少数小平面，相邻边缘仍柔软或未完全收束。构图在活跃中心周围保留宽裕的浅色空间。富表情的笔迹重于精确表面描述，使画面像鲜活的回忆。",
+  "theme_en": "Three children rushing out of a dark doorway",
+  "theme_zh": "从暗门口奔出的三个孩子",
+  "wh_ratio": "1:1",
+  "id": "3133",
+  "name": "Craig Davison",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/craig-davison",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "40eb989c391f25c90519cb089c88f1bde515e94399d1650ceecb8a2c528caaa1",
+    "gpt_submission_prompt": "A square painterly illustration catches three children rushing out of a dark doorway into a pale open space. The central child, wearing a mustard cap and round glasses, leads with one foot stretched forward and both arms bent in motion. A smaller child follows at the left, and a girl in a red dress leaps from the doorway on the right. Their bodies form a loose diagonal from the shadowed opening toward the lower center. The setting is spare: a rough green doorframe, a nearly black interior, and a warm cream ground that offers little specific detail. That economy makes the movement and facial expressions stand out. Light from the open space brightens the cap, cheeks, shirt sleeves and swinging skirt, while the background remains a deep green brown. Ochre, rust red and muted olive dominate, with pale skin and floor tones offering relief. The paint is laid in with broad, broken strokes; edges of hair, clothing and feet flicker as if the moment were glimpsed quickly. Faces receive a few precise marks, but surrounding forms are handled loosely, with rubbed and scraped areas of color visible. The image feels playful and slightly nostalgic rather than polished or photographic. Its broad empty foreground gives the running figures room to advance, and the hard rectangular doorway steadies the restless diagonal motion.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "8bb03dcf2ff3628d3c5020b7733b6faa28b72b03f205acabc1b1e41d7e22a8d1",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

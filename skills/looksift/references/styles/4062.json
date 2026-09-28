@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square conceptual architectural image places a tall fragmented structure alone in a broad, dusty plain. The background is a pale beige-gray sky that brightens toward the low horizon, with faint distant hills stretching behind the structure. A narrow dark track begins near the lower edge and points toward the central base, making the otherwise empty ground read as a traversable space. The structure rises slightly right of center as a stack of offset stone-colored blocks, suspended platforms, abrupt voids, and projecting ledges. Its upper mass leans and breaks into smaller rectangular units, while a large opening near the middle allows the bright background to pass through. Rough gray and tan surfaces are speckled and uneven, but the outer profile remains sharply stepped. The separate pieces look deliberately assembled in unstable balance rather than organized around a conventional façade. Thin shadows collect under the overhangs and inside the central void; a warm low light from the right picks out exposed edges and gives the terrain a faint peach cast. Much of the left half remains open sky and flat earth, emphasizing the structure's improbable scale and isolation. The tonal range is narrow, moving from warm cream through dusty gray to charcoal in the deepest gaps. The overall composition contrasts extensive calm negative space with a compressed, angular vertical rhythm, leaving the solitary construction both monumental and strangely precarious.",
+  "full_prompt_zh": "一幅方形概念建筑图像将一座高而破碎的结构孤立地置于宽阔、多尘的平原。背景是淡米灰天空，向低地平线逐渐变亮，隐约远山在结构后方延伸。一道狭窄深色路径从底边附近开始，指向中央基部，让原本空旷的地面成为可以行经的空间。结构在中央稍偏右处升起，由错位的石色方块、悬出的平台、突然的空洞和外挑檐板层叠而成。上部体量倾斜并裂成较小矩形单元，中段的大开口则让明亮背景从中穿过。粗糙的灰色与褐色表面布满斑点且不平整，外轮廓仍保持尖锐的阶梯状。这些分离部件看似刻意以不稳定的平衡组装，而非围绕惯常立面组织。细影聚在外挑结构下和中央空洞中；来自右侧的低角度暖光挑亮外露边缘，让地面略带桃色。左半边大部保留天空和坦平土地，强调结构不寻常的尺度与孤立。色阶很窄，从暖奶油色经蒙尘灰到最深缝隙中的炭黑。整体构图用大片平静留白对比压缩的棱角竖向节奏，使孤立的构造同时显得宏大而奇异地不稳。",
+  "style_prompt_en": "Conceptual rendering assembles irregular angular masses through abrupt offsets, projecting planes, and voids. Hard stepped silhouettes contrast with rough speckled surfaces and a softly hazed distance. A narrow palette of cream, sand, warm gray, and charcoal keeps the spatial fractures more prominent than color. Low oblique light warms exposed edges and allows recesses to form compact dark cuts. A small dense vertical cluster occupies one part of a much broader quiet field, while a subtle directional trace across the lower area draws the eye inward. The image feels monumental, isolated, and deliberately unsettled.",
+  "style_prompt_zh": "概念式渲染以突然错位、外伸平面和空洞组装不规则棱角体量。坚硬的阶梯状剪影与粗糙斑点表面、柔雾中的远处相对。奶油色、沙色、暖灰和炭色组成狭窄色域，让空间断裂比色彩更突出。低角度斜光温暖外露边缘，使凹处形成紧凑深色切口。小而密集的竖向组合占据宽阔安静色域的一部分，下方细微的方向性痕迹把视线引向内部。画面宏大、孤立，并有意不安稳。",
+  "theme_en": "A fragmented vertical structure in an empty desert",
+  "theme_zh": "空旷沙漠中的破碎竖向结构",
+  "wh_ratio": "1:1",
+  "id": "4062",
+  "name": "Deconstructivism",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/deconstructivism.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "09bba31348a021f35ebb5f115d4ea837232d2edda654fa406d51f97d86521c21",
+    "gpt_submission_prompt": "A square conceptual architectural image places a tall fragmented structure alone in a broad, dusty plain. The background is a pale beige-gray sky that brightens toward the low horizon, with faint distant hills stretching behind the structure. A narrow dark track begins near the lower edge and points toward the central base, making the otherwise empty ground read as a traversable space. The structure rises slightly right of center as a stack of offset stone-colored blocks, suspended platforms, abrupt voids, and projecting ledges. Its upper mass leans and breaks into smaller rectangular units, while a large opening near the middle allows the bright background to pass through. Rough gray and tan surfaces are speckled and uneven, but the outer profile remains sharply stepped. The separate pieces look deliberately assembled in unstable balance rather than organized around a conventional façade. Thin shadows collect under the overhangs and inside the central void; a warm low light from the right picks out exposed edges and gives the terrain a faint peach cast. Much of the left half remains open sky and flat earth, emphasizing the structure's improbable scale and isolation. The tonal range is narrow, moving from warm cream through dusty gray to charcoal in the deepest gaps. The overall composition contrasts extensive calm negative space with a compressed, angular vertical rhythm, leaving the solitary construction both monumental and strangely precarious.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "e1df7b95d45973eb7d1f5b8013ec07f22b0c3f7f17da85be4ee5cb5094580356",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

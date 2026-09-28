@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white graphic novel illustration shows a dark-haired couple seated together in a heavily patterned room. On the left, a tall, angular-faced man in a dark suit leans slightly forward with his hands joined near his lap. He looks sideways with an intense, reserved expression. On the right, a woman with long straight black hair rests her chin on one hand, her pale face turned toward the side with a cool, unimpressed gaze. Their clothing forms broad uninterrupted pools of black, allowing faces and hands to read as sharp white shapes. Behind them, framed pictures and dense wallpaper patterns occupy the upper wall. A small lamp and candlesticks sit between the figures, while dark drapery at the right deepens the enclosed interior. Fine black hatching models the faces, furniture, and wallpaper, but the bodies stay graphically simple. The image uses no color: cream-white paper, charcoal gray detail, and solid black ink create the full tonal range. Indoor light appears soft and localized around the lamp and pale faces, leaving the edges and clothes in heavy shadow. The seated figures share the same space but seem emotionally distant, a contrast reinforced by the gap and small objects between them. The square frame is packed with pattern yet remains legible because the black silhouettes are so clear. The overall composition feels austere, wry, and intimate, using economical facial expression and decisive areas of ink to turn an ordinary seated arrangement into quiet tension.",
+  "full_prompt_zh": "一幅方形黑白图像小说插画描绘一对黑发伴侣坐在纹样浓密的房间中。左侧，高个男子面部棱角分明，穿深色西服，双手在膝前合拢，身体略向前倾。他侧目望去，神情强烈而克制。右侧，留长直黑发的女子用一只手托着下巴，浅色面孔转向一边，目光冷淡而不以为然。两人的衣服组成宽阔连续的黑色区域，使脸和手像尖锐白色形状般凸显。身后，上方墙面布满带框画和密集壁纸纹样。小台灯与烛台位于两人之间，右侧深色帷幔加重封闭的室内感。细黑排线塑造脸、家具和壁纸，但身体仍保持图形上的简练。画面不使用彩色：奶油白纸、炭灰细节和整片黑墨构成全部明暗范围。室内光似乎柔和地集中于台灯和浅色脸部，边缘及衣服留在浓重阴影中。两人共享同一空间，却显得情感疏远；中间的间隙和小物件强化这一反差。方形画框虽挤满图案，凭借清楚的黑色剪影仍容易辨认。整体严肃、带冷幽默而亲密，用简练表情和果断墨色把普通的并坐安排转化为安静张力。",
+  "style_prompt_en": "A high-contrast black-and-white graphic-novel style built from expansive solid-black silhouettes, pale reserved highlights, and fine gray hatching. Crisp facial contours remain expressive with minimal features, while patterned peripheral detail fills the space without overtaking the focal forms. Soft localized light separates small white areas from heavy surrounding shadow. Dense ornament and simple dark masses alternate to keep a square composition readable. The result is austere, dryly humorous, and intimate, with a precise inked finish.",
+  "style_prompt_zh": "高反差黑白图像小说风格，由宽阔的整片黑色剪影、保留的浅色亮部和细灰排线构成。清脆面部轮廓仅用少量特征就保有表情，外围纹样细节填满空间，却不压过中心形态。局部柔光使小块白色从周围重影中分离。密集装饰与简洁深色块面交替，使方形构图仍可读。成品严肃、带冷面幽默且亲密，墨线处理精确。",
+  "theme_en": "A dark-haired couple sitting together in a richly patterned room",
+  "theme_zh": "一对黑发伴侣坐在纹样繁复的房间里",
+  "wh_ratio": "1:1",
+  "id": "3799",
+  "name": "Marjane Satrapi",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/marjane-satrapi",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "b910cf6fb4c647a764a51d317d5c250787d96498d26b38e9a27c2b59cfa837a9",
+    "gpt_submission_prompt": "A square black-and-white graphic novel illustration shows a dark-haired couple seated together in a heavily patterned room. On the left, a tall, angular-faced man in a dark suit leans slightly forward with his hands joined near his lap. He looks sideways with an intense, reserved expression. On the right, a woman with long straight black hair rests her chin on one hand, her pale face turned toward the side with a cool, unimpressed gaze. Their clothing forms broad uninterrupted pools of black, allowing faces and hands to read as sharp white shapes. Behind them, framed pictures and dense wallpaper patterns occupy the upper wall. A small lamp and candlesticks sit between the figures, while dark drapery at the right deepens the enclosed interior. Fine black hatching models the faces, furniture, and wallpaper, but the bodies stay graphically simple. The image uses no color: cream-white paper, charcoal gray detail, and solid black ink create the full tonal range. Indoor light appears soft and localized around the lamp and pale faces, leaving the edges and clothes in heavy shadow. The seated figures share the same space but seem emotionally distant, a contrast reinforced by the gap and small objects between them. The square frame is packed with pattern yet remains legible because the black silhouettes are so clear. The overall composition feels austere, wry, and intimate, using economical facial expression and decisive areas of ink to turn an ordinary seated arrangement into quiet tension.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "aebbd3baa7b9651ecb6026846dd8ddea6a9a62640bb08ed077760493708a89a4",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

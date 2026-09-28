@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square modernist landscape painting shows a pale winding river passing through red hills toward distant pink mountains. The upper third is a soft blue-gray sky, brushed with thin cream cloud streaks and visible horizontal texture. Below it, overlapping mountain shapes rise in muted rose and dusty pink, their simple slopes fading toward a light central valley. Dark navy and near-black hills occupy the left foreground and the right middle distance, creating strong flat silhouettes against the paler peaks. Between them, a broad rust-red field spreads across the center, interrupted by a row of deeper red trees along the water. The river enters from the lower left as a wide ivory ribbon and narrows as it curves toward the middle. Small blue-green and charcoal shrubs cluster along its right bank near the lower center, their rounded forms providing the main fine detail. The surfaces are matte and lightly granular, with visible scumbled paint but little modeled volume. Edges of the hills are clear yet slightly softened by brush texture; the mountains stack like cut colored paper. Light is diffuse beneath the clouded sky, with brightness expressed mainly through the pale river and sky rather than cast shadows. Warm red and pink areas meet cooler blue, green, and black shapes without harsh local highlights. The overall composition is simple and lyrical, using a serpentine light passage to carry the eye through broad bands of muted color.",
+  "full_prompt_zh": "这是一幅方形现代主义风景画，一条浅色弯河穿过红丘，通向远处粉色群山。上方三分之一是柔蓝灰天空，刷着细奶油色云痕和可见横向肌理。其下，叠压山形以低调玫瑰与灰粉升起，简化山坡向浅色中央山谷淡去。深海军蓝和近黑山丘占据左前景与右中景，在较浅远峰前形成强平面剪影。它们之间，宽阔锈红田地铺开于中央，沿水边的一排更深红树木打断它。河流从左下方以宽象牙色带进入，向中部弯曲时逐渐变窄。小蓝绿与炭色灌木聚在下方中央附近的右岸，圆润形体提供主要细节。表面哑光且轻微颗粒化，能看到擦涂颜料，却几乎没有塑形体积。山丘边缘清楚，但被笔触肌理略微柔化；群山如彩纸剪片般层层堆叠。阴云天空下光线漫射，亮度主要由浅河与天空表达，而非投影。暖红粉区域与较冷蓝、绿、黑形状相遇，没有尖锐局部高光。整体构图简洁而抒情，以一条蛇形浅色通道引导视线穿过宽阔的低调色带。",
+  "style_prompt_en": "The painting reduces space to broad overlapping color fields with a gently scumbled matte surface. Dusty pink, rust red, blue-gray, ivory, deep navy, and muted green form large balanced shapes. Curving pale bands wind between darker blocks and lead the eye into the frame, while small rounded accents provide limited texture. Edges are cut-paper clear in structure but softened by dry-brush grain at close range. Shading is minimal; depth comes from stacking, scale, and warm-cool contrast rather than realistic perspective. Diffuse light is carried by the relative brightness of whole color fields, with no sharp cast shadows. The effect is quiet, lyrical, and modernist.",
+  "style_prompt_zh": "绘画将空间简化为宽阔叠压色域，表面哑光且带轻微擦涂感。灰粉、锈红、蓝灰、象牙色、深海军蓝和低调绿色构成平衡的大形状。弯曲浅色带在较深团块间蜿蜒，将视线带入画内，小圆润强调提供有限肌理。结构上的边缘如剪纸般清楚，近看则被干刷颗粒柔化。阴影很少；纵深来自层叠、尺度与冷暖对比，而非写实透视。漫射光由整片色域的相对亮度承载，没有尖锐投影。效果安静、抒情，具有现代主义气质。",
+  "theme_en": "A pale river winding through red hills toward pink mountains",
+  "theme_zh": "浅色河流蜿蜒穿过红丘，通往粉色群山",
+  "wh_ratio": "1:1",
+  "id": "2455",
+  "name": "Milton Avery",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/milton-avery",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/milton-avery.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "db26b5c23af4140f5d13439e3844ea9dcc1cc83d607bdd16985e553016f50eaf",
+    "gpt_submission_prompt": "A square modernist landscape painting shows a pale winding river passing through red hills toward distant pink mountains. The upper third is a soft blue-gray sky, brushed with thin cream cloud streaks and visible horizontal texture. Below it, overlapping mountain shapes rise in muted rose and dusty pink, their simple slopes fading toward a light central valley. Dark navy and near-black hills occupy the left foreground and the right middle distance, creating strong flat silhouettes against the paler peaks. Between them, a broad rust-red field spreads across the center, interrupted by a row of deeper red trees along the water. The river enters from the lower left as a wide ivory ribbon and narrows as it curves toward the middle. Small blue-green and charcoal shrubs cluster along its right bank near the lower center, their rounded forms providing the main fine detail. The surfaces are matte and lightly granular, with visible scumbled paint but little modeled volume. Edges of the hills are clear yet slightly softened by brush texture; the mountains stack like cut colored paper. Light is diffuse beneath the clouded sky, with brightness expressed mainly through the pale river and sky rather than cast shadows. Warm red and pink areas meet cooler blue, green, and black shapes without harsh local highlights. The overall composition is simple and lyrical, using a serpentine light passage to carry the eye through broad bands of muted color.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "1d40d6654506bbd5a40e027b3a3c3c6f0345d866f45bd44d4627c3e57d705657",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

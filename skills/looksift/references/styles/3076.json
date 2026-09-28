@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A colored drawing shows a thoughtful young sitter leaning her chin into one hand before faded floral wallpaper. The head lies just above center, framed by a short copper-red bob whose dark blue strokes give the hair weight and movement. Pale blue eyes meet the viewer, while rosy cheeks and a calm closed mouth keep the expression quiet. One forearm rises vertically from the table to support the face, and the other reaches across the lower left, creating a broad triangular arrangement of limbs and torso. A dark teal floral blouse fills the right half, its cream blossoms echoing the paler flowers scattered across the wall. The background is busy with delicate plant outlines, worn patches, and softly overlapping washes, yet its low contrast lets the sitter remain the focus. Thin dark contour lines mark the jaw, hands, sleeves, and hair; short parallel strokes build density in the fabric and darker accents. The palette balances chalky peach, cream, teal, blue-green, and red-orange. Light is gentle and nearly even, with stronger color rather than dramatic shadow describing volume. The frame crops closely around the seated form, so decorative surface and portrait feel inseparable. Repeated blossoms and leaves create a fine rhythm behind the stable, inward pose, giving the image a still, intimate quality.",
+  "full_prompt_zh": "一幅彩色绘画描绘一位沉思的年轻人，手托下巴，坐在褪色花卉墙纸前。头部位于画面中心稍上，铜红色齐耳短发包住面庞，发中的深蓝色笔触增加重量与动势。浅蓝色眼睛望向观者，红润的双颊和平静合拢的嘴唇让表情保持安静。一只前臂从桌面竖直升起托住脸，另一只手臂横向伸到左下，四肢与上身构成宽阔的三角形。深青绿色花卉上衣占据右半部，其中奶油白花朵呼应墙面上更淡的花。背景满是纤细植物轮廓、磨旧斑块和柔和交叠的薄色层，但低反差使人物仍为焦点。细深色轮廓线勾出下颌、手、袖口与发丝；短平行笔触增加织物与暗部的密度。色盘在粉桃色、奶油白、青绿、蓝绿和红橙之间取得平衡。光线柔和且近乎均匀，体积更多依靠色彩而非戏剧性阴影表现。画幅紧紧裁切在坐姿形体周围，使装饰性表面与肖像不可分割。反复出现的花和叶在稳定、内向的姿态背后形成细密节奏，赋予画面静止而亲密的品质。",
+  "style_prompt_en": "A closely cropped colored drawing with thin dark contours and dense, short directional strokes. Chalky peach and cream sit beside copper red, muted teal, and blue-green. The central shape is softly modeled with blush-like color, while darker regions gain texture through parallel marks rather than glossy shading. Pale botanical patterning and worn patches spread almost edge to edge behind it; the low-contrast ornament echoes denser motifs in the foreground. Light is gentle and even. A stable triangular arrangement anchors the busy decorative surface and gives the image a quiet, intimate rhythm.",
+  "style_prompt_zh": "紧密裁切的彩色绘画，以细深色轮廓和密集短促的定向笔触构成。粉桃与奶油白并置于铜红、柔青绿和蓝绿色之间。中心形体通过腮红般的色彩轻柔塑造，较暗区域则靠平行线而非光滑明暗增加质感。浅淡植物纹样与磨旧斑块在背后几乎铺满全幅；低反差装饰呼应前方更密的图案。光线柔和均匀。稳定的三角形布局压住繁忙的装饰表面，形成安静而亲密的节奏。",
+  "theme_en": "A thoughtful portrait against faded floral wallpaper",
+  "theme_zh": "褪色花卉墙纸前的沉思肖像",
+  "wh_ratio": "1:1",
+  "id": "3076",
+  "name": "Hope Gangloff",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/hope-gangloff",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "c7562bcbb783d65039ed74ba4aba4e1a342b56e55834f23d51809506ada7c20b",
+    "gpt_submission_prompt": "A colored drawing shows a thoughtful young sitter leaning her chin into one hand before faded floral wallpaper. The head lies just above center, framed by a short copper-red bob whose dark blue strokes give the hair weight and movement. Pale blue eyes meet the viewer, while rosy cheeks and a calm closed mouth keep the expression quiet. One forearm rises vertically from the table to support the face, and the other reaches across the lower left, creating a broad triangular arrangement of limbs and torso. A dark teal floral blouse fills the right half, its cream blossoms echoing the paler flowers scattered across the wall. The background is busy with delicate plant outlines, worn patches, and softly overlapping washes, yet its low contrast lets the sitter remain the focus. Thin dark contour lines mark the jaw, hands, sleeves, and hair; short parallel strokes build density in the fabric and darker accents. The palette balances chalky peach, cream, teal, blue-green, and red-orange. Light is gentle and nearly even, with stronger color rather than dramatic shadow describing volume. The frame crops closely around the seated form, so decorative surface and portrait feel inseparable. Repeated blossoms and leaves create a fine rhythm behind the stable, inward pose, giving the image a still, intimate quality.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "3ef88641e3aedc7ced70c59a58a77f0453ed3e7c6f4697551b9cfea5af3f6b66",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

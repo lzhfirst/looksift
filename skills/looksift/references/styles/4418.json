@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square illustrated city scene follows a lone traveler from behind along a broken riverside path. The figure wears a blue coat, cap and bulky dark backpack, with one long object slanting above the shoulder. At left, a pale blue river opens toward a broad stone bridge; across the water, a domed building rises among low urban roofs. Buildings and a street lamp frame the path at right, while small birds scatter across a vast flat orange sky. The ground is fractured into sharp slabs and rubble, drawn with countless short blue lines and occasional bright orange gaps. Nearly every built form is rendered in cool cyan or indigo, so the warm sky reads as an expansive opposing plane. Fine sketch-like hatching supplies texture to bridge masonry, distant facades and debris, but broad color separation keeps the scene legible. The traveler sits slightly right of center and remains modest in scale, giving the damaged environment and strange sky dominance. The path's converging edges lead toward the bridge and domed landmark. There is no visible conflict; the figure's steady walk implies a larger journey beyond the frame. The image combines travel-poster clarity with post-disaster unease, using tight linework, deliberately limited color and a dramatic warm-cool split.",
+  "full_prompt_zh": "一幅正方形插画城市景象从身后跟随一位旅人沿破损河岸小径前行。人物穿蓝色外套和帽子，背厚重深色背包，一根长物体从肩上斜起。左侧浅蓝河面敞向宽阔石桥；对岸低矮屋顶之间升起圆顶建筑。右侧建筑与路灯围住道路，小鸟散在大片纯橙天空里。地面碎裂为尖角石板和瓦砾，由无数短蓝线与偶尔亮橙缝隙刻画。几乎所有建筑形体都用冷青或靛蓝，因此暖天空成为宽阔的对照平面。细速写式排线为桥石、远立面与碎屑增加纹理，但大色彩分区使场景清楚。旅人位于中心略右，尺度适度小，让受损环境和异常天空占主导。小径汇聚的边缘指向桥与圆顶地标。没有可见冲突，稳定的步行暗示画框外还有更长路程。图像结合旅行海报的清晰度与灾后不安，依靠紧密线描、刻意限制的颜色与鲜明暖冷分割。",
+  "style_prompt_en": "The style is graphic narrative landscape illustration with a stringent orange-versus-cyan palette, fine sketch hatching and broad flat atmospheric fields. Cool built textures and broken linear ground contrast with a large nearly uniform warm upper region. A small rearward scale accent and converging pathway create depth within the square frame. Selective indigo shadows anchor the composition, while tiny scattered marks add weathered density. The result is readable like a poster but textured like a field drawing, with quiet journey implied through spatial recession.",
+  "style_prompt_zh": "这种风格是图形叙事风景插画，以严格橙与青的对照、细速写排线和宽阔平面空气色域构成。冷色建筑肌理和破碎线性地面对应大片几乎均匀的暖色上部区域。微小背向尺度重音与汇聚路径在正方形画幅内建立纵深。选择性靛蓝阴影固定构图，散落小笔记增加风化密度。效果像海报一样可读，又像现场绘画一样有肌理，通过空间退远暗示安静旅程。",
+  "theme_en": "A solitary traveler walking toward an orange-sky bridge",
+  "theme_zh": "独行者走向橙色天空下的桥",
+  "wh_ratio": "1:1",
+  "id": "4418",
+  "name": "Laurie Greasley",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/laurie-greasley.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "fe42ba75e79dd0aebefc33de68f5b94435899203f3590bd9ddce63699d7415b1",
+    "gpt_submission_prompt": "A square illustrated city scene follows a lone traveler from behind along a broken riverside path. The figure wears a blue coat, cap and bulky dark backpack, with one long object slanting above the shoulder. At left, a pale blue river opens toward a broad stone bridge; across the water, a domed building rises among low urban roofs. Buildings and a street lamp frame the path at right, while small birds scatter across a vast flat orange sky. The ground is fractured into sharp slabs and rubble, drawn with countless short blue lines and occasional bright orange gaps. Nearly every built form is rendered in cool cyan or indigo, so the warm sky reads as an expansive opposing plane. Fine sketch-like hatching supplies texture to bridge masonry, distant facades and debris, but broad color separation keeps the scene legible. The traveler sits slightly right of center and remains modest in scale, giving the damaged environment and strange sky dominance. The path's converging edges lead toward the bridge and domed landmark. There is no visible conflict; the figure's steady walk implies a larger journey beyond the frame. The image combines travel-poster clarity with post-disaster unease, using tight linework, deliberately limited color and a dramatic warm-cool split.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "655007b37f0699862ff7249a23bdd9965dab83ee7f232d7c665e4d36839d9da2",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

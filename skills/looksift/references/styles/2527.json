@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square expressionist oil painting crowds the frame with rows of audience members inside a theater-like hall. The closest row sits behind a deep red rail across the lower edge. Near the center, a woman with gray hair props her cheek on one hand, while an older white-haired man in a black suit and bow tie faces forward to her right. To the left, other formally dressed figures gather around a small pale skull on the rail. Behind them, dozens of faces, hats, pale masks, and colored garments recede upward into a dense amber crowd. Individual expressions range from distracted to amused to strangely blank. The background is not carefully separated into architectural space; people and warm wall colors dissolve into one busy, mottled surface. Orange, ochre, dusty red, cream, olive, and black form a vibrating palette. Paint is applied in short irregular strokes and scumbled layers, so outlines blur and surface texture remains visible. Faces near the front are more readable, while those high in the image become small spots of light and color. Illumination is warm and uneven, touching pale faces and hats as the crowd darkens between them. The frame is packed nearly edge to edge, creating a restless, satirical atmosphere. Its humor feels uneasy because the familiar social gathering is filled with exaggerated faces and spectral details.",
+  "full_prompt_zh": "一幅方形表现主义油画把剧院般大厅里的几排观众挤满画框。最近一排坐在横贯下缘的深红栏杆后。中央附近，一位灰发女子单手托腮；她右侧一位穿黑西服、打领结的白发老者正面朝外。左边其他着正装的人聚在栏杆上一颗小浅色头骨旁。身后数十张脸、帽子、浅色面具和各色衣物向上退入浓密琥珀色人群。表情有心不在焉、有愉悦，也有奇异的空白。背景没有仔细分出建筑空间；人与暖色墙面融成繁忙斑驳表面。橙、赭、尘红、奶油、橄榄与黑组成颤动的配色。颜料以短而不规则的笔触和干擦层涂上，使轮廓模糊、表面肌理可见。前排脸较容易辨认，画面上方的则化成小光点与色点。照明温暖且不均，落在浅色脸与帽子上，人群间隙逐渐变暗。画框几乎从边到边挤满，形成躁动、讽刺的气氛。这幽默又令人不安，因为熟悉的社交聚集里满是夸张面容和幽灵般细节。",
+  "style_prompt_en": "Expressionist oil paint uses short irregular strokes and scumbled color to build a densely packed, mottled surface. Ochre, amber, dusty red, olive, cream, and black vibrate against one another. Forms near the front have firmer outlines; repeated marks and faces gradually dissolve into color farther back. Warm uneven light picks pale accents from a dark crowd. Depth comes from layered scale and overlap rather than exact architecture. The composition presses outward to every edge, giving lively social energy an uneasy, satirical undertone. Visible brush texture remains central to the style.",
+  "style_prompt_zh": "表现主义油彩以短促不规则笔触和干擦色层建立拥挤斑驳的表面。赭、琥珀、尘红、橄榄、奶油与黑相互颤动。前方形体轮廓较稳；重复笔痕逐渐向后化为颜色。温暖而不均的光从暗色群块中拣出浅色点。纵深来自尺度与重叠，而非精确建筑。构图向每个边缘挤压，使活跃的社交能量带有不安的讽刺底色。可见笔触肌理始终是画风核心。",
+  "theme_en": "A crowded audience of eccentric faces at a theater",
+  "theme_zh": "剧院中满是怪诞面孔的观众席",
+  "wh_ratio": "1:1",
+  "id": "2527",
+  "name": "James Ensor",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/james-ensor",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/james-ensor.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "a2a9bbb643e7d2bf76f6deec7ca1a45acfbd935cbdf594725306e8e20632300f",
+    "gpt_submission_prompt": "A square expressionist oil painting crowds the frame with rows of audience members inside a theater-like hall. The closest row sits behind a deep red rail across the lower edge. Near the center, a woman with gray hair props her cheek on one hand, while an older white-haired man in a black suit and bow tie faces forward to her right. To the left, other formally dressed figures gather around a small pale skull on the rail. Behind them, dozens of faces, hats, pale masks, and colored garments recede upward into a dense amber crowd. Individual expressions range from distracted to amused to strangely blank. The background is not carefully separated into architectural space; people and warm wall colors dissolve into one busy, mottled surface. Orange, ochre, dusty red, cream, olive, and black form a vibrating palette. Paint is applied in short irregular strokes and scumbled layers, so outlines blur and surface texture remains visible. Faces near the front are more readable, while those high in the image become small spots of light and color. Illumination is warm and uneven, touching pale faces and hats as the crowd darkens between them. The frame is packed nearly edge to edge, creating a restless, satirical atmosphere. Its humor feels uneasy because the familiar social gathering is filled with exaggerated faces and spectral details.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "0de9276a5e614b0afe8372a05c29a50a2335288bb20a9b150f5844048b366745",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

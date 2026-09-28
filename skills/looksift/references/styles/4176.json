@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square classical oil painting shows a woman seated on broad pale stone steps beside a tiled wall. She is positioned at the left, wearing a flowing coral-red dress over long cream sleeves. Her dark hair is loosely gathered, and she bends her head down toward a cluster of small white flowers held near her lap. Additional white blossoms spill across the lower steps to the right. A shallow brass bowl rests on a step behind her, and another metal dish sits farther left, their warm dull sheen contrasting with the chalky stone. Large rectangular blocks form the steps and wall, their joints and worn edges carefully visible. At the upper left, parts of an interior ledge hold small vessels and fabric, but these details remain subordinate to the figure. The dress folds descend diagonally toward the lower center, creating a warm red path through the otherwise cream, gray, and brown composition. Soft daylight comes from the upper right, warming the woman's shoulder, face, hands, and the top planes of the steps; the spaces beneath the risers and around the vessels stay cool and shadowed. Fine brushwork gives skin a smooth finish and stone a lightly rough texture. There is no readable text. The overall composition is quiet and intimate, with the downward gesture and scattered white flowers slowing the eye across sturdy geometric stone.",
+  "full_prompt_zh": "一幅方形古典油画描绘一位女子坐在铺砖墙旁宽阔的浅色石阶上。她位于左侧，穿流动的珊瑚红裙，里层是长奶油色袖子。深发松松收起，头低向腿边手持的一簇小白花。更多白花散在右下台阶上。身后一道台阶放着浅黄铜碗，更左还有一只金属盘，暗暖光泽与粉白石面相对。大矩形石块组成台阶与墙面，接缝和磨损边缘清楚可见。左上方室内台沿摆着小器皿和布料，但这些细节服从人物。裙褶斜向落到下方中央，为大体奶油、灰与棕的构图开出一条暖红路线。柔日光从右上来到，温暖女子肩、脸、手和台阶上表面；阶下及器皿周围空间则冷而有影。细腻笔触使皮肤光滑，石面略粗糙。没有可读文字。整体构图安静而亲密，向下的动作和散落白花让视线在坚实的几何石阶上放慢。",
+  "style_prompt_en": "Classical oil painting pairs smooth focal modeling with carefully observed rougher surfaces and firm geometric supports. Coral red and warm cream provide the principal contrast within stone gray, muted brown, and small brass-gold accents. Soft oblique daylight lifts exposed upper planes and leaves cooler shadows in joints and under projecting edges. Long diagonal folds cross slower horizontal bands, balancing fluid and stable rhythms. Fine brush transitions keep contours believable without making the image glossy. The effect is intimate, measured, and materially precise.",
+  "style_prompt_zh": "古典油画将光滑的焦点塑形与细察的粗糙表面、坚实几何支撑并置。珊瑚红和暖奶油色在石灰、暗棕和少量黄铜金色强调中构成主要反差。柔和斜日光抬亮外露上表面，使接缝和外挑下缘保持较冷阴影。悠长斜褶穿过更缓慢的水平色带，平衡流动与稳定节奏。细致笔触过渡使轮廓可信，却不把图像变成光亮表面。效果亲密、有分寸且材料表现准确。",
+  "theme_en": "A woman in a coral dress sitting beside pale stone steps",
+  "theme_zh": "坐在浅色石阶旁的珊瑚红裙女子",
+  "wh_ratio": "1:1",
+  "id": "4176",
+  "name": "Lawrence Alma-Tadema",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/lawrence-alma-tadema.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "bc14fbcc29cc1f3f39c8822eff10bb9c329eddbcda97460ba33de6129fb60b6a",
+    "gpt_submission_prompt": "A square classical oil painting shows a woman seated on broad pale stone steps beside a tiled wall. She is positioned at the left, wearing a flowing coral-red dress over long cream sleeves. Her dark hair is loosely gathered, and she bends her head down toward a cluster of small white flowers held near her lap. Additional white blossoms spill across the lower steps to the right. A shallow brass bowl rests on a step behind her, and another metal dish sits farther left, their warm dull sheen contrasting with the chalky stone. Large rectangular blocks form the steps and wall, their joints and worn edges carefully visible. At the upper left, parts of an interior ledge hold small vessels and fabric, but these details remain subordinate to the figure. The dress folds descend diagonally toward the lower center, creating a warm red path through the otherwise cream, gray, and brown composition. Soft daylight comes from the upper right, warming the woman's shoulder, face, hands, and the top planes of the steps; the spaces beneath the risers and around the vessels stay cool and shadowed. Fine brushwork gives skin a smooth finish and stone a lightly rough texture. There is no readable text. The overall composition is quiet and intimate, with the downward gesture and scattered white flowers slowing the eye across sturdy geometric stone.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "8dafd381f7a18d2115910d50a73e09a1026fe933829b8bf2c0be8b23aa661a90",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

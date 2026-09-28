@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square monumental mural painting packs a crowd of workers and townspeople across its lower half beneath a giant pale marine creature. The creature's broad head and large round eye emerge from blue-gray stone forms above, while a smaller companion shape follows behind it. These oversized forms read like an allegorical relief rather than an animal in a literal sea. Below, men in caps, jackets, and work clothes press shoulder to shoulder; their heads turn in different directions and their gestures create many small human stories. A light-haired woman near center stands out among deep blue and brown clothing. The surrounding environment is a compressed wall of rock-like folds, floral color, and architectural fragments. Mineral blue, slate, warm tan, ochre, muted rust, and occasional pale cream cover the composition in dense matte paint. Every contour is firm but softened by textured pigment and close interlocking shapes. Light is even, as if the mural surface is uniformly exposed; subtle warm highlights distinguish faces while cooler blue-gray tones unify the upper mass. The crowd's compact repeated ovals contrast with the immense sweeping curved form above. The result is narrative, public, and symbolic, with little empty space and a sense of many lives pressed into one continuous painted field.",
+  "full_prompt_zh": "一幅方形纪念性壁画把工人与镇民的人群紧密挤在下半部，上方是一只巨大的浅色海洋生物。生物宽阔的头和大圆眼从蓝灰石状形体中浮出，后面还有较小的同类轮廓。这些超大形体更像寓言性浮雕，而非真实海中的动物。下方戴帽、穿夹克与工装的男人们肩挨肩挤在一起，头朝不同方向，手势形成许多细小的人间故事。中央附近一位浅发女性在深蓝与棕色服装中显出。周围环境像被压缩的石褶、花色和建筑碎片构成的墙面。矿物蓝、板岩色、暖棕、赭黄、低调铁锈色与偶尔的浅奶油色以密实哑光颜料覆盖画面。每道轮廓坚定，却被颜料纹理和紧密咬合形状软化。光线均匀，仿佛壁画表面整体受照；细小暖高光区分面庞，冷蓝灰调统一上方大形。人群紧凑重复的椭圆头形与上方巨大舒展曲线相对。成品具有叙事性、公共性和象征性，空白很少，多种生活被压入一片连续绘画场域。",
+  "style_prompt_en": "Monumental social mural painting with dense interlocking forms, firm contours softened by matte pigment, and allegorical scale shifts. Repeated small rounded marks gather below broad sweeping curves. Mineral blue, slate, warm tan, ochre, rust, and cream create a crowded but cohesive surface. Even illumination and textured brushwork prioritize collective narrative rhythm over isolated polished detail.",
+  "style_prompt_zh": "纪念性社会壁画，以密集咬合的形体、被哑光颜料软化的坚定轮廓及寓言式尺度变化为特点。细小重复圆形标记聚在宽阔舒展曲线之下。矿物蓝、板岩色、暖棕、赭黄、铁锈与奶油色形成拥挤但统一的表面。均匀光照和有纹理的笔触强调群体叙事节奏，而非孤立的精雕细节。",
+  "theme_en": "Crowded workers beneath a giant stone marine creature mural",
+  "theme_zh": "巨大的石质海洋生物壁画下拥挤的工人",
+  "wh_ratio": "1:1",
+  "id": "4335",
+  "name": "Diego Rivera",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/diego-rivera.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "6e6f1d030ba6558d1f05fad3841f2286491ef9040179444bb173b80e6b9a869a",
+    "gpt_submission_prompt": "A square monumental mural painting packs a crowd of workers and townspeople across its lower half beneath a giant pale marine creature. The creature's broad head and large round eye emerge from blue-gray stone forms above, while a smaller companion shape follows behind it. These oversized forms read like an allegorical relief rather than an animal in a literal sea. Below, men in caps, jackets, and work clothes press shoulder to shoulder; their heads turn in different directions and their gestures create many small human stories. A light-haired woman near center stands out among deep blue and brown clothing. The surrounding environment is a compressed wall of rock-like folds, floral color, and architectural fragments. Mineral blue, slate, warm tan, ochre, muted rust, and occasional pale cream cover the composition in dense matte paint. Every contour is firm but softened by textured pigment and close interlocking shapes. Light is even, as if the mural surface is uniformly exposed; subtle warm highlights distinguish faces while cooler blue-gray tones unify the upper mass. The crowd's compact repeated ovals contrast with the immense sweeping curved form above. The result is narrative, public, and symbolic, with little empty space and a sense of many lives pressed into one continuous painted field.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "7e71019d8c3e9bbbbcc67676d737653e38c1f53f47604a8acbb394dc5336e91b",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

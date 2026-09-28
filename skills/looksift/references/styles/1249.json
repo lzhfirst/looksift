@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square experimental color photograph looks through layered dark leaves into a garden and a faint house beyond. The nearest foliage hangs from the upper edge and the right side as almost black silhouettes, with individual oval leaves cutting into a pale cyan opening near the center top. At the middle distance, a low roofline and soft wall are barely discernible through a veil of color. The entire left side blazes with red and orange, like a broad light leak or translucent red filter burning across shrubs and tree branches. The lower half becomes deep crimson with scattered black stems and irregular leaf shapes. On the right, cool cyan and blue-green shadows meet the red, producing a strong warm-cool division without a clean boundary. A pink mist-like area occupies the center and softens the building. Texture is deliberately unstable: some foliage is sharp and nearly silhouetted, while other layers look grainy, doubled, and washed out. The image has no conventional clear subject; the interest lies in seeing ordinary vegetation and architecture through chemical color, overlapping exposures, and translucent veils. There is no strong horizon, face, signage, or readable writing. The composition is dense at its edges, opening to a small pale window of sky. Its atmosphere is mysterious and sensory, as if daylight were passing through several sheets of stained film before reaching the camera. The result remains photographic despite its nearly abstract color fields and ambiguous depth.",
+  "full_prompt_zh": "一张方形实验彩色照片透过层层深色叶片看向花园及更远一座隐约房屋。近处树叶从顶边和右边悬下，几乎成黑剪影，单片椭圆叶切入中上部浅青开口。中距低屋脊和柔墙只在色幕中依稀可辨。整个左侧被红与橙点燃，像宽阔漏光或半透红滤片灼过灌木和枝条。下半幅变为深绯红，散着黑茎及不规则叶形。右侧冷青与蓝绿阴影碰到红色，形成强冷暖分区却没有干净界线。中央粉雾状区域柔化房子。纹理刻意不稳定：有些叶子清楚且近剪影，其他层则颗粒、重影并洗淡。图像没有传统清楚主体；趣味在于透过化学色、重叠曝光和半透色幕观看平常植被及建筑。没有强地平线、脸、标牌或可读文字。构图边缘浓密，在中央上方开出一小块浅天空。氛围神秘且感官化，仿佛日光先穿过几张染色胶片才抵达相机。结果虽有近抽象色域和含糊纵深，却仍保持摄影性。",
+  "style_prompt_en": "Use experimental color photography with translucent red-orange light leaks, cyan-blue shadows, and overlapping exposures. Let dark organic silhouettes frame a pale opening while the middle layers become grainy, washed, and partly doubled. Allow complementary colors to meet through soft irregular transitions instead of precise masks. Preserve just enough recognizable edge or distant structure to keep the image photographic, even as broad color fields approach abstraction. Favor dense borders, a small central luminous zone, and visible chemical texture. The effect should feel sensory, mysterious, and optically unstable, with color treated as a material layer passing through the scene.",
+  "style_prompt_zh": "采用实验彩色摄影，叠加半透红橙漏光、青蓝阴影与多重曝光。让深色有机剪影围住浅开口，中间层则颗粒化、洗淡并局部重影。互补颜色通过柔软不规则过渡相接，而非精确遮罩。保留足够的可辨边缘或远结构，使大片色域虽近抽象仍有摄影性。偏好浓密边界、中央小亮区与可见化学肌理。效果应感官化、神秘且光学不稳定，把颜色当作穿过场景的实体层。",
+  "theme_en": "A garden view transformed by red-orange light leaks and cyan shadow",
+  "theme_zh": "花园景象被红橙漏光与青色阴影重塑",
+  "wh_ratio": "1:1",
+  "id": "1249",
+  "name": "James Welling",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/james-welling",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/james-welling.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "637e1295aec90ecb01b06d6a2a342377a14c1930ca8832a9d153f5c4de3582c6",
+    "gpt_submission_prompt": "A square experimental color photograph looks through layered dark leaves into a garden and a faint house beyond. The nearest foliage hangs from the upper edge and the right side as almost black silhouettes, with individual oval leaves cutting into a pale cyan opening near the center top. At the middle distance, a low roofline and soft wall are barely discernible through a veil of color. The entire left side blazes with red and orange, like a broad light leak or translucent red filter burning across shrubs and tree branches. The lower half becomes deep crimson with scattered black stems and irregular leaf shapes. On the right, cool cyan and blue-green shadows meet the red, producing a strong warm-cool division without a clean boundary. A pink mist-like area occupies the center and softens the building. Texture is deliberately unstable: some foliage is sharp and nearly silhouetted, while other layers look grainy, doubled, and washed out. The image has no conventional clear subject; the interest lies in seeing ordinary vegetation and architecture through chemical color, overlapping exposures, and translucent veils. There is no strong horizon, face, signage, or readable writing. The composition is dense at its edges, opening to a small pale window of sky. Its atmosphere is mysterious and sensory, as if daylight were passing through several sheets of stained film before reaching the camera. The result remains photographic despite its nearly abstract color fields and ambiguous depth.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "4d6f45410841a725d81805649cb4c0ed13677b840e0275292dfb877c3a72d3cb",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

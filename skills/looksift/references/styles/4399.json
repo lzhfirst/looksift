@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square superhero comic panel frames a masked antihero from the chest upward, surrounded by an enormous crimson cape that billows into sharp, torn folds. The mask is black with broad white eye shapes and a deep central black mouth area; narrow amber eyes glint beneath the white arcs. Heavy chains lie around the shoulders and neck, partly disappearing into the red fabric. The upper body combines black shadow and cracked ivory markings, drawn with dense hatching and distressed ink texture. Behind the figure, a pale beige field is crowded with loose skeletal or thornlike linework, while the cape pushes outward on both sides like dark red wings. A thin off-white panel border separates the illustration from the surrounding page. The composition is confrontational but still: the head inclines downward, and the cape supplies most of the apparent motion. Black, bone white and saturated blood red dominate, with only the small amber eye accents. Fine scratch marks and crosshatched shadows make the printed surface rough, almost engraved. The chest and chain have clear weight despite the expressive distortion of fabric. The image feels ominous and mythic through silhouette and ink density, without a visible fight, blast or explicit injury. Its strongest graphic mechanism is the massive red-black shape bracketing a sharply readable masked face.",
+  "full_prompt_zh": "一幅正方形超级英雄漫画格从胸部以上框住一位蒙面反英雄，巨大的绯红披风在四周翻卷成尖锐、撕裂般的褶。面具为黑色，眼周有宽阔白色形状，中央嘴部区域沉入深黑；狭窄琥珀眼光从白弧下面透出。厚重锁链横在肩颈，部分消失在红布中。上身由黑影和开裂的象牙白标记组成，密集排线与磨损墨纹覆盖其上。人物背后浅米色区域充满松散的骨状或荆棘状线描，披风在两侧像深红翅膀向外扩展。细窄灰白画格边把插画与外部页面隔开。构图具有对抗感却静止：头略低，主要运动来自披风。黑、骨白与饱和血红占主导，仅有两点琥珀眼色。细刮痕和交叉排线暗部使印刷表面粗粝，近似刻版。胸部与锁链仍有清晰重量，尽管布料表现性地扭曲。画面通过剪影与墨线密度呈现不祥的神话感，没有可见打斗、爆炸或明确伤害。最强图形机制是巨大的红黑形状把清楚可读的面具脸围在中央。",
+  "style_prompt_en": "The style is high-contrast superhero comic inking with aggressive silhouette design, densely crosshatched shadows, distressed scratch marks and billowing angular color fields. Saturated crimson, bone white and near-black dominate, with tiny warm highlights. A pale intricate linework ground offsets a strong dark central mass, and a narrow printed margin frames the square composition. Large expressive shapes create scale and motion while small engraved textures preserve tactile depth. The atmosphere is ominous through graphic pressure rather than explicit action.",
+  "style_prompt_zh": "这种风格是高反差超级英雄漫画墨线，具有有力的剪影设计、密集交叉排线阴影、磨损刮痕和翻卷的角形色域。饱和绯红、骨白和近黑色占主导，辅以极小暖高光。浅色而线描繁密的底面对应强烈中央暗体块，窄印刷边框围住正方形构图。大型表现性形状带来尺度与运动，细小刻纹保留可触摸纵深。气氛通过图形压力而非外显动作变得不祥。",
+  "theme_en": "A masked antihero engulfed by a torn crimson cape",
+  "theme_zh": "被撕裂绯红披风包围的蒙面反英雄",
+  "wh_ratio": "1:1",
+  "id": "4399",
+  "name": "Todd McFarlane",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/todd-mcfarlane.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "843a0866612cc5b27531244d115b9aac20a1307ac789e70f8f639e6866cd9d5b",
+    "gpt_submission_prompt": "A square superhero comic panel frames a masked antihero from the chest upward, surrounded by an enormous crimson cape that billows into sharp, torn folds. The mask is black with broad white eye shapes and a deep central black mouth area; narrow amber eyes glint beneath the white arcs. Heavy chains lie around the shoulders and neck, partly disappearing into the red fabric. The upper body combines black shadow and cracked ivory markings, drawn with dense hatching and distressed ink texture. Behind the figure, a pale beige field is crowded with loose skeletal or thornlike linework, while the cape pushes outward on both sides like dark red wings. A thin off-white panel border separates the illustration from the surrounding page. The composition is confrontational but still: the head inclines downward, and the cape supplies most of the apparent motion. Black, bone white and saturated blood red dominate, with only the small amber eye accents. Fine scratch marks and crosshatched shadows make the printed surface rough, almost engraved. The chest and chain have clear weight despite the expressive distortion of fabric. The image feels ominous and mythic through silhouette and ink density, without a visible fight, blast or explicit injury. Its strongest graphic mechanism is the massive red-black shape bracketing a sharply readable masked face.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "e0afcc6f7bb1836d2082fe62f701f0c065c1b8915d4e57788e67ca767065d765",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A solitary astronaut walks away from the viewer along a wet, broken street between towering ruined structures. The left facade rises in warm rust and dusty salmon, while a cooler monumental wall recedes on the right. Far ahead, an immense orange sun or planet sits low in a hazy sky, partly hidden by the vertical ruins. A few distant silhouettes, a skeletal vehicle, and scattered debris suggest a world after abandonment. Shallow puddles across the foreground mirror the orange disc and the astronaut's dark outline, pulling the composition into a long reflective corridor.\n\nThe image has the clarity of a cinematic digital environment painting, softened by atmospheric haze and worn surface texture. Teal-grey shadow, muted concrete beige, coral orange, and rust carry the palette. Backlight from the huge disc silhouettes the small traveler and gives the road a narrow luminous path. Architectural edges are mostly crisp near the front and disappear gradually into fog toward the horizon. Broken masonry, exposed beams, standing water, and light dust provide varied material detail, but the dominant impression is the scale of empty space. The square framing keeps the traveler low and central, with the orange circle acting as a distant visual anchor. The mood is melancholy and speculative, with no legible writing in the selected scene.",
+  "full_prompt_zh": "一名孤独宇航员背向观看者，沿两座高耸废墟之间湿漉漉、破碎的街道走去。左侧立面呈暖锈色与灰粉橙色，右侧较冷的巨墙向后退。远方，一颗巨大的橙色太阳或星球低悬在朦胧天空中，部分被竖向废墟遮住。少量远处剪影、骨架般的车辆和散落残骸，暗示一个被遗弃后的世界。前景浅水洼映出橙色圆盘和宇航员的深色轮廓，把构图拉成一道长长的反光通廊。\n\n图像有电影感数码环境绘画的清晰度，又被空气霭气和磨损表面纹理柔化。青灰阴影、暗水泥米色、珊瑚橙和铁锈色构成色谱。来自巨大圆盘的逆光使小小旅者成为剪影，并在道路上留下一条窄而明亮的路径。近处建筑边缘多半清晰，向地平线逐渐消失于雾。破碎砌体、裸露梁架、积水与轻尘提供变化的材料细节，但主导感受仍是空旷空间的尺度。方形框架让旅者低而居中，橙色圆盘成为远处视觉锚点。情绪忧郁而富于推想，所选场景没有可辨认文字。",
+  "style_prompt_en": "Monumental vertical masses flank a long, wet corridor that leads toward an immense warm circle in haze. Rust, coral orange, dusty beige, teal-grey, and charcoal create a muted cinematic contrast. Backlight silhouettes a tiny central form and glows in irregular shallow reflections along the lower plane. Near edges are crisp enough to show chipped and broken material, while distance loses contrast and dissolves into fine atmospheric dust. The composition is strongly centered and low, using repeated verticals and a single circular anchor to convey daunting scale. Detailed surfaces remain subordinate to broad light and shadow fields. The digital painted finish is clean but textured, melancholy and speculative.",
+  "style_prompt_zh": "巨大的竖向体块夹出一条漫长湿润的通廊，通向霭气里一轮巨大的暖色圆形。铁锈色、珊瑚橙、灰米色、青灰与炭黑形成收敛的电影感对比。逆光使中央极小的形变成剪影，并在下方平面不规则浅反光里发亮。近处边缘足够清晰，可见崩裂与破损材料，远处则失去对比并消散进细薄空气尘埃。构图强烈居中且重心偏低，用重复的竖线和唯一圆形锚点传达令人畏惧的尺度。细节表面从属于宽阔的明暗场。数码绘画收尾干净却有纹理，忧郁而富于推想。",
+  "theme_en": "An astronaut crossing a flooded ruin beneath a giant sun",
+  "theme_zh": "巨日之下穿过积水废墟的宇航员",
+  "wh_ratio": "1:1",
+  "id": "3183",
+  "name": "Beeple",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/beeple",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "dbb353b8926ba44dca34439c60403659a236e582bc9d71bc1e580b9cce89a129",
+    "gpt_submission_prompt": "A solitary astronaut walks away from the viewer along a wet, broken street between towering ruined structures. The left facade rises in warm rust and dusty salmon, while a cooler monumental wall recedes on the right. Far ahead, an immense orange sun or planet sits low in a hazy sky, partly hidden by the vertical ruins. A few distant silhouettes, a skeletal vehicle, and scattered debris suggest a world after abandonment. Shallow puddles across the foreground mirror the orange disc and the astronaut's dark outline, pulling the composition into a long reflective corridor.\n\nThe image has the clarity of a cinematic digital environment painting, softened by atmospheric haze and worn surface texture. Teal-grey shadow, muted concrete beige, coral orange, and rust carry the palette. Backlight from the huge disc silhouettes the small traveler and gives the road a narrow luminous path. Architectural edges are mostly crisp near the front and disappear gradually into fog toward the horizon. Broken masonry, exposed beams, standing water, and light dust provide varied material detail, but the dominant impression is the scale of empty space. The square framing keeps the traveler low and central, with the orange circle acting as a distant visual anchor. The mood is melancholy and speculative, with no legible writing in the selected scene.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "91b756ee771ac846304b8bbdd76f57ddae8af78175d3972f675107db58aaba1f",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

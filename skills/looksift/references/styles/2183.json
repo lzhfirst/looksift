@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white street photograph shows a parked convertible crossing the lower half of a city street. Two young men sit inside. The nearer passenger turns his face toward the camera with a direct, slightly guarded expression; the driver lowers his head and rests a hand near his face. The windshield frame tilts diagonally through the center and catches a thin bright reflection. Behind the car, a long avenue recedes between tall stone buildings. A few pedestrians walk away in soft focus, and rounded mid-century cars line the curb. The foreground automobile is nearly black, its body creating a heavy horizontal band that anchors the busy street depth. The passenger's pale face emerges from this band, sharply lit against the darker interior. A hazy bright opening at the far end of the avenue draws the eye backward, balancing the immediate gaze with the pull of the city. Fine film grain and moderate blur in distant figures preserve a candid, fleeting quality. The image avoids a staged gesture: the driver appears occupied in his own thought, while the passenger notices the camera for an instant. The contrast between close dark metal, human faces and receding gray architecture creates a cinematic account of ordinary urban presence.",
+  "full_prompt_zh": "一幅正方形黑白街头照片呈现一辆停靠的敞篷车横过城市街道下半部。车里坐着两位年轻人。较近的乘客转脸直视镜头，表情直接而略带戒备；司机低下头，把一只手放在脸旁。挡风玻璃框以对角线穿过中央，接住一道细亮反光。车后长大道在高耸石建筑之间退去。几位行人柔焦地向远处走，圆润的二十世纪中期汽车沿路边排列。前景汽车近乎纯黑，车身形成沉重水平色带，稳住繁忙的街道深度。乘客浅色脸从这一色带里浮现，在暗车厢前被清楚照亮。大道尽头一处朦胧亮口把视线向后拉，平衡近前的目光和城市纵深。细胶片颗粒与远处人物的适度模糊保留抓拍的短暂气质。画面没有摆出的手势：司机似乎沉浸在自己的思绪中，乘客则在一瞬间注意到镜头。近处深色金属、人脸与后退灰色建筑的反差构成日常城市存在的电影感记录。",
+  "style_prompt_en": "The style is mid-century monochrome street photography with decisive candid timing and layered urban depth. A dark horizontal foreground mass supports a sharply lit focal detail, while buildings and passersby recede into hazy grayscale. Diagonal metal lines and thin reflections interrupt the stable band. Moderate film grain, natural contrast and imperfect background focus preserve documentary immediacy. The square frame balances a direct near encounter with a long perspective toward a bright distant opening.",
+  "style_prompt_zh": "这种风格是二十世纪中期单色街头摄影，具有决定性的抓拍时机和层叠城市深度。深色水平前景体块托住清楚受光的焦点细节，建筑与路人则退入朦胧灰阶。对角金属线与细反光打断稳定色带。适度胶片颗粒、自然对比和不完美背景焦点保留纪实即时性。正方形画幅平衡近处直接相遇与通向遥远亮口的长透视。",
+  "theme_en": "Two young men in a parked convertible on a city street",
+  "theme_zh": "城市街道上一辆停靠敞篷车里的两位年轻人",
+  "wh_ratio": "1:1",
+  "id": "2183",
+  "name": "Dennis Stock",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/dennis-stock",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/dennis-stock.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "72ac9a725e8a47cdf31b0039e032d4e57b535845a55010374ca9e5a7a938d521",
+    "gpt_submission_prompt": "A square black-and-white street photograph shows a parked convertible crossing the lower half of a city street. Two young men sit inside. The nearer passenger turns his face toward the camera with a direct, slightly guarded expression; the driver lowers his head and rests a hand near his face. The windshield frame tilts diagonally through the center and catches a thin bright reflection. Behind the car, a long avenue recedes between tall stone buildings. A few pedestrians walk away in soft focus, and rounded mid-century cars line the curb. The foreground automobile is nearly black, its body creating a heavy horizontal band that anchors the busy street depth. The passenger's pale face emerges from this band, sharply lit against the darker interior. A hazy bright opening at the far end of the avenue draws the eye backward, balancing the immediate gaze with the pull of the city. Fine film grain and moderate blur in distant figures preserve a candid, fleeting quality. The image avoids a staged gesture: the driver appears occupied in his own thought, while the passenger notices the camera for an instant. The contrast between close dark metal, human faces and receding gray architecture creates a cinematic account of ordinary urban presence.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "fbea95b77128389bf00085da622aaf31d57a10e38027c5d34179d73a2d2e300f",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

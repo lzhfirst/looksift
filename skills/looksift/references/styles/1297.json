@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square science-fiction city painting looks down a wet street enclosed by tall, weathered buildings and a massive elevated bridge. The bridge crosses the upper middle on a diagonal, its underside dark and heavy, while cooler cyan light opens beyond the arch into deeper city layers. A small hovering vehicle moves through the gap at middle height, and a rounded ground vehicle approaches along the road below. Narrow shopfronts at street level spill amber light onto rain-slick pavement; tiny pedestrians gather beneath awnings and near crossings. High facades carry pipes, balconies and scattered illuminated signs, but their details recede into blue-green atmospheric depth. The roadway's reflective dark plane occupies much of the lower frame, catching broken yellow and teal streaks. The composition feels tall and compressed, with stacked transit levels rather than a broad skyline. Brushwork is textured and slightly rough, giving concrete, metal and rain a lived-in industrial surface. The palette is dominated by deep teal, cobalt and charcoal, countered by small warm orange lamps. There is no battle or spectacular blast; the future appears as a functioning, crowded city seen during ordinary bad weather. The bridge and hover vehicle organize the eye, while hundreds of smaller marks make the environment feel inhabited beyond the frame.",
+  "full_prompt_zh": "一幅正方形科幻城市绘画沿湿路望向由高大风化楼宇和巨大高架桥围合的街道。桥在画面上半部斜向穿过，底面深暗厚重，拱下后方则敞开更冷的青色光和层叠城市深处。一辆小型悬浮车从中部空隙飞过，另一辆圆润的地面车辆沿下方道路驶近。街层狭窄店面洒出琥珀光，在雨湿地面形成亮斑；微小行人聚在檐下和路口。高处立面带管道、阳台和零散发光标志，其细节逐渐退入蓝绿空气深处。反光深色路面占据下部大块区域，承接断裂黄光与青光条痕。构图高耸而压缩，强调层叠交通高度，而非开阔天际线。笔触有肌理且略粗，赋予混凝土、金属和雨长期使用的工业表面。深青、钴蓝和炭色主导配色，少量暖橙灯火对应。场内没有战斗或壮观爆炸，未来城市像在普通坏天气里继续运转的拥挤场所。桥与悬浮车组织视线，数百处小笔记则使环境显得在画框外仍有人生活。",
+  "style_prompt_en": "The style is textured science-fiction concept painting with compressed vertical urban space, stacked transit layers and rain-dark surfaces. Deep teal, cobalt and charcoal atmosphere contrasts with sparse amber practical lights. Rough brush marks and small architectural fragments accumulate into industrial density, while cyan haze opens distant passages. Wet ground carries broken reflections rather than perfect mirror symmetry. Large dark overhead masses structure the square frame; tiny human-scale accents and vehicles establish depth. The city feels functional and inhabited, with mood arising from weather and layered infrastructure.",
+  "style_prompt_zh": "这种风格是有肌理的科幻概念绘画，具有压缩竖向城市空间、层叠交通高度与雨浸深色表面。深青、钴蓝和炭色空气对照稀疏琥珀色现场灯。粗糙笔划与小型建筑碎片累积工业密度，青色薄雾则敞开远处通道。湿地承接断裂倒影，而非完美镜像。大型上方深色体块组织正方形画幅，微小人尺度重音与车辆建立纵深。城市显得运转且有人居住，情绪来自天气和层叠基础设施。",
+  "theme_en": "A rain-dark future city beneath elevated bridges",
+  "theme_zh": "高架桥下被雨浸暗的未来城市",
+  "wh_ratio": "1:1",
+  "id": "1297",
+  "name": "Finnian MacManus",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/finnian-macmanus",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/finnian-macmanus.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "b9192432792370d66d5f4484ae6bbc5983d6b4be17dfda64ad796f9b5a31481f",
+    "gpt_submission_prompt": "A square science-fiction city painting looks down a wet street enclosed by tall, weathered buildings and a massive elevated bridge. The bridge crosses the upper middle on a diagonal, its underside dark and heavy, while cooler cyan light opens beyond the arch into deeper city layers. A small hovering vehicle moves through the gap at middle height, and a rounded ground vehicle approaches along the road below. Narrow shopfronts at street level spill amber light onto rain-slick pavement; tiny pedestrians gather beneath awnings and near crossings. High facades carry pipes, balconies and scattered illuminated signs, but their details recede into blue-green atmospheric depth. The roadway's reflective dark plane occupies much of the lower frame, catching broken yellow and teal streaks. The composition feels tall and compressed, with stacked transit levels rather than a broad skyline. Brushwork is textured and slightly rough, giving concrete, metal and rain a lived-in industrial surface. The palette is dominated by deep teal, cobalt and charcoal, countered by small warm orange lamps. There is no battle or spectacular blast; the future appears as a functioning, crowded city seen during ordinary bad weather. The bridge and hover vehicle organize the eye, while hundreds of smaller marks make the environment feel inhabited beyond the frame.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "3c22eb22f47d3561801f3e475d0d4b8880b444468ad3a224fbcfcac89693188b",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

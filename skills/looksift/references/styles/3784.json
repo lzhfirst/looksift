@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square pen-and-ink close-up presents a man staring straight ahead with eyes opened unnaturally wide. He wears a rounded dark hat and a black bow tie beneath a pale collar. One hand rises from the lower left, and a fingertip presses lightly into his cheek, making a small indentation in the otherwise stiff pose. His mouth hangs slightly open. The face occupies most of the frame, while a dense black jacket and heavily hatched background close in around it. Cream paper shows through the lit forehead, nose, cheek, and chin; the opposite side of the face falls into deep granular shadow. Tiny dots, tight crosshatching, and short broken strokes build tonal transitions, giving the skin an almost engraved texture. The eyes are sharply bounded and pale, with dark pupils that become the immediate focus. The hand is similarly detailed but partly swallowed by the shadow near the jaw. No room, horizon, or narrative object is described behind him; the backdrop is a field of compact ink marks. Light strikes from the upper left and frontal side, picking out the face and fingertips while leaving the hat and suit nearly black. Edges shift from crisp around the eyes and nose to rough and dissolving in the surrounding darkness. The composition feels deliberately crowded and frontal, with little escape from the expression. The overall effect is surreal and uneasy, produced by obsessive monochrome linework, stark value contrast, and a small strange gesture.",
+  "full_prompt_zh": "一幅方形钢笔墨画特写呈现一名男子直视前方，眼睛睁得不自然地大。他戴圆形深色帽子，浅色衣领下系黑色领结。一只手从左下方抬起，指尖轻轻按入脸颊，在原本僵硬的姿态中形成小凹陷。他的嘴微微张开。脸占据画面大部分空间，浓黑外套和密集排线背景从四周逼近。奶油色纸面从受光的额头、鼻子、脸颊和下巴透出来；另一侧脸则进入深而颗粒状的阴影。细小点描、紧密交叉排线和短促断裂笔痕建立明暗过渡，让皮肤带近似雕版的肌理。眼睛边界清晰且浅亮，深色瞳孔立即成为焦点。手部也描绘细密，但靠近下颌处部分被暗影吞没。身后没有具体房间、地平线或叙事物件；背景是一片密集墨痕。光从左上及前方照来，挑亮脸和指尖，让帽子与西服近乎全黑。边缘在眼睛、鼻子周围清脆，在周围暗部则粗糙消散。构图有意拥挤而正面，使观者难以避开这个表情。整体效果超现实而令人不安，来自执拗的单色线描、强烈明度对比与一个细小奇异的动作。",
+  "style_prompt_en": "A monochrome pen-and-ink aesthetic built from obsessive stippling, tight crosshatching, and short broken strokes. Cream paper provides the brightest areas, while dense black marks close around a sharply lit focal center. Tonal modeling is granular rather than smooth, and edges alternate between precise contours and rough dissolution into shadow. Close, crowded framing intensifies small deviations in gesture or expression. Directional light produces stark contrast without color, giving the image an engraved, tactile, psychologically uneasy quality.",
+  "style_prompt_zh": "由执拗点描、紧密交叉排线和短促断笔构成的单色钢笔墨画美学。奶油色纸面提供最亮区域，浓密黑痕围住清晰受光的视觉中心。明暗塑形呈颗粒状而非光滑，边缘在精确轮廓与粗糙消入阴影之间交替。近距离、拥挤的画框放大细小姿态或表情的偏差。定向光在无彩色条件下制造强反差，让图像具有雕版般、可触而心理不安的质感。",
+  "theme_en": "A wide-eyed man touching his cheek in an unsettling monochrome close-up",
+  "theme_zh": "一名睁大眼睛、手指触着脸颊的男子，呈现在令人不安的单色特写中",
+  "wh_ratio": "1:1",
+  "id": "3784",
+  "name": "Roland Topor",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/roland-topor",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "452f965a70ae726dfbb5b4af347284453bb84aefea9b936e1ee3f7bacfd36518",
+    "gpt_submission_prompt": "A square pen-and-ink close-up presents a man staring straight ahead with eyes opened unnaturally wide. He wears a rounded dark hat and a black bow tie beneath a pale collar. One hand rises from the lower left, and a fingertip presses lightly into his cheek, making a small indentation in the otherwise stiff pose. His mouth hangs slightly open. The face occupies most of the frame, while a dense black jacket and heavily hatched background close in around it. Cream paper shows through the lit forehead, nose, cheek, and chin; the opposite side of the face falls into deep granular shadow. Tiny dots, tight crosshatching, and short broken strokes build tonal transitions, giving the skin an almost engraved texture. The eyes are sharply bounded and pale, with dark pupils that become the immediate focus. The hand is similarly detailed but partly swallowed by the shadow near the jaw. No room, horizon, or narrative object is described behind him; the backdrop is a field of compact ink marks. Light strikes from the upper left and frontal side, picking out the face and fingertips while leaving the hat and suit nearly black. Edges shift from crisp around the eyes and nose to rough and dissolving in the surrounding darkness. The composition feels deliberately crowded and frontal, with little escape from the expression. The overall effect is surreal and uneasy, produced by obsessive monochrome linework, stark value contrast, and a small strange gesture.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "89f8a57c94ce1b400227770e748b7837afb7bb294fe2f4743bf9d861dc06fd7f",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A color photograph places a young woman in front of a sunlit, leafy background. She faces the camera from the chest upward, with blue-green eyes, warm coral lips, and brown hair loosely gathered behind her head; thin strands curve down beside her face. A simple silver necklace lies against the open neckline of her black textured dress. The face is sharply observed, with small freckles and natural color variation across the cheeks, while trees and circular highlights behind her fall into soft blur. Sunlight filters through overhead leaves and catches the crown of her hair and the upper edge of her shoulders. Gentle shade keeps the face evenly modeled, with a slightly warmer glow on the nose and cheeks and cool green reflected color in the shadows. Deep emerald and blue-green areas fill the background, interrupted by pale round patches of light. The black dress anchors the lower frame, making the lit face the main warm shape. The photograph retains fine grain and smooth tonal gradation rather than hard outlines or painted marks. A centered pose and shallow focus create a quiet portrait set within richly colored but indistinct outdoor space.",
+  "full_prompt_zh": "一幅彩色照片把年轻女子置于有阳光穿透的树叶背景前。她从胸部以上正对镜头，蓝绿色眼睛、暖珊瑚色嘴唇和松松束起的棕发清晰可见；几缕细发沿脸侧弯垂。简单银色项链落在黑色微纹连衣裙敞开的领口上。面部观察清楚，脸颊上的小雀斑和自然肤色变化仍在，身后树木与圆形亮斑则落入柔和虚化。阳光从上方叶隙进入，点亮发顶和肩上缘。柔阴让面部均匀塑形，鼻子和脸颊稍暖，暗部带有冷绿反光。深祖母绿与蓝绿色占满背景，被浅色圆形光斑打断。黑裙压住画面下方，使受光面孔成为主要暖色形状。照片保留细微颗粒和顺滑色阶，不依靠硬线或绘画笔触。居中的姿态与浅景深营造安静的人像，周围是色彩浓郁但形状难辨的户外空间。",
+  "style_prompt_en": "A color-film photographic look combines fine grain, clear near-plane detail, and a softly dissolved background. Deep green and blue-green occupy broad shadow areas, with scattered pale light circles; warm peach midtones form a compact focal area, and near-black values hold the lower edge. Sunlight enters from above and behind, tracing a thin rim along upper contours, while diffuse shade gives the central planes gradual modeling. Focus falls off rapidly into soft rounded patches rather than sharply drawn distance. The palette is saturated but controlled, with cool foliage color and warm skin-like tones kept separate. The composition favors a stable central mass against an irregular field of soft highlights. Visual attention moves from small bright accents around the top to the clear warm center and then outward through dark green blur.",
+  "style_prompt_zh": "彩色胶片摄影观感结合细颗粒、清晰近景细节和柔化的背景。深绿与蓝绿色覆盖大片暗区，散布浅色圆形亮斑；暖桃色中间调形成紧凑焦点，近黑色压住下缘。阳光从上方偏后进入，沿上部轮廓勾出细亮边，漫射阴影使中央平面缓慢起伏。焦点很快向外衰减，远处化作圆润柔斑，而非清晰线条。色彩饱和但受控制，冷色绿意与暖色调彼此分明。构图以稳定的中央色块面对不规则的柔亮背景。注意力从上部小亮点落到清楚的暖色中心，再向外进入深绿模糊处。",
+  "theme_en": "A woman in a black dress photographed in sunlit greenery",
+  "theme_zh": "绿荫阳光中身穿黑衣的女子肖像",
+  "wh_ratio": "1:1",
+  "id": "2849",
+  "name": "Kodak Ektar 100",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/kodak-ektar-100",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/kodak-ektar-100.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "ca5ead695fa9bc299ee7ec0117702a6c547d1fe6e77eb1b718c7b367549354f3",
+    "gpt_submission_prompt": "A color photograph places a young woman in front of a sunlit, leafy background. She faces the camera from the chest upward, with blue-green eyes, warm coral lips, and brown hair loosely gathered behind her head; thin strands curve down beside her face. A simple silver necklace lies against the open neckline of her black textured dress. The face is sharply observed, with small freckles and natural color variation across the cheeks, while trees and circular highlights behind her fall into soft blur. Sunlight filters through overhead leaves and catches the crown of her hair and the upper edge of her shoulders. Gentle shade keeps the face evenly modeled, with a slightly warmer glow on the nose and cheeks and cool green reflected color in the shadows. Deep emerald and blue-green areas fill the background, interrupted by pale round patches of light. The black dress anchors the lower frame, making the lit face the main warm shape. The photograph retains fine grain and smooth tonal gradation rather than hard outlines or painted marks. A centered pose and shallow focus create a quiet portrait set within richly colored but indistinct outdoor space.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "60cc9229e6c155adbbaf96b1a71b2ca55b88f593e10fa69ed38752446ecc75f6",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

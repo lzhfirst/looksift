@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square oil painting shows a quiet town canal running toward a small bridge beneath a pale blue sky. Along the left bank, warm brick and cream facades form a close row, their rooflines rising and falling gently toward the distance. A narrow paved path traces the edge of the water, with tiny dark figures lending scale to the buildings. The canal occupies the central and lower portions of the image, its still blue-green surface carrying long broken reflections of the walls, trees and sky. Two dark boats sit partway down the channel, one nearer the viewer and the other closer to the bridge. On the right, a low embankment and a shaded road lead away beneath tall trees whose sparse upper branches spread into the sky. Their trunks and dark crowns make a loose vertical rhythm against the brighter architecture opposite. A small dark vehicle and a few indistinct people appear beyond the near trees. The paint is applied in short, assured strokes that hold the solidity of the buildings but allow their edges to soften in the distance. Warm ochre and muted rose are balanced by cool blue, green and charcoal. Daylight falls from the open sky, brightening the facades and leaving the right bank in a deeper band of shade. The overall composition draws the eye along the reflective canal with an unhurried, airy balance of warm streets and cool water.",
+  "full_prompt_zh": "一幅方形油画呈现小镇运河通向一座小桥，头顶是浅蓝天空。左岸暖砖色与奶油色立面紧密排开，屋顶轮廓向远处轻微起伏。狭窄铺路沿水边延伸，几个深色小人影衬出建筑的尺度。运河占据中央和下部，平静的蓝绿色水面承载墙体、树木与天空的细长断续倒影。两艘深色小船停在河道中段，一艘较近，另一艘靠近桥。右侧低矮堤岸和阴影中的道路从高树下向远处延伸，疏朗的上枝伸进天空。树干和深色树冠在对岸更明亮的建筑前形成松散的竖向节奏。近处树木以外还有一辆深色小车和几个模糊人影。短而笃定的笔触支撑建筑体量，同时让远景边缘逐渐柔化。暖赭色与低饱和玫瑰色同冷蓝、绿色和炭色平衡。开阔天光照亮立面，把右岸留在更深的一带阴影中。整体构图沿反光运河引导视线，以温暖街景与清凉水色形成从容而通透的平衡。",
+  "style_prompt_en": "The oil painting is built from concise, visible strokes and broad but carefully related color planes. Warm ochre, muted rose and creamy light areas meet blue-green and charcoal shadows, with reflections translating solid shapes into broken vertical marks. Edges stay firm in the foreground, then loosen where distance and light dissolve them. Open sky and reflective passages provide breathing room between denser bands of detail. The illumination feels like clear, mild daylight: surfaces facing the light glow softly while shaded areas retain color rather than turning black. A receding central corridor, offset vertical accents and calm horizontal masses give the composition an effortless rhythm. The overall effect is observational, airy and quietly luminous.",
+  "style_prompt_zh": "这种油画由简练可见的笔触和宽阔却精心关联的色面构成。暖赭、低饱和玫瑰色及奶油亮部与蓝绿和炭色阴影相遇，倒影把实体转成断续竖痕。前景边缘较坚实，距离和光线令远处边缘松动。开敞的亮部与反光区域给密集细节之间留下呼吸空间。照明像清朗温和的日光：向光表面柔和发亮，暗处仍保有颜色而非变黑。向远处收束的中央通道、错列竖向重音与平静横向色块赋予构图自然节奏。整体效果写生感鲜明、通透而安静明亮。",
+  "theme_en": "A quiet canal between pale town buildings and a line of bare trees",
+  "theme_zh": "浅色城镇建筑与一列疏树之间的宁静运河",
+  "wh_ratio": "1:1",
+  "id": "3763",
+  "name": "Albert Marquet",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/albert-marquet",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "d6da6a958b5179d4e24e1e6aa1f3a612d431743417432ce4b04ead5e609b7fdc",
+    "gpt_submission_prompt": "A square oil painting shows a quiet town canal running toward a small bridge beneath a pale blue sky. Along the left bank, warm brick and cream facades form a close row, their rooflines rising and falling gently toward the distance. A narrow paved path traces the edge of the water, with tiny dark figures lending scale to the buildings. The canal occupies the central and lower portions of the image, its still blue-green surface carrying long broken reflections of the walls, trees and sky. Two dark boats sit partway down the channel, one nearer the viewer and the other closer to the bridge. On the right, a low embankment and a shaded road lead away beneath tall trees whose sparse upper branches spread into the sky. Their trunks and dark crowns make a loose vertical rhythm against the brighter architecture opposite. A small dark vehicle and a few indistinct people appear beyond the near trees. The paint is applied in short, assured strokes that hold the solidity of the buildings but allow their edges to soften in the distance. Warm ochre and muted rose are balanced by cool blue, green and charcoal. Daylight falls from the open sky, brightening the facades and leaving the right bank in a deeper band of shade. The overall composition draws the eye along the reflective canal with an unhurried, airy balance of warm streets and cool water.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "c6d7ef92efdaffd308959c03a6c401b44fbef61328e169423498954105dd6496",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square graphite portrait study shows two young women closely overlapping against warm off-white paper. On the left, one woman turns toward the viewer in a quiet three-quarter view, her eyes steady and her short wavy hair framing a softly rounded face. In front of her, a second woman faces right in a clear profile, with a long pale nose, closed mouth, and fuller curls swept back into a loose bun. Their shoulders meet near the lower middle, where dark high collars and lightly sketched garments merge into unfinished pencil lines. Fine graphite hatching gives the cheeks, brow, and neck gentle volume, while hair is built from denser curved strokes and small repeated contours. Some lines retrace the same edge, recording adjustments to the heads and shoulders instead of hiding the drawing process. The outer clothing fades into open paper, and faint construction arcs remain visible above the figures. No room or horizon is defined; the blank background allows the two faces to carry the entire composition. Light is broad and diffuse, suggested by reserved paper white on the cheeks and forehead and soft gray shadow beneath the hair and collars. The profile in front creates a strong rightward direction, countered by the rear figure's outward gaze. Their proximity feels intimate without a specified narrative. The overall image is restrained and observant, balancing careful facial modeling with lively unfinished graphite texture.",
+  "full_prompt_zh": "一幅方形石墨肖像习作把两名年轻女子紧密叠在暖米白纸面前。左侧女子以安静的四分之三侧面转向观者，目光稳定，短而微卷的头发围住柔和圆润的脸。她前方，第二名女子呈清楚的右向侧脸，鼻梁修长浅亮，嘴巴闭合，更丰厚的卷发向后收成松散发髻。两人的肩膀在下方中央附近相接，深色高领和轻描衣服融入未完成的铅笔线。细石墨排线为脸颊、眉骨和颈部带来柔和体积，头发则由更密集的弯曲笔触和细小重复轮廓构成。有些线条在同一边缘反复走过，记录头和肩的位置调整，而不掩盖绘图过程。外围衣服逐渐淡入空白纸面，人物上方仍可见淡淡结构弧线。画面没有具体房间或地平线；空白背景让两张脸承担全部构图。光宽缓而漫散，由脸颊和额头保留的纸白及头发、衣领下的柔灰阴影暗示。前方侧脸带来明确向右方向，后方人物向外的目光与之平衡。两人的接近感显得亲密，却没有指定情节。整体克制而善于观察，以细致面部塑形平衡活跃、未完成的石墨肌理。",
+  "style_prompt_en": "An intimate graphite drawing language on warm off-white paper, with fine hatching, repeated searching contours, and selectively finished tonal modeling. Soft reserved highlights and layered gray marks shape focal planes, while dense curved strokes gather in darker areas. Outer forms dissolve into loose construction lines and blank paper, keeping the composition airy. Broad diffuse light is implied by untouched ground rather than painted illumination. Overlapping directional silhouettes create a quiet tension between carefully observed detail and unfinished sketchbook immediacy.",
+  "style_prompt_zh": "暖米白纸上的亲密石墨绘画语言，使用细排线、反复探索的轮廓与选择性完成的明暗塑形。柔和保留高光和层叠灰痕建立中心平面，密集弯曲笔触聚在暗部。外围形态消散成松动结构线与空白纸面，使构图轻盈。宽缓漫射光由未着色底面暗示，而非绘制的照明。相互叠压且朝向不同的剪影，让细致观察与未完成速写本的即时感之间产生安静张力。",
+  "theme_en": "A graphite double portrait of two young women in overlapping profile and three-quarter view",
+  "theme_zh": "一幅石墨双人肖像：两名年轻女子的侧面与四分之三侧面相互叠映",
+  "wh_ratio": "1:1",
+  "id": "0735",
+  "name": "Augustus Edwin John",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/augustus-edwin-john",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/augustus-edwin-john.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "e4d47e7aa4657eb64b100c773511540d1fc9f6fe8fed88a6a63e2ce95bae222b",
+    "gpt_submission_prompt": "A square graphite portrait study shows two young women closely overlapping against warm off-white paper. On the left, one woman turns toward the viewer in a quiet three-quarter view, her eyes steady and her short wavy hair framing a softly rounded face. In front of her, a second woman faces right in a clear profile, with a long pale nose, closed mouth, and fuller curls swept back into a loose bun. Their shoulders meet near the lower middle, where dark high collars and lightly sketched garments merge into unfinished pencil lines. Fine graphite hatching gives the cheeks, brow, and neck gentle volume, while hair is built from denser curved strokes and small repeated contours. Some lines retrace the same edge, recording adjustments to the heads and shoulders instead of hiding the drawing process. The outer clothing fades into open paper, and faint construction arcs remain visible above the figures. No room or horizon is defined; the blank background allows the two faces to carry the entire composition. Light is broad and diffuse, suggested by reserved paper white on the cheeks and forehead and soft gray shadow beneath the hair and collars. The profile in front creates a strong rightward direction, countered by the rear figure's outward gaze. Their proximity feels intimate without a specified narrative. The overall image is restrained and observant, balancing careful facial modeling with lively unfinished graphite texture.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "534ecbacff455e19203ba4e5bb0621a097a6fb79cd1a985ea16e2fe1c859350c",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

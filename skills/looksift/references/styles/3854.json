@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square vintage monochrome photograph shows a young woman in close profile with her eyes lowered against a dark, indistinct interior. The image is toned in warm sepia and charcoal rather than pure neutral black and white. Her face sits near the upper middle, turned to the right and softly illuminated along the forehead, nose and cheek. Dark hair falls in loose, slightly untidy waves around the crown and down the back of her head, with individual strands dissolving into shadow. The eyelid is closed or cast downward, and the mouth rests gently shut, creating a quiet inward expression. A dark high-neck garment wraps the shoulders and upper chest in the lower half of the frame. Its folds are present as soft brown-gray bands rather than sharply separated fabric details. At the far right, a faint pale vertical shape appears in blur, but the setting remains unreadable. The left and upper background are nearly black and slightly grainy, allowing the face to emerge as the main light value. The photograph is tightly cropped at the head and shoulder, with no visible hands or text. Soft side illumination enters from the upper right front, lifting the facial profile but leaving the far side of the hair and the clothing in deep shadow. Focus is gentlest away from the face, and fine surface grain gives the print a worn velvety quality. The overall composition turns a simple downward glance into an intimate study of light dissolving into darkness.",
+  "full_prompt_zh": "这幅方形复古单色照片里，一位年轻女子在难辨的深暗室内以近距离侧脸垂目。画面偏暖深褐与炭色，而非纯中性黑白。她的脸位于上方中部附近，朝右，额头、鼻子和面颊沿线柔和受光。深发以略乱的松波浪盖住头顶并垂向后脑，单根发丝逐渐融入阴影。眼睑闭合或向下看，嘴轻轻合着，形成安静向内的神情。深色高领衣服包住下半部肩与上胸。褶层表现为柔和褐灰色带，而非锐利区分的布料细节。最右侧有一道模糊的浅色竖形，但场所仍不可辨。左侧和上方背景近黑而略有颗粒，让面孔作为主要亮值浮出。照片在头和肩附近紧裁，没有可见双手或文字。柔和侧光从右上前方进入，提亮面部侧线，让头发远侧与衣服留在深影中。离面部越远焦点越柔，细表面颗粒赋予相纸磨旧的天鹅绒质地。整体构图把简单低垂目光化为亲密的光影研究，亮光渐渐消入黑暗。",
+  "style_prompt_en": "The vintage photographic print is soft, dark and warm-toned, with sepia midvalues between creamy highlights and charcoal shadow. Gentle side light selects a narrow focal plane; edges fade rapidly into surrounding darkness rather than remaining uniformly crisp. Fine grain, slight blur and velvety black areas give the surface an aged material presence. Large dark regions provide negative space, and only a few quiet curves emerge in the light. Contrast is concentrated locally, not spread evenly across the frame. The effect is intimate, contemplative and atmospheric, driven by tonal falloff more than explicit setting.",
+  "style_prompt_zh": "这种复古摄影相纸柔和、深暗且偏暖，深褐中间调位于奶油高光与炭色阴影之间。温和侧光只挑出狭窄焦点平面；边缘迅速淡入周围黑暗，而非处处清楚。细颗粒、轻微模糊和天鹅绒般黑域赋予表面古旧材料感。大片暗区提供负空间，亮光中仅浮出几条安静曲线。反差集中于局部，而不均匀铺满画框。效果亲密、沉思且富空气感，主要由调性渐隐而非明确场所驱动。",
+  "theme_en": "A softly lit woman in profile with lowered eyes and dark clothing",
+  "theme_zh": "一位穿深色衣服的女子在柔光侧影中垂下目光",
+  "wh_ratio": "1:1",
+  "id": "3854",
+  "name": "Alvin Langdon Coburn",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/alvin-langdon-coburn",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "4453f44c30b8dec56c60a1afa1ffc2b1fdfa1d45875fba9653255d30fcc01d05",
+    "gpt_submission_prompt": "A square vintage monochrome photograph shows a young woman in close profile with her eyes lowered against a dark, indistinct interior. The image is toned in warm sepia and charcoal rather than pure neutral black and white. Her face sits near the upper middle, turned to the right and softly illuminated along the forehead, nose and cheek. Dark hair falls in loose, slightly untidy waves around the crown and down the back of her head, with individual strands dissolving into shadow. The eyelid is closed or cast downward, and the mouth rests gently shut, creating a quiet inward expression. A dark high-neck garment wraps the shoulders and upper chest in the lower half of the frame. Its folds are present as soft brown-gray bands rather than sharply separated fabric details. At the far right, a faint pale vertical shape appears in blur, but the setting remains unreadable. The left and upper background are nearly black and slightly grainy, allowing the face to emerge as the main light value. The photograph is tightly cropped at the head and shoulder, with no visible hands or text. Soft side illumination enters from the upper right front, lifting the facial profile but leaving the far side of the hair and the clothing in deep shadow. Focus is gentlest away from the face, and fine surface grain gives the print a worn velvety quality. The overall composition turns a simple downward glance into an intimate study of light dissolving into darkness.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "b03dc3ee0268f92ec23c79e4bf6df8980297cbdb44817ddcb4f099c9409424c5",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

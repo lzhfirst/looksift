@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A meticulously rendered wildlife portrait painting shows a raven in right-facing profile against a nearly black background. The head and upper chest fill most of the square, with the broad beak projecting toward the right edge and one round eye reflecting a small pale highlight. Cool overhead light catches the crown, the ridged beak, and the layered feathers at the throat. The bird's plumage is not flat black: fine blue-gray, steel, and muted indigo strokes trace overlapping feathers, especially where the throat ruff descends into the chest. The lower body gradually disappears into shadow at the bottom left. Behind the bird, a faint charcoal-to-slate glow opens in the upper right, separating the beak from the dark ground without adding any scenery. The composition is simple but monumental, allowing the beak, eye, and textured plumage to carry the visual interest. Contours along the illuminated upper edge are precise, while the underside and far back soften into darkness. The eye is small yet remains the psychological focus because the surrounding feather detail curves toward it. Light appears cool and directional, creating a sculpted head without theatrical color. The restrained palette and close crop give the animal a calm, intelligent presence. The whole frame feels still and watchful, a study of dark form revealed through subtle blue light.",
+  "full_prompt_zh": "一幅精细绘制的野生动物人像画把一只渡鸦的右侧面置于近黑背景前。头与上胸占据方形画面大部，宽大的喙伸向右边缘，一只圆眼映出细小浅色高光。冷调的上方光照亮头顶、带脊线的喙，以及喉部层叠羽毛。鸟的羽衣并非平板黑色：纤细的蓝灰、钢色和低饱和靛蓝笔触描出互相覆盖的羽片，尤其是喉部蓬起的羽毛向胸前落下处。身体下部在左下方逐渐消失在阴影里。鸟身后，右上方打开一片极淡的炭灰至石板色光域，把喙从深底中分开，却没有加入景物。构图简单却有纪念碑般的体量感，让喙、眼睛和有肌理的羽毛承载视觉趣味。受光上缘轮廓准确，下侧与更远的背部则柔软地隐入黑暗。眼睛虽小，仍是心理焦点，因为周围羽毛细节向它弯曲。光线冷而有方向，塑造头部，却不依靠戏剧性色彩。克制色盘和近距离裁切赋予动物平静、聪慧的存在感。整幅画安定而警醒，是一项借微妙蓝光显出深色形体的研究。",
+  "style_prompt_en": "The painted image works in near-black, charcoal, slate, steel blue, and muted indigo, with a single tiny pale highlight. Fine directional strokes build a sculptural surface from overlapping dark textures; each mark catches just enough cool light to remain separate from its neighbors. A broad form occupies most of the close crop and projects into a small area of softened negative space. The most precise contours follow the upper illuminated edge and one compact focal detail, while lower and rear edges dissolve into black. A faint background glow provides separation without becoming scenery. Tonal contrast is subtle across most of the image, then sharpens at a few selected points. The materials appear velvety and slightly iridescent rather than glossy. The whole frame feels still, intelligent, and monumental through restrained color, controlled light, and patient texture.",
+  "style_prompt_zh": "这幅绘画图像使用近黑、炭灰、石板色、钢蓝与低饱和靛蓝，只有一处极小的浅色高光。纤细而有方向的笔触由重叠的深色肌理建立雕塑感；每道笔迹都接到刚好足以与邻近笔迹区分的冷光。一个宽阔形体占据近距离裁切的大部分，并伸进一小片柔软的负空间。最准确的轮廓沿上方受光边缘和一处紧凑焦点展开，下方与后侧边缘则融入黑色。淡淡的背景亮光提供分离感，却不变成景物。画面大部分的明暗差微妙，只在少数重点处变锐。材质显得绒面般柔软且略带虹彩，而非光亮。整幅画通过克制色彩、受控光线和耐心肌理，显得静止、聪慧且有纪念碑感。",
+  "theme_en": "A raven illuminated against darkness",
+  "theme_zh": "暗处受光的渡鸦",
+  "wh_ratio": "1:1",
+  "id": "0350",
+  "name": "Terry Isaac",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/terry-isaac",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/terry-isaac.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "fa593f44a5cc257719a3f00ba31b4d4bcd183e620afee220acfdf7593f70fd78",
+    "gpt_submission_prompt": "A meticulously rendered wildlife portrait painting shows a raven in right-facing profile against a nearly black background. The head and upper chest fill most of the square, with the broad beak projecting toward the right edge and one round eye reflecting a small pale highlight. Cool overhead light catches the crown, the ridged beak, and the layered feathers at the throat. The bird's plumage is not flat black: fine blue-gray, steel, and muted indigo strokes trace overlapping feathers, especially where the throat ruff descends into the chest. The lower body gradually disappears into shadow at the bottom left. Behind the bird, a faint charcoal-to-slate glow opens in the upper right, separating the beak from the dark ground without adding any scenery. The composition is simple but monumental, allowing the beak, eye, and textured plumage to carry the visual interest. Contours along the illuminated upper edge are precise, while the underside and far back soften into darkness. The eye is small yet remains the psychological focus because the surrounding feather detail curves toward it. Light appears cool and directional, creating a sculpted head without theatrical color. The restrained palette and close crop give the animal a calm, intelligent presence. The whole frame feels still and watchful, a study of dark form revealed through subtle blue light.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "66a8e7e535feef37be07c4f576c0dd471a128da5eb8d854f634a6a915c6718e2",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

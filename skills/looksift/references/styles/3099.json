@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "This is a square, monochrome engraved drawing of three robed figures kneeling and bending low across a stone floor. The nearest figure fills the lower middle and right, body folded toward the left with one hand stretched down to a tiny object near the foreground. A wrapped head covering and long pale robe create a broad curved shape, described with many parallel hatch lines. Behind this person, another figure bends near the left wall, while a third crouches farther back at the upper right and looks downward. The room is shallow and spare: straight wall joints, a low ledge, and several small scattered forms are visible, but no decorative setting distracts from the bodies. The nearest reaching hand and the small object lie within a pale open area of floor, creating the visual focus. Light appears to fall from the upper left, leaving the higher cloth folds and shoulders pale while deeper folds, the wall recess, and spaces beneath the figures gather charcoal-gray lines. Every plane is built through fine engraved strokes, from long directional folds to tight crosshatching under the arms and along the stone. The edges are crisp, yet the repeated marks create soft tonal shifts rather than solid painted shadows. The three bodies overlap and recede with clear differences in scale. No writing is visible on the wall or floor. The overall composition is humble and concentrated, its rhythmic bent forms and precise mark-making turning a quiet task into a carefully observed scene.",
+  "full_prompt_zh": "这是一幅方形单色版画式素描，三名穿长袍的人跪在石地上，身体低低俯下。最近的人填满下方中央和右侧，身体朝左折去，一只手伸向前景附近的小物件。缠绕头巾与长浅色长袍形成宽阔弧形，由许多平行排线描出。此人后方，另一名人物在左侧墙旁弯身，第三名人物蹲在更远的右上，向下看。房间浅而稀疏：笔直墙缝、低矮台沿与几个散落小形可见，却没有装饰场景分走身体上的注意力。最近的伸出手与小物件位于浅色开阔地面中，形成视觉焦点。光似乎从左上落下，让较高衣褶与肩部保持浅色，深褶、墙凹处及人物身体下方则聚集炭灰线条。每个平面都由细刻线建立，从顺向衣褶长线到手臂下和石面上的密集交叉排线。边缘清楚，但重复线痕形成柔和明度变化，而非实心绘画阴影。三道身体重叠并以明显尺度差异后退。墙与地上没有可见文字。整体构图朴素而集中，弯曲形态的节奏和精确笔痕将安静劳动变成仔细观察的场景。",
+  "style_prompt_en": "The engraved monochrome treatment creates volume from fine parallel cuts and dense crosshatching on an aged pale ground. Long curved strokes follow broad folds and rounded planes; short intersecting marks darken recesses. Light is described by leaving the surface open, so bright regions retain the paper tone rather than opaque white paint. Crisp outlines and carefully varied line density make shallow space readable. Repeated bent curves and a clear near-to-far scale rhythm organize the composition. Gray values stay warm and dry, with no saturated color or glossy surface. The overall effect is patient, humble, and tactile, turning modest forms into precise graphic structure.",
+  "style_prompt_zh": "这种单色版画处理在旧浅色底面上以细平行刻线和密集交叉排线建立体积。长弯线顺着宽大褶皱与圆润平面展开，短交错线加深凹处。光通过保留空白表面来描述，因此亮区保有纸张色调，而非不透明白颜料。清楚轮廓和精心变化的线条密度让浅空间可读。重复弯曲形态与明确的前后尺度节奏组织构图。灰阶保持暖而干涩，没有饱和颜色或光亮表面。整体效果耐心、朴素且有触感，把谦逊形体转为精确图形结构。",
+  "theme_en": "Three robed figures kneeling and reaching toward small objects on a stone floor",
+  "theme_zh": "三名穿长袍的人跪在石地上，伸手触碰细小物件",
+  "wh_ratio": "1:1",
+  "id": "3099",
+  "name": "Albrecht Durer",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/albrecht-durer",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "90f216875b47cffc55e8ea2dc22ff6fa9bf6302aea70eafc2d68b65619bdbd93",
+    "gpt_submission_prompt": "This is a square, monochrome engraved drawing of three robed figures kneeling and bending low across a stone floor. The nearest figure fills the lower middle and right, body folded toward the left with one hand stretched down to a tiny object near the foreground. A wrapped head covering and long pale robe create a broad curved shape, described with many parallel hatch lines. Behind this person, another figure bends near the left wall, while a third crouches farther back at the upper right and looks downward. The room is shallow and spare: straight wall joints, a low ledge, and several small scattered forms are visible, but no decorative setting distracts from the bodies. The nearest reaching hand and the small object lie within a pale open area of floor, creating the visual focus. Light appears to fall from the upper left, leaving the higher cloth folds and shoulders pale while deeper folds, the wall recess, and spaces beneath the figures gather charcoal-gray lines. Every plane is built through fine engraved strokes, from long directional folds to tight crosshatching under the arms and along the stone. The edges are crisp, yet the repeated marks create soft tonal shifts rather than solid painted shadows. The three bodies overlap and recede with clear differences in scale. No writing is visible on the wall or floor. The overall composition is humble and concentrated, its rhythmic bent forms and precise mark-making turning a quiet task into a carefully observed scene.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "f5d0c9c4c383a34424b26e9551330963f7b037193b488d5db53ab58b30086859",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

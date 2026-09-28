@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square decorative cut-paper-style illustration shows a great branching tree above a small house and scattered birds. The picture is printed or rendered in cobalt and pale blue on warm cream, with no naturalistic full-color shading. A dense ornamental border of leaves and curling stems encloses all four sides, making the central landscape resemble a framed paper panel. The enormous tree stands slightly left of center, its thick dark-blue trunk spreading into an intricate rounded crown of thin branch lines. Pale cream openings between the twigs form as much pattern as the branches themselves. At the right of the trunk, a small two-story white house has a blue roof, dark windows, a door, and a short fence or path. Small trees and shrubs sit along a low dark ground strip. Several birds cross the upper sky, from tiny distant marks to larger silhouettes near the corners. Behind the branches are broad pale blue cloud-like bands and dotted texture. The foreground contains tightly worked plants and decorative small forms, but the open cream spaces keep the dense drawing legible. Dark blue masses read as flat ink or layered cut shapes; fine blue hatching and stipple soften selected internal areas without creating realistic volume. Light is graphic, expressed through the untouched cream ground rather than a visible sun or cast shadow. The oversized canopy, miniature house, scattered birds, and continuous leaf border give the image a lyrical folk-tale rhythm.",
+  "full_prompt_zh": "一幅方形装饰性剪纸风插画描绘一棵枝条繁密的大树，下方有小屋和零散飞鸟。画面以钴蓝、浅蓝印在或绘在暖奶油色底上，没有自然主义全彩明暗。四边由叶片与卷曲茎藤组成的密集装饰边框围住，使中央风景像一块装框纸板。大树立在中央稍左，粗壮深蓝树干展开为复杂圆形树冠，由细枝线交织而成。细枝之间的奶油色空洞与枝本身一样构成纹样。树干右侧，一栋白色两层小屋有蓝屋顶、深窗、门和一截围栏或小路。小树与灌木沿低矮深色地带排列。几只鸟飞过上方天空，从细小远点到靠近角落的较大剪影。枝条后方有宽阔浅蓝色云带与点状纹理。前景塞满细密植物和装饰小形体，但敞开的奶油色空间使繁密线条仍可读。深蓝体块像平坦油墨或层叠裁切形，细蓝排线与点描柔化部分内部区域，却不制造真实体积。光是图形性的，由未着色的奶油底色体现，而非可见太阳或落影。硕大树冠、微型房屋、分散飞鸟和连续叶边框赋予画面抒情的民间故事节奏。",
+  "style_prompt_en": "Two-tone decorative illustration combines flat cobalt silhouettes with pale blue fine-line fill on a warm cream ground. Large dark masses anchor the center, while networks of tiny branching lines and cutout-like negative spaces create intricate internal rhythm. A continuous ornamental perimeter holds the dense central detail in a clear square structure. Small scattered motifs vary scale across the open field without closing every gap. Shading remains graphic: stipple and hatch marks add surface variation, but light comes chiefly from the unprinted ground. The balance of dense patterned edges, a dominant rounded form, and deliberate pale openings feels lyrical and hand-cut.",
+  "style_prompt_zh": "双色装饰插画把平坦钴蓝剪影与暖奶油色底上的浅蓝细线填纹结合。巨大深色体块固定中央，细小分枝线网和镂空般负空间在内部形成复杂节奏。连续装饰外围把密集中央细节收束在清楚方形结构里。分散小纹样在开阔区域变化尺度，却不封死每个空隙。明暗保持图形性：点描和排线增加表面变化，但亮度主要来自未印底色。密集花纹边缘、主导的圆形体块与有意留下的浅色开口相平衡，显得抒情又像手工裁剪。",
+  "theme_en": "A great branching tree, small house, and birds in a blue paper-cut landscape",
+  "theme_zh": "蓝色剪纸风景中的大树、小屋与飞鸟",
+  "wh_ratio": "1:1",
+  "id": "0209",
+  "name": "Rob Ryan",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/rob-ryan",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/rob-ryan.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "c705ba6a0f104f2ce3aab1dd3d33bd73c9df355f750254c4d0e746c58d471b5c",
+    "gpt_submission_prompt": "A square decorative cut-paper-style illustration shows a great branching tree above a small house and scattered birds. The picture is printed or rendered in cobalt and pale blue on warm cream, with no naturalistic full-color shading. A dense ornamental border of leaves and curling stems encloses all four sides, making the central landscape resemble a framed paper panel. The enormous tree stands slightly left of center, its thick dark-blue trunk spreading into an intricate rounded crown of thin branch lines. Pale cream openings between the twigs form as much pattern as the branches themselves. At the right of the trunk, a small two-story white house has a blue roof, dark windows, a door, and a short fence or path. Small trees and shrubs sit along a low dark ground strip. Several birds cross the upper sky, from tiny distant marks to larger silhouettes near the corners. Behind the branches are broad pale blue cloud-like bands and dotted texture. The foreground contains tightly worked plants and decorative small forms, but the open cream spaces keep the dense drawing legible. Dark blue masses read as flat ink or layered cut shapes; fine blue hatching and stipple soften selected internal areas without creating realistic volume. Light is graphic, expressed through the untouched cream ground rather than a visible sun or cast shadow. The oversized canopy, miniature house, scattered birds, and continuous leaf border give the image a lyrical folk-tale rhythm.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "3b7d00189d60a7706dd2883f1f646d2f40e1b713e737f6572f0976fe9828407c",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

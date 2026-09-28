@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square cinematic photograph shows a dark-haired young man in the left foreground of a dim room, with a blurred person and a red lamp behind him. The near man sits or leans back, turned three quarters toward the right. Short black curls edge his forehead, and his face is partly in greenish shadow while one cheek and the nose catch a faint warm highlight. His eyes look sideways across the room, giving the quiet pose an alert, withdrawn feeling. A dark coat with a thick gray-brown fur collar wraps around his shoulders and fills the lower-left quadrant. Behind him at the center, a second person sits farther away, their light hair and pale upper clothing softened by shallow depth of field. A glowing red-orange lampshade hangs over that figure, creating a diffuse pool of warmth against the otherwise dark brown and teal interior. At the upper left, a narrow strip of patterned wall or framed material adds a cool green texture, while the right side sinks into near-black. The background person appears to support their head with a hand, but their facial features are too soft to read. No clear text or specific room detail emerges from the blur. The main light is the warm lamp behind, supplemented by weak cool light from the left, so red bokeh and green shadow meet across the image. The overall composition keeps the foreground face relatively sharp against a glowing but indistinct social space, creating intimate cinematic tension.",
+  "full_prompt_zh": "这幅方形电影感照片里，一名深发年轻男子处在昏暗房间的左侧前景，身后是一位模糊的人和一盏红灯。近处男子坐着或向后倚，身体以四分之三角度转向右侧。短黑卷发贴着额头，脸一部分留在偏绿阴影里，一侧脸颊与鼻子接住微弱暖光。他的目光侧望房间另一边，使安静姿态带有警觉而退缩的意味。深色外套有厚实灰褐毛领，裹住肩膀，占据左下区域。后方中央，第二个人坐得更远，浅发与浅色上衣被浅景深柔化。一盏发亮的红橙灯罩悬在该人物上方，在其余深褐与青绿色室内形成漫散暖光。左上边缘，一条有纹样的墙面或框中材料添入冷绿肌理，右侧则沉入近黑。背景人物似乎用手支着头，但面部特征太柔，无法辨读。模糊中没有清楚文字或特定室内细节。主要光来自后方暖灯，另有左侧微弱冷光，红色散景与绿影在图像中相遇。整体构图让相对清楚的前景面孔处于发亮却难辨的社交空间前，形成亲密的电影张力。",
+  "style_prompt_en": "The cinematic photograph uses shallow focus, low exposure and a controlled meeting of warm red-orange light with deep teal-green shadow. One near area retains sharp skin and fabric texture; surrounding forms dissolve quickly into soft bokeh and near-black. Backlighting creates a glowing color patch, while weak side light barely lifts the focal contours. The palette is dense and saturated despite the darkness, with small warm highlights drawing the eye across cool negative space. Edges are selective rather than uniformly crisp. The result feels private, emotionally charged and nocturnal, with color and focus conveying more than detailed setting.",
+  "style_prompt_zh": "这种电影摄影使用浅焦、低曝光，以及暖红橙光与深青绿阴影之间受控的相遇。近处一块区域保留清楚皮肤和布料肌理，周围形体迅速融入柔散景与近黑色。逆光形成发亮色斑，微弱侧光刚好提起焦点轮廓。尽管整体昏暗，配色仍浓密饱和，少量暖高光牵引目光穿过冷色负空间。边缘经过选择，并非处处锐利。成品私密、情绪紧绷而夜色浓重，色彩与焦点比详尽场所信息更能传意。",
+  "theme_en": "A young man in a fur-collared coat watching a dim room under red lamplight",
+  "theme_zh": "一名穿毛领外套的年轻男子在红灯光下望向昏暗房间",
+  "wh_ratio": "1:1",
+  "id": "2881",
+  "name": "Xavier Dolan",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/xavier-dolan",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/xavier-dolan.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "58bc267f8fedc9bd50dc14a118fe6827671c2f160d67a083e2c31034988d65a7",
+    "gpt_submission_prompt": "A square cinematic photograph shows a dark-haired young man in the left foreground of a dim room, with a blurred person and a red lamp behind him. The near man sits or leans back, turned three quarters toward the right. Short black curls edge his forehead, and his face is partly in greenish shadow while one cheek and the nose catch a faint warm highlight. His eyes look sideways across the room, giving the quiet pose an alert, withdrawn feeling. A dark coat with a thick gray-brown fur collar wraps around his shoulders and fills the lower-left quadrant. Behind him at the center, a second person sits farther away, their light hair and pale upper clothing softened by shallow depth of field. A glowing red-orange lampshade hangs over that figure, creating a diffuse pool of warmth against the otherwise dark brown and teal interior. At the upper left, a narrow strip of patterned wall or framed material adds a cool green texture, while the right side sinks into near-black. The background person appears to support their head with a hand, but their facial features are too soft to read. No clear text or specific room detail emerges from the blur. The main light is the warm lamp behind, supplemented by weak cool light from the left, so red bokeh and green shadow meet across the image. The overall composition keeps the foreground face relatively sharp against a glowing but indistinct social space, creating intimate cinematic tension.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "c4d7ea16a919007aeb6edbd9c82cc695f57c7be0849dec63e1d135acf54eb00a",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square character-study illustration shows a grinning figure with a pale angular face, oversized round eyes, spiky black hair, and a loose red coat on an off-white paper ground. The head fills the upper two thirds and tilts slightly toward the viewer. The hair bursts outward in jagged charcoal strokes, with some strands leaving the colored form and continuing as quick sketch lines. Around the eyes, rusty orange and dark brown marks make deep rings, while the irises stare forward with a lively, almost mischievous intensity. A long dark nose and broad curved mouth are simplified into a few sharp lines. The lower face is almost white, its rectangular planes edged with rough gray pencil and fine red construction marks. The high red collar opens around a dark neck; below it, the coat spreads diagonally toward both lower corners in loose vermilion washes. Behind the figure, faint tan rectangles and unfinished vertical lines suggest a background grid without forming a particular place. A small signature-like scribble sits toward the lower right, but no readable text is necessary to the image. Diffuse light from the upper left makes the white face and red fabric feel bright, while dark hatching under the chin, around the eyes, and in the hair supplies depth. Ink, pencil, and watery color all remain visibly separate rather than polished into one smooth surface. The overall composition is an energetic close-up whose wild contour and warm red accents leap from generous unfinished paper.",
+  "full_prompt_zh": "这幅方形角色习作插画在米白纸底上呈现一个咧嘴笑的形象，面孔浅色而棱角分明，眼睛大而圆，黑发竖起，穿宽松红外套。头占据上方三分之二，略向观者倾斜。头发以锯齿状炭黑笔触向外爆开，一些发丝越出上色形体，继续成为快速草图线。眼周锈橙与深棕痕迹形成深环，虹膜直视前方，带活泼又近乎淘气的劲头。长深鼻和宽弯嘴被简化成几道尖锐线。下半张脸几乎白色，矩形切面由粗灰铅笔和细红构线围起。高红领在深色脖颈周围张开，其下外套以松散朱红淡染斜向两侧底角伸展。人物身后隐约浅褐矩形与未完成的竖线暗示背景网格，却不组成具体场所。右下附近有一道像签名的涂写，但画中不需要可读文字。漫射光从左上进入，使白脸和红布显得明亮，深色排线在下巴、眼周和发内提供纵深。墨、铅笔和水样颜色明显各自存在，没有被抛光成一种平滑表面。整体构图是一幅有活力的紧凑特写，狂放轮廓和暖红重音从充足未完成纸面上跃出。",
+  "style_prompt_en": "The illustration mixes loose pencil scaffolding, quick black ink, and translucent red-orange washes. Angular pale planes sit beside expressive dark bursts; lines often extend beyond color and leave the making process visible. Rust, vermilion, charcoal, and warm gray provide the main accents on a large off-white paper field. Diffuse light keeps the support bright, while concentrated hatching creates localized depth. The focal cluster is tight and slightly off balance, with unfinished marks and generous blank edges preserving spontaneity. The overall effect is animated, sketchy, and deliberately tactile.",
+  "style_prompt_zh": "这种插画混合松散铅笔构架、快速黑墨和透明红橙淡染。棱角浅色平面紧邻表现性暗色爆发笔形；线条常越过颜色，让制作过程可见。锈色、朱红、炭黑和暖灰成为大片米白纸域上的主要重音。漫射光保持承载纸面明亮，集中的排线建立局部纵深。焦点簇紧凑且略失平衡，未完成线迹和充足空白边缘保留自发性。整体效果活跃、草图感强、刻意可触。",
+  "theme_en": "A wild-haired grinning figure in a red coat on loose sketch paper",
+  "theme_zh": "草图纸上一位乱发咧笑、穿红外套的人物",
+  "wh_ratio": "1:1",
+  "id": "3118",
+  "name": "Dustin Nguyen",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/dustin-nguyen",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "cd94aa1d8f86c901cd6d378a2eaf7ebbf0c37ffbbbeccced74505c905e170397",
+    "gpt_submission_prompt": "A square character-study illustration shows a grinning figure with a pale angular face, oversized round eyes, spiky black hair, and a loose red coat on an off-white paper ground. The head fills the upper two thirds and tilts slightly toward the viewer. The hair bursts outward in jagged charcoal strokes, with some strands leaving the colored form and continuing as quick sketch lines. Around the eyes, rusty orange and dark brown marks make deep rings, while the irises stare forward with a lively, almost mischievous intensity. A long dark nose and broad curved mouth are simplified into a few sharp lines. The lower face is almost white, its rectangular planes edged with rough gray pencil and fine red construction marks. The high red collar opens around a dark neck; below it, the coat spreads diagonally toward both lower corners in loose vermilion washes. Behind the figure, faint tan rectangles and unfinished vertical lines suggest a background grid without forming a particular place. A small signature-like scribble sits toward the lower right, but no readable text is necessary to the image. Diffuse light from the upper left makes the white face and red fabric feel bright, while dark hatching under the chin, around the eyes, and in the hair supplies depth. Ink, pencil, and watery color all remain visibly separate rather than polished into one smooth surface. The overall composition is an energetic close-up whose wild contour and warm red accents leap from generous unfinished paper.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "25bd96c720383a35d10662dda7e468c6ceae68f4d4ae06ac0bed00e863dd1228",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

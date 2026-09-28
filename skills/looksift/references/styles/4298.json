@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square atmospheric science-fiction painting opens onto a flat snow-covered plain under a vast blue-gray fog. Near the lower middle, three small bundled travelers move away from the viewer toward a distant machine. The nearest person stands left of center in a dark coat, another is farther ahead near center, and a third is closer to the machine; their unequal spacing makes the long journey tangible. The machine rises in the upper-middle distance on several long articulated legs, with a broad dark body, antenna-like projections, and a few tiny red-orange lights. Its legs fade into the low fog, so its exact structure remains partly mysterious. Sparse dry grasses pierce the snow in the foreground, thicker at the right edge, and faint tracks lead toward the travelers. The image keeps the horizon almost erased by mist. The image uses broad cool washes of desaturated steel blue, ash gray, and snow white, then accent the machine with muted red glints. Brush marks should be loose and visible, especially in the grass, ground, and mist, while the central silhouettes remain precise enough to read. The light is overcast and directionless, with low contrast except at the dark figures and machine. The image preserves a generous blank upper sky and a melancholy sense of distance, silence, and overwhelming scale.",
+  "full_prompt_zh": "一幅方形氛围科幻绘画展开一片平坦雪原，上方是广阔蓝灰色薄雾。画面下部中央附近，三名裹得严实的远行者背向观看者，朝远处机械体行进。最近的人在中央偏左穿深色外套，第二人在更远的中央，第三人靠近机械体；不等间距让漫长路程可以感知。机械体矗立于画面中上方远处，靠数根细长关节腿支撑，身体宽阔深暗，伸出天线般的部件，点着几个很小的红橙色灯。机械腿逐渐隐入低雾，准确结构保持部分神秘。稀疏枯草穿出前景的雪，右缘更密，淡淡足迹指向旅人。地平线几乎被雾抹去。画面用低饱和钢蓝、灰烬色和雪白的大笔洗染，再以克制的红色亮点强调机器。尤其在草地、地面和雾中保留松散可见的笔触，中央剪影则清楚到足以辨认。阴天光无明确方向，除了深色人物和机器外反差都很低。留出广阔空白上方天空，保留忧郁的距离感、寂静感和压倒性的尺度。",
+  "style_prompt_en": "Atmospheric painterly science-fiction with tiny dark scale marks set against expansive desaturated cool fields. The image builds depth by dissolving distant mechanical geometry into fog, using loose visible brush strokes in ground texture and sparse dry accents. The image keeps steel blue, ash gray, and snow white dominant, with only pinpoints of muted orange-red light. The rendering favors soft overcast illumination, erased horizons, and quiet monumental distance.",
+  "style_prompt_zh": "富于空气感的绘画式科幻风格，以极小深色比例标记对照广阔低饱和冷色场域。画面让远处机械几何逐渐消失于雾中，并以松散可见笔触处理地面纹理和零星干枯点缀。钢蓝、灰烬色和雪白占主导，只有针尖大小的低调橙红光。画面采用柔和阴天光、模糊地平线及安静的巨大距离感。",
+  "theme_en": "Three distant travelers approaching a towering machine through snow",
+  "theme_zh": "三名远行者穿过雪原接近高耸机械体",
+  "wh_ratio": "1:1",
+  "id": "4298",
+  "name": "Jakub Rozalski",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/jakub-rozalski.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "cc3410f7fd2c906d3b0badb931379292d5fa56bb5a4a6f6306654f2d69706057",
+    "gpt_submission_prompt": "A square atmospheric science-fiction painting opens onto a flat snow-covered plain under a vast blue-gray fog. Near the lower middle, three small bundled travelers move away from the viewer toward a distant machine. The nearest person stands left of center in a dark coat, another is farther ahead near center, and a third is closer to the machine; their unequal spacing makes the long journey tangible. The machine rises in the upper-middle distance on several long articulated legs, with a broad dark body, antenna-like projections, and a few tiny red-orange lights. Its legs fade into the low fog, so its exact structure remains partly mysterious. Sparse dry grasses pierce the snow in the foreground, thicker at the right edge, and faint tracks lead toward the travelers. The image keeps the horizon almost erased by mist. The image uses broad cool washes of desaturated steel blue, ash gray, and snow white, then accent the machine with muted red glints. Brush marks should be loose and visible, especially in the grass, ground, and mist, while the central silhouettes remain precise enough to read. The light is overcast and directionless, with low contrast except at the dark figures and machine. The image preserves a generous blank upper sky and a melancholy sense of distance, silence, and overwhelming scale.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "567b63354e5e63e49f56c1ed5e556c8fa0e1de115e1575714f73b34053893a57",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

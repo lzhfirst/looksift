@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square satirical comic panel shows a girl in a plain blue dress standing at left before an enormous tree whose canopy is packed with banknotes. At the tree's roots, a small green wide-eyed creature looks up at her. The twisted trunk spreads across the right half, and overlapping money-leaves form a dense gray-green wall. Behind the girl, a modest town edge and smoky industrial shapes sit under an orange evening sky. A narrow black border encloses the scene like one page of a longer comic story. Fine black linework, cross-hatching, and flat colored washes define the figures, bark, leaves, and distant buildings. The blue dress provides a simple vertical silhouette against warm ground and sky, while the money canopy becomes the dominant textured mass. The creature's oversized eye and the girl's still posture give the surreal image an oddly quiet exchange. Light is even, with an amber horizon glow and darker shadow under the tree. Scattered leaves and roots mark the foreground without crowding the two figures. The whole frame feels pointed and slightly uneasy, using visual metaphor, clear staging, and intricate hand-inked detail rather than a caption to carry its editorial idea.",
+  "full_prompt_zh": "一幅方形讽刺漫画画格呈现一位穿朴素蓝裙的女孩站在左侧，面前是树冠塞满纸钞的巨大树木。树根处，一只睁大眼的小绿生物抬头看她。扭曲树干占据右半，重叠的钞票叶片形成密实灰绿色墙。女孩身后，简陋城镇边缘与冒烟工业形体处在橙色傍晚天空下。窄黑边框包住场景，像长篇漫画里的一个画格。细黑线、交叉排线与平涂色层界定人物、树皮、叶片和远方建筑。蓝裙在暖地面与天空前形成简单竖向剪影，钱树冠则成为占主导的有肌理大体量。小生物夸张的眼睛与女孩静止姿态使超现实画面有一种奇异的安静交流。光均匀，地平线有琥珀亮光，树下阴影更深。散落叶片与树根标出前景，却不挤压两位角色。整体尖锐且略不安，用视觉隐喻、清楚布景和细密手工墨线承载编辑观点，而不依赖标题。",
+  "style_prompt_en": "A satirical color-comic style places a simple human-scale silhouette beside an oversized symbolic organic mass. Fine black contour and cross-hatching build dense texture, while flat muted washes in gray-green, blue, ochre, and orange keep the scene legible. One small expressive creature or object can create a quiet focal exchange within the metaphor. A thin panel border, modest background industry or architecture, and a warm horizon establish editorial context. Foreground roots and scattered details anchor the scene. The mood is slightly uneasy and pointed, with the visual idea carried by scale contrast and hand-inked density rather than explanatory text.",
+  "style_prompt_zh": "讽刺性彩色漫画风格把简单人物尺度剪影放在超大象征性有机体量旁。细黑轮廓与交叉排线构成密集肌理，灰绿、蓝、赭和橙的平涂低饱和色层保持易读。一只小而有表情的生物或物件可在隐喻中形成安静的焦点交流。细画格边框、低调背景工业或建筑以及暖色地平线建立编辑语境。前景树根和散落细节使场景落地。气氛略令人不安且有指向性，视觉观点由尺度对比与手墨密度承担，而非解释文字。",
+  "theme_en": "A girl faces a giant money-leaf tree and a small creature in a satirical comic panel",
+  "theme_zh": "女孩面对一棵满是钞票叶的巨树和一只小生物，呈讽刺漫画画格",
+  "wh_ratio": "1:1",
+  "id": "0823",
+  "name": "Jen Sorensen",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/jen-sorensen",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/jen-sorensen.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "c2bae648d91f1afd4ff3ffc2c3cfb7caaaf74e6a81aaf234fb25c295f1657919",
+    "gpt_submission_prompt": "A square satirical comic panel shows a girl in a plain blue dress standing at left before an enormous tree whose canopy is packed with banknotes. At the tree's roots, a small green wide-eyed creature looks up at her. The twisted trunk spreads across the right half, and overlapping money-leaves form a dense gray-green wall. Behind the girl, a modest town edge and smoky industrial shapes sit under an orange evening sky. A narrow black border encloses the scene like one page of a longer comic story. Fine black linework, cross-hatching, and flat colored washes define the figures, bark, leaves, and distant buildings. The blue dress provides a simple vertical silhouette against warm ground and sky, while the money canopy becomes the dominant textured mass. The creature's oversized eye and the girl's still posture give the surreal image an oddly quiet exchange. Light is even, with an amber horizon glow and darker shadow under the tree. Scattered leaves and roots mark the foreground without crowding the two figures. The whole frame feels pointed and slightly uneasy, using visual metaphor, clear staging, and intricate hand-inked detail rather than a caption to carry its editorial idea.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "937d3dc0f83d0d51d80ad163ec37e765c5b6aeb4504b8806d9771aa11f16cca4",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

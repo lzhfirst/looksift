@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square atmospheric landscape painting places a lone antlered stag on the edge of a dark rocky promontory above a churning gulf of cloud. The small animal stands in the lower-right third, its head raised and branching antlers silhouetted against an opening of milky light. A few thin leafless trees rise behind it along the ridge, their almost transparent trunks lost into the haze. The rock forms a blunt, uneven black ledge that juts left over a pale cloud bank, with sparse dark grasses along its rim. Most of the frame is sky and vapor. On the left, dense blue-black masses roll upward from the lower corner, breaking into softer gray wisps near the center. Overhead, huge turbulent cloud towers gather in slate, smoke blue, and greenish charcoal. At the center and upper left, light leaks through layered breaks, turning the edges of vapor pale silver and chalk white. Tiny scattered dark marks within the cloud field suggest drifting debris or distant birds, though they remain indistinct. Brushwork alternates between sweeping soft diffusion, scumbled grain, and sharply stated silhouettes on the ledge. The mist obscures any clear horizon, so the cliff seems suspended between ground and weather. Light is cool and indirect, strongest in the central gap, fading toward the heavy outer cloud walls. The composition contrasts a delicate, sharply readable creature and trees against almost overwhelming moving atmosphere, creating a hushed, foreboding sense of scale.",
+  "full_prompt_zh": "一幅方形氛围风景画把一只独自的有角雄鹿放在深色岩石岬角边缘，下方是翻卷的云雾深谷。小鹿站在右下三分之一处，抬着头，枝状鹿角剪影映在乳白色光口前。后方山脊有几株细而无叶的树升起，近乎透明的树干消失在雾里。岩体形成钝而不平的黑色崖缘，向左探在浅色云岸上方，边上只有稀疏暗草。画面大部分由天空和水汽占据。左侧，浓密蓝黑云体从下角向上翻起，到中央化为更柔的灰色丝缕。头顶，巨大的动荡云塔聚成石板灰、烟蓝与偏绿炭色。中央和左上部，光从层叠裂口漏出，把云缘染成浅银和粉笔白。云场里散着细小暗点，仿佛飘散碎屑或远鸟，但并不清楚。笔触在大幅柔化的扫刷、擦涂颗粒与崖缘锐利剪影之间切换。薄雾遮去明确地平线，使悬崖仿佛浮在地面和天气之间。光线冷而间接，在中央开口最强，向外侧厚重云墙渐暗。构图让纤细却清晰可辨的生物和树，对照几乎压倒一切的流动大气，形成静默而不祥的尺度感。",
+  "style_prompt_en": "Atmospheric painting builds monumental depth from layered vapor, turbulent cloud masses, and near-vanishing horizons. Use a restricted slate blue, smoky gray, green-charcoal, and pale silver palette, with brighter passages leaking through irregular gaps. Alternate broad diffused blending with granular scumbling and a few crisp dark silhouettes. Place a very small readable focal form on a low, uneven edge while weather fills most of the frame. Cool indirect light catches vapor rims and dissolves distant shapes; foreground shadow remains dense. The transferable effect is sublime and uneasy, carried by an extreme difference between a quiet precise accent and vast moving tonal fields.",
+  "style_prompt_zh": "氛围绘画以层叠水汽、翻腾云块和几乎消失的地平线建立宏大纵深。配色限于石板蓝、烟灰、偏绿炭色与浅银，让亮部从不规则裂口漏出。宽幅漫化的融合笔触、颗粒擦涂与少量清晰深色剪影交替。把极小却可读的焦点形体放在低处不平边缘，让天气占据画面大部。冷色间接光勾亮水汽边沿，溶去远处形体，前景暗部保持浓重。可迁移的效果崇高而不安，由安静精确的小重点与广大流动调子之间的极端尺度差承载。",
+  "theme_en": "A lone stag on a cliff above immense storm clouds",
+  "theme_zh": "孤鹿立于悬崖，俯临巨大的暴风云层",
+  "wh_ratio": "1:1",
+  "id": "3507",
+  "name": "Brian Mashburn",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/brian-mashburn",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "5af929f19231a8d8930f103460b424845968d82e290d708d1dee50ae9e5766c0",
+    "gpt_submission_prompt": "A square atmospheric landscape painting places a lone antlered stag on the edge of a dark rocky promontory above a churning gulf of cloud. The small animal stands in the lower-right third, its head raised and branching antlers silhouetted against an opening of milky light. A few thin leafless trees rise behind it along the ridge, their almost transparent trunks lost into the haze. The rock forms a blunt, uneven black ledge that juts left over a pale cloud bank, with sparse dark grasses along its rim. Most of the frame is sky and vapor. On the left, dense blue-black masses roll upward from the lower corner, breaking into softer gray wisps near the center. Overhead, huge turbulent cloud towers gather in slate, smoke blue, and greenish charcoal. At the center and upper left, light leaks through layered breaks, turning the edges of vapor pale silver and chalk white. Tiny scattered dark marks within the cloud field suggest drifting debris or distant birds, though they remain indistinct. Brushwork alternates between sweeping soft diffusion, scumbled grain, and sharply stated silhouettes on the ledge. The mist obscures any clear horizon, so the cliff seems suspended between ground and weather. Light is cool and indirect, strongest in the central gap, fading toward the heavy outer cloud walls. The composition contrasts a delicate, sharply readable creature and trees against almost overwhelming moving atmosphere, creating a hushed, foreboding sense of scale.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "a6e9938e6a00497ad2e012187b27c9fb7366ff5a5b16fb27d113e834bb64b807",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

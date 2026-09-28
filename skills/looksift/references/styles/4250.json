@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square mixed media portrait presents a young woman's face looking slightly upward and to the left. Her features are realistically observed but only partly enclosed by contour; around the forehead, cheeks, and neck, blue-green leaves, ochre petals, and loose pencil lines take over. The lower part of the portrait trails into drips, dry brush, and thin scribbles instead of a finished bust. Large areas of white paper remain untouched around the head, making the tangle of marks feel light rather than crowded. Warm amber and olive tones model the face, while teal, turquoise, and dark green foliage accents frame it. Fine crosshatched pen marks and threadlike scratches cut through translucent watercolor-like stains. A few angular paper fragments lie among organic leaf shapes, creating a collage-like tension between geometry and growth. Diffuse light catches the nose, lips, and upward-facing eyes; darker marks gather near hair and jaw. The composition has a strong central face but irregular edges that seem to unravel into the surrounding paper. The whole frame feels curious and alive, balancing intimate portrait observation with spontaneous botanical abstraction and visible hand-worked texture.",
+  "full_prompt_zh": "一幅方形混合媒介肖像呈现一位年轻女子略向左上方看。五官观察写实，却只有部分被轮廓围住；额头、脸颊与脖颈周围由蓝绿叶片、赭色花瓣和松动铅笔线接替。肖像下方拖成滴痕、干笔和纤细涂写，而非完整胸像。头周围保留大片未着墨白纸，使纠缠笔迹显得轻盈而不拥挤。暖琥珀与橄榄色塑造面孔，深青、青绿和深绿叶形为其作框。细交叉排线和线丝般刮痕穿过半透明水彩污色。若干棱角纸片混在有机叶形之间，形成几何与生长之间的拼贴张力。漫射光照亮鼻、唇和向上看的眼睛，较深笔迹聚在头发与下颌附近。构图有明确中央面孔，边缘却不规则地向周围纸面散开。整体好奇而生动，在亲密肖像观察、自发植物抽象和可见手工肌理之间平衡。",
+  "style_prompt_en": "A mixed media drawing style combines realistic focal modeling with leaves, fragments, and loose line that dissolve into white paper. Amber, olive, teal, turquoise, and dark green occupy irregular small areas rather than smooth fields. Fine pen hatching and threadlike scratches cross translucent watercolor stains and dry-brush passages. Strong facial or object detail near the center gives way to drips, scribbles, and broken contour at the edges. Broad untouched paper keeps the dense marks airy. Soft diffuse light makes the central form legible, while darker organic accents provide a loose frame. The mood is exploratory, handmade, and alive, with controlled observation meeting spontaneous abstraction.",
+  "style_prompt_zh": "混合媒介绘图风格把写实焦点塑形与叶片、碎面和松动线条结合，让它们散入白纸。琥珀、橄榄、深青、青绿和深绿落在不规则小面积，而非光滑色域。细钢笔排线与丝状刮痕穿过半透明水彩污色和干笔段落。中央细致的面部或物体细节向边缘逐渐成为滴痕、涂写与断裂轮廓。宽阔未着墨纸面让密集笔迹保持轻盈。柔和漫射光使中央形体可辨，较深有机形状形成松散框架。气氛探索性强、手工感明确、生动，受控观察与自发抽象相遇。",
+  "theme_en": "A woman's face emerges from colorful foliage and sketch lines on white paper",
+  "theme_zh": "女子面孔从彩色叶丛与速写线条中浮现在白纸上",
+  "wh_ratio": "1:1",
+  "id": "4250",
+  "name": "Carne Griffiths",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/carne-griffiths.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "1478f6ba0abdd74c8a83b86fdff3acba7d24f0f4c87e7a83c064502683f2c7b4",
+    "gpt_submission_prompt": "A square mixed media portrait presents a young woman's face looking slightly upward and to the left. Her features are realistically observed but only partly enclosed by contour; around the forehead, cheeks, and neck, blue-green leaves, ochre petals, and loose pencil lines take over. The lower part of the portrait trails into drips, dry brush, and thin scribbles instead of a finished bust. Large areas of white paper remain untouched around the head, making the tangle of marks feel light rather than crowded. Warm amber and olive tones model the face, while teal, turquoise, and dark green foliage accents frame it. Fine crosshatched pen marks and threadlike scratches cut through translucent watercolor-like stains. A few angular paper fragments lie among organic leaf shapes, creating a collage-like tension between geometry and growth. Diffuse light catches the nose, lips, and upward-facing eyes; darker marks gather near hair and jaw. The composition has a strong central face but irregular edges that seem to unravel into the surrounding paper. The whole frame feels curious and alive, balancing intimate portrait observation with spontaneous botanical abstraction and visible hand-worked texture.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "3dd8f1f1a18e9ba551fe939b5167354cfa3e115d9169a609a080fe2c98948e0e",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square painterly photograph shows a woman and a white dog moving through a vast, wind-brushed grassland. They occupy a very small area just below center, with the woman walking toward the right, head bowed and dark hair blown back. She wears a pale blouse and a long dark skirt that trails into the grass. The dog stands close to her on the left, its light fur making it the brightest shape on the ground. Long brown-green grasses fill the lower third and bend in soft overlapping strokes. A nearly level horizon sits low, leaving most of the frame to a heavy, layered storm sky. The clouds are slate gray, olive, and muted cream, with a weak glow breaking through near the upper middle. The image has deliberately subdued color, softened focus, darkened corners, and a distressed, old-photographic surface. The figures are recognizable but not rendered with sharp fashion detail; they function as small vulnerable anchors in a wide weathered atmosphere. There are no buildings, vehicles, fences, or other people in view. The low light is diffuse, so shadows in the grass are deep but not directionally crisp. The scene is both simple and cinematic: one human silhouette, one pale animal, a large field, and an enormous unsettled sky. No caption or readable lettering appears. The mood is lonely and quietly purposeful, with a sense of weather and distance stronger than any explicit action.",
+  "full_prompt_zh": "一张方形绘画感照片呈现一名女子与一只白狗穿过广阔受风吹拂的草原。两者仅占中央偏下的一小块，女子向右走，低头，深发向后吹。她穿浅上衣与拖入草里的深长裙。狗紧靠她左侧，浅毛成为地面最亮的形。长棕绿草填下三分之一，以柔和重叠笔触般弯曲。近乎水平的地平线很低，让大部分画面留给厚重分层的暴风天空。云呈石板灰、橄榄和低调奶油色，上中部有弱光透出。图像刻意低饱和、柔焦、角落变暗，表面带磨旧照片质地。人物可辨，但没有锐利时装细节；他们作为宽阔风化大气中的小而脆弱锚点。没有建筑、车辆、栅栏或其他人在场。低光漫散，草中阴影深，却没有清楚定向。场景简单而电影化：一道人的剪影、一只浅动物、一大片田和巨大的不安天空。没有说明或可读文字。气氛孤独又安静地有目的感，天气和距离感强过任何明确动作。",
+  "style_prompt_en": "Use painterly low-saturation photography with a very low horizon, small isolated anchors, and a vast textured sky. Grade color toward olive, brown, slate, and muted cream, with one pale accent carrying the eye. Soften focus and darken corners subtly, allowing grain and distressed surface marks to contribute an old photographic atmosphere. Treat grasses or ground texture as broad wind-shaped strokes rather than crisp individual blades. Let cloud layers hold most of the visual weight, with diffuse light and no hard shadows. The result is solitary, cinematic, and weather-bound, emphasizing scale and emotional distance through the imbalance between tiny forms and expansive atmosphere.",
+  "style_prompt_zh": "采用绘画感低饱和摄影，以极低地平线、小而孤立的锚点和巨大有纹天空构图。颜色调向橄榄、棕、石板灰及低调奶油色，由一处浅色重音带动视线。轻柔焦与暗角，让颗粒和磨损表面痕迹添旧照片气息。草或地面纹理呈宽阔风吹笔势，而非每根清楚草叶。云层承担大部分视觉重量，光漫散，无硬影。结果孤独、电影感强且被天气包围，通过微小形体与广阔大气的失衡强调尺度和情绪距离。",
+  "theme_en": "A woman and white dog walking through a dark grassland under storm clouds",
+  "theme_zh": "女子与白狗走过暴风云下的深色草原",
+  "wh_ratio": "1:1",
+  "id": "4485",
+  "name": "Jack Spencer",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/jack-spencer.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "84fd3ac7aa762b9a3d60f1739079387455ee5b9186ba9637b09f1389ac6d813a",
+    "gpt_submission_prompt": "A square painterly photograph shows a woman and a white dog moving through a vast, wind-brushed grassland. They occupy a very small area just below center, with the woman walking toward the right, head bowed and dark hair blown back. She wears a pale blouse and a long dark skirt that trails into the grass. The dog stands close to her on the left, its light fur making it the brightest shape on the ground. Long brown-green grasses fill the lower third and bend in soft overlapping strokes. A nearly level horizon sits low, leaving most of the frame to a heavy, layered storm sky. The clouds are slate gray, olive, and muted cream, with a weak glow breaking through near the upper middle. The image has deliberately subdued color, softened focus, darkened corners, and a distressed, old-photographic surface. The figures are recognizable but not rendered with sharp fashion detail; they function as small vulnerable anchors in a wide weathered atmosphere. There are no buildings, vehicles, fences, or other people in view. The low light is diffuse, so shadows in the grass are deep but not directionally crisp. The scene is both simple and cinematic: one human silhouette, one pale animal, a large field, and an enormous unsettled sky. No caption or readable lettering appears. The mood is lonely and quietly purposeful, with a sense of weather and distance stronger than any explicit action.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "7e9430cf7f3d76f7bc08ea399452808ac03c53243d4a18bbb281ce0eb4587d35",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

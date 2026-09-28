@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square romantic fantasy painting shows a solitary figure in a deep red robe sitting on a dark rocky ledge at the lower left. The person faces right toward an immense bank of illuminated cumulus clouds, resting quietly with fabric pooling along the rock. Above the figure, a slender ivory crescent moon hangs in a saturated ultramarine sky. The cloud forms rise in successive towers from the lower horizon to the upper middle of the frame, their rounded tops edged with warm cream and their shaded sides turning cobalt and violet blue. Very little ground is visible beyond the ledge, so the encounter between small human silhouette and monumental sky becomes the subject. The composition leaves a broad open blue field around the moon and places the bright cloud tower diagonally opposite the red figure. Pigment appears dense and smooth across the sky, while cloud edges and rocky surfaces have more stippled, textured variation. Light seems to come from beyond the clouds, producing a glowing rim and soft internal gradations rather than a literal spotlight on the person. Red fabric anchors the cool palette with a concentrated warm note. The scene has a still, dreamlike sense of scale, combining carefully shaped natural forms, luminous color, and an idealized atmosphere without busy incidental detail.",
+  "full_prompt_zh": "一幅方形浪漫幻想绘画描绘一位身穿深红长袍的孤独人物坐在左下方的暗色岩台上。人物面向右侧巨大的发光积云，安静地坐着，布料沿岩石堆叠。头顶上，一弯细细的象牙白新月悬在饱和群青天空中。云层从低矮地平线向画面中上部接连升起，圆润的顶部带有暖奶油色亮边，阴影面转为钴蓝和紫蓝。岩台以外几乎看不到地面，因此微小的人形剪影与宏伟天空的相遇成为主题。构图在月亮周围留出大幅开阔蓝色，并把明亮的云塔放在红色人物的斜对面。天空的颜料浓密而平滑，云边和岩面则有更多点状、带颗粒的变化。光仿佛来自云层后方，形成发亮的边缘和柔和的内部渐层，并未在人物身上制造直白的聚光灯。红色布料以集中的暖色支点稳定冷色画面。场景静止而如梦，通过精心塑造的自然形态、发光色彩和理想化氛围表达尺度感，没有繁杂的附带细节。",
+  "style_prompt_en": "Luminous romantic painting with idealized natural forms and a deliberately simple, monumental arrangement. Saturated ultramarine and cobalt carry broad smooth fields; warm ivory highlights and occasional concentrated red or ocher accents create contrast. Billowing masses are modeled by rounded edges, stippled texture, and blue-violet shadow. A small dark focal silhouette establishes scale beneath generous open space. Soft backlit glow and carefully balanced warm and cool color produce a serene, dreamlike finish.",
+  "style_prompt_zh": "发光的浪漫主义绘画以理想化自然形态和简洁宏伟的安排为基础。饱和群青与钴蓝铺开平滑的大色域；暖象牙白亮部和少量集中的红色或赭色点缀形成反差。翻涌的形体由圆润边缘、点状肌理与蓝紫阴影塑造。一个小小的深色焦点剪影在宽阔留白下建立尺度。柔和逆光与精心平衡的冷暖色带来安静而梦幻的完成面。",
+  "theme_en": "A seated figure beneath a crescent moon and towering clouds",
+  "theme_zh": "人物坐在新月与高耸云层下",
+  "wh_ratio": "1:1",
+  "id": "3425",
+  "name": "Maxfield Parrish",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/maxfield-parrish",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "9854ba7dba757fa869fe12a9d3d3bccc3c55e540035855f42ee2b24c8fe7cf07",
+    "gpt_submission_prompt": "A square romantic fantasy painting shows a solitary figure in a deep red robe sitting on a dark rocky ledge at the lower left. The person faces right toward an immense bank of illuminated cumulus clouds, resting quietly with fabric pooling along the rock. Above the figure, a slender ivory crescent moon hangs in a saturated ultramarine sky. The cloud forms rise in successive towers from the lower horizon to the upper middle of the frame, their rounded tops edged with warm cream and their shaded sides turning cobalt and violet blue. Very little ground is visible beyond the ledge, so the encounter between small human silhouette and monumental sky becomes the subject. The composition leaves a broad open blue field around the moon and places the bright cloud tower diagonally opposite the red figure. Pigment appears dense and smooth across the sky, while cloud edges and rocky surfaces have more stippled, textured variation. Light seems to come from beyond the clouds, producing a glowing rim and soft internal gradations rather than a literal spotlight on the person. Red fabric anchors the cool palette with a concentrated warm note. The scene has a still, dreamlike sense of scale, combining carefully shaped natural forms, luminous color, and an idealized atmosphere without busy incidental detail.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "e76e08c982598d2f6835e6401f74270dd4bcbdfaa36f2f028fe112bb27cafdf1",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

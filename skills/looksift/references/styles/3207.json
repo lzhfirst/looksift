@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A softly painted rural scene follows a woman and a small child walking away through a golden field. The woman wears a broad pale hat, teal blouse, and long dark skirt; the child beside her carries a muted violet and cream shape of clothing. Their joined positions make a small vertical center amid the expansive crop. A rough path of cool blue-green earth winds toward them from the lower edge. Behind the field, a dark low ridge and a few indistinct trees meet a peach sky. Their lowered heads and unhurried pace make the moment quiet and protective.\n\nThe image is built from small broken color marks that shimmer rather than from crisp outlines. Ochre, copper, mauve, teal, and dusty blue intermix across grass and soil. The sky is a pale warm wash speckled by visible grain, while the distant ridge is more solid and cool. Light is diffuse, perhaps late afternoon, letting the field glow without a sharp cast shadow. The figures are legible through color and posture, but their edges soften into the same textured surface as the landscape. The path creates a gentle diagonal entry, and the warm field occupies most of the middle space. A white seam in the registered collage separates images and is absent from this selected complete scene. There is no readable lettering.",
+  "full_prompt_zh": "一幅柔和的乡村绘画跟随一名女子与小孩，目送他们穿过金色田野。女子戴宽大的浅色帽，穿青绿色上衣和深色长裙；身旁孩子的衣物是一团暗紫与乳白的形。两人并行的位置，在广阔作物中形成小小的竖向中心。冷蓝绿色土地上的粗糙小路从下边缘蜿蜒引向他们。田野后方，深色低山脊和几棵模糊树影接住桃色天空。他们低垂的头和不急的步伐使这一刻安静且带保护感。\n\n图像由细小破碎色笔构成，像在闪动，并非由清晰描边组成。赭黄、铜橙、淡紫、青绿与灰蓝在草和土之间混合。天空是布满可见颗粒的浅暖色薄涂，远处山脊则更实、更冷。光弥散，或许是傍晚，使田野发亮而没有锐利投影。人物通过颜色与姿势清晰可辨，但边缘柔化进与景观相同的纹理表面。小路形成温柔的对角线入口，暖色田野占据中间大部分空间。注册拼图中的白色分缝用于分隔图像，不属于这幅完整的所选场景。没有可辨认文字。",
+  "style_prompt_en": "Small broken color marks build a shimmering field of ochre, copper, mauve, teal, and dusty blue. A pale peach wash and visible grain soften the upper space, while a darker cool band steadies the distant edge. Diffuse light makes warm middle areas glow without sharp cast shadows. Narrow vertical accents remain legible mainly through contrasting hue and posture, their edges dissolving into the same granular paint as the surroundings. A cool winding diagonal opens the lower foreground and leads inward. Texture is consistent across near and far forms, giving the surface a softly stippled, atmospheric unity. The rhythm is unhurried, quiet, and pastoral.",
+  "style_prompt_zh": "细小破碎色笔组成赭黄、铜橙、淡紫、青绿与灰蓝闪动的场域。浅桃色薄涂和可见颗粒柔化上方空间，一道较暗的冷色带稳住远边。弥散光让暖色中部发亮，却不产生锐利投影。纤细竖向点缀主要靠对比色相与姿态可辨，边缘融入周围相同的颗粒颜料。一道冷色蜿蜒对角线打开下方前景，并引导向内。纹理贯穿近远形体，让表面有柔和点描的空气统一感。节奏从容、安静而田园。",
+  "theme_en": "A mother and child walking through a harvest field",
+  "theme_zh": "母亲与孩子走过收获季田野",
+  "wh_ratio": "1:1",
+  "id": "3207",
+  "name": "Ferdinand du Puigaudeau",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/ferdinand-du-puigaudeau",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "7e08874cf20a759c0c4a9d2b8be7c70f67990de6f729f28061f107bbafceaf7e",
+    "gpt_submission_prompt": "A softly painted rural scene follows a woman and a small child walking away through a golden field. The woman wears a broad pale hat, teal blouse, and long dark skirt; the child beside her carries a muted violet and cream shape of clothing. Their joined positions make a small vertical center amid the expansive crop. A rough path of cool blue-green earth winds toward them from the lower edge. Behind the field, a dark low ridge and a few indistinct trees meet a peach sky. Their lowered heads and unhurried pace make the moment quiet and protective.\n\nThe image is built from small broken color marks that shimmer rather than from crisp outlines. Ochre, copper, mauve, teal, and dusty blue intermix across grass and soil. The sky is a pale warm wash speckled by visible grain, while the distant ridge is more solid and cool. Light is diffuse, perhaps late afternoon, letting the field glow without a sharp cast shadow. The figures are legible through color and posture, but their edges soften into the same textured surface as the landscape. The path creates a gentle diagonal entry, and the warm field occupies most of the middle space. A white seam in the registered collage separates images and is absent from this selected complete scene. There is no readable lettering.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "d2132fd42ab23e46c50de8c13b9b7f6498ea09e9c9ea2475a68b0412a65e6b68",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

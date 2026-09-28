@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square close-up photograph of an artwork in progress centers a charcoal portrait of a middle-aged man on textured white paper. The drawn face tilts slightly down, with eyes half closed, deep furrows around the brow, and a strong nose emerging from heavy black shadow. At the right, an artist's hand holds a dark pencil or charcoal stick against the area near the mouth, visibly adding a fine edge to the drawing. The paper sits diagonally on a work surface, with rough torn margins and a few smudges. The image blurs the boundary between the actual hand and the rendered face: warm living fingers enter beside monochrome graphite skin. Charcoal values range from pale untouched paper through velvety mid-gray to near-black in the hair, cheek, and neck. Fine directional strokes describe wrinkles and hair, while broad rubbed passages build the deeper facial masses. Side light falls across the paper and fingers, picking out raised grain and giving the darkest areas a matte, powdery look. The composition is tightly cropped, drawing attention to the eyes, nose, hand, and tool rather than a complete studio. Its effect is intimate and process-oriented, showing patient observation through distinct marks and softly erased transitions.",
+  "full_prompt_zh": "一幅方形近摄照片以一张正在绘制的炭笔中年男子肖像为中心，纸张白而带肌理。画中脸略向下，双眼半闭，眉间有深皱纹，强烈鼻形从厚重黑影中浮出。右侧画者的手持深色铅笔或炭条抵住嘴旁区域，正在为画加一条细边。纸斜放在工作面上，边缘粗糙撕裂，留有几处擦痕。图像模糊真实手与绘制面孔的边界：暖色活手指伸进单色石墨皮肤旁。炭笔明暗从未着色纸白，经柔哑中灰，到头发、面颊和颈部的近黑。细密定向笔痕描出皱纹与头发，宽阔磨擦段搭起更深脸部团块。侧光落在纸和手指上，照出凸起纸纹，让最暗区域显得柔哑且有粉感。构图裁切很紧，注意力落在眼、鼻、手和工具，而非完整画室。它亲密且关注过程，通过分明笔痕与轻柔擦除过渡呈现耐心观察。",
+  "style_prompt_en": "Charcoal drawing on textured paper uses a full matte grayscale, from untouched white through rubbed gray to velvety black. Fine directional lines define high-information contours; broad smudged passages build mass and soft transitions. Grain, erasure, and powdery residue remain visible. Side light reveals paper texture without adding glossy reflections. Tight framing emphasizes the meeting of precise marks and atmospheric shadow. Edges can be sharp along focal features and dissolve into rubbed darkness nearby. The result is intimate, observant, and materially handmade.",
+  "style_prompt_zh": "带纹纸上的炭笔画运用完整柔哑灰阶，从未着墨白，经磨擦灰，到绒黑。细密定向线界定信息量大的轮廓；宽阔涂抹建立体积和柔和过渡。纸颗粒、擦除和粉末残留保持可见。侧光显出纸纹，而不产生光洁反射。紧框突出准确笔痕与空气暗影的相遇。焦点特征沿边可锋利，邻近处却溶入擦出的深色。结果亲密、善观察且具有手工物质感。",
+  "theme_en": "A graphite-and-charcoal portrait being drawn by hand",
+  "theme_zh": "正在手绘中的石墨炭笔肖像",
+  "wh_ratio": "1:1",
+  "id": "4355",
+  "name": "Charcoal drawing",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/charcoal-drawing.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "de8c2487278cc42db47b388f34f6c82ff10d423ea6c05562208ae40d328a6c97",
+    "gpt_submission_prompt": "A square close-up photograph of an artwork in progress centers a charcoal portrait of a middle-aged man on textured white paper. The drawn face tilts slightly down, with eyes half closed, deep furrows around the brow, and a strong nose emerging from heavy black shadow. At the right, an artist's hand holds a dark pencil or charcoal stick against the area near the mouth, visibly adding a fine edge to the drawing. The paper sits diagonally on a work surface, with rough torn margins and a few smudges. The image blurs the boundary between the actual hand and the rendered face: warm living fingers enter beside monochrome graphite skin. Charcoal values range from pale untouched paper through velvety mid-gray to near-black in the hair, cheek, and neck. Fine directional strokes describe wrinkles and hair, while broad rubbed passages build the deeper facial masses. Side light falls across the paper and fingers, picking out raised grain and giving the darkest areas a matte, powdery look. The composition is tightly cropped, drawing attention to the eyes, nose, hand, and tool rather than a complete studio. Its effect is intimate and process-oriented, showing patient observation through distinct marks and softly erased transitions.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "12a15e23be46041eedd06533f0c43d4965d9ee746446c8bc3e655407ce8fa452",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

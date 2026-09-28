@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A staged cinematic photograph shows a curly-haired man leaning over a tabletop and studying a small sailboat placed in front of him. He wears a dark rust-red jacket and faces left in profile. Around him, a thick blue-grey sculpted opening curls inward like layered waves or folded paper, framing a miniature-looking street beyond. Warm ochre buildings stand on both sides of that narrow street, and several soft cloud shapes float against a pale blue sky. The tiny boat sits at the threshold between the man's ordinary table surface and the impossible city vista, giving the scene a handmade scale shift. The opening has visibly ridged, carved texture; the buildings and boat show many small assembled details. Light enters from the center background and skims across the man's face and hands, leaving the outer arch in cool shadow. A shallow focus softens objects close to the bottom edge, while the man and the little vessel remain clear. Cool teal and slate surround a warm orange-brown inner scene. The composition funnels the eye through the curved aperture toward the boat, then along the miniature street into depth, preserving the tactile seams and slight irregularities of a constructed set.",
+  "full_prompt_zh": "一幅摆拍感的电影式照片里，卷发男子俯在桌面上，观察眼前一艘小帆船。他穿深锈红色外套，侧脸朝左。厚实的蓝灰色雕塑洞口在身边像层叠海浪或折纸一样向内卷曲，框住后方看似微缩的街道。窄街两侧立着暖赭色建筑，几朵柔软的云形悬在浅蓝天空前。小船停在男子的日常桌面与不可能的城市景观交界处，让场景产生手工制作的尺度错位。洞口有可见的层层刻纹，建筑与船则带许多细小拼装细节。光从背景中央进入，掠过男子面部和双手，让外圈拱形保留冷色阴影。浅焦点使最下缘近物略柔，男子和小船保持清楚。冷青与石板色围着暖橙褐的内层景观。构图把目光沿弯曲洞口引向小船，再顺着微缩街道深入，同时保留搭景的接缝与细微不规则感。",
+  "style_prompt_en": "A staged photographic image makes practical miniature construction visible through carved ridges, assembled details, and slight material irregularity. An oversized curved foreground aperture encloses a smaller warm-toned spatial world, creating an abrupt but coherent scale shift. Cool teal and blue-grey shadows dominate the outer layers; ochre and rust midtones concentrate inside the opening. Directional light enters from the center distance, catching edges and producing gentle falloff around the thick frame. Near-edge blur and a clear middle plane guide focus without erasing the tactile set surfaces. Curving lines funnel inward against straighter receding forms, while a small finely detailed element occupies the threshold. The eye follows the nested frames toward a pale far opening, moving through distinct near, middle, and miniature distant layers.",
+  "style_prompt_zh": "摆拍摄影画面通过雕刻层纹、拼装细节和材料的轻微不规则，显出实体微缩搭景。巨大的弯曲前景洞口包住较小的暖色空间，让尺度突然转变却仍有内部连贯性。冷青与蓝灰阴影主导外层，赭色与锈红色中间调集中在开口内部。方向光从中央远处进入，照亮边缘，使厚重框架四周渐暗。近处边缘虚化与清楚的中景共同引导焦点，同时不抹去可触的搭景表面。弧线向内汇聚，对照向远处后退的较直形体；一小处细密结构落在两种空间门槛上。视线沿嵌套框架走向浅色远口，穿过明确的近层、中层与微缩远层。",
+  "theme_en": "A man at a table facing a tiny sailboat through a sculpted city opening",
+  "theme_zh": "男子隔着雕塑般城市洞口凝望桌上小帆船",
+  "wh_ratio": "1:1",
+  "id": "2865",
+  "name": "Michel Gondry",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/michel-gondry",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/michel-gondry.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "c1f7688f2764b593824a47b04550bc0a2ddd992c057f7b5ed64ae7017c3cc8b1",
+    "gpt_submission_prompt": "A staged cinematic photograph shows a curly-haired man leaning over a tabletop and studying a small sailboat placed in front of him. He wears a dark rust-red jacket and faces left in profile. Around him, a thick blue-grey sculpted opening curls inward like layered waves or folded paper, framing a miniature-looking street beyond. Warm ochre buildings stand on both sides of that narrow street, and several soft cloud shapes float against a pale blue sky. The tiny boat sits at the threshold between the man's ordinary table surface and the impossible city vista, giving the scene a handmade scale shift. The opening has visibly ridged, carved texture; the buildings and boat show many small assembled details. Light enters from the center background and skims across the man's face and hands, leaving the outer arch in cool shadow. A shallow focus softens objects close to the bottom edge, while the man and the little vessel remain clear. Cool teal and slate surround a warm orange-brown inner scene. The composition funnels the eye through the curved aperture toward the boat, then along the miniature street into depth, preserving the tactile seams and slight irregularities of a constructed set.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "cb05f019a12856c42b3189767bcf3742f7b14b8ae5b4ccf1c6d880cfdfb8cfeb",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

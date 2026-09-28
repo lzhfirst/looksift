@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white photographic portrait shows a woman seated against a dark plain background, looking upward and to the right. Her body is angled slightly left while her head turns into a clear side profile. Dark wavy hair is pinned back into a low shape, exposing the ear and a small round earring. She rests her chin on the knuckles of one hand; the forearm rises as a strong diagonal from the lower center to the face. A loose white button-front blouse with rolled sleeves fills much of the lower frame. The collar opens at the neck, and soft folds catch broad silver light across the shoulders and sleeves. Her gaze is attentive and distant, with a calm mouth and a subtle lift at the brow. The background is a charcoal wall with faint mottling but no visible furniture or setting. Light falls strongly from the upper right, making the forehead, nose ridge, cheek, raised hand, and white fabric luminous. The back of the hair, lower torso, and left edge fade into shadow. Fine photographic grain and gentle tonal gradation keep the pale skin natural rather than stark. The white blouse forms a low bright triangle beneath the more compact illuminated face. A large dark field around the head gives the profile room, while the hand creates a still point of contact. The portrait's restrained pose, clean value contrast, and empty background produce a thoughtful, unhurried mood.",
+  "full_prompt_zh": "一幅方形黑白摄影肖像呈现一位女子坐在深暗素背景前，目光向右上方。身体略朝左，头却转成清楚侧影。深色波浪发向后挽成低发髻，露出耳朵和小圆耳饰。她把下巴搁在一只手的指节上；前臂从下部中央斜升到脸旁。宽松白色排扣衬衫、卷起的袖子占画面下部大半。衣领在颈处打开，柔软褶皱在肩与袖上接住宽阔银光。她的目光专注而望远，嘴角平静，眉部略微扬起。背景是有淡斑驳的炭灰墙面，没有可见家具或场景。强光从右上落下，使额头、鼻梁、面颊、举起的手和白布发亮。后侧头发、下身和左缘消入阴影。细摄影颗粒与柔和明暗渐变让浅肤显得自然，而非刺眼。白衬衫在更紧凑的受光脸庞下形成低处明亮三角。头周围宽阔暗色域给侧面留空间，手则建立静止接触点。克制姿态、干净明度对照和空背景令肖像沉思而从容。",
+  "style_prompt_en": "A classic black-and-white photographic portrait uses a broad charcoal background to isolate one luminous side-lit form. A pale lower triangular mass is folded into soft silver-gray planes, while a compact upper focal area has precise highlights along a narrow projecting edge and a raised diagonal. Dark hairlike texture stays visible only where side light catches it; the far contours dissolve into shadow. Fine film grain and smooth tonal transitions temper the high contrast. The lighting is directional from one upper side, creating bright skin and fabric values but little environmental detail. Large negative space around the focal profile gives the composition a quiet, reflective tempo. A few simple diagonals balance the stable horizontal crop, and the limited grayscale palette keeps attention on light, pose, and subtle texture.",
+  "style_prompt_zh": "经典黑白摄影肖像以宽阔炭灰背景隔开一处受侧光照亮的形体。下方浅色三角团块被柔和银灰褶面分割，上部紧凑焦点则沿狭窄突出边缘和抬起的斜线带精确高光。深色发丝般肌理只在侧光接住时可见，远侧轮廓消入阴影。细胶片颗粒和平顺明暗过渡缓和高反差。光从上方一侧定向进入，使肌肤与布面明亮，却少有环境细节。焦点侧形周围大片负空间给构图安静、反思的节拍。少量简单斜线平衡稳定的水平裁切，有限灰阶让注意集中在光、姿态与细微肌理。",
+  "theme_en": "A woman in a white blouse resting her chin on her hand",
+  "theme_zh": "白衬衫女子托腮凝望一旁",
+  "wh_ratio": "1:1",
+  "id": "2202",
+  "name": "Eudora Welty",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/eudora-welty",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/eudora-welty.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "f815021cc9f2209b4a2ec0553da3d5ce036d2f68114deabb58538a92f0dbaa4f",
+    "gpt_submission_prompt": "A square black-and-white photographic portrait shows a woman seated against a dark plain background, looking upward and to the right. Her body is angled slightly left while her head turns into a clear side profile. Dark wavy hair is pinned back into a low shape, exposing the ear and a small round earring. She rests her chin on the knuckles of one hand; the forearm rises as a strong diagonal from the lower center to the face. A loose white button-front blouse with rolled sleeves fills much of the lower frame. The collar opens at the neck, and soft folds catch broad silver light across the shoulders and sleeves. Her gaze is attentive and distant, with a calm mouth and a subtle lift at the brow. The background is a charcoal wall with faint mottling but no visible furniture or setting. Light falls strongly from the upper right, making the forehead, nose ridge, cheek, raised hand, and white fabric luminous. The back of the hair, lower torso, and left edge fade into shadow. Fine photographic grain and gentle tonal gradation keep the pale skin natural rather than stark. The white blouse forms a low bright triangle beneath the more compact illuminated face. A large dark field around the head gives the profile room, while the hand creates a still point of contact. The portrait's restrained pose, clean value contrast, and empty background produce a thoughtful, unhurried mood.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "7f88f9dda7a8fe14c83de1d8034402fa5b8f4b442ee8e6e201ca68135b4a8eda",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

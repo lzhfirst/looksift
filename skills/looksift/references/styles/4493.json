@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square staged photographic portrait centers a fair-haired child facing forward against a muted sage-gray studio ground. Their pale blue-green eyes meet the camera directly, and their expression is solemn but gentle. A wide crown of mixed flowers and foliage wraps around the head: yellow daisies, cream blossoms, rust roses, small red berries, and green leaves form a lush uneven halo. Short blond hair peeks beneath it. A white lace-edged collar and dark vintage-style bodice fill the lower center, with brown straps crossing the shoulders. Two small birds perch symmetrically near the collar, one on each side, their tiny orange and brown markings distinct. The pose is perfectly still and frontal, with the head framed close enough to show freckles, petal edges, feathers, and fabric texture. Soft diffuse light from the front-left produces delicate skin modeling and subtle shadows beneath the flowers and birds. The colors are subdued, drawing attention to the organic crown and direct gaze rather than a bright backdrop. The image evokes an old painted portrait while remaining sharply photographic in detail. Its controlled symmetry, natural ornament, and quiet emotional distance create a strange, timeless atmosphere.",
+  "full_prompt_zh": "一张方形摆拍摄影肖像使一位浅发孩子正面面对镜头，背景为低调鼠尾草灰影棚色面。浅蓝绿色眼睛直视镜头，神情凝重却温柔。宽阔的花与叶组成的冠环绕头部：黄雏菊、奶油色花、锈色玫瑰、小红果与绿叶形成繁茂不齐的光环。短金发从花下露出。下方中央是白色蕾丝边领和深色复古式衣身，棕肩带跨过肩。两只小鸟对称停在领口附近，一侧一只，细小橙棕斑纹分明。姿势完全静止而正面，头部取景够近，能看见雀斑、花瓣边缘、羽毛与布料肌理。左前方柔和漫射光轻轻塑出肤色，并在花与鸟下留下细影。色彩压低，使注意力落在有机冠饰和直接目光，而非鲜亮背景。影像唤起古老绘画肖像，却在细节上保持锐利摄影性。受控对称、自然装饰与安静情感距离形成奇异而无时间感的氛围。",
+  "style_prompt_en": "Staged fine-art photography with centered near-symmetry, muted sage and earth colors, antique painted-portrait restraint, and sharp tactile organic detail. Soft frontal-side light models pale surfaces gently while dense natural ornament forms an irregular halo. A plain matte ground and still direct composition maintain quiet distance. Small living accents balance the central arrangement without turning it into spectacle.",
+  "style_prompt_zh": "摆拍艺术摄影，以居中近对称、低调鼠尾草色和土色、古典绘画肖像般的克制及锐利可触的有机细节构成。柔和正侧光轻轻塑造浅色表面，密集自然饰物形成不规则光环。纯净哑光背景与静止正面构图保持安静距离。细小生动重点平衡中央布置，却不变成炫技场面。",
+  "theme_en": "A child with a flower crown and two small birds",
+  "theme_zh": "戴花冠、肩上停着两只小鸟的孩子",
+  "wh_ratio": "1:1",
+  "id": "4493",
+  "name": "Frieke Janssens",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/frieke-janssens.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "50cd311f0aa781286a3d4ee907f1065de81deb070c6090115173329e286cb4da",
+    "gpt_submission_prompt": "A square staged photographic portrait centers a fair-haired child facing forward against a muted sage-gray studio ground. Their pale blue-green eyes meet the camera directly, and their expression is solemn but gentle. A wide crown of mixed flowers and foliage wraps around the head: yellow daisies, cream blossoms, rust roses, small red berries, and green leaves form a lush uneven halo. Short blond hair peeks beneath it. A white lace-edged collar and dark vintage-style bodice fill the lower center, with brown straps crossing the shoulders. Two small birds perch symmetrically near the collar, one on each side, their tiny orange and brown markings distinct. The pose is perfectly still and frontal, with the head framed close enough to show freckles, petal edges, feathers, and fabric texture. Soft diffuse light from the front-left produces delicate skin modeling and subtle shadows beneath the flowers and birds. The colors are subdued, drawing attention to the organic crown and direct gaze rather than a bright backdrop. The image evokes an old painted portrait while remaining sharply photographic in detail. Its controlled symmetry, natural ornament, and quiet emotional distance create a strange, timeless atmosphere.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "2491c3da80af955df731a33452181412ec3129857ecd533b10e4e625e30801f2",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

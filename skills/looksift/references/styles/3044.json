@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square monochrome engraved scene shows a small crowded boat crossing rough water beneath a distant shaft of light, with a dark castle on the left shore. The sea fills the lower two thirds of the frame, its waves built from dense curved white lines against charcoal shadow. Near the lower center, the boat rises on a swell, its black hull sharply outlined while small seated figures form a clustered silhouette inside. A few oars or narrow poles project from the craft into the white water. On the far left, steep rocky cliffs rise above the waves, and a castle-like mass with tall square towers stands on the ridge. Its dark architecture remains almost silhouetted against the murky sky. The shoreline narrows toward a low pale horizon near the center-right, beyond which water and atmosphere appear to merge. Overhead, a thick cloud ceiling occupies the upper frame, its underside described by countless fine crosshatched marks. Near the upper center-left, a small opening in the clouds emits a bright column that falls toward the distant water. The beam makes the center of the sea glow silver while the cliffs and upper corners remain close to black. Fine engraved lines organize every surface: short curling strokes for foam, vertical marks for the light, and dense parallel hatching for rock and cloud. The viewpoint is low and wide, making the tiny vessel feel exposed to both weather and the looming shore. The overall composition balances a deep black land mass and cloud vault against one luminous passage, giving the journey a solemn, dramatic scale.",
+  "full_prompt_zh": "这幅方形单色版画场景呈现一艘挤满人的小船穿过汹涌水面，远处一道光束落下，左岸立着深色城堡。海占据下方三分之二，波浪由密集弯曲白线在炭黑阴影前构成。下方中央附近，小船在浪尖抬起，黑船身轮廓锐利，船内几个坐姿人物结成一簇剪影。几支桨或细杆从船伸入白浪。最左侧陡岩崖从浪上升起，一组带高方塔的城堡形体立在山脊上。深暗建筑在阴沉天空前几乎成为剪影。岸线向中央偏右附近低浅地平线收窄，远处水与空气似乎相融。头顶厚云层占上半幅，云底由无数细交叉排线描出。上方偏左的云间有一处小开口，放出一道明亮光柱，落向远水。光束让海中央银亮，崖壁与上角则保持近黑。精细刻线组织每种表面：短卷线描泡沫，竖线描光，密平行排线描岩石和云。视点低而宽，使小船在天气与逼近岸壁前显得暴露。整体构图以深黑陆地和云穹平衡唯一发亮通路，让旅程具有庄严戏剧尺度。",
+  "style_prompt_en": "The monochrome engraving creates depth through dense hatching, crosshatching, and finely reserved white lines. Charcoal and near-black masses enclose a concentrated silver-white opening, making light the main structural force. Curved short marks give moving areas texture, while long parallel strokes and dark layered recesses build weight elsewhere. Edges stay sharply drawn near the focal passage and dissolve into packed linework at the margins. The composition uses a wide low vantage, small dark accents, and a dominant light beam to produce monumental drama. The printed surface feels intricate and tactile rather than smooth.",
+  "style_prompt_zh": "这种单色版画通过密排线、交叉排线和精细留白线建立纵深。炭灰与近黑色块围住集中的银白开口，让光成为主要结构力量。短弯线赋予运动区域肌理，长平行线和深暗层叠凹处则在别处建立重量。焦点通路附近边缘锐利，边缘地带逐渐消入密线。构图使用低而宽的视点、小型深色重音和占主导的光束制造宏大戏剧性。印刷表面细密可触，而非平滑。",
+  "theme_en": "A small boat on stormy water beneath a beam of light near dark cliffs",
+  "theme_zh": "小船在暗崖旁的风浪中行进，头顶一道光束落下",
+  "wh_ratio": "1:1",
+  "id": "3044",
+  "name": "Gustave Dore",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/gustave-dore",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "9d943f7bbd4d4d241dbc42f794749a48fc61de7ea6542f58c8a5966fcf8da075",
+    "gpt_submission_prompt": "A square monochrome engraved scene shows a small crowded boat crossing rough water beneath a distant shaft of light, with a dark castle on the left shore. The sea fills the lower two thirds of the frame, its waves built from dense curved white lines against charcoal shadow. Near the lower center, the boat rises on a swell, its black hull sharply outlined while small seated figures form a clustered silhouette inside. A few oars or narrow poles project from the craft into the white water. On the far left, steep rocky cliffs rise above the waves, and a castle-like mass with tall square towers stands on the ridge. Its dark architecture remains almost silhouetted against the murky sky. The shoreline narrows toward a low pale horizon near the center-right, beyond which water and atmosphere appear to merge. Overhead, a thick cloud ceiling occupies the upper frame, its underside described by countless fine crosshatched marks. Near the upper center-left, a small opening in the clouds emits a bright column that falls toward the distant water. The beam makes the center of the sea glow silver while the cliffs and upper corners remain close to black. Fine engraved lines organize every surface: short curling strokes for foam, vertical marks for the light, and dense parallel hatching for rock and cloud. The viewpoint is low and wide, making the tiny vessel feel exposed to both weather and the looming shore. The overall composition balances a deep black land mass and cloud vault against one luminous passage, giving the journey a solemn, dramatic scale.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "31ff83dcc4068e8d8cab476f7b0fa40a4b7800bc258330695659437e11da574f",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

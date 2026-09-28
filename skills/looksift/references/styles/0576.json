@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square hand-drawn comic illustration shows an elderly traveler in rusty red clothing resting on a dark case or low block, with a small pale dog beside him. The warm ochre background resembles worn paper, its margins crowded by rough brown stones and loose dark marks. The traveler occupies the center, leaning back with one boot lifted and the other foot planted near the lower-left edge. His long gray beard and mustache frame a narrow animated face under a battered brimmed hat decorated with small objects. A pipe extends from his raised left hand, and a billowing white cloud of smoke coils above it toward the upper-left corner. His other hand rests near a walking stick or long narrow tool at his side. The red-brown jacket and trousers are creased with dense black hatching and touches of orange highlight. At the lower right, a pale dog sits upright against a rounded purple-gray object with circular markings, looking up toward the man. A small yellow vessel lies in the foreground near his boots, and bits of broken ground spread across the bottom. Fine pen lines trace beard hairs, fabric folds and scattered debris, while transparent amber washes give the larger shapes warmth. Light is diffuse and golden across the page, with darker ink pools beneath the traveler and in the stone-framed corners. The overall composition feels humorous and weathered, balancing the relaxed figure and curling smoke against a compact ring of traveling objects and rough texture.",
+  "full_prompt_zh": "这幅方形手绘漫画插画里，一位穿锈红衣服的年长旅人坐在深色箱子或矮块上休息，旁边有一只浅色小狗。暖赭黄背景像磨旧纸张，边缘挤着粗褐石块和松散深色痕迹。旅人位于中央，身体后仰，一只靴子抬起，另一只脚踏在左下边缘附近。长长的灰胡须和小胡子围住一张狭长而生动的脸，头戴装饰着小物件的磨旧宽檐帽。他抬起的左手伸出一支烟斗，一团鼓胀白烟在上方盘旋，飘向左上角。另一只手放在身旁的手杖或细长工具附近。红褐色外套和裤子由密集黑排线与橙色亮笔刻出褶皱。右下方，一只浅色狗靠着带圆纹的紫灰色圆物直坐，向男子仰望。靴旁前景有一只小黄容器，碎裂地面的小块散在底部。细钢笔线描写胡须、衣褶和碎屑，透明琥珀色色层给大形体带来暖意。金色漫射光铺过纸页，较深墨色积在旅人下方和石块围成的角落。整体构图幽默而磨旧，使放松的人物与盘卷烟雾，同紧凑的旅行物件和粗糙肌理取得平衡。",
+  "style_prompt_en": "The comic drawing combines agile black pen contours, close hatching and warm transparent washes over an aged cream ground. Rust red, amber and ochre dominate, with a small cool gray-violet counterweight. Details have a loose, slightly caricatured line that can describe texture densely without stiffening the larger silhouette. White openings and curls interrupt the earthy mass, directing attention through the upper part of the frame. Diffuse warm illumination leaves deep ink only in recesses and under overlaps; there are few hard natural shadows. Rough borders and scattered marks give the page a traveled, handmade character, while the central arrangement stays lively and readable.",
+  "style_prompt_zh": "这种漫画线稿把灵活黑钢笔轮廓、密排线与透明暖色色层放在旧奶油色底上。锈红、琥珀与赭黄占主导，少量冷灰紫作平衡。细节带松动、略漫画化的线条，可密集描出肌理而不使大剪影僵硬。白色留口与卷曲线打断土色量块，把注意力引向画幅上部。漫射暖光让深墨只积在凹处和重叠下方，几乎没有硬的自然投影。粗糙边界与散点给画页带来历经风尘的手工性格，中央排列仍活泼可读。",
+  "theme_en": "A bearded old traveler smoking a pipe beside a small dog",
+  "theme_zh": "留胡子的年长旅人叼着烟斗，身旁坐着小狗",
+  "wh_ratio": "1:1",
+  "id": "0576",
+  "name": "Gilbert Shelton",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/gilbert-shelton",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/gilbert-shelton.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "8b8b607fbac086efe5e815cdd31ad4b721899e6dd7961486fea960e2f352c2cd",
+    "gpt_submission_prompt": "A square hand-drawn comic illustration shows an elderly traveler in rusty red clothing resting on a dark case or low block, with a small pale dog beside him. The warm ochre background resembles worn paper, its margins crowded by rough brown stones and loose dark marks. The traveler occupies the center, leaning back with one boot lifted and the other foot planted near the lower-left edge. His long gray beard and mustache frame a narrow animated face under a battered brimmed hat decorated with small objects. A pipe extends from his raised left hand, and a billowing white cloud of smoke coils above it toward the upper-left corner. His other hand rests near a walking stick or long narrow tool at his side. The red-brown jacket and trousers are creased with dense black hatching and touches of orange highlight. At the lower right, a pale dog sits upright against a rounded purple-gray object with circular markings, looking up toward the man. A small yellow vessel lies in the foreground near his boots, and bits of broken ground spread across the bottom. Fine pen lines trace beard hairs, fabric folds and scattered debris, while transparent amber washes give the larger shapes warmth. Light is diffuse and golden across the page, with darker ink pools beneath the traveler and in the stone-framed corners. The overall composition feels humorous and weathered, balancing the relaxed figure and curling smoke against a compact ring of traveling objects and rough texture.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "f9d808390e0704b5182cab74839e3b2f6fcff5610e08937d040781c14f0c41b5",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

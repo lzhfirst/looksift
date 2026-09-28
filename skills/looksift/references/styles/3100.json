@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A retro-futurist night scene places a lone traveler in the middle of an empty wet road, facing an oversized yellow-orange sun at the horizon. The dark figure stands as a simple silhouette, small enough to leave the luminous circle as the clear focus. Deep navy sky fades through violet to intense magenta along the horizon. Palm silhouettes cluster at the left edge, while utility poles and thin cables cross the upper and middle distance, giving the otherwise fantastic color field a familiar roadside structure. The road begins as a broad near-black foreground and narrows toward the sun; straight painted lines and bright reflected streaks pull the eye inward. Pink, orange, cyan, and electric blue glints break across the puddled surface, with one saturated reflection near the lower center. Most forms are sharply graphic, but the glow around the sun and horizon is softly diffused, creating a haze of color. Backlight leaves the traveler completely dark and gives distant low forms a thin rim of brightness. The composition is almost symmetrical but is weighted by the palms on the left and a high pole on the right. Large simple masses, sparse roadside detail, and luminous wet texture make the frame feel cinematic and nostalgic, as though a remembered future were compressed into one quiet pause.",
+  "full_prompt_zh": "一幅复古未来主义夜景把独行者放在空旷湿路的中央，面向地平线上一轮巨大的黄橙色太阳。深暗人物呈简洁剪影，尺度很小，使发光圆盘成为明确焦点。深海军蓝天空经过紫罗兰色，渐变为地平线附近的强烈洋红。棕榈树剪影集中在左边，电线杆与细电缆横穿上方和中景，为幻想般的色域提供熟悉的路边结构。道路从大片近黑前景开始，向太阳收窄；直直的路面标线与明亮倒影把目光引向深处。粉色、橙色、青色和电蓝色微光在积水表面破碎，一块饱和倒影落在下方中心。大部分形体图形化而锐利，但太阳与地平线周围的光晕柔和散开，形成彩色薄雾。逆光让旅人完全深暗，并给远处低矮形状镶上一线亮边。构图接近对称，但左侧棕榈与右侧高电线杆形成轻微配重。大而简洁的色块、稀少的路边细节与发光的湿地质感使画幅具有电影感和怀旧气息，像把记忆中的未来凝在一个安静停顿里。",
+  "style_prompt_en": "A retro-futurist digital image built around a huge glowing yellow-orange circle against a navy-to-violet-to-magenta gradient. Near-black silhouettes and thin linear marks cross the middle distance. A dark lower plane narrows toward the horizon, carrying long electric pink and cyan reflections. Forms are mostly crisp and simplified; saturated light blooms softly at the central glow and along wet highlights. Sparse verticals at the edges offset a nearly symmetrical composition. Large color fields and a few bright streaks create a spacious, nostalgic rhythm.",
+  "style_prompt_zh": "一幅复古未来主义数字画面，以深海军蓝到紫罗兰、洋红的渐变衬托巨大的黄橙发光圆盘。近黑剪影与纤细线状痕迹横穿中景。深暗的下方平面向地平线收窄，带着细长的电粉与青色倒影。形体大多清晰简化；饱和亮光只在中心光源和湿润高光处柔软晕开。边缘稀疏的竖线平衡近乎对称的构图。大面积色域与少数明亮光带形成疏朗、怀旧的节奏。",
+  "theme_en": "A lone traveler facing an oversized neon sunset",
+  "theme_zh": "独行者面对巨大的霓虹落日",
+  "wh_ratio": "1:1",
+  "id": "3100",
+  "name": "Synthwave",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/synthwave",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "da296b57ebaa50eb1b576a6213d7dea6c7c63b51ab69b7e656de2930f6d7f32f",
+    "gpt_submission_prompt": "A retro-futurist night scene places a lone traveler in the middle of an empty wet road, facing an oversized yellow-orange sun at the horizon. The dark figure stands as a simple silhouette, small enough to leave the luminous circle as the clear focus. Deep navy sky fades through violet to intense magenta along the horizon. Palm silhouettes cluster at the left edge, while utility poles and thin cables cross the upper and middle distance, giving the otherwise fantastic color field a familiar roadside structure. The road begins as a broad near-black foreground and narrows toward the sun; straight painted lines and bright reflected streaks pull the eye inward. Pink, orange, cyan, and electric blue glints break across the puddled surface, with one saturated reflection near the lower center. Most forms are sharply graphic, but the glow around the sun and horizon is softly diffused, creating a haze of color. Backlight leaves the traveler completely dark and gives distant low forms a thin rim of brightness. The composition is almost symmetrical but is weighted by the palms on the left and a high pole on the right. Large simple masses, sparse roadside detail, and luminous wet texture make the frame feel cinematic and nostalgic, as though a remembered future were compressed into one quiet pause.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "42693870130210b13b1bf0b54c135322b907726d8fc7d79a335620a753f6b884",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

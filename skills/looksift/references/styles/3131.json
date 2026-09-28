@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A small, sunlit room opens toward a bright window at the back. An open turquoise door divides the space, and beyond it a yellow sill holds a vase of red flowers. In the foreground, a dark wooden table carries a few cups and another pot of greenery; mismatched chairs stand around it. A pale cat sits by the left wall, almost swallowed by the colored floor. Mint green walls, coral and rose marks on the rug, a block of red upholstery, and patches of yellow sunlight make the interior feel lived in and warm. The room is empty of people, yet its objects suggest a recent pause in the day.\n\nThe painting relies on broad, lively color patches and short visible strokes rather than exact architectural drawing. Edges quiver a little where one color meets another, while strong verticals of doors and window frames hold the composition together. Light from the rear window is intense but diffuse, flattening some areas into glowing color and leaving furniture as simpler dark silhouettes. Greens and turquoise dominate; coral red, pink, and ochre provide a patterned pulse across the lower half. The surface has a matte, worked-in quality, with thick and thin marks appearing side by side. The slightly tilted, intimate viewpoint and the decorative rhythm of the floor and wall have a softly painted finish. No readable text appears.",
+  "full_prompt_zh": "一间小小的阳光房间通向后方明亮的窗。敞开的青绿色门把空间分开，门后的黄色窗台上放着一瓶红花。前景的深色木桌摆了几只杯子和另一盆绿植，式样不一的椅子立在周围。一只浅色猫坐在左墙边，几乎融进彩色地面。薄荷绿墙壁、地毯上的珊瑚红与玫红痕迹、一块红色软垫，以及成片黄色日光，使室内显得有人居住且温暖。房间里没有人，但物件暗示一天之中刚刚暂停的一刻。\n\n画面依赖宽阔而活泼的色块与可见的短笔触，而非精确的建筑制图。颜色相接处的边缘微微颤动，门与窗框的强垂线则稳住构图。来自后窗的光强烈而散漫，把一些区域压成发亮的颜色，让家具成为较简单的暗色剪影。绿色和青绿占主导，珊瑚红、粉红与赭黄在下半幅形成有图案感的脉动。表面呈哑光而反复涂抹的质感，厚薄笔痕并列出现。稍有倾斜的亲密视角以及地板和墙面的装饰节奏具有柔和的绘画表面。没有可辨认文字。",
+  "style_prompt_en": "Broad, lively patches of mint, turquoise, yellow, coral, and rose build an intimate interior of color rather than exact geometry. Short visible strokes make edges tremble slightly, while a few firm verticals stabilize the composition. Light spreads from a bright rear opening, turning some planes into glowing flat color and simplifying darker objects into silhouettes. Matte painted texture remains evident across walls and patterned lower space, with thick and thin marks side by side. Repeated warm accents create a decorative pulse against dominant cool greens. The viewpoint feels close and a little tilted, giving ordinary forms an affectionate, lived-in energy. Detail is selective and painterly, with no hard photoreal finish.",
+  "style_prompt_zh": "薄荷绿、青绿、黄色、珊瑚红与玫红的大块活泼笔色，组成亲密的色彩空间，而非精确几何。短促可见的笔触令边缘微微颤动，少数坚实的垂线则稳住构图。光从后方明亮开口铺散进来，把一些平面变成发亮的平涂颜色，并将较暗的物件简化为剪影。墙面和下方带图案的区域都保留哑光绘画纹理，厚薄痕迹相邻。重复的暖色点在主导的冷绿色之中形成装饰性的脉动。视角贴近且稍有倾斜，令寻常形状带有亲切、有人生活过的活力。细节有所选择并始终保有画意，不作生硬的摄影式收尾。",
+  "theme_en": "A sunlit room waiting quietly at midday",
+  "theme_zh": "正午静候阳光的房间",
+  "wh_ratio": "1:1",
+  "id": "3131",
+  "name": "Cuno Amiet",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/cuno-amiet",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "94f2829d5fec5b8932b42e5d029ee73e612349e7c50a7f889d20f6efc13f1347",
+    "gpt_submission_prompt": "A small, sunlit room opens toward a bright window at the back. An open turquoise door divides the space, and beyond it a yellow sill holds a vase of red flowers. In the foreground, a dark wooden table carries a few cups and another pot of greenery; mismatched chairs stand around it. A pale cat sits by the left wall, almost swallowed by the colored floor. Mint green walls, coral and rose marks on the rug, a block of red upholstery, and patches of yellow sunlight make the interior feel lived in and warm. The room is empty of people, yet its objects suggest a recent pause in the day.\n\nThe painting relies on broad, lively color patches and short visible strokes rather than exact architectural drawing. Edges quiver a little where one color meets another, while strong verticals of doors and window frames hold the composition together. Light from the rear window is intense but diffuse, flattening some areas into glowing color and leaving furniture as simpler dark silhouettes. Greens and turquoise dominate; coral red, pink, and ochre provide a patterned pulse across the lower half. The surface has a matte, worked-in quality, with thick and thin marks appearing side by side. The slightly tilted, intimate viewpoint and the decorative rhythm of the floor and wall have a softly painted finish. No readable text appears.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "eefc856f481dc25b466d53451ab92a3f98527f8bab5cdfd9459d89cb9d937680",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

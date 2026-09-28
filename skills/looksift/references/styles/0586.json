@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square conceptual video-still image places a small rectangular view of a beach within a wide, almost pure black border. The inner picture sits slightly above center and extends across most of the middle width, leaving especially deep black below and at both sides. Inside the inset, a pale blue sky meets a silvery sea at a low horizon. A cloud rises near the upper-left corner, and a faint vertical band of rainbow-like color descends from the sky near the center-right. The water glitters in a bright horizontal strip, with small waves arriving at the shore on the right. Several tiny dark people stand or walk along the damp beach in the lower part of the inset. Their silhouettes are distant and reduced to upright marks against the reflecting water. On the far left, a row of low shoreline structures and poles fades toward the horizon. The beach view is interrupted by narrow horizontal bars and broader translucent color bands, some darker brown, blue or pale green, as if the image were recorded through an aging screen or layered film. These straight lines divide the natural scene without aligning to the waves. Light comes from the bright sky and reflected sea, leaving the people as near-black silhouettes. Fine grain and slight softness make the footage feel archival rather than newly polished. The overall composition contrasts a luminous distant coast with a large surrounding void and mechanical stripes, producing a reflective, mediated sense of observation.",
+  "full_prompt_zh": "这幅方形观念影像截图把一块小矩形海滩景放在宽阔、近乎纯黑的边框内。内图稍高于中央，横贯中部大半宽度，在下方及两侧留下尤其深的黑色。内图中浅蓝天空在较低地平线处接上银色海面。左上附近升起一团云，中央偏右有一道淡淡的彩虹状竖色带从天空落下。水面形成明亮横向闪光带，小浪在右侧抵达岸边。几位很小的深色人物站在或走过内图下方湿润海滩。他们十分遥远，在反光水面前缩成直立标记。最左侧，一列低矮岸边结构与杆子向地平线淡去。海滩景被窄横条与更宽的半透明色带打断，有些偏深褐、蓝或浅绿，仿佛图像经过旧屏幕或叠层胶片记录。这些直线切割自然场景，却不与波浪对齐。光来自明亮天空与反光海面，让人物近似黑剪影。细颗粒与轻微柔化使影像具有档案感，而非新近抛光。整体构图让发亮的远处海岸同周围巨大虚空、机械条纹对照，形成经过媒介间隔的沉思式观看。",
+  "style_prompt_en": "The experimental moving-image aesthetic places a softly grained luminous rectangle within extensive black negative space. Muted blue, silver and pale green are crossed by hard horizontal bands of varying opacity, so the image reads as both scene and mediated signal. Small dark marks gain force against wide reflective light, while detail dissolves toward the horizon. The brightest area is contained inside the inset; surrounding black remains absolute and unmodeled. Fine film or screen grain, slight blur and interrupted color produce an archival texture. The contrast of mechanical stripes with atmospheric depth creates a cool, contemplative visual rhythm.",
+  "style_prompt_zh": "这种实验影像美学把带柔颗粒的明亮矩形置于广阔黑色负空间内。压低的蓝、银与浅绿被不同透明度的硬横带穿过，使画面同时像场景与被媒介处理的信号。细小深色标记在宽阔反光前获得力量，细节向地平线融散。最亮区域被关在内框之中，周围黑色保持绝对而无塑形。细胶片或屏幕颗粒、轻微模糊和中断的颜色产生档案肌理。机械条纹与空气纵深的对照构成清冷、沉思的视觉节奏。",
+  "theme_en": "A small beach film still crossed by horizontal scan bands in a black frame",
+  "theme_zh": "黑色画框中，一幅海滩影片画面被横向扫描色带穿过",
+  "wh_ratio": "1:1",
+  "id": "0586",
+  "name": "Harun Farocki",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/harun-farocki",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/harun-farocki.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "00b94d2f8b3d71ba7d51f248ed6f565d61171db2554becd67e26b4b806f4fae5",
+    "gpt_submission_prompt": "A square conceptual video-still image places a small rectangular view of a beach within a wide, almost pure black border. The inner picture sits slightly above center and extends across most of the middle width, leaving especially deep black below and at both sides. Inside the inset, a pale blue sky meets a silvery sea at a low horizon. A cloud rises near the upper-left corner, and a faint vertical band of rainbow-like color descends from the sky near the center-right. The water glitters in a bright horizontal strip, with small waves arriving at the shore on the right. Several tiny dark people stand or walk along the damp beach in the lower part of the inset. Their silhouettes are distant and reduced to upright marks against the reflecting water. On the far left, a row of low shoreline structures and poles fades toward the horizon. The beach view is interrupted by narrow horizontal bars and broader translucent color bands, some darker brown, blue or pale green, as if the image were recorded through an aging screen or layered film. These straight lines divide the natural scene without aligning to the waves. Light comes from the bright sky and reflected sea, leaving the people as near-black silhouettes. Fine grain and slight softness make the footage feel archival rather than newly polished. The overall composition contrasts a luminous distant coast with a large surrounding void and mechanical stripes, producing a reflective, mediated sense of observation.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "9ec20b2c1b5a05247fe2026135ede711f4f474f83e628213717b0ac7c52d5d1a",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

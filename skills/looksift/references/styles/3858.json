@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square minimalist landscape photograph shows a single leafless tree standing on a wide snow-covered plain beneath an overcast sky. The tree sits slightly left of center, very small compared with the surrounding open space. A slender dark trunk rises from a narrow patch of exposed ground, then divides into many fine branches that form a loose rounded crown. The branches are individually visible against the pale upper background, with no leaves or other trees nearby. A low horizon crosses the picture a little below the middle, separating flat white snow from a softly layered gray-blue sky. Near the horizon, a faint warm pink band runs behind the tree and fades toward both sides. Higher up, thicker cloud masses gather in cool slate and blue-gray, though their edges remain diffuse. The snow in the foreground is not perfectly blank: very subtle specks, low uneven patches, and soft tonal shifts give it physical texture without breaking its calm surface. There are no footprints, buildings, people, or readable signs in the selected image. The camera stands at a level viewpoint, letting the tree mark the immense horizontal distance. Natural light is broad and shadowless under the clouds, with the pale snow acting as a large reflector and the dark tree carrying nearly all of the contrast. The colors are restrained to cold white, misty blue-gray, soft charcoal, and a whisper of rose near the horizon. The overall composition is spare and quiet, using one small branching form and generous negative space to make the winter landscape feel expansive.",
+  "full_prompt_zh": "这幅方形极简风景照片呈现一棵落叶孤树立在宽阔雪原上，头顶是阴云。树位于中央稍偏左处，相比周围开放空间显得很小。细深树干从一块狭窄裸地升起，随后分出许多细枝，形成松散圆树冠。每根枝条在浅色上部背景前可辨，没有树叶，也没有附近其他树。一条低地平线在画面中部稍下方横过，把平坦白雪与柔和层叠灰蓝天空分开。地平线附近，一条淡暖粉色带穿过树后，向两侧渐褪。更高处，较厚云团聚成冷石板色和蓝灰色，边缘仍漫散。前景积雪并非完全空白：极淡斑点、低矮不平处和柔和明暗变化赋予实体肌理，却不打断平静表面。所选图里没有脚印、建筑、人物或可读标牌。相机处于平视，让树标记巨大的水平距离。阴云下自然光宽阔且近乎无影，浅雪像巨型反光板，深色树承担几乎全部反差。颜色克制在冷白、雾蓝灰、柔炭色和地平线边一丝玫瑰色。整体构图简少而安静，以一个小小分枝形体与宽裕负空间让冬景显得辽阔。",
+  "style_prompt_en": "Minimalist landscape photography uses a very low horizon, broad pale fields, and one small dark branching accent to establish scale. Cool white, misty blue-gray, charcoal, and barely visible blush stay close in value except at the focal silhouette. Diffuse overcast light removes strong cast shadows and lets subtle ground texture emerge slowly. Edges are crisp where the dark form meets open air, while cloud layers and distant surfaces soften into haze. Generous negative space creates calm and a strong sense of weather. The overall effect is quiet, spacious, and restrained.",
+  "style_prompt_zh": "极简风景摄影以很低的地平线、宽阔浅色域和一个小深色分枝强调建立尺度。冷白、雾蓝灰、炭色和几乎不可见的胭脂色明度接近，只有焦点剪影例外。漫射阴天光消除强投影，让细微地面肌理缓慢显现。深形与开放空气相接处边缘清晰，云层和远方表面则柔化进薄雾。宽裕负空间形成平静与强烈天气感。整体安静、宽阔且克制。",
+  "theme_en": "A lone leafless tree on an open snow-covered plain",
+  "theme_zh": "一棵落叶孤树立于开阔雪原",
+  "wh_ratio": "1:1",
+  "id": "3858",
+  "name": "Akos Major",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/akos-major",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "678c6d900ccbc2118128d70248c664597618fd57fefa2a023b8b11348311e597",
+    "gpt_submission_prompt": "A square minimalist landscape photograph shows a single leafless tree standing on a wide snow-covered plain beneath an overcast sky. The tree sits slightly left of center, very small compared with the surrounding open space. A slender dark trunk rises from a narrow patch of exposed ground, then divides into many fine branches that form a loose rounded crown. The branches are individually visible against the pale upper background, with no leaves or other trees nearby. A low horizon crosses the picture a little below the middle, separating flat white snow from a softly layered gray-blue sky. Near the horizon, a faint warm pink band runs behind the tree and fades toward both sides. Higher up, thicker cloud masses gather in cool slate and blue-gray, though their edges remain diffuse. The snow in the foreground is not perfectly blank: very subtle specks, low uneven patches, and soft tonal shifts give it physical texture without breaking its calm surface. There are no footprints, buildings, people, or readable signs in the selected image. The camera stands at a level viewpoint, letting the tree mark the immense horizontal distance. Natural light is broad and shadowless under the clouds, with the pale snow acting as a large reflector and the dark tree carrying nearly all of the contrast. The colors are restrained to cold white, misty blue-gray, soft charcoal, and a whisper of rose near the horizon. The overall composition is spare and quiet, using one small branching form and generous negative space to make the winter landscape feel expansive.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "d132f9e7840d54b8c6095190d8e77069e55a21f299999d12f038c5f14330a0c4",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

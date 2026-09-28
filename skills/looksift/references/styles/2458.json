@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square quietly surreal painting shows a lone person at a warmly lit doorway in a dark blue street wall. The facade fills the whole upper frame, broad and almost empty, its faded blue-gray plaster scattered with small stains and marks. Near the center, a tall black door sits beneath a simple triangular pediment. A rectangular window above the entrance shines creamy yellow, making the opening the brightest point in the scene. The person stands directly before the dark doorway with back to the viewer, wearing a long pale beige coat that falls below the knees. A small red-orange bag hangs at one side. On the left, another bright window is cropped by the image edge; on the right, a narrow darker window and a tiny ledge holding several small objects interrupt the wall. The lower band is a pale stone sidewalk above an almost black road, with a few tiny pale marks near the curb. The wall's surface is softly mottled, but the windows and door frame have straight, controlled edges. The figure remains still and anonymous, dwarfed by the wide blank wall around it. Warm interior light comes through the two windows, while the exterior is lit by subdued evening ambient light, leaving long areas of blue-gray and charcoal shadow. No readable signs or lettering appear. The overall composition is sparse and contemplative, letting one pale figure and two warm rectangles quietly puncture a large cool facade.",
+  "full_prompt_zh": "这是一幅方形安静而略超现实的绘画，一位孤身人物站在深蓝街墙上一处暖光门口。建筑立面填满上方，宽阔而几乎空白，褪色蓝灰灰泥散着小污痕和斑点。靠近中央，一扇高黑门位于简洁三角门楣之下。门上方矩形窗泛出奶油黄光，使入口成为全景最亮处。人物背向观者直接站在深色门前，穿长而浅米色外套，衣摆落至膝下。一只小红橙包挂在身侧。左边另一扇亮窗被画边裁去；右边一扇更窄的深窗和摆着少量小物件的细台面打断墙面。下方是浅石色人行道，下面接近黑的路面，路缘附近只有几处细小浅痕。墙面柔和斑驳，但窗与门框有受控直边。人物静止而匿名，被周围宽大的空墙衬得很小。暖室内光透过两扇窗，室外则受低调傍晚环境光照亮，留出长片蓝灰和炭色阴影。没有可读标牌或文字。整体构图稀疏而沉思，让一个浅色人影与两个暖色矩形安静地刺入大片冷色立面。",
+  "style_prompt_en": "The painting uses restrained magical realism and a sparse arrangement of broad cool planes. Faded blue-gray, charcoal, and muted stone colors occupy most of the surface, interrupted by small rectangles of warm yellow and a tiny red-orange accent. Soft mottling and fine worn marks give the walllike fields tactile age, while doors and windowlike openings retain clear straight edges. A solitary light vertical shape can anchor generous negative space without disrupting the calm symmetry. Low evening ambient light keeps exterior shadows broad and soft; concentrated interior glow supplies the strongest value contrast. The scene feels still, slightly uncanny, and emotionally distant through its measured scale and emptiness.",
+  "style_prompt_zh": "这种绘画运用克制的魔幻现实主义与宽阔冷色平面的稀疏安排。褪色蓝灰、炭色和低调石色占据大部分表面，被小片暖黄矩形与一处极小红橙强调打断。柔和斑驳和细微磨痕赋予墙状色域可触的陈旧感，门窗般开口则保留清楚直边。孤独的浅色竖向形体可稳住宽裕负空间，却不打乱安静对称。低调傍晚环境光让外部阴影宽而柔，集中的室内光提供最强明度对比。场景借助有度的尺度与空旷显得静止、略微怪诞且情感疏离。",
+  "theme_en": "A lone person at a warmly lit doorway on a dark blue street",
+  "theme_zh": "深蓝街道上，一人站在暖光门口",
+  "wh_ratio": "1:1",
+  "id": "2458",
+  "name": "Michael Sowa",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/michael-sowa",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/michael-sowa.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "e544aa1a6a22f752e891d101c6ae7dd0cc503210f0eec434a63fa6064df3d52c",
+    "gpt_submission_prompt": "A square quietly surreal painting shows a lone person at a warmly lit doorway in a dark blue street wall. The facade fills the whole upper frame, broad and almost empty, its faded blue-gray plaster scattered with small stains and marks. Near the center, a tall black door sits beneath a simple triangular pediment. A rectangular window above the entrance shines creamy yellow, making the opening the brightest point in the scene. The person stands directly before the dark doorway with back to the viewer, wearing a long pale beige coat that falls below the knees. A small red-orange bag hangs at one side. On the left, another bright window is cropped by the image edge; on the right, a narrow darker window and a tiny ledge holding several small objects interrupt the wall. The lower band is a pale stone sidewalk above an almost black road, with a few tiny pale marks near the curb. The wall's surface is softly mottled, but the windows and door frame have straight, controlled edges. The figure remains still and anonymous, dwarfed by the wide blank wall around it. Warm interior light comes through the two windows, while the exterior is lit by subdued evening ambient light, leaving long areas of blue-gray and charcoal shadow. No readable signs or lettering appear. The overall composition is sparse and contemplative, letting one pale figure and two warm rectangles quietly puncture a large cool facade.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "cfdf2230716ba05eefd848967051f557730d02c03ab004418127ef7347da77ae",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

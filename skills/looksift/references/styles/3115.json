@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square pop-surreal painted portrait shows a young man's head from a low angle, tilted upward against bands of saturated orange, lime, and dark blue. The close crop cuts the top of his hair and lower shoulders, making the face dominate nearly the whole frame. His eyes look toward the upper left, their blue-green irises catching narrow light under a raised brow. Strong planes of yellow and hot orange light cover the forehead, nose, cheeks, and lips, while electric green and violet shadow wrap the neck and jaw. A hand rests across the upper forehead near the left corner, its fingers partly obscuring the hairline. The mouth is slightly open, giving the upward gaze a tense, questioning quality. Behind the head, closely packed diagonal lines and concentric ripple-like marks turn the background into an active optical field. The leftmost area is lime and green, the right glows orange and yellow, and narrow black strokes separate the color zones. Fine stippled dots and printed-looking line texture cover the skin and background without hiding the sharply modeled features. The light feels theatrical and split into several colored sources, with warm illumination from the upper right and green fill from the left. Shadows deepen beneath the chin and around the ear, but they remain vividly colored instead of neutral black. The overall composition pushes a monumental face into a vibrating graphic field, balancing realistic volume with artificial high-chroma pattern.",
+  "full_prompt_zh": "这幅方形波普超现实绘画肖像从低处看一位年轻男子，头向上仰，身后是饱和橙、酸绿与深蓝色带。紧裁切切去部分头顶头发与下肩，使面孔几乎占满全幅。眼睛看向左上，蓝绿色虹膜在抬起的眉下接到窄光。强烈的黄与热橙色光覆盖前额、鼻、脸颊与嘴唇，电光绿和紫色阴影包围颈与下颌。一只手横在左上附近的额头，手指部分遮住发际。嘴微张，让上望目光带紧张疑问感。头后紧密斜线与同心涟漪状标记把背景变成活跃光学色域。最左侧是酸绿和绿色，右侧橙黄发亮，狭窄黑笔触分开色区。细密点纹和近似印刷线纹覆盖皮肤与背景，却没有藏住鲜明塑形的特征。光显得舞台化，仿佛分成几种彩色光源：暖光从右上来，绿填光从左来。下巴和耳旁阴影加深，但仍然鲜艳有色，而非中性黑。整体构图把一张宏大面孔推入振动的图形色域，以写实体积平衡人造高饱和纹样。",
+  "style_prompt_en": "The image fuses sharply modeled volume with fluorescent print-like color and optical pattern. Acid green, hot yellow, orange, magenta, violet, and blue crowd the surface, separated by dense black linework. Fine halftone dots, diagonal hatching, and concentric ripples add a vibrating texture over broad color planes. Light is deliberately colored and directional: warm planes meet cool green or purple shadow rather than neutral gray. Close cropping and very large focal geometry intensify the effect, while patterned edges keep the background active. The result is loud, synthetic, and visually restless.",
+  "style_prompt_zh": "图像把鲜明塑造的体积与荧光印刷感色彩和光学纹样融合。酸绿、热黄、橙、洋红、紫与蓝挤满表面，由密黑线迹分隔。细网点、斜排线和同心涟漪在宽阔色面上加入振动纹理。光有意染色且具方向性：暖面与冷绿或紫影相接，而非中性灰。近裁切和极大的焦点几何强化效果，带纹样边缘让背景保持活跃。结果响亮、人造且视觉上躁动。",
+  "theme_en": "An upward-looking face in fluorescent green, yellow, and orange pattern",
+  "theme_zh": "一张仰望的面孔，置于荧光绿、黄、橙纹样中",
+  "wh_ratio": "1:1",
+  "id": "3115",
+  "name": "Ed Paschke",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/ed-paschke",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "0128062b73b335202d9c9516dd10e7288554273717898133f271a11cd4c3e7b7",
+    "gpt_submission_prompt": "A square pop-surreal painted portrait shows a young man's head from a low angle, tilted upward against bands of saturated orange, lime, and dark blue. The close crop cuts the top of his hair and lower shoulders, making the face dominate nearly the whole frame. His eyes look toward the upper left, their blue-green irises catching narrow light under a raised brow. Strong planes of yellow and hot orange light cover the forehead, nose, cheeks, and lips, while electric green and violet shadow wrap the neck and jaw. A hand rests across the upper forehead near the left corner, its fingers partly obscuring the hairline. The mouth is slightly open, giving the upward gaze a tense, questioning quality. Behind the head, closely packed diagonal lines and concentric ripple-like marks turn the background into an active optical field. The leftmost area is lime and green, the right glows orange and yellow, and narrow black strokes separate the color zones. Fine stippled dots and printed-looking line texture cover the skin and background without hiding the sharply modeled features. The light feels theatrical and split into several colored sources, with warm illumination from the upper right and green fill from the left. Shadows deepen beneath the chin and around the ear, but they remain vividly colored instead of neutral black. The overall composition pushes a monumental face into a vibrating graphic field, balancing realistic volume with artificial high-chroma pattern.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "88263bd68f21b6357669f4555e26cb74fceec11f02cc5430e11eee638761588a",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

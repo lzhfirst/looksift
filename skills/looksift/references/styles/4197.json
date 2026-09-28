@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square cross-processed photographic print shows clusters of pink blossoms and leaves hanging diagonally across a deep cyan blue background. The branch enters from the upper left and bends toward the lower right, with dense coral pink blooms concentrated near the center. Smaller orange yellow leaves catch light along the lower edge. Another soft floral cluster sits in the upper right, partly out of focus. A narrow black border surrounds the image, reinforcing the feel of a physical print. Color is visibly altered: cyan shadows deepen behind hot magenta and salmon highlights, while some petals shift toward orange. The focus is selective, with the central flower cluster more legible than the hazy background. Strong light from the upper left makes petal edges glow and produces a few small flare-like color spots. The darker blue negative space keeps the complex overlapping shapes readable. The photographic grain, slight blur and uneven tonal transitions give the image a processed, nostalgic surface rather than clean digital neutrality. There is no ground or horizon; the picture is a close botanical fragment suspended against color. The composition is lively but balanced, with diagonal stems and rounded blossom masses meeting near the center. The overall effect is saturated, warm against cool, and dreamlike in its altered color response.",
+  "full_prompt_zh": "这幅方形交叉冲洗摄影印片呈现粉色花簇与叶片斜挂在深青蓝背景前。枝条从左上进入，弯向右下，密集珊瑚粉花主要聚在中央。较小橙黄叶片沿下缘接住光。右上还有一簇较柔的花，部分失焦。窄黑边框环绕图像，强化实体照片印片感觉。颜色明显被改变：青色阴影在炽热洋红和鲑粉亮面后加深，部分花瓣偏橙。焦点有选择，中央花簇比朦胧背景清楚。左上强光使花瓣边缘发亮，并产生少数类似光斑的小色点。更暗蓝色留域使复杂重叠形状仍可读。胶片颗粒、轻微模糊和不均匀调子过渡让图像有经处理的怀旧表面，而非干净数字中性。没有地面或地平线；画面是一片悬在色彩前的近景植物局部。构图活跃却平衡，斜枝和圆花团在中央附近相会。整体饱和，暖色对冷色，并因改变的显色反应而如梦。",
+  "style_prompt_en": "The cross-processed print pushes cyan and teal shadows against hot magenta, coral and orange highlights. A dark border, visible grain and slight color flare reinforce its physical photographic surface. Selective focus keeps one dense diagonal cluster clearer while outer forms soften into saturated blur. Bright edge light separates overlapping shapes from deep blue negative space. Uneven tonal response gives the image nostalgic, dreamlike intensity.",
+  "style_prompt_zh": "这种交叉冲洗印片把青与蓝绿色阴影推向炽热洋红、珊瑚色和橙色亮面。深边框、可见颗粒和轻微彩色光斑强化实体摄影表面。选择性对焦让一组密集斜向形体更清楚，外缘形状柔化进饱和模糊。明亮边光把重叠形状从深蓝留域里分出。不均匀调子响应赋予图像怀旧而梦境般的强度。",
+  "theme_en": "Sunlit pink blossoms in a cross-processed square print",
+  "theme_zh": "交叉冲洗方形照片中受光的粉花",
+  "wh_ratio": "1:1",
+  "id": "4197",
+  "name": "Cross processing print",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/cross-processing-print.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "c19f5b85b197e79c1a29d84b9b5200420b748eaa9848a48fb1b70c54d42baacf",
+    "gpt_submission_prompt": "A square cross-processed photographic print shows clusters of pink blossoms and leaves hanging diagonally across a deep cyan blue background. The branch enters from the upper left and bends toward the lower right, with dense coral pink blooms concentrated near the center. Smaller orange yellow leaves catch light along the lower edge. Another soft floral cluster sits in the upper right, partly out of focus. A narrow black border surrounds the image, reinforcing the feel of a physical print. Color is visibly altered: cyan shadows deepen behind hot magenta and salmon highlights, while some petals shift toward orange. The focus is selective, with the central flower cluster more legible than the hazy background. Strong light from the upper left makes petal edges glow and produces a few small flare-like color spots. The darker blue negative space keeps the complex overlapping shapes readable. The photographic grain, slight blur and uneven tonal transitions give the image a processed, nostalgic surface rather than clean digital neutrality. There is no ground or horizon; the picture is a close botanical fragment suspended against color. The composition is lively but balanced, with diagonal stems and rounded blossom masses meeting near the center. The overall effect is saturated, warm against cool, and dreamlike in its altered color response.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "0874264d089fa717cc04a38835ef0d71075bd02384d1a05a3d1a07676656dee6",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square woodblock print on cream deckled paper depicts a large, twisted old tree leaning across a spare landscape. The printed image sits inside a thin dark rectangular border, leaving a broad unprinted margin around all sides. The main trunk rises from the lower left and bends toward the upper right, splitting into dense branches and dark leaf clusters that fill much of the top half. Its bark is described with curling black cuts and parallel lines, making the heavy form appear knotty and weathered. A much smaller broken stump stands near the lower right, separated from the tree by an open pale interval. Beyond them, low rounded hills and patterned clouds use rusty pink lines over a warm cream ground. The foreground is a compact band of dark hatching, while the central distance remains comparatively light. Fine uneven ink density and slight registration softness give the print a hand-pressed quality. Light is implied through the untouched paper areas: the pale opening under the leaning trunk glows, while crosshatched branches and ground fall into charcoal shadow. The composition stays flat in its graphic treatment, yet overlap, scale, and the winding trunk provide clear spatial direction. No lettering is visible. The overall image feels weathered and quietly dramatic, balancing a massive dark canopy with a small open valley and ample rough-edged paper margin.",
+  "full_prompt_zh": "一幅印在奶油色毛边纸上的方形木版画描绘一棵巨大而扭曲的老树，向稀疏风景的另一侧倾斜。画面收在细深色矩形边框内，四周留有宽阔未印刷纸边。主干从左下升起并弯向右上，分出密集枝条和深色叶簇，填满上半部许多区域。树皮由卷曲黑色刻痕和平行线描写，使厚重形体显得多节而风化。右下附近一截小得多的断树桩与大树相隔一片敞开浅色间隙。后方低圆山丘和图案化云朵以锈粉色线条落在暖奶油底上。前景是一条紧凑的深色排线带，中央远处则相对明亮。细微不均墨色与轻度套印柔化给版画手工压印的质感。光通过保留的纸白暗示：倾斜树干下方的浅色开口发亮，交叉排线枝条和地面沉入炭色阴影。图形处理保持平面，但遮挡、尺度和蜿蜒主干提供清楚的空间方向。画中没有文字。整体画面风化而安静地富于戏剧感，以庞大深色树冠平衡小片开阔谷地与宽厚的粗边纸页。",
+  "style_prompt_en": "Woodblock printmaking sets dense carved black linework inside a clearly bounded image area on warm, rough-edged paper. Curving structural cuts, close hatching, and small irregular marks gather into dark masses, while untouched cream intervals remain open and luminous. A restrained secondary rust-pink tone enters the distant and lighter passages without competing with the black. Illumination is graphic, arising from reserved paper against compact ink rather than smooth shading. A large asymmetrical dark cluster is counterweighted by a smaller quiet opening and generous outer margin. Fine uneven ink density keeps the restrained composition tactile and hand-pressed.",
+  "style_prompt_zh": "木版印刷把密集黑色刻线收进暖色粗边纸上边界清楚的图像区。弯曲的结构刻痕、紧密排线与不规则小点聚成深色体量，保留的奶油色间隙则开阔发亮。克制的锈粉辅助色进入远处和较浅部分，不与黑色争强。照明是图形化的，来自纸白与紧凑墨色的对照，而非光滑晕染。大块不对称深色聚合由较小的安静开口和充裕外边距平衡。细微不均墨色使克制构图保有手工压印的触感。",
+  "theme_en": "A twisted old tree in a bordered woodblock print",
+  "theme_zh": "带边框木版画中的扭曲老树",
+  "wh_ratio": "1:1",
+  "id": "4095",
+  "name": "Woodblock print",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/woodblock-print.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "405045a91a8f89486fbf219f811b0528cf2a0f086ded09d63ddd595f9595c441",
+    "gpt_submission_prompt": "A square woodblock print on cream deckled paper depicts a large, twisted old tree leaning across a spare landscape. The printed image sits inside a thin dark rectangular border, leaving a broad unprinted margin around all sides. The main trunk rises from the lower left and bends toward the upper right, splitting into dense branches and dark leaf clusters that fill much of the top half. Its bark is described with curling black cuts and parallel lines, making the heavy form appear knotty and weathered. A much smaller broken stump stands near the lower right, separated from the tree by an open pale interval. Beyond them, low rounded hills and patterned clouds use rusty pink lines over a warm cream ground. The foreground is a compact band of dark hatching, while the central distance remains comparatively light. Fine uneven ink density and slight registration softness give the print a hand-pressed quality. Light is implied through the untouched paper areas: the pale opening under the leaning trunk glows, while crosshatched branches and ground fall into charcoal shadow. The composition stays flat in its graphic treatment, yet overlap, scale, and the winding trunk provide clear spatial direction. No lettering is visible. The overall image feels weathered and quietly dramatic, balancing a massive dark canopy with a small open valley and ample rough-edged paper margin.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "0e0eba98602b7de977747137a2eb86c3d8e974bbf7d56a9594cbf8dbff36b54a",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

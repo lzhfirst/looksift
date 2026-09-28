@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A grainy black-and-white cinematic photograph frames two women in close profile, both lowering their eyes in a moment of private stillness. The nearer woman occupies the right half, her dark hair swept upward in loose, tactile strands and her softly lit face descending toward the lower center. A floral-patterned robe crosses the lower right corner, its small pale blossoms punctuating the deep fabric shadow. The second woman stands behind and to the left, slightly out of focus, with a similar downward tilt that echoes the foreground pose while keeping her face subordinate. The background dissolves into broad, unfixed gray values rather than describing a particular room. Light enters gently from the left and above, making a white passage across forehead, cheek, nose, and collar before falling into dense black hair and cloth. Silver-gray halftones retain the shape of skin without glossy polish; delicate film grain and faint softness at the edges give the photograph the feel of an aged print. The composition turns on two descending diagonals formed by faces and shoulders, balanced against a large black mass across the upper right and small floral light marks below. The closest face is sharply legible, whereas the second remains a muted visual echo, and the shallow focus makes the space intimate. The whole frame carries quiet emotional weight through restrained monochrome, gentle tonal falloff, and the contrast between luminous faces and nearly black garments.",
+  "full_prompt_zh": "一幅带颗粒的黑白电影式照片以近距离侧面构图呈现两名女子，她们都垂下眼睛，沉浸在私密的静默中。前方女子占据右半幅，乌黑头发以松散而有质感的发束向上挽起，柔光照亮的面孔向画面下部中央低垂。带花纹的袍服穿过右下角，细小的浅色花朵点缀深色布料的阴影。第二名女子站在左后方，略微失焦，以相似的低头姿态呼应前景人物，同时使她的面孔居于次要位置。背景融化为宽阔而不确定的灰色明度，并不具体交代房间。光从左上方柔和进入，沿额头、脸颊、鼻梁和领口铺出一道白色区域，随后沉入浓黑的头发与衣料。银灰色中间调保留皮肤形体而没有光滑的修饰，细微胶片颗粒与边缘的轻柔模糊使照片带有旧印相的质感。构图围绕脸与肩形成的两道下行斜线展开，与右上方的大块黑色以及下方细小的花纹亮点相平衡。最近的面孔清晰可辨，后一张脸则成为低调的视觉回声，浅景深让空间显得亲近。整幅画以克制的单色、柔和的明度衰减，以及明亮面孔和近黑衣料的对比，承载安静的情绪重量。",
+  "style_prompt_en": "A grainy black-and-white cinematic photograph uses soft directional light, shallow depth of field, and a broad range of silver-gray halftones. Luminous forms are set against dense, velvety blacks; edge detail remains tactile rather than digitally crisp. Quiet repeated diagonals, close cropping, muted background values, and tiny pale pattern accents give the composition an intimate rhythm. The whole frame resembles an aged photographic print with restrained emotional gravity.",
+  "style_prompt_zh": "一幅带颗粒的黑白电影式照片运用柔和的定向光、浅景深与宽广的银灰色中间调。明亮形体置于浓密如绒的黑色之上，边缘细节保持可触的质感而非数码般锐利。安静重复的斜线、紧密裁切、低调背景明度和细小浅色纹样点缀，赋予构图亲近的节奏。整幅画如一张旧摄影印相，带着克制的情绪分量。",
+  "theme_en": "Two women in a quiet black-and-white cinematic close-up",
+  "theme_zh": "黑白电影式近景中的两名女子",
+  "wh_ratio": "1:1",
+  "id": "0412",
+  "name": "Shomei Tomatsu",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/shomei-tomatsu",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/shomei-tomatsu.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "15bbbc880640d0016ef97a31b57145b694f8a1cbd9be1b7778b9e6bc1cf99cb9",
+    "gpt_submission_prompt": "A grainy black-and-white cinematic photograph frames two women in close profile, both lowering their eyes in a moment of private stillness. The nearer woman occupies the right half, her dark hair swept upward in loose, tactile strands and her softly lit face descending toward the lower center. A floral-patterned robe crosses the lower right corner, its small pale blossoms punctuating the deep fabric shadow. The second woman stands behind and to the left, slightly out of focus, with a similar downward tilt that echoes the foreground pose while keeping her face subordinate. The background dissolves into broad, unfixed gray values rather than describing a particular room. Light enters gently from the left and above, making a white passage across forehead, cheek, nose, and collar before falling into dense black hair and cloth. Silver-gray halftones retain the shape of skin without glossy polish; delicate film grain and faint softness at the edges give the photograph the feel of an aged print. The composition turns on two descending diagonals formed by faces and shoulders, balanced against a large black mass across the upper right and small floral light marks below. The closest face is sharply legible, whereas the second remains a muted visual echo, and the shallow focus makes the space intimate. The whole frame carries quiet emotional weight through restrained monochrome, gentle tonal falloff, and the contrast between luminous faces and nearly black garments.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "be83500d48933355f238d4b479d4f4cf1a2b2506ef7c55624fa65cd04a239953",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

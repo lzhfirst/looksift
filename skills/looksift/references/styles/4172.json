@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square realist oil-and-drawing portrait shows an elderly man seated in a chair against a mostly blank pale wall. His body occupies almost the whole frame. One leg crosses over the other, bringing a worn brown shoe forward at the lower left. He wears a tan jacket over a white shirt, brownish trousers, and dark socks. His left hand reaches to the side of his mouth and cheek, supporting a thoughtful, slightly weary expression; gray hair is sparse and tousled. The face is painted with close attention to sagging skin, lined eyes, and warm red-brown shadows, while parts of the chair and wall remain only faintly indicated in pencil-like marks. Thick and thin strokes alternate across the jacket folds, where ochre, cream, gray, and umber build a heavy fabric texture. The pose is awkwardly honest rather than idealized, with the large forward shoe and compressed seated body creating a dense form. Light comes from the upper left, brightening shirt, cheek, and knee but leaving deep seams around the crossed legs and under the hand. The pale background leaves the figure exposed without decorative context. The image feels deeply observed, physical, and psychologically direct, with unfinished-looking edges reinforcing the labor of looking.",
+  "full_prompt_zh": "一幅方形写实油彩兼素描肖像描绘一位老人坐在椅上，身后大部分是空白浅墙。身体几乎占满画框。一条腿搭在另一条上，使磨旧棕鞋伸到左下前方。他穿棕黄外套、白衬衫、棕灰裤和深袜。左手伸到嘴和面颊一侧，托住沉思而略疲倦的表情；稀疏灰发有些凌乱。脸部紧贴观察松弛皮肤、眼边细纹和暖红棕阴影，而椅与墙部分仍只有淡淡铅笔般笔痕。外套褶皱中厚薄笔触交替，以赭、奶油、灰和熟褐建立厚重布料肌理。姿态坦诚得有些别扭，不做理想化，前伸大鞋与压缩坐姿形成浓密形体。光从左上方来，提亮衬衫、面颊和膝盖，交叉腿间与手下留下深缝。浅色背景让人物暴露，没有装饰性语境。图像观察深刻、物质感强且心理上直接，仿佛未完成的边缘又加强了凝视的劳动。",
+  "style_prompt_en": "Observational realist painting combines heavy material modeling with exposed sketch-like underdrawing. Ochre, umber, cream, gray, and muted flesh tones build substantial forms through uneven strokes. Some focal areas are closely worked; surrounding edges remain lightly indicated or unresolved. Side light reveals flesh and cloth texture without beautifying them, while deep seams hold physical weight. Proportions and cropping feel direct and slightly awkward, giving the composition human honesty. The pale ground offers little distraction. The style is tactile, searching, and psychologically close.",
+  "style_prompt_zh": "观察式写实绘画把厚重物质塑形与露出的素描底稿结合。赭、熟褐、奶油、灰与低调肤色以不均匀笔痕构成有重量的形体。部分焦点仔细刻画，周边边缘仍淡淡提示或尚未解决。侧光揭示皮肤与布料肌理，不加美化；深缝保有身体重量。比例与裁切直接而略显局促，使构图有人性诚实感。浅底几乎不分散注意。画风可触、探索且心理距离近。",
+  "theme_en": "An elderly man seated with one leg crossed and hand at his face",
+  "theme_zh": "翘腿坐着并以手触脸的老人",
+  "wh_ratio": "1:1",
+  "id": "4172",
+  "name": "Lucian Freud",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/lucian-freud.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "3fa34fd8260222978c752f8caabb2c698d7bb28e3166f43d323dc5710b821a62",
+    "gpt_submission_prompt": "A square realist oil-and-drawing portrait shows an elderly man seated in a chair against a mostly blank pale wall. His body occupies almost the whole frame. One leg crosses over the other, bringing a worn brown shoe forward at the lower left. He wears a tan jacket over a white shirt, brownish trousers, and dark socks. His left hand reaches to the side of his mouth and cheek, supporting a thoughtful, slightly weary expression; gray hair is sparse and tousled. The face is painted with close attention to sagging skin, lined eyes, and warm red-brown shadows, while parts of the chair and wall remain only faintly indicated in pencil-like marks. Thick and thin strokes alternate across the jacket folds, where ochre, cream, gray, and umber build a heavy fabric texture. The pose is awkwardly honest rather than idealized, with the large forward shoe and compressed seated body creating a dense form. Light comes from the upper left, brightening shirt, cheek, and knee but leaving deep seams around the crossed legs and under the hand. The pale background leaves the figure exposed without decorative context. The image feels deeply observed, physical, and psychologically direct, with unfinished-looking edges reinforcing the labor of looking.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "1c4b1e40169d53f082977d91b750c80a0e6ed23aa79676125d2683c13a181f7c",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

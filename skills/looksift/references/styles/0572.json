@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square, romantic oil landscape shows a winding stream, a broad old tree and a green valley beneath a pale glowing sky. The upper half opens with cream and light blue clouds, warm near the horizon and cooler higher above. A tall tree dominates the center-right, its thick dark trunk and spreading canopy reaching across much of the sky. Olive and deep green leaves are painted in small clustered touches, allowing bits of light to show through. Below the tree, a low stone building or wall is partly visible on the far right, tucked into the grassy bank. The stream enters from the left middle distance and bends across the lower-left foreground, its surface reflecting muted gold and green. Along the near bank, clumps of grass, small rocks and irregular dark plants interrupt the water's edge. A pale dirt path curves from the lower right toward the large tree and then disappears into the valley. Beyond the stream, smaller trees and distant hills recede in progressively cooler, lighter tones. Soft sunlight comes through the clouded sky from the upper left, warming the clearing and the edges of the foliage while leaving the water and understory in gentle shadow. Brushwork is controlled but visible, with fine foliage marks set against smoother atmospheric distance. The overall composition uses the sheltering tree, curving path and reflective water to guide the eye into a peaceful, spacious countryside.",
+  "full_prompt_zh": "这幅方形浪漫主义油画风景里，一条蜿蜒溪流、一棵宽阔老树和一片绿谷置于苍白发亮的天空下。上半部展开奶油色与浅蓝云朵，靠近地平线较暖，更高处偏冷。一棵高树主导中央偏右，粗深树干和铺展的树冠伸过天空大半。橄榄色与深绿叶片由聚集的小笔触画成，让点点亮光从中透出。树下远右，一座低矮石建筑或石墙部分露在草岸中。溪水从左侧中景进入，弯向左下前景，水面映着压低的金色与绿色。近岸上草丛、小石头和不规则深色植物打断水边。浅色土路从右下弯向大树，随后消失于山谷。溪流对岸，更小的树与远山在越来越冷、越来越浅的色调中后退。柔和阳光从左上透过多云天空，暖化空地和叶缘，让水面与树下留在温和阴影里。笔触受控却可见，细小叶片笔痕同更平滑的空气远景相对。整体构图借遮蔽般的大树、弯路与反光流水，把视线带入平静开阔的乡间。",
+  "style_prompt_en": "The oil-painting manner balances detailed foreground marks with a soft atmospheric distance. Olive, moss and deep forest greens are warmed by pale gold and cream light, then cooled into blue-gray at the horizon. Small clustered strokes give denser areas rich organic texture, while open luminous passages remain smooth and airy. Edges sharpen around near dark accents and soften steadily into the background. Gentle sunlight filters from a broad upper side, creating glowing rims and mild reflections rather than hard cast shadows. Curving paths of light and dark lead through layered depth, giving the composition a calm, inviting romantic mood.",
+  "style_prompt_zh": "这种油画手法让细致的前景笔痕与柔和的空气远景平衡。橄榄绿、苔绿和深林绿被浅金与奶油光色暖化，到地平线又冷成蓝灰。聚集的小笔触赋予较密区域丰富有机肌理，敞开的发亮段落则保持平滑通透。边缘在近处深色强调周围变清楚，向背景逐渐柔化。温和阳光从宽阔上方一侧滤下，形成亮边与轻反光，而非硬投影。弯曲的明暗路径引向层层纵深，让构图具有平静、亲近的浪漫气氛。",
+  "theme_en": "A broad tree beside a winding stream in a softly lit green valley",
+  "theme_zh": "柔光绿谷里，一棵大树立在蜿蜒溪流旁",
+  "wh_ratio": "1:1",
+  "id": "0572",
+  "name": "George Henry Yewell",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/george-henry-yewell",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/george-henry-yewell.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "0f02a379e0d4bcc6821502ecda20dcac5604d8cf9a9755094a903cf4e43dcb6e",
+    "gpt_submission_prompt": "A square, romantic oil landscape shows a winding stream, a broad old tree and a green valley beneath a pale glowing sky. The upper half opens with cream and light blue clouds, warm near the horizon and cooler higher above. A tall tree dominates the center-right, its thick dark trunk and spreading canopy reaching across much of the sky. Olive and deep green leaves are painted in small clustered touches, allowing bits of light to show through. Below the tree, a low stone building or wall is partly visible on the far right, tucked into the grassy bank. The stream enters from the left middle distance and bends across the lower-left foreground, its surface reflecting muted gold and green. Along the near bank, clumps of grass, small rocks and irregular dark plants interrupt the water's edge. A pale dirt path curves from the lower right toward the large tree and then disappears into the valley. Beyond the stream, smaller trees and distant hills recede in progressively cooler, lighter tones. Soft sunlight comes through the clouded sky from the upper left, warming the clearing and the edges of the foliage while leaving the water and understory in gentle shadow. Brushwork is controlled but visible, with fine foliage marks set against smoother atmospheric distance. The overall composition uses the sheltering tree, curving path and reflective water to guide the eye into a peaceful, spacious countryside.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "6a433a1f77744b2fce045ee8fb466f4ede1dab98ebfca523cd9de929d0976d98",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

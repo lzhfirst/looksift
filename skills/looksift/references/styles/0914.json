@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square graphic evening illustration looks across an empty road at a row of modest terraced houses beneath a full cream moon. The houses extend from left to right across the lower middle of the frame, each with a pitched slate roof, small chimney, simple door, and regularly spaced windows. Several windows glow warm yellow, while others remain dark. A red compact car is parked near the curb at lower left, and a bicycle rests against one house near the center. Utility poles, wires, streetlights, low fences, and a few distant roofs add quiet urban detail. Above the roofline, a vast dark teal-blue sky occupies more than half the composition, dotted with only a few tiny stars around the luminous circular moon. The road in the foreground is flat gray, with fine horizontal seams and no visible traffic. Forms are crisply outlined but slightly textured, like screen print or matte digital painting with grain. The building facades alternate cool gray-blue, pale sage, and cream, with red car and yellow lamps as small warm notes. No people are visible. The viewpoint is straight-on and level, emphasizing repeated doors and roofs against broad nocturnal negative space. The mood is ordinary, still, and gently nostalgic.",
+  "full_prompt_zh": "一幅方形图形化傍晚插画隔着空路望向满月下的一排朴素联排住宅。房屋从左到右横过画面中下部，各有斜板岩屋顶、小烟囱、简单门和规则分布的窗。几扇窗亮暖黄，其他保持深暗。左下路边停一辆红色小车，中央附近一栋房前靠着自行车。电线杆、线、路灯、低栏与少量远屋顶添加安静城市细节。屋顶线上方大片深青蓝天空占构图半幅以上，发亮奶油色圆月周围只点几颗小星。前景道路平坦灰色，带细水平接缝，没有车辆行驶。形体轮廓清楚而略有纹理，像丝网印刷或有颗粒的哑光数码画。立面在冷灰蓝、浅鼠尾草和奶油之间交替，红车与黄灯作为小暖音。没有人物。视角正面水平，强调重复门与屋顶对照宽阔夜空留白。气氛普通、静止而温和怀旧。",
+  "style_prompt_en": "Graphic nocturnal illustration with long repeated low geometry beneath expansive deep-teal negative space. Crisp simplified outlines, faint screen-print grain, and matte blue-gray fills meet small yellow-lit rectangles, a red accent, and one pale circular glow. Level frontal perspective and rhythmic repetition create calm. Darkness is clean and cool rather than ominous, with tiny everyday details preserved.",
+  "style_prompt_zh": "图形化夜景插画，长排重复低几何置于开阔深青留白之下。清楚简化轮廓、淡丝网颗粒与哑光蓝灰色面遇上小黄亮矩形、一处红色点缀和一枚浅色圆辉。水平正面透视与节奏性重复带来平静。黑夜洁净偏冷而不阴森，仍保留细小日常细节。",
+  "theme_en": "A quiet row of townhouses under a full moon",
+  "theme_zh": "满月下安静排列的联排住宅",
+  "wh_ratio": "1:1",
+  "id": "0914",
+  "name": "Pete McKee",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/pete-mckee",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/pete-mckee.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "3e3da0746177792033798df1d7016d1bb20eef2d466d41ebd39d849ba9777b86",
+    "gpt_submission_prompt": "A square graphic evening illustration looks across an empty road at a row of modest terraced houses beneath a full cream moon. The houses extend from left to right across the lower middle of the frame, each with a pitched slate roof, small chimney, simple door, and regularly spaced windows. Several windows glow warm yellow, while others remain dark. A red compact car is parked near the curb at lower left, and a bicycle rests against one house near the center. Utility poles, wires, streetlights, low fences, and a few distant roofs add quiet urban detail. Above the roofline, a vast dark teal-blue sky occupies more than half the composition, dotted with only a few tiny stars around the luminous circular moon. The road in the foreground is flat gray, with fine horizontal seams and no visible traffic. Forms are crisply outlined but slightly textured, like screen print or matte digital painting with grain. The building facades alternate cool gray-blue, pale sage, and cream, with red car and yellow lamps as small warm notes. No people are visible. The viewpoint is straight-on and level, emphasizing repeated doors and roofs against broad nocturnal negative space. The mood is ordinary, still, and gently nostalgic.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "f0555151b868494068498a6f86590cb139ae1efb73925a5ad0713c614482a333",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

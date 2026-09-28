@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "This is a square, finely painted portrait of a red-haired young woman in left-facing profile against an intricate blue-green patterned ground. Her head and shoulders fill the frame, with the nose and lips extending toward the left edge and the hair nearly touching the top. The long neck curves down into a deep teal garment whose soft folds occupy the lower right. Warm copper hair is braided and coiled around the back of the head, each strand carefully separated in shades of honey, rust, and brown. Her eyelids are lowered, and the mouth is gently closed, giving the face an inward, contemplative expression. Behind her, a circular teal-and-gold ornamental field frames the head, made from tight scrolling lines and small repeated motifs rather than open landscape. The surface appears aged and granular, with flecks of ochre and darker blue caught in the decorative pattern. Soft warm light from the upper left illuminates the forehead, cheek, nose bridge, and neck, while the back of the hair and the garment settle into richer shadow. The skin is smoothly modeled but not glossy; thin linework and tiny marks remain visible at the hairline and around the patterned background. The image is cropped so closely that the large profile becomes almost architectural against the round ornament. No writing or separate objects appear. The overall composition is solemn and intimate, balancing a calm pale face, copper hair, and dense jewel-toned decoration.",
+  "full_prompt_zh": "这是一幅方形、绘制精细的肖像，一位红发年轻女子朝左侧面入画，身后是复杂蓝绿色花纹底面。她的头肩填满画框，鼻子和嘴唇伸向左边缘，头发几乎触到上沿。修长颈部弯入深青绿色衣服，柔软褶皱占据右下。暖铜色头发在后脑编织盘绕，每根发丝以蜜色、锈色与褐色仔细分开。她的眼睑低垂，嘴轻轻闭合，使面部有内省、沉思的神情。身后，青绿与金色圆形装饰画域框住头部，由紧密卷线和微小重复纹样构成，而非开阔风景。表面显得古旧而有颗粒，赭色斑点与较深蓝色嵌在装饰花纹中。柔和暖光从左上照亮额头、脸颊、鼻梁和颈部，头发后侧与衣服沉入更丰厚阴影。皮肤塑形平顺却不光滑，发际和花纹背景周围仍有细线与小痕迹。图像裁切极近，使大型侧面在圆形纹饰前几乎呈建筑般的重量。没有文字或独立物件。整体构图庄重而亲密，以安静浅色面孔、铜红头发和浓密宝石色装饰相平衡。",
+  "style_prompt_en": "The finely painted treatment pairs smooth warm pale planes with densely patterned blue-green and aged gold surroundings. Curved lines and small repeated motifs form a shallow ornamental field behind a larger, quiet focal shape. Copper and rust accents add warmth without breaking the subdued jewel palette. Soft upper-side light gives gradual volume to the focal plane, while tiny hatch marks and granular pigment animate the adjacent surfaces. Edges are precise at the profile-like focal contour and soften through folded darker passages. The composition is closely cropped and almost iconlike, with a circular rhythm stabilizing asymmetry. The overall effect is solemn, lyrical, and materially rich.",
+  "style_prompt_zh": "这种精细绘画处理让平顺的暖浅平面与浓密花纹的蓝绿、旧金周围区域相配。弯曲线与细小重复母题在更大而安静的焦点形态后方构成浅层装饰画域。铜色和锈色加入暖意，却不打破低调宝石色配色。柔和上侧光让焦点平面逐渐显出体积，细小排线与颗粒颜料活跃邻近表面。侧面般的焦点轮廓边缘精确，进入更暗褶皱处则柔化。构图裁切贴近，近乎圣像画感，圆形节奏稳定不对称。整体效果庄重、抒情且材料感丰厚。",
+  "theme_en": "A red-haired woman in profile before an intricate blue-green patterned ground",
+  "theme_zh": "一位红发女子的侧面肖像，背景是精细蓝绿色纹样",
+  "wh_ratio": "1:1",
+  "id": "3113",
+  "name": "Edward Burne-Jones",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/edward-burne-jones",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "f0bbcdefe7124aca4c7e6fc03f30fe938a52603629b27c20d84e355d14f33af1",
+    "gpt_submission_prompt": "This is a square, finely painted portrait of a red-haired young woman in left-facing profile against an intricate blue-green patterned ground. Her head and shoulders fill the frame, with the nose and lips extending toward the left edge and the hair nearly touching the top. The long neck curves down into a deep teal garment whose soft folds occupy the lower right. Warm copper hair is braided and coiled around the back of the head, each strand carefully separated in shades of honey, rust, and brown. Her eyelids are lowered, and the mouth is gently closed, giving the face an inward, contemplative expression. Behind her, a circular teal-and-gold ornamental field frames the head, made from tight scrolling lines and small repeated motifs rather than open landscape. The surface appears aged and granular, with flecks of ochre and darker blue caught in the decorative pattern. Soft warm light from the upper left illuminates the forehead, cheek, nose bridge, and neck, while the back of the hair and the garment settle into richer shadow. The skin is smoothly modeled but not glossy; thin linework and tiny marks remain visible at the hairline and around the patterned background. The image is cropped so closely that the large profile becomes almost architectural against the round ornament. No writing or separate objects appear. The overall composition is solemn and intimate, balancing a calm pale face, copper hair, and dense jewel-toned decoration.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "4bc79b6e5c7a7541dd2ffbdc5465fc6b49facb51b6579d85de4e5754b25b0f27",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

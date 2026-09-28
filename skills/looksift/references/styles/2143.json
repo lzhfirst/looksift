@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white cinematic photograph shows a man leaning across a desk in a dark room, looking intently toward bright equipment at the right. He is seen in left profile, wearing a light gray jacket over a shirt and dark tie. His short hair, lined forehead, straight nose, and tightly set mouth are caught by a strong beam of light. One hand rests near a sheet of paper on the desk, and his bent elbow supports his forward posture. At the far right, a bulky camera- or projector-like apparatus rises from the desktop, with stacked round housings and dark mechanical brackets. White light bursts from behind or beside it and passes through dusty air in visible slanted rays. A large circular frame or window occupies the dark wall behind the man at left, its rim barely outlined by gray reflected light. The desktop forms a low horizontal band with papers, a shallow tray, and hard-edged machinery silhouettes. Much of the upper left remains black, making the illuminated face and radiating beam stand out. The light source at right casts a hard highlight along the man's cheek, brow, and hand, while his jacket folds fall into layered charcoal shadow. Fine grain and floating specks make the air feel smoky and material. The image is tightly composed around a still moment of attention: the man advances toward the light, and the machinery answers with angular black shapes and an intense white flare.",
+  "full_prompt_zh": "一幅方形黑白电影摄影呈现一位男子在暗室里俯过桌面，专注望向右侧发亮的设备。他从左侧面可见，穿浅灰外套、衬衫和深色领带。短发、有皱纹的额头、直鼻和紧抿的嘴被强光束照出。一只手靠在桌上纸页附近，弯曲手肘支撑前倾姿态。最右侧，一台笨重的相机或放映机般设备从桌面升起，有叠放的圆筒外壳和深色机械支架。白光从其后或旁边爆出，穿过带尘的空气，形成可见斜向光束。左侧男子身后的暗墙上有一个大圆框或窗口，边缘仅被灰色反光浅浅勾出。桌面成为低处水平带，带纸页、浅托盘和硬边设备剪影。左上大部分保持黑暗，使受光面孔和放射光束突出。右侧光源沿男子脸颊、眉骨和手留下硬高光，外套褶线则落入层叠炭灰阴影。细颗粒和浮尘让空气显得带烟雾与物质感。图像紧紧围住一个凝神静止的瞬间：男子前倾向光，机械装置则以棱角黑形和强烈白色眩光回应。",
+  "style_prompt_en": "A high-contrast monochrome cinematic photograph concentrates a hard white flare near one edge and lets broad black shadow occupy most of the frame. Slanted shafts of light reveal fine dust and grain, making the otherwise empty air visible. A softly modeled mid-gray focal form leans into the beam, while stacked circular and angular dark contours build a compact opposing mass. Strong highlights trace selected ridges and a lower horizontal surface; everything beyond them falls rapidly into charcoal or black. A faint large ring in the background adds depth without competing with the lit area. The composition is tightly cropped, with diagonal light cutting across still horizontal planes. Silver-gray texture, smoky atmosphere, and crisp mechanical-looking silhouettes create a tense, investigative mood.",
+  "style_prompt_zh": "高反差单色电影摄影把硬白眩光集中在一侧，让大片黑影占据画幅大部。斜向光束显出细尘和颗粒，使原本空的空气变得可见。一处柔和塑形的中灰焦点向光倾斜，对侧则由叠放圆形和棱角深轮廓构成紧凑色块。强高光只描出少数凸棱与下方水平面，其余迅速跌入炭灰或黑。背景一圈隐约的大圆增加纵深，却不与受光区竞争。构图裁切紧密，斜光切过静止的水平平面。银灰肌理、烟雾空气与清楚的机械感剪影营造紧张、探究式气氛。",
+  "theme_en": "A man leaning over a desk beside bright film equipment",
+  "theme_zh": "男子俯在桌前凝视发亮的电影设备",
+  "wh_ratio": "1:1",
+  "id": "2143",
+  "name": "Frank Capra",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/frank-capra",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/frank-capra.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "015c83d7acefb423f6160e4c9770ce35f9188710749dfaf797a37488cd7deaac",
+    "gpt_submission_prompt": "A square black-and-white cinematic photograph shows a man leaning across a desk in a dark room, looking intently toward bright equipment at the right. He is seen in left profile, wearing a light gray jacket over a shirt and dark tie. His short hair, lined forehead, straight nose, and tightly set mouth are caught by a strong beam of light. One hand rests near a sheet of paper on the desk, and his bent elbow supports his forward posture. At the far right, a bulky camera- or projector-like apparatus rises from the desktop, with stacked round housings and dark mechanical brackets. White light bursts from behind or beside it and passes through dusty air in visible slanted rays. A large circular frame or window occupies the dark wall behind the man at left, its rim barely outlined by gray reflected light. The desktop forms a low horizontal band with papers, a shallow tray, and hard-edged machinery silhouettes. Much of the upper left remains black, making the illuminated face and radiating beam stand out. The light source at right casts a hard highlight along the man's cheek, brow, and hand, while his jacket folds fall into layered charcoal shadow. Fine grain and floating specks make the air feel smoky and material. The image is tightly composed around a still moment of attention: the man advances toward the light, and the machinery answers with angular black shapes and an intense white flare.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "0eca78b8750b657d7c084c6b4c34ebccfd535662e5db9ee1e1d096d9207c9a3f",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

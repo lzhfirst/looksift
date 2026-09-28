@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square candid color photograph centers a young child facing the camera on a bright seafront. Their face is serious and still, framed by a patterned headscarf wrapped around the hair and neck. Oversized glittering silver sunglasses cover the eyes, reflecting the crowded promenade. The scarf mixes floral fabric with bold red, white, and blue graphic folds across the chin and shoulders. Just behind and to the right stands another child in a thick pink knitted hood and narrow dark sunglasses, looking away toward the right. Several blurred adults and poles fill the far left background, while a clear deep blue sky opens overhead. The sun is direct and crisp, bringing out sparkle in the glasses and hard color in the fabrics; facial shadows stay fairly short. The nearest child is sharply focused, the second slightly softer, and the rest of the crowd more diffuse. Framing is close enough to crop the lower garments and put the unusual accessories at eye level. Colors are saturated but natural: blue sky, pink knit, red-white-blue scarf, peach skin, and silvery mirrored lenses. The moment feels odd, humorous, and entirely unstaged, as if observed at a lively public gathering.",
+  "full_prompt_zh": "一张方形彩色街头快照在明亮海边将一位正面面对镜头的小孩置于中央。孩子神情严肃而静止，花纹头巾裹住头发与脖颈。夸张的闪亮银色太阳镜遮住眼睛，镜片映出拥挤海滨步道。围巾在下巴与肩上混合花卉布纹及醒目的红白蓝图形褶层。右后方另有一位孩子，戴厚厚的粉色针织头套与窄深色太阳镜，目光朝右。更远左侧有模糊成人和杆件，头顶则打开清澈深蓝天空。阳光直接而清晰，使镜框闪耀、布料颜色鲜明，面部阴影较短。最近的小孩锐利对焦，第二位稍软，其余人群更模糊。近距离取景裁掉下方衣服，使奇特配饰处于眼平高度。色彩饱和但自然：蓝天、粉针织、红白蓝围巾、桃色肌肤与银色镜片。这个瞬间古怪、幽默而完全未经排演，像在热闹公共聚会中偶然看到。",
+  "style_prompt_en": "Observational color street photography with close frontal framing, direct sun, sharp foreground detail, and casually blurred crowd depth. Saturated everyday fabrics and reflective accessories produce unexpected color clashes against a clear outdoor field. Ordinary gestures and imperfect spatial overlap remain visible, giving the image a humorous, unposed immediacy without staged lighting.",
+  "style_prompt_zh": "观察式彩色街头摄影，以近距离正面取景、直接阳光、锐利前景细节和随意模糊的人群纵深构成。饱和的日常布料与反光配件在清澈户外色场前形成意外撞色。普通动作与不完美空间交叠保持可见，使画面幽默且有未摆拍的即刻感，无需影棚灯光。",
+  "theme_en": "Two children in oversized sunglasses at a crowded seaside event",
+  "theme_zh": "海边人群中戴夸张墨镜的两个孩子",
+  "wh_ratio": "1:1",
+  "id": "4468",
+  "name": "Martin Parr",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/martin-parr.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "511914ac8ded769348d92489ce913a96e60b0388aa453435bec34b82e8dbea79",
+    "gpt_submission_prompt": "A square candid color photograph centers a young child facing the camera on a bright seafront. Their face is serious and still, framed by a patterned headscarf wrapped around the hair and neck. Oversized glittering silver sunglasses cover the eyes, reflecting the crowded promenade. The scarf mixes floral fabric with bold red, white, and blue graphic folds across the chin and shoulders. Just behind and to the right stands another child in a thick pink knitted hood and narrow dark sunglasses, looking away toward the right. Several blurred adults and poles fill the far left background, while a clear deep blue sky opens overhead. The sun is direct and crisp, bringing out sparkle in the glasses and hard color in the fabrics; facial shadows stay fairly short. The nearest child is sharply focused, the second slightly softer, and the rest of the crowd more diffuse. Framing is close enough to crop the lower garments and put the unusual accessories at eye level. Colors are saturated but natural: blue sky, pink knit, red-white-blue scarf, peach skin, and silvery mirrored lenses. The moment feels odd, humorous, and entirely unstaged, as if observed at a lively public gathering.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "06466d143fa5df18dd55a515f2e91fdf7b16912c475e310ba32997f843a7e030",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

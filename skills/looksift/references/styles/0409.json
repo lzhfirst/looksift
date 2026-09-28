@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A restrained surreal fine-art photograph presents two standing figures in profile against a seamless charcoal-gray studio background. The image has a softly grained photographic surface, with gently rolled-off edges and muted detail in the deepest shadows. At left, an older man with short silver hair wears a dark crimson suit; his face and shoulder receive a narrow, cool overhead glow, while the red fabric falls toward black at the frame edge. Opposite him, a taller figure wears a chalky off-white jacket and broad flat-brimmed hat, yet the face disappears beneath a dark hanging veil of shadow. The brim cuts a precise pale horizontal line across the upper center, while the pale jacket becomes the largest bright area and draws attention into the silent gap between the figures. Their upright poses and near-symmetrical facing positions create a simple, tense rhythm, offset by the different heights and unequal patches of light. No room furnishings or visible horizon interrupt the nearly empty background; faint tonal variations make the space feel deep without explaining it. The key light is localized and subdued, separating fabric folds, hair texture, and the hat's clean rim from the surrounding darkness. Color stays close to black, gray-green, bone white, and a single concentrated wine red, so the impossible facial absence reads as a quiet visual fact. The entire frame holds its unease through sparse composition, believable cloth texture, and an austere photographic hush.",
+  "full_prompt_zh": "一幅克制的超现实艺术摄影中，两名侧身站立的人物处在无缝的炭灰色摄影棚背景前。画面带有轻微颗粒的摄影表面，边缘柔和地隐入暗处，最深阴影里的细节被压低。左侧是一位银色短发的年长男子，身穿深绯红色西装；狭窄而偏冷的顶光照到他的面孔与肩膀，红色布料向画框边缘渐渐沉入黑暗。与他相对的较高人物穿着粉白色外套、戴着宽而平的帽子，脸却消失在一片向下垂落的暗影之中。帽檐在上部中央切出一道准确的浅色水平线，浅色外套成为最大的亮区，将注意力引向两人之间沉默的空隙。两人直立、相向的近似对称姿态形成简洁紧张的节奏，而不同的身高与不均等的受光面积又打破对称。近乎空无的背景没有家具或可见地平线，细微的明度变化使空间具有深度，却不解释它的性质。局部而低调的主光让布褶、发丝质感和帽沿的干净边缘从周围黑暗中分离。色彩接近黑、灰绿、骨白与一处凝聚的酒红，因而面容的不可能缺失像一件安静的视觉事实。整幅画以稀疏构图、可信的布料肌理和冷峻的摄影沉寂维持不安感。",
+  "style_prompt_en": "A restrained surreal fine-art photograph relies on a softly grained surface, low-key localized light, and smooth tonal falloff into charcoal darkness. Muted gray-green and near-black fields surround small islands of bone-white illumination and one concentrated deep-red accent. Crisp fabric or object edges emerge briefly from broad velvety shadow, while nearly empty space and measured asymmetry establish a quiet, uneasy rhythm. The whole frame feels materially credible yet subtly estranged.",
+  "style_prompt_zh": "一幅克制的超现实艺术摄影依靠轻微颗粒的表面、低调的局部照明，以及向炭黑色暗处平滑衰减的明度。低饱和灰绿与近黑色域包围少量骨白色亮区和一处集中的深红点缀。织物或物体的清晰边缘短暂地从宽阔柔绒般的阴影中显现，近乎空无的空间与审慎的不对称建立安静而不安的节奏。整幅画在材质可信的同时带着微妙的疏离感。",
+  "theme_en": "An uncanny face-to-face encounter in a dark studio",
+  "theme_zh": "昏暗摄影棚中一场诡异的面对面相遇",
+  "wh_ratio": "1:1",
+  "id": "0409",
+  "name": "Philip Toledano",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/philip-toledano",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/philip-toledano.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "95b9db46279fcb7e2f0feac1b5f8db90e7f9e350937731a5fccfb3f5143b2942",
+    "gpt_submission_prompt": "A restrained surreal fine-art photograph presents two standing figures in profile against a seamless charcoal-gray studio background. The image has a softly grained photographic surface, with gently rolled-off edges and muted detail in the deepest shadows. At left, an older man with short silver hair wears a dark crimson suit; his face and shoulder receive a narrow, cool overhead glow, while the red fabric falls toward black at the frame edge. Opposite him, a taller figure wears a chalky off-white jacket and broad flat-brimmed hat, yet the face disappears beneath a dark hanging veil of shadow. The brim cuts a precise pale horizontal line across the upper center, while the pale jacket becomes the largest bright area and draws attention into the silent gap between the figures. Their upright poses and near-symmetrical facing positions create a simple, tense rhythm, offset by the different heights and unequal patches of light. No room furnishings or visible horizon interrupt the nearly empty background; faint tonal variations make the space feel deep without explaining it. The key light is localized and subdued, separating fabric folds, hair texture, and the hat's clean rim from the surrounding darkness. Color stays close to black, gray-green, bone white, and a single concentrated wine red, so the impossible facial absence reads as a quiet visual fact. The entire frame holds its unease through sparse composition, believable cloth texture, and an austere photographic hush.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "8ac2e9259319ff2f9ebb70023904cc2e40f5881c762c1580d81f64cc3b91f80e",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

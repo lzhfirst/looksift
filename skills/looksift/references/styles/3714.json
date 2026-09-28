@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "An oil painting in a polished, finely blended realist manner shows a young woman standing before a warm brown wall filled with floral decoration. The view reaches from her dark hat near the top edge to the lower folds of her rose-colored skirt, which continue beyond the frame. Narrow vertical borders divide the patterned wall behind her, while a carved wooden rail and paneled surface run horizontally across its lower part. She stands slightly to the right of center, her torso turned toward the viewer and her face gently angled forward. A broad black hat with small red accents sits over dark, softly curled hair. Her expression is composed, with delicate pink color in her cheeks and lips. The fitted pink bodice has long sleeves, elaborate cream lace across the chest and at the cuffs, and a darker red detail at the throat. The skirt gathers in deep, carefully shaded folds around her hips. Her hands rest low in front of her; one holds a small round floral ornament, while the other lowers a flower stem. At the far right edge, a cluster of pale pink blossoms rises from a dark surface. Light falls softly from the upper left, brightening her face, lace, and hands while leaving the hat and carved wood comparatively deep. Smooth transitions in the skin and fabric meet more intricate, slightly muted marks in the wall's floral pattern. The vertical framing, warm ornamental backdrop, and restrained rose-and-cream palette give the image an intimate, poised stillness.",
+  "full_prompt_zh": "这是一幅笔触细腻、过渡圆润的写实油画：一位年轻女子站在布满花卉装饰的暖棕色墙前。画面从上缘附近的深色帽子延伸到她玫瑰色长裙的下部褶皱，裙摆继续超出画框。狭长的竖向边饰分隔着她身后的纹样墙面；下方则有横贯画面的雕花木质横栏与镶板。她站在中央稍偏右的位置，身体转向观者，面庞轻轻朝前。宽大的黑帽上点缀着细小的红色装饰，帽下露出深色、微卷的头发。她神情安静，脸颊和嘴唇带着细致的粉色。合身的粉色上身有长袖，胸前和袖口铺陈繁复的奶油色蕾丝，颈部还有一处较深的红色细节。裙子在腰臀周围聚起深浅分明的褶皱。她的双手垂在身前，一只手拿着小巧的圆形花饰，另一只手垂下一枝花。画面最右缘，一簇淡粉色花朵从深色台面旁升起。柔和的光从左上方落下，照亮脸、蕾丝和手，而帽子与雕花木面仍较为深暗。面部与衣料的平滑色调过渡，同墙面花纹中更繁密、略显沉静的笔触相接。竖向取景、温暖的装饰背景，以及克制的玫瑰色与奶油色搭配，使整幅画显得亲密而端庄。",
+  "style_prompt_en": "Refined oil-paint handling gives rounded forms smooth tonal transitions and precise but unforced edges. Cream highlights sit within a warm range of rose, russet, brown, and near black; small red accents punctuate the quieter colors. Dense ornamental marks are held in a shallow background plane, while larger, calmer shapes and more carefully graded values advance toward the viewer. Soft light from above and one side models volume without hard shadows. Fine detail gathers around focal contours, then dissolves into muted, interwoven pattern, producing an intimate and composed visual rhythm.",
+  "style_prompt_zh": "细致的油画笔法让圆润形体具有平滑的明暗过渡，边缘准确而不显生硬。奶油色亮部置于玫瑰色、赭红、棕色和近黑色组成的暖色范围中，少量红色点缀打破较安静的色调。密集的装饰性笔痕留在较浅的背景层，较大而平稳的形状及更细致的色阶则向观者推进。来自上方一侧的柔光塑造体积，却不形成坚硬的阴影。精细刻画集中在视觉焦点的轮廓附近，随后融入沉静交织的纹理，形成亲密而端庄的画面节奏。",
+  "theme_en": "A woman in a rose dress before a floral wall",
+  "theme_zh": "花卉墙饰前身着玫瑰色长裙的女子",
+  "wh_ratio": "1:1",
+  "id": "3714",
+  "name": "Auguste Toulmouche",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/auguste-toulmouche",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "26efae45f186d584603c08bb1dcf46fe3c74117dbe31b4492de07a5eabad465d",
+    "gpt_submission_prompt": "An oil painting in a polished, finely blended realist manner shows a young woman standing before a warm brown wall filled with floral decoration. The view reaches from her dark hat near the top edge to the lower folds of her rose-colored skirt, which continue beyond the frame. Narrow vertical borders divide the patterned wall behind her, while a carved wooden rail and paneled surface run horizontally across its lower part. She stands slightly to the right of center, her torso turned toward the viewer and her face gently angled forward. A broad black hat with small red accents sits over dark, softly curled hair. Her expression is composed, with delicate pink color in her cheeks and lips. The fitted pink bodice has long sleeves, elaborate cream lace across the chest and at the cuffs, and a darker red detail at the throat. The skirt gathers in deep, carefully shaded folds around her hips. Her hands rest low in front of her; one holds a small round floral ornament, while the other lowers a flower stem. At the far right edge, a cluster of pale pink blossoms rises from a dark surface. Light falls softly from the upper left, brightening her face, lace, and hands while leaving the hat and carved wood comparatively deep. Smooth transitions in the skin and fabric meet more intricate, slightly muted marks in the wall's floral pattern. The vertical framing, warm ornamental backdrop, and restrained rose-and-cream palette give the image an intimate, poised stillness.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "a7077ebacfa0519848ecf168e07f4331c5e4a8f9260cae3d97992fb536159808",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

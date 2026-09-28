@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square top-down aerial photograph records an airfield apron covered with parked aircraft. Long fuselages point in several directions and form a loose grid across stained concrete, their wings creating crisp cross shapes. Some bodies are bright yellow, magenta, cyan, turquoise or pale pink; others remain white or weathered gray. Smaller service vehicles and scattered equipment occupy the gaps, giving a clear sense of real scale and use. The overhead viewpoint flattens the planes into graphic marks while retaining recognizable engines, tails and wing forms. There is no horizon or sky, only the tarmac running to every edge of the square. Subtle oil stains, tire marks and faded lines under the aircraft prevent the colorful arrangement from becoming a pristine pattern. Midday light is fairly even, with short soft-edged shadows that separate the machines from the ground. The composition balances repetition and variation: the central vertical aircraft runs in pink, strong yellow bodies anchor the left and right, and cooler blue shapes distribute rhythm through the frame. A few cropped wings at the edges imply a much larger field outside the picture. The final photograph invites the eye to move between abstract color geometry and the industrial complexity of each machine, with observational clarity rather than a staged spectacle.",
+  "full_prompt_zh": "一幅正方形正俯航拍照片记录停满飞机的机场停机坪。细长机身朝向略有不同，在有污痕的混凝土地面形成松散网格，机翼组成清楚的十字形。部分机身为亮黄、洋红、青、青绿或浅粉，其余则保持白色或风化灰色。较小的服务车辆和散落设备占据间隙，使实际尺度与使用状态清晰。垂直俯视把飞机压平成图形标记，但引擎、尾翼和机翼仍可辨认。画面没有地平线或天空，停机坪一直延伸到正方形四边。飞机下方细微油污、轮胎痕和褪色标线阻止彩色排布变成洁净图案。正午光较均匀，短而略柔的影子把机器与地面分开。构图在重复和变化之间平衡：中央竖向一架粉色飞机，左右鲜黄机身固定画面，冷蓝色形状在全图分配节奏。边缘几片被裁断的机翼暗示画外还有更大场地。最终照片使视线在抽象色彩几何和每架机器的工业复杂性之间游走，保持观察的清晰，而非排演式奇观。",
+  "style_prompt_en": "The style is rigorous top-down aerial photography that turns real industrial repetition into an abstract graphic field. Multiple bright color accents punctuate a weathered neutral ground; near-orthographic geometry preserves clear cross and linear rhythms. Even high daylight, short shadows and sharp spatial resolution reveal both overall pattern and small practical details. Edge cropping suggests an extended system beyond the square frame. The result is orderly but varied, balancing compositional color with documentary evidence of use and wear.",
+  "style_prompt_zh": "这种风格是严谨的正俯航拍摄影，把真实工业重复转化为抽象图形场。多处明亮色彩重音点在风化的中性色底上；近正投影几何保留清晰的十字与线性节奏。均匀高位日光、短投影和清楚空间解析度同时显露整体图案与小型实用细节。边缘裁断暗示正方形画框之外还有延展的系统。效果有秩序却不单调，在构图色彩与使用磨损的纪实证据间取得平衡。",
+  "theme_en": "Colorful aircraft arranged across an airfield apron",
+  "theme_zh": "机场停机坪上排布的彩色飞机",
+  "wh_ratio": "1:1",
+  "id": "1252",
+  "name": "Jeffrey Milstein",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/jeffrey-milstein",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/jeffrey-milstein.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "4c7b40d11a52991a675c1211a91ae6ed5705fff5048dc41d835284f3d0510bab",
+    "gpt_submission_prompt": "A square top-down aerial photograph records an airfield apron covered with parked aircraft. Long fuselages point in several directions and form a loose grid across stained concrete, their wings creating crisp cross shapes. Some bodies are bright yellow, magenta, cyan, turquoise or pale pink; others remain white or weathered gray. Smaller service vehicles and scattered equipment occupy the gaps, giving a clear sense of real scale and use. The overhead viewpoint flattens the planes into graphic marks while retaining recognizable engines, tails and wing forms. There is no horizon or sky, only the tarmac running to every edge of the square. Subtle oil stains, tire marks and faded lines under the aircraft prevent the colorful arrangement from becoming a pristine pattern. Midday light is fairly even, with short soft-edged shadows that separate the machines from the ground. The composition balances repetition and variation: the central vertical aircraft runs in pink, strong yellow bodies anchor the left and right, and cooler blue shapes distribute rhythm through the frame. A few cropped wings at the edges imply a much larger field outside the picture. The final photograph invites the eye to move between abstract color geometry and the industrial complexity of each machine, with observational clarity rather than a staged spectacle.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "78f3d05cfd575d7353d692cc1cf287bf4e80e667ccde94f0e3af42a49a695425",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

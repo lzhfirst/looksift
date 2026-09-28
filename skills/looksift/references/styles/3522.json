@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square fine-art photograph shows a solitary figure in a muted rose dress against a nearly black backdrop. The person stands near the center with shoulders turned slightly to the right and the head bowed. Layers of white cloth wrap the entire head and face, crossing in soft bands so no eyes, nose, or mouth can be seen. A loose point of fabric hangs behind the covered head, giving the otherwise smooth wrapping an asymmetric edge. The long-sleeved dress is dusty pink, fitted at the waist by a narrow dark belt and falling in gentle folds beyond the lower crop. A wide white lace collar frames the shoulders and upper chest, and a cluster of pale flower-shaped trim sits to one side of the bodice. The hands rest low and close together in front, partly hidden by the sleeve and the bottom edge. Faint floral marks appear in the left background, but most of the setting remains a deep, softly textured shadow. Light falls from the upper left onto the cloth and collar, making them the brightest surfaces; the pink fabric receives a quieter glow, while the right side sinks into darkness. The photographic detail is precise enough to show the cloth weave, lace openings, and slight creases, though the dark ground stays understated. With the face erased, the bowed posture and old-fashioned garment become the main readable signs of presence. The overall composition is restrained and unsettling, balancing delicate pale textiles against a broad dark field and a muted rose silhouette.",
+  "full_prompt_zh": "一幅方形艺术摄影描绘一位身穿低饱和玫瑰粉长裙的人物，站在近乎黑色的背景前。人物靠近中央，肩膀稍向右转，头低垂。白布层层包住整个头与脸，柔软布带交叉，看不到眼睛、鼻子或嘴。一角松开的布料垂在被遮盖的头后，给原本平滑的包裹增加不对称边缘。长袖连衣裙是尘粉色，腰间有窄暗腰带束紧，柔和褶皱延伸到下方裁切之外。宽大的白蕾丝领围住肩膀和上胸，胸衣一侧有一簇浅色花形装饰。双手在身体前方低处靠近，部分被袖子和下缘遮住。左侧背景隐约有花纹，但大多数环境留在深暗而柔软的阴影里。光从左上方落在布裹和领口，使其成为最亮表面；粉色衣料得到更安静的亮光，右侧则沉入黑暗。摄影细节足以看清布纹、蕾丝孔隙和细小折痕，深色底仍十分克制。面孔被抹去之后，低头姿态和略有年代感的衣服成为存在感的主要线索。整体构图克制而不安，以精致浅色纺织物平衡宽阔暗色域和低饱和玫瑰粉剪影。",
+  "style_prompt_en": "The photographic treatment is muted and psychologically strange, with precise textile detail set against a deep, minimally described ground. Dusty rose, chalk white, and near-black occupy large separate areas, allowing the pale center to emerge without bright saturation. Soft directional light reveals weave, lace-like openings, and folded edges, while the opposite side falls into velvety shadow. Forms are quietly posed and nearly still; an obscured focal area and small asymmetries create tension within a simple central composition. Surface detail remains sharp on the nearest fabrics but recedes quickly into a dark, low-contrast background. The overall effect is delicate, reserved, and uncanny.",
+  "style_prompt_zh": "这种摄影处理低饱和且有心理异样感，把精确的纺织细节置于深暗、几乎没有说明的底色前。尘玫瑰粉、粉白和近黑色占据分离的大色域，让浅色中心无需强饱和也能浮出。柔和定向光揭示织纹、蕾丝般的孔隙和折叠边缘，对侧落入绒暗阴影。形体安静摆放，几乎静止；被遮住的焦点区域和细微不对称在简洁中央构图里形成张力。近处织物肌理保持清楚，背景很快退入低反差深色。整体效果精致、含蓄而诡异。",
+  "theme_en": "A pink-dressed figure whose head is completely wrapped in white cloth",
+  "theme_zh": "粉色长裙人物的头部完全被白布包裹",
+  "wh_ratio": "1:1",
+  "id": "3522",
+  "name": "Brooke DiDonato",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/brooke-didonato",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "bbf8bf93b2b7f281fe363718aa60a617c7492c7b4ebf08492ee1107fc2b23f60",
+    "gpt_submission_prompt": "A square fine-art photograph shows a solitary figure in a muted rose dress against a nearly black backdrop. The person stands near the center with shoulders turned slightly to the right and the head bowed. Layers of white cloth wrap the entire head and face, crossing in soft bands so no eyes, nose, or mouth can be seen. A loose point of fabric hangs behind the covered head, giving the otherwise smooth wrapping an asymmetric edge. The long-sleeved dress is dusty pink, fitted at the waist by a narrow dark belt and falling in gentle folds beyond the lower crop. A wide white lace collar frames the shoulders and upper chest, and a cluster of pale flower-shaped trim sits to one side of the bodice. The hands rest low and close together in front, partly hidden by the sleeve and the bottom edge. Faint floral marks appear in the left background, but most of the setting remains a deep, softly textured shadow. Light falls from the upper left onto the cloth and collar, making them the brightest surfaces; the pink fabric receives a quieter glow, while the right side sinks into darkness. The photographic detail is precise enough to show the cloth weave, lace openings, and slight creases, though the dark ground stays understated. With the face erased, the bowed posture and old-fashioned garment become the main readable signs of presence. The overall composition is restrained and unsettling, balancing delicate pale textiles against a broad dark field and a muted rose silhouette.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "3e34292b256336a1af524d80fd06e270b2cfb9c2bbc34b59d445b1865cc15875",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A soft analog photograph places a young woman among flowering stems at dusk. Her face sits slightly left of center and turns toward the darker garden beyond the frame. Small blossoms drift across the foreground, several close enough to dissolve into pink blur, while finer flowers and leaves remain just visible around her shoulders. The background is almost black, with a few cool blue openings high among the foliage. A warm, low source of light brushes the face, hair, and textured high-neck fabric, giving the skin a honeyed glow against the cool night greens. The camera is close enough for a quiet portrait but leaves room for the surrounding flowers, so the person feels held within the environment rather than cut out from it. Grain, gentle softness, and slight halation make the image feel like a color film print. Edges are not perfectly crisp; focus settles on the face and then falls away through the foreground stems and deep backdrop. Muted coral, amber, moss green, and blue-black shape the palette. The flower heads repeat irregularly around the sitter, creating an unforced rhythm across the frame. The overall mood is intimate and dreamy, with the darkness doing as much compositional work as the warm light.",
+  "full_prompt_zh": "一张柔和的胶片摄影作品，把一位年轻女子置于黄昏的花枝之间。她的脸略偏左中，望向画外更暗的花园。小花在前景飘散，有几朵离镜头很近，化成粉色模糊光斑；更细的花与叶则在她肩旁隐约可见。背景近乎黑色，只有上方树叶间露出几处冷蓝色空隙。低位的暖光轻触面庞、头发与有纹理的高领织物，使皮肤在冷暗的夜色绿调前泛起蜜色光泽。镜头足够靠近，形成安静肖像，又给周围花朵留下空间，因此人物像是被环境包围，而不是从中剪出。颗粒、轻柔的模糊与微微的光晕，使画面有彩色胶片冲印的感觉。边缘并非完全锐利；焦点停在面庞，随后沿前景花枝与深色背景渐渐消失。柔珊瑚色、琥珀色、苔绿和蓝黑构成色盘。花头以不规则间距围着人物重复，在画面中形成自然的节奏。整体气息亲密、如梦，黑暗与暖光一样承担了构图的作用。",
+  "style_prompt_en": "A close analog color photograph with soft focus, visible grain, and gentle highlight bloom. Warm honey and coral light gathers on one central form while moss green and blue-black surround it. Small organic dots and stems appear at several depths: some crisp near the focus plane, others dissolving into translucent foreground blur. The background is deep but has a few cool openings. Edges fade naturally rather than being sharply cut, and the composition keeps breathing space around its warm center. Irregular repetition and low light create an intimate, dreamlike rhythm.",
+  "style_prompt_zh": "近距离的胶片彩照，焦点柔软，有可见颗粒与轻微高光晕散。蜜色和珊瑚色暖光聚在中心形体上，苔绿与蓝黑将其环绕。细小有机圆点与线条分布于不同深度：焦平面附近较清晰，前方一些则融成半透明的模糊斑。背景深暗，只露出少量冷色空隙。边缘自然隐去而非锐利剪切，构图在温暖中心周围保留透气空间。不规则的重复与低照度形成亲密、梦幻的节奏。",
+  "theme_en": "A dusk portrait in a flower garden",
+  "theme_zh": "暮色花园中的肖像",
+  "wh_ratio": "1:1",
+  "id": "3054",
+  "name": "Petra Collins",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/petra-collins",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "4f03c3896899306d35c71130db4cade484e829c8152f4889fc073eb7b1d4d18a",
+    "gpt_submission_prompt": "A soft analog photograph places a young woman among flowering stems at dusk. Her face sits slightly left of center and turns toward the darker garden beyond the frame. Small blossoms drift across the foreground, several close enough to dissolve into pink blur, while finer flowers and leaves remain just visible around her shoulders. The background is almost black, with a few cool blue openings high among the foliage. A warm, low source of light brushes the face, hair, and textured high-neck fabric, giving the skin a honeyed glow against the cool night greens. The camera is close enough for a quiet portrait but leaves room for the surrounding flowers, so the person feels held within the environment rather than cut out from it. Grain, gentle softness, and slight halation make the image feel like a color film print. Edges are not perfectly crisp; focus settles on the face and then falls away through the foreground stems and deep backdrop. Muted coral, amber, moss green, and blue-black shape the palette. The flower heads repeat irregularly around the sitter, creating an unforced rhythm across the frame. The overall mood is intimate and dreamy, with the darkness doing as much compositional work as the warm light.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "d820491558947460e167b5afcec51a394d8cd862c25560dd0ceb7130dc721967",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square color street photograph looks across a dim diner toward a broad window covered with rain streaks and droplets. A seated patron in a red-brown sweater occupies the lower left foreground in dark profile, head bowed toward a newspaper or menu held above a plate of food. On the tabletop are glass bottles, a red condiment container, small utensils, and reflections in the worn varnish. One warm red pendant lamp hangs near the upper center. Beyond the rain-streaked glass, a green vintage car is parked or passing at the curb, with another pale vehicle behind it. Steel bridge trusses or elevated structures span the street in the hazy distance, and a multicolored neon sign glows to the upper right, its letters unreadable through weather and focus. The exterior is wet and cool gray-blue, with blurred pedestrians and vehicles dissolving into drizzle. The interior remains warm and shadowy, colored by red clothing, amber lamp light, and dark wood. Glass separates these two color temperatures, turning the city into layered reflections and soft smears. The camera stays inside at table height, leaving the patron smaller and darker than the luminous window. Fine film grain and slightly muted mid-century color keep the scene candid rather than polished. There is no readable menu, street name, brand, or caption. The photograph feels quietly observant, finding solitude within a bustling wet city through the contrast between one still reader and the moving world outside.",
+  "full_prompt_zh": "一张方形彩色街头照片从昏暗餐馆望向沾满雨痕和水珠的宽窗。一名穿红棕毛衣的坐客占左下深色侧影，低头看放在餐盘上方的报纸或菜单。桌上有玻璃瓶、红色调味容器、小餐具和磨旧清漆面反光。一盏暖红吊灯挂在上中部。雨窗外一辆绿旧式汽车停在或经过路边，后面还有一辆浅色车。钢桥桁架或高架结构横过朦胧远街，右上多色霓虹标志发光，字被天气和焦点模糊得不可读。室外湿冷灰蓝，模糊行人和车溶入细雨。室内暖而有影，由红衣、琥珀灯和深木染色。玻璃隔开两种色温，把城市变成分层反射和柔涂痕。相机留在室内桌面高度，让坐客比亮窗更小、更暗。细胶片颗粒和略低调的世纪中叶色彩使场景偶然而非抛光。没有可读菜单、街名、品牌或说明。照片安静地观察，通过一名静止读者与窗外流动世界的对比，在忙碌湿城市中找到孤独。",
+  "style_prompt_en": "Use candid color street photography from a shadowed interior toward a bright rain-marked exterior. Separate warm red, amber, and dark wood from cool gray-blue city light with a wet glass plane. Let droplets, streaks, neon smears, reflections, and shallow focus make several translucent visual layers. Position one quiet dark foreground anchor near a lower edge while motion and color gather beyond the window. Preserve fine grain and a slightly aged, muted chromatic range rather than clean digital saturation. The mood is observant and solitary, using an ordinary pause to contrast stillness with a busy, weather-softened world.",
+  "style_prompt_zh": "采用从阴影室内朝明亮雨湿室外拍摄的偶然彩色街头摄影。以湿玻璃平面分隔暖红、琥珀和深木色，与冷灰蓝城市光。雨滴、条痕、霓虹涂抹、反射及浅焦形成数层半透视觉层。一处安静深色前景锚点靠下边，窗外聚集运动与颜色。保留细颗粒和略陈旧低调色域，而非洁净数码饱和。氛围观察性强且孤独，用一次平常停顿对照静止与繁忙、受天气柔化的世界。",
+  "theme_en": "A diner patron reading by a rain-streaked window overlooking old city cars",
+  "theme_zh": "餐馆客人靠雨窗阅读，窗外是旧城市汽车",
+  "wh_ratio": "1:1",
+  "id": "1161",
+  "name": "Fred Herzog",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/fred-herzog",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/fred-herzog.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "dcae16d4df904c28047f602d6a5fbdd4ec55160a114b3b79519d336e94df3a98",
+    "gpt_submission_prompt": "A square color street photograph looks across a dim diner toward a broad window covered with rain streaks and droplets. A seated patron in a red-brown sweater occupies the lower left foreground in dark profile, head bowed toward a newspaper or menu held above a plate of food. On the tabletop are glass bottles, a red condiment container, small utensils, and reflections in the worn varnish. One warm red pendant lamp hangs near the upper center. Beyond the rain-streaked glass, a green vintage car is parked or passing at the curb, with another pale vehicle behind it. Steel bridge trusses or elevated structures span the street in the hazy distance, and a multicolored neon sign glows to the upper right, its letters unreadable through weather and focus. The exterior is wet and cool gray-blue, with blurred pedestrians and vehicles dissolving into drizzle. The interior remains warm and shadowy, colored by red clothing, amber lamp light, and dark wood. Glass separates these two color temperatures, turning the city into layered reflections and soft smears. The camera stays inside at table height, leaving the patron smaller and darker than the luminous window. Fine film grain and slightly muted mid-century color keep the scene candid rather than polished. There is no readable menu, street name, brand, or caption. The photograph feels quietly observant, finding solitude within a bustling wet city through the contrast between one still reader and the moving world outside.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "840f6783cf89c1241778824967538d2d0caea69eff43af39d1e4ca0c69101118",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

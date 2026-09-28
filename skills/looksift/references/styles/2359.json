@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white documentary portrait shows an older man in a light jacket and brimmed hat resting his head against one hand. The framing is close, cropping him at the chest while leaving a strip of pale wall and dark doorway behind. He occupies the left and central portions of the image and leans slightly toward the viewer. A light woven hat with a dark band sits low over his forehead, casting a soft shadow across one eye. His bent arm rises from the lower left, and his knuckles support the side of his head near the temple. He looks directly outward with an expression that seems tired but alert; the lines around the eyes, mouth, and cheeks remain sharply visible. A pale collared shirt opens at the neck beneath a mid-gray jacket, whose broad lapel folds catch soft daylight. Behind the right shoulder, an interior opening recedes into shadow, with simple vertical and horizontal architectural lines providing context without drawing attention away from the face. The wall to the left is bright but gently mottled rather than pure white. Fine photographic grain and a wide range of grays keep the skin, hat weave, jacket cloth, and background surfaces distinct. Light enters from the left and slightly above, lifting the cheek and hat brim while allowing natural shadow along the opposite side of the face and the doorway. No text or decorative graphic appears. The overall composition is candid and intimate, using an unforced pose, textured grayscale, and direct gaze to convey a strong human presence.",
+  "full_prompt_zh": "这幅方形黑白纪实肖像呈现一位年长男子，穿浅色夹克、戴宽檐帽，把头倚在一只手上。取景贴近，在胸部裁断身体，同时在后方留下浅墙和深色门洞一角。他占据画面左侧与中央，身体略向观者倾斜。浅色编织帽有一圈深帽带，低低压在额前，在一只眼上投下柔和阴影。他弯曲的手臂从左下方抬起，指节在太阳穴附近撑住头侧。他直视外方，神情似乎疲惫却警觉；眼周、嘴边和脸颊的纹路清楚可见。浅色翻领衬衫在颈边敞开，外面是中灰色夹克，宽大翻领的折面接住柔和日光。右肩后，室内开口退入阴影，简单的竖向与横向建筑线提供背景，却不抢走对脸的注意。左侧墙面明亮而轻微斑驳，并非纯白。细微摄影颗粒和宽广灰阶让皮肤、帽子编织纹、夹克布料及背景表面保持区别。光从左侧略偏上方进入，抬亮脸颊和帽檐，同时让脸的另一侧及门洞保留自然阴影。没有文字或装饰图形。整体构图坦率而亲密，以毫不造作的姿态、有肌理的灰阶和直接目光传达强烈的人之存在。",
+  "style_prompt_en": "Black-and-white documentary photography favors honest midtone detail, soft daylight, and lightly visible film grain. Bright gray surfaces and dark openings establish depth without artificial blur or theatrical contrast. Textures remain distinct across smooth, woven, and worn areas, while the most precise detail gathers at the central focal plane. Side light shapes volume gently and leaves believable shadow rather than a hard studio rim. Close framing and modest surrounding context create an intimate, unposed rhythm. The overall treatment is direct, tactile, and humane.",
+  "style_prompt_zh": "黑白纪实摄影重视真实的中间调细节、柔和日光和轻微可见的胶片颗粒。明亮灰色表面与深色开口建立纵深，没有人为虚化或舞台式反差。光滑、编织和磨旧区域的肌理彼此可辨，最精确的细节聚在中央焦点平面。侧光温和塑造体积，留下可信阴影而非生硬的影棚轮廓光。近距离取景与简少环境线索形成亲密而自然的节奏。整体处理直接、可触且有人情味。",
+  "theme_en": "An older man in a brimmed hat leaning his head on one hand",
+  "theme_zh": "一位戴宽檐帽的年长男子把头倚在手上",
+  "wh_ratio": "1:1",
+  "id": "2359",
+  "name": "David Goldblatt",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/david-goldblatt",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/david-goldblatt.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "ccdc18dd404da013f3de6138b01937dd0ea282b15e9e6014c52f4d036b71c83a",
+    "gpt_submission_prompt": "A square black-and-white documentary portrait shows an older man in a light jacket and brimmed hat resting his head against one hand. The framing is close, cropping him at the chest while leaving a strip of pale wall and dark doorway behind. He occupies the left and central portions of the image and leans slightly toward the viewer. A light woven hat with a dark band sits low over his forehead, casting a soft shadow across one eye. His bent arm rises from the lower left, and his knuckles support the side of his head near the temple. He looks directly outward with an expression that seems tired but alert; the lines around the eyes, mouth, and cheeks remain sharply visible. A pale collared shirt opens at the neck beneath a mid-gray jacket, whose broad lapel folds catch soft daylight. Behind the right shoulder, an interior opening recedes into shadow, with simple vertical and horizontal architectural lines providing context without drawing attention away from the face. The wall to the left is bright but gently mottled rather than pure white. Fine photographic grain and a wide range of grays keep the skin, hat weave, jacket cloth, and background surfaces distinct. Light enters from the left and slightly above, lifting the cheek and hat brim while allowing natural shadow along the opposite side of the face and the doorway. No text or decorative graphic appears. The overall composition is candid and intimate, using an unforced pose, textured grayscale, and direct gaze to convey a strong human presence.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "c507cfa3dc1ec9ee2c63dba4d886b360bf8f0024eaf43e671cdcb5159bd478aa",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

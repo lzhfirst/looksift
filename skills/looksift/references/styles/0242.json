@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A softly painted winter illustration shows a lone traveler walking along a snow-covered village road at blue dusk. The road enters from the broad, pale foreground and bends gently toward a steep-roofed house set just right of center. Snow has settled thickly on the roof and fences; the walls are dark and partly veiled by falling flakes. Several small windows glow amber, and a brighter exterior lamp spills a warm pool across the road and low snowbanks. The traveler, seen from behind in a long dark coat, remains small on the left side of the path, carrying a compact bag and leaving the surrounding space to speak as loudly as the figure. Thin utility poles and wires cross the upper half in restrained dark lines, adding quiet geometry to the cloudy blue sky. Bare shrubs gather around the house and along the road, their soft silhouettes partly lost in the snowfall. The foreground snow is not flat white: short blue-gray strokes and peach reflections describe ridges, footprints, and uneven drifts. The image favors a blurred, granular brush texture over exact architectural detail, with warm light feathering into the cold air. The darkest accents stay near the house, traveler, and roadside growth, while distance fades into misty blue. The whole frame holds a sheltered sense of arrival within the hush of steady snow.",
+  "full_prompt_zh": "一幅笔法柔和的冬日插画描绘蓝色黄昏里，一名旅人沿着积雪覆盖的村路独自行走。道路从宽阔、浅色的前景进入画面，轻轻弯向中央偏右的一栋陡顶房屋。厚雪落在屋顶与围栏上；墙面深暗，又被飘落的雪花部分遮住。几扇小窗闪着琥珀色，屋外更亮的一盏灯把暖光洒在道路和低矮雪堆上。旅人从背后可见，穿着深色长外套，在小路左侧保持很小的身影，手里提着一只小包，让周围空间拥有与人物同样的表现力。纤细的电线杆与电线以克制的深色线条划过上半部，为阴云覆盖的蓝天添入安静的几何秩序。光秃的灌木聚在房屋周围和路边，柔软的剪影部分消失在降雪中。前景积雪并非平板的白色：短短的蓝灰色笔触和桃色反光描出雪脊、脚印与起伏的积雪。画面更重视模糊、颗粒感的笔触肌理，而非精准的建筑细节，暖光轻轻融入寒冷空气。最深的色调集中在房屋、旅人与路边植物附近，远处则淡入雾蓝。整幅画在持续降雪的寂静中保留一种受到庇护的抵达感。",
+  "style_prompt_en": "The painted illustration is built from muted blue-on-blue fields, granular snow texture, and a few small amber lights. A wide pale lower area narrows toward a darker central mass, creating an unhurried path for the eye. Soft-edged forms and falling white flecks blur depth, while thin dark vertical and diagonal lines add delicate structure overhead. Warm illumination feathers into the surrounding cool tones and leaves faint peach reflections on the lower surface. Short, broken strokes suggest uneven ground and drifting material without hard contouring. The darkest accents remain compact; much of the image stays in closely related slate, powder, and misty blue values. The composition balances broad empty space against a modest cluster of light and shadow. The whole frame feels quiet and sheltered, with softness, grain, and measured warm-cool contrast carrying the mood.",
+  "style_prompt_zh": "这幅绘画插画由低饱和的层层蓝色、颗粒感的雪地肌理和少数琥珀色灯光组成。宽阔浅色的下部向中央较暗的体量收窄，让视线沿着从容的路径行进。柔边形体与飘落的白色碎点模糊了空间深度，上方纤细的深色竖线和斜线则添加轻巧的结构。暖光向四周冷调色彩羽化，在下方表面留下淡淡桃色反光。短促、断续的笔触暗示凹凸地面和飘移的物质，而无需生硬勾边。最深色的重点保持紧凑；画面大部分停留在接近的石板蓝、粉蓝和雾蓝明度中。构图以宽阔留白平衡一小簇光影。整幅画显得安静而有庇护感，情绪主要由柔软边缘、颗粒肌理和克制的冷暖对比承载。",
+  "theme_en": "A lone walker in a snowy village",
+  "theme_zh": "雪村中的独行人",
+  "wh_ratio": "1:1",
+  "id": "0242",
+  "name": "Snowy",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/snowy",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/snowy.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "2ed7d73c5e293afcef5d3cbc393128c2e83e6e352dab33bed9f6087efd2b43da",
+    "gpt_submission_prompt": "A softly painted winter illustration shows a lone traveler walking along a snow-covered village road at blue dusk. The road enters from the broad, pale foreground and bends gently toward a steep-roofed house set just right of center. Snow has settled thickly on the roof and fences; the walls are dark and partly veiled by falling flakes. Several small windows glow amber, and a brighter exterior lamp spills a warm pool across the road and low snowbanks. The traveler, seen from behind in a long dark coat, remains small on the left side of the path, carrying a compact bag and leaving the surrounding space to speak as loudly as the figure. Thin utility poles and wires cross the upper half in restrained dark lines, adding quiet geometry to the cloudy blue sky. Bare shrubs gather around the house and along the road, their soft silhouettes partly lost in the snowfall. The foreground snow is not flat white: short blue-gray strokes and peach reflections describe ridges, footprints, and uneven drifts. The image favors a blurred, granular brush texture over exact architectural detail, with warm light feathering into the cold air. The darkest accents stay near the house, traveler, and roadside growth, while distance fades into misty blue. The whole frame holds a sheltered sense of arrival within the hush of steady snow.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "bdc4791f18f480d21d91c49059cb5f51f1a3760093a203aebcccc4e1911c0336",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square children's-book illustration shows a crowded two-deck riverboat full of cheerful animal characters, with small boats and activity stretching across the surrounding water. The large vessel occupies the center and lower half, its rounded blue hull curving toward the viewer. A yellow stripe and dark ink outline define the side, while railings and a green roof create stacked horizontal levels above. Small clothed animals fill the open decks shoulder to shoulder: some lean on railings, others wave or look out from windows, and a few cluster near the bow. A compact cabin and a tiny orange flag rise from the top deck. On both sides of the boat, smaller rowboats carry more characters; one sits near the lower left and another approaches at the lower right. The pale blue-green river curls around their hulls in short drawn waves. Farther back, a busy riverside town, trees, and tiny distant boats fill the horizon beneath a light cream sky. The density remains playful rather than chaotic because the large boat provides a firm central shape and the tiny surrounding scenes form a loose ring around it. Fine black pen lines give each face, garment, rail, and window a clear contour; watercolor-like washes in mustard yellow, mint green, rust, cream, and soft blue keep the colors gentle. Even daylight from above gives mild shadows under the decks and boats without darkening the page. The overall composition is an exuberant map of small actions centered on one broad floating structure.",
+  "full_prompt_zh": "这幅方形儿童图画书插画呈现一艘挤满快乐动物角色的双层河船，周围水面上还有小船和许多活动。大船占据中央与下半部，圆润蓝船身朝观者弯来。黄色横带和深墨轮廓界定船侧，栏杆与绿屋顶在其上形成层叠水平结构。穿衣的小动物肩挨肩地填满开放甲板：有的倚栏，有的挥手或从窗口望出，船头附近还有几只聚在一起。顶层有紧凑船舱和一面小橙旗。大船两侧较小的划艇载着更多角色；一只在左下附近，另一只从右下接近。浅蓝绿河水以短画出的水纹绕过船身。更远处，繁忙河岸小镇、树木和微小远船填满浅奶油色天空下的地平线。密度虽高仍俏皮而不乱，因为大船提供坚实中央形，周围小场景构成松散环圈。细黑钢笔线给每张脸、衣服、栏杆和窗明确轮廓；芥末黄、薄荷绿、锈色、奶油和柔蓝的水彩式淡染让配色温和。上方均匀日光在甲板和船下留轻影，没有把纸页压暗。整体构图是一张以宽阔漂浮结构为中心、记录许多小动作的热闹地图。",
+  "style_prompt_en": "The illustration combines fine black pen contours with light watercolor-like fills on a warm pale ground. Many small rounded forms and tiny vignettes accumulate around one large central shape, creating a busy but navigable rhythm. Mustard yellow, mint green, rust, soft blue, and cream stay gentle and slightly transparent. Clear outlines preserve legibility at small scale, while loose washes and paper grain keep the scene friendly and handmade. Even daylight and shallow shadows make every corner easy to explore. The overall effect is playful, generous, and full of miniature discoveries.",
+  "style_prompt_zh": "这种插画把细黑钢笔轮廓与暖浅底上的水彩式薄填色结合起来。许多小圆形与微型场景围绕一块中央大形积累，形成繁忙却可循的节奏。芥末黄、薄荷绿、锈色、柔蓝与奶油色保持温和、略透明。清楚外线让小尺度仍可读，松散淡染与纸纹让场景亲切且有手作感。均匀日光与浅影使每个角落都容易观看。整体效果俏皮、丰盛，充满微小发现。",
+  "theme_en": "A crowded animal riverboat amid tiny boats and riverside bustle",
+  "theme_zh": "一艘挤满动物的河船，周围小艇与河岸热闹非凡",
+  "wh_ratio": "1:1",
+  "id": "3101",
+  "name": "Richard Scarry",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/richard-scarry",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "be7c443f60c2a46259f794bec584ba1f2d5a1af654e0d679a3f2a991e1d2b94c",
+    "gpt_submission_prompt": "A square children's-book illustration shows a crowded two-deck riverboat full of cheerful animal characters, with small boats and activity stretching across the surrounding water. The large vessel occupies the center and lower half, its rounded blue hull curving toward the viewer. A yellow stripe and dark ink outline define the side, while railings and a green roof create stacked horizontal levels above. Small clothed animals fill the open decks shoulder to shoulder: some lean on railings, others wave or look out from windows, and a few cluster near the bow. A compact cabin and a tiny orange flag rise from the top deck. On both sides of the boat, smaller rowboats carry more characters; one sits near the lower left and another approaches at the lower right. The pale blue-green river curls around their hulls in short drawn waves. Farther back, a busy riverside town, trees, and tiny distant boats fill the horizon beneath a light cream sky. The density remains playful rather than chaotic because the large boat provides a firm central shape and the tiny surrounding scenes form a loose ring around it. Fine black pen lines give each face, garment, rail, and window a clear contour; watercolor-like washes in mustard yellow, mint green, rust, cream, and soft blue keep the colors gentle. Even daylight from above gives mild shadows under the decks and boats without darkening the page. The overall composition is an exuberant map of small actions centered on one broad floating structure.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "02c7579c0ae565cc4a381f8f2f890046c598ff67a65a849e58927d03984e45a0",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

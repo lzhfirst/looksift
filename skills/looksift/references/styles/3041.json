@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square fine-art color photograph shows a young woman seated among tall dry grasses, surrounded by many small pale floating flecks. She is centered in the upper middle, looking directly toward the viewer with a serious, thoughtful expression. Her auburn hair is gathered back, with soft curls near her ears. She wears a high-necked pink coat or dress with a small allover pattern and lightly puffed shoulders. One hand rests against her cheek while the other arm folds across her body, making the pose inward and still. The surrounding grass rises to shoulder height, filling the lower and side edges with fine tan and muted rose stems. Behind her, the field softens into a cool blue-gray haze, with no distinct horizon or structure. Numerous white flecks drift in front of and behind the figure; the closest ones are large blurred circles while distant points stay smaller, creating a layered depth around her face. The color palette is quiet: dusty pink, pale beige, faded brown, blue-gray, and cream. Light is soft and diffuse, apparently from the cloudy upper left, gently lifting the forehead and coat without casting hard shadows. The face is relatively sharp, while foreground stems and floating flecks fade into shallow-focus softness. Slight photographic grain and muted contrast give the image a nostalgic, dreamlike surface. The overall composition uses a centered still pose and a dense, almost weightless field of pale marks to make the ordinary setting feel suspended in time.",
+  "full_prompt_zh": "这幅方形艺术彩色照片呈现一位年轻女子坐在高高的干草间，周围漂浮许多浅色小斑点。她位于上方中央，直视观者，神情严肃而沉思。红棕头发向后拢起，耳边有柔软卷发。她穿高领粉色外套或连衣裙，布面布满细小图案，肩部略蓬。一只手靠在脸颊上，另一只手臂横在身前，使姿态内敛静止。周围草茎升到肩部，细浅褐与低调玫瑰色茎杆填满下方及两侧。身后原野柔化进冷蓝灰薄雾，没有清楚地平线或建筑。许多白斑漂在人物前后；最近的成大而模糊的圆点，远处则更小，在面孔周围建立层叠纵深。配色安静：带灰粉、浅米、褪棕、蓝灰与奶油色。光柔和漫射，似乎来自多云天空左上方，轻轻挑亮前额与衣服，没有硬投影。面部相对清楚，前景草茎与漂浮斑点则淡入浅景深柔化。轻微摄影颗粒与压低反差给图像怀旧而梦境般的表面。整体构图用居中静姿和密集、近乎失重的浅色线迹，使普通场所像悬停在时间里。",
+  "style_prompt_en": "The fine-art photograph uses muted dusty pink, faded beige, cool blue-gray, and cream in a soft, low-contrast range. Diffuse light keeps shadows gentle, while shallow depth of field turns near and far particles into differently sized pale circles. A relatively crisp central zone is surrounded by layered fine stems, grain, and atmospheric blur. The surface feels nostalgic without becoming sepia, retaining a cool veil over warm accents. Dense small marks fill the field but leave a calm space around the main focal area. The result is delicate, inward, and quietly suspended.",
+  "style_prompt_zh": "这种艺术摄影在柔和低反差范围内使用带灰粉、褪米、冷蓝灰和奶油色。漫射光使阴影温和，浅景深把近远细点变成大小不同的浅圆。相对清晰的中央区域由层叠细线、颗粒和空气模糊包围。表面有怀旧感，却没有变成棕褐单色，暖色点缀上仍覆一层冷薄纱。密集小线迹填满色域，但主要焦点周围仍留安静空间。结果纤细、内向，仿佛安静悬停。",
+  "theme_en": "A woman in dusty pink among grasses and pale drifting flecks",
+  "theme_zh": "一位穿灰粉衣裳的女子坐在草间与浅色飘点中",
+  "wh_ratio": "1:1",
+  "id": "3041",
+  "name": "Oleg Oprisco",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/oleg-oprisco",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "c44120845fa1c98ea7cc976a63ba1182f44838e812c5676512a144e84215b0f5",
+    "gpt_submission_prompt": "A square fine-art color photograph shows a young woman seated among tall dry grasses, surrounded by many small pale floating flecks. She is centered in the upper middle, looking directly toward the viewer with a serious, thoughtful expression. Her auburn hair is gathered back, with soft curls near her ears. She wears a high-necked pink coat or dress with a small allover pattern and lightly puffed shoulders. One hand rests against her cheek while the other arm folds across her body, making the pose inward and still. The surrounding grass rises to shoulder height, filling the lower and side edges with fine tan and muted rose stems. Behind her, the field softens into a cool blue-gray haze, with no distinct horizon or structure. Numerous white flecks drift in front of and behind the figure; the closest ones are large blurred circles while distant points stay smaller, creating a layered depth around her face. The color palette is quiet: dusty pink, pale beige, faded brown, blue-gray, and cream. Light is soft and diffuse, apparently from the cloudy upper left, gently lifting the forehead and coat without casting hard shadows. The face is relatively sharp, while foreground stems and floating flecks fade into shallow-focus softness. Slight photographic grain and muted contrast give the image a nostalgic, dreamlike surface. The overall composition uses a centered still pose and a dense, almost weightless field of pale marks to make the ordinary setting feel suspended in time.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "7800e2a557959efd41e3bb17a92fa696d0d377bc3b7e7413f267552d0b16cc50",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

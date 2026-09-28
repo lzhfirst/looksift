@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A decorative tempera like painting presents an imagined garden of terraced water, rounded hills, tall cypress forms, and small figures. In the right foreground, an elderly bearded figure in a long dark teal robe and pale head covering stands on a circular stone platform beside a smaller richly dressed companion. One hand is raised in a quiet gesture toward a white bird perched just across a narrow band of water. In the lower left, two larger white long necked birds stand together on an island of brown rock, their pale shapes shining against a dark teal pool filled with tiny pale marks and muted reflections. Beyond them, curved ocher paths, layered green banks, and a winding channel carry the eye into a tapestry of ocher domes, arches, pale buildings, and upright dark blue green trees. The distance does not recede by natural perspective alone; it is flattened into stacked bands and patterned shapes, giving every part of the square image a deliberate place. Fine outlines hold forms together while granular paint and small ornamental marks soften the surfaces. Light appears as an even gold tinted glow across the scene, with little hard shadow and gentle contrast between cream birds, warm stone, and cool water. The whole painting feels ceremonial and dreamlike, its narrative figures embedded in a meticulously ordered landscape of color and pattern.",
+  "full_prompt_zh": "一幅近似蛋彩画的装饰性绘画呈现一座想象的园林，层叠的水域、圆润山丘、高耸的柏树形态与小人物布满其中。右侧前景，一位白须长者身穿深蓝绿色长袍、头覆浅色布，站在圆形石台上，身旁有一位衣着华丽的较小伙伴。他抬起一只手，安静地指向窄窄一带水面另一侧停栖的白鸟。左下方，两只更大的白色长颈鸟并立在棕色岩岛上，浅色形体映亮深青绿色水池，池内散布着细小浅色记号与含蓄倒影。其后，弯曲的赭黄小径、层层绿色河岸和蜿蜒水道把视线带入由赭色穹顶、拱门、浅色建筑与竖立的深蓝绿树木织成的画面。远景并不单靠自然透视退去，而被压平成层叠色带与图案形状，使方形画面的每处都有刻意安排。细线把形体维系在一起，颗粒状颜料与细小装饰痕迹柔化表面。光感像均匀的金色辉光洒满全景，几乎没有生硬影子；奶油白色鸟、暖色石面与冷色水面之间形成温和对比。整幅画庄重而如梦，叙事人物嵌入由色彩与图案精心组织的风景。",
+  "style_prompt_en": "A decorative tempera like painting organized as stacked, interlocking bands of landscape and ornament. Flatten depth deliberately while still allowing a winding route through the image, using rounded earth forms, upright narrow silhouettes, and small precisely placed details to create a patterned rhythm. Outline shapes finely and fill them with muted teal, ocher, cream, and warm gold in gently textured, granular layers. Balance large dark pools or masses with pale accents that act as visual punctuation. Use even diffuse golden illumination, sparse hard shadows, and restrained value contrast so the entire frame reads as a unified tapestry. Let symbolic stillness and careful surface pattern carry the atmosphere; keep every edge and interval intentional.",
+  "style_prompt_zh": "采用近似蛋彩画的装饰语言，将风景与纹样组织成层层交锁的色带。有意压平深度，同时保留一条穿过画面的蜿蜒视觉路径；用圆润土色形体、狭长竖立的剪影和准确安放的细节点缀建立图案节奏。以细线勾定形状，再用含蓄的青绿、赭黄、奶油白和暖金色填入轻微颗粒感的层面。用大块深色水面或色块平衡浅色点缀，使它们成为视觉标点。运用均匀漫射的金色光感、极少硬影和克制的明度对比，让整幅画读作统一的织锦。由象征性的静谧和精心处理的表面图案承载气氛，使每处边缘与间隔都有意图。",
+  "theme_en": "Figures and white birds beside a patterned pool",
+  "theme_zh": "图案化水池旁的人物与白鸟",
+  "wh_ratio": "1:1",
+  "id": "1625",
+  "name": "John Duncan",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/john-duncan",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/john-duncan.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "a2d6a6ceaf4fb70f915552bf2623f8ca829be26453622246c2f40661b822f86d",
+    "gpt_submission_prompt": "A decorative tempera like painting presents an imagined garden of terraced water, rounded hills, tall cypress forms, and small figures. In the right foreground, an elderly bearded figure in a long dark teal robe and pale head covering stands on a circular stone platform beside a smaller richly dressed companion. One hand is raised in a quiet gesture toward a white bird perched just across a narrow band of water. In the lower left, two larger white long necked birds stand together on an island of brown rock, their pale shapes shining against a dark teal pool filled with tiny pale marks and muted reflections. Beyond them, curved ocher paths, layered green banks, and a winding channel carry the eye into a tapestry of ocher domes, arches, pale buildings, and upright dark blue green trees. The distance does not recede by natural perspective alone; it is flattened into stacked bands and patterned shapes, giving every part of the square image a deliberate place. Fine outlines hold forms together while granular paint and small ornamental marks soften the surfaces. Light appears as an even gold tinted glow across the scene, with little hard shadow and gentle contrast between cream birds, warm stone, and cool water. The whole painting feels ceremonial and dreamlike, its narrative figures embedded in a meticulously ordered landscape of color and pattern.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "6fe0d021cd98fa2b11080a27f4a30df6e68dc1740dc14ccb5f60803ea263f95b",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

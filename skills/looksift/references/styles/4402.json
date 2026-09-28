@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square oil portrait shows a young man and woman seated close together, facing forward with controlled, unsmiling expressions. The man at left has neatly parted dark hair and wears a dark suit, pale rounded collar, ochre patterned tie and pocket square. The woman at right wears a black cloche-style hat and dark dress with a pale soft neckline; small curls emerge beside her cheeks, and red lipstick makes a restrained accent. Their faces are smoothly and precisely modeled, with cool pale skin and slightly flushed cheeks, while the background remains a compressed field of ornamental wallpaper and framed pictorial fragments in brown and muted gold. Both heads align near the same height, and their shoulders form a broad stable lower mass. There is little gestural interaction between them; the relationship is conveyed by proximity and parallel frontality. The paint surface is controlled and matte, with crisp garment edges and carefully observed facial planes. Soft even light comes from the front, leaving shallow shadows under the hat brim and collar. The dark clothing separates sharply from the warm patterned ground without creating theatrical chiaroscuro. The image has an interwar stillness, almost photographic in its exactness but undeniably painted in its subtle color transitions. The whole composition feels psychologically taut because each figure remains inward despite their formal togetherness.",
+  "full_prompt_zh": "一幅正方形油画肖像呈现一对年轻男女紧靠而坐，正对观者，神情受控且不露笑意。左侧男子深发整齐分缝，穿深色西装、浅色圆领、赭色花纹领带并露出方巾。右侧女子戴黑色钟形帽，穿深裙，领口有柔和浅色布料；面颊旁露出小卷发，红唇成为克制色彩重音。面孔塑形光滑而精确，冷调浅肤色带轻微面颊红晕；身后背景则是压缩的棕色与低饱和金色装饰壁纸和框装图像碎片。两人的头大致齐平，肩部形成宽阔稳定的下方体块。他们之间几乎没有动作互动，关系由靠近与平行的正面姿态传达。颜料表面受控而哑光，衣边清楚，面部转折观察仔细。柔和均匀的光从前方照来，帽檐和衣领下只有浅阴影。深服装与暖纹样背景清楚分开，却不形成舞台式明暗。图像具有两次大战之间的静止气息，精确程度近乎摄影，但细微色彩过渡明确属于绘画。整体心理张力来自两人形式上相伴，却各自保持内向。",
+  "style_prompt_en": "The style is precise interwar figurative oil painting with cool smooth facial modeling, matte dark clothing, shallow compressed space and restrained ornamental grounds. Parallel frontal alignment and stable lower masses create formal stillness. Muted browns and ochres support small concentrated red accents, while soft even light keeps shadows shallow. Crisp edges and subtle flesh-color transitions provide almost photographic exactness without losing painted texture. Psychological tension arises from quiet proximity, controlled expression and carefully balanced square composition.",
+  "style_prompt_zh": "这种风格是精确的两次大战之间具象油画，具有冷调光滑面部塑形、哑光深色衣料、压缩浅空间与克制装饰底纹。平行正面排列和稳定下部体块形成正式静止感。低饱和棕与赭承托少量集中红色重音，柔和均匀的光使阴影较浅。清晰边缘和细腻肤色过渡带来近乎摄影的准确性，又保留绘画表面。心理张力来自安静靠近、受控神情与精心平衡的正方形构图。",
+  "theme_en": "A reserved couple before patterned interior walls",
+  "theme_zh": "在纹样室内墙前神情克制的一对男女",
+  "wh_ratio": "1:1",
+  "id": "4402",
+  "name": "Christian Schad",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/christian-schad.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "50143d9ab1af874f8881e6a8eba0c881693a5e39a081d5f737281ac040c4331e",
+    "gpt_submission_prompt": "A square oil portrait shows a young man and woman seated close together, facing forward with controlled, unsmiling expressions. The man at left has neatly parted dark hair and wears a dark suit, pale rounded collar, ochre patterned tie and pocket square. The woman at right wears a black cloche-style hat and dark dress with a pale soft neckline; small curls emerge beside her cheeks, and red lipstick makes a restrained accent. Their faces are smoothly and precisely modeled, with cool pale skin and slightly flushed cheeks, while the background remains a compressed field of ornamental wallpaper and framed pictorial fragments in brown and muted gold. Both heads align near the same height, and their shoulders form a broad stable lower mass. There is little gestural interaction between them; the relationship is conveyed by proximity and parallel frontality. The paint surface is controlled and matte, with crisp garment edges and carefully observed facial planes. Soft even light comes from the front, leaving shallow shadows under the hat brim and collar. The dark clothing separates sharply from the warm patterned ground without creating theatrical chiaroscuro. The image has an interwar stillness, almost photographic in its exactness but undeniably painted in its subtle color transitions. The whole composition feels psychologically taut because each figure remains inward despite their formal togetherness.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "64d5b909bf0d027c51cc62de75487faa0b93d719bcd8b246e90b0a539ead0f98",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

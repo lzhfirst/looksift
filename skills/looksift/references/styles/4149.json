@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square colorful painting shows a small room crowded with framed pictures, tables, chairs, flowers, and a tall central window. The walls are deep cobalt and violet, covered with pictures in uneven gold and dark frames. Through the window, a yellow moon hangs above blue water and a narrow shoreline, creating a calm opening within the busy interior. On the left, a small round table and bentwood chair stand against the wall. Near the center, a bright coral chair sits beneath the frames; a larger round table occupies the lower right with a vase of pale flowers and small objects upon it. The floor is striped with warm red, ochre, teal, and blue strokes that lead inward toward the window. Objects are simplified but readily legible, their contours outlined in dark blue and their surfaces filled with flat and lightly textured color. The room has a playful density: nearly every wall area holds a frame, yet the window and floor keep a clear path for the eye. Light comes from the moonlit window and warm interior lamps at the sides, brightening picture edges, flowers, and tabletops while corners remain saturated and dark. Brush marks and slight misregistration give the painted color a lively handmade quality. No lettering is readable inside the frames. The overall composition is joyous and intimate, balancing the cool night opening with warm furniture accents and rhythmic interior pattern.",
+  "full_prompt_zh": "一幅方形浓彩绘画展现一间摆满画框、桌椅、花朵和中央高窗的小房间。墙面是深钴蓝与紫色，挂着大小不齐的金色与深色画框。窗外一轮黄色月亮悬在蓝色水面和狭窄岸线上方，在繁忙室内打开平静的视口。左侧一张小圆桌与弯木椅靠墙站着。中央附近一把亮珊瑚色椅子位于画框下方；右下较大的圆桌上放着一瓶浅色花和几件小物。地板由暖红、赭黄、青绿和蓝色条状笔痕组成，引导视线向窗内走。物件被简化却仍易辨认，轮廓由深蓝勾出，表面填以平面而略带肌理的色彩。房间俏皮地拥挤：几乎每块墙都挂画，但窗与地板仍给视线留出清楚路线。光来自月色窗口和两侧暖室内灯，照亮画框边、花与桌面，角落保持饱和而深暗。笔痕和轻微套色错位给画中颜色活泼的手工感。画框内没有可读文字。整体构图快乐而亲密，以清冷夜色开口平衡暖家具强调与有韵律的室内图案。",
+  "style_prompt_en": "Colorful painterly illustration simplifies forms into dark outlined shapes filled with flat yet lightly brushed color. Cobalt, violet, teal, coral, ochre, and gold alternate in compact patches, with a small pale opening providing relief from the dense field. Edges are readable but slightly irregular, and visible strokes or tiny registration shifts keep the surface lively. Mixed cool and warm light creates local highlights without dissolving the graphic structure: cool radiance occupies one opening while warm accents flicker around it. Repeated rectangular, circular, and stripe rhythms organize a crowded image into a clear inward path. The effect is playful, intimate, and richly patterned.",
+  "style_prompt_zh": "浓彩绘画式插画把形体简化成由深色勾线圈住、内部填以平面但略带笔触色彩的形状。钴蓝、紫、青绿、珊瑚红、赭黄与金色在紧凑色块中交替，少量浅色开口为密集色域提供缓和。边缘可读却略不规则，可见笔痕和微小套色错位使表面活跃。冷暖混合光制造局部高光，却不融化图形结构：冷亮集中于一个开口，暖色强调在周围闪动。重复的矩形、圆形和条带节奏把拥挤画面组织为清楚的向内路线。效果俏皮、亲密且纹样丰厚。",
+  "theme_en": "A richly colored room with tables and a moonlit view",
+  "theme_zh": "摆着桌椅且能望见月夜的浓彩房间",
+  "wh_ratio": "1:1",
+  "id": "4149",
+  "name": "Raoul Dufy",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/raoul-dufy.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "6090468271fecca819e339e7802f23df76b2095cb646bb45140aa2a2218cf25e",
+    "gpt_submission_prompt": "A square colorful painting shows a small room crowded with framed pictures, tables, chairs, flowers, and a tall central window. The walls are deep cobalt and violet, covered with pictures in uneven gold and dark frames. Through the window, a yellow moon hangs above blue water and a narrow shoreline, creating a calm opening within the busy interior. On the left, a small round table and bentwood chair stand against the wall. Near the center, a bright coral chair sits beneath the frames; a larger round table occupies the lower right with a vase of pale flowers and small objects upon it. The floor is striped with warm red, ochre, teal, and blue strokes that lead inward toward the window. Objects are simplified but readily legible, their contours outlined in dark blue and their surfaces filled with flat and lightly textured color. The room has a playful density: nearly every wall area holds a frame, yet the window and floor keep a clear path for the eye. Light comes from the moonlit window and warm interior lamps at the sides, brightening picture edges, flowers, and tabletops while corners remain saturated and dark. Brush marks and slight misregistration give the painted color a lively handmade quality. No lettering is readable inside the frames. The overall composition is joyous and intimate, balancing the cool night opening with warm furniture accents and rhythmic interior pattern.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "b8623280b3b3c685a7fc1abcde1d3b443f6f6d6815c5af5cdf7aaaaa37d85b06",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square pen and watercolor illustration shows a small, eccentric traveler walking rightward along a sandy bank beneath a clear blue sky. The figure wears a frayed green coat whose ragged hem swings above thin legs and pointed shoes. An ocher pointed hat sits over untidy hair, and a large rust orange pack bulges across the back, with a few twigs or small objects protruding from its top. Both hands grip a long irregular walking stick that rises almost to the upper edge. A scruffy face with projecting nose and chin is drawn in a handful of expressive ink lines. The traveler is placed just left of center near the crest of the bank, leaving a broad area of open sky above and a pale waterline stretching to the right. At the left edge, fine dry grasses lean from a low tufted slope. The sandy foreground is mottled with gray, cream, olive, and faint brown washes, its ridges described by short fine strokes and soft shadow. A tiny dark horizontal mark breaks the far horizon but remains indistinct. Bright, even daylight lifts the sky to turquoise at the top and fades it to pale blue near the water. The hand drawn border is slightly irregular, and the paper's warm white margin surrounds the picture. Fine ink contours and transparent color leave generous unpainted gaps, giving the humble journey a light, humorous, and wistful mood.",
+  "full_prompt_zh": "一幅方形钢笔水彩插画描绘一位小小的古怪旅人，在晴朗蓝天下沿沙岸向右走去。人物穿着磨破的绿色外套，参差下摆在细腿和尖头鞋上方晃动。赭黄色尖帽压在蓬乱头发上，背上鼓着一个锈橙色大包，顶部伸出几根细枝或小物件。双手握住一根不规则长手杖，杖尖几乎到达画面上缘。蓬乱的脸、突出鼻子和下巴由寥寥几道富于表情的墨线勾出。旅人位于中间略左的沙岸脊线上，头顶留出大片空天，右侧延展浅色水线。左边缘，纤细枯草从低矮草坡倾斜生出。沙地前景带灰、奶油白、橄榄绿和淡棕色斑驳洗色，起伏由细短笔划与柔软阴影描述。远处地平线有一道很小的深色水平痕迹，难以辨明。明亮均匀日光把天空上方抬成绿松石色，近水处渐淡为浅蓝。手画边框略不规则，纸张的暖白边缘围住图画。细墨轮廓与通透颜色留下充足未着色空隙，让这趟朴素旅程显得轻盈、幽默而略带惆怅。",
+  "style_prompt_en": "Pen and watercolor illustration pairs nimble, slightly uneven ink lines with transparent washes over warm paper. A small expressive focal shape is set against generous open space, allowing the eye to move through a quiet horizon and low textured ground. Color remains economical: turquoise and pale blue in the open area, ocher, muted green, rust orange, and gray brown in the denser passages. Fine hatching and scattered short strokes describe roughness, while loose watery pigment softens the larger planes. Silhouettes are gently exaggerated and irregular, giving the image humor without heavy caricature. Light is broad and clear, with only shallow shadows under raised edges and along uneven surfaces. The line drawn border wavers subtly and the untouched paper remains part of the composition. The whole image feels whimsical, airy, and humane, with delicate visual detail concentrated around one compact center of interest.",
+  "style_prompt_zh": "钢笔水彩插画把灵活略不齐整的墨线与暖色纸面上的通透洗色相配。小巧而富于表情的视觉焦点置于宽裕留白前，让视线越过安静水平线和低矮有肌理的地面。颜色节约：开放区域用绿松石与浅蓝，较密集处用赭黄、低饱和绿、锈橙和灰棕。细排线与零散短笔描绘粗糙感，松散水色柔化较大平面。剪影温和夸张且不规则，带来幽默而不过分讽刺。光宽广清澈，仅在凸起边缘下和不平表面留下浅影。手画边框微微摇摆，未着色纸面成为构图的一部分。整体奇想、轻盈而有人情味，细腻视觉细节聚集在一个紧凑的兴趣中心。",
+  "theme_en": "A ragged traveler crossing a sandy bank with a walking stick",
+  "theme_zh": "衣衫褴褛的旅人拄杖走过沙岸",
+  "wh_ratio": "1:1",
+  "id": "0791",
+  "name": "William Steig",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/william-steig",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/william-steig.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "2244aec5647474de817353a8e948ff0db31833298487e9e5eb9e46c57199b226",
+    "gpt_submission_prompt": "A square pen and watercolor illustration shows a small, eccentric traveler walking rightward along a sandy bank beneath a clear blue sky. The figure wears a frayed green coat whose ragged hem swings above thin legs and pointed shoes. An ocher pointed hat sits over untidy hair, and a large rust orange pack bulges across the back, with a few twigs or small objects protruding from its top. Both hands grip a long irregular walking stick that rises almost to the upper edge. A scruffy face with projecting nose and chin is drawn in a handful of expressive ink lines. The traveler is placed just left of center near the crest of the bank, leaving a broad area of open sky above and a pale waterline stretching to the right. At the left edge, fine dry grasses lean from a low tufted slope. The sandy foreground is mottled with gray, cream, olive, and faint brown washes, its ridges described by short fine strokes and soft shadow. A tiny dark horizontal mark breaks the far horizon but remains indistinct. Bright, even daylight lifts the sky to turquoise at the top and fades it to pale blue near the water. The hand drawn border is slightly irregular, and the paper's warm white margin surrounds the picture. Fine ink contours and transparent color leave generous unpainted gaps, giving the humble journey a light, humorous, and wistful mood.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "b60a13d622dcebbaae9939c6d26bfb82d14ef5f3661321ec3e42a89732604c0a",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A vivid pointillist painting shows a stone lighthouse standing on a harbor wall beside a rough blue sea. The tower rises slightly right of center, warm ocher and pink masonry catching light above a low line of quayside buildings. Foaming waves roll across the foreground in bands of indigo, turquoise, violet, and white, while a dark offshore shape sits near the left horizon. The sky occupies much of the picture and is the most active element: huge clouds of cream, pale yellow, lavender, and blue curl upward in repeated circular rhythms, set against deep cobalt passages. A distant plume or bright break near the horizon connects the sea to the swirling cloud mass. The entire image is assembled from small separated touches of pigment rather than blended color. Dots and short dashes of contrasting hue shimmer across water, masonry, and sky, allowing light to arise optically from neighboring marks. Forms remain readable at a distance, but close viewing reveals a lively mosaic of individual strokes. The harbor wall gives a stable horizontal and the lighthouse a vertical anchor against the moving waves and clouds. Warm peach and ocher on stone counterbalance cool blue-violet water. The scene is energetic and expansive, with the precise repetition of colored marks turning a stormy coastal view into a luminous, rhythmic painted surface.",
+  "full_prompt_zh": "一幅鲜明的点彩绘画，表现一座石砌灯塔站在港口堤墙上，旁边是起伏的蓝色海面。塔略偏中心右侧，暖赭与粉色石材在低矮码头建筑上方接住光。带白沫的浪在前景横向滚动，色带由靛蓝、绿松石、紫罗兰和白色组成；左侧地平线附近有一块深色远方形体。天空占据大部分画面，也是最活跃的部分：奶油白、淡黄、浅紫与蓝色的巨大云团以反复圆旋节奏向上卷起，深钴蓝区域从中穿过。地平线附近遥远的烟羽或明亮缺口把海面与旋动云体连在一起。整个图像由彼此分离的小块颜料构成，而不是融合色。不同色相的点和短划在水、石材与天空中闪烁，让光从相邻笔触的视觉混合中生出。远看形体仍可辨，近看则是活跃的独立笔触镶嵌。港墙提供稳定横线，灯塔成为竖向锚点，对照运动的海浪与云。石材上的暖桃和赭色平衡冷蓝紫海水。场景充满力量且开阔，颜色痕迹的精确重复把暴风海岸变成发亮、有节奏的绘画表面。",
+  "style_prompt_en": "Luminous pointillist painting built from many small separated dots and short dashes of pigment. Deep cobalt, indigo, turquoise, violet, cream, pale yellow, and warm ocher meet in shimmering optical mixtures. Broad circular rhythms roll across the upper field; broken horizontal bands create movement below. A clear vertical accent and stable low line hold the composition amid the restless marks. Warm and cool touches remain distinct up close, while forms cohere at a distance. The surface is granular, tactile, and bright, with light produced by neighboring colors rather than smooth airbrushed gradients.",
+  "style_prompt_zh": "发亮的点彩绘画风格，由大量彼此分离的小点与短划颜料构成。深钴蓝、靛蓝、绿松石、紫罗兰、奶油白、淡黄与暖赭色相邻，产生闪烁的视觉混色。宽阔圆旋节奏翻过上部色场，下方断续水平带制造运动。清楚的竖向点缀与稳定低线在躁动痕迹中稳住构图。近看冷暖笔触各自分明，远看形体凝聚。表面有颗粒、可触且明亮，光来自相邻颜色，而非平滑喷绘渐层。",
+  "theme_en": "A lighthouse and stormy sea beneath swirling pointillist clouds",
+  "theme_zh": "旋涡状点彩云下的灯塔与风浪海面",
+  "wh_ratio": "1:1",
+  "id": "1143",
+  "name": "Paul Signac",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/paul-signac",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/paul-signac.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "9d001fc13c3c28719bd94c598299eb95a4e5787a91c8e477956c5b5a162a4c7d",
+    "gpt_submission_prompt": "A vivid pointillist painting shows a stone lighthouse standing on a harbor wall beside a rough blue sea. The tower rises slightly right of center, warm ocher and pink masonry catching light above a low line of quayside buildings. Foaming waves roll across the foreground in bands of indigo, turquoise, violet, and white, while a dark offshore shape sits near the left horizon. The sky occupies much of the picture and is the most active element: huge clouds of cream, pale yellow, lavender, and blue curl upward in repeated circular rhythms, set against deep cobalt passages. A distant plume or bright break near the horizon connects the sea to the swirling cloud mass. The entire image is assembled from small separated touches of pigment rather than blended color. Dots and short dashes of contrasting hue shimmer across water, masonry, and sky, allowing light to arise optically from neighboring marks. Forms remain readable at a distance, but close viewing reveals a lively mosaic of individual strokes. The harbor wall gives a stable horizontal and the lighthouse a vertical anchor against the moving waves and clouds. Warm peach and ocher on stone counterbalance cool blue-violet water. The scene is energetic and expansive, with the precise repetition of colored marks turning a stormy coastal view into a luminous, rhythmic painted surface.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "91502702fd461d319d9527b3b962c71415964561ed36521a837bc793548dfeaa",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square architectural photomontage shows a single residential tower standing alone on a broad, nearly empty paved plaza. The tower is assembled from many mismatched apartment blocks stacked in alternating directions around a narrow central support. Some floors project far to the left, others to the right, forming a precarious tiered silhouette with large gaps between levels. Each module retains believable everyday details: windows, small balconies, white frames, colored cladding in muted red, yellow, tan, and gray, roof antennas, and occasional plants. The uppermost block is a pale rectangular room that hangs outward like a heavy cap. The ground beneath is flat and open, with a low curb, a small light pole at right, and a thin row of distant trees. A pale blue sky with soft white cloud banks gives the fantastic structure a plain daytime setting. Sunlight is diffuse enough that the built surfaces remain evenly readable, while small undercuts and overhangs show darker shade. The camera faces the tower from a moderate distance at ground level, keeping vertical lines stable and the whole strange object within the frame. The image feels both realistic and impossible, its effect created by precise compositing of ordinary material textures and extraordinary stacking.",
+  "full_prompt_zh": "一张方形建筑合成照片呈现一座孤立住宅塔，立在宽阔、近乎空荡的铺装广场上。塔由许多不匹配的公寓块绕狭窄中央支座交替方向堆叠而成。有的楼层向左伸很远，有的向右，形成仿佛不稳的层叠轮廓，层与层之间留大空隙。每个模块都保留可信日常细节：窗、小阳台、白窗框、低调红黄棕灰外墙、屋顶天线和偶尔的植物。最高块是一间向外悬出的浅色矩形房间，像沉重帽子。下方地面平坦开阔，有低路缘、右边一根小灯杆和远处细树线。淡蓝天空与柔白云团为奇异结构提供普通白天背景。阳光足够漫散，使建筑表面均匀可读，凹口和悬挑下方则较暗。相机在地面高度、中等距离正面拍摄，竖线稳定，整个怪异物体完整纳入画框。图像既写实又不可能，效果来自普通材质纹理的精确合成和非常规的堆叠方式。",
+  "style_prompt_en": "Plausible architectural photomontage built from ordinary textured modules arranged into an impossible yet balanced silhouette. Alternating horizontal cantilevers and a narrow central spine create clear structural rhythm. Muted brick red, ochre, cream, and concrete gray sit beneath soft blue daylight. Realistic windows, shadows, and small scale cues maintain photographic credibility against ample empty ground and sky.",
+  "style_prompt_zh": "可信的建筑照片合成，以普通有纹理模块安排出不可能却平衡的轮廓。交替水平悬挑与狭窄中央轴形成清楚结构节奏。低调砖红、赭黄、奶油与混凝土灰置于柔蓝日光下。写实窗、阴影和小尺度提示在充足空地与天空前维持摄影可信度。",
+  "theme_en": "An improbable stacked apartment tower on a nearly empty plaza",
+  "theme_zh": "近乎空旷广场上一座不可能般层叠的住宅塔",
+  "wh_ratio": "1:1",
+  "id": "4498",
+  "name": "Filip Dujardin",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/filip-dujardin.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "9051fbe6db8bbe1cac630a19c5a3021ff1dcbc78d3d196545c6dcc91e394e685",
+    "gpt_submission_prompt": "A square architectural photomontage shows a single residential tower standing alone on a broad, nearly empty paved plaza. The tower is assembled from many mismatched apartment blocks stacked in alternating directions around a narrow central support. Some floors project far to the left, others to the right, forming a precarious tiered silhouette with large gaps between levels. Each module retains believable everyday details: windows, small balconies, white frames, colored cladding in muted red, yellow, tan, and gray, roof antennas, and occasional plants. The uppermost block is a pale rectangular room that hangs outward like a heavy cap. The ground beneath is flat and open, with a low curb, a small light pole at right, and a thin row of distant trees. A pale blue sky with soft white cloud banks gives the fantastic structure a plain daytime setting. Sunlight is diffuse enough that the built surfaces remain evenly readable, while small undercuts and overhangs show darker shade. The camera faces the tower from a moderate distance at ground level, keeping vertical lines stable and the whole strange object within the frame. The image feels both realistic and impossible, its effect created by precise compositing of ordinary material textures and extraordinary stacking.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "15381de60733bb1fa1039e3782bfa5938c45394e62b86d887784e01ec3962c7a",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

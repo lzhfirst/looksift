@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A spare black-and-white landscape photograph shows a single small tree standing beside a dark path that cuts through a snow-covered plain. The path begins at the lower left edge and narrows toward the tree near the center-left, its black surface providing a long, steady line through the pale ground. The tree has a short trunk and a broad rounded crown of bare, fine branches, sharp enough to remain distinct against the lighter distance. Snow spreads to the right as an almost unbroken white field, with subtle wind-shaped texture and a gentle rise near the tree. The horizon lies low and soft, fading into mist. Above it, a vast sky occupies most of the composition: bands of cloud and long vertical light rays rise from a pale opening behind the tree, while darker gray edges form a quiet vignette. The image is strongly graphic but not flat. Fine grain and delicate gray gradations preserve air, snow, and cloud volume between the deepest path and the brightest sky. No other people, buildings, or animals appear, allowing the tree and curving route to carry the scene. Diffuse backlight creates a soft halo rather than a hard cast shadow. The composition feels isolated, spacious, and patient, its tension held between the tiny grounded silhouette and the enormous moving atmosphere above.",
+  "full_prompt_zh": "一张简练的黑白风景照片，表现一棵小树立在深色道路旁，道路穿过被雪覆盖的平原。路从左下边缘进入，向中心偏左的树木收窄，黑色路面在浅色土地上形成长而稳定的线。树干较短，树冠宽而圆，裸露的细枝仍足够清楚，在较亮远处前保持分明。雪向右侧展开成几乎不中断的白色区域，带着细微风塑纹理，并在树旁轻轻隆起。地平线低且柔，渐渐融入雾中。其上巨大的天空占据构图大部分：云带与长长的竖向光束从树后浅色开口升起，较暗的灰色边缘形成安静暗角。图像图形感强，却不平板。细颗粒与细腻灰阶在最黑的道路和最亮的天空之间保留空气、雪与云的体积。没有其他人、建筑或动物，使树和弯曲路线独自承载场景。漫射逆光形成柔和光环，而非坚硬投影。构图孤独、开阔而耐心，张力存在于贴地的微小剪影与上方巨大的流动空气之间。",
+  "style_prompt_en": "Spare monochrome photography with a long dark line crossing a broad pale ground and leading toward one compact organic silhouette. Fine grain and delicate silver-gray gradations keep open surfaces and the enormous upper field atmospheric rather than flat. Diffuse backlight creates a soft luminous opening, with darker edges providing a restrained vignette. Thin directional rays and cloudlike bands add movement above while the lower geometry remains still. Near-black and near-white values are balanced by readable midtones. The composition uses generous negative space, low horizon placement, and small scale against vast air to create patient solitude.",
+  "style_prompt_zh": "简练的单色摄影风格，一条长深线穿过宽阔浅色地面，引向一个紧凑的有机剪影。细颗粒和银灰渐层让开放表面与巨大的上部区域有空气感而不平板。漫射逆光形成柔亮开口，较暗边缘提供克制暗角。纤细定向光束与云状带纹在上方带来运动，下方几何则保持静止。近黑与近白由可辨中间调平衡。构图利用充裕留白、低地平线和微小尺度对照巨大空气，营造耐心的孤独感。",
+  "theme_en": "A solitary tree beside a snowy path under a dramatic sky",
+  "theme_zh": "戏剧性天空下雪径旁的孤树",
+  "wh_ratio": "1:1",
+  "id": "3893",
+  "name": "Martin Rak",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/martin-rak.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "278c5e90b0be260b00c20df4fb4adf15b07a90e17939b5a02c65c660259d9982",
+    "gpt_submission_prompt": "A spare black-and-white landscape photograph shows a single small tree standing beside a dark path that cuts through a snow-covered plain. The path begins at the lower left edge and narrows toward the tree near the center-left, its black surface providing a long, steady line through the pale ground. The tree has a short trunk and a broad rounded crown of bare, fine branches, sharp enough to remain distinct against the lighter distance. Snow spreads to the right as an almost unbroken white field, with subtle wind-shaped texture and a gentle rise near the tree. The horizon lies low and soft, fading into mist. Above it, a vast sky occupies most of the composition: bands of cloud and long vertical light rays rise from a pale opening behind the tree, while darker gray edges form a quiet vignette. The image is strongly graphic but not flat. Fine grain and delicate gray gradations preserve air, snow, and cloud volume between the deepest path and the brightest sky. No other people, buildings, or animals appear, allowing the tree and curving route to carry the scene. Diffuse backlight creates a soft halo rather than a hard cast shadow. The composition feels isolated, spacious, and patient, its tension held between the tiny grounded silhouette and the enormous moving atmosphere above.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "ea4ac7255bcaea083280a50127d43a21827634a03e1c0c11401dbdae337432ad",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A wide classical landscape painting shows a winding blue-green river passing through a wooded mountain valley under a luminous sky. The water enters from the lower left, bends through the center and narrows toward hazy blue peaks in the far distance. Rocky banks and dark green shrubs frame the near foreground, where a large cluster of trees rises just right of center. Their irregular trunks and layered crowns partly veil the valley beyond, forming a deep shadowed counterweight to the pale open water. On the far left, steep mountains descend into mist, with jagged summits softened by distance. Near the middle of the river, a small rocky islet interrupts the flowing light. At the right middle distance, a warm stone bridge arches across a narrow reach beside a falling stream, while a few ancient-looking columns stand on a higher rocky ledge at the far right. Patches of sunlit meadow and tiny grazing animals appear below the ruins, separated by winding paths and small dark thickets. The foliage is built with fine layered marks and many warm and cool green tones; stones carry careful beige and gray modeling. Gentle late-day sunlight from the upper left illuminates the clouds, water and open slopes, leaving the near woods in rich shade. The overall composition balances a bright receding river corridor with dense dark framing and a serene, expansive sense of distance.",
+  "full_prompt_zh": "一幅宽幅古典风景画描绘一条蓝绿色弯河穿过林木繁茂的山谷，头顶天空明亮。河水从左下进入，经中央转弯，向远处朦胧蓝峰收窄。岩岸与深绿灌木围住近前景，一大簇树在中央偏右升起。不规则树干与层层树冠部分遮住后方山谷，成为浅亮开阔水面的深影配重。最左侧，陡山沉入雾气，锯齿峰顶被距离柔化。河道中段，一块小岩洲打断流动亮色。右侧中景，一座暖色石桥跨过狭窄水道，旁边有跌落溪流；最右侧更高岩台上立着几根古老风格的柱子。遗迹下方可见几片阳光草地和小小食草动物，其间由弯道与深色灌丛分隔。树叶由细致层叠笔痕及多种冷暖绿色建立；石头带着谨慎的米色与灰色塑形。来自左上方的温和傍晚日光照亮云、水与开敞山坡，让近处树林保留丰富阴影。整体构图以明亮后退的河流通道平衡浓密深色框景，带来宁静而宽广的距离感。",
+  "style_prompt_en": "A classical oil landscape treatment organizes space through meticulous layered detail and gradual atmospheric recession. Dark, finely articulated near masses frame a pale central passage; intermediate planes shift through warm olive, cool green and stone beige toward blue-gray distance. Edges are most precise in the foreground, then become softer and lower in contrast as forms recede. Small glints of light on uneven surfaces connect the bright areas without flattening the broad shadow regions. The brushwork is controlled and fine, with softly blended transitions in the distance and more tactile marks nearby. Warm angled daylight illuminates upper planes, while deep lower recesses maintain a rich transparent darkness. The overall rhythm moves from intimate detail to expansive calm, with balanced asymmetry and luminous depth.",
+  "style_prompt_zh": "这种古典油画风景处理以细密层叠的细节和渐进的空气透视组织空间。深而刻画细致的近处团块框住浅亮中央通道；中间平面从暖橄榄、冷绿和石米色逐渐转向蓝灰远处。边缘在前景最精确，随形体后退而柔化、降低对比。凹凸表面的细小亮闪串联明亮区域，又不压平宽阔暗部。笔触受控而细致，远处过渡柔和融合，近处笔痕更有触感。暖斜日光照亮上平面，较深的下方凹处保有丰富而透明的暗色。整体节奏从亲近细节走向宽阔宁静，以不对称平衡和明亮纵深成立。",
+  "theme_en": "A sunlit mountain valley with a winding river, distant bridge and rocky wooded banks",
+  "theme_zh": "阳光下的山谷、蜿蜒河流、远处石桥与多树的岩岸",
+  "wh_ratio": "1:1",
+  "id": "0754",
+  "name": "Jacob Philipp Hackert",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/jacob-philipp-hackert",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/jacob-philipp-hackert.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "20ce0d28106d9ca6cb97865fae4166cb04268e6f7d50df374fbb7bc49bdb227a",
+    "gpt_submission_prompt": "A wide classical landscape painting shows a winding blue-green river passing through a wooded mountain valley under a luminous sky. The water enters from the lower left, bends through the center and narrows toward hazy blue peaks in the far distance. Rocky banks and dark green shrubs frame the near foreground, where a large cluster of trees rises just right of center. Their irregular trunks and layered crowns partly veil the valley beyond, forming a deep shadowed counterweight to the pale open water. On the far left, steep mountains descend into mist, with jagged summits softened by distance. Near the middle of the river, a small rocky islet interrupts the flowing light. At the right middle distance, a warm stone bridge arches across a narrow reach beside a falling stream, while a few ancient-looking columns stand on a higher rocky ledge at the far right. Patches of sunlit meadow and tiny grazing animals appear below the ruins, separated by winding paths and small dark thickets. The foliage is built with fine layered marks and many warm and cool green tones; stones carry careful beige and gray modeling. Gentle late-day sunlight from the upper left illuminates the clouds, water and open slopes, leaving the near woods in rich shade. The overall composition balances a bright receding river corridor with dense dark framing and a serene, expansive sense of distance.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "82060fbfe8808cad8177c07b48e82f0687231b61145795408389d62e11fb3e1d",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

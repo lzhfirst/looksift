@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A richly patterned illustration centers on a blue fox standing in profile, its narrow muzzle lifted toward the upper left. The animal's long body and legs are built from layered indigo, teal, pale blue, and cream marks, with darker spots and fine linework suggesting fur. Around it, branches, leaves, flowers, small birds, and cut-paper-like fragments crowd the square composition. A dark horizontal band behind the fox reads as a stream or deep woodland layer, while paler cream ground shows through between the plants and patterned shapes. The upper area includes angular architectural or printed motifs as well as loose botanical silhouettes, giving the image the feel of a collaged folk print rather than a naturalistic forest. The fox remains the clearest large form, but its coat shares colors and textures with the surroundings so the figure belongs within the decorative field. Contrast comes from near-black blue passages set against parchment cream and tiny gold accents. Edges vary: some are crisp as stencils, others are rough, scratched, or layered with fine hatch marks. There is little conventional light or perspective; depth is created by overlap, scale changes, and alternating light-dark bands. The surface feels hand printed and assembled, lively but carefully balanced. The whole image has a dense, rhythmic energy, inviting the eye to move between the fox's raised head and the many smaller shapes around it.",
+  "full_prompt_zh": "一幅图案丰厚的插画以一只侧身站立的蓝狐狸为中心，它细长的口鼻抬向左上方。动物的长身与腿由靛蓝、蓝绿、浅蓝和奶油色的层叠痕迹组成，深色斑点与细线暗示毛发。四周的枝叶、花朵、小鸟和像剪纸一样的碎片挤满正方形构图。狐狸身后的深色水平带像溪流或较深的林层，浅奶油色底从植物和图案形状之间透出。上部还出现棱角分明的建筑或印刷纹样，以及松散的植物剪影，使画面更像拼贴民间版画，而非自然主义森林。狐狸仍是最清楚的大形态，但它的皮毛与周围共享色彩和纹理，因此属于整个装饰色场。近黑蓝色区域与旧纸奶油色、小点金色形成对比。边缘有变化：有些像模板刻出般清楚，另一些粗糙、刮擦或叠着细排线。画面几乎没有传统光照与透视；纵深来自遮挡、尺度变化和深浅条带交替。表面像手工印制并拼装，活泼而经过仔细平衡。整幅图像节奏密集，引导目光在狐狸抬起的头与周围许多小形状之间移动。",
+  "style_prompt_en": "Dense decorative illustration with a hand-printed, collaged surface and limited indigo, teal, cream, and muted gold palette. A large elongated form crosses a dark horizontal band while small botanical, geometric, and feathered motifs fill the surrounding field. Crisp stencil-like edges alternate with scratches, hatch marks, worn pigment, and overlapping paperlike pieces. Depth comes from scale and layering rather than linear perspective or dramatic lighting. Near-black blue passages give weight to a lively network of pale marks. The composition is busy but balanced, with a rhythmic folk-print character and tactile irregularity.",
+  "style_prompt_zh": "密集的装饰插画风格，表面兼有手工印制与拼贴质感，配色限制在靛蓝、蓝绿、奶油色和低调金色。一个拉长的大形态横跨深色水平带，周围填满植物、几何与羽状小图案。清晰模板般的边缘与刮痕、排线、磨损颜料和层叠纸片交替。纵深来自尺度和重叠，而非线性透视或戏剧性灯光。近黑蓝色区域为活跃的浅色痕迹网络提供分量。构图繁忙但平衡，带有有节奏的民间版画气息和可触的不规则性。",
+  "theme_en": "A blue fox amid patterned woodland and decorative fragments",
+  "theme_zh": "蓝色狐狸置于图案化林地与装饰碎片间",
+  "wh_ratio": "1:1",
+  "id": "1125",
+  "name": "Mark Hearld",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/mark-hearld",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/mark-hearld.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "0a8551f70a6b17fff8412c4061b1aa170bf36d0809f8b5e39e6826bf91710efe",
+    "gpt_submission_prompt": "A richly patterned illustration centers on a blue fox standing in profile, its narrow muzzle lifted toward the upper left. The animal's long body and legs are built from layered indigo, teal, pale blue, and cream marks, with darker spots and fine linework suggesting fur. Around it, branches, leaves, flowers, small birds, and cut-paper-like fragments crowd the square composition. A dark horizontal band behind the fox reads as a stream or deep woodland layer, while paler cream ground shows through between the plants and patterned shapes. The upper area includes angular architectural or printed motifs as well as loose botanical silhouettes, giving the image the feel of a collaged folk print rather than a naturalistic forest. The fox remains the clearest large form, but its coat shares colors and textures with the surroundings so the figure belongs within the decorative field. Contrast comes from near-black blue passages set against parchment cream and tiny gold accents. Edges vary: some are crisp as stencils, others are rough, scratched, or layered with fine hatch marks. There is little conventional light or perspective; depth is created by overlap, scale changes, and alternating light-dark bands. The surface feels hand printed and assembled, lively but carefully balanced. The whole image has a dense, rhythmic energy, inviting the eye to move between the fox's raised head and the many smaller shapes around it.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "e22de0e518b5c9e2361f12a9141b41727e327822a2bf2b291b96c2fb12a5216b",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square fine-art color photograph shows a red-haired young woman in left-facing profile against a smooth muted gray-green background. Her copper hair is loosely gathered behind the ear, with a few fine strands at the nape. A crown of large cream-white flowers and pale green leaves sits across the top and back of her head. She wears a soft powder-blue blouse with small gathers at the shoulder and neckline. The face is gently lit, revealing a pale cheek, light freckles, a straight nose, and naturally red lips. Her gaze turns away from the camera, lending a quiet, private air to the pose. The flower petals are detailed enough to show thin, uneven edges, but their whites remain creamy rather than stark. Background and clothing are low in contrast, so the warm hair and pale floral forms hold the composition. Light comes softly from the front left, creating a tender glow across cheek and petals and a gradual shadow beneath the jaw. The crop is close at the chest and leaves open space ahead of the profile. Skin texture and loose strands retain photographic realism, while color and stillness evoke a painted study. The overall image is delicate, composed, and wistful, balancing botanical ornament with an unforced human presence.",
+  "full_prompt_zh": "一幅方形艺术彩色照片描绘一位红发年轻女子朝左的侧面，背景为平滑低调灰绿。铜色头发松松收在耳后，颈后有几根细散发。由大朵奶油白花和淡绿叶构成的花冠横在头顶与后脑。她穿粉蓝色上衣，肩和领口有细小皱褶。脸受柔光照亮，浅面颊、淡雀斑、直鼻和自然红唇清楚可见。目光离开镜头，令姿态安静私密。花瓣足够细致，可见薄而不齐的边缘，但白色偏奶油而非刺眼。背景与衣物对比低，暖色头发与浅色花朵承载构图。光从左前方温和照来，在面颊和花瓣上形成柔亮，颌下渐次转影。裁切贴近胸口，并在侧面前留出空地。皮肤肌理与松发丝保有摄影写实，色彩与静止感则唤起绘画习作。整体纤细、端正而怅惘，以植物装饰平衡自然人物存在。",
+  "style_prompt_en": "Fine-art color photography pairs natural skin detail with still, painterly color control. Copper, cream, powder blue, and muted gray-green create a soft restricted palette. Diffuse front-side light gives pale surfaces a gentle glow and rounds them into a quiet shadow. Delicate organic edges and loose fine strands contrast with a smooth unobtrusive background. Close framing leaves a measured open field beside the focal contour. Texture remains real and subtle rather than retouched away. The result is intimate, composed, and wistful, with botanical softness and restrained tonal depth.",
+  "style_prompt_zh": "艺术彩色摄影把自然皮肤细节与静止、绘画般的色彩控制配对。铜、奶油、粉蓝和低调灰绿形成柔和受限配色。弥散前侧光赋予浅色表面温和亮感，并把它们转入安静阴影。细腻有机边缘与松散细线对照平滑不抢眼背景。贴近框景在焦点轮廓旁留出有分寸的开阔色面。肌理保持真实细微，没有被修平。结果亲密、端正而怅惘，兼有植物柔感与克制明暗深度。",
+  "theme_en": "A red-haired young woman in profile beneath a white flower crown",
+  "theme_zh": "戴白花冠的红发年轻女子侧面",
+  "wh_ratio": "1:1",
+  "id": "3871",
+  "name": "Monia Merlo",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/monia-merlo",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "e7f660b98b3d29082f215eea5e8ad416f6e4fb1d019793b9d851a219718b4a0f",
+    "gpt_submission_prompt": "A square fine-art color photograph shows a red-haired young woman in left-facing profile against a smooth muted gray-green background. Her copper hair is loosely gathered behind the ear, with a few fine strands at the nape. A crown of large cream-white flowers and pale green leaves sits across the top and back of her head. She wears a soft powder-blue blouse with small gathers at the shoulder and neckline. The face is gently lit, revealing a pale cheek, light freckles, a straight nose, and naturally red lips. Her gaze turns away from the camera, lending a quiet, private air to the pose. The flower petals are detailed enough to show thin, uneven edges, but their whites remain creamy rather than stark. Background and clothing are low in contrast, so the warm hair and pale floral forms hold the composition. Light comes softly from the front left, creating a tender glow across cheek and petals and a gradual shadow beneath the jaw. The crop is close at the chest and leaves open space ahead of the profile. Skin texture and loose strands retain photographic realism, while color and stillness evoke a painted study. The overall image is delicate, composed, and wistful, balancing botanical ornament with an unforced human presence.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "17a53737fe6a360997631c5ce8c99b3e2581d279c1cff0e6352db2e92031c049",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square Renaissance engraving shows an elderly bearded man seated in a shadowed interior beside a large horned animal. He occupies the right and lower center, leaning forward with one hand resting on his knee and the other extending toward the lower left. A richly patterned cap sits over his curly hair, and a long white beard falls onto layered robes. Behind him at the left, the animal's head and sweeping horns rise from deep shadow, close enough to appear almost part of the man's silhouette. A column or framed opening marks the far left edge. The man's heavy sleeves, wrinkled hands and folded fabric are described by dense engraved lines. Light arrives from the upper left, brightening the face, knuckles, beard and raised folds, while the space behind remains dark brown black. Curved hatching follows the rounded horns and the soft beard; straighter crosslines deepen the clothing and architectural recesses. The palette is nearly monochrome, ranging from cream paper to umber and charcoal ink. The composition is compact and weighty, with the animal and man filling the square and leaving little empty space. Fine line density gives the image a carved, tactile surface without losing the quiet pose. It feels contemplative and allegorical, holding a moment of stillness amid elaborate form and shadow.",
+  "full_prompt_zh": "这幅方形文艺复兴版刻呈现一位长须老者坐在暗室里，旁边有一只巨大的有角动物。他占据右侧和下方中央，向前倾，一只手放在膝上，另一只向左下伸出。卷发上戴纹样丰富的帽子，长白胡垂在层叠长袍上。左后方动物的头和弯曲大角从深影里升起，贴得很近，几乎成为男子剪影的一部分。柱或框口标在最左边。厚袖、皱手和折叠布料都由密集刻线描写。光从左上来到，照亮面孔、指节、胡须与凸起衣褶，身后空间保持深棕黑。弯曲排线顺着圆角与柔胡运行，较直的交叉线加深衣服和建筑凹处。色盘近乎单色，从奶油纸到赭棕及炭墨。构图紧凑沉重，动物和男子填满方框，几乎没有空域。细线密度赋予图像雕刻般可触表面，同时保留安静姿势。画面沉思而寓言化，在繁复形状与阴影中保持静止一刻。",
+  "style_prompt_en": "The Renaissance engraving builds rounded volume from extremely fine parallel hatching and layered crosslines. Cream paper, warm umber and charcoal ink form a narrow tonal scale. Upper side light catches ridges and soft curls, while deeper recesses become dense dark fields. Closely nested forms fill the frame, their edges clarified by shifts in line direction and density. The elaborate surface feels carved and tactile, yet its overall rhythm remains solemn and still.",
+  "style_prompt_zh": "这种文艺复兴版刻以极细平行排线和层层交叉线建立圆转体积。奶油纸、暖赭棕和炭墨组成狭窄调子范围。上方侧光照到凸脊与软卷线，更深凹处变成密实暗域。紧密嵌套的形体填满画框，边缘由线方向与密度变化澄清。繁复表面有雕刻般可触感，整体节奏仍庄重静止。",
+  "theme_en": "A seated bearded elder beside a horned animal in an engraving",
+  "theme_zh": "版画中坐在有角动物旁的长须老者",
+  "wh_ratio": "1:1",
+  "id": "4218",
+  "name": "Hendrick Goltzius",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/hendrick-goltzius.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "c00b8c74348897facb43cec2ccfb1073a0a03b3c0b13cd7e36694fdb9720ac4e",
+    "gpt_submission_prompt": "A square Renaissance engraving shows an elderly bearded man seated in a shadowed interior beside a large horned animal. He occupies the right and lower center, leaning forward with one hand resting on his knee and the other extending toward the lower left. A richly patterned cap sits over his curly hair, and a long white beard falls onto layered robes. Behind him at the left, the animal's head and sweeping horns rise from deep shadow, close enough to appear almost part of the man's silhouette. A column or framed opening marks the far left edge. The man's heavy sleeves, wrinkled hands and folded fabric are described by dense engraved lines. Light arrives from the upper left, brightening the face, knuckles, beard and raised folds, while the space behind remains dark brown black. Curved hatching follows the rounded horns and the soft beard; straighter crosslines deepen the clothing and architectural recesses. The palette is nearly monochrome, ranging from cream paper to umber and charcoal ink. The composition is compact and weighty, with the animal and man filling the square and leaving little empty space. Fine line density gives the image a carved, tactile surface without losing the quiet pose. It feels contemplative and allegorical, holding a moment of stillness amid elaborate form and shadow.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "76962f4fa484ca7e216973826a9e1d147d4a573690169a441256f93e76bd7fc8",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A richly colored retro pixel-art fantasy scene constructs a symmetrical gateway around a brilliant vertical shaft of light. Dense orange-brown columns and sharply angled roof forms frame both sides, while a narrow avenue of geometric towers recedes toward a small black circular opening ringed with gold, cyan, and magenta. Above this opening, thin vertical stripes of turquoise, pale yellow, and fiery orange rise to the top edge like luminous circuitry. Rounded green trees and a low ornamental garden occupy the middle foreground, their clustered pixel leaves offering a soft counterpoint to the rigid columns. Bands of bright aqua run across the lower edge, separating the darker architectural base from the warm structures above. The surface is visibly built from tiny rectangular color units, stepped contours, and patterned dithering rather than continuous gradients; darker purple and black cells deepen recesses while hot highlights appear as crisp pixel clusters. Even though the forms are tightly mirrored, small changes in tree foliage and color noise keep the picture lively. Light seems to radiate from the central vertical passage, flooding nearby edges with yellow and cyan while the corners remain dark navy. The composition pulls attention inward through repeated frames and then upward along the glowing stripe column, creating a strong arcade-screen rhythm. The whole frame feels ornate, electronic, and dreamlike, with disciplined pixel texture holding its saturated colors and monumental symmetry together.",
+  "full_prompt_zh": "一幅色彩丰沛的复古像素艺术奇幻场景围绕一道明亮的竖直光束搭建对称门廊。浓密的橙褐色立柱和锐角屋顶形体框住两侧，一条几何塔楼排列成的狭窄通道退向一个小小的黑色圆洞，周围有金色、青蓝和洋红色光环。圆洞上方，细长的青绿、浅黄与火橙色竖条直抵画面上缘，仿佛发光电路。浑圆的绿树和低矮的装饰花园占据中部前景，成簇的像素树叶与僵直的柱体形成柔和对照。明亮的水蓝色带横贯下缘，把深色建筑基座与上方暖色结构分开。表面显然由微小的矩形色块、阶梯状边缘和有规律的抖色组成，而非连续渐变；深紫与黑色像素加深凹处，炽热高光则以清晰的像素簇出现。虽然形体严格镜像，树叶和色彩噪点的细微变化仍让画面生动。光似乎从中央竖直通道辐射出来，以黄与青蓝淹没附近边缘，而角落保持深海军蓝。构图通过一层层重复边框将目光向内牵引，再沿发光竖条向上提升，形成强烈的街机屏幕节奏。整幅画华丽、电子化且如梦，严整的像素纹理将高饱和色彩与宏伟对称凝聚在一起。",
+  "style_prompt_en": "A richly colored retro pixel-art image uses small rectangular color units, stepped contours, patterned dithering, and crisp clusters of light. Saturated cyan and turquoise meet fiery orange, hot yellow, magenta, deep purple, and navy-black recesses. Hard-edged luminous stripes and geometric frames contrast with rounded, stippled masses. Repetition and strong central alignment create a monumental arcade rhythm, while minute color noise prevents mechanical flatness. The whole frame appears electronic, ornate, and intensely radiant.",
+  "style_prompt_zh": "一幅色彩丰沛的复古像素艺术图像使用微小的矩形色块、阶梯状轮廓、有规律的抖色和清晰的亮色像素簇。饱和青蓝与绿松石色遇上火橙、炽黄、洋红、深紫和海军黑色凹处。硬边发光竖条与几何边框，对照浑圆、点状纹理的团块。重复结构与强烈的中央对齐形成宏伟的街机节奏，细小色彩噪点又避免机械式平板。整幅画具有电子般的华丽和强烈光辉。",
+  "theme_en": "A neon cosmic gateway above a symmetrical pixel-art garden",
+  "theme_zh": "对称像素花园上方的霓虹宇宙门廊",
+  "wh_ratio": "1:1",
+  "id": "0443",
+  "name": "Arkanoid",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/arkanoid",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/arkanoid.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "7eefdcd6f470b34070515e73911cca48b1ca955cbe39a65c99c6ed8918f0eecc",
+    "gpt_submission_prompt": "A richly colored retro pixel-art fantasy scene constructs a symmetrical gateway around a brilliant vertical shaft of light. Dense orange-brown columns and sharply angled roof forms frame both sides, while a narrow avenue of geometric towers recedes toward a small black circular opening ringed with gold, cyan, and magenta. Above this opening, thin vertical stripes of turquoise, pale yellow, and fiery orange rise to the top edge like luminous circuitry. Rounded green trees and a low ornamental garden occupy the middle foreground, their clustered pixel leaves offering a soft counterpoint to the rigid columns. Bands of bright aqua run across the lower edge, separating the darker architectural base from the warm structures above. The surface is visibly built from tiny rectangular color units, stepped contours, and patterned dithering rather than continuous gradients; darker purple and black cells deepen recesses while hot highlights appear as crisp pixel clusters. Even though the forms are tightly mirrored, small changes in tree foliage and color noise keep the picture lively. Light seems to radiate from the central vertical passage, flooding nearby edges with yellow and cyan while the corners remain dark navy. The composition pulls attention inward through repeated frames and then upward along the glowing stripe column, creating a strong arcade-screen rhythm. The whole frame feels ornate, electronic, and dreamlike, with disciplined pixel texture holding its saturated colors and monumental symmetry together.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "8d303aa6cf71358e78ae0633861269a015d40be45771ac8de708952496e86416",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

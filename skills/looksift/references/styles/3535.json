@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square impressionistic oil painting shows a young woman seated on a grassy riverbank beside broad blue water. She occupies the right half of the picture, turned toward the left with her knees drawn close and chin resting on one hand. A white headscarf covers her blond hair, and a loose white blouse folds around her shoulders and arms. The full deep-blue skirt gathers over her lap, while dark boots extend toward rounded gray stones at the water's edge. A small pale fluffy shape lies near her lower leg, partly merging with the light ground. The left side opens across a calm river marked by broken blue and pale lavender strokes, with thin reeds and dark floating lines near shore. In the distance, low grassy banks and a line of green trees sit beneath a light cool sky. Behind the figure, tall golden-brown reeds rise vertically and make a warm backdrop for the white scarf. The near shore is thick with short ocher, green, and brown brush marks, while the stones are modeled with broad cool gray planes. Sunlight comes from the upper left, touching the woman's blouse, scarf, rocks, and water in quick bright strokes; softer shade collects in the skirt folds and under the reeds. Her posture is quiet and inward-looking, but the painterly water and grasses keep the scene visually active. Individual marks remain visible rather than blending into a smooth photograph, especially across the river and bank. The overall composition balances the still seated figure against open reflective water, creating a calm, sun-warmed rural pause.",
+  "full_prompt_zh": "一幅方形印象派油画描绘一位年轻女子坐在宽阔蓝色水面旁的草岸上。她占据画面右半，转向左侧，膝盖收近，一只手托着下巴。白头巾盖住金发，宽松白衬衫在肩膀和手臂周围起褶。深蓝宽裙聚在膝上，深色靴子伸向水边圆润灰石。她小腿附近有一团浅色蓬松形状，部分融进亮地面。左侧敞开成平静河面，由破碎的蓝色和浅紫笔触组成，近岸有细芦苇与深色浮线。远处低草岸和绿树一线位于清冷浅天之下。人物背后，高高的金棕芦苇竖立，为白头巾提供暖色背景。近岸布满短赭、绿、棕笔痕，石头则由宽阔的冷灰平面塑形。阳光从左上方进入，以快速亮笔触照到女子上衣、头巾、岩石与水面；更柔的阴影聚在裙褶和芦苇下。她的姿态安静而内省，绘画式水面和草丛让场景仍有视觉活动。单独的笔痕没有融合成平滑照片，尤其在河水和岸边。整体构图以静坐人物平衡开放的反光水面，形成平静、晒暖的乡野停顿。",
+  "style_prompt_en": "The painting has a sunlit impressionist oil surface with short broken strokes, broad color patches, and visible wet-looking pigment. Cool cobalt, pale lavender, and gray-blue occupy reflective open areas, balanced by straw gold, leaf green, and soft white in denser zones. Edges become crisp only where bright light catches a form; many others dissolve into neighboring strokes. Upright textured marks contrast with horizontal glimmers, setting a gentle rhythm between enclosed and open space. Daylight is bright but soft, leaving dappled shadows rather than heavy black outlines. The overall effect is fresh, contemplative, and richly tactile.",
+  "style_prompt_zh": "绘画具有日照下的印象派油画表面，短促破碎笔触、宽色片和看似湿润的颜料明显可见。冷钴蓝、浅紫和灰蓝占据开放反光区域，较密处用麦秆金、叶绿与柔白平衡。只有亮光抓住形体的地方边缘才清楚，许多边缘溶进相邻笔触。竖向有肌理的笔痕同横向闪光相对，让围合与开放空间之间形成温和节奏。日光明亮却柔和，留下斑驳阴影，而非浓黑轮廓。整体效果清新、沉思且触感丰富。",
+  "theme_en": "A woman in a blue skirt resting beside a sunlit river",
+  "theme_zh": "身穿蓝裙的女子在日照河边歇息",
+  "wh_ratio": "1:1",
+  "id": "3535",
+  "name": "Alexandr Averin",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/alexandr-averin",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "6917bcb7ec39778dc3b4be945af73ea6ba27f085f7ed5fa4cfa368876687e4af",
+    "gpt_submission_prompt": "A square impressionistic oil painting shows a young woman seated on a grassy riverbank beside broad blue water. She occupies the right half of the picture, turned toward the left with her knees drawn close and chin resting on one hand. A white headscarf covers her blond hair, and a loose white blouse folds around her shoulders and arms. The full deep-blue skirt gathers over her lap, while dark boots extend toward rounded gray stones at the water's edge. A small pale fluffy shape lies near her lower leg, partly merging with the light ground. The left side opens across a calm river marked by broken blue and pale lavender strokes, with thin reeds and dark floating lines near shore. In the distance, low grassy banks and a line of green trees sit beneath a light cool sky. Behind the figure, tall golden-brown reeds rise vertically and make a warm backdrop for the white scarf. The near shore is thick with short ocher, green, and brown brush marks, while the stones are modeled with broad cool gray planes. Sunlight comes from the upper left, touching the woman's blouse, scarf, rocks, and water in quick bright strokes; softer shade collects in the skirt folds and under the reeds. Her posture is quiet and inward-looking, but the painterly water and grasses keep the scene visually active. Individual marks remain visible rather than blending into a smooth photograph, especially across the river and bank. The overall composition balances the still seated figure against open reflective water, creating a calm, sun-warmed rural pause.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "aa3c9032efaf9a1bbb1bdca90a36a091339f05948bbbfd49b4bea0a7fbe22f7d",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

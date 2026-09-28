@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square warm-sepia street photograph shows three people seated on worn stone steps before a tall paneled doorway. An older bearded man in a dark suit and brimmed hat sits at the left, one leg crossed and one hand relaxed near his knee. Another older man in a hat and dark jacket sits at the right with pale trousers crossed at the ankles. Between and slightly behind them, a younger woman in a dark dress sits one step higher, her hands held together in her lap. A blurred figure stands deeper inside the shadowed doorway behind her. The door panels are tall, carved, and partly open, with cracked stone surrounds and scuffed stair edges showing long use. The group is almost symmetrical, but their different postures and depths keep it naturally informal. Daylight from outside illuminates faces, knees, and stone while the entrance remains dark. The image has a narrow tonal range of cream, brown, and black, with soft shadows, visible grain, slight fading, and small marks of an old print. The camera is frontal at seated eye height, close enough for facial expressions and clothing texture. The atmosphere is observant and unhurried, recording ordinary human presence in an aging urban threshold.",
+  "full_prompt_zh": "一张方形暖棕街头照片呈现三个人坐在高木门外磨旧石阶上。左侧一位年长胡须男子穿深西装、戴檐帽，一条腿交叉，一只手放松地靠近膝。右侧另一位年长男子戴帽、穿深外套，浅色长裤在脚踝处交叠。中间稍后方，一位年轻女性穿深裙，坐高一级，双手合在膝上。她身后敞开的深色门洞更深处站着一位模糊人物。门板高大、带雕刻、部分敞开，周围裂石与磨损阶缘显示长久使用。三人近似对称，却因不同姿势与纵深而保持自然随意。室外日光照亮脸、膝和石材，入口仍深暗。影像调子收窄在奶油、棕与黑之间，阴影柔和，带可见颗粒、轻褪色及旧相纸小斑点。相机正面位于坐者眼高，距离够近，可见表情和衣物纹理。气氛善于观察而不急促，记录老化城市门槛中的普通人。",
+  "style_prompt_en": "Warm-sepia urban documentary photography with frontal informal grouping, worn stone texture, deep threshold shadow, and soft outdoor daylight. Cream highlights, brown midtones, and rich blacks remain slightly faded by print age. Visible grain and small blemishes preserve material history. Balanced human-scale placement and subtle depth make the scene calm rather than ceremonially posed.",
+  "style_prompt_zh": "暖棕城市纪实摄影，以正面随意群组、磨旧石材、深门洞影与柔室外日光组成。奶油高光、棕色中间调和丰厚黑色被相纸年代轻轻褪去。可见颗粒与小瑕疵保留物质历史。平衡的人尺度布局与细微纵深使画面平静，而非仪式化摆拍。",
+  "theme_en": "Three people seated on worn stone steps outside a doorway",
+  "theme_zh": "三个人坐在门外磨旧石阶上",
+  "wh_ratio": "1:1",
+  "id": "4501",
+  "name": "Eugene Atget",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/eugene-atget.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "edcf734fa9e32752c2206797b2cc3ec4d82bb0a8d6c418b6d3c6a7c7744a5e50",
+    "gpt_submission_prompt": "A square warm-sepia street photograph shows three people seated on worn stone steps before a tall paneled doorway. An older bearded man in a dark suit and brimmed hat sits at the left, one leg crossed and one hand relaxed near his knee. Another older man in a hat and dark jacket sits at the right with pale trousers crossed at the ankles. Between and slightly behind them, a younger woman in a dark dress sits one step higher, her hands held together in her lap. A blurred figure stands deeper inside the shadowed doorway behind her. The door panels are tall, carved, and partly open, with cracked stone surrounds and scuffed stair edges showing long use. The group is almost symmetrical, but their different postures and depths keep it naturally informal. Daylight from outside illuminates faces, knees, and stone while the entrance remains dark. The image has a narrow tonal range of cream, brown, and black, with soft shadows, visible grain, slight fading, and small marks of an old print. The camera is frontal at seated eye height, close enough for facial expressions and clothing texture. The atmosphere is observant and unhurried, recording ordinary human presence in an aging urban threshold.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "4b599433dad920f11d60f5146eef5ca5f1fb0aee2ffaa6577b411f9f6105d8de",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

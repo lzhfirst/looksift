@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square color photograph stages a dark-haired woman seated or standing close to a richly textured red wall, seen from the waist up in three-quarter view. Her head turns back toward the camera, eyes lowered and expression guarded. Black hair is arranged in a high traditional updo with a pale floral ornament and slender dangling decoration. Her clothing is a dark brocade garment patterned with gold and red flowers; a narrow red sash crosses the upper body. One hand rests near the lower-left edge, partly hidden by the folds. Behind her, an ornate red-and-gold surface glows with leaflike motifs and worn patches, while the left edge falls into deep maroon shadow. Warm amber light catches the face, hair ornament, and metallic fabric thread, but much of the garment remains almost black. The contrast between bright patterned wall and dark silhouette gives the composition a theatrical enclosed feeling. The camera remains close and still; fine photographic grain and slight softness in the shadows preserve an intimate analog character. The surface textures are lavish yet worn, and the color palette stays in oxblood red, antique gold, warm skin, and black. The image feels private, stylized, and melancholic rather than celebratory.",
+  "full_prompt_zh": "一张方形彩色照片在肌理繁富的红墙前安排一位深发女性，她以四分之三角度从腰部以上呈现，似坐似立。头转向镜头，双眼微垂，神情带戒备。黑发盘成高髻，饰有浅色花件和细长垂饰。她穿深色锦缎衣，布面有金红花纹，一道窄红带横过上身。一只手停在左下附近，部分被衣褶遮住。背后的红金装饰表面以叶状纹样和磨损斑块发亮，左缘则陷入深酒红暗处。暖琥珀光擦过脸、发饰与织物金属线，大部分衣服仍近乎黑色。明亮花纹墙与深剪影的对比使构图具有封闭的戏剧感。镜头靠近而静止；细摄影颗粒和暗处轻微柔化保留亲密的胶片性质。表面纹理奢华却磨旧，色彩维持在牛血红、古金、暖肤色和黑之间。画面私密、风格化而惆怅，并不欢庆。",
+  "style_prompt_en": "Intimate analog color photography with deep maroon shadow, antique-gold ornament, black brocade-like mass, and small warm skin highlights. Dense decorative pattern glows behind a dark foreground silhouette. Soft amber side light, visible grain, worn surface texture, and slight shadow softness create an enclosed theatrical mood. The palette is rich but narrow, with tactile contrast between matte darkness and metallic glints.",
+  "style_prompt_zh": "亲密胶片彩色摄影，以深酒红阴影、古金饰纹、黑色锦缎般大形和少量暖肤亮部构成。密集装饰纹样在深前景剪影后发亮。柔琥珀侧光、可见颗粒、磨旧表面肌理和暗处轻微柔度形成封闭的戏剧气氛。色彩浓郁却范围收窄，哑黑与金属微光的触感形成对照。",
+  "theme_en": "A woman in dark patterned dress before a glowing red wall",
+  "theme_zh": "一位穿深色花纹衣裙的女性立于发亮红墙前",
+  "wh_ratio": "1:1",
+  "id": "4455",
+  "name": "Nobuyoshi Araki",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/nobuyoshi-araki.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "305bdb0df336a832dedeec1d45c562f84bb5c9f1abb57025bd2f1580fda37a95",
+    "gpt_submission_prompt": "A square color photograph stages a dark-haired woman seated or standing close to a richly textured red wall, seen from the waist up in three-quarter view. Her head turns back toward the camera, eyes lowered and expression guarded. Black hair is arranged in a high traditional updo with a pale floral ornament and slender dangling decoration. Her clothing is a dark brocade garment patterned with gold and red flowers; a narrow red sash crosses the upper body. One hand rests near the lower-left edge, partly hidden by the folds. Behind her, an ornate red-and-gold surface glows with leaflike motifs and worn patches, while the left edge falls into deep maroon shadow. Warm amber light catches the face, hair ornament, and metallic fabric thread, but much of the garment remains almost black. The contrast between bright patterned wall and dark silhouette gives the composition a theatrical enclosed feeling. The camera remains close and still; fine photographic grain and slight softness in the shadows preserve an intimate analog character. The surface textures are lavish yet worn, and the color palette stays in oxblood red, antique gold, warm skin, and black. The image feels private, stylized, and melancholic rather than celebratory.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "257628a6964802a86ed74d08d7437a38d8be7bfbb58e83a2de01947753cb794d",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

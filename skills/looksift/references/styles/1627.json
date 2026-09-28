@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square expressionist oil portrait shows a bearded man from the shoulders upward, his head turning toward the left side of the frame. One intense dark eye becomes the focal point beneath a heavy brow; the other is partly lost in the angle and shadow. His nose, cheek, lips, and beard remain recognizable, but their planes are assembled from thick fractured patches rather than smooth skin. Warm peach, apricot, raw orange, magenta, pale yellow, and cream collide across the face. Blue-gray strokes cut through the jaw and neck, setting cool weight against the warm highlights. Dark hair and beard are built from dense navy, black, violet, and red-brown marks, with abrupt edges that nearly join the crowded background. Behind the head, blocky charcoal and burgundy areas provide only a shallow, undefined space. The paint looks pushed, dragged, and layered with a broad tool, leaving ridges, gaps, and broken rectangular facets visible. Small sharp touches around the eye and mouth bring the expression back into focus after the larger strokes disturb it. Light falls strongest from the upper left and front, catching forehead and cheek, while the far side of the face and lower beard drop into deeper cool shadow. The close crop gives the portrait little breathing room, so gaze, color clash, and surface texture dominate. The overall image feels raw and psychologically immediate, balancing a legible human face with vigorous, almost mosaic-like paint construction.",
+  "full_prompt_zh": "一幅方形表现主义油画肖像描绘一名蓄须男子的肩上近景，头转向画面左侧。一只浓重眉下的深色眼睛成为焦点；另一只眼因角度和阴影而部分消失。鼻子、脸颊、嘴唇和胡须仍可辨认，但面部平面由厚重破碎色片拼成，而非光滑皮肤。暖桃色、杏色、生橙色、洋红、浅黄和奶油色在脸上碰撞。蓝灰笔触切过下颌与脖颈，以冷色重量对抗暖高光。深色头发和胡须由浓密海军蓝、黑、紫与红褐笔痕建立，突兀边缘几乎与拥挤背景连成一体。头后方，方块状炭灰与酒红区域只提供浅而不明确的空间。颜料看起来被宽阔工具推开、拖曳并层层堆叠，留下脊线、间隙和破碎矩形切面。眼睛和嘴边少量锐利笔触在大笔痕扰动之后重新聚焦表情。光从左上和前方最强地落下，照亮额头与脸颊，远侧脸和胡须下部进入更深的冷影。近裁切让肖像少有呼吸空间，于是目光、色彩碰撞和表面肌理占据主导。整体粗粝而心理感直接，以可读的人脸平衡有力、近乎马赛克般的颜料构造。",
+  "style_prompt_en": "An expressionist oil-paint language with thick dragged pigment, broken angular facets, and abrupt color collisions. Peach, apricot, orange, magenta, pale yellow, and cream meet cool blue-gray, navy, violet, and charcoal. Broad tool marks build large planes; a few sharp small strokes restore focus within the rough surface. Lighting is directional, with warm highlights confronting deep cool shadow. Tight framing compresses the space so color, gaze-like focal intensity, and physical paint texture dominate. The effect is raw, layered, and psychologically immediate.",
+  "style_prompt_zh": "表现主义油画语言，以厚重拖曳颜料、破碎棱角切面和突兀色彩碰撞构成。桃色、杏色、橙、洋红、浅黄与奶油色遇上冷蓝灰、海军蓝、紫和炭灰。宽阔工具痕建立大平面，少量锐利小笔触在粗糙表面中恢复焦点。光有明确方向，暖高光与深冷影对抗。紧凑裁切压缩空间，使色彩、类似目光的焦点强度与实体颜料肌理成为主导。效果粗粝、层叠，心理感直接。",
+  "theme_en": "A bearded man's turned face built from bright fractured paint",
+  "theme_zh": "一名蓄须男子的转头面孔由明亮而破碎的色块构成",
+  "wh_ratio": "1:1",
+  "id": "1627",
+  "name": "Andrew Salgado",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/andrew-salgado",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/andrew-salgado.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "933f7aad36cf83c60aeee087b497d06c41379b61fe871fd55e4aff165695b4e4",
+    "gpt_submission_prompt": "A square expressionist oil portrait shows a bearded man from the shoulders upward, his head turning toward the left side of the frame. One intense dark eye becomes the focal point beneath a heavy brow; the other is partly lost in the angle and shadow. His nose, cheek, lips, and beard remain recognizable, but their planes are assembled from thick fractured patches rather than smooth skin. Warm peach, apricot, raw orange, magenta, pale yellow, and cream collide across the face. Blue-gray strokes cut through the jaw and neck, setting cool weight against the warm highlights. Dark hair and beard are built from dense navy, black, violet, and red-brown marks, with abrupt edges that nearly join the crowded background. Behind the head, blocky charcoal and burgundy areas provide only a shallow, undefined space. The paint looks pushed, dragged, and layered with a broad tool, leaving ridges, gaps, and broken rectangular facets visible. Small sharp touches around the eye and mouth bring the expression back into focus after the larger strokes disturb it. Light falls strongest from the upper left and front, catching forehead and cheek, while the far side of the face and lower beard drop into deeper cool shadow. The close crop gives the portrait little breathing room, so gaze, color clash, and surface texture dominate. The overall image feels raw and psychologically immediate, balancing a legible human face with vigorous, almost mosaic-like paint construction.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "6e0004b1fe21f0689667008ac3b0e3d167088008df5c6ee742055749380a3861",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

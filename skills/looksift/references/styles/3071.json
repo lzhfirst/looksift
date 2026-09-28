@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A cinematic still holds a lone traveler at the far end of a wooden boardwalk, seen through a wide, nearly black opening. The walkway begins broad at the lower edge and narrows toward the centered figure, its repeated planks making a measured perspective rhythm. Warm orange fog swallows the horizon, and drifting smoky patches obscure whatever lies beyond. The traveler is a small, dark vertical silhouette, clear enough to anchor the distance but without distracting detail. Most of the immediate foreground is unlit, turning the side and upper edges into a frame within the frame. The visual contrast is simple and severe: dense black around a glowing amber center, with only small shifts in orange and brown inside the mist. Backlight makes the figure's outline readable and gives the wet-looking planks a faint sheen. Grain and softened edges keep the scene photographic rather than diagrammatic. Space opens dramatically beyond the narrow path, yet the haze denies a clear destination. The stillness comes from a centered composition and the long repetition of boards beneath the solitary form. Across the full registered source, this kind of selective light and atmospheric depth appears in both cool and warm scenes; here it condenses into a quiet orange passage through darkness.",
+  "full_prompt_zh": "一帧电影画面从宽阔而几乎全黑的洞口望出去，雾中的木栈道尽头站着一位独行者。栈道从画面下缘宽宽展开，向居中的身影收窄，重复的木板形成有节奏的透视。温暖的橙色浓雾吞没地平线，漂浮的烟雾遮住更远处的一切。独行者只是小而深暗的竖向剪影，足以固定远景，却没有分散视线的细节。最近的前景大半没有受光，侧边与上缘便成为画中画的框架。视觉对照简洁而强烈：浓黑包围发光的琥珀色中心，雾中仅有橙色和棕色的微小变化。逆光让人物轮廓清楚，也赋予看似潮湿的木板一点微光。颗粒与柔软边缘让场景保有摄影质感，而非示意图般的明确。狭窄道路之外，空间突然打开，但雾又拒绝交代清晰的目的地。居中的构图、孤立形体下方木板的长串重复，构成画面的静止感。在完整的注册参考中，冷色与暖色场景都采用这种选择性光照和大气深度；此处它凝缩为黑暗里的一段安静橙色通道。",
+  "style_prompt_en": "A restrained cinematic image shaped by a nearly black outer field and a softly glowing amber opening. One small vertical form anchors the distance while repeated horizontal bands narrow toward it. Orange-brown fog softens the horizon and hides surrounding detail. Backlight draws a clean but gentle silhouette and a faint sheen on the nearer surfaces. Photographic grain and slightly softened edges keep the image tactile. The composition is centered and spare, using broad darkness, selective light, and deep atmospheric space to create quiet tension.",
+  "style_prompt_zh": "一幅节制的电影感画面，由近乎全黑的外层色域与柔和发亮的琥珀色开口构成。一个小小的竖向形体固定远处，重复横带向它逐渐收窄。橙棕色浓雾柔化地平线，并隐藏周边细节。逆光勾出清楚却不过分锐利的剪影，也在较近的表面留下一点微光。摄影颗粒和略软的边缘保持可触的质感。构图居中而精简，依靠大片黑暗、选择性照明与深远的大气空间营造安静的张力。",
+  "theme_en": "A lone traveler at the end of a fogbound boardwalk",
+  "theme_zh": "雾中栈道尽头的独行者",
+  "wh_ratio": "1:1",
+  "id": "3071",
+  "name": "Roger Deakins",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/roger-deakins",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "53e9ec6316481a9f19a7326820d4692b6613aa99514b2a9799e6e924d935ca71",
+    "gpt_submission_prompt": "A cinematic still holds a lone traveler at the far end of a wooden boardwalk, seen through a wide, nearly black opening. The walkway begins broad at the lower edge and narrows toward the centered figure, its repeated planks making a measured perspective rhythm. Warm orange fog swallows the horizon, and drifting smoky patches obscure whatever lies beyond. The traveler is a small, dark vertical silhouette, clear enough to anchor the distance but without distracting detail. Most of the immediate foreground is unlit, turning the side and upper edges into a frame within the frame. The visual contrast is simple and severe: dense black around a glowing amber center, with only small shifts in orange and brown inside the mist. Backlight makes the figure's outline readable and gives the wet-looking planks a faint sheen. Grain and softened edges keep the scene photographic rather than diagrammatic. Space opens dramatically beyond the narrow path, yet the haze denies a clear destination. The stillness comes from a centered composition and the long repetition of boards beneath the solitary form. Across the full registered source, this kind of selective light and atmospheric depth appears in both cool and warm scenes; here it condenses into a quiet orange passage through darkness.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "df432a63d0761301c14e9a60e6264023996d5da5a18798f60fdb81d8c9bf2eb4",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

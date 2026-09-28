@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square children's-book illustration shows a lively outdoor café in a snowy city square at dusk. A long, warmly lit orange canopy stretches across the lower middle of the image, sheltering small tables, bundled patrons, and a dense cluster of tiny figures. Behind it stands a tall old stone building with a steep roof, a central clock-like tower, and several glowing yellow windows. Bare winter trees frame both sides with dark, wandering branches that overlap the pale blue sky and building facade. Snow covers the pavement and settles on low edges, while a few people walk through the open square. Slender black lamp posts punctuate the foreground; a handful of lamps shine softly. The drawing uses loose ink outlines that wobble and vary in weight, allowing architecture, branches, and human gestures to feel casually observed rather than mechanically exact. Thin washes of gray-blue and warm cream leave plenty of paper visible. Small accents of red, ocher, and yellow animate the crowd without turning it into an individually detailed roster. Light comes chiefly from the café canopy and windows, producing a warm horizontal center against the cool surrounding snow. The eye moves from the foreground figures through the bustling café to the tall building above. The whole scene feels affectionate, humorous, and bustling, with many small narrative marks held together by a clear warm-cool structure.",
+  "full_prompt_zh": "一幅方形儿童绘本插画描绘黄昏雪城广场里热闹的露天咖啡馆。长长的暖橙色灯篷横穿画面下部中央，遮住小桌、裹着外套的顾客和密集的小人物。后方是一座高大的旧石楼，陡峭屋顶、中央钟塔般的结构和几扇发黄光的窗户清晰可见。两侧的冬树光秃，深色枝条弯曲游走，与浅蓝天空和建筑正面交叠。积雪覆盖路面与低矮边沿，少数行人穿过开放的广场。细黑灯柱点在前景，其中几盏柔和地发亮。松动的墨线轮廓轻微摇摆、粗细不一，使建筑、树枝和人物动作显得随手观察，而非机械精确。灰蓝与暖奶油色的薄薄水彩保留大量纸白。少量红、赭和黄色点亮人群，却没有逐一刻画每位行人。光主要来自咖啡馆灯篷和窗户，在周围冷雪中形成一道温暖的水平中心。视线由前景人物越过繁忙咖啡馆，走向上方高楼。整幅场景亲切、幽默而热闹，大量小小的叙事笔迹被清楚的冷暖结构统合。",
+  "style_prompt_en": "Loose pen-and-wash illustration with wandering dark contours, thin translucent color, and plentiful visible paper. Cool gray-blue grounds and bare branching lines surround a concentrated band of warm ocher, red, and yellow. Small figures and details are sketched with lively shorthand rather than exact rendering. Architecture remains recognizable but gently irregular. A broad warm-cool contrast and layered foreground-to-background movement organize a busy scene while preserving affectionate storybook spontaneity.",
+  "style_prompt_zh": "松动的钢笔与淡彩插画保留游走的深色轮廓、透明薄色和大量纸白。冷灰蓝底色与光秃的分枝线条围绕一条集中的暖赭、红、黄色带。小人物和细节以生动速写代替精确渲染。建筑可以辨认，却带有温和的不规则感。大范围冷暖对比与前后层叠动线组织繁忙场景，同时保留亲切的绘本即兴感。",
+  "theme_en": "A lively outdoor café before an old building on a snowy evening",
+  "theme_zh": "雪夜里古老建筑前热闹的露天咖啡馆",
+  "wh_ratio": "1:1",
+  "id": "3428",
+  "name": "Ludwig Bemelmans",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/ludwig-bemelmans",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "0875a3a0298119ba4202138abf85756bec6cc97b91647f81cb3d67f57bf39461",
+    "gpt_submission_prompt": "A square children's-book illustration shows a lively outdoor café in a snowy city square at dusk. A long, warmly lit orange canopy stretches across the lower middle of the image, sheltering small tables, bundled patrons, and a dense cluster of tiny figures. Behind it stands a tall old stone building with a steep roof, a central clock-like tower, and several glowing yellow windows. Bare winter trees frame both sides with dark, wandering branches that overlap the pale blue sky and building facade. Snow covers the pavement and settles on low edges, while a few people walk through the open square. Slender black lamp posts punctuate the foreground; a handful of lamps shine softly. The drawing uses loose ink outlines that wobble and vary in weight, allowing architecture, branches, and human gestures to feel casually observed rather than mechanically exact. Thin washes of gray-blue and warm cream leave plenty of paper visible. Small accents of red, ocher, and yellow animate the crowd without turning it into an individually detailed roster. Light comes chiefly from the café canopy and windows, producing a warm horizontal center against the cool surrounding snow. The eye moves from the foreground figures through the bustling café to the tall building above. The whole scene feels affectionate, humorous, and bustling, with many small narrative marks held together by a clear warm-cool structure.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "3487da9d718cbab8afc62b945100a43be4f7a0eb5ed61bcd8299ae2e3ef9464d",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

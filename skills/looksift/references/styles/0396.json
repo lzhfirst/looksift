@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square, high-viewpoint color photograph surveys a crowded beach and shallow sea beneath a steep coastal cliff. A pale sandbar or narrow bathing area reaches from the lower foreground toward the center distance, thick with tiny swimmers, walkers, and clusters of umbrellas. The umbrellas repeat as small circles in cream, muted red, pale blue, yellow, and pink. People stand in loose rows along both sides of the spit, while others wade in the translucent water and appear as dark marks against a light turquoise surface. At the left, a low breakwater and a few small boats sit farther out on the blue sea. To the right, more bathers and scattered boats thin into the open water. A sheer gray rock face rises abruptly behind the beach, with white and cream buildings stepped along the slope and hazy green mountains trailing away to the right. The top of the frame is a pale, nearly blank sky. The midday light is high and diffuse, keeping shadows short and colors washed toward pastel. Despite the crowd, the photograph reads clearly from afar because the small figures and umbrellas form patterned bands rather than isolated focal portraits. Fine photographic detail lets individual human silhouettes remain visible, yet their faces and actions are too distant to identify. The camera looks down and across the broad shore, flattening the holiday scene into an intricate social pattern. The composition balances the monumental cliff with the lively, densely dotted beach and expansive calm sea.",
+  "full_prompt_zh": "一幅方形高视点彩色照片俯看陡峭海崖下拥挤的沙滩与浅海。浅色沙洲或狭长浴场从下方前景伸向中央远处，布满细小的游泳者、行人和成簇遮阳伞。伞群重复成奶油、暗红、浅蓝、黄和粉的小圆点。人们沿沙洲两侧松散成列，另一些人在透明水中涉水，成为浅青绿水面上的深色笔划。左边，低矮防波堤和几条小船位于更远的蓝海。右侧，更多戏水者与分散船只逐渐稀疏到开放水域。陡直灰色岩壁在海滩后突然升起，白色和奶油色建筑沿山坡层叠，雾蓝绿色山脉向右退去。画面顶部是一带浅淡、近乎空白的天空。正午光线从高处漫散而下，使阴影短促、色彩冲淡成粉彩。尽管人很多，照片远看仍清晰，因为小人物和伞构成有节奏的带状纹样，而非孤立焦点肖像。细腻摄影细节让单个人影可见，脸和动作却远得无法分辨。相机向下斜看广阔海岸，把度假场景压成复杂社会图案。构图用宏伟峭壁平衡活跃、密布斑点的海滩与宽广平静海面。",
+  "style_prompt_en": "Use an elevated, wide-view color photograph with fine distant detail and an even sun-bleached palette. Treat numerous small figures and objects as repeated dots and bands across a broad landscape, keeping individuals recognizable only as silhouettes. Preserve pale sand, translucent turquoise, soft blue, warm cream, and muted pastel accents under high diffuse daylight and short shadows. Let a large stable landform or open plane counterbalance dense human texture. The result is observational, spacious, and quietly patterned.",
+  "style_prompt_zh": "采用高视点广角彩色摄影，保留细小远景细节与均匀晒淡的调色。将众多小人物和物件组织为广阔景观上的重复圆点与带，个体只保留剪影般可辨性。高处漫射日光与短影之下，保留浅沙色、透明青绿、柔蓝、暖奶油和低饱和粉彩点缀。以大块稳定地形或开放平面平衡密集人群肌理，效果观察性强、开阔而安静有纹样。",
+  "theme_en": "A crowded seaside sandbar beneath a steep coastal cliff",
+  "theme_zh": "陡峭海崖下拥挤的海滨沙洲",
+  "wh_ratio": "1:1",
+  "id": "0396",
+  "name": "Massimo Vitali",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/massimo-vitali",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/massimo-vitali.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "cc3fa097dcd6cac0d226c2626da338752c826f0299b2f0030efa6fa0b079a476",
+    "gpt_submission_prompt": "A square, high-viewpoint color photograph surveys a crowded beach and shallow sea beneath a steep coastal cliff. A pale sandbar or narrow bathing area reaches from the lower foreground toward the center distance, thick with tiny swimmers, walkers, and clusters of umbrellas. The umbrellas repeat as small circles in cream, muted red, pale blue, yellow, and pink. People stand in loose rows along both sides of the spit, while others wade in the translucent water and appear as dark marks against a light turquoise surface. At the left, a low breakwater and a few small boats sit farther out on the blue sea. To the right, more bathers and scattered boats thin into the open water. A sheer gray rock face rises abruptly behind the beach, with white and cream buildings stepped along the slope and hazy green mountains trailing away to the right. The top of the frame is a pale, nearly blank sky. The midday light is high and diffuse, keeping shadows short and colors washed toward pastel. Despite the crowd, the photograph reads clearly from afar because the small figures and umbrellas form patterned bands rather than isolated focal portraits. Fine photographic detail lets individual human silhouettes remain visible, yet their faces and actions are too distant to identify. The camera looks down and across the broad shore, flattening the holiday scene into an intricate social pattern. The composition balances the monumental cliff with the lively, densely dotted beach and expansive calm sea.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "b15bdf350a30565f9e8ab19b63f8abf8b150f9aeed9b7791a2f05ae7b73b076e",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square painterly illustration shows an elegant woman in a bright turquoise dress seated among evening guests in a dim restaurant. The room behind her is crowded with softly defined people, dark tables and warm amber wall light, all rendered as loose overlapping paint rather than precise furniture. At the center-left, the woman sits in profile with short dark hair and bare shoulders, her full skirt spreading across the bench and toward the lower center. Her pale face turns toward two men at the table on the right. One man in a dark dinner jacket and pale shirt faces her from the middle distance; another is seen mostly from behind in a black jacket at the near right. A small cluster of glasses and a light tablecloth catches warm highlights between them. At the far left, additional women in dark and coral-colored dresses stand or sit near the wall. The foreground is a broad patchwork of deep teal, rusty brown and black reflections, with edges rubbed and broken into short strokes. The figures are recognizable through posture, color and light, but peripheral faces and objects dissolve into the busy atmosphere. Warm light from above and behind touches the central faces, arms and glassware, while the floor and outer corners remain shadowed. The overall composition gives the turquoise dress a clear luminous focus within a sociable, softly blurred field of warm night color.",
+  "full_prompt_zh": "一幅方形绘画插画描绘一位穿鲜亮青绿色连衣裙的优雅女子坐在昏暗餐厅的晚间宾客中。她身后的房间挤满柔化的人影、深色桌子和暖琥珀墙光，全都由松散重叠的颜料表现，而非精确家具。中央偏左，女子侧身坐着，留短黑发，肩部裸露，宽裙铺过长椅并伸向下方中央。她浅色的脸转向右侧桌边的两位男子。一位穿深色晚礼服和浅衬衫的男子从中景面向她；另一位穿黑外套的男子在近处右侧，主要从背后可见。几只玻璃杯和浅色桌布在他们之间接住暖亮点。最左侧，更多穿深色与珊瑚色裙装的女子在墙边站着或坐着。前景是深青、锈棕与黑色反光组成的宽阔拼块，边缘擦融并碎成短笔。人物通过姿态、色彩和光保持可辨，外围的脸和物件则消融进忙碌气氛。来自上方和后方的暖光触及中心人物的脸、手臂与玻璃器皿，地面及外侧角落保留阴影。整体构图让青绿色裙装成为社交场景中清楚的发光焦点，四周包围柔化的暖夜色彩。",
+  "style_prompt_en": "The painterly illustration is assembled from broken, overlapping strokes and broad patches of muted color. Cool turquoise or teal carries the focal light against dark umber, rust, charcoal and small amber highlights. Forms remain legible near the center through selective sharp edges and warm touches, then loosen rapidly toward the crowded perimeter. Brush scuffs and translucent layers make the surface active without a uniformly detailed finish. Interior light appears in scattered pools; reflected color spreads across lower planes while outer areas merge into shadow. The composition uses one bright middle shape to organize many darker fragments, producing an intimate, lively atmosphere with a soft impressionistic blur.",
+  "style_prompt_zh": "这种绘画插画由断续重叠的笔触和大块低饱和颜色拼成。冷青绿或蓝绿承载焦点亮度，对照深棕、锈色、炭色及少量琥珀亮点。中心附近形体靠选择性的清晰边缘和暖色触笔保持可辨，向拥挤外围迅速松散。擦笔痕与透明叠层让表面活跃，却不形成均匀细密的完成面。室内光以散落的光池出现；反射色漫过下方平面，外侧区域合入阴影。构图以一个明亮的中部形状组织许多较暗碎片，产生亲密活泼、柔和印象派模糊的气氛。",
+  "theme_en": "An elegant woman in a turquoise dress among evening restaurant guests",
+  "theme_zh": "穿青绿色连衣裙的优雅女子置身晚间餐厅宾客之间",
+  "wh_ratio": "1:1",
+  "id": "0747",
+  "name": "Bernie Fuchs",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/bernie-fuchs",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/bernie-fuchs.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "4b1b93cacb86eb4770d92fd019f2a812a78572d02615af9d77f0d1872a00d1a0",
+    "gpt_submission_prompt": "A square painterly illustration shows an elegant woman in a bright turquoise dress seated among evening guests in a dim restaurant. The room behind her is crowded with softly defined people, dark tables and warm amber wall light, all rendered as loose overlapping paint rather than precise furniture. At the center-left, the woman sits in profile with short dark hair and bare shoulders, her full skirt spreading across the bench and toward the lower center. Her pale face turns toward two men at the table on the right. One man in a dark dinner jacket and pale shirt faces her from the middle distance; another is seen mostly from behind in a black jacket at the near right. A small cluster of glasses and a light tablecloth catches warm highlights between them. At the far left, additional women in dark and coral-colored dresses stand or sit near the wall. The foreground is a broad patchwork of deep teal, rusty brown and black reflections, with edges rubbed and broken into short strokes. The figures are recognizable through posture, color and light, but peripheral faces and objects dissolve into the busy atmosphere. Warm light from above and behind touches the central faces, arms and glassware, while the floor and outer corners remain shadowed. The overall composition gives the turquoise dress a clear luminous focus within a sociable, softly blurred field of warm night color.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "efc3349e63c078d95c2958334e84b7d8e75974aafacbb04d183f5c4adc904244",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

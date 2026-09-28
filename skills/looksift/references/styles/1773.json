@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white fine-art photograph shows a single leafless tree standing on a narrow dark bank beside perfectly calm water. The tree rises slightly left of center, its fine branches spreading into a round crown against a luminous gray-white sky. Its reflected trunk and branching crown extend downward into the dark water, almost completing a symmetrical double image. Behind and to the left, a small pale house with a dark roof sits near the bank, reduced by the distance and haze. Farther left, a row of thin trees recedes toward a mist-covered vanishing point, their reflections forming repeated vertical lines beneath the horizon. The land on the right is a long, low black wedge that enters from the edge and meets the tree at its tip. The top of the photograph contains large unmarked pale space, while the lower half deepens smoothly from gray reflection to near-black foreground. No ripples disturb the mirror-like surface. Soft fog diffuses the daylight so completely that shadows are absent; edges become less distinct with distance, yet the foreground tree remains crisp. Fine silver-gray branches contrast with the broad black bank and its dark reflection. The camera is level and low to the water, emphasizing the horizon's clean horizontal line and the calm doubling below it. No people or activity appear. The composition is minimal and meditative, balancing one organic silhouette against repeated distant trees, a tiny building, and large fields of quiet light and dark.",
+  "full_prompt_zh": "一幅方形黑白艺术摄影描绘一棵无叶孤树立在极平静水面旁的狭窄暗岸上。树略在中央偏左升起，细枝张成圆冠，背后是发亮的灰白天空。树干和分枝树冠的倒影向下伸入暗水，几乎完成上下对称的双重形。左后方，一间浅色小屋顶着深屋顶，因距离与薄雾而缩小。更左侧，一排细树向雾中的消失点退去，倒影在地平线下形成重复竖线。右侧陆地是从边缘进入的长而低的黑色楔形，在尖端与树相接。照片上部有大片未着痕迹的浅色空域，下半从灰色倒影平顺变深到近黑前景。镜面水上没有波纹。柔雾把日光漫散到几乎没有阴影；远处边缘渐不清楚，前景树仍清晰。细银灰树枝与宽阔黑岸及其暗倒影对照。相机水平且贴近水面，强调地平线的干净横线与其下平静的镜像。没有人物或活动。构图极简而冥想，以一个有机剪影平衡远处重复树列、一间小屋和大面积安静明暗。",
+  "style_prompt_en": "Use minimalist fine-art black-and-white photography with a level horizon, calm mirror reflection, and generous pale negative space. Place one crisp organic silhouette against soft fog, allowing repeated distant forms to dissolve gradually. Work through silver-gray, charcoal, and near-black without color. Broad low dark shapes anchor the bottom or side, while fine branches or similarly delicate lines retain clarity. Diffuse overcast light removes hard shadows and creates a quiet, meditative tonal gradient.",
+  "style_prompt_zh": "采用极简黑白艺术摄影，以水平地平线、平静镜像和宽阔浅色留白构成。让一个清晰有机剪影立在柔雾前，重复远景逐渐消失。只用银灰、炭灰与近黑，不用彩色。宽而低的暗形稳住下方或侧边，细枝或类似纤线保持清晰。阴天漫射光去掉硬影，形成安静冥想的灰调渐层。",
+  "theme_en": "A solitary winter tree and small house reflected in misty water",
+  "theme_zh": "孤独冬树与小屋映在雾水中",
+  "wh_ratio": "1:1",
+  "id": "1773",
+  "name": "Pierre Pellegrini",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/pierre-pellegrini",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/pierre-pellegrini.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "1ad269ef0391085079476bbddf2c5019a2c5ac6ab4faa3b5a0fdff22d8ce2dc4",
+    "gpt_submission_prompt": "A square black-and-white fine-art photograph shows a single leafless tree standing on a narrow dark bank beside perfectly calm water. The tree rises slightly left of center, its fine branches spreading into a round crown against a luminous gray-white sky. Its reflected trunk and branching crown extend downward into the dark water, almost completing a symmetrical double image. Behind and to the left, a small pale house with a dark roof sits near the bank, reduced by the distance and haze. Farther left, a row of thin trees recedes toward a mist-covered vanishing point, their reflections forming repeated vertical lines beneath the horizon. The land on the right is a long, low black wedge that enters from the edge and meets the tree at its tip. The top of the photograph contains large unmarked pale space, while the lower half deepens smoothly from gray reflection to near-black foreground. No ripples disturb the mirror-like surface. Soft fog diffuses the daylight so completely that shadows are absent; edges become less distinct with distance, yet the foreground tree remains crisp. Fine silver-gray branches contrast with the broad black bank and its dark reflection. The camera is level and low to the water, emphasizing the horizon's clean horizontal line and the calm doubling below it. No people or activity appear. The composition is minimal and meditative, balancing one organic silhouette against repeated distant trees, a tiny building, and large fields of quiet light and dark.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "8d25972280b542309fc36087d5c4a2480e7c01f287b8be9d69b13c3016d3286b",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square nineteenth-century political caricature shows a stocky mustached man seated with crossed legs at the front of a crowded meeting room. He wears a dark suit and top hat decorated with exaggerated feathers or animal-like ears. His arms fold tightly across his chest, and his expression is stubborn and self-important. Behind him, other men sit around a long table covered with papers, bottles, and writing tools. The room has paneled walls, portraits, and a shadowy ceiling, all rendered through dense engraved line. A small dog sits near the central chair, its pale coat standing out against the floor. Fine cross-hatching and stipple describe facial hair, fabric folds, wood grain, and crowded background faces. The tonal range is almost entirely black, warm gray, and cream paper, with the seated man made clearest through contour and placement rather than color. Light appears to enter from above left, picking out his face, hat brim, hands, and the table. The composition is busy but hierarchical: a large foreground caricature controls the page, while the assembly behind becomes a detailed satirical chorus. The whole frame feels sharp, theatrical, and historically printed, with satire carried by posture and exaggeration.",
+  "full_prompt_zh": "一幅方形十九世纪政治漫画呈现一位矮壮蓄髭男子交叠双腿坐在拥挤会议室前方。他穿深色西装，头戴装着夸张羽毛或兽耳样饰物的高礼帽。双臂紧紧交叉胸前，神情固执而自负。身后其他男子围坐长桌，桌上堆着纸张、瓶子和书写工具。房间有镶板墙、肖像画和阴暗天花板，全由密集雕版线条描绘。一只小狗坐在中央椅旁，浅色毛皮从地板前突出。细交叉排线与点描描写胡须、衣褶、木纹和背景密集面孔。色谱几乎只有黑、暖灰与乳白纸面；前景坐姿男子靠轮廓与位置而非彩色成为最清楚焦点。光似乎从左上进入，照到他的脸、帽檐、手和桌子。构图繁忙却有层级：大幅前景夸张人物控制画页，身后集会成为细密的讽刺合唱。整体尖锐、戏剧化、有历史印刷感，讽刺主要来自姿态与夸张。",
+  "style_prompt_en": "A nineteenth-century engraved caricature style uses dense cross-hatching, stipple, and varied black contour to stage a satirical foreground figure before a busy room. Cream paper and warm gray remain the only relief from deep ink. Exaggerated headwear, posture, or proportion carries the joke, while background faces and table objects become a finely drawn chorus. Light selects the main face and hands through open paper areas rather than smooth wash. Wood, cloth, hair, and small animals receive distinct hatch textures. The composition is crowded but anchored by one clear large form. The mood is pointed, theatrical, and materially printed.",
+  "style_prompt_zh": "十九世纪雕版夸张画风格使用密集交叉排线、点描和轻重不同黑轮廓，在繁忙室内前布置讽刺性前景人物。乳白纸面和暖灰是深墨中仅有的缓冲。夸张帽饰、姿态或比例承担笑点，背景面孔与桌面物件成为细密描绘的合唱。光通过开放纸白而非光滑薄染挑出主面孔和手。木、布、头发和小动物各有不同排线肌理。构图拥挤却由一个清楚的大形体压住。气氛尖锐、有舞台感、材料印刷感明确。",
+  "theme_en": "A stocky mustached man in a top hat sits at a crowded old meeting table",
+  "theme_zh": "一位戴高礼帽的矮壮蓄髭男子坐在拥挤的旧式会议桌旁",
+  "wh_ratio": "1:1",
+  "id": "0833",
+  "name": "Thomas Nast",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/thomas-nast",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/thomas-nast.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "9e70d59aa3d54ad08b07526e2904d2831f1538400a7cde0203f434b180c81cca",
+    "gpt_submission_prompt": "A square nineteenth-century political caricature shows a stocky mustached man seated with crossed legs at the front of a crowded meeting room. He wears a dark suit and top hat decorated with exaggerated feathers or animal-like ears. His arms fold tightly across his chest, and his expression is stubborn and self-important. Behind him, other men sit around a long table covered with papers, bottles, and writing tools. The room has paneled walls, portraits, and a shadowy ceiling, all rendered through dense engraved line. A small dog sits near the central chair, its pale coat standing out against the floor. Fine cross-hatching and stipple describe facial hair, fabric folds, wood grain, and crowded background faces. The tonal range is almost entirely black, warm gray, and cream paper, with the seated man made clearest through contour and placement rather than color. Light appears to enter from above left, picking out his face, hat brim, hands, and the table. The composition is busy but hierarchical: a large foreground caricature controls the page, while the assembly behind becomes a detailed satirical chorus. The whole frame feels sharp, theatrical, and historically printed, with satire carried by posture and exaggeration.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "8653d2a703fd10b857642c09d59308434f73f782ff1b6da4931cf7ed22b4447a",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

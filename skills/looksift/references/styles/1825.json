@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A wide, spare image shows two small dark-robed figures standing far apart before an immense pale concrete wall. One figure, with a small white head covering, walks across the open beige ground near the left third. The other stands within a tall rounded doorway near the right third, reduced to a nearly black silhouette against a glowing red recess. The wall fills most of the frame and is built from simple projecting volumes: a slender vertical pier at far left, a taller block with a tiny black upper window, and a small square recess whose right interior catches amber light. A long diagonal plane of vermilion begins at the ground near the center and rises toward the red arch, making a sharp triangular wedge. The arch has a deep red face, a rounded crown, and a narrow dark opening along its right edge. Low, directional sunlight washes the sandy foreground and reveals a fine granular surface on the wall. It also casts firm-edged shadows that divide the pale surfaces into broad gray and cream shapes. The two figures provide scale while leaving the space almost silent and empty. The viewpoint is low and frontal, the horizon is barely present, and the composition depends on large uninterrupted planes, small rectangular cuts, one saturated red accent, and the deliberate distance between the figures.",
+  "full_prompt_zh": "一幅横向而简洁的图像呈现两名身着深色长袍的小人物，远远分立在巨大的浅色混凝土墙前。左侧三分之一附近，一人戴着小片白色头巾，走过空旷的米色地面。另一人站在右侧三分之一附近的高大圆顶门洞内，面对发亮的红色凹处，几乎缩成黑色剪影。墙体占据画面大部，由简单的外凸体块组成：最左侧细长竖墩、带一扇上方小黑窗的较高块体，以及内侧右壁承接琥珀色光的小方形凹口。一块朱红色斜面从画面中部附近的地面起始，朝红色拱门上升，形成边缘锐利的三角楔形。拱门正面为浓红色，顶部圆弧，右边留一条狭窄深色开口。低角度的定向阳光洗亮沙色前景，也显出墙面细微颗粒质感；硬边阴影把浅墙切分为大块灰色和奶油色。两个人物标示尺度，却让空间仍显安静空阔。视点低而正面，地平线几乎不见；构图依靠不间断的大色面、小型矩形切口、唯一饱和的红色重点，以及人物之间精心保留的距离。",
+  "style_prompt_en": "Use a minimal, geometric visual language built from broad uninterrupted planes and a few crisp cutouts. A low frontal viewpoint flattens depth into strong verticals, rectangles, a rounded opening, and a decisive diagonal wedge. Keep most of the palette to muted cement gray, warm cream, and sandy beige, then place one concentrated vermilion-red area as the visual hinge. Strong low sunlight creates clean, angular shadows; faint surface grain prevents the planes from becoming sterile. Human-scale silhouettes, when present, remain very small and widely spaced, allowing negative space to dominate. Light and dark edges are precise, but the atmosphere stays quiet rather than graphic or glossy. The transferable effect is a measured interplay of scale, shadow geometry, restrained texture, and one warm saturated accent.",
+  "style_prompt_zh": "采用由大面积连续色面和少量利落切口构成的极简几何视觉语言。低位正面视点把纵深压成鲜明的竖线、矩形、圆顶开口和果断的斜向楔形。色盘大多维持在柔和的水泥灰、暖奶油色与沙米色，再以一处集中的朱红色作为视觉转轴。低角度强日光形成干净的棱角阴影；细微表面颗粒让色面不至于生硬。若有人物剪影，应保持极小且相距很远，让留白占主导。明暗边缘准确，气氛却安静，不求图形化光泽。可迁移的效果来自尺度、阴影几何、克制质感与一处暖色高饱和重点之间有分寸的配合。",
+  "theme_en": "Two small dark-robed figures separated by a sunlit red arch",
+  "theme_zh": "两名身着深色长袍的小人物隔着阳光下的红色拱门",
+  "wh_ratio": "1:1",
+  "id": "1825",
+  "name": "Serge Najjar",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/serge-najjar",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/serge-najjar.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "23248a843c60c7c52ff581e42bc64da38279d2299831dda7aa8ef4bf97ba7204",
+    "gpt_submission_prompt": "A wide, spare image shows two small dark-robed figures standing far apart before an immense pale concrete wall. One figure, with a small white head covering, walks across the open beige ground near the left third. The other stands within a tall rounded doorway near the right third, reduced to a nearly black silhouette against a glowing red recess. The wall fills most of the frame and is built from simple projecting volumes: a slender vertical pier at far left, a taller block with a tiny black upper window, and a small square recess whose right interior catches amber light. A long diagonal plane of vermilion begins at the ground near the center and rises toward the red arch, making a sharp triangular wedge. The arch has a deep red face, a rounded crown, and a narrow dark opening along its right edge. Low, directional sunlight washes the sandy foreground and reveals a fine granular surface on the wall. It also casts firm-edged shadows that divide the pale surfaces into broad gray and cream shapes. The two figures provide scale while leaving the space almost silent and empty. The viewpoint is low and frontal, the horizon is barely present, and the composition depends on large uninterrupted planes, small rectangular cuts, one saturated red accent, and the deliberate distance between the figures.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "2c63b8f4881f44794555287b8b631c302ad191802f0e7edc67e54359fb5ed640",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

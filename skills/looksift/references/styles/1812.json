@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A high-contrast black-and-white comic illustration looks down at a brooding man leaning over a pale tabletop. His tousled dark hair, heavily shadowed cheek, and direct upward glance concentrate the expression near the upper center. One forearm reaches across the left foreground while the other bends inward, hand resting under the chin; a light rolled-sleeve shirt fills the right side in broad white planes. The body and arms form a compact angular knot around a pool of solid black shadow on the tabletop. Beneath the arms, diagonal planks or paving lines create a tilted grid that makes the viewpoint feel slightly unstable. Dense brush-black shapes carve the face and torso, while fine parallel hatching and dry crosshatched marks turn white cloth and the pale ground into gradated textures. The black ink is not uniform: some passages are velvety masses, others are scratched open by thin paper-white streaks, especially through the hair. There is little conventional background, so the overhead light and close crop make the figure feel immediate and isolated. White areas act as strong highlights rather than empty omissions, setting off the dark eye socket, cheek, and hand contours. The composition pulls the viewer from the extended hand along the arm into the face, then lets the diagonal floor marks carry the eye outward again. The whole frame sustains a tense noir mood through decisive ink shapes, economical hatching, and compressed perspective.",
+  "full_prompt_zh": "一幅高对比黑白漫画插画从上方俯视一名俯身在浅色桌面前的沉思男子。蓬乱的深色头发、被重阴影覆盖的脸颊和直接向上看的目光，将表情集中在画面上部中央。一条前臂伸过左侧前景，另一条手臂向内弯曲，手抵在下巴下；卷起袖子的浅色衬衣以大块白色平面占据右侧。身体和手臂围绕桌上一片浓黑阴影，形成紧凑而棱角分明的结。手臂下方，斜向木板或铺地线条构成倾斜的网格，使视点略显不稳定。密集的刷黑形体刻出脸与躯干，而纤细的平行排线和干涩交叉排线则让白衣与浅色地面呈现渐变纹理。黑墨并不均一：有些区域如绒般整片浓黑，有些则被细细的纸白线划开，头发里尤其明显。传统背景很少，顶光与紧密裁切使人物显得直接而孤立。白色区域是有力的高光，并非空缺，衬出深色眼窝、脸颊与手的轮廓。构图把观者从伸出的手沿手臂引向面孔，再让斜向地板线条把视线带出去。整幅画通过果断的墨色形体、简练排线和压缩透视维持紧张的黑色电影氛围。",
+  "style_prompt_en": "A high-contrast black-and-white comic illustration uses decisive brush-black masses, sharp paper-white reserves, fine parallel hatching, and dry crosshatched texture. Direct overhead-like light separates broad pale planes from velvety shadow, while scratched white strands and tapered contour strokes keep dark areas alive. Close cropping, compressed depth, and a tilted diagonal grid create tension around a compact focal knot. The whole frame has an immediate noir atmosphere and visibly inked paper surface.",
+  "style_prompt_zh": "一幅高对比黑白漫画插画使用果断的刷黑团块、锐利的纸白预留、纤细的平行排线与干涩交叉纹理。近似顶光的直接照明把宽阔浅色平面与如绒阴影分开，划出的白线和收尖轮廓使深色区域保持活力。紧密裁切、压缩纵深与倾斜斜线网格在紧凑焦点周围制造张力。整幅画具有直接的黑色电影气息和清楚可见的纸上墨迹表面。",
+  "theme_en": "A brooding man leans over a tabletop in a noir ink illustration",
+  "theme_zh": "黑色电影式墨线插画中俯身桌前的男子",
+  "wh_ratio": "1:1",
+  "id": "1812",
+  "name": "Tony DeZuniga",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/tony-dezuniga",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/tony-dezuniga.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "d35602849c88290d555361e78702f18154e7bef7da87d4d8e12ae7fab686e919",
+    "gpt_submission_prompt": "A high-contrast black-and-white comic illustration looks down at a brooding man leaning over a pale tabletop. His tousled dark hair, heavily shadowed cheek, and direct upward glance concentrate the expression near the upper center. One forearm reaches across the left foreground while the other bends inward, hand resting under the chin; a light rolled-sleeve shirt fills the right side in broad white planes. The body and arms form a compact angular knot around a pool of solid black shadow on the tabletop. Beneath the arms, diagonal planks or paving lines create a tilted grid that makes the viewpoint feel slightly unstable. Dense brush-black shapes carve the face and torso, while fine parallel hatching and dry crosshatched marks turn white cloth and the pale ground into gradated textures. The black ink is not uniform: some passages are velvety masses, others are scratched open by thin paper-white streaks, especially through the hair. There is little conventional background, so the overhead light and close crop make the figure feel immediate and isolated. White areas act as strong highlights rather than empty omissions, setting off the dark eye socket, cheek, and hand contours. The composition pulls the viewer from the extended hand along the arm into the face, then lets the diagonal floor marks carry the eye outward again. The whole frame sustains a tense noir mood through decisive ink shapes, economical hatching, and compressed perspective.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "dee9ceec4468fdab9a2045c827046d38e325b109ecc43e68c7fa1dd04c33dd14",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

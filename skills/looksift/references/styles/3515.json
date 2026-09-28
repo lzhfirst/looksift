@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "The square image is a vintage black-and-white studio photograph of a young performer turned partly away from the camera. Her upper body and one bare shoulder angle toward the right, while her head turns back so her eyes meet the viewer. Short dark hair forms a soft halo of tight curls, with a small pale feather accent rising near the crown. Darkly shaded eyes and defined lips contrast against the smooth illuminated face. A large spray of white feathers crosses the chest at the lower left, its fine filaments separating into bright strands against the surrounding black. One forearm rests low at the bottom edge, and the open back of her dark dress leaves the near shoulder and upper arm luminous. Behind her, a deep black studio ground has almost no visible objects, though slight tonal mottling and a worn border reveal the old photographic surface. Side light from the upper left traces the curls, cheek, shoulder and individual feather barbs, while shadow deepens around the right side of the body. The tonal range is broad but controlled: bright white feathers, pale silver skin, soft gray hair highlights and velvety black background. The pose feels theatrical yet intimate, with the turning head forming a graceful curve opposite the diagonal arm. Fine grain, gentle focus and minor edge wear make the image feel like a preserved early photographic print. The entire square depends on elegant shape, luminous texture and a direct, enigmatic gaze.",
+  "full_prompt_zh": "正方形画面是一张复古黑白影棚照片，一位年轻表演者身体部分背向镜头。上身和一侧裸肩朝向右边，头却转回，使眼睛与观众相遇。短深发形成紧密卷曲的柔软光晕，头顶附近立着一小簇浅色羽饰。浓暗眼妆和分明的嘴唇对照受光平滑的面孔。一大束白羽横过左下胸前，纤细羽丝在周围黑色中分成明亮线条。一只前臂低低停在下缘，深色裙装的露背使近侧肩膀和上臂发亮。身后几乎没有可见物件，只有深黑影棚背景；轻微灰阶斑驳和磨损边框显示出旧摄影表面。左上方侧光描出卷发、脸颊、肩与每根羽枝，身体右侧的阴影则渐浓。灰阶宽广而受控：亮白羽毛、浅银肤色、柔灰发丝高光与绒黑背景。姿态有舞台感却亲密，回转头部形成优美曲线，与斜向手臂相呼应。细颗粒、柔和焦点和边缘轻微磨损，使画面像保存至今的早期摄影印相。整幅正方形依靠优雅形状、发光质感和直接而难解的目光成立。",
+  "style_prompt_en": "Vintage black-and-white studio photography combines velvety dark ground, luminous silver skin tones, brilliant fine-textured whites, soft side light, gentle focus and visible print grain. Curved contours and diagonal accents organize an elegant close composition. Slight surface wear at the edges and a broad but controlled tonal range give the square image the presence of an early photographic print.",
+  "style_prompt_zh": "复古黑白影棚摄影结合绒密暗背景、发亮银灰中间调、细纹理的亮白、柔和侧光、轻微柔焦与可见印相颗粒。曲线轮廓和斜向点缀组织优雅的近景构图。边缘轻微磨损、宽广却受控的灰阶，使正方形画面具有早期摄影印相的存在感。",
+  "theme_en": "A silent-era performer turning toward the camera with a white feather fan",
+  "theme_zh": "默片时代演员带着白羽扇回望镜头",
+  "wh_ratio": "1:1",
+  "id": "3515",
+  "name": "Alfred Cheney Johnston",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/alfred-cheney-johnston",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "06004bd0fc65200a0247c543f12d9684b5b0b76710d30e5833926c67230a3d96",
+    "gpt_submission_prompt": "The square image is a vintage black-and-white studio photograph of a young performer turned partly away from the camera. Her upper body and one bare shoulder angle toward the right, while her head turns back so her eyes meet the viewer. Short dark hair forms a soft halo of tight curls, with a small pale feather accent rising near the crown. Darkly shaded eyes and defined lips contrast against the smooth illuminated face. A large spray of white feathers crosses the chest at the lower left, its fine filaments separating into bright strands against the surrounding black. One forearm rests low at the bottom edge, and the open back of her dark dress leaves the near shoulder and upper arm luminous. Behind her, a deep black studio ground has almost no visible objects, though slight tonal mottling and a worn border reveal the old photographic surface. Side light from the upper left traces the curls, cheek, shoulder and individual feather barbs, while shadow deepens around the right side of the body. The tonal range is broad but controlled: bright white feathers, pale silver skin, soft gray hair highlights and velvety black background. The pose feels theatrical yet intimate, with the turning head forming a graceful curve opposite the diagonal arm. Fine grain, gentle focus and minor edge wear make the image feel like a preserved early photographic print. The entire square depends on elegant shape, luminous texture and a direct, enigmatic gaze.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "1b80e44b1557d9e2609a88d62f4c3ec1843caf9d56d48580852fe038320371da",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

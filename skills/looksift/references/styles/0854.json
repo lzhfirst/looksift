@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square oil-like caricature gathers a row of closely pressed men behind a dark wooden rail. At the left foreground, a heavy white-haired man in a dark coat turns his fleshy profile upward. Near the center, a narrower man with dark hair peers between shoulders, his face partly caught in shadow. At the right foreground, a bearded man in a brown coat and reddish cravat lifts his gaze toward something beyond the frame; more heads recede into the murky background. Their faces are exaggerated through bulbous noses, ruddy cheeks, heavy brows, and alert eyes, yet the group reads as a single compressed audience. Loose painterly strokes blend figure edges into a deep olive-green interior. Warm ivory highlights strike the pale hair, forehead, collars, and facial planes, while umber, tobacco brown, and near-black collect in coats and recesses. The low rail anchors the crowded upper composition with a simple horizontal band. The light is uneven and theatrical but still naturalistic, leaving some faces in partial obscurity and bringing others forward. Brush texture remains visible in hair and fabric; the finish suggests aged paint rather than flat vector drawing. The overall mood is satirical, observant, and socially animated, achieved through facial rhythm, close framing, and rich shadow.",
+  "full_prompt_zh": "一幅方形、近似油画的讽刺肖像把一排紧挤在一起的男子聚在深色木栏后。左侧前景是一位白发浓密、身形厚实的男子，穿深色外套，把肉感十足的侧脸微微抬起。中间一位深发、脸形较窄的男子从肩膀之间探出，面部半隐在阴影里。右侧前景，一位留胡须、穿棕色外套和红褐领巾的男子望向画外；更多头颅退入昏暗背景。膨大的鼻子、泛红的脸颊、浓眉和警觉的眼睛使面容带有夸张意味，但整群人仍像一个被压缩的观众席。松动的绘画笔触让人物边缘融入深橄榄绿室内。温暖的象牙白亮部落在白发、额头、衣领和面部平面上，赭棕、烟草棕和近黑色则积聚在外套与缝隙里。低矮栏杆以简洁的水平带固定拥挤的上半部构图。光线不均匀，带有戏剧性又保留自然主义，使一些面孔半遮半掩，另一些向前浮出。头发和布料里可见笔刷肌理，完成面更像老化油彩而非平面矢量图。整体氛围讽刺而善于观察，借面孔的节奏、紧密取景与丰厚阴影显得充满社交活力。",
+  "style_prompt_en": "Loose, aged oil-paint caricature with crowded close framing and expressive facial exaggeration. Warm ivory and ruddy flesh tones emerge from olive green, umber, tobacco brown, and deep black shadow. Visible brushwork softens outlines, merges rear figures into the ground, and leaves highlights on selected planes. A low horizontal anchor steadies a dense rhythm of overlapping heads. Uneven interior illumination and painterly texture create lively social observation rather than polished photographic detail.",
+  "style_prompt_zh": "松动而有年代感的油彩讽刺画，以拥挤的近景取框和富有表情的面部夸张为特征。暖象牙白与泛红肤色从橄榄绿、赭棕、烟草棕和浓黑阴影里显现。可见的笔触柔化轮廓，使后排形体融入底色，并把亮部留在选定的形面上。较低的水平线稳定密集、互相重叠的头部节奏。不均匀的室内光和绘画肌理营造生动的社会观察感，而非光洁的摄影细节。",
+  "theme_en": "A crowded row of expressive men listening from a gallery",
+  "theme_zh": "画廊中一排神情鲜明的男子侧耳倾听",
+  "wh_ratio": "1:1",
+  "id": "0854",
+  "name": "Honore Daumier",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/honore-daumier",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/honore-daumier.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "8eea3aa38c89b3b7608a35f5588d1588ac8983b7a267aa965b3967a1c005cbb0",
+    "gpt_submission_prompt": "A square oil-like caricature gathers a row of closely pressed men behind a dark wooden rail. At the left foreground, a heavy white-haired man in a dark coat turns his fleshy profile upward. Near the center, a narrower man with dark hair peers between shoulders, his face partly caught in shadow. At the right foreground, a bearded man in a brown coat and reddish cravat lifts his gaze toward something beyond the frame; more heads recede into the murky background. Their faces are exaggerated through bulbous noses, ruddy cheeks, heavy brows, and alert eyes, yet the group reads as a single compressed audience. Loose painterly strokes blend figure edges into a deep olive-green interior. Warm ivory highlights strike the pale hair, forehead, collars, and facial planes, while umber, tobacco brown, and near-black collect in coats and recesses. The low rail anchors the crowded upper composition with a simple horizontal band. The light is uneven and theatrical but still naturalistic, leaving some faces in partial obscurity and bringing others forward. Brush texture remains visible in hair and fabric; the finish suggests aged paint rather than flat vector drawing. The overall mood is satirical, observant, and socially animated, achieved through facial rhythm, close framing, and rich shadow.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "cd4ed442d6d531ed67af645d6508ec4e26884d18bdcd691945639e518837a39a",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

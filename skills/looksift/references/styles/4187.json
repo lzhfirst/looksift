@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square monochrome photogravure print shows a quiet river bend beneath a dense canopy of overhanging trees. The darkest branches and leaves crowd the upper left and sweep toward the center, creating a natural arch around a pale opening in the distance. Below, calm water curves from the lower left toward the right middle distance and reflects the light sky in broken silver patches. A low bank or path follows the lower right, its edge marked by gray grass and irregular shadow. Across the water, rounded trees and shrubs appear in softer midtones, their outlines fading into atmospheric grain. The view has no prominent person or building; the shaded canopy and the opening beyond it organize the scene. Fine tonal dots and etched-looking blacks give the image the density of an ink print rather than a glossy photograph. Light enters from the distant center-left, catching the water and far foliage while leaving the near overhead branches nearly black. The paper is warm off-white, with broad dark values but no harsh pure-white glare. Small variation in print density softens transitions and makes the tree forms tactile. No lettering appears. The overall composition is contemplative and inward-leading, using a heavy dark frame to make the narrow luminous river passage feel unusually calm.",
+  "full_prompt_zh": "一幅方形黑白照相凹版画呈现浓密悬枝下安静的河湾。最深的枝叶挤在左上并向中央扫去，围住远处一处浅亮开口，形成天然拱形。下方平静水面从左下弯向右侧中远处，以破碎银光映出亮天。低岸或小路沿右下延伸，边缘由灰草和不规则阴影标出。对岸圆形树丛和灌木呈较柔和的中间调，外廓消入带颗粒的空气。画中没有醒目人物或建筑；受荫树冠与后方开口组织景象。细密调性点和近似蚀刻的浓黑让图像具有印墨密度，而非光面照片感。光从远方中央偏左进入，照到水面和对岸植物，让近处头顶枝条几乎全黑。纸张暖灰白，有宽厚深色调，却没有刺目的纯白眩光。印墨密度的细小变化柔化过渡，也让树形有触感。没有文字。整体构图沉思且引向内部，以厚重深色框景使狭窄明亮的河道显得格外平静。",
+  "style_prompt_en": "Photogravure treatment translates photographic depth into fine tonal grain, etched-looking blacks, and warm off-white paper. Near-black textured masses enclose a smaller luminous opening, while soft midtones recede through atmospheric detail. Silver-gray and charcoal dominate without chromatic color or glossy pure-white glare. Distant light brightens a narrow reflective passage; nearby overhangs stay deeply shaded but retain tiny variations of ink. Curving movement leads inward from a dark lower edge toward a pale central interval. The result is restrained, tactile, and contemplative.",
+  "style_prompt_zh": "照相凹版处理把摄影纵深译成细密调性颗粒、近似蚀刻的浓黑与暖灰白纸面。近黑而有纹理的体量围住较小明亮开口，柔和中间调经空气细节退向远处。银灰和炭色占主导，没有色彩或光面纯白眩光。远处光照亮狭窄反射通道；近处遮盖区域深暗却保留墨色细微变化。弯曲动势从深色下缘引向浅亮中央间隔。效果克制、有触感且沉思。",
+  "theme_en": "A shaded river bend beneath overhanging trees in a monochrome print",
+  "theme_zh": "黑白印片中悬枝下的幽暗河湾",
+  "wh_ratio": "1:1",
+  "id": "4187",
+  "name": "Photogravure",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/photogravure.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "5c80ac1a748396ed4857558309708393e1f49f8d29993a36ec7aae4406fc9eb2",
+    "gpt_submission_prompt": "A square monochrome photogravure print shows a quiet river bend beneath a dense canopy of overhanging trees. The darkest branches and leaves crowd the upper left and sweep toward the center, creating a natural arch around a pale opening in the distance. Below, calm water curves from the lower left toward the right middle distance and reflects the light sky in broken silver patches. A low bank or path follows the lower right, its edge marked by gray grass and irregular shadow. Across the water, rounded trees and shrubs appear in softer midtones, their outlines fading into atmospheric grain. The view has no prominent person or building; the shaded canopy and the opening beyond it organize the scene. Fine tonal dots and etched-looking blacks give the image the density of an ink print rather than a glossy photograph. Light enters from the distant center-left, catching the water and far foliage while leaving the near overhead branches nearly black. The paper is warm off-white, with broad dark values but no harsh pure-white glare. Small variation in print density softens transitions and makes the tree forms tactile. No lettering appears. The overall composition is contemplative and inward-leading, using a heavy dark frame to make the narrow luminous river passage feel unusually calm.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "847e6ad26c6a514d3f35195cddd3d2315bd6bc75c273b77cfc50faba34b23830",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

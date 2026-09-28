@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A studio portrait frames a dark-haired woman from the chest upward as she turns slightly toward the camera. Loose strands cross her cheeks and forehead, while the rest of her hair gathers behind her head. A dark jacket makes a nearly black wedge at the lower right. Her face is close enough for the small freckles, moist highlights on her lips, and fine hair along the cheek to remain visible. Saturated cyan light washes the right side of her face and the right background; a warm peach-orange beam enters from the left and illuminates the opposite cheek, neck, and wall. The two colors meet across the bridge of her nose and jaw without becoming a neutral white. The photographic texture is smooth and slightly soft in the backdrop, while the eyes and facial contours stay clear. A broad diagonal area of orange spreads behind her on the left and dissolves into turquoise near the upper edge. Her head fills the upper center and right of the frame, and the dark clothing anchors the bottom. The image holds a shallow studio space through colored light rather than visible furnishings. Its visual rhythm moves between the two large chromatic fields and the smaller, sharply observed face at their boundary.",
+  "full_prompt_zh": "一幅摄影棚胸像捕捉黑发女子微微转向镜头的姿态。松散发丝掠过额头和脸颊，其余头发束在脑后。深色外套在画面右下方形成近黑色楔形。距离较近，面部细小雀斑、嘴唇上的湿润亮点及颊边细发都可辨认。饱和青蓝光铺满面部右侧和右方背景；桃橙色光束从左侧射入，照亮另一侧脸颊、颈部与墙面。双色在鼻梁与下颌附近相遇，没有合成中性白光。摄影肌理在背景处平滑而略软，眼睛和面部轮廓则保持清楚。橙色大面积斜向展开于左后方，靠近上缘时渐入青蓝。头部占据画面上方中央与右侧，深色衣服压住下缘。画面凭借彩色光域建立浅浅的棚拍空间，没有可见家具。视觉节奏在两片宽阔色域与交界处较小且清晰的面容之间往返。",
+  "style_prompt_en": "A smooth photographic surface carries two saturated, opposing light fields. One side glows in peach and orange, while the other turns cyan and teal; their meeting line passes across a clearly resolved foreground form. Warm and cool color remain distinct even in the middle values. Large gradients spread through a plain backdrop, and a nearly black lower mass gives the bright chromatic areas a firm base. Small specular accents and fine linear details punctuate the otherwise soft transitions. Contours remain legible where colored illumination turns around them, while background edges dissolve gradually. The space is shallow and uncluttered, with no visible horizon; depth comes from a crisp near plane against broad, softly blended color. The composition balances expansive colored areas against a compact region of detail, letting the eye travel from warm glow through cool shadow and back to the dark anchor below.",
+  "style_prompt_zh": "平滑的摄影表面承载两片饱和而相对的色光。一侧发出桃色与橙色光，另一侧转为青蓝和蓝绿色；两者交界穿过清晰的前景形体。暖色与冷色即使进入中间调也各自分明。大块渐变铺开于简洁背景，近黑色下部色块为明亮色域提供稳定底座。少量镜面亮点和细线细节打破较柔和的过渡。彩光转过轮廓时，边缘依然清楚；背景边界则缓慢消散。空间浅而简洁，没有可见地平线，纵深来自清晰近景与宽阔柔混的色面之间。构图以大片彩色面积和一小处密集细节相平衡，让视线从暖光走入冷影，再返回下方深色锚点。",
+  "theme_en": "A dark-haired woman in a studio portrait between peach and cyan light",
+  "theme_zh": "桃橙与青蓝双色光中的黑发女子肖像",
+  "wh_ratio": "1:1",
+  "id": "2828",
+  "name": "Portrait shot with peach and cyan lighting",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/portrait-shot-with-peach-and-cyan-lighting",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/portrait-shot-with-peach-and-cyan-lighting.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "36b20050d02b0abac7755e206ef4c206c3dec2eb45a19f9af740866dec8ed634",
+    "gpt_submission_prompt": "A studio portrait frames a dark-haired woman from the chest upward as she turns slightly toward the camera. Loose strands cross her cheeks and forehead, while the rest of her hair gathers behind her head. A dark jacket makes a nearly black wedge at the lower right. Her face is close enough for the small freckles, moist highlights on her lips, and fine hair along the cheek to remain visible. Saturated cyan light washes the right side of her face and the right background; a warm peach-orange beam enters from the left and illuminates the opposite cheek, neck, and wall. The two colors meet across the bridge of her nose and jaw without becoming a neutral white. The photographic texture is smooth and slightly soft in the backdrop, while the eyes and facial contours stay clear. A broad diagonal area of orange spreads behind her on the left and dissolves into turquoise near the upper edge. Her head fills the upper center and right of the frame, and the dark clothing anchors the bottom. The image holds a shallow studio space through colored light rather than visible furnishings. Its visual rhythm moves between the two large chromatic fields and the smaller, sharply observed face at their boundary.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "0f1b60e1dbe27749e8c827048fba23fbc31b12838745e1094bd3fc59ac790236",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

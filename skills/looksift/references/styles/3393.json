@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A clean contemporary anime illustration shows a black haired young woman standing beside a pale doorway on a bright day. She is framed from the hips upward and tilts her head slightly toward the viewer, touching a lock of hair near her left cheek with one raised hand. Large turquoise eyes and a small, nearly expressionless mouth give the face a soft, attentive look. Her long straight hair falls over both shoulders, with fine loose strands crossing the black camisole and skin. A burgundy red jacket hangs open and slips from the shoulders, its sleeves gathered at the elbows; several delicate necklaces rest at the neck and a small pendant catches light at the center of the chest. The top of blue jeans appears at the cropped lower edge, and part of a black shoulder bag hangs at the right. Behind her, tall vertical gray and white wall panels set a quiet structure, while a slice of vivid blue sky, broken white clouds, and bright green trees enters along the far right. Strong midday light from that open side creates crisp pale highlights on the face, shoulder, and wall; deeper cool gray shadows shape the hair and jacket folds. Smooth cel shading is enriched with restrained brush texture and thin linework, keeping the figure clear against the simple exterior. The whole image feels casual and gently observant, with a fresh red, black, green, and blue palette balancing a still intimate pose.",
+  "full_prompt_zh": "一幅干净的当代动漫插画描绘一位黑发年轻女性在晴日站在浅色门边。画面从臀部以上截取，她略向观者歪头，一只抬起的手轻触左脸旁的一缕头发。硕大的青绿色眼睛与几乎没有明显表情的小嘴，使面孔显得柔和而专注。乌黑长直发垂过两肩，纤细散发横过黑色细肩带上衣和肌肤。酒红色外套敞开并从肩上滑落，袖子在手肘处堆起；颈上戴着数条细链，一枚小坠饰在胸前接住亮光。蓝色牛仔裤上缘出现在被裁切的底边，右侧垂着黑色肩包的一部分。背后，高高的灰白竖向墙板建立安静的结构，最右边则露出一角鲜明蓝天、破碎白云和明亮绿树。来自敞开一侧的强烈正午光在脸、肩和墙面上形成清晰浅色高光；较深的冷灰影子塑造头发和外套褶皱。平滑的赛璐璐明暗加入克制的笔触肌理与细线，使人物在简单外景前保持清楚。整幅画随意而温柔地观察，以清新的红、黑、绿、蓝色彩平衡静止而亲近的姿态。",
+  "style_prompt_en": "A clean contemporary anime rendering with simple readable silhouettes, large lucid focal marks, and restrained painterly texture inside smooth cel shaded planes. Compose a quiet near form against a few strong vertical background divisions, then allow a narrow strip of bright outdoor color to open the space. Use black or charcoal as the main visual anchor, a muted warm red for draped secondary forms, and small turquoise and green accents. Draw hairlike strands and accessories with fine lines, keeping broader garments and walls flat enough to support them. Bright side daylight should produce crisp pale highlights and cooler shadows without heavy drama. The overall effect is casual, intimate, and fresh, with a clear figure ground relationship and gently observed gesture.",
+  "style_prompt_zh": "采用干净的当代动漫渲染，让简洁可读的剪影、硕大清透的焦点标记与平滑赛璐璐色面中的克制绘画肌理结合。把安静的近处形体置于几道强竖向背景分割前，再让窄窄一条明亮户外颜色打开空间。以黑色或炭灰为主要视觉锚点，以含蓄暖红表现披挂的次级形态，再用少量青绿与绿色点缀。用细线画出丝缕与小饰件，较宽的衣物和墙面则保持平整以支撑细节。明亮侧向日光形成清楚的浅色高光与较冷阴影，不需强烈戏剧化。整体随意、亲近而清新，形与底关系清晰，手势受到温柔观察。",
+  "theme_en": "Quiet girl beside a sunlit doorway",
+  "theme_zh": "晴日门边安静的女孩",
+  "wh_ratio": "1:1",
+  "id": "3393",
+  "name": "Moe anime style",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/moe-anime-style",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "8a13fcd887f967edca8c2a892e0fd9459b6a754d9efccc3a4a5bf24038fdf071",
+    "gpt_submission_prompt": "A clean contemporary anime illustration shows a black haired young woman standing beside a pale doorway on a bright day. She is framed from the hips upward and tilts her head slightly toward the viewer, touching a lock of hair near her left cheek with one raised hand. Large turquoise eyes and a small, nearly expressionless mouth give the face a soft, attentive look. Her long straight hair falls over both shoulders, with fine loose strands crossing the black camisole and skin. A burgundy red jacket hangs open and slips from the shoulders, its sleeves gathered at the elbows; several delicate necklaces rest at the neck and a small pendant catches light at the center of the chest. The top of blue jeans appears at the cropped lower edge, and part of a black shoulder bag hangs at the right. Behind her, tall vertical gray and white wall panels set a quiet structure, while a slice of vivid blue sky, broken white clouds, and bright green trees enters along the far right. Strong midday light from that open side creates crisp pale highlights on the face, shoulder, and wall; deeper cool gray shadows shape the hair and jacket folds. Smooth cel shading is enriched with restrained brush texture and thin linework, keeping the figure clear against the simple exterior. The whole image feels casual and gently observant, with a fresh red, black, green, and blue palette balancing a still intimate pose.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "52f647d0f2735cd4abf319281105a4cf1891fea3aa2e7f9f5a78bd36c3b25717",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

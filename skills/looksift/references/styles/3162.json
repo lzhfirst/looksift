@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A tonal landscape oil painting shows a quiet riverbank under a pale, misty sky. The broad water occupies the left half, its still blue-green surface reflecting soft shapes of the far shore. On the right, a narrow grassy bank curves into the foreground beneath slender trees, and two small figures pause near the water. Their dark and light clothing provides a modest point of scale without interrupting the landscape's hush. Across the river, tall trees and low woodland dissolve into silver-gray haze; details become less certain with distance. The nearest trunks are thin and dark, their feathery foliage spreading into the upper right, while reeds and rough grass mark the lower edge. The painting uses blended, brushed color rather than crisp lines. Muted olive, blue-gray, pale cream, and earthy brown shift gently across water, sky, and land. Light is diffuse and cool, making the far bank glow faintly through mist while the near vegetation stays deeper and warmer. The river's broad horizontal calm is balanced by the vertical tree trunks and a diagonal path of shore. Brushwork is most evident in the foliage and grass, where small marks soften into the atmosphere. The scene feels observed at a still hour, with quiet human presence and a careful gradation from textured foreground to dreamlike distance.",
+  "full_prompt_zh": "一幅以明度为主的油画风景描绘浅淡晨雾下的安静河岸。宽阔水面占据左半部，平静蓝绿色表面映出对岸柔软的形状。右侧狭窄草岸在细树下弯入前景，两道小身影停在水边。深浅不同的衣着提供适度尺度，却不打断风景的静谧。河对岸，高树与低树林融进银灰色薄雾，距离越远，细节越不确定。最近的树干细而深，羽状叶丛伸向右上，芦苇与粗草标记下缘。绘画采用相互融合的刷绘颜色，而非清晰硬线。柔橄榄色、蓝灰、浅奶油色与泥土棕在水、天和陆地之间轻柔变化。光线漫射而偏冷，使远岸透过雾气微微发亮，近处植物则更深、更暖。河水宽阔的横向平静由竖直树干和斜向岸线平衡。笔触在叶丛和草地最明显，细小痕迹又渐渐软入空气。场景像是在一天最静的时刻被观察到，带着安静的人类气息，以及从有纹理前景到梦境般远方的审慎渐变。",
+  "style_prompt_en": "A quiet tonal oil landscape in muted olive, blue-gray, pale cream, and earthy brown. Broad horizontal bands of softly reflected color meet a narrow textured edge and a few slim vertical trunks. Far masses lose contrast and detail into silver mist, while near grass and foliage retain small brushed marks. Cool diffuse light gently opens the distance and leaves the immediate foreground deeper. Hard outlines are rare; forms are found through layered values and softened transitions. Sparse small accents establish scale without disturbing the spacious stillness.",
+  "style_prompt_zh": "一幅安静的明度型油画风景，采用柔橄榄色、蓝灰、浅奶油色与泥土棕。宽阔的柔和倒影横带遇上一条狭窄有纹理的边缘和几根细长竖向树干。远处体量在银灰雾中失去反差与细节，近处草叶仍保留细小刷痕。偏冷的漫射光轻轻打开远景，使眼前下部更深。硬轮廓很少，形体靠层叠明度与柔软过渡显现。稀少的小重点标明尺度，却不打扰宽裕的静止感。",
+  "theme_en": "A quiet riverbank in morning mist",
+  "theme_zh": "晨雾中的安静河岸",
+  "wh_ratio": "1:1",
+  "id": "3162",
+  "name": "Camille Corot",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/camille-corot",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "d05066a84844208df9b2860541f2dd7f10ea1f47be8b09e9e54c5d5b9658d1b4",
+    "gpt_submission_prompt": "A tonal landscape oil painting shows a quiet riverbank under a pale, misty sky. The broad water occupies the left half, its still blue-green surface reflecting soft shapes of the far shore. On the right, a narrow grassy bank curves into the foreground beneath slender trees, and two small figures pause near the water. Their dark and light clothing provides a modest point of scale without interrupting the landscape's hush. Across the river, tall trees and low woodland dissolve into silver-gray haze; details become less certain with distance. The nearest trunks are thin and dark, their feathery foliage spreading into the upper right, while reeds and rough grass mark the lower edge. The painting uses blended, brushed color rather than crisp lines. Muted olive, blue-gray, pale cream, and earthy brown shift gently across water, sky, and land. Light is diffuse and cool, making the far bank glow faintly through mist while the near vegetation stays deeper and warmer. The river's broad horizontal calm is balanced by the vertical tree trunks and a diagonal path of shore. Brushwork is most evident in the foliage and grass, where small marks soften into the atmosphere. The scene feels observed at a still hour, with quiet human presence and a careful gradation from textured foreground to dreamlike distance.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "c1aed3c8b3cfe9acfb4b20ad6cb8db74ec1af0c41d70884b5958ea680a9e394e",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

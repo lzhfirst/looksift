@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square nineteenth-century-style oil painting shows four people resting on a grassy bank beside a broad turquoise river. On the left, a young woman in a white blouse and warm brown bodice sits near a wicker basket. Beside her, an older man in a dark brimmed hat and gray jacket leans forward with his hands near his knees. In the center, a woman wearing a white head covering, dark bodice, and full cream apron sits in profile facing him. Her skirt spreads over the sloping grass, and one hand rests near the ground. A child in a reddish-brown top sits farther right, half turned toward the water. The river fills the middle ground with smooth blue-green reflections. Across it, a narrow opposite bank holds small figures and low foliage, while the upper-left corner is shaded by a dense overhanging tree canopy. Pale sky appears at the upper right. The group is gathered in an informal conversational arrangement, with faces directed toward one another rather than toward the viewer. Loose, visible oil brushwork describes grass, fallen leaves, rippling reflections, fabric folds, and the distant bank. The faces and hands receive finer observation but retain the same painterly surface. Soft outdoor light comes through the tree cover, leaving the foreground figures in gentle shade while the river remains luminous. Browns, creams, deep greens, and muted blue-green water create a calm, earthy palette. The composition balances the seated group low across the bank against the broad river behind, making the ordinary pause feel intimate and rooted in place.",
+  "full_prompt_zh": "一幅方形、具有十九世纪气质的油画描绘四人坐在宽阔青绿河边的草岸上休息。左侧一名穿白衬衫与暖棕背心的年轻女子坐在柳条篮旁。她身旁一名戴深色宽檐帽、穿灰外套的年长男子前倾，双手靠近膝头。中央一名女子戴白头巾，穿深色上衣和宽奶油色围裙，以侧身面对他。裙摆铺过倾斜草地，一只手靠近地面。更右侧一名穿红褐上衣的孩子坐着，半转向水面。河流以平滑蓝绿倒影占据中景。对岸窄条岸上有小人物和低矮枝叶，左上角被浓密外伸树冠遮住，右上露出浅色天空。几人以非正式交谈方式聚集，脸面向彼此而非观众。松动可见的油画笔触表现草、落叶、水中细纹、衣褶和对岸。面孔与手得到更精细观察，但仍有同样绘画表面。柔和户外光穿过树冠，让前景人物处在温和阴影中，河面仍发亮。棕、奶油、深绿及低饱和蓝绿水构成平静大地调色。构图以岸边低位坐姿人群平衡身后宽河，使普通停顿显得亲密并扎根地点。",
+  "style_prompt_en": "Naturalistic oil painting uses loose visible strokes in landscape and fabric with more careful modeling at focal faces and hands. Earth browns, cream, deep green, and muted turquoise are held together by soft outdoor daylight. Overhanging shade can frame an informal cluster of figures while a broader reflective plane opens the middle distance. Avoid sharp theatrical light; let gentle tonal differences distinguish clothing, foliage, and water. The composition feels observed, humane, and quietly intimate, with everyday gestures and a textured plein-air surface.",
+  "style_prompt_zh": "自然主义油画在风景和布料里用松动可见笔触，焦点面孔与手部塑形更谨慎。土棕、奶油、深绿和低饱和青绿由柔和户外日光连接。外伸树荫可框住非正式形体组合，较宽的反光平面打开中景。避免尖锐戏剧光；让温和色调差别区分衣物、枝叶和水。构图有观察感、人情味及安静亲密感，以日常手势和有质地的户外写生表面为主。",
+  "theme_en": "A small group resting beside a turquoise river under tree shade",
+  "theme_zh": "一小群人在树荫下的青绿河边休息",
+  "wh_ratio": "1:1",
+  "id": "1846",
+  "name": "Silvestro Lega",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/silvestro-lega",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/silvestro-lega.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "55ffd87db40f2ca2c4ef28221732b0c274d70e876272b72706f9accd70f52182",
+    "gpt_submission_prompt": "A square nineteenth-century-style oil painting shows four people resting on a grassy bank beside a broad turquoise river. On the left, a young woman in a white blouse and warm brown bodice sits near a wicker basket. Beside her, an older man in a dark brimmed hat and gray jacket leans forward with his hands near his knees. In the center, a woman wearing a white head covering, dark bodice, and full cream apron sits in profile facing him. Her skirt spreads over the sloping grass, and one hand rests near the ground. A child in a reddish-brown top sits farther right, half turned toward the water. The river fills the middle ground with smooth blue-green reflections. Across it, a narrow opposite bank holds small figures and low foliage, while the upper-left corner is shaded by a dense overhanging tree canopy. Pale sky appears at the upper right. The group is gathered in an informal conversational arrangement, with faces directed toward one another rather than toward the viewer. Loose, visible oil brushwork describes grass, fallen leaves, rippling reflections, fabric folds, and the distant bank. The faces and hands receive finer observation but retain the same painterly surface. Soft outdoor light comes through the tree cover, leaving the foreground figures in gentle shade while the river remains luminous. Browns, creams, deep greens, and muted blue-green water create a calm, earthy palette. The composition balances the seated group low across the bank against the broad river behind, making the ordinary pause feel intimate and rooted in place.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "c519ac8716609a6b7af2e58d0856ddc4de298af1bb8ec3f9325edc8401d04ffd",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

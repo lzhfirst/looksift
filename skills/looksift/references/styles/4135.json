@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square romantic oil painting shows a young woman seated in a richly furnished garden-like interior. She is placed slightly left of center, wearing a full deep green skirt and a cream blouse with puffed sleeves. Her reddish hair is pinned up, and she lifts her chin toward the upper right with one hand resting lightly against her cheek. The other hand gathers a small purple flower near her lap. Behind her, tall vessels, wood furniture, and thick arrangements of flowers make a warm, densely layered background. At the right, a stone ledge carries more blossoms and pale foliage; along the bottom, fallen petals, fruit, and dark leaves spill across the foreground. The woman's pale face and blouse are more carefully modeled than the surrounding blooms, which dissolve into broken touches of gold, rose, lavender, and deep green. The fabric folds remain substantial and soft, holding the figure within the crowded floral field. Warm daylight appears to come from upper right, illuminating cheek, neck, sleeve, and the top of the ledge while the lower skirt and rear interior stay in green-brown shadow. Light catches petals in small scattered accents rather than one broad smooth beam. No lettering is readable. The overall composition is lush and reflective, balancing the woman's still upward gaze against abundant color and intricate surrounding texture.",
+  "full_prompt_zh": "一幅方形浪漫主义油画描绘一位年轻女子坐在陈设丰厚、近似花园的室内。她位于中央稍偏左，穿宽大的深绿裙和带蓬袖的奶油色上衣。红棕发向上挽起，她抬起下巴望向右上，一只手轻靠脸颊。另一只手在腿边拈着一朵小紫花。身后高瓶、木家具和厚密的花卉陈设构成温暖而层叠的背景。右侧石质台面承载更多花朵与浅色叶片；底部前景散着落瓣、果实与深叶。女子的浅色脸和上衣比周围花朵画得更仔细，后者消入金、玫瑰、淡紫和深绿的破碎触点。衣褶仍饱满柔软，把人物稳稳安置在拥挤花色之间。暖日光似从右上来到，照亮脸颊、脖颈、衣袖和台面上部，让下方裙摆和后部室内留在绿棕阴影里。光以散落花瓣上的小亮点闪烁，而非一束宽而光滑的光。没有可读文字。整体构图丰盛而沉思，以女子安静向上的目光平衡充沛色彩与复杂周围肌理。",
+  "style_prompt_en": "Romantic oil painting combines carefully blended focal modeling with abundant broken touches in surrounding areas. Deep green and warm brown give a stable base for cream, gold, dusty rose, lavender, and small violet accents. Edges are soft but selective: a few contours remain clear while adjacent details dissolve into textured color. Warm oblique daylight catches exposed planes and scattered small highlights, leaving lower layers in rich green-brown shadow. A calm central zone is enclosed by a busy, irregular perimeter, creating fullness without losing the focal pause. The image feels lush, tactile, and quietly contemplative.",
+  "style_prompt_zh": "浪漫主义油画将细致融合的焦点塑形与周围丰盛的破碎笔触结合。深绿和暖棕给奶油色、金色、灰玫红、淡紫与少量紫色强调提供稳定底层。边缘柔和却有选择：少数轮廓保持清楚，邻近细节则消入肌理色彩。暖斜日光照到外露平面和散落小亮点，下层保留浓厚绿棕阴影。安静中央区域被繁忙、不规则的外围围住，使画面丰盈却不失焦点停顿。图像丰盛、有触感且安静沉思。",
+  "theme_en": "A woman in a green dress seated among flowers and fruit",
+  "theme_zh": "身穿绿裙坐在花果之间的女子",
+  "wh_ratio": "1:1",
+  "id": "4135",
+  "name": "Samuel Melton Fisher",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/samuel-melton-fisher.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "5bfb379a9e52ed0ea6481b475f6d99cc3afb950aa6bb748aac7d36e695aa56b8",
+    "gpt_submission_prompt": "A square romantic oil painting shows a young woman seated in a richly furnished garden-like interior. She is placed slightly left of center, wearing a full deep green skirt and a cream blouse with puffed sleeves. Her reddish hair is pinned up, and she lifts her chin toward the upper right with one hand resting lightly against her cheek. The other hand gathers a small purple flower near her lap. Behind her, tall vessels, wood furniture, and thick arrangements of flowers make a warm, densely layered background. At the right, a stone ledge carries more blossoms and pale foliage; along the bottom, fallen petals, fruit, and dark leaves spill across the foreground. The woman's pale face and blouse are more carefully modeled than the surrounding blooms, which dissolve into broken touches of gold, rose, lavender, and deep green. The fabric folds remain substantial and soft, holding the figure within the crowded floral field. Warm daylight appears to come from upper right, illuminating cheek, neck, sleeve, and the top of the ledge while the lower skirt and rear interior stay in green-brown shadow. Light catches petals in small scattered accents rather than one broad smooth beam. No lettering is readable. The overall composition is lush and reflective, balancing the woman's still upward gaze against abundant color and intricate surrounding texture.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "cb1208f08a98385237b1bd1ea5c9379e9b1addcd35c0a45c352b65acd70f5c2b",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

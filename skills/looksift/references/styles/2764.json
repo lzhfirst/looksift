@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square source presents a horizontal old-master genre painting of three bearded men gathered at a tavern table. The central man in a warm brown coat turns to his right while holding a narrow paper or cloth across the tabletop. The man at the right, dressed in deep blue and a dark cap, cups a pale folded object in both hands and looks back with raised brows. A third, darker figure sits partly behind the central man's shoulder on the left. A basket of bread and fruit rests beside the right figure; small vessels and scattered items line the front edge of the table. The dim room contains shelves, jars and hanging utensils, all softened by brown shadow. Warm directional light touches the faces, hands, bread and table objects, leaving the background and lower corners deep and muted. Fine glazing and small controlled brush marks build skin, hair and cloth without the abrupt texture of modern impasto. The figures form a compact conversational triangle across the wide scene. Their gestures imply an exchange but do not fix its outcome. Earthy ochre, umber, olive and muted blue dominate the palette. White margins above and below mark the reproduction within the square source, while the painted interior retains its intimate horizontal structure and quiet everyday drama.",
+  "full_prompt_zh": "一幅正方形来源图中呈现一张横幅古典风俗画：三位蓄须男子聚在酒馆桌旁。中央身穿暖褐外套的男子转向右侧，手里把一条窄纸或布展开在桌面上。右边男子穿深蓝衣、戴深色软帽，双手捧着一件浅色折叠物，抬眉回看。第三位较暗的人物坐在中央男子左肩后，只有部分可见。右侧人物旁有装面包和水果的篮子；桌前缘排着小容器与零散物件。昏暗房间里有架子、陶罐和悬挂器具，都被褐色阴影柔化。暖定向光触到面容、双手、面包和桌上物，背景与下方边角则深暗压低。细薄罩染和受控小笔触塑造皮肤、胡须与衣物，没有现代厚涂的突然肌理。人物在横幅场景里形成紧凑的交谈三角。手势暗示交流，却不规定结果。土赭、棕褐、橄榄色和压低蓝色占主导。上下白边说明这是正方形来源图中的复制品，绘画内部仍保留亲密横向结构与安静的日常戏剧性。",
+  "style_prompt_en": "The style is old-master genre painting with compact conversational grouping, warm directional light and deep earthy shadow. Thin glazes and controlled small strokes build believable skin, cloth and worn interior materials. Ochre, umber, olive and muted blue form a restrained palette; highlights gather on selected faces, hands and small near objects. Background details recede softly into brown darkness while gestures link the focal forms. A horizontal scene inside the square remains intimate, observational and quietly dramatic rather than theatrical.",
+  "style_prompt_zh": "这种风格是古典风俗绘画，具有紧凑交谈式分组、暖定向光和深厚土色阴影。薄罩染与受控小笔触塑造可信的皮肤、布料和磨旧室内材料。赭色、棕褐、橄榄色和压低蓝色形成克制色谱；高光集中在选中的面容、双手和近处小物件。背景细节柔软退入褐色暗处，手势则连接焦点形体。正方形中的横向场景亲密、观察性强，安静地带有戏剧性而非剧场化。",
+  "theme_en": "Three bearded men around a modest tavern table",
+  "theme_zh": "三位蓄须男子围坐在朴素酒馆桌边",
+  "wh_ratio": "1:1",
+  "id": "2764",
+  "name": "Barthel Bruyn the Elder",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/barthel-bruyn-the-elder",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/barthel-bruyn-the-elder.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "54d09404ece329d5f279aa279a3f6318c1d23ec1b442d3c3113cf5bdce0edee2",
+    "gpt_submission_prompt": "A square source presents a horizontal old-master genre painting of three bearded men gathered at a tavern table. The central man in a warm brown coat turns to his right while holding a narrow paper or cloth across the tabletop. The man at the right, dressed in deep blue and a dark cap, cups a pale folded object in both hands and looks back with raised brows. A third, darker figure sits partly behind the central man's shoulder on the left. A basket of bread and fruit rests beside the right figure; small vessels and scattered items line the front edge of the table. The dim room contains shelves, jars and hanging utensils, all softened by brown shadow. Warm directional light touches the faces, hands, bread and table objects, leaving the background and lower corners deep and muted. Fine glazing and small controlled brush marks build skin, hair and cloth without the abrupt texture of modern impasto. The figures form a compact conversational triangle across the wide scene. Their gestures imply an exchange but do not fix its outcome. Earthy ochre, umber, olive and muted blue dominate the palette. White margins above and below mark the reproduction within the square source, while the painted interior retains its intimate horizontal structure and quiet everyday drama.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "d949f8b38de547eb2bf5d663c895c879cc6deb2a1aafcfc2c4865de79e3e794c",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

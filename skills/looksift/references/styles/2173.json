@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square color photograph catches a dancer at the height of a leap on a broad Paris avenue. Her body is suspended well above the cobbled ground, one leg folded beneath her and the other stretched to the right. Both arms extend in opposite directions, and loose hair flies upward, turning the instant into a clear starburst of movement. She wears a blue-gray jacket and a short, airy skirt whose hem opens around the torso. A large triumphal arch stands behind her, centered but softly out of focus. The low camera position makes the pavement occupy the foreground and enlarges the dancer against the monument. Distant pedestrians and small dark streetlights become a thin line near the horizon. The sky is overcast pale blue, and the color is cool and slightly muted; only scattered warm points in the distance interrupt the blue-gray field. A shallow depth of field keeps the airborne figure substantially sharper than the architecture and traffic behind. The exposure freezes the peak of the jump, while the flying hair and fabric explain the movement that led into it. The scene is recognizable as a real public place, yet the nearly weightless pose lends it a dreamlike pause. Its visual power comes from precise timing, low perspective and the scale contrast between one body and monumental stone.",
+  "full_prompt_zh": "一幅正方形彩色照片捕捉一位舞者在巴黎宽阔大道上跃起的最高瞬间。身体悬在鹅卵石地面上方，一条腿收在身下，另一条向右伸展。双臂朝相反方向张开，散发向上飞扬，把刹那动作化成清楚的放射形。她穿蓝灰色夹克与轻薄短裙，裙摆围着躯干打开。后方是一座大型凯旋拱门，位置居中却柔软失焦。低机位让路面占据前景，也使舞者在纪念建筑前显得更大。远处行人和小小深色街灯只在地平线附近形成一条薄线。天空是阴天浅蓝色，色彩偏冷而略压低；只有远处零星暖色点打断蓝灰色场。浅景深使悬空人物比后方建筑与交通清楚得多。曝光凝住跃起顶点，飞扬的头发与布料则解释了到达此刻的运动。场景显然是真实公共空间，但近乎失重的姿态令其像梦一样暂停。视觉力量来自精确时机、低视点和单个人体与宏伟石建筑的尺度反差。",
+  "style_prompt_en": "The style is cinematic dance photography based on decisive timing, low viewpoint and frozen midair motion. A sharp central moving form separates from a softly defocused monumental background. Cool blue-gray color, overcast diffuse light and a broad textured foreground give the square image quiet scale. Extended diagonals and airborne fabric generate energy while a stable central axis preserves clarity. Small warm distant points accent an otherwise restrained palette. The effect is both documentary in location and weightless in feeling.",
+  "style_prompt_zh": "这种风格是以决定性时机、低视点和凝结的空中动作为基础的电影感舞蹈摄影。清楚的中央运动形体从柔焦的宏大背景中分离。冷蓝灰色、阴天漫射光和宽阔带纹理前景赋予正方形图像安静尺度。伸展对角线与飞起布料制造能量，稳定中央轴线保留清晰度。远处微小暖色点在其余克制色谱中形成重音。效果既有真实地点的纪实感，也有失重的感受。",
+  "theme_en": "A dancer suspended in a leap before a Paris monument",
+  "theme_zh": "巴黎纪念建筑前悬空跃起的舞者",
+  "wh_ratio": "1:1",
+  "id": "2173",
+  "name": "Dimitry Roulland",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/dimitry-roulland",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/dimitry-roulland.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "d5a03befa07f86c96e9d45be779ab08696f18f6db2e4af53ca367733ae94507d",
+    "gpt_submission_prompt": "A square color photograph catches a dancer at the height of a leap on a broad Paris avenue. Her body is suspended well above the cobbled ground, one leg folded beneath her and the other stretched to the right. Both arms extend in opposite directions, and loose hair flies upward, turning the instant into a clear starburst of movement. She wears a blue-gray jacket and a short, airy skirt whose hem opens around the torso. A large triumphal arch stands behind her, centered but softly out of focus. The low camera position makes the pavement occupy the foreground and enlarges the dancer against the monument. Distant pedestrians and small dark streetlights become a thin line near the horizon. The sky is overcast pale blue, and the color is cool and slightly muted; only scattered warm points in the distance interrupt the blue-gray field. A shallow depth of field keeps the airborne figure substantially sharper than the architecture and traffic behind. The exposure freezes the peak of the jump, while the flying hair and fabric explain the movement that led into it. The scene is recognizable as a real public place, yet the nearly weightless pose lends it a dreamlike pause. Its visual power comes from precise timing, low perspective and the scale contrast between one body and monumental stone.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "881c978ac90751ecc17f1a295c3f4e30350303dee283d3b39279d609de824afb",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

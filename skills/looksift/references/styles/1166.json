@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square high-contrast black-and-white documentary photograph looks upward at an older man from very close range. He wears a broad dark hat, pale shirt, and narrow dark tie. His head is tipped back and his mouth is wide open as if shouting or singing, exposing teeth and the deep shadow inside his mouth. Weathered skin, a short gray beard, and the strong tendons of his neck are rendered with unsparing clarity. The hat brim makes a heavy black arc against the sky and throws shadow across his eyes. Behind him, huge turbulent clouds fill the frame, with a bright white bank at the upper right and darker gray weather moving across the left. A leaning utility pole and its wires appear small near the lower left edge, giving a quick sense of open outdoor location. The camera's low position makes the man loom above the viewer, while the clouds seem to rise behind him. Natural daylight is hard enough to reveal facial creases and shirt folds but remains filtered through storm weather. The print has deep blacks, broad gray midtones, bright cloud whites, and visible film grain. The composition is raw and immediate, cropping his shoulders near the bottom while leaving plenty of sky around the hat. No placard, crowd, caption, or readable writing appears. The scene conveys a forceful emotional instant without explaining its cause; the expressive mouth, exposed throat, and shifting sky provide all the tension.",
+  "full_prompt_zh": "一张方形高对比黑白纪实照片从极近处仰视一名年长男子。他戴宽深帽、浅衬衫与窄深领带。头向后仰，嘴大张，像在呼喊或唱，露出牙和口内深影。风化皮肤、短灰胡及脖颈强筋被毫不回避地清楚呈现。帽檐在天空前形成厚黑弧，并给眼投影。身后巨大翻涌云充满画框，右上亮白云团，左边较深灰天气滚动。左下缘一根倾斜电杆和线显得很小，迅速给出室外场所感。低机位让男子压向观者，云在背后似乎升起。自然日光足以揭出脸纹与衬衫褶，却仍经暴风天气过滤。印相有深黑、宽广中灰、明亮云白与可见胶片颗粒。构图生猛即时，肩在底部被裁，帽周围仍有许多天空。没有标语、群众、说明或可读字。场景传递强烈情绪瞬间，却不解释原因；张开的嘴、暴露喉部和变化天空提供全部张力。",
+  "style_prompt_en": "Use raw black-and-white documentary photography from an unusually low and close viewpoint. Let a sharply expressive focal contour cut into an enormous textured sky, with small environmental cues kept at an edge. Render skin-like and fabric-like surfaces with frank detail, visible grain, and deep but informative blacks. Balance a heavy dark arc against luminous cloud whites and turbulent middle grays. Preserve a spontaneous crop and natural weather-filtered light rather than studio perfection. The emotional charge should come from gesture, scale, and the collision between a close physical form and expansive atmosphere, without explanatory symbols.",
+  "style_prompt_zh": "采用从异常低且近的视点拍摄的生猛黑白纪实摄影。让一处表情强烈的焦点轮廓切入巨大有纹天空，环境线索只留在边缘。皮肤般与布料般表面坦率细描，有可见颗粒，黑色深却含信息。厚深弧线平衡发亮云白和翻涌中灰。保留自发裁切与自然天气滤过的光，而非影棚完美。情绪力量来自姿势、尺度及近处实体形与广阔大气的碰撞，不需解释性符号。",
+  "theme_en": "A man in a dark hat calling out beneath a turbulent sky",
+  "theme_zh": "一名戴深帽男子在翻涌天空下呼喊",
+  "wh_ratio": "1:1",
+  "id": "1166",
+  "name": "Eugene Richards",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/eugene-richards",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/eugene-richards.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "7e545713e37edbe7e0f91a0f57b683557e947abaa94fd595560a6e24c41ca554",
+    "gpt_submission_prompt": "A square high-contrast black-and-white documentary photograph looks upward at an older man from very close range. He wears a broad dark hat, pale shirt, and narrow dark tie. His head is tipped back and his mouth is wide open as if shouting or singing, exposing teeth and the deep shadow inside his mouth. Weathered skin, a short gray beard, and the strong tendons of his neck are rendered with unsparing clarity. The hat brim makes a heavy black arc against the sky and throws shadow across his eyes. Behind him, huge turbulent clouds fill the frame, with a bright white bank at the upper right and darker gray weather moving across the left. A leaning utility pole and its wires appear small near the lower left edge, giving a quick sense of open outdoor location. The camera's low position makes the man loom above the viewer, while the clouds seem to rise behind him. Natural daylight is hard enough to reveal facial creases and shirt folds but remains filtered through storm weather. The print has deep blacks, broad gray midtones, bright cloud whites, and visible film grain. The composition is raw and immediate, cropping his shoulders near the bottom while leaving plenty of sky around the hat. No placard, crowd, caption, or readable writing appears. The scene conveys a forceful emotional instant without explaining its cause; the expressive mouth, exposed throat, and shifting sky provide all the tension.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "d484bc52827a287a67817eaf6255e04d86e4c851704e0344d31098a314581e70",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

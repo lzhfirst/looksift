@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A painted country landscape looks over rolling fields filled with round blue-green tree crowns. A large cluster of trees dominates the lower left, its soft scalloped outline echoed by smaller rounded groups across the middle distance. A narrow pinkish path runs through the foreground, carrying a few tiny walkers that quietly set the scale. Behind them, gold and pale green fields curve around groves and a group of tall, dark cypress-like verticals at the right. The horizon lies high beneath a strip of peach-gray cloud, allowing the patterned land to occupy most of the square. Color is arranged in distinct, softly bounded patches rather than blended into naturalistic atmosphere: turquoise and slate-blue foliage, muted olive, straw yellow, dusty pink earth, and lavender distance. Small strokes and grain animate each patch, yet the overall shapes remain decorative and legible. The light is diffuse and warm, without a strong sun or hard cast shadows; brightness comes from the yellow fields and pale sky. Depth is conveyed by overlapping bands of rounded vegetation and winding terrain, not by extreme perspective. The path's gentle curve and the repeated dome-shaped canopies make an easy, wandering rhythm. Human marks are sparse, leaving the landscape broad and calm. The whole painting feels handcrafted and slightly stylized, balancing pastoral observation with an almost tapestry-like design.",
+  "full_prompt_zh": "一幅乡间风景画俯瞰起伏的田野，圆形蓝绿色树冠遍布其间。左下方一大片树丛占据主位，柔软的扇贝状外轮廓在中景更小的圆形树群中重复。一条带粉色的窄路穿过前景，几位小小的行人安静地标出尺度。其后，金色与浅绿色田块绕着树林弯曲，右侧立着一组细长深色、近似柏树的竖形。地平线很高，位于一条桃灰色云层之下，因此图案化的土地占据方形画幅的大部分。色彩被安排成边界柔和却分明的块面，而不是完全融进自然主义空气里：青绿与石板蓝叶丛、柔橄榄色、麦秆黄、灰粉土路和淡紫远景。细小笔触与颗粒让每块色面活动起来，整体形状却仍装饰性鲜明、易于辨认。光线漫射而温暖，没有强烈太阳或硬投影；亮度主要来自黄色田地和浅色天空。深度通过圆形植被与弯曲地形的层层叠置表现，而非夸张透视。小路轻柔的弧线和反复的半圆树冠形成悠游节奏。人物痕迹稀少，使风景保持宽阔平静。整幅画有手工质地和轻微风格化气息，在田园观察与挂毯般设计之间取得平衡。",
+  "style_prompt_en": "A handcrafted landscape painting made of rounded, softly bounded color patches. Turquoise and slate-blue masses repeat across rolling olive, straw-yellow, and dusty-pink bands, with a few slim dark verticals breaking the rhythm. Fine grain and short strokes enliven each broad shape. Diffuse warm light leaves shadows gentle; the pale peach-gray upper strip feels airy. Depth comes through layered overlap and winding bands rather than sharp linear perspective. Tiny marks at the lower edge establish scale while the main surface remains open, decorative, and calm.",
+  "style_prompt_zh": "一幅手工风景画，由圆润且边界柔和的色块构成。青绿与石板蓝形体在起伏的橄榄绿、麦黄色和灰粉色带之间反复出现，少量细长深色竖线打破节奏。细颗粒与短笔触让宽阔形状活跃起来。漫射暖光使阴影轻柔，上方浅桃灰色带显得通透。深度来自层层覆盖与蜿蜒色带，而非锐利线性透视。下缘细小笔迹标明尺度，主体表面则保持开阔、装饰性和安静。",
+  "theme_en": "A country path among rounded blue-green trees",
+  "theme_zh": "圆形蓝绿树丛间的乡间小路",
+  "wh_ratio": "1:1",
+  "id": "3104",
+  "name": "Emile Bernard",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/emile-bernard",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "effa2e991368aff164c4f6f0e254d9ae357b4c1cc6ecab61bcac898ffe780471",
+    "gpt_submission_prompt": "A painted country landscape looks over rolling fields filled with round blue-green tree crowns. A large cluster of trees dominates the lower left, its soft scalloped outline echoed by smaller rounded groups across the middle distance. A narrow pinkish path runs through the foreground, carrying a few tiny walkers that quietly set the scale. Behind them, gold and pale green fields curve around groves and a group of tall, dark cypress-like verticals at the right. The horizon lies high beneath a strip of peach-gray cloud, allowing the patterned land to occupy most of the square. Color is arranged in distinct, softly bounded patches rather than blended into naturalistic atmosphere: turquoise and slate-blue foliage, muted olive, straw yellow, dusty pink earth, and lavender distance. Small strokes and grain animate each patch, yet the overall shapes remain decorative and legible. The light is diffuse and warm, without a strong sun or hard cast shadows; brightness comes from the yellow fields and pale sky. Depth is conveyed by overlapping bands of rounded vegetation and winding terrain, not by extreme perspective. The path's gentle curve and the repeated dome-shaped canopies make an easy, wandering rhythm. Human marks are sparse, leaving the landscape broad and calm. The whole painting feels handcrafted and slightly stylized, balancing pastoral observation with an almost tapestry-like design.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "90419e45d1eb274293b258fedfbe26f73fdc846c03c761ecfc35b6fb88ee9d96",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

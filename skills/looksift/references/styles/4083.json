@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square paper-cutout image shows a human hand gently cupping a small monochrome landscape against a smoky blue-gray background. The hand enters from the lower left and extends across the bottom, its fingers curved upward to support a tiny layered world. Within the palm, white and pale gray cut-paper shapes form hills, bare branching trees, a distant pointed peak, and a few small standing silhouettes. One dark figure stands near the bright center, where a white opening draws the eye through successive layers. The paper edges are crisp and visibly stepped, but soft shadows between the layers give the shallow construction depth. A few thin bird silhouettes and twig shapes cross the upper part of the miniature scene. Beyond the hand, the outer background remains blurred and nearly empty, shifting from slate blue to misty charcoal. The fingers have natural warm-brown shading and a slight sheen, contrasting with the dry matte paper held above them. A cool diffuse glow seems to come from within the cutout opening; it illuminates the innermost white layers and fades into gray toward the outer edges. The hand is darker at the left and below, while the bright paper center stays visually weightless. There is no readable text. The overall composition holds a fragile, theatrical depth inside a small central cluster, balancing human scale, layered silhouettes, and generous soft darkness around them.",
+  "full_prompt_zh": "一幅方形剪纸图像展现一只手在烟雾般的蓝灰背景前轻轻托着微型单色风景。手从左下进入，横过底部，手指向上弯起以支撑这个小小的层叠世界。掌心上方，白色与浅灰剪纸组成山丘、光秃枝树、远处尖峰和几个小小的站立剪影。一位深色人物立在明亮中央附近，白色开口把视线引过连续的层次。纸边利落且清楚地逐层错开，层间柔影却赋予浅薄构造纵深。几只细小鸟形和枝条横过微型场景上方。手以外的背景模糊而近乎空白，从石板蓝移向薄雾般的炭灰。手指有自然的暖棕阴影和轻微光泽，与其上干燥哑光的纸张相对。冷色漫射光仿佛从剪纸开口内部发出，照亮最内侧白纸层，向外缘逐渐淡为灰色。手的左侧和下方较暗，明亮纸心仍显得轻若无物。没有可读文字。整体构图把脆弱的舞台式深度收在小小中央聚合中，以人的尺度、层叠剪影和四周充裕的柔暗相平衡。",
+  "style_prompt_en": "Layered paper-cut treatment uses crisp silhouette edges and small gaps between matte planes to create a shallow theatrical depth. Pale cut shapes step from bright white through cool gray into slate and charcoal, while a dark, softly blurred surround heightens their delicacy. Fine branching lines and tiny isolated marks interrupt broad calm areas without filling them. A diffuse cool glow concentrates near the innermost opening, and soft interlayer shadows show the physical spacing of the planes. The composition places a compact luminous cluster inside generous negative space. Its effect is intimate, fragile, and quietly dimensional.",
+  "style_prompt_zh": "层叠剪纸处理借利落剪影边缘和哑光平面之间的小间隙创造浅薄的舞台式纵深。浅色裁切形从亮白经冷灰逐级走向石板蓝和炭色，深而柔焦的外围加强其精巧感。细分枝线与孤立小点打断宽阔平静区域，却不将其填满。冷色漫光集中在最内侧开口附近，柔和层间阴影显示平面之间的物理距离。构图把紧凑发亮的聚合放在充裕留白中。整体亲密、脆弱而有安静的立体感。",
+  "theme_en": "A hand cradling a layered white paper landscape",
+  "theme_zh": "手心托着的层叠白纸风景",
+  "wh_ratio": "1:1",
+  "id": "4083",
+  "name": "Paper cutout",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/paper-cutout.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "cd5de43a8ce769356a9864f4f7a1b6d0c262e1258d29d56c2e78dcf89d5f7f98",
+    "gpt_submission_prompt": "A square paper-cutout image shows a human hand gently cupping a small monochrome landscape against a smoky blue-gray background. The hand enters from the lower left and extends across the bottom, its fingers curved upward to support a tiny layered world. Within the palm, white and pale gray cut-paper shapes form hills, bare branching trees, a distant pointed peak, and a few small standing silhouettes. One dark figure stands near the bright center, where a white opening draws the eye through successive layers. The paper edges are crisp and visibly stepped, but soft shadows between the layers give the shallow construction depth. A few thin bird silhouettes and twig shapes cross the upper part of the miniature scene. Beyond the hand, the outer background remains blurred and nearly empty, shifting from slate blue to misty charcoal. The fingers have natural warm-brown shading and a slight sheen, contrasting with the dry matte paper held above them. A cool diffuse glow seems to come from within the cutout opening; it illuminates the innermost white layers and fades into gray toward the outer edges. The hand is darker at the left and below, while the bright paper center stays visually weightless. There is no readable text. The overall composition holds a fragile, theatrical depth inside a small central cluster, balancing human scale, layered silhouettes, and generous soft darkness around them.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "895a33072343f8a72b297ceef508b312184e3a7e5f4a3b1e485939830a26b3d2",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

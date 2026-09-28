@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square photorealistic drawing-in-progress shows a young woman's face and upper shoulder in right-facing profile, covered with fine iridescent glitter. Her dark hair is swept back into a loose bun, with stray strands crossing the upper edge. Her eyes are closed beneath long lashes, and her mouth is slightly parted. A small pearl-like stud sits at the ear. The face is modeled in warm peach and rose tones, but turquoise, violet, yellow, and blue sparkles scatter over the cheek, temple, neck, and dark hair. At the lower right, a hand holds a blue-and-red colored pencil close to the lips, making the image read as a highly finished illustration still being worked on. A dark glittering shoulder or garment occupies the lower left, flecked with bright cyan and pink points. The surrounding paper is a pale warm gray, with a tiny dark signature-like mark near the lower right; its letters are not readable. The profile is cropped at the forehead and shoulder, filling most of the panel and leaving a clean strip of space in front of the face. Soft even light from the upper right reveals the smooth cheek and nose, while the glitter catches sharper individual highlights across the surface. Edges around the lashes, nose, and lips are finely controlled, whereas the hair and glittered shoulder dissolve into tiny colored points. The overall composition contrasts realistic gentle facial modeling with an intensely sparkling particulate surface and the visible act of drawing.",
+  "full_prompt_zh": "一幅方形写实绘画进行中画面描绘年轻女子朝右的侧脸与上肩，覆盖细密虹彩闪粉。深发向后挽成松发髻，几缕散发横过上缘。她在长睫毛下闭着眼，嘴唇微张。耳部有一粒珍珠般的小耳钉。面部以暖桃与玫瑰色塑形，但青绿、紫、黄和蓝色闪点散落在面颊、太阳穴、颈部和深发上。右下方一只手把蓝红色彩铅举近嘴唇，使图像像一幅高度完成却仍在加工的插画。深色闪亮肩部或衣物占据左下，点着明亮青蓝和粉色光点。周围纸面是浅暖灰，右下附近有微小深色签名般痕迹，但字母不可辨。侧脸在额头和肩部裁切，占据画格大半，在面前留一条洁净空隙。右上方均匀柔光展现平滑脸颊和鼻梁，闪粉则在表面捕捉更锐利的独立高光。睫毛、鼻子和嘴唇周围边缘控制精细，头发与闪光肩部则消融成彩色微点。整体构图以真实柔和的面部塑形，对照强烈闪烁的颗粒表面和可见绘画动作。",
+  "style_prompt_en": "A hyperreal colored-pencil-like surface combines smooth warm tonal modeling with thousands of tiny iridescent specks. Peach, blush, and soft gray form the base, while cyan, violet, gold, and electric blue appear as sharp scattered flashes. Fine crisp contour and minute dark accents hold the focal area in focus; outer areas dissolve into granular color. Even soft illumination gives large planes gentle gradients, and pinpoint highlights supply a second, glittering light rhythm. A pale spare ground balances a densely worked central mass. The result feels polished yet tactile, with the hand-built marks and colored particles still evident on the surface.",
+  "style_prompt_zh": "超写实彩铅般表面把平滑暖调塑形与成千上万细小虹彩颗粒结合。桃色、淡玫瑰与柔灰构成底色，青蓝、紫、金色和电蓝则以锐利散点闪现。细而清晰的轮廓与微小深色重点让焦点区域保持锐利，外围区域消融进颗粒色彩。均匀柔光让大平面有温和渐变，针尖亮点提供第二重闪光节奏。浅而空阔的底面平衡密集加工的中央体量。结果精致且有触感，手工笔痕和彩色颗粒仍在表面可见。",
+  "theme_en": "A glittering side-profile face with a colored pencil near the lips",
+  "theme_zh": "彩铅靠近嘴唇的闪光侧脸",
+  "wh_ratio": "1:1",
+  "id": "4380",
+  "name": "Glitter drawing",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/glitter-drawing.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "022a461b4b64d1762e603d35b43479ebbe66590f9f77f2c44c6e0402ca44152a",
+    "gpt_submission_prompt": "A square photorealistic drawing-in-progress shows a young woman's face and upper shoulder in right-facing profile, covered with fine iridescent glitter. Her dark hair is swept back into a loose bun, with stray strands crossing the upper edge. Her eyes are closed beneath long lashes, and her mouth is slightly parted. A small pearl-like stud sits at the ear. The face is modeled in warm peach and rose tones, but turquoise, violet, yellow, and blue sparkles scatter over the cheek, temple, neck, and dark hair. At the lower right, a hand holds a blue-and-red colored pencil close to the lips, making the image read as a highly finished illustration still being worked on. A dark glittering shoulder or garment occupies the lower left, flecked with bright cyan and pink points. The surrounding paper is a pale warm gray, with a tiny dark signature-like mark near the lower right; its letters are not readable. The profile is cropped at the forehead and shoulder, filling most of the panel and leaving a clean strip of space in front of the face. Soft even light from the upper right reveals the smooth cheek and nose, while the glitter catches sharper individual highlights across the surface. Edges around the lashes, nose, and lips are finely controlled, whereas the hair and glittered shoulder dissolve into tiny colored points. The overall composition contrasts realistic gentle facial modeling with an intensely sparkling particulate surface and the visible act of drawing.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "92552d7f60c2dee960b6ddefcfeac43fd72664deb9be160f6c3cd09138cec1ca",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

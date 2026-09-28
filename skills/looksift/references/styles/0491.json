@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square, softly finished oil-painting portrait shows a young woman seated against a nearly black brown background. The background is broad and spare across the upper right, with only faint warm variation in the darkness. On the left and lower edge, a patterned upholstered surface and a few scattered leaflike touches emerge from shadow. The woman is placed just left of center, her upper body angled slightly toward the viewer. She rests the side of her face on one hand, with her elbow supported below the frame, and looks forward with a small, relaxed smile. Her dark brown hair is swept up in loose curls, with a tiny golden ornament and flowers catching light near the crown. Warm light from the upper left illuminates her forehead, cheeks, nose and hand, making the pale skin luminous against the deep setting. A dark green bodice frames a cream blouse with a lace-edged neckline and full sleeves. One sleeve is pushed back around the wrist, and layered ivory fabric folds softly over her forearm. Near the center of the bodice, a modest cluster of warm orange and rose flowers interrupts the green. The paint is smooth in the face, but the hair, lace and floral accents have smaller, more varied strokes. Gentle transitions shape the cheeks and fabric without hard contour lines; the deepest shadow gathers behind her right shoulder. The overall composition holds a warm, intimate expression within a dark oval of space, balancing rich green and cream against subdued brown.",
+  "full_prompt_zh": "这幅方形、完成面柔和的油画肖像里，一位年轻女子坐在近乎黑褐色的背景前。右上方背景宽阔而简省，暗色中只有细微暖色变化。左侧和下缘，一片带纹样的软垫表面以及几笔似叶的痕迹从阴影里浮出。女子位于中心偏左，上半身略向观众转来。她一只手托着脸侧，肘部支在画幅下方，向前看时带着轻松的浅笑。深棕头发挽成松散卷发，头顶附近一点金色饰物和花朵接住亮光。来自左上方的暖光照亮额头、面颊、鼻子和手，使浅色皮肤在深暗环境前发亮。深绿色上身衣装围住一件奶油色衬衣，领口饰有蕾丝，袖子宽松。一边袖口退到手腕附近，多层象牙白布料柔和地褶叠在前臂上。衣装中央附近，一小簇暖橙色和玫瑰色花朵打断绿色。脸部画面平滑，头发、蕾丝和花饰则有更细小、更有变化的笔触。柔和过渡塑造脸颊与布料，不依赖硬轮廓线；最深阴影积在她右肩后方。整体构图让温暖亲近的表情留在深暗空间中，以浓绿和奶油色平衡压低的褐色。",
+  "style_prompt_en": "The oil-painting treatment builds soft, luminous volume from warm flesh-toned highlights against a very dark brown field. Deep green and creamy ivory form the main color pair, with tiny muted floral colors serving as accents rather than a competing pattern. Transitions around the focal area are smoothly blended, while small textured strokes articulate finer surface detail. Light falls from one upper side and fades gradually into the opposite shoulder and background; shadows are velvety rather than sharply cut. A compact lit cluster is surrounded by ample dark negative space, giving the composition a gentle intimacy and a quiet classical finish.",
+  "style_prompt_zh": "这种油画处理让暖色调高光在极深褐色底上形成柔和发亮的体积。深绿与奶油象牙白构成主要配色，少量压低的花色只作点缀，不形成竞争性的纹样。焦点区域周围的过渡平滑融合，细小而有肌理的笔触描写较精密的表面细节。光从上方一侧落下，逐渐淡入另一侧及背景；阴影柔如天鹅绒，没有硬切边界。紧凑的明亮区域被宽裕的深色负空间围住，赋予构图温和亲近感与安静的古典完成面。",
+  "theme_en": "A young woman resting her cheek on her hand against a dark background",
+  "theme_zh": "一位年轻女子以手托腮，身后是深暗背景",
+  "wh_ratio": "1:1",
+  "id": "0491",
+  "name": "Pierre-Auguste Cot",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/pierre-auguste-cot",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/pierre-auguste-cot.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "dbc7423c3bb873ad89355417fb8dcc126d3f03077ff13c9ba8062cff4b27a418",
+    "gpt_submission_prompt": "A square, softly finished oil-painting portrait shows a young woman seated against a nearly black brown background. The background is broad and spare across the upper right, with only faint warm variation in the darkness. On the left and lower edge, a patterned upholstered surface and a few scattered leaflike touches emerge from shadow. The woman is placed just left of center, her upper body angled slightly toward the viewer. She rests the side of her face on one hand, with her elbow supported below the frame, and looks forward with a small, relaxed smile. Her dark brown hair is swept up in loose curls, with a tiny golden ornament and flowers catching light near the crown. Warm light from the upper left illuminates her forehead, cheeks, nose and hand, making the pale skin luminous against the deep setting. A dark green bodice frames a cream blouse with a lace-edged neckline and full sleeves. One sleeve is pushed back around the wrist, and layered ivory fabric folds softly over her forearm. Near the center of the bodice, a modest cluster of warm orange and rose flowers interrupts the green. The paint is smooth in the face, but the hair, lace and floral accents have smaller, more varied strokes. Gentle transitions shape the cheeks and fabric without hard contour lines; the deepest shadow gathers behind her right shoulder. The overall composition holds a warm, intimate expression within a dark oval of space, balancing rich green and cream against subdued brown.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "56283c020a8f556573ac3876825677a79d8f02022699c39483c092b5530b057b",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

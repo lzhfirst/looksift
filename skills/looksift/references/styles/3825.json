@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square graphic-novel illustration shows a young woman in close view, head bowed and hands clasped tightly near her mouth. Her hair is tied back, its swept strands described by fine red and black lines. The pale gray plane of her cheek and closed or lowered eye emerges from heavy shadow, while the fingers carry small hatched marks that emphasize the grip. Scarlet branches weave across the foreground, some crossing her face and hands, others spreading through the black space behind her. Tiny red leaves cluster along the branches, especially toward the lower left and right edges. The upper garment is mostly swallowed by darkness, with only selective red folds and charcoal marks giving it shape. No room or landscape is visible; the surrounding black acts as an enclosing void. The palette is severely restricted to saturated crimson, cool gray, and deep black. Thin etched contours and dense crosshatching model the woman, while flatter red silhouettes define the organic tangle. A pale sliver of light reaches the face and hands from the left, creating a focused point amid the otherwise nearly lightless field. The close crop and branch network press inward, making the figure's small gesture feel intense and private. Empty black gaps between red lines allow the dense texture to breathe, and the scarlet path leads the eye around the bowed profile. The overall composition is somber and graphic, balancing fragile gray anatomy against vivid branching red and expansive darkness.",
+  "full_prompt_zh": "一幅方形图像小说插画近距离描绘一位年轻女子低着头，双手紧紧交握在嘴边。她的头发扎在后方，向后梳的发丝由细红线和黑线描出。脸颊和闭合或低垂的眼睛呈浅灰色，从浓影中浮现；手指上的细小排线强调紧握动作。猩红枝条穿过前景，有的横过脸和手，有的散入身后黑色空间。小红叶沿枝条聚集，在左下与右缘尤其明显。上衣大部分被黑暗吞没，只有选择性的红色褶线和炭灰痕迹赋形。画面没有可见房间或风景；周围黑色成为包围的虚空。配色严格限制在饱和深红、冷灰和浓黑之间。细蚀刻轮廓与密集交叉排线塑造人物，较平的红色剪影界定有机纠结的枝网。一缕浅光从左侧到达脸和手，在几乎无光的色域中形成集中焦点。近裁切和枝条网络向内挤压，使微小手势显得强烈而私密。红线之间的黑色空隙让密集肌理得以呼吸，猩红路径引导视线绕过低垂侧脸。整体构图阴郁而图形化，以脆弱的灰色人体结构对照鲜烈分叉红线和宽阔黑暗。",
+  "style_prompt_en": "A stark graphic-novel ink style limits color to saturated crimson, cool gray, and deep black. Fine etched contours and close hatching give focal forms fragile volume, while branching linear patterns and flat red silhouettes cut through broad black negative space. Selective pale light isolates a small center within a nearly lightless field. Close framing and inward-running organic lines create pressure, but gaps of pure black keep dense texture legible. The surface feels printed, precise, and emotionally severe.",
+  "style_prompt_zh": "鲜明的图像小说墨画风格把颜色限制在饱和深红、冷灰和浓黑。细蚀刻轮廓与紧密排线赋予中心形态脆弱体积，分叉线性图案和平坦红色剪影切过宽阔黑色负空间。选择性浅光在近乎无光的区域中孤立一处小中心。近裁切和向内伸展的有机线带来压迫感，纯黑间隙又使密集肌理保持可读。表面有印刷感、精确，情绪严峻。",
+  "theme_en": "A bowed young woman tangled among scarlet branches against black",
+  "theme_zh": "一位低头的年轻女子置身猩红枝条间，背后是一片黑暗",
+  "wh_ratio": "1:1",
+  "id": "3825",
+  "name": "Becky Cloonan",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/becky-cloonan",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "d855c187d31ed997d7e7a0bf8601b5db2a02098a184ee46556c9e735aeb3fbfd",
+    "gpt_submission_prompt": "A square graphic-novel illustration shows a young woman in close view, head bowed and hands clasped tightly near her mouth. Her hair is tied back, its swept strands described by fine red and black lines. The pale gray plane of her cheek and closed or lowered eye emerges from heavy shadow, while the fingers carry small hatched marks that emphasize the grip. Scarlet branches weave across the foreground, some crossing her face and hands, others spreading through the black space behind her. Tiny red leaves cluster along the branches, especially toward the lower left and right edges. The upper garment is mostly swallowed by darkness, with only selective red folds and charcoal marks giving it shape. No room or landscape is visible; the surrounding black acts as an enclosing void. The palette is severely restricted to saturated crimson, cool gray, and deep black. Thin etched contours and dense crosshatching model the woman, while flatter red silhouettes define the organic tangle. A pale sliver of light reaches the face and hands from the left, creating a focused point amid the otherwise nearly lightless field. The close crop and branch network press inward, making the figure's small gesture feel intense and private. Empty black gaps between red lines allow the dense texture to breathe, and the scarlet path leads the eye around the bowed profile. The overall composition is somber and graphic, balancing fragile gray anatomy against vivid branching red and expansive darkness.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "ea1a1e58a2438808d20a4f5c401dd566a265bd86d23296b184c516f73d546975",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white documentary photograph looks through a narrow, rain-soaked passage toward a bright opening. A lone person carrying a dark umbrella stands left of center, almost entirely in silhouette. The umbrella's broad uneven arc cuts across the white sky beyond, while the person's coat and legs are softened by rain and blur. Wet pavement fills the lower half, collecting a long dark reflection of the figure and broken bright reflections of the far opening. The right side is dominated by a close wall or vehicle surface, streaked with water, scratches, and harsh gleams. On the left, another dark architectural edge creates a deep vertical frame. The alley compresses toward a distant street with a few indistinct shapes but no clearly identifiable activity. Heavy shadow surrounds the viewer, making the bright center feel abrupt and exposed. Fine drops and specks catch the light in the air and on the lens, lending the image a rough, urgent surface. The tonal scale is dramatic: nearly white sky, silver wet ground, textured mid-grays, and large areas of dense black. The camera angle is low and slightly askew, giving the moment an unplanned, close-to-the-ground feeling. No staged gesture, signage, or readable writing appears. The image conveys isolation and motion at once, preserving an ordinary rainy passage as a tense fragment of witnessed life.",
+  "full_prompt_zh": "一张方形黑白纪实照片穿过狭窄雨湿通道望向明亮出口。一名撑深色伞的独行者站在中央偏左，几乎完全成剪影。伞宽而略不规则的弧线切过远处白天空，外套和双腿被雨和模糊柔化。湿地面占下半幅，收集人物长深倒影和出口破碎亮反射。右侧由近处墙面或车辆表面主导，满是水迹、划痕与强光斑。左边另一条深建筑边缘形成厚重竖框。小巷向远街压缩，那里仅有几处不明形状，没有清楚可辨的活动。重影围住观者，使明亮中央突然又暴露。细雨滴与斑点在空气和镜头上接光，赋予图像粗糙急迫的表面。灰度戏剧性强：近白天空、银色湿地、带纹中灰和大片浓黑。机位较低且略斜，让瞬间像意外地贴地抓到。没有摆拍姿势、标牌或可读字。画面同时传达孤立与运动，把普通雨中通道留成一段紧张的目击生活碎片。",
+  "style_prompt_en": "Use high-contrast black-and-white documentary photography with a candid low viewpoint, deep bordering shadows, and a bright opening beyond. Let wet or reflective surfaces create broken silver shapes and stretched dark echoes. Preserve grain, rain specks, slight motion blur, and rough optical imperfections as evidence of an immediate moment. Balance large nearly black fields against abrupt white light, retaining enough textured mid-gray to keep the setting tangible. Compose around one small silhouette or decisive gesture rather than explanatory background detail. The atmosphere is urgent, solitary, and witnessed, with strong tonal geometry carrying the emotional force.",
+  "style_prompt_zh": "采用高对比黑白纪实摄影，以偶然的低视点、深色边框阴影和远处明亮出口构图。让湿润或反光表面形成破碎银形和拉长深倒影。保留颗粒、雨点、轻微动作模糊与粗糙镜头不完美，作为即时瞬间的证据。让大片近黑色域对照突现白光，同时保留足够有纹理的中灰，使环境仍可触。围绕一个小剪影或决定性动作组织，而非解释性背景细节。氛围急迫、孤独且像被目击，以强明暗几何承载情绪力量。",
+  "theme_en": "A solitary umbrella silhouette reflected in a rain-soaked alley",
+  "theme_zh": "雨湿小巷中撑伞独行者的剪影与倒影",
+  "wh_ratio": "1:1",
+  "id": "4451",
+  "name": "Paolo Pellegrin",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/paolo-pellegrin.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "25df3864c0e7d7e5db8c7fed51d385cbfa5eaf02b3dc9b3dbec71d2d4b01f6db",
+    "gpt_submission_prompt": "A square black-and-white documentary photograph looks through a narrow, rain-soaked passage toward a bright opening. A lone person carrying a dark umbrella stands left of center, almost entirely in silhouette. The umbrella's broad uneven arc cuts across the white sky beyond, while the person's coat and legs are softened by rain and blur. Wet pavement fills the lower half, collecting a long dark reflection of the figure and broken bright reflections of the far opening. The right side is dominated by a close wall or vehicle surface, streaked with water, scratches, and harsh gleams. On the left, another dark architectural edge creates a deep vertical frame. The alley compresses toward a distant street with a few indistinct shapes but no clearly identifiable activity. Heavy shadow surrounds the viewer, making the bright center feel abrupt and exposed. Fine drops and specks catch the light in the air and on the lens, lending the image a rough, urgent surface. The tonal scale is dramatic: nearly white sky, silver wet ground, textured mid-grays, and large areas of dense black. The camera angle is low and slightly askew, giving the moment an unplanned, close-to-the-ground feeling. No staged gesture, signage, or readable writing appears. The image conveys isolation and motion at once, preserving an ordinary rainy passage as a tense fragment of witnessed life.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "f10227021b74969c9e239eb28713e66f42f56fdcd45477128ceea0fee69d3731",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

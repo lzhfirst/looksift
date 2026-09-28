@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A geometric relief artwork fills a square view with overlapping rectangular color panels. The assembled form stands against a pale, nearly white wall, leaving only narrow strips of background visible around its irregular outer edge. Large vertical slabs in muted lilac, pale blue, yellow, orange, and deep plum provide the principal rhythm. Smaller horizontal blocks in red, ochre, navy, pink, and charcoal cross over them, interrupting the long axes. Near the center, a bright yellow vertical band is enclosed by orange and rusty red; below it, a dark blue rectangle bridges to a broad yellow base. At the upper right, cream and blush panels overlap a wine-red block, while a nearly black inset adds a strong recess. Several edges project forward from the surface, casting short, crisp shadows onto the panels beneath. The side faces of a few blocks reveal actual thickness, so the arrangement reads as shallow sculptural construction rather than a printed grid. Color is even and matte across each plane, with little texture beyond subtle surface softness. The shapes meet in abrupt right angles, but their varied scale and staggered placement prevent mechanical repetition. Light comes from the upper left, making the relief's depth legible through narrow shadows. The whole composition is dense, balanced, and playful, with color relationships and layered planar depth doing all the visual work.",
+  "full_prompt_zh": "一件几何浮雕作品以相互重叠的彩色矩形板占满方形视野。组合体立在近乎白色的浅墙前，不规则外缘周围只露出窄窄的背景。灰淡紫、浅蓝、黄色、橙色和深李子色的大型竖板构成主要节奏。红、赭黄、海军蓝、粉色和炭色的小型横块穿插其上，打断纵向长轴。中央附近，一道明亮的黄竖带被橙色与锈红包围；其下深蓝矩形连接到宽阔的黄色基部。右上方奶油色和浅粉板叠在酒红块上，而近乎黑色的内凹色块形成强烈深度。几处边缘从表面向前突出，在下面板块上投下短而清晰的阴影。若干板的侧面显出真实厚度，因此整个安排更像浅浮雕构造，而非印刷网格。每个平面的色彩均匀而哑光，除了细微表面柔度几乎没有肌理。形状以突然的直角交接，但尺度变化与错位放置避免了机械重复。光从左上方照入，窄阴影让浮雕纵深可读。整体密集、均衡而活泼，完全由色彩关系与分层平面深度承担视觉效果。",
+  "style_prompt_en": "The artwork is a hard-edged geometric relief with flat matte color planes and real shallow depth. Rectangular units of varied scale overlap in a compact, staggered arrangement, producing an irregular perimeter and a rhythm of long axes interrupted by smaller crosspieces. Warm yellow, orange, red, and plum are balanced by cooler blue, lilac, charcoal, and pale neutral areas. Sharp right-angle joins contrast with subtle material softness. Directional light creates short shadows and visible side faces, so apparent layers remain physically distinct. The visual energy comes from proportion, color adjacency, and offset placement rather than drawn texture or representational detail.",
+  "style_prompt_zh": "作品是一件硬边几何浮雕，由平整哑光色面与真实的浅层纵深组成。不同尺度的矩形单元紧凑而错位地叠放，产生不规则外围轮廓，并形成长轴被较小横向形块打断的节奏。暖黄、橙、红和深紫由较冷的蓝、淡紫、炭色与浅中性色平衡。锐利直角接缝与细微的材质柔度形成对照。定向光制造短阴影和可见侧面，让表观层次保持物理上的分离。视觉能量来自比例、邻接色与错位安排，而非绘制纹理或具象细节。",
+  "theme_en": "An interlocking relief of matte rectangular color panels in warm and cool tones against a pale wall.",
+  "theme_zh": "一组哑光暖冷色矩形板交错叠起，形成靠在浅色墙前的几何浮雕。",
+  "wh_ratio": "1:1",
+  "id": "1106",
+  "name": "Olivier Mosset",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/olivier-mosset",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/olivier-mosset.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "9e45fef1d146ee7be8386289929bccb8b2dda972af76bc3d09d8be5dd421dbcb",
+    "gpt_submission_prompt": "A geometric relief artwork fills a square view with overlapping rectangular color panels. The assembled form stands against a pale, nearly white wall, leaving only narrow strips of background visible around its irregular outer edge. Large vertical slabs in muted lilac, pale blue, yellow, orange, and deep plum provide the principal rhythm. Smaller horizontal blocks in red, ochre, navy, pink, and charcoal cross over them, interrupting the long axes. Near the center, a bright yellow vertical band is enclosed by orange and rusty red; below it, a dark blue rectangle bridges to a broad yellow base. At the upper right, cream and blush panels overlap a wine-red block, while a nearly black inset adds a strong recess. Several edges project forward from the surface, casting short, crisp shadows onto the panels beneath. The side faces of a few blocks reveal actual thickness, so the arrangement reads as shallow sculptural construction rather than a printed grid. Color is even and matte across each plane, with little texture beyond subtle surface softness. The shapes meet in abrupt right angles, but their varied scale and staggered placement prevent mechanical repetition. Light comes from the upper left, making the relief's depth legible through narrow shadows. The whole composition is dense, balanced, and playful, with color relationships and layered planar depth doing all the visual work.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "bbeeee87c3df7f4ed1a39623059bca2356fd497710f327f7bae4fedf5814b710",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

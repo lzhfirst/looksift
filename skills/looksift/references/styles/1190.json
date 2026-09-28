@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square color photograph shows a young Black couple posing quietly outside a modest building. The man sits on a low concrete ledge in a patterned long-sleeve shirt, dark trousers and sunglasses; the woman stands close beside him in a yellow floral dress, pale shoes and bold white sunglasses, her hands lightly folded. Behind them, faded turquoise paint covers a rough wall, with fragments of old posters high above, a blue door at the left and an uneven roof edge at the upper right. Potted flowering plants flank the pair near the ground, and a narrow side lane opens at the right. Their posture is composed and self-possessed rather than animated, with the camera meeting them at an ordinary street-level height. The image has the subdued, slightly warm colors and gentle grain of an older color print: skin tones remain rich, yellow fabric carries small floral accents, and the peeling green wall provides a large cool counterfield. Daylight is diffuse and honest, revealing the plaster's stains, the fabric's pattern and the texture of dusty concrete without a studio sheen. The pairing of careful personal style with a weathered everyday setting gives the portrait its visual energy. No one is glamorized or reduced to scenery; both remain clearly present in their own space.",
+  "full_prompt_zh": "一幅正方形彩色照片呈现一对年轻黑人男女安静地站在朴素建筑外。男子坐在低矮混凝土台沿上，穿花纹长袖衬衫、深色长裤，戴墨镜；女子紧靠一旁站立，穿黄色花卉连衣裙、浅色鞋，戴醒目的白色墨镜，双手轻合。身后粗糙墙面刷着褪色青绿漆，高处残留旧海报，左边是蓝色门，右上是参差屋檐。盆栽开花植物在地面两侧围住二人，右方露出狭窄侧巷。他们的姿态端整而自主，并不激动；相机从普通街道高度与他们相对。图像带旧彩色相纸般的低调暖色与柔和颗粒：肤色厚实，黄布料有细小花纹，剥落绿墙提供大片冷色对应区域。日光漫射而真实，显露灰泥污痕、布料图案和积尘混凝土肌理，没有影棚亮面。讲究的个人穿着与风化的日常地点相遇，成为肖像的视觉力量。两位人物都清楚地存在于自己的空间，不被过度美化，也不沦为场景陪衬。",
+  "style_prompt_en": "The style is gently aged color street portrait photography with a direct eye-level view, relaxed formal posing and a square environmental composition. Diffuse daylight, soft grain and slightly faded pigments preserve natural skin tones and tactile surroundings. A large weathered cool field supports smaller warm textile accents, while modest surface imperfections remain visible. The image balances personal presence with the ordinary details of place, favoring quiet confidence and documentary intimacy over polished glamour.",
+  "style_prompt_zh": "这种风格是带轻微岁月感的彩色街头肖像摄影，具有直接平视视角、放松的正式站姿和纳入环境的正方形构图。漫射日光、柔和颗粒与略褪色的颜料保留自然肤色和可触摸的周围表面。大片风化冷色区域承托较小的暖色织物重音，普通表面瑕疵仍可见。图像平衡个人存在与地点日常细节，偏向安静自信和纪实亲密感，而非精致华丽。",
+  "theme_en": "A stylish couple before a weathered turquoise wall",
+  "theme_zh": "风化青绿墙前衣着讲究的一对男女",
+  "wh_ratio": "1:1",
+  "id": "1190",
+  "name": "James Barnor",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/james-barnor",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/james-barnor.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "3a3c3ce6ef1cc1798dc3c153ca5016d3b09f4e4f6fc92f6fb563263edc0f1924",
+    "gpt_submission_prompt": "A square color photograph shows a young Black couple posing quietly outside a modest building. The man sits on a low concrete ledge in a patterned long-sleeve shirt, dark trousers and sunglasses; the woman stands close beside him in a yellow floral dress, pale shoes and bold white sunglasses, her hands lightly folded. Behind them, faded turquoise paint covers a rough wall, with fragments of old posters high above, a blue door at the left and an uneven roof edge at the upper right. Potted flowering plants flank the pair near the ground, and a narrow side lane opens at the right. Their posture is composed and self-possessed rather than animated, with the camera meeting them at an ordinary street-level height. The image has the subdued, slightly warm colors and gentle grain of an older color print: skin tones remain rich, yellow fabric carries small floral accents, and the peeling green wall provides a large cool counterfield. Daylight is diffuse and honest, revealing the plaster's stains, the fabric's pattern and the texture of dusty concrete without a studio sheen. The pairing of careful personal style with a weathered everyday setting gives the portrait its visual energy. No one is glamorized or reduced to scenery; both remain clearly present in their own space.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "5afbc2214fc7d1d452d7869bf95d55f5b17a620679a7d48c669e0aa970198695",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

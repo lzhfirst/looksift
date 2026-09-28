@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square fantastical city illustration looks down from a balcony over an extraordinarily crowded street. In the near left foreground, a frog-headed figure in blue work clothes and brown suspenders rests its hands on the railing, facing the scene below. A long teal and ochre tram runs diagonally from the lower center toward the upper middle, dividing streams of tiny pedestrians. Both sides of the street are packed with multi-story buildings, balconies, signs, wires and stairways. The architecture recedes into a pale hazy distance, but even the far structures carry miniature windows and decorative marks. Small vehicles and umbrellas punctuate the crowd. The frog figure remains a simple, solid foreground anchor against the near-overwhelming detail. Light is broad daylight from above, making the street pale cream while recesses and facades gather blue gray and warm brown shadow. Thin ink outlines describe every railing, wheel and window, with transparent color washes laying teal, tan and muted green over them. The line density gives the image a textured, almost etched feel. Despite the complexity, the tram's strong diagonal and the balcony edge create a clear route for the eye. The picture feels busy, curious and slightly absurd, like an enormous living city being quietly surveyed by an unlikely resident.",
+  "full_prompt_zh": "这幅方形奇想城市插画从阳台俯看一条拥挤异常的街道。左侧近前景，一个蛙头身影穿蓝工装和棕背带，双手靠在栏杆上，面向下方景象。一辆长青绿赭黄电车从下方中央斜向上中行驶，把细小行人流分开。街道两侧塞满多层楼房、阳台、招牌、电线和阶梯。建筑退入浅雾远景，但远处结构仍带微小窗洞和装饰痕。小车辆与雨伞点在人群中。蛙形人物是简单坚实的前景锚点，对照几乎压倒性的细节。光是上方宽阔日光，让街面浅奶油色，凹处与立面聚起蓝灰和暖棕阴影。细墨轮廓描出每条栏杆、车轮和窗，透明色洗把青绿、黄褐与柔绿铺在上面。线密度使图像有近乎蚀刻的纹理感。尽管复杂，电车的强斜线和阳台边仍为视线创造清楚路径。图像繁忙、好奇且略荒诞，像一座巨大的活城市正被一位意外居民安静巡视。",
+  "style_prompt_en": "The illustration combines extremely dense fine ink contours with restrained transparent color washes. Teal, ochre, cream and blue gray recur across nested planes and tiny marks. Daylight keeps major routes pale and readable, while hatching and narrow shadow pockets preserve intricate depth. A bold near silhouette and one strong diagonal guide the eye through a crowded field. The surface is etched, bustling and playful without losing spatial order.",
+  "style_prompt_zh": "这种插画把极密细墨轮廓与克制透明色洗结合。青绿、赭黄、奶油色和蓝灰在嵌套平面与微小笔记间反复出现。日光让主路径浅亮可读，排线和窄影窝保留繁复深度。一块醒目近景剪影与一道强斜线引导视线穿过拥挤色域。表面像蚀刻般繁忙俏皮，却不失空间秩序。",
+  "theme_en": "A frog-headed observer above a crowded tram city",
+  "theme_zh": "拥挤电车城市上方的蛙头观察者",
+  "wh_ratio": "1:1",
+  "id": "3201",
+  "name": "Geof Darrow",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/geof-darrow",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "b872375d9cf6197942744aeb97920f59e0ea4fd62182b499190eed06ac299b60",
+    "gpt_submission_prompt": "A square fantastical city illustration looks down from a balcony over an extraordinarily crowded street. In the near left foreground, a frog-headed figure in blue work clothes and brown suspenders rests its hands on the railing, facing the scene below. A long teal and ochre tram runs diagonally from the lower center toward the upper middle, dividing streams of tiny pedestrians. Both sides of the street are packed with multi-story buildings, balconies, signs, wires and stairways. The architecture recedes into a pale hazy distance, but even the far structures carry miniature windows and decorative marks. Small vehicles and umbrellas punctuate the crowd. The frog figure remains a simple, solid foreground anchor against the near-overwhelming detail. Light is broad daylight from above, making the street pale cream while recesses and facades gather blue gray and warm brown shadow. Thin ink outlines describe every railing, wheel and window, with transparent color washes laying teal, tan and muted green over them. The line density gives the image a textured, almost etched feel. Despite the complexity, the tram's strong diagonal and the balcony edge create a clear route for the eye. The picture feels busy, curious and slightly absurd, like an enormous living city being quietly surveyed by an unlikely resident.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "5548a44a7cc8faa593329c091dce6e37fd896234c5a2168ee8e85900ee6cf660",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

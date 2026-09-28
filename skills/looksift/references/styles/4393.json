@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square double-exposure portrait presents a woman in right-facing profile against a pale almost-white background. Her hair gathers in a loose bun, and the fine outer line of her nose, lips and chin remains readable even where the interior of the silhouette becomes landscape. Dark trees spread through the back of the head and neck; near the cheek, their branches open around a low amber sunset. Warm coral light appears to shine from inside the profile, while smoky blue-gray tones occupy the upper hair and lower clothing. The photographic layers merge without a hard collage edge: some facial shading survives across the bright sky, and the tree trunks are strongest in the darker hair and shoulder. The figure occupies the left and central frame, facing into a wide expanse of pale negative space at right. Her expression is quiet, with closed or nearly closed eyes and parted lips. The scene has no extra props or lettering. A subtle film-like softness keeps the two exposures unified, while the trees retain enough fine detail to register as real foliage. The emotional effect comes from the measured overlap of human contour and landscape light, as though a private memory of the outdoors has become temporarily visible within a still portrait.",
+  "full_prompt_zh": "一幅正方形双重曝光肖像呈现一位面向右方的女性侧脸，背景近乎纯白。头发松松挽成髻，鼻、唇和下巴的细外轮廓始终可读，即使剪影内部已经变成风景。深色树木穿过后脑与颈部；靠近脸颊处，枝条围出低垂的琥珀色落日。暖珊瑚色光仿佛从侧影内部发出，烟蓝灰则占据上部头发和下方衣物。摄影层之间没有生硬拼贴边：明亮天空里仍可见部分面部明暗，树干在更暗的发丝和肩部最明确。人物位于左侧和中央，朝右边宽阔浅色留白看去。神情安静，眼睛合起或近乎合起，嘴唇微张。画面没有额外道具或文字。轻微胶片式柔化把两次曝光统一起来，树木仍有足够细节可辨为真实枝叶。情绪来自人物轮廓与风景光线的审慎重叠，像一段私密户外记忆暂时在静止肖像内部显形。",
+  "style_prompt_en": "The style is photographic double exposure with a clear outer silhouette, gently superimposed natural textures and a smooth tonal merger between layers. Cool smoky grays and dark organic detail surround a restrained amber-coral glow. One side of the square frame carries the composite mass while pale negative space opens in the facing direction. Fine detail remains in the darker exposure, but edges soften where light fields overlap. The effect is contemplative and dreamlike through tonal integration rather than obvious cutout collage.",
+  "style_prompt_zh": "这种风格是摄影双重曝光，具有清楚外部剪影、轻柔叠映的自然肌理与层间平顺的明暗融合。冷烟灰和深色有机细节围住克制的琥珀珊瑚辉光。正方形画幅一侧承载复合体块，面向方向则敞开浅色留白。较暗曝光里仍有细节，亮场相交处的边缘自然柔化。效果因灰阶整合而沉思如梦，不依赖明显裁切拼贴。",
+  "theme_en": "A profile portrait filled with a sunset grove",
+  "theme_zh": "被日落树林填满的侧面肖像",
+  "wh_ratio": "1:1",
+  "id": "4393",
+  "name": "Double exposure",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/double-exposure.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "247077d8c0e2ecd2abdddd592c454567428773cd5c38d25cbc60591e1216285c",
+    "gpt_submission_prompt": "A square double-exposure portrait presents a woman in right-facing profile against a pale almost-white background. Her hair gathers in a loose bun, and the fine outer line of her nose, lips and chin remains readable even where the interior of the silhouette becomes landscape. Dark trees spread through the back of the head and neck; near the cheek, their branches open around a low amber sunset. Warm coral light appears to shine from inside the profile, while smoky blue-gray tones occupy the upper hair and lower clothing. The photographic layers merge without a hard collage edge: some facial shading survives across the bright sky, and the tree trunks are strongest in the darker hair and shoulder. The figure occupies the left and central frame, facing into a wide expanse of pale negative space at right. Her expression is quiet, with closed or nearly closed eyes and parted lips. The scene has no extra props or lettering. A subtle film-like softness keeps the two exposures unified, while the trees retain enough fine detail to register as real foliage. The emotional effect comes from the measured overlap of human contour and landscape light, as though a private memory of the outdoors has become temporarily visible within a still portrait.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "957d8f23051724215f0bf8e8c35cecff67a1190a7370d41c0a0b54eb2bf1713e",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

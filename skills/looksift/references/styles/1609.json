@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A Western narrative oil painting shows a line of horseback riders traversing a steep snow covered mountainside beneath an intense clear blue sky. The nearest rider appears in the lower right on a dark brown horse, wearing a broad brimmed hat and dark coat, while a second rider on a pale horse follows just uphill. The procession recedes diagonally toward the upper left, where several smaller horses and figures are partly softened by distance. This slanting path gives the square composition its momentum: the bright white hillside fills most of the frame, while the saturated blue sky opens a clean wedge above the ridge. Hooves disturb the snow into small drifting plumes and leave a narrow route through irregular banks. Gray lavender rocks and shaded hollows interrupt the snow surface, and the riders cast crisp cool blue shadows downslope. The figures are described with economical dark and brown strokes rather than polished detail, but their upright postures, reins, and overlapping horses remain legible. Bright high altitude daylight falls from the upper left, making the snow nearly luminous and sharpening the contrast between dark silhouettes and pale terrain. Visible short brush marks retain the physical surface of the painting, especially in the sky and textured snow. The whole image feels brisk, exposed, and purposeful, with the receding caravan emphasizing the scale of the winter slope.",
+  "full_prompt_zh": "一幅西部叙事油画描绘一队骑马者在浓烈、澄明的蓝天下横越陡峭的覆雪山坡。最近的一位骑手位于右下方，骑深棕色马，戴宽檐帽、穿深色外衣；第二位骑浅色马的人紧随其后，位置稍高。队伍沿对角线退向左上，数匹更小的马与人物因距离而略显柔和。这条倾斜路线赋予方形构图动势：明亮白雪占据画面大部，饱和的蓝天则在山脊上方打开干净的楔形空间。马蹄搅起细小的飘雪，在高低不平的雪堆间留下狭窄通路。灰紫色岩石与阴影洼地打断雪面，骑队向坡下投出清晰的冷蓝色影子。人物以简练的深色和棕色笔触描写，而非磨得光滑的细节，但挺直的姿态、缰绳与相互遮叠的马仍清楚可辨。高海拔的明亮日光从左上方照下，使白雪几乎发光，也强化深色剪影与浅色地面的对比。短促可见的笔触保留了绘画的物质表面，尤其体现在天空和有肌理的积雪上。整幅画轻快、无遮蔽且目标明确，渐远的骑队突出了冬日山坡的尺度。",
+  "style_prompt_en": "A narrative oil painting with a strong diagonal procession across a broad, lightly textured field. Use energetic but economical strokes to keep small moving silhouettes readable as they diminish in scale. Set dark earth tones and muted browns against luminous near white and a firm saturated blue, allowing blue violet shadows to describe surface relief. Let a sloping boundary divide the frame and direct the eye from a prominent near form into a compressed distant line. Show motion through kicked up flecks, overlapping contours, and visible directional brushwork rather than blur. Apply clear, crisp daylight so shadows have definite edges, while subtle atmospheric softening affects only the farthest forms. Preserve the tactile paint surface and an open, windswept sense of scale.",
+  "style_prompt_zh": "采用具有叙事感的油画语言，让一列连续的形体沿强烈对角线穿过宽阔而略带肌理的场域。使用有力却节制的笔触，使逐渐缩小的运动剪影仍然可读。以深土色和含蓄棕色对照近乎发光的白色与坚实饱和的蓝色，并借蓝紫色阴影描出地面起伏。让倾斜边界分割画面，引导视线从显著的近处形体进入压缩的远方队列。用飞溅碎点、轮廓重叠和方向明确的笔触表现运动，而非模糊处理。施以清晰明亮的日光，使影子边缘明确；仅最远处形态受到轻微的空气柔化。保留颜料的触感与开阔、迎风的尺度感。",
+  "theme_en": "Riders crossing a snowy slope",
+  "theme_zh": "骑队横越雪坡",
+  "wh_ratio": "1:1",
+  "id": "1609",
+  "name": "Frederic Remington",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/frederic-remington",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/frederic-remington.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "1659c9188b13b7b00c7e7d3f66146abf4a1a12060730ec81526501793d0f7760",
+    "gpt_submission_prompt": "A Western narrative oil painting shows a line of horseback riders traversing a steep snow covered mountainside beneath an intense clear blue sky. The nearest rider appears in the lower right on a dark brown horse, wearing a broad brimmed hat and dark coat, while a second rider on a pale horse follows just uphill. The procession recedes diagonally toward the upper left, where several smaller horses and figures are partly softened by distance. This slanting path gives the square composition its momentum: the bright white hillside fills most of the frame, while the saturated blue sky opens a clean wedge above the ridge. Hooves disturb the snow into small drifting plumes and leave a narrow route through irregular banks. Gray lavender rocks and shaded hollows interrupt the snow surface, and the riders cast crisp cool blue shadows downslope. The figures are described with economical dark and brown strokes rather than polished detail, but their upright postures, reins, and overlapping horses remain legible. Bright high altitude daylight falls from the upper left, making the snow nearly luminous and sharpening the contrast between dark silhouettes and pale terrain. Visible short brush marks retain the physical surface of the painting, especially in the sky and textured snow. The whole image feels brisk, exposed, and purposeful, with the receding caravan emphasizing the scale of the winter slope.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "5f3d503ed2dbe43c58102e6f57d10c5a9e912069c04b89e26e53b46ab7661d31",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

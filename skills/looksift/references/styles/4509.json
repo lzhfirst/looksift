@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white candid photograph shows two young women leaning close to the camera in a dim interior. The woman on the left has dark bobbed hair, a small dark headpiece, and a pale ruffled blouse with a low lace collar. A beaded necklace hangs down her chest. She looks toward the lens with a tired, direct expression. The woman on the right has a large pale curled hairstyle topped by a small decorative hat. Her eyes are heavily lined, her lips carefully shaped, and she wears a high, elaborate lace collar over a pale dress. A dark mark or painted detail is visible on her right cheek. She also looks directly into the camera, her face slightly nearer and more brightly lit than her companion's. Their shoulders and heads overlap closely, filling almost all of the image. Dark walls and indistinct vertical interior shapes remain behind them, with no clear room context. The flash-like frontal light brightens the faces and pale fabric, while the background falls into near black. The framing is informal and a little awkward, with the top of the right hairstyle and lower clothing cropped. Fine grain, visible skin texture, strong grayscale contrast, and slight peripheral softness keep the image raw. There is no title, caption, sign, or readable text. The photograph feels both theatrical and unguarded: elaborate self-presentation meets the blunt nearness of a camera that does not idealize its subjects.",
+  "full_prompt_zh": "一张方形黑白抓拍照片呈现两位年轻女子在昏暗室内靠近镜头。左侧女子留深色短发、戴小深头饰，穿浅色褶边上衣和低蕾丝领，珠链垂在胸前。她以疲惫而直接的神情看镜头。右侧女子有巨大浅色卷发，上戴小装饰帽；眼线浓，嘴唇精心描画，穿浅裙和高而繁复的蕾丝领。右脸颊可见一道深标记或彩绘细节。她也直看镜头，脸稍更近、更亮。两人肩与头紧密重叠，几乎填满全幅。身后深墙和不明竖向室内形体仍不可辨，没有清楚房间语境。类似闪光灯的正面光照亮脸与浅布，背景落入近黑。裁切随意而略别扭，右边发顶和下方衣物被截去。细颗粒、可见肤质、强灰度对比和外围轻柔让图像生猛。没有标题、说明、标牌或可读文字。照片既有戏剧性又不设防：复杂自我装扮遇上不美化主体的直近镜头。",
+  "style_prompt_en": "Use direct black-and-white candid photography with close, imperfect framing and frontal light that makes pale details flare against a nearly black setting. Allow multiple expressive forms to overlap and crowd the frame, with some edges awkwardly cropped. Preserve grain, skin or material texture, uneven tonal falloff, and slight peripheral softness. Contrast elaborate surface details with blunt camera proximity, so theatrical presentation and unguarded presence coexist. Keep the background dim and context sparse, letting gaze and proximity dominate. The image should feel curious, unsettling, and humane, with individuality emerging through unsmoothed detail rather than idealized polish.",
+  "style_prompt_zh": "采用直接的黑白抓拍摄影，以近而不完美的裁切和正面光让浅色细节在近黑环境前发亮。让多个有表情形体重叠并挤满画面，部分边缘略别扭地被截断。保留颗粒、皮肤或材料纹理、不均明暗衰减与外围轻微柔化。让繁复表面细节对照相机的直近距离，使戏剧化呈现与不设防存在共处。背景昏暗、语境稀少，由目光和贴近感主导。图像应好奇、微不安且有人性，个性从未被磨平的细节中浮现，而非理想化抛光。",
+  "theme_en": "Two young women leaning close to the camera in ornate dress",
+  "theme_zh": "两位穿繁饰衣裙的年轻女子贴近镜头",
+  "wh_ratio": "1:1",
+  "id": "4509",
+  "name": "Diane Arbus",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/diane-arbus.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "b69fdc0d63e47ed4871490df5ebee5002f88131176d33f8c0623a1c78f73af6d",
+    "gpt_submission_prompt": "A square black-and-white candid photograph shows two young women leaning close to the camera in a dim interior. The woman on the left has dark bobbed hair, a small dark headpiece, and a pale ruffled blouse with a low lace collar. A beaded necklace hangs down her chest. She looks toward the lens with a tired, direct expression. The woman on the right has a large pale curled hairstyle topped by a small decorative hat. Her eyes are heavily lined, her lips carefully shaped, and she wears a high, elaborate lace collar over a pale dress. A dark mark or painted detail is visible on her right cheek. She also looks directly into the camera, her face slightly nearer and more brightly lit than her companion's. Their shoulders and heads overlap closely, filling almost all of the image. Dark walls and indistinct vertical interior shapes remain behind them, with no clear room context. The flash-like frontal light brightens the faces and pale fabric, while the background falls into near black. The framing is informal and a little awkward, with the top of the right hairstyle and lower clothing cropped. Fine grain, visible skin texture, strong grayscale contrast, and slight peripheral softness keep the image raw. There is no title, caption, sign, or readable text. The photograph feels both theatrical and unguarded: elaborate self-presentation meets the blunt nearness of a camera that does not idealize its subjects.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "1b7163bdcb7771ac1dae1250f48e49815c4c9f3e47d0df007fc9af57e452ba07",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

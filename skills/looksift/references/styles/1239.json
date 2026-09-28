@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "The image shows a woman facing forward in a tight black-and-white portrait. Her hands rise on either side of the face, fingertips touching the temples and palms supporting the cheeks. Her lips are slightly parted, but the eyes are completely hidden by a curved strip of cut-out picture fragments. The strip sits like an improvised blindfold across the brow and upper cheeks. It contains tiny photographs or printed scenes: architectural beams, figures, streets, and other miniature views crowd together at different angles. One end of the paper curls outward near the right edge, exposing its thin materiality. The woman's skin is softly modeled in silver-gray tones, while the paper carries harder edges, darker ink, and more fragmented texture. Behind her is a mottled dark surface with a subtle leafy or clouded pattern that gives the head depth without identifying a room. Soft frontal illumination reveals the smooth bridge of the nose, lips, and the curve of both hands; shadows sit under the fingers and around the hairline. The square crop is symmetrical enough to feel iconic, though the irregular strip breaks that balance. There is no separate frame around the collage; the pasted imagery directly replaces the missing gaze. Film grain and aging unify the photograph and paper components. The overall image feels like a visual riddle about looking and imagining, poised between an elegant studio portrait and a deliberately impossible dream image.",
+  "full_prompt_zh": "画面是一位女子正面朝向观者的紧凑黑白肖像。她的双手抬在脸侧，指尖触及太阳穴，手掌托住脸颊。嘴唇微张，双眼却被一条弯曲的剪贴图像纸带完全遮住。这条纸带像临时制成的眼罩，横跨眉骨与上脸颊。其上挤满许多小照片或印刷场景：建筑梁架、人物、街景以及其他微型视图以不同角度拼在一起。纸带的一端在右缘向外卷起，显露薄纸的材质。女子的皮肤以柔和银灰调塑形，纸片则带着更硬的边缘、更深的油墨与碎裂肌理。身后是斑驳深色表面，隐约有树叶或云雾般纹样，为头部提供纵深，却不说明房间。柔和正面光照出鼻梁、双唇和两只手的弧线；阴影落在手指下方与发际周围。方形取景接近对称，具有图像式的庄重感，不规则纸带又打破平衡。拼贴没有独立边框，贴上的图像直接替代被遮去的目光。胶片颗粒和旧化质感统一照片与纸质组件。整体像一道关于观看与想象的视觉谜题，介于优雅影棚肖像和刻意不可能的梦境图像之间。",
+  "style_prompt_en": "Combine softly modeled black-and-white photography with hard-edged cut-paper photomontage. Place small printed image fragments in a curved, overlapping band that interrupts a continuous visual field. Preserve visible paper curl, ink texture, fine film grain, and aged tonal variation. Use gentle frontal light against a mottled dark ground, with enough symmetry to feel iconic and enough irregular collage movement to make the image uncanny. Keep a restrained grayscale range from silver skin-like highlights to charcoal shadows.",
+  "style_prompt_zh": "把柔和塑形的黑白摄影与硬边剪纸式照片拼贴结合。用弯曲、互相叠压的微型印刷图像碎片带切断连续视觉场。保留可见的纸边卷曲、墨色肌理、细胶片颗粒和旧化影调变化。以柔和正面光对照斑驳深色背景，既维持近乎图像式的对称，又让不规则拼贴运动带来异样感。灰度范围克制，从银亮处过渡至炭黑阴影。",
+  "theme_en": "Woman blindfolded by a strip of dream images",
+  "theme_zh": "被梦境图像纸带遮眼的女子",
+  "wh_ratio": "1:1",
+  "id": "1239",
+  "name": "Grete Stern",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/grete-stern",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/grete-stern.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "e26a7860282710ffd95bb8b571606dcc38792abe41e4a3366a494479e6396a36",
+    "gpt_submission_prompt": "The image shows a woman facing forward in a tight black-and-white portrait. Her hands rise on either side of the face, fingertips touching the temples and palms supporting the cheeks. Her lips are slightly parted, but the eyes are completely hidden by a curved strip of cut-out picture fragments. The strip sits like an improvised blindfold across the brow and upper cheeks. It contains tiny photographs or printed scenes: architectural beams, figures, streets, and other miniature views crowd together at different angles. One end of the paper curls outward near the right edge, exposing its thin materiality. The woman's skin is softly modeled in silver-gray tones, while the paper carries harder edges, darker ink, and more fragmented texture. Behind her is a mottled dark surface with a subtle leafy or clouded pattern that gives the head depth without identifying a room. Soft frontal illumination reveals the smooth bridge of the nose, lips, and the curve of both hands; shadows sit under the fingers and around the hairline. The square crop is symmetrical enough to feel iconic, though the irregular strip breaks that balance. There is no separate frame around the collage; the pasted imagery directly replaces the missing gaze. Film grain and aging unify the photograph and paper components. The overall image feels like a visual riddle about looking and imagining, poised between an elegant studio portrait and a deliberately impossible dream image.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "1a6a94813e0e935298038a3665f71fbb9ac5a2355b6d8f46cf0695e09987dd32",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

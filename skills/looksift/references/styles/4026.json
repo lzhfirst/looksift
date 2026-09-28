@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square monochrome architectural drawing shows an eccentric tall tower assembled from overlapping rooms, arches, balconies, and small roofs. The scene places the tower slightly left of center against a clean white page, rising from a broad ground-level arch and several smaller round openings. Above, crookedly stacked volumes project on different sides, including a narrow balcony at mid-height, a large circular void, little windows, and a steep textured spire with a fine metal weather vane. A few tiny stairs and railings run along the lower terraces. Dark ink defines the main contours; dense cross-hatching and stippled marks create shadow inside the arches and under overhangs. The image keeps the white of the page as the brightest surface, so the structure is described mostly by line weight and varying hatch density. Sparse, thinly drawn trees stand on the right, and tiny scale figures near the base clarify the tower's height. The silhouette should feel improbable but internally connected, with every projection visibly tied to a wall or platform. The image uses a straight-on elevation-like view rather than dramatic perspective. The image has no color, atmosphere, or realistic sky; instead, it relies on patient architectural penwork and a large clean margin around the busy central form.",
+  "full_prompt_zh": "一张方形单色建筑图描绘一座古怪高塔，由交叠房间、拱洞、阳台和小屋顶拼合。高塔放在画面中央偏左的纯白纸面上，自底部宽拱门与数个较小圆拱口向上升起。上方体块歪斜叠放，向各侧伸出，包括中段狭窄阳台、一个大圆孔、几扇小窗以及带细金属风向标的陡峭纹理尖顶。下层露台上有少量小台阶和栏杆。深墨勾勒主轮廓，密集交叉排线与点描形成拱洞内和挑檐下的阴影。纸张原白保留为最亮面，结构主要靠线粗与排线密度来说明。右侧有几株细线描出的疏树，底部极小的比例人物显示塔的高度。外轮廓可以出人意料，但各突出部分都应能看出与墙或平台连接。画面采用近正立面的视角，不用戏剧化透视。图像没有色彩、空气或写实天空，而是依靠耐心的建筑钢笔线条，以及繁忙中央形体四周的大块洁净留白。",
+  "style_prompt_en": "Monochrome architectural pen drawing with an irregular stacked silhouette, repeated round voids, small projections, and intricate connective details. The image uses decisive black contours, variable-weight fine lines, close cross-hatching, stipple, and tiny scale marks on uncolored white paper. The composition lets dark recesses and light blank surfaces establish depth. The rendering favors elevation-like clarity, lively structural complexity, and generous clean margins.",
+  "style_prompt_zh": "单色建筑钢笔画，以不规则层叠外轮廓、重复圆形孔洞、小悬出部分和繁细连接细节为核心。纯白纸面上使用果断黑轮廓、粗细可变的细线、紧密交叉排线、点描与极小的比例标记。通过深凹处与空白亮面建立纵深。画面保持近立面图的清晰、生动的结构复杂度及充足干净的边缘留白。",
+  "theme_en": "An asymmetrical tower composed of arches and projecting rooms",
+  "theme_zh": "由拱洞和突出房间组成的不对称塔楼",
+  "wh_ratio": "1:1",
+  "id": "4026",
+  "name": "Expressionist architecture",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/expressionist-architecture.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "b70416618db37e4c9d3b3f9cec5a0357267f21064fe73d75cf07cf155e417696",
+    "gpt_submission_prompt": "A square monochrome architectural drawing shows an eccentric tall tower assembled from overlapping rooms, arches, balconies, and small roofs. The scene places the tower slightly left of center against a clean white page, rising from a broad ground-level arch and several smaller round openings. Above, crookedly stacked volumes project on different sides, including a narrow balcony at mid-height, a large circular void, little windows, and a steep textured spire with a fine metal weather vane. A few tiny stairs and railings run along the lower terraces. Dark ink defines the main contours; dense cross-hatching and stippled marks create shadow inside the arches and under overhangs. The image keeps the white of the page as the brightest surface, so the structure is described mostly by line weight and varying hatch density. Sparse, thinly drawn trees stand on the right, and tiny scale figures near the base clarify the tower's height. The silhouette should feel improbable but internally connected, with every projection visibly tied to a wall or platform. The image uses a straight-on elevation-like view rather than dramatic perspective. The image has no color, atmosphere, or realistic sky; instead, it relies on patient architectural penwork and a large clean margin around the busy central form.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "6198eaf980197fdad78d48a88f9e2b3fc4a62510773f7d4b9a65fab1781ecb3b",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

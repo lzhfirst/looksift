@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square architectural photograph looks along a narrow garden path toward a house shaped by a sweeping concrete roof. The roof rises from the left like a broad shell and curves over a two-story glass wall, then projects far to the right above an open terrace. Warm timber ceilings and interior lights show through the glazing, giving depth beneath the heavy gray structural arc. A small dining table and chairs stand under the overhang. Ferns, palms, boulders and mature trees crowd both sides of the path, while low concrete retaining walls guide the viewer toward the entry. The camera stands at pedestrian height, so the roof's curve feels inhabitable rather than diagrammatic. Its smooth continuous edge contrasts with the irregular plants and rocks. Daylight is filtered by the canopy, producing soft, uneven brightness on the path and a warm glow inside. Glass reflections contain traces of nearby greenery but remain transparent enough to read the interior levels. The house occupies the center and upper frame, with foreground path and planting giving clear approach and scale. The overall atmosphere is secluded and organic: bold modern structure appears to flow through its landscape rather than sit as an isolated object. Material surfaces remain realistic, with concrete grain, timber warmth and living foliage visibly distinct.",
+  "full_prompt_zh": "一幅正方形建筑照片沿狭窄花园小径望向一栋由宽阔混凝土曲顶塑形的住宅。屋顶从左侧像巨大的壳面升起，覆盖两层高的玻璃立面，再向右大幅探出，遮住开放露台。暖木天花和室内灯光透过玻璃可见，在厚重灰色结构弧线下形成纵深。挑檐下有一张小餐桌和椅子。蕨类、棕榈、巨石和成熟树木簇拥小路两侧，低矮混凝土挡墙把视线引向入口。相机处于行人高度，屋顶曲线因而像可居住空间，而非建筑示意图。光滑连续的边线对照不规则植物和岩块。日光经树冠过滤，在路径上形成柔和且不均匀的亮度，室内则暖暖发光。玻璃倒影含附近绿意，却仍足够透明，可读出室内层次。住宅占据中央和上部，前景小路与植被提供明确进入路线和尺度。整体氛围隐蔽而有机，果断的现代结构似乎顺着地形流动，而非孤立放置。材料保持真实，混凝土颗粒、木材暖感和鲜活叶片彼此分明。",
+  "style_prompt_en": "The style is organic modernist architectural photography with a pedestrian-height approach, broad continuous structural curves and large transparent planes. Cool matte concrete contrasts with warm interior timber and irregular dense greenery. Filtered daylight creates soft mottled exterior illumination, while small interior light pools add depth. Pathways and retaining lines guide the square composition toward an inhabitable center. Visible material grain and layered reflections keep the design physical, and the architecture feels integrated with its surrounding landscape.",
+  "style_prompt_zh": "这种风格是有机现代主义建筑摄影，采用行人高度的接近视角、宽阔连续结构曲线与大面积透明平面。冷灰哑光混凝土对照暖木室内与不规则密集绿植。经树冠过滤的日光在室外形成柔和斑驳照明，少量室内光区增加纵深。小径与挡墙线引导正方形构图进入可居住的中心。可见材料颗粒与层叠倒影使设计具有实体感，建筑与周围景观融为一体。",
+  "theme_en": "A curving concrete house nestled in a lush garden",
+  "theme_zh": "隐于茂密花园里的曲线混凝土住宅",
+  "wh_ratio": "1:1",
+  "id": "1255",
+  "name": "John Lautner",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/john-lautner",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/john-lautner.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "9fd332991350e7cf499f164764139c038ea229b8b952e5971ebca9c309b8d455",
+    "gpt_submission_prompt": "A square architectural photograph looks along a narrow garden path toward a house shaped by a sweeping concrete roof. The roof rises from the left like a broad shell and curves over a two-story glass wall, then projects far to the right above an open terrace. Warm timber ceilings and interior lights show through the glazing, giving depth beneath the heavy gray structural arc. A small dining table and chairs stand under the overhang. Ferns, palms, boulders and mature trees crowd both sides of the path, while low concrete retaining walls guide the viewer toward the entry. The camera stands at pedestrian height, so the roof's curve feels inhabitable rather than diagrammatic. Its smooth continuous edge contrasts with the irregular plants and rocks. Daylight is filtered by the canopy, producing soft, uneven brightness on the path and a warm glow inside. Glass reflections contain traces of nearby greenery but remain transparent enough to read the interior levels. The house occupies the center and upper frame, with foreground path and planting giving clear approach and scale. The overall atmosphere is secluded and organic: bold modern structure appears to flow through its landscape rather than sit as an isolated object. Material surfaces remain realistic, with concrete grain, timber warmth and living foliage visibly distinct.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "ec475bef199242050cf2fc3c9b8cef7b4586183aee709040093dfc36c0106035",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

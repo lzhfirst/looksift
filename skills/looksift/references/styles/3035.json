@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square darkly comic illustration shows a skeletal punk figure from the chest upward against a flat crimson background. The figure turns in three-quarter profile toward the right, its gray skull topped with tall black spiked hair and a red band wrapped around the forehead. Two round orange-red lenses sit over the empty eye sockets, reflecting a hot glow that contrasts with the charcoal bones. A short cigarette projects from the mouth, and the exposed teeth form a rigid grin beneath it. Around the neck, heavy round respirator filters or headphones hang from a black strap, their olive metal rims catching dim highlights. The torso is covered by a worn dark jacket with layered lapels and patches of muted blue-green and khaki paint. An orange-red shirt peeks through at the center, and thin cords or chains run down the chest. The shoulder edges break into rough angular strokes, making the garment look frayed and battle-worn rather than cleanly tailored. Behind the figure, the red field is broad and simple, with faint curving marks near the upper right and darker paint variation toward the lower edge. Light arrives from the upper right, warming the lenses, the side of the skull, and the upper jacket while the underside of the jaw and neck remain dark. The drawing mixes confident graphic silhouette with scraped, painterly modeling in the bones and clothing. The overall composition uses the strong vertical hair and round lenses as focal points, balancing macabre subject matter with saturated red and an irreverent, poster-like stance.",
+  "full_prompt_zh": "这幅方形黑色幽默插画在平坦深红背景前呈现一个从胸部以上可见的骷髅朋克形象。人物以四分之三侧面转向右方，灰色头骨上竖起高高的黑色刺发，额头绕着红色头带。两枚橙红圆镜片盖住空眼窝，反出热亮光，与炭灰骨骼相对。一支短香烟从嘴边伸出，露出的牙齿在下方形成僵硬怪笑。颈部挂着厚重圆形呼吸滤罐或耳机，黑带连接，橄榄色金属边缘承接暗高光。躯干穿磨旧深色夹克，层叠翻领上有低调蓝绿和卡其色补块。中央露出一截橙红衬衣，细线绳或链条沿胸前下垂。肩部边缘碎成粗糙棱角笔触，使衣服显得磨损如战后，而非整洁剪裁。人物身后，红色域宽阔简单，右上有隐约曲线痕，下缘色彩变化稍深。光从右上进入，温暖镜片、头骨侧面和上层夹克，下颌底部与颈部保持深暗。绘画把果断图形剪影与骨骼、衣服上刮擦般的绘画塑形结合起来。整体构图以高竖发形和圆镜片为焦点，用饱和红色与不羁的海报式姿态平衡阴森题材。",
+  "style_prompt_en": "The illustration mixes poster-like flat color with gritty painterly modeling. A saturated crimson ground sets off charcoal, oxidized olive, and muted blue-green masses, while small orange highlights concentrate attention. Tall jagged strokes and round glossy accents create a sharp rhythm of spikes and circles. Scuffed layers, chipped edges, and dry-brush marks make surfaces feel worn and assembled. Directional upper light catches selected rims and planes, leaving deep creases black. The composition is close, bold, and irreverent, with a strong central silhouette against broad graphic space.",
+  "style_prompt_zh": "这种插画将海报式平涂色与粗粝绘画塑形混合。饱和深红底衬托炭灰、氧化橄榄和低调蓝绿色块，少量橙色高光集中注意。高而锯齿状的笔形与圆润光亮重音形成尖刺和圆环的鲜明节奏。擦伤层、缺损边缘和干刷痕使表面显得磨旧并经组装。上方定向光碰亮选定边缘和平面，深缝仍黑。构图亲近、大胆而不羁，以强中央剪影对照宽阔图形空间。",
+  "theme_en": "A punk skeleton with spiked hair and glowing round goggles",
+  "theme_zh": "一具朋克骷髅顶着刺发、戴发亮圆护目镜",
+  "wh_ratio": "1:1",
+  "id": "3035",
+  "name": "Necropunk",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/necropunk",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "0ceb8f826333e06429c46cd26da2401215852ff012b7fcc119c9f3f4e4e71459",
+    "gpt_submission_prompt": "A square darkly comic illustration shows a skeletal punk figure from the chest upward against a flat crimson background. The figure turns in three-quarter profile toward the right, its gray skull topped with tall black spiked hair and a red band wrapped around the forehead. Two round orange-red lenses sit over the empty eye sockets, reflecting a hot glow that contrasts with the charcoal bones. A short cigarette projects from the mouth, and the exposed teeth form a rigid grin beneath it. Around the neck, heavy round respirator filters or headphones hang from a black strap, their olive metal rims catching dim highlights. The torso is covered by a worn dark jacket with layered lapels and patches of muted blue-green and khaki paint. An orange-red shirt peeks through at the center, and thin cords or chains run down the chest. The shoulder edges break into rough angular strokes, making the garment look frayed and battle-worn rather than cleanly tailored. Behind the figure, the red field is broad and simple, with faint curving marks near the upper right and darker paint variation toward the lower edge. Light arrives from the upper right, warming the lenses, the side of the skull, and the upper jacket while the underside of the jaw and neck remain dark. The drawing mixes confident graphic silhouette with scraped, painterly modeling in the bones and clothing. The overall composition uses the strong vertical hair and round lenses as focal points, balancing macabre subject matter with saturated red and an irreverent, poster-like stance.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "03bd2966293258dac11bb841b942b74f7d75ef1763a2c757d7861800d096ce5d",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

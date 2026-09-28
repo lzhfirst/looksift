@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square painterly science-fiction scene shows a bulky pale armored traveler seated on a low crate near the center-right. The helmeted head droops forward and both hands rest close to the lap, giving the figure a weary, inward posture. At lower left, a small skull-faced mechanical companion sits nearby, its dark sockets and narrow body picked out from loose gray paint. A large off-white round object rests on the floor in the foreground, and a deep rectangular recess opens behind the pair. Two barely formed upright silhouettes occupy that shadowed depth. The room is described by blocks of warm gray, ivory, chalk white, black, and a little tarnished ochre rather than precise perspective lines. Broad brush swipes cross the armor, scraped highlights fracture its surfaces, and diluted passages let the brown-gray underpainting show through. The left edge is dark and heavy; the pale seated form catches the eye among scattered angular marks. Negative space around the doorway creates a sense of abandoned scale. Light is diffuse and dusty, with no sharp beam or polished metal glare. The whole image feels like a remembered industrial interior, materially rough and incomplete, yet the bowed pose and nearby small companion remain clearly legible. There is no text or decorative border.",
+  "full_prompt_zh": "一幅方形绘画式科幻场景中，体量宽厚、颜色浅淡的装甲旅人坐在中央偏右的低箱上。戴头盔的脑袋向前低垂，双手靠近膝间，姿态疲倦而内敛。左下方坐着一个小小的骷髅脸机械同伴，深色眼窝和细窄身躯从松散灰色颜料中显出。前景地上有一个硕大的灰白圆形物，二者背后敞开一处深色矩形壁龛。两个几乎未成形的直立剪影藏在深处暗影。空间由暖灰、象牙白、粉白、黑色和少量旧赭色块描写，而非精准透视线。宽笔横扫装甲，刮擦高光打碎表面，稀释色层透出棕灰底绘。左边缘深沉厚重，浅色坐姿形体在零散角状笔痕中吸住视线。门洞周围留白带来废弃空间的尺度感。光线漫射且蒙尘，没有锐利光束或抛光金属眩光。整幅画像一段被记起的工业室内，材质粗粝而未完成，但低头姿态与身旁小同伴仍清晰可辨。画中没有文字或装饰边框。",
+  "style_prompt_en": "Loose painterly rendering with broad abraded strokes, broken impasto, diluted underlayers, and blocky value masses. Chalky ivory and warm gray shapes stand against deep charcoal recesses, interrupted by sparse tarnished ochre marks. Edges alternate between rough disappearance and a few decisive dark accents. Diffuse dusty light, fragmented surfaces, and generous unfinished space create a worn, contemplative atmosphere.",
+  "style_prompt_zh": "松动的绘画呈现包含宽阔磨损笔触、断裂厚涂、稀释底层和块状明暗团。粉白与暖灰形块立于炭黑深凹色场前，其间点缀稀疏旧赭笔痕。边缘在粗糙消失与少数果断深色重音之间交替。漫射尘光、碎裂表面和充足未完成空间形成磨旧而沉思的气氛。",
+  "theme_en": "A seated armored traveler and skeletal companion in a dim chamber",
+  "theme_zh": "幽暗室内坐着的装甲旅人与骷髅同伴",
+  "wh_ratio": "1:1",
+  "id": "4264",
+  "name": "Ashley Wood",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/ashley-wood.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "1866612f1d868b223833a58ed50ddd51386387e2484b5a06cf08a58cb1da6160",
+    "gpt_submission_prompt": "A square painterly science-fiction scene shows a bulky pale armored traveler seated on a low crate near the center-right. The helmeted head droops forward and both hands rest close to the lap, giving the figure a weary, inward posture. At lower left, a small skull-faced mechanical companion sits nearby, its dark sockets and narrow body picked out from loose gray paint. A large off-white round object rests on the floor in the foreground, and a deep rectangular recess opens behind the pair. Two barely formed upright silhouettes occupy that shadowed depth. The room is described by blocks of warm gray, ivory, chalk white, black, and a little tarnished ochre rather than precise perspective lines. Broad brush swipes cross the armor, scraped highlights fracture its surfaces, and diluted passages let the brown-gray underpainting show through. The left edge is dark and heavy; the pale seated form catches the eye among scattered angular marks. Negative space around the doorway creates a sense of abandoned scale. Light is diffuse and dusty, with no sharp beam or polished metal glare. The whole image feels like a remembered industrial interior, materially rough and incomplete, yet the bowed pose and nearby small companion remain clearly legible. There is no text or decorative border.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "df475d062ea7ea9de44db6078bcbc6a9b5adc23d018dee0c7d5924883dbdf9a3",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

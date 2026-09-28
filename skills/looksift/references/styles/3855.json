@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A lone traveler walks away from the viewer along a rain-darkened wooden harbor walkway, holding a small case in each hand. The figure wears a long dark coat and a narrow brimmed hat, becoming an almost black silhouette against the pale mist at the end of the pier. Wet planks run forward beneath the feet and catch broken reflections of the coat and distant sky. A large moored boat enters from the right, its dark hull curving along the walkway, while the left side opens toward quiet water and a low, indistinct horizon. Bare rigging and sparse harbor structures register as faint vertical marks in the distance. The light is overcast and diffuse, brightest where sky meets water, so the figure and boat remain dense tonal anchors. The image has the look of an aged monochrome photograph with a warm sepia cast: soft focus, subtle grain, darkened corners, worn edges, and small scratches and stains across the print. Those imperfections are part of the visible surface, especially around the border and the bright sky. The framing is square, with a relatively small centered person and long perspective lines drawing the eye into the scene. Broad areas of pale atmosphere contrast with pooled black in the foreground. The result feels solitary and cinematic, with damp texture and distance carrying the mood more strongly than facial expression or narrative detail.",
+  "full_prompt_zh": "一位旅人背向观者，沿被雨水浸暗的木质港口栈道前行，双手各提一只小箱子。人物穿深色长外套、戴窄檐帽，在码头尽头的浅色雾气前几乎成为黑色剪影。湿木板从脚下向远处延伸，映出被打碎的外套倒影和天光。右侧有一艘停泊的大船切入画面，深色船壳沿栈道弯曲；左侧则敞向安静水面和低矮模糊的地平线。光秃的索具与稀疏港口设施在远处留下淡淡竖线。阴天漫射光在天空与水面相接处最亮，因此人物和船只成为浓重的明暗锚点。画面呈带温暖褐调的旧式黑白照片质感：略微柔焦、细颗粒、暗角、磨损的边缘，以及散布在照片表面的微小划痕和污渍。这些瑕疵是可见表面的一部分，在边框和明亮天空附近尤为明显。方形构图里，人物相对较小，位于中心，长长的透视线把视线引入景深。大面积浅色空气感与前景积聚的黑色相对照。成品显得孤独而有电影感，潮湿肌理和距离比面部表情或具体情节更能传递情绪。",
+  "style_prompt_en": "An antique monochrome photographic look with a restrained warm sepia cast, soft focus, fine grain, and broad atmospheric tonal transitions. Diffuse pale light dissolves distant forms while foreground shapes remain dense and nearly black. Long perspective lines create quiet depth in a square frame, with a small focal silhouette set against luminous open space. Wet or reflective passages introduce broken highlights and dark pools. Irregular scratches, stains, edge wear, and vignette are visible as part of a physical print surface, giving the image a weathered archival feel. The composition is sparse and contemplative, allowing distance, texture, and tonal contrast to carry the emotion.",
+  "style_prompt_zh": "带有克制暖褐色调的旧式黑白摄影质感，略微柔焦、细颗粒，并以宽缓的明暗过渡营造空气感。浅淡的漫射光使远处形态逐渐消融，前景则保留近黑的浓重块面。方形画幅中，长透视线建立安静的纵深，小尺度视觉中心衬在明亮开阔的空间前。潮湿或反光的区域呈现破碎高光与深色积影。不规则划痕、污渍、边缘磨损和暗角作为实体照片的表面痕迹可见，形成受岁月侵蚀的档案感。构图稀疏而沉思，主要由距离、肌理和明暗对比传递情绪。",
+  "theme_en": "A lone traveler carrying two cases down a wet harbor walkway",
+  "theme_zh": "一位旅人提着两只箱子独自走过湿漉漉的港口栈道",
+  "wh_ratio": "1:1",
+  "id": "3855",
+  "name": "Alex Timmermans",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/alex-timmermans",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "0a47fbac73e066f9a4b9e6c3f58a10669ab8b45d5bc0cf1d5bc78125af2dcc58",
+    "gpt_submission_prompt": "A lone traveler walks away from the viewer along a rain-darkened wooden harbor walkway, holding a small case in each hand. The figure wears a long dark coat and a narrow brimmed hat, becoming an almost black silhouette against the pale mist at the end of the pier. Wet planks run forward beneath the feet and catch broken reflections of the coat and distant sky. A large moored boat enters from the right, its dark hull curving along the walkway, while the left side opens toward quiet water and a low, indistinct horizon. Bare rigging and sparse harbor structures register as faint vertical marks in the distance. The light is overcast and diffuse, brightest where sky meets water, so the figure and boat remain dense tonal anchors. The image has the look of an aged monochrome photograph with a warm sepia cast: soft focus, subtle grain, darkened corners, worn edges, and small scratches and stains across the print. Those imperfections are part of the visible surface, especially around the border and the bright sky. The framing is square, with a relatively small centered person and long perspective lines drawing the eye into the scene. Broad areas of pale atmosphere contrast with pooled black in the foreground. The result feels solitary and cinematic, with damp texture and distance carrying the mood more strongly than facial expression or narrative detail.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "74b79f741d43ede4c549bcab5f262f4bb4feec86d29037de918c612f215b808d",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

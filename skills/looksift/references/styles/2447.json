@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square photograph presents a small handmade relief portrait mounted against a plain pale gray wall. The artwork sits in the center with generous blank space around its uneven rectangular edge. A frontal head and shoulders project from the shallow panel. The face is dark brown and black with two oversized circular eyes, each ringed by thick raised material and marked by a small pale center. A broad nose, large ears, and a white oval mouth are simplified into strongly readable shapes. On top, a black crown-shaped hat has three rounded points and a dusty red band. The shoulders and chest form a dark jacket around a narrow pale shirt collar and a warm ochre central strip. Behind the head, the panel's side borders show rough red, gold, and brown patches, while the inner background is a muted blue-gray. Small square fastener-like marks appear near the upper corners. The handmade surface is visibly thick, lumpy, and granular, with uneven paint and worn edges rather than smooth molded perfection. Side lighting from above left makes the protruding eyes, nose, hat, and collar cast modest relief shadows onto the panel. The white wall remains evenly lit and free of objects or readable labels, isolating the material qualities of the piece. Colors are earthy and direct, with red and white accents breaking the dense dark face. The overall composition is simple but striking, using exaggerated features, tactile construction, and the clean surrounding wall to give the small object strong presence.",
+  "full_prompt_zh": "这幅方形照片呈现一件小型手工浮雕肖像，挂在简单浅灰墙面上。作品居中，凹凸矩形边缘周围留下宽裕空白。一个正面头像和双肩从浅板面上凸起。脸呈深棕和黑色，有两只夸张的大圆眼，每只被厚厚的凸起材料围住，中间有小浅色眼点。宽鼻、大耳和白色椭圆嘴被简化成极易辨认的形状。上方黑色冠形帽有三个圆角尖部及一圈灰红色帽带。肩与胸构成深色外套，围住细窄浅色衬衣领与暖赭色中央色条。头像后面，板面侧边有粗糙红、金和棕色斑块，内部底色是柔和蓝灰。上方两个角附近有小方形、像固定件的痕迹。手工表面明显厚实、凹凸且带颗粒，颜料不均、边缘磨旧，而非光滑模制品。来自左上方的侧光使突出的眼、鼻、帽和领口向板面投下适度浮雕阴影。白墙受到均匀照明，没有物件或可读标签，将作品的材料性质独立展示。色彩土质而直接，红和白点缀打断浓密深色脸。整体构图简单却醒目，以夸张五官、可触结构及干净的周围墙面，赋予小物件强烈存在感。",
+  "style_prompt_en": "Handmade relief art favors blunt simplified shapes, raised uneven surfaces, and dense earthy pigment. Charcoal brown, ochre, muted blue-gray, and dusty red form a direct palette, with small ivory accents clarifying focal features. Rough edges, lumpy paint, and granular wear remain visible instead of being polished away. Light from one upper side creates shallow cast shadows that reveal the object's physical thickness. The composition isolates a compact frontal form against generous pale negative space, making its tactile irregularity the main visual event. The effect is immediate, eccentric, and materially honest.",
+  "style_prompt_zh": "手工浮雕艺术偏重直接简化的形状、凸起不平的表面和浓密土色颜料。炭棕、赭黄、柔和蓝灰和灰红形成直率色盘，小块象牙白强调使焦点结构更清楚。粗边、凸凹颜料和颗粒磨痕清晰可见，没有被磨平。来自上方一侧的光产生浅投影，显露物件实际厚度。构图把紧凑正面形体置于宽裕浅色负空间前，让可触的不规则性成为主要视觉事件。效果直接、奇异且忠于材料。",
+  "theme_en": "A small rough relief portrait with large round eyes and a crown-shaped hat",
+  "theme_zh": "一件有大圆眼和冠形帽的粗糙小型浮雕肖像",
+  "wh_ratio": "1:1",
+  "id": "2447",
+  "name": "Outsider art",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/outsider-art",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/outsider-art.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "d96f51832a0c803f98c8c0d30e719a565976d215b8b17355aa2b545778567f5c",
+    "gpt_submission_prompt": "A square photograph presents a small handmade relief portrait mounted against a plain pale gray wall. The artwork sits in the center with generous blank space around its uneven rectangular edge. A frontal head and shoulders project from the shallow panel. The face is dark brown and black with two oversized circular eyes, each ringed by thick raised material and marked by a small pale center. A broad nose, large ears, and a white oval mouth are simplified into strongly readable shapes. On top, a black crown-shaped hat has three rounded points and a dusty red band. The shoulders and chest form a dark jacket around a narrow pale shirt collar and a warm ochre central strip. Behind the head, the panel's side borders show rough red, gold, and brown patches, while the inner background is a muted blue-gray. Small square fastener-like marks appear near the upper corners. The handmade surface is visibly thick, lumpy, and granular, with uneven paint and worn edges rather than smooth molded perfection. Side lighting from above left makes the protruding eyes, nose, hat, and collar cast modest relief shadows onto the panel. The white wall remains evenly lit and free of objects or readable labels, isolating the material qualities of the piece. Colors are earthy and direct, with red and white accents breaking the dense dark face. The overall composition is simple but striking, using exaggerated features, tactile construction, and the clean surrounding wall to give the small object strong presence.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "c362ef91e9beb5b12633846c36f418e420bca34d9d4ad236eb2658f3abaee524",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

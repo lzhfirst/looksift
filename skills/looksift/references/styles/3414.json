@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square storybook digital painting shows a cluster of tall crooked houses rising from a dark waterfront at night. The nearest building stands left of center, with a narrow blue roof, yellow walls and several warm lit windows. More uneven towers recede behind it into turquoise mist, their small windows scattered like floating lanterns. A narrow bridge or walkway crosses the lower right toward the buildings, and steps descend at the lower left. Bare thin trees stand at the right edge, their trunks disappearing into the dark sky. The upper background glows an eerie teal, with tiny stars or drifting specks visible in the haze. Warm amber lights are concentrated inside windows and near doorways, drawing the eye through the vertical maze. Architecture is whimsical rather than regular: roofs tilt, walls taper and chimneys interrupt the skyline. Textured brushes and mottled grain soften the edges of masonry and mist, while the lit apertures remain crisp. Light comes both from the cool atmospheric glow above and the warmer windows within, leaving the foreground water and bridge in deep shadow. The composition feels densely built but spacious in its receding layers. It has a quiet, enchanted nighttime mood, combining uncertain scale, crooked silhouettes and many small points of human warmth.",
+  "full_prompt_zh": "这幅方形故事书数字绘画呈现一簇高而歪斜的房子从夜间深水岸升起。最近建筑位于中央偏左，屋顶窄蓝，墙面发黄，几扇窗透暖光。更多不平整塔楼退入青绿雾中，小窗像漂浮灯笼般散布。一条窄桥或步道从右下横向建筑，左下台阶向下延伸。右边缘立着细裸树，树干消失在暗天空。上方背景透出奇异青绿光，雾中可见细小星点或漂浮斑点。暖琥珀光主要聚在窗与门附近，引导视线穿过竖向迷宫。建筑奇趣而不规则：屋顶倾斜，墙体收窄，烟囱打断天际。带纹理笔刷和斑驳颗粒柔化砌面与雾缘，受光开口仍清脆。光既来自上方冷空气亮度，也来自内部暖窗，前景水与桥仍在深影。构图建造密集，却因层层后退而宽敞。它有安静迷人的夜间气息，把不确定尺度、歪斜剪影和许多细小人间暖点结合。",
+  "style_prompt_en": "The storybook digital painting layers crooked vertical silhouettes into deep teal mist. Cool turquoise and charcoal hold most of the frame, while many small amber apertures create a scattered rhythm of warmth. Grainy brushed texture lets distant edges dissolve, but bright tiny openings remain crisp. Light comes from both a diffuse upper glow and local points within the darker masses. Dense foreground detail gives way to spacious hazy depth, creating an enchanted, quiet atmosphere.",
+  "style_prompt_zh": "这种故事书数字绘画把歪斜竖向剪影层叠进深青绿雾。冷青绿与炭色占大部分画面，许多小琥珀开口形成散落暖节奏。颗粒刷纹让远处边缘消散，细小明亮开口仍清脆。光同时来自上方漫亮和暗体量内的局部点。密集前景细节逐渐走向宽裕雾深，创造迷人安静的空气。",
+  "theme_en": "A crooked village of glowing towers in a teal night",
+  "theme_zh": "青绿色夜色中发光的歪斜塔楼村",
+  "wh_ratio": "1:1",
+  "id": "3414",
+  "name": "Alexander Jansson",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/alexander-jansson",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "1a9f76aa096a631797bd3a1c1fb9279841870f39665d3337d957cfdf09fa5c59",
+    "gpt_submission_prompt": "A square storybook digital painting shows a cluster of tall crooked houses rising from a dark waterfront at night. The nearest building stands left of center, with a narrow blue roof, yellow walls and several warm lit windows. More uneven towers recede behind it into turquoise mist, their small windows scattered like floating lanterns. A narrow bridge or walkway crosses the lower right toward the buildings, and steps descend at the lower left. Bare thin trees stand at the right edge, their trunks disappearing into the dark sky. The upper background glows an eerie teal, with tiny stars or drifting specks visible in the haze. Warm amber lights are concentrated inside windows and near doorways, drawing the eye through the vertical maze. Architecture is whimsical rather than regular: roofs tilt, walls taper and chimneys interrupt the skyline. Textured brushes and mottled grain soften the edges of masonry and mist, while the lit apertures remain crisp. Light comes both from the cool atmospheric glow above and the warmer windows within, leaving the foreground water and bridge in deep shadow. The composition feels densely built but spacious in its receding layers. It has a quiet, enchanted nighttime mood, combining uncertain scale, crooked silhouettes and many small points of human warmth.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "d2f16359a573966fe059592950876b1c740ffbb328a8bbdd3721663337650a22",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

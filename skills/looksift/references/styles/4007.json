@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white pinhole photograph looks straight along a weathered wooden walkway toward a dazzling horizon by the water. Dark boards begin broad at the bottom edge, their seams converging toward a small bright opening near the center. On either side, low water or wet ground reflects the light, while a modest building sits to the right and a leafless tree rises left of center. A few tiny upright silhouettes appear near the end of the path. The scene is wrapped in an extreme circular vignette: the corners fall into near black, and the bright sky swells into a luminous rounded field. Long exposure and the small aperture create unusual softness and radial streaks around the center, so branches and architectural edges stretch gently into the glare. The wide perspective bends the surroundings, making the narrow path feel like a tunnel through light. The contrast is strongest at the lower boards and outer dark ring; the middle distance is silver, hazy, and almost washed out. The camera is fixed and low, emphasizing the board texture and its directional lines. Dust-like specks and imperfect tonal transitions add the handmade quality of an experimental camera. The image feels quiet, dreamlike, and spatially distorted, without visible text or a decorative frame.",
+  "full_prompt_zh": "一幅方形黑白针孔照片直视一条磨旧木板路，它通向水边耀眼的地平线。深色板面从底边宽阔展开，接缝向中央附近一个小而明亮的开口汇聚。两侧低水面或湿地反射光，右边有一座朴素小建筑，中央偏左立着一棵无叶树。小径尽头有几个微小直立剪影。场景被极强圆形暗角包住：四角近乎全黑，明亮天空膨胀成发光圆场。长曝光与小孔径在中心周围造成异常柔化和放射痕，使树枝与建筑边缘向眩光轻轻拉伸。宽广透视弯曲四周，让窄路像穿越光的隧道。反差在下方板面和外圈黑影最强；中景银亮、朦胧，近乎洗白。相机固定且机位低，强调木板肌理及其导向线。尘点般颗粒与不完美色阶过渡增添实验相机的手工质感。画面安静、梦幻、空间扭曲，没有可见文字或装饰边框。",
+  "style_prompt_en": "Experimental pinhole photography in monochrome, with an extreme circular vignette, stretched wide-angle perspective, and soft radial bloom around a brilliant center. Near surfaces carry dark tactile detail while distance washes into silver haze. Long-exposure blur, gentle distortion, dust specks, and imperfect tonal transitions give the frame a handmade, dreamlike character. Strong converging lines guide the eye through darkness toward light.",
+  "style_prompt_zh": "单色实验针孔摄影具有极强圆形暗角、拉伸的广角透视和明亮中心周围柔和放射辉光。近处表面带深色触感细节，远处洗入银色薄雾。长曝光模糊、轻度畸变、尘点与不完美色阶过渡赋予画幅手工梦幻性。强烈汇聚线引导视线穿过暗处通向亮处。",
+  "theme_en": "A wooden path leading toward brilliant water and sky",
+  "theme_zh": "通向明亮水面与天空的木板小径",
+  "wh_ratio": "1:1",
+  "id": "4007",
+  "name": "Pinhole photography",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/pinhole-photography.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "954367d6885c6b7452b21a3c764246a3490f702518ff91efa28b6f598dd31563",
+    "gpt_submission_prompt": "A square black-and-white pinhole photograph looks straight along a weathered wooden walkway toward a dazzling horizon by the water. Dark boards begin broad at the bottom edge, their seams converging toward a small bright opening near the center. On either side, low water or wet ground reflects the light, while a modest building sits to the right and a leafless tree rises left of center. A few tiny upright silhouettes appear near the end of the path. The scene is wrapped in an extreme circular vignette: the corners fall into near black, and the bright sky swells into a luminous rounded field. Long exposure and the small aperture create unusual softness and radial streaks around the center, so branches and architectural edges stretch gently into the glare. The wide perspective bends the surroundings, making the narrow path feel like a tunnel through light. The contrast is strongest at the lower boards and outer dark ring; the middle distance is silver, hazy, and almost washed out. The camera is fixed and low, emphasizing the board texture and its directional lines. Dust-like specks and imperfect tonal transitions add the handmade quality of an experimental camera. The image feels quiet, dreamlike, and spatially distorted, without visible text or a decorative frame.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "2610dba487a89aa55b8a098f0630ea2549d128ed2b7337b1fcb41f9318f3c892",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

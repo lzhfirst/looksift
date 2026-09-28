@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white landscape photograph shows a lone broad-canopied tree on a low horizon beneath a huge storm cloud. The tree stands just left of center at the end of a wet stone path, its thin trunk branching into a wide dark lace of foliage. A tiny upright person stands to its right near the horizon, separated by a small interval of pale sky. The foreground path runs from the bottom edge toward the tree, built from rectangular paving stones whose damp surfaces catch silver light and dark seams. A low wall borders the left side; a higher dark masonry wall rises at the right and cuts into the pale horizon. Above, an immense cloud fills the upper two thirds. Its lower body is nearly black and spreads horizontally over the tree like a heavy canopy, while a bright white billow lifts at the upper center-right. Softer gray cloud layers surround it, and pale open sky survives near the far edges. The tree's crown echoes the cloud's shape on a much smaller scale. Light is diffuse and backlit: the sky and bright cloud rim illuminate the wet path, while the tree and figure remain dark silhouettes. Fine photographic grain and strong cloud texture are visible, but the ground and walls are more sharply structured. The centered path, tiny person, and isolated tree create a strong sense of scale against the weather. The scene feels still and ominous, with the low human presence dwarfed by the turbulent sky.",
+  "full_prompt_zh": "一幅方形黑白风景摄影呈现低地平线上一棵宽冠孤树，头顶压着巨大的暴风云。树立在潮湿石路尽头中央偏左，细树干分叉成宽阔深色镂空叶冠。一个极小直立人影站在树右侧地平线附近，两者之间隔着一点浅天空。前景道路从下缘通向树，由长方形铺石组成，湿面接住银灰光，接缝深暗。左侧低墙沿路延伸；右侧更高深色石墙升起，切入浅地平线。上方庞大云体填满上部三分之二。下部云身近黑，在树上方水平铺开，像沉重树冠；上部中央偏右有一团明白云隆起。周围是较软灰云层，远边仍留浅色开天。树冠以小得多的尺度呼应云形。光漫散而逆光：天空与明亮云缘照亮湿石路，树和人影保持深剪影。细摄影颗粒和强烈云肌理可见，地面与墙却有更清楚结构。居中的路、极小人物和孤树在天气面前建立强尺度。场景静止而不祥，低处人影被翻涌天空压得渺小。",
+  "style_prompt_en": "A monochrome landscape photograph builds a dramatic scale contrast between one vast cloudlike upper mass and a small dark branching silhouette near a low horizon. Dense charcoal tones spread horizontally below a bright textured white billow, leaving only narrow bands of pale open gray. Wet rectangular planes in the lower region catch broken silver reflections and lead inward through dark seams. One side is framed by a solid near-black vertical plane; the other stays lower and more open. Backlight turns miniature accents into silhouettes, while diffuse sky light describes the damp foreground. Fine photographic grain and richly modulated clouds contrast with the firmer geometry below. The composition has a slow central pull and a heavy overhead weight, creating stillness with latent weather-driven tension.",
+  "style_prompt_zh": "单色风景摄影在近地平线的小小深色分叉剪影与巨大上部云状团块之间建立戏剧性尺度对比。浓炭灰色在有纹理明白云团下水平铺开，只留狭窄浅灰开放带。下部潮湿矩形平面接住破碎银光，深缝把视线向内引。一侧由实心近黑竖面围住，另一侧更低、更开阔。逆光把微小重音压成剪影，漫射天光则描出潮湿前景。细摄影颗粒和层次丰厚的云，对照下方更坚实的几何。构图有缓慢中央牵引和沉重头顶重量，在静止中保留天气将变的张力。",
+  "theme_en": "A lone tree and small figure beneath a towering storm cloud",
+  "theme_zh": "巨大暴风云下的一棵孤树和小小人影",
+  "wh_ratio": "1:1",
+  "id": "2239",
+  "name": "Minor Martin White",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/minor-martin-white",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/minor-martin-white.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "495917a21faad33912a20214cc448a6ddf3276e54188f05bba36531edf440998",
+    "gpt_submission_prompt": "A square black-and-white landscape photograph shows a lone broad-canopied tree on a low horizon beneath a huge storm cloud. The tree stands just left of center at the end of a wet stone path, its thin trunk branching into a wide dark lace of foliage. A tiny upright person stands to its right near the horizon, separated by a small interval of pale sky. The foreground path runs from the bottom edge toward the tree, built from rectangular paving stones whose damp surfaces catch silver light and dark seams. A low wall borders the left side; a higher dark masonry wall rises at the right and cuts into the pale horizon. Above, an immense cloud fills the upper two thirds. Its lower body is nearly black and spreads horizontally over the tree like a heavy canopy, while a bright white billow lifts at the upper center-right. Softer gray cloud layers surround it, and pale open sky survives near the far edges. The tree's crown echoes the cloud's shape on a much smaller scale. Light is diffuse and backlit: the sky and bright cloud rim illuminate the wet path, while the tree and figure remain dark silhouettes. Fine photographic grain and strong cloud texture are visible, but the ground and walls are more sharply structured. The centered path, tiny person, and isolated tree create a strong sense of scale against the weather. The scene feels still and ominous, with the low human presence dwarfed by the turbulent sky.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "3569e60d58a65c4d568adf13948a33585669310dca5803286307f56e13dc4e62",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "This is a square, high-energy ink-and-paint portrait of a young woman in a dark cap against a salmon-pink graphic background. Her face fills most of the frame in a three-quarter view, turned toward the left while one pale blue-gray eye looks outward. Loose black and pale pink hair strands sweep across the cheeks and around the cap brim. A hand rises from the lower left, with fingers resting near the lips, giving the close crop a thoughtful pause. Red circular goggle-like details sit along the top edge of the dark headwear, partly cut by the frame. Black ink defines the strong eyebrow, nose, mouth, fingers, and neck in thick broken strokes; pale cream areas remain almost unpainted, allowing the paper to act as light on the face. Behind her, pink and orange-red blocks, angular lines, scrawled black marks, and a few drips create an urban collage. The fragments are decorative rather than readable words. Light is presented graphically: large pale facial planes oppose broad black shadow shapes, with little smooth tonal modeling. Rough paint scratches, spattered dots, and transparent pink washes sit over and under the line drawing. The jaw and hand are sharp enough to hold attention, while hair and background marks break apart near the edges. The overall composition is cropped, restless, and expressive, balancing a quiet hand gesture with raw black line and loud warm color.",
+  "full_prompt_zh": "这是一幅方形、充满能量的墨线与颜料肖像，一名年轻女子戴深色帽，身后是鲑粉色图形背景。她的脸以三分之二侧面填满大部分画面，向左转，一只浅蓝灰眼睛却朝外看去。松散黑发与浅粉发丝掠过脸颊，绕着帽檐散开。一只手从左下升起，手指停在唇旁，让紧凑取景有了沉思片刻。深色头饰上缘有红色圆形护目镜般细节，被画框部分切断。黑墨以粗而破碎的笔划界定浓眉、鼻子、嘴、手指与颈部；浅奶油色区域几乎不涂色，让纸张成为面部亮光。身后，粉色和橙红色块、棱角线条、涂写黑痕和少许滴流组成城市感拼贴。这些碎片是装饰，并非可读文字。光以图形方式呈现：大块浅色面部平面与宽阔黑影形状相对，几乎没有平顺明暗塑形。粗颜料刮痕、飞溅点和透明粉色洗叠在素描线之上与之下。下颌和手足够清晰，维持注意力，头发与背景笔痕则在边缘碎开。整体构图裁切紧凑、躁动而富表现力，以安静手势平衡生猛黑线和响亮暖色。",
+  "style_prompt_en": "The ink-and-paint treatment opposes broad off-white planes to jagged black marks and warm salmon, coral, and hot pink blocks. Thick contours break into scratches, drips, and fine scrawl, keeping edges unstable without losing the main silhouette. Color is applied as flat fields and translucent stains rather than smooth realism. Small cool accents sharpen the warm palette. Graphic light comes from the paper left visible between dark strokes; shadow is a deliberate black shape. Layers of printlike marks and scraped pigment add urban grit around the clearer focal region. Close cropping lets forms continue beyond the frame. The overall effect is bold, restless, and tactile, with a comiclike clarity inside improvised surface noise.",
+  "style_prompt_zh": "这种墨线与颜料处理让宽阔米白平面与参差黑痕、暖鲑色、珊瑚色及艳粉色块相对。粗轮廓碎成刮痕、滴流和细涂写，使边缘不稳定，却不损失主要剪影。颜色作为平面色域与透明渍痕施加，而非平顺写实。少量冷色强调锐化暖色配色。图形化光亮来自深笔之间裸露的纸面；阴影是有意画出的黑形。印刷般标记与刮擦颜料层在较清楚的焦点区域周围增添城市粗砺感。贴近裁切让形体延伸到画框之外。整体效果大胆、躁动而有触感，随性表面噪声中保有漫画般清晰度。",
+  "theme_en": "A young woman in a dark cap with a hand near her mouth against a pink graphic background",
+  "theme_zh": "一名戴深色帽的年轻女子把手放在嘴边，身后是粉色图形背景",
+  "wh_ratio": "1:1",
+  "id": "3075",
+  "name": "Jim Mahfood",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/jim-mahfood",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "98b672c06e65167a755c231c3799440cb2d39bf756fb106c34e8f29c8a93322b",
+    "gpt_submission_prompt": "This is a square, high-energy ink-and-paint portrait of a young woman in a dark cap against a salmon-pink graphic background. Her face fills most of the frame in a three-quarter view, turned toward the left while one pale blue-gray eye looks outward. Loose black and pale pink hair strands sweep across the cheeks and around the cap brim. A hand rises from the lower left, with fingers resting near the lips, giving the close crop a thoughtful pause. Red circular goggle-like details sit along the top edge of the dark headwear, partly cut by the frame. Black ink defines the strong eyebrow, nose, mouth, fingers, and neck in thick broken strokes; pale cream areas remain almost unpainted, allowing the paper to act as light on the face. Behind her, pink and orange-red blocks, angular lines, scrawled black marks, and a few drips create an urban collage. The fragments are decorative rather than readable words. Light is presented graphically: large pale facial planes oppose broad black shadow shapes, with little smooth tonal modeling. Rough paint scratches, spattered dots, and transparent pink washes sit over and under the line drawing. The jaw and hand are sharp enough to hold attention, while hair and background marks break apart near the edges. The overall composition is cropped, restless, and expressive, balancing a quiet hand gesture with raw black line and loud warm color.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "af72138dd77933f47884e57b294a24008549a9e375576bfac8fe49f9e993774d",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

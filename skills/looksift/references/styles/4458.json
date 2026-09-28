@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white long-exposure photograph looks along a jagged rock breakwater toward a narrow pier extending far out over calm water. Large dark angular rocks fill the lower foreground and lead the eye from center toward a small roofed pavilion near the left of the horizon. From that pavilion, the pier continues horizontally to the right edge, its slim railings repeating in an orderly line. The sea is rendered nearly smooth by long exposure, with faint gray bands but no distinct waves. Above, an enormous luminous area opens in the heavy cloud cover, fading toward darker charcoal corners. The horizon sits low, giving the sky more than half the image. The pavilion and pier remain crisp black silhouettes against the brighter water and horizon haze. A slight vignette deepens the upper corners and the rocks, while the center glows silver. No people or readable signs are visible. The camera's viewpoint is low enough that the boulders feel massive and rough, yet distant enough to show the pier's complete length. The picture feels still, austere, and meditative; detailed stone texture anchors the foreground while water and cloud melt into soft tonal gradients.",
+  "full_prompt_zh": "一张方形黑白长曝光照片沿锯齿般石质防波堤望向伸出平静海面的狭窄栈桥。大块深色棱角岩石填满下方前景，引导目光从中央走向地平线左侧附近的小型带顶亭。栈桥由亭子继续水平延伸至右边缘，纤细栏杆排成有序重复线。海面被长曝光化得近乎平滑，只有淡灰色带，没有清楚浪花。上方厚云中打开巨大亮区，向更暗的炭灰角落渐隐。地平线低，使天空占据半幅以上。小亭和栈桥在较亮的水面与地平线薄雾前呈清楚黑剪影。轻微晕影压深上角与岩石，中央则发银光。没有人物或可读标识。相机视角够低，让巨石显得庞大粗糙，同时又够远，呈现栈桥全长。图像静止、冷峻且冥想；细致石纹稳定前景，水与云则融入柔和调子渐层。",
+  "style_prompt_en": "Minimal black-and-white long-exposure photography with rough dark foreground texture, a thin crisp horizontal structure, and vast silver-gray atmospheric gradients. Smooth water dissolves wave motion while cloud light blooms softly around a low horizon. A restrained vignette and strong silhouette hierarchy hold the composition. Fine stone detail contrasts with the almost featureless luminous field.",
+  "style_prompt_zh": "极简黑白长曝光摄影，以粗糙深前景肌理、纤细清楚的水平结构和巨大银灰空气渐层组织。平滑水面消解浪的运动，云光在低地平线周围柔和绽开。克制晕影与明确剪影层级稳定构图。细石纹对照近乎无特征的发亮场域。",
+  "theme_en": "A long pier over a motionless sea under a glowing gray sky",
+  "theme_zh": "一座长栈桥伸向静止海面与发亮灰天",
+  "wh_ratio": "1:1",
+  "id": "4458",
+  "name": "Nathan Wirth",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/nathan-wirth.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "1fe33f65d1352dbe5c4b4d2ce9254b6c03e229c4e5276250c31ca94c3868a6c3",
+    "gpt_submission_prompt": "A square black-and-white long-exposure photograph looks along a jagged rock breakwater toward a narrow pier extending far out over calm water. Large dark angular rocks fill the lower foreground and lead the eye from center toward a small roofed pavilion near the left of the horizon. From that pavilion, the pier continues horizontally to the right edge, its slim railings repeating in an orderly line. The sea is rendered nearly smooth by long exposure, with faint gray bands but no distinct waves. Above, an enormous luminous area opens in the heavy cloud cover, fading toward darker charcoal corners. The horizon sits low, giving the sky more than half the image. The pavilion and pier remain crisp black silhouettes against the brighter water and horizon haze. A slight vignette deepens the upper corners and the rocks, while the center glows silver. No people or readable signs are visible. The camera's viewpoint is low enough that the boulders feel massive and rough, yet distant enough to show the pier's complete length. The picture feels still, austere, and meditative; detailed stone texture anchors the foreground while water and cloud melt into soft tonal gradients.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "3333b88534c0b5e8740d0ac2044e5f3c5ab9cea7397ad625fe2aedc93019f15a",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

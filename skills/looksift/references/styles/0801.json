@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square Mannerist-style oil painting places two young women close together against a nearly black ground. The left woman wears a vivid crimson head covering and garment; her face tilts down as she holds her hands near her mouth. The right woman has golden hair partly wrapped in green cloth and wears a dark green dress; one finger rests against her lower lip, and her eyes are lowered. Their pale faces and hands form a chain of delicate light areas amid deep red, green, and brown folds. The figures overlap tightly, with elongated necks, narrow fingers, and softly idealized features. The left edge contains a shadowy third form, almost absorbed by darkness. Paint is smooth on skin, with subtle cream-to-rose modeling, while fabric folds are heavier and more sculptural. Warm light comes from the upper left, brightening foreheads, noses, hands, and hair, then falling rapidly into dark recesses between bodies. The square is crowded at the top and sides, heightening the inward and private mood. There is no described setting, so the gestures and quiet expressions carry the scene. The overall composition feels solemn, theatrical, and emotionally restrained, using close grouping and deep contrast to create a contemplative human drama.",
+  "full_prompt_zh": "一幅方形风格主义油画把两位年轻女子贴近放在近黑底色前。左边女子戴鲜深红头巾、穿红衣；脸低垂，双手靠近嘴。右边女子有金发，部分被绿布包住，穿深绿衣；一根手指贴在下唇，双眼下垂。浅色脸与手在深红、绿和棕褶中形成连续细亮区。人物紧密重叠，颈拉长、指纤细，五官柔和理想化。左边缘还有一道阴影中第三形体，几乎被黑暗吸收。皮肤颜料平滑，从奶油到玫瑰色细微塑形，布褶则较厚重、雕塑化。暖光从左上来，提亮额、鼻、手和发，然后迅速落入身体间深凹处。方幅上与两侧拥挤，加强内向私密气氛。没有描述的环境，因此手势和安静表情承担场景。整体庄严、戏剧化而情绪克制，以贴近组合和深对比创造沉思的人间戏剧。",
+  "style_prompt_en": "Mannerist oil painting uses elongated graceful forms, close grouping, and deep tenebrist contrast. Crimson, dark green, warm gold, cream, and brown-black create a narrow rich palette. Smooth pale modeling on focal planes contrasts with heavier sculptural fabric folds. Warm upper-side light touches a sequence of small exposed surfaces before they merge into shadow. Overlapping forms compress space, while lost outer edges remove environmental context. Gestures remain poised and inward. The finish is solemn, theatrical, and restrained, with beauty shaped by controlled distortion and dark intimacy.",
+  "style_prompt_zh": "风格主义油画运用拉长的优雅形体、贴近组合与深明暗对照。深红、深绿、暖金、奶油和棕黑构成窄而丰厚的配色。焦点平面的平滑浅色塑形对照较厚重雕塑般布褶。暖上侧光依次触及少量暴露表面，随后它们并入阴影。重叠形体压缩空间，消失外缘移除环境语境。手势端正而内向。完成面庄严、戏剧化且克制，以受控变形和暗中亲密塑造美。",
+  "theme_en": "Two women in red and green with thoughtful downturned faces",
+  "theme_zh": "两位着红绿衣、垂首沉思的女子",
+  "wh_ratio": "1:1",
+  "id": "0801",
+  "name": "Rosso Fiorentino",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/rosso-fiorentino",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/rosso-fiorentino.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "925bd4b1127218701c248857816716eb754ada6a3f98cfd30a213d685cd57364",
+    "gpt_submission_prompt": "A square Mannerist-style oil painting places two young women close together against a nearly black ground. The left woman wears a vivid crimson head covering and garment; her face tilts down as she holds her hands near her mouth. The right woman has golden hair partly wrapped in green cloth and wears a dark green dress; one finger rests against her lower lip, and her eyes are lowered. Their pale faces and hands form a chain of delicate light areas amid deep red, green, and brown folds. The figures overlap tightly, with elongated necks, narrow fingers, and softly idealized features. The left edge contains a shadowy third form, almost absorbed by darkness. Paint is smooth on skin, with subtle cream-to-rose modeling, while fabric folds are heavier and more sculptural. Warm light comes from the upper left, brightening foreheads, noses, hands, and hair, then falling rapidly into dark recesses between bodies. The square is crowded at the top and sides, heightening the inward and private mood. There is no described setting, so the gestures and quiet expressions carry the scene. The overall composition feels solemn, theatrical, and emotionally restrained, using close grouping and deep contrast to create a contemplative human drama.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "5f087aac3ce8cd1aff7b078bc5ff9c84e24bee2102cb06bdc5f1cb310df9d9ca",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

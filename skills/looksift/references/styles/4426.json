@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square minimalist photograph shows a lone person standing in a foggy field while carrying a huge bundle of pale pink blossoms on the back. The flower mass is larger than the person's upper body and forms a rounded, textured crown above a plain beige jacket and trousers. The figure stands near the center, facing the camera, but the face is partly hidden by the carried bundle and muted light. A narrow strip of uneven grass and a few stones occupy the bottom edge. Above and behind, dense gray-white mist erases nearly all horizon detail, leaving generous open space. The palette is restrained: warm taupe clothing, dusty rose flowers, subdued olive grass, and creamy fog. Light is flat and diffuse, with no strong shadow, so the scene feels suspended in quiet air. Fine photographic grain and natural softness preserve the physical texture of fabric, petals, and damp ground. The scale of the blossoms gives the ordinary act of carrying them a surreal visual weight, yet the pose remains matter-of-fact. The small human figure and vast empty background create a calm, almost dreamlike balance. The whole frame feels contemplative and slightly uncanny without staging or saturated color.",
+  "full_prompt_zh": "一幅方形极简摄影呈现一位独行者站在迷雾田野中，背上驮着一大团浅粉色花朵。花团比人物上半身更大，在朴素米色外套与长裤上方形成圆润而有肌理的冠状体。人物靠近中央，面朝相机，但面孔被所背花束和低调光线部分遮住。下缘是一条不平整草地与几块石头。更上方与后方，浓厚的灰白雾抹去几乎所有地平线细节，留下充裕的开放空间。配色克制：暖灰褐衣服、灰粉色花朵、低饱和橄榄绿草地和乳白雾气。光平而漫射，没有强影，使场景像悬在安静空气中。细微摄影颗粒和自然柔和感保留布料、花瓣与潮湿地面的物理肌理。花束的尺度使平常的搬运动作带有超现实视觉重量，但姿势仍平实自然。小人物与广阔空背景建立安静、近乎梦境的平衡。整幅画沉思且略带诡异，没有刻意舞台布置或饱和色。",
+  "style_prompt_en": "A minimalist fine-art photography style places one small textured focal form against an immense fog-softened field. Warm taupe, dusty rose, muted olive, and creamy gray remain low in saturation. Diffuse light removes hard shadow and compresses distant detail, leaving only a narrow strip of tactile foreground. An ordinary object can become quietly surreal through unexpected scale, while the pose or arrangement stays matter-of-fact. Fine grain, natural softness, and visible material texture keep the scene physical. The composition relies on generous negative space, a centered silhouette, and a very restrained horizon. Its mood is contemplative and suspended, not dramatic.",
+  "style_prompt_zh": "极简艺术摄影风格把一个有肌理的小型焦点形态置于被雾柔化的广阔场域中。暖灰褐、灰粉、低饱和橄榄绿和乳白灰都保持低饱和度。漫射光消除强影并压缩远方细节，只留一条有触感的窄前景。普通物体可通过出乎意料的尺度显得安静而超现实，姿态或布置仍保持平实。细微颗粒、自然柔和感和可见材质肌理让场景真实可触。构图依靠充裕负空间、居中剪影和极克制的地平线。情绪沉思、悬浮，而非戏剧化。",
+  "theme_en": "A lone person carrying a vast bundle of flowers through a foggy field",
+  "theme_zh": "一位独行者背着巨大的花束，走过迷雾田野",
+  "wh_ratio": "1:1",
+  "id": "4426",
+  "name": "Zhang Kechun",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/zhang-kechun.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "bf89a99c9fe92214a7594ab2483294c300283f95028eb471bf65b35f3bbf2735",
+    "gpt_submission_prompt": "A square minimalist photograph shows a lone person standing in a foggy field while carrying a huge bundle of pale pink blossoms on the back. The flower mass is larger than the person's upper body and forms a rounded, textured crown above a plain beige jacket and trousers. The figure stands near the center, facing the camera, but the face is partly hidden by the carried bundle and muted light. A narrow strip of uneven grass and a few stones occupy the bottom edge. Above and behind, dense gray-white mist erases nearly all horizon detail, leaving generous open space. The palette is restrained: warm taupe clothing, dusty rose flowers, subdued olive grass, and creamy fog. Light is flat and diffuse, with no strong shadow, so the scene feels suspended in quiet air. Fine photographic grain and natural softness preserve the physical texture of fabric, petals, and damp ground. The scale of the blossoms gives the ordinary act of carrying them a surreal visual weight, yet the pose remains matter-of-fact. The small human figure and vast empty background create a calm, almost dreamlike balance. The whole frame feels contemplative and slightly uncanny without staging or saturated color.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "0218833423307823fa6beaecee54bc4a90c049039dd8a89d366604920a498282",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

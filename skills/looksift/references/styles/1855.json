@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square comic-book illustration frames a dark-haired woman turning over her shoulder toward the viewer in a crowded, ornate interior. Her face occupies the center-left and is rendered with large alert eyes, dark lashes, a softly shaded nose, and parted coral lips. Black hair is gathered into a high, somewhat messy bun, with short fringe and loose strands near the cheeks. A bare shoulder enters from the lower left, while dark clothing slips across the upper arm. Behind her, several men stand at different depths. At far left, an older man with glasses is cropped by the frame; near the right, a bearded man in a pale coat looks toward the foreground. Their features are looser and smaller than hers. The room contains warm carved walls, high decorative panels, bright spherical lights, and a stair or doorway receding toward the right. Golden ocher illumination fills the upper background, contrasting with cooler olive shadows and the woman's pale warm skin. Crisp black contour lines define the face and hair, while dense crosshatching, color washes, and fine architectural marks layer the setting. Some background edges dissolve into busy texture instead of remaining fully resolved. The viewpoint is near the woman's eye level, and the close crop makes her sudden glance the focus amid the social clutter. The image has an illustrated cinematic quality, using a vivid near face against a complex but receding environment. It suggests a moment of attention without requiring a specific plot.",
+  "full_prompt_zh": "一幅方形漫画插画近景框住一名黑发女子，在拥挤、华丽的室内回头看向观众。面孔占据中央偏左，画有警觉大眼、深睫毛、柔阴影鼻子和微张珊瑚色嘴唇。黑发盘成高而略乱的髻，额前有短刘海，脸旁有散发。裸肩从左下进入，深色衣物滑过上臂。身后数名男子处于不同纵深。最左边一名戴眼镜的老人被画框截断；靠右一名穿浅衣的胡须男子望向前景。他们的五官比她更松、更小。房间有暖色雕花墙、高装饰面板、发亮球灯，以及向右退入的楼梯或门洞。金赭光填满上方背景，对照较冷橄榄阴影和女子的浅暖肤色。清晰黑轮廓界定面孔和头发，密集交叉排线、色洗和细建筑痕迹层叠环境。部分背景边缘溶入繁忙纹理，而不完全解出。视点接近女子眼睛高度，近景裁切使她突然的回望成为社交杂乱中的焦点。图像具有插画式电影质地，以鲜明近面孔对照复杂但退远的环境。它暗示注意力转移的一刻，无须特定故事情节。",
+  "style_prompt_en": "Color comic illustration combines a sharply modeled close focal form with crowded but softer narrative background detail. Clear black contours, crosshatching, layered washes, and small architectural marks create a textured surface. Warm gold and ocher light in the distance contrasts with olive shadow, pale skin, black hair, and one coral accent. Keep the near gaze precise while secondary faces and ornament recede through scale and looser edges. A slightly oblique eye-level crop gives cinematic immediacy without losing the richness of the setting.",
+  "style_prompt_zh": "彩色漫画插画把锐利塑形的近处焦点与拥挤却较柔的叙事背景细节结合。清楚黑轮廓、交叉排线、层叠色洗和细建筑标记构成有质地的表面。远处暖金与赭光对照橄榄阴影、浅肤、黑发及一处珊瑚重音。近处目光保持精确，次级面孔和纹饰则凭尺度与松边退远。略斜、视线同高的裁切赋予电影般即时感，同时保留环境丰厚度。",
+  "theme_en": "A dark-haired woman turning toward the viewer in a crowded ornate interior",
+  "theme_zh": "黑发女子在拥挤华丽室内转身看向观众",
+  "wh_ratio": "1:1",
+  "id": "1855",
+  "name": "Greg Rucka",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/greg-rucka",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/greg-rucka.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "b8c6daa66b42919db8929f89272b49ac3f1bbee1c98a0f24dfadcdc2f3780dd5",
+    "gpt_submission_prompt": "A square comic-book illustration frames a dark-haired woman turning over her shoulder toward the viewer in a crowded, ornate interior. Her face occupies the center-left and is rendered with large alert eyes, dark lashes, a softly shaded nose, and parted coral lips. Black hair is gathered into a high, somewhat messy bun, with short fringe and loose strands near the cheeks. A bare shoulder enters from the lower left, while dark clothing slips across the upper arm. Behind her, several men stand at different depths. At far left, an older man with glasses is cropped by the frame; near the right, a bearded man in a pale coat looks toward the foreground. Their features are looser and smaller than hers. The room contains warm carved walls, high decorative panels, bright spherical lights, and a stair or doorway receding toward the right. Golden ocher illumination fills the upper background, contrasting with cooler olive shadows and the woman's pale warm skin. Crisp black contour lines define the face and hair, while dense crosshatching, color washes, and fine architectural marks layer the setting. Some background edges dissolve into busy texture instead of remaining fully resolved. The viewpoint is near the woman's eye level, and the close crop makes her sudden glance the focus amid the social clutter. The image has an illustrated cinematic quality, using a vivid near face against a complex but receding environment. It suggests a moment of attention without requiring a specific plot.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "04a71de3adb9d510c0dc0e467c8066d63fb691be1769775f87c2da4a2d3128e1",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

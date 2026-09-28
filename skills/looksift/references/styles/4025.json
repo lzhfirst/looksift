@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white photograph looks steeply upward at the corner tower of a Gothic stone building. Its heavy lower masonry rises from the bottom center into a narrower openwork level of pointed arches, clustered columns, finials, and carved stone tracery. Dark side arcades frame the tower on both sides, their deep openings almost black. More of the building climbs behind in pale mist, so the uppermost details fade into a bright gray sky. The low viewpoint exaggerates vertical ascent and lets the tower's corner project toward the viewer. Weathered stone blocks show joints, chips, soot-darkened recesses, and fine relief around the arches. The light is flat and diffused by fog, yet the photograph keeps a strong tonal difference between lit stone faces and cavities. The framing is tight: some buttresses and upper forms run beyond the edges, making the facade feel larger than the square crop. Repeated pointed shapes and narrow vertical ribs create a rising rhythm; shadowed arches at the bottom give the eye a heavy starting point. The image has subtle grain, rich grays, and a slightly brooding historical atmosphere. It remains a direct photographic study rather than a drawn reconstruction. There are no people, captions, or decorative border.",
+  "full_prompt_zh": "一幅方形黑白照片陡然仰望哥特石建筑的转角塔。厚重下方砌石从底部中央升起，接向由尖拱、束柱、尖饰和石刻窗花组成的较窄镂空层。深色侧廊在两旁框住塔楼，深凹开口近乎全黑。更多建筑从后方攀入浅雾，最上部细节消融在明灰天空。低视点夸大竖向上升，使塔楼转角向观者凸出。风化石块显出接缝、崩口、积烟变黑的凹处和拱周精细浮雕。雾令光平坦而漫射，照片仍保留受光石面与空洞之间强烈灰度差。取景紧凑，部分扶壁与上方形体越出边缘，让立面大于方形裁切。重复尖形和细窄竖肋形成上升节奏；底部影拱给视线沉重起点。影像有微弱颗粒、丰富灰度和略阴郁的历史气氛。它是直接的摄影研究，不是绘制复原。没有人物、字幕或装饰边框。",
+  "style_prompt_en": "Monochrome upward photography with tight cropping, imposing vertical rhythm, and mist-softened distance. Weathered pale surfaces stand against nearly black recesses; fine carved relief and joints remain distinct in the middle grays. Diffuse overcast light avoids hard cast shadows yet preserves strong depth through cavities and overlapping planes. Subtle grain and partial edge cropping create a solemn, monumental mood.",
+  "style_prompt_zh": "单色仰视摄影采用紧凑截切、强势竖向节奏与被雾软化的远层。风化浅表面立于近黑凹处前；精细雕刻浮纹和接缝在中灰里仍清楚。阴天漫射光没有生硬投影，却借空洞与重叠平面保留强纵深。微弱颗粒与画边截切造就肃穆宏大的气氛。",
+  "theme_en": "A dark Gothic stone tower rising through mist",
+  "theme_zh": "薄雾中升起的深色哥特石塔",
+  "wh_ratio": "1:1",
+  "id": "4025",
+  "name": "Gothic architecture",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/gothic-architecture.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "6a40635fcac002d0c46fe8bc1fa04a1eb949fabbb4339c63366120ef858974a4",
+    "gpt_submission_prompt": "A square black-and-white photograph looks steeply upward at the corner tower of a Gothic stone building. Its heavy lower masonry rises from the bottom center into a narrower openwork level of pointed arches, clustered columns, finials, and carved stone tracery. Dark side arcades frame the tower on both sides, their deep openings almost black. More of the building climbs behind in pale mist, so the uppermost details fade into a bright gray sky. The low viewpoint exaggerates vertical ascent and lets the tower's corner project toward the viewer. Weathered stone blocks show joints, chips, soot-darkened recesses, and fine relief around the arches. The light is flat and diffused by fog, yet the photograph keeps a strong tonal difference between lit stone faces and cavities. The framing is tight: some buttresses and upper forms run beyond the edges, making the facade feel larger than the square crop. Repeated pointed shapes and narrow vertical ribs create a rising rhythm; shadowed arches at the bottom give the eye a heavy starting point. The image has subtle grain, rich grays, and a slightly brooding historical atmosphere. It remains a direct photographic study rather than a drawn reconstruction. There are no people, captions, or decorative border.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "13d6d22412bb25407dd7a0247565434bea36417c7cf4effd3ffca541a7cef006",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

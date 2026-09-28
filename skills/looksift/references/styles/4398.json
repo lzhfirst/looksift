@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square minimalist illustration places a panda and a small child together on the crest of a dark grassy hill. A large flat yellow moon sits directly behind them, turning their forms into compact silhouettes against a deep midnight-blue sky. The panda's white head and black shoulders remain just legible, while the child appears as a tiny dark figure at its side. A few thin bamboo stems and leaves rise along the right edge, their delicate lines contrasting with the broad circle of the moon. The hill sweeps upward from lower left to center-right, its surface filled with fine stippled grass and grain. Almost the entire frame is made from three areas: inky blue sky, luminous yellow disk, and textured dark slope. The moon's edge is clean, while the ground and bamboo edges are slightly irregular. A small pool of golden specks runs along the hilltop, suggesting light caught in the grass. The composition feels quiet and affectionate, with a childlike narrative carried by scale and silhouette rather than facial detail. There is no complex depth or strong perspective; the balance between empty sky, circle, and small figures holds the image. The whole frame is poetic, graphic, and gently nocturnal.",
+  "full_prompt_zh": "一幅方形极简插画把熊猫和一个小孩子并排放在深色草坡的顶端。一轮巨大的平涂黄色月亮正处于他们身后，使他们的形态在深午夜蓝天空前成为紧凑剪影。熊猫的白头和黑肩仍稍可辨认，孩子则是身边细小的深色形体。几根纤细竹竿和叶片沿右缘升起，其细线与宽阔月圆形成对比。草坡从左下方向中央偏右上扬，表面布满点状细草与颗粒。几乎整个画面只由三块区域组成：墨蓝天空、发亮黄圆和有肌理的深色山坡。月亮边缘干净，地面和竹子的边缘略不规则。少量金色细点沿坡顶散布，像草尖接住月光。构图安静而亲切，带童话般叙事，但主要依靠尺度与剪影而非面部细节。没有复杂纵深或强透视；空天空、圆形和小人物之间的平衡稳住画面。整体诗意、图形化，带着温柔夜色。",
+  "style_prompt_en": "A minimalist graphic illustration style uses a deep flat cool field, one large warm circular light shape, and a textured sloping silhouette. Tiny focal forms gain meaning through scale and placement against the simple geometry. Fine stipple, short grass-like marks, and sparse delicate linework add tactile detail without disturbing broad negative space. The warm disk remains clean-edged, while natural boundaries are softly irregular. A few scattered light specks connect the ground to the central glow. The palette is extremely limited, often midnight blue, near-black, and golden yellow. The mood is poetic and gentle, with narrative carried by silhouettes and compositional restraint.",
+  "style_prompt_zh": "极简图形插画风格使用一大片深色冷调平面、一枚大型暖色圆形光体和一道有肌理的倾斜剪影。细小焦点形态通过在简单几何前的尺度和位置获得意义。细点描、短草状笔迹与稀疏纤细线条增加触感，却不打破宽阔负空间。暖色圆盘的边缘保持干净，自然边界则柔和不规则。几粒散落亮点把地面与中央光源连接。色谱极少，常为午夜蓝、近黑和金黄。气氛诗意温柔，叙事由剪影与构图克制承载。",
+  "theme_en": "A panda and child sit on a grassy hill before a giant yellow moon",
+  "theme_zh": "熊猫和孩子坐在草坡上，背后是一轮巨大的黄月亮",
+  "wh_ratio": "1:1",
+  "id": "4398",
+  "name": "Tang Yau Hoong",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/tang-yau-hoong.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "d65be311a4737c80d0e7b8da296b0de3ff41daae877bd3570327a50b866d970a",
+    "gpt_submission_prompt": "A square minimalist illustration places a panda and a small child together on the crest of a dark grassy hill. A large flat yellow moon sits directly behind them, turning their forms into compact silhouettes against a deep midnight-blue sky. The panda's white head and black shoulders remain just legible, while the child appears as a tiny dark figure at its side. A few thin bamboo stems and leaves rise along the right edge, their delicate lines contrasting with the broad circle of the moon. The hill sweeps upward from lower left to center-right, its surface filled with fine stippled grass and grain. Almost the entire frame is made from three areas: inky blue sky, luminous yellow disk, and textured dark slope. The moon's edge is clean, while the ground and bamboo edges are slightly irregular. A small pool of golden specks runs along the hilltop, suggesting light caught in the grass. The composition feels quiet and affectionate, with a childlike narrative carried by scale and silhouette rather than facial detail. There is no complex depth or strong perspective; the balance between empty sky, circle, and small figures holds the image. The whole frame is poetic, graphic, and gently nocturnal.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "8bfbcf12db7f3c559809ef662c044b711e45dd2087fbe7c766777a6de439a188",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

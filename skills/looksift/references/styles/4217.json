@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A blond traveler in a bright blue suit sits quietly on a low stone wall beside a narrow woodland stream. One leg is relaxed forward, and the traveler looks toward a small white dog standing at the water's edge. The dog's simple round shape and black nose are clearly separated from the green bank. A massive dark tree rises from the left and arches its trunk and branches across the upper edge, framing a small cream cottage with a warm orange roof on the hill beyond. The sloping meadow, stones, bushes, and stream create a gently winding route into the background. Every major form is enclosed by a confident black ink contour, while small hatch marks and stippled patches lend texture to bark, leaves, stones, and grass. Color fills the outlined shapes in clean, mostly flat passages of blue, leaf green, ocher, pale cream, and orange-red. Slight mottling within the color keeps the drawing from feeling mechanically flat. Daylight is even and soft, with dark foliage giving natural contrast rather than deep cast shadows. The square scene has clear foreground, middle ground, and distant cottage, but the perspective is simplified for quick visual reading. The figure and dog are modest in scale within the landscape, allowing the curved tree and green hillside to set a calm rhythm. The image feels like a carefully colored European comic panel, narrative yet still, with precise draftsmanship and inviting, accessible detail.",
+  "full_prompt_zh": "一位金发旅人穿着亮蓝色套装，安静地坐在林间窄溪旁的低石墙上。一条腿放松地向前伸出，旅人望向站在水边的小白狗。狗圆润简明的形体和黑色鼻子从绿岸上清楚分离。一棵巨大的深色树从左侧升起，树干和枝条沿上缘弯曲，为远处山坡上的奶油色小屋及暖橙色屋顶构成画框。倾斜草地、石头、灌木和溪水形成一条柔和蜿蜒、通向背景的路线。所有主要形态都有自信的黑色墨线轮廓，细小排线与点状纹理则赋予树皮、树叶、石头和草地质感。颜色以干净、基本平坦的蓝色、叶绿、赭黄、浅奶油色和橙红色填入线内。色面中的轻微斑驳避免画面显得机械平滑。日光均匀柔和，深色树叶提供自然对比，而非浓重投影。方形场景的前景、中景和远处小屋分层清楚，但透视经过简化，便于迅速阅读。人物和狗在景观中尺度适中偏小，弯曲大树与绿色山坡因此建立安静节奏。成品像一格精心上色的欧洲漫画，虽有叙事感却静止，具备准确绘图和亲切易读的细节。",
+  "style_prompt_en": "A clear-line comic illustration language with confident black ink contours, tidy simplified perspective, and clean areas of gently muted color. Fine hatching, stippling, and slight printed mottling add texture within otherwise flat fills. Leaf greens, soft blues, warm ocher, cream, and restrained orange-red sit under even daylight. Foreground framing shapes guide the eye toward a well-spaced middle ground and a legible distant focal point. Every element remains distinct without heavy realism, creating a calm storybook rhythm. The result feels carefully drafted, warmly colored, and easy to read at a glance.",
+  "style_prompt_zh": "清晰线条的漫画插画语言，以自信黑墨轮廓、整洁简化的透视和干净柔和的色块构成。细排线、点描和轻微印刷斑驳在基本平涂内部增加肌理。叶绿、柔蓝、暖赭、奶油色及克制的橙红处于均匀日光下。前景框景形态引导视线进入布局宽松的中景和清楚可读的远处焦点。各元素彼此分明，却不追求沉重写实，形成安静的故事书节奏。成品绘制严谨、上色温暖，令人一眼读懂。",
+  "theme_en": "A traveler and a small white dog resting beside a woodland stream",
+  "theme_zh": "一位旅人与一只小白狗在林间溪流旁休息",
+  "wh_ratio": "1:1",
+  "id": "4217",
+  "name": "Herge",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/herge.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "ffe8e6c4dbca71cf617aadfabf8b60e17fd1c1ffb51e85790f151e3f25f99a44",
+    "gpt_submission_prompt": "A blond traveler in a bright blue suit sits quietly on a low stone wall beside a narrow woodland stream. One leg is relaxed forward, and the traveler looks toward a small white dog standing at the water's edge. The dog's simple round shape and black nose are clearly separated from the green bank. A massive dark tree rises from the left and arches its trunk and branches across the upper edge, framing a small cream cottage with a warm orange roof on the hill beyond. The sloping meadow, stones, bushes, and stream create a gently winding route into the background. Every major form is enclosed by a confident black ink contour, while small hatch marks and stippled patches lend texture to bark, leaves, stones, and grass. Color fills the outlined shapes in clean, mostly flat passages of blue, leaf green, ocher, pale cream, and orange-red. Slight mottling within the color keeps the drawing from feeling mechanically flat. Daylight is even and soft, with dark foliage giving natural contrast rather than deep cast shadows. The square scene has clear foreground, middle ground, and distant cottage, but the perspective is simplified for quick visual reading. The figure and dog are modest in scale within the landscape, allowing the curved tree and green hillside to set a calm rhythm. The image feels like a carefully colored European comic panel, narrative yet still, with precise draftsmanship and inviting, accessible detail.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "8f4e388900f0ae7da6078a3f16a9b38de1bebebdab1a639b6b3fe9e0f85b4269",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

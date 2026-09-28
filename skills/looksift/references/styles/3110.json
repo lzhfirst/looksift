@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A surreal collage-like still life crowds a square canvas with fruit, fan shapes, wheels, and curious birdlike forms. A dark sweeping curve and long pointed black triangle dominate the center, with a pale circular joint near the top. Below them sit a yellow pear, clustered grapes, and a bright orange slice on a narrow pale ledge. Behind, a turquoise spiked fan opens across the upper right, while small rings, discs, and patterned circles seem to float among stacked rectangles. The scene is deliberately difficult to read as a single physical arrangement; objects overlap and change scale like pieces in a cabinet of dreams. Strong flat color areas of burnt orange, teal, olive, blue, cream, and muted violet are bounded by dark edges. Within those areas, stippling, crosshatch, flecks, and rubbed patches create a worn paper or painted surface. Light is largely graphic rather than directional: the fruit and pale ledge are brighter, while black curved masses provide depth and contrast. Every corner carries a mark, yet the composition stays organized by a vertical central form and a horizontal base. Repeated circles and semicircles link the different fragments, while spikes and straight-edged blocks add tension. The image feels handmade, witty, and richly textured, inviting the eye to wander between recognizable details and abstract shapes.",
+  "full_prompt_zh": "一幅超现实拼贴般的静物把水果、扇形、轮子和奇异的鸟状形态挤满方形画布。一道深色扫过的弧线和细长尖黑三角占据中心，上方接着浅色圆形关节。其下，黄色梨、一串葡萄和明亮的橙子切面摆在狭窄浅色台面上。后方，青绿的尖齿扇面在右上张开，小环、圆盘和带纹样的圆形仿佛悬在层层叠叠的矩形之间。场景故意难以读成单一真实摆设；物体像梦中陈列柜里的碎片一样相互覆盖、改变尺度。焦橙、青绿、橄榄色、蓝色、奶油白和柔紫色的强烈平涂区域由深色边缘围住。这些色面内部又有点描、交叉排线、碎点和磨擦斑，呈现磨旧纸张或颜料表面。光更多是图形化而非来自明确方向：水果和浅色台面更亮，黑色曲面提供纵深与对比。每个角落都有痕迹，但竖向中心形体和横向基座让构图保持有序。反复出现的圆与半圆把不同碎片联系起来，尖刺和直边色块则增添张力。画面手工感强、俏皮且纹理丰富，邀请目光在可辨细节与抽象形状之间游走。",
+  "style_prompt_en": "A densely layered surreal collage of flat rectangles, pointed wedges, sweeping curves, and repeated circles. Burnt orange, turquoise, olive, cream, blue, and muted violet are held by dark graphic edges. Stipple, crosshatch, rubbing, and small flecks give each plane a different tactile surface. Light is symbolic and local, with a few pale accents balanced by deep black curves. Forms overlap at changing scales, anchored by a narrow horizontal base and one central vertical sweep. Every area carries detail, but the repeated circular rhythm keeps the crowded design coherent.",
+  "style_prompt_zh": "由平涂矩形、尖楔、扫过的弧线与重复圆形密集叠置的超现实拼贴。焦橙、青绿、橄榄色、奶油白、蓝色和柔紫色由深色图形边缘收住。点描、交叉排线、磨擦痕与细碎斑点让每个平面拥有不同的可触质感。光线是局部而象征性的，少量浅色重点与深黑曲线相平衡。形体以变化的尺度相互覆盖，由狭窄横向基座和一道中心竖向弧线固定。各处都充满细节，但重复圆形的节奏使拥挤设计保持连贯。",
+  "theme_en": "A playful surreal still life of fruit and mechanical forms",
+  "theme_zh": "水果与机械形态构成的俏皮超现实静物",
+  "wh_ratio": "1:1",
+  "id": "3110",
+  "name": "Eileen Agar",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/eileen-agar",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "7b0d92f18fc06536288a1c9e16bf9c0bfb3fcfc36b391a10c65c13076abde840",
+    "gpt_submission_prompt": "A surreal collage-like still life crowds a square canvas with fruit, fan shapes, wheels, and curious birdlike forms. A dark sweeping curve and long pointed black triangle dominate the center, with a pale circular joint near the top. Below them sit a yellow pear, clustered grapes, and a bright orange slice on a narrow pale ledge. Behind, a turquoise spiked fan opens across the upper right, while small rings, discs, and patterned circles seem to float among stacked rectangles. The scene is deliberately difficult to read as a single physical arrangement; objects overlap and change scale like pieces in a cabinet of dreams. Strong flat color areas of burnt orange, teal, olive, blue, cream, and muted violet are bounded by dark edges. Within those areas, stippling, crosshatch, flecks, and rubbed patches create a worn paper or painted surface. Light is largely graphic rather than directional: the fruit and pale ledge are brighter, while black curved masses provide depth and contrast. Every corner carries a mark, yet the composition stays organized by a vertical central form and a horizontal base. Repeated circles and semicircles link the different fragments, while spikes and straight-edged blocks add tension. The image feels handmade, witty, and richly textured, inviting the eye to wander between recognizable details and abstract shapes.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "6b8d1857c9a139af46b24adb1bb784629fc2ce6620393f86ac36e718f91b16fc",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

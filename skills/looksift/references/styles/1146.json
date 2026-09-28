@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A sepia and black mixed-media collage presents a close frontal face built from overlapping photographs, handwritten notes, and torn paper. The central person's pale eyes meet the viewer directly, while one side of the face slips into deep shadow and the other is interrupted by pasted images of trees, wildlife, and small figures. Dark hair and a wide hat or shadowed upper edge blend into the collage above the forehead. In the upper left, a small landscape photograph appears like a memory inset; elsewhere, fine cursive writing runs across yellowed paper behind the cheek and shoulder. The crop is tight enough that the face dominates, yet the layered fragments continue to the edges and resist a clean background. Thin cuts, rubbed ink, stains, and uneven photographic grain are all visible. The palette is nearly monochrome—cream, parchment tan, smoky gray, and soot black—with a few warm rust-colored paper accents. Light seems to come from the front left, defining the eyes, nose, and mouth, but the collage's pasted surfaces interrupt any simple studio lighting. Broad black forms anchor the lower side, while small inset pictures and cursive lines keep the upper half active. The artwork feels archival and personal, as if a portrait and field notebook had been assembled into one weathered surface. Its visual force lies in the clear human gaze within a dense network of remembered places and recorded traces.",
+  "full_prompt_zh": "一幅棕褐与黑色的混合媒介拼贴，用相叠的照片、手写笔记和撕裂纸张构成一张近距离正面面孔。中心人物浅色双眼直视观者，脸的一侧滑入深影，另一侧被贴上的树木、野生动物和细小人物影像打断。深色头发与宽檐帽或上方阴影边缘融进额头上的拼贴。左上角一张小风景照片像记忆插图，别处的细密草写字迹横过面颊和肩旁泛黄的纸。裁切足够紧，让面孔占主导，但层叠碎片继续伸向各边，拒绝干净背景。细窄剪口、擦磨的油墨、污迹与不均匀摄影颗粒均可见。配色接近单色——奶油白、旧纸棕、烟灰和烟黑——辅以几处暖锈色纸片。光似从左前方照来，勾出眼睛、鼻梁和嘴，但拼贴表面打断了单纯影棚光逻辑。宽阔黑色形状稳住下方一侧，小幅插图与草写线条则让上半部保持活跃。作品有档案感也有私人感，像把一幅肖像与田野笔记拼成同一张风化表面。其视觉力量来自密集的记忆地点与记录痕迹中仍然清楚的人类目光。",
+  "style_prompt_en": "Archival mixed-media collage in near-monochrome cream, parchment tan, smoky gray, soot black, and restrained rust accents. Large readable light-dark planes are crossed by small photographic insets, thin cursive lines, torn edges, stains, and mismatched grain. Some forms are sharply printed while others rub away into paper texture. Directional light suggests volume, but overlapping fragments intentionally break continuous realism. Broad dark masses anchor one edge, and finer marks remain active across the rest of the field. The whole surface feels handled, aged, layered, and personally accumulated.",
+  "style_prompt_zh": "档案感混合媒介拼贴风格，近单色的奶油白、旧纸棕、烟灰、烟黑与克制锈色点缀。清楚的大明暗平面被小幅照片插片、纤细草写线、撕裂边缘、污迹和不一致颗粒穿过。有些形状印刷清晰，另一些擦磨进纸纹。定向光暗示体积，层叠碎片却有意打断连续写实。宽阔深色体块稳定一边，更细的痕迹在其余色场保持活跃。整个表面像被反复触摸、陈旧、叠加并私人地积累起来。",
+  "theme_en": "A face assembled from old wildlife photographs and handwritten notes",
+  "theme_zh": "由旧野生动物照片与手写笔记拼成的面孔",
+  "wh_ratio": "1:1",
+  "id": "1146",
+  "name": "Peter Beard",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/peter-beard",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/peter-beard.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "fd2d71439d0287b05c1889b7f62bd14d1b4489799cc237b18b372f497d0c8be7",
+    "gpt_submission_prompt": "A sepia and black mixed-media collage presents a close frontal face built from overlapping photographs, handwritten notes, and torn paper. The central person's pale eyes meet the viewer directly, while one side of the face slips into deep shadow and the other is interrupted by pasted images of trees, wildlife, and small figures. Dark hair and a wide hat or shadowed upper edge blend into the collage above the forehead. In the upper left, a small landscape photograph appears like a memory inset; elsewhere, fine cursive writing runs across yellowed paper behind the cheek and shoulder. The crop is tight enough that the face dominates, yet the layered fragments continue to the edges and resist a clean background. Thin cuts, rubbed ink, stains, and uneven photographic grain are all visible. The palette is nearly monochrome—cream, parchment tan, smoky gray, and soot black—with a few warm rust-colored paper accents. Light seems to come from the front left, defining the eyes, nose, and mouth, but the collage's pasted surfaces interrupt any simple studio lighting. Broad black forms anchor the lower side, while small inset pictures and cursive lines keep the upper half active. The artwork feels archival and personal, as if a portrait and field notebook had been assembled into one weathered surface. Its visual force lies in the clear human gaze within a dense network of remembered places and recorded traces.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "e0078ea3a687d0d6636ef00e8b0c4e849d91d909ebe5ccd260fb779de662a5a6",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

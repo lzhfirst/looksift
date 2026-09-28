@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "The square image is a high-contrast black-and-white studio photograph in an exceptionally close crop. A woman's face fills almost the entire frame, looking directly toward the viewer with a composed, unsmiling expression. Dark cloth wraps over her head and around her chin, creating a deep textured border that frames the pale oval of her face. The upper edge of the covering descends low over the forehead, while the lower folds gather beneath the jaw. The eyes sit near the upper middle and command attention: each iris has a crisp catchlight, and fine dark lashes and shadowed eyelids sharpen the gaze. Her straight nose and closed, softly defined lips are modeled by gentle tonal gradation rather than hard outlines. Light reaches the left side of the face more fully, while the right cheek and eye socket move into denser gray shadow. The background is barely distinguishable from the surrounding fabric, so the visible field resolves into skin, eyes and dark textile. The fabric's soft weave and the photograph's fine grain add tactility without distracting from the facial planes. No jewelry or props compete with the sitter. The overall lighting is controlled and intimate, with pale silver midtones, dense blacks and carefully preserved highlights across forehead, nose and eyes. The symmetrical frontal structure is made subtly alive by unequal light on the two sides. The finished image feels direct, spare and psychologically attentive, its drama arising from the close distance and exact tonal control.",
+  "full_prompt_zh": "正方形画面是一张高对比黑白影棚照片，裁切极近。一位女子的脸几乎填满全幅，以平静、不微笑的神情直视观众。深色布料覆盖头部并环绕下巴，形成有纹理的浓暗边框，衬出浅色椭圆面孔。头巾上缘压低至额头，下方褶皱聚集在颌下。眼睛位于画面上方中央附近，最能吸引注意：两只虹膜都有清楚的反光点，纤细深色睫毛和阴影中的眼睑令目光锐利。笔直的鼻梁和闭合、柔和的嘴唇通过细腻灰阶过渡而非硬轮廓塑造。脸的左侧受光更多，右侧脸颊和眼窝进入较浓灰影。背景几乎与周围布料融为一体，因此可见画面收束为皮肤、眼睛和深色织物。布料的柔软织纹与摄影细颗粒增加触感，却不分散对面部色面的注意。没有首饰或道具与人物竞争。整体光线受控而亲密，浅银灰中间调、浓黑与额头、鼻梁、眼睛上保留的高光精确平衡。正面近似对称的结构因为两侧照明不均而微妙地活起来。成品直接、简洁且富于心理注意力，戏剧性来自近距离和准确的明暗控制。",
+  "style_prompt_en": "High-contrast black-and-white studio photography has a spare frontal structure, dense velvety blacks, luminous silver midtones, precise catchlights, fine grain and softly textured dark material. Close framing concentrates attention on subtle tonal shifts. Controlled asymmetric light gives quiet psychological intensity to the otherwise balanced square image.",
+  "style_prompt_zh": "高对比黑白影棚摄影具有简洁的正面结构、绒密浓黑、发亮银灰中间调、准确的小高光、细颗粒和柔软深色材质纹理。近距离裁切使微妙灰阶变化成为视觉中心。受控的不对称照明，为基本平衡的正方形画面带来安静的心理强度。",
+  "theme_en": "A woman in a dark head covering looking directly toward the viewer",
+  "theme_zh": "深色头巾中的女子直视观众",
+  "wh_ratio": "1:1",
+  "id": "3495",
+  "name": "Richard Avedon",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/richard-avedon",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "9eef9a8b2f950355afb5efec223afe2d8ecd5ce2c6b0aeb6a3d221f8542df999",
+    "gpt_submission_prompt": "The square image is a high-contrast black-and-white studio photograph in an exceptionally close crop. A woman's face fills almost the entire frame, looking directly toward the viewer with a composed, unsmiling expression. Dark cloth wraps over her head and around her chin, creating a deep textured border that frames the pale oval of her face. The upper edge of the covering descends low over the forehead, while the lower folds gather beneath the jaw. The eyes sit near the upper middle and command attention: each iris has a crisp catchlight, and fine dark lashes and shadowed eyelids sharpen the gaze. Her straight nose and closed, softly defined lips are modeled by gentle tonal gradation rather than hard outlines. Light reaches the left side of the face more fully, while the right cheek and eye socket move into denser gray shadow. The background is barely distinguishable from the surrounding fabric, so the visible field resolves into skin, eyes and dark textile. The fabric's soft weave and the photograph's fine grain add tactility without distracting from the facial planes. No jewelry or props compete with the sitter. The overall lighting is controlled and intimate, with pale silver midtones, dense blacks and carefully preserved highlights across forehead, nose and eyes. The symmetrical frontal structure is made subtly alive by unequal light on the two sides. The finished image feels direct, spare and psychologically attentive, its drama arising from the close distance and exact tonal control.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "fccdbef14ef3f8dc1eddf4599cc3350f2ba475f60957c957d48a2486c80719c5",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

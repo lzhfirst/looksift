@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square retro-futurist painting places a tall pale industrial machine in a dense autumn forest. The central structure stands on heavy mechanical legs and broad lower housings, with a small domed cabin and a narrow multi-level tower rising behind it. Rounded apertures, external ladders, service panels, and cylindrical joints break up the off-white surface. Tall dark trunks flank the machine on both sides, while orange leaf canopies fill the upper background and forest floor. Low mossy stones and green undergrowth occupy the foreground, creating a natural base beneath the manufactured mass. A vivid orange sky or backlit foliage glows between trunks, making the cream-white machine stand out sharply. The viewpoint is frontal at a moderate distance, with enough open space to read its complete silhouette. Painted metal shows weathering, seams, and cool gray-blue shadow, but the scene avoids polished engineering precision. The tree bark and leaves are rendered with broken painterly strokes, while machine edges are more controlled. Soft daylight filters through the orange canopy, warming exposed planes and leaving recesses cool. The image feels exploratory and cinematic, as though an obsolete spacecraft has quietly settled in a living woodland.",
+  "full_prompt_zh": "一幅方形复古未来绘画把高大的浅色工业机器放在浓密秋林中。中央结构立于沉重机械腿和宽阔下部舱体上，前方有小圆顶舱，后面窄而多层的塔升起。圆孔、外梯、设备面板和圆柱关节切分灰白表面。高深树干从两侧夹住机器，橙色叶冠填满上方背景和林地。低苔石与绿灌木占前景，在制造物下建立自然底座。鲜橙天空或背照枝叶在树干之间发光，使奶油白机器突出。视点正面且距离适中，留足空间看清完整轮廓。绘画金属带风化、接缝和冷灰蓝影，但场景不追求光滑工程精度。树皮与叶以断续绘画笔触处理，机器边则更受控。柔日光经过橙树冠，温暖外露平面，凹处仍冷。画面探索性而有电影感，像一艘过时宇航器安静落入活林。",
+  "style_prompt_en": "Retro-futurist environment painting that sets precise pale mechanical silhouette against loose warm organic texture. Off-white weathered planes and cool gray-blue recesses contrast with dense orange canopy, dark trunks, and moss green ground. Soft filtered daylight warms exposed surfaces. Controlled seams and circular joints remain readable, while broken brushwork in the surroundings prevents sterile rendering.",
+  "style_prompt_zh": "复古未来环境绘画，使准确浅色机械剪影对照松散暖有机肌理。灰白风化平面和冷灰蓝凹处撞上密橙树冠、深树干与苔绿地面。柔过滤日光温暖外露表面。受控接缝与圆关节仍可辨，周围断续笔触避免无菌式渲染。",
+  "theme_en": "A white retro-futurist machine standing among orange forest trees",
+  "theme_zh": "一台白色复古未来机器立在橙色树林中",
+  "wh_ratio": "1:1",
+  "id": "4242",
+  "name": "Dan McPharlin",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/dan-mcpharlin.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "d3cfac6ac2ca205a54c630d1571bd1faaf403f68ef402a44570480c3a59d4a08",
+    "gpt_submission_prompt": "A square retro-futurist painting places a tall pale industrial machine in a dense autumn forest. The central structure stands on heavy mechanical legs and broad lower housings, with a small domed cabin and a narrow multi-level tower rising behind it. Rounded apertures, external ladders, service panels, and cylindrical joints break up the off-white surface. Tall dark trunks flank the machine on both sides, while orange leaf canopies fill the upper background and forest floor. Low mossy stones and green undergrowth occupy the foreground, creating a natural base beneath the manufactured mass. A vivid orange sky or backlit foliage glows between trunks, making the cream-white machine stand out sharply. The viewpoint is frontal at a moderate distance, with enough open space to read its complete silhouette. Painted metal shows weathering, seams, and cool gray-blue shadow, but the scene avoids polished engineering precision. The tree bark and leaves are rendered with broken painterly strokes, while machine edges are more controlled. Soft daylight filters through the orange canopy, warming exposed planes and leaving recesses cool. The image feels exploratory and cinematic, as though an obsolete spacecraft has quietly settled in a living woodland.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "fa0944196f56e7dd4193b0f9cc2a0966b0cd31581c54af435a4e258555db9861",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

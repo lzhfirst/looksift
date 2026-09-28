@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A Symbolist oil portrait shows a thoughtful sitter resting her chin on one hand amid a dense mosaic of stone-like color. Her pale face occupies the luminous center, turned slightly upward, while dark curled hair and a light head wrap form a broad arc around it. The arm rises from the lower left to support the face, giving the composition a quiet diagonal movement. Behind and around her, irregular patches of slate blue, gray, chalk white, and warm umber suggest a crowded space without settling into a clearly described room. Paint is placed in short angular facets; the background seems assembled from overlapping chips, and even the pale skin carries subtle broken planes rather than a smooth photographic finish. The light falls softly onto the forehead, cheek, forearm, and nearby folds, leaving the upper corners and recesses cool and dark. Touches of ochre and rusty brown warm the otherwise mineral palette. Contours are interrupted as sleeves and background share similar fractured strokes, yet the calm face remains legible through careful value control. The frame is nearly filled with painted texture, with little empty ground; its rhythm comes from many small planes gathering around one serene central shape. The result is contemplative, jewel-like, and visibly handmade.",
+  "full_prompt_zh": "一幅象征主义油画肖像：一位沉思者将下巴托在手上，周围是石片般密集的色彩拼贴。浅色面庞占据明亮中心，稍稍向上转动；深色卷发与浅色头巾在面部周围形成宽弧。手臂从左下方升起支撑面庞，给构图带来安静的斜向运动。人物身后和周围，不规则的石板蓝、灰色、粉白与暖棕色块暗示一个拥挤空间，却没有把它落实为明确的房间。颜料以短促棱角形色面铺放；背景仿佛由重叠碎片拼成，就连浅色皮肤也带有细微的断裂平面，而非平滑的摄影效果。柔光落在额头、脸颊、前臂和邻近褶皱上，画面上角与深处则保持冷暗。赭黄与铁锈棕的少量点缀温暖了原本偏矿物色的调子。衣袖和背景共享相近的破碎笔触，轮廓时而中断，但安静的面庞凭借审慎的明度控制仍然清晰。画幅几乎被绘画纹理填满，留白很少；许多小平面向宁静的中心形态汇聚，形成节奏。整体沉思、如宝石般凝聚，并保有明显的手绘质感。",
+  "style_prompt_en": "A densely worked oil surface assembled from short, angular color facets. Slate blue, chalk white, smoky gray, and warm umber patches overlap like irregular mineral chips. A pale central mass is modeled through broken planes and soft shifts of value, with dark arcs framing it. Edges often fragment into neighboring marks instead of remaining continuously outlined. Gentle light gathers at the center and on a rising diagonal, while the corners hold cool depth. The composition fills the frame almost completely, using small repeated facets to create a contemplative, mosaic-like rhythm.",
+  "style_prompt_zh": "以短促、棱角分明的色面密密构成的油画表面。石板蓝、粉白、烟灰与暖棕色斑像不规则矿石碎片般交叠。浅色中心形体通过断续平面与柔和明度变化塑造，周围由深色弧线环抱。边缘常碎入邻近笔触，而不是被连续轮廓框住。柔光聚在中心及一道向上延伸的斜线上，角落保持冷调纵深。构图几乎填满整个画幅，凭反复出现的小色面形成沉思而近似马赛克的节奏。",
+  "theme_en": "A thoughtful sitter amid a mosaic of stone-like color",
+  "theme_zh": "沉思者置身于石片般的色彩拼贴中",
+  "wh_ratio": "1:1",
+  "id": "3046",
+  "name": "Mikhail Vrubel",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/mikhail-vrubel",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "e9b88dcbef4348cc1b5ff926e16595d1afed6fe9386128cf96b40c2c8fb4ce97",
+    "gpt_submission_prompt": "A Symbolist oil portrait shows a thoughtful sitter resting her chin on one hand amid a dense mosaic of stone-like color. Her pale face occupies the luminous center, turned slightly upward, while dark curled hair and a light head wrap form a broad arc around it. The arm rises from the lower left to support the face, giving the composition a quiet diagonal movement. Behind and around her, irregular patches of slate blue, gray, chalk white, and warm umber suggest a crowded space without settling into a clearly described room. Paint is placed in short angular facets; the background seems assembled from overlapping chips, and even the pale skin carries subtle broken planes rather than a smooth photographic finish. The light falls softly onto the forehead, cheek, forearm, and nearby folds, leaving the upper corners and recesses cool and dark. Touches of ochre and rusty brown warm the otherwise mineral palette. Contours are interrupted as sleeves and background share similar fractured strokes, yet the calm face remains legible through careful value control. The frame is nearly filled with painted texture, with little empty ground; its rhythm comes from many small planes gathering around one serene central shape. The result is contemplative, jewel-like, and visibly handmade.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "eaf2823731f59814b9fcca19500cbb46d7da6ceb153450dcfce9fc315db0977a",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square cinematic fantasy painting shows a lone swordsman standing on a steep rooftop above an immense industrial city at night. The figure is seen from behind at the lower center, dark against a maze of distant lights. Spiky hair, a sleeveless dark outfit, heavy boots, and a very long broad sword carried vertically along the back make a distinctive silhouette. One arm hangs at the side while the other is slightly bent. The roof plane slopes downward to the right, its rough dark surface forming a firm foreground wedge. Beyond it, bridges, stacked platforms, smokestacks, pipes, and densely packed buildings fill the valley. At the center distance, a massive tiered tower rises high into the teal blue haze, its metal ribs and many tiny windows suggested by speckled orange lights. Smaller spires flank it, and faint red points flicker through the lower streets. A cold cyan sky and drifting smoke merge with the tallest structures, so the horizon is difficult to separate from architecture. Warm light wells up from the city below, tracing the roof edge and the back of the figure, while deep blue black shadow holds the foreground. Painterly grain, rainlike streaks, and small glowing marks soften the otherwise angular built forms. The perspective pulls the eye from the solitary figure into the enormous glowing depth. The image feels brooding and adventurous, with isolation set against the scale and heat of the city.",
+  "full_prompt_zh": "一幅方形电影感奇幻绘画描绘一名独自持剑者站在陡斜屋顶上方，俯瞰夜间巨大的工业城市。人物从背后出现于下方中央，在远处错综灯光前呈深色剪影。刺状头发、无袖深色衣服、厚靴以及竖在背后的极长宽剑组成鲜明轮廓。一只手垂在身旁，另一只略弯。屋顶平面向右下倾，粗暗表面构成坚实前景楔形。其外，桥梁、层叠平台、烟囱、管道和密集楼宇填满山谷。中间远处一座巨大层台式高塔升入深青蓝薄雾，金属肋架与无数小窗由零星橙光暗示。更小尖塔在两侧相伴，底部街道里微红光点闪烁。冷青天空和飘烟与最高建筑混在一起，使地平线难与建筑分开。暖光从下方城市涌起，勾出屋顶边和人物背面；深蓝黑阴影压住前景。绘画颗粒、雨线般笔痕和小发光点柔化本来棱角分明的建造形体。透视把目光从孤独人影拉入巨大发亮纵深。影像阴郁而冒险，以孤立感面对城市的尺度和热度。",
+  "style_prompt_en": "Cinematic fantasy painting builds vast depth from a dark foreground wedge toward layered tiers of tiny warm lights. Deep teal, cyan, charcoal, and blue black dominate, with amber and ember red concentrated in distant gaps. One narrow silhouetted form anchors the near center and provides a clear scale cue against the immense background mass. Repeated horizontal levels, thin verticals, and small specks of illumination create structural density without making every edge literal. Haze, smoke like brushwork, and granular rainlike marks dissolve the upper distance into cold atmosphere. Light rises from below and behind, tracing selected rims while leaving the closest planes nearly black. The scene feels brooding, expansive, and adventurous, with a strong spatial pull from a simple near shape into intricately lit depth.",
+  "style_prompt_zh": "电影感奇幻绘画从深暗前景楔形走向层层微暖光，建立巨大纵深。深青、青蓝、炭灰和蓝黑主导，琥珀与余烬红集中在远处缝隙。一道窄剪影固定近处中央，为庞大背景体量提供清楚尺度标记。重复水平层、细竖线和小灯点创造结构密度，却不把每条边界刻得写实。薄雾、烟般笔触和雨线状颗粒使上方远景溶入冷空气。光从下方和后方升起，沿选定边缘描出亮线，最近的平面几乎全黑。画面阴郁、辽阔而充满冒险感，简洁近形向精密点灯的深处形成强烈空间牵引。",
+  "theme_en": "Lone swordsman overlooking an illuminated industrial city at night",
+  "theme_zh": "独自持剑者俯瞰夜间灯火闪烁的工业城市",
+  "wh_ratio": "1:1",
+  "id": "3368",
+  "name": "Final Fantasy VII",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/final-fantasy-vii",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "6d16ca7d37ade8ac3936186bc0037cecf5b8c0d88c497746c0177d5f48a06a12",
+    "gpt_submission_prompt": "A square cinematic fantasy painting shows a lone swordsman standing on a steep rooftop above an immense industrial city at night. The figure is seen from behind at the lower center, dark against a maze of distant lights. Spiky hair, a sleeveless dark outfit, heavy boots, and a very long broad sword carried vertically along the back make a distinctive silhouette. One arm hangs at the side while the other is slightly bent. The roof plane slopes downward to the right, its rough dark surface forming a firm foreground wedge. Beyond it, bridges, stacked platforms, smokestacks, pipes, and densely packed buildings fill the valley. At the center distance, a massive tiered tower rises high into the teal blue haze, its metal ribs and many tiny windows suggested by speckled orange lights. Smaller spires flank it, and faint red points flicker through the lower streets. A cold cyan sky and drifting smoke merge with the tallest structures, so the horizon is difficult to separate from architecture. Warm light wells up from the city below, tracing the roof edge and the back of the figure, while deep blue black shadow holds the foreground. Painterly grain, rainlike streaks, and small glowing marks soften the otherwise angular built forms. The perspective pulls the eye from the solitary figure into the enormous glowing depth. The image feels brooding and adventurous, with isolation set against the scale and heat of the city.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "97ecc4f7a3fcc6921c5c256f1729cc5ab4d031f4107b11df778bb4f57b023f08",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

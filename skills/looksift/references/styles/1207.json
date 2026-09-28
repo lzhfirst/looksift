@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square comic illustration captures a green-clad acrobat in midair, knees bent and torso stretched forward, moving diagonally from a dark lower-left field toward warm open light at the upper right. A thin cord loops in two wide arcs around the figure, its delicate ochre line supplying a fluid counterpoint to the compact body. The costume is an earthy green with heavy black folds and a small yellow head accent; the face remains mostly shadowed, so the action reads through the silhouette. Behind the figure, hundreds of slanted ink strokes form a rough gradient from near-black at the left to pale tan at the right. The strokes vary in length and pressure, making the background feel turbulent without literal raindrops or speed lines. A limited palette of green, black, ochre and parchment keeps the focus on line energy and bodily weight. The limbs are anatomically plausible despite the graphic compression, and the cord's broad loop helps define the square space. There is no crowd, city skyline or elaborate setting. The panel feels like an excerpt from a printed adventure comic, with slightly aged paper tone, visible crosshatching and an abrupt cinematic instant. Its strongest effect comes from the meeting of one agile form and a broad hand-inked diagonal weather field.",
+  "full_prompt_zh": "一幅正方形漫画插画捕捉穿绿色服装的人物在空中跃起，双膝弯曲，躯干向前伸展，从左下深色区域沿对角线移向右上暖色亮处。一根细绳在人物周围形成两道宽弧，纤细赭黄线与紧凑身体形成流动对照。服装为土绿色，衣褶由厚重黑色构成，头部有一点黄色重音；面孔大多隐入阴影，动作主要依靠剪影可读。身后数百道倾斜墨线组成从左侧近黑到右侧浅褐的粗糙渐变。笔划长度与力度各异，背景因而显得激荡，却不是字面上的雨滴或速度线。绿色、黑色、赭黄和旧纸色的有限配色让注意力集中在笔线能量和身体重量上。四肢虽经图形压缩，解剖仍合理，绳的大弧也帮助划出正方形空间。画面没有人群、城市天际线或复杂布景。它像一段印刷冒险漫画的截帧，带微旧纸色、可见交叉排线和骤然停住的电影瞬间。主要效果来自敏捷形体与宽广手绘墨线斜向场之间的碰撞。",
+  "style_prompt_en": "The style is vintage adventure-comic ink drawing with a forceful diagonal composition, compact anatomical silhouette and a storm of variable-pressure hatching. Earthy green, black, ochre and parchment form a limited print palette. Thin looping curves contrast with dense slanted line fields, giving the square frame both movement and spatial order. Heavy blacks anchor folds and shadow, while aged paper color supplies light. The finish retains hand-drawn irregularity, printed grain and narrative immediacy rather than polished digital effects.",
+  "style_prompt_zh": "这种风格是复古冒险漫画墨线画，具有有力的对角构图、紧凑的解剖剪影与压力变化丰富的排线风暴。土绿、黑、赭黄和旧纸色形成有限印刷配色。纤细回环曲线对照密集倾斜线域，使正方形画幅兼具运动感与空间秩序。厚重黑色固定褶皱与阴影，陈旧纸色提供亮部。最终表面保留手绘不规则、印刷颗粒和叙事即时性，而非抛光数字特效。",
+  "theme_en": "A green-clad acrobat arcing through a storm of ink lines",
+  "theme_zh": "绿色服装的跃动人物穿过墨线风暴",
+  "wh_ratio": "1:1",
+  "id": "1207",
+  "name": "Kevin Nowlan",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/kevin-nowlan",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/kevin-nowlan.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "aefa4b671ff1cef2590141c8d0012f50a3e372b76a3e4dc7208275e4d2fd2e07",
+    "gpt_submission_prompt": "A square comic illustration captures a green-clad acrobat in midair, knees bent and torso stretched forward, moving diagonally from a dark lower-left field toward warm open light at the upper right. A thin cord loops in two wide arcs around the figure, its delicate ochre line supplying a fluid counterpoint to the compact body. The costume is an earthy green with heavy black folds and a small yellow head accent; the face remains mostly shadowed, so the action reads through the silhouette. Behind the figure, hundreds of slanted ink strokes form a rough gradient from near-black at the left to pale tan at the right. The strokes vary in length and pressure, making the background feel turbulent without literal raindrops or speed lines. A limited palette of green, black, ochre and parchment keeps the focus on line energy and bodily weight. The limbs are anatomically plausible despite the graphic compression, and the cord's broad loop helps define the square space. There is no crowd, city skyline or elaborate setting. The panel feels like an excerpt from a printed adventure comic, with slightly aged paper tone, visible crosshatching and an abrupt cinematic instant. Its strongest effect comes from the meeting of one agile form and a broad hand-inked diagonal weather field.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "a1af4782cac917d5094bd5b411e8a8a03a8e459dbf8e9afbe1fcf71eb6837dc3",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

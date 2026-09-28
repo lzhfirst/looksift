@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square false-color infrared photograph looks along a straight gravel road through an open pale field. Near the center stands a single tree with fluffy white-cream foliage, its trunk leaning slightly as the road passes beside it. Frost-like grasses fill both sides in light beige, and a long row of fence posts recedes toward low gray mountains. Above, a dark cyan sky carries dramatic white cloud banks, making the bright vegetation feel uncanny rather than wintry. The roadway begins at the lower right, its gritty surface detailed in small stones and ruts, then narrows toward the middle horizon. The tree is the only large vertical form, set against the open sky and field. The infrared treatment removes familiar green from the plants: leaves appear pale, earth becomes desaturated, and sky turns a deep cool blue. Daylight is strong but softened by clouds, giving the tree's crown a luminous edge without a hard foreground shadow. Fine grain and crisp road texture contrast with softer clouds and distant ridges. The composition is sparse and balanced, with road and fence lines carrying the gaze into depth. The whole scene feels familiar in structure yet dreamlike in color, a quiet study of altered light and empty space.",
+  "full_prompt_zh": "一幅方形伪彩红外照片沿着穿过开阔浅色田野的直碎石路望去。中央附近立一棵蓬松白奶油色叶冠的树，树干略倾，路从旁边经过。两侧霜般草地呈浅米色，长排栅栏柱退向低灰山。上方深青天空带戏剧化白云，使亮植被显得奇异而非寒冬。路面从右下开始，小石块与车辙颗粒清楚，向中间地平收窄。树是唯一大竖形，立于开阔天和田前。红外处理除去熟悉的植物绿色：叶片变浅，土地去饱和，天空转深冷蓝。日光强但受云柔化，使树冠边发亮，却没有前景硬影。细颗粒和清楚道路肌理对照更柔的云与远山。构图稀疏平衡，道路与栅栏线把视线带入纵深。整幅结构熟悉，颜色却如梦，是一则变化光谱与空旷空间的安静研究。",
+  "style_prompt_en": "False-color infrared photography turns vegetation pale cream or blush while sky shifts to deep cyan. Daylight remains spatially credible, but familiar color relationships become strange. Crisp gravel and fine ground detail contrast with soft distant hills and billowing white clouds. A road-like perspective corridor and repeated small verticals lead into open depth. The tonal design isolates one bright organic mass against a dark cool field. Edges glow gently without theatrical bloom. The result is spare, lucid, and dreamlike, with the altered spectrum doing most of the expressive work.",
+  "style_prompt_zh": "伪彩红外摄影使植物变为浅奶油或淡粉，天空转深青。日光仍有可信空间逻辑，熟悉的色彩关系却变陌生。清楚碎石和细地面细节对照柔远山与翻涌白云。道路般透视通道和重复小竖线引向开阔纵深。明暗设计把一团亮有机形孤立在冷暗底前。边缘温和发亮，没有戏剧光晕。结果简省、清透而如梦，由变化的光谱承担主要表现力。",
+  "theme_en": "A lone pale tree beside a road in an infrared landscape",
+  "theme_zh": "红外风景中道路旁的孤独浅色树",
+  "wh_ratio": "1:1",
+  "id": "4366",
+  "name": "Infrared photography",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/infrared-photography.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "106ac468764e65463cbe95671f6421aa9a0c9c6ae4cfd07ee0d770a277d59ba7",
+    "gpt_submission_prompt": "A square false-color infrared photograph looks along a straight gravel road through an open pale field. Near the center stands a single tree with fluffy white-cream foliage, its trunk leaning slightly as the road passes beside it. Frost-like grasses fill both sides in light beige, and a long row of fence posts recedes toward low gray mountains. Above, a dark cyan sky carries dramatic white cloud banks, making the bright vegetation feel uncanny rather than wintry. The roadway begins at the lower right, its gritty surface detailed in small stones and ruts, then narrows toward the middle horizon. The tree is the only large vertical form, set against the open sky and field. The infrared treatment removes familiar green from the plants: leaves appear pale, earth becomes desaturated, and sky turns a deep cool blue. Daylight is strong but softened by clouds, giving the tree's crown a luminous edge without a hard foreground shadow. Fine grain and crisp road texture contrast with softer clouds and distant ridges. The composition is sparse and balanced, with road and fence lines carrying the gaze into depth. The whole scene feels familiar in structure yet dreamlike in color, a quiet study of altered light and empty space.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "9af62f40eb9825f6d0b45a5d576201b3b09a83cdde1a575d5380de591dcc25f5",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

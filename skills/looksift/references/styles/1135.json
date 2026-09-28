@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square hand-drawn animation study shows a running human figure repeated in overlapping positions across a warm off-white page. An orange phase at the left advances into several blue phases at the center and right, with darker navy strokes marking the foremost stride. Arms pump forward and backward, legs stretch and fold, and fine looping construction lines trace the path of motion above and around the bodies. The heads are simple oval shapes, and no face is defined. Under the feet, thin grey and blue marks give a light suggestion of ground, but there is no setting or horizon. Color is applied in loose transparent patches rather than fully filled shapes: burnt orange, cyan, pale blue, and deep indigo coexist with graphite-like black sketch lines. Some limbs remain only exploratory outlines, making the drawing feel like successive animation frames visible at once. The line weight changes rapidly from faint searching loops to decisive dark arcs at knees, shoes, and shoulders. Light is even and comes from the paper itself, with no naturalistic shadow. The broad blank upper field gives the restless cluster room to move. No readable lettering appears. The overall composition is kinetic but airy, using repeated anatomy, colored phases, and visible revisions to describe movement as a drawn rhythm.",
+  "full_prompt_zh": "一幅方形手绘动画研究把奔跑的人形在暖灰白纸上重叠成连续姿态。左侧橙色阶段推进到中央与右侧几道蓝色阶段，较深海军蓝笔触标出最前的步幅。手臂前后摆，双腿伸展又收折，细小回环结构线在身体上方和周围描出运动路径。头部是简单椭圆，没有定义面容。脚下细灰蓝痕迹轻轻暗示地面，却没有场所或地平线。颜色以松动透明斑块铺下，而非完整填满形体：焦橙、青蓝、浅蓝与深靛蓝同石墨样黑草图线并存。有些四肢仍只是探寻性轮廓，让绘画像连续动画帧同时可见。线粗细迅速在淡淡寻线与膝、鞋、肩处果断深弧之间变化。光均匀并来自纸本身，没有自然主义阴影。宽阔空白上方给躁动团块留出运动空间。没有可辨认文字。整体构图动感强却通气，用重复解剖、彩色阶段与可见修订，把运动写成绘画节奏。",
+  "style_prompt_en": "A hand-drawn animation-study surface overlays translucent colored phases and loose graphite-like construction lines on warm off-white paper. Burnt orange, cyan, pale blue, and indigo cluster low in the frame, with faint looping arcs rising into ample empty space. Repeated elongated forms overlap rather than separate cleanly, creating motion through rhythm and partial transparency. Line weight shifts from light exploratory circles to dark decisive strokes at a few structural joints. The background remains unmodeled and evenly lit, and the ground is only a thin broken mark. The finish is airy, kinetic, and visibly provisional, celebrating the process of drawing movement.",
+  "style_prompt_zh": "手绘动画研究表面在暖灰白纸上叠放半透明彩色阶段与松动石墨样结构线。焦橙、青蓝、浅蓝和靛蓝聚在下部，淡回环弧线升入充足空白。重复的拉长形相互重叠，而非干净分开，通过节奏与部分透明创造运动。线重从浅淡探寻圆线，变化到少数结构交接处的果断深笔。背景不作体积塑造，光均匀，地面只有细而断的痕。完成效果通气、动感强且明显保留试稿状态，呈现绘制运动的过程。",
+  "theme_en": "A running figure multiplied into a loose drawn motion sequence",
+  "theme_zh": "奔跑身影化成松动的手绘运动序列",
+  "wh_ratio": "1:1",
+  "id": "1135",
+  "name": "Norman McLaren",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/norman-mclaren",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/norman-mclaren.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "a70896ebc1e48b30861d3dad43e2e3457a6a525e01bcb1a5988a7f214bb28051",
+    "gpt_submission_prompt": "A square hand-drawn animation study shows a running human figure repeated in overlapping positions across a warm off-white page. An orange phase at the left advances into several blue phases at the center and right, with darker navy strokes marking the foremost stride. Arms pump forward and backward, legs stretch and fold, and fine looping construction lines trace the path of motion above and around the bodies. The heads are simple oval shapes, and no face is defined. Under the feet, thin grey and blue marks give a light suggestion of ground, but there is no setting or horizon. Color is applied in loose transparent patches rather than fully filled shapes: burnt orange, cyan, pale blue, and deep indigo coexist with graphite-like black sketch lines. Some limbs remain only exploratory outlines, making the drawing feel like successive animation frames visible at once. The line weight changes rapidly from faint searching loops to decisive dark arcs at knees, shoes, and shoulders. Light is even and comes from the paper itself, with no naturalistic shadow. The broad blank upper field gives the restless cluster room to move. No readable lettering appears. The overall composition is kinetic but airy, using repeated anatomy, colored phases, and visible revisions to describe movement as a drawn rhythm.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "8125590d57ea6187c275eac27c4e6351700f85f7141c6e2c4e293a3ee1bcfab5",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

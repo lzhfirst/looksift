@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square atmospheric painting shows two tiny dark figures standing beside a luminous yellow distance beneath a blue forest. The upper half is a weathered field of turquoise, slate, and pale blue, crossed by the fine dark silhouette of a tall tree near the left. A low pink band stretches across the middle, separating the cool upper color from an intense yellow opening along the horizon. The pair of people stand just left of center on darker blue-green ground, small enough that their faces and clothing are not individually described. To the right, a sloping earth bank rises toward a pale building near the upper edge. At the far right foreground, wide stone steps climb upward and a shallow greenish water area occupies the lower corner. The image has an intentionally unstable sense of depth: thin tree lines and distant figures suggest a landscape, while scraped color fields and visible drips flatten it back into a painted surface. Light appears to emanate from the yellow horizon, silhouetting the small figures and washing the nearby ground with warm color; the upper trees remain cool and shadowed. Fine scratches, stains, and uneven paint make every broad zone tactile. There is no readable text. The overall composition is quiet and uncanny, placing a small human pause between a broad blue canopy, a bright yellow distance, and a dark stepped foreground.",
+  "full_prompt_zh": "一幅方形空气感绘画呈现蓝色树林下、明亮黄色远方旁的两个极小深色人影。上半部是经风化的绿松石蓝、石板蓝和浅蓝色域，一棵高树的纤细深色剪影在左侧穿过。低矮粉色横带沿中部伸展，把冷色上方与地平线附近强烈的黄色开口分开。两人站在中央略偏左的深蓝绿地上，小到无法逐一描写脸与衣物。右侧土坡升向上缘附近的一座浅色建筑。最右前景宽阔石阶向上攀升，浅绿水面占据下角。图像的纵深有意不稳定：细树线和远方小人暗示风景，刮擦色域与可见滴痕又把它压回绘画表面。光仿佛从黄色地平线发出，让小人变成剪影，并用暖色洗过近旁地面；上部树木仍冷而有影。细划痕、污迹和不均颜料让每一大块色域都有触感。没有可读文字。整体构图安静而异样，把小小人的停驻放在宽阔蓝色顶层、明亮黄色远方与深色阶梯前景之间。",
+  "style_prompt_en": "Atmospheric painting lets thin descriptive lines coexist with broad scraped fields, stains, and visible drips. Turquoise, slate blue, green-gray, pink, and a concentrated acid yellow form a surprising but controlled palette. Edges of distant forms fade into haze, while a few dark vertical and stepped marks give the composition orientation. Light appears to emerge from a narrow bright horizontal opening, silhouetting tiny accents and leaving the upper field cool and subdued. Painterly abrasion repeatedly flattens spatial depth, so the image oscillates between location and surface. The result is quiet, textured, and slightly uncanny.",
+  "style_prompt_zh": "空气感绘画让纤细的描述线与宽阔刮擦色域、污迹和可见滴痕共存。绿松石蓝、石板蓝、绿灰、粉色与集中的酸黄色组成意外却受控的色域。远处形体边缘消入薄雾，少数深色竖线与阶梯笔痕给构图定位。光像从狭窄的明亮水平开口中发出，让极小的强调变成剪影，上部色域冷而收敛。绘画磨蚀反复压平空间纵深，使图像在地点与表面之间摇摆。效果安静、有肌理且略显异样。",
+  "theme_en": "Two small figures by a yellow horizon beneath a blue forest",
+  "theme_zh": "蓝色树林下黄亮地平线旁的两个人影",
+  "wh_ratio": "1:1",
+  "id": "4152",
+  "name": "Peter Doig",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/peter-doig.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "68044470e26c30d0d46d7141450b00ff99646b6e4cbbaf5b952bed1c2c203487",
+    "gpt_submission_prompt": "A square atmospheric painting shows two tiny dark figures standing beside a luminous yellow distance beneath a blue forest. The upper half is a weathered field of turquoise, slate, and pale blue, crossed by the fine dark silhouette of a tall tree near the left. A low pink band stretches across the middle, separating the cool upper color from an intense yellow opening along the horizon. The pair of people stand just left of center on darker blue-green ground, small enough that their faces and clothing are not individually described. To the right, a sloping earth bank rises toward a pale building near the upper edge. At the far right foreground, wide stone steps climb upward and a shallow greenish water area occupies the lower corner. The image has an intentionally unstable sense of depth: thin tree lines and distant figures suggest a landscape, while scraped color fields and visible drips flatten it back into a painted surface. Light appears to emanate from the yellow horizon, silhouetting the small figures and washing the nearby ground with warm color; the upper trees remain cool and shadowed. Fine scratches, stains, and uneven paint make every broad zone tactile. There is no readable text. The overall composition is quiet and uncanny, placing a small human pause between a broad blue canopy, a bright yellow distance, and a dark stepped foreground.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "b737363af4e9ce8ba50cb9c330f9b55f90c0eff5656f2e4d3c7cdc7bafe67fb4",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

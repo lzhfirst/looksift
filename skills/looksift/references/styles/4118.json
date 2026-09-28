@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square narrative oil painting shows a crowded tavern interior centered on a small wooden table. At the front left, an older man in a dark teal coat and pale curled wig sits with one hand on the tabletop, turning toward a woman in a light dress and blue-green bodice at the right. Glasses and a bottle catch faint highlights between them. Behind the seated pair, people in brown, cream, pink, and dark coats lean closer, each with a distinct gesture or curious expression. One man bends in from the left with his hat tilted forward; another figure in a pale cap stands just behind the table. To the right, a man in a reddish coat appears animated, his arm extended as if making a point. The low room is crowded by bodies, wooden furniture, and a shadowy rear wall, leaving little empty space. Faces and hands are painted more clearly than the peripheral garments, where broader brown and olive strokes blend into the background. Warm interior light comes from the upper left and falls across the central faces, pale dress, and glassware; darker corners and overlapping figures form deep shadow around them. The palette mixes subdued earth colors with selected teal, rose, and cream accents. No sign or lettering is legible. The overall composition is lively and satirical in feeling, using interlocking gazes and gestures to guide the eye around a dense, warmly lit social scene.",
+  "full_prompt_zh": "一幅方形叙事油画展现拥挤的酒馆室内，中心是一张小木桌。左前方一位穿深青绿外套、戴浅色卷假发的年长男子坐着，一只手落在桌上，转向右侧一位穿浅色裙与蓝绿色紧身上衣的女子。两人之间的杯子和瓶子接住微弱亮光。坐者身后，穿棕、奶油色、粉与深色外套的人们向前探身，各有不同动作和好奇神情。一名男子从左侧弯入，帽子向前倾；另一位戴浅色帽的人站在桌后。右侧一位穿红褐外套的男子显得激动，手臂伸出，仿佛在强调某件事。低矮房间被身体、木家具和深暗后墙塞满，几乎没有空处。脸与手比外围衣物画得更清楚，后者以较宽的棕色和橄榄色笔触融进背景。暖室内光从左上方照到中央脸部、浅色裙装与玻璃器皿；较暗角落和重叠人物围出深影。色域以暗土色配合少量青绿、玫瑰色与奶油色强调。没有可读标牌或文字。整体构图热闹，带一点讽刺意味，用相连的视线和手势引导目光绕过密集、暖光下的社交场景。",
+  "style_prompt_en": "Narrative oil painting packs many overlapping forms into a shallow, busy space while retaining clear focal gestures. Fine facial and hand modeling contrasts with broader, loosely merged peripheral strokes. Umber, olive, warm gray, cream, dusty rose, and muted teal form an earthy palette with small colored accents. Warm light enters from one upper side, making a central cluster readable while surrounding areas deepen into brown shadow. Diagonal glances and curved gestures create a circulating rhythm across the dense arrangement. The surface is softly brushed and slightly aged, lending the lively scene a theatrical, observant quality.",
+  "style_prompt_zh": "叙事油画把许多重叠形体压入浅而繁忙的空间，同时保留清楚的焦点动作。面部与手部的细致塑形对比外围较宽、松散融合的笔触。熟褐、橄榄绿、暖灰、奶油色、灰玫红与暗青绿组成带少量色彩强调的土色域。暖光从上方一侧进入，使中央聚合可读，周围区域则沉入棕色阴影。斜向视线与弯曲动作在密集排列中创造循环节奏。表面笔触柔和且略显陈旧，赋予热闹场景舞台式观察感。",
+  "theme_en": "A crowded tavern conversation around a small table",
+  "theme_zh": "小桌周围拥挤的酒馆谈话场面",
+  "wh_ratio": "1:1",
+  "id": "4118",
+  "name": "William Hogarth",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/william-hogarth.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "572a399a7f314e0e34bbb2310116d361e391985dc2b48e7c7e2696f787e7d131",
+    "gpt_submission_prompt": "A square narrative oil painting shows a crowded tavern interior centered on a small wooden table. At the front left, an older man in a dark teal coat and pale curled wig sits with one hand on the tabletop, turning toward a woman in a light dress and blue-green bodice at the right. Glasses and a bottle catch faint highlights between them. Behind the seated pair, people in brown, cream, pink, and dark coats lean closer, each with a distinct gesture or curious expression. One man bends in from the left with his hat tilted forward; another figure in a pale cap stands just behind the table. To the right, a man in a reddish coat appears animated, his arm extended as if making a point. The low room is crowded by bodies, wooden furniture, and a shadowy rear wall, leaving little empty space. Faces and hands are painted more clearly than the peripheral garments, where broader brown and olive strokes blend into the background. Warm interior light comes from the upper left and falls across the central faces, pale dress, and glassware; darker corners and overlapping figures form deep shadow around them. The palette mixes subdued earth colors with selected teal, rose, and cream accents. No sign or lettering is legible. The overall composition is lively and satirical in feeling, using interlocking gazes and gestures to guide the eye around a dense, warmly lit social scene.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "764615fb4ab01acb8cac48d00f2d3b3569b79e7b16487471c5d74a821efaa4fd",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

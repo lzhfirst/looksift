@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white landscape photograph shows a group of bare trees near the right edge of a broad, low plain. The tallest tree stands just right of center, its delicate branching crown outlined against a pale gap in heavy clouds. Several smaller trees recede toward the far right, while the left side opens to low mountains softened by rain or mist. A dark strip of earth runs along the bottom, crossed by a faint pale track or wet reflective line that leads inward. The sky occupies most of the frame. Huge layered storm clouds billow from left and right, with deep charcoal undersides and bright silver openings above the horizon. Near the top center, light filters through thinner vapor and makes the cloud edges glow without revealing a sharp sun. The photograph uses a wide tonal range, from nearly black land to luminous white cloud, yet retains fine gradations within the gray masses. Wind and weather are suggested by drifting veils over the hills and a wavering outline along the horizon, though the trees themselves remain sharply still. No people, vehicles, or buildings are visible. The camera is low enough for the trees to break the horizon but far enough away to keep them small relative to the monumental sky. Soft atmospheric light comes from behind the clouds, leaving the foreground in shadow and edging the branches with gray. The overall composition is austere and spacious, with the small cluster of trees acting as a quiet anchor beneath an imposing, textured sky.",
+  "full_prompt_zh": "一幅方形黑白风景照片描绘宽阔低地右侧的一组光秃树木。最高的树位于中央偏右，细致的分枝树冠在厚云的浅色缺口前显出轮廓。几棵较小的树向最右侧退去，左侧则展开被雨雾软化的低山。底部是一带暗地，横过一道淡浅的小径或湿润反光线，向内部引去。天空占据画面大部分。巨大的层叠风暴云从左右翻涌，底部深炭色，地平线上方有明亮银色开口。顶部中央附近，光透过较薄水汽，使云缘发亮，却没有露出清晰太阳。照片使用宽广灰阶，从近黑地面到发光白云，同时保留灰色云团内部的细腻层次。山上的漂移雾幕和地平线的游移轮廓暗示风雨，树木自身却保持清晰静止。看不到人、车辆或建筑。相机视点低到足以让树形穿过地平线，又远得使树在宏伟天空前显得很小。柔和大气光从云后传来，前景落入阴影，树枝边缘带灰光。整体构图严峻而开阔，小树群成为厚重纹理天空之下安静的锚点。",
+  "style_prompt_en": "Work in fine-art monochrome photography with a broad, carefully separated tonal scale. Let large textured masses of cloud, rock, fabric, or other surfaces carry drama through soft silver highlights and charcoal depths. Use atmospheric backlight, misty distance, and a dark low foreground to create scale. Keep small focal silhouettes crisp against luminous openings while surrounding forms fade through gray veils. Favor restrained composition, substantial negative space, and a tactile but natural photographic grain.",
+  "style_prompt_zh": "采用黑白艺术摄影，以宽广而细致分隔的灰阶塑造画面。让大面积有纹理的云、岩、布或其他表面凭柔银高光与炭黑深部承载戏剧性。使用大气背光、雾化远景和低暗前景建立尺度。小型焦点剪影在发亮开口前保持清晰，周围形状则穿过灰色薄幕渐淡。偏重克制构图、大量留白和可触却自然的摄影颗粒。",
+  "theme_en": "Bare trees beneath luminous storm clouds over a dark plain",
+  "theme_zh": "暗色平原上的枯树与发亮风暴云",
+  "wh_ratio": "1:1",
+  "id": "0399",
+  "name": "John Paul Caponigro",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/john-paul-caponigro",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/john-paul-caponigro.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "d0c4ad12e5ae9526cb101c47cf2ba5399c6835dfdd20976a1725ddf846f7eb4c",
+    "gpt_submission_prompt": "A square black-and-white landscape photograph shows a group of bare trees near the right edge of a broad, low plain. The tallest tree stands just right of center, its delicate branching crown outlined against a pale gap in heavy clouds. Several smaller trees recede toward the far right, while the left side opens to low mountains softened by rain or mist. A dark strip of earth runs along the bottom, crossed by a faint pale track or wet reflective line that leads inward. The sky occupies most of the frame. Huge layered storm clouds billow from left and right, with deep charcoal undersides and bright silver openings above the horizon. Near the top center, light filters through thinner vapor and makes the cloud edges glow without revealing a sharp sun. The photograph uses a wide tonal range, from nearly black land to luminous white cloud, yet retains fine gradations within the gray masses. Wind and weather are suggested by drifting veils over the hills and a wavering outline along the horizon, though the trees themselves remain sharply still. No people, vehicles, or buildings are visible. The camera is low enough for the trees to break the horizon but far enough away to keep them small relative to the monumental sky. Soft atmospheric light comes from behind the clouds, leaving the foreground in shadow and edging the branches with gray. The overall composition is austere and spacious, with the small cluster of trees acting as a quiet anchor beneath an imposing, textured sky.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "f660dc4b93982d38eb941f616b757a2954b529320ee0fd6fba9252fe7f336442",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square painted portrait shows a young man from the chest upward against a deep brown, almost black field. He faces the viewer directly, with dark curly hair, wide brown eyes, a straight nose, and a small closed mouth. Warm olive and ochre tones model the face, while paler strokes pick out the forehead, nose bridge, cheeks, and neck. A light cream garment crosses the right shoulder and upper chest, its broad folds painted with fewer details than the face. The head sits slightly right of center, leaving more dark space at the left edge and behind the shoulder. The painting has a visibly aged support: vertical cracks, chips, thin scratches, and rubbed areas interrupt the pigments, especially near the outer edges. The dark ground is not uniform; muted reddish and greenish undertones show through its rough texture. Light appears to come from the upper left, giving the forehead and near cheek a quiet glow and allowing the hair and far side of the face to merge into shadow. The sitter's steady gaze remains the sharpest and most luminous point despite the worn surface. Brushwork is compact and softly blended across the skin but rougher through the clothing and background. The overall composition is intimate and frontal, holding a direct human presence inside a restrained earth palette and the material history of the painted panel.",
+  "full_prompt_zh": "一幅方形彩绘肖像在深棕、近黑的底面前呈现一位年轻男子的胸上半身。他正面望向观者，有深色卷发、宽大的棕眼、直鼻梁和闭合的小嘴。暖橄榄色与赭黄色塑造脸部，较浅笔触挑亮额头、鼻梁、面颊与脖颈。一件浅奶油色衣物越过右肩和胸上部，宽大褶皱的细节比脸少。头部略偏中央右侧，使左缘与肩后留下更多暗色空间。画作载体明显陈旧：竖向裂纹、剥落、细划痕和磨损区打断颜料，在外缘尤其明显。深色底面并不均匀，粗糙肌理中透出暗红和微绿色底调。光仿佛来自左上方，使额头与近侧脸颊微亮，让头发和脸部远侧融入阴影。尽管表面磨旧，坐者稳定的目光仍是最清楚、最明亮的地方。皮肤上的笔触紧凑而柔和融合，衣服与背景则更粗糙。整体构图亲密且正面，让直接的人物存在停留在克制的土色域与画板的材料历史之中。",
+  "style_prompt_en": "Aged panel painting combines compact, softly blended modeling with a visibly distressed support. Narrow cracks, scratches, worn pigment, and rough dark ground interrupt otherwise careful transitions without destroying the focal clarity. Olive brown, burnt umber, ochre, muted cream, and deep charcoal make a restrained warm palette. A modest upper-side light lifts selected planes from a dense shadow field, with the strongest highlights kept small and close together. The composition concentrates detail in one quiet central zone and lets peripheral areas dissolve into uneven darkness. Its visual force comes from directness, material age, and a patient balance of light and wear.",
+  "style_prompt_zh": "陈旧板面绘画将紧凑、柔和融合的塑形与明显磨损的载体结合。狭窄裂纹、划痕、剥蚀颜料与粗糙深色底面打断原本细致的过渡，却不破坏焦点清晰度。橄榄棕、焦褐、赭黄、暗奶油色和深炭色组成克制的暖色域。适度的上侧光从浓密暗域中抬起部分平面，最强高光小而集中。构图把细节汇在安静的中央区域，让外围消入不均匀的黑暗。其视觉力量来自直接性、材料年龄感以及光与磨损的耐心平衡。",
+  "theme_en": "A front-facing young man painted on worn wood",
+  "theme_zh": "磨旧木板上正面朝向的年轻男子肖像",
+  "wh_ratio": "1:1",
+  "id": "4074",
+  "name": "Fayum portrait",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/fayum-portrait.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "47e0aee8c46be21a49c001a3930e0179d8bb967a4f258eab36e35edb053aaf9f",
+    "gpt_submission_prompt": "A square painted portrait shows a young man from the chest upward against a deep brown, almost black field. He faces the viewer directly, with dark curly hair, wide brown eyes, a straight nose, and a small closed mouth. Warm olive and ochre tones model the face, while paler strokes pick out the forehead, nose bridge, cheeks, and neck. A light cream garment crosses the right shoulder and upper chest, its broad folds painted with fewer details than the face. The head sits slightly right of center, leaving more dark space at the left edge and behind the shoulder. The painting has a visibly aged support: vertical cracks, chips, thin scratches, and rubbed areas interrupt the pigments, especially near the outer edges. The dark ground is not uniform; muted reddish and greenish undertones show through its rough texture. Light appears to come from the upper left, giving the forehead and near cheek a quiet glow and allowing the hair and far side of the face to merge into shadow. The sitter's steady gaze remains the sharpest and most luminous point despite the worn surface. Brushwork is compact and softly blended across the skin but rougher through the clothing and background. The overall composition is intimate and frontal, holding a direct human presence inside a restrained earth palette and the material history of the painted panel.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "b66e4e04f92380578e024e2c03d74a47062ec209e3977cf426f2738db40dff94",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

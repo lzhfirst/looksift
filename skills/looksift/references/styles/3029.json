@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square retro-futurist illustration shows two figures in heavy round respirator masks standing close together inside a dim blue-green industrial room. The figure on the left is shorter and wears a sleeveless patterned dress in muted red and blue, with pale hair or a light hood gathered behind the mask. The larger figure on the right has swept-back light hair, a pale blue rolled-sleeve shirt, dark suspenders, and a small rectangular device hanging near the chest. Both masks have large orange-tinted circular lenses and protruding filter canisters, giving their faces a mechanical expression. A short plume of pale smoke rises above the left mask and curls toward the top edge. Behind them, blue-green wall panels, shallow vertical seams, and a dark ceiling establish an enclosed space without detailed machinery. The right figure's arm drops toward the lower right, partly cropped by the frame; the left figure's torso continues to the bottom edge. Rough linework and patched paint describe straps, buckles, canisters, and cloth folds, with the densest detail around the masks. The ambient light is cool and low, but warm ochre highlights catch the round lenses, filters, hair, and exposed skin. Broad shadow pools around the lower edges and the back wall. The palette balances oxidized teal, tobacco brown, faded red, pale blue, and smoky cream. The overall composition brings two heavily equipped figures into a tight, quiet exchange, combining worn analog technology with a soft, painterly atmosphere.",
+  "full_prompt_zh": "这幅方形复古未来主义插画呈现两个人物戴着厚重圆形呼吸面罩，紧靠着站在昏暗蓝绿色工业房间里。左侧人物较矮，穿带低调红蓝纹样的无袖裙，浅发或浅色头罩聚在面罩后。右侧较大的人物有向后梳的浅发、卷袖浅蓝衬衫、深色背带，胸前附近挂一只小矩形装置。两副面罩都有大而带橙色的圆形镜片和突出的滤罐，使面孔带机械表情。一缕浅烟从左侧面罩上方升起，卷向顶边。身后蓝绿色墙板、浅竖缝与深色天花形成封闭空间，却不见细密机器。右侧人物的手臂垂向右下，部分被画框裁切；左侧人物的躯干延伸到底边。粗糙线条和补块般颜料描出带子、扣件、滤罐与衣褶，最密的细节聚在面罩周围。环境光冷而低，但暖赭色高光照到圆镜片、滤罐、头发和露出的皮肤。大片阴影聚在下边缘与后墙。配色平衡氧化青绿、烟草棕、褪红、浅蓝与烟白。整体构图把两个重装备人物带进紧凑而安静的交流，结合磨旧模拟技术与柔和绘画空气。",
+  "style_prompt_en": "The illustration uses painterly retro-futurist surfaces: oxidized teal, faded red, tobacco brown, pale blue, and small amber glows. Heavy circular and cylindrical forms gain weight from dark linework, chipped paint, and rubbed highlights. Cool low ambient light fills the broad field, while warm local accents define the focal hardware-like details. Edges alternate between crisp mechanical contours and smoky softened passages, producing a worn analog feel. The composition crowds a few large shapes together, leaving a quieter shadowed field behind them. The result feels inventive, tactile, and slightly melancholy.",
+  "style_prompt_zh": "这种插画使用带绘画感的复古未来表面：氧化青绿、褪红、烟草棕、浅蓝和少量琥珀亮点。厚重圆形与圆柱形由深色线条、剥落颜料和擦亮高光获得重量。冷而低的环境光填满大色域，温暖局部重音界定焦点附近似硬件的细节。边缘在清晰机械轮廓与烟雾般柔化区域间交替，形成磨旧的模拟时代质感。构图把少数大形紧挤在一起，身后留下较安静的阴影色域。结果富于想象、可触而略带惆怅。",
+  "theme_en": "Two figures in round respirator masks in a dim retro-futurist room",
+  "theme_zh": "昏暗复古未来房间里，两人戴圆形呼吸面罩",
+  "wh_ratio": "1:1",
+  "id": "3029",
+  "name": "Atompunk",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/atompunk",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "6152a94dda8d794409920be189ab1fe78efb13836b8c616762b9ec52e8efb248",
+    "gpt_submission_prompt": "A square retro-futurist illustration shows two figures in heavy round respirator masks standing close together inside a dim blue-green industrial room. The figure on the left is shorter and wears a sleeveless patterned dress in muted red and blue, with pale hair or a light hood gathered behind the mask. The larger figure on the right has swept-back light hair, a pale blue rolled-sleeve shirt, dark suspenders, and a small rectangular device hanging near the chest. Both masks have large orange-tinted circular lenses and protruding filter canisters, giving their faces a mechanical expression. A short plume of pale smoke rises above the left mask and curls toward the top edge. Behind them, blue-green wall panels, shallow vertical seams, and a dark ceiling establish an enclosed space without detailed machinery. The right figure's arm drops toward the lower right, partly cropped by the frame; the left figure's torso continues to the bottom edge. Rough linework and patched paint describe straps, buckles, canisters, and cloth folds, with the densest detail around the masks. The ambient light is cool and low, but warm ochre highlights catch the round lenses, filters, hair, and exposed skin. Broad shadow pools around the lower edges and the back wall. The palette balances oxidized teal, tobacco brown, faded red, pale blue, and smoky cream. The overall composition brings two heavily equipped figures into a tight, quiet exchange, combining worn analog technology with a soft, painterly atmosphere.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "ef1297b8c3f59c6043416c3dd3a4dcf6baf742a3cb314c1fbf3aa43b073e523d",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

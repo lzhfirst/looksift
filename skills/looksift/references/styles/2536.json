@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square intricate fantasy drawing presents the profile of an avian elder whose humanlike face merges with a bird's head and forest debris. The large hooked yellow-brown beak projects to the right beneath a deeply set amber eye. Layered white and gray feathers sweep over the brow like a thick crown, with small broken feather tips and fine hatching following their direction. Around the back of the head, a dense tangle of twigs, leaves, small mechanical shapes, and carved ornaments fills the left half of the composition. The cheek and lower face have pebbled feather texture and soft gray shadow, giving the unusual anatomy a believable weight. Pale parchment occupies the right margin, crossed by a few thin bare branches. The palette is tightly limited to cream, bone gray, muted brown, olive, and a small golden note in the beak and eye. Contours are sharply controlled around the focal eye and beak, while the far edges dissolve into overlapping fine marks and organic clutter. Light comes gently from the right, illuminating the beak and feathered forehead and leaving the recesses of the tangle darker. The close crop gives the head monumental presence, but the surrounding details reward slow inspection. The result is ancient and strange, combining naturalist feather study with baroque fantasy ornament.",
+  "full_prompt_zh": "一幅方形繁密奇幻绘图展示一位鸟形长者的侧面，人形脸与鸟头及林中碎枝融为一体。大而钩曲的黄棕喙伸向右方，深陷的琥珀眼位于其上。层叠灰白羽毛像厚冠一样扫过眉骨，细碎羽尖与纤细排线顺着其方向展开。头部后方，树枝、叶片、小机械形和雕刻饰物密集纠缠，填满左半幅。面颊和下部有颗粒般羽毛肌理与柔灰阴影，让奇异的构造具有可信重量。淡羊皮纸色占据右侧边缘，几条细枯枝穿过。配色严格限于奶油、骨灰、低调棕、橄榄和喙眼处一点金黄。焦点眼与喙周边轮廓精确受控，远侧边缘化入重叠细笔痕与有机杂物。柔光从右边来，照亮喙和羽毛额头，让纠缠物的凹处更暗。贴近裁切给头部纪念碑般的存在感，四周细节却值得慢看。作品古老而奇异，把自然主义羽毛研究与巴洛克式奇幻装饰结合。",
+  "style_prompt_en": "Intricate fantasy drawing layers very fine hatching, organic filigree, and dense ornamental texture on pale parchment. Bone gray, cream, muted umber, olive, and small ochre accents keep the complexity coherent. Sharp focal contours gradually break into a thicket of thin interlocking lines toward the edge. Directional marks describe feathered or fibrous surfaces, while soft gray wash gives weight beneath the detail. Gentle side light picks raised forms from darker recesses. The close, compressed composition feels ancient, tactile, and slightly uncanny, with naturalist observation joined to elaborate invention.",
+  "style_prompt_zh": "繁密奇幻绘图在淡羊皮纸上层叠极细排线、有机花丝和浓密装饰肌理。骨灰、奶油、低调赭棕、橄榄与小块赭黄使复杂细节保持统一。清晰焦点轮廓向边缘逐渐碎成细线相扣的丛林。定向笔痕描述羽状或纤维表面，柔灰水洗在细节下赋予重量。温和侧光从深凹处拣出凸起形。贴近压缩的构图古老、可触、微有奇异感，把自然主义观察与繁复想象连接。",
+  "theme_en": "An avian elder with a hooked beak and feathered brow",
+  "theme_zh": "有钩嘴与羽眉的鸟形长者",
+  "wh_ratio": "1:1",
+  "id": "2536",
+  "name": "Ian Miller",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/ian-miller",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/ian-miller.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "79392249a4e57e3b075df33b699b00b9f8f4c1e7ef90f8cc76f34afdcc6262e1",
+    "gpt_submission_prompt": "A square intricate fantasy drawing presents the profile of an avian elder whose humanlike face merges with a bird's head and forest debris. The large hooked yellow-brown beak projects to the right beneath a deeply set amber eye. Layered white and gray feathers sweep over the brow like a thick crown, with small broken feather tips and fine hatching following their direction. Around the back of the head, a dense tangle of twigs, leaves, small mechanical shapes, and carved ornaments fills the left half of the composition. The cheek and lower face have pebbled feather texture and soft gray shadow, giving the unusual anatomy a believable weight. Pale parchment occupies the right margin, crossed by a few thin bare branches. The palette is tightly limited to cream, bone gray, muted brown, olive, and a small golden note in the beak and eye. Contours are sharply controlled around the focal eye and beak, while the far edges dissolve into overlapping fine marks and organic clutter. Light comes gently from the right, illuminating the beak and feathered forehead and leaving the recesses of the tangle darker. The close crop gives the head monumental presence, but the surrounding details reward slow inspection. The result is ancient and strange, combining naturalist feather study with baroque fantasy ornament.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "e5bbe52fbd8dd3aa47cda657aa8b6de57e4ff1631a24be572102dc265bb2112e",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

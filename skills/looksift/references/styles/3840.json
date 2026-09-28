@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square childlike digital cartoon shows a small red creature standing on a thin strip of pale ground beneath an enormous textured crimson sky. The creature occupies the lower left, its long narrow body rising from the ground with a slightly uneven hand-drawn outline. A pointed head contains two oversized white eyes looking toward the upper right and a wide black mouth lined with short white teeth. Two tiny arms meet near its chest, giving the otherwise simple shape a nervous, expectant posture. Far above, a bright yellow circular sun with a few small dark facial marks sits near the upper middle. Dense yellow-orange rays burst from it, and a long spray of short dashes streams diagonally down toward the left, making the sun look as if it is flying or falling across the red field. The creature and sun are separated by a very large expanse of empty color, so their visual relationship supplies the story. The ground at the bottom is off-white with rough black scribbles along its upper edge. The red background has mottled paintlike grain and slightly darker clouds of tone, not a completely smooth fill. Light is graphic and internal to the yellow sun; the creature casts no realistic shadow, and all outlines remain flat. Only red, black, white, yellow, and a little orange are needed to carry the image. There is no readable caption or other object in this panel. The overall composition is stark, funny, and mildly anxious, using crude expressive drawing and huge negative space to make a tiny encounter feel dramatic.",
+  "full_prompt_zh": "一幅方形、孩童般的数字漫画描绘一个红色小怪物站在细窄浅色地面上，头顶是巨大的有肌理绯红天空。小怪物位于左下，细长身体从地面升起，轮廓手绘且略不齐整。尖头上有两只夸大白眼，望向右上，还有一张布满短白牙的宽黑嘴。两只小手在胸前碰到一起，让原本简单的形状带紧张期待的姿态。远在上方，一轮亮黄小圆太阳位于上方中央附近，里面有几处细小深色面部记号。密集黄橙光线从它爆开，一条由短划组成的长尾向左下斜散，使太阳看似飞行或坠过红色画域。怪物和太阳之间隔着极大片空色，因此两者视觉关系本身承载故事。底部地面灰白，上边缘有粗糙黑涂线。红背景有斑驳颜料般颗粒和略深的色云，并非完全平滑填色。光是图形化的，存在于黄太阳内部；怪物没有写实影子，所有轮廓保持平面。红、黑、白、黄与少量橙就足以承载图像。此格没有可读说明或其他物件。整体构图极简、好笑又略焦虑，用粗拙而富表情的画法和巨大留白使一场微小遭遇显得戏剧化。",
+  "style_prompt_en": "The image has deliberately crude digital-cartoon drawing with thin wobbly black contours, flat simplified shapes, and a slightly mottled color field. Strong red occupies almost the whole frame, with tiny white and yellow focal areas producing abrupt contrast. Expression comes from exaggerated marks and awkward body geometry rather than detailed modeling. Small scratchy dashes create an energetic diagonal against a mostly empty static ground. Lighting is symbolic and flat, with no realistic cast shadows; rough edge scribbles and grain preserve a handmade feel. The overall effect is absurd, immediate, and emotionally legible despite extreme simplicity.",
+  "style_prompt_zh": "图像有意采用粗拙数字漫画画法，细而摇晃的黑轮廓、平坦简化形状和略斑驳色场。强烈红色占据几乎全图，极小白与黄焦点形成突然反差。表情来自夸张记号和别扭的身体几何，而非细致塑形。小而粗的短划在大体空静的底色上形成有力斜线。光象征化且平坦，没有写实投影；粗边涂线和颗粒保留手作感。整体效果荒诞、直接，并在极简条件下仍能清楚传达情绪。",
+  "theme_en": "A startled red doodle creature watching a tiny blazing sun streak across the sky",
+  "theme_zh": "受惊的红色涂鸦小怪物望着一轮拖着火尾的小太阳",
+  "wh_ratio": "1:1",
+  "id": "3840",
+  "name": "Allie Brosh",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/allie-brosh",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "1c8a4808023a74ef0e5085c0fd1e0c0fc3071090d805cdce372670ae2e8f9047",
+    "gpt_submission_prompt": "A square childlike digital cartoon shows a small red creature standing on a thin strip of pale ground beneath an enormous textured crimson sky. The creature occupies the lower left, its long narrow body rising from the ground with a slightly uneven hand-drawn outline. A pointed head contains two oversized white eyes looking toward the upper right and a wide black mouth lined with short white teeth. Two tiny arms meet near its chest, giving the otherwise simple shape a nervous, expectant posture. Far above, a bright yellow circular sun with a few small dark facial marks sits near the upper middle. Dense yellow-orange rays burst from it, and a long spray of short dashes streams diagonally down toward the left, making the sun look as if it is flying or falling across the red field. The creature and sun are separated by a very large expanse of empty color, so their visual relationship supplies the story. The ground at the bottom is off-white with rough black scribbles along its upper edge. The red background has mottled paintlike grain and slightly darker clouds of tone, not a completely smooth fill. Light is graphic and internal to the yellow sun; the creature casts no realistic shadow, and all outlines remain flat. Only red, black, white, yellow, and a little orange are needed to carry the image. There is no readable caption or other object in this panel. The overall composition is stark, funny, and mildly anxious, using crude expressive drawing and huge negative space to make a tiny encounter feel dramatic.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "52e597ea80c288d30810f5e4f72b59a66d7f9038150fac472e427d511a38d37d",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

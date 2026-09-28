@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white etching presents an elderly bearded man in right-facing profile against a lightly marked paper ground. The head and shoulders fill most of the frame, cropped at the left and bottom edges. Long wavy gray hair flows back from a deeply wrinkled forehead, with loose strands scattering into the pale background near the crown. A prominent nose and half-closed eye define the profile, and a thick white beard spreads down from the chin across the chest. The man wears a dark heavy coat with a high collar and layered fastenings, its worn fabric and seams suggested through tight crosshatching. The shoulder forms a broad dark mass at the lower left, giving the fine pale hair and face room to stand forward. The background is not pure white: faint scratches, stipples, and irregular plate-like marks appear around the head, especially toward the upper right. Dense lines collect around the eye, cheek, collar, and coat, while lighter broken marks articulate individual hairs and beard edges. This range of mark density gives the face volume without a smoothly painted gradient. Soft light is implied from the right, illuminating the nose, cheek ridge, and beard, with the far ear and coat sinking into dark tonal passages. The sitter appears thoughtful and weathered, but the image does not assign him a role or setting. No lettering is legible. The overall composition is intimate and sober, contrasting intricate aging features with a broad shadowed garment and a spacious pale field.",
+  "full_prompt_zh": "这幅方形黑白蚀刻版画呈现一位留须老人的右向侧脸，背景是带轻微痕迹的纸面。头与肩填满画框大部，在左与下沿被裁断。长而波浪的灰发从布满深纹的额头向后飘，松散发丝在头顶附近散入浅背景。突出的鼻子与半垂眼睛定义侧脸，浓密白须从下巴铺到胸前。男子穿深色厚外套，有高领与层叠扣件，磨损布面和接缝由紧密交叉排线暗示。肩部在左下方形成宽阔深色团，让精细浅发和脸向前浮出。背景并非纯白：淡刮痕、点痕和不规则版面痕迹出现在头周，尤其是右上方。密线聚在眼、脸颊、衣领与外套，较浅破碎笔痕描出单根发和胡须边缘。这种线密度范围不靠平滑颜料渐层，也使脸有体积。柔光从右侧暗示，照亮鼻、颧脊和胡须，远侧耳朵与外套沉入深色调区域。人物显得沉思且饱经风霜，但图像未给他安排身份或场景。没有可读文字。整体构图亲密而严肃，以细密的衰老特征对照宽阔阴影衣物与开放浅色域。",
+  "style_prompt_en": "Black-and-white etching builds volume from variable line density, dense crosshatching, drypoint-like scratches, and open paper. Fine broken marks describe soft textures; tightly packed lines create deep cloth-like or recessed darks. The tonal range moves from near-white highlights to charcoal shadow without color. Edges fray into the paper in lighter areas while focal contours stay precise. Gentle side illumination is carried by where marks are withheld rather than by painted glow. The overall effect is intimate, tactile, and sober.",
+  "style_prompt_zh": "黑白蚀刻版画以变化的线密度、密集交叉排线、干刻般刮痕与纸白建立体积。细碎断线描出柔软肌理，紧密线群形成布料般或凹处的深暗。色调从近白亮部到炭黑阴影，无需颜色。浅色区域边缘散入纸面，焦点轮廓保持精确。温和侧光由留白处传达，而非颜料光晕。整体亲密、可触而严肃。",
+  "theme_en": "An elderly bearded man's profile in a textured black-and-white etching",
+  "theme_zh": "一位留须老人的侧脸，以有肌理的黑白蚀刻呈现",
+  "wh_ratio": "1:1",
+  "id": "2559",
+  "name": "Fine art etching",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/fine-art-etching",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/fine-art-etching.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "094e301020677e2da209e12658fd07a43b2faa33f9d65d9a50a19838e9e2bc95",
+    "gpt_submission_prompt": "A square black-and-white etching presents an elderly bearded man in right-facing profile against a lightly marked paper ground. The head and shoulders fill most of the frame, cropped at the left and bottom edges. Long wavy gray hair flows back from a deeply wrinkled forehead, with loose strands scattering into the pale background near the crown. A prominent nose and half-closed eye define the profile, and a thick white beard spreads down from the chin across the chest. The man wears a dark heavy coat with a high collar and layered fastenings, its worn fabric and seams suggested through tight crosshatching. The shoulder forms a broad dark mass at the lower left, giving the fine pale hair and face room to stand forward. The background is not pure white: faint scratches, stipples, and irregular plate-like marks appear around the head, especially toward the upper right. Dense lines collect around the eye, cheek, collar, and coat, while lighter broken marks articulate individual hairs and beard edges. This range of mark density gives the face volume without a smoothly painted gradient. Soft light is implied from the right, illuminating the nose, cheek ridge, and beard, with the far ear and coat sinking into dark tonal passages. The sitter appears thoughtful and weathered, but the image does not assign him a role or setting. No lettering is legible. The overall composition is intimate and sober, contrasting intricate aging features with a broad shadowed garment and a spacious pale field.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "3cddad5cd31264122cf8f1b662b8ee27a0af38eadf747933116702f4a2eacb00",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

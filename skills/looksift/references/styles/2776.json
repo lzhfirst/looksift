@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square monochrome photographic image layers an open book and dark desk with a ghostly city view and library interior. The open book rests across the bottom left foreground, its pages pale and gently curved, their tiny text too small to read. The polished desk edge catches a narrow bright reflection and angles diagonally toward the lower right. Behind it, tall shelving or a wall of books rises along the right side in fine vertical ranks, fading into an overlapping exterior scene. Architectural silhouettes appear across the left and center: a dark tower at the far left, domed structures farther back, and a broad urban mass dissolved by the exposure. Window-like horizontal bands cross the center, so inside and outside occupy the same visual depth. None of the boundaries is entirely stable; dark shapes from the interior merge with hazy roofs and facades. The image is black, white, and many silvery grays, with pronounced grain, slight blur, and softly blown light around the center right. A dim beam from the upper right cuts across the shelves and pages, while the foreground remains substantially dark. The frame feels like a long, layered exposure rather than a clean composite. Its empty human space, overlapping planes, and worn tonal surface produce a reflective, uncanny mood, as if reading and distant city memory are present at once.",
+  "full_prompt_zh": "一幅方形黑白照片把一本摊开的书和深色书桌，与幽影般的城市景观及图书馆室内层层叠合。摊开的书位于左下前景，浅色纸页微微弯曲，细小文字无法读清。抛光桌边接住一道狭窄亮反光，斜向右下延伸。其后，右侧高书架或书墙以细密竖列向上生长，逐渐消失在重叠的外景之中。左侧与中央出现建筑剪影：最左是暗塔，更远处是穹顶形体，还有一片在曝光中溶散的城区。窗框般的横带穿过中央，使室内与室外占据同一视觉深度。没有哪条边界完全稳定；室内暗形体与朦胧屋顶、立面彼此融合。画面由黑白及多层银灰组成，具有明显颗粒、轻微模糊，中央偏右有柔和过曝的光。来自右上的昏暗光束掠过书架与纸页，前景仍大面积深暗。整个画框像一次漫长的层叠曝光，而非干净的拼接。空无人物的空间、相叠平面和磨损般的影调表面形成沉思而诡异的气氛，仿佛阅读与遥远城市记忆同时在场。",
+  "style_prompt_en": "A layered black-and-white photographic treatment lets separate spatial planes coexist through translucent double exposure. Dark silhouettes, pale contours, and fine vertical rhythms overlap without perfectly matching perspective. High grain and softened focus make the tonal surface weathered, while selective bright passages bloom into silvery haze. The foreground is anchored by a deep near-black diagonal; the middle becomes a dense weave of repeated lines and ghosted outlines, and the back dissolves into atmospheric gray. Directional light glances from above one side, leaving broad shadow masses and a few narrow reflective edges. Contrast is strong in the darkest zones but gentle where exposures meet, avoiding hard collage seams. The completed image feels archival, contemplative, and slightly uncanny, with visual depth formed by superimposition rather than a single continuous scene.",
+  "style_prompt_zh": "层叠式黑白摄影让不同空间平面经半透明双重曝光同时存在。深色剪影、浅色轮廓和细密竖向节奏相互交叠，却不完全服从同一透视。较强颗粒与柔化焦点让影调表面显得陈旧，选择性的亮区漫溢成银灰薄雾。前景由近黑的斜向体块锚定；中间化作重复线条与幽影轮廓的密网；后方溶入有空气感的灰。方向光从一侧上方掠过，留下宽广阴影和少量窄反光边。最深处对比强烈，曝光交汇处则过渡温和，避免硬拼贴接缝。成品有档案般的沉思感和轻微诡异感，视觉深度来自叠印，而非单一连续场景。",
+  "theme_en": "Open book on a dark desk within a double-exposed city and library interior",
+  "theme_zh": "深色书桌上的摊开书本与城市及图书馆室内叠影",
+  "wh_ratio": "1:1",
+  "id": "2776",
+  "name": "Abelardo Morell",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/abelardo-morell",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/abelardo-morell.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "600aa6baeb4a6c9d0018a1fe7e32030d4a4b339ee84446a6d43a9daf99ce3700",
+    "gpt_submission_prompt": "A square monochrome photographic image layers an open book and dark desk with a ghostly city view and library interior. The open book rests across the bottom left foreground, its pages pale and gently curved, their tiny text too small to read. The polished desk edge catches a narrow bright reflection and angles diagonally toward the lower right. Behind it, tall shelving or a wall of books rises along the right side in fine vertical ranks, fading into an overlapping exterior scene. Architectural silhouettes appear across the left and center: a dark tower at the far left, domed structures farther back, and a broad urban mass dissolved by the exposure. Window-like horizontal bands cross the center, so inside and outside occupy the same visual depth. None of the boundaries is entirely stable; dark shapes from the interior merge with hazy roofs and facades. The image is black, white, and many silvery grays, with pronounced grain, slight blur, and softly blown light around the center right. A dim beam from the upper right cuts across the shelves and pages, while the foreground remains substantially dark. The frame feels like a long, layered exposure rather than a clean composite. Its empty human space, overlapping planes, and worn tonal surface produce a reflective, uncanny mood, as if reading and distant city memory are present at once.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "2a36bc57eef30bed45e252d71b702a2d1b2c43e189220f60a644a8f6e63d6e04",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

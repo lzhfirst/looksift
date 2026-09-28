@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A vivid red vintage car is parked in profile before a small turquoise roadside building on an empty desert plain. The building has a long flat roof that projects beyond its walls, a few simple windows, and a central door. Both car and structure sit along the lower third of the square frame, aligned in a deliberately clean horizontal arrangement. Behind them, scrubby tan land runs to a thin distant horizon. Above, a massive storm sky occupies most of the image: a dark charcoal cloud ceiling presses down from the top, while a ragged band of warm pale light glows beneath it. The bright red bodywork and cool turquoise walls create a striking but limited color pairing against ocher ground and grey-brown weather. The scene is photographed with a straight-on, almost diagrammatic viewpoint, so the forms read as simple rectangular and curved color blocks. Surfaces remain precise and materially believable: the car has rounded metal contours and bright wheel rims, the building has flat stucco walls, and the cloud field contains soft turbulent gradations. Light is subdued and threatening in the sky but clear enough near the ground to keep each object crisp. The wide vacant areas around the car heighten its stillness, giving this ordinary roadside moment a cinematic, slightly unreal poise. The composition balances saturated color with austere spacing, and smooth constructed geometry with the restless texture of weather.",
+  "full_prompt_zh": "一辆鲜红的老式汽车侧面停在空旷沙漠平原上一幢绿松石色路边小楼前。小楼有一片延伸出墙面的长平屋顶、几扇简单窗户和中央的门。汽车与建筑都沿方形画面下三分之一处排列，形成刻意简洁的水平组合。身后，点缀灌木的浅棕土地延至细薄的远方地平线。上方，巨大的暴风天空占据画面大部分：深炭色云顶从上面压下，一条边缘破碎的暖色浅光带在其下发亮。明亮的红色车身与冷绿松石色墙面形成醒目却有限的配色，与赭黄地面及灰棕天气相对。画面采用正面、近乎图解式的视角，使形体成为清楚的矩形与曲线色块。表面依然准确且材质可信：汽车有圆润金属轮廓和明亮轮圈，小楼是平整的灰泥墙，云层则带柔软、翻涌的渐变。天空的光低沉且预示风雨，地面附近却足够清晰，让每个物体保持锐利。车旁宽大的空处加重静止感，使这个寻常的路边瞬间带有电影般、略微不真实的姿态。构图让饱和色彩与严肃的间距、平滑的人造几何与不安的天气肌理保持平衡。",
+  "style_prompt_en": "Straight-on color photography arranges a few clearly bounded forms against extensive open space. Saturated warm and cool accents punctuate an otherwise restrained field of ocher, charcoal, and weathered grey. Long low horizontals establish calm order beneath a much larger, turbulent atmospheric mass. Built surfaces remain crisp and smooth; clouds carry soft ragged gradations and irregular texture. An unadorned horizon and sparse surrounding detail heighten the separation between object and setting. Light is even enough for material clarity but subdued by threatening weather, producing a cinematic tension. The composition feels staged in its precision yet grounded in believable surface and natural scale.",
+  "style_prompt_zh": "正面视角的彩色摄影把少数边界清晰的形体安置在大片开阔空间中。饱和的冷暖重音点缀在原本克制的赭黄、炭黑和旧灰色域里。细长而低矮的水平线在更大、更动荡的大气色块下建立平静秩序。人造表面清晰平滑；云层则有柔软而破碎的渐变和不规则肌理。未经装饰的地平线与稀少的周边细节强化形体和环境的分离。光线足以保持材质清晰，却被将至的风雨压低，形成电影般的张力。构图精确得近似布置过，同时又由可信的表面和自然尺度支撑。",
+  "theme_en": "A red vintage car parked before a turquoise roadside building under storm clouds",
+  "theme_zh": "暴风云下，一辆红色老车停在绿松石色路边小楼前",
+  "wh_ratio": "1:1",
+  "id": "3906",
+  "name": "Ed Freeman",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/ed-freeman.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "af05c1db4c717a3cd0b40876f28b651486b22e7b6955c353474be55d2e0d9f74",
+    "gpt_submission_prompt": "A vivid red vintage car is parked in profile before a small turquoise roadside building on an empty desert plain. The building has a long flat roof that projects beyond its walls, a few simple windows, and a central door. Both car and structure sit along the lower third of the square frame, aligned in a deliberately clean horizontal arrangement. Behind them, scrubby tan land runs to a thin distant horizon. Above, a massive storm sky occupies most of the image: a dark charcoal cloud ceiling presses down from the top, while a ragged band of warm pale light glows beneath it. The bright red bodywork and cool turquoise walls create a striking but limited color pairing against ocher ground and grey-brown weather. The scene is photographed with a straight-on, almost diagrammatic viewpoint, so the forms read as simple rectangular and curved color blocks. Surfaces remain precise and materially believable: the car has rounded metal contours and bright wheel rims, the building has flat stucco walls, and the cloud field contains soft turbulent gradations. Light is subdued and threatening in the sky but clear enough near the ground to keep each object crisp. The wide vacant areas around the car heighten its stillness, giving this ordinary roadside moment a cinematic, slightly unreal poise. The composition balances saturated color with austere spacing, and smooth constructed geometry with the restless texture of weather.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "5b672af0552a7ac94a55215908145d14813979430118d047e039dec3c8d610a2",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square close-up fashion photograph fills the frame with a freckled young woman's face beneath a broad dark hat brim. The background is mostly lost in deep shadow, with narrow glimpses of warm light along the sides. The hat cuts across the upper quarter as a curved black band edged in copper and orange beads; a circular decorative piece glints near the top right. Beneath it, the woman's pale blue-green eyes look directly at the camera, their irises sharply focused under dark lashes. Fine freckles cover her warm tan cheeks and nose, and soft rose-brown lips remain closed in a composed expression. Loose blond strands fall beside her face, partly tucked into a richly patterned scarf or high collar around her neck. This lower fabric contains small jewel-like spots of red, blue, gold and white, but its folds descend into darkness near the bottom. The crop is extremely tight: the face reaches both side edges and the chin sits close to the lower border. Direct warm light comes from the right front and catches the nose, cheeks, eyes and the copper hat trim, while the brim casts a distinct shadow over the upper forehead. The skin retains visible pores and freckles, contrasting with the metallic sparkle and textured cloth. The overall composition is symmetrical and intense, using a dark ornate frame to hold the steady gaze and warm, tactile color.",
+  "full_prompt_zh": "这幅方形时装近景照片让一位满脸雀斑的年轻女子占满画幅，头顶是宽大的深色帽檐。背景大多消失于深影，只在两侧露出窄窄的暖光。帽子以弯曲黑带横切上方四分之一，边缘镶着铜橙色珠饰；右上附近一件圆形装饰微微闪亮。帽下女子的浅蓝绿色眼睛直接望向相机，虹膜在深睫毛下清晰对焦。细雀斑铺满暖棕色脸颊和鼻子，柔和玫瑰褐色嘴唇闭合，表情镇定。松散金发垂在面旁，部分收进颈边一条花纹繁复的围巾或高领里。下方布料带红、蓝、金、白等细小宝石状色点，褶层在底部附近落入黑暗。裁切非常紧：面孔几乎伸至左右边缘，下巴靠近下框。直接暖光从右前方照来，落在鼻子、面颊、眼睛和铜色帽饰上，帽檐则在上额投下明确阴影。皮肤保留可见毛孔与雀斑，同金属闪光和有肌理的布料形成对照。整体构图对称而强烈，用深色华丽框架收住稳定目光与温暖可触的色彩。",
+  "style_prompt_en": "The fashion photograph relies on a very tight crop, sharp focal detail and dark ornament framing a luminous central area. Warm copper, amber and deep red accents glow against near-black fabric, while a small cool blue-green note gives the image a color counterpoint. Skin texture remains visible and natural, set beside more glittering metal and patterned textile surfaces. Directional warm light strikes from the front side and is partly blocked above, producing a clear shadow band and small jewel-like highlights. The background dissolves into darkness so that texture, gaze-like focus and rich color occupy nearly the entire picture plane. The finish is intimate, saturated and editorial.",
+  "style_prompt_zh": "这种时装摄影依靠极紧的裁切、锐利焦点细节和围住明亮中心的深色装饰。暖铜、琥珀与深红强调在近黑布料前发亮，少量清冷蓝绿色提供色彩对位。皮肤肌理保持可见而自然，同更闪烁的金属及花纹织物表面并置。定向暖光从前侧照来，又在上方部分受遮挡，形成清楚的影带和细小宝石状高光。背景融入黑暗，使肌理、凝定焦点和浓郁色彩几乎占满画面。完成面亲密、饱和并带有时装编辑感。",
+  "theme_en": "A freckled model staring forward beneath a dark ornamented hat brim",
+  "theme_zh": "一位有雀斑的模特在缀饰深色帽檐下直视前方",
+  "wh_ratio": "1:1",
+  "id": "0556",
+  "name": "Hans Feurer",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/hans-feurer",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/hans-feurer.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "76b5f7889911f50bbd698e3d8234330bd92987fc4c9b05e6282a58aeb142f4ae",
+    "gpt_submission_prompt": "A square close-up fashion photograph fills the frame with a freckled young woman's face beneath a broad dark hat brim. The background is mostly lost in deep shadow, with narrow glimpses of warm light along the sides. The hat cuts across the upper quarter as a curved black band edged in copper and orange beads; a circular decorative piece glints near the top right. Beneath it, the woman's pale blue-green eyes look directly at the camera, their irises sharply focused under dark lashes. Fine freckles cover her warm tan cheeks and nose, and soft rose-brown lips remain closed in a composed expression. Loose blond strands fall beside her face, partly tucked into a richly patterned scarf or high collar around her neck. This lower fabric contains small jewel-like spots of red, blue, gold and white, but its folds descend into darkness near the bottom. The crop is extremely tight: the face reaches both side edges and the chin sits close to the lower border. Direct warm light comes from the right front and catches the nose, cheeks, eyes and the copper hat trim, while the brim casts a distinct shadow over the upper forehead. The skin retains visible pores and freckles, contrasting with the metallic sparkle and textured cloth. The overall composition is symmetrical and intense, using a dark ornate frame to hold the steady gaze and warm, tactile color.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "5d06f9fd8e057f5d381f1e8910ff2cb1d4f6bf438f8fcad0e2795b30fee6800f",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

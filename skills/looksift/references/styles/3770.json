@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square, heavily textured painting shows an astronaut seated at the open hatch of a spacecraft on a gray lunar surface. The dark sky is nearly black above the machine, leaving the pale suit and metal hull to carry most of the frame. The rectangular hatch opens toward the viewer at a diagonal, its thick rim and bolts catching narrow highlights. The astronaut sits partly within the opening, with knees bent and boots resting along the lower edge. A large backpack rises behind the shoulders, and the round helmet tilts toward the lit interior. Amber reflections warm the visor, though the face remains concealed. One gloved hand reaches toward the hatch equipment while the other stays near the lap. Inside the opening, a dense tangle of cables, panels and metal supports glints under yellow light. Around the hatch, the spacecraft's gray surface is rough, scuffed and pitted, with dark seams separating overlapping plates. At the lower left, granular lunar dust slopes away from the machine, catching small flecks of light. The image is worked in thick and thin paint: scraped pale ridges reveal hardware, while darker marks sink into crevices. Hard light from above and from the illuminated compartment creates bright white-gray edges and deep charcoal pockets. The overall composition presses a complicated, weathered machine around the solitary figure, giving the cold scene a small human center of warmth.",
+  "full_prompt_zh": "一幅方形厚肌理绘画描绘一名宇航员坐在灰色月面飞船的敞开舱口旁。机器上方的天空近乎纯黑，使浅色宇航服与金属船体承担画面大部分内容。矩形舱口斜向观众敞开，厚重边框和螺栓接住狭窄亮光。宇航员部分坐在开口内，双膝弯曲，靴子沿下缘安放。大型背包高过双肩，圆盔朝向亮着光的舱内。琥珀色反光温暖了面罩，但脸仍被遮住。一只戴手套的手伸向舱口设备，另一只留在膝边。开口内部，密集交错的电缆、面板和金属支架在黄光下闪亮。舱口周围，飞船灰色表面粗糙、磨损且有凹点，深色接缝分开重叠的板片。左下方，颗粒状月尘从机器边缘倾斜而去，抓住细小光点。厚薄相间的颜料处理中，刮出的浅色凸痕显出硬件，深痕沉进凹缝。来自上方及明亮舱室的硬光形成白灰亮边与炭黑深处。整体构图让复杂斑驳的机器环绕孤独身影，为冰冷场景保留一处微小的人性暖意。",
+  "style_prompt_en": "A tactile painterly treatment builds solid forms from scraped impasto, granular scuffs and closely layered dark marks. Cool silver-gray, blue-gray and charcoal occupy broad surfaces, with restrained amber glow reflecting from recessed planes. Mechanical contours appear through alternating hard highlights and broken, roughened edges rather than uniformly clean drawing. Small ridges of pale paint stand proud of darker pits, making the surface feel worn and physical. Light is directional and severe, picking out raised facets while deep crevices remain almost black. Large shadow fields surround a compact illuminated center; dense detail concentrates where forms overlap and thins into simpler outer masses. The finish feels rugged, monumental and intimate at once.",
+  "style_prompt_zh": "这种可触感绘画用刮擦的厚涂、颗粒磨痕和紧密叠加的暗笔建立坚实形体。冷银灰、蓝灰与炭色占据宽阔表面，克制的琥珀光从凹入平面反出。轮廓通过交替的硬亮边和破碎粗糙边缘显现，而非一律洁净的描线。浅色颜料的小凸脊立在深色凹点上，使表面显得磨损而真实。光线方向明确且强硬，挑亮凸面，让深缝几乎发黑。大面积阴影围住紧凑的亮中心；形体交叠处细节密集，外侧大块则简化。完成面兼具粗犷、宏大与亲近感。",
+  "theme_en": "An astronaut seated at the open hatch of a lunar spacecraft",
+  "theme_zh": "坐在月面飞船敞开舱口旁的宇航员",
+  "wh_ratio": "1:1",
+  "id": "3770",
+  "name": "Alan Bean",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/alan-bean",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "fe215de7a42a0e96e929152b196dc9af5c8fb9ea2fbe2b0834f2983e9842419f",
+    "gpt_submission_prompt": "A square, heavily textured painting shows an astronaut seated at the open hatch of a spacecraft on a gray lunar surface. The dark sky is nearly black above the machine, leaving the pale suit and metal hull to carry most of the frame. The rectangular hatch opens toward the viewer at a diagonal, its thick rim and bolts catching narrow highlights. The astronaut sits partly within the opening, with knees bent and boots resting along the lower edge. A large backpack rises behind the shoulders, and the round helmet tilts toward the lit interior. Amber reflections warm the visor, though the face remains concealed. One gloved hand reaches toward the hatch equipment while the other stays near the lap. Inside the opening, a dense tangle of cables, panels and metal supports glints under yellow light. Around the hatch, the spacecraft's gray surface is rough, scuffed and pitted, with dark seams separating overlapping plates. At the lower left, granular lunar dust slopes away from the machine, catching small flecks of light. The image is worked in thick and thin paint: scraped pale ridges reveal hardware, while darker marks sink into crevices. Hard light from above and from the illuminated compartment creates bright white-gray edges and deep charcoal pockets. The overall composition presses a complicated, weathered machine around the solitary figure, giving the cold scene a small human center of warmth.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "9b7746b8ae5ab565d6af46def36f6c48eaf323eb12027c15a29eb2bb6fa140fe",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "The image shows a woman seated cross-legged on a bare floor near the center-right of a pale room. She faces left in profile, her dark hair gathered back, her hands resting in her lap. Her long dark garment carries muted gold and blue patterning that becomes more visible where it catches the light. Dominating the wall before her is an enormous painted or photographic likeness of another woman in profile, looking downward toward the seated figure. This larger face is partly dissolved into a dense field of script, newspaper-like fragments, tiny rectangular patches, and weathered color. The two profiles create a quiet visual exchange across the shallow space, one living and sharply outlined, the other embedded in the wall's layered memory. At the base of the wall a thin strip of green tile runs horizontally, giving the composition a firm line just above the warm tan floor. The palette stays subdued: parchment beige, faded ochre, charcoal, sage green, and occasional flecks of cool blue. Soft, even light reveals the crackled and rubbed surface without dramatic shadows. The square framing leaves generous textured wall around the figures, emphasizing the difference in scale and material. Marks that resemble handwriting mingle with peeling collage edges and mosaic-like specks; no single layer fully replaces another. The whole image feels contemplative, as if the seated figure were listening to an older, almost vanishing presence held in the architecture.",
+  "full_prompt_zh": "画面中，一位女子在浅色房间的地面中央偏右盘腿坐着。她朝左呈侧影，深发束在脑后，双手安放于膝上。深色长衣带着低调的金色与蓝色纹样，在受光处略显清晰。她面前的墙上是一幅远大于真人尺度的女子侧脸，垂眼望向坐着的人。较大的面容部分消融于密集的文字、仿报纸碎片、细小矩形补片与磨旧色彩之中。两张侧脸隔着浅浅的空间静静相对：一张有清晰的真实轮廓，另一张则嵌在墙的层叠记忆里。墙脚一道细窄的绿色瓷砖横贯画面，在暖棕地面上方形成稳定界线。色彩克制，以羊皮纸米色、褪色赭黄、炭灰、鼠尾草绿为主，点缀少量冷蓝。柔和均匀的光揭示龟裂和擦磨的表层，并不制造强烈阴影。方形构图给人物周围留出大片带纹理的墙面，强调尺度与材质的差别。仿手写痕迹与剥落拼贴边缘、马赛克般的微点交混，没有任何一层完全覆盖另一层。整幅图像沉思而安静，仿佛坐着的人正在聆听建筑里保存的一道渐渐消失的旧日身影。",
+  "style_prompt_en": "Build a layered photographic-collage surface from muted parchment, ochre, charcoal, sage, and sparse cool accents. Merge legible contours with aged script-like marks, tiny rectangular fragments, rubbed pigment, and mosaic-like flecks so different visual histories remain visible at once. Use soft even light to reveal texture, a stable horizontal anchor, and substantial negative space. Contrast a crisp foreground silhouette with a larger, weathered image layer while maintaining a contemplative square composition.",
+  "style_prompt_zh": "以柔和羊皮纸色、赭黄、炭灰、鼠尾草绿及少量冷色点缀构成层叠的摄影拼贴表面。让可读轮廓与仿旧文字痕迹、细小矩形碎片、磨擦颜料及马赛克状斑点交融，使不同视觉年代同时可见。用均匀柔光揭示肌理，以稳定的水平线和充足留白组织画面。将清晰的前层剪影与较大、受磨蚀的图像层对照，保持沉思式方形构图。",
+  "theme_en": "Seated woman before a layered wall image",
+  "theme_zh": "层叠墙面图像前的静坐女子",
+  "wh_ratio": "1:1",
+  "id": "1209",
+  "name": "Lalla Essaydi",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/lalla-essaydi",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/lalla-essaydi.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "c0f957b810fc0a4816fc9e6c77483e58008efbcfc3d195a8e4fb78bc262ac23f",
+    "gpt_submission_prompt": "The image shows a woman seated cross-legged on a bare floor near the center-right of a pale room. She faces left in profile, her dark hair gathered back, her hands resting in her lap. Her long dark garment carries muted gold and blue patterning that becomes more visible where it catches the light. Dominating the wall before her is an enormous painted or photographic likeness of another woman in profile, looking downward toward the seated figure. This larger face is partly dissolved into a dense field of script, newspaper-like fragments, tiny rectangular patches, and weathered color. The two profiles create a quiet visual exchange across the shallow space, one living and sharply outlined, the other embedded in the wall's layered memory. At the base of the wall a thin strip of green tile runs horizontally, giving the composition a firm line just above the warm tan floor. The palette stays subdued: parchment beige, faded ochre, charcoal, sage green, and occasional flecks of cool blue. Soft, even light reveals the crackled and rubbed surface without dramatic shadows. The square framing leaves generous textured wall around the figures, emphasizing the difference in scale and material. Marks that resemble handwriting mingle with peeling collage edges and mosaic-like specks; no single layer fully replaces another. The whole image feels contemplative, as if the seated figure were listening to an older, almost vanishing presence held in the architecture.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "b9418ea6f50ed834cf67ed12f2015c955331728ca9cf5e7e31c465918f124582",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

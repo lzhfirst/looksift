@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white photographic close-up fills the frame with a young woman's face as she glances sideways beneath wavy dark hair. The background is heavily blurred and almost absent, with a pale open area at the far left and darker shadow at the right. Her forehead and eyes occupy the upper half; stray bangs cross the brow and cast fine uneven shadows on the skin. The eyes look toward the left edge rather than straight at the camera, sharply focused beneath thick dark lashes. The nose catches a bright patch of direct sunlight, while one cheek and the area under the eyes show natural freckles and fine skin texture. Her lips are slightly parted, and the lower face softens into a darker tonal band. A bent arm or shoulder supports the head near the lower-left corner, its light surface partly cropped by the close framing. Dark hair curls around the right edge, overlapping the cheek and falling into a deep shadow behind the jaw. The photograph is cut tightly at the top and sides, so expression, light and skin surface replace any description of clothing or place. Sunlight comes from the upper left front, creating a strong highlight along the nose and cheek and a softer gray falloff toward the right side of the face. Fine film grain gives the silver midtones a tactile quality. The overall composition feels intimate and alert, holding a fleeting sideways glance within high-contrast natural light and very shallow space.",
+  "full_prompt_zh": "这幅方形黑白摄影近景让一位年轻女子的脸填满画幅，她在波浪深发下侧目凝望。背景严重失焦，几乎消失，只在最左留下一片浅亮空处，右侧则更深暗。额头与双眼占据上半部，散刘海越过眉头，在皮肤上投下纤细不匀的影。眼睛望向左缘而非直看相机，浓深睫毛下清晰对焦。鼻子接住直射阳光的一块亮区，一侧脸颊与眼下可见自然雀斑和细皮肤肌理。嘴唇微开，下半脸柔入更深的调性带。一条弯曲手臂或肩在左下托住头部，浅色表面被紧密裁切部分截去。深发卷过右缘，盖住脸颊，在下颌后落入深影。照片从顶与两侧紧裁，因此表情、光和皮肤表面代替了衣着或地点描述。日光从左上前方照来，让鼻与颊沿强烈受光，朝脸右侧逐渐落入较柔灰调。细胶片颗粒赋予银色中间调可触质感。整体构图亲密而警觉，把一瞬侧望锁在高反差自然光与极浅空间中。",
+  "style_prompt_en": "The monochrome photograph uses a very close crop, shallow focus and direct sunlight to make natural surface detail prominent. Bright silver highlights cross one side, while soft gray shadows and dark curls deepen the opposite edge. Skin grain and fine marks remain visible rather than polished away; the background dissolves to a nearly featureless tonal field. Edges are sharp at the focal features and rapidly soften elsewhere. The lighting is vivid but not studio smooth, with irregular small shadows preserving immediacy. The result is candid, intimate and alert, defined by gaze-like directional tension and tactile black-and-white contrast.",
+  "style_prompt_zh": "这种单色摄影以极近裁切、浅焦和直射日光让自然表面细节突出。明亮银色高光横过一侧，柔灰阴影与深色卷曲线加重另一边缘。皮肤颗粒和细小痕迹可见，没有被磨平；背景融成近乎无物的调性场。焦点特征边缘锐利，其他区域迅速柔化。光鲜明但不像影棚般平滑，不规则小阴影保留直接感。成品自然、亲密而警觉，由目光般的方向张力与可触黑白反差定义。",
+  "theme_en": "A sunlit black-and-white close-up of a young woman glancing sideways",
+  "theme_zh": "一位年轻女子在阳光下的黑白近景中侧目凝望",
+  "wh_ratio": "1:1",
+  "id": "3851",
+  "name": "Andre de Dienes",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/andre-de-dienes",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "ab36ab5c32ab30985abf24c23871d413a48ea3031044a33f3a30420dcd5a7a7b",
+    "gpt_submission_prompt": "A square black-and-white photographic close-up fills the frame with a young woman's face as she glances sideways beneath wavy dark hair. The background is heavily blurred and almost absent, with a pale open area at the far left and darker shadow at the right. Her forehead and eyes occupy the upper half; stray bangs cross the brow and cast fine uneven shadows on the skin. The eyes look toward the left edge rather than straight at the camera, sharply focused beneath thick dark lashes. The nose catches a bright patch of direct sunlight, while one cheek and the area under the eyes show natural freckles and fine skin texture. Her lips are slightly parted, and the lower face softens into a darker tonal band. A bent arm or shoulder supports the head near the lower-left corner, its light surface partly cropped by the close framing. Dark hair curls around the right edge, overlapping the cheek and falling into a deep shadow behind the jaw. The photograph is cut tightly at the top and sides, so expression, light and skin surface replace any description of clothing or place. Sunlight comes from the upper left front, creating a strong highlight along the nose and cheek and a softer gray falloff toward the right side of the face. Fine film grain gives the silver midtones a tactile quality. The overall composition feels intimate and alert, holding a fleeting sideways glance within high-contrast natural light and very shallow space.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "2a1b34861a2a63ef5dea7e865a13aa1db4eff71d6995d7fa26ecc43a521a4de0",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

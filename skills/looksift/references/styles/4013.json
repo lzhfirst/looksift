@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white forensic photograph shows a masked investigator leaning toward a laboratory microscope at a worktable. His short hair, white coat, protective gloves, and concentrated eye are clear on the left side, while the microscope's dark eyepiece meets his face near the center. A scratched, upright transparent evidence panel stands just beyond the instrument, catching gray reflections and faint circular marks. The lower tabletop is dark and crowded with the microscope base and small indistinct tools. Light from the side strikes the investigator's forehead, gloved hand, and the etched surface, making these details emerge from a nearly black room. The composition is close and procedural: the body bends diagonally inward, the instrument bridges foreground and middle ground, and the panel rises as a vertical plane on the right. The material contrast matters more than dramatic action: smooth mask, creased latex, polished optics, and rough marks on the evidence all receive distinct tones. Depth is shallow enough to darken the background but retains the primary examination surface. The grayscale range is high contrast yet still detailed in skin and lab clothing. A sober documentary mood comes from the fixed gaze and exact hand placement. There are no labels, captions, sensational color effects, or decorative frame within the image.",
+  "full_prompt_zh": "一幅方形黑白法证照片中，戴口罩的调查人员俯向工作台上的实验室显微镜。左侧能看清短发、白大褂、防护手套和专注的眼睛，显微镜深色目镜在中央附近接住他的面孔。仪器后方竖着一块布满刮痕的透明证物板，接住灰色反光和淡淡圆痕。下方桌面深暗，显微镜底座与几件难辨小工具挤在一起。侧光打到调查人员额头、戴手套的手和刻痕表面，使细节从近黑房间显现。构图靠近而有程序感：身体斜向内俯，仪器连接前中景，证物板在右边竖成平面。材质反差比戏剧动作更重要：平滑口罩、起褶乳胶、抛光光学件和证物粗痕各有不同灰度。景深浅到让背景变暗，但主要检查面仍保留。灰阶反差高，皮肤与实验衣里仍有细节。固定凝视和准确手位带来庄重纪实感。画中没有标签、字幕、耸动彩色效果或装饰框。",
+  "style_prompt_en": "High-contrast monochrome procedural photography with close framing, selective side light, and deep surrounding shadow. Smooth, creased, reflective, and scratched materials retain separate grayscale textures. A shallow but controlled focal zone joins a concentrated gesture to nearby working surfaces. Vertical planes and diagonal body movement organize the frame, producing a sober, investigative atmosphere without theatrical embellishment.",
+  "style_prompt_zh": "高反差单色程序性摄影采用贴近取景、选择性侧光与深沉周边暗影。平滑、起褶、反光和刮伤材质各自保留独立灰阶纹理。浅而受控的焦域连接专注动作与近处工作表面。竖向平面和斜向身体动态组织画幅，形成庄重调查气氛，少有戏剧化修饰。",
+  "theme_en": "A masked investigator examining a trace under a microscope",
+  "theme_zh": "戴口罩的调查人员在显微镜下检查痕迹",
+  "wh_ratio": "1:1",
+  "id": "4013",
+  "name": "Forensic photography",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/forensic-photography.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "e4fc681a1c5b0e0bb6f6c4d02925622af730dde5abf05c1f7c15ba4350bd4486",
+    "gpt_submission_prompt": "A square black-and-white forensic photograph shows a masked investigator leaning toward a laboratory microscope at a worktable. His short hair, white coat, protective gloves, and concentrated eye are clear on the left side, while the microscope's dark eyepiece meets his face near the center. A scratched, upright transparent evidence panel stands just beyond the instrument, catching gray reflections and faint circular marks. The lower tabletop is dark and crowded with the microscope base and small indistinct tools. Light from the side strikes the investigator's forehead, gloved hand, and the etched surface, making these details emerge from a nearly black room. The composition is close and procedural: the body bends diagonally inward, the instrument bridges foreground and middle ground, and the panel rises as a vertical plane on the right. The material contrast matters more than dramatic action: smooth mask, creased latex, polished optics, and rough marks on the evidence all receive distinct tones. Depth is shallow enough to darken the background but retains the primary examination surface. The grayscale range is high contrast yet still detailed in skin and lab clothing. A sober documentary mood comes from the fixed gaze and exact hand placement. There are no labels, captions, sensational color effects, or decorative frame within the image.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "08448cd3d9fbda0fb0abece6ae585a7d30f984d1121f8453e2c6dc3bc777ce38",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

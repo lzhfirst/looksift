@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white ink illustration portrays a young woman with a sleek dark bob, turned three-quarters toward the right while her eyes glance back toward the viewer. Her head and bare upper shoulder fill most of the frame. Heavy jet-black hair drops from the top into a geometric curtain at the left, with blunt bangs just above the eyes and a thin bright contour separating hair from cheek. The nearer eye is large and pale, framed by dark lashes, and sits beneath a broad shadow that makes her look watchful and reserved. A narrow nose, softly parted lips, and clean white cheek are modeled by delicate stippling and finely graded hatching rather than broad gray wash. At the far right edge, a slender angled cigarette holder or similar dark stem approaches her lips, its tip picked out in white. The background is almost solid black around the upper and right sides, making the pale face and shoulder stand out as sharp negative shapes. A clean white border remains along the top and left edge. Under the chin and at the shoulder, crosshatched gradients soften the shift from white paper into black shadow. Small scratches and thin flyaway strands interrupt the otherwise controlled hair mass. Lighting is graphic and high contrast: white paper acts as the highlight while black fill creates a deep enclosing shadow. The composition uses a close crop, diagonal glance, and a few precise facial marks to produce cool, cinematic suspense.",
+  "full_prompt_zh": "一幅方形黑白墨线插画描绘一位齐整黑短发的年轻女子，身体朝右呈四分之三侧转，双眼却回望观者。她的头和裸露上肩占据画面大部。浓黑头发从顶边垂成左侧几何般帘幕，齐刘海停在眼上方，细亮轮廓把发丝和面颊分开。较近的眼睛大而浅色，深睫毛围住眼眶，宽阔暗影压在其上，使神情警觉又克制。窄鼻、微张嘴唇与干净白面颊由细点描和渐密排线塑形，而非大块灰色水洗。最右缘，一支细斜烟嘴或类似深色细杆接近嘴边，尖端以白色挑出。背景在上方和右侧几乎实黑，让浅色面孔和肩膀成为鲜明的负形。顶边与左边留一道干净白框。下巴及肩部，交叉排线渐层柔化白纸向黑影的转变。小刮痕与细碎散发打断原本受控的黑发团。光线是图形化的高反差：白纸充当亮部，黑色实填形成深重包围影。构图以近距离裁切、斜向回望和少数准确面部笔迹带出冷静的电影式悬念。",
+  "style_prompt_en": "High-contrast black-and-white ink illustration combines broad solid blacks with untouched white paper and finely controlled stipple or crosshatching. Shape a focal form by carving pale negative areas out of dense shadow, then use tiny precise marks to model key features. Let bold geometric masses sit beside delicate curved contours and sparse flyaway lines. Keep the background nearly void-dark, with a narrow clean margin that reinforces the print-like panel. Lighting is graphic rather than naturalistic: paper white becomes luminous skin or surface, and black fill supplies enclosing depth. A close crop and oblique gaze or gesture can create restrained cinematic tension without adding color.",
+  "style_prompt_zh": "高反差黑白墨线插画把大块实黑、未着墨白纸和精细受控的点描或交叉排线结合。以深影中挖出的浅色负形塑造焦点，再用极小准确笔迹描出关键部位。让大胆几何团块与细腻曲线轮廓、稀少散线相邻。背景保持近乎虚空的深黑，窄而干净的边距强化印刷画格感。光线为图形机制而非自然写实：纸白成为发亮的皮肤或表面，黑填色提供包围的纵深。近裁切和斜向目光或动作无需彩色也能形成克制的电影式张力。",
+  "theme_en": "A black-haired woman glancing sideways beside a slender cigarette holder",
+  "theme_zh": "黑发女子侧目，旁有纤细烟嘴",
+  "wh_ratio": "1:1",
+  "id": "2549",
+  "name": "Guido Crepax",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/guido-crepax",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/guido-crepax.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "64dcab14318a41d1f8bdf218e2a7cf954a5e5f678629bda7643d0ff1d1e34de1",
+    "gpt_submission_prompt": "A square black-and-white ink illustration portrays a young woman with a sleek dark bob, turned three-quarters toward the right while her eyes glance back toward the viewer. Her head and bare upper shoulder fill most of the frame. Heavy jet-black hair drops from the top into a geometric curtain at the left, with blunt bangs just above the eyes and a thin bright contour separating hair from cheek. The nearer eye is large and pale, framed by dark lashes, and sits beneath a broad shadow that makes her look watchful and reserved. A narrow nose, softly parted lips, and clean white cheek are modeled by delicate stippling and finely graded hatching rather than broad gray wash. At the far right edge, a slender angled cigarette holder or similar dark stem approaches her lips, its tip picked out in white. The background is almost solid black around the upper and right sides, making the pale face and shoulder stand out as sharp negative shapes. A clean white border remains along the top and left edge. Under the chin and at the shoulder, crosshatched gradients soften the shift from white paper into black shadow. Small scratches and thin flyaway strands interrupt the otherwise controlled hair mass. Lighting is graphic and high contrast: white paper acts as the highlight while black fill creates a deep enclosing shadow. The composition uses a close crop, diagonal glance, and a few precise facial marks to produce cool, cinematic suspense.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "d874af974c449adbf7faac43790794137e95234a9944c48accb736792a48db5a",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

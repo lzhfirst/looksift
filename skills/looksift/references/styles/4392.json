@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square, brightly colored landscape painting depicts a sunlit garden path that curves away between tall cypress trees and thick green hedges. Near the left foreground, a small empty metal table and two chairs sit on a pale stone terrace. Their thin dark lines and long blue shadows contrast with the large simple masses of foliage. Two narrow cypresses rise sharply into a clear turquoise sky, while a broader tree trunk anchors the right edge. A low wall, distant lawn, and band of violet flowers guide the eye along the path toward the horizon. Saturated greens, lemon yellow, ultramarine shadow, violet, and bright sky blue are applied in confident visible strokes. The light is hard and clean, making sharp shadows across the paving while the foliage breaks into short directional marks. The composition feels deliberately flat in some color areas, yet the curving path and diminishing trees create space. No person occupies the chairs, so the garden feels quietly inhabited but momentarily still. Paint texture and broken strokes remain visible across tree crowns and pavement. The whole image feels cheerful, geometric, and intensely summery, with bold color relationships carrying more weight than naturalistic detail.",
+  "full_prompt_zh": "一幅方形亮色风景画描绘阳光下的庭园小径，它在高柏树和厚绿篱之间弯曲远去。左前景的浅色石铺平台上摆着一张空金属小桌和两把椅子。纤细深色线条与长长蓝影，同周围大片概括的树叶色块对比。两棵细长柏树笔直升入清澈青蓝天空，右缘有一棵更宽的树干压住画框。矮墙、远方草地和一条紫花带引视线沿小路走向地平线。饱和绿、柠檬黄、群青阴影、紫色和明亮天蓝由自信的可见笔触铺开。光硬而清澈，在石铺上投下锐利阴影，叶丛则分解为顺形短笔。部分色区刻意平面化，但弯曲道路和逐渐缩小的树木仍建立空间。椅子上没有人，庭园仿佛有人使用却暂时静止。颜料肌理和破碎笔触在树冠与路面上清楚可见。整幅画明快、几何化、盛夏气息浓烈，强烈色彩关系重于自然主义细节。",
+  "style_prompt_en": "A bright modern landscape-painting style uses clean saturated color, visible directional marks, and simplified geometric masses. Cyan sky, vivid greens, lemon yellow, violet accents, and deep blue shadows keep the palette bold but orderly. Thin linear objects can punctuate larger foliage shapes, creating delicate contrast. Hard sunlight casts long crisp shadow shapes across pale ground. A curving path or receding band provides depth even when color fields remain flat. Short textured strokes in vegetation and broader smoother planes in sky and paving create material rhythm. The feeling is summery, composed, and quietly joyful, with color and light prioritized over minute realism.",
+  "style_prompt_zh": "明亮的现代风景绘画风格使用干净饱和色、可见的顺形笔迹和概括几何块面。青蓝天空、鲜绿、柠檬黄、紫色点缀和深蓝阴影使配色大胆而有秩序。纤细线性物体可穿插在更大的叶丛块面之间，形成轻巧对照。硬朗阳光在浅色地面上投出长而清楚的影形。弯曲小路或后退色带即使在平面色域中仍建立纵深。植被里的有肌理短笔与天空、铺地上的较宽平面形成材质节奏。整体像盛夏般有条理且安静愉悦，色彩与光重于微小写实。",
+  "theme_en": "A sunlit garden path with tall cypress trees and an empty cafe table",
+  "theme_zh": "阳光庭园小径旁有高大的柏树和一张空咖啡桌",
+  "wh_ratio": "1:1",
+  "id": "4392",
+  "name": "David Hockney",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/david-hockney.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "7ce1bb44135dec116d5e43e145ab82ffa6886a969581e362a5ef445e25906622",
+    "gpt_submission_prompt": "A square, brightly colored landscape painting depicts a sunlit garden path that curves away between tall cypress trees and thick green hedges. Near the left foreground, a small empty metal table and two chairs sit on a pale stone terrace. Their thin dark lines and long blue shadows contrast with the large simple masses of foliage. Two narrow cypresses rise sharply into a clear turquoise sky, while a broader tree trunk anchors the right edge. A low wall, distant lawn, and band of violet flowers guide the eye along the path toward the horizon. Saturated greens, lemon yellow, ultramarine shadow, violet, and bright sky blue are applied in confident visible strokes. The light is hard and clean, making sharp shadows across the paving while the foliage breaks into short directional marks. The composition feels deliberately flat in some color areas, yet the curving path and diminishing trees create space. No person occupies the chairs, so the garden feels quietly inhabited but momentarily still. Paint texture and broken strokes remain visible across tree crowns and pavement. The whole image feels cheerful, geometric, and intensely summery, with bold color relationships carrying more weight than naturalistic detail.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "79c7bee1a63120fcc992a0f59b20b9bcb145db9a2061867b92d67fe873c0d210",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

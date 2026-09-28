@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square architectural composite shows a grand pale stone building hovering above a broad public square under a clear blue sky. The building combines turrets, mansard roofs, many regular windows and a long old-fashioned hotel-like facade, but its lower floors have been lifted high into the air. A narrow central pedestal and several dark structural arches support the otherwise enormous horizontal mass, leaving open space beneath projecting wings. Small pedestrians walk across the paving and gather in pairs near the base, making the impossible scale immediately clear. Street lamps recede toward a flat distant horizon. The photographic surface is otherwise credible: daylight strikes the white facade from above, dark undersides have appropriate shadow, and the people and ground follow consistent perspective. The main building occupies the upper two-thirds, with generous open pavement in front. The suspension feels precarious because the heavy stone architecture is held by slender-looking supports, yet the image avoids explosive fantasy effects. Repeated window rhythms and traditional roof forms remain recognizable inside the spatial impossibility. The sky is clean and pale, giving the complex silhouette room to breathe. The scene reads as a calm everyday photograph of a structure that cannot exist, using precise architectural manipulation and familiar street scale to create its uncanny tension.",
+  "full_prompt_zh": "一幅正方形建筑合成图像呈现蓝天之下宽阔公共广场上方悬着一栋宏伟浅石建筑。建筑结合角楼、斜屋顶、许多规则窗户和古典旅馆般的长立面，但底层已经被抬到高空。狭窄中央基座与几道深色结构拱托住巨大水平体量，使伸出的侧翼下方敞开。小行人在铺地广场上走动，也有人成对聚在基部，不可能的尺度因此立刻清楚。街灯退向平坦远方地平线。其余摄影表面却可信：日光从上方照到白立面，深暗底面有恰当阴影，人和地面遵循一致透视。主建筑占上方三分之二，前方留下宽阔空地。厚重石建筑由看似纤细的支撑托起，使悬置状态显得不稳，但图像没有爆炸式幻想特效。重复窗格和传统屋顶在空间不可能性之中仍可辨认。天空干净浅淡，给复杂剪影留出呼吸空间。场景像一张平静的日常建筑照片，却记录了不可能存在的结构，靠精确建筑操纵和熟悉街道尺度产生诡异张力。",
+  "style_prompt_en": "The style is photoreal architectural manipulation with plausible daylight, consistent perspective and radically impossible massing. Historic facade rhythms and familiar materials retain photographic detail while structural supports become implausibly narrow or displaced. Generous clear sky and open ground give scale to the altered geometry. Tiny everyday figures and street accents make the square composition feel observed rather than theatrical. The uncanny effect arises from precise spatial contradiction within an otherwise calm documentary surface.",
+  "style_prompt_zh": "这种风格是照片写实的建筑操纵，具有可信日光、一致透视和彻底不可能的体量安排。历史立面节奏与熟悉材料保留摄影细节，结构支撑却变得不合理地狭窄或错位。宽阔净天空和空地为变化的几何提供尺度。微小日常人物与街道重音使正方形构图像现场观察，而非舞台表演。诡异效果来自平静纪实表面内部精确的空间矛盾。",
+  "theme_en": "An impossible historic building suspended over a public square",
+  "theme_zh": "悬于公共广场上方的不可能历史建筑",
+  "wh_ratio": "1:1",
+  "id": "4434",
+  "name": "Victor Enrich",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/victor-enrich.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "426d9880ce7e585a0021f7382395891957277d94b89b6c46ee56250217b3da17",
+    "gpt_submission_prompt": "A square architectural composite shows a grand pale stone building hovering above a broad public square under a clear blue sky. The building combines turrets, mansard roofs, many regular windows and a long old-fashioned hotel-like facade, but its lower floors have been lifted high into the air. A narrow central pedestal and several dark structural arches support the otherwise enormous horizontal mass, leaving open space beneath projecting wings. Small pedestrians walk across the paving and gather in pairs near the base, making the impossible scale immediately clear. Street lamps recede toward a flat distant horizon. The photographic surface is otherwise credible: daylight strikes the white facade from above, dark undersides have appropriate shadow, and the people and ground follow consistent perspective. The main building occupies the upper two-thirds, with generous open pavement in front. The suspension feels precarious because the heavy stone architecture is held by slender-looking supports, yet the image avoids explosive fantasy effects. Repeated window rhythms and traditional roof forms remain recognizable inside the spatial impossibility. The sky is clean and pale, giving the complex silhouette room to breathe. The scene reads as a calm everyday photograph of a structure that cannot exist, using precise architectural manipulation and familiar street scale to create its uncanny tension.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "696992069cb8e9503d79d6722e7d8ff8dd02da9f8cc7d904dfaac5f5b97d3edf",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A moody cinematic digital painting shows a narrow urban lane under heavy night rain. Tall, nearly featureless walls close in from both sides, their dark teal and charcoal surfaces leaving a cool strip of depth at the center. A small weathered yellow car is parked against the left wall in the lower middle ground, seen from behind at an angle. Its tiny rear lights glow orange-red, and a dark umbrella hovers just beyond the roofline, hinting at someone sheltered beside it without spelling out a figure. Two streetlamps recede along the lane, the nearer one casting a milky white cone through the falling rain. Thin vertical streaks cover the air, while the wet pavement catches broken silver-blue reflections and two small golden smears behind the car. A low shed and indistinct bins occupy the right edge, dissolving into the same damp shadow as the walls. The composition leaves ample empty space beyond the car, so the distant mist and hard rainfall carry much of the story. Edges are softened by spray and low light, with the car's boxy silhouette and lamp poles supplying only a few firm shapes. The restrained mustard yellow provides the single substantial warm color against the dominant blue-green gloom. The whole frame conveys solitude and shelter through wet texture, receding light, and the hush of an almost deserted street.",
+  "full_prompt_zh": "一幅阴郁而富于电影感的数字绘画，描绘夜晚暴雨中的狭窄城市小巷。高而几乎没有装饰的墙从两侧围拢，深青与炭黑色表面在中央留出一条冷色纵深。一辆略显陈旧的黄色小车停在左侧墙边，位于中景下部，从斜后方可见。它小小的尾灯发出橙红色光，车顶线外悬着一把深色雨伞，暗示有人在车旁避雨，却不把身影交代清楚。两盏路灯沿小巷退向远方，近处一盏在降雨中投下乳白色光锥。细密的竖向雨线布满空气，湿路面则映出破碎的银蓝色亮光，以及车后两小片金色反光。低矮棚屋和模糊的杂物占据右边缘，与墙壁一同消融进潮湿的阴影。构图在车后保留充足空处，让远方的雾气与猛烈的雨承载大部分叙事。水雾和弱光柔化了边缘，只有车的方正剪影和灯杆提供少数坚实的形状。克制的芥末黄色成为主导蓝绿色阴郁气氛中唯一大面积暖色。整幅画通过潮湿肌理、后退的灯光与近乎空无一人的街道寂静，传达孤独和短暂的遮蔽感。",
+  "style_prompt_en": "The cinematic digital painting is dominated by blue-green, charcoal, and misty steel-gray values, with one restrained mustard-colored accent. Tall dark side masses compress a cool central passage, and small lamps diminish into atmospheric distance. Dense fine vertical strokes describe falling moisture, while broken horizontal glints and smeared reflections make the lower surface feel wet. Light gathers in soft cones and little warm points rather than broad daylight; it bleeds through haze and leaves most edges indistinct. A few boxy silhouettes and slender poles provide stable geometry against the diffuse environment. The palette stays low in saturation and contrast except at the reflective focal area. Empty middle space and receding illumination set a slow visual pace. The whole frame feels hushed and rain-heavy, its atmosphere formed by damp texture, selective reflections, and compressed nocturnal color.",
+  "style_prompt_zh": "这幅电影感数字绘画以蓝绿色、炭黑和雾状钢灰色明度为主，仅留下一处克制的芥末黄色重点。两侧高大的深色体量压缩中央冷色通道，小小的灯光逐渐没入大气纵深。密集的纤细竖笔描出落下的水汽，下方破碎的水平亮点和拖开的反光让表面显得湿润。光线聚在柔软的光锥与少量暖色亮点中，而非宽阔的日光；它透过雾气渗开，让大多数边缘不再分明。少数方正剪影与细长杆线为弥散环境提供稳定的几何骨架。除反光焦点外，色盘始终保持低饱和与较弱对比。中部的空旷和向后退去的灯光形成缓慢的视觉节奏。整幅画显得安静且雨意沉重，气氛由潮湿肌理、有选择的反光和压缩的夜色构成。",
+  "theme_en": "A small yellow car in a rain-soaked alley",
+  "theme_zh": "暴雨小巷里的一辆黄色旧车",
+  "wh_ratio": "1:1",
+  "id": "0248",
+  "name": "Rainy",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/rainy",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/rainy.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "6c07ff6cd123e52f3fdb1f1f34ae8bf95b66c3498096240b626806ce3243aa69",
+    "gpt_submission_prompt": "A moody cinematic digital painting shows a narrow urban lane under heavy night rain. Tall, nearly featureless walls close in from both sides, their dark teal and charcoal surfaces leaving a cool strip of depth at the center. A small weathered yellow car is parked against the left wall in the lower middle ground, seen from behind at an angle. Its tiny rear lights glow orange-red, and a dark umbrella hovers just beyond the roofline, hinting at someone sheltered beside it without spelling out a figure. Two streetlamps recede along the lane, the nearer one casting a milky white cone through the falling rain. Thin vertical streaks cover the air, while the wet pavement catches broken silver-blue reflections and two small golden smears behind the car. A low shed and indistinct bins occupy the right edge, dissolving into the same damp shadow as the walls. The composition leaves ample empty space beyond the car, so the distant mist and hard rainfall carry much of the story. Edges are softened by spray and low light, with the car's boxy silhouette and lamp poles supplying only a few firm shapes. The restrained mustard yellow provides the single substantial warm color against the dominant blue-green gloom. The whole frame conveys solitude and shelter through wet texture, receding light, and the hush of an almost deserted street.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "e0b57ecca363fe7a69c5250bb81a0bd49e9156416a366f4add761cd7992bfe9c",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square expressionist landscape painting shows a fiery orange sunset beneath heavy violet clouds, with a dark solitary tree on the left horizon. The sky fills most of the upper two thirds. A narrow deep blue strip reaches across the top left, while large purple and plum cloud masses crowd the upper center. Below them, a broad band of saturated orange and vermilion glows across the middle, its lower edge dissolving into pink and dusky red. Dark blue and black strokes cut through the bright colors, making the light look turbulent rather than smooth. Along the horizon, the tree stands as a compact near-black silhouette on the far left, its rough crown and trunk just visible against orange. Low hills and a line of green fields stretch to the right, separated by deep blue-black bands. The lower foreground consists of broad turquoise, emerald, and cobalt strokes, unevenly laid so the ground feels windswept and somewhat abstract. No people or buildings are visible. The sky seems to emit its own warm light, illuminating the horizon from behind while the land remains dark and cool. Paint is applied in thick, broken patches; individual strokes and rough transitions remain obvious, especially where orange meets violet. The scene favors color energy over exact topographic detail, yet the low horizon, tree, and fields keep it recognizable as landscape. The overall composition balances one small dark vertical accent against huge opposing fields of hot orange and cold blue-violet, creating a bold, unsettled evening mood.",
+  "full_prompt_zh": "这幅方形表现主义风景画呈现炽烈橙色日落压在厚重紫云下，左侧地平线上立着一棵深色孤树。天空占据上方三分之二大部。左上有一道窄深蓝色带，上方中央拥着大片紫色和李子色云块。其下，一道宽阔饱和橙与朱红色带横贯中部，下缘散入粉与暗红。深蓝黑笔触切入亮色，使光显得动荡而非平滑。地平线上，树作为紧凑近黑剪影立在最左，粗糙树冠与树干在橙色前刚可分辨。低丘和一线绿田向右延伸，深蓝黑带在其间分层。下方前景由宽阔青绿、翠绿和钴蓝笔触组成，铺色不平，使地面有风吹般近乎抽象的感觉。看不到人物或建筑。天空仿佛自身放出暖光，从背后照亮地平线，土地仍暗而冷。颜料以厚而断续的块面涂上，单笔和粗糙过渡明显保留，橙与紫相接处尤其如此。场景偏重色彩能量而非准确地形细节，但低地平线、树与田野仍让它可辨为风景。整体构图以一个小暗竖形对照巨大热橙和冷蓝紫色域，形成大胆而不安的暮色情绪。",
+  "style_prompt_en": "The painting uses thick broken color, visible brush edges, and strongly opposed warm and cool areas. Orange, vermilion, and magenta glow against violet, cobalt, teal, and near-black, with colors meeting in rough patches rather than blended gradients. Large horizontal bands hold a simple spatial structure while a few small dark accents sharpen scale. The light feels internal to the pigment; warm areas flare and cooler masses absorb them. Texture remains active across the surface, from broad loaded strokes to short jagged interruptions. The overall effect is emotionally charged, direct, and deliberately less concerned with exact detail than with color rhythm.",
+  "style_prompt_zh": "这种绘画使用厚而断续的颜色、可见笔边和强烈对置的冷暖色域。橙、朱红和洋红在紫、钴蓝、青绿与近黑前发亮，颜色以粗糙色块相遇，而非平滑渐层。宽阔水平带维持简单空间结构，少量小暗重音加强尺度。光像来自颜料内部；暖区炽亮，冷块将其吸收。全幅肌理活跃，从厚载宽笔到短锯齿打断皆然。整体效果情绪强烈、直接，刻意更重视色彩节奏而非精确细节。",
+  "theme_en": "A fiery orange sunset and dark lone tree in an expressionist landscape",
+  "theme_zh": "表现主义风景里，炽橙日落与深色孤树",
+  "wh_ratio": "1:1",
+  "id": "3105",
+  "name": "Emil Nolde",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/emil-nolde",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "01881ed8fc391f4b7b83e2ac05ee12c7b2fb7404c47c492525be9cc7c439f620",
+    "gpt_submission_prompt": "A square expressionist landscape painting shows a fiery orange sunset beneath heavy violet clouds, with a dark solitary tree on the left horizon. The sky fills most of the upper two thirds. A narrow deep blue strip reaches across the top left, while large purple and plum cloud masses crowd the upper center. Below them, a broad band of saturated orange and vermilion glows across the middle, its lower edge dissolving into pink and dusky red. Dark blue and black strokes cut through the bright colors, making the light look turbulent rather than smooth. Along the horizon, the tree stands as a compact near-black silhouette on the far left, its rough crown and trunk just visible against orange. Low hills and a line of green fields stretch to the right, separated by deep blue-black bands. The lower foreground consists of broad turquoise, emerald, and cobalt strokes, unevenly laid so the ground feels windswept and somewhat abstract. No people or buildings are visible. The sky seems to emit its own warm light, illuminating the horizon from behind while the land remains dark and cool. Paint is applied in thick, broken patches; individual strokes and rough transitions remain obvious, especially where orange meets violet. The scene favors color energy over exact topographic detail, yet the low horizon, tree, and fields keep it recognizable as landscape. The overall composition balances one small dark vertical accent against huge opposing fields of hot orange and cold blue-violet, creating a bold, unsettled evening mood.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "7c9aa32b5a7a42c81389691094486caefe09cd4161be2b10f34ce14d96371eeb",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

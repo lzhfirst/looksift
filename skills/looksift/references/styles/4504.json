@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square color street photograph captures a solitary woman walking from left to right across a broad sunlit strip beneath a towering concrete opening. She wears a dark calf-length dress and carries a small bag; her form is reduced to a narrow almost black silhouette. Most of the left and upper frame is a large cool turquoise wall or shadowed space with subtle atmospheric haze. At the right, an intense triangular orange plane descends from the top and meets the ground, creating a warm glowing corner. A few barely visible parked cars and another tiny person sit in the deep middle distance, giving the large abstract surfaces urban scale. The pavement across the lower third is pale, marked by long shadows and a strong horizontal boundary between light and darkness. The camera is set at a moderate distance and slightly low, preserving the geometry of the wall and the person's full walking stride. Colors are compressed but saturated: teal, cyan, burning orange, deep charcoal, and pale beige. The light feels real yet cinematic, with hard sun forming a precise orange wedge and cool shadow holding the rest. The image balances an ordinary passing moment against enormous simple color fields, turning city light into the main subject.",
+  "full_prompt_zh": "一张方形彩色街头照片捕捉一位独行女性从左向右走过巨大混凝土开口下的宽阔阳光带。她穿深色及小腿连衣裙，带小包，身形简化为狭窄近黑剪影。画面左侧和上方大部分是巨大冷青绿墙面或受影空间，略带空气薄雾。右边强烈三角橙色平面从顶落下，与地面相接，形成发暖光角落。几辆几乎看不清的停放汽车和另一位极小人物在深中景里，赋予巨大抽象表面城市尺度。下方三分之一铺地浅色，长阴影和明暗间强水平边界可见。相机在中等距离、略低位置，保留墙体几何和人物完整步伐。色彩压缩却饱和：青绿、青蓝、燃烧橙、深炭和浅米。光既真实又有电影感，硬太阳形成准确橙楔，冷影占住其余部分。画面把普通经过瞬间与巨大简单色场平衡，使城市光成为主角。",
+  "style_prompt_en": "Cinematic color street photography with monumental turquoise shadow, one hard-edged orange light wedge, pale ground, and tiny dark scale marks. Broad flat color fields carry the structure while haze softens distant details. Strong sun-cut geometry and a single ordinary movement generate tension. Saturated teal-orange opposition stays controlled by charcoal negative space and level urban perspective.",
+  "style_prompt_zh": "电影感彩色街头摄影，以纪念碑般青绿阴影、一道硬边橙光楔、浅色地面和极小深色尺度标记构成。宽阔纯色场域承载结构，薄雾柔化远处细节。太阳切出的强几何与一个普通动作形成张力。饱和青橙对立由炭黑留白和水平城市透视控制。",
+  "theme_en": "A lone passerby crossing turquoise shadow and orange light",
+  "theme_zh": "一位独行人穿过青绿阴影与橙色光带",
+  "wh_ratio": "1:1",
+  "id": "4504",
+  "name": "Ernst Haas",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/ernst-haas.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "88872c92cc15c3e79339646e3c5a2f650e60e36ca8f300a544d2a289f7a601f2",
+    "gpt_submission_prompt": "A square color street photograph captures a solitary woman walking from left to right across a broad sunlit strip beneath a towering concrete opening. She wears a dark calf-length dress and carries a small bag; her form is reduced to a narrow almost black silhouette. Most of the left and upper frame is a large cool turquoise wall or shadowed space with subtle atmospheric haze. At the right, an intense triangular orange plane descends from the top and meets the ground, creating a warm glowing corner. A few barely visible parked cars and another tiny person sit in the deep middle distance, giving the large abstract surfaces urban scale. The pavement across the lower third is pale, marked by long shadows and a strong horizontal boundary between light and darkness. The camera is set at a moderate distance and slightly low, preserving the geometry of the wall and the person's full walking stride. Colors are compressed but saturated: teal, cyan, burning orange, deep charcoal, and pale beige. The light feels real yet cinematic, with hard sun forming a precise orange wedge and cool shadow holding the rest. The image balances an ordinary passing moment against enormous simple color fields, turning city light into the main subject.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "410fe9a2e3a55ecfd844e3e610aab178c1e15c0a8e65741c4d6e09e9483e7fff",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

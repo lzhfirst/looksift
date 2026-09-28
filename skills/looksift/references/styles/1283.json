@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square sepia-toned seascape photograph looks across dark wet rocks and low breaking waves toward a bright horizon. The foreground occupies the lower third with irregular black stone shelves and shallow water channels that catch sharp silver reflections. A small wave rolls in near the middle, its pale crest breaking across the darker sea and leaving a soft band of foam. Beyond it, open water stretches to a level horizon just below the center. The sky is filled with layered dark clouds around a wide luminous opening in the upper middle, where sunlight diffuses through the haze. A broad streak of light runs from that opening down the water toward the viewer, fractured into many glittering pieces by ripples and rocks. The image is nearly monochrome, ranging from warm brown-black in the shore to pale ivory in the cloud break, with a faint violet-gray cast in some midtones. No person, vessel, or building appears in the selected scene, so the shifting relationship of sea, stone, and sky carries the whole image. The camera is low enough for the near rocks to feel large, yet the horizon remains open and calm. Fine photographic grain and a slightly aged print surface soften the cloud edges while preserving the glossy wetness of the stones. Backlight creates strong silhouettes in the foreground and leaves little detail inside the darkest rock faces. The overall composition is solemn and luminous, balancing a heavy broken shore with an expansive radiant sky and a narrow path of reflected light.",
+  "full_prompt_zh": "一幅方形棕褐色海景摄影越过深暗湿岩和低低破开的海浪，望向明亮地平线。前景下方三分之一是不规则黑石台与浅水道，接住锐利的银色倒光。中部附近一道小浪涌来，浅亮浪尖横过较暗海面，留下柔软泡沫带。其后开放水面延至中央稍下的水平地平线。天空里深云层层围住上方中央一处宽阔明亮开口，阳光穿过薄雾散开。一道宽亮光从那里沿水面通向观者，被涟漪与岩石裂成许多闪点。图像近乎单色，从岸边暖棕黑到云间浅象牙色，部分中间调微带紫灰。所选场景没有人物、船或建筑，因此海、石与天空不断变化的关系承担整个图像。相机足够低，使近岩显得大，地平线却仍开放而平静。细摄影颗粒和略旧的冲印表面柔化云边，同时保留石头的湿亮。逆光在前景形成强剪影，让最暗石面内部少有细节。整体构图庄严而发亮，以沉重破碎海岸平衡宽阔光辉天空和狭窄反射光路。",
+  "style_prompt_en": "The photograph has an aged sepia seascape finish, with deep warm-black silhouettes, silver-ivory highlights, and a wide middle-gray atmosphere. Fine grain softens clouds and distance, while reflective foreground surfaces remain sharply broken into small bright pieces. A low horizon leaves generous space for layered tonal movement above, and a luminous opening sends a fractured light path through the lower half. Backlight suppresses detail in the darkest forms but clarifies wet edges and foamlike textures. The overall effect is contemplative, solemn, and luminous without modern color saturation.",
+  "style_prompt_zh": "照片具有旧式棕褐海景完成面，深暖黑剪影、银象牙亮部和宽阔中灰空气并列。细颗粒柔化云与远景，反光前景表面仍被清楚地裂成小亮片。低地平线给上方层叠影调运动留下充裕空间，发亮开口把破碎光路送过下半部。逆光压低最暗形体内的细节，却勾清湿边与泡沫般肌理。整体效果沉思、庄严且发亮，没有现代高饱和颜色。",
+  "theme_en": "Sunlight breaking through clouds over a rocky sea at low tide",
+  "theme_zh": "云间阳光照向退潮岩岸与海面",
+  "wh_ratio": "1:1",
+  "id": "1283",
+  "name": "Gustave Le Gray",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/gustave-le-gray",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/gustave-le-gray.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "8594662631c917af28882be0e67a9badd8f8c6a4ba90821dd26685fa3dfb5001",
+    "gpt_submission_prompt": "A square sepia-toned seascape photograph looks across dark wet rocks and low breaking waves toward a bright horizon. The foreground occupies the lower third with irregular black stone shelves and shallow water channels that catch sharp silver reflections. A small wave rolls in near the middle, its pale crest breaking across the darker sea and leaving a soft band of foam. Beyond it, open water stretches to a level horizon just below the center. The sky is filled with layered dark clouds around a wide luminous opening in the upper middle, where sunlight diffuses through the haze. A broad streak of light runs from that opening down the water toward the viewer, fractured into many glittering pieces by ripples and rocks. The image is nearly monochrome, ranging from warm brown-black in the shore to pale ivory in the cloud break, with a faint violet-gray cast in some midtones. No person, vessel, or building appears in the selected scene, so the shifting relationship of sea, stone, and sky carries the whole image. The camera is low enough for the near rocks to feel large, yet the horizon remains open and calm. Fine photographic grain and a slightly aged print surface soften the cloud edges while preserving the glossy wetness of the stones. Backlight creates strong silhouettes in the foreground and leaves little detail inside the darkest rock faces. The overall composition is solemn and luminous, balancing a heavy broken shore with an expansive radiant sky and a narrow path of reflected light.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "4f23b79328cc5feaff1bce46818590f94cd32f5c90f270657e1773244b29d498",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

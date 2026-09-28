@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square mixed-media concept drawing fills a warm cream sketchbook page with the close three-quarter profile of a young woman's face. She looks down and toward the right with a focused, slightly guarded expression. Short orange-brown hair is partly covered by a band of weathered mechanical goggles: two bulky circular lenses, dark straps, hinges, and small metal fasteners run across the forehead. The face is rendered in pale cream, warm ochre, and blue-gray shadow, with strong emphasis on the dark eye and red-brown lips. Thin black pencil or ink lines extend beyond the portrait into half-finished geometric equipment sketches and scattered construction marks on the page. At the left edge, the paper's rounded corner and darker backing remain visible, making this look like an open art book rather than a cropped digital image. The lower face and collar dissolve into unfinished black hatch and white paper. Light is represented through pale unpainted sections on the cheek and nose, not through a realistic environment. The mechanical lenses have selective amber reflections but remain heavily worn. The composition is intimate yet exploratory, balancing precisely observed face planes with searching technical detail and visible drawing process.",
+  "full_prompt_zh": "一幅方形混合媒材概念草图把一张年轻女性三分之四侧脸近景画满暖奶油色速写本页。她向右下看，神情专注而略带戒备。短橙棕发部分被磨旧机械护目镜带遮住：两只厚圆镜片、深束带、铰链和小金属扣横过额头。脸以浅奶油、暖赭和蓝灰阴影塑出，深色眼与红棕唇受到强调。细黑铅笔或墨线越出肖像，延伸成纸上未完成的几何器件草图与散落构造痕。左缘可见纸的圆角和更深衬底，使图像像摊开的画册，而非裁剪数字图。下方脸和领口融入未完成黑排线与白纸。光由脸颊和鼻上未涂的浅色部分呈现，而非写实环境。机械镜片有少量琥珀反射，却保持明显磨损。构图贴近且探索性强，让准确观察的面部平面与寻找中的技术细节和可见绘画过程平衡。",
+  "style_prompt_en": "Mixed-media concept sketching on warm cream paper, combining precise small focal modeling with exploratory construction lines and partly unresolved edges. Weathered metallic circles, hinges, thin ink marks, pale exposed paper, warm ochre, and blue-gray shadow create a technical yet intimate texture. Selective amber reflections and hatching add depth without a fully rendered environment. The page's physical border remains part of the visual language.",
+  "style_prompt_zh": "暖奶油纸上的混合媒材概念草图，把准确小范围焦点塑形与探索性构造线、局部未解决边缘结合。磨旧金属圆形、铰链、细墨痕、裸浅纸、暖赭和蓝灰阴影形成技术性而亲密的肌理。少量琥珀反光与排线添纵深，无需完整渲染环境。纸张的物理边缘也是视觉语言的一部分。",
+  "theme_en": "A close profile with mechanical goggles on a marked sketchbook page",
+  "theme_zh": "带机械护目镜的近景侧面画在有标记的速写本页上",
+  "wh_ratio": "1:1",
+  "id": "4236",
+  "name": "Enki Bilal",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/enki-bilal.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "91c017584b41ca794024f7c45be69155422893917b882c4e7e9cb5a98cb7c8ab",
+    "gpt_submission_prompt": "A square mixed-media concept drawing fills a warm cream sketchbook page with the close three-quarter profile of a young woman's face. She looks down and toward the right with a focused, slightly guarded expression. Short orange-brown hair is partly covered by a band of weathered mechanical goggles: two bulky circular lenses, dark straps, hinges, and small metal fasteners run across the forehead. The face is rendered in pale cream, warm ochre, and blue-gray shadow, with strong emphasis on the dark eye and red-brown lips. Thin black pencil or ink lines extend beyond the portrait into half-finished geometric equipment sketches and scattered construction marks on the page. At the left edge, the paper's rounded corner and darker backing remain visible, making this look like an open art book rather than a cropped digital image. The lower face and collar dissolve into unfinished black hatch and white paper. Light is represented through pale unpainted sections on the cheek and nose, not through a realistic environment. The mechanical lenses have selective amber reflections but remain heavily worn. The composition is intimate yet exploratory, balancing precisely observed face planes with searching technical detail and visible drawing process.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "3f7a2bcbc49c06080ac7dec624392608020b9b98bff9c62816dee583a60f22b7",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

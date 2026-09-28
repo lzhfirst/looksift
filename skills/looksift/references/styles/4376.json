@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square intimate oil painting looks into a small room where a woman sits reading on a muted red sofa along the left wall. She wears a dark dress and leans forward over a book, her head lowered and body made small by the surrounding interior. Near the center stands a dark wooden table with a vase of pale flowers; a chair with an upholstered back faces the viewer. The rear wall is blue-green and covered with a loose arrangement of framed pictures, tiny prints, and patterned patches. A warm rug extends across the foreground, while a pale white cat rests on the floor near the sofa. The room's furniture is described through broad simplified shapes rather than strict perspective; walls, upholstery, and carpet almost merge into an all-over decorative surface. Rust red, dusty teal, warm ochre, cream, and brown repeat in small variations throughout the frame. Short stippled and broken brush marks give the wall and textiles a grainy matte texture. Daylight is diffuse and modest, entering from an unseen side and lighting the cat, tabletop flowers, and parts of the wall. The woman remains in quieter shadow. The composition is dense yet restful, letting domestic objects and patterned color carry the atmosphere of private concentration.",
+  "full_prompt_zh": "一幅方形亲密油画望入一间小屋，一位女子坐在左墙旁低调红色沙发上阅读。她穿深色裙，伏身看书，低着头，在周围室内空间里显得小。中央附近有深木桌与一瓶浅色花；一把软垫靠背椅正对观者。后墙蓝绿色，上面松散排列画框、小印片和花纹块。暖色地毯延过前景，浅白猫卧在沙发附近地上。家具由宽阔简化形体描绘，而非严格透视；墙、软垫与地毯几乎合成满铺装饰表面。锈红、尘青绿、暖赭、奶油和棕在全幅细微重复。短促点状与断续笔痕赋予墙和织物颗粒柔哑肌理。日光弥散而适度，从看不见的一侧进入，照亮猫、桌花和部分墙面。女子仍在较安静阴影里。构图浓密却安宁，让家居物件与花纹颜色承载私密专注气氛。",
+  "style_prompt_en": "Intimate oil painting treats an enclosed space as an all-over pattern of muted color and small tactile strokes. Rust red, dusty teal, ochre, cream, and brown recur across walls, fabric, and floor. Perspective is gentle and compressed; broad furniture blocks share the surface with picture-like patches and stippled texture. Diffuse daylight picks small pale accents without breaking the room's quiet middle values. Human scale remains modest within decorative surroundings. Edges are soft or broken, giving objects a woven relation. The result is domestic, restful, and richly observed.",
+  "style_prompt_zh": "亲密油画把封闭空间视作低调色彩与细小可触笔痕的满铺花纹。锈红、尘青绿、赭、奶油和棕在墙、织物与地面反复出现。透视温和而压缩；宽阔家具色块与图画般小片、点状肌理共享表面。弥散日光挑出浅色小点，却不打破房间安静中间调。人的尺度在装饰环境中保持谦逊。边缘柔或断，令物件彼此如织物相连。结果居家、安宁且观察丰富。",
+  "theme_en": "A quiet woman reading on a red sofa in a patterned room",
+  "theme_zh": "花纹房间里在红沙发上阅读的安静女子",
+  "wh_ratio": "1:1",
+  "id": "4376",
+  "name": "Edouard Vuillard",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/edouard-vuillard.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "5e34e303296305e6f5fed668916bc86261b5b7508d33f188d8a4735030e87e2d",
+    "gpt_submission_prompt": "A square intimate oil painting looks into a small room where a woman sits reading on a muted red sofa along the left wall. She wears a dark dress and leans forward over a book, her head lowered and body made small by the surrounding interior. Near the center stands a dark wooden table with a vase of pale flowers; a chair with an upholstered back faces the viewer. The rear wall is blue-green and covered with a loose arrangement of framed pictures, tiny prints, and patterned patches. A warm rug extends across the foreground, while a pale white cat rests on the floor near the sofa. The room's furniture is described through broad simplified shapes rather than strict perspective; walls, upholstery, and carpet almost merge into an all-over decorative surface. Rust red, dusty teal, warm ochre, cream, and brown repeat in small variations throughout the frame. Short stippled and broken brush marks give the wall and textiles a grainy matte texture. Daylight is diffuse and modest, entering from an unseen side and lighting the cat, tabletop flowers, and parts of the wall. The woman remains in quieter shadow. The composition is dense yet restful, letting domestic objects and patterned color carry the atmosphere of private concentration.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "714ec0a058ef31cdb7b8c06923692daed7babe0d866b15fce81d497a880819e0",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

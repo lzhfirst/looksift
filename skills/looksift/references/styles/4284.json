@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square monochrome landscape places a small group of travelers near the bottom of a vast, misty scene. A dark sloping ridge enters from the left, while a towering vertical plume of spray or storm cloud rises behind it into a grainy sky. The travelers appear as tiny black silhouettes at the water's edge, establishing the scale of the weather and terrain. The foreground is a nearly black reflective strip, interrupted by pale streaks where water catches light. Tonal layers of soot black, charcoal, ash gray, and chalk white suggest distant shore, rain, vapor, and spray without precise boundaries. The image has a heavily worked print or charcoal surface: speckles, stains, powdery smears, and scratched pale areas remain visible. A bright diffuse opening within the sky gives the plume form, while the dark ridge holds the left side down. The group is kept small and quiet, so the dramatic force belongs to the environment. Wide negative space above them reinforces isolation. The composition moves from dense black ground through a narrow band of human scale to the immense clouded upper field. The whole frame feels austere, atmospheric, and almost archival, evoking an old expedition photograph translated into expressive charcoal and ink.",
+  "full_prompt_zh": "一幅方形黑白风景把一小群旅人放在广阔雾气场景的下方。深色倾斜山脊从左侧进入，后方一道高耸的水雾或暴风云柱升入颗粒感天空。旅人在水边只是细小的黑色剪影，衬出天气与地形的巨大尺度。前景是一条近黑的反光带，仅被接住光线的浅色水纹打断。煤黑、炭灰、灰烬色和粉笔白的层次暗示远岸、雨、蒸汽与飞沫，边界并不精确。画面像重工处理的版画或木炭画：斑点、污渍、粉状擦痕和刮开的浅色区域都可见。天空里漫射的亮口赋予雾柱体积，深色山脊则压住左侧。旅人保持渺小安静，因此戏剧性力量属于环境。上方宽阔留白加强孤立感。构图从密实黑色地面，经一条狭窄的人物尺度带，走向巨大的云雾上方空间。整幅画冷峻、富于空气感，近乎档案影像，像旧探险照片被转译成表现性的木炭和墨迹。",
+  "style_prompt_en": "A stark monochrome charcoal-and-print language makes scale through extreme contrast between tiny dark marks and a vast atmospheric field. Soot black, ash gray, and chalk white blend in powdery smears, stains, speckles, and scratched openings. One dense sloping mass anchors a corner; vertical mist or cloud forms rise through diffuse light. Edges stay uncertain in vapor but firm in a few silhouettes. A narrow reflective band can carry light across the lower frame, while generous upper space holds the emotional weight. The surface feels weathered and archival, with grain and accidental-looking deposits left intact. The mood is austere, quiet, and immense.",
+  "style_prompt_zh": "冷峻的黑白木炭与版画语言，通过细小深色笔迹和广阔空气场的极端对比表现尺度。煤黑、灰烬色与粉笔白在粉状擦痕、污渍、斑点和刮亮的开口中交融。一块密实的倾斜深色形体压住角落，垂直雾柱或云体穿过漫射光上升。蒸汽中的边缘不确定，少数剪影的边缘则明确。下方狭窄的反光带横向传递亮光，上方宽阔空间承载情绪重量。表面像风化的档案影像，颗粒和偶然沉积般的痕迹都保留下来。气氛冷静、寂寥、辽阔。",
+  "theme_en": "Tiny travelers beneath towering spray in a stark monochrome landscape",
+  "theme_zh": "渺小旅人立于冲天水雾之下的冷峻黑白风景",
+  "wh_ratio": "1:1",
+  "id": "4284",
+  "name": "Norman Ackroyd",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/norman-ackroyd.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "031a99d20269327052653bd66aa3b0d8ac63f508e1ec0f75e989a060e386d55c",
+    "gpt_submission_prompt": "A square monochrome landscape places a small group of travelers near the bottom of a vast, misty scene. A dark sloping ridge enters from the left, while a towering vertical plume of spray or storm cloud rises behind it into a grainy sky. The travelers appear as tiny black silhouettes at the water's edge, establishing the scale of the weather and terrain. The foreground is a nearly black reflective strip, interrupted by pale streaks where water catches light. Tonal layers of soot black, charcoal, ash gray, and chalk white suggest distant shore, rain, vapor, and spray without precise boundaries. The image has a heavily worked print or charcoal surface: speckles, stains, powdery smears, and scratched pale areas remain visible. A bright diffuse opening within the sky gives the plume form, while the dark ridge holds the left side down. The group is kept small and quiet, so the dramatic force belongs to the environment. Wide negative space above them reinforces isolation. The composition moves from dense black ground through a narrow band of human scale to the immense clouded upper field. The whole frame feels austere, atmospheric, and almost archival, evoking an old expedition photograph translated into expressive charcoal and ink.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "4e2abcf4a1ea40fd9e8b903d17982fd4f783b04a9b02c30410ae2afdb64ed547",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

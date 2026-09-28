@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square folk-art illustration shows a pale young woman sitting on the ground in a muted grey garden. She wears a long black dress with a white rounded collar and small gold buttons, and black shoes point toward the lower left. Her short dark bob frames a downward-turned face as she reads a small dark book held in her lap. Black cats sit at the far lower left and near her right side; another dark shape rests close to her feet. Thin grey-blue stems, fernlike leaves, and small flower heads rise around her, some reaching toward the top edge. Tiny black flying shapes are scattered in the upper field. The background is a flat stone-grey paper tone with small pale speckles, not a deep realistic landscape. The figure's skirt forms a large simple black triangle among much finer plant silhouettes. Edges are clean but slightly handmade, and the botanical marks repeat in a delicate vertical rhythm. Light is even and soft, with little modeled shadow; contrast comes mainly from black shapes against grey ground and the small white face and collar. The scene has ample breathing space despite its many thin stems. No readable lettering appears. The overall composition is still and gently uncanny, combining restrained color, decorative nature, and a storybook sense of solitude.",
+  "full_prompt_zh": "一幅方形民俗风插画描绘一名面色浅淡的年轻女子坐在暗灰色花园地面上。她穿长黑裙，白色圆领上方有小金扣，黑鞋尖朝左下。短黑波波头围着低垂的脸，她在膝上读一本小深色书。黑猫坐在最左下和她右侧附近；另有一个深色形靠近她脚边。纤细灰蓝茎、蕨叶状叶片和小花头围着她升起，有些伸到上边缘。上方散布细小黑色飞影。背景是平的石灰纸色，带浅小斑点，而非深远的真实景观。裙子在更细植物剪影之间形成一块大的简单黑三角。边缘干净，却略带手作感；植物笔迹以细腻竖向节奏重复。光均匀柔和，几乎没有塑造阴影；对比主要来自黑形与灰底，以及小小的白脸和衣领。尽管细茎繁多，场景仍有足够呼吸空间。没有可辨认文字。整体构图静止且温柔诡异，把收敛色彩、装饰性自然和童话书般的孤独感结合。",
+  "style_prompt_en": "A flat folk-art illustration places large matte black silhouettes among many delicate grey-blue botanical lines on a speckled stone-grey ground. Clean but slightly handmade contours keep the broad forms graphic, while repeated thin vertical stems and tiny scattered dark marks add a quieter secondary rhythm. The palette is almost monochrome, interrupted by small ivory and muted gold accents. Light is even and minimally modeled, so contrast and spacing organize attention more than cast shadow. A generous field remains open around the central dark mass, allowing fine ornament to feel airy rather than crowded. The effect is still, decorative, and gently uncanny, with paperlike texture throughout.",
+  "style_prompt_zh": "平面民俗风插画把大的哑黑剪影置于石灰色斑点底上的许多细腻灰蓝植物线之间。干净但略有手作感的轮廓使宽形图形化，反复的细竖茎与散开的深色小点提供更安静的次级节奏。色谱几乎单色，只被小象牙白和暗金重音打断。光均匀且少有塑造，因而对比与间距比投影更主要地组织注意。中央深色大形周围仍保留宽阔开放区域，使精细装饰通气而不拥挤。效果静止、装饰性强且温柔诡异，纸样纹理贯穿。",
+  "theme_en": "A quiet reader among black cats and grey garden plants",
+  "theme_zh": "灰色园草与黑猫间安静阅读的人",
+  "wh_ratio": "1:1",
+  "id": "2787",
+  "name": "Amy Earles",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/amy-earles",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/amy-earles.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "0cdad68550b362688deb30ff21de802bd8e26871aebb64a4f822a3f48ae2f31c",
+    "gpt_submission_prompt": "A square folk-art illustration shows a pale young woman sitting on the ground in a muted grey garden. She wears a long black dress with a white rounded collar and small gold buttons, and black shoes point toward the lower left. Her short dark bob frames a downward-turned face as she reads a small dark book held in her lap. Black cats sit at the far lower left and near her right side; another dark shape rests close to her feet. Thin grey-blue stems, fernlike leaves, and small flower heads rise around her, some reaching toward the top edge. Tiny black flying shapes are scattered in the upper field. The background is a flat stone-grey paper tone with small pale speckles, not a deep realistic landscape. The figure's skirt forms a large simple black triangle among much finer plant silhouettes. Edges are clean but slightly handmade, and the botanical marks repeat in a delicate vertical rhythm. Light is even and soft, with little modeled shadow; contrast comes mainly from black shapes against grey ground and the small white face and collar. The scene has ample breathing space despite its many thin stems. No readable lettering appears. The overall composition is still and gently uncanny, combining restrained color, decorative nature, and a storybook sense of solitude.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "772231a8575308c661f8e15a3780cb84d96a2ea7dced5b585a7f6599a059c7b7",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

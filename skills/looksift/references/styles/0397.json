@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A minimalist black-and-white fine-art photograph shows a weathered wooden rowboat resting in shallow water near a quiet shore. The boat sits slightly right of center in the lower half, its pointed bow angled toward the viewer and its interior ribs visible as dark horizontal divisions. Worn pale paint, dark seams, and uneven timber edges give the hull a tangible history. Its shadow or reflection drops into the still water beneath it, merging with the darker wet sand in the foreground. To the left, a few scattered pebbles and patches of mud interrupt the otherwise smooth shore. The horizon is long and almost featureless, set just below the middle, with calm water and a gently graded gray sky occupying most of the frame. A single tiny bird appears high above the boat, a small dark mark within the broad open atmosphere. The image uses a long-exposure-like softness on the water, erasing ripples and allowing the boat's rough surface to stand out. Light is diffuse and overcast, giving the sky a gradual shift from pale center to darker edges. The composition leaves generous negative space around the subject and relies on the boat's simple diagonal to prevent stillness from becoming static. The whole frame feels solitary and contemplative, with weathered wood held against the smooth silence of sea and sky.",
+  "full_prompt_zh": "一幅极简黑白艺术摄影描绘一艘风化木划艇停在安静海岸附近的浅水中。小船稍偏右侧，位于下半部，尖尖船首朝向观者，内部横梁呈深色水平分隔。磨旧的浅色油漆、深色接缝和不齐整的木边让船身带着可触的岁月感。它的阴影或倒影落入下方静水，与前景更深的湿沙融在一起。左侧只有几颗散落卵石与泥斑打断原本平滑的岸边。地平线漫长而几乎无物，位于中央略下方，平静水面和渐变灰天占据画面大部。一只极小的鸟出现在船上方高处，是宽阔大气中的一点深色。图像让水面带有类似长曝光的柔和感，抹去波纹，使小船粗糙表面更加突出。光线漫射如阴天，让天空从较浅中央逐渐变暗到边缘。构图在主体四周留足负空间，依靠小船简单的斜向走势，使静止不至于僵滞。整幅画孤独而沉思，风化木头映在海天平滑的寂静中。",
+  "style_prompt_en": "The monochrome fine-art photograph relies on a broad gradient of silver-gray atmosphere and a small, sharply textured form set low in the frame. A nearly featureless horizontal divide steadies the composition, while a diagonal dark reflection draws weight downward. Smooth long-exposure-like surfaces suppress small movement; rough seams and chipped light edges retain material detail in the focal area. The tonal range moves gradually from pale sky to charcoal foreground without abrupt graphic blocks. A tiny isolated dark mark in the open upper field adds scale and prevents the negative space from feeling empty. Diffuse light softens every shadow except the compact grounded form. The framing is spare and asymmetrical, with much more breathing room than detail. The whole frame feels solitary, patient, and contemplative through tonal quiet and the meeting of weathered texture with smooth silence.",
+  "style_prompt_zh": "这幅黑白艺术摄影依靠宽阔的银灰色大气渐变，以及置于画面低处的一小块清晰、有肌理的形体。几乎无特征的水平分界稳住构图，斜向深色倒影把重量引向下方。类似长曝光的平滑表面抑制细小运动，粗糙接缝与磨损浅色边缘在焦点处保留材质细节。明暗范围从浅色天空逐渐过渡到炭灰前景，没有突然出现的图形硬块。上方开放色域中一个孤立的小深点提供尺度，让负空间不显空洞。漫射光柔化所有阴影，只有紧凑而落地的形体保持相对清楚。取景节省且不对称，呼吸空间远多于细节。整幅画借安静的明暗和风化肌理与平滑寂静的相遇，显得孤独、耐心而沉思。",
+  "theme_en": "A weathered rowboat on a silent shore",
+  "theme_zh": "寂静岸边一艘风化的小船",
+  "wh_ratio": "1:1",
+  "id": "0397",
+  "name": "Moises Levy",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/moises-levy",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/moises-levy.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "f87580c64ab68c978aaf0c19a3df63beb50f9e6c0fe05883a64d2db0f5e35bc5",
+    "gpt_submission_prompt": "A minimalist black-and-white fine-art photograph shows a weathered wooden rowboat resting in shallow water near a quiet shore. The boat sits slightly right of center in the lower half, its pointed bow angled toward the viewer and its interior ribs visible as dark horizontal divisions. Worn pale paint, dark seams, and uneven timber edges give the hull a tangible history. Its shadow or reflection drops into the still water beneath it, merging with the darker wet sand in the foreground. To the left, a few scattered pebbles and patches of mud interrupt the otherwise smooth shore. The horizon is long and almost featureless, set just below the middle, with calm water and a gently graded gray sky occupying most of the frame. A single tiny bird appears high above the boat, a small dark mark within the broad open atmosphere. The image uses a long-exposure-like softness on the water, erasing ripples and allowing the boat's rough surface to stand out. Light is diffuse and overcast, giving the sky a gradual shift from pale center to darker edges. The composition leaves generous negative space around the subject and relies on the boat's simple diagonal to prevent stillness from becoming static. The whole frame feels solitary and contemplative, with weathered wood held against the smooth silence of sea and sky.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "738bb75a1c5b7d413a3304f0413930fc51cf9b084019a48b07c7e4042bdf5cb0",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white studio photograph frames a fashion model from the shoulders upward. She wears an enormous black hat with a wide brim and a textured dark crown that sweeps across the top of the image. The brim casts deep shadow over one eye while leaving the other sharply visible. A dark mesh glove rises from the bottom center and rests against her lips and cheek, its dotted net pattern clearly contrasting with smooth pale skin. A small light ring or ornament gleams on one gloved finger. Her lips are full and slightly parted, and her gaze is directed toward the camera with controlled intensity. Dark clothing merges into a near-black lower field, so the pale face and patterned glove become the visual center. The background is a soft gray studio wall without props or scenery. Light comes from the front-left, sculpting the nose, cheekbones, and glove texture while preserving velvety blacks in the hat and garment. The tonality is refined and wide-ranging: porcelain highlights, gentle mid-gray skin transitions, and deep charcoal shadows. Grain is fine, with slight silver-print softness at peripheral edges but crisp focus on the visible eye, lips, and mesh. The crop is close and graphic, with brim, hand, and face forming a set of intersecting curves and diagonals. No text, logo, border, or additional accessory is visible. The image feels elegant, mysterious, and formally rigorous, turning a few carefully controlled materials and gestures into a bold photographic design.",
+  "full_prompt_zh": "一张方形黑白影棚照片从肩部向上裁切时装模特。她戴一顶巨大的黑帽，帽檐宽，带纹深色帽冠横过画面顶部。帽檐给一只眼投深影，另一只眼保持清楚。一只深色网纱手套从下方中央抬起，贴在唇与脸颊，点状网纹与平滑浅肤形成鲜明对比。戴手套的一指上有小浅色戒指或饰件闪亮。嘴唇丰满微张，目光以受控强度望向镜头。深衣服融入近黑下部，所以浅色脸和纹理手套成为视觉中心。背景是柔灰影棚墙，没有道具或场景。光从左前进入，塑造鼻梁、颧骨和网纱纹理，同时让帽与衣物保持天鹅绒般深黑。灰度精致且范围广：瓷白亮部、柔和中灰肤色过渡与深炭影。颗粒细，外围有轻银盐印相柔化，但可见眼、嘴和网纹仍清楚。裁切近且图形感强，帽檐、手和脸形成交叉曲线与斜线。没有文字、标志、边框或其他配件。画面优雅、神秘且形式严谨，把少数受控材料与动作变成大胆摄影设计。",
+  "style_prompt_en": "Use rigorous monochrome studio photography with close graphic cropping and a wide tonal scale from porcelain white to velvety black. Arrange one smooth luminous plane against textured dark fabric or mesh, allowing a sweeping shadow edge to conceal part of the focal form. Keep a few selected details in crisp focus while surrounding black shapes merge into a unified field. Light softly from one front side to model subtle contours and preserve rich shadow. Build the composition from intersecting arcs, diagonals, and a restrained gesture rather than environmental context. Fine grain and slight print softness should support, not obscure, the formal contrast. The result is elegant, mysterious, and sharply controlled.",
+  "style_prompt_zh": "采用形式严谨的单色影棚摄影，以紧密图形裁切和从瓷白到天鹅绒黑的宽灰度范围构图。让一片平滑发亮的面与深色有纹布或网纱对置，允许一道扫过的影边遮住部分焦点形。少数选定细节锐利，周围黑形融为统一色域。柔光从一侧前方进入，塑造细微轮廓并保留浓厚阴影。构图由交叉弧线、斜线和克制动作建立，不依赖环境语境。细颗粒与轻印相柔化支撑形式对比，而不遮蔽它。结果优雅、神秘且高度受控。",
+  "theme_en": "A veiled-glove fashion portrait under a wide black hat",
+  "theme_zh": "戴宽黑帽与网纱手套的时尚肖像",
+  "wh_ratio": "1:1",
+  "id": "4488",
+  "name": "Irving Penn",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/irving-penn.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "33d4c1bae9321c842a703ee078c2c4e76a04b85b4021f8773518e440db2aef8d",
+    "gpt_submission_prompt": "A square black-and-white studio photograph frames a fashion model from the shoulders upward. She wears an enormous black hat with a wide brim and a textured dark crown that sweeps across the top of the image. The brim casts deep shadow over one eye while leaving the other sharply visible. A dark mesh glove rises from the bottom center and rests against her lips and cheek, its dotted net pattern clearly contrasting with smooth pale skin. A small light ring or ornament gleams on one gloved finger. Her lips are full and slightly parted, and her gaze is directed toward the camera with controlled intensity. Dark clothing merges into a near-black lower field, so the pale face and patterned glove become the visual center. The background is a soft gray studio wall without props or scenery. Light comes from the front-left, sculpting the nose, cheekbones, and glove texture while preserving velvety blacks in the hat and garment. The tonality is refined and wide-ranging: porcelain highlights, gentle mid-gray skin transitions, and deep charcoal shadows. Grain is fine, with slight silver-print softness at peripheral edges but crisp focus on the visible eye, lips, and mesh. The crop is close and graphic, with brim, hand, and face forming a set of intersecting curves and diagonals. No text, logo, border, or additional accessory is visible. The image feels elegant, mysterious, and formally rigorous, turning a few carefully controlled materials and gestures into a bold photographic design.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "c31d99d895d3b8bf827c2394f9962745619beeb9f5af4167524c3d32e7f3ffef",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

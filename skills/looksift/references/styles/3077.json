@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square folk-like painting shows two women walking through a dense stand of pale leafless trees, with animals and black birds moving around them. The taller woman walks slightly ahead on the left, wearing a long black coat and dark head covering. Her pale face is in profile, looking toward the right. Beside her, a shorter woman wears a warm rust-red dress and orange head covering beneath a dark cape; one arm reaches toward the taller figure. Their clothing makes two strong vertical and diagonal masses in the center of the image. Behind them, thin cream-colored trunks and branch networks fill almost every gap against an olive-gray ground. A dark dog bounds at the upper left and a lighter brown animal runs lower near the women's legs. Along the bottom, pale goat-like animals cross between short shrubs, their bright bodies punctuating the dense muted vegetation. Several black birds fly through the upper corners, their simple sharp silhouettes contrasting with the fine branches. The ground is crowded with small leaf shapes and reeds in tan, cream, and gray-green, making the space feel patterned rather than deeply perspectival. Light is even and muted, as if from an overcast sky, so color areas remain matte and shadows are minimal. The figures and animals have precise cutlike outlines, while internal details are quiet and stylized. The overall composition turns a walk into a rhythmic woven field of slender trees, moving silhouettes, rusty red, cream, and charcoal.",
+  "full_prompt_zh": "这幅方形民间画风格作品呈现两位女子走过密密的浅色落叶树林，动物与黑鸟在身边移动。较高的女子走在左侧稍前，穿长黑外套，戴深色头巾。浅色侧脸朝向右方。身旁较矮的女子穿暖锈红连衣裙，橙色头罩外披深色斗篷，一只手臂伸向高个人物。两人的衣服在画面中央形成两道强烈竖向和斜向色块。身后细奶油色树干与枝网几乎填满橄榄灰底上的每处空隙。左上方一只深色狗跃起，靠近女子腿部较低处有一只浅棕动物奔跑。沿底部，浅色似山羊的动物从矮灌木间穿过，明亮身体点亮密集而低调的植物。几只黑鸟飞过上方两角，简单尖锐剪影与细枝相对。地面密布浅棕、奶油和灰绿的小叶形与芦苇，使空间显得纹样化而非透视深远。光均匀且压低，像来自阴云天空，所以色块保持哑光，阴影极少。人物与动物有准确如裁切的轮廓，内部细节安静且风格化。整体构图把一次步行转成细树、运动剪影、锈红、奶油色和炭黑组成的节奏性编织色域。",
+  "style_prompt_en": "The painting uses flat matte color, slender branching lines, and carefully spaced silhouettes to build a densely patterned field. Olive-gray, tan, cream, charcoal, and one concentrated rust-red accent make a quiet but distinctive palette. Fine pale networks weave behind larger dark shapes, and small light interruptions keep the density from closing up. Contours are clean and cutlike, with little conventional shading; depth comes from overlap and changes in scale. Even diffuse light preserves the surface's decorative calm. The composition feels narrative and gentle, with movement carried by alternating vertical rhythms and scattered dark marks.",
+  "style_prompt_zh": "这种绘画以平坦哑光色、纤细分枝线和谨慎间隔的剪影构成密集纹样色域。橄榄灰、浅棕、奶油色、炭黑和一处集中的锈红重音形成安静却鲜明的配色。细浅线网在较大暗形后交织，小浅色打断避免密度完全封闭。轮廓干净如裁切，常规明暗塑造很少；纵深来自交叠与尺度变化。均匀漫射光保留表面装饰性的平静。构图温柔且有叙事感，动势由交替竖向节奏和散落深色标记承担。",
+  "theme_en": "Two women walking among pale trees, animals, and dark birds",
+  "theme_zh": "两位女子穿行浅色树林，周围有动物与黑鸟",
+  "wh_ratio": "1:1",
+  "id": "3077",
+  "name": "Dee Nickerson",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/dee-nickerson",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "e7c3afaea6a4d95d2089f5b93ab50e8208c523d87ff07dc0b8b81aa1b81cab32",
+    "gpt_submission_prompt": "A square folk-like painting shows two women walking through a dense stand of pale leafless trees, with animals and black birds moving around them. The taller woman walks slightly ahead on the left, wearing a long black coat and dark head covering. Her pale face is in profile, looking toward the right. Beside her, a shorter woman wears a warm rust-red dress and orange head covering beneath a dark cape; one arm reaches toward the taller figure. Their clothing makes two strong vertical and diagonal masses in the center of the image. Behind them, thin cream-colored trunks and branch networks fill almost every gap against an olive-gray ground. A dark dog bounds at the upper left and a lighter brown animal runs lower near the women's legs. Along the bottom, pale goat-like animals cross between short shrubs, their bright bodies punctuating the dense muted vegetation. Several black birds fly through the upper corners, their simple sharp silhouettes contrasting with the fine branches. The ground is crowded with small leaf shapes and reeds in tan, cream, and gray-green, making the space feel patterned rather than deeply perspectival. Light is even and muted, as if from an overcast sky, so color areas remain matte and shadows are minimal. The figures and animals have precise cutlike outlines, while internal details are quiet and stylized. The overall composition turns a walk into a rhythmic woven field of slender trees, moving silhouettes, rusty red, cream, and charcoal.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "b6d9e2715c62b2d04072999feb8ed9f26f2b4f9c8f67f88cabaf10e0f10792f7",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

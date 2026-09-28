@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square editorial comic illustration shows a gray-haired man in glasses studying a microscope at a crowded indoor desk. He sits on the left, leaning forward with one hand near his cheek and the other resting on the tabletop. His pale shirt sleeves are rolled up, a muted red tie hangs over a dark vest or trouser line, and his expression is concentrated and tired. The microscope stands directly before him, its angular gray body aimed toward the center. A clear jar and small pieces of equipment sit on the desk, partly obscured by a mass of olive leaves that rises along the right edge. Behind him, framed drawings hang on the cream wall, while a gray cabinet or appliance occupies the center background. The room is filled but organized by strong rectangular furniture lines and the softer, overlapping foliage. Thin dark ink contours define the man, instrument and furniture; short parallel hatch marks add wear and shadow to the surfaces. Cream, faded sage and dusty brown dominate, with the tie and a small round fruit adding restrained warm accents. Warm indoor light from the upper left lifts his head, sleeves and the front leaves, while the room corners remain quietly darker. The overall composition makes an intimate study of concentration amid a dense, slightly cluttered field of lines and muted color.",
+  "full_prompt_zh": "一幅方形社论漫画插画描绘一位戴眼镜的灰发男子在拥挤室内书桌前观察显微镜。他坐在左侧，前倾，一只手靠近脸颊，另一只放在桌面。浅色衬衫袖子卷起，低饱和红领带垂在深色马甲或裤腰前，神情专注而疲惫。显微镜就在他面前，棱角分明的灰色机身指向中央。透明罐和小型器具立在桌上，部分被沿右缘升起的一大团橄榄色叶片遮住。他身后，奶油色墙上挂着装框图画，中央背景有一件灰色柜体或器具。房间虽然充满物品，仍由家具的强矩形线和柔软交叠的叶群组织。细深墨轮廓界定人物、仪器与家具；短平行排线为表面添加磨损和阴影。奶油色、褪色鼠尾草绿和灰褐色主导画面，领带与一枚小圆果带来克制的暖色重音。左上室内暖光提亮他的头、袖子和前方叶片，房间角落则安静地偏暗。整体构图在密集而略显杂乱的线与低饱和色中，形成亲近的专注研究场景。",
+  "style_prompt_en": "The editorial comic drawing uses thin, slightly irregular ink contours and quiet blocks of desaturated color. Fine parallel hatching sits over cream, sage, gray and dusty brown planes, adding wear without obscuring the readable shapes. Rectangular structural lines are softened by overlapping organic curves, giving a crowded frame a controlled rhythm. Faces and focal equipment receive clearer outlines than the peripheral clutter, so attention remains concentrated. Small rust-red accents warm the otherwise cool-neutral palette. Gentle directional indoor light lifts selected upper planes and leaves corners softly subdued. The image feels observant and dryly humorous, with a hand-printed texture and measured visual density.",
+  "style_prompt_zh": "这种社论漫画绘画使用纤细、略不规则的墨轮廓和安静的低饱和色块。细平行排线叠在奶油、鼠尾草绿、灰和灰褐色平面上，加入磨损却不遮挡清楚形体。矩形结构线受到交叠有机曲线的柔化，让拥挤画面保有控制得当的节奏。焦点处边缘比外围杂物更清楚，使注意力保持集中。少量锈红重音温暖其余冷中性色。柔和的定向室内光提亮选择性上平面，让角落低调偏暗。画面显得善于观察且带干涩幽默，具有手工印刷肌理和有分寸的视觉密度。",
+  "theme_en": "A bespectacled man studying a microscope at a crowded desk",
+  "theme_zh": "一位戴眼镜的男子在拥挤书桌前观察显微镜",
+  "wh_ratio": "1:1",
+  "id": "3798",
+  "name": "Matt Bors",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/matt-bors",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "6034441af024c8ec7c3fdcea773e932096a2270639cf0126e3deb7bc41264232",
+    "gpt_submission_prompt": "A square editorial comic illustration shows a gray-haired man in glasses studying a microscope at a crowded indoor desk. He sits on the left, leaning forward with one hand near his cheek and the other resting on the tabletop. His pale shirt sleeves are rolled up, a muted red tie hangs over a dark vest or trouser line, and his expression is concentrated and tired. The microscope stands directly before him, its angular gray body aimed toward the center. A clear jar and small pieces of equipment sit on the desk, partly obscured by a mass of olive leaves that rises along the right edge. Behind him, framed drawings hang on the cream wall, while a gray cabinet or appliance occupies the center background. The room is filled but organized by strong rectangular furniture lines and the softer, overlapping foliage. Thin dark ink contours define the man, instrument and furniture; short parallel hatch marks add wear and shadow to the surfaces. Cream, faded sage and dusty brown dominate, with the tie and a small round fruit adding restrained warm accents. Warm indoor light from the upper left lifts his head, sleeves and the front leaves, while the room corners remain quietly darker. The overall composition makes an intimate study of concentration amid a dense, slightly cluttered field of lines and muted color.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "9e218a50304f542ac6c9e517d514292bae5079117fb4fb706304adb0285cd243",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

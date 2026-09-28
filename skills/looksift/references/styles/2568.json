@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square paper-cut illustration presents a seated human silhouette and a spray of yellow blossoms within a layered circular relief on a warm gray background. The circular artwork sits centered, leaving a broad quiet margin around its clean outer edge. A large golden-yellow disk fills the upper-right portion of the circle like a low sun, while an off-white curved layer arcs around it from the upper left. A charcoal-gray silhouette sits near the center-right on the edge of a raised gray ledge, body facing left and one leg hanging down into the darker lower layer. The figure is intentionally simple, with only the curve of the head, shoulders, torso, and legs defining a reflective pose. From the lower left, thin gray stems rise through several layers of cut paper, carrying small round yellow blossoms of different sizes. A few larger disks overlap the lower rim of the circle, creating a lively cluster against the restrained gray. The cut layers cast narrow soft shadows on one another, so the image has actual relief and depth despite its simplified shapes. Surfaces appear matte with faint paper grain, and the edges are crisp where colored planes meet. Light falls from above and left, warming the yellow disk and making the shallow layer shadows visible along the curved ledge and stems. The outer background remains plain, without writing or surrounding objects. The overall composition is calm and balanced, using one large warm circle, small scattered blossoms, and a quiet dark figure to create poetic scale.",
+  "full_prompt_zh": "这幅方形剪纸插画呈现一名坐姿人体剪影与一枝黄色花朵，置于暖灰背景前的层叠圆形浮雕里。圆形作品居中，干净外缘周围留下宽阔安静边界。巨大的金黄色圆盘像低悬太阳，填满圆内右上区域，灰白弯曲纸层从左上绕过它。炭灰剪影坐在中央偏右的凸起灰色台边，身体朝左，一条腿垂进更深下层。人物有意简化，只由头、肩、躯干与腿的曲线定义沉思坐姿。左下方，细灰枝茎穿过数层切纸升起，承载大小不同的黄色小圆花。几片较大圆片在圆形下缘重叠，在克制灰色前形成活跃花簇。裁切纸层彼此投下窄而柔的阴影，因此尽管形状简化，图像仍有真实浮雕与纵深。表面哑光，带淡纸纹，不同色面相接处边缘清晰。光从左上方落下，温暖黄盘，并使弯曲台边和枝茎旁的浅层阴影可见。外部背景简单，没有文字或周围物件。整体构图平静而平衡，以一片大型暖圆、小小散花与安静深色人物营造诗意尺度。",
+  "style_prompt_en": "Layered paper-cut illustration builds shallow depth from crisp matte shapes, visible paper grain, and narrow cast shadows between stacked planes. Warm gray and off-white provide a quiet ground for concentrated golden yellow and small charcoal accents. One large circular area balances smaller scattered disks and fine branching lines, creating a clear visual hierarchy with little detail. Light from above and one side reveals the physical thickness of each cut edge without dramatic gradients. The overall effect is minimal, tactile, and gently poetic.",
+  "style_prompt_zh": "层叠剪纸插画以清晰哑光形状、可见纸纹和堆叠平面间的窄投影建立浅纵深。暖灰与灰白提供安静底面，衬托集中的金黄和小炭色强调。一片大型圆域平衡较小散圆与细分枝线，少量细节就建立清楚视觉层级。来自上方一侧的光显出每道切边的实体厚度，却没有戏剧性渐层。整体极简、可触且轻轻抒情。",
+  "theme_en": "A seated silhouette and yellow blossoms inside a layered paper circle",
+  "theme_zh": "层叠纸圆内，一名坐姿剪影与黄色花朵相伴",
+  "wh_ratio": "1:1",
+  "id": "2568",
+  "name": "Eiko Ojala",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/eiko-ojala",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/eiko-ojala.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "a50da076d57284276d9de3eaf1b9d01a4b3bf7ec7394e1280f1fc355d88e7fb9",
+    "gpt_submission_prompt": "A square paper-cut illustration presents a seated human silhouette and a spray of yellow blossoms within a layered circular relief on a warm gray background. The circular artwork sits centered, leaving a broad quiet margin around its clean outer edge. A large golden-yellow disk fills the upper-right portion of the circle like a low sun, while an off-white curved layer arcs around it from the upper left. A charcoal-gray silhouette sits near the center-right on the edge of a raised gray ledge, body facing left and one leg hanging down into the darker lower layer. The figure is intentionally simple, with only the curve of the head, shoulders, torso, and legs defining a reflective pose. From the lower left, thin gray stems rise through several layers of cut paper, carrying small round yellow blossoms of different sizes. A few larger disks overlap the lower rim of the circle, creating a lively cluster against the restrained gray. The cut layers cast narrow soft shadows on one another, so the image has actual relief and depth despite its simplified shapes. Surfaces appear matte with faint paper grain, and the edges are crisp where colored planes meet. Light falls from above and left, warming the yellow disk and making the shallow layer shadows visible along the curved ledge and stems. The outer background remains plain, without writing or surrounding objects. The overall composition is calm and balanced, using one large warm circle, small scattered blossoms, and a quiet dark figure to create poetic scale.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "b3e3e777e0641efa83c9c3ac657b6cc511d1968caf404f051e099d12a9bdc811",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

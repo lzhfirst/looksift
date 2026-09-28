@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square book illustration shows a small flower fairy seated on a stone ledge beside large pink blossoms. Her body turns left and her face lowers toward one flower, as if studying or smelling it. Short light brown hair is tucked under a wreath of small pink flowers. She wears a rose colored dress with puffed sleeves and a green leafy overdress. Two pale, veined wings rise behind her, their fine outlines nearly as delicate as the petals. The lower left holds a few round seed pods and narrow stems, while the wall and pale background leave breathing room around the compact figure. Stone blocks beneath the seat have light gray and beige washes, with fine dark seams to show their edges. The flower heads, dress and cheeks supply the warmest color; greens remain subdued and botanical. Illumination is soft and even, giving the face gentle volume without any hard theatrical shadow. Ink-like contour work defines hair, fingers, petals, leaf edges and wing veins. Transparent washes keep those details from becoming heavy. The arrangement is close and intimate, with the figure, flower and wings forming overlapping curves. It feels like a carefully observed botanical fantasy, precise enough to name individual leaves yet light enough to preserve the quiet mood of a page illustration.",
+  "full_prompt_zh": "这幅方形书籍插画呈现一位小花仙坐在大朵粉色花旁的石台上。身体向左转，面孔低向一朵花，像在细看或闻它。浅棕短发藏在小粉花编成的花环下。她穿玫瑰色泡袖裙，外面罩着绿色叶形衣片。两片浅色带脉络的翅膀在身后升起，细线几乎与花瓣一样轻。左下有几颗圆种荚与窄茎，墙体和浅背景为紧凑形体留出呼吸空间。座下石块有浅灰与米色水洗，细暗缝标出边缘。花朵、裙子和脸颊给出最暖的颜色；绿色保持柔和而植物性。光柔和均匀，让面孔有轻微体积而没有戏剧性硬影。近似墨线的轮廓仔细界定头发、手指、花瓣、叶缘和翅脉。透明水洗使这些细节不显沉重。画面贴近而亲密，形体、花和翅膀形成层叠曲线。它像一幅认真观察植物的幻想图，精准到单片叶子，却轻盈得保留书页插图的宁静。",
+  "style_prompt_en": "The watercolor and ink illustration has fine botanical outlines over transparent, pale washes. Rose pink, soft leaf green, cream and warm gray stay gentle and lightly layered. Even light gives small forms a tender volume; sharp dark shadows are absent. Delicate veins, stems and seams provide a network of thin lines, balanced by clean open space. Curved shapes overlap closely without crowding the frame. The paperlike surface and restrained color make the image intimate and quietly decorative.",
+  "style_prompt_zh": "这种水彩与墨线插画在透明浅水洗上叠着细致的植物式轮廓。玫瑰粉、柔叶绿、奶油白与暖灰保持轻柔，层次淡薄。均匀光让小形体有温和体积，没有强烈暗影。细脉、茎线和接缝形成细线网络，由干净留白平衡。弯曲形状紧密重叠，却不把画面挤满。纸面般表层与克制颜色使整体亲近而安静地带有装饰性。",
+  "theme_en": "A flower fairy seated beside pink blossoms",
+  "theme_zh": "坐在粉色花旁的小花仙",
+  "wh_ratio": "1:1",
+  "id": "3148",
+  "name": "Cicely Mary Barker",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/cicely-mary-barker",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "adee3d8f9c19d4d208f7b200cbe02189af19df1f213b0664cee1fe0775c05c46",
+    "gpt_submission_prompt": "A square book illustration shows a small flower fairy seated on a stone ledge beside large pink blossoms. Her body turns left and her face lowers toward one flower, as if studying or smelling it. Short light brown hair is tucked under a wreath of small pink flowers. She wears a rose colored dress with puffed sleeves and a green leafy overdress. Two pale, veined wings rise behind her, their fine outlines nearly as delicate as the petals. The lower left holds a few round seed pods and narrow stems, while the wall and pale background leave breathing room around the compact figure. Stone blocks beneath the seat have light gray and beige washes, with fine dark seams to show their edges. The flower heads, dress and cheeks supply the warmest color; greens remain subdued and botanical. Illumination is soft and even, giving the face gentle volume without any hard theatrical shadow. Ink-like contour work defines hair, fingers, petals, leaf edges and wing veins. Transparent washes keep those details from becoming heavy. The arrangement is close and intimate, with the figure, flower and wings forming overlapping curves. It feels like a carefully observed botanical fantasy, precise enough to name individual leaves yet light enough to preserve the quiet mood of a page illustration.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "8f9ee7488e16245dd082603092e136e2bf530d69f2aeb4e116f3e6446c3f866b",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

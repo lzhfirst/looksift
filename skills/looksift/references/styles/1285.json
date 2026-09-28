@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white street photograph places two small children at the center of a busy city sidewalk. The boy on the left wears a fedora-like hat, oversized dark coat, trousers, and rounded shoes. He stands squarely with his hands by his sides, holding a small dark case in one hand, and looks directly at the camera. The younger girl on the right wears a bonnet or close cap and a buttoned mid-length coat. She also faces the lens with a solemn expression and holds a small rectangular suitcase. A second larger suitcase rests on the pavement between and in front of them. Adult pedestrians fill the background and both upper corners, but most are cropped at the shoulders or blurred by shallow focus and movement. Behind them, a shopfront or wall bears indistinct posters and notices whose words cannot be read. The sidewalk is cracked and slightly dirty; the children's small still bodies contrast with the surrounding flow of adults. Natural diffuse light leaves soft gray shadows, while dark coats and hats create a strong tonal center against the paler street. The camera is approximately at the children's eye height, lending them presence without dramatizing the scene. The photograph has visible film grain, modest contrast, and a spontaneous urban framing. There are no invented labels, dates, or claims about their destination. The image feels both ordinary and poignant, recording the sharp stillness of two young travelers amid a large anonymous city.",
+  "full_prompt_zh": "一张方形黑白街头照片把两名小孩放在繁忙城市人行道中央。左侧男孩戴毡帽般帽子、宽大深外套、长裤和圆头鞋，方正站着，一只手拿小深箱，直望镜头。右侧较小女孩戴贴头帽，穿扣合的中长外套，也以严肃神情面对镜头，提一只小矩形手提箱。第二只更大的箱子放在两人中间前方的路面。成年行人填背景及上方两角，多被肩部裁断或因浅焦、运动而模糊。后面店面或墙上有不明海报与通知，字不可读。人行道有裂纹与灰尘，孩子小而静止的身体对比周围成年人的流动。自然漫散光留柔灰影，深外套和帽子则在较浅街景前形成强明暗中心。相机约与孩子眼同高，使他们有存在感而不戏剧化。照片有可见胶片颗粒、适中对比和自发城市取景。没有虚构标签、日期或目的地推断。画面既平常又动人，记录两名小旅人在巨大匿名城市中的锐利静止。",
+  "style_prompt_en": "Use candid black-and-white street photography with a clear small-scale focal group held still against a busier, partially cropped public background. Frame at the focal group's own level rather than looking down. Preserve uneven pavement, indistinct posters, ordinary clothing texture, and passing silhouettes as context without turning them into exposition. Light should be natural and diffuse, with grained midtones, detailed dark garments, and soft background motion. Keep poses unforced and eye contact direct. The image gains poignancy through scale, contrast, and the tension between stillness and surrounding movement, while remaining factual and unembellished.",
+  "style_prompt_zh": "采用偶然的黑白街头摄影，让清楚的小尺度焦点群在更忙碌、局部裁断的公共背景前保持静止。机位与焦点群同高，而非俯视。保留不平路面、模糊告示、平常服装纹理与过路剪影作为语境，却不变成说明。光线自然漫散，有颗粒中灰、深衣细节与柔和背景运动。姿态不强迫，目光直接。图像的动人之处来自尺度、对比及静止与周围流动的张力，同时保持事实性且不添饰。",
+  "theme_en": "Two children with small suitcases standing in a crowded city street",
+  "theme_zh": "两名提小箱子的孩子站在拥挤城市街头",
+  "wh_ratio": "1:1",
+  "id": "1285",
+  "name": "John Gutmann",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/john-gutmann",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/john-gutmann.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "e07ea6a94e3d450420f332d95b5a6e536d1c9c9cd6832c14a7908ffec27f2bd5",
+    "gpt_submission_prompt": "A square black-and-white street photograph places two small children at the center of a busy city sidewalk. The boy on the left wears a fedora-like hat, oversized dark coat, trousers, and rounded shoes. He stands squarely with his hands by his sides, holding a small dark case in one hand, and looks directly at the camera. The younger girl on the right wears a bonnet or close cap and a buttoned mid-length coat. She also faces the lens with a solemn expression and holds a small rectangular suitcase. A second larger suitcase rests on the pavement between and in front of them. Adult pedestrians fill the background and both upper corners, but most are cropped at the shoulders or blurred by shallow focus and movement. Behind them, a shopfront or wall bears indistinct posters and notices whose words cannot be read. The sidewalk is cracked and slightly dirty; the children's small still bodies contrast with the surrounding flow of adults. Natural diffuse light leaves soft gray shadows, while dark coats and hats create a strong tonal center against the paler street. The camera is approximately at the children's eye height, lending them presence without dramatizing the scene. The photograph has visible film grain, modest contrast, and a spontaneous urban framing. There are no invented labels, dates, or claims about their destination. The image feels both ordinary and poignant, recording the sharp stillness of two young travelers amid a large anonymous city.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "72263432c9e5e63d7b7c428652f33f0f41779953a14f71ae7bfdd366a7882032",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

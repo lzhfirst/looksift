@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square intimate oil painting shows a young woman from the chest upward against a rough cream and pale gray wall. She turns her head toward the upper left, her blue gray eyes attentive and slightly searching. Short dark hair frames her face in uneven soft waves, with one lock falling across her forehead and the ends curving at her jaw. Her skin is pale ivory with touches of warm peach and muted rose at the cheeks, lips, and nose. She wears a white outer garment whose shoulders merge into the textured light background. A wide rust orange collar and matching blouse form the strongest color in the lower center, with a small gathered knot at the throat. The neckline and upper shoulders are loosely brushed, while the eyes, lips, and contour of the nose receive more exact modeling. Behind her, broad scraped strokes of off white, warm gray, faint blue, and ocher leave the surface uneven and layered. A thin dark edge around the hair separates it from the background without closing every strand. Light comes softly from the upper left, brightening her forehead and cheek; subtle shadow sits under the chin and at the side of the neck. There is no visible furniture or room detail, keeping the close composition focused on her upward gaze and the contrast between dark hair and orange fabric. The image feels tender and observant, with freshness in the brushwork rather than polished finish.",
+  "full_prompt_zh": "一幅方形亲密油画描绘一位年轻女子从胸部以上的形象，背后是粗糙的奶油白与浅灰墙面。她把头转向左上方，蓝灰眼睛专注而略带探寻。短黑发以不齐整的柔软波浪框住脸，一缕落过额头，发梢在下颌旁弯曲。皮肤浅象牙白，脸颊、嘴唇与鼻部带暖桃和低饱和玫瑰色。她穿白色外衣，肩部与有肌理的浅背景相融。宽阔锈橙衣领和同色上衣构成下方中央最强色块，喉间有小小聚拢的结。领口和肩部笔触松散，眼睛、嘴唇与鼻轮廓则塑造得更准确。身后，米白、暖灰、淡蓝和赭色的宽刮擦笔触让表面不平而层叠。头发周围一道细深边把它从背景中分离，却没有把每根发丝封死。光从左上柔和到来，照亮额头和面颊；下巴下及颈侧留有轻影。没有可见家具或房间细节，近距离构图聚焦于她向上的目光和深发与橙色布料的反差。图像温柔、观察细致，笔触新鲜而非打磨光洁。",
+  "style_prompt_en": "Intimate oil painting balances precise focal modeling with loose, scraped peripheral brushwork. Warm ivory, pale gray, muted blue, peach, rust orange, and near black form a compact but varied palette. A dark irregular upper mass meets a luminous central plane, while one saturated warm area anchors the lower portion. Fine contours gather around the visual center; broader strokes at the edges leave transitions open and tactile. The paint shows abrasion, mottling, and thin underlayers in the pale surrounding field. Soft light from high on one side brightens raised surfaces and allows shallow shadow under overlapping forms. The image stays close and quiet, with no elaborate spatial backdrop. Its effect is tender, direct, and painterly, allowing careful observation and visible process marks to coexist.",
+  "style_prompt_zh": "亲密油画把精确焦点塑造与周边松散刮擦笔触平衡。暖象牙白、浅灰、低饱和蓝、桃色、锈橙和近黑组成紧凑却多变的色域。深色不规则上部体量接上发亮中央平面，一处饱和暖色固定下部。细轮廓聚在视觉中心，边缘更宽笔触让过渡保持开放、可触。浅色周围区域的颜料显出磨擦、斑驳和薄薄底层。从一侧高处来的柔光照亮凸起表面，让重叠形体下保留浅影。画面近而安静，不设繁复空间背景。效果温柔、直接且绘画性强，使仔细观察与可见制作痕迹共存。",
+  "theme_en": "Young woman with short dark hair and a rust orange collar",
+  "theme_zh": "短黑发、锈橙色衣领的年轻女子",
+  "wh_ratio": "1:1",
+  "id": "0864",
+  "name": "Elizabeth Peyton",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/elizabeth-peyton",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/elizabeth-peyton.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "35b08250cf3d1d358c0435f0829f0bf150bfdb77cbc0e60a3c38da64ae6b1fd5",
+    "gpt_submission_prompt": "A square intimate oil painting shows a young woman from the chest upward against a rough cream and pale gray wall. She turns her head toward the upper left, her blue gray eyes attentive and slightly searching. Short dark hair frames her face in uneven soft waves, with one lock falling across her forehead and the ends curving at her jaw. Her skin is pale ivory with touches of warm peach and muted rose at the cheeks, lips, and nose. She wears a white outer garment whose shoulders merge into the textured light background. A wide rust orange collar and matching blouse form the strongest color in the lower center, with a small gathered knot at the throat. The neckline and upper shoulders are loosely brushed, while the eyes, lips, and contour of the nose receive more exact modeling. Behind her, broad scraped strokes of off white, warm gray, faint blue, and ocher leave the surface uneven and layered. A thin dark edge around the hair separates it from the background without closing every strand. Light comes softly from the upper left, brightening her forehead and cheek; subtle shadow sits under the chin and at the side of the neck. There is no visible furniture or room detail, keeping the close composition focused on her upward gaze and the contrast between dark hair and orange fabric. The image feels tender and observant, with freshness in the brushwork rather than polished finish.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "b1a5a571afe90455d97412619c19ebdda0bac9aa27480e334c6cc84c489fec4b",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

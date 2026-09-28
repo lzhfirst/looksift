@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square color street photograph shows a woman in a knee-length pink dress standing near the left side of a row of midcentury automobiles. Her back and right profile face the camera as she looks toward a rounded pink car parked beside a pale blue-white car. The cars occupy the middle foreground, their chrome bumpers, curved trunks, and broad windows reflecting flat daylight. The pavement is wide and lightly cracked, leaving open gray space around the woman and vehicles. In the distance, low buildings, scattered parked cars, signs too small to read, utility poles, and several long wires line the horizon. Above them extends a large hazy teal-blue sky. The scene feels warm but slightly faded, with pink paint and dress providing a coordinated accent against cool sky, gray road, and cream-white metal. Light is late-afternoon and gentle, producing modest shadows without a dramatic source. The camera is at normal standing height, set far enough away that the person remains small and the parked cars become the main spatial rhythm. Film grain and subtly desaturated color preserve an analog look. The photograph is ordinary yet attentive, recording a chance alignment of clothing, car color, and open coastal light.",
+  "full_prompt_zh": "一张方形彩色街头照片呈现一位穿及膝粉裙的女性站在一排中世纪汽车左侧。她以背和右侧面朝镜头，望向一辆圆润粉车，旁边停着浅蓝白汽车。车辆占据中部前景，镀铬保险杠、弯曲车尾和宽窗反射平淡日光。铺地宽阔而略有裂纹，在女子和车周围留下开阔灰空间。远处低矮建筑、零散停车、无法辨认的小标识、电线杆和几道长电线排在地平线。其上是大幅朦胧青蓝天空。场景温暖却略褪色，粉车漆和裙子形成协调重点，对照冷天空、灰路面与奶油白金属。傍晚光柔和，只投出适度阴影，没有戏剧性光源。相机处于常人站立高度，距离足够远，使人物小，停车成为主要空间节奏。胶片颗粒与轻微降低的饱和度保留模拟影像感。照片平凡却细心，记录衣色、车色与开阔海边光的一次偶然对齐。",
+  "style_prompt_en": "Observational analog color street photography with faded midcentury hues, wide horizontal spacing, everyday objects, and quiet chance color correspondence. Soft teal sky and gray pavement support a few warm pink and cream accents. Normal eye-level framing, modest shadows, chrome glints, fine grain, and slight desaturation keep the scene natural and unforced. Open space is as important as the colorful focal cluster.",
+  "style_prompt_zh": "观察式胶片彩色街头摄影，以褪色的中世纪色彩、宽水平间距、日常物件和偶然的色彩呼应构成。柔青天空与灰铺地承托少数暖粉和奶油色重点。正常眼平取景、适度阴影、镀铬闪点、细颗粒与轻微低饱和使场景自然不强求。开阔空间与彩色焦点群同样重要。",
+  "theme_en": "A woman in a pink dress beside vintage cars on an open seaside lot",
+  "theme_zh": "海边开阔停车场里一位粉裙女子与老式汽车",
+  "wh_ratio": "1:1",
+  "id": "4482",
+  "name": "Joel Meyerowitz",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/joel-meyerowitz.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "55f438c3639003b20f351b7c57e22f0d20d1116307e60bf19893125edd2a6754",
+    "gpt_submission_prompt": "A square color street photograph shows a woman in a knee-length pink dress standing near the left side of a row of midcentury automobiles. Her back and right profile face the camera as she looks toward a rounded pink car parked beside a pale blue-white car. The cars occupy the middle foreground, their chrome bumpers, curved trunks, and broad windows reflecting flat daylight. The pavement is wide and lightly cracked, leaving open gray space around the woman and vehicles. In the distance, low buildings, scattered parked cars, signs too small to read, utility poles, and several long wires line the horizon. Above them extends a large hazy teal-blue sky. The scene feels warm but slightly faded, with pink paint and dress providing a coordinated accent against cool sky, gray road, and cream-white metal. Light is late-afternoon and gentle, producing modest shadows without a dramatic source. The camera is at normal standing height, set far enough away that the person remains small and the parked cars become the main spatial rhythm. Film grain and subtly desaturated color preserve an analog look. The photograph is ordinary yet attentive, recording a chance alignment of clothing, car color, and open coastal light.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "8d4bf5769b102d1827f9734924fb24b5bf48ebadcdd618e05e4d87e67d8ee7b9",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white street photograph looks from very near the wet pavement along an old city street. A broad puddle occupies the lower half of the frame, reflecting a line of pedestrians in dark coats and hats who cross the street at mid-distance. The actual figures are silhouetted against a bright misty opening between buildings; their upside-down counterparts stretch downward into the water, partly distorted by ripples and the irregular puddle edge. Dark walls and shopfronts form a tight corridor on both sides, while a distant stone building fades into pale haze. One nearer figure at the right moves with slight motion softness, making the moment feel unposed. The camera's exceptionally low viewpoint lets the reflection carry as much visual weight as the street itself. Strong blacks in the coats and edges alternate with a broad silver-gray water plane, and the wet cobbles along the upper edge have a rough sparkle. The light is naturally overcast and backlit, with no artificial dramatic beam. Fine analog grain, moderate softness and a range of luminous grays give the photograph an archival feel. The image captures the city as a temporary graphic pattern made by weather, motion and a fleeting alignment of people with their mirrored forms.",
+  "full_prompt_zh": "一幅正方形黑白街头照片从贴近湿地面的极低位置沿旧城街道观看。宽阔水洼占据画面下半，倒映中景一列穿深色大衣戴帽过街的行人。真实人影在建筑之间明亮雾口前成为剪影；颠倒的对应形状向下伸入水里，受涟漪和不规则水洼边缘略微扭曲。两侧暗墙与店面组成紧窄通道，远处石建筑在浅雾里消失。右侧一位较近的行人带轻微移动柔化，使瞬间没有摆拍感。相机极低的视点让倒影具有和街道本身同样的视觉重量。大衣和边界的浓黑与宽阔银灰水面交替，上方湿石板有粗糙微光。光源是自然阴天逆光，没有人为戏剧化光束。细胶片颗粒、适度柔化和丰富亮灰阶赋予照片档案气息。图像把城市捕捉为由天气、移动以及人与镜像短暂对齐构成的临时图形。",
+  "style_prompt_en": "The style is black-and-white documentary street photography from a ground-skimming viewpoint, with reflection used as a second compositional plane. Backlit silhouettes, overcast haze and wet granular textures create a broad silver-to-black tonal range. Slight motion softness and fine analog grain preserve the fleeting quality of the moment. The square frame balances actual forms above with broken mirrored forms below, allowing ordinary weather and alignment to produce formal visual rhythm.",
+  "style_prompt_zh": "这种风格是从贴地视点拍摄的黑白纪实街头摄影，倒影成为第二构图平面。逆光剪影、阴天薄雾和潮湿颗粒肌理形成宽阔的银灰至深黑灰阶。轻微运动柔化和细胶片颗粒保留瞬间性。正方形画幅把上方实际形体与下方破碎镜像平衡起来，让普通天气与短暂对齐生成形式节奏。",
+  "theme_en": "Pedestrians reflected in a city puddle",
+  "theme_zh": "倒映在城市水洼中的行人",
+  "wh_ratio": "1:1",
+  "id": "4428",
+  "name": "Wolfgang Suschitzky",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/wolfgang-suschitzky.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "b9d2befed62f1b72087fe957228bdfb890bb21bd140711a772c4fbb08aaa7bfc",
+    "gpt_submission_prompt": "A square black-and-white street photograph looks from very near the wet pavement along an old city street. A broad puddle occupies the lower half of the frame, reflecting a line of pedestrians in dark coats and hats who cross the street at mid-distance. The actual figures are silhouetted against a bright misty opening between buildings; their upside-down counterparts stretch downward into the water, partly distorted by ripples and the irregular puddle edge. Dark walls and shopfronts form a tight corridor on both sides, while a distant stone building fades into pale haze. One nearer figure at the right moves with slight motion softness, making the moment feel unposed. The camera's exceptionally low viewpoint lets the reflection carry as much visual weight as the street itself. Strong blacks in the coats and edges alternate with a broad silver-gray water plane, and the wet cobbles along the upper edge have a rough sparkle. The light is naturally overcast and backlit, with no artificial dramatic beam. Fine analog grain, moderate softness and a range of luminous grays give the photograph an archival feel. The image captures the city as a temporary graphic pattern made by weather, motion and a fleeting alignment of people with their mirrored forms.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "261ea5b8b28fc9b0645db35936e09da7b3077df1535ce97fb1e0cd4f1837a047",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

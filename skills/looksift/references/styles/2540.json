@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square expressionist painted portrait fills the frame with the head and shoulders of a person looking slightly to the right. The face is large and close, its wide dark eyes staring outward while parted lips and a lifted brow suggest alert curiosity. Thick tousled black hair piles across the top edge and spreads into wiry curls along both sides, leaving small yellow gaps around the head. The nose, cheekbones, and jaw are assembled from hard swaths of saturated mustard yellow, chalky white, black, and small dark blue marks rather than smoothly blended skin. A white open collar rises at the lower left, and the neck falls into deep navy and black at the bottom. Behind the figure, a flat golden-yellow field covers most of the panel. It is streaked with scrapes, scattered black flecks, and long ink-like drips near the lower right. Black lines slash around the hair and cut across the face, sometimes thick and clotted, sometimes thin as quick pen marks. Paint looks heavy and rubbed, with some areas opaque and others exposing rough earlier layers. The face remains readable despite abrupt, displaced edges and color blocks. Lighting is implied through fierce yellow and white planes on the forehead, nose, and cheek, set against blue-black shadow rather than a natural light source. The composition presses the restless face close to the viewer and uses the bright ground to intensify the raw, urban energy of the brushwork.",
+  "full_prompt_zh": "一幅方形表现主义绘画肖像让一个略朝右看的人的头肩占满画面。脸部巨大而贴近，宽睁深眼望向外侧，微张的嘴与抬起的眉显出警觉的好奇。浓密蓬乱的黑发堆在上缘，又向两侧散为细硬卷发，头部周围留下少量黄色空隙。鼻子、颧骨和下颌由饱和芥末黄、粉白、黑色及少量深蓝色的硬阔色块组装，而非柔和融合的肤色。白色敞领从左下升起，颈部在底边沉入深海蓝和黑色。人物后方，大块平坦金黄色覆盖大部分画格，带擦痕、散落黑斑和右下附近的长墨滴。黑线在头发周围猛划，横切面孔，时而厚重凝结，时而像速写笔迹一样细。颜料显得厚实又被磨擦，有些地方不透明，另一些露出粗糙旧层。尽管边缘和色块突兀错位，面孔依然可辨。光线通过额头、鼻梁和面颊上强烈黄白平面来暗示，与蓝黑阴影相对，而不是来自自然光源。构图把躁动的脸推近观者，亮底色强化笔触原始而都市化的能量。",
+  "style_prompt_en": "Expressionist mixed-media painting uses saturated flat color, heavy black drawing, rough rubbed paint, and loose ink-like drips. Construct recognizable forms from abrupt high-contrast planes rather than smooth modeling. Let wiry lines, scratched texture, and scattered flecks interrupt broad opaque fields. Limit the palette to a dominant hot yellow, chalky white, black, and a few deep blue accents, using color collision to imply light and shadow. Crop the focal form closely so edges feel pressured and immediate. Keep some contours unstable and layered while preserving a few sharp details as visual anchors. The transferable effect is raw, urgent, and tactile, with graphic clarity inside energetic disorder.",
+  "style_prompt_zh": "表现主义混合媒介绘画使用饱和的平坦色、厚黑线、粗糙磨擦颜料和松散墨滴。以突兀高反差平面构成可辨形体，而非平滑塑形。让细硬线条、刮痕肌理与散落斑点打断宽阔不透明色场。配色集中于占主导的热黄、粉白、黑色及少量深蓝重点，用色彩碰撞暗示光影。紧贴焦点形体裁切，让边缘显得受挤压而直接。部分轮廓保持不稳和层叠，同时留几处锐利细节作视觉锚点。可迁移的效果原始、急迫而可触，充满能量的混乱中仍有图形清晰度。",
+  "theme_en": "An expressive face against a mustard-yellow painted ground",
+  "theme_zh": "芥末黄绘画底色前富于表情的面孔",
+  "wh_ratio": "1:1",
+  "id": "2540",
+  "name": "Herman Brood",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/herman-brood",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/herman-brood.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "edb4497f3ddbbc9c3a2d6ba0e4c7e38b9ab7fdc13d701508f41cb4515fdc6efa",
+    "gpt_submission_prompt": "A square expressionist painted portrait fills the frame with the head and shoulders of a person looking slightly to the right. The face is large and close, its wide dark eyes staring outward while parted lips and a lifted brow suggest alert curiosity. Thick tousled black hair piles across the top edge and spreads into wiry curls along both sides, leaving small yellow gaps around the head. The nose, cheekbones, and jaw are assembled from hard swaths of saturated mustard yellow, chalky white, black, and small dark blue marks rather than smoothly blended skin. A white open collar rises at the lower left, and the neck falls into deep navy and black at the bottom. Behind the figure, a flat golden-yellow field covers most of the panel. It is streaked with scrapes, scattered black flecks, and long ink-like drips near the lower right. Black lines slash around the hair and cut across the face, sometimes thick and clotted, sometimes thin as quick pen marks. Paint looks heavy and rubbed, with some areas opaque and others exposing rough earlier layers. The face remains readable despite abrupt, displaced edges and color blocks. Lighting is implied through fierce yellow and white planes on the forehead, nose, and cheek, set against blue-black shadow rather than a natural light source. The composition presses the restless face close to the viewer and uses the bright ground to intensify the raw, urban energy of the brushwork.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "7758016a6ed459dfa601b11468e4e7a2098183e060a28026c834c3701ab7d619",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

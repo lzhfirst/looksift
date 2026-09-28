@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square science-fantasy landscape painting looks from the mouth of a dark rocky overhang across a broad golden plain. A lone traveler in rust-colored clothing stands in the lower left foreground, back toward the viewer, gazing at an intricate far-off city of towers and domes on a low mesa. A small herd or caravan crosses the sunlit grass in the middle distance. Blue water channels or shallow pools interrupt the warm plain with cool horizontal glints. Beyond the city, pale rock spires and mesas recede toward the horizon. A huge streamlined craft floats above the settlement near the upper center-right, its shadowed underside and bright rim making it look solid against deep blue sky. A pale moon hangs to the left of the craft, with white cumulus clouds along the distant skyline. The overhanging rock on the left and top frames the panorama in warm dark brown, giving the viewer a sheltered vantage. Brushwork is detailed in the city and foreground grasses but broader in sky and distance. Clear sunlight warms the land and stone architecture, while blue shadows and atmosphere create depth. The scale relationship among small traveler, city, craft, and moon gives the scene epic calm rather than immediate danger.",
+  "full_prompt_zh": "一幅方形科幻奇幻风景绘画从深色岩棚口望向广阔金色平原。下方左前景一位穿锈色衣服的独行者背对观看者，凝望低台地上一座细密的远方塔与穹顶城市。中景一小群牲畜或商队穿过受阳光照亮的草地。蓝色水道或浅池以冷水平闪光切入暖平原。城后浅色岩峰与台地向地平线退去。巨大流线飞行器悬在聚落上方中右处，受影底部与明亮边使它在深蓝天空前显得坚实。飞行器左侧悬一轮浅月，白积云沿远处天际线排列。左上方伸出的岩石以暖深棕框住全景，给观看者一个受遮蔽机位。城市和前景草有细笔，天空与远处笔触更宽。清朗阳光温暖土地与石建筑，蓝影和空气产生纵深。小旅人、城市、飞行器与月亮的尺度关系使场景史诗般平静，而非迫在眉睫的危险。",
+  "style_prompt_en": "Epic science-fantasy landscape painting with a dark overhanging foreground frame, warm gold and rust ground, distant intricate silhouettes, and immense cool blue sky. Tiny scale marks, reflective horizontal water accents, pale rock spires, and a hovering streamlined form establish layered grandeur. Clear sun warms near surfaces while blue atmospheric recession softens the distance. Painterly detail shifts from textured foreground to broad open air.",
+  "style_prompt_zh": "史诗科幻奇幻风景绘画，以深色外伸前景框、暖金锈色地面、细密远剪影和巨大冷蓝天空组成。极小尺度标记、反光水平水纹、浅岩峰与悬浮流线形建立层叠宏伟。清朗日光温暖近处表面，蓝空气后退柔化远方。绘画细节从前景纹理转向宽阔开敞空气。",
+  "theme_en": "A lone explorer before a distant fantasy city beneath a blue sky",
+  "theme_zh": "一位独行者站在蓝天下遥远奇幻城市前",
+  "wh_ratio": "1:1",
+  "id": "4252",
+  "name": "Bruce Pennington",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/bruce-pennington.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "2ed592378cb7b9608bd3a5987090eb06d7df8fe244324c3ff9edd716489b6786",
+    "gpt_submission_prompt": "A square science-fantasy landscape painting looks from the mouth of a dark rocky overhang across a broad golden plain. A lone traveler in rust-colored clothing stands in the lower left foreground, back toward the viewer, gazing at an intricate far-off city of towers and domes on a low mesa. A small herd or caravan crosses the sunlit grass in the middle distance. Blue water channels or shallow pools interrupt the warm plain with cool horizontal glints. Beyond the city, pale rock spires and mesas recede toward the horizon. A huge streamlined craft floats above the settlement near the upper center-right, its shadowed underside and bright rim making it look solid against deep blue sky. A pale moon hangs to the left of the craft, with white cumulus clouds along the distant skyline. The overhanging rock on the left and top frames the panorama in warm dark brown, giving the viewer a sheltered vantage. Brushwork is detailed in the city and foreground grasses but broader in sky and distance. Clear sunlight warms the land and stone architecture, while blue shadows and atmosphere create depth. The scale relationship among small traveler, city, craft, and moon gives the scene epic calm rather than immediate danger.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "77ee30fed471a1119e3f3f92f2f6b46eac2587e497f0d78fb8104fa10ac4f8e4",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

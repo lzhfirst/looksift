@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square nocturnal oil painting looks down a broad rain-wet street in an old city. The roadway recedes toward a distant misty center, flanked by dark rows of buildings and nearly bare trees. Warm gas lamps stand along both sides; the nearest on the right rises tall against a green-gray sky, while smaller amber lights diminish into the fog. Wet cobbles spread across the foreground and catch broken golden reflections, making the lower half shimmer with scattered strokes of yellow, orange, and black. A few small pedestrians and a dark carriage-like shape appear in the middle distance, softened by haze. Building walls on the right hold faint lit windows; the left side falls into silhouettes and shadow. The sky is muted olive green near the horizon and darker toward the edges, with a thick nocturnal atmosphere rather than visible stars. Oil paint is smooth in the mist but more broken and tactile where water reflects light on the street. The strongest contrast lies between the glowing lamps and the wet dark ground. There is no sharp modern glare; all illumination blooms gently through the damp air. Receding street lines, tree trunks, and repeated lamps create a steady depth rhythm. The image feels quiet, melancholy, and luminous, as if the city has just emptied after rain.",
+  "full_prompt_zh": "一幅方形夜景油画沿着旧城宽阔雨后街道望去。路面向远处迷雾中央延伸，两侧是深色建筑排与近乎无叶的树。暖色煤气灯列于两边；右侧最近的一盏高高立在绿灰天空前，较远的琥珀光点逐渐隐入雾中。潮湿石板覆盖前景，接住破碎金色倒影，使画面下半部以黄、橙、黑色散笔闪烁。少量小行人与一团像马车的深色形体出现在中景，受雾气柔化。右侧建筑墙面留有淡淡亮窗，左侧则化成剪影与阴影。天空在地平附近是低调橄榄绿，边缘更暗，充满浓重夜间空气而不见星。油彩在雾里平顺，在街面水光处则断续而可触。最强对比位于发亮路灯与湿暗地面之间。这里没有现代式尖锐眩光，所有照明都在潮湿空气中柔和扩散。后退的街线、树干和重复的灯建立稳定纵深节奏。画面安静、忧郁而发亮，仿佛城市刚在雨后空下来。",
+  "style_prompt_en": "Nocturnal oil painting places small amber lights within olive-green, charcoal, and blue-gray mist. Soft atmospheric blending lets distant forms lose their edges, while wet foreground surfaces break light into short tactile strokes. Repeated points of warmth and long dark verticals guide the eye into a hazy central depth. Reflections are scattered and irregular rather than mirror smooth. Shadows remain deep but not flat, with subtle green and brown color in them. The restrained illumination blooms through damp air, creating a quiet, melancholy rhythm and a luminous old-world finish.",
+  "style_prompt_zh": "夜景油画把细小琥珀光点放入橄榄绿、炭色和蓝灰迷雾。柔和空气感调和让远处形体失去边缘，潮湿前景则把光打碎成短促可触的笔痕。重复暖点与长形深色竖线引导视线进入朦胧中央纵深。反射散乱不规则，并非镜面平滑。阴影深却不平板，内含细微绿与棕。克制的照明穿过湿空气扩散，形成安静忧郁节奏与发光的旧时代完成面。",
+  "theme_en": "A rain-wet city street glowing under gas lamps",
+  "theme_zh": "煤气灯照亮的雨后城市街道",
+  "wh_ratio": "1:1",
+  "id": "2512",
+  "name": "John Atkinson Grimshaw",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/john-atkinson-grimshaw",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/john-atkinson-grimshaw.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "3c9fedde63d99df81d91298cd3db1c5069c2ce12cf654ec329b426025dffac98",
+    "gpt_submission_prompt": "A square nocturnal oil painting looks down a broad rain-wet street in an old city. The roadway recedes toward a distant misty center, flanked by dark rows of buildings and nearly bare trees. Warm gas lamps stand along both sides; the nearest on the right rises tall against a green-gray sky, while smaller amber lights diminish into the fog. Wet cobbles spread across the foreground and catch broken golden reflections, making the lower half shimmer with scattered strokes of yellow, orange, and black. A few small pedestrians and a dark carriage-like shape appear in the middle distance, softened by haze. Building walls on the right hold faint lit windows; the left side falls into silhouettes and shadow. The sky is muted olive green near the horizon and darker toward the edges, with a thick nocturnal atmosphere rather than visible stars. Oil paint is smooth in the mist but more broken and tactile where water reflects light on the street. The strongest contrast lies between the glowing lamps and the wet dark ground. There is no sharp modern glare; all illumination blooms gently through the damp air. Receding street lines, tree trunks, and repeated lamps create a steady depth rhythm. The image feels quiet, melancholy, and luminous, as if the city has just emptied after rain.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "c12a004a63661a3c76602324b9e23a5f11e4db38a8d02c8bd8685c20207bdba7",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

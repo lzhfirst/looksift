@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square expressive oil-paint study fills the frame with a weathered older man's face, cropped so closely that one side of the head extends beyond the edge. The gaze turns slightly upward and sideways, with one eye near the upper center holding the viewer's attention. The nose, heavy brow, cheek, and mouth emerge from a dense weave of short, broken brushstrokes rather than smooth blending. Warm cream, blush pink, ochre, muted mauve, and cool gray patches interlock across the skin. Dark brown-violet shadows gather beneath the eye, around the nostril, and at the lips, giving depth to the pale planes. Some drawn lines and thin underpainting remain visible between opaque strokes, making the study feel active and unfinished in a deliberate way. The surface resembles thickly worked canvas, with small ridges of pigment and scraped passages. Light falls broadly from above left, washing the forehead and nose while leaving the lower face quieter. The composition has little background; the face itself becomes a landscape of color, marks, and expression. The image feels intimate and searching, holding both close observation and the spontaneity of a painter's study. Its emotional force comes from the eye and irregular paint structure rather than dramatic staging.",
+  "full_prompt_zh": "一幅方形表现性油画习作以一位饱经岁月的年长男子面孔填满画框，裁切极近，一侧头部越出画缘。目光略向上、向侧面转，一只靠近上方中央的眼睛抓住注意力。鼻子、厚眉、脸颊和嘴由密集的短促破碎笔触中浮现，而非光滑晕染。暖乳白、浅粉、赭色、低饱和淡紫和冷灰色块在皮肤上相互咬合。深棕紫阴影聚于眼下、鼻孔旁和嘴唇处，让浅色面具有纵深。部分绘图线与薄薄的底色从厚笔间露出，使习作带着有意保留的活跃和未完成感。表面像反复堆抹的画布，有颜料细脊和刮开的段落。光线从左上方广泛落下，洗亮额头和鼻子，下方面孔则更安静。几乎没有背景；面孔本身成为颜色、笔迹和表情的风景。画面亲密而探寻，兼有近距离观察和画家习作的即兴性。情感力量来自眼睛和不规则颜料结构，而非戏剧化布景。",
+  "style_prompt_en": "An expressive impasto painting style builds form from short broken strokes, visible underdrawing, scumbled color, and occasional scraped passages. Warm cream, ochre, blush pink, muted mauve, cool gray, and brown-violet shadows interlock without smooth blending. A tightly cropped focal area occupies nearly the whole frame, with small high-contrast details that draw attention amid broad fragmented planes. Light spreads across raised paint and catches selected edges, while deep pigment collects in recesses. Preserve canvas texture, brush ridges, and the searching energy of a worked study. The technique can describe any close subject through irregular mark structure, layered color, and intimate scale.",
+  "style_prompt_zh": "表现性厚涂绘画风格以短促破碎笔触、可见底稿、擦叠色彩和偶尔刮开的段落建立形体。暖乳白、赭色、浅粉、低饱和淡紫、冷灰与棕紫暗部相互咬合，不做光滑晕染。极近的焦点区域几乎占满画框，少量高反差细节在广阔破碎色面中吸引视线。光掠过隆起颜料并照亮选定边缘，深色积在凹处。保留画布肌理、笔刷颜料脊和反复探寻的习作活力。这套技法可以通过不规则笔迹结构、层叠色彩和亲密尺度描绘各种近景主题。",
+  "theme_en": "An intimate cropped study of an older man's weathered face",
+  "theme_zh": "一位年长男子布满岁月痕迹的面孔特写习作",
+  "wh_ratio": "1:1",
+  "id": "4281",
+  "name": "Jenny Saville",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/jenny-saville.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "428459a7a3ac801a4eaf2ac5b454f608f16a0e8a6c5ae0f7bd053029ae3a1020",
+    "gpt_submission_prompt": "A square expressive oil-paint study fills the frame with a weathered older man's face, cropped so closely that one side of the head extends beyond the edge. The gaze turns slightly upward and sideways, with one eye near the upper center holding the viewer's attention. The nose, heavy brow, cheek, and mouth emerge from a dense weave of short, broken brushstrokes rather than smooth blending. Warm cream, blush pink, ochre, muted mauve, and cool gray patches interlock across the skin. Dark brown-violet shadows gather beneath the eye, around the nostril, and at the lips, giving depth to the pale planes. Some drawn lines and thin underpainting remain visible between opaque strokes, making the study feel active and unfinished in a deliberate way. The surface resembles thickly worked canvas, with small ridges of pigment and scraped passages. Light falls broadly from above left, washing the forehead and nose while leaving the lower face quieter. The composition has little background; the face itself becomes a landscape of color, marks, and expression. The image feels intimate and searching, holding both close observation and the spontaneity of a painter's study. Its emotional force comes from the eye and irregular paint structure rather than dramatic staging.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "f0c8bc3e255e412bcfde0217cf92428a4622dabf59a23fb644c163f655d986b2",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

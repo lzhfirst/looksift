@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square contemporary oil painting presents a young woman from the chest up against a worn charcoal gray wall. Her head is centered and slightly bowed, with both eyes closed and a very small red orange mouth. Smooth pale skin forms an elongated oval that narrows toward the chin. Glossy black hair is drawn tightly back and parted in a fine vertical line at the top, making a dark rounded frame around the face. A black collared garment fills the lower part of the image and merges with the shadowed background. The wall carries subtle scratches, vertical scuffs and uneven gray patches, but no distinct objects or setting. A faint warm light from the upper left falls across the forehead and cheeks, with almost no hard shadow. The face is finely blended and doll-like, while the wall and clothing are matte and rougher. The palette is nearly monochrome, shifting through ivory, gray and black; the tiny warm mouth is the only vivid accent. The composition is formally symmetrical and very still, with the face held between wide dark margins. Its close crop and simplified features give the sitter an inward, suspended expression. The image feels quiet and uneasy, balancing polished smoothness against a weathered field.",
+  "full_prompt_zh": "这幅方形当代油画呈现一位年轻女子从胸向上的形象，背景是磨旧的炭灰墙。头居中微低，双眼闭合，嘴是极小红橙色点。平滑浅色皮肤构成向下巴收窄的长椭圆。亮黑头发紧紧向后梳，从顶部一条细竖缝分开，在脸周形成暗圆框。黑色有领衣服填满下部，融入阴影背景。墙上有细刮痕、竖向擦痕和不均匀灰斑，但无明确物件或地点。左上微暖光落在额头与脸颊，几乎没有硬影。面部细腻融合、像娃娃，墙与衣服则哑光且更粗。色盘近乎单色，在象牙色、灰与黑间移动；细小暖嘴是唯一鲜亮点。构图正式对称而极静，面孔保持在宽暗边之间。近裁切与简化五官使人物有向内悬停的神情。图像安静而略令人不安，把抛光般平滑与磨旧色域平衡。",
+  "style_prompt_en": "The oil painting sets a smoothly blended pale oval within broad matte charcoal and gray. Nearly symmetrical spacing and restrained features create a still central focus. A tiny warm accent interrupts the near-monochrome palette. Soft upper light gives gentle volume without sharp shadow, while scraped vertical marks and uneven patches roughen the surrounding field. The contrast between polished central surface and weathered outer texture produces quiet unease.",
+  "style_prompt_zh": "这种油画把平滑融合的浅色椭圆置于宽阔哑光炭色与灰中。近乎对称的留距和克制特征形成静止中央焦点。一点暖色打断近单色色盘。柔和上光带来温和体积而无锐影，刮出的竖痕和不均匀斑块使周围色域变粗。中央抛光般表面与外围磨旧纹理的对比产生安静不安感。",
+  "theme_en": "A still pale face with closed eyes against a worn gray wall",
+  "theme_zh": "磨旧灰墙前闭眼的静止浅色面容",
+  "wh_ratio": "1:1",
+  "id": "3227",
+  "name": "Zhang Xiaogang",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/zhang-xiaogang",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "12997142aac4ba31072702aed2339e71ac26030c0e35234e910c36b045a7cafa",
+    "gpt_submission_prompt": "A square contemporary oil painting presents a young woman from the chest up against a worn charcoal gray wall. Her head is centered and slightly bowed, with both eyes closed and a very small red orange mouth. Smooth pale skin forms an elongated oval that narrows toward the chin. Glossy black hair is drawn tightly back and parted in a fine vertical line at the top, making a dark rounded frame around the face. A black collared garment fills the lower part of the image and merges with the shadowed background. The wall carries subtle scratches, vertical scuffs and uneven gray patches, but no distinct objects or setting. A faint warm light from the upper left falls across the forehead and cheeks, with almost no hard shadow. The face is finely blended and doll-like, while the wall and clothing are matte and rougher. The palette is nearly monochrome, shifting through ivory, gray and black; the tiny warm mouth is the only vivid accent. The composition is formally symmetrical and very still, with the face held between wide dark margins. Its close crop and simplified features give the sitter an inward, suspended expression. The image feels quiet and uneasy, balancing polished smoothness against a weathered field.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "3fe17d726c2e6a20e1f6a0c9fd6eedd78685837776c42ec4b295b546372a49c4",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

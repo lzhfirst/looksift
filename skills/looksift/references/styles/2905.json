@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square, densely inked comic illustration shows three wide-eyed youths crowded around a small cafe table filled with food and drinks. The room behind them is dark and busy, with framed pictures, faces and worn wall surfaces partly visible through gray-brown shadow. At the left, a dark-haired girl in a charcoal cap leans inward, her face turned toward the middle. The central figure has a tousled black mop of hair, round staring eyes and both hands close to a tall glass with a straw. A pale cloud of smoke or steam curls above the table near the central head. On the right, a blond youth with a pink band in the hair rests an elbow near another tall glass and looks back toward the left pair. Their heads and hands form a compact triangle above the table. In the foreground, a large round sandwich sits on a plate near the lower center, surrounded by smaller dishes, crumbs, glasses and dark bottles. The tabletop is worn and crowded, its edges marked with thin scratchy lines. Faces are pale cream with rosy touches, while clothing and room details use muted browns, grays and a concentrated pink accent. Fine black contour lines and dense hatch marks model hair, fabric, wall texture and food, giving the scene a handmade, slightly scruffy character. Light falls softly from the upper left onto the faces and dishes, leaving the back wall subdued. The overall composition captures an intimate moment of animated curiosity amid an overflowing, warmly worn cafe setting.",
+  "full_prompt_zh": "这幅方形、墨线繁密的漫画插画里，三个睁大眼睛的年轻人挤在摆满食物和饮料的小咖啡馆餐桌旁。身后房间幽暗而繁忙，画框、面孔和磨旧墙面部分露在灰褐阴影中。左侧，一名深发女孩戴炭色帽子，身体向内倾，脸转向中央。中间人物有蓬乱黑发、圆睁双眼，双手靠着一只插吸管的高杯。桌上中央头部附近，一团浅色烟或蒸汽卷起。右侧，金发年轻人头发里有粉色发带，一边肘部靠近另一只高杯，回望左侧两人。他们的头和手在桌上组成紧凑三角。前景里，一个大圆三明治放在下方中央附近的盘中，周围有小碟、碎屑、杯子与深色瓶子。桌面磨旧而拥挤，边沿布满细刮线。面孔是带玫瑰色点缀的浅奶油色，衣服与房间细节用压低的褐、灰和集中的粉色强调。细黑轮廓和密排线塑造头发、布料、墙面肌理与食物，给场景手工且略乱的性格。柔光从左上落在脸和餐具上，后墙保持低调。整体构图捕捉温暖磨旧咖啡馆里一刻亲密而生动的好奇，周围物件几乎溢出画面。",
+  "style_prompt_en": "The comic illustration pairs energetic black ink contours with dense hatching, muted watercolor-like fills and visibly worn paper texture. Pale cream focal areas stand out against a crowded gray-brown ground, while small pink or warm accents guide the eye. Rounded expressive shapes and compressed overlaps create a lively social rhythm without relying on smooth digital polish. Fine scratch marks and many tiny objects make foreground surfaces tactile; farther detail dissolves into darker, busier marks. Soft light selects a compact central cluster, leaving the margins comparatively subdued. The finish is intimate, playful and slightly messy, with drawing texture carrying much of its charm.",
+  "style_prompt_zh": "这种漫画插画把有活力的黑墨轮廓、密排线、压低的水彩式填色和可见磨旧纸纹结合。浅奶油色焦点从拥挤灰褐底中显出，少量粉色或暖色强调引导目光。圆润而富于表情的形体和压紧重叠建立活跃的交往节奏，不依赖平滑数字抛光。细刮痕与许多小物让前景表面可触；更远细节融入较暗、较繁忙的笔痕。柔光挑出紧凑中央簇团，边缘相对低调。完成面亲密、俏皮且略显凌乱，绘画肌理承载其多数魅力。",
+  "theme_en": "Three wide-eyed youths leaning around a cluttered cafe table",
+  "theme_zh": "三个睁大眼睛的年轻人围着杂乱的咖啡馆餐桌倾身交谈",
+  "wh_ratio": "1:1",
+  "id": "2905",
+  "name": "Julie Doucet",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/julie-doucet",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/julie-doucet.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "de1b693c3538608cb10db8f988d485f4d157238762f8a4dd2510a0f374731b7d",
+    "gpt_submission_prompt": "A square, densely inked comic illustration shows three wide-eyed youths crowded around a small cafe table filled with food and drinks. The room behind them is dark and busy, with framed pictures, faces and worn wall surfaces partly visible through gray-brown shadow. At the left, a dark-haired girl in a charcoal cap leans inward, her face turned toward the middle. The central figure has a tousled black mop of hair, round staring eyes and both hands close to a tall glass with a straw. A pale cloud of smoke or steam curls above the table near the central head. On the right, a blond youth with a pink band in the hair rests an elbow near another tall glass and looks back toward the left pair. Their heads and hands form a compact triangle above the table. In the foreground, a large round sandwich sits on a plate near the lower center, surrounded by smaller dishes, crumbs, glasses and dark bottles. The tabletop is worn and crowded, its edges marked with thin scratchy lines. Faces are pale cream with rosy touches, while clothing and room details use muted browns, grays and a concentrated pink accent. Fine black contour lines and dense hatch marks model hair, fabric, wall texture and food, giving the scene a handmade, slightly scruffy character. Light falls softly from the upper left onto the faces and dishes, leaving the back wall subdued. The overall composition captures an intimate moment of animated curiosity amid an overflowing, warmly worn cafe setting.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "21fc681ac8d8c0934381732a6d7e06570c6a1ab89a8f3edb0edcca5e53065c6c",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

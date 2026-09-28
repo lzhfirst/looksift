@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "At dusk, a pale-robed figure descends broad stone steps beside a narrow canal. The figure is placed near the center-right, its long cream garment catching the last warm light. Several companions in muted brown, white, and dark blue robes cluster higher on the steps against the weathered wall of a substantial stone building. A small projecting lantern or enclosed balcony reaches out over the water, and a few windows glow faintly above. To the left, the canal opens toward a low orange-pink horizon; a tiny distant boat crosses the far water. Deep turquoise and blue-green reflections fill the lower left, broken by soft ripples and the pale echo of the stone edge. The building is built from measured blocks of gray-blue and warm beige, with small changes in value showing age and relief. The figures have believable weight and quiet gestures, yet their outlines soften into the surrounding painterly atmosphere. Fine layered brushwork records folds in cloth, mottled masonry, and moving water without becoming hard or photographic. Light is low and diffuse, warm on the sky and pale fabric, cooler across the shaded wall and canal. The square image balances a large dense architectural mass at right against the open water and sky at left. Its diagonally descending steps guide the eye toward the main figure and then outward to the reflective canal. The scene feels historical and contemplative, with the hush of evening carried by restrained movement and nuanced color.",
+  "full_prompt_zh": "黄昏时，一位身着浅色长袍的人沿狭窄运河旁的宽石阶下行。人物位于中央偏右，长长的奶油色衣袍接住最后的暖光。几位穿低饱和棕色、白色和深蓝长袍的同伴聚在更高的台阶上，背后是厚重石建筑的风化墙面。一个小小的外挑灯龛或封闭阳台伸向水面，上方几扇窗透出微弱暖光。左侧运河向低矮的橙粉色地平线敞开，远水上有一只极小的船。深青绿和蓝绿色倒影占据左下区域，被柔和水纹和浅石边缘的影子打碎。建筑由有节制的灰蓝、暖米色石块组成，细微明暗变化表现其年代和浮凸。人物有可信的重量与安静姿态，但轮廓柔化进周围的绘画氛围。精细层叠笔触记录布褶、斑驳砌石和流动水面，却不变得生硬或照片般逼真。光线低而漫射，在天空和浅色布料上偏暖，在背阴墙体与运河上偏冷。方形画面以右侧厚实的建筑块面平衡左侧敞开的水和天空。斜向下降的石阶把视线引向主要人物，再带到反光的运河。场景带历史感和沉思气息，克制的动作与细腻色彩传递傍晚的寂静。",
+  "style_prompt_en": "A refined historical narrative painting style with layered, fine brushwork and softly controlled edges. Muted blue-green, turquoise, gray stone, warm beige, and a small amount of dusk orange create a balanced cool-warm palette. Diffuse low light picks out selected pale forms and warm highlights while shaded masses remain detailed. Textured masonry, flowing fabric, and broken water reflections receive distinct but harmonious marks. Architecture supplies measured structure; diagonal pathways and open reflective space give the square composition depth and breathing room. The mood is contemplative, atmospheric, and quietly theatrical.",
+  "style_prompt_zh": "精致的历史叙事绘画风格，使用层叠细笔触和柔和受控的边缘。低饱和蓝绿、青绿、灰石色、暖米色与少量黄昏橙构成冷暖平衡的配色。低角度漫射光挑亮局部浅色形态和暖色高光，背阴块面仍保留细节。砌石肌理、流动布料和破碎水面倒影分别采用不同但协调的笔痕。建筑提供有节制的结构，斜向路径与敞开的反光空间给予方形构图纵深和呼吸感。气氛沉思、富有空气感，并带有安静的戏剧性。",
+  "theme_en": "A robed figure descending pale stone steps beside a blue canal at dusk",
+  "theme_zh": "黄昏时一位身着长袍的人沿蓝色运河旁的浅石阶下行",
+  "wh_ratio": "1:1",
+  "id": "4211",
+  "name": "Edwin Austin Abbey",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/edwin-austin-abbey.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "5c6213c532ef8169e686266923f0d9a6abead57eda2a1069a28764c1b934372b",
+    "gpt_submission_prompt": "At dusk, a pale-robed figure descends broad stone steps beside a narrow canal. The figure is placed near the center-right, its long cream garment catching the last warm light. Several companions in muted brown, white, and dark blue robes cluster higher on the steps against the weathered wall of a substantial stone building. A small projecting lantern or enclosed balcony reaches out over the water, and a few windows glow faintly above. To the left, the canal opens toward a low orange-pink horizon; a tiny distant boat crosses the far water. Deep turquoise and blue-green reflections fill the lower left, broken by soft ripples and the pale echo of the stone edge. The building is built from measured blocks of gray-blue and warm beige, with small changes in value showing age and relief. The figures have believable weight and quiet gestures, yet their outlines soften into the surrounding painterly atmosphere. Fine layered brushwork records folds in cloth, mottled masonry, and moving water without becoming hard or photographic. Light is low and diffuse, warm on the sky and pale fabric, cooler across the shaded wall and canal. The square image balances a large dense architectural mass at right against the open water and sky at left. Its diagonally descending steps guide the eye toward the main figure and then outward to the reflective canal. The scene feels historical and contemplative, with the hush of evening carried by restrained movement and nuanced color.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "51bb24284a1dbae540faba50e3c682079806c3ca2633d6a637353d6918a6f408",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square regionalist painting views a patchwork farm landscape from behind two people standing on a gentle hill. Their upper backs and heads fill the lower foreground: the left person wears a black coat and a broad-brimmed gray hat, while the right person has pale hair gathered into a tidy low bun. Both look toward a small cluster of cream farm buildings in the middle distance. Curving green fields, golden grain, narrow paths, round dark trees, and russet shrubs flow across the land in carefully interlocked bands. At the far horizon, pale fields and tiny hedgerows extend beneath a thin light sky. Shapes are simplified but strongly modeled, with every tree appearing as a dense rounded volume and every field edge deliberate. The palette is earthy and saturated without brightness: mustard, olive, deep forest green, burnt orange, gray, and cream. Fine even brush texture covers the surface like close stippling or woven grain. Afternoon light falls gently from the upper left, picking out rooftops and rounded hills while leaving the foreground figures dark and solid. The elevated viewpoint guides the gaze over the shoulders into the orderly rural panorama. The scene feels still, observant, and quietly monumental, with an almost sculpted geometry beneath its natural subject.",
+  "full_prompt_zh": "一幅方形地域主义绘画从两位站在缓坡上的人身后俯瞰拼布般的农田景观。他们的后背上部和头占据下方前景：左边的人穿黑外套，戴宽檐灰帽；右边的人浅色头发梳成整齐低髻。两人都望向中景一小簇奶油色农舍。弯曲的绿色田地、金黄谷物、窄小道路、圆浑深树和锈色灌木以精心咬合的带状形态流过大地。远处地平线下，浅色田野和细小篱树一直延伸到狭窄明亮天空。形状经过简化却有强烈塑形，每棵树像密实圆体，每条田界都经过安排。色彩朴实而饱满却不刺目：芥黄、橄榄、深森林绿、焦橙、灰与奶油色。细密均匀笔触像紧贴的点描或织物颗粒覆盖表面。午后光从左上方柔和落下，勾出屋顶和圆丘，前景人物则保持深暗而厚实。高视角引导目光越过肩膀，进入秩序井然的乡野全景。场景静止、善于观察而带安静的纪念性，自然主题下藏着近乎雕塑的几何。",
+  "style_prompt_en": "Regionalist oil painting with simplified sculptural volumes, interlocking curved bands, rounded clustered forms, and meticulous fine brush grain. Earthy mustard, olive, forest green, rust, gray, and cream stay harmonized under gentle afternoon light. Foreground dark masses anchor an elevated view into patterned distance. The image feels orderly and contemplative through measured geometry, clear silhouettes, and tactile matte pigment.",
+  "style_prompt_zh": "地域主义油画，以简化的雕塑体积、互相咬合的曲带、团簇圆形以及细密笔触颗粒组成。朴实的芥黄、橄榄、森林绿、铁锈、灰和奶油色在柔和午后光下协调。前景深色大块稳定朝向纹样化远景的高视角。精心安排的几何、清楚剪影和可触的哑光颜料使画面秩序井然、沉静。",
+  "theme_en": "Two rural observers overlooking rolling fields and a small village",
+  "theme_zh": "两位乡间观察者俯瞰起伏田野与小村庄",
+  "wh_ratio": "1:1",
+  "id": "4329",
+  "name": "Grant Wood",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/grant-wood.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "d743235a2b219388b50c3ea1c400eda0b6c5ca78881658c322606e4019b5f5a9",
+    "gpt_submission_prompt": "A square regionalist painting views a patchwork farm landscape from behind two people standing on a gentle hill. Their upper backs and heads fill the lower foreground: the left person wears a black coat and a broad-brimmed gray hat, while the right person has pale hair gathered into a tidy low bun. Both look toward a small cluster of cream farm buildings in the middle distance. Curving green fields, golden grain, narrow paths, round dark trees, and russet shrubs flow across the land in carefully interlocked bands. At the far horizon, pale fields and tiny hedgerows extend beneath a thin light sky. Shapes are simplified but strongly modeled, with every tree appearing as a dense rounded volume and every field edge deliberate. The palette is earthy and saturated without brightness: mustard, olive, deep forest green, burnt orange, gray, and cream. Fine even brush texture covers the surface like close stippling or woven grain. Afternoon light falls gently from the upper left, picking out rooftops and rounded hills while leaving the foreground figures dark and solid. The elevated viewpoint guides the gaze over the shoulders into the orderly rural panorama. The scene feels still, observant, and quietly monumental, with an almost sculpted geometry beneath its natural subject.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "a33827c31ddf020d4ea2c06535eb9ac9b4a40e8d016fcbf93d9f4b32ab6cb5d2",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

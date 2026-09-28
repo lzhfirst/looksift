@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square isometric game-like illustration surveys a dense stone settlement from a high diagonal viewpoint. Massive gray-beige walls and square towers weave across the lower and left portions of the frame. Near the center, an arched gate and raised parapet connect several defensive buildings, their worn stone blocks and small dark openings clearly articulated. Rust-red tile roofs cap many towers and houses; a few blue-green domes and awnings introduce cooler accents among the warm masonry. In the upper half, larger civic-looking structures with columns, steps, and ornate rooflines rise above a web of sandy lanes. A tall gate with a vivid red hanging banner stands toward the upper right. Small market stalls, carts, crates, and clusters of tiny human figures occupy the lanes and courtyards. Trees, shrubs, and patches of grass fill gaps between the buildings, making the complex feel inhabited rather than purely geometric. Paths turn around wall corners and pass through archways, allowing the eye to travel through multiple levels of the town. The rendering has crisp outlines and painterly surface texture: roof tiles, brick joints, dust, and foliage are densely described, but individual people remain very small. Warm daylight from the upper left creates short blue-gray shadows beside walls and beneath overhangs. There is no visible horizon; the city seems to continue past every edge. The composition feels like a strategy-game map, balancing repeated modular fortifications with irregular vegetation, varied roof heights, and lively scattered activity.",
+  "full_prompt_zh": "一幅方形等距视角游戏式插画从高处斜看密集石砌聚落。巨大的灰米色城墙与方塔穿过画面下部和左侧。中央附近，拱门和高起女墙连接数座防御建筑，风化石块与小型深色开口都刻画清楚。锈红瓦顶盖在许多塔楼和房屋上，几处蓝绿色穹顶与遮棚在暖石色中引入冷调。上半部，更大的公共建筑形体凭立柱、台阶和繁复屋线从沙土路网中升起。右上方，一座高门挂着鲜红旗帜。小集市棚、车、木箱与细小人群散在道路和庭院里。树木、灌丛和草地填入建筑间隙，让整组建筑显得有人居住，而非纯几何体。小径绕墙角转弯、穿过拱门，使视线能在城镇多个层级间移动。渲染轮廓清晰而表面具绘画肌理：瓦片、砖缝、尘土与叶片细节密集，但人物始终很小。暖日光从左上来，在墙旁和挑檐下形成短蓝灰阴影。画面里看不到地平线，城市似乎向四边继续。构图如策略游戏地图，以重复模块化堡垒平衡不规则植被、变化的屋顶高度和分散的活跃活动。",
+  "style_prompt_en": "Use high oblique isometric illustration with crisp readable modular forms and densely textured painterly surfaces. Repeat walls, arches, towers, rooftops, paths, and small props in a coherent spatial grid, while inserting irregular vegetation and tiny activity for scale. Favor warm beige stone, dusty ocher ground, rust-red accents, muted teal, and blue-gray shadow. Keep daylight clear, shadows short, and every construction edge legible. Let the environment extend beyond the crop for the feeling of a larger explorable world.",
+  "style_prompt_zh": "采用高斜角等距插画，以清晰可读的模块形体和密集绘画表面肌理构成画面。在统一空间网格中重复墙、拱、塔、屋顶、小径与小物件，同时加入不规则植被和微小活动建立尺度。偏重暖米色石材、灰赭土地、锈红点缀、暗青绿和蓝灰阴影。日光清晰、影子短促，每条构造边可辨。让环境向裁切外延续，形成更大可探索世界的感觉。",
+  "theme_en": "An isometric stone fortress settlement with gates, towers, and red-tiled roofs",
+  "theme_zh": "由城门、塔楼与红瓦屋顶组成的等距石堡聚落",
+  "wh_ratio": "1:1",
+  "id": "0438",
+  "name": "Age of Empires",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/age-of-empires",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/age-of-empires.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "83b94460d912ec4fcd4dac94ec2352cd251a637efe60e24874d6e777576fa781",
+    "gpt_submission_prompt": "A square isometric game-like illustration surveys a dense stone settlement from a high diagonal viewpoint. Massive gray-beige walls and square towers weave across the lower and left portions of the frame. Near the center, an arched gate and raised parapet connect several defensive buildings, their worn stone blocks and small dark openings clearly articulated. Rust-red tile roofs cap many towers and houses; a few blue-green domes and awnings introduce cooler accents among the warm masonry. In the upper half, larger civic-looking structures with columns, steps, and ornate rooflines rise above a web of sandy lanes. A tall gate with a vivid red hanging banner stands toward the upper right. Small market stalls, carts, crates, and clusters of tiny human figures occupy the lanes and courtyards. Trees, shrubs, and patches of grass fill gaps between the buildings, making the complex feel inhabited rather than purely geometric. Paths turn around wall corners and pass through archways, allowing the eye to travel through multiple levels of the town. The rendering has crisp outlines and painterly surface texture: roof tiles, brick joints, dust, and foliage are densely described, but individual people remain very small. Warm daylight from the upper left creates short blue-gray shadows beside walls and beneath overhangs. There is no visible horizon; the city seems to continue past every edge. The composition feels like a strategy-game map, balancing repeated modular fortifications with irregular vegetation, varied roof heights, and lively scattered activity.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "5186f12cf1c56b257fbb47ae570386352e99f9b2a482454567c52589bcbe4f77",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

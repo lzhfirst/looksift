@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square, sharply rendered pop portrait shows a black-furred gorilla in three-quarter view against an uninterrupted hot pink background. The vivid color fills the upper and right margins, with no horizon or visible setting. The gorilla's massive shoulders and head occupy nearly the whole frame, cropped along the bottom and both sides. Its face turns toward the left, lifted slightly so the broad nose and partly open mouth project forward. Glossy purple sunglasses cover the eyes, their dark magenta lenses reflecting small pale highlights. A few yellowed teeth show within the mouth. Thick dark fur covers the crown, cheeks and shoulders, its strands picked out in fine gray and brown highlights against deeper black clumps. A black leather-looking collar and upper garment run across the lower center, with folds and a small glint distinguishing them from the surrounding fur. The smooth, nearly flat pink backdrop throws the textured silhouette into strong relief. Light comes from the upper left front, catching the glasses, bridge of the nose, individual hairs and raised folds while leaving the underside of the muzzle and shoulder in deep shadow. The visual detail feels photographic, but the saturated backdrop and unexpected accessory give it an intentionally graphic humor. The overall composition uses one oversized dark form and a single neon field to create a confrontational, playful image with strong material contrast.",
+  "full_prompt_zh": "这幅方形、刻画锐利的波普肖像里，一只黑毛大猩猩以四分之三侧面出现在不断开的亮粉色背景前。鲜色填满上方和右缘，没有地平线或可见场所。大猩猩巨大的肩膀和头几乎占满画幅，在底部与左右被裁切。它的脸转向左侧、略微抬起，宽鼻和微开的嘴向前突出。光亮的紫色墨镜盖住眼睛，深品红镜片映着小块浅亮高光。嘴里露出几颗偏黄的牙。浓密深毛覆盖头顶、面颊和肩膀，细灰与棕色亮毛从更深的黑毛团中显出。下方中央横过黑色皮革质感的领口和上衣，衣褶与一点亮光使它们区别于周围毛发。平滑、近乎平涂的粉色底令有肌理的剪影格外突出。光从左上前方照来，接住眼镜、鼻梁、单根毛发和衣物凸起处，让嘴部下侧及肩膀留在深影里。细节近似摄影，但饱和背景与出人意料的配件赋予画面刻意的图形幽默。整体构图以一个超大的深色形体和一片霓虹色域，形成具有强烈材质对照、直面观众而俏皮的图像。",
+  "style_prompt_en": "The pop-photographic treatment isolates a large near-black textured mass against a seamless saturated magenta field. Fine directional strands and small glossy reflections keep the dark form tactile, while broad shadow areas preserve a powerful silhouette. A few purple and warm yellow accents sit inside the black, giving the eye small points of contrast. Light comes from one front side and catches hard reflective surfaces more brightly than matte fibers. The frame is cropped close, with little environmental information, so color opposition and material difference dominate. The finish is bold, humorous and slightly confrontational, with vivid simplicity at a distance and intricate texture up close.",
+  "style_prompt_zh": "这种波普摄影式处理把大块近黑而有肌理的形体孤立在无接缝的饱和品红色域前。细密定向丝状纹理与小块光亮反射让深形体可触，宽阔阴影区域则保持有力剪影。少量紫色与暖黄色强调嵌在黑色中，给视线小小的对照落点。光从前侧一方照来，让硬质反光面比哑光纤维更亮。画框裁切紧密，几乎没有环境信息，因此色彩对立和材料差异占主导。成品大胆、幽默且略带逼视感，远看简洁鲜明，近看肌理精细。",
+  "theme_en": "A black-furred gorilla wearing glossy purple sunglasses against vivid pink",
+  "theme_zh": "黑毛大猩猩戴着亮紫色墨镜，身后是鲜粉色背景",
+  "wh_ratio": "1:1",
+  "id": "0580",
+  "name": "Guerrilla Girls",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/guerrilla-girls",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/guerrilla-girls.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "e4a918cd84a49db3206bb95fd6df0ee01f7453751629381c6baf17fbab280d96",
+    "gpt_submission_prompt": "A square, sharply rendered pop portrait shows a black-furred gorilla in three-quarter view against an uninterrupted hot pink background. The vivid color fills the upper and right margins, with no horizon or visible setting. The gorilla's massive shoulders and head occupy nearly the whole frame, cropped along the bottom and both sides. Its face turns toward the left, lifted slightly so the broad nose and partly open mouth project forward. Glossy purple sunglasses cover the eyes, their dark magenta lenses reflecting small pale highlights. A few yellowed teeth show within the mouth. Thick dark fur covers the crown, cheeks and shoulders, its strands picked out in fine gray and brown highlights against deeper black clumps. A black leather-looking collar and upper garment run across the lower center, with folds and a small glint distinguishing them from the surrounding fur. The smooth, nearly flat pink backdrop throws the textured silhouette into strong relief. Light comes from the upper left front, catching the glasses, bridge of the nose, individual hairs and raised folds while leaving the underside of the muzzle and shoulder in deep shadow. The visual detail feels photographic, but the saturated backdrop and unexpected accessory give it an intentionally graphic humor. The overall composition uses one oversized dark form and a single neon field to create a confrontational, playful image with strong material contrast.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "aa1bfe1fb2464f875dcfeebb9eac0f84d5909b2116e65f6626da30e8f9461af5",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

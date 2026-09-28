@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "This square black-and-white ink illustration catches three pale, wolf-like canines lunging toward the viewer in front of a rough wagon. Their bodies occupy nearly the whole lower half. The largest animal at left stretches one foreleg forward and bares its teeth; the central animal overlaps its shoulder, while a smaller head at right also opens its mouth in a snarl. Dense short strokes describe shaggy fur, pointed ears, dark noses, and the shadows beneath their jaws. Behind them, a heavyset man in a dark top hat and coat leans forward from the wagon area. One arm extends across the upper left; the other reaches toward the animals at the right. His face is pinched and animated, with dark brows and an open mouth. A wooden wagon wheel with thick spokes anchors the far left, and a pale rail or wagon side sits behind his body. Two more hat-wearing figures appear deeper in the right background, their features simplified by heavy shadow and quick linework. Scraped white ground beneath the animals is marked with fast directional strokes that make their motion feel abrupt. The upper background dissolves into hatching rather than a fully specified landscape. There is no color; brighter paper areas define fur and the open ground, while overlapping black lines deepen clothing, the wagon, and the space behind. The sharpest contrast gathers in the gaping mouths and the dark coat of the man. The image has the lively urgency of a narrative engraving, with crowded diagonal movement and vigorous pen texture carrying the action.",
+  "full_prompt_zh": "这幅方形黑白墨线插画捕捉三只浅色、像狼的犬科动物从粗陋马车前朝观看者扑出的瞬间。它们的身体几乎占据整个下半部。左边最大的一只向前伸出前腿并露齿；中间一只与其肩部重叠，右边较小的头也张嘴龇牙。密集短笔触描出蓬乱毛发、尖耳、黑鼻和颌下阴影。它们身后，一位穿深色礼帽与外套的壮硕男子从车旁前倾。一只手臂横伸向左上，另一只向右侧动物伸去。他眉目紧绷、嘴巴张开，神情激烈。最左侧有一只粗辐条木车轮稳住画面，男子身体后方是浅色栏板或车侧。更深的右后景还有两位戴帽人物，特征被厚阴影和快速线条简化。动物脚下被刮擦出的白色地面有急促的定向笔痕，使扑动显得突然。上部背景消融在排线里，而没有完整指定的风景。画中没有颜色；较亮的纸面界定毛皮和开阔地面，重叠黑线则压深衣装、车体和其后的空间。最强反差聚在张开的嘴和男子深外套处。作品有叙事版画的鲜活紧迫感，拥挤的斜向动势和有力钢笔肌理共同承载动作。",
+  "style_prompt_en": "Black-and-white narrative drawing creates motion with vigorous directional hatching, broken contours, and crowded overlaps. Pale unmarked paper areas stand against dense black line masses, so luminous shapes remain legible even in a busy composition. Short strokes change direction to distinguish rough, smooth, and folded textures. Strong foreground scale and recession through partial occlusion bring immediacy to the scene. Shadow is built from accumulated marks rather than a smooth gradient, giving the result an etched, animated, slightly unruly character.",
+  "style_prompt_zh": "黑白叙事绘画以有力的定向排线、断裂轮廓和拥挤叠压创造运动。浅色未着墨纸面与密集黑线体块相对，使明亮形状在繁忙构图中仍清晰。短笔触改变方向，区分粗糙、平滑与折叠的质地。强烈的前景尺度和局部遮挡造成的后退感让画面直接鲜活。阴影由笔痕累积而非平滑渐层构成，使作品带有蚀刻般、生动而略显放纵的气质。",
+  "theme_en": "Three snarling white canines lunging before a top-hatted man and a wagon",
+  "theme_zh": "三只龇牙的浅色犬科动物在礼帽男子和马车前扑出",
+  "wh_ratio": "1:1",
+  "id": "0850",
+  "name": "Harry Furniss",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/harry-furniss",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/harry-furniss.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "a6bbd7155834e4ef0c5f3d5a666fc98c39550c540bace91c70ea74aac424040b",
+    "gpt_submission_prompt": "This square black-and-white ink illustration catches three pale, wolf-like canines lunging toward the viewer in front of a rough wagon. Their bodies occupy nearly the whole lower half. The largest animal at left stretches one foreleg forward and bares its teeth; the central animal overlaps its shoulder, while a smaller head at right also opens its mouth in a snarl. Dense short strokes describe shaggy fur, pointed ears, dark noses, and the shadows beneath their jaws. Behind them, a heavyset man in a dark top hat and coat leans forward from the wagon area. One arm extends across the upper left; the other reaches toward the animals at the right. His face is pinched and animated, with dark brows and an open mouth. A wooden wagon wheel with thick spokes anchors the far left, and a pale rail or wagon side sits behind his body. Two more hat-wearing figures appear deeper in the right background, their features simplified by heavy shadow and quick linework. Scraped white ground beneath the animals is marked with fast directional strokes that make their motion feel abrupt. The upper background dissolves into hatching rather than a fully specified landscape. There is no color; brighter paper areas define fur and the open ground, while overlapping black lines deepen clothing, the wagon, and the space behind. The sharpest contrast gathers in the gaping mouths and the dark coat of the man. The image has the lively urgency of a narrative engraving, with crowded diagonal movement and vigorous pen texture carrying the action.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "a73ca3387683608815d12c6e6eab3fd5bc88e6f4d30de94dcd15c98140c602ea",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

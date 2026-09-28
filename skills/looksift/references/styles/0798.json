@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square monochrome pen-and-ink illustration shows a tall, thin black catlike figure standing on a path that leads toward a small crooked house. The figure is near the center foreground, with pointed ears, a round head, two bright white eyes, and narrow dangling arms and legs. A faint road begins at the lower edge, curves behind the figure, and runs toward the house at the right middle distance. Sparse leafless shrubs line the path. The house has narrow pointed roof shapes and tiny dark windows, silhouetted against a pale circular glow in the sky. Fine diagonal hatching and crosshatched arcs cover the sky and ground, creating a rough grain that darkens toward the corners. The central glow leaves the figure in a crisp near-black silhouette, so its white eyes become the strongest small accents. The horizon is low and indistinct; the path supplies the main depth cue. The palette is strictly black, warm gray, and paper cream. Light is diffuse and eerie, rising behind the distant house rather than shining directly on the foreground. The scene is spare, funny, and unsettling at once, using a childlike shape within an atmospherically worked dark field. The composition feels like a strange bedtime story held just before an encounter.",
+  "full_prompt_zh": "一幅方形单色钢笔墨线插画描绘一道高瘦黑色猫形身影立在通向远处歪小屋的路上。人物靠前景中央，有尖耳、圆头、两点亮白眼和细长垂下的手脚。一条淡路从下缘开始，绕过身影，跑向右侧中远处房子。稀疏无叶灌木列在路边。房子有窄尖屋顶和小深窗，在天空浅圆辉光前成剪影。细斜排线和交叉弧线覆盖天与地，形成向角落变暗的粗颗粒。中央辉光让人物成为清楚近黑剪影，于是白眼成为最强小亮点。地平线低而模糊；小径提供主要纵深线索。配色严格限于黑、暖灰与纸奶油。光弥散而诡异，从远屋后升起，而不直接照前景。场景简省、好笑又令人不安，把童稚形状放在经细致加工的暗色空气场中。构图像一则在相遇前停住的怪异睡前故事。",
+  "style_prompt_en": "Monochrome pen-and-ink drawing sets simple black silhouettes against a field of fine diagonal hatching and crosshatched arcs. Warm paper cream, gray, and near-black provide all value. Tiny white points carry strong focal weight within the dark forms. A pale circular glow and faint winding path give sparse atmospheric depth. Edges are hard on the main silhouette and scratchy or dissolving in the surrounding grain. The combination of childlike shapes and painstaking shadow work feels whimsical yet uneasy. Negative space and repetition keep the composition spare but textured.",
+  "style_prompt_zh": "单色钢笔墨线画把简单黑剪影放在细斜排线和交叉弧线构成的底层前。暖纸奶油、灰和近黑承担全部明暗。极小白点在深形内有强焦点重量。浅圆光和淡弯路给简省场景空气纵深。主剪影边缘硬，周围颗粒则刮擦或消隐。童稚形状与耐心暗部处理结合，既奇想又不安。负空间和重复让构图简省而有肌理。",
+  "theme_en": "A lone black catlike figure on a path toward a distant house",
+  "theme_zh": "通往远处房屋的小径上的孤独黑色猫形身影",
+  "wh_ratio": "1:1",
+  "id": "0798",
+  "name": "Jon Carling",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/jon-carling",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/jon-carling.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "f54b57a36994eea35c78dd3f61cc011bb344badc2413569b7cda615e0afaea76",
+    "gpt_submission_prompt": "A square monochrome pen-and-ink illustration shows a tall, thin black catlike figure standing on a path that leads toward a small crooked house. The figure is near the center foreground, with pointed ears, a round head, two bright white eyes, and narrow dangling arms and legs. A faint road begins at the lower edge, curves behind the figure, and runs toward the house at the right middle distance. Sparse leafless shrubs line the path. The house has narrow pointed roof shapes and tiny dark windows, silhouetted against a pale circular glow in the sky. Fine diagonal hatching and crosshatched arcs cover the sky and ground, creating a rough grain that darkens toward the corners. The central glow leaves the figure in a crisp near-black silhouette, so its white eyes become the strongest small accents. The horizon is low and indistinct; the path supplies the main depth cue. The palette is strictly black, warm gray, and paper cream. Light is diffuse and eerie, rising behind the distant house rather than shining directly on the foreground. The scene is spare, funny, and unsettling at once, using a childlike shape within an atmospherically worked dark field. The composition feels like a strange bedtime story held just before an encounter.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "9197bb3a1251e1622ea2dea681642fe791eb4079d493bb661ca3f4309848988e",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

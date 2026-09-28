@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square color photograph shows an old turquoise sedan parked on bare dusty ground beside a low, weathered outbuilding. The car sits in the lower left and faces slightly toward the viewer, its long hood, chrome grille, rectangular body, and four round headlights clearly visible. Faded paint and a dusty surface soften its once-bright color, while the dark tires rest unevenly on pale dirt. The building stretches across the middle and right, with a long dark roof sloping downward and a broad pale wall washed in gray-green and pink. A plain closed door sits behind the car, and a small square window appears farther right. The lower wall is stained and chipped, with tufts of dry growth at its base. Dense trees and bushes press over the roof from the upper left, leaving only a patch of clean cyan-blue sky in the top right. Warm reddish light falls across the right side of the wall, creating a color contrast with the cool car and shadowed vegetation. The car casts a subdued shadow on the ground, and the roof eave creates a deeper band beneath it. The scene is viewed from a simple eye-level position, with no people or signs and little sense of recent activity. Photographic grain, faded print color, and slight softness at the edges give the surfaces an analog, timeworn quality. The overall composition is quiet and slightly uneasy, its ordinary car and building held in a still arrangement of dusty teal, rosy wall, dark leaves, and open sky.",
+  "full_prompt_zh": "一幅方形彩色摄影描绘一辆旧青绿色轿车停在低矮、风化的附属屋旁的裸露尘土上。车位于左下，略朝观者，长车头、镀铬格栅、矩形车身和四只圆灯清楚可见。褪色车漆与尘土表面柔化了曾经鲜亮的颜色，深色轮胎不平整地压在浅土上。建筑横贯中部与右侧，有长而暗的斜屋顶，宽阔浅墙被灰绿与粉色浸染。朴素关着的门在车后，稍右还有小方窗。墙下部有污迹和脱落处，根部生出几簇干草。浓树与灌木从左上压过屋顶，只给右上留下干净的青蓝天空。暖红光横过墙的右侧，与冷色汽车和阴影植物形成颜色对照。车在地上投下低调影子，屋檐下则有更深色带。场景从简单平视位置观看，没有人物或标志，也几乎感觉不到近期活动。摄影颗粒、褪色冲印色和边缘的轻微柔化给表面带来胶片般的时间磨损。整体构图安静而略不安，普通车与房屋被固定在尘青绿、玫瑰色墙、深叶和开放天空的静止排列里。",
+  "style_prompt_en": "The photograph has an analog, timeworn color finish with subdued teal, dusty rose, pale cyan, and deep vegetation green. Ordinary geometric forms sit slightly off-center in a sparse eye-level composition, surrounded by still ground and a broad quiet wall. Faded print grain and softened edges make surfaces feel dry and neglected, while a few chrome-like glints keep material differences legible. Warm side light stains one plane against cooler shade, but shadows remain modest and natural. Dense dark foliage presses in from one side and clean open sky releases the opposite corner. The overall effect is calm, uncanny, and gently nostalgic.",
+  "style_prompt_zh": "照片具有胶片般、受时间磨损的色彩完成面，以低饱和青绿、尘玫瑰粉、浅青和深植物绿构成。普通几何形稍偏中心地放在稀疏平视构图里，周围是静止地面与宽阔安静墙面。褪色冲印颗粒与柔化边缘使表面显得干燥荒置，少数镀铬般亮点仍让材质差异可辨。暖侧光染亮一个平面，与冷阴影相对，但影子保持适度自然。密集深色叶丛从一侧压入，另一上角则由干净天空释放。整体效果平静、异样且温和怀旧。",
+  "theme_en": "A weathered turquoise car parked beside a faded outbuilding",
+  "theme_zh": "一辆风化的青绿色汽车停在褪色附属屋旁",
+  "wh_ratio": "1:1",
+  "id": "1254",
+  "name": "John Divola",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/john-divola",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/john-divola.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "4c1079413ed13dbdf5ae390f923e3a7fa99288a815c22c45d05fbd7010b85c9b",
+    "gpt_submission_prompt": "A square color photograph shows an old turquoise sedan parked on bare dusty ground beside a low, weathered outbuilding. The car sits in the lower left and faces slightly toward the viewer, its long hood, chrome grille, rectangular body, and four round headlights clearly visible. Faded paint and a dusty surface soften its once-bright color, while the dark tires rest unevenly on pale dirt. The building stretches across the middle and right, with a long dark roof sloping downward and a broad pale wall washed in gray-green and pink. A plain closed door sits behind the car, and a small square window appears farther right. The lower wall is stained and chipped, with tufts of dry growth at its base. Dense trees and bushes press over the roof from the upper left, leaving only a patch of clean cyan-blue sky in the top right. Warm reddish light falls across the right side of the wall, creating a color contrast with the cool car and shadowed vegetation. The car casts a subdued shadow on the ground, and the roof eave creates a deeper band beneath it. The scene is viewed from a simple eye-level position, with no people or signs and little sense of recent activity. Photographic grain, faded print color, and slight softness at the edges give the surfaces an analog, timeworn quality. The overall composition is quiet and slightly uneasy, its ordinary car and building held in a still arrangement of dusty teal, rosy wall, dark leaves, and open sky.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "8bc465c07b587ba8371a65ed849c7a2da2776fce9aee968ecf26bded01696a30",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

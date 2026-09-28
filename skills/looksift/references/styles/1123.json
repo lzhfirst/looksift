@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square, front-facing portrait depicts a serene young woman centered against a deep blue-black background. Her eyes are closed and her hands meet lightly at chest height, the fingertips touching without a dramatic gesture. She wears a precise pale blue high-collared garment and a seamless white head covering. Behind the head is a large circular arrangement of smooth spheres in varied sizes, forming a halo-like disc: soft mint, powder blue, blush pink, creamy white and a few clear yellow accents. The spheres have a satin ceramic or polished resin finish with small, controlled highlights, while the garment remains matte and gently textured. Striking bilateral balance coexists with varied sizes and positions within the circular field, giving the arrangement a carefully assembled rhythm. Light reaches the face from above and slightly in front, allowing a soft falloff beneath the chin and between the spheres. Delicately modeled facial features surround red lips that form a restrained saturated accent. The dark surrounding space stays broad and clean, increasing the clarity of the pale silhouette and circular geometry. Photographic precision and a subtly unreal, installation-like calm characterize the scene. Color, symmetry and material contrast suggest a ritual of quiet attention within the spare setting.",
+  "full_prompt_zh": "正方形正面肖像中，一位神情宁静的年轻女性居于深蓝近黑背景中央。她闭着眼，双手在胸前轻轻相合，指尖相触，却没有戏剧化手势。她身穿剪裁精确的浅蓝高领衣，头部覆盖无缝白色头罩。头后是一片由大小不同的光滑圆球排列成的大圆盘，仿佛光环：薄荷绿、粉蓝、浅粉、奶白之间点入少量明黄。圆球具有缎面陶瓷或抛光树脂般质地与细小而受控的高光，服装则保持哑光和细微织纹。整体维持鲜明的左右平衡，但圆盘内部球体的大小和位置有所变化，使其像细心装配，而非机械重复。光从上方略靠前处照亮面孔，让下巴及球体间隙逐渐暗下去。五官柔和精确，红唇仅作收敛的饱和色重音。周围深色空间宽广而洁净，加强浅色轮廓和圆形几何的清晰度。摄影般精度与微妙的超现实装置气息并存。画面通过颜色、对称与材料对照传达安静专注的仪式感，场景简洁。",
+  "style_prompt_en": "Photographic, subtly futuristic image making combines a precise central axis, symmetrical calm and sculptural circular geometry. Smooth satin or ceramic-like surfaces contrast with restrained matte textures. Cool blue, mint, blush and cream, with selective warm accents, stand against a deep blue-black field. Controlled overhead frontal light produces soft dimensional shadows, small clean highlights and finely resolved edges. Generous dark negative space supports a polished yet hushed atmosphere, with geometric repetition and material contrast carrying the visual rhythm.",
+  "style_prompt_zh": "具有微妙未来感的摄影式图像结合精确中轴、平衡对称和雕塑般的圆形几何。光滑缎面或陶瓷般表面与克制的哑光肌理形成对照。冷蓝、薄荷绿、浅粉、奶白及少量暖色重音浮现在深蓝近黑底色上。受控的上前方光产生柔和体积阴影、细小干净的高光和清晰边缘。宽阔深色留白支撑精致而静谧的气氛，几何重复和材质对照承担视觉节奏。",
+  "theme_en": "A serene futuristic figure beneath a circular pastel crown",
+  "theme_zh": "置身粉彩圆冠下的宁静未来人物",
+  "wh_ratio": "1:1",
+  "id": "1123",
+  "name": "Mariko Mori",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/mariko-mori",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/mariko-mori.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "3a20f3c867476ffcebbab53d0686f91be96b3ef8a5c38f4cfe251aedc4cd4532",
+    "gpt_submission_prompt": "A square, front-facing portrait depicts a serene young woman centered against a deep blue-black background. Her eyes are closed and her hands meet lightly at chest height, the fingertips touching without a dramatic gesture. She wears a precise pale blue high-collared garment and a seamless white head covering. Behind the head is a large circular arrangement of smooth spheres in varied sizes, forming a halo-like disc: soft mint, powder blue, blush pink, creamy white and a few clear yellow accents. The spheres have a satin ceramic or polished resin finish with small, controlled highlights, while the garment remains matte and gently textured. Striking bilateral balance coexists with varied sizes and positions within the circular field, giving the arrangement a carefully assembled rhythm. Light reaches the face from above and slightly in front, allowing a soft falloff beneath the chin and between the spheres. Delicately modeled facial features surround red lips that form a restrained saturated accent. The dark surrounding space stays broad and clean, increasing the clarity of the pale silhouette and circular geometry. Photographic precision and a subtly unreal, installation-like calm characterize the scene. Color, symmetry and material contrast suggest a ritual of quiet attention within the spare setting.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "36ef6184912ccfdc4eab1b64a2e171c3f631fa3f03bc3ddc65ae1d9fcfa2e740",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

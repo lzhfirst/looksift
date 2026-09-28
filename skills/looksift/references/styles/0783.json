@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "The illustration shows the edge of a tall gothic stone building overlooking a vast sunset landscape. The building fills the left half of the square with narrow windows, pointed arches, masonry blocks, and an outward-projecting balcony. Its wall is drawn in dense blue-black ink, so individual stones remain visible even within the darkness. On the balcony stands a solitary figure in a long deep-red cloak, facing the horizon. The cloak streams backward across the stone platform and makes the small figure a clear focal point against the glowing sky. A leafless tree spreads intricate black branches from the upper right, tracing a web of delicate lines over the crimson clouds. Far below, the land descends toward a thin strip of warm yellow light; tiny silhouettes of distant towers and rooftops sit near the horizon. The sky changes from saturated scarlet at the top through orange-red to gold near the distant ground. Heavy foreground shadows and fine architectural hatching contrast with the smooth luminous gradient behind them. The perspective is elevated and dramatic, with the balcony jutting into open space and the figure poised at its edge. No close interior is revealed; the image is about the relationship between enclosing dark structure and enormous colored atmosphere. The overall mood is romantic, ominous, and contemplative, like a still moment before an event in an illustrated fantasy narrative.",
+  "full_prompt_zh": "插画描绘一座高耸哥特石建筑的边缘，它俯瞰辽阔的日落风景。建筑占据方形画幅左半，窄窗、尖拱、石块和向外挑出的阳台均可辨认。墙面由密集蓝黑墨线绘成，即使在阴暗处也看得见单独的砌石。阳台上孤身站着一位身披深红长斗篷的人，面向地平线。斗篷向后拖展于石平台，使小小人物在发光天空前成为明确焦点。无叶树木从右上方伸出复杂黑色枝条，在绯红云层上织成细线之网。远下方的地势降向一道暖黄色光带，极远处有微小塔尖与屋顶剪影。天空从上方饱和猩红，经橙红过渡到近地面的金色。沉重前景阴影和细密建筑排线，对照后方平滑发亮的渐变。视角高而戏剧化，阳台伸入空旷空间，人物停在边缘。画面没有展开近处室内，而聚焦包围性的暗建筑与巨大彩色气氛之间的关系。整体浪漫、隐隐不祥、又有沉思感，像幻想叙事里事件发生前的一帧静止画面。",
+  "style_prompt_en": "Combine precise dark ink linework and crosshatching with a smooth, saturated crimson-to-gold atmospheric gradient. Build heavy architectural masses and fine branching silhouettes against broad luminous negative space. Keep small structural details legible inside near-black blue shadows, while a limited deep-red accent establishes a focal point. Use dramatic elevated perspective, intricate contour drawing, and richly colored sky to create a romantic, ominous fantasy illustration mood.",
+  "style_prompt_zh": "将精确深墨线条与交叉排线，同平滑饱和的绯红到金色空气渐变结合。让沉重建筑体块和细枝状剪影对照广阔发光留白。在近黑的蓝色阴影里仍保留细小结构，借有限的深红重音建立焦点。使用戏剧性高视角、繁密轮廓线和浓郁彩色天空，形成浪漫而隐隐不祥的幻想插画气息。",
+  "theme_en": "Crimson sunset beside a gothic tower",
+  "theme_zh": "哥特塔楼旁的绯红日落",
+  "wh_ratio": "1:1",
+  "id": "0783",
+  "name": "Philippe Caza",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/philippe-caza",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/philippe-caza.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "6e0e6f4c019beb1d06511e3b9fd65fce6cf650ce3eb3b4bb847cf87a2100c2c1",
+    "gpt_submission_prompt": "The illustration shows the edge of a tall gothic stone building overlooking a vast sunset landscape. The building fills the left half of the square with narrow windows, pointed arches, masonry blocks, and an outward-projecting balcony. Its wall is drawn in dense blue-black ink, so individual stones remain visible even within the darkness. On the balcony stands a solitary figure in a long deep-red cloak, facing the horizon. The cloak streams backward across the stone platform and makes the small figure a clear focal point against the glowing sky. A leafless tree spreads intricate black branches from the upper right, tracing a web of delicate lines over the crimson clouds. Far below, the land descends toward a thin strip of warm yellow light; tiny silhouettes of distant towers and rooftops sit near the horizon. The sky changes from saturated scarlet at the top through orange-red to gold near the distant ground. Heavy foreground shadows and fine architectural hatching contrast with the smooth luminous gradient behind them. The perspective is elevated and dramatic, with the balcony jutting into open space and the figure poised at its edge. No close interior is revealed; the image is about the relationship between enclosing dark structure and enormous colored atmosphere. The overall mood is romantic, ominous, and contemplative, like a still moment before an event in an illustrated fantasy narrative.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "3b03c104be19d9c23cd3bd5efe0a9591d311f489215c90b6d81bfe5dde595f5c",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square expressionist ink drawing places a stern face extremely close to the viewer on an off-white paper ground. The crop cuts into the top and right side of the head, so the eyes, nose and mouth fill nearly the entire image. Two dark brows slash diagonally over large eyes that look straight outward. The left eye lies near the upper-left third, and the right eye sits close to the upper center, both ringed by irregular shadow strokes. A strong dark nose occupies the center, with black-blue hatching along its bridge and under one nostril. The mouth is closed and set firmly, drawn by a few compressed lines above a broad chin. One side of the face is only lightly marked, showing the warm cream support; the opposite side accumulates dense navy and charcoal marks that carve cheek, temple and jaw into dramatic planes. At the upper edge, thick hair or shadow curves around the forehead in sweeping strokes. The image has almost no background beyond exposed paper and a few stray ink traces. Brush and pen marks vary from bold wet slashes to fine dry scratches, giving the face both structure and agitation. Illumination is graphic rather than naturalistic: the unmarked cream paper acts as the lightest plane, while clustered dark marks form shadow without a cast direction. The overall composition feels confrontational and raw, using severe crop, heavy line energy and a narrow two-tone palette to intensify the gaze.",
+  "full_prompt_zh": "这幅方形表现主义墨线画把一张严肃面孔极近地推到观众前，底是米白色纸。裁切进入头顶和右侧，使双眼、鼻与嘴几乎填满图像。两道深眉斜斩在大眼上方，目光直向外。左眼在左上三分之一附近，右眼靠上方中央，两者被不规则暗笔环住。强烈深色鼻形占中央，鼻梁和一侧鼻孔下有蓝黑排线。嘴闭合紧绷，以几道压紧的线画在宽下巴上。一侧脸只有轻标记，显出暖奶油纸底；另一侧密积海军蓝和炭色笔痕，把颊、鬓和下颌切成戏剧性平面。上缘厚发或阴影以扫过的笔触弯向额头。除露出的纸和几根游墨外，几乎没有背景。画笔与钢笔痕从大胆湿墨斩线到纤细干刮线变化，使面孔既有结构也躁动。照明偏图形化而非写实：未着墨的奶油纸面充当最亮平面，聚集深痕形成阴影，却没有投影方向。整体构图直面观众而粗粝，以严厉裁切、沉重线条能量与狭窄双色配色强化凝视。",
+  "style_prompt_en": "The expressionist drawing leaves broad off-white paper exposed between forceful navy-black strokes. Wet bold cuts set the main silhouette, while dry hatching and scratch lines fracture internal planes. Values jump sharply from paper light to ink shadow with few smooth midtones. Edges vary between decisive dark boundaries and unfinished open gaps, giving the image movement even when the composition is static. Illumination is created by reserved paper rather than a modeled lamp; texture and line density supply volume. The close crop and asymmetrical concentration of marks produce an intense, immediate visual presence.",
+  "style_prompt_zh": "这种表现主义线稿在有力的海军蓝黑笔触间保留宽阔米白纸面。大胆湿笔切出主要剪影，干排线与刮线打碎内部平面。明度从纸面亮区骤跳至墨影，几乎没有平滑中间调。边缘在果断深界和未完成空隙之间变化，即使构图静止也带运动。亮光由留白纸面而非塑形灯光形成；肌理与线条密度提供体积。紧裁与不对称笔痕集中产生强烈而直接的视觉存在感。",
+  "theme_en": "A stern close-up face built from dark blue expressive ink strokes",
+  "theme_zh": "严肃面孔的近景由深蓝色表现性墨笔构成",
+  "wh_ratio": "1:1",
+  "id": "4210",
+  "name": "Erich Heckel",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/erich-heckel.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "441c6dba98dbf6a7b4b4575a3c6d5abc41ea3566d57c3f9c4490a2d71697f072",
+    "gpt_submission_prompt": "A square expressionist ink drawing places a stern face extremely close to the viewer on an off-white paper ground. The crop cuts into the top and right side of the head, so the eyes, nose and mouth fill nearly the entire image. Two dark brows slash diagonally over large eyes that look straight outward. The left eye lies near the upper-left third, and the right eye sits close to the upper center, both ringed by irregular shadow strokes. A strong dark nose occupies the center, with black-blue hatching along its bridge and under one nostril. The mouth is closed and set firmly, drawn by a few compressed lines above a broad chin. One side of the face is only lightly marked, showing the warm cream support; the opposite side accumulates dense navy and charcoal marks that carve cheek, temple and jaw into dramatic planes. At the upper edge, thick hair or shadow curves around the forehead in sweeping strokes. The image has almost no background beyond exposed paper and a few stray ink traces. Brush and pen marks vary from bold wet slashes to fine dry scratches, giving the face both structure and agitation. Illumination is graphic rather than naturalistic: the unmarked cream paper acts as the lightest plane, while clustered dark marks form shadow without a cast direction. The overall composition feels confrontational and raw, using severe crop, heavy line energy and a narrow two-tone palette to intensify the gaze.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "97473f64dd9b14c4fbe3148d0c01a9d022016b1b1415b4c82d8d6302fb355697",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

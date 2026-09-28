@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A dramatic black-and-white beach photograph shows a lone figure walking along the edge of the surf. Seen in profile near the center of the frame, the person wears a light knee-length dress that lifts in the breeze, while the head and upper body remain mostly in silhouette. A bright band of foaming water cuts diagonally from the lower left toward the distant middle right, separating the dark wet sand from the nearly black sea and sky beyond. Light enters from the upper left as a broad, angled shaft, striking the white wash and creating a silvery sheen across the beach. The figure's elongated shadow falls toward the lower right, anchoring the body to the sloping shoreline. The composition has large dark negative areas above and to the right, which make the small luminous shoreline and solitary form feel more intense. The bright water retains irregular ripples and foam rather than becoming a flat white strip; wet sand glows with smooth reflected highlights, while the dress has soft moving edges. Deep blacks, luminous whites, and a narrow range of rich middle grays give the image a strong graphic force. Its grain and natural tonal variation suggest a classic film print. The scene is simple and unsentimental, using backlight, diagonal motion, and the contrast between one moving figure and open space to create a spare, contemplative mood.",
+  "full_prompt_zh": "一张富有戏剧性的黑白海滩照片，表现一位独行者沿浪边行走。人物在画面中央附近以侧面出现，穿着浅色及膝裙，裙摆被风微微扬起，头部与上身大多处于剪影中。一条明亮的白色浪线从左下方斜切向右侧远处，把深色湿沙与更暗的海面、天空分开。光从左上方以宽阔的倾斜光束进入，照亮浪花，并在海滩上铺出银色光泽。人物拉长的影子落向右下角，使身体牢牢落在倾斜的岸线上。上方和右侧保留大片深色负空间，让小小的发亮浪线与独行身形更为鲜明。亮水中仍能看到不规则涟漪和泡沫，没有变成平板的白色条带；湿沙泛出平滑反光，裙摆边缘则柔软而有运动感。深黑、亮白和狭窄而丰厚的中灰层次赋予画面强烈图形力量。颗粒与自然的色调变化显示出经典胶片相纸的气息。场景简单而不煽情，以逆光、对角线的动势，以及一个移动形体与开阔空间的对比，形成简练沉思的情绪。",
+  "style_prompt_en": "A high-contrast black-and-white film photograph organized around a luminous diagonal against broad, deep negative space. One small dark form and its long shadow interrupt the bright band, giving scale and movement to the composition. Strong directional light produces silvery reflections on smooth surfaces and fine, irregular texture in the lightest areas. Blacks are dense but spatially open; white highlights glow without losing every detail. Fine grain and natural tonal variation keep the image photographic rather than purely graphic. The rhythm is spare and contemplative, with asymmetry, long shadows, and a clear sense of air.",
+  "style_prompt_zh": "高对比的黑白胶片摄影，以大片深色留白中的一道发亮斜线组织画面。一个较小的深色形态及其长长的影子打断亮带，为构图带来尺度与运动。强烈的定向光在平滑表面形成银色反射，并在最亮处保留细密、不规则的肌理。黑色浓重但空间仍然通透，白色高光发亮而不完全丢失细节。细微颗粒和自然明暗变化使它保有摄影质感，而不只是纯粹图形。节奏简练而沉思，依靠不对称、长影和清晰的空气感成立。",
+  "theme_en": "A lone figure walking the surf line under a shaft of light",
+  "theme_zh": "独行者沿一道光照亮的浪线漫步",
+  "wh_ratio": "1:1",
+  "id": "3876",
+  "name": "Max Dupain",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/max-dupain",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "da1734c269f5bc168f4110daadc0ac7dcbb2d326d30748fdbca86fbae245794a",
+    "gpt_submission_prompt": "A dramatic black-and-white beach photograph shows a lone figure walking along the edge of the surf. Seen in profile near the center of the frame, the person wears a light knee-length dress that lifts in the breeze, while the head and upper body remain mostly in silhouette. A bright band of foaming water cuts diagonally from the lower left toward the distant middle right, separating the dark wet sand from the nearly black sea and sky beyond. Light enters from the upper left as a broad, angled shaft, striking the white wash and creating a silvery sheen across the beach. The figure's elongated shadow falls toward the lower right, anchoring the body to the sloping shoreline. The composition has large dark negative areas above and to the right, which make the small luminous shoreline and solitary form feel more intense. The bright water retains irregular ripples and foam rather than becoming a flat white strip; wet sand glows with smooth reflected highlights, while the dress has soft moving edges. Deep blacks, luminous whites, and a narrow range of rich middle grays give the image a strong graphic force. Its grain and natural tonal variation suggest a classic film print. The scene is simple and unsentimental, using backlight, diagonal motion, and the contrast between one moving figure and open space to create a spare, contemplative mood.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "da3c601f75bacbb6a4313f9188abfce675c0e6d4bc3508e047c4d1ec436b2a25",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

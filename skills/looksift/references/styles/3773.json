@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square oil painting shows a quiet commercial street after rain, viewed from the middle of the road at night. The roadway spreads across the lower half as broad planes of wet blue-gray pavement, marked by faint lane lines and long cyan reflections. At the left, a low row of dark storefronts recedes into the distance. One tall vertical sign glows warm red and white, and a wide yellow-lit panel projects from the next facade; its writing is too indistinct to read. Dark utility poles and thin wires climb into the deep blue-black sky, breaking the upper field into irregular divisions. A cool blue streetlamp stands near the middle distance, while a few small amber lights and red vehicle lights flicker farther down the road. The right side stays comparatively open and dark, so the colored light on the wet pavement becomes the principal subject. Reflections are dragged into long broken strokes, more vivid than many of the solid forms producing them. Thick, visible brush marks define the edges of the street and storefronts, then loosen into watery color across the ground. The ambient night light is very low, but isolated lamps cast concentrated cyan, yellow and red pools that fade toward charcoal. The overall composition turns an ordinary empty roadway into a spacious study of wet sheen, saturated light and deep nocturnal quiet.",
+  "full_prompt_zh": "一幅方形油画从道路中央看向雨后的安静商业街，时值夜晚。道路以宽阔湿润的蓝灰色铺面占据下半部，上面有淡淡车道线和细长青色倒光。左侧一列低矮深色店面向远处退去。一块高竖招牌亮着暖红与白光，旁边立面伸出一块宽阔的黄亮灯牌；其字样模糊不可读。深色电线杆与细线攀进深蓝黑天空，把上方分成不规则区块。冷蓝街灯立在中远处，几处小小琥珀光与红色车灯在更远处闪现。右侧相对开敞而深暗，因此湿路上的彩光成为主要对象。倒光被拖成长而断续的笔触，甚至比投出它们的实物更鲜艳。厚实可见的笔触确定街道与店面的边缘，随后在地面松成水润色彩。夜间环境光极低，但孤立灯具投出集中的青、黄、红色光池，并向炭黑渐淡。整体构图把平常的空路变成关于湿润光泽、饱和彩光与深夜寂静的宽敞研究。",
+  "style_prompt_en": "An expressive oil-paint surface balances dense blue-black shadow against saturated cyan, amber and small red accents. Broad dragged strokes create gleaming horizontal and diagonal bands, while shorter impasto marks pick out isolated light sources and crisp edges. Reflective areas are more abstract and fluid than the solid forms above them, so color seems to spread through the composition. Dark structures retain enough angular outline to organize space, then dissolve into atmospheric brushwork with distance. Low ambient illumination allows pools of artificial light to form distinct warm and cool zones. Open shadow planes and selective bright clusters guide the eye without crowding the frame. The visual rhythm is urban, spacious and electrically luminous.",
+  "style_prompt_zh": "富于表现力的油画表面以浓重蓝黑阴影平衡饱和青色、琥珀色与少量红色重音。宽阔拖笔造成发亮的横向与斜向色带，较短的厚涂点出孤立光源和清楚边缘。反光区域比其上方实物更抽象流动，使色彩仿佛在构图中扩散。深色结构保留足够的棱角轮廓以组织空间，再随距离消融成氛围性笔触。微弱环境光让人工灯光形成清楚的冷暖区域。开敞暗面与选择性的亮色群引导视线，又不挤满画面。视觉节奏宽敞、有城市感且充满电光。",
+  "theme_en": "An empty rain-slick street glowing with cyan and amber lights at night",
+  "theme_zh": "夜里被青色与琥珀灯光照亮的雨后空街",
+  "wh_ratio": "1:1",
+  "id": "3773",
+  "name": "William Wray",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/william-wray",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "cb3306b89f4139db5e0bdd13cbf25500ec1df0178132c70c15351cfa655f29cd",
+    "gpt_submission_prompt": "A square oil painting shows a quiet commercial street after rain, viewed from the middle of the road at night. The roadway spreads across the lower half as broad planes of wet blue-gray pavement, marked by faint lane lines and long cyan reflections. At the left, a low row of dark storefronts recedes into the distance. One tall vertical sign glows warm red and white, and a wide yellow-lit panel projects from the next facade; its writing is too indistinct to read. Dark utility poles and thin wires climb into the deep blue-black sky, breaking the upper field into irregular divisions. A cool blue streetlamp stands near the middle distance, while a few small amber lights and red vehicle lights flicker farther down the road. The right side stays comparatively open and dark, so the colored light on the wet pavement becomes the principal subject. Reflections are dragged into long broken strokes, more vivid than many of the solid forms producing them. Thick, visible brush marks define the edges of the street and storefronts, then loosen into watery color across the ground. The ambient night light is very low, but isolated lamps cast concentrated cyan, yellow and red pools that fade toward charcoal. The overall composition turns an ordinary empty roadway into a spacious study of wet sheen, saturated light and deep nocturnal quiet.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "86c928c5846453739bbbbd3627cde5bf064d8596c0ea6e8399c0dd4e4ab6e925",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

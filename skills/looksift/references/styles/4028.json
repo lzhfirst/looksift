@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square color photograph shows an eclectic multi-story city building assembled from many different volumes and historical details. A tall central tower rises above lower wings; narrow arched windows, rounded corner bays, projecting balconies, cornices, and several dome-like rooflets crowd around it. The tan and brown masonry is weathered, with dark openings and patched surfaces, while shrubs and climbing greenery spill from ledges and terraces. At street level, a deep entrance arch sits near the center, flanked by smaller doors and window bays. A few young trees stand in front, partially screening the facade. The camera views the whole building from across a broad quiet street at eye level, with a pale overcast sky and hazy neighboring structures giving the subject clear separation. Light is soft and even, bringing out differences among brick, plaster, glass, and leaves without sharp glare. The silhouette is irregular, stepping upward through towers, railings, and roof ornaments rather than following a single clean block. Earthy ochre, gray brown, muted green, and a little dark teal form the palette. The composition feels like a catalog of additions accumulated over time, dense yet coherent because the central tower and entrance align. The photographic texture is realistic and moderately detailed. No people dominate, and no caption, sign, or decorative frame appears.",
+  "full_prompt_zh": "一幅方形彩色照片里，一座折衷主义多层城市建筑由许多不同体量和历史细节拼成。高中央塔超过较低两翼；窄拱窗、圆角凸窗、外挑阳台、檐口和数个小穹顶在四周挤叠。棕黄与褐色砌石已风化，开口深暗，表面补缀；灌木和攀缘绿植从檐台与露台溢出。街层近中央有一道深入口拱，两旁是较小门洞和窗间。前方几棵小树部分遮住立面。相机从宽阔安静街道对面平视整幢楼，浅阴天天空和朦胧邻屋让主体清楚分离。光线柔和均匀，显出砖、灰泥、玻璃与树叶差异而无刺眼眩光。剪影不规则，通过塔、栏杆与屋顶饰物逐级升高，而非一个整洁方块。大地赭黄、灰褐、低调绿和少量深青构成配色。画面像多年累积的增建目录，密集却因中央塔与入口对齐而连贯。摄影纹理真实、细节适中。没有人物主导，也没有字幕、招牌或装饰框。",
+  "style_prompt_en": "Realistic color photography of densely layered, irregular forms with a clear central vertical anchor. Weathered ochre and gray-brown surfaces, dark openings, muted green organic accents, and soft overcast light create a lived-in tonal range. Projections, curves, narrow voids, and stepped silhouettes accumulate without losing a coherent whole. Eye-level framing and moderate detail let varied materials and historical wear remain visible.",
+  "style_prompt_zh": "真实彩色摄影呈现密集层叠的不规则形体，并由清楚中央竖向轴锚定。风化赭黄与灰褐表面、深色开口、低调绿色有机重音及柔和阴天光构成有生活痕迹的色阶。外挑、曲线、狭窄空处与阶梯状剪影不断累积，整体仍连贯。平视取景与适中细节让不同材质和岁月磨损保持可见。",
+  "theme_en": "A layered old city building with towers, balconies, and climbing greenery",
+  "theme_zh": "塔楼、阳台与攀生绿植层叠的旧城建筑",
+  "wh_ratio": "1:1",
+  "id": "4028",
+  "name": "Eclectic architecture",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/eclectic-architecture.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "51bfcb3d60833ff7d5be9803169bf8a84f7669613c8ec58b71d48f9dcdac548e",
+    "gpt_submission_prompt": "A square color photograph shows an eclectic multi-story city building assembled from many different volumes and historical details. A tall central tower rises above lower wings; narrow arched windows, rounded corner bays, projecting balconies, cornices, and several dome-like rooflets crowd around it. The tan and brown masonry is weathered, with dark openings and patched surfaces, while shrubs and climbing greenery spill from ledges and terraces. At street level, a deep entrance arch sits near the center, flanked by smaller doors and window bays. A few young trees stand in front, partially screening the facade. The camera views the whole building from across a broad quiet street at eye level, with a pale overcast sky and hazy neighboring structures giving the subject clear separation. Light is soft and even, bringing out differences among brick, plaster, glass, and leaves without sharp glare. The silhouette is irregular, stepping upward through towers, railings, and roof ornaments rather than following a single clean block. Earthy ochre, gray brown, muted green, and a little dark teal form the palette. The composition feels like a catalog of additions accumulated over time, dense yet coherent because the central tower and entrance align. The photographic texture is realistic and moderately detailed. No people dominate, and no caption, sign, or decorative frame appears.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "ee9c547ca13a227275d4f6a1e9a21990cc7e924da3b7c5d11ea9052ea466d263",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A side-on action photograph catches a helmeted rider low over a small board, moving toward the right edge of a bare grey setting. The rider wears a pale jacket, brown trousers, heavy dark boots, a light helmet, and an amber-orange visor. One knee is raised high while the other leg and body angle back toward a wide fan of dust and grit. Individual grains and dark fragments hang visibly in the air behind the pale clothing. The board and its small orange wheels sit close to a narrow ground line, while a large quiet field of cool grey fills the background. Fast exposure arrests the face shield, seams of the clothing, airborne debris, and board wheels with crisp local detail. The spreading particulate trail is less solid at its far end, but it remains a spray of discrete marks rather than a smooth motion streak. Diffuse daylight from above gives gentle volume to the clothing and helmet without theatrical shadow. The figure occupies the lower middle of the crop; the rising dust makes a broad triangular sweep to the left, and the empty right side leaves room in the direction of travel. The frame combines a frozen instant of movement with broad, almost featureless grey space.",
+  "full_prompt_zh": "侧面动作照片定格一位戴头盔的滑行者，身体压低，踩着小板向画面右侧移动。浅色外套、棕色裤子、厚重深色靴子、浅色头盔和琥珀橙色护目镜清晰可见。一侧膝盖高高抬起，另一条腿与身体向后斜出，身后扬起大扇形尘土和碎屑。独立的沙粒与深色碎片悬在浅色衣服后方。小板及橙色轮子贴近狭窄地面线，背景则是大面积安静的冷灰色。较快曝光把护目镜、衣服接缝、飞散碎屑和板轮定格为局部清晰细节。尘土远端趋于稀疏，却仍是分离的颗粒，而非平滑的运动拖线。上方漫射日光给衣物和头盔带来温和体积，没有戏剧性阴影。人物处于画面中下部，飞尘向左展开成宽阔三角形，右边的空处留给前进方向。整幅图把被截住的一瞬动作和大面积几乎无特征的灰色空间并置。",
+  "style_prompt_en": "A fast-exposure photographic treatment freezes a moving foreground and its scattered particulate wake into many separate, sharp marks. Fine grit, small fragments, hard gear edges, and fabric seams stay legible at the same instant, while a broad neutral field remains smooth and unobtrusive. The palette is dominated by cool pale grey, off-white, and earth brown, with a small amber accent. Diffuse overhead light rounds the forms lightly and keeps cast shadows subdued. A low horizontal ground boundary stabilizes the lower frame; an oblique fan of dense marks opens across one side, and generous empty space extends toward the other. The visual rhythm shifts from clustered high-frequency texture to quiet flat tone. Spatial depth is simple and shallow, established by the overlapping sharp foreground forms, the particulate trail, and the unmarked background.",
+  "style_prompt_zh": "快速曝光的摄影处理将移动的前景及其飞散颗粒定格为许多彼此分离的清晰记号。细沙、小碎片、坚硬边缘和布料接缝在同一瞬间可辨，宽阔的中性色背景则平整而不抢眼。冷浅灰、灰白与土褐构成主色，仅有一小处琥珀色点缀。上方漫射光轻轻塑出体积，投影并不强烈。低位水平地面边界稳住画面下缘；密集记号组成斜向展开的扇面，另一侧留下充分空白。视觉节奏从高频率的成团纹理转向安静的平面色调。空间简单而浅，由交叠的清晰前景、颗粒尾迹与无纹背景建立。",
+  "theme_en": "A helmeted rider caught mid-motion beside a spray of dust",
+  "theme_zh": "尘土飞溅中被定格的头盔滑行者",
+  "wh_ratio": "1:1",
+  "id": "2834",
+  "name": "High shutter speed",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/high-shutter-speed",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/high-shutter-speed.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "b0bf6fc541fcace2881c5cbea6c243f937c7745fbce79d9ab978d8d7ac1780fd",
+    "gpt_submission_prompt": "A side-on action photograph catches a helmeted rider low over a small board, moving toward the right edge of a bare grey setting. The rider wears a pale jacket, brown trousers, heavy dark boots, a light helmet, and an amber-orange visor. One knee is raised high while the other leg and body angle back toward a wide fan of dust and grit. Individual grains and dark fragments hang visibly in the air behind the pale clothing. The board and its small orange wheels sit close to a narrow ground line, while a large quiet field of cool grey fills the background. Fast exposure arrests the face shield, seams of the clothing, airborne debris, and board wheels with crisp local detail. The spreading particulate trail is less solid at its far end, but it remains a spray of discrete marks rather than a smooth motion streak. Diffuse daylight from above gives gentle volume to the clothing and helmet without theatrical shadow. The figure occupies the lower middle of the crop; the rising dust makes a broad triangular sweep to the left, and the empty right side leaves room in the direction of travel. The frame combines a frozen instant of movement with broad, almost featureless grey space.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "a070e84f10dc59c1781359b7613fa64a8ceaca845a0a326ee51e1d340b4da2be",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

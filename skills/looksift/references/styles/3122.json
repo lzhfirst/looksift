@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A monochrome photographic study shows a young woman in left-facing profile, her head tipped gently downward among a web of thin dark branches. Her face and neck carry the strongest light, while the space behind her breaks into soft black, smoke grey, and scattered pale flecks. A dark collar and the barely separated mass of hair merge into the surrounding shadow. Slender twigs cross the lower foreground at irregular angles, adding a delicate but slightly uneasy screen between the viewer and the sitter. The expression is still and absorbed, with no theatrical gesture.\n\nThe photograph has a silver-gelatin feeling with deep charcoal blacks, luminous ivory highlights, and a broad range of granular midtones. Focus is sharpest around the cheek, lashes, and nose, then falls into softer grain and blur in the branches. The lighting seems filtered and oblique, tracing the face's profile without a hard studio rim. The composition is cropped close, pushing the head near the top and left edges and letting the dark background swallow most spatial clues. Scratches, dustlike specks, and uneven tonal density can remain as part of the photographic surface. The atmosphere is intimate and dreamlike, grounded in a real captured moment yet made strange by the obscuring branches and shadow. No readable text appears in the selected frame.",
+  "full_prompt_zh": "一幅黑白摄影研究呈现一位年轻女子面向左侧的侧影；她在细密深色枝条之间轻轻低下头。面部和颈部承受最强的光，身后的空间则碎成柔和的黑、烟灰与零星浅色斑点。深色衣领和几乎不分开的头发暗块融进周围阴影。纤细树枝以不规则角度横穿下方前景，在观看者与被摄者之间形成精巧而略令人不安的遮挡。她的神情静止而专注，没有戏剧化的姿态。\n\n照片具有银盐般的质感，包括深炭黑、发亮的象牙白高光和层次宽广的颗粒中间调。焦点在脸颊、睫毛和鼻梁附近最清晰，然后在枝条中渐渐化为更柔软的颗粒与模糊。光似乎经过过滤，从斜侧掠过，勾出侧脸而没有生硬的摄影棚轮廓光。构图裁得很近，头部靠近上边和左边，深色背景吞没了大部分空间线索。划痕、尘点般的斑粒和不均匀的明暗密度可以保留为摄影表面的一部分。气氛私密而如梦，植根于真实捕捉的瞬间，却因遮挡的枝影而变得奇异。所选画面里没有可辨认文字。",
+  "style_prompt_en": "A close monochrome photographic composition moves from luminous ivory to dense charcoal through rich, granular greys. Filtered oblique light defines one smooth curved plane, while soft dark masses absorb the surrounding space. Thin irregular lines interrupt the lower field and make a delicate screen across the image. Focus gathers on a small illuminated area and loosens gradually into blur and grain. Deep shadow removes ordinary spatial cues, so pale flecks, faint scratches, and uneven density become part of the surface rhythm. The crop is intimate and slightly uneasy, balancing a calm central contour against restless linear fragments. It retains the tactile depth of a silver-gelatin print rather than a spotless digital monochrome conversion.",
+  "style_prompt_zh": "一幅近距离黑白摄影构图，从明亮的象牙白经过丰富的颗粒灰阶过渡到深炭黑。经过过滤的斜光勾出一处平滑的弯曲平面，柔软的深色块吸收周围空间。纤细而不规则的线条打断下方区域，在画面上形成轻薄的遮挡。焦点聚在一小片受光处，随后逐渐松散为模糊与颗粒。深影抹去寻常的空间线索，于是浅色斑点、淡划痕与不均匀的密度也成为表面节奏的一部分。近裁的构图私密而略有不安，以平静的主要曲线平衡躁动的线状碎片。保留银盐相纸的触感深度，而非毫无瑕疵的数码黑白转换。",
+  "theme_en": "A quiet surreal photographic study among dark branches",
+  "theme_zh": "暗枝间的静谧超现实摄影研究",
+  "wh_ratio": "1:1",
+  "id": "3122",
+  "name": "Dora Maar",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/dora-maar",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "01ab80b9dfbfadcc3268ec5379571f3b4e27cdc3fd227c851971da97cb6331d4",
+    "gpt_submission_prompt": "A monochrome photographic study shows a young woman in left-facing profile, her head tipped gently downward among a web of thin dark branches. Her face and neck carry the strongest light, while the space behind her breaks into soft black, smoke grey, and scattered pale flecks. A dark collar and the barely separated mass of hair merge into the surrounding shadow. Slender twigs cross the lower foreground at irregular angles, adding a delicate but slightly uneasy screen between the viewer and the sitter. The expression is still and absorbed, with no theatrical gesture.\n\nThe photograph has a silver-gelatin feeling with deep charcoal blacks, luminous ivory highlights, and a broad range of granular midtones. Focus is sharpest around the cheek, lashes, and nose, then falls into softer grain and blur in the branches. The lighting seems filtered and oblique, tracing the face's profile without a hard studio rim. The composition is cropped close, pushing the head near the top and left edges and letting the dark background swallow most spatial clues. Scratches, dustlike specks, and uneven tonal density can remain as part of the photographic surface. The atmosphere is intimate and dreamlike, grounded in a real captured moment yet made strange by the obscuring branches and shadow. No readable text appears in the selected frame.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "304c340f859adccf456a8fd86d8cb53f8f5558cfca49abc59db63a6a4975639c",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

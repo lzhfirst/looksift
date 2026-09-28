@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "The image is a square modernist painting built from two large, front-facing faces pressed close together. Heavy black contours divide their features into flat geometric pieces. The left face has one wide almond eye, a red mouth, and a cheek assembled from plum, pale blue, white, and brick-red shapes. The right face holds two differently colored eyes, a long angular nose, and red lips inside a pale oval framed by mauve and orange planes. Their heads nearly touch at the center seam, yet each remains a separate visual rhythm. Below them, narrow necks and shoulders dissolve into stacked rectangles, semicircles, cups, stripes, and small patterned compartments. Above, circular sun or moon motifs sit against a deep burgundy field. A slim pale margin contains the composition like a printed artwork. Every element appears as a deliberate cutout of solid color, with a faint grain of canvas or ink rather than smooth digital gradients. Black outlines and negative spaces hold saturated yellow, crimson, purple, salmon, and blue-gray pieces in a crisp interlocking arrangement. The lighting is graphic and even; depth comes from overlap, scale, and contrast instead of modeled shadow. Playful asymmetry and a dense but balanced square composition leave the two faces immediately readable within the abstract structure.",
+  "full_prompt_zh": "画面是一幅正方形现代主义绘画，由两张紧靠在一起、正对观者的大面孔构成。粗重的黑色轮廓把五官分成平面的几何片块。左脸有一只宽大的杏眼、红色嘴唇，脸颊由李紫、浅蓝、白色和砖红形状拼成。右脸有两只颜色不同的眼睛、细长的折角鼻子和红唇，浅色椭圆形脸部由淡紫和橙色平面包围。两颗头在中央接缝处几乎相触，却各自保持独立的视觉节奏。下方细窄的脖颈与肩膀逐渐融入堆叠的矩形、半圆、杯形、条纹和带图案的小格。上方的圆形太阳或月亮符号置于深酒红底色之上。细窄的浅色边框像版画一样包住构图。每个元素都像刻意裁出的纯色色片，带有轻微画布或油墨颗粒，表面少有光滑的数字渐变。黑色既作轮廓也作负空间，让饱和的黄色、绯红、紫色、鲑粉和蓝灰色块鲜明咬合。光照平面而均匀；纵深来自重叠、比例与对比，而非塑形阴影。俏皮的不对称与密集却平衡的方形布局，使两张面孔在抽象结构中清楚可辨。",
+  "style_prompt_en": "A dense modernist image consists of flat geometric cutouts, thick black contours, and small symbolic compartments. Angular pieces meet arcs, circles, oval accents, stripes, and hand-drawn irregularities in a playful arrangement. A bold, limited palette combines wine red, ocher, coral, violet, muted blue, cream, and black. Even, graphic illumination leaves overlap and color adjacency to establish depth. A lightly grained printed or painted surface covers a balanced square composition, with large legible forms moving rhythmically among intricate supporting marks.",
+  "style_prompt_zh": "密集的现代主义画面由平面几何剪片、粗黑轮廓和细小的象征性格子构成。折角形与弧线、圆、椭圆重音、条纹及手绘的不规则痕迹相互衔接，布局俏皮。酒红、赭黄、珊瑚红、紫色、灰蓝、奶油白与黑色组成大胆而有限的色域。光照均匀而平面化；通过重叠和相邻色彩建立层次，而不是靠明暗塑形。轻微颗粒感的印刷或绘画表面覆盖平衡的方形构图，大块可辨形体与细密辅助痕迹之间节奏活跃。",
+  "theme_en": "Two geometric faces surrounded by rhythmic blocks and symbolic forms",
+  "theme_zh": "由节奏化色块和象征形体围绕的两张几何面孔",
+  "wh_ratio": "1:1",
+  "id": "1605",
+  "name": "Guillaume Corneille",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/guillaume-corneille",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/guillaume-corneille.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "35a90c4bb8a20fa376b64f78421c17c28d06ec131223b22aa41c7638837e506d",
+    "gpt_submission_prompt": "The image is a square modernist painting built from two large, front-facing faces pressed close together. Heavy black contours divide their features into flat geometric pieces. The left face has one wide almond eye, a red mouth, and a cheek assembled from plum, pale blue, white, and brick-red shapes. The right face holds two differently colored eyes, a long angular nose, and red lips inside a pale oval framed by mauve and orange planes. Their heads nearly touch at the center seam, yet each remains a separate visual rhythm. Below them, narrow necks and shoulders dissolve into stacked rectangles, semicircles, cups, stripes, and small patterned compartments. Above, circular sun or moon motifs sit against a deep burgundy field. A slim pale margin contains the composition like a printed artwork. Every element appears as a deliberate cutout of solid color, with a faint grain of canvas or ink rather than smooth digital gradients. Black outlines and negative spaces hold saturated yellow, crimson, purple, salmon, and blue-gray pieces in a crisp interlocking arrangement. The lighting is graphic and even; depth comes from overlap, scale, and contrast instead of modeled shadow. Playful asymmetry and a dense but balanced square composition leave the two faces immediately readable within the abstract structure.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "d67daba593177d92fae823948f2df82c817fa35882b7783d9935119217ccfcd3",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

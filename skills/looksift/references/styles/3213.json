@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A tightly framed graphic illustration shows a mass of people pressed shoulder to shoulder beside a rough stone wall. Caps, coats, and turned heads overlap in every direction. In the near left-center, a wide-eyed man in a grey cap looks outward with a strained expression; other faces appear partly hidden behind him, each marked by fatigue or suspicion. The crowd fills nearly the entire image, and only small gaps of wall and pale ground remain. There is no clear exit or distant view, which makes the gathering feel uneasy and constrained.\n\nThe style combines precise black ink line with muted printed color. Olive, mustard, dusty grey, warm brown, and a few rust accents sit within dense crosshatching and small engraved marks. Faces are expressive but controlled, with sharp noses, heavy lower lids, and taut mouth lines. The foreground cap and shoulders are slightly larger and darker, while figures farther back become a finer texture of heads and hats. Light is flat and overcast, giving the scene a documentary graphic-novel directness. A thin border and pale paper margin around the selected panel belong to the image layout, reinforcing its printed-page character. The drawing remains tactile and a little rough, with no readable speech balloons or lettering in this panel.",
+  "full_prompt_zh": "一幅裁得很紧的图像插画，描绘一群人挤在粗糙石墙旁，肩贴肩。帽子、外套和转向不同方向的头部到处重叠。靠近左中部，一名戴灰帽的男子睁大眼睛向外望，神情绷紧；其他面孔部分被挡在身后，各自带疲倦或猜疑。人群几乎填满画面，只剩石墙和浅色地面的少量空隙。没有明确出口或远景，使聚集显得不安而受限。\n\n风格将精准黑墨线与收敛的印刷色结合。橄榄绿、芥黄、灰尘感灰色、暖褐和少量锈色，落在密集交叉排线和细小版画痕迹之间。面容富于表现却受控制，尖鼻、沉重下眼睑和紧张嘴线尤其明显。前景帽子和肩部略大且更深，后方人物化成更细密的头和帽纹理。光平而阴柔，赋予场景图像小说式的纪实直接感。所选画面周围的细边框与浅纸边属于图像版面，也加强印刷页的气质。绘制保留触感和一点粗糙，本画面没有可辨认对白气泡或文字。",
+  "style_prompt_en": "Dense precise black lines and crosshatching press many overlapping angular and rounded shapes into a narrow frame. Muted printed olive, mustard, dusty grey, brown, and occasional rust soften the ink without diminishing its graphic force. A larger darker form near the front gives depth, while repeated smaller contours become a fine texture behind it. Flat overcast light and limited open ground heighten the compressed atmosphere. Sharp small marks carry expression and material wear; a pale paper margin and thin border lend the work a printed-page character. The surface feels tactile, urgent, and documentary, with tight social rhythm rather than spacious composition.",
+  "style_prompt_zh": "密集精准黑线与交叉排线，把许多重叠的棱角形和圆形压进狭窄画幅。暗橄榄绿、芥黄、灰尘感灰、褐色和偶发锈色的印刷色柔化墨线，却不削弱图形力量。前层一个更大更深的形提供深度，身后的重复小轮廓渐成细纹。平而阴柔的光和有限的空地强化压紧的气氛。尖细的小痕迹承担神情与材料磨损；浅纸边和细边框让作品有印刷页气质。表面可触、急促而纪实，节奏紧密，不以宽敞构图取胜。",
+  "theme_en": "An anxious crowd pressed together at a station",
+  "theme_zh": "车站里挤作一团的焦虑人群",
+  "wh_ratio": "1:1",
+  "id": "3213",
+  "name": "Art Spiegelman",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/art-spiegelman",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "3881cd9d9a52e8b849192639a1b18757e3a747402b5714b808cd90ac1020ffea",
+    "gpt_submission_prompt": "A tightly framed graphic illustration shows a mass of people pressed shoulder to shoulder beside a rough stone wall. Caps, coats, and turned heads overlap in every direction. In the near left-center, a wide-eyed man in a grey cap looks outward with a strained expression; other faces appear partly hidden behind him, each marked by fatigue or suspicion. The crowd fills nearly the entire image, and only small gaps of wall and pale ground remain. There is no clear exit or distant view, which makes the gathering feel uneasy and constrained.\n\nThe style combines precise black ink line with muted printed color. Olive, mustard, dusty grey, warm brown, and a few rust accents sit within dense crosshatching and small engraved marks. Faces are expressive but controlled, with sharp noses, heavy lower lids, and taut mouth lines. The foreground cap and shoulders are slightly larger and darker, while figures farther back become a finer texture of heads and hats. Light is flat and overcast, giving the scene a documentary graphic-novel directness. A thin border and pale paper margin around the selected panel belong to the image layout, reinforcing its printed-page character. The drawing remains tactile and a little rough, with no readable speech balloons or lettering in this panel.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "1b741292d4225ba2656bd90e36272417cb24322c943fccbe8935b2592e874d3c",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square ink-and-wash illustration shows a child curled on a rough, nest-like forest floor beneath the dark sweep of an enormous black bird. The child sits low at left with knees drawn up and hands near the collar, wearing a pale patterned blouse, loose grey trousers, and light shoes. Dark hair is tied back, and a small pale face looks toward the right with an alert, uncertain expression. Above and behind, the bird's beak points right and its wing or body spreads across the upper frame, merging with black tree shadows. Pale branches and dense wiry foliage surround both figures, with leaf strokes filling nearly every open patch. The ground is made from overlapping directional lines, so the child seems held within a hollow of drawn vegetation rather than placed on a flat stage. The palette is almost entirely black, cream, and warm grey, with a paperlike softness under the dense marks. Light is diffuse, making the child's skin and blouse the brightest cluster against the heavy bird silhouette. The fine hatchwork turns feathers, twigs, and ground into related textures while preserving a clear boundary around the small figure. No readable lettering appears. The overall composition is intimate and slightly ominous, with a pale quiet center inside a vigorous dark web of ink.",
+  "full_prompt_zh": "一幅方形水墨插画描绘一名孩子蜷在粗糙、像巢一样的林地地面上，头顶是巨大黑鸟掠过的暗影。孩子低坐在左侧，双膝收起，双手靠近领口，穿浅色带图案上衣、宽松灰裤和浅色鞋。深发束在脑后，小小浅色面容向右望去，神情警觉而不安。上方和后方，鸟喙指向右侧，翅膀或身体展开于上方画幅，与黑色树影相融。浅色枝条和密密的细线叶丛围住两者，叶片笔触填满几乎每块空隙。地面由相互重叠的有方向线条构成，因此孩子像被绘出的植被凹处托住，而非置于平面舞台。色谱几乎全是黑、乳白和暖灰，密笔下仍有纸面般柔和感。光弥散，使孩子的皮肤和上衣成为沉重鸟影前最亮的团块。细排线把羽毛、枝条和地面连成相关纹理，同时保留小人物周围清楚的边界。没有可辨认文字。整体构图亲密而略不祥，一处浅色安静中心藏在有力的深色墨线网中。",
+  "style_prompt_en": "An ink-and-wash illustration layers vigorous fine hatching, scratched directional marks, and broad near-black silhouettes on warm pale paper. Dense linear textures curve and cross until they form a rough enclosing hollow around a small bright area. The palette is nearly monochrome, moving among cream, warm grey, and charcoal. Diffuse light leaves the pale center clear without sharp cast shadow, while a sweeping dark upper mass gives the frame weight and tension. Some edges are crisply cut against paper; others vanish into tangled linework. The surface is busy and tactile but the contrast hierarchy stays legible, producing an intimate, slightly ominous visual rhythm.",
+  "style_prompt_zh": "水墨插画在暖浅纸面上叠起有力细排线、刮擦式方向痕和宽阔近黑剪影。密集线状纹理弯曲交叉，直到围着一片小亮区形成粗糙凹处。色谱近乎单色，在乳白、暖灰与炭黑之间移动。弥散光让浅色中心清楚，却没有锐利投影；上方扫过的深色大形给予画幅重量和张力。有些边缘在纸色前切得清晰，另一些则消失在纠缠线迹里。表面繁密而可触，明暗层级依然可辨，形成亲密、略不祥的视觉节奏。",
+  "theme_en": "A child resting beneath the shadow of a great black bird",
+  "theme_zh": "巨黑鸟阴影下歇息的孩子",
+  "wh_ratio": "1:1",
+  "id": "2217",
+  "name": "Jillian Tamaki",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/jillian-tamaki",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/jillian-tamaki.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "41d0e956197a5b305498de009442647ac50f7dd734b9dd5a06c91784407728b8",
+    "gpt_submission_prompt": "A square ink-and-wash illustration shows a child curled on a rough, nest-like forest floor beneath the dark sweep of an enormous black bird. The child sits low at left with knees drawn up and hands near the collar, wearing a pale patterned blouse, loose grey trousers, and light shoes. Dark hair is tied back, and a small pale face looks toward the right with an alert, uncertain expression. Above and behind, the bird's beak points right and its wing or body spreads across the upper frame, merging with black tree shadows. Pale branches and dense wiry foliage surround both figures, with leaf strokes filling nearly every open patch. The ground is made from overlapping directional lines, so the child seems held within a hollow of drawn vegetation rather than placed on a flat stage. The palette is almost entirely black, cream, and warm grey, with a paperlike softness under the dense marks. Light is diffuse, making the child's skin and blouse the brightest cluster against the heavy bird silhouette. The fine hatchwork turns feathers, twigs, and ground into related textures while preserving a clear boundary around the small figure. No readable lettering appears. The overall composition is intimate and slightly ominous, with a pale quiet center inside a vigorous dark web of ink.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "ba4d92f468e04c69a8e1cde3d8bb718bb9dd40a5e6ee826757f374392fbae744",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

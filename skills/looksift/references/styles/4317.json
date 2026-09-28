@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square science-fantasy illustration reveals a colossal pale stone face emerging from a dark blue cliff at the left edge. Only one eye, cheek, and part of the nose are visible; the eye is a deep rust-red hollow surrounded by intricate carved folds and ridges. The massive profile slopes toward a nearly black ground plane at the bottom, dwarfing a tiny open space and low blue forms near the center. Behind it, dense billowing clouds in fiery red, coral, and orange fill the sky. Dark teal-blue foliage frames the scene at the upper corners, creating a dramatic color gate around the hot central atmosphere. Thin black linework and small stippled marks trace every wrinkle in the stone, while layered color washes produce rough mineral texture. The face is illuminated by cooler light from the left, so its outer ridges become ivory and blue-gray; the cavity remains warm and shadowed. The red cloud bank glows from within but has no single obvious sun. Strong scale contrast turns the face into a landscape rather than an ordinary portrait. The composition has a low horizontal base, a large cool form on the left, and a restless warm sky on the right. Its mood is ancient, strange, and monumental, with graphic precision inside painterly color.",
+  "full_prompt_zh": "一幅方形科幻奇幻插画显出一张巨大的浅色石面，从左侧深蓝山崖中浮出。只能看见一只眼、面颊与部分鼻梁；眼窝为深铁锈红色，周围是繁复雕刻般的褶皱与脊线。巨大侧面向底部近黑地面倾斜，使中央附近一小片开阔地和低蓝形显得极其微小。背后密集翻滚的云以火红、珊瑚红和橙色铺满天空。深青蓝树叶从上角框住场景，围出炽热中央气氛。细黑线与点描痕追踪石面每一道皱纹，层叠色洗形成粗糙矿物纹理。面孔受左侧较冷的光照亮，外缘呈象牙白与蓝灰色；眼窝则温暖而受影。红云仿佛内部发亮，却没有单一可见太阳。强烈尺度反差使面孔近似地貌，而非普通肖像。画面有低水平底座、左侧巨大冷色形体和右侧躁动暖天空。气氛古老、奇异且宏伟，在绘画性色彩中保留图形般精确的细节。",
+  "style_prompt_en": "Monumental science-fantasy illustration combining precise fine ink lines, stippled stone-like texture, and layered painterly color washes. Huge cool ivory and teal masses oppose a turbulent field of red, coral, and orange. Extreme scale contrast and low horizontal grounding create awe. Edge foliage acts as a dark frame, while the brightest warmth remains in atmospheric cloud forms rather than hard lighting.",
+  "style_prompt_zh": "纪念碑般的科幻奇幻插画，把精确细墨线、点描石质肌理与层叠绘画性色洗结合。巨大的冷象牙色和深青形块与翻滚的红、珊瑚及橙色场域相对。极端尺度反差和低水平底部带来敬畏感。边缘深色枝叶作为画框，最亮暖色集中在云状空气形体中，而非硬光。",
+  "theme_en": "A vast pale stone face beneath a red sky",
+  "theme_zh": "红色天空下的一张巨大浅石面孔",
+  "wh_ratio": "1:1",
+  "id": "4317",
+  "name": "Philippe Druillet",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/philippe-druillet.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "696ded02cd449c68adc34b1c41fdea21247a97c43668bc503333d788c7839f85",
+    "gpt_submission_prompt": "A square science-fantasy illustration reveals a colossal pale stone face emerging from a dark blue cliff at the left edge. Only one eye, cheek, and part of the nose are visible; the eye is a deep rust-red hollow surrounded by intricate carved folds and ridges. The massive profile slopes toward a nearly black ground plane at the bottom, dwarfing a tiny open space and low blue forms near the center. Behind it, dense billowing clouds in fiery red, coral, and orange fill the sky. Dark teal-blue foliage frames the scene at the upper corners, creating a dramatic color gate around the hot central atmosphere. Thin black linework and small stippled marks trace every wrinkle in the stone, while layered color washes produce rough mineral texture. The face is illuminated by cooler light from the left, so its outer ridges become ivory and blue-gray; the cavity remains warm and shadowed. The red cloud bank glows from within but has no single obvious sun. Strong scale contrast turns the face into a landscape rather than an ordinary portrait. The composition has a low horizontal base, a large cool form on the left, and a restless warm sky on the right. Its mood is ancient, strange, and monumental, with graphic precision inside painterly color.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "0d709f843c270b8cd4b39d0afd2ce9af83ec1caad610734dc859f6b548b246b2",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

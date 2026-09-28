@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square colored-pencil illustration presents the close profile of a young person facing left, with the head and neck occupying most of the frame. The face emerges from a field of faint graphite contours on warm beige paper. Dark, alert eyes look ahead; the nose and parted lips are modeled with delicate rose, gray, and cream shading. Fine lines remain visible across the forehead and cheeks, so the image feels partly drawn and partly grown into full color. Around the head, small birds, folded wings, leaves, and flowers crowd together in an elaborate headdress. Pale feathers rise above the crown, while a blue-gray bird enters from the upper right and another dark bird settles near the lower right of the neck. Mauve blossoms and muted red petals sit beside the cheek and jaw, with thin stems threading through the arrangement. The forms overlap without a hard boundary between hair, plumage, and foliage. Colored-pencil marks follow each feather shaft and petal fold, creating velvety layers, crisp hatching, and softly rubbed transitions. The paper ground stays open at the left and behind the face, exposing preliminary lines and giving the dense ornament room to breathe. Light is diffuse and even, with no cast shadow; contrast comes from charcoal eyes and blue-black plumage against pale skin and ivory feathers. The overall composition joins an intimate human portrait to a meticulous natural-history fantasy, balancing unfinished sketch lines with richly worked organic detail.",
+  "full_prompt_zh": "一幅方形彩色铅笔插画呈现一位年轻人面朝左侧的近距离侧脸，头与颈占据画面大部分。面孔从暖米色纸上淡淡的石墨轮廓中浮现。深而警觉的眼睛望向前方；鼻子和微张的嘴唇由细致的玫瑰色、灰色与奶油色阴影塑形。细线仍可见于额头和脸颊，使图像仿佛一部分停留在素描阶段，一部分已生长为完整色彩。头部周围，小鸟、折叠的羽翼、叶片和花朵拥成繁复头饰。浅色羽毛在头顶上方升起，一只蓝灰色鸟从右上进入，另一只深色鸟停在颈部右下方。淡紫花与暗红花瓣靠着脸颊和下颌，细茎穿行在其间。头发、羽毛和植物相互叠压，边界并不生硬。彩铅笔痕顺着每根羽轴和花瓣褶皱延伸，形成绒感层次、清晰排线与轻柔擦染的过渡。纸面在左侧及面孔后方保持空阔，露出起稿线，也给密集装饰留出呼吸空间。光线漫射而均匀，没有投影；反差来自炭黑眼睛和蓝黑羽毛与浅肤色、象牙色羽翼之间。整体构图把亲密的人像与细密的自然史幻想结合，在未完成的素描线与精工有机细节之间取得平衡。",
+  "style_prompt_en": "Layer colored pencil and fine graphite on warm uncoated paper. Let pale construction lines remain visible beneath selectively saturated detail. Build forms through directional hatching, softly rubbed color, and minute overlapping edges, with velvety feathers, folded petals, and thin stems providing intricate texture. Keep the palette restrained in ivory, dusty rose, mauve, blue-gray, charcoal, and muted red. Use diffuse even light and quiet open paper around a dense focal cluster. Allow adjacent organic shapes to interweave fluidly while preserving crisp focal contours and a hand-drawn, slightly unfinished quality.",
+  "style_prompt_zh": "在暖色无涂层纸上叠加彩色铅笔与细石墨线。让浅淡起稿线留在局部饱和细节之下。通过顺形排线、轻柔擦染与微小的叠压边缘塑形，以绒感羽毛、折叠花瓣和细茎构成精密肌理。调色控制在象牙白、灰玫瑰、淡紫、蓝灰、炭黑和暗红之间。采用均匀漫射光，让密集焦点周围保留安静的纸面空白。相邻有机形态流畅交织，同时保持焦点轮廓清晰，以及手绘、略带未完成感的气质。",
+  "theme_en": "A young face interwoven with birds, flowers, and leaves",
+  "theme_zh": "年轻面孔与鸟、花及叶片交织",
+  "wh_ratio": "1:1",
+  "id": "1879",
+  "name": "Marco Mazzoni",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/marco-mazzoni",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/marco-mazzoni.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "550ce5512a56b8da739e0762c274795e8069fff0670338ba48e6b01f08974ad0",
+    "gpt_submission_prompt": "A square colored-pencil illustration presents the close profile of a young person facing left, with the head and neck occupying most of the frame. The face emerges from a field of faint graphite contours on warm beige paper. Dark, alert eyes look ahead; the nose and parted lips are modeled with delicate rose, gray, and cream shading. Fine lines remain visible across the forehead and cheeks, so the image feels partly drawn and partly grown into full color. Around the head, small birds, folded wings, leaves, and flowers crowd together in an elaborate headdress. Pale feathers rise above the crown, while a blue-gray bird enters from the upper right and another dark bird settles near the lower right of the neck. Mauve blossoms and muted red petals sit beside the cheek and jaw, with thin stems threading through the arrangement. The forms overlap without a hard boundary between hair, plumage, and foliage. Colored-pencil marks follow each feather shaft and petal fold, creating velvety layers, crisp hatching, and softly rubbed transitions. The paper ground stays open at the left and behind the face, exposing preliminary lines and giving the dense ornament room to breathe. Light is diffuse and even, with no cast shadow; contrast comes from charcoal eyes and blue-black plumage against pale skin and ivory feathers. The overall composition joins an intimate human portrait to a meticulous natural-history fantasy, balancing unfinished sketch lines with richly worked organic detail.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "a6fafc7e6b9e6010d6b097adb3c31a8acc784a07eff614b2b6187e64efced3db",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

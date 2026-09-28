@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square fine-art photograph portrays a young child from the chest up against a dark olive-brown studio background. The child faces the camera directly, with pale blue-gray eyes, softly flushed cheeks, and a still, slightly solemn expression. Thick blond curls spread around the face beneath a loose white cloth bonnet, whose broad fabric folds back over the crown and toward the right side. A black long-sleeved dress fills the lower half, its matte surface broken by a narrow pale collar and a small rounded ornament at the center neckline. In front of the body sits the arched top of a small old metal birdcage, its thin curved bars rising into the frame from the bottom edge. The cage is cropped before its base can be seen, making its shape a delicate dark pattern against the plain clothing. The hair curls are individually lit but not glossy, and the child's skin is smoothly modeled with fine photographic detail. Light enters from the upper left and front, brightening the left curls, forehead, nose, and cheeks, while the right side of the face and bonnet recede gently into warm shadow. The background is mottled but indistinct, with no room details or readable text to compete with the portrait. Cream, gold, black, and muted olive form a restrained old-master palette. The centered gaze and simple arrangement evoke a historical painted portrait, while the lifelike texture of hair, cloth, metal, and skin remains photographic. The overall composition is quiet and formal, with the pale face and soft bonnet held above the cage's fine dark lines.",
+  "full_prompt_zh": "一幅方形艺术摄影以胸部以上的近景描绘一位年幼孩子，背景是深橄榄棕色影棚底。孩子直面镜头，蓝灰眼睛、微红脸颊和静止而略严肃的表情清楚可见。浓密金色卷发从松软白布帽下围着面孔散开，宽布料越过头顶向右侧折去。黑色长袖衣裙占据下半部，哑光表面被窄浅领口和领中一颗小圆饰物打断。身体前放着一只小旧金属鸟笼的拱顶，细弯笼条从下缘升入画面。笼底被截在画外，让它的形状在朴素黑衣前成为纤细深色纹样。发卷逐束受到照亮，却不油亮，孩子皮肤以细密摄影细节平滑塑形。光从左上与前方进入，照亮左侧卷发、额头、鼻子和脸颊，脸和软帽右侧温和退入暖阴影。背景斑驳却没有具体室内细节或可读文字来分散肖像。奶油色、金色、黑色和低饱和橄榄色组成克制的古典大师配色。居中的目光与简洁安排唤起历史绘画肖像，头发、布、金属和皮肤的生动肌理又保持摄影性质。整体构图安静正式，浅亮面孔与柔软帽子位于笼子细密暗线之上。",
+  "style_prompt_en": "The image has fine-art photographic realism arranged with old-master portrait restraint. A soft dark olive ground supports pale cream highlights, warm golden midtones, and deep matte black. Diffuse side-front light models rounded forms gradually, leaving gentle shadow rather than abrupt contrast. Hairlike filaments, woven cloth, smooth skin, and thin aged metal receive distinct textures while sharing one subdued tonal range. A centered, almost motionless focal form is balanced by a small linear pattern at the lower edge, and the background offers little spatial information. The overall effect is tender, formal, and quietly timeless.",
+  "style_prompt_zh": "图像以古典大师肖像般的克制安排细致艺术摄影写实感。柔和深橄榄底托住浅奶油色亮部、暖金中间调和深哑黑。漫射的侧前光缓慢塑造圆形体积，留下温和阴影而非突然强反差。丝状纤维、织布、平滑表面和细旧金属各有明确肌理，却同处一个低调影调范围。居中、几乎不动的焦点形体由下缘的小型线性纹样平衡，背景几乎不提供空间信息。整体效果温柔、正式而安静得仿佛不受时间影响。",
+  "theme_en": "A curly-haired child in a white bonnet holding a small birdcage",
+  "theme_zh": "戴白色软帽的卷发孩子抱着一只小鸟笼",
+  "wh_ratio": "1:1",
+  "id": "3541",
+  "name": "Bill Gekas",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/bill-gekas",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "4c61f1c8e13a9bafca8d1c92f5ae718b059c4340334d0659f1cd226e5c837327",
+    "gpt_submission_prompt": "A square fine-art photograph portrays a young child from the chest up against a dark olive-brown studio background. The child faces the camera directly, with pale blue-gray eyes, softly flushed cheeks, and a still, slightly solemn expression. Thick blond curls spread around the face beneath a loose white cloth bonnet, whose broad fabric folds back over the crown and toward the right side. A black long-sleeved dress fills the lower half, its matte surface broken by a narrow pale collar and a small rounded ornament at the center neckline. In front of the body sits the arched top of a small old metal birdcage, its thin curved bars rising into the frame from the bottom edge. The cage is cropped before its base can be seen, making its shape a delicate dark pattern against the plain clothing. The hair curls are individually lit but not glossy, and the child's skin is smoothly modeled with fine photographic detail. Light enters from the upper left and front, brightening the left curls, forehead, nose, and cheeks, while the right side of the face and bonnet recede gently into warm shadow. The background is mottled but indistinct, with no room details or readable text to compete with the portrait. Cream, gold, black, and muted olive form a restrained old-master palette. The centered gaze and simple arrangement evoke a historical painted portrait, while the lifelike texture of hair, cloth, metal, and skin remains photographic. The overall composition is quiet and formal, with the pale face and soft bonnet held above the cage's fine dark lines.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "0651eff161e20960bf7c5cdadd46cb0e3f9e855d284aa337fbf5508c9f1e0144",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

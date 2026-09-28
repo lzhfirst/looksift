@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square monochrome painterly portrait shows an older man with unruly white hair facing the viewer against a dark, scratched gray background. His head and upper shoulders occupy most of the frame. The hair spreads horizontally on both sides and rises in loose strands at the crown, its pale strokes bright against the surrounding charcoal. Deep forehead creases and sharply angled brows frame eyes that look directly outward with a guarded expression. The long nose, tight mouth, and pronounced jaw are modeled with rough white, slate, and black paint rather than smooth photographic gradients. A white shirt collar peeks above a nearly black sweater or jacket at the lower center. The shoulders dissolve into quick dark strokes that merge with the background near the bottom edge. Behind the head, diagonal scratches and smudged gray patches form a restless surface but no recognizable room. Light appears to strike from the upper left, strongly lifting the hair, forehead, nose, and left cheek while the opposite side and neck fall into deep shadow. The paint is visibly worked: some strokes are broad and dry, others fine and scraped, leaving irregular transitions along the hairline and shoulders. The close crop excludes props or narrative action, concentrating attention on the face's structure and the rough surrounding texture. The overall composition balances a bright pale head against heavy dark clothing and ground, creating a stern, immediate image with expressive surface energy.",
+  "full_prompt_zh": "这幅方形单色绘画肖像呈现一位白发凌乱的年长男子面向观者，身后是深色、带刮痕的灰背景。头与上肩占据画面大部分。头发向两侧横展，头顶有松散发丝竖起，浅色笔触在周围炭黑前发亮。深额纹和锐利斜眉框住直望外侧的双眼，神情戒备。长鼻、紧抿的嘴和突出的下颌以粗糙白、石板灰和黑颜料塑造，而非平滑摄影渐层。白衬衫领从下方中央近黑色毛衣或外套上露出。肩膀散成快速深色笔触，在底边附近与背景相融。头后斜刮线和擦抹灰斑形成不安定表面，却没有可辨房间。光似乎从左上击中，使头发、前额、鼻和左脸颊强烈抬亮，相反一侧与颈部落入深影。颜料明显反复加工：有些笔触宽而干，有些细而经刮擦，让发际与肩边过渡不规则。紧凑裁切排除道具和叙事动作，把注意力集中在面部结构与粗糙周围纹理。整体构图以明亮浅头平衡厚重深衣与底面，形成严峻、即时、表面能量强烈的图像。",
+  "style_prompt_en": "The monochrome painting uses rough dry strokes, scraped marks, and steep changes from chalky white to charcoal black. A compact bright focal mass pushes forward from a dark mottled field, while peripheral edges fray into expressive brushwork. Directional light shapes hard planes and deep recesses without polishing away the surface grain. Mid-grays bridge the strongest contrasts, but the palette stays nearly colorless and severe. Tight framing and vigorous marks create immediacy; the composition feels tense, direct, and materially worked.",
+  "style_prompt_zh": "这种单色绘画使用粗糙干笔、刮擦线和粉白到炭黑之间陡峭的明暗变化。紧凑亮色焦点从深色斑驳底面向前推出，外围边缘散成表现性笔触。定向光塑造硬平面与深凹处，却没有抛光掉表面颗粒。中灰连接最强反差，色域仍近乎无彩而严峻。紧裁切和有力线迹制造即时感；构图紧张、直接，材料加工痕迹明显。",
+  "theme_en": "A stern older man with wild white hair in a rough monochrome painting",
+  "theme_zh": "粗犷单色绘画中一位白发凌乱、神情严峻的老人",
+  "wh_ratio": "1:1",
+  "id": "3069",
+  "name": "Paul Verhoeven",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/paul-verhoeven",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "3c3d4dac4aa4230fdf43d1ef005b41fabd31e675195a5ea517db066c0349ee13",
+    "gpt_submission_prompt": "A square monochrome painterly portrait shows an older man with unruly white hair facing the viewer against a dark, scratched gray background. His head and upper shoulders occupy most of the frame. The hair spreads horizontally on both sides and rises in loose strands at the crown, its pale strokes bright against the surrounding charcoal. Deep forehead creases and sharply angled brows frame eyes that look directly outward with a guarded expression. The long nose, tight mouth, and pronounced jaw are modeled with rough white, slate, and black paint rather than smooth photographic gradients. A white shirt collar peeks above a nearly black sweater or jacket at the lower center. The shoulders dissolve into quick dark strokes that merge with the background near the bottom edge. Behind the head, diagonal scratches and smudged gray patches form a restless surface but no recognizable room. Light appears to strike from the upper left, strongly lifting the hair, forehead, nose, and left cheek while the opposite side and neck fall into deep shadow. The paint is visibly worked: some strokes are broad and dry, others fine and scraped, leaving irregular transitions along the hairline and shoulders. The close crop excludes props or narrative action, concentrating attention on the face's structure and the rough surrounding texture. The overall composition balances a bright pale head against heavy dark clothing and ground, creating a stern, immediate image with expressive surface energy.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "52795bcbae4cd04770a12065973297882a60a845ffadddeff443a7b5c0a79f41",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

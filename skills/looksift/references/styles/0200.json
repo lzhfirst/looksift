@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square naturalistic interior image shows a quiet modern living room at night, lit by several gentle colored sources. The viewer faces a glass door and window at the back, where the outside is dark and faint plant shapes are visible. A recessed ceiling and upper wall line carry a continuous pink-violet glow that wraps around the room without a visible bulb. At left, a sofa with dark blue upholstery stands beneath framed wall art. A cream-shaded floor lamp beside it adds a soft amber pool to the wall and the nearby leaves of a tall plant. An ochre lounge chair sits nearer the center, angled toward a low, thin-legged coffee table over a broad dark rug. At right, a long low cabinet supports a bright cyan-lit screen or glass display, and its cool glow reaches the wall and floor around it. More potted plants cluster beside the back door and cabinet, partly silhouetted by the pink and turquoise ambient light. The floorboards and rectangular rug lead toward the rear opening, giving the room a clear central perspective. Furniture edges stay recognizable, but the low light softens small surface details and lets color define zones of space. The pink cove light, amber lamp, and cyan side glow meet as subdued gradients rather than harsh spotlights. No people or readable lettering appear. The balanced seating, open center, and layered indirect illumination make the interior feel still, lived-in, and gently futuristic.",
+  "full_prompt_zh": "一幅方形自然主义室内图像描绘夜里安静的现代客厅，由几处柔和彩色光源照亮。观者面对后方玻璃门与窗，外面深暗，隐约可见植物形状。内凹天花板与墙面上缘有连续的粉紫光绕过房间，看不到直接灯泡。左侧深蓝色沙发立在墙上装框画作下。一盏奶油色灯罩落地灯位于旁边，在墙和一株高大植物的近叶上投下柔和琥珀光。赭色休闲椅坐在更靠中央的位置，朝向宽阔深色地毯上一张细腿低茶几。右侧长矮柜托着一块发亮青色的屏幕或玻璃展示面，冷光触及周围墙和地面。更多盆栽聚在后门与柜边，被粉色和青绿环境光部分剪影化。地板条和矩形地毯引向后方开口，让房间有清楚的中央透视。家具边缘仍可辨认，但低照度柔化了细小表面细节，使颜色界定不同空间区域。粉色槽灯、琥珀灯和青色侧光以克制渐层相遇，而非生硬聚光。没有人物或可读字样。均衡座椅、敞开中央与层叠间接照明使室内静止、有生活感，又略带未来气息。",
+  "style_prompt_en": "Naturalistic low-light rendering divides an interior or enclosed space into gentle zones of indirect color. Pink-violet edge glow, small amber pools, and a cooler cyan plane coexist without fully blending, while deep blue-gray furniture or other masses hold the darker middle values. Light wraps along boundaries and softly falls across adjacent surfaces instead of forming sharp theatrical shafts. Clear geometric perspective and a relatively open central route keep the colored areas organized. Surface detail remains subdued in the shadows, with selected lit edges providing legibility. The palette feels calm, layered, and slightly electric through the balance of warm local sources and cool ambient fill.",
+  "style_prompt_zh": "自然主义弱光渲染把室内或围合空间分成柔和的间接色光区域。粉紫色边缘辉光、小琥珀光池和较冷青色平面并存却不完全混合，深蓝灰家具或其他体块撑住较暗的中间明度。光沿边界包裹，并柔和落到相邻表面，而非形成锐利舞台光柱。清楚的几何透视与相对敞开的中央通路让彩色区域有序。暗影里的表面细节克制，选择性受光边缘提供可读性。暖局部光源与冷环境填光的平衡让调色平静、分层且略带电光感。",
+  "theme_en": "A quiet modern living room glowing with pink, amber, and cyan ambient light",
+  "theme_zh": "安静的现代客厅浸在粉、琥珀与青色环境光中",
+  "wh_ratio": "1:1",
+  "id": "0200",
+  "name": "Ambient lighting",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/ambient-lighting",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/ambient-lighting.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "36da68216d2cc937df9207fad8403bfaae47274aed20618b1aa5dd0b59a9c496",
+    "gpt_submission_prompt": "A square naturalistic interior image shows a quiet modern living room at night, lit by several gentle colored sources. The viewer faces a glass door and window at the back, where the outside is dark and faint plant shapes are visible. A recessed ceiling and upper wall line carry a continuous pink-violet glow that wraps around the room without a visible bulb. At left, a sofa with dark blue upholstery stands beneath framed wall art. A cream-shaded floor lamp beside it adds a soft amber pool to the wall and the nearby leaves of a tall plant. An ochre lounge chair sits nearer the center, angled toward a low, thin-legged coffee table over a broad dark rug. At right, a long low cabinet supports a bright cyan-lit screen or glass display, and its cool glow reaches the wall and floor around it. More potted plants cluster beside the back door and cabinet, partly silhouetted by the pink and turquoise ambient light. The floorboards and rectangular rug lead toward the rear opening, giving the room a clear central perspective. Furniture edges stay recognizable, but the low light softens small surface details and lets color define zones of space. The pink cove light, amber lamp, and cyan side glow meet as subdued gradients rather than harsh spotlights. No people or readable lettering appear. The balanced seating, open center, and layered indirect illumination make the interior feel still, lived-in, and gently futuristic.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "8518b4b4086255b32ea1a1a63a6b51dbab7c0683392ceaa48bfb53cccc0ab110",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

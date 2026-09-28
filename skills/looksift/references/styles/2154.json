@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square classical oil painting presents a white horse moving across a shadowed woodland clearing. The animal occupies the center of the canvas in near profile, its head turning slightly toward the left and one foreleg lifted in a poised, measured step. Its pale mane and broad muscular body catch the main light, while the legs and tail recede into the surrounding dark. Behind it, dense trees mass along the right edge, with a quieter open landscape and a hazy greenish sky visible on the left. Low foliage and uneven ground frame the foreground without competing with the horse. The palette is narrow and earthy: ivory, warm cream, olive green, deep brown, and muted moss. Light enters from the upper left as a soft break in the clouds, illuminating the horse's flank and the patch of ground beneath it. Anatomical structure is carefully modeled through smooth tonal transitions, especially across the neck, shoulder, and haunch, rather than through heavy outlines. Dark foliage creates a broad vignette that holds the bright subject in place. Fine painterly texture remains visible in the trees and cloudy sky, while the horse's coat is more smoothly blended. The whole image feels restrained, stately, and observational, with natural movement suspended in a calm theatrical clearing.",
+  "full_prompt_zh": "一幅方形古典油画描绘一匹白马穿过林间阴影中的空地。马位于画面中央，身体接近侧面，头略向左转，一只前腿抬起，步态稳健而克制。浅色鬃毛与宽厚有力的身体承接主要光线，四肢和尾巴则渐渐没入周围暗部。右侧是密集成团的树木，左侧露出较开阔的远景和灰绿的朦胧天空。低矮灌木与起伏地面围住前景，却不与马争夺视线。配色收敛而富于土色：象牙白、暖奶油色、橄榄绿、深褐与灰苔绿。光从左上云层缺口柔和地进入，照亮马的侧腹和脚下的一片土地。颈部、肩部和臀部以平滑的明暗过渡仔细塑造解剖结构，而非依赖粗重轮廓。深色树叶形成宽阔的暗角，把明亮主体稳稳托在中央。树木和云天保留细微的油画肌理，马的皮毛则更平顺地融合。全画克制、庄重而注重观察，仿佛自然动作暂停在安静而略带舞台感的林间空地。",
+  "style_prompt_en": "Classical naturalist oil painting with careful anatomical modeling and a restrained earthy palette. A pale focal form emerges from deep olive and brown foliage through soft directional light. Smooth blended transitions describe rounded volume, while background vegetation and cloud carry quieter brush texture. A dark peripheral vignette, open atmospheric passage, and grounded patch of illumination create a stately, balanced composition. The surface remains painterly and aged rather than sharply photographic.",
+  "style_prompt_zh": "古典自然主义油画以细致的解剖塑造和克制的土地色系为基础。浅色焦点形体借柔和的定向光从深橄榄绿与褐色植被中浮出。平滑晕接的明暗描绘圆润体积，背景树丛和云层则保留更轻的笔触肌理。周边暗角、通透的气氛区域与落在地面的亮斑组成庄重、平衡的构图。表面保持绘画感与年代感，而非锐利的摄影效果。",
+  "theme_en": "A white horse moving through a shadowed woodland clearing",
+  "theme_zh": "白马穿过林间阴影中的空地",
+  "wh_ratio": "1:1",
+  "id": "2154",
+  "name": "George Stubbs",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/george-stubbs",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/george-stubbs.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "2499ea7c2e421c7799668449a643ee73ae518c20382c8c464d697685d5523e54",
+    "gpt_submission_prompt": "A square classical oil painting presents a white horse moving across a shadowed woodland clearing. The animal occupies the center of the canvas in near profile, its head turning slightly toward the left and one foreleg lifted in a poised, measured step. Its pale mane and broad muscular body catch the main light, while the legs and tail recede into the surrounding dark. Behind it, dense trees mass along the right edge, with a quieter open landscape and a hazy greenish sky visible on the left. Low foliage and uneven ground frame the foreground without competing with the horse. The palette is narrow and earthy: ivory, warm cream, olive green, deep brown, and muted moss. Light enters from the upper left as a soft break in the clouds, illuminating the horse's flank and the patch of ground beneath it. Anatomical structure is carefully modeled through smooth tonal transitions, especially across the neck, shoulder, and haunch, rather than through heavy outlines. Dark foliage creates a broad vignette that holds the bright subject in place. Fine painterly texture remains visible in the trees and cloudy sky, while the horse's coat is more smoothly blended. The whole image feels restrained, stately, and observational, with natural movement suspended in a calm theatrical clearing.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "ef5c25f295f3a6d7a4eb600ece2cbdcb8b5912ca09c502bc012f22ec4fc3d7f8",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

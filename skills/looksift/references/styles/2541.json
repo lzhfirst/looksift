@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square retro color photograph shows a couple walking away through a wide parking lot lined with mid-century cars under a pale teal sky. The two people stand slightly left of center in the lower middle. One wears a red dress and carries a dark bag, while the other wears a gray suit; their small figures cast narrow shadows on the asphalt. A white rounded car fills the left foreground with its rear toward the viewer. On the right foreground, a pale blue sedan is parked diagonally, its long chrome line and curved roof catching bright daylight. More cars recede in rows toward a low horizon, leaving a large open central lane that makes the distant pedestrians appear tiny. Tall dark conifers frame both sides near the middle distance, and thin lamp posts rise in a sparse sequence across the lot. Beyond them, a flat line of trees and indistinct structures meets the hazy sky. The foreground pavement is smooth and slightly faded, with faint painted parking lines and a pale sidewalk band along the bottom edge. The photograph has subdued cyan, cream, charcoal, and red color, with light film grain and a slightly aged print quality. Clear sunlight comes from the upper right, creating crisp but modest shadows beneath cars and people and a soft sheen on the painted bodywork. No sign or license text is legible. The overall composition is quiet and oddly spacious, using the small red figure, two prominent vintage cars, and wide empty lane to turn an everyday scene into a poised image.",
+  "full_prompt_zh": "这幅方形复古彩色照片呈现一对伴侣背对观者，穿过排列着中世纪汽车的宽阔停车场，上方是浅蓝绿天空。两人站在中央略偏左的下方中部。一人穿红裙、提深色包，另一人穿灰西装；小小人物在柏油地上投下狭窄阴影。左侧前景有一辆圆润白车，车尾朝向观者。右侧前景一辆浅蓝轿车斜停，长镀铬线与弧形车顶接住明亮日光。更多汽车成排退向低地平线，留下大片开放中央车道，使远处行人显得极小。深色高常青树在中景两侧构框，细路灯杆稀疏地沿停车场升起。其后，平坦树线和模糊结构与朦胧天空相接。前景路面平滑且略褪色，有淡淡车位线，下沿是一条浅色人行道带。照片以柔和青、奶油、炭色和红色为主，有轻微胶片颗粒与略陈旧印相质感。清澈阳光从右上方照来，在车和人下形成清楚而适度的阴影，并在车漆上留下柔和光泽。没有可读标牌或车牌文字。整体构图安静且异常宽敞，以小红色人物、两辆醒目的老式汽车和宽空车道，把日常场景变成沉稳画面。",
+  "style_prompt_en": "Conceptual retro photography uses a restrained cyan, cream, charcoal, and isolated red palette with slightly faded film grain. Wide open ground and sky give small precise forms unusual weight, while repeated horizontal rows and thin vertical accents create calm order. Framing remains direct and observational, yet scale and emptiness lend an uncanny stillness. Clear daylight creates modest crisp shadows and gentle sheen on smooth surfaces. Edges are clean at the near focal objects and soften toward a hazy low horizon. The overall effect is spare, nostalgic, and quietly surreal.",
+  "style_prompt_zh": "概念性复古摄影以克制的青、奶油、炭色和孤立红色，配略褪色胶片颗粒。宽阔空地与天空让细小精确形体承载异常重量，重复水平排布和细竖向强调构成平静秩序。取景直接而像观察，但尺度与空旷带来诡异静止感。清澈日光产生适度清晰阴影与光滑表面的柔和光泽。近处焦点物边缘干净，向朦胧低地平线柔化。整体简少、怀旧且安静超现实。",
+  "theme_en": "A couple walking away through a wide vintage parking lot",
+  "theme_zh": "一对伴侣背对观者穿过宽阔的复古停车场",
+  "wh_ratio": "1:1",
+  "id": "2541",
+  "name": "Hipgnosis",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/hipgnosis",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/hipgnosis.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "d65e1163d49dd5c3222bad2de3830aebd4b675ae3ea06c0d33fe6174ca49450d",
+    "gpt_submission_prompt": "A square retro color photograph shows a couple walking away through a wide parking lot lined with mid-century cars under a pale teal sky. The two people stand slightly left of center in the lower middle. One wears a red dress and carries a dark bag, while the other wears a gray suit; their small figures cast narrow shadows on the asphalt. A white rounded car fills the left foreground with its rear toward the viewer. On the right foreground, a pale blue sedan is parked diagonally, its long chrome line and curved roof catching bright daylight. More cars recede in rows toward a low horizon, leaving a large open central lane that makes the distant pedestrians appear tiny. Tall dark conifers frame both sides near the middle distance, and thin lamp posts rise in a sparse sequence across the lot. Beyond them, a flat line of trees and indistinct structures meets the hazy sky. The foreground pavement is smooth and slightly faded, with faint painted parking lines and a pale sidewalk band along the bottom edge. The photograph has subdued cyan, cream, charcoal, and red color, with light film grain and a slightly aged print quality. Clear sunlight comes from the upper right, creating crisp but modest shadows beneath cars and people and a soft sheen on the painted bodywork. No sign or license text is legible. The overall composition is quiet and oddly spacious, using the small red figure, two prominent vintage cars, and wide empty lane to turn an everyday scene into a poised image.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "74b50c03c3d069faff9b097dd823770f30053a9f23fb92ddad90636a7ea95974",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

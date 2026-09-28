@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square historical-fantasy painting shows an old white-bearded traveler riding a brown horse through a deep forest. The traveler sits left of center, leaning slightly forward in a pale cloak over muted olive clothing. His long beard and hair catch the cool light filtering between tall dark trunks. The horse's head and bridle fill the lower center, while another horse and several small riders recede along the path behind them. Dense vertical trees rise across the left and upper edges; their dark green-black mass parts toward a distant pale clearing and a faint domed structure near the upper right. Rocks and low plants crowd the forest floor, with soft green-gray light collecting along the path. The painting is richly detailed near the old man and his horse, but distant riders and architecture dissolve into atmospheric strokes. The cloak folds are pale and soft; leather straps and the horse's coarse mane have darker, sharper accents. Diffuse daylight enters from the distant right opening, catching the rider's face, the horse's forehead, and a few leaves while leaving the near trunks in deep shade. Browns, moss greens, stone grays, and muted cream keep the scene subdued despite its narrative scale. No readable text is present. The overall composition leads from a close, solemn traveler into layered forest depth, giving the image a quiet epic weight.",
+  "full_prompt_zh": "一幅方形历史幻想绘画描绘一位白须老旅人骑着棕马穿过深林。旅人坐在中央偏左，穿淡色披风罩着暗橄榄色衣服，身体微微前倾。长须与头发接住从高而深的树干间透入的冷光。马头与缰绳占据下方中央，另一匹马和数位小骑者沿后方小路退去。密集竖树占据左侧和上缘；深绿黑体量向远处浅色空地与右上隐约的穹顶结构打开。岩石与矮植物挤满林地，柔和绿灰光沿小路聚集。绘画在老人和坐骑附近细节丰厚，远方骑者与建筑则消入空气感笔触。披风褶皱浅而柔，皮革带与粗马鬃有较深较锐的强调。漫射日光从右侧远处开口进入，照到旅人脸、马额和几片叶子，让近处树干保持深影。棕色、苔绿、石灰与暗奶油色使画面虽有叙事尺度仍显收敛。没有可读文字。整体构图从近处肃穆的旅人引向层叠森林深处，带有安静的史诗重量。",
+  "style_prompt_en": "Painterly realism sets carefully modeled focal forms within layered atmospheric depth. Fine tactile accents are concentrated near the front; distant masses dissolve into cooler, broader strokes. Moss green, brown, stone gray, and muted cream form a subdued earthy palette, with pale highlights used sparingly. Diffuse light enters through a distant opening, catching selected exposed edges while dense vertical darks frame the view. Repeating upright rhythms and a receding narrow passage draw the eye inward. The mood is solemn and expansive, with narrative weight carried by tonal organization rather than bright spectacle.",
+  "style_prompt_zh": "绘画式写实把细致塑形的焦点形体放进层叠的空气纵深。细小有触感的强调集中在近处；远方体量消入较冷较宽的笔触。苔绿、棕色、石灰和暗奶油色组成收敛土色域，浅高光节制使用。漫射光从远处开口进入，照到部分外露边缘，密集深色竖向形围住视野。重复直立节奏与后退的狭窄通道把视线向内引。氛围肃穆而开阔，叙事重量来自调性组织而非鲜艳奇观。",
+  "theme_en": "An old bearded traveler on horseback in a deep forest",
+  "theme_zh": "深林中骑马的白须老旅人",
+  "wh_ratio": "1:1",
+  "id": "4125",
+  "name": "Viktor Vasnetsov",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/viktor-vasnetsov.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "b8b75852635406c70bbe4fbc2df0689679cb8abafdab0d98cb16b7fcf425d41b",
+    "gpt_submission_prompt": "A square historical-fantasy painting shows an old white-bearded traveler riding a brown horse through a deep forest. The traveler sits left of center, leaning slightly forward in a pale cloak over muted olive clothing. His long beard and hair catch the cool light filtering between tall dark trunks. The horse's head and bridle fill the lower center, while another horse and several small riders recede along the path behind them. Dense vertical trees rise across the left and upper edges; their dark green-black mass parts toward a distant pale clearing and a faint domed structure near the upper right. Rocks and low plants crowd the forest floor, with soft green-gray light collecting along the path. The painting is richly detailed near the old man and his horse, but distant riders and architecture dissolve into atmospheric strokes. The cloak folds are pale and soft; leather straps and the horse's coarse mane have darker, sharper accents. Diffuse daylight enters from the distant right opening, catching the rider's face, the horse's forehead, and a few leaves while leaving the near trunks in deep shade. Browns, moss greens, stone grays, and muted cream keep the scene subdued despite its narrative scale. No readable text is present. The overall composition leads from a close, solemn traveler into layered forest depth, giving the image a quiet epic weight.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "6a300d0d490a509ea9e2d466a3b63d58bdf77b5d70525a8cb3552c55c6ba9f6d",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white cinematic close-up shows a man in left profile looking intently toward the right side of a dark room. The background is almost black, interrupted only by a large soft white light near the upper-right corner and a few smaller blurred points descending behind him. His face enters from the left edge and occupies most of the upper and middle frame. Short dark hair is cropped close, and a slim mustache sits over a closed mouth. The straight line of his nose and his open, alert eye are sharply outlined by pale light. His brow rises slightly, making his fixed gaze feel watchful and unsettled. A dark coat collar and shoulder fade into the lower-left shadow, leaving little detail beyond the face and neck. Light from the right front grazes the forehead, cheekbone, nose and upper lip, while the far side of his head remains nearly absorbed by black. Fine film grain is visible in the gray midtones, and the skin retains soft photographic texture rather than polished illustration. The brightest background circle stays out of focus, establishing depth without revealing a definite setting. The crop cuts close to the head at the top and left, directing attention to his expression and the empty space he watches. The overall composition balances a crisp side-lit face against a sparse field of darkness and blurred light, giving the moment a tense, private stillness.",
+  "full_prompt_zh": "这幅方形黑白电影式近景里，一名男子以左侧脸朝向画面右方，专注地望着幽暗房间的另一侧。背景几乎全黑，只有右上角一块柔化的大白光，以及在他身后向下散去的几个较小模糊亮点。他的脸从左缘进入，占据上部与中部画幅大半。短深发贴着头部，一撇细胡须位于闭合的嘴唇上方。鼻梁的直线和睁开而警觉的眼睛被浅亮光线勾得清楚。眉头略微抬起，使凝定目光显得警惕而不安。深色大衣领与肩膀融入左下阴影，除了脸和颈部几乎看不到更多细节。来自右前方的光擦过额头、颧骨、鼻子与上唇，头部远侧则几乎没入黑色。灰色中间调里可见细微胶片颗粒，皮肤保有柔软摄影肌理，而非光滑插画面。最亮的背景光圈仍失焦，建立纵深却不揭示确定场所。画框从顶部和左侧紧贴头部裁切，让注意力集中于表情和他所望向的空处。整体构图让清晰的侧光面庞与稀疏黑暗、模糊亮光相平衡，赋予这一刻紧张而私密的静止感。",
+  "style_prompt_en": "The monochrome photographic treatment depends on a narrow range of silver-gray midtones between very deep black and isolated white light. A selective bright edge clarifies the focal form, while neighboring contours dissolve quickly into shadow. Background points remain soft and circular, separated from the sharply focused center by shallow depth of field. Fine film grain and restrained skinlike tonal variation preserve a tactile analog surface. Directional side illumination creates tension through asymmetry, leaving generous dark negative space and only a few blurred highlights to suggest distance. The image feels intimate, watchful and cinematic, with light performing most of the compositional work.",
+  "style_prompt_zh": "这种单色摄影处理依靠极深黑色与孤立白光之间狭窄的银灰中间调。经过选择的亮边使焦点形体清楚，相邻轮廓则迅速消失在阴影里。背景亮点柔软而圆，与清晰对焦的中心之间形成浅景深分隔。细微胶片颗粒和克制的皮肤式调性变化保留可触的模拟介质表面。定向侧光通过不对称建立张力，留下宽裕深色负空间，仅以少量模糊高光暗示距离。图像亲近、警觉且有电影感，光线承担了主要构图工作。",
+  "theme_en": "A mustached man in sharp side light looking beyond a dark room",
+  "theme_zh": "一位留小胡子的男子在强侧光中望向幽暗房间之外",
+  "wh_ratio": "1:1",
+  "id": "0510",
+  "name": "Luis Bunuel",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/luis-bunuel",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/luis-bunuel.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "8b9527c1430277d9dfb66ed249bc8b79d11485cab6b75d11561341b405f65217",
+    "gpt_submission_prompt": "A square black-and-white cinematic close-up shows a man in left profile looking intently toward the right side of a dark room. The background is almost black, interrupted only by a large soft white light near the upper-right corner and a few smaller blurred points descending behind him. His face enters from the left edge and occupies most of the upper and middle frame. Short dark hair is cropped close, and a slim mustache sits over a closed mouth. The straight line of his nose and his open, alert eye are sharply outlined by pale light. His brow rises slightly, making his fixed gaze feel watchful and unsettled. A dark coat collar and shoulder fade into the lower-left shadow, leaving little detail beyond the face and neck. Light from the right front grazes the forehead, cheekbone, nose and upper lip, while the far side of his head remains nearly absorbed by black. Fine film grain is visible in the gray midtones, and the skin retains soft photographic texture rather than polished illustration. The brightest background circle stays out of focus, establishing depth without revealing a definite setting. The crop cuts close to the head at the top and left, directing attention to his expression and the empty space he watches. The overall composition balances a crisp side-lit face against a sparse field of darkness and blurred light, giving the moment a tense, private stillness.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "34a7225b7634690a0e16d65367e81924956def1a0e28e02e37ff3a555c5efc92",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

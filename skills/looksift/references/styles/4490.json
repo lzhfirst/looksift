@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square color fashion photograph views a black-clad woman reclining low across a rough asphalt roadside. Her body forms a long horizontal dark shape extending from the left-center toward the right edge. She props herself on her forearms near a pale concrete curb and turns her face toward the left, away from the camera. A dramatic wide-brimmed red hat casts a shadow over her eyes, while vivid red lipstick and red high-heeled shoes echo the same color at opposite ends of the pose. Behind her, a black vehicle or wall creates a large near-black upper field; the road surface at left is sunlit and grainy. A strong afternoon sun strikes the hat brim, pale face, hands, curb, and one shoe, creating crisp graphic shadows. The viewpoint is slightly elevated and oblique, making the curb a diagonal line through the frame. The palette is restricted to black, pavement gray, skin cream, and saturated scarlet, with no lush environment or extra props. The pose is stylized but the textures remain photographic: rough asphalt, smooth hat felt, polished shoe leather, and matte cloth. The composition feels enigmatic and cinematic, with color functioning as a sharp punctuation against the dark geometry.",
+  "full_prompt_zh": "一张方形彩色时装照片俯看一位黑衣女性低伏在粗糙柏油路边。她的身体形成从左中延伸到画框右缘的长水平深形，前臂撑在浅混凝土路缘附近，脸转向左侧，避开镜头。一顶戏剧性的宽檐红帽在眼上投下阴影，鲜红唇和红色高跟鞋在姿势两端呼应同色。她身后黑色车辆或墙面形成大片近黑上部区域；左侧路面受日晒而颗粒分明。强烈午后阳光照到帽檐、浅色面庞、手、路缘及一只鞋，制造清晰图形阴影。视角略高且斜向，使路缘成为贯穿画面的对角线。色彩限制在黑、路面灰、肤色奶油和饱和绯红，没有繁茂环境或多余道具。姿势经过设计，肌理却保持摄影真实：粗柏油、平滑帽毡、擦亮鞋革和哑光布料。构图神秘而有电影感，颜色像利落标点切入深色几何。",
+  "style_prompt_en": "Graphic fashion photography with a restricted black-gray-cream-scarlet palette, dramatic low horizontal silhouette, and one strong diagonal divider. Hard sun cuts crisp shadows across tactile ordinary surfaces while selected glossy color accents punctuate the dark mass. Oblique framing, sparse setting, and editorial stillness create tension without visual clutter.",
+  "style_prompt_zh": "图形化时装摄影，色彩严格限制在黑、灰、奶油和绯红，低矮的长水平剪影与一道强斜线分隔画面。硬阳光在可触的日常表面切出清晰阴影，选定的亮色光泽重点刺入深色大形。斜向取景、稀疏环境与编辑式静止感形成没有杂乱的张力。",
+  "theme_en": "A black-clad woman in a red hat on a sunlit roadside",
+  "theme_zh": "阳光下路边身着黑衣、戴红帽的女性",
+  "wh_ratio": "1:1",
+  "id": "4490",
+  "name": "Guy Bourdin",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/guy-bourdin.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "7be9596c405a0ca151235fa966e7cc3d0db408cdb670a94cd140d52b505fab88",
+    "gpt_submission_prompt": "A square color fashion photograph views a black-clad woman reclining low across a rough asphalt roadside. Her body forms a long horizontal dark shape extending from the left-center toward the right edge. She props herself on her forearms near a pale concrete curb and turns her face toward the left, away from the camera. A dramatic wide-brimmed red hat casts a shadow over her eyes, while vivid red lipstick and red high-heeled shoes echo the same color at opposite ends of the pose. Behind her, a black vehicle or wall creates a large near-black upper field; the road surface at left is sunlit and grainy. A strong afternoon sun strikes the hat brim, pale face, hands, curb, and one shoe, creating crisp graphic shadows. The viewpoint is slightly elevated and oblique, making the curb a diagonal line through the frame. The palette is restricted to black, pavement gray, skin cream, and saturated scarlet, with no lush environment or extra props. The pose is stylized but the textures remain photographic: rough asphalt, smooth hat felt, polished shoe leather, and matte cloth. The composition feels enigmatic and cinematic, with color functioning as a sharp punctuation against the dark geometry.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "b07a5132e02830669aefbea1f8fde1364d1b11478f10005e598bd0d894b7a43a",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

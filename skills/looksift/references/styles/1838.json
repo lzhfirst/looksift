@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square, richly patterned twilight scene places a compact cluster of blue houses on a low island at the center of a still lake. Their angular roofs and blocklike walls overlap, forming an almost single geometric silhouette. Several square and narrow windows glow orange from within, and a warm wash of light illuminates the left side of the central building. The island rests on a short layered stone platform just above the waterline. A small black rowboat passes in front of it toward the right, with one slender standing figure holding a long pole or oar. The boat's dark shape is cut sharply against a band of copper-colored water. The horizon sits near the middle of the image. Above it, a deep blue sky is filled with tiny flecks and a few isolated gold points; below it, the island and boat are reflected as long blue and orange shapes in glassy water. The reflection is nearly symmetrical but softened into horizontal bands and broken color. The whole surface has a dense mosaic-like texture of small rectangular marks and dots, making the buildings, sky, and water feel assembled from luminous pigment fragments. Cobalt and ultramarine dominate, while the windows, lower sky, and reflection introduce amber, apricot, and burnt orange. The arrangement is quiet and centered, with broad empty bands of water and sky balancing the concentrated island and tiny boat.",
+  "full_prompt_zh": "一幅方形、纹理丰富的暮色画面，把一簇紧凑的蓝色房屋放在平静湖面中央的低矮小岛上。棱角分明的屋顶和块状墙体相互重叠，几乎构成一个几何剪影。几扇方形与狭长窗户从内部发出橘色光，暖光还照亮中央建筑的左侧。小岛立在刚高出水面的低矮分层石台上。一只小黑船从岛前朝右经过，船上有一个细瘦站立人物，握着长篙或桨。船的深色轮廓清楚地切在铜色水带前。地平线接近画面中部。其上，深蓝天空布满细小斑点和少数独立的金色光点；其下，小岛和船在镜面般的水里倒映为伸长的蓝橘形状。倒影近乎对称，但被横向色带和断续颜色柔化。整个表面有由小矩形笔痕与点构成的密集马赛克般纹理，使建筑、天空和水仿佛由发光颜料碎片拼成。钴蓝与群青占主导，窗、低空与倒影带入琥珀、杏色和焦橘。布局安静居中，大面积空旷水面与天空平衡集中的小岛和微小的船。",
+  "style_prompt_en": "Build the image from countless small rectangular pigment marks and luminous dots, allowing a mosaic-like surface to remain visible across every plane. Favor deep cobalt, ultramarine, and blue-violet as the main field, then concentrate warm amber, apricot, and burnt orange in small lights and broad reflections. Simplify forms into interlocking blocks and crisp silhouettes. Use a calm central mass, expansive surrounding color fields, and a horizontal mirror relationship that is slightly broken by layered ripples. Light appears to glow from within selected patches rather than falling as a single realistic beam. Keep tiny scale cues sparse and dark so the surrounding pattern feels expansive. The transferable result is an atmospheric, patterned nocturne where color contrast, repeated marks, and softened symmetry provide depth and stillness.",
+  "style_prompt_zh": "以数不清的小矩形颜料痕和发光色点构建图像，让马赛克般的表面在各个平面上都保持可见。主体色场偏深钴蓝、群青和蓝紫，再把暖琥珀、杏色与焦橘集中到少数亮点和宽幅倒影中。形状简化为互相嵌合的块体和清晰剪影。用平静的中央形体、宽阔的周围色场，以及被层层涟漪稍稍打断的水平镜像关系构图。光像从选中的色块内部透出，而不是一道写实光束照下。极小的尺度提示保持稀少且深色，让周围纹样显得开阔。可迁移的结果是一种富于气氛和纹样的夜曲，依靠冷暖对比、重复笔痕与柔化的对称带来纵深和静谧。",
+  "theme_en": "A tiny boat passes an illuminated island house at twilight",
+  "theme_zh": "暮色中一只小船经过亮灯的岛上房屋",
+  "wh_ratio": "1:1",
+  "id": "1838",
+  "name": "Ton Dubbeldam",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/ton-dubbeldam",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/ton-dubbeldam.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "274ee186cb51c8b1563c4b2110a1198769e98c3cb66255d7843106917b3c1777",
+    "gpt_submission_prompt": "A square, richly patterned twilight scene places a compact cluster of blue houses on a low island at the center of a still lake. Their angular roofs and blocklike walls overlap, forming an almost single geometric silhouette. Several square and narrow windows glow orange from within, and a warm wash of light illuminates the left side of the central building. The island rests on a short layered stone platform just above the waterline. A small black rowboat passes in front of it toward the right, with one slender standing figure holding a long pole or oar. The boat's dark shape is cut sharply against a band of copper-colored water. The horizon sits near the middle of the image. Above it, a deep blue sky is filled with tiny flecks and a few isolated gold points; below it, the island and boat are reflected as long blue and orange shapes in glassy water. The reflection is nearly symmetrical but softened into horizontal bands and broken color. The whole surface has a dense mosaic-like texture of small rectangular marks and dots, making the buildings, sky, and water feel assembled from luminous pigment fragments. Cobalt and ultramarine dominate, while the windows, lower sky, and reflection introduce amber, apricot, and burnt orange. The arrangement is quiet and centered, with broad empty bands of water and sky balancing the concentrated island and tiny boat.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "3aea2cf9159f5bec5c4d70ac921645b0d2449c45a702d781a2b4a405449e19d0",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

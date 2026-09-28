@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square fantasy comic illustration shows a young adventurer resting beside a huge blue-green dragon in a sunlit, overgrown clearing. The dragon's enormous head fills the left and upper middle, with rough scales, a pale round eye, and a broad tooth-lined mouth. Small spines run backward from the head into a massive body partly hidden by a tree trunk and foliage. Near the center, a fair-haired young person sits among grasses and broken branches, wearing a muted blue-gray outfit, brown boots, and a warm orange scarf. One hand holds a long narrow staff or sword slanting toward the lower right, while the other stays near a small animal companion perched close to the shoulder. Tiny figures or objects appear high along the dragon's back, but their detail remains indistinct. The foreground is crowded with thin stems, broad leaves, yellow-orange fruitlike circles, stones, and fallen twigs. Behind them, the tree and pale green sky create an irregular canopy. Fine dark ink lines define scales, hair, cloth folds, and vegetation; translucent color and small hatch marks keep the many forms separate. Warm light falls from the upper left, catching the adventurer's hair, the dragon's ridges, and scattered round fruit, while shadows settle beneath the dragon's jaw and in the dense plants. The overall composition is adventurous and companionable, balancing one immense creature with a small human focal point in a richly textured natural setting.",
+  "full_prompt_zh": "这是一幅方形奇幻漫画插画，一位年轻冒险者在阳光下、植物丛生的空地里靠着巨大蓝绿色龙歇息。龙的巨头填满左侧和上方中部，有粗糙鳞片、一只浅色圆眼与布满牙齿的宽嘴。小尖刺沿头后退向庞大身体，身体一部分藏在树干与枝叶后。靠近中央，一位浅发年轻人坐在草和断枝之间，穿低调蓝灰衣服、褐色靴子和暖橙围巾。一只手握着一根细长手杖或剑，斜向右下，另一只靠近肩边的一只小动物伙伴。龙背高处有微小人影或物件，但细节难以辨清。前景挤满细茎、宽叶、黄橙色果状圆点、石块和落枝。其后树木与浅绿天空构成不规则树冠。纤细深墨线界定鳞片、头发、衣褶与植被；半透明色与细小排线让诸多形体互不混淆。暖光从左上方落下，照亮冒险者头发、龙的凸脊和零散圆果，阴影留在龙下颌与密集植物内。整体构图富于冒险与陪伴感，以一只巨大生物平衡繁密自然环境中的小人物焦点。",
+  "style_prompt_en": "The comic illustration combines intricate dark contour drawing with layered muted watercolor-like color. Blue-green, sage, warm ochre, orange, and cream interlock across an extremely dense surface. Large textured masses are broken by small sharp accents, fine hatching, and repeated organic curves. Edges stay clear around key forms but become more tangled in the surrounding detail, giving depth through overlap rather than smooth gradients. Warm sunlight picks out scattered upper surfaces and a small central focus, while recessed areas retain cool dark shadow. The composition is crowded yet legible because major silhouettes differ strongly in scale and value. The overall finish is lively, tactile, and imaginative.",
+  "style_prompt_zh": "这种漫画插画将精密深色轮廓线与层叠低调水彩般色彩结合。蓝绿、鼠尾草绿、暖赭、橙和奶油色在极繁密表面相互交锁。大块带肌理团块被小型锐利强调、细排线和重复有机曲线打断。关键形体周围边缘清楚，周围细节则更纠结，以叠压而非平滑渐层产生纵深。暖日光点亮散布的上表面与一处小型中央焦点，凹处仍保留冷暗阴影。构图拥挤却可读，因为主要剪影在尺度和明度上强烈不同。整体完成面活泼、可触，富于想象力。",
+  "theme_en": "A young adventurer resting beside a huge blue-green dragon",
+  "theme_zh": "年轻冒险者在巨大蓝绿色龙身旁歇息",
+  "wh_ratio": "1:1",
+  "id": "2439",
+  "name": "Ryan Ottley",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/ryan-ottley",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/ryan-ottley.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "83e8e02917750b6ceb75c8f8de039aff9014f7c0e2d418d3203de3cecc405c7d",
+    "gpt_submission_prompt": "A square fantasy comic illustration shows a young adventurer resting beside a huge blue-green dragon in a sunlit, overgrown clearing. The dragon's enormous head fills the left and upper middle, with rough scales, a pale round eye, and a broad tooth-lined mouth. Small spines run backward from the head into a massive body partly hidden by a tree trunk and foliage. Near the center, a fair-haired young person sits among grasses and broken branches, wearing a muted blue-gray outfit, brown boots, and a warm orange scarf. One hand holds a long narrow staff or sword slanting toward the lower right, while the other stays near a small animal companion perched close to the shoulder. Tiny figures or objects appear high along the dragon's back, but their detail remains indistinct. The foreground is crowded with thin stems, broad leaves, yellow-orange fruitlike circles, stones, and fallen twigs. Behind them, the tree and pale green sky create an irregular canopy. Fine dark ink lines define scales, hair, cloth folds, and vegetation; translucent color and small hatch marks keep the many forms separate. Warm light falls from the upper left, catching the adventurer's hair, the dragon's ridges, and scattered round fruit, while shadows settle beneath the dragon's jaw and in the dense plants. The overall composition is adventurous and companionable, balancing one immense creature with a small human focal point in a richly textured natural setting.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "6769025bd9c72135be84d0844452746fc2997bf4f32f6a8df2270837d9669a3e",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

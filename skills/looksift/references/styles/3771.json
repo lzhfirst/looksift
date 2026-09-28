@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square, old-master-like oil painting shows a bearded man in a muted burgundy coat against a deep brown-black interior. He turns in near profile toward the left, his gaze lowered toward a small vessel held near the lower-left edge. The object contains a pale golden glimmer, with delicate branching sparks rising from it. Its light is much weaker than the broad illumination on the man's forehead, nose, and cheek, but it draws attention through its fine points against the dark field. Thick hair expands into a soft dark mass above his face; a full beard merges with the high collar and shadowed neck. The coat's red-brown cloth forms a strong vertical area on the right, with quiet folds and worn tonal variation rather than bright pattern. Behind him, the background carries mottled umber, charcoal, and olive-brown paint but no distinct furnishing. The figure emerges through chiaroscuro: one side of the face is gently lit, while the far cheek, torso, and hair dissolve into darkness. Edges are most precise around the profile and tiny glowing object, then soften or disappear across the shoulders. Subtle scumbling, scratches, and uneven pigment give the painting a timeworn surface. The close framing leaves little open space, yet the shadow around the head creates a pocket of silence. The overall composition balances the man's dark, inward-looking silhouette with one restrained gold accent, producing a contemplative and mysterious mood.",
+  "full_prompt_zh": "一幅方形、近似古典大师油画的作品，把蓄须男子置于深棕黑色室内背景前。他以近侧面的姿态朝左转，目光垂向左下边缘托着的一件小器物。器物里有淡金色微光，细小的分叉火花从中升起。其亮度远弱于落在男子额头、鼻子和脸颊上的宽缓光线，却以暗场中的精细亮点吸引注意。浓密头发在脸上方铺成柔软深色团块；厚胡须与高领、背阴的脖颈融为一体。外套的红褐色布料在右侧形成明显竖向区域，只有安静的衣褶与磨旧般明暗变化，没有鲜亮花纹。身后背景带有斑驳赭棕、炭灰和橄榄棕颜料，却没有明确家具。人物从明暗对照中浮现：脸的一侧温和受光，另一侧脸颊、躯干和头发消融于黑暗。边缘在侧脸轮廓和发光小物附近最精确，经过肩膀时则柔化或消失。细微薄擦、划痕与不均匀颜料使画面呈现经年表面。近距离裁切留下的开阔区域不多，但头部周围的阴影形成寂静的空间。整体以男子深色内省剪影平衡一处克制金色点缀，营造沉思而神秘的气氛。",
+  "style_prompt_en": "A dark old-master-like oil painting language combines close chiaroscuro with a rough, timeworn surface. Umber, charcoal, olive-brown, muted burgundy, and small pale-gold accents keep the palette compressed. Smoothly lit focal planes emerge from dense darkness, while outer contours soften or disappear into the ground. Scumbled pigment, tiny scratches, and uneven layers preserve a tactile patina. Light is concentrated rather than evenly spread, creating quiet volume and a small luminous point within broad shadow. The close, inward composition feels contemplative and faintly uncanny.",
+  "style_prompt_zh": "深色古典大师式油画语言把近距离明暗对照与粗粝的经年表面结合。赭棕、炭灰、橄榄棕、低饱和酒红和少量淡金点缀构成压缩配色。受光中心平面从浓暗中浮现，外围轮廓则柔化或消失在底色里。薄擦颜料、细小划痕与不均匀色层保留可触的旧画包浆。光集中而非均匀铺开，在宽阔阴影中形成安静体积和一处小亮点。紧凑、内向的构图显得沉思而略带诡异。",
+  "theme_en": "A bearded man in a burgundy coat holding a tiny glowing vessel",
+  "theme_zh": "一名穿酒红外套的蓄须男子托着一件微微发光的小器物",
+  "wh_ratio": "1:1",
+  "id": "3771",
+  "name": "Agostino Arrivabene",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/agostino-arrivabene",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "c99b7913361e7fe934839320bdd1634ce8d4e08fb88a85eb1e6601d2eb23ca81",
+    "gpt_submission_prompt": "A square, old-master-like oil painting shows a bearded man in a muted burgundy coat against a deep brown-black interior. He turns in near profile toward the left, his gaze lowered toward a small vessel held near the lower-left edge. The object contains a pale golden glimmer, with delicate branching sparks rising from it. Its light is much weaker than the broad illumination on the man's forehead, nose, and cheek, but it draws attention through its fine points against the dark field. Thick hair expands into a soft dark mass above his face; a full beard merges with the high collar and shadowed neck. The coat's red-brown cloth forms a strong vertical area on the right, with quiet folds and worn tonal variation rather than bright pattern. Behind him, the background carries mottled umber, charcoal, and olive-brown paint but no distinct furnishing. The figure emerges through chiaroscuro: one side of the face is gently lit, while the far cheek, torso, and hair dissolve into darkness. Edges are most precise around the profile and tiny glowing object, then soften or disappear across the shoulders. Subtle scumbling, scratches, and uneven pigment give the painting a timeworn surface. The close framing leaves little open space, yet the shadow around the head creates a pocket of silence. The overall composition balances the man's dark, inward-looking silhouette with one restrained gold accent, producing a contemplative and mysterious mood.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "abc1da326e638a7db2c5e70bc6294b9ae11a7f4946eba02fb74958fcfaf87857",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

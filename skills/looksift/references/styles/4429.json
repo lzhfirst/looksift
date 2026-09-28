@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white documentary photograph shows several children crowded into a rough wooden cart with two shaggy dogs at the front. The cart points toward the viewer, its worn boards and large dark wheels visible beneath the animals. One boy in a cap sits upright behind them and looks directly at the camera, while more children recede in a line toward the left background. Their plain jackets and caps suggest an ordinary working-class street scene from an earlier era. The dogs' light fur stands out against dark clothing and the shadowed cart. The surrounding ground is rough and damp, with indistinct structures and a fabric-covered form behind the group. Natural overcast light creates a broad grayscale range without dramatic highlights. Fine film grain, slight softness at the edges, and deep blacks make the image feel archival but immediate. The low viewpoint brings the cart and dogs close, while the long row of faces establishes depth and communal movement. The children are serious rather than posed as cheerful props; the image's warmth comes from their closeness and the dogs' presence. The whole frame carries a candid, human documentary quality with strong tonal structure and visible historical texture.",
+  "full_prompt_zh": "一幅方形黑白纪实照片呈现几个孩子挤在简陋木车上，两只毛茸茸的狗坐在最前面。木车朝向观者，动物下方可见磨旧的木板和大而深色的车轮。一个戴帽男孩坐在狗后面，正面看向相机；更多孩子向左后方排成一列。他们朴素的夹克和帽子让场景像旧时代寻常工人街道的一幕。狗的浅色皮毛从深色衣装和阴影里的木车前突出。周围地面粗糙而潮湿，后方有模糊建筑和被布覆盖的形体。阴天自然光形成宽广灰阶，没有夸张高光。细微胶片颗粒、边缘轻微柔化和深黑色让影像既像档案又有现场感。低机位使木车与狗贴近，长长一列面孔则建立纵深和共同前行的感觉。孩子们神情认真，而非被摆成欢乐道具；温暖来自彼此靠近和狗的陪伴。整幅画有人味的抓拍纪实气质，明暗结构有力，历史质感可见。",
+  "style_prompt_en": "A vintage black-and-white documentary photography style favors a low, close viewpoint and a chain of repeated forms receding into depth. Overcast daylight gives a broad but restrained grayscale range, with pale tactile highlights against deep clothing and ground shadows. Fine film grain, modest softness, worn surfaces, and candid expressions create archival immediacy. The foreground object or figures feel close and substantial; the background line becomes progressively smaller and less distinct. Composition emphasizes shared presence and ordinary life without theatrical posing. Strong blacks anchor the frame while mid-gray textures keep wood, fabric, fur, or other materials legible.",
+  "style_prompt_zh": "复古黑白纪实摄影风格偏爱低而近的机位，让一串重复形体向远处后退。阴天自然光给出宽广却克制的灰阶，浅色可触高光与深色衣物、地面暗影对照。细微胶片颗粒、适度柔化、磨旧表面和抓拍神情形成档案般的现场感。前景物件或人物贴近而有分量，背景队列则逐渐缩小、变淡。构图强调共同在场与寻常生活，没有戏剧性摆拍。深黑色稳住画框，中灰肌理让木头、布料、毛发或其他材质清楚可读。",
+  "theme_en": "Children and shaggy dogs riding in a rough wooden cart, vintage black-and-white photograph",
+  "theme_zh": "孩子们与毛茸茸的狗坐在简陋木车上，复古黑白纪实摄影",
+  "wh_ratio": "1:1",
+  "id": "4429",
+  "name": "W. Eugene Smith",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/w-eugene-smith.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "c6fc8a9522ebb65f99b09f366b0aa6e8b1f4f017ec271895ed46d2ac0667fcf6",
+    "gpt_submission_prompt": "A square black-and-white documentary photograph shows several children crowded into a rough wooden cart with two shaggy dogs at the front. The cart points toward the viewer, its worn boards and large dark wheels visible beneath the animals. One boy in a cap sits upright behind them and looks directly at the camera, while more children recede in a line toward the left background. Their plain jackets and caps suggest an ordinary working-class street scene from an earlier era. The dogs' light fur stands out against dark clothing and the shadowed cart. The surrounding ground is rough and damp, with indistinct structures and a fabric-covered form behind the group. Natural overcast light creates a broad grayscale range without dramatic highlights. Fine film grain, slight softness at the edges, and deep blacks make the image feel archival but immediate. The low viewpoint brings the cart and dogs close, while the long row of faces establishes depth and communal movement. The children are serious rather than posed as cheerful props; the image's warmth comes from their closeness and the dogs' presence. The whole frame carries a candid, human documentary quality with strong tonal structure and visible historical texture.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "c0ed8ee9d1756ec62a8c9f639bad3785e7b4942fef8fbbbadb496e3f4831d4d0",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

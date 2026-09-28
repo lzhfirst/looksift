@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white fashion photograph shows a young woman's face emerging from the shadow of a broad woven hat. The hat sweeps diagonally across the entire upper left and center of the composition, its close textured weave catching pale highlights along the brim. Beneath it, dark hair falls partly over the eyes. The woman turns her head toward the right and slightly upward, so her face appears in a sharp three-quarter view. One eye is mostly hidden, while the other looks out from the shade beneath the brim. Her nose and cheek are luminous against the surrounding darkness, and her lips are parted and painted almost black. The lower edge of the face and neck disappear into a deep black garment or background. The photograph is tightly cropped, leaving no environmental setting. A narrow pale strip near the right edge separates the face from the black field and helps define the lifted chin. Strong directional light grazes the skin from the right, making a smooth silver gradient on the cheek and jaw while leaving the eyes in shadow. The woven hat has a coarse granular surface, distinct from the smooth skin and soft hair. Fine film grain, slight softness in the shadow, and very deep blacks produce a vintage print quality. The composition is all close diagonal hat brim, half-concealed gaze, and pale profile, giving the still pose an elegant, cinematic tension.",
+  "full_prompt_zh": "一幅方形黑白时尚照片呈现一名年轻女子的脸从宽大编织帽的阴影里浮现。帽子斜扫整幅画面的左上和中央，近处粗织纹在帽檐边接住浅色高光。帽下深发部分垂过双眼。女子把头向右并略向上转，因此面孔呈鲜明的四分之三角度。一只眼几乎被遮住，另一只从帽檐阴影里望出。鼻子和脸颊在周围黑暗前发亮，微张嘴唇涂成近黑。脸下缘和颈部消失在深黑衣服或背景中。照片裁切紧密，没有环境场景。右边缘附近一条狭窄浅色区域把面孔与黑底隔开，帮助界定抬起的下巴。强烈方向光从右侧擦过皮肤，在脸颊和下颌形成平滑银色渐变，让眼睛仍留在阴影中。编织帽有粗颗粒表面，与平滑肌肤和柔软头发分明。细胶片颗粒、阴影里的轻微软化和极深黑色形成复古印相质地。构图全部由斜向近帽檐、半遮的目光与浅亮侧脸组成，使静止姿态具有优雅的电影张力。",
+  "style_prompt_en": "High-contrast black-and-white fashion photography uses a close diagonal dark plane to partly conceal a luminous focal form. Strong side light grazes smooth skin while leaving eyes and surrounding material in deep shadow. Keep coarse woven or granular texture distinct from soft hair and silvery tonal gradients. Tight cropping removes the setting, and a small pale edge can clarify the lifted profile. Fine film grain and slight shadow softness make the print feel vintage and cinematic. The mood is elegant, mysterious, and controlled.",
+  "style_prompt_zh": "高反差黑白时尚摄影用贴近的斜向暗平面部分遮住发亮焦点。强侧光擦过平滑肌肤，让眼睛与周围材料留在深阴影。粗织或颗粒纹理应与柔发、银灰渐变分明。紧密裁切去掉环境，一小条浅边可界定抬起的侧影。细胶片颗粒和阴影轻微软化让印相具有复古电影感。气氛优雅、神秘且受控。",
+  "theme_en": "A woman's face beneath a broad dark woven hat in high-contrast monochrome",
+  "theme_zh": "高反差黑白画面中，女子面孔藏在宽大深色编织帽下",
+  "wh_ratio": "1:1",
+  "id": "1834",
+  "name": "Kishin Shinoyama",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/kishin-shinoyama",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/kishin-shinoyama.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "e3bc6873e0b1730b131e4d85b170a2a24c21151444ad88f50e220d492d321961",
+    "gpt_submission_prompt": "A square black-and-white fashion photograph shows a young woman's face emerging from the shadow of a broad woven hat. The hat sweeps diagonally across the entire upper left and center of the composition, its close textured weave catching pale highlights along the brim. Beneath it, dark hair falls partly over the eyes. The woman turns her head toward the right and slightly upward, so her face appears in a sharp three-quarter view. One eye is mostly hidden, while the other looks out from the shade beneath the brim. Her nose and cheek are luminous against the surrounding darkness, and her lips are parted and painted almost black. The lower edge of the face and neck disappear into a deep black garment or background. The photograph is tightly cropped, leaving no environmental setting. A narrow pale strip near the right edge separates the face from the black field and helps define the lifted chin. Strong directional light grazes the skin from the right, making a smooth silver gradient on the cheek and jaw while leaving the eyes in shadow. The woven hat has a coarse granular surface, distinct from the smooth skin and soft hair. Fine film grain, slight softness in the shadow, and very deep blacks produce a vintage print quality. The composition is all close diagonal hat brim, half-concealed gaze, and pale profile, giving the still pose an elegant, cinematic tension.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "dca0b2c61ed4e3a7e053dcadb0c4142721d6cc986088677cb45d95e19ac6d740",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A warmly intimate color photograph shows an older person seated indoors, listening through bright pink over-ear headphones. The figure is cropped from the waist upward and leans over a table, one hand lifted to adjust thin pink eyeglasses while the other rests near a small device and its headphone cord. Curly gray hair catches soft light beneath the headphones. Their satinlike pink outfit is richly patterned with pale embroidery and reflective threads, echoing the colored frames and ear cups. The face is angled downward in concentration, making the moment feel private and absorbed rather than posed. A dark, softly blurred room surrounds the person; a decorative chair back and a few indistinct household objects remain visible without drawing attention from the gesture. Warm amber light touches the forehead, fingers, and folds of fabric, while deeper burgundy and brown shadows fill the rear of the frame. The pinks range from bright candy color to muted rose and dusty mauve, forming a strong but not uniform color family. The photograph has shallow depth of field, gentle grain, and natural uneven lighting, with crisp detail concentrated on hands, glasses, and embroidered cloth. Its composition makes an ordinary listening gesture feel vivid and tender, balancing saturated color against the quiet concentration of the subject.",
+  "full_prompt_zh": "一张温暖而亲近的彩色照片，拍下一位年长者坐在室内，通过亮粉色包耳耳机聆听。人物从腰部以上入画，俯身靠近桌面，一只手抬起调整细框粉色眼镜，另一只手停在小设备及耳机线附近。灰色卷发在耳机下接住柔光。带有缎面光泽的粉色服装布满浅色刺绣与反光线，与彩色镜框和耳罩相互呼应。脸向下倾，神情专注，使这一刻显得私密而沉浸，并非摆拍。深色、柔焦的房间围住人物；装饰性的椅背和几件模糊家居物件仍可见，却不抢走手势的注意力。暖琥珀光碰到额头、手指和布料褶皱，更深的酒红与棕色阴影填满后方。粉色从鲜亮糖果色到低调玫瑰色、灰紫粉，组成鲜明但并不单调的色系。照片景深较浅，颗粒柔和，光线自然且不均匀，清晰细节集中在手、眼镜和绣花布料上。构图让普通的聆听动作变得鲜活而温柔，以饱和色彩平衡人物安静的专注。",
+  "style_prompt_en": "Intimate color photography with shallow depth of field, gentle grain, and warm uneven interior light. Saturated pink and rose accents repeat across the central area, set against burgundy, brown, and softly blurred darkness. Small highlights glint on smooth reflective surfaces, while embroidered or patterned textures keep the lit region tactile. The crop is close and human, with the clearest details clustered around a modest gesture; background objects remain suggestive. Light falls naturally across curved forms and folds, creating a tender, absorbed mood without a polished studio finish.",
+  "style_prompt_zh": "亲近的彩色摄影风格，景深较浅，颗粒柔和，室内暖光不均匀地落下。饱和粉与玫瑰色点缀在中心区域重复，背景则是酒红、棕色与柔焦暗部。细小高光在平滑反光面上闪动，刺绣或花纹肌理让受光部分保持触感。裁切贴近人的距离，最清晰的细节聚集在一个低调手势周围；背景物件只作暗示。光自然地掠过曲面和褶皱，形成温柔、沉浸的气氛，不带过度打磨的影棚感。",
+  "theme_en": "An older listener in pink headphones and patterned clothes",
+  "theme_zh": "戴粉色耳机、穿花纹衣服的年长聆听者",
+  "wh_ratio": "1:1",
+  "id": "1184",
+  "name": "Harmony Korine",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/harmony-korine",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/harmony-korine.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "aadffe5671bc377d5d8e93c1af6c13258f24a895fc720f8b479747feb9f7587f",
+    "gpt_submission_prompt": "A warmly intimate color photograph shows an older person seated indoors, listening through bright pink over-ear headphones. The figure is cropped from the waist upward and leans over a table, one hand lifted to adjust thin pink eyeglasses while the other rests near a small device and its headphone cord. Curly gray hair catches soft light beneath the headphones. Their satinlike pink outfit is richly patterned with pale embroidery and reflective threads, echoing the colored frames and ear cups. The face is angled downward in concentration, making the moment feel private and absorbed rather than posed. A dark, softly blurred room surrounds the person; a decorative chair back and a few indistinct household objects remain visible without drawing attention from the gesture. Warm amber light touches the forehead, fingers, and folds of fabric, while deeper burgundy and brown shadows fill the rear of the frame. The pinks range from bright candy color to muted rose and dusty mauve, forming a strong but not uniform color family. The photograph has shallow depth of field, gentle grain, and natural uneven lighting, with crisp detail concentrated on hands, glasses, and embroidered cloth. Its composition makes an ordinary listening gesture feel vivid and tender, balancing saturated color against the quiet concentration of the subject.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "32580accc4391cb6b061a7a65a2bbbef3e043f48402055e6f3c2fbdd05846c21",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

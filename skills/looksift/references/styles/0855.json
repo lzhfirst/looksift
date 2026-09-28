@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square satirical watercolor and ink illustration shows a tall thin man in a black coat and exaggerated high top hat standing stiffly before a crowd of tiny onlookers. He occupies the center, his angular profile turned to the right, with a long nose, sharp chin, and a narrow white shirt front beneath the dark coat. One hand rests on the handle of a long curved cane, which reaches the ground beside a small black case edged in ocher. A reddish band wraps the base of his hat and becomes one of the only strong colors in his clothing. Behind him, dozens of miniature faces and bodies form a dense low mound stretching from left to right. Their heads are drawn with tiny, restless ink marks and a few faded ocher and gray washes, so the group appears busy but not individually defined. The crowd gradually dissolves into sketchy stains and open white paper toward the edges. A faint suggestion of building lines or poles appears behind the people at the left, but the background remains mostly blank. Light is broad and neutral, creating minimal shadows beneath the man's shoes and around the case. The central coat is a strong upright black mass against the pale page, while the crowd supplies irregular fine texture below. The illustration feels dryly comic and slightly ominous, turning an unequal scale relationship into a simple, memorable scene.",
+  "full_prompt_zh": "一幅方形讽刺水彩墨线插画描绘一名瘦高男子穿黑外套、戴夸张高礼帽，僵直地站在一群微小围观者前。他占据中央，棱角侧脸转向右方，有长鼻、尖下巴，深色外套下露出窄白衬衫前襟。一只手放在长弯手杖的柄上，手杖落到地面，旁边是一个边缘带赭色的小黑箱。帽子底部绕着红色带子，是衣服里少数强色之一。身后，几十张微小面孔和身体组成从左到右铺开的低矮密集土丘。他们的头由细碎躁动墨痕和少量褪色赭黄、灰色洗色构成，因此整体繁忙而不逐个明确。人群向边缘逐渐消散成速写色渍与开放纸白。左侧人群后淡淡露出楼房线条或杆件，但背景大部分空白。光宽广中性，仅在男子鞋下和小箱周围留下少量阴影。中央外套形成浅纸前强烈竖向黑体块，下方人群则提供不规则细肌理。插画带干冷幽默且略显不祥，把不对等尺度关系化成简洁难忘的场景。",
+  "style_prompt_en": "Satirical ink and watercolor illustration sets a tall, decisively dark silhouette against a wide pale paper field. A dense low band of many tiny marks creates contrast with the clean central vertical, then fragments gradually toward the edges. Fine restless contours, short hatching, and diluted gray ocher washes make the smaller forms feel lively without needing full detail. One restrained warm red accent interrupts the charcoal and cream palette. Surfaces remain sketchy and paper textured, with intentional gaps where the wash has not filled the linework. Broad even light gives the composition clarity; only shallow shadows sit under grounded edges. Scale exaggeration and graphic economy do the expressive work. The mood is wry, slightly uneasy, and airy despite the crowded lower texture.",
+  "style_prompt_zh": "讽刺墨线水彩插画把一道高而果断的深色剪影放在宽阔浅色纸面前。由许多微小痕迹构成的低矮密集带与清楚的中央竖线形成对比，再向边缘渐渐碎裂。细而躁动的轮廓、短排线和稀释的灰赭洗色让较小形体活跃，却不需要逐一细描。一处克制暖红重音打断炭黑与奶油白色域。表面保持速写和纸张肌理，洗色未填满线条之处有意留白。宽广均匀光使构图清楚，只有浅影停在落地边缘下。尺度夸张与图形经济承担表达。气氛讥诮、略微不安，但尽管下方肌理拥挤，整体仍通透。",
+  "theme_en": "Tall top hatted man standing before a crowded mass of small onlookers",
+  "theme_zh": "高礼帽男子站在密集的微小围观者前",
+  "wh_ratio": "1:1",
+  "id": "0855",
+  "name": "Alan Moir",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/alan-moir",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/alan-moir.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "7f9796cdbf1fcfdfc95cd3994f918cbf80ff1e77461197471f922cdca0e8d639",
+    "gpt_submission_prompt": "A square satirical watercolor and ink illustration shows a tall thin man in a black coat and exaggerated high top hat standing stiffly before a crowd of tiny onlookers. He occupies the center, his angular profile turned to the right, with a long nose, sharp chin, and a narrow white shirt front beneath the dark coat. One hand rests on the handle of a long curved cane, which reaches the ground beside a small black case edged in ocher. A reddish band wraps the base of his hat and becomes one of the only strong colors in his clothing. Behind him, dozens of miniature faces and bodies form a dense low mound stretching from left to right. Their heads are drawn with tiny, restless ink marks and a few faded ocher and gray washes, so the group appears busy but not individually defined. The crowd gradually dissolves into sketchy stains and open white paper toward the edges. A faint suggestion of building lines or poles appears behind the people at the left, but the background remains mostly blank. Light is broad and neutral, creating minimal shadows beneath the man's shoes and around the case. The central coat is a strong upright black mass against the pale page, while the crowd supplies irregular fine texture below. The illustration feels dryly comic and slightly ominous, turning an unequal scale relationship into a simple, memorable scene.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "861f61c07424f624e5264f23b53cf3a90398f310dbd295456f002db9ee5ade72",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

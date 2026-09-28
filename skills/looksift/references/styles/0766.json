@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square graphic-novel portrait shows a broad-shouldered red-skinned horned investigator in three-quarter view against a pale sketched city. The tops of his horns are flat and dark, like blunt circular stumps. Small round goggles with brown-red lenses rest over his eyes, and a heavy dark coat with an upturned collar wraps his shoulders. Thick black sideburns and beard shadow frame a stern, thoughtful face, whose red planes are divided by dense ink hatching and deep black contours. Behind him, ornate old stone facades, arches, windows, and a narrow street appear as finely drawn sepia linework on cream paper. The city is deliberately lower contrast, so the saturated red head and near-black coat push forward. The figure fills the left and central area, cropped at the chest; the right half leaves more breathing space for architectural drawing. Light comes from the upper left, catching the brow, cheek, nose, and collar while the lower face and coat fall into strong shadow. The style mixes polished comic anatomy with rough engraved texture, pencil-like background marks, and lightly stained paper. The result feels darkly cinematic and tactile rather than flat. A few red accents repeat in the background, connecting foreground and setting. There are no captions, speech balloons, or title lettering.",
+  "full_prompt_zh": "一幅方形图像小说人物画中，宽肩红肤断角调查者以四分之三视角立在浅色旧城线稿前。双角顶端平而深，像钝圆断桩。小圆护目镜以棕红镜片罩眼，厚重深色外套立领包住双肩。浓黑鬓毛与胡影围住严肃思索的脸，红色面由密集墨排线和深黑轮廓分割。身后华丽旧石建筑立面、拱、窗和窄街以奶油纸上的精细棕褐线条出现。城市刻意低反差，使饱和红头与近黑外套向前推出。人物填满左侧与中央，从胸部截切；右半为建筑线稿留出更多呼吸空间。光来自左上，擦亮眉、颊、鼻和衣领，下半脸与外套落入强影。画风把精确漫画解剖与粗糙版画肌理、铅笔般背景笔记和轻染旧纸混合。结果黑暗、有电影感且可触，而非平面。几处红色重音在背景重现，连接前景与环境。没有字幕、对话气泡或标题文字。",
+  "style_prompt_en": "Graphic-novel illustration with heavy black contour masses, dense engraved hatching, and a restrained cream-sepia drawing field. One saturated warm focal color pushes forward against fine low-contrast background linework. Cropped monumental anatomy, sharp selective light, rough paper stain, and pencil-like architectural marks create tactile cinematic depth. Dark clothing-like shapes and small repeated color accents tie the layered composition together.",
+  "style_prompt_zh": "图像小说插画结合厚重黑轮廓团、密集版画式排线与克制奶油棕褐线稿色场。一处饱和暖焦色从细微低反差背景线中向前突出。截切的巨大解剖形体、锐利选择性光、粗旧纸污痕和铅笔般构形笔记形成可触电影纵深。深色块与重复的小彩色重音连接层叠构图。",
+  "theme_en": "A red-skinned horned investigator before a sketched old city",
+  "theme_zh": "旧城线稿前红肤断角调查者",
+  "wh_ratio": "1:1",
+  "id": "0766",
+  "name": "Dan Abnett",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/dan-abnett",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/dan-abnett.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "f5dad1597e3d4fe642166d1212d0336fb793dfed4602dafff0579354412da66a",
+    "gpt_submission_prompt": "A square graphic-novel portrait shows a broad-shouldered red-skinned horned investigator in three-quarter view against a pale sketched city. The tops of his horns are flat and dark, like blunt circular stumps. Small round goggles with brown-red lenses rest over his eyes, and a heavy dark coat with an upturned collar wraps his shoulders. Thick black sideburns and beard shadow frame a stern, thoughtful face, whose red planes are divided by dense ink hatching and deep black contours. Behind him, ornate old stone facades, arches, windows, and a narrow street appear as finely drawn sepia linework on cream paper. The city is deliberately lower contrast, so the saturated red head and near-black coat push forward. The figure fills the left and central area, cropped at the chest; the right half leaves more breathing space for architectural drawing. Light comes from the upper left, catching the brow, cheek, nose, and collar while the lower face and coat fall into strong shadow. The style mixes polished comic anatomy with rough engraved texture, pencil-like background marks, and lightly stained paper. The result feels darkly cinematic and tactile rather than flat. A few red accents repeat in the background, connecting foreground and setting. There are no captions, speech balloons, or title lettering.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "84fd7044be725be538e977469c5b612e5440cd3445846dfce5599a776a04ba99",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square experimental fashion portrait shows a woman with softly curled short hair and closed eyes, her face tilted slightly down. One hand rises along the left side of her face, red-painted fingertips touching the temple and cheek. Her lips are also a muted red, the strongest small color accent in an otherwise yellow-green, charcoal, and gray image. Dramatic studio light from upper left washes one side of the face in warm yellow while the other side falls into deep cool shadow. The bridge of the nose, eyelids, and fingers create a rhythm of soft curves and sharp tonal edges. A dark garment fills the lower frame and merges into the surrounding nearly black field. The background is diffuse, with a faint cool green glow behind the head and a soft vignette at the corners. Grain, slight optical blur, and aged color shifts make the image feel like an altered vintage print rather than a clean digital portrait. The framing is close, cropping the shoulders and leaving little context. The closed eyes and gentle hand contact make the composition inward and still, while the split lighting gives it graphic force.",
+  "full_prompt_zh": "一张方形实验性时装肖像呈现一位短卷发女性，双眼轻闭，脸微微向下。一只手沿面部左侧抬起，涂红色指甲的指尖触在太阳穴与面颊。嘴唇也带低调红色，是黄绿、炭黑和灰色影像中最强的小面积色彩重点。来自左上方的戏剧性影棚光把面部一侧洗成暖黄色，另一侧落入深冷影。鼻梁、眼睑和手指形成柔曲线与锐利调子边的节奏。深色衣服填满下方并融入周围近黑区域。背景漫散，头后有淡冷绿亮晕，角落轻微变暗。颗粒、少量光学模糊和老化色偏让图像像经过加工的复古印相，而非洁净数字肖像。取景近，裁掉肩部，没有多少情境。闭眼与温柔触脸使构图内向而静止，分裂式照明则带来图形力量。",
+  "style_prompt_en": "Experimental vintage fashion photography with severe split lighting, soft optical blur, aged yellow-green color drift, and selective muted red accents. Warm luminous planes meet deep cool shadow along expressive curved edges. Fine grain, a faint vignette, and close cropping create tactile intimacy. The image relies on emotional stillness and graphic light division rather than a detailed setting.",
+  "style_prompt_zh": "实验性复古时装摄影，以强烈分裂照明、柔和光学模糊、老化黄绿色偏和少量低调红色点缀构成。暖亮平面沿富于表情的曲边与深冷影相接。细颗粒、淡晕影和近距离裁切带来可触的亲密感。图像依靠内在静止与图形化光分界，而不是复杂场景。",
+  "theme_en": "A woman with closed eyes and a hand against her cheek",
+  "theme_zh": "一位闭眼、手贴面颊的女性",
+  "wh_ratio": "1:1",
+  "id": "4505",
+  "name": "Erwin Blumenfeld",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/erwin-blumenfeld.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "b8c0aec2a9776a0e8064abeca86402b5119364dafafc92aea262c7bf109b7f5d",
+    "gpt_submission_prompt": "A square experimental fashion portrait shows a woman with softly curled short hair and closed eyes, her face tilted slightly down. One hand rises along the left side of her face, red-painted fingertips touching the temple and cheek. Her lips are also a muted red, the strongest small color accent in an otherwise yellow-green, charcoal, and gray image. Dramatic studio light from upper left washes one side of the face in warm yellow while the other side falls into deep cool shadow. The bridge of the nose, eyelids, and fingers create a rhythm of soft curves and sharp tonal edges. A dark garment fills the lower frame and merges into the surrounding nearly black field. The background is diffuse, with a faint cool green glow behind the head and a soft vignette at the corners. Grain, slight optical blur, and aged color shifts make the image feel like an altered vintage print rather than a clean digital portrait. The framing is close, cropping the shoulders and leaving little context. The closed eyes and gentle hand contact make the composition inward and still, while the split lighting gives it graphic force.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "4fb3aa87cc021c143163c91ee5fee4b19567829d13eff8566f68c13ea89ebef7",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

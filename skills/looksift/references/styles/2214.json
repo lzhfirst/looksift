@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square monochrome fantasy illustration looks along a still dark waterway toward a luminous grove. Massive rounded tree canopies arch together over the upper frame like a natural tunnel, leaving a nearly black opening behind the white trunks on the right. More trees recede along the left bank, their clustered foliage fading into misty grey. A sloping pale path curves down to the water from the right, where a tiny dark figure stands near a trunk. Near the lower center, a small narrow boat carries dark silhouettes across the water. Their reflections and the pale tree trunks appear in broken vertical streaks below. The sky is mostly hidden by the canopy, and the far end of the passage glows with soft silver light. Ink-like stippling and granular shading build the foliage; fine lines define trunks and bank edges, while the water is smoother and almost black. Light seems to enter from the distant opening, brightening the far cloud of foliage and the near pale path without a hard directional shadow. The rounded canopy forms repeat at different scales, giving the scene a dreamlike rhythm around the narrow central passage. No readable lettering appears. The overall image is hushed and otherworldly, balancing deep black water and shadow with a softly radiant white grove.",
+  "full_prompt_zh": "一幅方形黑白奇幻插画沿平静的深色水道望向发亮林地。巨大的圆团树冠在画幅上方相接，如一条天然隧道，右侧白色树干后留着近黑开口。更多树木沿左岸后退，成簇树叶逐渐淡入雾灰。右侧一条浅色斜路弯向水边，一道极小深影站在树干附近。下方中央附近，一只狭长小船载着深色剪影划过水面。它们的倒影和浅色树干在下方化作断续竖纹。天空大多被树冠遮住，通道远端发出柔银光。似墨点的点描和颗粒阴影堆起树叶；细线定义树干与岸缘，水面则更平滑、近乎黑色。光仿佛从远处开口进入，照亮远端云团般的树叶和近处浅路，却不留下生硬方向影。圆团树冠以不同尺度重复，围绕狭窄中央通道形成梦境般节奏。没有可辨认文字。整体图像寂静而异世，以深黑水面和阴影平衡柔和发亮的白色林地。",
+  "style_prompt_en": "A monochrome ink-like illustration builds rounded nested masses from stipple, grain, and soft grey wash. Thin linear structures thread through the dense forms, and pale paths curve between near-black openings. Light gathers toward a distant central gap, turning nearby pale surfaces radiant while leaving large lower and upper areas in deep shadow. Smooth dark reflective bands counter the grainy clustered textures above them. Repeated arcs at varied scales create a tunnel rhythm and a sense of gentle depth. Edges alternate between crisp fine line and fog-softened wash. The result is hushed and fantastical, with a strong black-white value design and delicate handworked surface.",
+  "style_prompt_zh": "近似水墨的单色插画以点描、颗粒和柔灰薄涂堆出层层圆团形。纤细线状结构穿过浓密形体，浅色曲径从近黑开口间穿行。光聚向远方中央间隙，使附近浅色表面发亮，让上方与下方大片区域留在深影中。平滑深色反射带对照其上颗粒状团簇纹理。不同尺度反复的弧线形成隧道节奏和温柔深度。边缘在清晰细线与雾化薄涂之间交替。结果寂静且奇幻，黑白明度设计鲜明，手工表面细腻。",
+  "theme_en": "A quiet passage into a pale enchanted grove",
+  "theme_zh": "通向苍白魔法林地的安静水路",
+  "wh_ratio": "1:1",
+  "id": "2214",
+  "name": "Sidney Sime",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/sidney-sime",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/sidney-sime.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "58f313658f62eb6a7e976ce9ab8eff4a3b3c9a30c7b2c67249cbf18ce4110b2f",
+    "gpt_submission_prompt": "A square monochrome fantasy illustration looks along a still dark waterway toward a luminous grove. Massive rounded tree canopies arch together over the upper frame like a natural tunnel, leaving a nearly black opening behind the white trunks on the right. More trees recede along the left bank, their clustered foliage fading into misty grey. A sloping pale path curves down to the water from the right, where a tiny dark figure stands near a trunk. Near the lower center, a small narrow boat carries dark silhouettes across the water. Their reflections and the pale tree trunks appear in broken vertical streaks below. The sky is mostly hidden by the canopy, and the far end of the passage glows with soft silver light. Ink-like stippling and granular shading build the foliage; fine lines define trunks and bank edges, while the water is smoother and almost black. Light seems to enter from the distant opening, brightening the far cloud of foliage and the near pale path without a hard directional shadow. The rounded canopy forms repeat at different scales, giving the scene a dreamlike rhythm around the narrow central passage. No readable lettering appears. The overall image is hushed and otherworldly, balancing deep black water and shadow with a softly radiant white grove.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "0dab8a4b53a2b43f0f8ba8447e881300c8a2f7744e7e011c4b429859385d8c85",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

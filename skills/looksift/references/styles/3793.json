@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square hand-drawn television-cartoon scene shows an awkward meeting inside a modest office. On the left, a long-faced visitor in a green uniform and peaked cap sits upright in a worn brown upholstered chair, knees together and hands low. Across a wooden desk on the right, a pale greenish clerk in a white shirt and black tie sits back in another chair, facing the visitor with a tired, matter-of-fact expression. A small yellow shape rests on the clerk's head, adding an absurd visual note. The desk carries a few papers and small office objects, while a radio or electronic unit and a simple lamp sit farther back. Behind them, a round wall clock hangs high on a muted green-brown wall, with a framed picture and a few loose marks completing the room. The figures are built from simple, slightly exaggerated shapes and sparse facial features. Thin, mildly wobbly ink lines define the bodies and furniture; flat low-saturation greens, tans, and browns fill the shapes. Scratchy pencil-like shading appears in the wall, chair fabric, and desk edges, giving the otherwise plain color some texture. The lighting is flat and indoor, with no strong cast shadow; differences in value keep the seated figures separate from the murky wall. The side-on arrangement turns the desk into a visual barrier, leaving a small quiet gap between the two people. The overall composition is dry, restrained, and faintly ridiculous, using everyday office geometry and economical character drawing to support the humor.",
+  "full_prompt_zh": "一幅方形手绘电视卡通场景描绘一间普通办公室里的尴尬会面。左侧，一名长脸访客穿绿色制服、戴有檐帽，端正坐在磨旧的棕色软椅中，双膝靠近、双手放低。右侧木桌对面，一名浅绿色调的职员穿白衬衫、系黑领带，靠坐在另一张椅子上，以疲倦而公事公办的神情面对访客。职员头顶有一小块黄色形态，加入荒诞的视觉细节。桌上有几张纸和小办公物件，后方有收音或电子设备与一盏简单的灯。两人身后，圆形挂钟高悬于低饱和绿褐墙面，旁边有带框图片和零散痕迹。人物由简化、略经夸张的形状和稀疏五官构成。细而略有摇摆的墨线勾出身体与家具；平坦低饱和的绿、黄褐与棕色填入形状。墙壁、椅面和桌边带铅笔般刮擦阴影，使原本朴素的色块有些肌理。室内光平而均匀，没有强烈投影；明度差异使坐姿人物从昏暗墙面前分离。侧向安排使书桌成为视觉隔断，两人之间留有小小的安静间隙。整体构图冷面、克制，又有一点荒谬，以普通办公室几何结构和简练人物绘制承载幽默。",
+  "style_prompt_en": "A dry hand-drawn television-cartoon style with simple exaggerated shapes, sparse expressive features, and thin slightly uneven contours. Flat, muted greens, tans, browns, and dusty warm accents fill compact interior planes. Scratchy pencil-like shading adds texture to otherwise plain surfaces, while lighting remains broad and low in contrast. Everyday geometry organizes a shallow, side-on space, and small awkward gaps between focal shapes carry comic timing. The finish is economical, lightly rough, and deliberately unglamorous.",
+  "style_prompt_zh": "冷面手绘电视卡通风格，以简化夸张形状、稀疏却有表情的特征和细而略不均匀的轮廓构成。平坦低饱和的绿、黄褐、棕色及带灰的暖色点缀填入紧凑平面。铅笔般刮擦阴影为朴素表面增加肌理，光线则宽缓而低反差。日常几何组织浅而侧向的空间，视觉中心之间略显尴尬的小间隙承载喜剧节奏。成品简练、轻微粗糙，并有意不作华丽修饰。",
+  "theme_en": "An awkward office meeting with a uniformed visitor and a weary clerk",
+  "theme_zh": "一场尴尬的办公室会面：制服访客坐在疲惫职员对面",
+  "wh_ratio": "1:1",
+  "id": "3793",
+  "name": "Mike Judge",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/mike-judge",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "39323697a3b69d3260e7fa148200d63f00ef0a56068dc3bc71fbaaa2353876ae",
+    "gpt_submission_prompt": "A square hand-drawn television-cartoon scene shows an awkward meeting inside a modest office. On the left, a long-faced visitor in a green uniform and peaked cap sits upright in a worn brown upholstered chair, knees together and hands low. Across a wooden desk on the right, a pale greenish clerk in a white shirt and black tie sits back in another chair, facing the visitor with a tired, matter-of-fact expression. A small yellow shape rests on the clerk's head, adding an absurd visual note. The desk carries a few papers and small office objects, while a radio or electronic unit and a simple lamp sit farther back. Behind them, a round wall clock hangs high on a muted green-brown wall, with a framed picture and a few loose marks completing the room. The figures are built from simple, slightly exaggerated shapes and sparse facial features. Thin, mildly wobbly ink lines define the bodies and furniture; flat low-saturation greens, tans, and browns fill the shapes. Scratchy pencil-like shading appears in the wall, chair fabric, and desk edges, giving the otherwise plain color some texture. The lighting is flat and indoor, with no strong cast shadow; differences in value keep the seated figures separate from the murky wall. The side-on arrangement turns the desk into a visual barrier, leaving a small quiet gap between the two people. The overall composition is dry, restrained, and faintly ridiculous, using everyday office geometry and economical character drawing to support the humor.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "ac3a9f809c0600c07368572421c1a5ed7e64dfbe0d49d51d461e150f5837908b",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

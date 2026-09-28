@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square expressionist landscape painting builds a grove of stylized trees from heavy black trunks, flattened green canopies, and angular blocks of saturated land. The tallest tree stands slightly left of center, its dark vertical trunk rising into a broad irregular crown with teal-green top and almost black lower edge. Two smaller trees echo it on the right and lower left, their canopies simplified into horizontal green wedges held on forked black branches. Behind them, steep house-like or hillside planes interlock in bright yellow, rust red, orange, coral, and dark charcoal. A blue-green strip cuts through the center-right, suggesting a valley or path, while dark green low masses fill the bottom. The upper right holds a limited patch of coarse turquoise sky. Forms are clearly outlined in black and do not obey delicate natural perspective; instead, the color fields stack and collide like cut pieces. Paint appears thick and dry, with a sandy granular surface and uneven brush edges. A bright yellow plane behind the central tree acts as the main light, making the black branch structure and cool green foliage pop. Shadows are dark painted shapes rather than softly cast effects. The composition keeps a simple repeated tree rhythm in front of fractured warm terrain, producing an energetic, boldly designed woodland view.",
+  "full_prompt_zh": "一幅方形表现主义风景画用厚黑树干、扁平绿树冠和饱和土地折角色块构成一片风格化树林。最高的树略偏中央左侧，深色竖树干升到宽而不规则的树冠，顶部青绿、下缘近黑。右侧和左下各有较小树木呼应，树冠简化为横向绿楔形，由分叉黑枝托起。身后，陡峭的房屋般或山坡般平面以亮黄、锈红、橙、珊瑚与深炭色互相嵌合。一条蓝绿带切过中右，暗示谷地或路径，底边由深绿低矮团块填住。右上仅露少量粗颗粒绿松石天空。形体以黑线清楚围出，不服从细腻自然透视；色场像剪片一样堆叠碰撞。颜料厚而干，有沙样颗粒表面和不齐笔缘。中央树后亮黄平面成为主要光源，使黑枝结构和冷绿树叶跳出。阴影是深色绘画形状，而非柔投影。构图把简单重复的树节奏放在破碎暖地形之前，形成有活力、大胆设计的树林景观。",
+  "style_prompt_en": "Expressionist painting reduces complex forms to thick black contours, flat angular color blocks, and repeated simplified silhouettes. Place cool green and turquoise against saturated yellow, rust red, orange, and coral, using near-black wedges to separate each zone. Let a strong warm plane act as graphic light rather than relying on naturalistic modeling. Stack shapes tightly with shallow depth and a clear rhythm of vertical anchors and horizontal caps. Preserve coarse dry paint grain and uneven handmade edges. The transferable effect is bold, direct, and energetic, with visual structure carried by color collision.",
+  "style_prompt_zh": "表现主义绘画把复杂形体压成厚黑轮廓、平坦折角色块与重复简化剪影。冷绿和绿松石对着饱和亮黄、锈红、橙与珊瑚色，以近黑楔形分隔各区。让一大块暖色充当图形光，而非依赖写实塑形。形状在浅纵深里紧密堆叠，竖向锚点与横向顶盖形成清楚节奏。保留粗干颜料颗粒与不齐手作边缘。可迁移效果大胆、直接、有活力，视觉结构由颜色碰撞承担。",
+  "theme_en": "Dark-trunked green trees before angular red and yellow hills",
+  "theme_zh": "深树干与绿树冠立在折角红黄山坡前",
+  "wh_ratio": "1:1",
+  "id": "2492",
+  "name": "Karl Schmidt-Rottluff",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/karl-schmidt-rottluff",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/karl-schmidt-rottluff.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "fc3b9ba6a90e4c4f5f43bdb1d2de6298935899b260ba36a1f5f875c0ac069f47",
+    "gpt_submission_prompt": "A square expressionist landscape painting builds a grove of stylized trees from heavy black trunks, flattened green canopies, and angular blocks of saturated land. The tallest tree stands slightly left of center, its dark vertical trunk rising into a broad irregular crown with teal-green top and almost black lower edge. Two smaller trees echo it on the right and lower left, their canopies simplified into horizontal green wedges held on forked black branches. Behind them, steep house-like or hillside planes interlock in bright yellow, rust red, orange, coral, and dark charcoal. A blue-green strip cuts through the center-right, suggesting a valley or path, while dark green low masses fill the bottom. The upper right holds a limited patch of coarse turquoise sky. Forms are clearly outlined in black and do not obey delicate natural perspective; instead, the color fields stack and collide like cut pieces. Paint appears thick and dry, with a sandy granular surface and uneven brush edges. A bright yellow plane behind the central tree acts as the main light, making the black branch structure and cool green foliage pop. Shadows are dark painted shapes rather than softly cast effects. The composition keeps a simple repeated tree rhythm in front of fractured warm terrain, producing an energetic, boldly designed woodland view.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "dc75edb787e399ab5795cb5c8834872c3eecd16a0860b289ce0aaf96ab9ccd47",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

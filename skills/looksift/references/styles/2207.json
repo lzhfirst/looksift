@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square dark-fantasy cover image is dominated by an immense horned, ridged creature emerging from near-black shadow. Its broad, stone-like forehead fills the top half, with layered creases tapering into a long central snout. Two small reddish eyes burn low in the face, and thin hooked tusk shapes angle outward from either side. The lower field is filled with black armour-like forms, faint smoky green, and scattered ember-red flecks. Along the right edge, tall copper-red serif letters descend vertically, but the sequence is broken and does not form a confidently readable word in this panel. Smaller marks near the bottom are indistinct. The creature's gaze points directly outward, while most of its lower form is swallowed by darkness. The rendering is intricately carved and rough: cracks, scales, and sharp grooves catch narrow cold highlights against a sooty blue-grey base. Red light remains concentrated at the eyes, embers, and lettering; it does not flood the whole image. Shadows are very deep and the background space is almost absent, producing an imposing, compressed frame. The roughly bilateral head gives the composition a heavy center, while the right-hand type and diagonal tusks disturb perfect symmetry. The overall image is ominous and monumental, built from cold textured darkness and restrained copper-red fire.",
+  "full_prompt_zh": "一幅方形暗黑奇幻封面由一只从近黑阴影中浮出的巨大长角、满是脊纹的生物主导。它宽阔、像石头的额头占满上半幅，层层褶痕收向中央狭长的口鼻。两只小而泛红的眼睛在脸的较低处发亮，细长弯钩状獠牙从两旁斜向外伸。下方区域充满黑色甲壳状形体、淡烟绿和零星余烬红点。右边缘有高而细的铜红衬线字母竖向排列，但字序断裂，在这幅画中无法肯定读成一个词。底部较小的记号也不清晰。生物直视画外，下半形体大多被黑暗吞没。画法精密雕琢而粗糙：裂纹、鳞片和尖锐沟槽在煤烟般蓝灰底上接住窄窄冷光。红光集中于眼睛、余烬和字母，没有灌满整幅。阴影非常深，背景空间几乎缺席，形成迫近而压紧的画幅。大致双侧对称的头部给予构图沉重中心，右侧文字和斜向獠牙打破完全对称。整体图像不祥而宏大，由冷色纹理黑暗和收敛的铜红火光构成。",
+  "style_prompt_en": "A dark fantasy illustration compresses an intricately textured central mass into near-black space. Cold sooty blue-grey, charcoal, and stone tones carry deep grooves, cracks, and ridges revealed by very narrow highlights. Restrained copper-red points puncture the darkness and gather near the visual center and one edge. Rough bilateral balance gives the image weight, while diagonal hooked contours and a slim vertical accent interrupt exact symmetry. Background depth is minimal, so texture and rapid value falloff create the sense of imposing scale. The finish is carved, weathered, and ominous, with small luminous details held inside a much larger field of shadow.",
+  "style_prompt_zh": "暗黑奇幻插画把纹理精密的中央大形压进近黑空间。冷煤烟蓝灰、炭色和石色承载深沟、裂纹与脊线，只被极窄的高光照出。收敛的铜红亮点刺穿黑暗，聚在视觉中心附近与一侧边缘。粗略的双侧平衡给予图像重量，斜向弯钩轮廓和纤细竖向重音打断严格对称。背景深度极少，因此纹理和迅速的明度跌落创造令人逼近的尺度。完成效果像雕刻、风化而不祥，细小光点被圈在更大片阴影中。",
+  "theme_en": "A shadowed horned creature on a dark fantasy cover",
+  "theme_zh": "暗黑奇幻封面上的阴影角兽",
+  "wh_ratio": "1:1",
+  "id": "2207",
+  "name": "Diablo",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/diablo",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/diablo.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "d5807f7c94e3e60525833fd63528c5206976730be27a731af15b303f1e78c180",
+    "gpt_submission_prompt": "A square dark-fantasy cover image is dominated by an immense horned, ridged creature emerging from near-black shadow. Its broad, stone-like forehead fills the top half, with layered creases tapering into a long central snout. Two small reddish eyes burn low in the face, and thin hooked tusk shapes angle outward from either side. The lower field is filled with black armour-like forms, faint smoky green, and scattered ember-red flecks. Along the right edge, tall copper-red serif letters descend vertically, but the sequence is broken and does not form a confidently readable word in this panel. Smaller marks near the bottom are indistinct. The creature's gaze points directly outward, while most of its lower form is swallowed by darkness. The rendering is intricately carved and rough: cracks, scales, and sharp grooves catch narrow cold highlights against a sooty blue-grey base. Red light remains concentrated at the eyes, embers, and lettering; it does not flood the whole image. Shadows are very deep and the background space is almost absent, producing an imposing, compressed frame. The roughly bilateral head gives the composition a heavy center, while the right-hand type and diagonal tusks disturb perfect symmetry. The overall image is ominous and monumental, built from cold textured darkness and restrained copper-red fire.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "d976cb8545e6c46f34d24d3417848de6a9ad97474bcdc8dd9433ea89ce5fe25a",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

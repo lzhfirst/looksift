@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square Art Nouveau illustration places a young woman in right-facing profile inside a circular ornamental frame. Her brown hair is swept into a loose bun, threaded with green leaves and a large warm orange flower. She lifts her chin slightly and closes her eyes, giving the face a calm, absorbed expression. A soft sage green garment covers the shoulders, its folds flowing into the lower edge. Behind her, dense orange autumn leaves and curling stems fill the circle, while a pale cream ground shines through small gaps. The round border is built from fine green and gold lines, with repeated scrollwork and small medallions near the corners. Decorative foliage extends into the surrounding square, so the image is framed twice: by the circle and by the outer patterned panel. Light is gentle and even, warming the cheek and neck without hard shadows. Fine dark contours separate the face, hair, leaves and garment; flat tinted areas and delicate hatching give each surface a printed, hand-drawn quality. The palette balances sage green against copper, ochre and cream. The composition is close and decorative, with the profile's upward curve echoing the ring and leaf tendrils. Its rhythm is graceful and dense, turning a quiet expression into the center of an elaborate seasonal pattern.",
+  "full_prompt_zh": "这幅方形新艺术插画把一位年轻女子朝右的侧面放在圆形装饰框内。棕发挽成松散发髻，穿入绿叶和一朵暖橙大花。她微抬下巴、闭上眼睛，面容平静而沉浸。柔和鼠尾草绿衣服覆盖肩部，褶线流向下缘。身后浓密橙色秋叶与卷曲枝茎填满圆框，浅奶油底色从小缝里发亮。圆边由细绿金线组成，四角附近有重复卷纹与小徽饰。装饰叶片伸进外侧方形区域，因此图像被圆环与外侧纹样面板双重框住。光温和均匀，暖化脸颊和颈部，没有硬影。细暗轮廓分开面孔、头发、叶片和衣服；平坦淡染色块与细排线给各表面印刷般手绘质地。色盘让鼠尾草绿与铜、赭黄、奶油色平衡。构图贴近且装饰性强，侧面的上扬曲线呼应圆环与叶卷须。节奏优雅密集，使安静神情成为繁复季节图案的中心。",
+  "style_prompt_en": "The Art Nouveau illustration joins flowing contour lines, flat tinted areas and delicate printed texture. Sage green, copper orange, ochre and cream repeat through a tightly interwoven ornamental field. A circular inner frame sits within a square border, giving the composition layered enclosure. Even gentle light preserves clear pale planes while fine hatching and curling lines add surface movement. Dense outer pattern supports a calm central opening, creating graceful, rhythmic richness.",
+  "style_prompt_zh": "这种新艺术插画结合流动轮廓线、平坦淡染色块与细致印刷纹理。鼠尾草绿、铜橙、赭黄和奶油色在紧密交织的装饰色域里重复。圆形内框置于方边框中，使构图层层围合。均匀温和光保持浅色平面清楚，细排线和卷曲线增添表面运动。密集外围图案支撑安静中央开口，形成优雅而有节奏的丰盛感。",
+  "theme_en": "A woman in profile within a circular autumn floral frame",
+  "theme_zh": "秋叶圆形花饰框中的女子侧面",
+  "wh_ratio": "1:1",
+  "id": "4225",
+  "name": "Alphonse Mucha",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/alphonse-mucha.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "76c655b9ce302c0a43ed8942f84d6fce5bf5173f64a2a3ef74b379784a9cdb7e",
+    "gpt_submission_prompt": "A square Art Nouveau illustration places a young woman in right-facing profile inside a circular ornamental frame. Her brown hair is swept into a loose bun, threaded with green leaves and a large warm orange flower. She lifts her chin slightly and closes her eyes, giving the face a calm, absorbed expression. A soft sage green garment covers the shoulders, its folds flowing into the lower edge. Behind her, dense orange autumn leaves and curling stems fill the circle, while a pale cream ground shines through small gaps. The round border is built from fine green and gold lines, with repeated scrollwork and small medallions near the corners. Decorative foliage extends into the surrounding square, so the image is framed twice: by the circle and by the outer patterned panel. Light is gentle and even, warming the cheek and neck without hard shadows. Fine dark contours separate the face, hair, leaves and garment; flat tinted areas and delicate hatching give each surface a printed, hand-drawn quality. The palette balances sage green against copper, ochre and cream. The composition is close and decorative, with the profile's upward curve echoing the ring and leaf tendrils. Its rhythm is graceful and dense, turning a quiet expression into the center of an elaborate seasonal pattern.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "d90df60bd412980968c1aa525eb27e0f827a183f468200823525641a3adfae7a",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

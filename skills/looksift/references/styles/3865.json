@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square extreme close-up photograph concentrates on one eye surrounded by heavy wet pigment and glossy makeup. The eye sits in the lower middle beneath an exaggerated arc of orange-gold and brown color. Thick black shadow encloses the lid, while a dark green-gray iris looks obliquely to the right. The upper surface is marbled with amber, copper, black, and flashes of blue, all streaked as though water and cosmetics have mixed. The lower frame is dominated by full rose-red lips, their wet surface catching sharp white highlights. Tiny droplets, bubbles, and specks of glitter cling to skin and colored material; individual pores and irregular edges remain visible. The crop is so tight that the facial features become large abstract forms, layered almost edge to edge. Light is direct and specular, making metallic patches flare and transparent droplets sparkle against deep black gaps. Warm red and gold dominate, while the cool eye and scattered blue flecks break the palette. There is no neutral backdrop; every area is saturated with surface and reflection. The image feels deliberately excessive and tactile, combining beauty photography with an almost painterly study of viscous color, moisture, and fragmented anatomy.",
+  "full_prompt_zh": "一幅方形极近距离照片集中在被厚重湿颜料和亮面妆彩围住的一只眼。眼位于画面下中部，在夸张的橙金与棕色弧线之下。厚黑眼影圈住眼睑，深绿灰虹膜斜看右方。上方表面以琥珀、铜、黑和闪动蓝色呈大理石纹，条痕仿佛水与化妆品混合。下半幅被丰满玫红嘴唇占据，湿润表面接住尖锐白色高光。小水滴、气泡和闪粉粘在皮肤与色料上；毛孔和不规则边缘仍可见。裁切极紧，使面部特征成为近乎铺满画面的巨大抽象形体。光直接而镜面感强，金属色片闪亮，透明水珠在深黑缝隙前闪烁。暖红与金占主导，冷调眼睛和零散蓝点打破配色。这里没有中性背景；每处都被表面和反光充满。图像刻意过量而可触，把美容摄影与黏稠颜色、水分和碎片化面部形体的绘画式研究结合。",
+  "style_prompt_en": "Extreme close-up beauty photography treats wet pigment, gloss, droplets, and skin grain as an almost abstract surface. Copper, amber, lacquer red, black, and small cold blue flashes make a saturated palette. Direct specular light creates hard white points and transparent beads against deep shadow. The crop removes contextual space, leaving enlarged curved forms and marbled streaks pressed to every edge. Focus is crisp where wet texture matters, with slight optical softness at the margins. The finish is sensual, excessive, and materially vivid, driven by reflection rather than smooth cosmetic perfection.",
+  "style_prompt_zh": "极近距离美容摄影把湿颜料、亮漆、水珠与皮肤颗粒当作近乎抽象的表面。铜、琥珀、漆红、黑和少量冷蓝闪点组成饱和配色。直接镜面光在深影前制造硬白亮点与透明珠粒。裁切移除环境空间，只留下放大的弧形与大理石般条痕压到每处边缘。湿肌理关键处焦点清楚，边缘略带光学柔化。完成面感官强烈、丰盛而物质鲜活，由反射推动，而非平滑妆面完美感。",
+  "theme_en": "A close-up eye framed by wet metallic pigment and lacquered color",
+  "theme_zh": "湿亮金属颜料与漆面色彩包围的眼睛特写",
+  "wh_ratio": "1:1",
+  "id": "3865",
+  "name": "Marilyn Minter",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/marilyn-minter",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "620d1ba5fa2078f5ae42ff65ee5c576c1d84068d0839013fb2778bc6e5c27ed8",
+    "gpt_submission_prompt": "A square extreme close-up photograph concentrates on one eye surrounded by heavy wet pigment and glossy makeup. The eye sits in the lower middle beneath an exaggerated arc of orange-gold and brown color. Thick black shadow encloses the lid, while a dark green-gray iris looks obliquely to the right. The upper surface is marbled with amber, copper, black, and flashes of blue, all streaked as though water and cosmetics have mixed. The lower frame is dominated by full rose-red lips, their wet surface catching sharp white highlights. Tiny droplets, bubbles, and specks of glitter cling to skin and colored material; individual pores and irregular edges remain visible. The crop is so tight that the facial features become large abstract forms, layered almost edge to edge. Light is direct and specular, making metallic patches flare and transparent droplets sparkle against deep black gaps. Warm red and gold dominate, while the cool eye and scattered blue flecks break the palette. There is no neutral backdrop; every area is saturated with surface and reflection. The image feels deliberately excessive and tactile, combining beauty photography with an almost painterly study of viscous color, moisture, and fragmented anatomy.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "68d2635c30e0ba68fb671233fc45d27ece175f46c85bda7e7a72fc317e30f52c",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

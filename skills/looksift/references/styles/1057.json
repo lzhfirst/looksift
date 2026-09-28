@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square street photograph shows a vivid geometric mural covering the lower facade of a gray brick building and wrapping around a dark central doorway. The mural begins just above the sidewalk and fills most of the middle of the image, while unpainted pale brick rises above it. On both sides of the entrance, saturated bands of cyan, navy, lime, yellow, orange, pink, red and violet cross at sharp angles. Several bands turn into chevrons that point toward the doorway, and others overlap like interlocking three-dimensional strips. The opening itself is framed by nested triangular color bands, then recedes through a narrow tunnel to a nearly black interior. The gray sidewalk stretches across the lower foreground, and a thin asphalt street band closes the bottom edge. Concrete columns mark the left and right limits of the painted wall; surrounding urban surfaces remain plain and worn. A small strip of pale blue sky is visible at the far upper left. The mural's paint is opaque and crisp, though the wall's seams and slight texture show through. Daylight is even and cool, making the colors vivid without dramatic cast shadow; darkness inside the doorway supplies the main depth contrast. No people or clearly readable words appear. The overall composition is boldly symmetrical around the passage, using repeated angular color rhythms to pull the eye inward from a quiet gray street.",
+  "full_prompt_zh": "一张方形街头照片呈现一幅鲜艳几何壁画覆盖灰砖建筑的下部立面，并环绕中央深色门洞。壁画从人行道上方开始，占据画面中部大部分区域，未上色的浅灰砖墙在其上升起。入口两侧，饱和青、藏蓝、亮绿、黄、橙、粉、红与紫色色带以锐角交错。几条色带折成指向门洞的尖角，另一些像互相咬合的立体条片般重叠。洞口本身被层层三角形色带框住，再穿过狭窄通道退向近黑色内部。灰色人行道横过下方前景，一道细沥青路面封住底边。混凝土立柱标出彩绘墙面的左右界限；周围都市表面保持素净而磨旧。最左上可见一小条浅蓝天空。壁画颜料不透明且边缘利落，墙面接缝和轻微肌理仍从下面显出。日光均匀而偏冷，使颜色鲜艳，却没有戏剧性投影；门洞内部的黑暗提供主要纵深反差。没有人物或清晰可读文字。整体构图以通道为轴大胆对称，用重复的角状色彩节奏把视线从安静灰街拉向内部。",
+  "style_prompt_en": "A vivid geometric mural treatment overlays hard-edged ribbons of cyan, navy, lime, yellow, orange, magenta and violet on a quiet gray material ground. Parallel bands repeatedly fold into chevrons, cross at acute angles and stack in shallow illusionistic layers. The paint remains opaque and cleanly bounded, yet underlying joints and slight wall grain give it a physical surface. A dark central void or concentrated low-value area anchors the restless saturated pattern. Even daylight preserves color clarity, with depth produced mainly by nested shapes and strong dark-light contrast rather than modeled shading. Broad neutral margins frame the dense painted center. The overall effect is energetic, precise and spatially playful.",
+  "style_prompt_zh": "鲜艳几何壁画处理把青、藏蓝、亮绿、黄、橙、洋红与紫色硬边色带覆在安静灰色材料底上。平行色带不断折成尖角，以锐角相交，并叠成浅层次的错觉结构。颜料不透明、边界整齐，底下接缝与轻微墙面颗粒仍赋予它实体表面。中央深色空隙或集中的低明度区域固定躁动的饱和纹样。均匀日光保持色彩清楚，纵深主要由嵌套形状与强明暗反差而非塑形阴影产生。宽阔中性色边缘框住密集彩绘中心。整体充满能量、精确，并带空间游戏感。",
+  "theme_en": "A vivid geometric mural wrapping a dark doorway in a gray brick facade",
+  "theme_zh": "鲜艳几何壁画环绕灰砖立面中的深色门洞",
+  "wh_ratio": "1:1",
+  "id": "1057",
+  "name": "Revok",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/revok",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/revok.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "8cd0630e6c358d5a7a4cdb65ee91b1bcaafce10d2d21087daa1371d4c412dd41",
+    "gpt_submission_prompt": "A square street photograph shows a vivid geometric mural covering the lower facade of a gray brick building and wrapping around a dark central doorway. The mural begins just above the sidewalk and fills most of the middle of the image, while unpainted pale brick rises above it. On both sides of the entrance, saturated bands of cyan, navy, lime, yellow, orange, pink, red and violet cross at sharp angles. Several bands turn into chevrons that point toward the doorway, and others overlap like interlocking three-dimensional strips. The opening itself is framed by nested triangular color bands, then recedes through a narrow tunnel to a nearly black interior. The gray sidewalk stretches across the lower foreground, and a thin asphalt street band closes the bottom edge. Concrete columns mark the left and right limits of the painted wall; surrounding urban surfaces remain plain and worn. A small strip of pale blue sky is visible at the far upper left. The mural's paint is opaque and crisp, though the wall's seams and slight texture show through. Daylight is even and cool, making the colors vivid without dramatic cast shadow; darkness inside the doorway supplies the main depth contrast. No people or clearly readable words appear. The overall composition is boldly symmetrical around the passage, using repeated angular color rhythms to pull the eye inward from a quiet gray street.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "123e629c92005622c151d93af8e2e06e62600d4494ff9cdaa1ac6c9e7b6240a3",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

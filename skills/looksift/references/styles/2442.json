@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square science-fiction landscape painting shows a lone rider crossing golden fields beneath an enormous blue planet in a star-speckled sky. A narrow pale track begins at the lower middle and curves toward the left, where a small mounted figure travels away from the viewer. Low rounded shrubs in cobalt and blue-green border the path among tawny grasses and rust-colored plants. The middle distance opens into wide yellow-orange plains, with dark rocky spires scattered near the horizon. At the right, a compact white dome-like structure with blue bands sits beside a weathered rock outcrop, its smooth manufactured shape standing out against the rough land. Above the distant hills, the giant pale blue planet rises from a low bank of blue cloud, occupying much of the upper left. The sky is a deep navy at the top and lighter near the horizon, dotted with very small stars. White cumulus clouds gather toward the upper right, their edges warm against the blue. The scene is finely painted, with delicate individual grass marks in front, smoother atmospheric layers behind, and carefully edged surfaces on the distant structure. Light comes from the right side and upper sky, warming the fields and cloud rims while leaving the rocks and near shrubs cooler. The overall composition is expansive and quietly adventurous, using the winding path and tiny rider to connect tactile golden terrain with a monumental celestial backdrop.",
+  "full_prompt_zh": "这是一幅方形科幻风景画，一位孤独骑手在巨大蓝色行星下穿过金色田野，天空点缀星光。细窄浅色道路从下方中部开始，向左弯去，一位小小骑乘者背向观者远行。钴蓝与蓝绿色圆润矮灌木沿路分布在黄褐草与锈色植物之间。中景展开宽阔黄橙平原，深色岩石尖峰散布在地平线附近。右侧，一座带蓝色条带的紧凑白色圆顶状结构位于风化岩旁，光滑人工形状在粗糙地面前显出。远山上方，巨大的浅蓝色行星从低矮蓝云中升起，占据左上大部分。天空顶部深海军蓝，靠近地平线变浅，散着极小星点。白色积云聚在右上方，云边在蓝色前带暖意。场景经过细致绘制，前方有单根细草痕，后方大气层次更平滑，远处结构表面边界精心处理。光从右侧和上方天空照来，温暖田地与云缘，让岩石和近处灌木保持更冷。整体构图开阔而有安静的冒险感，以弯曲道路和微小骑手连接可触的金色地面与宏大的天体背景。",
+  "style_prompt_en": "The painted science-fiction treatment combines meticulously textured near surfaces with smooth atmospheric distance and one oversized celestial curve. Deep navy and cobalt shadow contrast with broad ochre-gold ground and luminous cream clouds. Tiny crisp details establish scale against large calm expanses, while a winding light passage draws the eye through successive planes. Edges are firm on focal constructed forms and rock silhouettes, softer in cloud and haze. A diffuse but directional warm light grazes upper surfaces, leaving blue recesses and near foliage cool. Fine stipple in the sky and small brush marks on the ground give the expansive frame tactile specificity. The overall result is grand, serene, and quietly exploratory.",
+  "style_prompt_zh": "这种科幻绘画处理结合近处精细带肌理表面、平滑大气远景与一条超大天体曲线。深海军蓝与钴蓝阴影对照宽阔赭金地面和发光奶油色云。微小清晰细节在大片安静空间前建立尺度，弯曲浅色通道引导视线穿过层层平面。焦点人工形体和岩石剪影的边缘坚实，云雾处更柔。漫射但有方向的暖光擦过上表面，使蓝色凹处与近处植物保持冷调。天空细点与地面小笔触为开阔画框带来可触的具体性。整体效果宏大、宁静，带安静探索感。",
+  "theme_en": "A lone rider crossing golden fields beneath a giant blue planet",
+  "theme_zh": "孤独骑手在巨大蓝色行星下穿越金色田野",
+  "wh_ratio": "1:1",
+  "id": "2442",
+  "name": "Ron Walotsky",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/ron-walotsky",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/ron-walotsky.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "ca275b86cf0b1cc458b553d2b9bbf7e6b2d584cdff3caf5d5456547e721b4d45",
+    "gpt_submission_prompt": "A square science-fiction landscape painting shows a lone rider crossing golden fields beneath an enormous blue planet in a star-speckled sky. A narrow pale track begins at the lower middle and curves toward the left, where a small mounted figure travels away from the viewer. Low rounded shrubs in cobalt and blue-green border the path among tawny grasses and rust-colored plants. The middle distance opens into wide yellow-orange plains, with dark rocky spires scattered near the horizon. At the right, a compact white dome-like structure with blue bands sits beside a weathered rock outcrop, its smooth manufactured shape standing out against the rough land. Above the distant hills, the giant pale blue planet rises from a low bank of blue cloud, occupying much of the upper left. The sky is a deep navy at the top and lighter near the horizon, dotted with very small stars. White cumulus clouds gather toward the upper right, their edges warm against the blue. The scene is finely painted, with delicate individual grass marks in front, smoother atmospheric layers behind, and carefully edged surfaces on the distant structure. Light comes from the right side and upper sky, warming the fields and cloud rims while leaving the rocks and near shrubs cooler. The overall composition is expansive and quietly adventurous, using the winding path and tiny rider to connect tactile golden terrain with a monumental celestial backdrop.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "691779d74804deb70648268555d04fa5cdef2ed8fd00ba233ea744c74e543ca8",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

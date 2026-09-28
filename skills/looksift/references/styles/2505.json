@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square Romantic landscape painting shows a small dark boat in a rocky inlet beneath a dramatic break in heavy clouds. The water begins at the lower center and leads inward between tall shadowed cliffs. On the left, irregular dark stone rises steeply, with a few pale vertical rock faces catching the distant light. On the right, a heavier cliff and scattered black rocks enclose the channel, their forms partly hidden by blue-gray haze. Near the middle, the small boat sits low on the water, its upright mast or figure-like form silhouetted against a brighter band beyond. The inlet's surface is rough and reflective, with short green-blue strokes and white foam breaking around rocks near the foreground. Above, immense charcoal and slate clouds swirl toward a bright cream opening just right of center. The light pours through the opening in a diffuse beam, revealing a soft distant shore and a narrow luminous path across the water. The painting holds far less detail in the bright center than in the dark enclosing rocks, making the atmosphere feel expansive and uncertain. Broad blended brushwork builds clouds and mist, while shorter textured strokes mark waves and stone edges. Cool blue-green and deep gray dominate, with small warm cream highlights where light reaches through. The foreground remains in near-black shadow, and no buildings or readable text interrupt the scene. The overall composition is solemn and theatrical, drawing the eye from dark rough shores toward a distant radiance across the sea.",
+  "full_prompt_zh": "这幅方形浪漫主义风景绘画描绘一只小深色船停在岩石海湾里，头顶厚重云层裂开戏剧性的亮口。水面从下方中央开始，在两侧高耸阴影峭壁间向内延伸。左侧，不规则深石陡升，几处浅色竖向岩面接住远光。右侧，更厚重的山崖与散落黑石围住水道，形体部分隐在蓝灰雾中。中部附近，小船低伏水面，直立的桅杆或人物般形状在后方亮带前呈剪影。海湾水面粗糙而反光，短绿蓝笔痕和白色浪沫在前景岩石周围破开。上方，巨大的炭灰与石板色云向中央偏右的明亮奶油色缺口旋去。光从裂口漫射下来，显出柔和远岸，并在水上划出狭窄发亮路径。绘画在明亮中心的细节远少于围合的暗岩，使大气显得宽阔且未定。宽大融合笔触构成云与雾，较短纹理笔触标出浪和石缘。冷蓝绿与深灰主导，光穿透处只有少量暖奶油色亮部。前景留在近黑阴影里，没有建筑或可读文字打断场景。整体构图庄严且富舞台感，将视线从深暗粗糙岸边带向海面远方光芒。",
+  "style_prompt_en": "Romantic landscape painting uses deep blue-green and charcoal masses to frame a distant cream-white radiance. Broad blended cloud forms swirl above rougher small strokes that describe lower surfaces. Near edges carry more texture and contrast; far planes dissolve into haze and luminous emptiness. Diffuse backlight pushes through a central opening, leaving side masses in saturated shadow and creating a narrow path of reflection. The composition is funnel-shaped and monumental, making a small dark accent feel fragile against immense atmosphere. The overall effect is solemn, dramatic, and sublime.",
+  "style_prompt_zh": "浪漫主义风景绘画以深蓝绿和炭色色团围住远方奶油白光芒。宽大融合云形在上方翻卷，下方较小粗笔痕描出表面。近处边缘肌理与反差更强，远方平面融入雾和发亮空白。漫射逆光从中央开口推进，让两侧色团处于饱和阴影，并在下方形成一条窄反光路径。构图像漏斗般汇聚且宏大，使小小深色强调在巨大大气面前显得脆弱。整体庄严、戏剧性强且崇高。",
+  "theme_en": "A small boat in a rocky inlet beneath a dramatic break in the clouds",
+  "theme_zh": "小船位于岩石海湾中，上方云层裂开明亮缺口",
+  "wh_ratio": "1:1",
+  "id": "2505",
+  "name": "John Martin",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/john-martin",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/john-martin.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "851cb69872f95486af2a49bb9983ad8a1d98aae9d66ed001689a9aabc3649439",
+    "gpt_submission_prompt": "A square Romantic landscape painting shows a small dark boat in a rocky inlet beneath a dramatic break in heavy clouds. The water begins at the lower center and leads inward between tall shadowed cliffs. On the left, irregular dark stone rises steeply, with a few pale vertical rock faces catching the distant light. On the right, a heavier cliff and scattered black rocks enclose the channel, their forms partly hidden by blue-gray haze. Near the middle, the small boat sits low on the water, its upright mast or figure-like form silhouetted against a brighter band beyond. The inlet's surface is rough and reflective, with short green-blue strokes and white foam breaking around rocks near the foreground. Above, immense charcoal and slate clouds swirl toward a bright cream opening just right of center. The light pours through the opening in a diffuse beam, revealing a soft distant shore and a narrow luminous path across the water. The painting holds far less detail in the bright center than in the dark enclosing rocks, making the atmosphere feel expansive and uncertain. Broad blended brushwork builds clouds and mist, while shorter textured strokes mark waves and stone edges. Cool blue-green and deep gray dominate, with small warm cream highlights where light reaches through. The foreground remains in near-black shadow, and no buildings or readable text interrupt the scene. The overall composition is solemn and theatrical, drawing the eye from dark rough shores toward a distant radiance across the sea.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "6d45deb2aa5e635e7ebb20a90ef2c471f249fea2305c0def5054f7e7cc68954d",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

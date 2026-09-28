@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "This square monochrome illustration resembles a finely engraved storybook scene on a rocky shore. Three human figures occupy the center and right. A broad-shouldered man in a cap and heavy cloak stands at the middle, turned left toward open water; rounded shoulder armor and the folds of his outer garment are densely shaded. In front of him, a shorter dark-clad figure bends or steps downward toward the rough ground. At the far right, a long-haired woman in a dark bodice and pale skirt stands upright beside a wall of broken stone, also looking left. The immediate foreground is a tangle of rocks, roots, and debris. Two pale skulls are visible among it near the bottom edge, their empty eye sockets standing out from the dark hatching around them. The shore runs left into a calm expanse of water. Across the water, a distant cluster of towers and steep roofs forms a faint city skyline. A small boatlike shape rests near the far bank, and birds cross the striped sky. Broken masonry rises steeply along the right edge, pressing the figures toward the view beyond. Light is diffuse and gray, with pale openings in the sky and water, while layered pen lines create the deeper values of clothing, stone, and foreground wreckage. Fine crosshatching and stippled marks describe texture without any painted color. The composition moves from sharply worked, ominous ground to quiet distant architecture, giving the scene a somber, legendary atmosphere.",
+  "full_prompt_zh": "这幅方形单色插画像一页精细雕版的故事书场景，地点是一处多石的岸边。三个人物占据中央与右边。一位肩膀宽阔、戴帽披厚斗篷的男子站在中间，转向左方开阔水面；圆形护肩与外衣褶皱由密线压暗。他前面一位较矮的深衣人物弯身或向下踏向崎岖地面。最右侧，一位长发女子穿深色上衣和浅色长裙，直立在破碎石墙旁，也朝左望去。紧邻前景是岩块、树根与碎物交结。靠近下边缘，其中可见两枚浅色头骨，空眼窝从周围深排线中凸现。岸线向左延伸到平静水面。隔水远处，塔尖与陡屋顶汇成淡淡的城市天际线。远岸附近有小船般形状，鸟儿划过条纹状天空。破旧砌墙沿右边缘陡然升起，把人物推向远处景色。光漫射而灰白，天与水留有浅亮开口；衣物、石头和前景残骸的深明度则由层叠钢笔线建立。细密交叉排线与点状痕迹在不用绘画色彩的情况下描述质地。构图从精刻而不祥的近地面移向安静的远方建筑，赋予场景阴郁的传奇气氛。",
+  "style_prompt_en": "Monochrome engraved illustration constructs light and volume through densely varied pen lines rather than color. Crosshatching, stippling, and closely spaced parallel marks darken recesses, while pale untouched zones open the composition and suggest diffuse light. Near forms receive intricate texture and crisp contours; distant masses become thinner, softer, and less crowded. Layered diagonals and irregular silhouettes lead from a heavily worked foreground toward an airy background. The result has a historical storybook character, quiet dramatic gravity, and a tactile etched surface.",
+  "style_prompt_zh": "单色雕版式插画以密度多变的钢笔线而非颜色建立光和体积。交叉排线、点描与紧排平行线压暗凹处，浅色留白则打开构图并暗示漫射光。近处形体有繁复纹理和清晰轮廓；远处体块更细、更柔，也不那么密集。层叠斜线与不规则剪影把视线从精密处理的前景引向通透背景。效果带有历史故事书气质、安静的戏剧重量与可触摸的蚀刻表面。",
+  "theme_en": "Three cloaked travelers on a rocky shore with skulls and a distant city",
+  "theme_zh": "三名披衣行人立于有头骨的岩岸，远处是城市",
+  "wh_ratio": "1:1",
+  "id": "0847",
+  "name": "Henry Justice Ford",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/henry-justice-ford",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/henry-justice-ford.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "e5b80121d6316ce3ca1f2d7405b41a18a8dfe4908ca44c721194a025fb751a05",
+    "gpt_submission_prompt": "This square monochrome illustration resembles a finely engraved storybook scene on a rocky shore. Three human figures occupy the center and right. A broad-shouldered man in a cap and heavy cloak stands at the middle, turned left toward open water; rounded shoulder armor and the folds of his outer garment are densely shaded. In front of him, a shorter dark-clad figure bends or steps downward toward the rough ground. At the far right, a long-haired woman in a dark bodice and pale skirt stands upright beside a wall of broken stone, also looking left. The immediate foreground is a tangle of rocks, roots, and debris. Two pale skulls are visible among it near the bottom edge, their empty eye sockets standing out from the dark hatching around them. The shore runs left into a calm expanse of water. Across the water, a distant cluster of towers and steep roofs forms a faint city skyline. A small boatlike shape rests near the far bank, and birds cross the striped sky. Broken masonry rises steeply along the right edge, pressing the figures toward the view beyond. Light is diffuse and gray, with pale openings in the sky and water, while layered pen lines create the deeper values of clothing, stone, and foreground wreckage. Fine crosshatching and stippled marks describe texture without any painted color. The composition moves from sharply worked, ominous ground to quiet distant architecture, giving the scene a somber, legendary atmosphere.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "eb8b47cfb42ca99fc99b451b209465b77e39bb4b565e24efa070059f81a05fca",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

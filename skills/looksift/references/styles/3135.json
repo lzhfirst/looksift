@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A midcentury magazine illustration shows a poised pair at a café table. In front, a woman in a coral-red dress and deep teal hat rests her cheek lightly on one hand, looking out of frame with a composed, distant expression. A man in a dark suit and pale brimmed hat leans close behind her, partly hidden by the broad shape of the teal hat. A few clear glasses along the lower edge suggest a table without making the setting elaborate. The background is mostly warm off-white paper, marked by faint cracks and scuffs that keep the scene airy. The figures are painted with smooth but not photographic modeling: soft skin tones, distinct dark lashes, carefully shaped lips, and broad unbroken color in the garments. Black and charcoal anchor the left side, while coral and teal give the image its bold graphic contrast. Light is gentle and frontal, with subtle shadows under the hat brim and around the jaw, and bright highlights on glass rims. The two figures overlap tightly, forming a compact triangular arrangement against wide open paper. A few precise facial and hand details hold the eye, while the clothing and background are simplified. The result has the polished emotional reserve of a vintage editorial illustration, combining fashion, restrained narrative, and slightly worn printed texture.",
+  "full_prompt_zh": "一幅世纪中叶杂志插画描绘咖啡桌旁一对姿态从容的人物。前方女子穿珊瑚红裙、戴深青绿帽，轻轻用一只手托住脸颊，带着克制而略显出神的表情望向画外。身后的男子穿深色西装、戴浅色宽檐帽，靠得很近，却部分被宽大的青绿帽形遮住。下缘几只透明玻璃杯暗示桌面，而没有把环境画得繁杂。背景大多是温暖的米白纸面，淡淡裂痕与擦痕让场景保持通透。人物以平滑但不似摄影的方式塑造：柔和肤色、明确的深色睫毛、仔细勾出的嘴唇，以及衣装上宽阔完整的色面。黑与炭色压住左侧，珊瑚红和青绿构成大胆的图形对比。光线柔和并从正面而来，帽檐下与下颌附近有微妙阴影，玻璃杯口则闪着亮点。两人紧密重叠，在宽裕空白纸面前形成紧凑三角形布局。少量精确的面部和手部细节抓住目光，衣装与背景则被简化。作品具有旧式编辑插画那种精致而情绪克制的气质，结合时装、含蓄叙事与略磨旧的印刷质感。",
+  "style_prompt_en": "A polished midcentury editorial illustration on warm off-white paper. Two overlapping dark and bright color masses form a compact triangle against generous empty ground. Charcoal, coral red, deep teal, and soft flesh tones carry the palette. Smooth painted modeling is reserved for the central delicate forms; larger surrounding areas stay broad and graphic. Frontal gentle light creates small shadows and a few crisp glass-like highlights. Faint print grain, cracks, and scuffs age the paper without cluttering it. The rhythm is poised, close, and restrained.",
+  "style_prompt_zh": "温暖米白纸面上的精致世纪中叶编辑插画。深色与亮色的两组重叠体块在宽裕留白前构成紧凑三角形。炭色、珊瑚红、深青绿和柔和肉色组成色盘。平滑的绘画塑形集中在中心细腻形态上，较大周边区域保持宽阔而图形化。柔和正面光产生小块阴影和几处玻璃般清亮高光。淡淡印刷颗粒、裂痕与擦痕让纸面带上岁月，却不显杂乱。节奏从容、亲密而克制。",
+  "theme_en": "A poised pair at a midcentury café table",
+  "theme_zh": "世纪中叶咖啡桌旁的一对人物",
+  "wh_ratio": "1:1",
+  "id": "3135",
+  "name": "Coby Whitmore",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/coby-whitmore",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "198885575b8063eadc7e065bfbf9063d8a54beba1c51c58bc92e64b490310199",
+    "gpt_submission_prompt": "A midcentury magazine illustration shows a poised pair at a café table. In front, a woman in a coral-red dress and deep teal hat rests her cheek lightly on one hand, looking out of frame with a composed, distant expression. A man in a dark suit and pale brimmed hat leans close behind her, partly hidden by the broad shape of the teal hat. A few clear glasses along the lower edge suggest a table without making the setting elaborate. The background is mostly warm off-white paper, marked by faint cracks and scuffs that keep the scene airy. The figures are painted with smooth but not photographic modeling: soft skin tones, distinct dark lashes, carefully shaped lips, and broad unbroken color in the garments. Black and charcoal anchor the left side, while coral and teal give the image its bold graphic contrast. Light is gentle and frontal, with subtle shadows under the hat brim and around the jaw, and bright highlights on glass rims. The two figures overlap tightly, forming a compact triangular arrangement against wide open paper. A few precise facial and hand details hold the eye, while the clothing and background are simplified. The result has the polished emotional reserve of a vintage editorial illustration, combining fashion, restrained narrative, and slightly worn printed texture.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "32726d4e073c7a335dcbc0f95f51fa201fbb750644d2c4fac565a417a30060e0",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

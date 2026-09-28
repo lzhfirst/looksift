@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A finely worked pastoral oil painting shows a young couple seated close together in a flower-strewn alpine meadow. The woman in a dark green bodice and pale full skirt holds a loose bouquet at the center, while the man in a brown vest and rolled white sleeves turns toward her with a warm, attentive expression. Their faces and hands receive the clearest modeling, and their overlapping seated shapes make a compact human focus amid the expansive grassy setting. A woven flower basket rests to the right, scattered red, yellow, and white blooms animate the foreground, and a few sheep graze behind them without competing for attention. Farther back, the meadow narrows into small buildings, forested hills, and blue-gray mountain ridges under a softly clouded sky. The paint has the smooth finish and carefully blended flesh tones of an academic picture, with smaller visible dabs and broken color in flowers, grass, and distant foliage. Sunlight is warm but diffuse: white sleeves and skirt folds catch cream-colored highlights, the green field remains rich rather than glaring, and cool mountains give the background atmospheric depth. The composition moves gently from bright foreground blossoms toward the joined figures, then opens through the flock and valley to the far peaks. The whole frame sustains an affectionate, idealized countryside mood through naturalistic detail, warm earthy color, and a measured balance of intimacy and landscape.",
+  "full_prompt_zh": "一幅精细刻画的田园油画中，一对年轻伴侣紧挨着坐在开满野花的阿尔卑斯草甸里。女子身穿深绿色紧身胸衣与浅色宽裙，怀里抱着松散的花束；男子穿棕色背心、卷起白色衣袖，以温暖专注的神情转向她。他们的面孔与手得到最清晰的塑造，交叠而坐的形体在广阔草地中形成紧凑的人物焦点。右边放着编织花篮，红、黄、白色的小花散落前景，几只绵羊在他们身后吃草，却没有争夺注意力。更远处，草甸收窄为小屋、覆林山坡和蓝灰色山脊，上方是柔和多云的天空。油彩具有学院派绘画平滑的完成度和细腻融合的肤色，而花朵、草叶与远处树丛则显现较小的点笔和断续色块。阳光温暖却漫射：白袖与裙褶承接奶油色高光，绿色田野浓郁而不刺眼，冷色山体赋予背景大气纵深。构图从明亮的前景花朵轻轻移向相依的人物，再经过羊群与山谷向远峰舒展开来。整幅画以自然主义细节、温暖的土地色彩，以及亲密关系和风景之间审慎的平衡，维持柔情而理想化的乡村氛围。",
+  "style_prompt_en": "A finely worked oil painting combines smooth academic modeling with smaller broken strokes across clustered organic forms and textured surfaces. Warm earth browns, soft cream whites, deep greens, and scattered red-yellow accents sit before cooler blue-gray distance. Diffuse sunlight gives pale surfaces gentle highlights while atmospheric layers soften into the distance. Compact foreground detail opens gradually into broad spatial masses, creating a calm rhythm of intimacy and depth. The whole frame feels naturalistic, tender, and carefully finished.",
+  "style_prompt_zh": "一幅精细的油画将平滑的学院派塑形与成簇有机形体与表面上细小的断续笔触结合。温暖的土褐、柔和奶油白、深绿色与零星红黄点缀，铺陈在偏冷的蓝灰色远景之前。漫射阳光给浅色表面温柔的高光，层层大气使远处渐渐柔化。紧凑的前景细节逐步敞开为宽阔的空间体量，形成亲近感与纵深感交替的平静节奏。整幅画自然、温柔且完成度细致。",
+  "theme_en": "A pastoral couple resting among wildflowers in an alpine meadow",
+  "theme_zh": "阿尔卑斯草甸野花间休憩的一对伴侣",
+  "wh_ratio": "1:1",
+  "id": "0415",
+  "name": "Fritz Zuber-Buhler",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/fritz-zuber-buhler",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/fritz-zuber-buhler.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "1a5cc1d5a40f388cd34889ab03e11a2af0da04dd49d4ef38aa424f6176329f1f",
+    "gpt_submission_prompt": "A finely worked pastoral oil painting shows a young couple seated close together in a flower-strewn alpine meadow. The woman in a dark green bodice and pale full skirt holds a loose bouquet at the center, while the man in a brown vest and rolled white sleeves turns toward her with a warm, attentive expression. Their faces and hands receive the clearest modeling, and their overlapping seated shapes make a compact human focus amid the expansive grassy setting. A woven flower basket rests to the right, scattered red, yellow, and white blooms animate the foreground, and a few sheep graze behind them without competing for attention. Farther back, the meadow narrows into small buildings, forested hills, and blue-gray mountain ridges under a softly clouded sky. The paint has the smooth finish and carefully blended flesh tones of an academic picture, with smaller visible dabs and broken color in flowers, grass, and distant foliage. Sunlight is warm but diffuse: white sleeves and skirt folds catch cream-colored highlights, the green field remains rich rather than glaring, and cool mountains give the background atmospheric depth. The composition moves gently from bright foreground blossoms toward the joined figures, then opens through the flock and valley to the far peaks. The whole frame sustains an affectionate, idealized countryside mood through naturalistic detail, warm earthy color, and a measured balance of intimacy and landscape.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "4a781c497e8cf159f0b906be4686704de01c003630b91f5eaeaa2f681b872f9d",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

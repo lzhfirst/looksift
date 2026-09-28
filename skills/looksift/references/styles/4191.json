@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square painting shows two horses moving toward the right through a landscape broken into large, intersecting color planes. The nearer horse is luminous orange, gold and red, its head lowered and body stretched along a strong diagonal. Behind it, a cool blue horse emerges from green and turquoise forms, partly concealed but clearly paired with the first. Their long necks, pointed ears and bent legs are simplified into rhythmic curves and wedges. The ground and sky do not separate cleanly; deep blue, emerald, yellow and violet arcs pass around and through the animal forms. A few black contour lines sharpen the eyes and muzzles while broad brushwork models the bodies in saturated color rather than naturalistic brown or gray. The paint surface retains directional strokes and mottled texture, especially in the surrounding bands. The composition feels compressed and full of motion, with little unoccupied space and no conventional horizon. Warm orange against cool blue creates a vivid emotional contrast, yet green passages connect both figures to the environment. Repeated diagonals carry energy from lower left to upper right. The subject remains legible despite the color fragmentation, producing a fusion of animal strength, modern abstraction and expressive chromatic rhythm.",
+  "full_prompt_zh": "一幅正方形绘画呈现两匹马朝右穿过被大块交错色面分割的风景。较近的马由明亮橘、金与红色构成，头略低，身体沿有力对角线展开。后方一匹冷蓝色马从绿色与青绿色形块中浮现，虽部分被遮掩，仍与前者明显成对。长颈、尖耳和弯曲的腿被简化为有节奏的曲线与楔形。地面和天空没有清楚分界；深蓝、翠绿、黄色与紫色弧带绕过并穿过动物形体。少数黑轮廓线强调眼睛与口鼻，宽阔笔触则以饱和色彩而非自然褐灰塑造身体。颜料表面保留有方向的笔痕与斑驳肌理，尤其在周围色带中。构图压缩而充满运动，空白很少，也没有传统地平线。暖橘色对冷蓝色形成鲜明情绪对比，绿色通道又把两者接入环境。重复对角线将能量从左下带向右上。尽管色彩碎裂，题材仍可辨识，形成动物力量、现代抽象与表现性色彩节奏的融合。",
+  "style_prompt_en": "The style is chromatic expressionist painting that fragments recognizable form into sweeping arcs, pointed wedges and overlapping saturated planes. Complementary warm and cool colors drive the composition while a few dark contours preserve legibility. Background and focal form interpenetrate, eliminating a stable horizon and compressing pictorial depth. Directional brush texture reinforces diagonals and bodily movement. Mottled transitions, vivid orange, blue and green, and nearly full-frame color make the square image energetic and emotionally heightened.",
+  "style_prompt_zh": "这种风格是色彩表现主义绘画，把可辨形体拆为扫动弧线、尖楔和交叠的饱和色面。互补的暖冷颜色推动构图，少数深轮廓保留可读性。背景与焦点形体彼此穿透，消除稳定地平线并压缩画面深度。有方向的笔触肌理强化对角线和身体运动。斑驳过渡、鲜明橘蓝绿及几乎满幅的色彩使正方形图像充满能量与情绪张力。",
+  "theme_en": "Two horses moving through an angular chromatic landscape",
+  "theme_zh": "穿行于棱角色彩风景中的两匹马",
+  "wh_ratio": "1:1",
+  "id": "4191",
+  "name": "Franz Marc",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/franz-marc.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "a8e1964ae1b7fc99fd1ee01e642d7ae980f4423ca6747ad7c724d221836aa05a",
+    "gpt_submission_prompt": "A square painting shows two horses moving toward the right through a landscape broken into large, intersecting color planes. The nearer horse is luminous orange, gold and red, its head lowered and body stretched along a strong diagonal. Behind it, a cool blue horse emerges from green and turquoise forms, partly concealed but clearly paired with the first. Their long necks, pointed ears and bent legs are simplified into rhythmic curves and wedges. The ground and sky do not separate cleanly; deep blue, emerald, yellow and violet arcs pass around and through the animal forms. A few black contour lines sharpen the eyes and muzzles while broad brushwork models the bodies in saturated color rather than naturalistic brown or gray. The paint surface retains directional strokes and mottled texture, especially in the surrounding bands. The composition feels compressed and full of motion, with little unoccupied space and no conventional horizon. Warm orange against cool blue creates a vivid emotional contrast, yet green passages connect both figures to the environment. Repeated diagonals carry energy from lower left to upper right. The subject remains legible despite the color fragmentation, producing a fusion of animal strength, modern abstraction and expressive chromatic rhythm.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "d7995543c86b100fc79d107b0c04dc658c557699fcb4e5da2ba80d96480816d0",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

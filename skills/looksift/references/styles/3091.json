@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A close digital portrait shows a young woman turning her head back toward the viewer against a flat, saturated orange field. Her short black bob creates the largest shape in the frame, curving around the pale face and ending in a few loose, hair-fine strands. The dark high collar rises from the lower left and merges with the hair, leaving face and eyes as the brightest focal area. The gaze is direct, with large green-brown irises carefully shaded beneath angular bangs; lips carry a softer coral red. The composition is cropped at the shoulders, close enough to make small differences of line and color prominent. Smooth color planes describe the cheeks and nose, while selective sharper strokes pick out eyelashes, hair highlights, and the mouth. Black is deep but not empty: subtle blue-green gleams and warm reflected touches move through the hair. Light appears frontal and warm, giving the skin a clear peach tone without heavy cast shadows. The orange background has almost no detail and leaves a wide breathing margin on the right, balancing the face's position just left of center. The result blends animation-like simplification with carefully observed portrait modeling. Its force comes from a limited black, peach, orange, and green palette, clean shape design, and the quiet tension of the turned pose.",
+  "full_prompt_zh": "一幅近距离数字肖像：年轻女子在饱和而平坦的橙色背景前回头望向观者。黑色齐耳短发形成画面最大的形状，环绕浅色面庞，在末端留出几缕细如发丝的散线。深色高领从左下升起并与头发融为一体，使面部和眼睛成为最明亮的焦点。目光直接，较大的绿棕色虹膜在棱角分明的刘海下细致受影；嘴唇则是更柔的珊瑚红。画幅裁至肩部，距离很近，线条与色彩的细小差别因此突出。平滑色面描出面颊和鼻子，少数更锐利的笔触挑出睫毛、发上的亮光和嘴形。黑色深沉却不空洞：头发里有细微的蓝绿光泽和暖色反光。光仿佛从正面温暖地照来，让皮肤呈清澈的桃色，而没有厚重投影。橙色背景几乎没有细节，并在右侧留下宽裕的呼吸边缘，平衡略偏左的面庞。作品把动画式的简化与仔细观察的肖像塑形结合起来。有限的黑、桃、橙和绿色，干净的形状设计，以及回望姿态中的安静张力，共同构成画面力量。",
+  "style_prompt_en": "A close digital illustration built from broad, clean dark shapes against a flat saturated orange field. A pale peach central area is modeled with smooth tonal planes and only a few precise line accents. Deep black carries subtle blue-green highlights; small green-brown and coral touches draw the eye. Edges are crisp at the main silhouette but soften along a few fine stray curves. Warm frontal light keeps shadows simple. Cropping is tight on the left with generous plain color to the right, producing a calm, direct rhythm between dense form and open space.",
+  "style_prompt_zh": "一幅近距离数字插画，由宽阔干净的深色形体衬托平涂的饱和橙色域。浅桃色中心区域通过平滑明度平面塑造，仅以少量精确线条强调。深黑中藏着细微蓝绿高光；绿棕与珊瑚色小块吸引目光。主要剪影边缘清晰，少数纤细游走的弧线则变得柔软。温暖的正面光使阴影简洁。左侧裁切紧密，右侧保留宽裕纯色空间，在密实形体与留白之间形成平静、直接的节奏。",
+  "theme_en": "A young woman turning toward the viewer against orange",
+  "theme_zh": "橙色背景前回望的年轻女子",
+  "wh_ratio": "1:1",
+  "id": "3091",
+  "name": "Ilya Kuvshinov",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/ilya-kuvshinov",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "ecf4bccb268532afe27e9c2991b16b6eb23c80789bc973f27748049cf97bd140",
+    "gpt_submission_prompt": "A close digital portrait shows a young woman turning her head back toward the viewer against a flat, saturated orange field. Her short black bob creates the largest shape in the frame, curving around the pale face and ending in a few loose, hair-fine strands. The dark high collar rises from the lower left and merges with the hair, leaving face and eyes as the brightest focal area. The gaze is direct, with large green-brown irises carefully shaded beneath angular bangs; lips carry a softer coral red. The composition is cropped at the shoulders, close enough to make small differences of line and color prominent. Smooth color planes describe the cheeks and nose, while selective sharper strokes pick out eyelashes, hair highlights, and the mouth. Black is deep but not empty: subtle blue-green gleams and warm reflected touches move through the hair. Light appears frontal and warm, giving the skin a clear peach tone without heavy cast shadows. The orange background has almost no detail and leaves a wide breathing margin on the right, balancing the face's position just left of center. The result blends animation-like simplification with carefully observed portrait modeling. Its force comes from a limited black, peach, orange, and green palette, clean shape design, and the quiet tension of the turned pose.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "eb66c5ddec0370fd7038e78357a57e774813e2bd6f60839c5afdc1c2c17884a2",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square mixed-media collage presents a woman's face emerging from an accumulation of leaves, insects, paper fragments, and earth-toned textures. The face is frontal, with direct brown eyes and full lips, occupying most of the center. Yet the forehead, cheeks, and hairline are broken into torn botanical shapes and mottled brown patches, so the human image seems to grow out of the surrounding material. Small butterflies and dark leaf silhouettes detach from the head and drift into the pale background, especially along the right edge. The palette stays close to warm ivory, ochre, sepia, muted olive, and charcoal, with occasional rust accents. Some features are realistically modeled, particularly the eyes and lips; adjacent areas have hard cut-paper seams, fibrous textures, and irregular collage overlaps. The outer head dissolves upward into a busy canopy of foliage and printed fragments. Light is soft and frontal, preserving the face's volume without removing the flattened paper quality. The background is off-white and spacious enough for the drifting shapes to remain distinct. The composition balances a calm, direct gaze with an unstable boundary between body and environment. The result feels intimate, transformative, and tactile, using fragmented organic material as both surface and meaning.",
+  "full_prompt_zh": "一幅方形混合媒介拼贴展示一张女子面孔从叶、昆虫、纸片和土色肌理的积累中浮出。脸正面朝外，棕眼直视，唇丰满，占据中央大部。但额、颊与发际裂成撕开的植物形和斑驳棕片，使人的图像似从周围材料生长。小蝶与深叶剪影从头部分离，漂入浅底，尤其在右边。配色贴近暖象牙、赭、烟褐、低调橄榄和炭色，偶有锈红点。部分特征写实塑形，尤其眼与唇；相邻区域则有硬纸切缝、纤维肌理和不规则拼贴覆盖。头外缘向上溶成繁忙叶冠与印刷碎片。光柔和正面，保留脸部体积，却不抹掉平面纸质感。背景米白且足够宽，让飘出的形体各自分明。构图以平静直视目光平衡身体与环境之间不稳定的边界。结果亲密、变形且可触，用碎裂有机材料同时作表面与意义。",
+  "style_prompt_en": "Mixed-media collage combines realistically modeled focal details with torn botanical fragments, fibrous paper, printed grain, and cut seams. Ivory, ochre, sepia, olive, charcoal, and restrained rust create an earthy palette. Hard fragment edges meet softly blended tonal areas, letting a recognizable central form dissolve into organic scatter. Small dark silhouettes drift across a pale spacious ground. Frontal soft light holds volume in the focal area, while the wider surface remains visibly flat and assembled. The finish is tactile, layered, and transformative, balancing calm clarity with material instability.",
+  "style_prompt_zh": "混合媒介拼贴把写实塑形焦点细节与撕裂植物碎片、纤维纸、印刷颗粒和切缝结合。象牙、赭、烟褐、橄榄、炭与克制锈红组成土地般配色。硬碎片边缘与柔和调子区域相遇，让可辨中央形体溶入有机散片。小深色剪影飘过浅而宽的底层。正面柔光让焦点有体积，较大表面仍明显平坦且经拼装。完成面可触、分层且不断变化，平静清晰与材料不稳定保持平衡。",
+  "theme_en": "A face assembled from leaves, insects, and earth-colored fragments",
+  "theme_zh": "由叶片、昆虫与泥土色碎片拼成的面孔",
+  "wh_ratio": "1:1",
+  "id": "4124",
+  "name": "Wangechi Mutu",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/wangechi-mutu.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "5a67aae537a6f65ea13c288a4150c1f14ccafba03f1b8684a060623bb55637c7",
+    "gpt_submission_prompt": "A square mixed-media collage presents a woman's face emerging from an accumulation of leaves, insects, paper fragments, and earth-toned textures. The face is frontal, with direct brown eyes and full lips, occupying most of the center. Yet the forehead, cheeks, and hairline are broken into torn botanical shapes and mottled brown patches, so the human image seems to grow out of the surrounding material. Small butterflies and dark leaf silhouettes detach from the head and drift into the pale background, especially along the right edge. The palette stays close to warm ivory, ochre, sepia, muted olive, and charcoal, with occasional rust accents. Some features are realistically modeled, particularly the eyes and lips; adjacent areas have hard cut-paper seams, fibrous textures, and irregular collage overlaps. The outer head dissolves upward into a busy canopy of foliage and printed fragments. Light is soft and frontal, preserving the face's volume without removing the flattened paper quality. The background is off-white and spacious enough for the drifting shapes to remain distinct. The composition balances a calm, direct gaze with an unstable boundary between body and environment. The result feels intimate, transformative, and tactile, using fragmented organic material as both surface and meaning.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "349d9e16ba2783a9daa53a3772bab82499c69fc3ab6b78f3600cb80f9168680a",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

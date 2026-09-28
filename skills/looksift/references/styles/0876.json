@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square fashion illustration shows a young woman in close left profile, her face angled toward the right beneath a sweeping black hat. The enormous brim curves upward at the far right and casts a dark crescent over her forehead, while a muted blue ribbon wraps the crown and trails in a bow at the back. Dark curly hair spills from below the hat around her cheek and neck, with warm ocher highlights catching individual locks. Her long neck and sharply lit nose, lips, and chin stand out against a weathered cream stone wall at the right. The eye is mostly shaded, its lashes and dark line visible beneath the brim. She wears an ocher yellow garment at the lower center, marked by broad angular folds and darker olive strokes; a thin dark necklace circles her neck. At left, the background is almost black, merging with the hat and hair so the illuminated face becomes the focal point. The right wall is built from large pale blocks with cracks, stains, scraped plaster, and scattered orange specks. Light comes from the right front, grazing the face and neckline while leaving much of the hat and curls in cool shadow. Paint handling shifts from smooth modeling on skin to scratchy, layered marks in the wall and garment. The composition feels elegant and dramatic, with a strong silhouette and a vivid balance of teal, amber, cream, and black.",
+  "full_prompt_zh": "一幅方形时装插画以近景左侧面描绘年轻女子，她的脸在宽阔黑帽下朝右。巨大的帽檐在最右处向上弯，额头上落一道深色弧影；低饱和蓝色丝带绕帽顶，并在后面拖出蝴蝶结。深色卷发从帽下垂到面颊和颈边，暖赭高光挑出几缕发丝。修长颈部以及受光清晰的鼻子、双唇、下巴在右侧风化奶油白石墙前突出。眼睛大多藏在阴影里，帽檐下可见睫毛和深色眼线。她在下方中央穿赭黄衣服，宽棱角褶皱和更深橄榄色笔痕标记其表面；细深项链绕颈。左侧背景近乎全黑，与帽和头发融合，让受光的脸成为焦点。右侧墙由大片浅色石块组成，带裂纹、污痕、刮擦灰泥和零散橙点。光从右前方照来，掠过脸和领口，帽子与卷发大部分留在冷影里。皮肤的平滑塑造转到墙和衣服的刮擦叠色痕迹。构图优雅而戏剧性，强剪影和深青、琥珀、奶油白与黑色的鲜活平衡共同支撑画面。",
+  "style_prompt_en": "Illustration combines smooth luminous modeling with distressed collage like surfaces. Deep black and charcoal form a dominant sweeping mass, interrupted by a cool teal band and warm amber lower area. A pale central plane receives focused side light, while its far edge falls rapidly into shadow. Curved contours give the composition elegance; rough rectangular fragments and scratched marks in the background add friction. Pigment appears layered, with stains, cracks, small orange flecks, and exposed underpainting across the light ground. The brightest detail is concentrated near one narrow focal zone, then dissolves into dense dark texture. Strong asymmetry balances an almost black side against an aged cream side. The result feels poised, dramatic, and tactile, with editorial polish retaining the energy of visible brushwork.",
+  "style_prompt_zh": "插画把平滑发光塑造与磨损拼贴般表面结合。深黑与炭灰形成主导的横扫体块，冷深青带与下方暖琥珀色将其打断。浅色中央平面接住聚焦侧光，远侧边缘迅速落入阴影。弯曲轮廓让构图优雅，背景粗糙矩形碎片与刮痕增添摩擦感。颜料层叠可见，浅底上有污渍、裂纹、小橙点和露出的底色。最亮细节聚在一道狭窄焦点带，随后溶入浓密深色肌理。强烈不对称平衡近黑一侧与陈旧奶油白一侧。整体端正、戏剧性而可触，编辑画面的精致仍保留明显笔触的能量。",
+  "theme_en": "Fashion profile in a wide black hat against an aged wall",
+  "theme_zh": "宽黑帽下的时装侧脸立在斑驳旧墙前",
+  "wh_ratio": "1:1",
+  "id": "0876",
+  "name": "Antonio Lopez",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/antonio-lopez",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/antonio-lopez.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "9d843b92677e76d53ba46afea9720617844b8ebf7b84c6e644c0c90fb4ae07a2",
+    "gpt_submission_prompt": "A square fashion illustration shows a young woman in close left profile, her face angled toward the right beneath a sweeping black hat. The enormous brim curves upward at the far right and casts a dark crescent over her forehead, while a muted blue ribbon wraps the crown and trails in a bow at the back. Dark curly hair spills from below the hat around her cheek and neck, with warm ocher highlights catching individual locks. Her long neck and sharply lit nose, lips, and chin stand out against a weathered cream stone wall at the right. The eye is mostly shaded, its lashes and dark line visible beneath the brim. She wears an ocher yellow garment at the lower center, marked by broad angular folds and darker olive strokes; a thin dark necklace circles her neck. At left, the background is almost black, merging with the hat and hair so the illuminated face becomes the focal point. The right wall is built from large pale blocks with cracks, stains, scraped plaster, and scattered orange specks. Light comes from the right front, grazing the face and neckline while leaving much of the hat and curls in cool shadow. Paint handling shifts from smooth modeling on skin to scratchy, layered marks in the wall and garment. The composition feels elegant and dramatic, with a strong silhouette and a vivid balance of teal, amber, cream, and black.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "2343d3134433c26f730b6bf50b551d090749340db55196fcf4edb02923144d96",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

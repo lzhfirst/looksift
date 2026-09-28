@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square modernist painting arranges a tabletop still life before a broad window and a blue sea. The foreground table is a pale rectangular plane tipped toward the viewer, holding a shallow blue bowl at the left, two round yellow fruits near its center, and a dark cup with a saucer at the front edge. Behind them, several slender bottles rise in black, slate blue, and muted cream. One broad dark bottle carries a small cream oval that catches the light, while another pale bottle has a long angular neck. A stemmed glass and a small cup stand to the right. All objects are reduced to firm contours and blocks of color; their shadows flatten into sharp blue-black shapes that connect the vessels to the tabletop. Vertical window bars divide the upper half into compartments. Beyond them, two large pale half circles hover above a deep blue horizontal band of water, with a thin light vessel or rail near the horizon. The wall and window recesses alternate between charcoal, dusty blue, off-white, and warm gray. Texture is dry and gently streaked, like opaque paint worked over a lightly grained surface. Edges are mostly straight and decisive, yet the circles of fruit, bowl, and arches soften the strict grid. Light reads as cool daylight from the opening, indicated by cream highlights and dark interior silhouettes rather than atmospheric modeling. The composition feels measured and quiet: repeated verticals hold the scene upright, and the broad horizontal sea line gives the tightly fitted still life depth.",
+  "full_prompt_zh": "一幅方形现代主义绘画把桌面静物安置在宽窗与蓝色海面之前。前景桌子是一块向观众倾斜的浅色矩形平面，左侧放浅蓝碗，中央附近有两枚圆形黄色果实，前缘有带碟的深色杯子。后面数只细长瓶子以黑色、石板蓝和暗奶油色竖起。一只宽大的深色瓶身带着捕光的奶油色小椭圆，另一只浅色瓶有修长的折角瓶颈。右侧立着高脚杯和小杯。所有物件都被简化为坚定轮廓与色块；它们的阴影压平成尖锐的蓝黑形状，把器皿与桌面连在一起。垂直窗框把上半幅划成若干区。框外，两道巨大的浅色半圆悬于深蓝色横向水带之上，地平线附近还有一条细小的浅色船形或栏杆。墙面与窗洞在炭黑、灰蓝、米白和暖灰之间交替。肌理干燥而轻微带条痕，仿佛不透明颜料在细颗粒表面反复涂抹。边缘大多笔直而果断，果实、碗与拱弧的圆形却缓和了严格网格。冷色日光从窗洞透入，靠奶油色亮部与室内暗剪影呈现，而不依赖大气式塑形。构图精确安静：重复竖线把场景稳稳立起，宽阔水平海线则为紧密拼合的静物带来纵深。",
+  "style_prompt_en": "Use a restrained modernist language of opaque, dry paint and lightly grained surfaces. Reduce volumes to interlocking flat planes with crisp verticals, horizontal bands, selective curves, and hard-edged cast shadows. Work in dusty and deep blues, charcoal, warm gray, cream, and a few muted ocher accents. Let cool daylight be expressed through tonal blocks and silhouetted overlaps instead of smooth gradients. Keep the spatial construction shallow but legible, with repeated geometric rhythms, carefully balanced negative spaces, and quiet tactile brush texture.",
+  "style_prompt_zh": "采用克制的现代主义语言，以不透明干涩颜料和轻颗粒表面作画。把体积归纳为相扣的平面，用清晰竖线、水平色带、少量曲线和硬边投影组织画面。调色取灰蓝与深蓝、炭黑、暖灰、奶油色，并点入少许暗赭黄。以明暗色块和重叠剪影表现冷日光，而非平滑渐层。空间压浅但保持可读，借重复几何节奏、精确平衡的留白与安静的笔触肌理成形。",
+  "theme_en": "A geometric blue still life of bottles, fruit, a cup, and a window to the sea",
+  "theme_zh": "蓝调几何静物：瓶、果实、杯子与望向海面的窗",
+  "wh_ratio": "1:1",
+  "id": "1882",
+  "name": "Yiannis Moralis",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/yiannis-moralis",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/yiannis-moralis.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "c25e33a3f886feb63602143f24d2dacf3216d171933fdca0790fbd9a219198c8",
+    "gpt_submission_prompt": "A square modernist painting arranges a tabletop still life before a broad window and a blue sea. The foreground table is a pale rectangular plane tipped toward the viewer, holding a shallow blue bowl at the left, two round yellow fruits near its center, and a dark cup with a saucer at the front edge. Behind them, several slender bottles rise in black, slate blue, and muted cream. One broad dark bottle carries a small cream oval that catches the light, while another pale bottle has a long angular neck. A stemmed glass and a small cup stand to the right. All objects are reduced to firm contours and blocks of color; their shadows flatten into sharp blue-black shapes that connect the vessels to the tabletop. Vertical window bars divide the upper half into compartments. Beyond them, two large pale half circles hover above a deep blue horizontal band of water, with a thin light vessel or rail near the horizon. The wall and window recesses alternate between charcoal, dusty blue, off-white, and warm gray. Texture is dry and gently streaked, like opaque paint worked over a lightly grained surface. Edges are mostly straight and decisive, yet the circles of fruit, bowl, and arches soften the strict grid. Light reads as cool daylight from the opening, indicated by cream highlights and dark interior silhouettes rather than atmospheric modeling. The composition feels measured and quiet: repeated verticals hold the scene upright, and the broad horizontal sea line gives the tightly fitted still life depth.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "00a92cc46e289045b1cfa0924df1943f37b2a34cdf27e3387397ba42095bc893",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

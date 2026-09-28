@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square antique photographic portrait shows a young woman from the chest upward against a dark, softly indistinct background. She looks directly toward the camera with a serious, quiet expression. A long muted veil or head covering falls from a pale band over her dark hair, framing her face and descending along the left side of the image. Her dress is dark with a patterned high neckline and a lighter folded collar. At the lower right, she holds or stands beside a loose cluster of white flowers, their bright petals emerging from shadow. Her face is lit softly from the left, with gentle highlights along her forehead, nose, and cheeks and a fine penumbra beneath the eyes. The eyes remain the clearest focal points; outer edges of hair, veil, and flowers are slightly softened by the old lens. The background is almost black brown with a few blurred tonal marks, giving no explicit place or time beyond the clothing and photographic process. Sepia and warm gray dominate the image, from creamy skin highlights to deep umber shadow. Faint grain, small imperfections, and a mild vignette strengthen the impression of an early photographic print. The framing is close and nearly centered, yet the drape on the left and flowers on the right create a gentle asymmetry. No visible frame, inscription, jewelry, or text appears. The portrait feels intimate and solemn, using soft focus and direct gaze to give an ordinary face an almost allegorical presence without adding a staged narrative.",
+  "full_prompt_zh": "一张方形旧式肖像照片从胸部向上呈现一位年轻女子，背后是深而模糊的背景。她直望镜头，神情严肃安静。长而低调的头巾从深发上的浅色头带垂下，框住脸并沿画面左侧延伸。她穿深色连衣裙，有花纹高领和较浅的折领。右下她捧着或靠近一簇松散白花，亮花瓣从阴影中浮出。脸受左侧柔光照亮，额头、鼻梁和脸颊有轻高光，眼下有细柔半影。眼睛保持最清楚的焦点；头发、头巾和花的外缘受旧镜头略柔化。背景近乎黑褐，只带几处模糊明暗，除衣服和摄影工艺外不给明确地点与年代。棕褐和暖灰主导画面，从奶油肤色亮部到深褐影。浅颗粒、小瑕疵和轻暗角强化早期照片印相感。裁切紧且近乎居中，但左边披布和右边花形成温和不对称。没有可见边框、题字、珠宝或文字。肖像亲近而肃穆，用柔焦与直视赋予普通面容近乎寓言的存在感，却不添加摆拍叙事。",
+  "style_prompt_en": "Use an early photographic portrait treatment with warm sepia-gray tonality, soft lens falloff, faint print grain, and mild vignetting. Keep one small focal area, especially a gaze or delicate texture, more resolved than veiled edges and background. Place a pale accent against deep umber shadow and let the surrounding drape or organic form create gentle asymmetry. Light from one broad side should model the center softly without modern crispness or high-gloss polish. Preserve small material imperfections and a quiet tonal range. The mood is intimate, solemn, and timeless, with expressive force arising from direct stillness and the optical softness of an old print.",
+  "style_prompt_zh": "采用早期肖像摄影处理，以暖棕褐灰调、镜头边缘柔化、浅印相颗粒与轻暗角为特点。让一处小焦点，尤其目光或细腻纹理，比蒙雾的边缘和背景更清楚。在深褐影前放一处浅色重音，让周围披垂或有机形构成温和不对称。一侧宽柔光轻塑中央，不带现代锐利与高亮抛光。保留微小材料瑕疵和安静灰度范围。氛围亲近、肃穆且超越时间，表达力来自直接静止及旧照片的光学柔和。",
+  "theme_en": "A veiled young woman holding white flowers in a soft antique portrait",
+  "theme_zh": "旧式柔焦肖像里，蒙头巾的年轻女子捧着白花",
+  "wh_ratio": "1:1",
+  "id": "4481",
+  "name": "Julia Margaret Cameron",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/julia-margaret-cameron.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "cb48cbaf78aed80299c28c3dda6840bf9446a2bbe2904663efd1eb1100d6239a",
+    "gpt_submission_prompt": "A square antique photographic portrait shows a young woman from the chest upward against a dark, softly indistinct background. She looks directly toward the camera with a serious, quiet expression. A long muted veil or head covering falls from a pale band over her dark hair, framing her face and descending along the left side of the image. Her dress is dark with a patterned high neckline and a lighter folded collar. At the lower right, she holds or stands beside a loose cluster of white flowers, their bright petals emerging from shadow. Her face is lit softly from the left, with gentle highlights along her forehead, nose, and cheeks and a fine penumbra beneath the eyes. The eyes remain the clearest focal points; outer edges of hair, veil, and flowers are slightly softened by the old lens. The background is almost black brown with a few blurred tonal marks, giving no explicit place or time beyond the clothing and photographic process. Sepia and warm gray dominate the image, from creamy skin highlights to deep umber shadow. Faint grain, small imperfections, and a mild vignette strengthen the impression of an early photographic print. The framing is close and nearly centered, yet the drape on the left and flowers on the right create a gentle asymmetry. No visible frame, inscription, jewelry, or text appears. The portrait feels intimate and solemn, using soft focus and direct gaze to give an ordinary face an almost allegorical presence without adding a staged narrative.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "5268517f37dbd8ecae26260f755dff452189bf61ba0a183055d81c2988c94ed3",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

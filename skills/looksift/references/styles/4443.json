@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square color photograph shows a young woman with short dark hair standing amid dense leafy branches and white blossoms. Her face sits near the center, but several pale flowers cross in front of one eye and the upper forehead, making the portrait feel discovered through foliage rather than cleanly presented. More blossoms float softly out of focus along the top edge and near the left foreground. Her expression is quiet and direct, with relaxed lips and a gaze that remains visible through the interruptions. A sleeveless green dress with a small floral pattern blends her lower body into the surrounding leaves. Dark teal shadows fill the background, while a cool frontal flash catches the petals, skin and fabric with crisp, slightly uneven brightness. The image retains a casual analog-film quality: fine grain, slight color shifts, shallow focus and a candid sense of proximity. The white flowers appear luminous against the blue-green darkness, while gentle pink and yellow notes in their centers add small warm accents. The frame is crowded but readable because the face and blossoms occupy distinct focus planes. Plant stems, leaves, hair and dress pattern overlap in a loose lattice. The resulting mood is intimate and fleeting, as though a momentary opening in the branches revealed a face for one exposure.",
+  "full_prompt_zh": "一幅正方形彩色照片呈现一位短黑发年轻女子站在茂密枝叶与白色花朵之间。她的脸位于中央附近，但几朵浅色花横过一只眼睛与额头上部，使肖像像是从植物间偶然发现，而非被干净地摆出。更多花朵在上缘和左侧前景柔软失焦。她神情安静而直接，嘴唇放松，目光仍从遮挡之间可见。带细小花纹的无袖绿裙使下半身融进周围叶片。深青绿色阴影铺满背景，偏冷的正面闪光则以清脆、略不均匀的亮度照到花瓣、皮肤与布料。图像保留随意的胶片质感：细颗粒、轻微偏色、浅景深和近距离的抓拍感。白花在蓝绿色暗处显得发亮，花心柔和的粉色与黄色形成微小暖色点。画面拥挤却仍可读，因为面容与花朵处于不同焦平面。茎、叶、头发和裙上图案交叠成松散网格。最终气氛亲密而短暂，仿佛枝叶间一瞬间的空隙只容许一次曝光。",
+  "style_prompt_en": "The style is intimate color photography with overlapping near, middle and far planes, shallow focus and an incidental framing rhythm. Cool frontal flash creates crisp local highlights against deep blue-green ambient shade. Fine grain, gentle color shifts and slightly imperfect exposure preserve an analog snapshot character. Soft foreground blur passes across a more legible central plane, making concealment part of the composition. Repeated small organic shapes mingle with patterned color while a few pale highlights remain luminous. The square frame feels crowded, spontaneous and quietly direct.",
+  "style_prompt_zh": "这种风格是亲密的彩色摄影，前中后景彼此叠压，浅景深与偶然取景形成节奏。偏冷的正面闪光在深蓝绿色环境暗部之上制造清脆的局部高光。细颗粒、轻微偏色与稍不完美的曝光保留胶片快照气质。柔软的前景虚化掠过较清楚的中央平面，使遮挡本身成为构图的一部分。重复的小型有机形状与带图案的色彩相混，少数浅色高光持续发亮。正方形画面显得拥挤、自发而安静直接。",
+  "theme_en": "A young woman partly concealed by white blossoms at dusk",
+  "theme_zh": "暮色中被白花部分遮掩的年轻女子",
+  "wh_ratio": "1:1",
+  "id": "4443",
+  "name": "Ren Hang",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/ren-hang.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "c46f4bf5728a8f7c66e38dd60d1775a9fa0a3cd03760b195941c3ed2e8b7d39b",
+    "gpt_submission_prompt": "A square color photograph shows a young woman with short dark hair standing amid dense leafy branches and white blossoms. Her face sits near the center, but several pale flowers cross in front of one eye and the upper forehead, making the portrait feel discovered through foliage rather than cleanly presented. More blossoms float softly out of focus along the top edge and near the left foreground. Her expression is quiet and direct, with relaxed lips and a gaze that remains visible through the interruptions. A sleeveless green dress with a small floral pattern blends her lower body into the surrounding leaves. Dark teal shadows fill the background, while a cool frontal flash catches the petals, skin and fabric with crisp, slightly uneven brightness. The image retains a casual analog-film quality: fine grain, slight color shifts, shallow focus and a candid sense of proximity. The white flowers appear luminous against the blue-green darkness, while gentle pink and yellow notes in their centers add small warm accents. The frame is crowded but readable because the face and blossoms occupy distinct focus planes. Plant stems, leaves, hair and dress pattern overlap in a loose lattice. The resulting mood is intimate and fleeting, as though a momentary opening in the branches revealed a face for one exposure.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "e660f9da06b4ab8911e3344159e135ecc90427df162a3b284774988b8d0e61c8",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

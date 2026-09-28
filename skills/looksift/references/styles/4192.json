@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square cyanotype print shows a leafy branch crossing a rectangular deep blue field on off-white paper. Several thin stems enter from the lower left and arc toward the upper right, carrying rounded and pointed leaves at different angles. Some leaves are dense navy silhouettes; others become pale blue translucent shapes where light passes through or exposure varies. The central field has uneven edges, with brushy streaks and slight blue spill crossing the white margin. Inside the blue, large soft shadow shapes overlap the crisp plant contours, suggesting layered contact and differing distances from the sensitized surface. The strongest light area lies near the middle left, fading outward to dark Prussian blue at the top and right. There is no conventional horizon or built space; the print is organized by flat paper, botanical shadow, and chemical tonal gradients. Fine leaf veins show in a few brighter areas, while other forms reduce to simple silhouette. The white border makes the print feel like a handmade physical object rather than a full-bleed digital image. The branch gives a gentle diagonal rhythm through the square. Overall, the image is quiet and graphic, with the tactile imperfections of exposure and washing enriching its restrained blue-and-white palette.",
+  "full_prompt_zh": "一幅方形蓝晒版画在米白纸上呈现一块深蓝长方色域，叶枝穿过其中。几根细茎从左下伸入，向右上弯曲，带有朝向各异的圆形和尖形叶片。有些叶片是浓藏蓝剪影，另一些因透光或曝光差异变为浅蓝半透明形。中央蓝色域边缘不均，有刷痕和少量蓝色溢过白色边框。蓝底内部，大块柔影与清楚植物轮廓重叠，暗示多层接触与不同的感光表面距离。最强浅色区域在左中，向外渐变到顶部和右侧普鲁士深蓝。这里没有传统地平线或建筑空间；图像由平纸、植物投影与化学调子渐层组织。几处较亮叶片能看见细叶脉，其他则简化为剪影。白边让版画像手制实物，而非满版数字图。枝条在方幅中建立温和对角节奏。整体安静且图形性强，曝光和冲洗的可触不完美丰富其克制蓝白配色。",
+  "style_prompt_en": "Cyanotype printing uses Prussian blue, pale blue, and off-white paper in a strict two-color family. Contact shadows range from crisp opaque silhouettes to translucent soft-edged impressions. Chemical exposure produces uneven gradients, brushy borders, and slight stains that reveal the handmade process. A diagonal network of fine lines crosses broad flat color fields. Depth comes from overlapping shadow densities rather than perspective. The bright paper margin frames the saturated interior and gives the image physical presence. The result is spare, botanical in rhythm, and quietly experimental.",
+  "style_prompt_zh": "蓝晒工艺以普鲁士蓝、浅蓝与米白纸构成严格双色家族。接触投影从清楚不透的剪影变化到半透明柔边印痕。化学曝光带来不均渐层、刷状边框和轻微污迹，显露手工过程。细线对角网络穿过宽阔平色域。纵深来自不同浓度投影的覆盖，而非透视。亮纸边框围住饱和内层，使图像有实物存在感。结果简省，有植物般节奏，并安静地实验性。",
+  "theme_en": "A leafy branch rendered as a deep blue sun print",
+  "theme_zh": "深蓝晒印中的叶枝",
+  "wh_ratio": "1:1",
+  "id": "4192",
+  "name": "Cyanotype print",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/cyanotype-print.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "8c6d0eb0fe461d168efaf801617ed2dd504475209cd75605ab8ca8654305f30f",
+    "gpt_submission_prompt": "A square cyanotype print shows a leafy branch crossing a rectangular deep blue field on off-white paper. Several thin stems enter from the lower left and arc toward the upper right, carrying rounded and pointed leaves at different angles. Some leaves are dense navy silhouettes; others become pale blue translucent shapes where light passes through or exposure varies. The central field has uneven edges, with brushy streaks and slight blue spill crossing the white margin. Inside the blue, large soft shadow shapes overlap the crisp plant contours, suggesting layered contact and differing distances from the sensitized surface. The strongest light area lies near the middle left, fading outward to dark Prussian blue at the top and right. There is no conventional horizon or built space; the print is organized by flat paper, botanical shadow, and chemical tonal gradients. Fine leaf veins show in a few brighter areas, while other forms reduce to simple silhouette. The white border makes the print feel like a handmade physical object rather than a full-bleed digital image. The branch gives a gentle diagonal rhythm through the square. Overall, the image is quiet and graphic, with the tactile imperfections of exposure and washing enriching its restrained blue-and-white palette.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "d03a5bc36e4a2c0db2d2330a0de47dcec91e26307e8714b2e7db26e6eb69ff56",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

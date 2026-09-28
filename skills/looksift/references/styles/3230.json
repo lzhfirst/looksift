@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square storybook illustration shows a small group of unusual children meeting on a path in a dark wood. At the center left, a girl in a red coat and pointed red cap faces right, one hand raised as if speaking. A bespectacled child with a large pack stands to her left, while two round-eyed children and a tall wild-haired companion gather on her right. Tiny animals and insectlike creatures appear along the lower ground. Bare tree trunks curve around the group and meet overhead, making a tunnel of dark branches. A few small warm lights glimmer among the twigs. The children are drawn with exaggerated round eyes and narrow bodies, their expressions curious rather than frightened. The ground is pale gray beige with scattered stones and leaves, letting their shoes and small creatures remain visible. Fine black pen lines and crosshatching build bark, hair and clothing texture, while muted watercolor washes add rust red, olive and dusty brown. Light seems to fall softly from above the path, brightening faces and the girl's coat while the surrounding forest stays charcoal. The composition is clustered but easy to read: the red figure is a warm focal point among mostly gray forms. Its detailed, slightly crooked drawing gives the encounter gentle humor and a touch of nighttime mystery.",
+  "full_prompt_zh": "这幅方形故事书插画呈现一小群奇异孩子在暗林小路上相遇。中央偏左的女孩穿红外套、戴尖红帽，朝右，一只手抬起像在说话。左侧一名戴眼镜、背大包的孩子站着；右侧两名圆眼孩子和一位乱发高个同伴聚过来。细小动物与昆虫般生物出现在下方地面。裸树干弯向人群上方相接，形成深枝隧道。几颗小暖光在枝间闪动。孩子们眼睛被夸张成圆形，身体窄小，神情好奇而不恐惧。地面是浅灰米色，散有石块与叶片，使鞋和小生物保持可见。细黑钢笔线与交叉排线建立树皮、头发和衣纹，低饱和水彩洗加入锈红、橄榄与灰棕。光似乎柔和地从小路上方落下，照亮面孔与女孩外套，周围树林仍是炭色。构图成簇却易读：红形是大部分灰形中的暖焦点。细致而略歪斜的绘图使相遇带有温柔幽默与一点夜间神秘。",
+  "style_prompt_en": "The storybook illustration mixes fine black pen hatching with muted watercolor washes and a gently crooked line. Charcoal, warm gray, olive and dusty brown surround one compact rust red accent. Small overhead glows brighten a central clearing while branching dark contours enclose it. Exaggerated rounded shapes remain simple enough to read amid dense texture. Uneven handmade marks create warmth, humor and a little mystery.",
+  "style_prompt_zh": "这种故事书插画混合细黑钢笔排线、低饱和水彩洗与温和歪斜的线。炭色、暖灰、橄榄和灰棕围住一块紧凑锈红点。上方细小亮点照亮中央空地，分枝暗轮廓围合它。夸张圆形在密集纹理里仍保持简单可读。不均匀手工笔记带来暖意、幽默和一点神秘。",
+  "theme_en": "A red-coated girl meeting odd children in a moonlit wood",
+  "theme_zh": "月下林中红衣女孩遇见奇异孩子",
+  "wh_ratio": "1:1",
+  "id": "3230",
+  "name": "Liniers",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/liniers",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "85c2df4b29b8488edfdbf73fe93c6ffab3eaaa28ea023baf65df0dbec8a92eee",
+    "gpt_submission_prompt": "A square storybook illustration shows a small group of unusual children meeting on a path in a dark wood. At the center left, a girl in a red coat and pointed red cap faces right, one hand raised as if speaking. A bespectacled child with a large pack stands to her left, while two round-eyed children and a tall wild-haired companion gather on her right. Tiny animals and insectlike creatures appear along the lower ground. Bare tree trunks curve around the group and meet overhead, making a tunnel of dark branches. A few small warm lights glimmer among the twigs. The children are drawn with exaggerated round eyes and narrow bodies, their expressions curious rather than frightened. The ground is pale gray beige with scattered stones and leaves, letting their shoes and small creatures remain visible. Fine black pen lines and crosshatching build bark, hair and clothing texture, while muted watercolor washes add rust red, olive and dusty brown. Light seems to fall softly from above the path, brightening faces and the girl's coat while the surrounding forest stays charcoal. The composition is clustered but easy to read: the red figure is a warm focal point among mostly gray forms. Its detailed, slightly crooked drawing gives the encounter gentle humor and a touch of nighttime mystery.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "cb83f1cbb8e040ffcd074cd4973d918132350445cab5aec8a9aa6952eff2c840",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

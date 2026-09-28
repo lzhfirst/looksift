@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "The painting depicts a woman in a vivid crimson dress standing against a roughly painted background. Her head is turned down and toward the left, so her gaze leaves the frame rather than meeting the viewer. Dark, wind-tossed hair crosses her cheek and neck, its quick strokes contrasting with the warmer exposed skin of her shoulders and arms. The sleeveless dress has a fitted bodice and a full skirt that opens into broad red and burgundy sweeps across the lower half. A dark belt or fold gathers the waist. The background is assembled from large patches of blue-violet, teal, gray, and white; some areas look scraped with a palette knife, leaving broken ridges and glimpses of earlier color. The upper field is cool and shadowed, while white and pale blue strokes behind the torso sharpen the red silhouette. Her face and neck receive delicate warm modeling, but clothing and surroundings remain energetic, almost abstract. Light appears to fall from the left front, catching collarbone, cheek, and the top edges of paint ridges. There is no detailed room or landscape. The square composition relies on the woman's off-center turn and the skirt's lateral movement to animate a simple figure-ground relationship. Thick strokes, abrupt color changes, and unfinished passages keep the painting visibly handmade. The overall effect is passionate and fleeting, as though a brief movement has been caught in a rush of saturated paint.",
+  "full_prompt_zh": "油画描绘一位身穿鲜亮绯红长裙的女子，站在粗放涂画的背景前。头低垂并向左转，目光离开画幅而非与观者相遇。深发如被风吹散，迅速笔触越过脸颊和颈部，对照肩臂较暖的裸露皮肤。无袖长裙的上身贴合，丰盈裙摆在下半部展开成宽阔红色与酒红色扫笔。腰部由深色腰带或衣褶收紧。背景由蓝紫、湖绿、灰和白的大块色斑拼成，有些部位像被调色刀刮过，留下断裂的厚涂隆起及早先颜色的缝隙。上方区域冷而暗，躯干背后的白与浅蓝笔痕让红色剪影更鲜明。面容与颈部有细致暖色塑形，但服装和四周保持充满能量、几乎抽象的处理。光似乎从左前方落下，照亮锁骨、脸颊和颜料脊顶端。没有详细房间或风景。方形构图依靠女子偏侧的转身和裙摆的横向运动激活简单的前后关系。厚笔、突然的色彩转换和未完成处让画作显得真实手工。整体热烈而短暂，仿佛一个瞬间动作被饱和颜料的疾速涌动捕捉。",
+  "style_prompt_en": "Paint with gestural oil strokes, palette-knife scraping, broken impasto ridges, and visibly unfinished passages. Contrast saturated crimson and burgundy with cool blue-violet, teal, gray, and chalky white. Model a small focal area more delicately while letting surrounding surfaces dissolve into broad energetic color. Use abrupt value shifts to clarify silhouette and gentle front-side light to catch raised paint. Keep the square composition dynamic through directional brush movement.",
+  "style_prompt_zh": "以手势性油画笔触、调色刀刮擦、断裂厚涂隆起和可见未完成区域作画。用饱和绯红与酒红对照冷蓝紫、湖绿、灰和粉笔白。较细致地塑造一小处视觉焦点，令周围表面消散为宽阔有力的色彩。以突然的明暗转折澄清剪影，柔和侧前光照到凸起颜料。通过笔触方向让方形构图保持动势。",
+  "theme_en": "Woman in a crimson dress against scraped color",
+  "theme_zh": "刮擦色面前的红裙女子",
+  "wh_ratio": "1:1",
+  "id": "1761",
+  "name": "Henry Asencio",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/henry-asencio",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/henry-asencio.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "b697c735924106bfab4ff83d84ac4bdd342798a820e6f5c6dff7ced3293df11e",
+    "gpt_submission_prompt": "The painting depicts a woman in a vivid crimson dress standing against a roughly painted background. Her head is turned down and toward the left, so her gaze leaves the frame rather than meeting the viewer. Dark, wind-tossed hair crosses her cheek and neck, its quick strokes contrasting with the warmer exposed skin of her shoulders and arms. The sleeveless dress has a fitted bodice and a full skirt that opens into broad red and burgundy sweeps across the lower half. A dark belt or fold gathers the waist. The background is assembled from large patches of blue-violet, teal, gray, and white; some areas look scraped with a palette knife, leaving broken ridges and glimpses of earlier color. The upper field is cool and shadowed, while white and pale blue strokes behind the torso sharpen the red silhouette. Her face and neck receive delicate warm modeling, but clothing and surroundings remain energetic, almost abstract. Light appears to fall from the left front, catching collarbone, cheek, and the top edges of paint ridges. There is no detailed room or landscape. The square composition relies on the woman's off-center turn and the skirt's lateral movement to animate a simple figure-ground relationship. Thick strokes, abrupt color changes, and unfinished passages keep the painting visibly handmade. The overall effect is passionate and fleeting, as though a brief movement has been caught in a rush of saturated paint.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "17ea02ec63e624b5f6215728f63e5d1fa0e7a01659bbf4f87201bd3a248d6aac",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

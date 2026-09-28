@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square natural-history illustration places a large red-brown owl on a curving branch amid dense green foliage. The bird turns directly outward, with round golden eyes encircled by black and warm orange markings. Small ear tufts sharpen the head silhouette. Its hooked pale beak points downward between dark facial markings, and intricate short feather marks cover the chest. Broad rust-red wing feathers form a smooth mass at the right, while darker bars and finer etched lines mark the lower body and tail. Overlapping leaves in cool sage, olive, and forest green fill the surrounding frame, some lit with muted gray-green highlights and others falling into near-black shadow. Thin stems and a few small pale blossoms add detail around the branch. The background is densely layered rather than open, but the owl's warm color and bright eyes separate it from the cool plant shapes. Illustration detail is precise and almost engraved, with clean contours, directional feather strokes, and finely described leaf veins. A subdued light from the upper left picks out the eyes, forehead, breast, and front leaf surfaces. Shadowed recesses remain deep and velvety. The overall image combines close observational detail with a richly decorative arrangement, making the owl the clear focal form within a compact botanical setting.",
+  "full_prompt_zh": "一幅方形博物画插图把一只大型红褐猫头鹰置于弯曲树枝上，周围是浓密绿叶。鸟正面朝外，圆金色眼睛由黑色和暖橙花纹环绕。小耳羽让头部轮廓更尖。淡色钩嘴在深色面纹间向下，胸部布满细短羽毛笔痕。宽阔的锈红翼羽在右侧构成平顺团块，下身与尾部则有较深横纹和更细的刻画线。冷鼠尾草绿、橄榄绿与森林绿的叶片相互重叠，填满四周；有的承接低调灰绿亮面，有的落入近黑阴影。细茎与几朵小浅色花增加枝条周围的细节。背景层次浓密而不空旷，但猫头鹰的暖色与明亮双眼使它从冷色植物形体中分离。插画细节精确，近似版刻，轮廓清楚，羽毛笔痕有方向，叶脉细致。左上方低调的光照亮眼、额、胸以及叶片正面。凹入阴影仍深而柔哑。整体将贴近观察的细节与丰富装饰性布局结合，让猫头鹰成为紧凑植物环境中的清楚焦点。",
+  "style_prompt_en": "Natural-history illustration combines precise contours with fine engraved feather-like marks and carefully veined organic surfaces. Rust red and golden ochre provide warm focal color within layered sage, olive, and forest green. Detail remains crisp in the lit center and sinks into velvety near-black recesses around it. A subdued upper-side light glances across raised forms, creating depth through overlaps and cool shadow. The square is densely filled, yet variations in mark size and warm-cool contrast keep a readable focal hierarchy. The finish feels meticulous, richly colored, and tactile, like a carefully hand-tinted plate.",
+  "style_prompt_zh": "博物画插图把准确轮廓、细密版刻般的羽状笔痕和精心描绘的叶脉有机表面结合起来。锈红与金赭在层叠的鼠尾草绿、橄榄绿和森林绿中形成暖色焦点。亮处中心细节清晰，四周则沉入柔哑近黑的凹入暗部。低调侧上方光掠过凸起形体，通过覆盖和冷影建立深度。方幅布置浓密，但笔痕大小变化和冷暖对比维持清晰焦点层级。完成面精密、浓艳而可触，像经过细心手工设色的图版。",
+  "theme_en": "A red-brown owl among dense green leaves",
+  "theme_zh": "浓密绿叶间的红褐猫头鹰",
+  "wh_ratio": "1:1",
+  "id": "2506",
+  "name": "John James Audubon",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/john-james-audubon",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/john-james-audubon.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "dcf16cd579692b23259811994d581f7fcf756852fcaaced25219c1d6d1348fa6",
+    "gpt_submission_prompt": "A square natural-history illustration places a large red-brown owl on a curving branch amid dense green foliage. The bird turns directly outward, with round golden eyes encircled by black and warm orange markings. Small ear tufts sharpen the head silhouette. Its hooked pale beak points downward between dark facial markings, and intricate short feather marks cover the chest. Broad rust-red wing feathers form a smooth mass at the right, while darker bars and finer etched lines mark the lower body and tail. Overlapping leaves in cool sage, olive, and forest green fill the surrounding frame, some lit with muted gray-green highlights and others falling into near-black shadow. Thin stems and a few small pale blossoms add detail around the branch. The background is densely layered rather than open, but the owl's warm color and bright eyes separate it from the cool plant shapes. Illustration detail is precise and almost engraved, with clean contours, directional feather strokes, and finely described leaf veins. A subdued light from the upper left picks out the eyes, forehead, breast, and front leaf surfaces. Shadowed recesses remain deep and velvety. The overall image combines close observational detail with a richly decorative arrangement, making the owl the clear focal form within a compact botanical setting.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "3f84980fefb8e2e44c50a958f4072bafa0f9cc5607e603402ddfda937ed26d22",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

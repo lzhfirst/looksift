@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A lone traveler stands with her back to the viewer on a wide gravel platform, facing a long silver passenger train that recedes to the right-hand horizon. She wears a calf-length brick-red coat and a small tan hat, and holds a compact brown suitcase at her side. The train occupies the left half of the scene, its windows and metal panels drawn in orderly repeating lines that taper into distant perspective. A broad empty foreground spreads around the figure, crossed by her long dark shadow. Beyond the tracks lies a flat ocher plain with sparse vertical posts, under a clear, pale blue sky. The horizon is very low and almost perfectly straight, giving the sky and open ground unusual weight. Midday light is precise, cool, and unclouded: the coat glows red against muted grey and blue, while the shadow is a hard, clean shape. The painting is smooth and controlled, with carefully described geometry but little surface flourish. Details in the train remain legible yet restrained, and the solitary figure is reduced to a strong vertical silhouette rather than an expressive face. The entire composition rests on distance, repetition, and withheld narrative. Small color contrasts and exact spacing create a mood of stillness with a hint of unease, as though a familiar travel moment has paused outside normal time.",
+  "full_prompt_zh": "一位独行旅人背对观者站在宽阔的碎石站台上，面向一列向右侧地平线延伸的银灰色客车。她穿着到小腿的砖红色外套，戴浅棕小帽，身旁提着一只小棕色旅行箱。列车占据画面左半部，车窗和金属板以有秩序的重复线条描绘，并向远处透视收缩。宽广的空旷前景在人物周围铺开，被她长长的深色影子穿过。铁轨之外是平坦的赭色原野，仅有稀疏的竖直杆柱，上方是一片清澈的浅蓝天空。地平线极低而近乎笔直，使天空和开阔地面拥有异常分量。正午光线准确、清冷且无云：外套在柔和灰蓝中亮起红色，投影则是干净锐利的形状。画面平滑而受控，几何结构刻画谨慎，却少有表面炫技。列车细节仍清晰可辨但保持克制，孤独的人物被简化为有力的垂直剪影，而非富于表情的面孔。整个构图依赖距离、重复和被保留的叙事。微小的色彩对比与准确的间距造就静止而略带不安的气氛，仿佛一个寻常的旅行瞬间停在了正常时间之外。",
+  "style_prompt_en": "Smooth, controlled paint describes crisp geometry within large expanses of empty space. A low straight horizon, long perspective lines, and repeated narrow intervals establish an exact spatial order. Muted blue, cool grey, tan, and ocher form the broad setting, interrupted by a single concentrated red accent. Unclouded daylight produces clear hard-edged shadows and quiet, even color rather than dramatic highlights. Surfaces are finely granular in open areas but never gestural; contours are measured and silhouettes simple. The composition holds its strongest shape away from center, allowing surrounding emptiness to create psychological tension. The overall effect is lucid, restrained, and subtly uncanny.",
+  "style_prompt_zh": "平滑而受控的颜料在大片留空中描绘清晰几何。低而笔直的地平线、悠长透视线和重复的窄间距建立准确的空间秩序。柔和的蓝、冷灰、浅棕和赭色组成宽阔环境，被一处集中的红色重音打断。无云日光形成清楚而边缘锐利的投影和安静均匀的色彩，而非戏剧化亮部。开阔区域的表面颗粒细密，却不显挥洒；轮廓经过衡量，剪影简洁。构图把最强形状偏离中心安放，让周围留空产生心理张力。整体效果清明、克制，带有微妙的陌生感。",
+  "theme_en": "A lone traveler in a red coat beside a long train on an empty plain",
+  "theme_zh": "一位穿红色外套的独行旅人站在空旷平原的长列车旁",
+  "wh_ratio": "1:1",
+  "id": "3757",
+  "name": "Alex Colville",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/alex-colville",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "ec2370241aae88bd4abbb28e05fa07763b643fc711e1c483d3f7765fe5b9c0b5",
+    "gpt_submission_prompt": "A lone traveler stands with her back to the viewer on a wide gravel platform, facing a long silver passenger train that recedes to the right-hand horizon. She wears a calf-length brick-red coat and a small tan hat, and holds a compact brown suitcase at her side. The train occupies the left half of the scene, its windows and metal panels drawn in orderly repeating lines that taper into distant perspective. A broad empty foreground spreads around the figure, crossed by her long dark shadow. Beyond the tracks lies a flat ocher plain with sparse vertical posts, under a clear, pale blue sky. The horizon is very low and almost perfectly straight, giving the sky and open ground unusual weight. Midday light is precise, cool, and unclouded: the coat glows red against muted grey and blue, while the shadow is a hard, clean shape. The painting is smooth and controlled, with carefully described geometry but little surface flourish. Details in the train remain legible yet restrained, and the solitary figure is reduced to a strong vertical silhouette rather than an expressive face. The entire composition rests on distance, repetition, and withheld narrative. Small color contrasts and exact spacing create a mood of stillness with a hint of unease, as though a familiar travel moment has paused outside normal time.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "47be1fcca666135f476d0fad3befe9eff83761abf170ab31ba9b74e1361ab63c",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

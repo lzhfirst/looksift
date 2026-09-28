@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square dark anime illustration frames a pink haired girl in a close three quarter view, her gaze directed straight toward the viewer. The top of her head and long dense fringe occupy the upper half, strands of vivid magenta falling unevenly across her forehead and partly over one eye. Her large visible eye has a deep rose iris and a sharp white reflection, while the eye at the left is more heavily shadowed. The face is pale but divided by strong graphic shadow: a dark band crosses the nose and cheek, leaving a small wedge of light on the bridge and the lower right side. Her mouth is slightly parted, the expression guarded and intense. A white shirt collar appears at the lower right, marked by scattered dark red stains, while the rest of the clothing merges into almost black purple. The background is a featureless deep plum, keeping attention tightly on the eyes and the saturated hair. Narrow red highlights edge a few strands near the right side and under the chin. The outlines are crisp and bold, with fine inner lines separating the fringe; color planes remain mostly flat, interrupted by subtle textured patches. The light is low and directional from the upper right, giving the face a tense chiaroscuro without soft naturalistic modeling. The crop removes setting and action, leaving a concentrated encounter with the expression. The image feels ominous, intimate, and emotionally charged, its magenta color pressing against heavy shadow.",
+  "full_prompt_zh": "一幅方形深暗动画插画紧密框住一名粉发女孩的四分之三脸，目光直视观者。头顶和厚密长刘海占上半部，鲜艳洋红发丝参差落过额头，部分遮住一只眼。可见的大眼有深玫瑰色虹膜和锐利白反光，左侧眼睛则更深地藏在阴影里。脸很浅，却被强烈图形化阴影分割：一道深带横过鼻子和面颊，只在鼻梁与右下留小片亮处。嘴微微张开，神情戒备而强烈。右下露出白色衬衫领，带零散深红污痕；其余衣服融入近乎黑紫色。背景是无具体物的深梅紫，注意力紧紧落在眼睛和饱和发色上。窄红高光沿右侧几缕发丝和下巴边缘移动。轮廓清脆大胆，细内线分开刘海；色面大多平涂，被细微有肌理色块打断。光从右上低而有方向地到来，赋予脸紧张明暗对照，而非柔软自然主义塑造。裁切去掉地点和行动，只留下与神情集中的相遇。图像不祥、亲密且情绪浓烈，洋红色紧贴重影。",
+  "style_prompt_en": "Dark anime illustration concentrates emotion in a close crop of angular light and shadow. Saturated magenta and deep rose cut across plum black, pale mauve, and small white highlights. Crisp outer contours hold the largest form, while many narrow parallel strokes provide a rhythmic upper texture. One bright reflective point near the focal area contrasts with broad flat shadow, making the center unusually intense. Lighting is low and directional, carving a sharp wedge across a pale plane while leaving neighboring regions nearly black. Edges alternate between clean cel shaded divisions and subtly rough colored grain. Background detail is absent, so color and value carry the drama. The effect is ominous, intimate, and graphically forceful, with a restricted palette heightening every small change.",
+  "style_prompt_zh": "深暗动画插画把情绪集中在棱角明暗的近距离裁切里。饱和洋红与深玫瑰色切过梅紫黑、浅淡紫和小片白高光。清脆外轮廓固定最大形体，许多窄平行笔痕提供上方有节奏的肌理。焦点附近一个亮反光点与宽阔平涂阴影形成反差，使中央格外强烈。光低而有方向，在浅色平面上刻出锐利楔形，同时让相邻区域近乎全黑。边缘在干净赛璐璐阴影分界和略粗有色颗粒之间变化。背景细节缺席，颜色与明度因此承担戏剧。效果不祥、亲密且图形力量强，受限色域放大每处细小变化。",
+  "theme_en": "Pink haired girl staring from deep shadow in an anime close up",
+  "theme_zh": "动画近景中粉发女孩从深影里凝视",
+  "wh_ratio": "1:1",
+  "id": "3371",
+  "name": "Elfen Lied",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/elfen-lied",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "01e5e96c27526489ecbc8bf6eab0e570a59e8b9828850f20ab93600ee6a03c5d",
+    "gpt_submission_prompt": "A square dark anime illustration frames a pink haired girl in a close three quarter view, her gaze directed straight toward the viewer. The top of her head and long dense fringe occupy the upper half, strands of vivid magenta falling unevenly across her forehead and partly over one eye. Her large visible eye has a deep rose iris and a sharp white reflection, while the eye at the left is more heavily shadowed. The face is pale but divided by strong graphic shadow: a dark band crosses the nose and cheek, leaving a small wedge of light on the bridge and the lower right side. Her mouth is slightly parted, the expression guarded and intense. A white shirt collar appears at the lower right, marked by scattered dark red stains, while the rest of the clothing merges into almost black purple. The background is a featureless deep plum, keeping attention tightly on the eyes and the saturated hair. Narrow red highlights edge a few strands near the right side and under the chin. The outlines are crisp and bold, with fine inner lines separating the fringe; color planes remain mostly flat, interrupted by subtle textured patches. The light is low and directional from the upper right, giving the face a tense chiaroscuro without soft naturalistic modeling. The crop removes setting and action, leaving a concentrated encounter with the expression. The image feels ominous, intimate, and emotionally charged, its magenta color pressing against heavy shadow.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "84e116246048abd68ff0393e9631d1a835bd2d03a62c02073c22abf16b952c59",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

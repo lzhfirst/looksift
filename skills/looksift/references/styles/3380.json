@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square cinematic dark fantasy painting shows two small figures standing in a barren field beneath an enormous skull like face emerging from storm clouds. The nearer person is placed slightly left of center, with a smaller companion a short distance to the right. Both appear as dark silhouettes facing the horizon, their bodies outlined by a low warm haze. The foreground is almost black, with sparse thorny stems and rough soil extending toward the bottom edge. Across the middle distance, a pale bank of mist separates the figures from the dark sky. Above them, heavy charcoal clouds gather into a huge head with deep eye sockets, a broad bared grin, and angular exposed muscle like red and cream bands along the cheeks. The face is partly hidden by cloud, so it feels at once solid and spectral. Its lower teeth hover over the brightest part of the haze, while one side disappears into the storm. A break in the clouds at upper right releases a broad amber gold glow, illuminating billowing edges and tracing the gigantic features. The left sky stays brown black, giving the scene an ominous imbalance. Paint grain and fine streaks roughen the clouds and ground, while the figures remain simple and sharply readable. Their tiny scale makes the looming apparition feel immense. The composition is still but threatening, built from a narrow dark land band, two human scale cues, and a vast turbulent sky.",
+  "full_prompt_zh": "一幅方形电影感黑暗奇幻绘画描绘两道小人影站在荒凉田野里，头上巨大骷髅般面孔从风暴云中浮现。较近一人位于中央稍左，较小同伴在右侧不远处。两人都是面向地平线的深色剪影，低位暖雾勾出身体轮廓。前景几乎全黑，稀疏多刺细茎和粗地面延向底边。中景一带浅雾把人影与暗天分开。上方，厚重炭灰云聚成巨大头颅，有深眼窝、宽阔露齿笑口，以及沿面颊的棱角红与奶油色肌肉般色带。脸部分藏在云里，同时显得实体又像幽灵。下排牙齿悬在最亮雾区上方，一侧则消失在风暴中。右上云层裂开，放出宽广琥珀金色光，照亮滚动云边，并描出巨大的面部特征。左侧天空保持棕黑，赋予场景不祥的不平衡。颜料颗粒与细条痕粗化云和地面，小人物则简单而清楚可读。微小尺度使压下的异象巨大无比。构图静止却有威胁，由窄暗地带、两个人类尺度标记和广阔翻腾天空建成。",
+  "style_prompt_en": "Cinematic dark fantasy painting uses extreme scale contrast between tiny near marks and a vast spectral upper mass. The lower field is a narrow band of near black texture, the middle dissolves into pale mist, and heavy charcoal cloud forms dominate above. Warm amber gold light breaks through one side, revealing cream ridges and restrained rust red accents within the dark gray. Edges alternate between sharply cut local detail and broad smoky dissolution, allowing the large form to seem both physical and atmospheric. Sparse fine stems and scratches enliven the ground without competing with the sky. Backlight traces the small near forms and gives the composition a readable scale. The image feels apocalyptic, ominous, and expansive, with turbulent light concentrated over a still foreground.",
+  "style_prompt_zh": "电影感黑暗奇幻绘画利用近处微小痕迹与上方庞大幽灵般体量之间的极端尺度反差。下方是窄窄近黑肌理带，中部溶入浅雾，上方由厚重炭灰云状形体主导。一侧暖琥珀金光破出，揭示深灰里的奶油色脊线与克制锈红重音。边缘在锐利局部细节和宽阔烟雾消散之间交替，使大形体既像实体又像空气。稀疏细茎和刮痕使地面活动，却不与天空争夺视线。逆光勾出小近景形体，给予构图可读尺度。图像如末日、险恶而辽阔，翻腾光线集中在静止前景上方。",
+  "theme_en": "Two small figures confronting a gigantic skull like face in storm clouds",
+  "theme_zh": "两道小人影面对风暴云中巨大的骷髅般面孔",
+  "wh_ratio": "1:1",
+  "id": "3380",
+  "name": "Attack on Titan",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/attack-on-titan",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "e52a405f727a30fc69f1e30ef8d052f5ec03ceabbccb79103abf89088c1a7398",
+    "gpt_submission_prompt": "A square cinematic dark fantasy painting shows two small figures standing in a barren field beneath an enormous skull like face emerging from storm clouds. The nearer person is placed slightly left of center, with a smaller companion a short distance to the right. Both appear as dark silhouettes facing the horizon, their bodies outlined by a low warm haze. The foreground is almost black, with sparse thorny stems and rough soil extending toward the bottom edge. Across the middle distance, a pale bank of mist separates the figures from the dark sky. Above them, heavy charcoal clouds gather into a huge head with deep eye sockets, a broad bared grin, and angular exposed muscle like red and cream bands along the cheeks. The face is partly hidden by cloud, so it feels at once solid and spectral. Its lower teeth hover over the brightest part of the haze, while one side disappears into the storm. A break in the clouds at upper right releases a broad amber gold glow, illuminating billowing edges and tracing the gigantic features. The left sky stays brown black, giving the scene an ominous imbalance. Paint grain and fine streaks roughen the clouds and ground, while the figures remain simple and sharply readable. Their tiny scale makes the looming apparition feel immense. The composition is still but threatening, built from a narrow dark land band, two human scale cues, and a vast turbulent sky.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "203a6cd8aa04ec45dde400f5c74f603f9a2b1ffcf5fd89e3ac63c0224abc0619",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

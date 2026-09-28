@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square folk-art landscape shows a rolling valley filled with small houses, flowering trees, and patterned fields beneath a bright yellow sun. The horizon sits high, with red and dark green hills layered across the upper distance. A sky of blue-gray is striped by small pink and white cloud shapes, and black birds fly in loose groups around the sun. Below, winding bands of grass, water, and cultivated land curl through the middle of the scene. Tiny white and red houses with dark roofs are scattered among clusters of evergreen trees, flowering shrubs, and narrow paths. In the lower left, a larger white farmhouse stands beside a curving gray road and low flowering trees. Toward the right middle, a red barn-like building appears near a pale blue stream, with small dark animals and figures dotted through the surrounding meadows. Flowers are painted as repeated white, pink, and yellow spots across the slopes, giving the ground a lively, almost embroidered texture. The forms remain deliberately simple and front-facing, with crisp outlines and flat color areas rather than realistic atmospheric blur. Dark forest green and black shapes provide a firm pattern against clear yellow fields, warm red accents, and the pastel sky. Light is even and cheerful, indicated by the bright sun and saturated colors more than by directional cast shadows. No text is visible. The overall composition is packed but orderly, letting winding land bands and repeated tiny motifs create a festive rhythm across the broad rural view.",
+  "full_prompt_zh": "这幅方形民间艺术风景描绘一片起伏山谷，散布小屋、开花树和图案化田地，头顶是一轮明黄太阳。地平线较高，红色与深绿山丘在上方远处层叠。蓝灰天空被小块粉白云形划过，黑鸟在太阳周围松散成群飞翔。下方，弯曲的草地、水面与农田色带穿过画面中部。小小白房和红房配深屋顶，散布在常青树群、开花灌木与细窄小路间。左下方一座较大的白农舍位于弯曲灰路与低矮花树旁。中右侧，红色谷仓般建筑出现在浅蓝小溪旁，小小深色动物和人物点缀周围草地。花朵以重复的白、粉、黄斑点铺满山坡，赋予地面活跃、近似刺绣的肌理。形体有意保持简化和正面性，以清晰轮廓和平涂色面呈现，而非写实大气虚化。深森林绿与黑色形状在清亮黄田、暖红强调和粉彩天空前建立坚固纹样。光均匀而欢快，更多由明亮太阳和饱和色传达，而非定向投影。没有文字。整体构图满而有序，弯曲土地色带和重复细小图案在宽阔乡野视野中形成节庆般的节奏。",
+  "style_prompt_en": "Folk-art painting arranges simplified shapes and repeated tiny motifs in clear flat areas of forest green, butter yellow, red, pale blue, and cream. Crisp dark outlines and evenly scattered dots create an embroidered surface rhythm rather than photographic depth. Curving horizontal bands carry the eye through a packed but legible composition, while contrasting dark and light patches prevent the detail from merging. Illumination is broad and cheerful, shown through clean color and a bright upper field with minimal cast shadow. The overall treatment is playful, handmade, and warmly patterned.",
+  "style_prompt_zh": "民间艺术绘画把简化形状与重复细小图案排列在森林绿、奶油黄、红、浅蓝和奶油色的清楚平涂区域里。清晰深轮廓与均匀散落色点形成刺绣般表面节奏，而非摄影纵深。弯曲水平色带引导视线穿过满而可读的构图，深浅对照又防止细节混成一团。光宽阔欢快，由干净色彩和明亮上部区域表现，投影极少。整体俏皮、手工感强且纹样温暖。",
+  "theme_en": "A flower-filled valley with small houses, hills, birds, and a bright sun",
+  "theme_zh": "鲜花铺满的山谷中散布小屋、丘陵、飞鸟与明亮太阳",
+  "wh_ratio": "1:1",
+  "id": "2463",
+  "name": "Maud Lewis",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/maud-lewis",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/maud-lewis.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "02e0e09e07c99c00af122f8fa87b9423ef638ce4e8d15e453494e5cff09568a1",
+    "gpt_submission_prompt": "A square folk-art landscape shows a rolling valley filled with small houses, flowering trees, and patterned fields beneath a bright yellow sun. The horizon sits high, with red and dark green hills layered across the upper distance. A sky of blue-gray is striped by small pink and white cloud shapes, and black birds fly in loose groups around the sun. Below, winding bands of grass, water, and cultivated land curl through the middle of the scene. Tiny white and red houses with dark roofs are scattered among clusters of evergreen trees, flowering shrubs, and narrow paths. In the lower left, a larger white farmhouse stands beside a curving gray road and low flowering trees. Toward the right middle, a red barn-like building appears near a pale blue stream, with small dark animals and figures dotted through the surrounding meadows. Flowers are painted as repeated white, pink, and yellow spots across the slopes, giving the ground a lively, almost embroidered texture. The forms remain deliberately simple and front-facing, with crisp outlines and flat color areas rather than realistic atmospheric blur. Dark forest green and black shapes provide a firm pattern against clear yellow fields, warm red accents, and the pastel sky. Light is even and cheerful, indicated by the bright sun and saturated colors more than by directional cast shadows. No text is visible. The overall composition is packed but orderly, letting winding land bands and repeated tiny motifs create a festive rhythm across the broad rural view.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "f5e142c36aa9c427e25f3dcb7b9541fc7ca8b7f9ce55c53185d3d1abc7be80a0",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square pen-and-watercolor storybook illustration shows two children crouching beside a shallow stone doorstep in a leafy garden. The view is at their level, close enough to show their clothes and the little objects at their feet, yet it also includes the weathered exterior wall behind them. On the right, pale yellow-gray stone blocks meet a dark green door; exposed red brick and climbing foliage frame the door's left side. The child at left has short brown hair, a blue jacket, brown trousers, and sturdy dark shoes, leaning forward with one hand extended toward the step. The child at right has pale blond hair, a rust-orange sleeveless layer over a light striped shirt, ochre trousers, and dark shoes, crouching opposite and looking down. A few small papers or flat pale objects lie between them. Tall orange and red flowers rise from the border at the right, with pots, trailing leaves, and low weeds filling the garden edge. The foreground is a light stone path with irregular joints and scattered tiny leaves. Fine dark ink contours describe shoes, brick lines, stems, and facial profiles; transparent green, blue, and warm brown washes keep the many details light. Soft outdoor daylight falls across the children and paving, while foliage and the doorway provide gentle shade. The enclosed garden textures, close child-sized viewpoint, and muted colors make the ordinary shared moment feel curious and affectionate.",
+  "full_prompt_zh": "一幅方形钢笔加水彩的绘本插画描绘两个孩子蹲在枝叶茂密花园里的低矮石阶旁。视点与他们差不多高，近到能看清衣服与脚边小物，却也容纳身后的风化外墙。右侧浅黄灰色石块与深绿门相接；裸露红砖和攀缘枝叶框住门的左侧。左边孩子留棕色短发，穿蓝外套、褐裤和结实深鞋，向前俯身，一只手伸向台阶。右边孩子是浅金头发，浅色条纹上衣外穿锈橙色无袖衣，配赭色裤与深鞋，面对同伴蹲下低头看。两人之间有几片小纸或平坦浅色物件。高高的橙红花朵从右侧花圃升起，花盆、垂叶和低草填满花园边缘。前景是带不规则接缝和零散小叶的浅色石板路。细暗墨线刻出鞋、砖缝、花茎与面孔侧影；透明绿、蓝与暖褐洗色让丰富细节仍轻盈。柔和户外日光落在孩子与铺地上，枝叶和门口提供温和阴影。围合的花园肌理、贴近孩子尺度的视点与柔暗颜色，使平常的共同片刻显得好奇而亲切。",
+  "style_prompt_en": "Pen-and-watercolor storybook work combines fine descriptive contours with light irregular washes. Muted garden greens and blue-grays occupy much of the scene, with compact rust-orange and floral red accents drawing attention among them. Details cluster around joints, stems, fabric folds, and small ground objects, while paler open paving and wall areas let the image breathe. Edges remain hand-drawn and slightly broken; transparent color crosses some lines without erasing them. Soft daylight gives gentle warm highlights and shallow shaded pockets rather than hard theatrical contrast. A close eye-level arrangement and dense but readable surroundings create a curious, affectionate narrative rhythm.",
+  "style_prompt_zh": "钢笔与水彩绘本画法把精细描述轮廓同浅淡不规则洗色结合。柔暗花园绿与蓝灰占据画面大部，紧凑锈橙与花朵红色点缀在其中牵引注意。细节聚在接缝、茎叶、布褶和地面小物周围，较浅的开阔铺地与墙面让画面有呼吸感。边缘保持手绘、略有断续；透明颜色越过部分线条却没有抹去它们。柔和日光给予温暖亮点和浅浅暗处，而非剧烈舞台反差。贴近的平视布局与密集却可读的环境形成好奇而亲近的叙事节奏。",
+  "theme_en": "Two children crouching by a flowered doorstep",
+  "theme_zh": "两个孩子蹲在开花的家门台阶旁",
+  "wh_ratio": "1:1",
+  "id": "0214",
+  "name": "Shirley Hughes",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/shirley-hughes",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/shirley-hughes.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "f752936b5e0b718ef0153db50bc51d35e9cff7429dd759aa9de29df323f3e3f6",
+    "gpt_submission_prompt": "A square pen-and-watercolor storybook illustration shows two children crouching beside a shallow stone doorstep in a leafy garden. The view is at their level, close enough to show their clothes and the little objects at their feet, yet it also includes the weathered exterior wall behind them. On the right, pale yellow-gray stone blocks meet a dark green door; exposed red brick and climbing foliage frame the door's left side. The child at left has short brown hair, a blue jacket, brown trousers, and sturdy dark shoes, leaning forward with one hand extended toward the step. The child at right has pale blond hair, a rust-orange sleeveless layer over a light striped shirt, ochre trousers, and dark shoes, crouching opposite and looking down. A few small papers or flat pale objects lie between them. Tall orange and red flowers rise from the border at the right, with pots, trailing leaves, and low weeds filling the garden edge. The foreground is a light stone path with irregular joints and scattered tiny leaves. Fine dark ink contours describe shoes, brick lines, stems, and facial profiles; transparent green, blue, and warm brown washes keep the many details light. Soft outdoor daylight falls across the children and paving, while foliage and the doorway provide gentle shade. The enclosed garden textures, close child-sized viewpoint, and muted colors make the ordinary shared moment feel curious and affectionate.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "87f4d8b26c94029388d5376e9eefb739c399fd4729e9dbf05d340da3fae61ded",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

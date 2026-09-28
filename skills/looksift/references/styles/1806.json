@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A monochrome fine-art photograph studies a monumental concrete courtyard formed by broad walls, two rising stairways, and an unexpectedly soft-edged arch. The nearest steps begin at the lower right and climb toward a dark rectangular doorway; a smaller flight retreats from the center-left into a shadowed passage. Above them, a thick curved bridge spans the open space, its underside almost black against pale, weather-marked vertical surfaces. The foreground pavement is made of large rectangular slabs, whose seams guide the eye inward before the stronger stair diagonals lift it toward the upper center. A narrow wedge of blank white sky opens above the walls, with fine winter branches barely visible beyond, keeping the enclosed scene connected to outdoor light. The concrete has a specific poured texture: vertical streaks, faint panel joints, blotches, and softened chipped edges are visible without decorative embellishment. The photo's silver-gray tonal range stays restrained, moving from chalky upper planes through middle-gray wall faces to deep recesses under the arch and in doorways. Diffuse daylight drops from the sky and spreads evenly across the courtyard, leaving no theatrical spotlight or glossy reflection. Large curves interrupt the rigid rectangular masses, and the uneven symmetry of paired stairs creates an exploratory rhythm rather than a static elevation. The whole frame feels silent and weighty, its spatial drama emerging from mass, void, surface grain, and measured natural light.",
+  "full_prompt_zh": "一幅单色艺术摄影研究一处由宽阔墙面、两道上升阶梯和一座边缘出人意料地柔和的拱门组成的宏伟混凝土庭院。最近的台阶从右下方开始，通向一个深色矩形门洞；较小的一段楼梯从中央偏左退进阴影通道。上方厚重的弯曲连桥横跨开放空间，拱底在浅色、带风化痕迹的竖直表面前几乎呈黑色。前景铺地由大片矩形石板组成，接缝先将视线引向内部，随后更有力的楼梯斜线把目光抬向上方中央。墙体上方开出一小块空白的白色天空，细细的冬日树枝在其后几乎难以察觉，让封闭场景仍与室外光相连。混凝土具有明确的浇筑纹理：竖向水痕、隐约的模板接缝、斑驳痕迹和被磨软的崩角可见，却没有装饰。照片的银灰色调范围克制，从粉白色朝上平面经过中灰墙面，到拱下与门洞里的深暗凹处。漫射日光自天空落下，均匀散布在庭院内，没有戏剧化聚光或光亮反射。大曲线打断僵硬的矩形团块，两道台阶的不完全对称形成探索性的节奏，而非静止的立面。整幅画安静而厚重，空间戏剧性来自体量、空洞、表面颗粒与有分寸的自然光。",
+  "style_prompt_en": "A monochrome fine-art photograph uses a restrained silver-gray scale, matte surface grain, and diffuse natural light to describe weight and void. Chalky highlights pass into mid-gray planes and deep recessed blacks through smooth tonal transitions. Broad curved boundaries interrupt disciplined rectangular grids, while paired diagonals lead the eye into layered space. Faint stains, seams, and worn edges keep large clean areas materially believable. The whole frame feels silent, austere, and sculpturally balanced.",
+  "style_prompt_zh": "一幅单色艺术摄影使用克制的银灰色阶、哑光表面颗粒与漫射自然光表现重量和空洞。粉白高光经平滑的明度过渡进入中灰平面与深黑凹处。宽阔曲边打断规整的矩形网格，成对斜线将视线引进层叠空间。隐约污痕、接缝和磨旧边缘让大面积干净色域在材质上可信。整幅画沉默、朴素且具有雕塑般的平衡。",
+  "theme_en": "An austere concrete stairway and arch beneath an open sky",
+  "theme_zh": "露天混凝土拱门与朴素阶梯",
+  "wh_ratio": "1:1",
+  "id": "1806",
+  "name": "Sverre Fehn",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/sverre-fehn",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/sverre-fehn.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "d008cc94f883cc534e3e00a096dfd265e0911c71c5343d6ae05bee14605d444b",
+    "gpt_submission_prompt": "A monochrome fine-art photograph studies a monumental concrete courtyard formed by broad walls, two rising stairways, and an unexpectedly soft-edged arch. The nearest steps begin at the lower right and climb toward a dark rectangular doorway; a smaller flight retreats from the center-left into a shadowed passage. Above them, a thick curved bridge spans the open space, its underside almost black against pale, weather-marked vertical surfaces. The foreground pavement is made of large rectangular slabs, whose seams guide the eye inward before the stronger stair diagonals lift it toward the upper center. A narrow wedge of blank white sky opens above the walls, with fine winter branches barely visible beyond, keeping the enclosed scene connected to outdoor light. The concrete has a specific poured texture: vertical streaks, faint panel joints, blotches, and softened chipped edges are visible without decorative embellishment. The photo's silver-gray tonal range stays restrained, moving from chalky upper planes through middle-gray wall faces to deep recesses under the arch and in doorways. Diffuse daylight drops from the sky and spreads evenly across the courtyard, leaving no theatrical spotlight or glossy reflection. Large curves interrupt the rigid rectangular masses, and the uneven symmetry of paired stairs creates an exploratory rhythm rather than a static elevation. The whole frame feels silent and weighty, its spatial drama emerging from mass, void, surface grain, and measured natural light.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "4a6318cd1e2207c8fd9cf2491bcdccd08b241d7cc8dca47dde6ee4543e81850b",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

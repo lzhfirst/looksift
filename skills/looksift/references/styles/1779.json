@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square sepia-toned black-and-white photograph shows a young woman seated in a dim interior, viewed in left-facing profile. Her head tilts slightly back and her eyes appear closed or lowered. Dark bobbed hair gathers around the cheek and neck, merging with the deep shadow behind her. The nearer hand rises in front of the face, holding a slim cigarette between two fingers; a faint wisp of smoke climbs into the dark upper-left air. Her other hand supports the chin from below, the elbow lost near the lower edge. She wears a dark long-sleeved top whose outline almost disappears into the background. A narrow beam of light from the upper left catches the bridge of the nose, lips, cheek, fingertips, and the pale cigarette, leaving much of the hair and shoulder in black. The background is indistinct, with a small patch of gray light and vague shapes that suggest an interior but reveal no clear furnishing. Grain and soft focus are visible in the shadow areas, while the profile edge remains crisp enough to carry the image. The frame is close and asymmetrical, leaving darkness to the left of the face and more dark mass at the right. No text or other figures are present. The tonal range is narrow but dramatic, built from warm gray highlights and charcoal-brown blacks. The overall composition is private and atmospheric, held together by the lifted hand, the pale side profile, and the cigarette's tiny bright diagonal.",
+  "full_prompt_zh": "一幅方形暖褐黑白照片描绘一名年轻女子坐在昏暗室内，以面向左的侧脸出现。头微微后仰，眼睛似闭上或垂下。深色短发围住脸颊与颈，融入身后深影。近侧手举到面前，两指夹着细长香烟；一缕淡烟升入左上深色空气。另一只手从下方托着下巴，手肘消失在下缘附近。她穿深色长袖上衣，轮廓几乎融进背景。左上方窄光照亮鼻梁、嘴唇、脸颊、指尖与浅色香烟，头发和肩大多留在黑中。背景难辨，只有一块灰光与模糊形状暗示室内，没有清楚家具。阴影区可见颗粒与柔焦，侧脸边缘仍足够锐利支撑画面。构图近而不对称，脸左留黑暗，右侧还有更多深色量块。没有文字或其他人物。灰阶狭窄却富戏剧性，由暖灰亮部与炭棕黑部构成。整体私密而有气氛，由举起的手、浅色侧脸和香烟细小明亮斜线连在一起。",
+  "style_prompt_en": "Use intimate low-key monochrome photography with sepia warmth, deep contiguous shadow, fine grain, and selective crisp profile edges. Place a small pale gesture or object within a much larger dark field. Let a narrow upper-side light skim skin or material contours and fingertips while the rest fades softly into black. Keep the setting unresolved and the crop close, with asymmetrical negative space. The mood is private, atmospheric, and slightly cinematic without glossy polish.",
+  "style_prompt_zh": "采用亲密低调黑白摄影，带暖褐色、连续深影、细颗粒和有选择的清晰侧边。在大片暗域中放入一个浅色小动作或物件。窄上侧光擦过肌肤或材质轮廓与指尖，其余柔和没入黑中。环境保持难辨，裁切靠近，留白不对称。气氛私密而略具电影感，却不光滑精修。",
+  "theme_en": "A woman in shadow holding a cigarette near her face",
+  "theme_zh": "阴影中的女子把香烟举在脸旁",
+  "wh_ratio": "1:1",
+  "id": "1779",
+  "name": "Germaine Krull",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/germaine-krull",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/germaine-krull.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "ab8895c1210cd05e1dc8e5618c412c911e71359e73197545890a29dc98fa0ee8",
+    "gpt_submission_prompt": "A square sepia-toned black-and-white photograph shows a young woman seated in a dim interior, viewed in left-facing profile. Her head tilts slightly back and her eyes appear closed or lowered. Dark bobbed hair gathers around the cheek and neck, merging with the deep shadow behind her. The nearer hand rises in front of the face, holding a slim cigarette between two fingers; a faint wisp of smoke climbs into the dark upper-left air. Her other hand supports the chin from below, the elbow lost near the lower edge. She wears a dark long-sleeved top whose outline almost disappears into the background. A narrow beam of light from the upper left catches the bridge of the nose, lips, cheek, fingertips, and the pale cigarette, leaving much of the hair and shoulder in black. The background is indistinct, with a small patch of gray light and vague shapes that suggest an interior but reveal no clear furnishing. Grain and soft focus are visible in the shadow areas, while the profile edge remains crisp enough to carry the image. The frame is close and asymmetrical, leaving darkness to the left of the face and more dark mass at the right. No text or other figures are present. The tonal range is narrow but dramatic, built from warm gray highlights and charcoal-brown blacks. The overall composition is private and atmospheric, held together by the lifted hand, the pale side profile, and the cigarette's tiny bright diagonal.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "672bfcf5ad9671c55a30fb25c947045cab29f4c489394d24076c4e037492a106",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

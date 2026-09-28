@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square monochrome landscape shows a small traditional pavilion set on a rocky island beside still water. Monumental pine trees spread across the upper half, their dark canopies flattened into intricate clusters of needles. A low branch reaches left over the water, while the main trunk rises beside the pavilion and leans toward the center. Behind the trees, pale vertical stone structures and distant craggy forms fade into mist. Two small boats with tiny seated figures lie near the left edge, giving the immense trees and rocks a human scale. The water fills much of the lower foreground and reflects faint gray shapes under a blank light sky. The image combines Chinese ink landscape spacing with unusually detailed, almost photographic textures. Dark foliage and rock crevices are sharply described, while mist and water open into broad white and light gray areas. Illumination is diffuse, with no single hard shadow; tonal depth comes from the layering of crisp foreground forms, middle-gray masonry and pale distance. The pavilion's small roofline provides a recognizable anchor amid the irregular branches. The composition is asymmetrical yet balanced, heavy with dark tree mass on the right and airy water on the left. It feels serene but monumental, as if natural and built forms have grown into one another over a long time.",
+  "full_prompt_zh": "这幅方形单色风景呈现一座传统小亭，坐落在静水旁的岩岛上。巨大的松树伸展过上半幅，深色树冠压成繁密针叶簇。一条低枝向左伸到水面，主干在亭旁升起，向中央倾斜。树后浅色竖向石造结构和远方嶙峋形体渐入雾中。左边缘有两条小船，上面坐着细小人影，为巨树和岩石提供人的尺度。水面占据下方前景大部，在空白浅天空下微弱映出灰形。图像把中国水墨风景的留距与异常细致、近乎摄影的纹理结合。深叶丛与石缝描写锐利，雾和水则展开成大块白与浅灰。光漫散，没有单一硬影；调子深度来自清楚前景、中灰砌石和浅色远方的层叠。亭顶的小轮廓在不规则枝条之间提供易认锚点。构图不对称却平衡，右侧深树体量沉重，左侧水面通透。景象宁静而宏伟，像自然与建造形体在漫长时间里长成一体。",
+  "style_prompt_en": "The monochrome composite balances intricate dark texture against broad misty white space. Charcoal black, middle gray and pale silver form nearly the entire palette. Crisp branching details and rocklike grain hold the near plane, while distant verticals dissolve into fog. Diffuse light removes hard shadows and lets tonal layering create depth. An asymmetrical dark mass is offset by open reflective space, producing a serene yet monumental rhythm.",
+  "style_prompt_zh": "这种单色合成图像以繁密暗纹理平衡宽阔雾白空间。炭黑、中灰与浅银色几乎构成全部色盘。清脆分枝细节与岩石般颗粒固定近层，远处竖形消散于雾。漫射光消除硬影，让调子层叠建立深度。不对称暗色体量由开阔反光空间抵消，形成宁静而宏大的节奏。",
+  "theme_en": "A riverside pavilion among monumental pines and stone ruins",
+  "theme_zh": "巨松与石遗迹间的临水亭阁",
+  "wh_ratio": "1:1",
+  "id": "3221",
+  "name": "Yang Yongliang",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/yang-yongliang",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "fa56b4b04a9c22b3bc44b5e4e580f63a01c8b24e811437b32cfe366c7abbc633",
+    "gpt_submission_prompt": "A square monochrome landscape shows a small traditional pavilion set on a rocky island beside still water. Monumental pine trees spread across the upper half, their dark canopies flattened into intricate clusters of needles. A low branch reaches left over the water, while the main trunk rises beside the pavilion and leans toward the center. Behind the trees, pale vertical stone structures and distant craggy forms fade into mist. Two small boats with tiny seated figures lie near the left edge, giving the immense trees and rocks a human scale. The water fills much of the lower foreground and reflects faint gray shapes under a blank light sky. The image combines Chinese ink landscape spacing with unusually detailed, almost photographic textures. Dark foliage and rock crevices are sharply described, while mist and water open into broad white and light gray areas. Illumination is diffuse, with no single hard shadow; tonal depth comes from the layering of crisp foreground forms, middle-gray masonry and pale distance. The pavilion's small roofline provides a recognizable anchor amid the irregular branches. The composition is asymmetrical yet balanced, heavy with dark tree mass on the right and airy water on the left. It feels serene but monumental, as if natural and built forms have grown into one another over a long time.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "7fb40b9b4c057431399eb2b5ebf548cdd01f6db1d50e7fcfc8fca61bd81b5600",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

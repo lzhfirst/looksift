@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square realist oil portrait shows a young woman seated against a muted olive-gray wall. Her head tilts gently toward her right shoulder, and her eyes are closed or lowered beneath loose dark-brown hair gathered at the back. She wears a sheer black lace top with a low neckline and a narrow black ribbon tied at the throat. The upper body occupies the middle of the frame; a dark chair back appears behind her right shoulder, while the lower clothing fades into deep shadow. Warm pale skin at the face, neck, and chest creates the brightest area against the black lace. The fabric is rendered with delicate transparency, small floral meshes, and darker seams, while the wall is built from broad subdued brush strokes. A soft light from the upper left grazes her forehead, cheek, nose, and shoulder, leaving the far side of the face and dress in brown-black shade. The lighting is intimate rather than theatrical, with a gentle falloff and no hard cast shadow on the wall. The background remains nearly empty, allowing the bowed pose and material contrast to carry the image. Fine surface grain and restrained paint texture are visible without interrupting smooth skin modeling. No text appears. The overall composition is quiet and inward-looking, balancing a softly illuminated face against dark transparent fabric and a plain earthy ground.",
+  "full_prompt_zh": "一幅方形写实油画肖像描绘一位年轻女子坐在暗橄榄灰墙前。她的头轻轻向右肩倾斜，松散的深棕发在后方收起，眼睛闭合或低垂。她穿透明黑蕾丝上衣，领口较低，喉间系着一条窄黑丝带。上身位于画面中央，深色椅背出现在右肩之后，下方衣物消入浓影。脸、颈和胸前的暖色浅肤是黑蕾丝前最明亮的区域。织物以精细的透明感、小花网格和较深衣缝表现，墙面则由宽阔而收敛的笔触组成。来自左上方的柔光擦过额头、面颊、鼻子和肩部，让面部远侧与衣服留在棕黑阴影中。照明亲密而不夸张，柔和衰减，没有墙上的硬投影。背景几乎空白，低头姿态与材质反差承担整幅图像。细微表面颗粒和克制颜料肌理可见，却不打断光滑皮肤塑形。没有文字。整体构图安静而内向，以柔光下的脸平衡深色透明织物与素净土色底面。",
+  "style_prompt_en": "Realist oil painting uses selective smooth modeling beside delicate semi-transparent texture and broad subdued background strokes. Warm cream and muted peach emerge from black, brown, and olive-gray; saturated color is nearly absent. Soft oblique light from above one side catches a compact set of exposed planes, then falls gradually into dense but not featureless shadow. Edges stay precise near the focus and gently dissolve in lower or peripheral areas. Generous plain ground gives the dark central mass room to breathe. The surface feels restrained, intimate, and quietly tactile.",
+  "style_prompt_zh": "写实油画把有选择的光滑塑形与精巧半透明肌理、宽阔收敛的背景笔触并置。暖奶油色和暗桃色从黑、棕与橄榄灰中浮出，饱和色几乎缺席。来自上方一侧的柔和斜光照到紧凑的外露平面，随后渐入浓重却仍有细节的阴影。边缘在焦点附近精确，在下方或外围轻轻消散。充裕素净底面让中央深色体量保有呼吸空间。表面克制、亲密且安静地有触感。",
+  "theme_en": "A woman in black lace seated against a muted wall",
+  "theme_zh": "暗淡墙面前穿黑色蕾丝的坐姿女子",
+  "wh_ratio": "1:1",
+  "id": "4161",
+  "name": "Nick Alm",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/nick-alm.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "a6528c66a3f1dbd5e3c320c6b05ed5438af6b2d64b4f287fa675693156f39bbc",
+    "gpt_submission_prompt": "A square realist oil portrait shows a young woman seated against a muted olive-gray wall. Her head tilts gently toward her right shoulder, and her eyes are closed or lowered beneath loose dark-brown hair gathered at the back. She wears a sheer black lace top with a low neckline and a narrow black ribbon tied at the throat. The upper body occupies the middle of the frame; a dark chair back appears behind her right shoulder, while the lower clothing fades into deep shadow. Warm pale skin at the face, neck, and chest creates the brightest area against the black lace. The fabric is rendered with delicate transparency, small floral meshes, and darker seams, while the wall is built from broad subdued brush strokes. A soft light from the upper left grazes her forehead, cheek, nose, and shoulder, leaving the far side of the face and dress in brown-black shade. The lighting is intimate rather than theatrical, with a gentle falloff and no hard cast shadow on the wall. The background remains nearly empty, allowing the bowed pose and material contrast to carry the image. Fine surface grain and restrained paint texture are visible without interrupting smooth skin modeling. No text appears. The overall composition is quiet and inward-looking, balancing a softly illuminated face against dark transparent fabric and a plain earthy ground.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "c2120da55058c4249f35a943dd7fb0f0677a3e50e8311851555cfc5f667ab9c8",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square iconlike painting shows a solitary robed figure seated on a low block against a weathered wall of small pale and ochre patches. The background is not a smooth field: irregular square fragments, scraped pigment and exposed warm brown areas form an aged mosaic surface. The figure sits slightly right of center, hunched forward with the head lowered. One elbow rests on a knee and one hand supports the side of the face; the other hand falls loosely over the lap. A faint circular halo or light ring sits behind the bowed head, partly lost in the mottled wall. The robe is broad and heavy, painted in olive gray and muted brown folds that wrap the knees and descend toward bare feet at the lower edge. The face is dark and quiet under the downward tilt, with only a few warm highlights on forehead and cheek. The near hand and bare toes are more clearly lit, giving the still pose physical weight. A low red-brown seat or wall ledge projects behind the body on the right, while lighter stone patches gather along the bottom and left. The light is soft and directional from the upper left, lifting the halo, wall fragments and selected folds; deep shadow gathers under the arm and between the legs. Fine cracks and worn surface texture remain visible across both figure and support. The overall composition is spare and devotional, using bowed posture and aged earth-colored material to create a quiet mood of reflection.",
+  "full_prompt_zh": "这幅方形、近似圣像的绘画里，一位独自披袍人物坐在矮块上，背后墙面由磨旧的浅色与赭黄小块组成。背景不是平滑色域：不规则方形碎片、擦去的颜料和露出的暖褐色区域，形成陈旧拼接表面。人物位于中心偏右，身体前倾，头低垂。一边手肘支在膝上，手托脸侧；另一只手松松垂在腿上。一圈淡淡的光环或亮圈位于低垂头部后方，部分消失在斑驳墙中。长袍宽大厚重，以橄榄灰与压低褐色褶皱裹住膝盖，垂向下缘的赤脚。脸在下垂角度中深暗而安静，只有额头和面颊几处暖光。近处的手与裸脚趾受光更清楚，使静止姿态具有实在重量。右侧一段低矮红褐座面或墙沿从身体后探出，较浅石块聚在底部和左侧。光从左上柔和而定向地照来，提亮光环、墙面碎片及部分衣褶；深影积在手臂下和双腿间。细裂纹与磨旧表面肌理在人物与载体上都可见。整体构图简省而有沉思性的宗教画气质，以低头姿态和古旧土色材料营造安静反省的心境。",
+  "style_prompt_en": "The painting combines solemn iconlike figure construction with visibly distressed plaster or mosaic texture. Muted ochre, umber, olive gray and chalky cream form an aged low-saturation range. Broad draped shapes carry most of the composition, while small irregular squares, cracks and scraped edges keep the support active. A faint circular glow sits behind the principal dark form, and soft side light picks out selected planes without turning the scene glossy. Edges vary between firm silhouette and worn dissolution into the ground. The shallow, frontal space and heavy downward rhythm create stillness, with material erosion contributing as much character as the subject's modeling.",
+  "style_prompt_zh": "这种绘画把庄严的圣像式形体结构，同明显受损的灰泥或拼接肌理结合。压低的赭黄、赭褐、橄榄灰与粉白构成陈旧低饱和范围。宽阔垂褶形承担构图主体，小而不规则的方块、裂纹和刮擦边让载体保持活跃。淡淡圆形光位于主要深色形体后方，柔侧光挑出部分平面，却不使场景发亮如新。边缘在坚实剪影与磨损后融入底面之间变化。浅而正面的空间与厚重向下节奏形成静止感，材料侵蚀与形体塑造同样提供性格。",
+  "theme_en": "A robed contemplative figure seated against a worn mosaic wall",
+  "theme_zh": "一位身披长袍的人物沉思地坐在磨旧的拼接墙前",
+  "wh_ratio": "1:1",
+  "id": "2907",
+  "name": "Andrei Rublev",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/andrei-rublev",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/andrei-rublev.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "58331b94cae20e9eb801d413db93165e1c7f5cec6d2c449caa37f914d28f8713",
+    "gpt_submission_prompt": "A square iconlike painting shows a solitary robed figure seated on a low block against a weathered wall of small pale and ochre patches. The background is not a smooth field: irregular square fragments, scraped pigment and exposed warm brown areas form an aged mosaic surface. The figure sits slightly right of center, hunched forward with the head lowered. One elbow rests on a knee and one hand supports the side of the face; the other hand falls loosely over the lap. A faint circular halo or light ring sits behind the bowed head, partly lost in the mottled wall. The robe is broad and heavy, painted in olive gray and muted brown folds that wrap the knees and descend toward bare feet at the lower edge. The face is dark and quiet under the downward tilt, with only a few warm highlights on forehead and cheek. The near hand and bare toes are more clearly lit, giving the still pose physical weight. A low red-brown seat or wall ledge projects behind the body on the right, while lighter stone patches gather along the bottom and left. The light is soft and directional from the upper left, lifting the halo, wall fragments and selected folds; deep shadow gathers under the arm and between the legs. Fine cracks and worn surface texture remain visible across both figure and support. The overall composition is spare and devotional, using bowed posture and aged earth-colored material to create a quiet mood of reflection.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "615d4b0f9cb61552d05277c43ac3ba1658c68e3bad6c706f1688f51814a5a4a3",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

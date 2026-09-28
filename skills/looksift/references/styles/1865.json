@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square atmospheric landscape painting shows a narrow rural path winding toward a small white house on a low hillside at dusk. The path begins in the dark lower foreground and curves gently toward the middle right, its surface catching a faint pale reflection. Long grass, low shrubs, and scattered stones line both sides. The house stands near the right third, with a simple pitched roof and a bright golden window or doorway that sends a warm glow onto the nearby ground. Behind it, dark trees gather against the horizon. A broad valley and distant water or low land open toward the left, fading into blue-gray mist. The sky occupies more than half the image. Heavy teal and charcoal clouds sweep across the upper left and center, while one large peach-orange cloud rises over the house. A small dim moon or bright point hangs low near the middle, just above the distant hills. The last light of evening softens all distant boundaries. The house's warm window is the most concentrated light, balanced by the diffuse orange cloud and faint green-blue sky. Brushwork is smooth in the distance and more tactile in foreground grass and path. The palette is subdued: moss green, blue-gray, teal, charcoal, and peach, with a tiny amber focal accent. The viewpoint is slightly elevated over the path, allowing a clear route into the frame and leaving the house small beneath an expansive sky. The composition is quiet and expectant, combining the scale of evening weather with the intimate promise of a single illuminated shelter.",
+  "full_prompt_zh": "一幅方形空气感风景画描绘一条狭窄乡间小路，在黄昏中弯向低山坡上的白色小屋。道路从暗色下前景开始，轻轻弯到中间偏右，路面接住一点浅反光。长草、低灌木和零散石头排列两侧。房屋立在右侧三分之一附近，有简单双坡屋顶，明亮金色窗或门把暖光送到附近地面。它身后，深树聚在地平线上。宽阔山谷和远处水面或低地向左打开，渐入蓝灰雾气。天空占据画面一半以上。厚重深青和炭色云扫过左上与中央，一大块桃橙云在小屋上方升起。小小的暗月或亮点低悬在中央附近、远山之上。傍晚最后光线柔化所有远方边界。房屋暖窗是最集中的亮点，与漫射橙云和微弱绿蓝天空平衡。远处笔触平滑，前景草与道路更可触。调色低调：苔绿、蓝灰、深青、炭色、桃色，以及极小琥珀焦点。视点在道路上略升高，让画面有清楚的进入路径，让屋子在宽阔天空下显得微小。构图安静而充满期待，把傍晚天气的尺度与单一亮起庇护所的亲密感结合。",
+  "style_prompt_en": "Atmospheric landscape painting uses a narrow receding route, small warm focal glow, and an expansive cloud-heavy sky. Deep moss, teal, blue-gray, and charcoal carry a muted peach-orange passage and a tiny amber highlight. The distance dissolves in mist while near ground retains brushy texture. Let broad evening light soften the horizon and cloud edges, with one localized source remaining sharp enough to anchor the view. The effect is quiet, expectant, and intimate despite the wide natural scale.",
+  "style_prompt_zh": "空气感风景绘画使用狭窄退远路径、小暖色焦点光和宽阔厚云天空。深苔绿、深青、蓝灰与炭色承载一片低饱和桃橙及极小琥珀高光。远方消融在雾里，近地保留刷色纹理。宽泛傍晚光柔化地平线与云边，一处局部光源仍足够清楚，固定视线。效果安静、充满期待，虽有宽广自然尺度仍亲密。",
+  "theme_en": "A small glowing house by a dark rural path beneath evening clouds",
+  "theme_zh": "暮云下，暗色乡间小路旁一栋发亮小屋",
+  "wh_ratio": "1:1",
+  "id": "1865",
+  "name": "Steven Outram",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/steven-outram",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/steven-outram.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "3e343c206508244a3fb1cf1fdd6298986ffb1e56dcebf17f11a2c05b71d85dc7",
+    "gpt_submission_prompt": "A square atmospheric landscape painting shows a narrow rural path winding toward a small white house on a low hillside at dusk. The path begins in the dark lower foreground and curves gently toward the middle right, its surface catching a faint pale reflection. Long grass, low shrubs, and scattered stones line both sides. The house stands near the right third, with a simple pitched roof and a bright golden window or doorway that sends a warm glow onto the nearby ground. Behind it, dark trees gather against the horizon. A broad valley and distant water or low land open toward the left, fading into blue-gray mist. The sky occupies more than half the image. Heavy teal and charcoal clouds sweep across the upper left and center, while one large peach-orange cloud rises over the house. A small dim moon or bright point hangs low near the middle, just above the distant hills. The last light of evening softens all distant boundaries. The house's warm window is the most concentrated light, balanced by the diffuse orange cloud and faint green-blue sky. Brushwork is smooth in the distance and more tactile in foreground grass and path. The palette is subdued: moss green, blue-gray, teal, charcoal, and peach, with a tiny amber focal accent. The viewpoint is slightly elevated over the path, allowing a clear route into the frame and leaving the house small beneath an expansive sky. The composition is quiet and expectant, combining the scale of evening weather with the intimate promise of a single illuminated shelter.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "daaa7ffd47b4022134e3246439711e887981e66b60882b19bb90ec5aec202fc4",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

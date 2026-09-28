@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square watercolor-and-ink caricature shows a small squat older traveler standing in a determined pose before a pale decorative panel. His oversized bald head and gray beard dominate the figure; thick angled eyebrows press over narrowed blue eyes and a deeply furrowed face. A soft dark hat tilts back, with a red bundle and additional gear packed behind it. He wears a blue coat over gray trousers and heavy black shoes. One hand grips a thin cane while a large brown satchel hangs at his side. Tiny whimsical objects and creatures crowd around the backpack and the ornate panel, making the traveler appear burdened by a whole miniature world. The panel is outlined in soft sage-green curls and raised motifs, but the surrounding paper remains largely white. The body is compact and almost triangular, with head, shoulders, and boots tightly stacked. Black pen strokes and fine hatching describe wrinkles, beard strands, and folds; translucent ochre, dusty red, gray-green, and slate blue watercolor washes fill them irregularly. Soft page light and pale cast shadow keep the scene illustrative rather than realistic. The mood is comically stubborn, with disproportionate anatomy and dense tactile detail focused around the face and pack.",
+  "full_prompt_zh": "一幅方形水彩墨线夸张画描绘一位矮壮年长旅人站在浅装饰面板前，姿势坚决。放大的秃顶与灰胡须主导形象；粗斜眉压在眯起的蓝眼和深皱脸上。柔软深帽向后倾，后面还绑着红包袱和其他装备。他穿蓝外套、灰裤和厚黑鞋。一只手握细杖，大棕挎包挂在身侧。背包与华丽面板周围挤着微小奇物与生物，使旅人仿佛背着一整个微型世界。面板以柔灰绿卷纹和浮起装饰勾边，周围纸面仍大面积白。身体紧凑且近三角形，头、肩、鞋密密堆叠。黑钢笔痕和细排线描皱纹、胡须和衣褶；透明赭黄、灰红、灰绿及板岩蓝水彩不均地填入。柔纸面光与淡投影使场景保持插画性，而非写实。气氛滑稽而倔强，失衡解剖与密实可触细节集中在脸和行囊。",
+  "style_prompt_en": "Detailed editorial caricature in variable-weight black ink and irregular translucent watercolor. Oversized expressive masses sit on a compact body-like base, with fine wrinkles, scratchy hatching, and miniature surrounding motifs. Dusty blue, ochre, rust, and sage-green remain muted against exposed white paper. Page light, small cast marks, and crowded tactile linework create humorous weight without photographic realism.",
+  "style_prompt_zh": "细致社论夸张画，使用粗细变化的黑墨与不规则透明水彩。放大的表现性大形坐在紧凑底部之上，细皱、刮擦排线和周围微型纹样交织。灰蓝、赭黄、锈红、鼠尾草绿在裸白纸前维持低调。纸面亮度、小投影标记和拥挤可触线条形成幽默重量，而不追求照片真实。",
+  "theme_en": "A grumpy bearded traveler with cane and crowded satchel",
+  "theme_zh": "一位拄杖、背满行囊的愠怒胡须旅人",
+  "wh_ratio": "1:1",
+  "id": "0895",
+  "name": "Adam Zyglis",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/adam-zyglis",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/adam-zyglis.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "5365dad37972df043fa57e36a962107fc97405feea72b97abf7f59ded2f31061",
+    "gpt_submission_prompt": "A square watercolor-and-ink caricature shows a small squat older traveler standing in a determined pose before a pale decorative panel. His oversized bald head and gray beard dominate the figure; thick angled eyebrows press over narrowed blue eyes and a deeply furrowed face. A soft dark hat tilts back, with a red bundle and additional gear packed behind it. He wears a blue coat over gray trousers and heavy black shoes. One hand grips a thin cane while a large brown satchel hangs at his side. Tiny whimsical objects and creatures crowd around the backpack and the ornate panel, making the traveler appear burdened by a whole miniature world. The panel is outlined in soft sage-green curls and raised motifs, but the surrounding paper remains largely white. The body is compact and almost triangular, with head, shoulders, and boots tightly stacked. Black pen strokes and fine hatching describe wrinkles, beard strands, and folds; translucent ochre, dusty red, gray-green, and slate blue watercolor washes fill them irregularly. Soft page light and pale cast shadow keep the scene illustrative rather than realistic. The mood is comically stubborn, with disproportionate anatomy and dense tactile detail focused around the face and pack.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "c2612bffbc349cf9b935507c732de45b4f2dfa821e66f391ef50f78fa896a5b9",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

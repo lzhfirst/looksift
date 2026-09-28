@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square surreal architectural painting shows a giant pale stone head in left-facing profile, its rear and crown fused with the remains of a small masonry structure. The head stands on a flat ochre plain beneath a quiet gray-blue sky, occupying most of the center and right side. Its forehead, closed or nearly featureless eye, nose, and lips are smoothly sculpted in weathered cream stone. Along the upper right, rectangular rooms and broken walls cut into the rounded skull, their warm brick and gray plaster contrasting with the smooth face. A tall dark arch opens at the rear of the head, revealing a deep interior shadow. From the lower center, a narrow flight of stone steps climbs diagonally upward into the structure. The steps are chipped and irregular, with small ledges and blocks projecting beside them. Near the left cheek, a rounded stone form and scattered crack lines interrupt the otherwise calm profile. The plain at the bottom is dry and sparsely textured, without strong plants or figures. Far behind the sculpture, the horizon is low and faint, making its strange size feel monumental. Soft overcast light from the upper left touches the forehead, nose, and stair edges, while the arch and recessed masonry remain dark brown-gray. The painted surface has fine granular wear, cracks, and rubbed plaster texture, but the main silhouette remains firm. The overall composition turns a single classical form into a habitable ruin, balancing an open, empty landscape with compact architectural detail.",
+  "full_prompt_zh": "这幅方形超现实建筑绘画呈现一颗巨大的浅色石头人头像朝左侧身，后脑与头顶和一座小砌石建筑的遗迹融合。头立在平坦赭色旷野上，头顶是安静灰蓝天空，占据中央与右侧大部。前额、闭合或几乎没有明确描出的眼、鼻与嘴唇被平滑地雕成风化奶油色石材。右上方，矩形房间与破墙切入圆头骨，暖砖和灰泥对照光滑面孔。一道高深拱门在脑后打开，显出深暗内部。下方中央起，一道窄石阶斜向上攀入结构。台阶缺损而不齐，旁边有小平台和块体伸出。左脸颊附近，一个圆润石形和散裂缝打断原本平静的侧影。底部平原干燥且稀疏纹理，没有强烈植物或人物。雕像远后方，地平线低而模糊，使奇异尺度显得宏大。柔和阴天光从左上照到额头、鼻子和台阶边缘，拱门与凹入砌石保持深棕灰。画面表面有细颗粒磨损、裂纹和擦揉灰泥质感，主体剪影仍坚实。整体构图把一件古典形体变成可居的遗址，以开放空旷风景平衡紧凑建筑细节。",
+  "style_prompt_en": "The painting joins smooth sculptural curves to intricate rectilinear recesses and weathered mineral texture. Warm cream stone, dusty ochre, gray-blue, and deep brown form a restrained palette with little saturation. Soft overcast light models the broad exterior planes, while nested voids and steps gain depth through dark interior shadow. Fine cracks, chipped corners, and granular plaster make the surface feel ancient without obscuring its clean silhouette. A massive compact focal form stands in an unusually open field, creating a quiet tension between monumentality and emptiness. The result is precise, dreamlike, and materially grounded.",
+  "style_prompt_zh": "这种绘画把平滑雕塑曲线与精细直角凹处和风化矿物肌理结合起来。暖奶油石色、带灰赭黄、灰蓝与深棕组成饱和度很低的克制色域。柔和阴天光塑造宽阔外平面，嵌套空洞和阶状结构则经内部深影获得纵深。细裂缝、缺损角与颗粒灰泥让表面显得古老，却不遮住干净剪影。巨大而紧凑的焦点形体立于异常开阔的色域中，让宏大与空旷之间产生安静张力。结果精确、梦境般，同时材料可信。",
+  "theme_en": "A giant weathered stone head fused with stairs and a ruined arch",
+  "theme_zh": "一颗风化巨石头像与台阶和残破拱门融合",
+  "wh_ratio": "1:1",
+  "id": "3038",
+  "name": "Peter Gric",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/peter-gric",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "8e15fd4ddac87b40549c021c44210f2bd617bcc28debad9fcd6914b1a074b99c",
+    "gpt_submission_prompt": "A square surreal architectural painting shows a giant pale stone head in left-facing profile, its rear and crown fused with the remains of a small masonry structure. The head stands on a flat ochre plain beneath a quiet gray-blue sky, occupying most of the center and right side. Its forehead, closed or nearly featureless eye, nose, and lips are smoothly sculpted in weathered cream stone. Along the upper right, rectangular rooms and broken walls cut into the rounded skull, their warm brick and gray plaster contrasting with the smooth face. A tall dark arch opens at the rear of the head, revealing a deep interior shadow. From the lower center, a narrow flight of stone steps climbs diagonally upward into the structure. The steps are chipped and irregular, with small ledges and blocks projecting beside them. Near the left cheek, a rounded stone form and scattered crack lines interrupt the otherwise calm profile. The plain at the bottom is dry and sparsely textured, without strong plants or figures. Far behind the sculpture, the horizon is low and faint, making its strange size feel monumental. Soft overcast light from the upper left touches the forehead, nose, and stair edges, while the arch and recessed masonry remain dark brown-gray. The painted surface has fine granular wear, cracks, and rubbed plaster texture, but the main silhouette remains firm. The overall composition turns a single classical form into a habitable ruin, balancing an open, empty landscape with compact architectural detail.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "0ca1727df13f43b96a58ef83dbe332eb978f786e37fe637b538b4d0a8dc99c2e",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

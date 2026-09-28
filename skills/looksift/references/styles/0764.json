@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A surreal, grainy color photograph opens on a wide wildflower field beneath a turquoise sky. Near the center, a lone woman in a pale, belted dress stands in profile facing right, small in scale against the broad landscape. Her dark shoulder-length hair and the clean vertical of her figure contrast with the loose, multicolored flowers around her. Orange, coral, yellow, and pink blossoms fill the lower half, their nearest petals large and softly blurred while smaller stems recede toward the horizon. Beyond the field, mauve and dusty-pink mountain ridges stretch across the image in layered bands, their craggy texture held in a light atmospheric haze. A huge peach-colored moon rises behind the left side of the ridge, its curved disk much larger than a natural moon would appear and partly hidden by the peaks. The upper sky is a nearly even teal field with a few faint specks, leaving generous open space above the moon and figure. Warm late-day light glows on the moon and flowers, while the dress stays softly lit without deep shadows. A slight film grain, faded color edges, and a gentle veil of haze give the scene the feel of an aged analog print. The composition balances intimate human scale with impossible celestial scale, creating a calm, dreamlike sense of elsewhere.",
+  "full_prompt_zh": "一幅带颗粒的超现实彩色照片展开在青绿色天空下的宽阔野花田中。靠近中央，一位身穿浅色束腰连衣裙的女子以侧面朝右站立，在广阔景观中比例很小。她及肩深发和笔直的人形轮廓与周围松散的多色花朵形成反差。橙、珊瑚红、黄与粉色花朵填满下半幅，最近处花瓣较大且略微柔焦，较小的枝茎则向地平线后退。花田之后，淡紫与灰粉色山脊分层横贯画面，崎岖的纹理笼在浅浅的空气雾霭中。一轮巨大的桃色月亮从左侧山脊后升起，弧形圆盘远大于自然月亮的视尺度，并被山峰部分遮挡。上方天空几乎是均匀的青绿平面，只有几处微弱斑点，在月亮和人物上方留下充足开放空间。傍晚的暖光照亮月亮与花丛，连衣裙受光柔和，没有深重阴影。轻微胶片颗粒、褪色边缘和薄雾使场景像陈年的模拟照片。构图将亲密的人物尺度与不可能的天体尺度平衡起来，营造安静、梦境般的异地感。",
+  "style_prompt_en": "The image blends staged fashion photography with surreal landscape collage. A deliberately limited yet vivid color relationship sets cool turquoise and mauve against peach, coral, orange, and pink. Scale is manipulated subtly but unmistakably, while perspective, haze, and softly blended edges make the impossible arrangement feel photographically continuous. Fine analog grain, slight fading, and gentle halation replace crisp digital clarity. The composition leaves a large quiet field of color above a densely textured lower band, with a small focal silhouette anchoring the distance. Light is warm and diffused, creating a wistful, otherworldly atmosphere.",
+  "style_prompt_zh": "画面把经过安排的时尚摄影与超现实地景拼贴结合。有限而鲜明的色彩关系使冷青绿和淡紫色对照桃色、珊瑚红、橙与粉。尺度被巧妙但明显地改变，透视、雾霭与柔和融合的边缘又让不可能的组合在摄影上显得连续。细密的模拟胶片颗粒、轻微褪色和柔晕取代清脆的数码锐度。构图在密集纹理的下方色带之上保留大块安静色场，由远处的小焦点剪影稳住画面。光线温暖而漫射，形成惆怅且超尘的氛围。",
+  "theme_en": "A lone woman in a pale dress stands among vivid wildflowers beneath a huge peach-colored moon and turquoise sky, in a surreal vintage photograph.",
+  "theme_zh": "一位身穿浅色连衣裙的女子独立于鲜艳野花之间，巨大的桃色月亮悬在青绿色天空下方，以超现实复古摄影呈现。",
+  "wh_ratio": "1:1",
+  "id": "0764",
+  "name": "Dana Trippe",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/dana-trippe",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/dana-trippe.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "c4cb53a04bf8ed3e3bb4922a6b350ddf70b393698d533e7c56aabbada3e077c8",
+    "gpt_submission_prompt": "A surreal, grainy color photograph opens on a wide wildflower field beneath a turquoise sky. Near the center, a lone woman in a pale, belted dress stands in profile facing right, small in scale against the broad landscape. Her dark shoulder-length hair and the clean vertical of her figure contrast with the loose, multicolored flowers around her. Orange, coral, yellow, and pink blossoms fill the lower half, their nearest petals large and softly blurred while smaller stems recede toward the horizon. Beyond the field, mauve and dusty-pink mountain ridges stretch across the image in layered bands, their craggy texture held in a light atmospheric haze. A huge peach-colored moon rises behind the left side of the ridge, its curved disk much larger than a natural moon would appear and partly hidden by the peaks. The upper sky is a nearly even teal field with a few faint specks, leaving generous open space above the moon and figure. Warm late-day light glows on the moon and flowers, while the dress stays softly lit without deep shadows. A slight film grain, faded color edges, and a gentle veil of haze give the scene the feel of an aged analog print. The composition balances intimate human scale with impossible celestial scale, creating a calm, dreamlike sense of elsewhere.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "faaf5a48a1b35fc10b2aa5c62150d76553f30d80977b95391f6ec67889ca9a8c",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square cinematic science-fiction painting looks through a massive rough stone arch onto a sunlit desert plain. In the foreground, a lone traveler with a backpack stands facing away from the viewer. Beyond the arch, a colossal white robot or armored machine sits partly buried in sand, its lowered head and broad shoulders towering over the small figure. A few tiny people or animals near the machine reinforce the huge scale. Clear blue sky and scattered small clouds fill the opening above it. The rocky arch frames the scene in warm rust and brown, while the machine is weathered ivory with gray seams, scratches, and shadowed joints. Sunlight strikes the sandy ground and the robot's pale shell, casting compact shadows beneath the arch and along the machine's forms. The composition relies on scale contrast and a central view into depth: near dark stone, human midground, monumental machine, and distant horizon. Painterly texture and fine surface wear keep the metal and rock tactile rather than digitally slick. The scene feels like a quiet moment of exploration after a lost technological age, with awe carried by perspective, warm-cool contrast, and silence rather than action.",
+  "full_prompt_zh": "一幅方形电影感科幻绘画透过巨大的粗石拱门望向阳光照亮的沙漠平原。前景一位背包旅人背对观者站着。拱外一座巨大的白色机器人或装甲机械部分埋在沙中，低垂头部与宽阔肩部远高于小人物。机器附近还有几个细小人或动物，进一步强调巨大尺度。清澈蓝天和散落小云填满上方开口。粗石拱以暖锈和棕色框住场景，机器则是风化象牙白，带灰色接缝、刮痕和阴影里的关节。日光照亮沙地与机器人浅色外壳，在拱下和机械形体旁投下紧凑阴影。构图依靠尺度对照与中央纵深视线：近处暗石、人类中景、纪念碑式机器、远方地平线。绘画肌理和细微表面磨损让金属与岩石可触，而非数字般油亮。场景像失落技术时代之后一次安静探索，敬畏感来自透视、冷暖对照和寂静，而非动作。",
+  "style_prompt_en": "A cinematic science-fiction concept-painting language frames an immense pale object through warm dark foreground structures. Clear blue sky, rust-colored stone, sandy ochre, and weathered ivory create a legible warm-cool palette. One tiny human-scale mark establishes the monumentality of the central form. Strong sunlight catches raised surfaces, while shadowed joints and near framing elements retain depth. Painterly rock texture, scratches, seams, and worn metal prevent the large shapes from feeling sterile. The composition moves through foreground threshold, midground figure, distant giant, and open horizon. The mood is exploratory and awestruck, held in stillness rather than combat.",
+  "style_prompt_zh": "电影感科幻概念绘画语言透过暖色深暗前景结构框住巨大的浅色形体。清蓝天空、锈色石头、沙赭和风化象牙白组成清楚的冷暖色谱。一个极小的人物尺度笔迹标出中央形体的纪念碑感。强日光照亮凸起表面，阴影里的接头和近处框架保留纵深。绘画性的岩石肌理、刮痕、接缝和磨损金属使大形体不显无菌。构图经过前景门槛、中景人物、远方巨物和开放地平线。气氛探索而令人敬畏，保持静止而非战斗。",
+  "theme_en": "A lone desert traveler faces a giant abandoned robot beneath a stone arch",
+  "theme_zh": "孤独的沙漠旅人从石拱下望向巨大的废弃机器人",
+  "wh_ratio": "1:1",
+  "id": "4407",
+  "name": "Ralph McQuarrie",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/ralph-mcquarrie.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "b9ae975c3845af9d413feccc6f47f5b45e6287f233801106a1155b45a0c75a2e",
+    "gpt_submission_prompt": "A square cinematic science-fiction painting looks through a massive rough stone arch onto a sunlit desert plain. In the foreground, a lone traveler with a backpack stands facing away from the viewer. Beyond the arch, a colossal white robot or armored machine sits partly buried in sand, its lowered head and broad shoulders towering over the small figure. A few tiny people or animals near the machine reinforce the huge scale. Clear blue sky and scattered small clouds fill the opening above it. The rocky arch frames the scene in warm rust and brown, while the machine is weathered ivory with gray seams, scratches, and shadowed joints. Sunlight strikes the sandy ground and the robot's pale shell, casting compact shadows beneath the arch and along the machine's forms. The composition relies on scale contrast and a central view into depth: near dark stone, human midground, monumental machine, and distant horizon. Painterly texture and fine surface wear keep the metal and rock tactile rather than digitally slick. The scene feels like a quiet moment of exploration after a lost technological age, with awe carried by perspective, warm-cool contrast, and silence rather than action.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "a45f805d259ec7aac8c5992e6a8b23a717b04f614e8c8405912acd6b72cd467a",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

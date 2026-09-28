@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square illustrated poster collage places a blonde woman's face at the center, much larger than the figures layered around her. She looks upward and slightly right with a determined, searching expression, pale hair swept back, and red lips held partly open. Warm cream highlights pick out her forehead, nose, and cheek, while cool teal shadows sharpen the eyes and jaw. At the left edge and lower right, smaller male faces emerge from a crowded network of scarlet fragments, pale shapes, and dark teal patches. A fierce masklike figure appears near the upper left, adding a second high-contrast focal point without overtaking the central portrait. The illustration uses fine engraved linework and close hatching to model facial planes, then overlays it with broad flat red ribbons and broken graphic textures. Thin curling lines pass across and behind the faces, connecting the layered images like an energetic screen print. The color range is intentionally limited to deep scarlet, warm cream, muted turquoise, charcoal, and small gold-brown notes. There is no stable room or landscape; the background is a packed field of portraits and abstract action fragments. Light is graphic rather than naturalistic, with pale highlights and teal shadows assigned to create strong volume across the main face. The composition presses to every edge, shifts scale abruptly, and sends curved red paths through the dense detail. The overall image feels cinematic and urgent, balancing meticulous portrait draftsmanship against restless poster-like color overlays.",
+  "full_prompt_zh": "一幅方形插画海报拼贴把金发女子的脸放在中心，尺度远大于周围层叠的人物。她略向右上方望去，神情坚定而探寻，浅色头发向后梳，红唇微张。暖奶油色高光勾出额头、鼻子和脸颊，冷青绿色阴影强化眼睛与下颌。左缘和右下方，几张较小的男子面孔从拥挤的猩红碎片、浅色形状和深青绿斑块中浮现。左上附近有一张凶猛的面具般面孔，提供第二处高反差焦点，却不压过中央肖像。插画以精细雕版式线条和紧密排线塑造面部平面，随后叠上宽阔平坦的红色带状形态与破碎图形纹理。细而卷曲的线在脸前与脸后穿行，像充满能量的丝网印刷把层叠图像连在一起。色域有意限制在深猩红、暖奶油、低饱和青绿、炭灰和少量金棕。画面没有稳定的房间或风景；背景是一片塞满肖像与抽象动作碎片的区域。光更偏图形化而非自然主义，浅色高光和青绿阴影被用于建立主面孔的强体积。构图压到每一边缘，尺度突然变化，弯曲的红色路径穿过密集细节。整体有电影般的紧迫感，以细密肖像造型平衡躁动的海报色层。",
+  "style_prompt_en": "A dense illustrated-poster style combines meticulous engraved linework and close hatching with flat, sweeping graphic overlays. Deep scarlet, warm cream, muted turquoise, charcoal, and small ocher accents create strong warm-cool collisions. Focal planes gain volume from sharply assigned pale highlights and teal shadows rather than a single natural light source. Curving colored ribbons, broken textures, and abrupt scale shifts bind multiple visual layers into an edge-to-edge composition. Detailed centers alternate with broad flat marks, producing a cinematic, urgent, screen-printed feel.",
+  "style_prompt_zh": "密集的插画海报风格，把精细雕版式线条与紧密排线同平坦、扫动的图形覆盖层结合。深猩红、暖奶油、低饱和青绿、炭灰及少量赭黄点缀形成强烈冷暖碰撞。视觉中心的体积来自明确分配的浅色高光和青绿阴影，而非单一自然光源。弯曲色带、破碎纹理和突变尺度把多个视觉层次连成塞满边缘的构图。细密中心与宽阔平面笔痕交替，产生电影般紧迫且带丝网印刷感的效果。",
+  "theme_en": "A determined blonde heroine amid scarlet fragments and layered faces",
+  "theme_zh": "一名神情坚定的金发女主角置于猩红碎片与层叠面孔之间",
+  "wh_ratio": "1:1",
+  "id": "3796",
+  "name": "Martin Ansin",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/martin-ansin",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "6c68844a1ea44e0db01db023aa46547615bf401e9125fd4a2b2484ea44f8ab6c",
+    "gpt_submission_prompt": "A square illustrated poster collage places a blonde woman's face at the center, much larger than the figures layered around her. She looks upward and slightly right with a determined, searching expression, pale hair swept back, and red lips held partly open. Warm cream highlights pick out her forehead, nose, and cheek, while cool teal shadows sharpen the eyes and jaw. At the left edge and lower right, smaller male faces emerge from a crowded network of scarlet fragments, pale shapes, and dark teal patches. A fierce masklike figure appears near the upper left, adding a second high-contrast focal point without overtaking the central portrait. The illustration uses fine engraved linework and close hatching to model facial planes, then overlays it with broad flat red ribbons and broken graphic textures. Thin curling lines pass across and behind the faces, connecting the layered images like an energetic screen print. The color range is intentionally limited to deep scarlet, warm cream, muted turquoise, charcoal, and small gold-brown notes. There is no stable room or landscape; the background is a packed field of portraits and abstract action fragments. Light is graphic rather than naturalistic, with pale highlights and teal shadows assigned to create strong volume across the main face. The composition presses to every edge, shifts scale abruptly, and sends curved red paths through the dense detail. The overall image feels cinematic and urgent, balancing meticulous portrait draftsmanship against restless poster-like color overlays.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "17e2b8f217fbb563446bea542f0a5c0582413e5eb8a0fe1a34d5aafcda9d0a7b",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

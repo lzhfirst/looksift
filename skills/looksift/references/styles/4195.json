@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square heavily impasto oil painting fills the frame with a close human face, front-facing and slightly turned. The brow and cheek are constructed from thick slabs of burgundy, crimson, yellow, cream, and gray-blue paint. The eyes are partly buried beneath ridges of pigment but remain intensely focused, with dark cavities under heavy brows. A broad pale vertical stroke forms the nose bridge and runs toward the cheek. The lips sit in a red-brown mass at the lower center, almost swallowed by surrounding scraped color. There is no descriptive background; dark red and blue-gray paint at the margins presses close to the head. Palette-knife marks, lifted edges, and deep grooves make the paint physically raised, so light catches the tops of ridges and drops into dark seams. The image feels sculpted as much as painted. Color is not blended into smooth flesh; each stroke remains distinct, some broad and blunt, others scraped thin across an older layer. The tight crop removes the neck and setting, concentrating on the face's severe expression and material surface. Illumination appears warm on the yellow and cream ridges, while crimson and slate shadows keep the eyes recessed. The whole composition is forceful, raw, and weighty, with human recognition emerging from a dense collision of paint.",
+  "full_prompt_zh": "一幅方形厚涂油画用极近的人脸填满画框，正面略有转角。眉与面颊由勃艮第红、深红、黄、奶油和蓝灰厚厚颜料板块搭起。双眼部分埋在颜料脊下，却仍目光强烈；沉重眉下是深色凹洞。一道宽阔浅色竖笔构成鼻梁，向面颊延伸。嘴唇坐在下方中央红棕色团块里，几乎被周围刮擦色吞掉。没有描述性背景；边缘深红和蓝灰颜料紧压着头部。调色刀痕、翘起边和深沟令颜料真正凸起，光落在脊顶，凹缝则转暗。画面几乎既雕塑又绘画。颜色没有融成平滑肉色；每笔都独立，有些宽而钝，有些薄薄刮过旧层。紧裁切去掉颈与环境，集中在严厉表情和物质表面。黄与奶油色脊上似有暖光，深红和石板色阴影使眼睛后退。整个构图有力、粗粝而沉重，人脸识别从浓密颜料碰撞中浮出。",
+  "style_prompt_en": "Heavy impasto oil painting builds form from raised slabs, palette-knife scrapes, and deep grooves. Burgundy, crimson, ochre-yellow, cream, and slate-blue remain separate rather than blended into smooth gradients. Warm light catches the ridges and leaves dark seams between them. The image is closely cropped and nearly fills every edge with material activity. Focal features emerge from the collision of strokes, so recognition and abstraction remain in tension. Thick blunt edges alternate with thin scraped veils over earlier paint. The finish is sculptural, raw, and physically weighty.",
+  "style_prompt_zh": "厚涂油画由凸起颜料板、调色刀刮痕和深沟搭出形体。勃艮第红、深红、赭黄、奶油和石板蓝各自分开，而非调和为平滑渐层。暖光照到凸脊，缝间留下暗色。裁切贴近，物质活动几乎占满每个边缘。焦点特征从笔触碰撞中浮出，使识别与抽象持续拉扯。厚钝边缘与在旧颜料上薄擦的色幕交替。完成面雕塑般、粗粝且有实体重量。",
+  "theme_en": "A stern face built from thick red and yellow oil paint",
+  "theme_zh": "厚重红黄油彩堆成的严肃面孔",
+  "wh_ratio": "1:1",
+  "id": "4195",
+  "name": "Frank Auerbach",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/frank-auerbach.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "ec32aeec7622d066c3516d6071fe58001edafef8ae173e2afcada7fd2bb28aaf",
+    "gpt_submission_prompt": "A square heavily impasto oil painting fills the frame with a close human face, front-facing and slightly turned. The brow and cheek are constructed from thick slabs of burgundy, crimson, yellow, cream, and gray-blue paint. The eyes are partly buried beneath ridges of pigment but remain intensely focused, with dark cavities under heavy brows. A broad pale vertical stroke forms the nose bridge and runs toward the cheek. The lips sit in a red-brown mass at the lower center, almost swallowed by surrounding scraped color. There is no descriptive background; dark red and blue-gray paint at the margins presses close to the head. Palette-knife marks, lifted edges, and deep grooves make the paint physically raised, so light catches the tops of ridges and drops into dark seams. The image feels sculpted as much as painted. Color is not blended into smooth flesh; each stroke remains distinct, some broad and blunt, others scraped thin across an older layer. The tight crop removes the neck and setting, concentrating on the face's severe expression and material surface. Illumination appears warm on the yellow and cream ridges, while crimson and slate shadows keep the eyes recessed. The whole composition is forceful, raw, and weighty, with human recognition emerging from a dense collision of paint.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "5df2d5e1522148777990c8c22fad491839e2f3e663db014f37302de0c9ba3c36",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

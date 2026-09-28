@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square Futurist painting shows two performers seated close together amid a field of fractured color. The figure on the left wears a dark blue hat and blue jacket, holding a small brown violin and bow across the lower half. On the right, a woman in a pink dress and headband lifts her face with her mouth open as if singing. Their faces are simplified into angular pale planes, with strong blue, mauve and coral shadows. Behind them, curved bands and sharp triangular pieces of cream, yellow, blue and rose overlap like sound and movement made visible. The pair occupy nearly the entire square, but their bodies are partly absorbed into the surrounding geometry. Fine stippled dots cover the painted surface, softening the edges of otherwise hard shapes. Light is distributed through bright color facets rather than a single realistic source; cream and yellow planes near the top and center bring attention to faces and hands. The violin's warm brown provides a small recognizable object amid the abstraction. The composition is packed and rhythmic, with diagonals and arcs crossing around the pair. Though the figures are still readable, perspective is compressed and multiple directions seem to coexist. The image feels musical, lively and decorative, held together by a repeating mosaic of saturated color and pointillist texture.",
+  "full_prompt_zh": "这幅方形未来主义绘画呈现两名表演者紧靠着坐在碎裂色域中。左侧人物戴深蓝帽、穿蓝外套，手持一把小棕色小提琴，琴弓横过下半幅。右侧女子穿粉裙、戴头带，抬脸张嘴，像在歌唱。面孔被简化成有棱角的浅色平面，带强烈蓝、淡紫与珊瑚阴影。身后奶油、黄、蓝和玫色的曲带与尖三角互相重叠，像声音和运动变得可见。两人几乎占满方框，但身体部分融进周围几何。细点纹覆盖画面，柔化原本坚硬的边。光通过明亮彩色切面分布，而非来自单一写实光源；上方和中央的奶油黄平面把注意力带到脸与手。小提琴暖棕成为抽象中一个可认的小物。构图塞满且有节奏，斜线和弧线在两人周围交叉。人物仍可读，但透视被压平，多种方向像同时存在。图像音乐性强、活跃而装饰，由重复的饱和色马赛克与点彩质地维系。",
+  "style_prompt_en": "The Futurist painting breaks solid forms into overlapping angular planes and curved bands. Saturated blue, coral, pink, yellow and cream repeat as a dense mosaic, with fine stippling across the surface. Bright facets distribute light without a single natural source. Hard diagonals and softer arcs cross through compressed space, creating movement and rhythmic visual sound. Recognizable focal shapes remain embedded in the abstraction, giving the image playful energy.",
+  "style_prompt_zh": "这种未来主义绘画把实形拆成重叠棱角平面与曲带。饱和蓝、珊瑚、粉、黄和奶油色重复成密集马赛克，表面满是细点纹。明亮切面分配光，而无单一自然光源。硬斜线与较软弧线穿过压缩空间，形成运动和有节奏的视觉声响。可认的焦点形状嵌在抽象里，使图像充满俏皮能量。",
+  "theme_en": "A violin player and singer in a fractured colorful scene",
+  "theme_zh": "碎片化彩色场景中的小提琴手与歌者",
+  "wh_ratio": "1:1",
+  "id": "3432",
+  "name": "Gino Severini",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/gino-severini",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "7fadb9cfe5607c9b86de575e9ef96e6922e8be3127e8bdecae5e891af9051c0a",
+    "gpt_submission_prompt": "A square Futurist painting shows two performers seated close together amid a field of fractured color. The figure on the left wears a dark blue hat and blue jacket, holding a small brown violin and bow across the lower half. On the right, a woman in a pink dress and headband lifts her face with her mouth open as if singing. Their faces are simplified into angular pale planes, with strong blue, mauve and coral shadows. Behind them, curved bands and sharp triangular pieces of cream, yellow, blue and rose overlap like sound and movement made visible. The pair occupy nearly the entire square, but their bodies are partly absorbed into the surrounding geometry. Fine stippled dots cover the painted surface, softening the edges of otherwise hard shapes. Light is distributed through bright color facets rather than a single realistic source; cream and yellow planes near the top and center bring attention to faces and hands. The violin's warm brown provides a small recognizable object amid the abstraction. The composition is packed and rhythmic, with diagonals and arcs crossing around the pair. Though the figures are still readable, perspective is compressed and multiple directions seem to coexist. The image feels musical, lively and decorative, held together by a repeating mosaic of saturated color and pointillist texture.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "b4d388b5ee1cb50822c7cabb0ab441935d9c572b81801b6b7a2d90e21a371507",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

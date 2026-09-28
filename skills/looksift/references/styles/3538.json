@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square realist oil painting shows a man in a pale cream suit seated on a broad low wall beside an open sea. He sits slightly left of center with both hands resting together near his lap, legs hanging over the front edge, and face turned up toward the right. His closely cropped hair and warm brown skin are lit against a broad teal sky, while the light jacket, vest, shirt, and bow tie make a layered series of cream and tan shapes. Below the wall, the lower foreground is a flat blue-green area of water or painted ground, and the man's shoes and deep leg shadow break the pale masonry line. The wall stretches horizontally from edge to edge, its block joints and worn patches subtly visible in warm off-white. Behind him, a low distant horizon separates a narrow strip of brown-green land or sea from the large upper sky. A small pale cloud sits left of his head and a larger soft cloud mass extends across the far background, giving the open space a gentle rhythm. Strong sunlight comes from the upper left, picking out the shoulder, forehead, trouser folds, and upper edge of the wall. His shadow falls sharply down and right across the stone, creating a darker vertical counterweight beneath the seated figure. The paint surface is smooth but lightly grainy, with broad carefully blended color planes and restrained brush texture in the masonry. There are no other people or readable marks in the selected scene. The overall composition is simple and contemplative, using one still figure, a long horizon, and warm light to set human presence against expansive blue air.",
+  "full_prompt_zh": "一幅方形写实油画描绘一位穿浅奶油色西装的男子坐在开阔海边的宽矮墙上。他位于中央偏左，双手在膝上靠拢，双腿悬过前沿，脸抬起朝右。短发和暖棕肤色在宽阔青蓝天空前受光，浅色夹克、背心、衬衣与领结形成一层层奶油和棕褐形状。墙下，前景是一块平坦蓝绿水域或涂色地面，男子的鞋和深色腿影打断浅石墙线。墙横贯两边，暖灰白表面上的砖缝和磨旧斑块隐约可见。他身后，低地平线把窄窄棕绿土地或海面同大片上方天空分开。头左侧有一朵小浅云，远方还延伸更大的柔云团，让开阔空间有温和节奏。强阳光从左上进入，照亮肩、额头、裤褶和墙上沿。他的影子锐利地沿石面向右下落，成为坐姿人物下方的深色竖向平衡。颜料表面平滑又略带颗粒，宽阔色面仔细融合，墙面只有克制的笔触肌理。所选画面里没有其他人物或可读记号。整体构图简洁而沉思，用一个静止人物、长地平线和暖光把人的存在置于广阔蓝色空气前。",
+  "style_prompt_en": "The painting has restrained realist oil handling, with broad clean color planes, subtle surface grain, and careful modeling of a small focal form. Teal blue and warm cream dominate, with ocher and brown accents quietly anchoring the lower area. Long horizontals and ample open space make the composition calm; a sharply falling shadow adds a strong directional note. Edges are crisp around the most illuminated planes and softly blended in the distant air. Sunlight is warm, direct, and selective, revealing folds and worn texture without overcrowding the scene. The overall effect is lucid, spacious, and quietly contemplative.",
+  "style_prompt_zh": "绘画采用克制的写实油画处理，色面宽阔干净，表面略有颗粒，小焦点形体仔细塑造。青蓝与暖奶油色占主导，赭与棕色强调安静地稳住下方区域。长横线和充裕留白使构图平静，一道锐利下落的投影加入强定向线索。最受光的平面边缘清楚，远处空气里则柔和融合。阳光暖、直接且有选择地揭示褶皱与磨旧肌理，没有把场景塞满。整体效果清澈、宽敞且安静沉思。",
+  "theme_en": "A man in a pale suit seated on a sunlit wall by the sea",
+  "theme_zh": "身穿浅色西装的男子坐在海边日照矮墙上",
+  "wh_ratio": "1:1",
+  "id": "3538",
+  "name": "Bo Bartlett",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/bo-bartlett",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "05b9d41750b85b2223bc08b705471e791e5f6d113f26ec4d78b3d3307d10f2a9",
+    "gpt_submission_prompt": "A square realist oil painting shows a man in a pale cream suit seated on a broad low wall beside an open sea. He sits slightly left of center with both hands resting together near his lap, legs hanging over the front edge, and face turned up toward the right. His closely cropped hair and warm brown skin are lit against a broad teal sky, while the light jacket, vest, shirt, and bow tie make a layered series of cream and tan shapes. Below the wall, the lower foreground is a flat blue-green area of water or painted ground, and the man's shoes and deep leg shadow break the pale masonry line. The wall stretches horizontally from edge to edge, its block joints and worn patches subtly visible in warm off-white. Behind him, a low distant horizon separates a narrow strip of brown-green land or sea from the large upper sky. A small pale cloud sits left of his head and a larger soft cloud mass extends across the far background, giving the open space a gentle rhythm. Strong sunlight comes from the upper left, picking out the shoulder, forehead, trouser folds, and upper edge of the wall. His shadow falls sharply down and right across the stone, creating a darker vertical counterweight beneath the seated figure. The paint surface is smooth but lightly grainy, with broad carefully blended color planes and restrained brush texture in the masonry. There are no other people or readable marks in the selected scene. The overall composition is simple and contemplative, using one still figure, a long horizon, and warm light to set human presence against expansive blue air.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "a558902d1bc319631fc8a581794c748d9e32388050d3a5e83891294cce5e4e04",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

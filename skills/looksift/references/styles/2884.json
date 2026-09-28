@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square architectural photograph shows a white modern courtyard arranged around a broad reflecting pool under a clear blue sky. The view looks inward between several pale buildings. On the left, a curved upper walkway projects above slender white supports and glass walls, its railing tracing a clean horizontal arc. Across the center, white tiled facades and open rectangular passages step back through the courtyard. A tall glass wall rises on the right edge of the middle ground, its dark vertical mullions reflecting the surrounding pale surfaces. The pool occupies nearly the whole lower half of the frame, mirroring columns, walls and patches of sky in slightly softened blue-gray bands. A narrow dark coping line traces the water's edge from the lower left toward the central opening. Repeated square tile joints give the white surfaces a subtle grid, preventing the clean geometry from becoming featureless. There are no people or visible signs; the emphasis stays on light, proportion and reflection. Strong daylight comes from the upper right, making the exposed white planes nearly luminous and leaving soft cool shade under balconies and recesses. The glass shows deeper blue reflections, while the water remains still enough to double the facade without becoming perfectly mirror-flat. The overall composition feels open and quiet, using crisp pale curves, vertical glass divisions and reflected depth to turn a courtyard into a balanced study of light.",
+  "full_prompt_zh": "这幅方形建筑照片中，白色现代庭院在晴朗蓝天下围着宽阔的反光水池展开。视线从几栋浅色建筑之间向内看。左侧一条弯曲上层步道挑出，悬在纤细白色支柱和玻璃墙上，栏杆画出干净的横向弧。中央，白色贴砖立面和敞开的矩形通道一层层退入庭院。中景右缘升起高玻璃墙，深色竖向窗格映着周围浅色表面。水池占据下半部几乎全部，把柱、墙与天空斑块映成略微柔化的蓝灰色带。一条窄深池沿从左下通向中央开口。反复的方形砖缝给白色表面带来轻微网格，使清洁几何形不至毫无特征。画中没有人或可见标识；重点留给光、比例与倒影。强日光从右上照来，让暴露的白平面近乎发亮，阳台下和凹处留有柔和冷影。玻璃显出更深蓝色反射，水仍静到能把立面复制一遍，却没有完全镜平。整体构图敞开而安静，以清楚浅色曲线、竖向玻璃分割与反射纵深，把庭院变成平衡的光之研究。",
+  "style_prompt_en": "The photograph favors bright white modular planes, smooth curves and cool blue reflective fields. Fine grids and slender vertical lines articulate otherwise large simple surfaces, while openings create measured dark pockets. Direct daylight lifts exposed faces close to white, and sheltered zones remain cool rather than black. Reflections repeat the geometry below with slightly softened edges, making the lower half as active as the upper structure. The camera's balanced viewpoint emphasizes orderly spacing and generous open air. The visual result is clean, luminous and calm, with depth created through transparent layers and mirrored repetition.",
+  "style_prompt_zh": "这种摄影偏爱明亮白色模块平面、平滑曲线和清冷蓝色反光域。细网格与纤细竖线刻画原本宽大简洁的表面，开口则形成有节制的深色凹块。直射日光把暴露面提得近白，受遮蔽区保持冷色而非纯黑。倒影在下方重复几何形，边缘略柔，让下半部与上方结构同样活跃。平衡视点强调有序间隔与宽裕空气。视觉成品干净、发亮且平静，纵深由透明层与镜像重复形成。",
+  "theme_en": "White modern buildings and glass walls reflected in a still courtyard pool",
+  "theme_zh": "白色现代建筑和玻璃墙倒映在安静的庭院水池中",
+  "wh_ratio": "1:1",
+  "id": "2884",
+  "name": "Richard Meier",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/richard-meier",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/richard-meier.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "6cae8c39f0f16f434064115cdfce1df748bcb02de82e891172b74af4b207c3a2",
+    "gpt_submission_prompt": "A square architectural photograph shows a white modern courtyard arranged around a broad reflecting pool under a clear blue sky. The view looks inward between several pale buildings. On the left, a curved upper walkway projects above slender white supports and glass walls, its railing tracing a clean horizontal arc. Across the center, white tiled facades and open rectangular passages step back through the courtyard. A tall glass wall rises on the right edge of the middle ground, its dark vertical mullions reflecting the surrounding pale surfaces. The pool occupies nearly the whole lower half of the frame, mirroring columns, walls and patches of sky in slightly softened blue-gray bands. A narrow dark coping line traces the water's edge from the lower left toward the central opening. Repeated square tile joints give the white surfaces a subtle grid, preventing the clean geometry from becoming featureless. There are no people or visible signs; the emphasis stays on light, proportion and reflection. Strong daylight comes from the upper right, making the exposed white planes nearly luminous and leaving soft cool shade under balconies and recesses. The glass shows deeper blue reflections, while the water remains still enough to double the facade without becoming perfectly mirror-flat. The overall composition feels open and quiet, using crisp pale curves, vertical glass divisions and reflected depth to turn a courtyard into a balanced study of light.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "a1689c5c5deecb9005506d17f315a70852b2feb76a80026da8d2a7ec48cac588",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

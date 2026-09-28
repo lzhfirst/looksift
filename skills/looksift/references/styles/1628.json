@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A watercolor and ink illustration on textured white paper shows a solitary figure in side view at the lower left, while an enormous rainbow plume bursts from the back of the head toward the upper right. The figure is simplified to a dark violet head, a narrow neck, and a long blue coat that drops almost to the bottom edge. A few thin black lines define the face and shoulder, leaving the body almost still and compact. From the head, dense red and orange pigment expands into yellow, green, turquoise, and cobalt blue, each band breaking into droplets, flicks, and fine spattered grains. The plume widens dramatically as it travels across the square frame, with its leading blue edge partly cropped at the right; the spray feels more like liquid color released into air than a solid object. Large areas of bare off white paper remain around the form, especially on the left and lower right, making the burst appear even more energetic. The grain of the paper catches transparent washes and irregular pooling, while darker ink accents lend the color a crisp core. Illumination is implicit in the clean white ground and brilliant pigments, with no depicted light source or cast shadow. The whole image joins a restrained human silhouette to a sudden, expansive movement of color, making the contrast between stillness and release the central effect.",
+  "full_prompt_zh": "一幅画在有纹理白纸上的水彩与墨线插画，左下方是一位独自侧身站立的人物，而一股巨大的彩虹色流束从头部后方迸向右上。人物被简化成深紫色头部、细窄脖颈和几乎垂到底边的蓝色长外衣。几根纤细黑线界定面部与肩膀，让身体显得近乎静止且紧凑。自头部起，浓密的红橙颜料向外扩展，过渡成黄、绿、青绿与钴蓝；每一条色带都碎裂成液滴、飞甩的痕迹和细小溅点。流束穿越方形画面时急剧变宽，前端蓝色部分被右边缘局部裁切；这些飞散的颜色更像释放到空气中的液体，而非坚实物体。形态周围保留大片裸露的灰白纸面，尤其在左侧与右下方，使爆发显得更加有力。纸张颗粒承接透明水洗与不规则积色，较深的墨线则为彩色提供清晰的核心。光感来自干净白底与明艳颜料本身，没有画出的光源或投影。整幅画把克制的人物剪影与突然扩张的色彩运动结合，让静止与释放之间的对照成为中心效果。",
+  "style_prompt_en": "A watercolor and ink image on visibly textured white paper, built from a small restrained anchor and one dramatic diagonal expansion of pigment. Begin with a compact dark shape and release red, orange, yellow, green, turquoise, and blue in a widening current of transparent washes, droplets, and sharp spatter. Let the colored movement feel fluid and airborne, with uneven edges, paper grain, and occasional pooled marks plainly visible. Leave generous bare paper around the action so the burst has room to travel and can crop naturally at one edge. Fine black contour lines should define only a few structural cues, never confining the wash into rigid shapes. Use the white paper as the light source and retain a lively balance between stillness, empty space, and energetic color.",
+  "style_prompt_zh": "采用可见纹理的白纸上的水彩与墨线表现，以一个小而克制的锚点和一股戏剧性的对角扩张颜料为核心。先建立紧凑的深色形，再把红、橙、黄、绿、青绿和蓝释放成不断变宽的透明水洗、液滴与锐利飞溅。彩色运动要显得流动而悬于空中，不规则边缘、纸纹及偶尔积色的痕迹清晰可见。动作周围留出充裕裸纸，让爆发有空间延伸，并在一侧自然被裁切。纤细黑色轮廓只界定少量结构线索，不把水洗禁锢成僵硬形状。以白纸自身作为光源，保持静止、留白与活跃色彩之间的平衡。",
+  "theme_en": "Rainbow spray from a quiet figure",
+  "theme_zh": "静立人物身后的虹彩飞溅",
+  "wh_ratio": "1:1",
+  "id": "1628",
+  "name": "Marc Allante",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/marc-allante",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/marc-allante.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "4d61e7e6fd1d40f7e0173325a47737cd6c962b20ea7bd40000998e6df42dd5d4",
+    "gpt_submission_prompt": "A watercolor and ink illustration on textured white paper shows a solitary figure in side view at the lower left, while an enormous rainbow plume bursts from the back of the head toward the upper right. The figure is simplified to a dark violet head, a narrow neck, and a long blue coat that drops almost to the bottom edge. A few thin black lines define the face and shoulder, leaving the body almost still and compact. From the head, dense red and orange pigment expands into yellow, green, turquoise, and cobalt blue, each band breaking into droplets, flicks, and fine spattered grains. The plume widens dramatically as it travels across the square frame, with its leading blue edge partly cropped at the right; the spray feels more like liquid color released into air than a solid object. Large areas of bare off white paper remain around the form, especially on the left and lower right, making the burst appear even more energetic. The grain of the paper catches transparent washes and irregular pooling, while darker ink accents lend the color a crisp core. Illumination is implicit in the clean white ground and brilliant pigments, with no depicted light source or cast shadow. The whole image joins a restrained human silhouette to a sudden, expansive movement of color, making the contrast between stillness and release the central effect.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "936915a5c575039560c1eaca2bce90163e4b15442d49912717ccfac9e557fb02",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

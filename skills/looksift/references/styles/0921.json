@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black and white noir comic illustration shows a disheveled man crouched at the edge of a deep black doorway, aiming a pistol toward the right. He leans forward in a pale rumpled coat over a dark shirt, one knee raised close to his chest and the other leg folded beneath him. His dark swept hair is tousled, and heavy ink shadow cuts across his tense face, leaving a sharp brow, nose, and downturned mouth. The extended right hand grips the pistol firmly; its barrel points across the white space near the center right. A thin curl of smoke rises from the muzzle and drifts into the upper white area. Behind him, the doorway is a solid vertical block of black that fills most of the left half. To the right, a pale wall and floor dissolve into spare lines and untouched paper, making the weapon and arm especially prominent. A few rough floorboards or ground scratches anchor the bottom edge. Heavy brush ink and finer pen lines alternate across the coat, hair, hand, and gun mechanism. Stark directional light from the right exposes large white folds of fabric and the gun barrel while leaving the doorway and inner body almost completely black. The composition is compressed and suspenseful, but its diagonal arm and smoke line send the eye outward into open space. The image feels hard boiled, kinetic, and sharply graphic, with black shape doing as much work as drawn detail.",
+  "full_prompt_zh": "一幅方形黑白黑色电影漫画描绘一名头发凌乱的男子蹲在深黑门口边缘，朝右举枪瞄准。他穿皱起的浅色外套、内搭深衣，身体前倾，一边膝盖抬近胸前，另一条腿折在身下。深发向后扫起却凌乱，厚重墨影切过紧张的脸，只留下锐利眉骨、鼻梁和下撇嘴角。伸出的右手牢牢握住手枪，枪管横指中央右侧白色空间。一缕细烟从枪口升起，飘进上方白区。身后的门口是大块坚实竖向黑色，占满左半大部分。右边，浅墙与地面消散成节约线条和未着墨纸白，使枪与手臂特别突出。几道粗地板或地面刮线固定底缘。厚刷墨与更细钢笔线在外套、头发、手和枪械结构上交替。右侧来的强定向光暴露布料大片白褶与枪管，门口和身体内侧则近乎全黑。构图紧缩而悬疑，但斜向手臂和烟线把视线送往开放空间。图像硬派、充满动势且图形锐利，黑色体块与绘出细节承担同等工作。",
+  "style_prompt_en": "Black and white noir comic illustration relies on huge solid ink shadows against untouched white paper. A compact figurelike mass is compressed beside a vertical black field, while one strong diagonal reaches into open light space. Hard directional light exposes broad white planes and a few precise mechanical edges; interior regions remain almost featureless black. Fine pen scratches and heavy brush marks alternate, giving fabriclike surfaces, hairlike edges, and small hard details distinct textures without gray wash. A thin curling line lifts into the upper blank area and relieves the heavy geometry. The composition feels tense, kinetic, and spare, with every dark patch assigned a clear graphic role. High contrast and economical linework create suspense without dense background detail.",
+  "style_prompt_zh": "黑白黑色电影漫画依赖巨大实墨阴影与未着墨白纸的对峙。紧凑的类人物体块被压在竖向黑色域旁，一道强斜线伸入开放亮区。硬定向光暴露宽白平面和少量精确硬质边缘；内部区域保持近乎无特征的黑。细钢笔刮线与厚刷痕交替，赋予布料般表面、发丝般边缘和小硬细节不同肌理，而不使用灰色洗色。一道细卷线升入上方空白，缓解沉重几何。构图紧张、动感而节约，每块深色都有清楚的图形作用。高对比和经济线条在没有密集背景细节时也建立悬疑。",
+  "theme_en": "Crouched noir figure aiming a pistol from a dark doorway",
+  "theme_zh": "黑色电影式人物蹲在暗门口举枪瞄准",
+  "wh_ratio": "1:1",
+  "id": "0921",
+  "name": "Jordi Bernet",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/jordi-bernet",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/jordi-bernet.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "2d938b634e70b90e5e4f14aaaca902ac30902e167850309e26d60f94351ab2f2",
+    "gpt_submission_prompt": "A square black and white noir comic illustration shows a disheveled man crouched at the edge of a deep black doorway, aiming a pistol toward the right. He leans forward in a pale rumpled coat over a dark shirt, one knee raised close to his chest and the other leg folded beneath him. His dark swept hair is tousled, and heavy ink shadow cuts across his tense face, leaving a sharp brow, nose, and downturned mouth. The extended right hand grips the pistol firmly; its barrel points across the white space near the center right. A thin curl of smoke rises from the muzzle and drifts into the upper white area. Behind him, the doorway is a solid vertical block of black that fills most of the left half. To the right, a pale wall and floor dissolve into spare lines and untouched paper, making the weapon and arm especially prominent. A few rough floorboards or ground scratches anchor the bottom edge. Heavy brush ink and finer pen lines alternate across the coat, hair, hand, and gun mechanism. Stark directional light from the right exposes large white folds of fabric and the gun barrel while leaving the doorway and inner body almost completely black. The composition is compressed and suspenseful, but its diagonal arm and smoke line send the eye outward into open space. The image feels hard boiled, kinetic, and sharply graphic, with black shape doing as much work as drawn detail.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "9fe4d73a2ebba647bb58c687e9e718200548b9f0750e246971331e76302ed2de",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

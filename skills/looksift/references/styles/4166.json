@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square painted portrait brings a child's face close to the picture plane against an almost white ground. Dark hair forms a blunt, uneven cap above large, watchful eyes; the nose is small and the mouth is a compact charcoal mark. The face is constructed from thin gray washes, rubbed black strokes and areas where the pale support remains exposed. Darkness gathers around the eyes, under the chin and along one side of the head, while the broad forehead and cheeks seem nearly erased by light. The ears and collar are indicated only loosely. Facial proportions feel recognizable but slightly displaced, so the expression is tender and uneasy at once. No room, landscape or narrative prop competes with the direct encounter. The surface remains visibly worked: vertical dragged pigment, dry-brush gaps, smudges and abrupt patches interrupt any polished illusion. The composition is nearly frontal and tightly cropped, with the head filling most of the frame. A narrow grayscale palette makes each shift in pressure and opacity matter. The painting feels provisional, as though a memory has been recovered in fragments from a pale ground. Its emotional force comes from the contrast between open vulnerable eyes and the rough, incomplete construction around them.",
+  "full_prompt_zh": "一幅正方形绘画肖像把儿童面容推近画面表层，背景几乎全白。深色头发在大而警觉的双眼上方形成钝而不齐的帽形；鼻子很小，嘴是一道紧凑的炭黑色痕迹。面容由薄灰色洗染、擦抹的黑色笔触与裸露浅色底面共同构成。深色积在眼周、下巴和头部一侧，宽阔额头与脸颊却近乎被亮光抹去。耳朵和衣领只做松散提示。五官比例仍可辨识，但略有位移，因此神情同时温柔而不安。没有室内、风景或叙事道具分散直接相遇的力量。表面保留明显加工痕迹：竖向拖开的颜料、干笔空隙、擦痕和突兀色块打断了抛光幻象。构图近乎正面且紧密裁切，头部占去大部分画幅。狭窄灰阶使每一次力度与透明度变化都重要。绘画像从浅色底面上零碎找回的一段记忆。它的情感力量来自敞开而脆弱的眼睛，与周围粗糙、未完成的塑造之间的对照。",
+  "style_prompt_en": "The style is psychologically charged monochrome painting built from thin wash, dry dragging, rubbed pigment and exposed pale ground. A close crop and frontal axis concentrate attention on a few sharply legible details while the surrounding form remains provisional. Grays range from transparent stains to compact charcoal black, with broad high-key passages left unresolved. Smears, gaps and displaced contours keep the surface visibly worked. Restraint in palette heightens subtle changes of opacity, pressure and emotional tone.",
+  "style_prompt_zh": "这种风格是以薄洗染、干涩拖笔、擦抹颜料和裸露浅底构成的心理张力单色绘画。近距离裁切与正面轴线把注意力集中于少数清楚细节，周围形体则保持未定稿状态。灰色从透明染痕延伸到紧实的炭黑色，宽阔高明度区域仍未完全塑造。污痕、空隙和错位轮廓使表面明显留有加工过程。色谱克制放大了透明度、下笔力度与情绪色调的细微变化。",
+  "theme_en": "A solemn child's face emerging from monochrome brushwork",
+  "theme_zh": "从单色笔触中浮现的肃静儿童面容",
+  "wh_ratio": "1:1",
+  "id": "4166",
+  "name": "Marlene Dumas",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/marlene-dumas.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "69a58d633f27433c94b51a450e1ee68edd4c7867dc684fc6d00211a7af94bb4a",
+    "gpt_submission_prompt": "A square painted portrait brings a child's face close to the picture plane against an almost white ground. Dark hair forms a blunt, uneven cap above large, watchful eyes; the nose is small and the mouth is a compact charcoal mark. The face is constructed from thin gray washes, rubbed black strokes and areas where the pale support remains exposed. Darkness gathers around the eyes, under the chin and along one side of the head, while the broad forehead and cheeks seem nearly erased by light. The ears and collar are indicated only loosely. Facial proportions feel recognizable but slightly displaced, so the expression is tender and uneasy at once. No room, landscape or narrative prop competes with the direct encounter. The surface remains visibly worked: vertical dragged pigment, dry-brush gaps, smudges and abrupt patches interrupt any polished illusion. The composition is nearly frontal and tightly cropped, with the head filling most of the frame. A narrow grayscale palette makes each shift in pressure and opacity matter. The painting feels provisional, as though a memory has been recovered in fragments from a pale ground. Its emotional force comes from the contrast between open vulnerable eyes and the rough, incomplete construction around them.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "2f4de4bc29b9357346d0afa46875c7a792c6c713e95893e9d990e336b74d653b",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

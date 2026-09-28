@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square mixed-media painted portrait shows a young woman's right-facing profile emerging from rough charcoal and brown marks on a warm off-white ground. The pale background has faint paper grain, broad washed patches, and open blank areas, especially at the left and lower right. The woman's face occupies the upper center-right, with dark hair swept around it in a thick almost black arc. Her eye looks intently toward the right edge, and the straight nose and closed lips are modeled with smooth warm skin tones. The lit cheek and brow are the most carefully finished areas, contrasting with the unresolved neck and shoulder below. Around her jaw and behind the ear, jagged dark fragments, dry brush smears, and fine scratch lines break the likeness into abstract pieces. Thin drips descend from the lower painted mass, making the image feel worked on a vertical surface. A small birdlike or feathered dark shape seems to overlap the left side of the neck, though its edges remain suggestive rather than precise. The outer hair dissolves into smoky black and gray stains that fade across the cream paper. Soft light from the upper left catches the brow ridge, cheekbone, and nose, while the back of the hair remains deep shadow. Warm ocher and muted rose in the skin oppose cool gray and charcoal in the surrounding marks. The composition holds a quiet realistic expression within visibly incomplete paint, making the portrait feel both present and fragmentary.",
+  "full_prompt_zh": "这幅方形混合媒介绘画肖像描绘一名年轻女子的右向侧面，从暖灰白底色上的粗糙炭色与棕色笔痕中浮现。浅色背景带淡淡纸纹、宽阔水洗斑块和敞开的空白，尤其在左侧与右下方。女子面部占据上方中右部，深色头发绕出一道厚重、近乎黑色的弧。她的眼睛专注望向右缘，挺直鼻梁和闭合嘴唇由平滑暖肤色塑造。受光脸颊与眉骨是完成最细的区域，与下方尚未解决的颈肩形成对比。在下颌周围及耳后，有棱角的深色碎片、干刷擦痕与细划线把形象打碎成抽象片段。细长滴痕从下方色团垂下，使图像仿佛在竖立表面上加工。一处似鸟或羽片的深色形状似乎叠在颈部左侧，但边缘保持暗示性而不精确。外侧头发消融成烟雾般黑灰污痕，淡入奶油色纸面。柔光从左上方照亮眉骨、颧骨与鼻梁，头发后部留在深影里。肤色的暖赭与柔玫瑰对照周围笔痕的冷灰和炭色。构图把安静写实的表情放进明显未完成的绘色里，使肖像既在场又碎片化。",
+  "style_prompt_en": "The image has a mixed-media painterly finish that joins smooth focal modeling to rough, incomplete surrounding marks. Warm ocher and muted rose glow within charcoal, cool gray, and cream. Selected contours are precise, while others fracture into dry-brush smears, angular patches, scratches, and thin drips. A broad pale ground gives the dense dark cluster room to breathe. Soft side light rounds the most finished planes, and deep shadow absorbs the loose outer forms. Paper grain and uneven opacity remain visible beneath the image. The composition sets a calm realistic center against expressive disintegration at its edges. The overall effect is intimate, raw, and quietly dramatic.",
+  "style_prompt_zh": "图像具有混合媒介绘画质感，把平滑的焦点塑形与粗糙、未完成的周围笔痕结合。暖赭与柔玫瑰色在炭色、冷灰和奶油色中发亮。选定轮廓精确，其他轮廓则碎裂成干刷擦痕、有棱角斑块、划痕与细滴线。宽阔浅色底让密集深色团块得以呼吸。柔和侧光使最完整的平面变圆润，深影吸收松动的外围形态。纸纹与不均匀覆盖度在图像之下仍可见。构图把平静写实的中心与画边表现性消解相对。整体效果亲密、粗粝而安静地富有戏剧性。",
+  "theme_en": "A woman's right-facing profile dissolving into rough painterly marks",
+  "theme_zh": "消融于粗糙绘画笔痕的女子右向侧面",
+  "wh_ratio": "1:1",
+  "id": "2906",
+  "name": "Andrew Robinson",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/andrew-robinson",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/andrew-robinson.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "3f70e3afd35c7f737af35ff2e2ca663c650986c059f37cb3251f633364471521",
+    "gpt_submission_prompt": "A square mixed-media painted portrait shows a young woman's right-facing profile emerging from rough charcoal and brown marks on a warm off-white ground. The pale background has faint paper grain, broad washed patches, and open blank areas, especially at the left and lower right. The woman's face occupies the upper center-right, with dark hair swept around it in a thick almost black arc. Her eye looks intently toward the right edge, and the straight nose and closed lips are modeled with smooth warm skin tones. The lit cheek and brow are the most carefully finished areas, contrasting with the unresolved neck and shoulder below. Around her jaw and behind the ear, jagged dark fragments, dry brush smears, and fine scratch lines break the likeness into abstract pieces. Thin drips descend from the lower painted mass, making the image feel worked on a vertical surface. A small birdlike or feathered dark shape seems to overlap the left side of the neck, though its edges remain suggestive rather than precise. The outer hair dissolves into smoky black and gray stains that fade across the cream paper. Soft light from the upper left catches the brow ridge, cheekbone, and nose, while the back of the hair remains deep shadow. Warm ocher and muted rose in the skin oppose cool gray and charcoal in the surrounding marks. The composition holds a quiet realistic expression within visibly incomplete paint, making the portrait feel both present and fragmentary.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "432af00ad8368d079d6ccf83f845cc633f7fb69884e9076a002cfee2473d690e",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

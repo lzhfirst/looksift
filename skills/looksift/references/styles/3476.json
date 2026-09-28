@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A flat, exuberant botanical composition consists of simplified cut-paper-like shapes and saturated painted color. Broad irregular blocks of hot orange, vermilion and vivid cobalt blue divide the square, their boundaries forming part of the design. A compact bouquet rises from the lower center: dark navy fronds fan outward in several directions, rounded emerald leaves stack along green stems, and large petal shapes open in pink, yellow and coral. A pale pink tulip stands near the top center, a yellow cup-shaped blossom brightens the middle, and smaller red and yellow buds punctuate the blue lower ground. Decisive continuous silhouettes form the foliage, each leaflet a smooth teardrop or paddle without realistically described veins. Stems, flowers and background interlock tightly, with negative spaces forming their own rhythmic shapes. One or two small circular marks provide decorative beats. Opaque matte color has slight variation from hand application, crisp but humane edges, and almost no modeled shading. The deepest navy leaves carry weight against the luminous warm background while green forms bridge the cool and warm fields. Asymmetry, repeated leaf clusters and branches extending toward the corners create a light, dancing rhythm. The finished square feels like a joyful painted collage, boldly decorative and entirely legible from a distance, while inviting closer attention to how each flat shape joins the next.",
+  "full_prompt_zh": "简化的剪纸般形状和饱和绘画色彩构成一幅平面而欢快的植物画。炽热橙、朱红和明亮钴蓝的大块不规则色面分隔正方形，色块边界也是构图的一部分。一束紧凑花枝从下方中央升起：深海军蓝叶枝向多个方向扇开，圆润的翠绿叶片沿绿茎堆叠，粉、黄、珊瑚红的大花瓣张开。上方中央立一朵淡粉郁金香，中部以黄色杯状花提亮，较小的红黄花苞点缀下方蓝色区域。果断连续的轮廓构成植物，每片小叶都是平滑泪滴形或桨形，而非真实叶脉。枝茎、花朵和背景紧密咬合，空隙本身也形成有节奏的形状。一两个小圆点构成装饰节拍。不透明哑光色带有手涂造成的轻微变化，边缘清楚但有手感，几乎不塑造立体阴影。最深蓝叶片压住明亮暖色背景，绿色形体连接冷暖色域。不对称、重复的叶簇和伸向角落的枝条形成轻快舞动的节奏。完成的正方形画面像欢欣的彩绘拼贴，远看大胆易读，近看则能发现每个平面形状如何接合。",
+  "style_prompt_en": "Flat decorative painting combines cut-paper-like silhouettes, opaque matte color, crisp humane edges, saturated cobalt, vermilion, orange, emerald, pink and yellow, and almost no tonal modeling. Positive and negative shapes interlock in a lively asymmetric rhythm. Subtle hand-painted variation appears inside broad fields, while the square remains immediately legible.",
+  "style_prompt_zh": "平面装饰绘画的轮廓如剪纸，不透明哑光色与清晰而有手感的边缘并存，钴蓝、朱红、橙、翠绿、粉和黄高度饱和，几乎不作明暗塑造。实形与空形以活泼不对称的节奏咬合，大色面内有微妙手绘变化，正方形画面远看立即可辨。",
+  "theme_en": "A garden of tulips and branching leaves translated into pure color shapes",
+  "theme_zh": "郁金香与分枝叶片化作纯色形状的花园",
+  "wh_ratio": "1:1",
+  "id": "3476",
+  "name": "Henri Matisse",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/henri-matisse",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "eb4ac83be1654d3d8b92ba68fcf240b9ffbca60be662e57547825328955ece0a",
+    "gpt_submission_prompt": "A flat, exuberant botanical composition consists of simplified cut-paper-like shapes and saturated painted color. Broad irregular blocks of hot orange, vermilion and vivid cobalt blue divide the square, their boundaries forming part of the design. A compact bouquet rises from the lower center: dark navy fronds fan outward in several directions, rounded emerald leaves stack along green stems, and large petal shapes open in pink, yellow and coral. A pale pink tulip stands near the top center, a yellow cup-shaped blossom brightens the middle, and smaller red and yellow buds punctuate the blue lower ground. Decisive continuous silhouettes form the foliage, each leaflet a smooth teardrop or paddle without realistically described veins. Stems, flowers and background interlock tightly, with negative spaces forming their own rhythmic shapes. One or two small circular marks provide decorative beats. Opaque matte color has slight variation from hand application, crisp but humane edges, and almost no modeled shading. The deepest navy leaves carry weight against the luminous warm background while green forms bridge the cool and warm fields. Asymmetry, repeated leaf clusters and branches extending toward the corners create a light, dancing rhythm. The finished square feels like a joyful painted collage, boldly decorative and entirely legible from a distance, while inviting closer attention to how each flat shape joins the next.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "2d0cace590c856730e34bb3c46541164e203fad34b71afb4593880357acdc584",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

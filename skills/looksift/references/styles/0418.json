@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A quiet black-and-white documentary photograph looks straight down a dirt road enclosed by two rows of tall, leafless trees. Their thick, irregular trunks rise along both sides of the frame, and hundreds of fine branches lean inward to make a soft pointed canopy over the pale distance. Near the lower middle, two dark-clad walkers appear small against this architecture of wood: one stands slightly left with hands gathered in front, while the other remains a little farther right and back. Their simple silhouettes give scale to the immense trees and hold attention without dominating the place. The road starts broad at the bottom edge and narrows gently toward a hazy vanishing point, carrying the eye through repeated trunks and dissolving twigs. Muted daylight filters through mist, leaving the open path a luminous gray while bark, coats, and lower foliage occupy deeper charcoal values. The photograph keeps visible grain and soft tonal transitions; textured bark is readable near the camera, but distant branches merge into a delicate web rather than a hard outline. No strong artificial light or theatrical contrast breaks the calm. The composition balances near-symmetrical vertical ranks against small organic deviations in each leaning trunk, creating a slow, measured rhythm. The whole frame feels contemplative and spacious, with human presence absorbed into the quiet depth of the wintry landscape.",
+  "full_prompt_zh": "一幅安静的黑白纪实照片沿着一条土路笔直望去，道路两侧围着两列高大、无叶的树。粗壮而不规则的树干沿画幅两边升起，成百上千根纤细枝条向内倾斜，在远处的浅色空间上方形成柔和的尖拱树冠。画面下部中央附近，两名穿深色衣服的行人相对于这些木质结构显得很小：一人略偏左，双手合在身前；另一人稍微靠右并退后一点。简洁的剪影为巨树提供尺度，在吸引注意力的同时并不压倒场所。道路从下边缘宽阔地开始，向雾蒙蒙的消失点缓缓收窄，视线随重复的树干和渐渐消融的枝梢向内行进。低饱和日光透过薄雾，开放的路面呈发亮的灰色，而树皮、衣服与低处的植被沉在较深的炭灰色明度中。照片保留可见颗粒和柔和的明暗过渡；近处树皮的纹理清晰，远方枝条却汇为细腻的网，而不是坚硬轮廓。没有强烈的人造光或戏剧化对比打破平静。构图以近似对称的竖直树列对照每根倾斜树干的细小自然变化，形成缓慢而有分寸的节奏。整幅画沉思而开阔，人的存在融入冬日风景安静的纵深。",
+  "style_prompt_en": "A quiet black-and-white documentary photograph uses fine grain, mist-softened distance, and patient tonal transitions between pale gray openness and charcoal textured edges. Repeated vertical forms create an almost symmetrical corridor, yet small organic irregularities keep the rhythm natural. Diffuse daylight gives broad surfaces a gentle glow while near textures remain legible and far details dissolve. Small dark accents establish scale within generous negative space. The whole frame has contemplative depth and understated human warmth.",
+  "style_prompt_zh": "一幅安静的黑白纪实照片以细颗粒、雾气柔化的远景，以及浅灰色开阔区域和炭灰色纹理边缘之间耐心的明度过渡构成。重复的竖向形体造出近乎对称的通道，细小的自然偏差又让节奏保持有机。漫射日光使大面积表面温和发亮，近处纹理仍可辨，远处细节渐渐消融。小面积深色点缀在宽裕的留白中建立尺度。整幅画具有沉思的纵深和低调的人情温度。",
+  "theme_en": "Two walkers beneath a tunnel of bare winter trees",
+  "theme_zh": "两名行人走在光秃冬树形成的甬道下",
+  "wh_ratio": "1:1",
+  "id": "0418",
+  "name": "Abbas Kiarostami",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/abbas-kiarostami",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/abbas-kiarostami.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "974add4c5aa64c5d25a9291d9e16cd286873f1b858f19834c7b93cc07c94da8e",
+    "gpt_submission_prompt": "A quiet black-and-white documentary photograph looks straight down a dirt road enclosed by two rows of tall, leafless trees. Their thick, irregular trunks rise along both sides of the frame, and hundreds of fine branches lean inward to make a soft pointed canopy over the pale distance. Near the lower middle, two dark-clad walkers appear small against this architecture of wood: one stands slightly left with hands gathered in front, while the other remains a little farther right and back. Their simple silhouettes give scale to the immense trees and hold attention without dominating the place. The road starts broad at the bottom edge and narrows gently toward a hazy vanishing point, carrying the eye through repeated trunks and dissolving twigs. Muted daylight filters through mist, leaving the open path a luminous gray while bark, coats, and lower foliage occupy deeper charcoal values. The photograph keeps visible grain and soft tonal transitions; textured bark is readable near the camera, but distant branches merge into a delicate web rather than a hard outline. No strong artificial light or theatrical contrast breaks the calm. The composition balances near-symmetrical vertical ranks against small organic deviations in each leaning trunk, creating a slow, measured rhythm. The whole frame feels contemplative and spacious, with human presence absorbed into the quiet depth of the wintry landscape.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "3c51236cf2242c9938517a848f3764dfb9e196999797043d3bb1073cbd20bae0",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

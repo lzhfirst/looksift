@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A polished graphite character study shows a young woman turning her head toward the viewer from a three-quarter angle. Her short swept hair rises into a loose crest beneath a folded headband, and her expression is alert but relaxed. Large dark eyes, a subtly upturned mouth, and an angular collar make the face the focal point. The drawing occupies an open sketchbook page at a diagonal, with pencils visible along the right and lower edges. These studio objects identify the image as a study in progress without interrupting the finished clarity of the central figure.\n\nThe rendering moves between crisp dark line and broad, softly shaded graphite planes. Hair is built from directional strokes and dark wedges; cheeks, nose, and lips are modeled with smooth tonal transitions and small sharp highlights. The headband and clothing use looser structural lines, allowing the detailed face to remain dominant. White paper supplies the brightest values and abundant negative space around the neck and shoulders. Crosshatching appears selectively in shaded areas, while some construction marks remain faintly visible. The diagonal page and pencil forms lend a casual desk-side framing to an otherwise carefully resolved drawing. The palette is monochrome, with warm paper and cool grey graphite. The mood is confident, graceful, and observational; no readable lettering appears.",
+  "full_prompt_zh": "一幅精致的石墨角色研究描绘一名年轻女子以四分之三角度转头望向观看者。短发向上扬成松动的发峰，外有折叠头带；神情警觉却放松。大而深的双眼、微微上扬的嘴和带棱角的衣领，使面容成为焦点。绘画斜置于敞开的速写本页上，右边和下边可见铅笔。这些工作室物件说明图像是一项进行中的研究，却不打断中央人物已完成的清晰感。\n\n画法在清晰深线与宽阔柔和的石墨阴影平面之间移动。头发由有方向的笔触和深色楔形堆成；脸颊、鼻子与嘴唇由平滑明暗过渡和细小锐利高光塑造。头带与衣物使用更松的结构线，让细致面容持续占主导。白纸提供最亮明度，以及颈肩周围充足留白。交叉排线有选择地出现在阴影区域，若干结构痕仍淡淡可见。页面和铅笔的对角形，为其他方面仔细完成的绘画加入随意的桌边框景。色谱为单色，只有暖纸和冷灰石墨。情绪自信、优雅且观察入微；没有可辨认文字。",
+  "style_prompt_en": "Crisp dark graphite lines meet broad softly shaded grey planes on warm white paper. Directional strokes and deep wedges give one upper cluster energy; smoother tonal transitions establish the central light form. Selective crosshatching and faint exploratory marks remain visible in quieter areas. A diagonal framing plane and a few slender tools create a casual studio rhythm around a carefully resolved drawing. Brightness comes from untouched paper, with small sharp highlights inside the darkest modeling. Detail concentrates high and central, while lower structural lines loosen into generous negative space. The monochrome surface feels confident, graceful, and observational, balancing polished draftsmanship with the trace of a working sketch.",
+  "style_prompt_zh": "清晰深色石墨线与宽阔柔和的灰色阴影平面，在暖白纸上相遇。有方向的笔触和深楔形使上方一团形充满能量；更平滑的明暗过渡建立中央浅色形。有选择的交叉排线与淡淡探寻痕留在较安静区域。对角线构图平面和几件纤细工具，在精心完成的绘画周围形成随意的工作室节奏。亮度来自未触碰的纸，最深塑造中仍有细小锐利高光。细节集中在较高的中央，下方结构线松开，进入充足留白。单色表面自信、优雅而观察细致，精修绘画功底与工作素描痕迹相平衡。",
+  "theme_en": "A confident young heroine in a graphite character sketch",
+  "theme_zh": "石墨角色素描中的自信年轻女主角",
+  "wh_ratio": "1:1",
+  "id": "3233",
+  "name": "Artgerm",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/artgerm",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "e126ea47aec69a17a314c29ab0a679f7b5618d024d81a4045ea807803caa3f3a",
+    "gpt_submission_prompt": "A polished graphite character study shows a young woman turning her head toward the viewer from a three-quarter angle. Her short swept hair rises into a loose crest beneath a folded headband, and her expression is alert but relaxed. Large dark eyes, a subtly upturned mouth, and an angular collar make the face the focal point. The drawing occupies an open sketchbook page at a diagonal, with pencils visible along the right and lower edges. These studio objects identify the image as a study in progress without interrupting the finished clarity of the central figure.\n\nThe rendering moves between crisp dark line and broad, softly shaded graphite planes. Hair is built from directional strokes and dark wedges; cheeks, nose, and lips are modeled with smooth tonal transitions and small sharp highlights. The headband and clothing use looser structural lines, allowing the detailed face to remain dominant. White paper supplies the brightest values and abundant negative space around the neck and shoulders. Crosshatching appears selectively in shaded areas, while some construction marks remain faintly visible. The diagonal page and pencil forms lend a casual desk-side framing to an otherwise carefully resolved drawing. The palette is monochrome, with warm paper and cool grey graphite. The mood is confident, graceful, and observational; no readable lettering appears.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "6054cd1fbd396a4a8c1bf142328da4bd66a81e0317a14059709d34af4d8d0b0a",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

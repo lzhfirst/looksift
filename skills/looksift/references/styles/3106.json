@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "This is a square, gently painted storybook illustration of two small children and a black cat sitting among abundant garden foliage. The children are viewed from behind on a low rock near the center. On the left, one wears a broad blue-gray hat and an orange dress with a pale collar; on the right, a short-haired child in a muted blue top and brown trousers sits close enough for their shoulders to nearly touch. The dark cat sits upright beside them at the right, its pointed ears turned toward the sunlit clearing ahead. Rounded green leaves, tall narrow grass, and yellow flowers surround the trio, while small orange fruits rest among stones and stems across the lower foreground. A pale grassy opening brightens the upper left, enclosed by darker overhanging leaves and reeds at the top and right. The view feels low and intimate, as if the viewer sits just behind the children within the plants. Soft daylight enters through the clearing, illuminating orange clothing, fair hair, and fruit, while cool green shade remains under broad leaves. Thin ink outlines define each leaf and fabric fold, and light watercolor washes fill them with uneven olive, sage, ochre, and warm orange. The soil, rock, and foliage show more line detail than the open clearing, where color softens with distance. No signs or readable words appear. The overall composition is tender and observant, using two quiet figures as a small warm center within a richly layered natural frame.",
+  "full_prompt_zh": "这是一幅方形、绘制温柔的故事绘本插画，两个小孩子和一只黑猫坐在繁盛的园中植物之间。孩子从背后入画，坐在中央附近的低石上。左边一人戴宽大的蓝灰帽，穿带浅色领口的橙色裙子；右边短发孩子穿低饱和蓝上衣和褐色裤子，两人坐得很近，肩膀几乎相触。深色猫在他们右边直坐，尖耳朝向前方受光的开阔处。圆润绿叶、高而细的草和黄花围住三者，小橙果散在下方前景的石头与茎秆之间。浅色草地开口照亮左上，顶部和右侧由更深的垂叶与芦草包围。视点低而亲密，仿佛观者就坐在孩子身后的植物里。柔和日光从开阔处进入，照亮橙衣、浅发和果实，宽叶下面则保留冷绿阴影。细墨线界定每片叶子与衣褶，淡水彩色洗以不均匀的橄榄、鼠尾草绿、赭和暖橙填色。泥土、石块与叶丛的线条细节比开阔草地更多，那里颜色随距离柔化。没有标志或可读文字。整体构图温柔且有观察感，以两名安静人物作为层叠自然框架中的小块暖色中央。",
+  "style_prompt_en": "The storybook watercolor treatment uses fine ink outlines, translucent uneven washes, and close botanical detail. Sage, olive, muted blue, ochre, and small warm orange accents form a gentle natural palette. Rounded and spear-shaped motifs overlap densely near the edges, while a pale opening gives the center distance and air. Soft daylight from one side brightens selected upper planes; leaf undersides and rock gaps hold cooler shadows. Line density increases in the foreground, then relaxes into smoother distant color. The composition is intimate and low to the ground, with a small warm cluster nestled inside a larger green frame. The overall effect is tender, patient, and lightly nostalgic, with clear drawing softened by watery pigment.",
+  "style_prompt_zh": "这种绘本水彩处理使用细墨轮廓、透明不均匀色洗和贴近的植物细节。鼠尾草绿、橄榄、低饱和蓝、赭与少量暖橙形成温和自然配色。圆形与矛状母题在边缘浓密重叠，浅色开口则赋予中央距离与空气。来自一侧的柔和日光照亮选择性上表面，叶背与石缝保留较冷阴影。前景线条密度增加，向远处放松为更平顺颜色。构图亲密、视点低，小块暖色组合安在更大的绿框内。整体效果温柔、耐心且轻带怀旧感，清楚绘线被水性颜料柔化。",
+  "theme_en": "Two children and a black cat sitting among garden leaves and fallen fruit",
+  "theme_zh": "两个孩子与一只黑猫坐在园中叶丛与落果之间",
+  "wh_ratio": "1:1",
+  "id": "3106",
+  "name": "Elsa Beskow",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/elsa-beskow",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "73df4c2344614d75a1fd445bb1b9f19c16fdc6766985b146f94be6f66db72a2a",
+    "gpt_submission_prompt": "This is a square, gently painted storybook illustration of two small children and a black cat sitting among abundant garden foliage. The children are viewed from behind on a low rock near the center. On the left, one wears a broad blue-gray hat and an orange dress with a pale collar; on the right, a short-haired child in a muted blue top and brown trousers sits close enough for their shoulders to nearly touch. The dark cat sits upright beside them at the right, its pointed ears turned toward the sunlit clearing ahead. Rounded green leaves, tall narrow grass, and yellow flowers surround the trio, while small orange fruits rest among stones and stems across the lower foreground. A pale grassy opening brightens the upper left, enclosed by darker overhanging leaves and reeds at the top and right. The view feels low and intimate, as if the viewer sits just behind the children within the plants. Soft daylight enters through the clearing, illuminating orange clothing, fair hair, and fruit, while cool green shade remains under broad leaves. Thin ink outlines define each leaf and fabric fold, and light watercolor washes fill them with uneven olive, sage, ochre, and warm orange. The soil, rock, and foliage show more line detail than the open clearing, where color softens with distance. No signs or readable words appear. The overall composition is tender and observant, using two quiet figures as a small warm center within a richly layered natural frame.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "cf6230639fbb9573dfc25733de6293e2c1d46e4fafd9bef3935e25964cd6c0d8",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

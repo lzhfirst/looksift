@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white war photograph records a photographer crouched low at the left edge of a rough, debris-strewn road. His dark helmet and coat make a compact silhouette, and both hands lift a small camera to his eye. Farther back, several human figures move through dense smoke toward the center and right; their bodies are only partly visible, softened by dust and backlight. The foreground rises as an uneven dark ridge across the bottom, its gritty clods and broken surface much sharper than the distant scene. Behind the figures, a pale blast of haze erases most of the setting, leaving faint vertical traces of damaged structures near the upper edge. The camera viewpoint is close to the ground, so the photographer seems tucked behind cover while the road sweeps diagonally away. Light is harsh and diffuse at once: a broad white cloud glows behind the subjects, and their fronts fall into deep shadow. Heavy monochrome contrast, atmospheric grain, and slight motion blur convey immediacy rather than staged precision. The composition balances one sharply identifiable witness with a group dissolving into danger. No visible caption, border, or graphic overlay interrupts the raw photographic frame.",
+  "full_prompt_zh": "一幅方形黑白战地照片记录一位摄影师蹲在粗糙碎石路左边缘。他的深色头盔与外套形成紧凑剪影，双手把小相机举到眼前。后方数个人影穿过浓烟向中央和右方移动；身体只部分可见，被尘雾与逆光软化。前景不平的深色土脊横贯底部，砂砾、土块和破碎表面比远景清晰得多。人影背后，一团浅亮烟雾抹去大部分环境，上沿仅留损坏建筑的淡淡竖痕。机位贴近地面，使摄影师像躲在掩体后，路面斜向远方扫去。光既强烈又漫射：广阔白色云雾在人后发亮，人物正面沉入深影。厚重黑白反差、空气颗粒与轻微运动模糊传达即时性，而非摆拍的精密。构图在一位清楚可辨的见证者与消散于危险中的群体间取得平衡。没有字幕、边框或图形叠层打断原始摄影画幅。",
+  "style_prompt_en": "Ground-level monochrome documentary photography with gritty foreground texture, deep silhouetted forms, and distant figures fading into smoke. A broad luminous haze backlights the scene while the near plane holds dense blacks and rough detail. Grain, imperfect sharpness, and diagonal depth communicate urgency. The composition feels observed in a fleeting moment, with high contrast and atmospheric obscuration carrying the emotional weight.",
+  "style_prompt_zh": "贴地机位的单色纪实摄影具有粗粝前景纹理、深色剪影和退入烟雾的远处形体。广阔发亮雾气从后方照明，近景保留浓黑和粗糙细节。颗粒、不完美清晰度和斜向纵深传达紧迫感。构图像对短暂一瞬的现场观察，高反差与空气遮蔽承载情绪重量。",
+  "theme_en": "A crouching photographer amid smoke and advancing figures",
+  "theme_zh": "烟尘与前进身影间蹲伏的摄影师",
+  "wh_ratio": "1:1",
+  "id": "4001",
+  "name": "War photography",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/war-photography.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "6ac9f6ead34e06791f444911d1e6426d3937215bed537babd555e5fb384f2037",
+    "gpt_submission_prompt": "A square black-and-white war photograph records a photographer crouched low at the left edge of a rough, debris-strewn road. His dark helmet and coat make a compact silhouette, and both hands lift a small camera to his eye. Farther back, several human figures move through dense smoke toward the center and right; their bodies are only partly visible, softened by dust and backlight. The foreground rises as an uneven dark ridge across the bottom, its gritty clods and broken surface much sharper than the distant scene. Behind the figures, a pale blast of haze erases most of the setting, leaving faint vertical traces of damaged structures near the upper edge. The camera viewpoint is close to the ground, so the photographer seems tucked behind cover while the road sweeps diagonally away. Light is harsh and diffuse at once: a broad white cloud glows behind the subjects, and their fronts fall into deep shadow. Heavy monochrome contrast, atmospheric grain, and slight motion blur convey immediacy rather than staged precision. The composition balances one sharply identifiable witness with a group dissolving into danger. No visible caption, border, or graphic overlay interrupts the raw photographic frame.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "bf102c06bf07249d0eebd5829118a28a1319e82a68c76e594fd7429e415e67c3",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

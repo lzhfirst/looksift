@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square street photograph shows a painted little robot on a large worn concrete wall beside an empty road. The mural sits slightly left of center, with a round metal-looking head, two thin antennae, orange circular eyes, and a small dark mouth opening. Its squat body is built from stacked pink and cream compartments edged in dark charcoal, with round mechanical details at the chest and joints. Short articulated arms spread outward; the right hand grips the handle of a small rectangular bag hanging near the lower middle. Thick pink feet stand on a narrow strip of pavement in front of the wall. The painting's contour is precise enough to make the character readable, but its surface is weathered, with grain, scuffs, and the wall's cracks showing through. To the left, black graffiti tags and loops cover a darker blue-gray patch of wall. To the right, the wall is broad and almost blank, marked only by peeling white paint, stains, and faint scratches. Weeds and rubble gather along the base, while a dark road edge runs horizontally across the lower foreground. The mural's warm pink and rusty orange contrast with cold gray concrete and blue shadow. Overcast daylight from above and left illuminates the wall evenly, leaving only soft real-world shadows under the curb and in the paint's recessed texture. The street is quiet, and no real person occupies the selected view. The overall composition lets one charming painted figure interrupt a large distressed surface, balancing playful design with the grit of its urban support.",
+  "full_prompt_zh": "这幅方形街头照片呈现一只绘在大型磨旧混凝土墙上的小机器人，墙旁是空荡道路。壁画位于中央略偏左，头部圆而似金属，头顶有两根细天线，眼睛是橙色圆盘，嘴是小深色开口。矮胖身体由层叠的粉色和奶油色舱块组成，边缘以深炭色勾勒，胸部和关节带圆形机械细节。短而有节的双臂向外张开；右手握着小矩形手提包的柄，包垂在下方中央附近。厚重粉色脚站在墙前窄铺地上。画出的轮廓足够准确，使角色易辨，但表面已磨损，颗粒、擦伤与墙缝从颜料里透出。左侧黑色涂鸦签字和环线覆盖一片更深的蓝灰墙面。右侧墙面宽阔而几乎空白，只见剥落白漆、污痕和浅刮线。杂草和碎石聚在墙脚，一道深色路沿水平横过下方前景。壁画的暖粉与锈橙对照冷灰混凝土和蓝色阴影。阴天日光从上方偏左均匀照亮墙面，真实阴影只在路沿下和颜料凹凸肌理中柔和出现。街道安静，所选画面里没有真实行人。整体构图让一个讨喜的彩绘形象打断大片磨损表面，平衡俏皮设计与城市载体的粗粝。",
+  "style_prompt_en": "The image has the layered appearance of street paint on weathered concrete. Bold outlined color patches remain legible while cracks, peeling pigment, stains, and older marks show through the surface. Warm dusty pink and rust orange stand against a wide cold gray-blue field, with black graphic accents supplying structure. Forms are simplified and rounded, but their edges inherit the wall's physical irregularity. Flat overcast light exposes texture without dramatic shine, and a low horizontal base anchors the painted focal mass. Broad negative space around the compact colored area gives the rough support as much presence as the graphic design.",
+  "style_prompt_zh": "图像呈现街头颜料覆在磨旧混凝土上的层叠外观。大胆勾线的色块仍清楚，墙裂、剥落颜料、污痕和旧笔迹却从表面透出。带灰暖粉与锈橙对照宽阔冷灰蓝色域，黑色图形重音提供结构。形体简化圆润，边缘却继承墙面实体的不规则。平坦阴天光揭示肌理，没有戏剧性亮泽；低水平基底稳住彩色焦点。紧凑色区周围的宽阔留白，使粗糙载体与图形设计一样有存在感。",
+  "theme_en": "A small painted robot with a bag on a weathered street wall",
+  "theme_zh": "磨旧街墙上一只提着包的小彩绘机器人",
+  "wh_ratio": "1:1",
+  "id": "3032",
+  "name": "Street Art",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/street-art",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "f07bdef89a0880f412223f184450d536c86384796d83da8f6e945ba96651d71e",
+    "gpt_submission_prompt": "A square street photograph shows a painted little robot on a large worn concrete wall beside an empty road. The mural sits slightly left of center, with a round metal-looking head, two thin antennae, orange circular eyes, and a small dark mouth opening. Its squat body is built from stacked pink and cream compartments edged in dark charcoal, with round mechanical details at the chest and joints. Short articulated arms spread outward; the right hand grips the handle of a small rectangular bag hanging near the lower middle. Thick pink feet stand on a narrow strip of pavement in front of the wall. The painting's contour is precise enough to make the character readable, but its surface is weathered, with grain, scuffs, and the wall's cracks showing through. To the left, black graffiti tags and loops cover a darker blue-gray patch of wall. To the right, the wall is broad and almost blank, marked only by peeling white paint, stains, and faint scratches. Weeds and rubble gather along the base, while a dark road edge runs horizontally across the lower foreground. The mural's warm pink and rusty orange contrast with cold gray concrete and blue shadow. Overcast daylight from above and left illuminates the wall evenly, leaving only soft real-world shadows under the curb and in the paint's recessed texture. The street is quiet, and no real person occupies the selected view. The overall composition lets one charming painted figure interrupt a large distressed surface, balancing playful design with the grit of its urban support.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "3f450cacfa5c891c4112f5d75846601cb0f71cb7775c37c2d70bd30bcd6c3573",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A graphic, hand-drawn illustration shows a solitary figure and a black cat sitting together at the top of a short flight of pink steps. The image is built from a narrow opening between two nearly black walls, with a broad, flat peach-colored sky beyond them. The dark wall on the left rises from the lower edge and angles inward near the upper corner; the right wall is taller and almost vertical, with a slim outlined doorway near its base. Bare, branching stems reach inward from both sides and cross the open sky in fine black lines. Pink shrubs crowd the lower corners and partly overlap the steps. The figure sits slightly left of center, seen entirely from behind, with short mauve hair and a dark top edged by a purple hood or collar. A small pale area beneath suggests bent legs resting on the top step. The cat sits immediately to the right, its pointed ears and long curved tail making a clear silhouette against the light background. Above them, the peach expanse remains mostly empty, apart from delicate twigs and a few tiny scattered marks on the left. Flat fields of color carry the scene, while thin, variable linework and lightly textured pink marks give the vegetation a handmade quality. The even, shadowless glow comes from the open sky beyond the dark foreground walls. The composition balances heavy vertical silhouettes and a large quiet void, producing a still, intimate pause.",
+  "full_prompt_zh": "这是一幅手绘感鲜明的平面插画：一个独自坐着的人影与一只黑猫并排待在一段粉色台阶的顶端。画面由两面近黑色墙体之间的狭长开口构成，后方是一大片平坦的桃色天空。左侧深色墙从下缘升起，在上角向内倾斜；右侧墙体更高，几乎垂直，底部附近有一道细线勾出的门。光秃的枝条从两侧向内伸展，用纤细黑线交过开阔天空。粉色灌木挤满下方两角，并局部遮住台阶。人物坐在中央偏左处，完全背对观者，留着短短的淡紫色头发，深色上衣边缘露出紫色兜帽或领口。下方一小块浅色区域暗示弯曲的腿停在最高一级台阶上。猫紧挨着坐在右侧，尖耳和长而弯曲的尾巴在浅色背景前形成清楚的剪影。他们上方的桃色空间大体空旷，只有细枝和左侧几粒散落的小点。大片平涂色域支撑场景，粗细稍有变化的线条以及带轻微纹理的粉色笔痕，让植物有手工绘制的质感。均匀、几乎无阴影的亮光来自深色前景墙体之外的开阔天空。沉重的竖向剪影与大片安静留白相互平衡，形成静止而亲密的片刻。",
+  "style_prompt_en": "Hand-drawn graphic illustration relies on broad flat color fields, near-black silhouettes, and sparing mauve-pink accents. Thin, irregular ink-like lines break the large shapes into delicate branching rhythms, while lightly mottled marks soften selected edges. A pale peach opening holds ample negative space against dense dark vertical masses. Illumination is even and diffuse, with contrast created mainly by value rather than modeled shadow. Small focal silhouettes sit low within the frame, so the upper area remains calm and expansive. The restrained palette and balance of heavy blocks with fragile lines make the image quiet and contemplative.",
+  "style_prompt_zh": "手绘感平面插画依靠大片平涂色域、近黑色剪影和少量淡紫粉色点缀。纤细而略不规则的墨线把大形分解成轻巧的分枝节奏，局部边缘又被轻微斑驳的笔痕软化。浅桃色开口保留充足的负空间，与密实的深色竖向色块相对。光照均匀而漫散，反差主要来自明度，并非立体阴影。小型视觉焦点处于画面较低位置，上方因而显得平静、开阔。克制的配色，以及厚重色块与脆弱线条之间的平衡，使画面安静而沉思。",
+  "theme_en": "Figure and black cat at the top of pink steps",
+  "theme_zh": "粉色台阶顶端的人影与黑猫",
+  "wh_ratio": "1:1",
+  "id": "1068",
+  "name": "Tillie Walden",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/tillie-walden",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/tillie-walden.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "d76d281ddc13d59e3cfaaf0a0040fa68da2e2f19f01e7f0629dcf3e3490e2878",
+    "gpt_submission_prompt": "A graphic, hand-drawn illustration shows a solitary figure and a black cat sitting together at the top of a short flight of pink steps. The image is built from a narrow opening between two nearly black walls, with a broad, flat peach-colored sky beyond them. The dark wall on the left rises from the lower edge and angles inward near the upper corner; the right wall is taller and almost vertical, with a slim outlined doorway near its base. Bare, branching stems reach inward from both sides and cross the open sky in fine black lines. Pink shrubs crowd the lower corners and partly overlap the steps. The figure sits slightly left of center, seen entirely from behind, with short mauve hair and a dark top edged by a purple hood or collar. A small pale area beneath suggests bent legs resting on the top step. The cat sits immediately to the right, its pointed ears and long curved tail making a clear silhouette against the light background. Above them, the peach expanse remains mostly empty, apart from delicate twigs and a few tiny scattered marks on the left. Flat fields of color carry the scene, while thin, variable linework and lightly textured pink marks give the vegetation a handmade quality. The even, shadowless glow comes from the open sky beyond the dark foreground walls. The composition balances heavy vertical silhouettes and a large quiet void, producing a still, intimate pause.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "99fb01bd5d774617dbf275c7ff79e69678f44470f3bfde25fa0c22f5ae1d6aec",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

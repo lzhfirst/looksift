@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square fashion illustration places a woman in dramatic upward profile against a vivid vermilion-orange ground. Her face and neck are rendered as clean ivory shapes, with the head tilted back and the chin lifted toward the upper left. One slender hand rests lightly beneath her chin. She wears a large black hat whose angular brim and layered bow-like folds sweep across the top right of the frame, merging with the solid black shoulder and clothing below. The eyelashes and eyebrow are defined with economical black strokes, while a small red mouth echoes the warm background. The image has very few intermediate tones: broad flat orange, dense black, and luminous paper white do most of the work. Fine hairline marks near the ear and neck provide just enough detail to make the pose feel human. The black garment forms a diagonal mass that anchors the lower right, while the pale face cuts a graceful curve between hat and ground. The background is nearly empty and lightly textured like printed color, keeping attention on silhouette and gesture. Lighting is conveyed through stark graphic value rather than shaded modeling; the skin remains clear and bright. The result is elegant, theatrical, and immediate, with a poster-like economy that turns posture, negative space, and three dominant colors into the complete visual statement.",
+  "full_prompt_zh": "一幅方形时尚插画把一位女子戏剧性地仰起侧脸，置于鲜亮朱橙色背景前。面部与颈部被处理成干净的象牙白形，头向后仰，下巴抬向左上。一只纤细的手轻轻托在下巴下方。她戴着一顶宽大的黑帽，帽檐与层叠如蝴蝶结的折面扫过画面右上方，并与下方结实的黑色肩部和衣料连在一起。睫毛与眉毛只用经济的黑色笔划标明，一点红唇呼应暖色背景。画中几乎没有中间调：大片平涂橙色、浓黑与发亮的纸白承担主要效果。耳旁与颈部的极细线条只提供足够的人体细节。黑色服装构成固定右下方的斜向色块，浅色脸颊则在帽与背景之间划出优雅曲线。背景近乎空白，仅带轻微印刷色感，让注意力集中在剪影和手势上。光线由鲜明的图形明度关系表达，而非渐层塑形；皮肤保持清晰明亮。作品优雅、富戏剧性且一目了然，以海报般的简省把姿态、负空间和三种主色变成完整的视觉陈述。",
+  "style_prompt_en": "Elegant mid-century fashion illustration with economical ink drawing and bold, nearly flat graphic color. Dense black silhouettes, luminous ivory negative shapes, and one saturated warm field establish immediate contrast. Gesture is carried by long curves and a few sharply placed facial strokes; most shading is omitted. Large angular and rounded forms interlock across the frame, while faint print texture softens the flat ground. The composition feels poised and theatrical through silhouette, spacing, and restrained detail.",
+  "style_prompt_zh": "优雅的世纪中期时尚插画采用经济的墨线和大胆、近乎平涂的图形色彩。浓黑剪影、明亮象牙白留白与一块饱和暖色域建立直接反差。姿态由修长曲线和少数位置精准的面部笔触传达，省去绝大多数阴影。大块棱角形与圆润形在画面中互相咬合，轻微印刷肌理柔化平涂背景。构图借剪影、间距和克制细节呈现从容的戏剧性。",
+  "theme_en": "A poised woman in a black hat against a vivid orange field",
+  "theme_zh": "鲜橙背景前戴黑帽的优雅女子",
+  "wh_ratio": "1:1",
+  "id": "3431",
+  "name": "Rene Gruau",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/rene-gruau",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "6a1c4a9e0385cc67679e69a6bec853516b5d7c35bf7e2eb249bfa42f616372d5",
+    "gpt_submission_prompt": "A square fashion illustration places a woman in dramatic upward profile against a vivid vermilion-orange ground. Her face and neck are rendered as clean ivory shapes, with the head tilted back and the chin lifted toward the upper left. One slender hand rests lightly beneath her chin. She wears a large black hat whose angular brim and layered bow-like folds sweep across the top right of the frame, merging with the solid black shoulder and clothing below. The eyelashes and eyebrow are defined with economical black strokes, while a small red mouth echoes the warm background. The image has very few intermediate tones: broad flat orange, dense black, and luminous paper white do most of the work. Fine hairline marks near the ear and neck provide just enough detail to make the pose feel human. The black garment forms a diagonal mass that anchors the lower right, while the pale face cuts a graceful curve between hat and ground. The background is nearly empty and lightly textured like printed color, keeping attention on silhouette and gesture. Lighting is conveyed through stark graphic value rather than shaded modeling; the skin remains clear and bright. The result is elegant, theatrical, and immediate, with a poster-like economy that turns posture, negative space, and three dominant colors into the complete visual statement.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "d3dc4b6730ef2d1744ebe973222430a455f129cc9497f61563f4a749b71f2b49",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

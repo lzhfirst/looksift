@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square documentary-style photograph shows a vast black-and-white street mural spread across the lower wall of a tan brick apartment building. The sky above is pale and overcast, making the old rectangular building and its many small windows appear subdued. A tall, intricate castle form rises from the mural near the center, with stacked towers, pointed roofs and small dark openings climbing toward the top of the wall. Across the foreground of the artwork, an enormous fishlike creature faces left. Its large circular eye is outlined in black, and its elongated dark body narrows to a sharp tail at the right. Slender leglike appendages support the body, with small foot forms touching the ground line at the base of the building. Drawn pipes, mechanical joints and fine ink-like marks give the creature the look of an impossible machine. The lower edge of the photograph reveals real grass, a curved path and a few tiny pedestrians who make the painted forms seem monumental. At the far right, a second building edge frames the courtyard. The mural has no bright color; its gray shading, tight hatching and stippling sit directly on the rough brick and are interrupted by real windows and wall texture. Diffuse daylight from the cloudy sky produces very soft shadows, so the drawn depth reads through line density and scale. The overall composition sets fantastic, finely worked forms against an ordinary urban facade, letting the contrast of mural and real space carry the scene.",
+  "full_prompt_zh": "这幅方形纪实感照片展示一面巨大的黑白街头壁画，铺展在浅褐色砖砌公寓楼的下半部。上方天空苍白多云，使旧矩形楼房和许多小窗显得克制。壁画中央附近一座高而繁复的城堡向上升起，层叠塔楼、尖顶和小深色洞口一直爬向墙面上部。画中前景，一条巨大的鱼形生物朝左。硕大的圆眼以黑色勾边，细长深色身体在右端收为尖尾。纤细的腿状附肢支撑身体，小小足端触及楼房基部的地线。画出的管道、机械关节和细密墨线，让生物看起来像一部不可能存在的机器。照片下缘露出真实草地、弯曲小路和几位很小的行人，反衬画中形体的巨大。最右侧另一栋楼的边缘围住庭院。壁画没有鲜艳颜色；灰色阴影、紧密排线和点描直接落在粗糙砖墙上，又被真实窗户和墙面肌理打断。阴天天空带来的漫射日光几乎不形成硬阴影，绘制的纵深因而主要靠线条密度与尺度读出。整体构图把奇幻而精细的形体置于普通城市立面前，让壁画与真实空间的对比支撑画面。",
+  "style_prompt_en": "The visual treatment joins a muted documentary photograph with monumental monochrome drawing laid over a rough, weathered surface. Fine black hatching and stippled gray build strange volumes, while much larger simple silhouettes make them readable from a distance. The underlying beige-gray ground remains visible through the marks, adding grain, seams and accidental interruptions. Overcast light is flat and cool, so drawn tonal density rather than photographic shadow shapes the imagined forms. Real scale cues near the margins strengthen the contrast between ordinary space and oversized graphic invention. The result is quiet in color but intricate and surreal in structure.",
+  "style_prompt_zh": "这种视觉处理把色彩克制的纪实照片与铺在粗糙磨旧表面上的巨大单色绘画结合。纤细黑排线和点状灰调塑造离奇体积，更大的简洁剪影又让它们远看仍可辨识。底层米灰色表面透过笔痕显露，带入颗粒、接缝与偶然的中断。阴天光线平而冷，因此想象中的形体主要由绘画明暗密度而非摄影阴影塑造。边缘处的真实尺度线索，加强普通空间与超大图形幻想之间的对照。整体色彩安静，结构却繁复而超现实。",
+  "theme_en": "A giant mechanical fish mural beside a narrow castle on an apartment wall",
+  "theme_zh": "公寓墙面上，巨大的机械鱼壁画旁耸着一座狭长城堡",
+  "wh_ratio": "1:1",
+  "id": "0516",
+  "name": "Phlegm",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/phlegm",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/phlegm.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "e1c93be69ca93712f9d2025dd5c187ad9444b6555c73145c896ea8c6939e092a",
+    "gpt_submission_prompt": "A square documentary-style photograph shows a vast black-and-white street mural spread across the lower wall of a tan brick apartment building. The sky above is pale and overcast, making the old rectangular building and its many small windows appear subdued. A tall, intricate castle form rises from the mural near the center, with stacked towers, pointed roofs and small dark openings climbing toward the top of the wall. Across the foreground of the artwork, an enormous fishlike creature faces left. Its large circular eye is outlined in black, and its elongated dark body narrows to a sharp tail at the right. Slender leglike appendages support the body, with small foot forms touching the ground line at the base of the building. Drawn pipes, mechanical joints and fine ink-like marks give the creature the look of an impossible machine. The lower edge of the photograph reveals real grass, a curved path and a few tiny pedestrians who make the painted forms seem monumental. At the far right, a second building edge frames the courtyard. The mural has no bright color; its gray shading, tight hatching and stippling sit directly on the rough brick and are interrupted by real windows and wall texture. Diffuse daylight from the cloudy sky produces very soft shadows, so the drawn depth reads through line density and scale. The overall composition sets fantastic, finely worked forms against an ordinary urban facade, letting the contrast of mural and real space carry the scene.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "eaa1d19e4d66acfdd343181d4885369bd8a59bbc164e944df5dfcd401d0b9258",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

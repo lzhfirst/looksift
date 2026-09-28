@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square atmospheric digital painting shows a small solitary figure carrying a red umbrella along a dark lane at dusk. A tall near-black wall rises along the left edge, its rough surface nearly swallowed by shadow. Beyond it, distant rooftops and thin chimneys make a jagged silhouette against a sky that shifts from violet above to golden yellow near the horizon. A slender streetlamp stands left of center, its warm light punctuating the dark structures. On the right, a broad tree carries dense red-orange foliage; fine branches and an uneven outer edge break into the cool blue-green atmosphere. The small figure moves across the lower middle as a dark silhouette beneath the bright red umbrella. The lane curves gently through the foreground, its illuminated crest and dark banks defining a path toward the far glow. Flecks of gold, blue, and red drift across the sky and roadway like particles of light, adding texture without becoming separate objects. Soft, speckled brushwork and glowing transitions make the far horizon hazy, while the wall, trunks, and rooftops retain sharper dark contours. The strongest light rises from low behind the figure and catches the road edge, leaving the foreground and buildings in deep shadow. The overall composition sets a tiny warm subject and a fiery tree against broad cool darkness, creating a quiet yet theatrical sense of travel.",
+  "full_prompt_zh": "这幅方形氛围感数字绘画描绘一名撑着红伞的孤独小人物，正沿着暮色中的幽暗小路行走。近黑色的高墙沿左侧画边升起，粗糙表面几乎被阴影吞没。墙后，远处的屋顶和细窄烟囱在天空前形成参差剪影；天空从上方的紫罗兰色过渡到地平线附近的金黄色。一盏细长路灯立于中央偏左，暖光在深色结构中形成亮点。右侧一棵大树长满浓密的红橙色树冠，细枝和参差不齐的外缘伸入冷蓝绿色空气。小人物行经下方中央，在鲜红的伞面下呈深色剪影。小路在前景轻轻弯曲，受光的路脊和深暗的两侧坡面划出通向远方光亮的路径。金、蓝、红色细点散落在天空与路面，如同光粒，增加肌理却不成为独立物体。柔和的颗粒状笔触与发光的色彩过渡让远处地平线显得朦胧，高墙、树干和屋顶则保留较清楚的暗色轮廓。最强的光从人物背后的低处升起，擦亮道路边缘，让前景和建筑沉在深影中。整体构图将小小的暖色主体和火红的树木置于大片冷暗区域前，营造安静而富于戏剧性的行旅气息。",
+  "style_prompt_en": "Atmospheric digital painting builds depth from broad fields of blue-black, violet, and muted teal, then concentrates amber and scarlet glow in selected areas. Dark silhouettes hold firm edges, while distant planes dissolve into hazy transitions and scattered speckles. Fine branching lines and grainy stipples animate smoother color fields. Light appears to bloom from low within the image rather than flattening every surface; narrow illuminated rims separate nearby shapes from deep shadow. A small bright focal point sits against generous dark space, with warm and cool masses guiding the eye through layered distance. The visual rhythm is quiet, luminous, and slightly dreamlike.",
+  "style_prompt_zh": "氛围感数字绘画以大块蓝黑、紫罗兰和柔和蓝绿色建立纵深，再将琥珀色与猩红色光芒集中于局部。深色剪影保有坚实的边缘，远处平面则融入朦胧渐变和散落颗粒。细小分枝线条与颗粒状点痕让较平滑的色域活跃起来。光像是从画面内较低处绽放，而不是均匀铺平所有表面；狭窄亮边将近处形体从深影中分离。小而亮的焦点置于宽阔暗部前，冷暖色团引导视线穿过层叠距离。视觉节奏安静、明亮且略带梦幻感。",
+  "theme_en": "A small umbrella-carrying figure beneath a glowing streetlamp at dusk",
+  "theme_zh": "暮色中一位撑伞的小人物走在发光路灯下",
+  "wh_ratio": "1:1",
+  "id": "2301",
+  "name": "David Renshaw",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/david-renshaw",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/david-renshaw.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "0d65d6fb70fafb13684b8c708ada4fd0e1a352145f1bf5705a3fc0573db15300",
+    "gpt_submission_prompt": "A square atmospheric digital painting shows a small solitary figure carrying a red umbrella along a dark lane at dusk. A tall near-black wall rises along the left edge, its rough surface nearly swallowed by shadow. Beyond it, distant rooftops and thin chimneys make a jagged silhouette against a sky that shifts from violet above to golden yellow near the horizon. A slender streetlamp stands left of center, its warm light punctuating the dark structures. On the right, a broad tree carries dense red-orange foliage; fine branches and an uneven outer edge break into the cool blue-green atmosphere. The small figure moves across the lower middle as a dark silhouette beneath the bright red umbrella. The lane curves gently through the foreground, its illuminated crest and dark banks defining a path toward the far glow. Flecks of gold, blue, and red drift across the sky and roadway like particles of light, adding texture without becoming separate objects. Soft, speckled brushwork and glowing transitions make the far horizon hazy, while the wall, trunks, and rooftops retain sharper dark contours. The strongest light rises from low behind the figure and catches the road edge, leaving the foreground and buildings in deep shadow. The overall composition sets a tiny warm subject and a fiery tree against broad cool darkness, creating a quiet yet theatrical sense of travel.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "9eebdfd3f9a9fbe7cd6f3a475f6f486aa464953f1c95818538ae4de0e5fbef94",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

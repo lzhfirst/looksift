@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white photograph stages an older man and a large raven facing one another across a rough wooden tabletop. The bird stands at the left with its heavy beak aimed toward the man; dark feathers catch narrow silver highlights along the wing and neck. The man leans in from the right, resting clasped hands near the table edge. His white hair and lined face separate from a mottled gray wall behind him, while his dark sweater recedes into shadow. Their heads meet at roughly the same height, making the encounter feel like a silent conversation. The wide tabletop runs horizontally between them, with a weathered front edge and deep black space below. There are no additional props to explain why they have met. Soft side lighting gives the bird a sculptural glossy surface and reveals the man's facial texture without erasing age. The background wall carries scratches, stains and uneven tones, supporting the image's spare theatrical setup. The composition is balanced but not symmetrical: the bird's body is low and elongated, while the man forms a heavier leaning mass. A narrow band of empty gray wall above both figures allows their profiles to read cleanly. The photograph feels curious, intimate and faintly surreal through scale, eye line and restrained monochrome contrast.",
+  "full_prompt_zh": "一幅正方形黑白照片安排一位老人和一只大渡鸦隔着粗木桌相对。鸟站在左侧，厚喙指向老人；深色羽毛沿翅和颈接住窄窄银色高光。老人从右侧前倾，双手交握靠近桌边。白发与满是纹路的面容从身后斑驳灰墙中分离，深色毛衣退入阴影。两者头部大致同高，使相遇像一场无声对话。宽桌面在它们之间水平延展，前缘风化粗糙，下方是深黑空处。没有其他道具解释它们为何见面。柔和侧光赋予鸟羽雕塑般光泽，也显示老人面部肌理而不抹去年龄。背景墙有刮痕、污迹和不均匀调子，支撑简洁的剧场式安排。构图平衡却非对称：鸟身较低且横向伸长，老人则形成更沉重的前倾体块。两者上方一条灰墙留白使侧面轮廓清楚可读。照片通过尺度、视线和克制单色对比显得好奇、亲密且微微超现实。",
+  "style_prompt_en": "The style is spare monochrome conceptual photography with two facing visual masses, a strong horizontal support and an unadorned textured backdrop. Soft side light reveals glossy and matte surfaces through distinct highlight behavior. Gray midtones preserve age and wear, while deep black below the central plane grounds the scene. Clear opposing profiles and restrained negative space create the feeling of dialogue without explicit action. The square framing is balanced yet subtly asymmetric, producing quiet curiosity and a faint surreal charge.",
+  "style_prompt_zh": "这种风格是简洁的单色观念摄影，具有相对的两处视觉体块、一条有力水平承托面与不加装饰的肌理背景。柔和侧光通过不同高光方式显露光亮和哑光表面。灰色中间调保留年代与磨损，中央平面下方的深黑稳住场景。清楚相向的轮廓与克制留白在无明显动作时也制造对话感。正方形取景平衡而稍不对称，产生安静好奇与淡淡超现实张力。",
+  "theme_en": "An older man facing a raven across a rough wooden table",
+  "theme_zh": "老人隔着粗木桌与渡鸦面对面",
+  "wh_ratio": "1:1",
+  "id": "2761",
+  "name": "Brian Duffy",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/brian-duffy",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/brian-duffy.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "23a0261b3ae5ca7a7070089f24a7c007af04a46807aae3754fb9c59da5412c22",
+    "gpt_submission_prompt": "A square black-and-white photograph stages an older man and a large raven facing one another across a rough wooden tabletop. The bird stands at the left with its heavy beak aimed toward the man; dark feathers catch narrow silver highlights along the wing and neck. The man leans in from the right, resting clasped hands near the table edge. His white hair and lined face separate from a mottled gray wall behind him, while his dark sweater recedes into shadow. Their heads meet at roughly the same height, making the encounter feel like a silent conversation. The wide tabletop runs horizontally between them, with a weathered front edge and deep black space below. There are no additional props to explain why they have met. Soft side lighting gives the bird a sculptural glossy surface and reveals the man's facial texture without erasing age. The background wall carries scratches, stains and uneven tones, supporting the image's spare theatrical setup. The composition is balanced but not symmetrical: the bird's body is low and elongated, while the man forms a heavier leaning mass. A narrow band of empty gray wall above both figures allows their profiles to read cleanly. The photograph feels curious, intimate and faintly surreal through scale, eye line and restrained monochrome contrast.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "bf54a606e70b03b2fd7998af2d14eeaac7684906a9df407a71ce52c4ca994883",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A black ink portrait drawing on pale paper shows an older man's face looking directly toward the viewer, cropped closely above the chest. The eyes sit just above the center of the square and hold a calm, stern gaze; dense dark marks around the lids and brows make them the clearest focal point. A long nose, firmly closed mouth, and angular jaw are built from an accumulation of short, restless strokes rather than a smooth contour. Dark crosshatching gathers along the left cheek, temple, and under the chin, while lighter broken lines sketch the right side of the face. His short hair dissolves into an untidy mesh of marks near the top edge. At the bottom, a shirt collar and tie emerge with only a few controlled angles before fading into the paper. The background stays largely white, yet faint construction lines, scribbled notes, circular guides, and horizontal measurements hover around the head, making the drawing feel both analytical and spontaneous. Tonal light appears to fall from the upper right, leaving the left side more heavily hatched; there is no painted setting or cast shadow. The whole image depends on a remarkable contrast between disciplined facial likeness and freely scattered graphic evidence of the drawing process.",
+  "full_prompt_zh": "一幅画在浅色纸上的黑色墨线肖像，紧密截取一位年长男子胸部以上的面部，他正直接看向观者。双眼位于方形画面中心稍上，目光沉静而严肃；眼睑与眉骨周围密集的深色线条使它们成为最清楚的焦点。长鼻、紧闭的嘴唇和棱角分明的下颌不是靠光滑轮廓，而是靠不断叠加的短促、躁动笔触构成。左脸颊、太阳穴和下巴底部聚集着深色交叉排线，面部右侧则由更轻、更破碎的线描出。他的短发在顶边附近溶入一团杂乱线网。底部，衬衫领口与领带只通过少数受控角度显现，随后淡入纸面。背景大体保持白色，但微弱的结构线、潦草文字、圆形导线与水平测量线在头部周围浮现，使画面既有分析感又有即兴性。明暗仿佛来自右上方，左侧因而排线更重；没有绘出的场景或投影。整幅画依赖于严谨的面貌刻画与自由散布的作画过程痕迹之间鲜明的对照。",
+  "style_prompt_en": "A monochrome ink drawing made from dense, restless crosshatching, searching contours, and visible construction marks on light paper. Concentrate the sharpest definition in a small central focal area, then let surrounding edges loosen into overlapping strokes, circular guides, measurements, and occasional scribbled fragments. Build volume through directional line density rather than smooth blending: crowded black hatching forms shadow, while unmarked paper becomes light. Keep a restrained range of black, charcoal gray, and white, with no color distraction. Preserve irregular hand pressure, tiny corrections, and layered line history so the image feels observed and worked through in real time. The effect should combine precise visual recognition with energetic graphic disorder.",
+  "style_prompt_zh": "在浅色纸上以密集躁动的交叉排线、试探轮廓和可见结构痕迹完成单色墨线画。把最清晰的界定集中在中央一小片焦点区域，再让周围边缘松散成重叠笔触、圆形导线、测量标记和偶尔的潦草片段。通过线条密度与方向而非平滑晕染建立体积：拥挤的黑色排线形成阴影，未落笔的纸面成为光。只使用黑、炭灰与白的克制范围，不让色彩分散注意力。保留不均匀的手劲、微小修正和层层叠加的作画历史，使图像像是在实时观察与推敲中形成。效果应把准确的视觉识别与充满动能的图形纷乱结合起来。",
+  "theme_en": "Direct gaze in restless black ink",
+  "theme_zh": "纷乱黑线中的直视目光",
+  "wh_ratio": "1:1",
+  "id": "1631",
+  "name": "Vince Low",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/vince-low",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/vince-low.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "f09368ebba9a8b6051b944381941ec6e76057fc342a6ee0a86ed63532998d274",
+    "gpt_submission_prompt": "A black ink portrait drawing on pale paper shows an older man's face looking directly toward the viewer, cropped closely above the chest. The eyes sit just above the center of the square and hold a calm, stern gaze; dense dark marks around the lids and brows make them the clearest focal point. A long nose, firmly closed mouth, and angular jaw are built from an accumulation of short, restless strokes rather than a smooth contour. Dark crosshatching gathers along the left cheek, temple, and under the chin, while lighter broken lines sketch the right side of the face. His short hair dissolves into an untidy mesh of marks near the top edge. At the bottom, a shirt collar and tie emerge with only a few controlled angles before fading into the paper. The background stays largely white, yet faint construction lines, scribbled notes, circular guides, and horizontal measurements hover around the head, making the drawing feel both analytical and spontaneous. Tonal light appears to fall from the upper right, leaving the left side more heavily hatched; there is no painted setting or cast shadow. The whole image depends on a remarkable contrast between disciplined facial likeness and freely scattered graphic evidence of the drawing process.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "3316358bbec4681dec404ec6c376204f2c9e84b731619add17b1e4cba55b94b2",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "An anaglyph landscape places two pale rectangular monoliths beside a quiet inlet. They stand near the center, separated by a narrow gap that frames a distant moonlike dome over the water. Rocky ground fills the lower foreground, and low cliffs bracket the scene at both sides. The underlying image is nearly monochrome, made of cool slate and chalky gray, but every contour carries a slight red offset on one side and cyan offset on the other. This deliberate doubled edge produces the look of a vintage three-dimensional print: the pillars seem to advance toward the viewer while the coast and celestial shape sink back. The pillars are the cleanest forms, with straight vertical edges and gently marbled surfaces; rocks, water, and clouds have rougher, grainier texture. The water reflects a dim central light in narrow horizontal bands. The sky is a muted deep teal that darkens upward, and a small warm blush lies near the horizon behind the distant dome. Lighting is low and diffuse, making the red-cyan separation more visually important than any cast shadow. The composition is balanced and still, using a pair of strong verticals against broad horizontal water and shoreline. Its otherworldly feeling comes from simple geometry, atmospheric depth, and the slight visual dislocation of the offset colors.",
+  "full_prompt_zh": "一幅红青立体图像把两块浅色矩形巨石立在安静的水湾旁。它们靠近中心，彼此隔出一条窄缝，框住水面远处月亮般的半圆。岩石地面填满下方前景，低矮崖壁从两侧夹住场景。底层画面近乎单色，由冷石板色和粉灰色构成，但每道轮廓的一侧都略向红色错开，另一侧向青色错开。这种刻意的双重边缘造成旧式立体印刷的观感：石柱仿佛朝观者前进，海岸与天体形态则向后沉去。石柱是最干净的形状，竖边笔直，表面有轻微大理石纹；岩石、水面与云则更粗糙，颗粒更多。水面用窄窄横带映出中心的微光。天空是柔暗深青色，向上渐黑，远处半圆后的地平线带一点暖粉。光线低而漫射，使红青分离比投影更重要。构图平衡而静止，以一对强烈竖线对照宽阔横向水面与海岸。简单几何、大气纵深和错位色彩带来的轻微视觉游移，共同形成异世界气息。",
+  "style_prompt_en": "A vintage anaglyph image built from near-monochrome slate and chalk with deliberate red and cyan edge offsets. Two clean vertical masses stand before broad horizontal bands, their doubled contours appearing closer than the grainy distant field. Rough foreground texture, faint water-like striations, and a hazy pale center establish depth. Low diffuse light and a muted teal-to-dark gradient keep the scene quiet; a small warm blush touches the horizon. The image feels slightly displaced rather than sharply colored, using simple geometry and paired outlines to create the stereo illusion.",
+  "style_prompt_zh": "一幅旧式红青立体图像，以近单色的石板灰和粉白为底，让轮廓刻意向红、青两侧轻微错开。两块干净的竖向体量立在宽阔横带之前，双重边线使它们看起来比颗粒状远景更靠前。粗糙前景纹理、淡淡水波状横纹和朦胧浅色中心建立纵深。低而漫射的光与从柔青到深暗的渐变使场景安静，地平线处只触上一点暖粉。画面更像轻微错位，而非鲜艳上色，依靠简单几何和成对轮廓形成立体错觉。",
+  "theme_en": "Twin pale monoliths beside a strange shore",
+  "theme_zh": "奇异海岸边的一对白色巨石",
+  "wh_ratio": "1:1",
+  "id": "3150",
+  "name": "Anaglyph",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/anaglyph",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "8c7a3398bd1cd74638569dbf371cf1e78f0749fee83f9b9f0652309949cbf4de",
+    "gpt_submission_prompt": "An anaglyph landscape places two pale rectangular monoliths beside a quiet inlet. They stand near the center, separated by a narrow gap that frames a distant moonlike dome over the water. Rocky ground fills the lower foreground, and low cliffs bracket the scene at both sides. The underlying image is nearly monochrome, made of cool slate and chalky gray, but every contour carries a slight red offset on one side and cyan offset on the other. This deliberate doubled edge produces the look of a vintage three-dimensional print: the pillars seem to advance toward the viewer while the coast and celestial shape sink back. The pillars are the cleanest forms, with straight vertical edges and gently marbled surfaces; rocks, water, and clouds have rougher, grainier texture. The water reflects a dim central light in narrow horizontal bands. The sky is a muted deep teal that darkens upward, and a small warm blush lies near the horizon behind the distant dome. Lighting is low and diffuse, making the red-cyan separation more visually important than any cast shadow. The composition is balanced and still, using a pair of strong verticals against broad horizontal water and shoreline. Its otherworldly feeling comes from simple geometry, atmospheric depth, and the slight visual dislocation of the offset colors.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "a721378cecc23e99757ce01d8be990d6978b07b09a3819b43fde88d93ffb2281",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

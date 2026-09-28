@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A close square portrait shows a young blond girl cradling a red fox against a dark brown background. The girl fills the left and center of the frame. Her long wavy hair falls over her shoulders, and a loose crown of tiny cream blossoms, seed heads, leaves, and warm rust-colored flowers rests across her head. She turns slightly toward the right while looking directly out with pale blue-gray eyes and a sober, thoughtful expression. A cream high-neck garment with lace at the collar and a botanical pattern covers her shoulders and chest. Her arms circle the fox, whose russet head and tall pointed ear occupy the right half of the image. The animal looks toward the left with one amber eye visible. White fur around its muzzle and cheek contrasts with the red coat and the girl's hair. Dark paw shapes are tucked near the lower center. The pair are pressed close, their heads at almost the same height. Soft light from the upper left falls across the girl's face, the floral crown, and the fox's muzzle, while the edges recede into velvety shadow. The background has no clear setting, and the crop removes nearly all surrounding space. Warm brown, amber, cream, and muted gold dominate. Fine hair, fur, petals, and fabric texture provide a tactile surface, but the still gaze and compact embrace remain the center of attention.",
+  "full_prompt_zh": "一幅近距离方形肖像描绘一名金发女孩在深棕背景前怀抱赤狐。女孩占据左侧和中央，长而微卷的头发披在肩上，头顶松松戴着由细小奶油色花朵、种穗、叶片和锈红花组成的花冠。她的身体略向右转，却以浅蓝灰色眼睛直望画外，神情严肃而若有所思。奶油色高领衣衫有蕾丝领缘，肩胸处带植物纹样。双臂环抱狐狸；它的赤褐色头部和高而尖的耳朵占据右半幅。狐狸朝左看，一只琥珀色眼睛可见。口鼻和脸颊周围的白毛与红色皮毛、女孩头发形成对比。深色爪形藏在画面下部中央附近。二者贴得很近，头部几乎同高。左上方柔光照在女孩脸上、花冠和狐狸口鼻上，边缘渐渐退入丝绒般的阴影。背景没有明确环境，紧凑裁切几乎除去周围空间。暖棕、琥珀、奶油色和柔和金色占主导。细发、皮毛、花瓣和布料纹理赋予表面触感，而静止的目光与紧密的拥抱仍是注意力中心。",
+  "style_prompt_en": "Use intimate, low-key portrait lighting with soft warm highlights emerging from deep chocolate and umber shadow. Keep the color range narrow: muted gold, cream, russet, amber, and dark brown, with cooler pale accents used sparingly. Crop close enough for faces, hands, and tactile details to fill the frame; let the background dissolve into a plain velvety dark field. Render hair, fur, petals, and fabric with fine but natural texture, while skin stays softly graded and luminous. Position two nearby focal forms at related scale so their shapes overlap and visually connect. The atmosphere is quiet and storybook-like, supported by a calm direct gaze and gentle edge falloff. The transferable mechanism is warm tonal unity, tactile detail, compressed space, and a softly lit emotional center.",
+  "style_prompt_zh": "采用亲密的低调肖像光，让柔暖亮部从巧克力棕和赭棕深影中浮出。色域收窄在柔金、奶油色、赤褐、琥珀和深棕，较冷的浅色点缀只作克制使用。裁切靠近，让面孔、手部和可触的细节填满画面；背景化成素净的丝绒暗场。发丝、皮毛、花瓣与布料以精细但自然的纹理表现，皮肤则保持柔和递进的明亮感。把两个相邻的焦点形体置于相近尺度，使轮廓重叠并在视觉上相连。气氛安静、带童话书意味，由平静直视的目光和柔和的边缘暗化支撑。可迁移的机制是统一的暖色调、触感细节、紧缩空间和柔光照亮的情绪中心。",
+  "theme_en": "A flower-crowned girl cradling a red fox",
+  "theme_zh": "头戴花冠的女孩怀抱一只赤狐",
+  "wh_ratio": "1:1",
+  "id": "1847",
+  "name": "Jessica Drossin",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/jessica-drossin",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/jessica-drossin.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "ead60dd83501353b520fa7a27dd51b7fa316565d4ca9c6323ca2518f99c72fdd",
+    "gpt_submission_prompt": "A close square portrait shows a young blond girl cradling a red fox against a dark brown background. The girl fills the left and center of the frame. Her long wavy hair falls over her shoulders, and a loose crown of tiny cream blossoms, seed heads, leaves, and warm rust-colored flowers rests across her head. She turns slightly toward the right while looking directly out with pale blue-gray eyes and a sober, thoughtful expression. A cream high-neck garment with lace at the collar and a botanical pattern covers her shoulders and chest. Her arms circle the fox, whose russet head and tall pointed ear occupy the right half of the image. The animal looks toward the left with one amber eye visible. White fur around its muzzle and cheek contrasts with the red coat and the girl's hair. Dark paw shapes are tucked near the lower center. The pair are pressed close, their heads at almost the same height. Soft light from the upper left falls across the girl's face, the floral crown, and the fox's muzzle, while the edges recede into velvety shadow. The background has no clear setting, and the crop removes nearly all surrounding space. Warm brown, amber, cream, and muted gold dominate. Fine hair, fur, petals, and fabric texture provide a tactile surface, but the still gaze and compact embrace remain the center of attention.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "7c8c751af72807b9c56061b8b8db5387b7be3933898b7add599f0802ea41c8b0",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

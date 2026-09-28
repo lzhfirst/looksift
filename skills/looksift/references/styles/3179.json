@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square night landscape photograph shows a quiet coastal tide pool under a vast star-filled sky. A small lone tree stands near the low horizon slightly left of center, silhouetted against a warm orange glow where sea and sky meet. Dark rocks scatter across the shallow water and frame the foreground from both sides. The still pool mirrors the bright column of stars and cloudlike galactic dust rising from the horizon toward the upper left. Deep navy and violet fill the upper sky, while a coral and amber band sits just above the distant sea. The reflection repeats those colors in broken, liquid streaks, drawing a vertical line through the middle of the image. On the right, a dark sloping headland closes the scene; on the left, small offshore rocks mark the low horizon. The exposure keeps the rocks almost black yet gives the star field fine detail and the water a polished gleam. Illumination comes from the glowing horizon and the celestial band, with no visible artificial light source. The composition combines the intimate shallow pool with a nearly limitless sky. Its broad dark spaces let the bright galactic texture breathe, and the tiny tree gives the immense night a humanly readable scale without introducing a person.",
+  "full_prompt_zh": "这幅方形夜景摄影呈现辽阔星空下安静的海岸潮池。一棵孤立小树站在低地平线附近、中央稍偏左，在海天相接的暖橙色光前成为剪影。暗石散落在浅水中，从两侧框住前景。静水映出明亮星带和云状银河尘埃，它从天边向左上升起。深海军蓝与紫色填满上方天空，珊瑚与琥珀色带贴在远海上方。倒影把这些颜色重复成断续的液态光痕，画面中央形成竖线。右侧深暗倾斜海岬收住场景，左侧离岸小石标明低地平线。曝光让石头近乎发黑，却保留星域细节和水面抛光般的微光。照明来自发亮的天边与银河带，没有可见人造光源。构图把亲近的浅潮池和几乎无边的天空结合。宽阔暗区使明亮星云纹理得以呼吸，微小树影则给宏大夜空一个人可理解的尺度，而不引入人物。",
+  "style_prompt_en": "The long-exposure photograph places luminous celestial texture above dark, nearly still reflective planes. Navy, violet and near black dominate, with a narrow coral amber glow at the horizon. Fine points and cloudy bands remain crisp in the sky, while reflections stretch into softened vertical streaks. Low silhouettes provide a simple grounding line. Broad shadow and a balanced central glow create a spacious, contemplative rhythm.",
+  "style_prompt_zh": "这种长曝光摄影把发光的星云纹理放在深暗、近乎静止的反光平面上方。海军蓝、紫色与近黑占主调，地平线留一道狭窄珊瑚琥珀光。天空中的细光点与云带清楚，倒影拉成长而柔软的竖向光痕。低矮剪影提供简单接地线。宽阔阴影与居中的均衡微光形成宽敞、沉思的节奏。",
+  "theme_en": "A starry coastal tide pool reflecting the Milky Way",
+  "theme_zh": "映出银河的星夜海岸潮池",
+  "wh_ratio": "1:1",
+  "id": "3179",
+  "name": "Michael Shainblum",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/michael-shainblum",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "b0c77db9ae88412f6796555e6fdd77d1a82b69a627ee5a9de5779fe7a9f1d7ae",
+    "gpt_submission_prompt": "A square night landscape photograph shows a quiet coastal tide pool under a vast star-filled sky. A small lone tree stands near the low horizon slightly left of center, silhouetted against a warm orange glow where sea and sky meet. Dark rocks scatter across the shallow water and frame the foreground from both sides. The still pool mirrors the bright column of stars and cloudlike galactic dust rising from the horizon toward the upper left. Deep navy and violet fill the upper sky, while a coral and amber band sits just above the distant sea. The reflection repeats those colors in broken, liquid streaks, drawing a vertical line through the middle of the image. On the right, a dark sloping headland closes the scene; on the left, small offshore rocks mark the low horizon. The exposure keeps the rocks almost black yet gives the star field fine detail and the water a polished gleam. Illumination comes from the glowing horizon and the celestial band, with no visible artificial light source. The composition combines the intimate shallow pool with a nearly limitless sky. Its broad dark spaces let the bright galactic texture breathe, and the tiny tree gives the immense night a humanly readable scale without introducing a person.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "b5d713048ad04012b39e6a4b97561db91eed8ff86e0705e67ac50608457d7c02",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white photograph crops close on a young woman's face, which fills almost the entire frame and leans slightly toward the left. Dark hair falls across the forehead and down the side of the head, merging into the deep black background. One eye near the upper center-left is sharply present under a strong brow, while the other recedes into shadow toward the right. Her gaze meets the viewer with a quiet, unposed intensity. The nose catches a small patch of pale light; the lips are dark and gently closed. The lower cheek and chin fade toward the lower edge, and the outer contour of the face is partly lost in black. The image is high contrast but not cleanly polished. Coarse film grain, small specks, and uneven tonal patches mark both the lit skin and the background. Light arrives from the upper left or front-left at close range, brushing the forehead, upper cheek, and bridge of the nose while leaving the opposite side almost unreadable. The illuminated skin is soft gray rather than pure white, with slight blur in the transitions and rougher black around hair and eye socket. There are no visible clothes, setting, props, or decorative elements to explain the moment. The camera's extreme proximity gives the face an intimate scale; asymmetrical cropping pushes the image away from a formal studio pose. The overall composition feels candid, vulnerable, and intense, with the eye and small pools of light held against a near-abstract surrounding darkness.",
+  "full_prompt_zh": "一幅方形黑白照片紧紧裁住一名年轻女子的面孔，脸几乎填满全幅，略向左侧倾斜。深发落在额前与头侧，融入深黑背景。上方中央偏左的一只眼睛在浓眉下格外清晰，另一只向右退入阴影。她以安静、未经摆布的强烈目光看向观众。鼻子接住一小片浅光，嘴唇深色而轻合。下颊与下巴向画面下缘淡去，脸外轮廓一部分消失在黑中。图像反差高，却并不洁净精修。粗胶片颗粒、小斑点与不均匀色调块同时留在受光皮肤与背景上。光从左上或左前近距离扫来，擦亮额头、上脸颊和鼻梁，对侧几乎难辨。受光肌肤为柔灰而非纯白，过渡略有模糊，发际与眼窝周围的黑色更粗。看不到服饰、环境、道具或装饰来解释这个瞬间。相机极近使脸显得亲密；不对称裁切让图像远离正式影棚姿势。整体构图坦率、脆弱而强烈，一只眼与几处小光区悬在近乎抽象的四周黑暗中。",
+  "style_prompt_en": "Use raw high-contrast black-and-white film photography with coarse grain, uneven exposure, soft tonal bleed, and deep contiguous blacks. Crop unusually close and asymmetrically so a small lit focal area carries the frame while surrounding contours disappear. Illuminate from one nearby side, preserving gray skin or surface tones instead of pure white and allowing the far side to become nearly unreadable. Keep blemishes, specks, and slight blur as part of the photographic material. The result feels candid, intimate, and psychologically charged.",
+  "style_prompt_zh": "采用原生高反差黑白胶片摄影，保留粗颗粒、不均匀曝光、柔和灰调渗开和相连的大块深黑。裁切异常靠近且不对称，让一小块受光焦点支撑画面，其余轮廓消失。单侧近距离照明，保留灰色肌肤或表面调子而非纯白，让远侧近乎不可辨。瑕点、斑粒和轻微模糊都是摄影材料的一部分。效果坦率、亲密，带心理张力。",
+  "theme_en": "A close, grainy black-and-white face emerging from darkness",
+  "theme_zh": "从黑暗中浮现的粗颗粒黑白面孔特写",
+  "wh_ratio": "1:1",
+  "id": "0408",
+  "name": "Sanne Sannes",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/sanne-sannes",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/sanne-sannes.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "a990c9fe6f645fe7e01f34840922e30d6752a7d14fe44e5d653d31d62c09d969",
+    "gpt_submission_prompt": "A square black-and-white photograph crops close on a young woman's face, which fills almost the entire frame and leans slightly toward the left. Dark hair falls across the forehead and down the side of the head, merging into the deep black background. One eye near the upper center-left is sharply present under a strong brow, while the other recedes into shadow toward the right. Her gaze meets the viewer with a quiet, unposed intensity. The nose catches a small patch of pale light; the lips are dark and gently closed. The lower cheek and chin fade toward the lower edge, and the outer contour of the face is partly lost in black. The image is high contrast but not cleanly polished. Coarse film grain, small specks, and uneven tonal patches mark both the lit skin and the background. Light arrives from the upper left or front-left at close range, brushing the forehead, upper cheek, and bridge of the nose while leaving the opposite side almost unreadable. The illuminated skin is soft gray rather than pure white, with slight blur in the transitions and rougher black around hair and eye socket. There are no visible clothes, setting, props, or decorative elements to explain the moment. The camera's extreme proximity gives the face an intimate scale; asymmetrical cropping pushes the image away from a formal studio pose. The overall composition feels candid, vulnerable, and intense, with the eye and small pools of light held against a near-abstract surrounding darkness.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "eaf286518241232738fd7c83ba4c284bc5f15f347551a190db1fa1620b2a3167",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

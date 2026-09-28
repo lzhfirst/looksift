@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square abstract oil painting fills the frame with broad, thick strokes of pink, yellow, black, orange, white, and muted green. No single object resolves from the marks; color areas press, fold, and scrape over one another across the entire surface. Near the upper left, a saturated yellow mass pushes through pink and charcoal paint, its ridges catching light. At the center, broad pale pink and cream swipes cross darker black and wine-red passages, leaving grooves where a brush or knife has dragged through the wet material. Lower down, a deep green-blue patch sits beside sharp orange and white strokes, adding a cooler interruption to the mostly warm field. Some marks are pulled into thin ribbons, while others remain as raised slabs with rough broken edges. The paint is visibly physical: thick peaks cast tiny shadows on neighboring color, and exposed lower layers appear in scraped gaps. There is no quiet background plane or horizon; every edge of the frame continues the same active surface. Strong studio light from above and slightly left glints on the highest ridges, while narrow crevices remain dark and matte. The palette feels exuberant but not uniformly bright because black and gray passages repeatedly arrest the color. No text appears. The overall composition is dense and improvisational, held together by the exchange of warm broad gestures, cool small interruptions, and the relief of wet paint.",
+  "full_prompt_zh": "一幅方形抽象油画以粉、黄、黑、橙、白和暗绿的宽厚笔触填满画幅。笔痕没有汇成单一可辨物件；色域在整片表面互相挤压、翻折和刮擦。左上附近一团饱和黄色从粉色和炭色颜料中冲出，凸脊接住光。中央宽阔的浅粉与奶油色刮痕横过较深黑色和酒红部分，在画笔或刮刀拖过湿料处留下沟槽。下方一块深绿蓝色贴着尖利橙色与白色笔触，为大体温暖的色域带来冷色打断。有些笔痕拉成细带，有些仍是边缘粗裂的凸起厚块。颜料显然有物理厚度：高峰向相邻色彩投下小影，被刮开的缝隙露出底层。这里没有安静背景平面或地平线；画面每条边都延续同样活跃的表面。强影棚光从上方略偏左照来，在最高凸脊闪亮，狭窄沟隙则保持深暗哑光。色域热烈却不一味明亮，因为黑灰部分反复截停色彩。画中没有文字。整体构图密集而即兴，以宽阔暖色动作、较小冷色打断和湿颜料的浮起肌理互相维系。",
+  "style_prompt_en": "Impasto oil painting makes the physical relief of paint the main visual mechanism. Broad dragged swipes, thick knife-like slabs, scraped channels, and thin trailing ribbons overlap without resolving into a neat outline. Pink, yellow, orange, cream, black, and muted green-blue alternate in irregular areas, with deep darks preventing the bright colors from flattening. Directional light glances across raised ridges and throws small shadows into wet-looking grooves. The entire field stays active, but larger warm gestures are punctuated by cooler and darker interruptions. The result is tactile, spontaneous, and forcefully rhythmic.",
+  "style_prompt_zh": "厚涂油画让颜料的物理浮起成为主要视觉机制。宽阔拖开的色痕、厚重刮刀状色块、刮出的沟槽和细长尾迹互相重叠，却不汇成整洁轮廓。粉、黄、橙、奶油色、黑与暗绿蓝在不规则区域交替，深色使亮色不至于变平。定向光擦过凸起色脊，并在仿佛仍湿的沟槽内投下小影。整个色域始终活跃，但较大的暖色动作被冷色与深色打断。整体有触感、即兴且节奏有力。",
+  "theme_en": "A close field of thick pink, yellow, and dark abstract paint",
+  "theme_zh": "粉、黄与深色厚涂抽象颜料的近距画面",
+  "wh_ratio": "1:1",
+  "id": "4121",
+  "name": "Willem de Kooning",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/willem-de-kooning.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "5d728c3e5b5c05d5a6f66d24dffc6805a6356442738cad7944f001e6d2b4e56c",
+    "gpt_submission_prompt": "A square abstract oil painting fills the frame with broad, thick strokes of pink, yellow, black, orange, white, and muted green. No single object resolves from the marks; color areas press, fold, and scrape over one another across the entire surface. Near the upper left, a saturated yellow mass pushes through pink and charcoal paint, its ridges catching light. At the center, broad pale pink and cream swipes cross darker black and wine-red passages, leaving grooves where a brush or knife has dragged through the wet material. Lower down, a deep green-blue patch sits beside sharp orange and white strokes, adding a cooler interruption to the mostly warm field. Some marks are pulled into thin ribbons, while others remain as raised slabs with rough broken edges. The paint is visibly physical: thick peaks cast tiny shadows on neighboring color, and exposed lower layers appear in scraped gaps. There is no quiet background plane or horizon; every edge of the frame continues the same active surface. Strong studio light from above and slightly left glints on the highest ridges, while narrow crevices remain dark and matte. The palette feels exuberant but not uniformly bright because black and gray passages repeatedly arrest the color. No text appears. The overall composition is dense and improvisational, held together by the exchange of warm broad gestures, cool small interruptions, and the relief of wet paint.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "86579dac0dff337e4df42efc6a6385ea466f27ca0819e5e0c2182409ccb21ba1",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

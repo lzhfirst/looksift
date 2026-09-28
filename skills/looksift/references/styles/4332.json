@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white manga illustration sits inside a slim rectangular border on warm ivory paper. Two girls are shown closely from the shoulders up, their faces side by side and nearly touching. The girl on the left has soft wavy light hair and a small ribbon at her throat; the girl on the right has dense dark curls beneath a wide hat with a ribbon and dark crown. Both have large expressive eyes, delicate noses, and quiet, slightly curious expressions directed toward the viewer. Roses and layered leaves crowd around the right shoulder and upper corners, while lighter floral marks appear behind the left girl's hair. Fine ink lines shape individual curls, hat folds, lace, petals, and eyelashes. Dense cross-hatching and black filled areas provide depth beneath the brim and hair; pale open paper remains in the faces. The composition is intimate, symmetrical in its paired gaze, yet varied by the dark hat mass on the upper right. There is no modeled sunlight or full environment. Instead, the page is evenly bright and the tonal range arises from line density, stipple, and carefully reserved whites. The drawing has a romantic, intricate, almost engraved quality, with fragile faces held amid richly textured ornament.",
+  "full_prompt_zh": "一幅方形黑白漫画插画置于暖象牙纸上的细矩形框内。两位少女从肩部以上紧密呈现，脸并排几乎相触。左侧女孩有柔软波浪浅发，喉间系小丝带；右侧女孩蓬松深卷发藏在宽檐帽下，帽上有丝带和深色帽冠。两人都有大而富于表情的眼、精细鼻梁，以及向观看者投来的安静、略带好奇神情。玫瑰和层叠叶片围住右肩及上方角落，较淡的花卉线痕出现在左侧头发后。细墨线描出单根卷发、帽褶、蕾丝、花瓣和睫毛。密集交叉排线与填黑区域在帽檐和头发下方形成纵深，脸部保留纸面亮白。两人相对称的目光使画面亲密，右上深帽形又带来变化。这里没有明确阳光或完整环境。页面均匀明亮，调子范围来自线条密度、点描和谨慎保留的白。画作浪漫、繁密，近乎版画质地，脆弱面庞被丰富纹样围住。",
+  "style_prompt_en": "Romantic monochrome manga inkwork with hair-fine contours, enlarged expressive eyes, dense curls, layered botanical ornament, and a narrow page border. Depth comes from cross-hatching, stipple, dark filled passages, and carefully reserved paper white rather than painted light. An intimate clustered composition balances delicate smooth faces with intricate patterned surroundings on warm ivory ground.",
+  "style_prompt_zh": "浪漫的单色漫画墨绘，发丝般细轮廓、放大的表情性眼睛、密集卷线、层叠植物装饰和窄页面框线相结合。纵深来自交叉排线、点描、深色填黑与谨慎保留的纸白，而不是涂绘光线。紧凑亲密的构图让细腻平滑的亮面与繁密纹样环境在暖象牙底上平衡。",
+  "theme_en": "Two girls in hats surrounded by finely inked flowers",
+  "theme_zh": "两位戴帽少女被细墨线花朵环绕",
+  "wh_ratio": "1:1",
+  "id": "4332",
+  "name": "Moto Hagio",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/moto-hagio.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "51fd727470bafd7351f146fc723162630f38892ea33cace7e86425772eab1a44",
+    "gpt_submission_prompt": "A square black-and-white manga illustration sits inside a slim rectangular border on warm ivory paper. Two girls are shown closely from the shoulders up, their faces side by side and nearly touching. The girl on the left has soft wavy light hair and a small ribbon at her throat; the girl on the right has dense dark curls beneath a wide hat with a ribbon and dark crown. Both have large expressive eyes, delicate noses, and quiet, slightly curious expressions directed toward the viewer. Roses and layered leaves crowd around the right shoulder and upper corners, while lighter floral marks appear behind the left girl's hair. Fine ink lines shape individual curls, hat folds, lace, petals, and eyelashes. Dense cross-hatching and black filled areas provide depth beneath the brim and hair; pale open paper remains in the faces. The composition is intimate, symmetrical in its paired gaze, yet varied by the dark hat mass on the upper right. There is no modeled sunlight or full environment. Instead, the page is evenly bright and the tonal range arises from line density, stipple, and carefully reserved whites. The drawing has a romantic, intricate, almost engraved quality, with fragile faces held amid richly textured ornament.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "3dc0cfa833ee8916ab6daae9015c7034f1769a7db0b5bebdf717acb50c913680",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

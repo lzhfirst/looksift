@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square, sunlit painting shows a woman from behind, standing near the edge of a broad pale promenade and looking over a quiet harbor. She occupies the central vertical axis, small against an enormous curved teal field behind her. Her brown hair is swept into a neat bun. She wears a sleeveless coral-red dress with a low V-shaped back, a narrow waist, and a full flared skirt whose hem lifts outward on both sides. One hand lightly gathers the skirt, and red high heels extend her upright pose. At the bottom, horizontal bands of ocher pavement, pale stone, dark blue water, and thin distant shoreline make a calm base. Across the water to the left are low white storage tanks, small industrial silhouettes, and ships. A few tiny birds or dark marks dot the open area above the horizon. The upper background is an immense turquoise arch enclosed by a mottled ocher wall or painted surround, with its curve descending behind the figure to the horizon. Bright warm sunlight hits her shoulders, dress, and pavement; shadows remain simple and clean. The surface has subtle granular brush texture, most noticeable in the ocher surround and red skirt. Space is stripped to large flat color areas and one clear figure. The image balances the woman's poised silhouette with the arch's encompassing curve and the long, level lines of water and ground.",
+  "full_prompt_zh": "一幅方形阳光绘画从背后描绘一位女子站在宽阔浅色步道边缘，望向安静港湾。她落在画面中央竖轴上，相对于身后巨大的青绿色弧形色场显得很小。棕发整齐盘成发髻。她身穿无袖珊瑚红裙，背部低V领、腰部收窄、裙摆丰满并向两侧外扬。一只手轻轻提着裙子，红色高跟鞋延伸出她挺直的姿态。底部，赭黄路面、浅色石边、深蓝海水与细薄的远岸形成平静的水平色带。左侧水面彼岸有低矮白色储罐、小型工业轮廓和船只。地平线上方开阔区域点着几只极小的鸟或深色痕迹。上部背景是一道被斑驳赭色墙面或绘制边框包围的巨大青绿拱形，弧线在人物身后落向地平线。明亮暖日光照到肩膀、裙子和地面，阴影保持简洁利落。表面有轻微颗粒笔触，在赭色边框和红色裙面尤其可见。空间被提炼成大块平涂颜色与一位清晰人物。画面以她端正的剪影、包围性的弧线和水岸地面的长水平线保持平衡。",
+  "style_prompt_en": "Use a spare, sun-warmed painterly language with large flat color areas, lightly mottled texture, and very few small details. Set a poised small silhouette against a much larger curved or geometric field, then anchor both with long, calm horizontal bands. Teal and turquoise can dominate the open field; coral red, ocher, pale cream, and deep blue provide clear supporting contrasts. Shapes have crisp, simplified edges while brush grain gently unsettles the flatness. Bright directional sunlight clarifies form without elaborate reflections or heavy modeling. Keep the viewpoint level and the composition orderly, with generous negative space around the focal form. The transferable effect is elegant visual restraint: saturated complementary color, graphic scale contrast, a single graceful contour, and a quiet horizon.",
+  "style_prompt_zh": "采用简洁、被阳光烘暖的绘画语言，以大面积平涂色块、轻微斑驳肌理和极少的小细节构成。让一处端正的小剪影面对更大的弧形或几何色场，再用平静而长的水平色带稳住二者。青绿与蓝绿可主导开阔色场；珊瑚红、赭黄、浅奶油色和深蓝构成清晰的辅助对比。形状边缘利落且简化，笔触颗粒轻轻扰动平面感。明亮定向阳光使形体清楚，却不依赖复杂反射或厚重塑形。视点平齐，构图有序，在焦点周围留出充足空白。可迁移的效果是一种优雅的视觉节制：饱和互补色、图形化尺度反差、一条舒展轮廓和安静的地平线。",
+  "theme_en": "A woman in a coral dress seen from behind at a quiet harbor",
+  "theme_zh": "一位珊瑚红裙女子背对镜头站在安静港边",
+  "wh_ratio": "1:1",
+  "id": "1844",
+  "name": "Harry Watrous",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/harry-watrous",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/harry-watrous.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "9c803db32d8c468646d524a34527903b6c130dd9321640d23df7538d75b29841",
+    "gpt_submission_prompt": "A square, sunlit painting shows a woman from behind, standing near the edge of a broad pale promenade and looking over a quiet harbor. She occupies the central vertical axis, small against an enormous curved teal field behind her. Her brown hair is swept into a neat bun. She wears a sleeveless coral-red dress with a low V-shaped back, a narrow waist, and a full flared skirt whose hem lifts outward on both sides. One hand lightly gathers the skirt, and red high heels extend her upright pose. At the bottom, horizontal bands of ocher pavement, pale stone, dark blue water, and thin distant shoreline make a calm base. Across the water to the left are low white storage tanks, small industrial silhouettes, and ships. A few tiny birds or dark marks dot the open area above the horizon. The upper background is an immense turquoise arch enclosed by a mottled ocher wall or painted surround, with its curve descending behind the figure to the horizon. Bright warm sunlight hits her shoulders, dress, and pavement; shadows remain simple and clean. The surface has subtle granular brush texture, most noticeable in the ocher surround and red skirt. Space is stripped to large flat color areas and one clear figure. The image balances the woman's poised silhouette with the arch's encompassing curve and the long, level lines of water and ground.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "0f29571e1006ae1bd0899bc6ca915dee1d674b9db634d5c259b5c4e5cb1e4ceb",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

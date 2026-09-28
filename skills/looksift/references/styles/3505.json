@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "The finished square is a candid black-and-white photograph centered on a young woman sitting under a shaded fairground canopy. She faces the camera from a low seat, leaning forward with her elbows close to her knees. One hand rests near her mouth, holding a small cigarette; the other arm folds loosely across her lap. Her short dark curls frame a pale face with tired, inward-looking eyes. A dark short-sleeved top, textured skirt and dark stockings form a compact central silhouette. Other people are seated immediately beside her but cut by the frame: a woman at the left rests her head in her hand, and a man in a patterned shirt occupies the right edge. A vertical post rises beside the man. Behind them, standing figures become dark silhouettes beneath the serrated canopy edge, with patches of bright daylight visible farther back. The photograph balances sharply observed foreground faces and clothing against a busy but indistinct public setting. Soft overhead shade gives the central face even silvery light, while the background is broken into hard white highlights and deep black pockets. Fine grain, slight tonal roughness and natural edge softness reinforce the documentary feel; nothing appears formally posed. The woman's stillness and direct yet distant gaze form an emotional pause inside the gathering. Dark framing at the top and bottom holds the attention on her expression, while the cropped neighbors and layered silhouettes sustain the square composition's social density.",
+  "full_prompt_zh": "成品正方形是一张纪实黑白照片，中心是一位坐在集市棚篷阴影下的年轻女子。她坐在低处面对镜头，身体前倾，双肘靠近膝盖。一只手停在嘴边，夹着一支小香烟；另一只手臂松松横过腿上。深色短卷发围住浅色面孔，眼神疲惫而内向。深色短袖上衣、带纹理的裙子和深色长袜构成紧凑的中央轮廓。其他人紧挨她坐着，却被画框切断：左侧一位女子以手托头，右缘是一位穿花纹衬衫的男子。男子旁有一根竖直立柱。身后的人群在锯齿形篷边下化为暗色站立剪影，更远处可见明亮日光的碎块。照片将清楚观察到的前景面孔和衣服与繁忙却不清晰的公共场所相平衡。柔和的顶部阴影给中央面孔均匀银光，背景则被硬白高光和浓黑空隙分割。细颗粒、轻微灰阶粗糙和自然边缘柔化强化纪实感，人物并无正式摆拍。女子的静止和直接却遥远的目光，在聚会中形成情绪停顿。上下深色框景把注意力收向她的表情，被截断的邻人和层层剪影又维持正方形构图的人群密度。",
+  "style_prompt_en": "Candid black-and-white documentary photography holds silvery shaded midtones against abrupt white daylight and deep black pockets. Natural framing, cropped neighboring forms, layered silhouettes, fine grain and slight edge softness make the image feel observed in passing. An unforced central pause remains visible within a crowded square composition.",
+  "style_prompt_zh": "自然抓拍的黑白纪实摄影，以银灰阴影中间调对照突然出现的白色日光与浓黑空隙。自然框景、被裁切的邻近形体、层叠剪影、细颗粒和轻微边缘柔化，呈现路过时观察到的质感。拥挤的正方形构图中仍有一个不刻意的中心停顿。",
+  "theme_en": "A pensive young woman seated among people at a crowded fairground",
+  "theme_zh": "年轻女子在拥挤集市的人群中沉思而坐",
+  "wh_ratio": "1:1",
+  "id": "3505",
+  "name": "Bruce Davidson",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/bruce-davidson",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "6575103dc6859a8fcdde4a6c7e70be66e6660e4137cf5764733441510b19ae24",
+    "gpt_submission_prompt": "The finished square is a candid black-and-white photograph centered on a young woman sitting under a shaded fairground canopy. She faces the camera from a low seat, leaning forward with her elbows close to her knees. One hand rests near her mouth, holding a small cigarette; the other arm folds loosely across her lap. Her short dark curls frame a pale face with tired, inward-looking eyes. A dark short-sleeved top, textured skirt and dark stockings form a compact central silhouette. Other people are seated immediately beside her but cut by the frame: a woman at the left rests her head in her hand, and a man in a patterned shirt occupies the right edge. A vertical post rises beside the man. Behind them, standing figures become dark silhouettes beneath the serrated canopy edge, with patches of bright daylight visible farther back. The photograph balances sharply observed foreground faces and clothing against a busy but indistinct public setting. Soft overhead shade gives the central face even silvery light, while the background is broken into hard white highlights and deep black pockets. Fine grain, slight tonal roughness and natural edge softness reinforce the documentary feel; nothing appears formally posed. The woman's stillness and direct yet distant gaze form an emotional pause inside the gathering. Dark framing at the top and bottom holds the attention on her expression, while the cropped neighbors and layered silhouettes sustain the square composition's social density.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "80a3da5c74718431ceb63f62bf3bf2d520f12fe5cc4074d562dab930419dcd5e",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

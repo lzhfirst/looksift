@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square painterly portrait shows a dark-haired man from the chest up against a muted ocher and gray-brown ground. He turns his body toward the right but looks back toward the viewer, giving the face a direct, slightly wary expression. Thick black curls rise in an irregular mass above the forehead and fall around the ears. A full mustache and short dark beard frame the mouth and jaw, while warm highlights pick out the bridge of the nose, cheek, and brow. The open-collared white shirt crosses the lower right, its broad bright strokes contrasting with the dark hair and earthy background. The shoulders are only partly resolved: one fades into thin sketch marks and exposed ground, while the other is built from thicker opaque white paint. Behind the head, broad rectangular brush swipes in gray-green and brown overlap the ocher field, leaving corners and edges visibly unfinished. The surface mixes smooth facial modeling with energetic dry marks in hair, fabric, and backdrop. Light comes from the upper left, creating warm glints on the face and hard pale accents on the shirt; the far side of the neck stays in deeper umber shadow. The close crop leaves no objects, room details, or readable lettering to compete with the expression. Small scratches and fine linear gestures remain visible in the lower area, emphasizing the drawing beneath the paint. The overall composition is intimate and forceful, with the richly modeled face emerging from loose, unfinished strokes and a narrow palette of cream, ocher, charcoal, and warm brown.",
+  "full_prompt_zh": "一幅方形绘画式肖像描绘一位深发男子的胸部以上近景，背景是低饱和赭色与灰棕色。他身体朝右，脸回望观者，表情直接而略警觉。浓黑卷发在额上升起成不规则团块，沿耳旁垂下。浓胡须和短深胡框住嘴与下颌，暖亮部选出鼻梁、脸颊和眉骨。敞领白衬衣横过右下，宽阔亮笔触对照深发和大地色背景。肩膀只部分完成：一侧淡入细速写线与裸露底色，另一侧由较厚不透明白色颜料搭成。头后，灰绿与棕色宽矩形笔刷在赭色底上重叠，角落与边缘明显未完成。表面将平滑面部塑形与头发、衣料、背景中有力的干笔痕混合。光从左上方来，在脸上形成暖亮点，在衬衣上留下硬浅色强调；颈部另一侧留在更深棕影。近裁切没有物件、房间细节或可读文字争夺表情。下方仍可见小划痕与细线性动作，强调颜料下的绘图。整体构图亲密而有力，塑形丰富的脸从松散、未完成笔触和奶油、赭、炭黑、暖棕的狭窄配色中浮出。",
+  "style_prompt_en": "The painting has an expressive portrait-study finish, with carefully modeled central planes surrounded by loose drybrush and unfinished sketch marks. Warm ocher, umber, gray-green, cream, and charcoal form a restrained earthy palette. Thick dark strokes mass around one focal region, while broad opaque pale swipes pull attention through the lower half. Brush edges alternate between firm facial contours and broken, disappearing fabric and ground. Side light creates warm highlights and deep neck shadow without smoothing away paint texture. The overall effect is immediate, tactile, and psychologically direct.",
+  "style_prompt_zh": "绘画具有表现性肖像习作完成面，仔细塑形的中央平面被松散干笔和未完成速写痕包围。暖赭、棕褐、灰绿、奶油色和炭黑构成克制大地配色。厚深笔触在一处焦点区聚块，宽阔不透明浅笔刷把注意力拉过下半部。笔边在坚实面部轮廓和破碎、逐渐消失的织物与底色之间交替。侧光创造暖亮部和深颈影，却没有抹平颜料肌理。整体效果即时、可触且在心理上直接。",
+  "theme_en": "A curly-haired bearded man in a white shirt against an ocher painted ground",
+  "theme_zh": "卷发蓄须男子穿白衬衣，立于赭色绘画底前",
+  "wh_ratio": "1:1",
+  "id": "3846",
+  "name": "Santosh Sivan",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/santosh-sivan",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "a007e36e78a7a3d0bdee6218c8cf9025acbff79c69aa3e74196322e0e06d7b0c",
+    "gpt_submission_prompt": "A square painterly portrait shows a dark-haired man from the chest up against a muted ocher and gray-brown ground. He turns his body toward the right but looks back toward the viewer, giving the face a direct, slightly wary expression. Thick black curls rise in an irregular mass above the forehead and fall around the ears. A full mustache and short dark beard frame the mouth and jaw, while warm highlights pick out the bridge of the nose, cheek, and brow. The open-collared white shirt crosses the lower right, its broad bright strokes contrasting with the dark hair and earthy background. The shoulders are only partly resolved: one fades into thin sketch marks and exposed ground, while the other is built from thicker opaque white paint. Behind the head, broad rectangular brush swipes in gray-green and brown overlap the ocher field, leaving corners and edges visibly unfinished. The surface mixes smooth facial modeling with energetic dry marks in hair, fabric, and backdrop. Light comes from the upper left, creating warm glints on the face and hard pale accents on the shirt; the far side of the neck stays in deeper umber shadow. The close crop leaves no objects, room details, or readable lettering to compete with the expression. Small scratches and fine linear gestures remain visible in the lower area, emphasizing the drawing beneath the paint. The overall composition is intimate and forceful, with the richly modeled face emerging from loose, unfinished strokes and a narrow palette of cream, ocher, charcoal, and warm brown.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "61af464d18b535987c73f7754d190f5b52b7118ac4dfaa1d1cd89e956b3d182e",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square modernist painting arranges a row of tall, dark human silhouettes against a saturated red field. The figures are reduced to narrow upright bodies, small oval heads, and a few angular shoulders, with individual heights and widths varying across the middle of the frame. A shorter figure stands near the center beneath the taller forms. Some silhouettes are nearly black, while others hold muted burgundy or charcoal inside their outlines, allowing them to separate subtly from the red. A thin dark horizontal band beneath their feet makes the group appear to stand on a shallow ledge. Below that line, the red continues in a slightly darker, rougher texture to the bottom edge; above, it fills the open background without a visible horizon or setting. The paint has visible scumbles, scratches, and uneven grain, so the broad field vibrates rather than lying perfectly flat. A few tiny black specks float in the upper red area. Light is flat and frontal, expressed by contrast between dark shapes and warm ground rather than modeled highlights or cast shadows. The repeated uprights create a solemn rhythm, broken by differences in head level and spacing. No individual facial detail or text is readable. The overall composition is stark, ritual-like, and balanced, with sparse dark forms gaining weight from the enormous weathered red surface around them.",
+  "full_prompt_zh": "一幅方形现代主义绘画在饱和红色底面前排列一行高而深色的人形剪影。人物被简化为狭窄竖身、小椭圆头和少数棱角肩部，中部各人高度与宽度有所变化。中央附近一位较矮者站在高大形体下方。有些剪影近黑，有些在轮廓内保留暗酒红或炭色，使它们与红底微妙分离。脚下的一条细深色横带让一行人仿佛站在浅台沿上。横线下方红色以略深、较粗糙的肌理延伸到底边；上方则填满敞开背景，没有可见地平线或具体环境。颜料有擦涂、划痕与不均颗粒，使宽阔色域颤动而非完全平整。上部红色中漂浮着少许黑色小点。光线平而正面，靠深形与暖底的对比表现，而非塑形高光或投影。重复的竖直形建立肃穆节奏，不同头顶高度和间距又打破完全一致。看不清个人五官，也没有可读文字。整体构图尖锐、近乎仪式化且平衡，稀疏深色形体从周围巨大的风化红色表面获得重量。",
+  "style_prompt_en": "Modernist painting reduces forms to elongated dark silhouettes on a broad saturated field. Slight variations in height, width, and spacing turn repetition into a solemn rhythm, while one thin horizontal mark anchors the lower area. Vermilion, brick red, burgundy, charcoal, and near black form a narrow forceful palette. Scratches, scumbled paint, and small dark flecks keep the ground visibly worked. Light is frontal and graphic, with contrast carrying emphasis instead of modeled highlights. Sparse upright clusters gain weight from extensive unoccupied color around them. The result is stark, symbolic, and materially warm.",
+  "style_prompt_zh": "现代主义绘画把形体简化为宽阔饱和底面上的瘦长深色剪影。高度、宽度和间距的细微变化让重复成为肃穆韵律，一条细横痕稳住下部。朱红、砖红、酒红、炭色与近黑组成狭窄而有力的色域。划痕、擦涂颜料和深色小点使底面显得经过加工。光线正面且图形化，强调来自反差而非塑形高光。稀疏竖向聚合因周围大片未占用色彩而更有重量。效果尖锐、象征性强且材料色温暖。",
+  "theme_en": "Tall dark figures standing on a textured red field",
+  "theme_zh": "纹理红色底面上站立的深色瘦长人影",
+  "wh_ratio": "1:1",
+  "id": "4140",
+  "name": "Rufino Tamayo",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/rufino-tamayo.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "f944501d5965f52aa86b209a20a09532cdc905f4f1524d73f2f2f77a782d3b88",
+    "gpt_submission_prompt": "A square modernist painting arranges a row of tall, dark human silhouettes against a saturated red field. The figures are reduced to narrow upright bodies, small oval heads, and a few angular shoulders, with individual heights and widths varying across the middle of the frame. A shorter figure stands near the center beneath the taller forms. Some silhouettes are nearly black, while others hold muted burgundy or charcoal inside their outlines, allowing them to separate subtly from the red. A thin dark horizontal band beneath their feet makes the group appear to stand on a shallow ledge. Below that line, the red continues in a slightly darker, rougher texture to the bottom edge; above, it fills the open background without a visible horizon or setting. The paint has visible scumbles, scratches, and uneven grain, so the broad field vibrates rather than lying perfectly flat. A few tiny black specks float in the upper red area. Light is flat and frontal, expressed by contrast between dark shapes and warm ground rather than modeled highlights or cast shadows. The repeated uprights create a solemn rhythm, broken by differences in head level and spacing. No individual facial detail or text is readable. The overall composition is stark, ritual-like, and balanced, with sparse dark forms gaining weight from the enormous weathered red surface around them.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "daa143d206773d9001d9a46d89d36fbeb9c98b3e9d936162c65e0f823632c357",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

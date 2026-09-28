@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A stark black-and-white studio photograph places two elegantly dressed figures against an almost solid black background. On the left, a man in a dark fedora and suit turns three-quarters away from the camera, the hat brim cutting a heavy shadow across his eyes while a narrow plane of pale face and white shirt collar remains visible. Slightly behind and to the right, a woman faces forward with composed intensity. Her sleek, side-parted hair lies close to her head in polished waves, and a dark high-neck garment nearly vanishes into the background. Light strikes her forehead, cheeks, and lips, but one side of her face falls into a sharply controlled shadow. The figures overlap in the center without touching, creating a quiet tension between the concealed man and the woman's direct gaze. The crop is close, ending at the upper torso and leaving little environmental detail. Tonal design is precise: velvety black occupies most of the frame, skin appears as luminous silver-gray planes, and tiny white accents in collar and facial highlights carry the eye. Edges are clean where light meets darkness, yet the photographic surface stays softly graded rather than digitally cut out. The composition feels sculptural and sophisticated, using a small amount of studio illumination to make posture, profile, and silence more compelling than any action.",
+  "full_prompt_zh": "一张鲜明的黑白影棚照片，把两位衣着优雅的人物置于几乎纯黑的背景前。左侧男子戴深色软呢帽、穿西装，以四分之三角度避开镜头；帽檐在双眼上压出厚重阴影，只留下浅色面部的一道窄平面与白色衬衫领口可见。稍靠后、偏右的一位女子正面看向镜头，神情镇定而有力量。光滑的侧分头发贴近头部，形成精致波浪；深色高领衣物几乎消失在背景里。光照在她的额头、面颊与嘴唇上，脸的另一侧则落入精确控制的阴影。两个人物在中心交叠却没有接触，藏于暗处的男子与女子直接的目光之间形成安静张力。构图亲近，裁至上半身，几乎没有环境细节。明暗设计准确：丝绒般的黑色占据画面大部分，皮肤成为发亮的银灰平面，领口和面部高光的细小白色点缀引导视线。受光处与黑暗相接的边缘清楚，摄影表面仍保留柔和的层次，而非数字剪贴般生硬。画面具有雕塑感和高级气息，仅用少量影棚光就让姿态、侧面轮廓和沉默比动作更有吸引力。",
+  "style_prompt_en": "Sculptural black-and-white studio photography dominated by velvety darkness and a few precisely lit silver-gray planes. Close overlapping forms are separated by slim highlights and controlled shadows. A narrow directional source leaves broad areas unlit, producing clean edges where illumination meets dark fabriclike masses, yet the tonal gradient across lit surfaces stays gentle. The frame is compact and formal, with tiny pale accents guiding attention through the center. Fine photographic texture tempers the high contrast. The atmosphere is poised, sophisticated, and theatrical through restraint rather than elaborate decoration.",
+  "style_prompt_zh": "雕塑感强的黑白影棚摄影，以丝绒般的暗色和少数精确照亮的银灰平面为主。近距离交叠的形态由细窄高光与受控阴影分开。狭窄的定向光源让大片区域不受光，在亮部与布料般深色体块交接处形成清楚边缘，而受光表面的明暗渐变仍然柔和。画框紧凑而正式，细小浅色点缀引导注意力穿过中心。细微摄影质地缓和高对比。气氛从容、精致，戏剧性来自克制而非繁复装饰。",
+  "theme_en": "Two elegant figures emerging from theatrical studio shadow",
+  "theme_zh": "两位优雅人物从戏剧性影棚暗影中浮现",
+  "wh_ratio": "1:1",
+  "id": "1173",
+  "name": "George Hoyningen-Huene",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/george-hoyningen-huene",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/george-hoyningen-huene.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "9f012c652a91f6bb827e6f78269c6592ec8f2e63a5294c362f0a49273a830bd0",
+    "gpt_submission_prompt": "A stark black-and-white studio photograph places two elegantly dressed figures against an almost solid black background. On the left, a man in a dark fedora and suit turns three-quarters away from the camera, the hat brim cutting a heavy shadow across his eyes while a narrow plane of pale face and white shirt collar remains visible. Slightly behind and to the right, a woman faces forward with composed intensity. Her sleek, side-parted hair lies close to her head in polished waves, and a dark high-neck garment nearly vanishes into the background. Light strikes her forehead, cheeks, and lips, but one side of her face falls into a sharply controlled shadow. The figures overlap in the center without touching, creating a quiet tension between the concealed man and the woman's direct gaze. The crop is close, ending at the upper torso and leaving little environmental detail. Tonal design is precise: velvety black occupies most of the frame, skin appears as luminous silver-gray planes, and tiny white accents in collar and facial highlights carry the eye. Edges are clean where light meets darkness, yet the photographic surface stays softly graded rather than digitally cut out. The composition feels sculptural and sophisticated, using a small amount of studio illumination to make posture, profile, and silence more compelling than any action.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "dcaf049bde222773de584d5a680acfa9b6743b9fa366a329050097022af0a721",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

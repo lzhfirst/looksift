@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square surrealist oil painting shows two still figures standing shoulder to shoulder in tall dry grass. The left figure wears a dark coat and a broad black hat; the right wears a long rust orange coat with a matching wide hat. Their faces are replaced by pale elongated beaklike masks that point toward each other and nearly touch at the center. Simple round dark eyes sit far back on the masks. The clothing falls in plain vertical folds, with the lower bodies disappearing into the grasses. Behind them, a bare field fades into a smoky brown sky without a definite horizon. The whole scene is quiet and stage-like, with no action beyond the close meeting of the two pale profiles. Soft warm light comes from the left and above, catching the masks and orange garment while the black coat remains submerged in shadow. The grasses are described by many thin upright strokes that echo the vertical coats and lead toward the broad horizontal brims. Edges of the figures are readable but softly absorbed by the brown atmosphere. The palette is narrow: soot black, rust orange, straw gold and muted cream. The painting feels old and slightly weathered, its matte surface and gentle tonal transitions making the strange masks feel calm rather than startling. Their paired symmetry provides the image's central tension.",
+  "full_prompt_zh": "这幅方形超现实油画呈现两个静止身影并肩站在高高的干草中。左侧穿深外套、戴宽黑帽；右侧穿长锈橙外套、戴同色宽帽。面孔被浅色细长鸟喙形面具替代，两只喙在中央相向，几乎触到一起。简单圆暗眼位于面具靠后处。衣服以朴素竖褶垂下，下半身消失在草丛里。身后的空旷土地渐入烟棕色天空，没有明确地平线。全景安静得像舞台，两张浅色侧面靠近之外没有动作。柔和暖光从左上照来，碰到面具和橙衣，黑外套仍沉在阴影中。草由许多细竖笔描写，与衣服的竖向走势呼应，并把视线带到宽阔的水平帽檐。身影边缘可读，但柔和地融入棕色空气。色盘很窄：烟黑、锈橙、草金和低饱和奶油白。绘画像旧物般略经风化，哑光表面与柔和调子过渡使奇异面具显得平静而非惊人。成双对称构成图像的中央张力。",
+  "style_prompt_en": "The surrealist oil painting uses a narrow, weathered palette of rust, straw, soot black and muted cream. Matte tonal transitions soften clear simplified silhouettes into a brown atmospheric field. Warm light gently selects pale central planes and one saturated mass; the rest recedes without hard contrast. Fine upright strokes gather around broad, stable shapes, giving the frame a quiet vertical rhythm. Near symmetry and deep empty background create an eerie but composed stillness.",
+  "style_prompt_zh": "这种超现实油画采用狭窄而磨旧的锈色、草金、烟黑和低饱和奶油色盘。哑光调子过渡让清楚简化的剪影柔和地融进棕色空气场。暖光轻轻挑亮中央浅色平面和一块饱和色形，其余部分以不生硬的对比退后。细竖笔聚在宽阔稳定的形体周围，赋予画面安静竖向节奏。近乎对称与深远空背景形成怪异却克制的静止感。",
+  "theme_en": "Two beaked masked figures standing in tall dry grass",
+  "theme_zh": "高高枯草中站着的两个鸟喙面具身影",
+  "wh_ratio": "1:1",
+  "id": "3157",
+  "name": "Bridget Bate Tichenor",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/bridget-bate-tichenor",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "4ae51f5f1c33a01026bc12da88cb2e25e0227d4e992a3785e8ce75b8a4c18234",
+    "gpt_submission_prompt": "A square surrealist oil painting shows two still figures standing shoulder to shoulder in tall dry grass. The left figure wears a dark coat and a broad black hat; the right wears a long rust orange coat with a matching wide hat. Their faces are replaced by pale elongated beaklike masks that point toward each other and nearly touch at the center. Simple round dark eyes sit far back on the masks. The clothing falls in plain vertical folds, with the lower bodies disappearing into the grasses. Behind them, a bare field fades into a smoky brown sky without a definite horizon. The whole scene is quiet and stage-like, with no action beyond the close meeting of the two pale profiles. Soft warm light comes from the left and above, catching the masks and orange garment while the black coat remains submerged in shadow. The grasses are described by many thin upright strokes that echo the vertical coats and lead toward the broad horizontal brims. Edges of the figures are readable but softly absorbed by the brown atmosphere. The palette is narrow: soot black, rust orange, straw gold and muted cream. The painting feels old and slightly weathered, its matte surface and gentle tonal transitions making the strange masks feel calm rather than startling. Their paired symmetry provides the image's central tension.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "6ae963f8076f2f5cde31db73f55f5df6f000d8470a5da98ab74bc557d4051e2a",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

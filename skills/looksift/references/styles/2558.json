@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square pointillist painting looks across a luminous river from a grassy bank occupied by three figures in the near foreground. They are shown mostly from behind at the lower right, their shoulders and dark hats forming a compact row of silhouettes. The closest figure on the right wears a deep plum jacket and black brimmed hat; beside him another figure in muted violet leans toward the water, while a brown-haired person in blue-green stands slightly to the left. Beyond them, pale blue and silver water fills the center and upper left, glittering with broken flecks of cream, ultramarine, green, and lavender. A small dark red boat sits near the upper middle, carrying two distant people; one appears to hold an oar that slants toward the left. Their reflection blurs into a short column below the hull. The right bank curves into the background with a narrow bright green strip and a cluster of tiny colored walkers under darker trees. At the upper edge, warm haze brightens the far reach of the river. Every surface is built from many separate short touches and dots, not smooth blended paint. Neighboring complementary pigments vibrate around the highlights, so solid figures soften when viewed closely and resolve at a distance. Diffuse sunny light spreads across the water and lifts the hats' edges, while the foreground backs remain deeper in shade. The composition places the viewer among quiet onlookers and draws the eye through their silhouettes into a shimmering open river.",
+  "full_prompt_zh": "一幅方形点彩画从长草河岸望向发亮的河面，近前景有三个人。人物大多背对观者，落在右下方，肩膀与深色帽子组成紧凑一排剪影。最右边近处的人穿深李紫外套和黑檐帽；旁边一个穿低饱和紫色的人朝水面倾身，稍左另有棕发、蓝绿色衣服的人。人群外，浅蓝和银色河水铺满中央与左上，由奶油白、群青、绿和淡紫的碎光闪点组成。一只小深红船在上部中央附近，载着两个远处人影；一人似乎握着向左斜出的船桨。倒影在船身下方模糊成短柱。右岸弯向远处，一道窄亮绿地带和暗树下细小彩色行人相接。上缘暖雾使远段河道更亮。每一处表面都由大量分离的短点短触构成，而非平滑融合的颜料。邻近的互补色围着亮处振动，使实体人物近看变松散、远看又聚合。漫射阳光铺过水面并挑亮帽缘，前景背部则留在较深阴影中。构图让观者置身安静的观看者中，视线越过他们的剪影进入闪烁的开阔河面。",
+  "style_prompt_en": "Pointillist painting constructs form and light from thousands of distinct short dots and dashes. Set neighboring blue, green, violet, ochre, and cream pigments side by side so color mixes optically and highlights shimmer. Keep near silhouettes darker and denser, allowing a broad pale field to open beyond them. Edges should vibrate and partly dissolve without losing the main spatial arrangement. Use a few small warm red accents to guide attention through the cool palette. Diffuse daylight spreads evenly, while clustered cream and silver marks concentrate reflected brightness. The result is airy and observational, with still figures set against active color texture.",
+  "style_prompt_zh": "点彩绘画用成千上万个分立的短点和短划构成形体与光。蓝、绿、紫、赭和奶油色颜料并列，使颜色在视觉中混合、亮部闪动。近处剪影更深更密，让宽阔浅色场在其后打开。边缘应振动并部分溶散，同时保留主要空间组织。少量暖红重点引导注意力穿过冷色配色。漫射日光均匀铺开，而密集奶油白及银色点触集中反射亮度。效果轻盈而观察性强，静止形体对着活跃色彩肌理。",
+  "theme_en": "People watching a small rowboat on a sunlit riverbank",
+  "theme_zh": "河岸上的人们望向阳光下的小划艇",
+  "wh_ratio": "1:1",
+  "id": "2558",
+  "name": "Georges Seurat",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/georges-seurat",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/georges-seurat.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "01f760242b63199123882f9cb5f1fe5e3b05d95a52bb3cdedb51fd1d5714ab82",
+    "gpt_submission_prompt": "A square pointillist painting looks across a luminous river from a grassy bank occupied by three figures in the near foreground. They are shown mostly from behind at the lower right, their shoulders and dark hats forming a compact row of silhouettes. The closest figure on the right wears a deep plum jacket and black brimmed hat; beside him another figure in muted violet leans toward the water, while a brown-haired person in blue-green stands slightly to the left. Beyond them, pale blue and silver water fills the center and upper left, glittering with broken flecks of cream, ultramarine, green, and lavender. A small dark red boat sits near the upper middle, carrying two distant people; one appears to hold an oar that slants toward the left. Their reflection blurs into a short column below the hull. The right bank curves into the background with a narrow bright green strip and a cluster of tiny colored walkers under darker trees. At the upper edge, warm haze brightens the far reach of the river. Every surface is built from many separate short touches and dots, not smooth blended paint. Neighboring complementary pigments vibrate around the highlights, so solid figures soften when viewed closely and resolve at a distance. Diffuse sunny light spreads across the water and lifts the hats' edges, while the foreground backs remain deeper in shade. The composition places the viewer among quiet onlookers and draws the eye through their silhouettes into a shimmering open river.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "4313afe8a617df71a90d9f54eaf9130f3a3d1a716847d9b934ad3620d64138ba",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

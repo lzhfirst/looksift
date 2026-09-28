@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A detailed hard surface science fiction illustration frames the head and upper chest of a giant humanoid robot from a low angle. Its white armored helmet fills most of the square image, built from overlapping plates with precise seams, vents, screws, and thin panel breaks. A red central crest rises above the brow and long white blade like antennae extend diagonally to either side, one cutting across the upper left corner. Beneath the projecting brow, a narrow amber yellow visor glows within a dark recess and a red band, giving the face a stern mechanical expression. A red chin block protrudes below a white segmented mouth plate. On the left side, a rectangular cheek assembly contains stacked horizontal vents; small stenciled marks and scuffs interrupt the pale surfaces. At the bottom, a broad blue chest panel slopes up toward the camera beside a yellow collar plate, both cropped by the frame to stress the enormous scale. Fine scratches, chipped paint, dust, and slight rust stains make the clean geometry feel used and material. Warm soft daylight from the upper left illuminates the shell while the deep gaps remain nearly black, and the simple dusty pink sky provides clear separation. The whole image is monumental yet exacting, with recognizable color blocks and industrial detail balanced inside a tight heroic closeup.",
+  "full_prompt_zh": "一幅细节丰富的硬表面科幻插画从低视点紧密截取巨型人形机器人的头部与上胸。白色装甲头盔几乎填满方形画面，由相互叠压的板件组成，带有精准的接缝、通风口、螺钉和细小分割线。红色中央冠饰从眉线上方升起，两侧长长的白色刀刃状天线斜向外伸，其中一根切过左上角。突出的眉檐下，一道狭窄的琥珀黄色目镜在深色凹处和红色边带之间发亮，赋予面部严峻的机械神情。红色下巴块从白色分段口罩下方突出。左侧的矩形脸颊组件中有层叠的水平散热槽；细小的模板字样与磨损痕迹打断浅色表面。底部，宽阔的蓝色胸甲板在黄色领板旁朝相机倾斜，两者都被画面裁切，以突出巨大尺度。细微划痕、掉漆、灰尘和轻微锈迹使整洁几何显得经过使用且具有真实材料感。来自左上方的柔和暖日光照亮外壳，深缝近乎黑色；简单的灰粉色天空提供清楚的轮廓区分。整幅画宏伟而严密，在紧凑的英雄式特写中平衡鲜明色块与工业细节。",
+  "style_prompt_en": "A close, low angle hard surface science fiction illustration with monumental scale and disciplined industrial detail. Build the focal structure from overlapping geometric plates, clean panel seams, exposed vents, small fasteners, and convincing layered depth. Use large blocks of off white, saturated red, navy blue, and warm yellow, then temper them with chipped paint, fine scratches, dust, and slight oxidation. Place a narrow luminous accent inside a dark recess so it anchors the image without overwhelming the material surfaces. Crop major forms at the frame edge and leave a simple pale background for clear silhouette separation. Soft directional daylight should reveal broad plane changes while the gaps stay deep and dark. The result feels heroic, functional, and visibly used.",
+  "style_prompt_zh": "采用紧密、低机位的硬表面科幻插画，以宏大尺度和严谨的工业细节为核心。由相互叠压的几何板件、干净的分割缝、外露通风口、小型紧固件和可信的分层深度构成焦点结构。使用灰白、饱和红、深海蓝和暖黄的大色块，再用掉漆、细小刮痕、灰尘与轻微氧化加以调节。把一道狭窄的发光强调色置于深凹处，使其固定视线而不淹没材料表面。让主要形体被画框裁切，并以简单的浅色背景清楚区分剪影。柔和的定向日光应揭示宽阔平面的转折，缝隙则保持浓暗。整体显得英雄化、功能明确且有使用痕迹。",
+  "theme_en": "Close view of a battle worn robot head",
+  "theme_zh": "饱经战斗的机甲头部特写",
+  "wh_ratio": "1:1",
+  "id": "3360",
+  "name": "Gundam",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/gundam",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "beb6ac9e3cbcdb1e6fd4704561e88db4082a85ef11d72dc8a11705b7fff1b46a",
+    "gpt_submission_prompt": "A detailed hard surface science fiction illustration frames the head and upper chest of a giant humanoid robot from a low angle. Its white armored helmet fills most of the square image, built from overlapping plates with precise seams, vents, screws, and thin panel breaks. A red central crest rises above the brow and long white blade like antennae extend diagonally to either side, one cutting across the upper left corner. Beneath the projecting brow, a narrow amber yellow visor glows within a dark recess and a red band, giving the face a stern mechanical expression. A red chin block protrudes below a white segmented mouth plate. On the left side, a rectangular cheek assembly contains stacked horizontal vents; small stenciled marks and scuffs interrupt the pale surfaces. At the bottom, a broad blue chest panel slopes up toward the camera beside a yellow collar plate, both cropped by the frame to stress the enormous scale. Fine scratches, chipped paint, dust, and slight rust stains make the clean geometry feel used and material. Warm soft daylight from the upper left illuminates the shell while the deep gaps remain nearly black, and the simple dusty pink sky provides clear separation. The whole image is monumental yet exacting, with recognizable color blocks and industrial detail balanced inside a tight heroic closeup.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "855a8bb8a43e8962caa6389cbdafd569da5dcdf0f3410b6894028a38f2eb6814",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

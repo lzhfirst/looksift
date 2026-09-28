@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square atmospheric landscape photograph shows a single orange-red tree standing on a flat, nearly empty field beneath a vast gray sky. The tree sits near the horizontal center, its rounded autumn canopy dense and vivid against the pale mist. A very small dark human figure stands immediately to the right of the narrow trunk, giving scale to the open land and broad weather. The ground is low and spare, a brown-gray strip of rough soil with little visible vegetation. Behind the tree, distant hill shapes appear as soft stacked gray silhouettes, gradually dissolving upward into cloud. A loose scatter of tiny dark birds or leaves rises above the crown toward the upper right. The sky takes most of the frame and grades from light gray near the horizon to a darker storm band at the top. Light is completely diffuse, with no defined cast shadow; the orange foliage seems to glow by color contrast rather than direct sun. The image is symmetrical enough to feel still, yet the scattered specks and uneven crown keep it organic. Fine grain and mist soften distant edges, while the tree and figure are relatively crisp. The whole composition feels solitary, contemplative, and expansive, using one warm focal mass to hold a cool restrained landscape.",
+  "full_prompt_zh": "一幅方形大气风景照片描绘一棵橙红树独立在几乎空无的平地上，头顶是辽阔灰天。树接近水平中央，圆润秋冠在淡雾前浓密而鲜明。一个极小深色人影紧贴细树干右侧站立，为开阔土地和宽大天气提供尺度。地面低且稀疏，是粗土形成的棕灰色窄带，几乎看不到植物。树后远山作为柔和层叠灰色剪影出现，向上逐渐融进云中。一群小小深色飞鸟或叶片从树冠上方向右上散起。天空占据大部分画幅，从地平附近浅灰渐变到顶部较深风暴带。光完全弥散，没有明确投影；橙叶仿佛因色彩对比而发亮，而非阳光直射。图像足够对称而静止，但飞散黑点和不规则树冠保留有机感。细颗粒和雾柔化远方边缘，树与人影则相对清楚。整幅孤独、沉思而辽阔，以一块暖色焦点稳住冷而克制的景观。",
+  "style_prompt_en": "Atmospheric landscape photography places one concentrated warm color mass in a vast cool gray field. Mist, fine grain, and diffuse overcast light soften distant layers; a near focal edge remains more defined. A low horizon and generous empty sky expand the scale. Small scattered dark marks interrupt the stillness without filling the space. The palette stays in brown-gray and slate with a single orange-red accent. There are no hard shadows; depth comes from faded overlapping silhouettes. The result is spare, contemplative, and quietly dramatic through isolation and color.",
+  "style_prompt_zh": "大气风景摄影把集中的暖色团块放在辽阔冷灰底域中。雾、细颗粒与弥散阴天光柔化远方层次，近焦点边缘较明确。低地平线和宽阔空天放大尺度。零散深色小点打断静止，却不填满空间。配色维持棕灰与石板色，只有一处橙红点。没有硬影；纵深来自褪色叠加剪影。结果简省、沉思，通过孤立与颜色产生安静戏剧性。",
+  "theme_en": "A lone orange tree and small figure beneath a gray sky",
+  "theme_zh": "灰天下一棵橙色孤树与小人影",
+  "wh_ratio": "1:1",
+  "id": "3874",
+  "name": "Nelleke Pieters",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/nelleke-pieters",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "4293e9280881c4d0203bdec2e5092d3cf7587a6c83f8a0e48d4fcf2032416c57",
+    "gpt_submission_prompt": "A square atmospheric landscape photograph shows a single orange-red tree standing on a flat, nearly empty field beneath a vast gray sky. The tree sits near the horizontal center, its rounded autumn canopy dense and vivid against the pale mist. A very small dark human figure stands immediately to the right of the narrow trunk, giving scale to the open land and broad weather. The ground is low and spare, a brown-gray strip of rough soil with little visible vegetation. Behind the tree, distant hill shapes appear as soft stacked gray silhouettes, gradually dissolving upward into cloud. A loose scatter of tiny dark birds or leaves rises above the crown toward the upper right. The sky takes most of the frame and grades from light gray near the horizon to a darker storm band at the top. Light is completely diffuse, with no defined cast shadow; the orange foliage seems to glow by color contrast rather than direct sun. The image is symmetrical enough to feel still, yet the scattered specks and uneven crown keep it organic. Fine grain and mist soften distant edges, while the tree and figure are relatively crisp. The whole composition feels solitary, contemplative, and expansive, using one warm focal mass to hold a cool restrained landscape.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "06580c1b8173fcf6240f0ecd0f17d0394a292615489550c57dd140edcbe69743",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

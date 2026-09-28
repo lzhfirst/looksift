@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A realistic painted portrait shows an older weathered man in left facing three quarter view against an uninterrupted red ground. His broad dark felt hat occupies the upper half of the image, casting a deep shadow across his eyes and forehead. Gray hair escapes from beneath the brim, and a rough beard and moustache frame a face modeled with warm orange brown highlights and cool dark recesses. He holds a thin smoking pipe to his mouth with one hand, the bent fingers placed close to the lower left of his face. A heavy red cloak or blanket wraps around his shoulders and fills the lower right of the composition, its folds nearly merging with the flat crimson background. The other sleeve falls into near black along the lower left edge. The framing is tight, with no environment or narrative props beyond the hat, pipe, and garment, so attention stays on his guarded expression and the worn surfaces of his face. Light arrives from the left front, touching his cheek, nose, hand, and the shoulder fabric while leaving the hat and inner folds dark. The paint has a fine grain and controlled tonal transitions, but retains subtle texture across the red field. The whole image feels stoic and intimate, a quiet figure held inside a bold near monochromatic color design.",
+  "full_prompt_zh": "一幅写实绘画肖像描绘一位饱经风霜的年长男子，以朝左的三分之四侧面置于毫无中断的红色背景前。宽大的深色毡帽占据画面上半部，在眼睛与额头上投下浓重阴影。灰发从帽檐下露出，粗粝的胡须围住一张以暖橙棕高光和冷暗凹处塑造的脸。他单手把一支细烟斗送到嘴边，弯曲的手指紧贴面部左下方。厚重的红色披风或毯子裹住肩膀，填满构图右下，其褶皱几乎与平涂的深红背景融为一体。另一侧袖子在左下边缘沉入近黑色。取景紧密，没有环境，也没有帽子、烟斗与衣物之外的叙事道具，因此注意力停留在他戒备的神情与面部磨损般的表面。光从左前方进入，触及脸颊、鼻梁、手和肩部织物，而帽子及内部褶皱保持黑暗。颜料有细微颗粒和受控的明暗过渡，红色区域仍保留隐约纹理。整幅画坚忍而亲近，在大胆的近单色设计中安置一位沉静的人物。",
+  "style_prompt_en": "A tightly framed realistic painting with bold near monochromatic color design and finely controlled tonal modeling. Let one saturated warm hue occupy both broad background and major foreground areas, then carve the focal form from it with deep charcoal shadows and selective orange brown highlights. Keep the surrounding field simple and uninterrupted so texture, gesture, and expression carry the image. Use a strong dark upper mass to shade the top of the focal area, and guide attention with a small lit hand or detail nearby. Preserve fine grain in paint and fabric, measured transitions across skinlike or weathered surfaces, and a quiet, stoic atmosphere. Light from one front side should illuminate only selected planes while large connected shadows give the composition weight.",
+  "style_prompt_zh": "采用紧密取景的写实绘画，以大胆的近单色设计和精确控制的明暗塑造。让一种饱和暖色同时占据宽阔背景和主要前景，再用深炭黑阴影与局部橙棕高光从中刻出焦点形态。周围色场保持简单而连续，使质感、姿态与神情承担画面。上方设置强烈的暗色块，遮住焦点区域的顶部；附近一处受光的小细节引导视线。保留颜料与织物的细微颗粒、风化表面上经过控制的过渡，以及安静坚忍的氛围。单侧前方来光只照亮选定平面，让大块相连的阴影赋予构图重量。",
+  "theme_en": "Weathered man against a red ground",
+  "theme_zh": "红色背景前的沧桑男子",
+  "wh_ratio": "1:1",
+  "id": "1622",
+  "name": "James Bama",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/james-bama",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/james-bama.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "dc9005d5e3ae21c58ab08c1147a5dab110864f3ee29179e73ac8f430eb79e3da",
+    "gpt_submission_prompt": "A realistic painted portrait shows an older weathered man in left facing three quarter view against an uninterrupted red ground. His broad dark felt hat occupies the upper half of the image, casting a deep shadow across his eyes and forehead. Gray hair escapes from beneath the brim, and a rough beard and moustache frame a face modeled with warm orange brown highlights and cool dark recesses. He holds a thin smoking pipe to his mouth with one hand, the bent fingers placed close to the lower left of his face. A heavy red cloak or blanket wraps around his shoulders and fills the lower right of the composition, its folds nearly merging with the flat crimson background. The other sleeve falls into near black along the lower left edge. The framing is tight, with no environment or narrative props beyond the hat, pipe, and garment, so attention stays on his guarded expression and the worn surfaces of his face. Light arrives from the left front, touching his cheek, nose, hand, and the shoulder fabric while leaving the hat and inner folds dark. The paint has a fine grain and controlled tonal transitions, but retains subtle texture across the red field. The whole image feels stoic and intimate, a quiet figure held inside a bold near monochromatic color design.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "69d81a46b6343842509881776bfcf9fd85f3c1a69f6c629157c65e8e4cde58be",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

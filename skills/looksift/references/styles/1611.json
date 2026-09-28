@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "The image is a high-angle black and white street photograph of a solitary person crossing an enormous patterned plaza. The paving consists of alternating pale and dark square stones arranged in broad concentric curves. Those curves swell across almost the whole square frame, giving the ground a graphic rhythm that seems to bend around the walker. A hard wedge of sunlight enters from the upper left, cutting diagonally across the paving; most of the upper right and lower left remain in deep shadow. Near the center-left, a small figure in a dark coat walks through the bright region with one leg extended mid-step. Their long, sharply defined shadow stretches toward the lower edge and becomes a second vertical presence among the checks. The top-left corner contains a sliver of monumental masonry and a bright opening, while a narrow curb appears at the far right. Human scale is deliberately modest against the sweeping geometry. The photograph relies on the real light and stone texture, not on decorative effects: crisp contrast, subtle grain, weathered paving joints, and small variations in the printed gray tones. The camera's distant viewpoint turns an ordinary crossing into an exact composition of pattern, light, movement, and absence. The frame feels candid, quiet, and faintly uncanny.",
+  "full_prompt_zh": "画面是一张高视角黑白街头照片，一位独行者正在穿越巨大的花纹广场。地面由深浅交替的方形石块铺成宽阔的同心弧线。这些弧线几乎在整个正方形画面中膨胀延展，赋予地面仿佛绕着行人弯曲的图形节奏。一道锐利的日光从左上方进入，斜切过石铺地面；右上和左下的大部分区域留在浓重阴影中。靠近中央偏左，一位穿深色外套的小人物走在亮区，一条腿正迈步向前。其长而清晰的影子延伸至下边缘，成为方格之间第二道竖向存在。左上角露出一小段宏伟石墙和明亮开口，最右缘则有狭窄路沿。人物尺度刻意保持很小，以衬托席卷画面的几何结构。照片依靠真实光线与石材纹理，而非装饰特效：清晰对比、细微颗粒、风化的铺石接缝，以及灰调中小幅变化。远距离的相机视点把一次普通的穿行变成图案、光、动作与留白的精确构图。画面随性、安静，又隐约带一点奇异。",
+  "style_prompt_en": "A high-angle monochrome photographic treatment organizes everyday forms into bold geometry. Repeating patterns sweep across the frame while a small contrasting form establishes proportion. Direct sunlight creates a sharply bounded bright region and elongated shadows against deep surrounding darks. Stone, fabric, or other real surfaces retain fine grain and slight wear. The tonal range moves from luminous white through silvery midtones to dense black, with no color distraction. The composition feels candid yet exceptionally precise, finding quiet tension in pattern, negative space, and one fleeting moment.",
+  "style_prompt_zh": "高视角的黑白摄影处理把日常形体组织成大胆的几何结构。重复图案掠过整个画面，一个较小的对比形体确立尺度。直射日光在周围深暗区域中划出边缘锐利的亮区与拉长的影子。石材、织物或其他真实表面保留细微颗粒与轻微磨损。影调从发亮的白色经过银灰中间调到浓黑，不受色彩干扰。构图看似随性却异常精确，从图案、负空间与转瞬一刻中找到安静的张力。",
+  "theme_en": "A solitary walker crossing a checkerboard plaza under sharp sunlight",
+  "theme_zh": "独行者在强烈日光下穿过棋盘格广场",
+  "wh_ratio": "1:1",
+  "id": "1611",
+  "name": "Stanko Abadzic",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/stanko-abadzic",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/stanko-abadzic.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "a4a17e71a324d078b3e8d71e244344be3d99713668653fa907de838871827b3c",
+    "gpt_submission_prompt": "The image is a high-angle black and white street photograph of a solitary person crossing an enormous patterned plaza. The paving consists of alternating pale and dark square stones arranged in broad concentric curves. Those curves swell across almost the whole square frame, giving the ground a graphic rhythm that seems to bend around the walker. A hard wedge of sunlight enters from the upper left, cutting diagonally across the paving; most of the upper right and lower left remain in deep shadow. Near the center-left, a small figure in a dark coat walks through the bright region with one leg extended mid-step. Their long, sharply defined shadow stretches toward the lower edge and becomes a second vertical presence among the checks. The top-left corner contains a sliver of monumental masonry and a bright opening, while a narrow curb appears at the far right. Human scale is deliberately modest against the sweeping geometry. The photograph relies on the real light and stone texture, not on decorative effects: crisp contrast, subtle grain, weathered paving joints, and small variations in the printed gray tones. The camera's distant viewpoint turns an ordinary crossing into an exact composition of pattern, light, movement, and absence. The frame feels candid, quiet, and faintly uncanny.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "05053127abc133f67cbd7f8c2334187017a87924fceb01f5fb6df59980059bf0",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

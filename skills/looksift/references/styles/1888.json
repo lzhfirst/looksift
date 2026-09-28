@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square monochrome fine-art photograph places a lone spreading tree just right of center on a glassy expanse of water. Its dark trunk rises from a small low island or submerged bank, then branches outward into a wide irregular crown of fine leaves. The tree's full silhouette appears again below, softened and slightly broken by the reflective surface. To the left, a slim canoe holds a single standing or upright figure in silhouette. The craft sits close to the horizon, its own thin reflection touching the water beneath. The far shore is almost erased by haze; a narrow horizontal line separates the smooth water from a luminous pale band near the horizon. Above, the sky darkens into heavy charcoal cloud, with a bright opening behind the tree and rays or gradations pushing outward across the clouds. The lower corners are deep and nearly black, creating a natural vignette around the glowing central distance. Water texture is exceptionally calm, with only faint tonal ripples near the boat and tree. There are no colorful accents and no busy foreground objects. Silver-gray light outlines the small leaves and branches, but the strongest shapes remain near-black silhouettes. The camera viewpoint is low and level with the broad water, giving the empty left and right spaces equal importance to the subjects. The photograph depends on patient spacing, mirrored forms, and a dramatic yet soft transition from dark sky to radiant horizon. Its quiet human scale makes the broad landscape feel still and contemplative.",
+  "full_prompt_zh": "一幅方形黑白艺术摄影把一棵枝冠伸展的孤树置于镜面般的水域中央偏右。深色树干从低矮小岛或浸水岸土中升起，随后向外分枝，展开由细小叶片组成的不规则宽阔树冠。树的完整剪影在下方再次出现，被水面轻柔地模糊并略微打散。左侧一叶细长独木舟上有一位站立或挺直身子的剪影人物。小舟靠近地平线，纤细倒影触及其下方的水。远岸几乎被雾气抹去；一道窄水平线把光滑水面与地平线附近明亮的浅色光带分开。上方天空转为厚重炭灰云层，树后有亮口，光线或灰度层次向外穿过云。下方两角深得接近黑色，在发光的中央远处周围形成自然暗角。水面异常平静，仅在船和树附近有轻微色调涟漪。没有彩色点缀，也没有繁杂前景物。银灰色光勾出小叶和枝条，但最有力的形状仍是近黑剪影。相机视角低而与广阔水面持平，使左右空域与主体同样重要。照片依赖耐心安排的间距、镜像形态，以及深色天空到发亮地平线之间戏剧性却柔和的过渡。细小的人物尺度使辽阔景色显得静止而沉思。",
+  "style_prompt_en": "Use fine-art black-and-white photography with deep charcoal silhouettes, silver-gray haze, and a luminous distant opening. Build the frame from spare isolated shapes, broad quiet negative space, a level horizon, and calm mirror reflections. Preserve fine edge detail in branches or similarly intricate contours while allowing distant forms to dissolve into mist. A low viewpoint, soft atmospheric gradients, controlled vignetting, and a near-still surface create contemplative scale. Avoid color and busy surface texture; let tonal spacing and repeated shapes carry the image.",
+  "style_prompt_zh": "采用黑白艺术摄影，以深炭色剪影、银灰薄雾和远处发亮开口构成画面。用少量孤立形状、广阔安静留白、水平地平线和平静镜像倒影组织结构。细枝或类似复杂轮廓保留精细边缘，远处形体则融入雾中。低视点、柔和大气灰阶、克制暗角和近乎不动的反射表面带出沉思般尺度。避开彩色与繁忙表面肌理，让灰阶间距和重复形态承担表现力。",
+  "theme_en": "A lone tree and small canoe reflected in still water at dawn",
+  "theme_zh": "黎明静水中孤树与小舟的倒影",
+  "wh_ratio": "1:1",
+  "id": "1888",
+  "name": "Hengki Koentjoro",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/hengki-koentjoro",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/hengki-koentjoro.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "4a4492bdfb332e6e178d9f6c4a53713c8813063e920a4be5e9935a5cec38a716",
+    "gpt_submission_prompt": "A square monochrome fine-art photograph places a lone spreading tree just right of center on a glassy expanse of water. Its dark trunk rises from a small low island or submerged bank, then branches outward into a wide irregular crown of fine leaves. The tree's full silhouette appears again below, softened and slightly broken by the reflective surface. To the left, a slim canoe holds a single standing or upright figure in silhouette. The craft sits close to the horizon, its own thin reflection touching the water beneath. The far shore is almost erased by haze; a narrow horizontal line separates the smooth water from a luminous pale band near the horizon. Above, the sky darkens into heavy charcoal cloud, with a bright opening behind the tree and rays or gradations pushing outward across the clouds. The lower corners are deep and nearly black, creating a natural vignette around the glowing central distance. Water texture is exceptionally calm, with only faint tonal ripples near the boat and tree. There are no colorful accents and no busy foreground objects. Silver-gray light outlines the small leaves and branches, but the strongest shapes remain near-black silhouettes. The camera viewpoint is low and level with the broad water, giving the empty left and right spaces equal importance to the subjects. The photograph depends on patient spacing, mirrored forms, and a dramatic yet soft transition from dark sky to radiant horizon. Its quiet human scale makes the broad landscape feel still and contemplative.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "2f512ff332b4aed26437551f76ecd88f64b3599f7556e1bf97247b26fbc627b6",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

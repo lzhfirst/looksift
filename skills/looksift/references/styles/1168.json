@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square view of a weathered wall reveals a large painted profile of a contemplative young woman. Her pale hair is swept back, her eyes lower toward clasped hands, and a tightly curled ram-like horn grows from the side of her head as an invented symbolic feature. The face and hands are modeled in soft gray and warm beige, with fine lines that follow bone and knuckle rather than glossy photographic smoothness. A faded gold ornamental field sits behind the head, framed by darker vertical masonry edges. Cracks, scuffs and old paint layers pass through the figure, so the wall's physical age remains visible within the image. The horn has a ribbed spiral texture; its rounded curve balances the angled profile and the narrow vertical form of the folded hands. The composition is close and devotional in mood, yet the expression is reflective rather than overtly religious. Muted grays, bone white and tarnished ochre dominate, with almost no saturated color. Diffuse outdoor light falls across the surface without a theatrical spotlight. Fine drawn details and broad translucent washes alternate across the plaster, giving the mural both craft and fragility. The finished scene feels inseparable from its worn setting, as though the painted presence has slowly absorbed the wall around it.",
+  "full_prompt_zh": "一幅正方形旧墙画面显出一张沉思中的年轻女性侧面肖像。她的浅色头发向后梳，眼睛低垂至相合的双手，头侧长出一只紧密卷曲的羊角，成为想象性的象征特征。面孔与双手由柔和灰色和暖米色塑造，细线顺着骨骼与指节起伏，不呈光亮的摄影平滑感。头后是褪色金色装饰区域，两侧由较暗的竖向砌墙边界围住。裂纹、擦痕和旧颜料层穿过人物，使墙体的实际年岁在图像里仍可见。角的表面有肋纹螺旋，圆曲线平衡倾斜侧脸与相合双手的狭窄竖形。构图亲近而有虔静感，但神情偏向自省，并非直白宗教宣示。低饱和灰、骨白与失光赭金为主，几乎没有高饱和色。漫射的户外光掠过墙面，没有舞台式聚光。细密绘线与宽阔半透明涂层在灰泥上交替，使壁画兼具手工性与脆弱感。最终画面与磨损现场难以分开，仿佛绘出的人物慢慢吸收了周围的墙。",
+  "style_prompt_en": "The style is a site-worn figurative mural with softly modeled grayscale forms, muted ochre ornament, fine hand-drawn contour work and translucent plaster washes. Physical cracks, scuffs and exposed layers remain visible through the painted field. A tight close crop pairs one flowing spiral rhythm with vertical accents and a quiet background pattern. Diffuse natural light and a chalky matte surface replace glossy depth. The overall effect is intimate, timeworn and contemplative, with image and support sharing the same texture.",
+  "style_prompt_zh": "这种风格是经现场风化的具象壁画，包含柔和塑形的灰阶、低饱和赭金纹样、细致手绘轮廓与半透明灰泥涂层。物理裂痕、擦痕和裸露层次透过绘画区域仍然可见。紧凑近景把一条流动螺旋节奏与竖向重音、安静底纹相配。漫射自然光和粉质哑光表面取代光泽景深。整体亲密、陈旧而沉思，图像与承载表面共享同一种肌理。",
+  "theme_en": "A contemplative mural portrait with curled horns",
+  "theme_zh": "带卷曲角的沉思壁画肖像",
+  "wh_ratio": "1:1",
+  "id": "1168",
+  "name": "Faith47",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/faith47",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/faith47.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "26188d52acb7c90f21b79d2391f501a920870fdec99d011f5bb1711d49f079b1",
+    "gpt_submission_prompt": "A square view of a weathered wall reveals a large painted profile of a contemplative young woman. Her pale hair is swept back, her eyes lower toward clasped hands, and a tightly curled ram-like horn grows from the side of her head as an invented symbolic feature. The face and hands are modeled in soft gray and warm beige, with fine lines that follow bone and knuckle rather than glossy photographic smoothness. A faded gold ornamental field sits behind the head, framed by darker vertical masonry edges. Cracks, scuffs and old paint layers pass through the figure, so the wall's physical age remains visible within the image. The horn has a ribbed spiral texture; its rounded curve balances the angled profile and the narrow vertical form of the folded hands. The composition is close and devotional in mood, yet the expression is reflective rather than overtly religious. Muted grays, bone white and tarnished ochre dominate, with almost no saturated color. Diffuse outdoor light falls across the surface without a theatrical spotlight. Fine drawn details and broad translucent washes alternate across the plaster, giving the mural both craft and fragility. The finished scene feels inseparable from its worn setting, as though the painted presence has slowly absorbed the wall around it.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "ce1bc688b6f798ec883e6bac0cc464573edf4a52fd841036658f9325a400459d",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

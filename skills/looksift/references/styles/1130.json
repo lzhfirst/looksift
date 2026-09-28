@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A black-and-white close-up photograph isolates a woman's left-facing profile against deep shadow. Her forehead, nose, lips, and chin form a clean pale contour near the center, while curly dark hair fills the right side and disappears into the black ground. Her eyes are closed or nearly closed, and the head tilts slightly upward, giving the still pose a thoughtful, inward quality. Light from the left grazes the front of her face, creating luminous skin and a delicate gradient toward the cheek and ear. A few loose curls catch faint gray highlights, but the dark clothing and background merge so that almost nothing competes with the profile. The crop is intimate, extending from the top of the hair to the upper neck, with the nose directed into a wide expanse of nearly empty darkness on the left. This negative space makes the contour feel suspended and gives the photograph an unusually quiet rhythm. The contrast is strong yet soft: blacks are velvety, bright skin retains smooth middle tones, and no edge appears harshly cut out. Fine film grain adds a physical print texture. The image depends on a small number of visual decisions—the side-lit face, the curling hair, the open dark field, and a slight upward gesture—to create a poised, dreamlike sense of interior attention.",
+  "full_prompt_zh": "一张黑白近景照片，将一位女子向左的侧面轮廓从深影中分离出来。额头、鼻梁、嘴唇和下巴在中心附近形成清楚浅色边线，深色卷发填满右侧并消失在黑色背景里。眼睛闭着或几乎闭着，头微微上扬，使静止姿态带有思索而向内的质地。左边的光擦过面孔前侧，令皮肤发亮，并向面颊和耳部形成细腻渐层。几缕松散卷发接住微弱灰光，但深色衣物与背景相融，几乎没有任何元素与轮廓竞争。裁切亲近，从发顶到颈部上方，鼻尖指向左侧一大片近乎空白的黑暗。留白让轮廓像悬在空中，也给照片带来异常安静的节奏。对比强烈却柔软：黑色如丝绒，明亮皮肤仍保留平滑中间调，没有边缘被生硬剪出。细密胶片颗粒添上实体相纸的触感。图像依靠少数视觉决定——侧面受光、卷发、开阔暗场与略微抬头的姿态——创造从容、梦境般的内心专注感。",
+  "style_prompt_en": "Minimal black-and-white photographic study with a luminous curved contour set against broad velvety darkness. Side light skims a few smooth planes, graduating gently into gray and then near-black. Fine curled lines catch sparse highlights while most surrounding material merges with the background. The close crop leaves generous empty space in front of the central form, giving the image a suspended, inward rhythm. Strong contrast remains soft at the transitions rather than becoming a hard cutout. Subtle film grain and rich midtones preserve the feel of a physical print.",
+  "style_prompt_zh": "极简黑白摄影风格，发亮的弯曲轮廓置于大片丝绒般暗色前。侧光掠过少数平滑平面，温和地渐入灰色，再落向近黑。细卷线条接住稀少高光，周围大部分材质则与背景相融。亲近的裁切在中心形态前留下充裕空白，形成悬浮、向内的节奏。强对比在转折处仍保持柔软，而非生硬剪纸。微妙胶片颗粒和丰厚中间调保留实体相纸的感觉。",
+  "theme_en": "A woman's luminous profile emerging from deep shadow",
+  "theme_zh": "女子发亮的侧影从深暗处浮现",
+  "wh_ratio": "1:1",
+  "id": "1130",
+  "name": "Maya Deren",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/maya-deren",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/maya-deren.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "d033a04d982d8492893a7e584d16fcb06ae077b771641b92dc5b5858af93fd93",
+    "gpt_submission_prompt": "A black-and-white close-up photograph isolates a woman's left-facing profile against deep shadow. Her forehead, nose, lips, and chin form a clean pale contour near the center, while curly dark hair fills the right side and disappears into the black ground. Her eyes are closed or nearly closed, and the head tilts slightly upward, giving the still pose a thoughtful, inward quality. Light from the left grazes the front of her face, creating luminous skin and a delicate gradient toward the cheek and ear. A few loose curls catch faint gray highlights, but the dark clothing and background merge so that almost nothing competes with the profile. The crop is intimate, extending from the top of the hair to the upper neck, with the nose directed into a wide expanse of nearly empty darkness on the left. This negative space makes the contour feel suspended and gives the photograph an unusually quiet rhythm. The contrast is strong yet soft: blacks are velvety, bright skin retains smooth middle tones, and no edge appears harshly cut out. Fine film grain adds a physical print texture. The image depends on a small number of visual decisions—the side-lit face, the curling hair, the open dark field, and a slight upward gesture—to create a poised, dreamlike sense of interior attention.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "6f69ad4a2e3fda31b535207f5b54ffe39f6cf80d1c8f88b7ee110fa4b18e5260",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

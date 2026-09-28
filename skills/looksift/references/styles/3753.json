@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square realist oil painting shows a young woman in a pale blue dress seated beside a low dark table against a warm ochre wall. She occupies the left and lower center of the frame, with the long skirt spreading widely across the foreground. Her dark hair is gathered up, with a loose fringe at the forehead. She leans her left cheek into one hand and looks down toward the tabletop, the posture quiet and pensive. The fitted bodice has a high neckline and long sleeves, and the pale blue fabric is patterned with small cream and gold details. Fine lace-like trims run at the neckline and cuffs. At the right, the table holds a small white flower and a single yellow piece of fruit, both isolated against its dark surface. The ochre plaster wall behind her is mottled and aged, with soft gray-brown marks and little defined architecture. The lower edge is almost entirely filled by layered blue cloth, its folds turning from cool light blue to teal and muted gray. The face and exposed hands are smoothly modeled in warm ivory and rose, while the dress and wall show looser broken strokes. Light comes softly from the upper left, illuminating her face, shoulder, and upper skirt and casting gentle shadow beneath the resting arm. The dark tabletop and her hair create a diagonal counterweight to the broad pale fabric. No readable text or additional figures appear. The overall composition is intimate and restrained, using a wide quiet skirt and sparse tabletop objects to emphasize the downward thoughtful gesture.",
+  "full_prompt_zh": "一幅方形写实油画描绘一名年轻女子穿浅蓝衣裙，坐在低矮深色桌旁，背后是暖赭色墙面。她占据左侧与下方中央，长裙大面积铺展过前景。深发挽起，额前有松散刘海。她用一只手托住左脸，垂眼望向桌面，姿态安静沉思。贴身上衣有高领和长袖，浅蓝布料带奶油与金色小纹样。领口和袖口有细蕾丝般饰边。右侧桌上放着一朵小白花和一枚黄色水果，都被深桌面衬得独立。身后的赭色灰泥墙斑驳陈旧，带柔和灰棕痕迹，没有清楚建筑细节。下缘几乎全被层层蓝布填满，褶皱从冷浅蓝转向青绿和低饱和灰。面部与露出的手以暖象牙白和玫瑰色平滑塑形，衣裙与墙壁则有更松散破碎笔触。左上方柔光照亮脸、肩和上层裙摆，在支撑手臂下方投出轻柔阴影。深色桌面和头发成为宽阔浅色布料的斜向平衡。没有可读文字或其他人物。整体构图亲密克制，以宽阔安静的裙摆和稀疏桌面物件强调低头思考的姿态。",
+  "style_prompt_en": "A realist oil-painted surface balances smoothly modeled focal passages with looser broken strokes in broad surrounding areas. Warm ochre and weathered brown meet powder blue, muted teal, cream, and a few small yellow accents. Fine patterned marks and delicate trim-like edges interrupt large soft folds and matte planes. Gentle upper-side light creates gradual highlights and modest shadow, preserving a quiet low-contrast mood. A broad pale lower mass stabilizes the composition, while a narrow dark horizontal area and deeper upper accents provide structure. Background texture remains mottled and shallow, with no strong perspective. The finish is intimate, tactile, and contemplative.",
+  "style_prompt_zh": "写实油画表面以平滑塑形的焦点色段平衡周围宽阔区域里较松散的破碎笔触。暖赭与陈旧棕色遇上粉浅蓝、低饱和青绿、奶油色和少量黄色重点。细花纹笔痕与精巧饰边般边缘打断大片柔软褶状形体和哑光平面。上方柔和侧光形成渐进亮部与适度阴影，保持安静低对比气氛。宽阔浅色下方体量稳住构图，窄而暗的水平区域与较深上方重点提供结构。背景肌理斑驳而浅，没有强透视。成品亲密、有触感且富于沉思。",
+  "theme_en": "A pensive woman in a pale blue dress seated beside a small table",
+  "theme_zh": "穿浅蓝裙坐在小桌旁沉思的女子",
+  "wh_ratio": "1:1",
+  "id": "3753",
+  "name": "Alfred Stevens",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/alfred-stevens",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "78e60f28212b33a899b05272069a790a592a48c518905e388e578f548d7b34e3",
+    "gpt_submission_prompt": "A square realist oil painting shows a young woman in a pale blue dress seated beside a low dark table against a warm ochre wall. She occupies the left and lower center of the frame, with the long skirt spreading widely across the foreground. Her dark hair is gathered up, with a loose fringe at the forehead. She leans her left cheek into one hand and looks down toward the tabletop, the posture quiet and pensive. The fitted bodice has a high neckline and long sleeves, and the pale blue fabric is patterned with small cream and gold details. Fine lace-like trims run at the neckline and cuffs. At the right, the table holds a small white flower and a single yellow piece of fruit, both isolated against its dark surface. The ochre plaster wall behind her is mottled and aged, with soft gray-brown marks and little defined architecture. The lower edge is almost entirely filled by layered blue cloth, its folds turning from cool light blue to teal and muted gray. The face and exposed hands are smoothly modeled in warm ivory and rose, while the dress and wall show looser broken strokes. Light comes softly from the upper left, illuminating her face, shoulder, and upper skirt and casting gentle shadow beneath the resting arm. The dark tabletop and her hair create a diagonal counterweight to the broad pale fabric. No readable text or additional figures appear. The overall composition is intimate and restrained, using a wide quiet skirt and sparse tabletop objects to emphasize the downward thoughtful gesture.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "0e6d0b56e21046d462a495fecd670c0f95fa88da2e3f292f5a68aee7e04ab65e",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

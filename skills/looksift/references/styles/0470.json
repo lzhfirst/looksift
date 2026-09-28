@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square historic photographic print shows a young woman in profile, seated or standing among softly blurred vegetation. Her head turns to the right and tips slightly downward, making the line of her forehead, nose, lips, and chin the clearest edge in the picture. Dark hair is drawn back into a low loose knot, with a few soft strands around the ear. She wears a pale blouse with a gathered collar and full sleeves; the fabric catches creamy light across her shoulder and upper arm before fading into the darker lower left. The background is an indistinct field of stems, leaves, and warm haze, with no sharply described room or horizon. The figure occupies the left two-thirds of the frame, leaving open mottled space in front of her gaze on the right. The entire image is built from sepia, umber, smoke gray, and faded cream. There are no hard black lines or pure white highlights. Instead, the face and blouse are modeled by soft tonal washes, pigment density, and gently broken contours. Visible paper grain, staining, worn edges, and irregular darker marks give the print a handmade gum-bichromate quality. A diffused light source from the right-front brushes her face and sleeves, while her back and hair settle into deeper brown. The edges of the print feel imperfect, with slight scratches and blotches near the upper and lower borders. The overall composition is intimate and contemplative, allowing material texture and softened tonal transition to carry as much feeling as the quiet profile.",
+  "full_prompt_zh": "一幅方形历史摄影印相呈现一位年轻女子的侧脸，她坐或站在柔化的植物之间。头转向右并略微低垂，使额、鼻、唇、下颌的线成为图中最清楚的边缘。深发在脑后松松挽成低髻，耳旁有几缕柔发。她穿浅色上衣，有收拢领口和丰满衣袖；奶油色光落在肩和上臂的布料上，随后向左下深处淡去。背景是难以辨认的枝茎、叶片和暖雾，没有清楚房间或地平线。人物占据画面左侧三分之二，在她视线前方的右侧留下斑驳空域。整幅由棕褐、赭褐、烟灰与褪色奶油构成，没有硬黑线或纯白高光。脸与衣服由柔和灰调水洗、颜料浓淡和轻微破碎轮廓塑造。可见纸纹、染斑、磨损边缘和不规则暗痕，使印相带手工重铬酸胶印质感。右前方漫射光轻扫面孔与衣袖，后背和头发沉入较深棕色。印相边缘不完美，上下边界附近有轻划痕与污斑。整体构图亲密、沉思，让材料肌理和软化色调过渡与安静侧影共同承载情绪。",
+  "style_prompt_en": "Use a handmade historical photographic-print look with layered pigment washes, soft edges, uneven density, and visible absorbent paper. Favor sepia, umber, smoke gray, faded cream, or similarly restrained tinted monochrome. Let contours emerge from tonal transitions rather than hard outlines, preserving selective clarity at a focal profile or edge. Add subtle stains, scratches, grain, and worn borders as part of the print surface. Diffuse side light should dissolve surroundings into hazy, contemplative space.",
+  "style_prompt_zh": "采用手工历史摄影印相质感，保留层叠颜料水洗、柔边、不均匀浓度与吸墨纸面。偏重棕褐、赭褐、烟灰、褪色奶油或同样克制的单色染调。轮廓从色调过渡中显出，而非靠硬线，焦点侧缘或边线有选择地清晰。轻染斑、划痕、颗粒和磨损边框都是印面的一部分。漫射侧光让周围溶入朦胧沉思的空间。",
+  "theme_en": "A soft sepia profile of a woman in a pale blouse",
+  "theme_zh": "身穿浅色上衣的女子柔和棕褐色侧影",
+  "wh_ratio": "1:1",
+  "id": "0470",
+  "name": "Gum Bichromate",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/gum-bichromate",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/gum-bichromate.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "7c86805b545d2bf8b7befdde91b3f19e5112fa5ca67955b9a2a9e586c2e28d3e",
+    "gpt_submission_prompt": "A square historic photographic print shows a young woman in profile, seated or standing among softly blurred vegetation. Her head turns to the right and tips slightly downward, making the line of her forehead, nose, lips, and chin the clearest edge in the picture. Dark hair is drawn back into a low loose knot, with a few soft strands around the ear. She wears a pale blouse with a gathered collar and full sleeves; the fabric catches creamy light across her shoulder and upper arm before fading into the darker lower left. The background is an indistinct field of stems, leaves, and warm haze, with no sharply described room or horizon. The figure occupies the left two-thirds of the frame, leaving open mottled space in front of her gaze on the right. The entire image is built from sepia, umber, smoke gray, and faded cream. There are no hard black lines or pure white highlights. Instead, the face and blouse are modeled by soft tonal washes, pigment density, and gently broken contours. Visible paper grain, staining, worn edges, and irregular darker marks give the print a handmade gum-bichromate quality. A diffused light source from the right-front brushes her face and sleeves, while her back and hair settle into deeper brown. The edges of the print feel imperfect, with slight scratches and blotches near the upper and lower borders. The overall composition is intimate and contemplative, allowing material texture and softened tonal transition to carry as much feeling as the quiet profile.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "2b4a37f6a0315d2e9f384156bd5cc47610de65a265f44c42416ec1910c537d58",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

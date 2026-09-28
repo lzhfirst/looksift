@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white photographic portrait is framed so closely that a young woman's face fills nearly the entire field. She looks directly toward the camera with a steady, unsmiling expression; her lips are gently closed, her eyes remain sharp, and a few loose dark strands cross one cheek. A patterned scarf is gathered at the base of the neck, visible only along the lower edge, while the background falls into a dense nearly black tone. A single broad, soft light from the upper left reveals freckles, pores and subtle planes of the face; the opposite side recedes gradually with detail still visible. The image feels like a carefully printed analog photograph: fine silver-grain texture, rich matte blacks, luminous skin values and natural optical softness around the outer contours. The viewpoint is at eye level, with both eyes in focus, natural skin texture, matte tones and restrained contrast. Slight asymmetry, small imperfections and quiet concentration give the face a natural, individual presence. The visible scarf provides a textured counterpoint to smooth skin. The final atmosphere is private and direct, as though the viewer has met the subject's gaze during a calm pause rather than during a posed performance.",
+  "full_prompt_zh": "正方形黑白摄影肖像采用近距离取景，一位年轻女性的脸几乎填满整个画面。她直视镜头，神情平稳而不露笑意；嘴唇轻合，双眼清晰，几缕松散的深色发丝掠过脸颊。带图案的围巾在颈根束起，只沿画面下缘露出，背景则沉入近乎纯黑的深调。来自左上方的一片宽柔光照出雀斑、毛孔和脸部细微起伏，另一侧逐步隐入阴影，仍保有层次。画面如同精心放大的胶片照片：细密银盐颗粒、丰厚的哑光黑色、发亮却自然的肤色灰阶，以及外轮廓轻微的光学柔化。视点与眼睛齐平，双眼清晰对焦，肤质自然，明暗哑光，反差克制。轻微不对称、小瑕疵与安静的专注使面孔保有自然且鲜明的个体特征。可见的围巾为光滑皮肤提供纹理对照。最终氛围亲密而直接，像观者在一段平静停顿中与她对视，而不是观看刻意表演。",
+  "style_prompt_en": "Intimate analog black-and-white photography combines a very close crop, level perspective, optical softness toward the margins and a sharply held central focal plane. One broad soft source shapes volume through luminous middle grays, gradual shadow falloff and deep matte blacks. Fine silver-grain texture, subtle surface imperfections, natural asymmetry and tactile tonal detail remain visible. The square frame concentrates attention on tonal transitions and quiet presence, creating direct, still and emotionally restrained observation.",
+  "style_prompt_zh": "亲密的胶片黑白摄影结合极近裁切、平视角度、画面边缘光学柔化和清晰稳定的中央焦平面。一处宽柔光源通过明亮中间灰、渐进阴影与深沉哑光黑色塑造体积。细银盐颗粒、细微表面瑕疵、自然不对称和可触摸的灰阶细节清晰可见。正方形画幅集中呈现明暗过渡与安静的存在感，形成直接、静止、情绪克制的观察气息。",
+  "theme_en": "An intimate black-and-white close portrait",
+  "theme_zh": "亲密而克制的黑白近景肖像",
+  "wh_ratio": "1:1",
+  "id": "1118",
+  "name": "Peter Hujar",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/peter-hujar",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/peter-hujar.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "df27bac92eade4c09440d8a8b22d6564793202a4a2af1c5f33e11037c790e623",
+    "gpt_submission_prompt": "A square black-and-white photographic portrait is framed so closely that a young woman's face fills nearly the entire field. She looks directly toward the camera with a steady, unsmiling expression; her lips are gently closed, her eyes remain sharp, and a few loose dark strands cross one cheek. A patterned scarf is gathered at the base of the neck, visible only along the lower edge, while the background falls into a dense nearly black tone. A single broad, soft light from the upper left reveals freckles, pores and subtle planes of the face; the opposite side recedes gradually with detail still visible. The image feels like a carefully printed analog photograph: fine silver-grain texture, rich matte blacks, luminous skin values and natural optical softness around the outer contours. The viewpoint is at eye level, with both eyes in focus, natural skin texture, matte tones and restrained contrast. Slight asymmetry, small imperfections and quiet concentration give the face a natural, individual presence. The visible scarf provides a textured counterpoint to smooth skin. The final atmosphere is private and direct, as though the viewer has met the subject's gaze during a calm pause rather than during a posed performance.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "28744fc1664976ff186e49e13106c7d06285647c3da4b26bb9198e94119a54f5",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

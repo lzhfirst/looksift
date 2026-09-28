@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square expressive painted portrait fills the frame with a face made from brilliant broken blocks of color. The crop is extremely close: the upper brow reaches the top edge, both eyes sit high in the image, and the chin and hair are cut away. The background scarcely separates from the face, appearing as dark blue, turquoise, orange, and violet paint around its edges. Large blue-green eyes look upward and slightly away, while dark lashes and brows hold them clearly amid the color. The bridge and tip of the nose remain legible beneath thick yellow and orange pigment. Full lips occupy the lower center, their pink, red, and copper highlights crossing a deep plum shadow. Across the cheeks and forehead, rectangular and irregular strokes of hot orange, sunflower yellow, magenta, teal, violet, and cobalt overlap without smoothing into natural skin tone. The left side of the face is darker blue and purple; the right side is broadly lit with warm orange and yellow. Small scraped patches, ridges of opaque paint, and visible directional brush marks give the surface a rough tactile weight. A narrow stack of bright color swatches appears along the far left edge, part of the selected image's graphic composition. Light is conveyed mainly by value and hue contrasts within the paint, strongest on the central nose and right cheek. The tight frontal arrangement keeps the gaze and mouth coherent while the surrounding planes fracture into exuberant color.",
+  "full_prompt_zh": "一幅方形表现性绘制肖像让由鲜艳断裂色块组成的面孔填满画幅。裁切极近：上眉抵达顶边，双眼位于画面上部，下巴和头发被截去。背景几乎不与面孔分开，只在边缘呈现深蓝、青绿、橙和紫色颜料。蓝绿色大眼向上、略朝旁侧看，深色睫毛和眉毛在复杂颜色中让它们保持清楚。鼻梁和鼻尖在厚厚黄橙颜料下仍可辨认。饱满嘴唇占下方中央，粉、红和铜色亮部横过深梅紫阴影。脸颊与额头上，炽橙、葵黄、洋红、青绿、紫罗兰和钴蓝的矩形及不规则笔触互相覆盖，没有磨平为自然肤色。面孔左侧更深蓝紫，右侧大面积由暖橙和黄照亮。小块刮露处、不透明颜料隆起和可见的定向刷痕使表面粗粝可触。最左边缘有一条窄窄的亮色样块列，也是所选图像图形构成的一部分。光主要通过颜料中的明度和色相反差传达，在中央鼻子和右脸颊最强。紧贴正面的布局使目光与嘴仍然连贯，而周围平面分裂成奔放色彩。",
+  "style_prompt_en": "Expressive thick-paint colorism lets saturated hues build volume through neighboring warm and cool planes. Orange, yellow, magenta, cobalt, teal, and violet all remain strong, yet darker blue-purple areas hold the brightest focal passages in place. Opaque rectangular swipes, scraped patches, and raised paint ridges stay visible; edges alternate between crisp stroke boundaries and broken overlaps. Light comes from abrupt shifts of value and temperature rather than a smooth tonal glaze. Tight cropping enlarges the main form until it becomes almost abstract, while a few precise dark linear accents preserve legibility. The surface feels tactile, exuberant, and deliberately unsmoothed.",
+  "style_prompt_zh": "表现性厚涂色彩通过相邻暖冷平面以饱和色相建立体积。橙、黄、洋红、钴蓝、青绿和紫色都保持强烈，较深蓝紫区域则稳住最亮的焦点段落。不透明矩形刷痕、刮擦小块和凸起颜料棱纹清楚可见；边缘在锐利笔触界线与破碎重叠之间变化。光来自明度和冷暖的突变，而非平滑调子罩染。贴近的裁切把主体放大到几乎抽象，少数精准深色线性强调仍维持可辨性。表面可触、奔放，并刻意不磨平。",
+  "theme_en": "An extreme close portrait built from brilliant blocks of paint",
+  "theme_zh": "由鲜艳色块构成的极近距离人像",
+  "wh_ratio": "1:1",
+  "id": "0163",
+  "name": "Vibrant colors",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/vibrant-colors",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/vibrant-colors.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "3b263d586abc97123c1b4bef464ad834b795dd0ab21f4cd1ebdf12dfa151d4dc",
+    "gpt_submission_prompt": "A square expressive painted portrait fills the frame with a face made from brilliant broken blocks of color. The crop is extremely close: the upper brow reaches the top edge, both eyes sit high in the image, and the chin and hair are cut away. The background scarcely separates from the face, appearing as dark blue, turquoise, orange, and violet paint around its edges. Large blue-green eyes look upward and slightly away, while dark lashes and brows hold them clearly amid the color. The bridge and tip of the nose remain legible beneath thick yellow and orange pigment. Full lips occupy the lower center, their pink, red, and copper highlights crossing a deep plum shadow. Across the cheeks and forehead, rectangular and irregular strokes of hot orange, sunflower yellow, magenta, teal, violet, and cobalt overlap without smoothing into natural skin tone. The left side of the face is darker blue and purple; the right side is broadly lit with warm orange and yellow. Small scraped patches, ridges of opaque paint, and visible directional brush marks give the surface a rough tactile weight. A narrow stack of bright color swatches appears along the far left edge, part of the selected image's graphic composition. Light is conveyed mainly by value and hue contrasts within the paint, strongest on the central nose and right cheek. The tight frontal arrangement keeps the gaze and mouth coherent while the surrounding planes fracture into exuberant color.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "ec583b27c69362477da09486f466290fc2c1cae31941b1168c69305d53d818b4",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

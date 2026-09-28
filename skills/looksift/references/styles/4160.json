@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square expressionist oil portrait shows a gaunt uniformed man close to the viewer, his face filling most of the frame. He wears a dark military-style cap with a small emblem and a worn olive coat. Large pale eyes stare forward under deeply furrowed brows; the nose is long and red, the mouth tight and uneven. Behind him, a chaotic accumulation of smaller faces, smoke, horses, and indistinct architectural forms presses in from every side. The background uses brown, olive, soot gray, and muted cream, with flashes of warm red near the lower edge. The man's pale skin is painted in sharp yellow-gray planes and sickly pinks, making the expression anxious and almost caricatural. Fine dark lines around the eyes and mouth combine with broken thick brush strokes in the cap and crowd. Light falls unevenly across forehead, nose, and cheek, while eye sockets and the crowded background sink into smoky shadow. The composition is compressed and claustrophobic; there is no empty resting space around the head. Tiny scenes behind him feel like memories or social noise rather than a single clear setting. The whole image is tense, satirical, and psychologically pointed, using distorted likeness and dense painterly texture to communicate unease.",
+  "full_prompt_zh": "一幅方形表现主义油画肖像把一位瘦削制服男子贴近观者，面孔几乎占满画框。他戴有小徽章的深色军式帽，穿磨旧橄榄外套。大而浅色眼睛从深皱眉下向前瞪视；鼻长而发红，嘴紧绷不齐。身后，较小人脸、烟、马和难辨建筑形体从四面挤来，形成混乱积累。背景用棕、橄榄、烟灰与低调奶油色，下缘有暖红闪点。男子浅色皮肤绘成尖锐黄灰平面和病态粉红，使神情焦虑而近乎讽刺漫画。眼与嘴周围纤细深线结合帽和人群中的厚碎笔触。光不均地照过额、鼻和颊，眼窝和拥挤背景沉入烟影。构图压缩且令人窒息，头周围没有空闲休息区域。身后小场景更像记忆或社会噪音，而非单一明确地点。整幅紧张、讽刺且心理指向鲜明，以扭曲相貌与浓密绘画肌理传达不安。",
+  "style_prompt_en": "Expressionist oil painting pushes likeness through angular planes, anxious distortion, and crowded narrative fragments. Sickly yellow-gray, olive, umber, smoke black, and muted red make an uneasy palette. Sharp dark lines concentrate around focal features, while broken thicker strokes scatter through surrounding forms. Uneven light raises selected pale planes and leaves recesses murky. The background presses close with overlapping small shapes instead of open depth. This compressed rhythm creates satirical psychological intensity, supported by visible rough paint and restless edge work.",
+  "style_prompt_zh": "表现主义油画通过棱角平面、焦虑扭曲与拥挤叙事碎片推动相貌。病态黄灰、橄榄、熟褐、烟黑和低调红形成不安配色。尖锐深线集中在焦点特征，周围形体散着较厚破碎笔触。不均照明抬起部分浅色平面，让凹处浑浊。背景以重叠小形逼近，而非开放纵深。压缩节奏创造讽刺性的心理强度，由可见粗笔与躁动边缘支撑。",
+  "theme_en": "A gaunt uniformed man with a wide-eyed stare amid crowded figures",
+  "theme_zh": "众人拥挤背景中目光瞪大的瘦削制服男子",
+  "wh_ratio": "1:1",
+  "id": "4160",
+  "name": "Otto Dix",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/otto-dix.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "d3e98cec77a15b7b17ff788559884a26617f0aba5710930e4c2e2f994bcb3dc4",
+    "gpt_submission_prompt": "A square expressionist oil portrait shows a gaunt uniformed man close to the viewer, his face filling most of the frame. He wears a dark military-style cap with a small emblem and a worn olive coat. Large pale eyes stare forward under deeply furrowed brows; the nose is long and red, the mouth tight and uneven. Behind him, a chaotic accumulation of smaller faces, smoke, horses, and indistinct architectural forms presses in from every side. The background uses brown, olive, soot gray, and muted cream, with flashes of warm red near the lower edge. The man's pale skin is painted in sharp yellow-gray planes and sickly pinks, making the expression anxious and almost caricatural. Fine dark lines around the eyes and mouth combine with broken thick brush strokes in the cap and crowd. Light falls unevenly across forehead, nose, and cheek, while eye sockets and the crowded background sink into smoky shadow. The composition is compressed and claustrophobic; there is no empty resting space around the head. Tiny scenes behind him feel like memories or social noise rather than a single clear setting. The whole image is tense, satirical, and psychologically pointed, using distorted likeness and dense painterly texture to communicate unease.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "c580e4c358e6025520cbcb16244c845677d5337da06af12b5f403e876fc9470c",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

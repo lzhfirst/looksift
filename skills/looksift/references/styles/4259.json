@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white book illustration shows a large ape sitting quietly beneath dense jungle foliage. Its body turns three-quarters toward the left, and its long arms rest loosely across bent knees, giving the posture a contemplative calm. A deep brow shades the face, while the muzzle catches soft light and the gaze falls toward the middle distance. Plain, worn, loose clothing covers the figure, its folds described through dense fine lines and pale gray hatching. Leaves, vines, grass, and a dark recess surround the silhouette, yet bits of bright white paper remain visible along the left edge. Finely varied pen strokes, stippled fur, short cross-hatching, and graphite-like washes build the image. Fur and vegetation stay distinct because their marks change direction and weight. Diffuse daylight seems to filter through leaves: sleeves and knees appear bright, while the face and canopy sit in deeper shadow. Small highlights on the hands and cheek bring life to the broad charcoal middle tones. The seated figure fills most of the frame, but the light gaps among leaves give it breathing room. The whole scene carries the detailed, tactile character of an engraved adventure-book plate. Its emotional register remains quiet, with no color, glossy photographic modeling, or exaggerated action.",
+  "full_prompt_zh": "一幅方形黑白书籍插画呈现一只大型猿安静地坐在浓密的丛林树叶之下。身体以四分之三角度朝左，长臂松松叠放在屈起的膝上，姿态沉思而安稳。深重眉骨遮住面孔，口鼻接住柔光，目光垂向中景。朴素、磨旧的宽松衣服覆盖身体，衣褶由密集细线和浅灰排线刻画。树叶、藤蔓、草丛和一处深暗背景围住剪影，但左缘仍露出明亮的白纸缝隙。轻重丰富的钢笔笔触、点状毛发、短交叉排线和石墨般柔和薄染构成画面。皮毛与植被的笔迹方向和粗细不同，因而各自清晰。光线像透过叶片的漫射日光：袖子与膝盖发亮，面孔和树冠附近较暗。手与脸颊上的细小高光为广阔的木炭中间调带来生气。坐姿人物占据大部分画面，叶间的亮缝仍让画面得以呼吸。整幅场景具有雕版冒险书插页的细密和触感。情绪始终安静，没有彩色、油亮的摄影塑形或夸张动作。",
+  "style_prompt_en": "Draw in a richly detailed monochrome pen-and-wash style with an engraved storybook feel. Build form using directional hatching, stipple, variable ink contours, and soft graphite-gray passages. Set a pale focal silhouette against a dense dark pocket, then let foliage-like clusters or other intricate organic marks soften the frame. Preserve bright paper openings to keep the composition breathable. Let texture describe surface differences through line direction and density. Use diffuse, filtered light and a broad range of grays, with the deepest blacks concentrated behind the focal form. Keep the finish tactile and hand drawn, expressive in pose yet quiet in mood.",
+  "style_prompt_zh": "以细节浓密的黑白钢笔与淡染手法绘制，带有雕版故事书的感觉。用顺形排线、点描、轻重变化的墨色轮廓和柔和石墨灰色段建立体积。让浅色焦点剪影靠在一块深暗背景前，再用类似叶丛或其他繁复有机笔迹柔化画框。保留明亮的纸面开口，使构图能够呼吸。通过线条方向和密度表现不同表面。光线是漫射且经过过滤的，灰阶范围宽，最深的黑集中在焦点形态背后。完成效果应可触、手绘，姿态有表现力而气氛安静。",
+  "theme_en": "A thoughtful ape seated beneath dense foliage in a monochrome ink illustration",
+  "theme_zh": "浓密树叶下沉思而坐的猿，黑白墨绘插画",
+  "wh_ratio": "1:1",
+  "id": "4259",
+  "name": "Bernie Wrightson",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/bernie-wrightson.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "86dddff864f11eeca3c50dfe4597d4159e7bd5ed590d465b078e888fa67e7fa6",
+    "gpt_submission_prompt": "A square black-and-white book illustration shows a large ape sitting quietly beneath dense jungle foliage. Its body turns three-quarters toward the left, and its long arms rest loosely across bent knees, giving the posture a contemplative calm. A deep brow shades the face, while the muzzle catches soft light and the gaze falls toward the middle distance. Plain, worn, loose clothing covers the figure, its folds described through dense fine lines and pale gray hatching. Leaves, vines, grass, and a dark recess surround the silhouette, yet bits of bright white paper remain visible along the left edge. Finely varied pen strokes, stippled fur, short cross-hatching, and graphite-like washes build the image. Fur and vegetation stay distinct because their marks change direction and weight. Diffuse daylight seems to filter through leaves: sleeves and knees appear bright, while the face and canopy sit in deeper shadow. Small highlights on the hands and cheek bring life to the broad charcoal middle tones. The seated figure fills most of the frame, but the light gaps among leaves give it breathing room. The whole scene carries the detailed, tactile character of an engraved adventure-book plate. Its emotional register remains quiet, with no color, glossy photographic modeling, or exaggerated action.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "0b10164449b08e823e57fd801668bd8598020c80f65717959abbe104b928a2a0",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

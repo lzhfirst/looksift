@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A Baroque oil painting centers a youthful allegorical figure seated against an open teal sky crowded with large gray-white clouds. The head tilts upward to the right, with dark curled hair surrounding a softly illuminated face and a slender neck rising from the richly folded costume. An amber-orange outer garment, white rolled sleeve, olive-brown cloth, and deep wine-red knee form interlocking areas of warm color across the lower two-thirds. One hand hovers near the face while the other rests over the lap; a long wooden staff crosses diagonally from the shoulder toward a carved golden object at the lower right. The figure is arranged close to the viewer, its rounded limbs and heavy drapery given substantial weight by smooth blended flesh tones and broad, decisive shadow. Clouds rise behind the lifted face, alternating soft cream highlights with smoky green-gray recesses, and a darker strip of sky keeps the pale cheek clear. Light comes from the upper left, brushing forehead, arm, and orange satin folds while leaving the side of the torso and lower seat in strong darkness. The painted surface varies from polished skin to more visible brushwork in hair, cloth, and cloud edges. Sweeping cloth curves and the staff's straight diagonal animate an otherwise stable seated pyramid. The whole frame feels theatrical and devotional, with luminous flesh and sumptuous fabric held against a turbulent but controlled sky.",
+  "full_prompt_zh": "一幅巴洛克油画将一位年轻的寓意人物置于画面中央，人物坐在开阔的青绿色天空前，背后拥满大块灰白云。头向右上方仰起，深色卷发围住柔光照亮的脸，细长脖颈从褶叠丰富的衣装中伸出。琥珀橙外袍、卷起的白袖、橄榄褐布料和深酒红色的膝部在画面下方三分之二区域交织出暖色块。一只手停在面孔附近，另一只手落在膝上；长木杖从肩部斜穿向右下方的雕刻金色物体。人物靠近观者，圆润肢体与厚重衣褶通过平滑融合的肤色和大块果断的阴影获得实在重量。云在抬起的面孔后方升腾，柔和奶油色高光与烟雾般的绿灰色暗部交替，一条较深的天色使浅色脸颊清晰可见。光从左上方来，掠过额头、手臂与橙色绸缎褶皱，同时让躯干侧面和下方座面处在浓重暗处。绘画表面从光洁的皮肤过渡到头发、衣料和云边更可见的笔触。衣料的扫动曲线与木杖的直斜线使原本稳定的坐姿三角形活跃起来。整幅画具有戏剧性与虔敬气息，发光的肌肤和华丽织物立于起伏却受控的天空之前。",
+  "style_prompt_en": "A Baroque oil painting uses smooth luminous flesh modeling, weighty drapery, and broad chiaroscuro against a clouded blue-green field. Amber-orange, cream, olive-brown, and deep wine-red masses interlock, with cool smoky recesses holding the warm highlights forward. Polished passages meet more visible directional brushwork in hair, cloth, and atmosphere. A stable pyramidal core is enlivened by sweeping folds and a strong diagonal accent. The whole frame feels theatrical, sumptuous, and carefully illuminated.",
+  "style_prompt_zh": "一幅巴洛克油画以平滑发光的肌肤塑形、厚重衣褶和宽阔明暗对照，置于多云的蓝绿色域前。琥珀橙、奶油白、橄榄褐与深酒红色块交织，偏冷的烟雾状暗部将暖色高光推向前方。光洁画面与头发、衣料及空气里较可见的顺势笔触相遇。稳定的三角形核心由扫动衣褶和强斜线点缀激活。整幅画戏剧化、华美且用光讲究。",
+  "theme_en": "A youthful allegorical figure rests beneath dramatic clouds",
+  "theme_zh": "年轻的寓意人物在戏剧化云层下休憩",
+  "wh_ratio": "1:1",
+  "id": "1803",
+  "name": "Simon Vouet",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/simon-vouet",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/simon-vouet.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "206a9347cfbfa73e6a49736dffed4b4c5ad8b507e1622c553e703482fb3d872a",
+    "gpt_submission_prompt": "A Baroque oil painting centers a youthful allegorical figure seated against an open teal sky crowded with large gray-white clouds. The head tilts upward to the right, with dark curled hair surrounding a softly illuminated face and a slender neck rising from the richly folded costume. An amber-orange outer garment, white rolled sleeve, olive-brown cloth, and deep wine-red knee form interlocking areas of warm color across the lower two-thirds. One hand hovers near the face while the other rests over the lap; a long wooden staff crosses diagonally from the shoulder toward a carved golden object at the lower right. The figure is arranged close to the viewer, its rounded limbs and heavy drapery given substantial weight by smooth blended flesh tones and broad, decisive shadow. Clouds rise behind the lifted face, alternating soft cream highlights with smoky green-gray recesses, and a darker strip of sky keeps the pale cheek clear. Light comes from the upper left, brushing forehead, arm, and orange satin folds while leaving the side of the torso and lower seat in strong darkness. The painted surface varies from polished skin to more visible brushwork in hair, cloth, and cloud edges. Sweeping cloth curves and the staff's straight diagonal animate an otherwise stable seated pyramid. The whole frame feels theatrical and devotional, with luminous flesh and sumptuous fabric held against a turbulent but controlled sky.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "e4fee1a158bc7824957ff9b19f00aa841ca332a50cce52d4a5781103d4b58576",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

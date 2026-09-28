@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A hand-painted pulp illustration is organized as an interlocking montage of characters from a tense mystery story. The left foreground is occupied by an enormous cropped face in a deep blue mask: one alert eye, a strong nose and a dark moustache are rendered with firm ink edges and warm, modeled flesh tones. Above and to the right is a large woman with curled golden-brown hair and steady blue-green eyes, her face luminous against ornamental ochre marks. Below them are smaller figures in receding scale: a dark-haired woman in blue, a stern older man in a blue suit with a small star-shaped pin, a shadowed man wearing round glasses and a brimmed hat, and several additional investigators glimpsed between the larger silhouettes. Shoulders, hats and faces overlap in a continuous field without separate boxes. Painterly crosshatching and short dry-brush marks build the hair, cloth and skin, with sharper black contours around the eyes and jawlines. The palette centers on cobalt and midnight blue, amber, cream, and warm peach; the richest gold fills the upper background. Selective light reaches the faces from above and the front, leaving the lower passages in blue shadow. The composition is crowded but legible, with the large masked profile anchoring the left edge and the woman's gaze drawing attention across the upper half. The textured printed illustration has slight grain and visible brushwork throughout the entire square image.",
+  "full_prompt_zh": "一幅手绘通俗悬疑插画，由互相嵌合的人物蒙太奇构成。左侧前景是一张被画框截断的巨大深蓝面罩面孔：警觉的一只眼睛、突出的鼻梁与深色胡须以有力墨线和暖色明暗塑造。右上方是一位卷曲金棕色头发、蓝绿色眼睛的女性，她明亮的脸庞衬在赭黄色装饰笔触前。两人下方，其他人物的比例逐渐缩小：穿蓝衣的黑发女性、蓝色西装上别着小星形徽章的严肃长者、戴圆眼镜和宽檐帽的暗影男子，以及从大轮廓之间露出的几位调查者。肩膀、帽子和脸互相遮叠，画面连续而没有分离的格子。交叉排线和短促干笔塑造头发、布料与皮肤，眼睛和下颌处的黑色轮廓更清晰。色彩集中于钴蓝、午夜蓝、琥珀、乳白和暖桃色，最饱满的金色集中在上方背景。人物面部接受来自上方和正面的选择性照明，下部保留蓝色阴影。画面拥挤而仍可辨读，巨大的蒙面侧脸压住左缘，女性目光引导视线穿过上半部。正方形画面呈现印刷插画质感，通幅带有细微颗粒和可见笔触。",
+  "style_prompt_en": "Hand-painted pulp illustration has sharply overlapping silhouettes, dramatic scale changes, expressive ink contours, dry-brush crosshatching, modeled warm tones, dense cobalt shadows, amber highlights, and slightly grainy print texture. Focal forms gather in a compressed montage, with crisp details alternating with loosely brushed passages. Selective frontal illumination and broad pools of colored shade unify the square composition.",
+  "style_prompt_zh": "手绘通俗插画，轮廓紧密交叠，尺度富于戏剧变化，墨线有表现力。干笔交叉排线、层次分明的暖色调、浓郁钴蓝阴影、琥珀色高光与细微印刷颗粒并存。视觉中心形成压缩式蒙太奇，清晰细节与松动笔触交替。选择性的正面照明与大面积彩色阴影统一正方形构图。",
+  "theme_en": "An ensemble of mystery-film characters gathered around a masked investigator",
+  "theme_zh": "围绕蒙面调查者聚集的悬疑电影群像",
+  "wh_ratio": "1:1",
+  "id": "3450",
+  "name": "Jim Steranko",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/jim-steranko",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "f3980450fe58c5bfcdfe7458a9a44f5809b10277d8d65f8bae62cf9789cbb929",
+    "gpt_submission_prompt": "A hand-painted pulp illustration is organized as an interlocking montage of characters from a tense mystery story. The left foreground is occupied by an enormous cropped face in a deep blue mask: one alert eye, a strong nose and a dark moustache are rendered with firm ink edges and warm, modeled flesh tones. Above and to the right is a large woman with curled golden-brown hair and steady blue-green eyes, her face luminous against ornamental ochre marks. Below them are smaller figures in receding scale: a dark-haired woman in blue, a stern older man in a blue suit with a small star-shaped pin, a shadowed man wearing round glasses and a brimmed hat, and several additional investigators glimpsed between the larger silhouettes. Shoulders, hats and faces overlap in a continuous field without separate boxes. Painterly crosshatching and short dry-brush marks build the hair, cloth and skin, with sharper black contours around the eyes and jawlines. The palette centers on cobalt and midnight blue, amber, cream, and warm peach; the richest gold fills the upper background. Selective light reaches the faces from above and the front, leaving the lower passages in blue shadow. The composition is crowded but legible, with the large masked profile anchoring the left edge and the woman's gaze drawing attention across the upper half. The textured printed illustration has slight grain and visible brushwork throughout the entire square image.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "c26ed1943d6c21fd93dadbac61362e4822647874626582a6a37e9233bb677fa2",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

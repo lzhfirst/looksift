@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square fashion illustration shows a smiling young woman seated in a pale dress against an open ivory page. Most of the background remains blank, with scattered sepia splashes and fine stray pencil-like marks near the top and around her outline. The woman fills the upper and middle part of the frame, turning her shoulders partly away but looking directly outward. One hand rests beneath her chin, and her other arm falls along the light fabric gathered across the lower edge. Dark wavy hair curls under a soft cream headpiece that rises gently behind her crown. Her eyes are dark and lively, with arched brows, rosy cheeks and a bright red smile rendered more precisely than the rest of the drawing. A sleeveless off-white bodice exposes her shoulders and upper arms, while a deep blue sash crosses the waist and a warm ochre bow or fabric cluster gathers at the right hip. The lower skirt dissolves into quick gray and brown linework, leaving portions unfinished and merging into the page. Thin charcoal contours sketch the folds and silhouette, while translucent watercolor-like washes add warm skin tones, muted gold and cool blue accents. Soft frontal light keeps the face and shoulders clear without a strong cast shadow; contrast comes chiefly from black hair and the concentrated blue sash. The overall composition places a polished expression above freely sketched clothing, giving the portrait airy elegance and spontaneous movement.",
+  "full_prompt_zh": "这幅方形时装插画里，一位微笑的年轻女子穿浅色裙装，坐在敞开的象牙色纸页前。背景大部分留白，仅在上方和人物轮廓周围散着深褐色飞溅、纤细的铅笔状游线。女子占据上部和中部，肩膀部分背转，目光却直接向外。一只手托在下巴下，另一只手臂顺着下缘聚拢的浅色布料垂下。深色波浪发卷在一顶柔软奶油色头饰下，帽形在头顶后方轻轻升起。深色眼睛活泼，弯眉、红润面颊和明亮红笑容比其余画面刻画得更精确。米白无袖上衣露出肩与上臂，深蓝色腰带横过腰部，暖赭色蝴蝶结或布料团聚在右髋。下方裙摆融成快速灰褐线条，局部未完成，接入纸面。纤细炭色轮廓勾出褶皱与剪影，透明水彩式色层添上暖肤色、压低的金色与冷蓝强调。柔和正面光让脸和肩清楚而无强投影；反差主要来自黑发与集中的蓝腰带。整体构图把精细完成的表情置于自由速写衣料之上，赋予肖像通透的优雅和自发的动势。",
+  "style_prompt_en": "The illustration mixes refined facial modeling with loose charcoal or graphite lines and translucent watercolor-like washes. Large areas of ivory paper remain open, allowing scattered sepia splatters and exploratory contour strokes to read as part of the finish. Dark ink concentrates at the focal features, while pale cream, soft gold, warm rose and one cool blue accent spread more lightly through the rest. Edges can be exact in a small area and then break into sketch lines or dissolve into white. Light is soft and frontal, with expression and line weight creating focus rather than dramatic shadow. The balance of polished detail and unfinished-looking motion makes the image airy, graceful and immediate.",
+  "style_prompt_zh": "这种插画把精细的焦点塑形同松散炭笔或石墨线、透明水彩式色层结合。大片象牙色纸保持敞开，让零散深褐飞溅与探索性的轮廓笔成为完成面的一部分。深墨集中于焦点特征，浅奶油、柔金、暖玫瑰色和一处冷蓝强调则更轻地散在其余区域。边缘可在小范围内非常精确，随后断成速写线或融入白底。光柔和而正面，焦点主要由神态和线条重量而非戏剧性阴影产生。精致细节与似未完成的动势相平衡，使图像通透、优雅而直接。",
+  "theme_en": "A smiling woman in a pale dress and soft hat drawn on an open ivory page",
+  "theme_zh": "一位穿浅色裙装、戴软帽的微笑女子绘于敞开的象牙色纸页上",
+  "wh_ratio": "1:1",
+  "id": "0548",
+  "name": "Harrison Fisher",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/harrison-fisher",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/harrison-fisher.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "466dac8ddbd9faa6828c686a1e8784d46ec1c1352a84e26c1f9fd43b1fe8db09",
+    "gpt_submission_prompt": "A square fashion illustration shows a smiling young woman seated in a pale dress against an open ivory page. Most of the background remains blank, with scattered sepia splashes and fine stray pencil-like marks near the top and around her outline. The woman fills the upper and middle part of the frame, turning her shoulders partly away but looking directly outward. One hand rests beneath her chin, and her other arm falls along the light fabric gathered across the lower edge. Dark wavy hair curls under a soft cream headpiece that rises gently behind her crown. Her eyes are dark and lively, with arched brows, rosy cheeks and a bright red smile rendered more precisely than the rest of the drawing. A sleeveless off-white bodice exposes her shoulders and upper arms, while a deep blue sash crosses the waist and a warm ochre bow or fabric cluster gathers at the right hip. The lower skirt dissolves into quick gray and brown linework, leaving portions unfinished and merging into the page. Thin charcoal contours sketch the folds and silhouette, while translucent watercolor-like washes add warm skin tones, muted gold and cool blue accents. Soft frontal light keeps the face and shoulders clear without a strong cast shadow; contrast comes chiefly from black hair and the concentrated blue sash. The overall composition places a polished expression above freely sketched clothing, giving the portrait airy elegance and spontaneous movement.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "bff13ea1f079b5b6c8522a94be8d0957d7a159eb2eae6ac6fd593730945993d0",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

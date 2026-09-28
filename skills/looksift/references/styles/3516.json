@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square traditional landscape painting follows a wet, uneven village lane as it narrows between red-brick houses, stone walls, and thick greenery. The road begins broad at the lower edge in pale ochre and soft brown, its puddles catching broken glints of white sky. A narrow worn strip curves through the center and leads into a hazy distance where small buildings and wooded hills meet. On the left, a tall russet brick house rises above a low mossy wall. Its steep roof, dark small windows, and clustered chimneys cut against the cloudy pale sky. At the lower-left corner, pink and white blossoms spill from dense green shrubs into the roadside. A woman in a deep red dress stands farther along the left side of the lane; another small dark figure appears near the center, providing a human scale to the path. On the right, a high stone wall is almost hidden beneath leafy trees, vines, and wild plants. A patch of sun breaks across the damp road and the wall's irregular stones, while dark green foliage forms a canopy over the upper-right quarter. The painting uses fine but visible brushwork: dry granular marks for stone and gravel, softened feathering for distant trees, and small bright touches for flowers and water. Gentle overcast daylight, opening slightly from above, creates mellow highlights without hard shadows. The composition pulls the eye down the luminous winding road into a quiet, inhabited English countryside atmosphere.",
+  "full_prompt_zh": "一幅方形传统风景画沿着湿润不平的村路展开，道路在红砖屋、石墙与茂密草木之间逐渐收窄。道路从下缘宽阔地进入，呈浅赭色与柔棕色，水洼接住破碎的白色天光。磨旧的窄路带从中央弯行，通向朦胧远处的小屋与林丘。左侧，一幢高高的赤褐砖房升在低矮苔墙上方；陡屋顶、暗小窗和成簇烟囱映在淡云天空前。左下角，粉白花朵从浓绿灌木里漫向路边。一个穿深红裙的女子立在更远的左侧路旁；中央附近还有个较小的深色人影，为小路提供人的尺度。右侧，高石墙几乎被叶树、藤蔓与野草遮没。一块日光落在潮湿路面与墙面不规则石块上，深绿树叶则在右上四分之一处形成树冠。画面用细致却可见的笔触：干涩颗粒画石头与砂砾，柔化羽刷画远树，花朵与水面用小而亮的点触。温柔的阴天日光从上方略微打开，形成醇和亮处，没有硬影。构图沿发光的弯路把视线带向深处，营造安静而有人居住的英式乡村气息。",
+  "style_prompt_en": "Traditional landscape painting uses visible, fine oil-brush texture to describe damp ground, weathered masonry, tangled foliage, and a softly fading distance. Lead the eye with a light winding path or comparable open passage between darker vertical masses. Balance russet brick and warm earth against dense olive and moss greens, then add tiny pink, white, or red accents for life and scale. Overcast daylight becomes gently luminous on reflective patches while shadows remain soft. Let near textures carry granular dry strokes and distant forms dissolve into gray-green atmosphere. The arrangement feels intimate and inhabited, with rich edge detail surrounding a clear receding route.",
+  "style_prompt_zh": "传统风景绘画以可见的细油画笔触表现湿地、风化石材、纠结枝叶和柔化的远景。用一条浅色弯路或类似开放通道，在两侧较深的竖向体量间引导视线。赤褐砖色与暖土色对着浓橄榄绿和苔绿，再添微小粉、白或红色重点，带出生命与尺度。阴天日光在反射斑块上显得温和明亮，影子仍柔和。近处纹理用颗粒干笔，远处形体溶入灰绿空气。布局亲密而有人气，边缘丰富细节围着一条清楚退远的路线。",
+  "theme_en": "A wet village lane winding between red brick houses and flowering walls",
+  "theme_zh": "湿润村路在红砖屋与花墙间蜿蜒",
+  "wh_ratio": "1:1",
+  "id": "3516",
+  "name": "Alfred Augustus Glendening",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/alfred-augustus-glendening",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "644d1d5dfd56b81bed8df3a02d19812ada8e79ff350e7cc3bbbad909e008d937",
+    "gpt_submission_prompt": "A square traditional landscape painting follows a wet, uneven village lane as it narrows between red-brick houses, stone walls, and thick greenery. The road begins broad at the lower edge in pale ochre and soft brown, its puddles catching broken glints of white sky. A narrow worn strip curves through the center and leads into a hazy distance where small buildings and wooded hills meet. On the left, a tall russet brick house rises above a low mossy wall. Its steep roof, dark small windows, and clustered chimneys cut against the cloudy pale sky. At the lower-left corner, pink and white blossoms spill from dense green shrubs into the roadside. A woman in a deep red dress stands farther along the left side of the lane; another small dark figure appears near the center, providing a human scale to the path. On the right, a high stone wall is almost hidden beneath leafy trees, vines, and wild plants. A patch of sun breaks across the damp road and the wall's irregular stones, while dark green foliage forms a canopy over the upper-right quarter. The painting uses fine but visible brushwork: dry granular marks for stone and gravel, softened feathering for distant trees, and small bright touches for flowers and water. Gentle overcast daylight, opening slightly from above, creates mellow highlights without hard shadows. The composition pulls the eye down the luminous winding road into a quiet, inhabited English countryside atmosphere.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "33ac18c13cb2aeedc0c9dba90cd3063c38c27500646eccca2f12ae982b1764b9",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

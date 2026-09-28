@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A muted illustrated scene places a dark-haired man in close profile along the left edge of a broad riverside view. His gaze dips toward the pale stone pavement, giving the foreground a quiet inward pull. Beyond him, tiny walkers cross the opposite bank and a formal old building with steep rooflines rises among trees. Still water carries a soft inverted version of those distant silhouettes. The pale sky holds thin, uneven streaks of warm ochre cloud, and the drawing lets large areas of near-white paper remain visible.\n\nThe image has a literary graphic-novel quality: loose black and charcoal strokes define the hair, coat, and facial planes, while fine hatched lines and a few dry brush passages add shadow without sealing every edge. Grey-green washes give the distant trees weight, and restrained amber touches in the sky warm an otherwise cool neutral palette. The near figure is much darker and larger than the landscape, establishing a strong asymmetric balance. Perspective in the pavement and long horizontal banks guides attention from the intimate foreground into open space. Preserve the slightly weathered paper surface, broken linework, and selective wash rather than smooth digital gradients. This is a contemplative, observational moment with no readable lettering in the selected image.",
+  "full_prompt_zh": "一幅色调克制的插画，把一名黑发男子的近距离侧影放在宽阔河岸景色的左边缘。他的目光垂向浅色石板路，使前景带有安静的内省感。远处，细小的行人走在对岸，一座屋顶陡峭的庄重旧建筑立在树丛之间。平静的水面映出这些远方轮廓的柔和倒影。淡色天空中有薄而不规则的暖赭色云痕，画面保留了大片近白的纸色。\n\n图像具有文学性图像小说的气质：松动的黑色和炭灰笔触描出头发、外套与面部转折，细密排线和少量干刷区域添加阴影，却不把每条边都封死。灰绿色薄涂让远处树木有了分量，天空中节制的琥珀色点缀温暖了整体偏冷的中性色。近处人物比景观大得多、暗得多，形成鲜明的不对称平衡。石板的透视和绵长的水平河岸把视线从私密的前景引向开阔处。保留略有旧感的纸面、断续线条和有选择的薄涂，不要变成平滑的数码渐变。这是一个沉思式的观察瞬间，所选画面中没有可辨认文字。",
+  "style_prompt_en": "Loose black and charcoal marks gather into a dense shape against wide expanses of pale paper. Fine hatching, dry brush drag, and thin grey-green washes produce shadow with open, broken edges. Restrained amber streaks warm the upper space without disturbing the cool neutral balance. One large dark mass anchors a side of the composition while thin horizontal bands and lightly indicated distant forms create depth. Reflections repeat those forms in softened vertical echoes. The line is selective: some contours are sharp and closely worked, others dissolve into the paper. The result feels like a literary ink-and-wash illustration, quiet and slightly weathered, with tactile grain and generous breathing room.",
+  "style_prompt_zh": "松动的黑色与炭灰色笔迹在大片浅色纸面旁聚成浓重形体。细排线、干刷拖痕和灰绿色薄涂形成阴影，边缘保持开放而断续。节制的琥珀色线痕温暖上方空间，却不打破整体清冷的中性色平衡。一团大的深色块压住构图一侧，纤细的水平带与轻描的远方形状建立深度。倒影把这些形状重复为柔化的垂直回声。线条很有选择：某些轮廓清晰而密集，另一些则融入纸色。整体像文学性水墨插画，安静、略带旧感，有可触的纸纹和充足的留白。",
+  "theme_en": "A reflective walk beside a quiet European river",
+  "theme_zh": "沿宁静欧洲河岸的沉思漫步",
+  "wh_ratio": "1:1",
+  "id": "3119",
+  "name": "Eddie Campbell",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/eddie-campbell",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "87bf4c78b31cfc2ae22c53354adcbad794cfb3bb222f1d658fc565b8634a2f69",
+    "gpt_submission_prompt": "A muted illustrated scene places a dark-haired man in close profile along the left edge of a broad riverside view. His gaze dips toward the pale stone pavement, giving the foreground a quiet inward pull. Beyond him, tiny walkers cross the opposite bank and a formal old building with steep rooflines rises among trees. Still water carries a soft inverted version of those distant silhouettes. The pale sky holds thin, uneven streaks of warm ochre cloud, and the drawing lets large areas of near-white paper remain visible.\n\nThe image has a literary graphic-novel quality: loose black and charcoal strokes define the hair, coat, and facial planes, while fine hatched lines and a few dry brush passages add shadow without sealing every edge. Grey-green washes give the distant trees weight, and restrained amber touches in the sky warm an otherwise cool neutral palette. The near figure is much darker and larger than the landscape, establishing a strong asymmetric balance. Perspective in the pavement and long horizontal banks guides attention from the intimate foreground into open space. Preserve the slightly weathered paper surface, broken linework, and selective wash rather than smooth digital gradients. This is a contemplative, observational moment with no readable lettering in the selected image.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "26de0d90b0a9ab54b3162d97e2e5db1e2c87f315a4b669464a08990951201850",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

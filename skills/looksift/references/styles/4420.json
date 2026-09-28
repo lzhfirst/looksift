@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square high-angle photograph makes a riverside town appear like a carefully built miniature. A narrow stone bridge crosses dark water near the lower left, carrying tiny pedestrians toward a pale, domed or turreted building at the center. Autumn trees in gold and russet cluster around the riverbank, and a winding walkway continues past the building. The camera looks down steeply enough to compress the streets, water, roofs, and people into a tabletop-like arrangement. A narrow zone through the center remains relatively sharp, while foreground and background soften into strong lens blur. Warm late-afternoon light catches stone walls and tree crowns, leaving the water cooler and darker. The miniature effect comes from selective focus, compressed perspective, and reduced human scale rather than from literal toys. Fine architectural details remain visible where focus holds: railings, windows, steps, and individual walkers. Colors are natural but gently heightened, with amber foliage against blue-gray shadow. The image feels playful and observational, balancing real urban complexity with a diorama-like visual illusion. The whole frame guides the eye from the bridge along the path to the small central landmark, then lets the town dissolve into softness.",
+  "full_prompt_zh": "一幅方形高角度照片使河畔小镇看起来像精心制作的微缩模型。一座狭窄石桥在左下跨过深色水面，细小行人沿桥走向中央浅色、带圆顶或塔楼的建筑。金黄与锈红秋树聚在河岸，弯曲步道从建筑旁继续延伸。相机俯视角足够陡，使街道、水面、屋顶和人压缩成桌面般的排列。穿过中央的一条狭窄区域相对清楚，前景与背景则化为强烈镜头虚化。温暖午后晚光照亮石墙和树冠，水面保留较冷较暗的色调。微缩效果来自选择性对焦、压缩透视和缩小的人物尺度，而非真正玩具。在焦点所及之处，栏杆、窗户、台阶和行人的建筑细节仍可辨认。颜色自然却稍被强化，琥珀色树叶对照蓝灰阴影。画面有玩味而善于观察，在真实城市复杂度和场景模型般的视觉幻觉之间平衡。视线从桥沿路径走向中央小地标，然后让城镇消散在柔化之中。",
+  "style_prompt_en": "A tilt-shift photographic style transforms a real broad scene into a miniature-like arrangement through steep viewpoint and a thin plane of focus. A relatively sharp central band carries small people and intricate structures, while near and far areas dissolve into strong optical blur. Warm directional light brightens selected roofs, stone surfaces, or foliage; cooler shadow provides depth. Slightly heightened natural colors reinforce the diorama illusion without turning plastic. Paths and bridges or comparable connectors lead the eye through compact layers of space. The effect is playful, precise, and photographic, with selective focus and compressed scale doing the work rather than artificial model objects.",
+  "style_prompt_zh": "移轴摄影风格通过陡峭俯视角和狭薄焦平面，把真实的广阔场景变成类似微缩模型的排列。相对清楚的中央焦带容纳小人物与精细结构，远近区域则化为强烈光学虚化。温暖定向光照亮选定屋顶、石面或树叶，较冷阴影提供纵深。略被强化的自然颜色加强场景模型幻觉，却不变成塑料感。小路、桥或类似连接形体引视线穿过紧凑的空间层。效果有玩味、精确、摄影感明确，主要依靠选择性对焦和压缩尺度，而非人工模型物件。",
+  "theme_en": "A miniature-looking riverside town viewed from above",
+  "theme_zh": "从高处俯看一座显得如微缩模型的河畔小镇",
+  "wh_ratio": "1:1",
+  "id": "4420",
+  "name": "Tilt-Shift",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/tilt-shift.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "d591b1163579024c640847280e86fcdc8b78ef789e71348d2a663c76aa6a6eb2",
+    "gpt_submission_prompt": "A square high-angle photograph makes a riverside town appear like a carefully built miniature. A narrow stone bridge crosses dark water near the lower left, carrying tiny pedestrians toward a pale, domed or turreted building at the center. Autumn trees in gold and russet cluster around the riverbank, and a winding walkway continues past the building. The camera looks down steeply enough to compress the streets, water, roofs, and people into a tabletop-like arrangement. A narrow zone through the center remains relatively sharp, while foreground and background soften into strong lens blur. Warm late-afternoon light catches stone walls and tree crowns, leaving the water cooler and darker. The miniature effect comes from selective focus, compressed perspective, and reduced human scale rather than from literal toys. Fine architectural details remain visible where focus holds: railings, windows, steps, and individual walkers. Colors are natural but gently heightened, with amber foliage against blue-gray shadow. The image feels playful and observational, balancing real urban complexity with a diorama-like visual illusion. The whole frame guides the eye from the bridge along the path to the small central landmark, then lets the town dissolve into softness.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "16e1c2f2ee6e7df8b4217ae6ce725df2d4dad2b85741e58058e13349e35716c3",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

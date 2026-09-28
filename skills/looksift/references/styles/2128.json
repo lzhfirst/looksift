@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square, cinematic image shows a small roadside shop glowing through thick green fog at night. The building sits right of center, its low flat canopy edged by a narrow orange-red light strip. Broad windows below spill pale yellow and white illumination onto the ground, revealing indistinct interior shelving and a few dark vertical shapes. A lone figure stands in the open space to the left of the building, reduced to a small near-black silhouette. Farther left, a dark car rests near the edge of the road, with a faint red rear light. The foreground is a rough, damp-looking expanse of pavement and gravel, almost black and broken by muted teal patches. Power poles and thin overhead wires appear at the right and recede into the fog. Behind the shop, hazy vertical outlines suggest distant structures, but the upper half is primarily an uninterrupted green-black mist. The fog swallows detail quickly: the brightest point is the shop window, and even the canopy light diffuses outward into a soft halo. There are no sharp cast shadows; darkness pools around the edges and under the car. The composition leaves a large empty mass above the small human and building elements, making the lit storefront feel isolated. Subdued teal, olive green, charcoal, and a thin warm red-orange accent carry the color. Grain, haze, and low contrast create a quiet, suspenseful stillness.",
+  "full_prompt_zh": "一幅方形电影感图像呈现夜里一间小小路边店铺从浓绿雾中发光。建筑位于中央偏右，低而平的顶檐镶着一道窄橘红灯带。下方宽窗把浅黄与白色灯光洒到地面，室内货架和几道深色竖影若隐若现。一个独自人影站在店左侧空地上，被压成小小近黑剪影。更左边，一辆深色汽车停在路边，尾部微微发红。前景是粗糙、似潮湿的路面与碎石地，几乎全黑，被低调的青绿色斑块打断。电线杆和细架空线出现在右侧，并向雾中后退。店后朦胧竖线暗示远处结构，但上半幅主要是一整片绿黑雾气。雾迅速吞没细节：最亮的是店窗，即使顶檐灯带也向外化为柔光晕。没有清楚硬投影；黑暗聚在边缘和汽车下方。构图把大片空色团留在小人物与建筑上方，让亮着的店面显得孤立。低饱和青绿、橄榄绿、炭黑，以及一道细暖橘红重音承担色彩。颗粒、雾气与低反差共同营造安静而悬念未定的静止感。",
+  "style_prompt_en": "A low-key cinematic image is built from a broad teal-green fog field and a narrow cluster of warm artificial light near the lower center. Dark foreground texture is coarse and patchy, while distance dissolves rapidly into soft, nearly featureless haze. One thin coral-orange horizontal accent cuts across the muted green palette; a pale warm rectangular glow beneath it provides the principal illumination. Small black silhouettes and hairline verticals establish scale without detailed rendering. Edges are softened by diffusion except close to the bright source, where a few clean lines remain. No hard shadows appear; light spreads as halos and low contrast pools around dark shapes. Film-like grain and subdued color density give the sparse arrangement a still, isolated rhythm, with ample upper negative space pressing down on the small illuminated area.",
+  "style_prompt_zh": "低调的电影感画面由宽阔青绿色雾域和下部中央附近一簇狭窄暖色人工光组成。深色前景肌理粗糙而斑驳，远方迅速溶为柔软、近乎无物的雾。细珊瑚橘水平重音切过低饱和绿配色，下方浅暖色矩形光团提供主要照明。小黑剪影与发丝般竖线在无需细节的情况下建立尺度。边缘受到雾气扩散而变软，只有靠近亮源处保留几条干净线。没有硬阴影；光以光晕扩散，低反差色调环绕暗形。胶片般颗粒与克制色彩密度，让稀疏布局具有静止、孤立的节奏，大量上部负空间压在小小受光区域之上。",
+  "theme_en": "A lone figure outside a lit roadside shop in dense green fog",
+  "theme_zh": "浓绿雾里亮着灯的路边小店外独自站着的人",
+  "wh_ratio": "1:1",
+  "id": "2128",
+  "name": "Cody Ellingham",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/cody-ellingham",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/cody-ellingham.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "8e811f8abfbe6493d565d8e83984854a837aa8f408898f576483e335b4c6ce51",
+    "gpt_submission_prompt": "A square, cinematic image shows a small roadside shop glowing through thick green fog at night. The building sits right of center, its low flat canopy edged by a narrow orange-red light strip. Broad windows below spill pale yellow and white illumination onto the ground, revealing indistinct interior shelving and a few dark vertical shapes. A lone figure stands in the open space to the left of the building, reduced to a small near-black silhouette. Farther left, a dark car rests near the edge of the road, with a faint red rear light. The foreground is a rough, damp-looking expanse of pavement and gravel, almost black and broken by muted teal patches. Power poles and thin overhead wires appear at the right and recede into the fog. Behind the shop, hazy vertical outlines suggest distant structures, but the upper half is primarily an uninterrupted green-black mist. The fog swallows detail quickly: the brightest point is the shop window, and even the canopy light diffuses outward into a soft halo. There are no sharp cast shadows; darkness pools around the edges and under the car. The composition leaves a large empty mass above the small human and building elements, making the lit storefront feel isolated. Subdued teal, olive green, charcoal, and a thin warm red-orange accent carry the color. Grain, haze, and low contrast create a quiet, suspenseful stillness.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "baa0d9430a682ff5f39c3963addf157cc61f0fa785d77dcb157e0cc72c885dd8",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

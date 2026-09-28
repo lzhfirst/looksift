@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square narrative oil painting shows two young children sitting together on a weathered green chest. A blond boy in a green shirt and brown trousers leans forward slightly, smiling toward the girl beside him. She wears a light dress with warm brown patterning and a bright red bow in her curled hair. Their knees and feet hang over the chest, making a compact, cheerful group at the center. Around them the room is crowded with leafy plants, small sculpted objects, boxes and bits of fruit. A toy monkey peers from the left near the chest, adding a playful echo of the children's expressions. The background falls into deep olive and brown shadow, so the illuminated faces, hands and pale dress stand out clearly. Warm light from the upper left falls on blond hair, red ribbon and the top of the green wood, while lower corners remain darker and more textured. The scene is painted with careful realism in the faces and hands, but looser strokes in foliage, upholstery and scattered objects. Reds and golds punctuate a muted green brown palette. The composition feels full without becoming chaotic: the children's side-by-side pose makes a stable bright center, and the surrounding objects form a soft frame. The painting carries the warmth and slight theatricality of an old storybook moment.",
+  "full_prompt_zh": "这幅方形叙事油画呈现两个小孩并排坐在磨旧的绿箱子上。穿绿衫棕裤的金发男孩微微前倾，向身边女孩微笑。女孩穿带暖棕花纹的浅色裙，卷发上系一只鲜红蝴蝶结。两人的膝盖和脚悬在箱前，在中央构成紧凑而愉快的一组。房间周围塞满叶丛、小雕像、盒子和几枚水果。一只玩具猴从左侧箱旁探出，俏皮呼应孩子们的表情。背景落在深橄榄与棕色阴影里，受光的面孔、手与浅裙因此清楚突出。左上暖光照到金发、红缎带和绿木箱上面，下角则更暗、更富纹理。面孔和手以细致写实方式绘制，叶片、软装与散物的笔触较松。红与金点缀低饱和绿棕色盘。构图饱满而不混乱：孩子们并肩姿态形成稳定的明亮中心，周围物件构成柔软框架。画面有旧故事书场景的温暖与一点戏剧感。",
+  "style_prompt_en": "The narrative oil painting combines careful focal realism with looser, densely layered surroundings. Warm ivory, ochre and red accents glow within muted olive, deep green and brown. Upper side light selects the central planes, while peripheral forms settle into textured shadow. Brushed foliage and small scattered marks create a busy but soft frame around one stable bright cluster. Edges are crispest at the focal point and gently broken elsewhere. The overall effect is nostalgic, warm and quietly theatrical.",
+  "style_prompt_zh": "这种叙事油画把焦点处的细致写实与周围松散密叠的绘制结合。暖象牙色、赭黄和红色点缀在低饱和橄榄绿、深绿与棕色中发亮。上方侧光挑亮中央平面，外围形体沉入有纹理的阴影。刷出的叶状纹理与散落小笔记围住一组稳定亮形，繁忙却柔软。焦点边缘最清脆，其他地方轻微破碎。整体怀旧、温暖而安静地带有戏剧性。",
+  "theme_en": "Two smiling children on a green chest in a crowded garden room",
+  "theme_zh": "拥挤花园房间里坐在绿箱上的两个微笑孩子",
+  "wh_ratio": "1:1",
+  "id": "3169",
+  "name": "Bob Byerley",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/bob-byerley",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "48c370d8cf890d41e1e5184fb005aad56844c89e19a6f44c21f2fca672b6ded2",
+    "gpt_submission_prompt": "A square narrative oil painting shows two young children sitting together on a weathered green chest. A blond boy in a green shirt and brown trousers leans forward slightly, smiling toward the girl beside him. She wears a light dress with warm brown patterning and a bright red bow in her curled hair. Their knees and feet hang over the chest, making a compact, cheerful group at the center. Around them the room is crowded with leafy plants, small sculpted objects, boxes and bits of fruit. A toy monkey peers from the left near the chest, adding a playful echo of the children's expressions. The background falls into deep olive and brown shadow, so the illuminated faces, hands and pale dress stand out clearly. Warm light from the upper left falls on blond hair, red ribbon and the top of the green wood, while lower corners remain darker and more textured. The scene is painted with careful realism in the faces and hands, but looser strokes in foliage, upholstery and scattered objects. Reds and golds punctuate a muted green brown palette. The composition feels full without becoming chaotic: the children's side-by-side pose makes a stable bright center, and the surrounding objects form a soft frame. The painting carries the warmth and slight theatricality of an old storybook moment.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "84a1ea781fd299d116548b5d145559216e818f9937431d7033223c65edaf5c8a",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

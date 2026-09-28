@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square decorative illustration places two women in opposed profiles against a warm ochre ground. The woman at left faces left, with honey-blonde hair gathered into a large smooth coil and a vivid red high-neck garment. The woman at right faces right, her black hair tied into a low bun and her dark teal clothing crossed by a red band at the shoulder. Both have pale golden skin, long dark lashes, sharply drawn noses, and small red lips. Behind their heads, overlapping circular bands in tan, bronze, and muted gold form a quiet geometric halo. The figures are cropped at the chest, their backs nearly touching at the center, making the paired profiles the principal structure. Fine dark outlines and delicate parallel hatching describe hair, fabric, and the circular background. Color is laid in flat to gently graded fields rather than photographic modeling. Light appears even and warm, with small bright planes on the cheeks and foreheads, while deep dark hair provides the strongest contrast. The background bears faint paper grain and sketch-like marks, giving the otherwise polished design a handmade surface. The composition feels poised and emblematic, balancing mirrored posture with distinct colors and a subtle tension between the two outward gazes.",
+  "full_prompt_zh": "一幅方形装饰插画把两位女子的相反侧面放在暖赭底色前。左边女子朝左，蜜金色头发盘成大而平滑的发髻，穿鲜红高领衣。右边女子朝右，黑发束成低髻，深青衣物肩上有红带横过。两人都有浅金肤色、长深睫毛、清楚鼻形与小红唇。头后互相覆盖的棕黄、青铜与低调金色圆带形成安静几何光环。人物在胸口裁切，背部几乎在中央相触，使成对侧面成为主要结构。细深色轮廓与纤细平行排线描出发、布和圆形背景。颜色以平面到轻柔渐层铺出，而非照片式塑形。光均匀温暖，颊和额有小块亮面，深发提供最强对比。背景有淡纸颗粒和草图般笔痕，让精致设计仍保手工表面。构图端正而象征化，在镜像姿态、不同色彩与向外双重目光的微妙张力间平衡。",
+  "style_prompt_en": "Decorative illustration combines clean profile-like contours, restrained flat color, and concentric geometric framing. Ochre, bronze, gold, deep teal, black, and a concentrated red accent create an antique palette. Fine hatching in hair-like and fabric-like textures sits over faint paper grain. Smooth pale focal planes are set against dense dark masses. Light is even, with small highlights rather than deep cast shadows. Paired or mirrored forms can give the composition emblematic balance, while slight asymmetry keeps it alive. The result is poised, handmade, and quietly dramatic.",
+  "style_prompt_zh": "装饰插画把干净侧面般轮廓、克制平色和同心几何框架结合。赭、青铜、金、深青、黑与集中的红色点形成古旧配色。发状和布状细排线叠在淡纸颗粒上。平滑浅色焦点平面置于浓深色团块前。光均匀，以小高光而非深投影表现。成对或镜像形体令构图有象征性平衡，轻微不对称使其保持生气。结果端正、手工且安静戏剧化。",
+  "theme_en": "Two women in red and dark clothing beneath circular golden forms",
+  "theme_zh": "金色圆形纹样前身着红与深色衣物的两位女子",
+  "wh_ratio": "1:1",
+  "id": "0773",
+  "name": "Jenny Frison",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/jenny-frison",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/jenny-frison.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "6b0fbb2dc475a2305c0429f70342f0efa58742d3f9450749c5dde2a6974c8510",
+    "gpt_submission_prompt": "A square decorative illustration places two women in opposed profiles against a warm ochre ground. The woman at left faces left, with honey-blonde hair gathered into a large smooth coil and a vivid red high-neck garment. The woman at right faces right, her black hair tied into a low bun and her dark teal clothing crossed by a red band at the shoulder. Both have pale golden skin, long dark lashes, sharply drawn noses, and small red lips. Behind their heads, overlapping circular bands in tan, bronze, and muted gold form a quiet geometric halo. The figures are cropped at the chest, their backs nearly touching at the center, making the paired profiles the principal structure. Fine dark outlines and delicate parallel hatching describe hair, fabric, and the circular background. Color is laid in flat to gently graded fields rather than photographic modeling. Light appears even and warm, with small bright planes on the cheeks and foreheads, while deep dark hair provides the strongest contrast. The background bears faint paper grain and sketch-like marks, giving the otherwise polished design a handmade surface. The composition feels poised and emblematic, balancing mirrored posture with distinct colors and a subtle tension between the two outward gazes.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "58a2ea6bf5a900dd5c0d43887ea5bc19a0efe096364b7560404ba441afb933dd",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

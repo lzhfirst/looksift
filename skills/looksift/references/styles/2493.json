@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square children's-book watercolor shows two bonneted children crouching beside a small patch of white flowers at the foot of an old brick wall. The wall fills the upper half with warm tan and gray stones, interrupted by a projecting corner and a few trailing vines. On the left, a child in a rust-orange dress and broad white bonnet leans forward, one hand resting near the other child's shoulder. In front and slightly to the right, a child in a muted teal dress, cream apron, and white bonnet kneels close to the plants, reaching gently toward the blossoms. Their faces are mostly seen in profile or shaded by the bonnets, with attention directed to the flowers rather than the viewer. Cream-white blooms cluster at the lower right around dark green leaves and thin stems. Small rounded stones lie among the plants and across the pale earth in the foreground. The figures and flowers occupy the lower two-thirds, while the brick and ivy provide a sheltered backdrop. Delicate brown ink outlines describe the bonnets, hands, foliage, and masonry, softened by transparent washes of ochre, green, cream, and faded orange. The paper remains visible through light ground and wall areas, giving the image a gentle, aged texture. Daylight is even and warm, with modest shadows beneath the bonnets, arms, and leaves rather than strong cast shapes. No text or additional figures appear in the chosen scene. The overall composition is quiet and affectionate, drawing the eye from the two bent bodies into the small flowers within a softly weathered corner.",
+  "full_prompt_zh": "这幅方形儿童绘本水彩呈现两名戴软帽的孩子蹲在旧砖墙脚下一小丛白花旁。墙占据上半幅，由暖棕与灰石块组成，被凸出的墙角和几根垂藤打断。左侧一名孩子穿锈橙裙、戴宽白帽，向前倾，一只手落在另一名孩子肩旁。前方略偏右处，一名穿柔和蓝绿裙、奶油色围裙并戴白帽的孩子贴近植物跪着，轻轻伸手碰花。她们的脸大多呈侧面或被帽檐遮住，注意集中在花而非观者。奶油白花在右下方聚在深绿叶与细茎之间。小圆石散在植物间及前景浅色土面上。人物与花占据下三分之二，砖墙和常春藤构成受庇护的背景。细棕墨轮廓描出帽子、手、植物与砖石，再由透明赭黄、绿色、奶油和褪橙薄涂柔化。浅色地面与墙区透出纸张底色，赋予图像温和陈旧肌理。日光均匀而温暖，只在帽檐、手臂和叶下留适度阴影，没有强烈投影。所选场景里没有文字或其他人物。整体构图安静而亲切，视线从两个弯身的人导向柔和风化角落里的小花。",
+  "style_prompt_en": "Children's-book watercolor combines delicate brown ink contours with transparent washes of faded ochre, sage, cream, and rust. Paper color stays visible in open areas, while fine linework carefully describes small textures without making them heavy. Figures and organic forms are arranged close to a simple weathered backdrop, with gentle overlaps giving shallow depth. Soft even daylight keeps shadows modest and colors warm. Rounded contours, sparse ground marks, and restrained detail make the image tender, quiet, and handmade.",
+  "style_prompt_zh": "儿童绘本水彩把细棕墨轮廓与褪赭、鼠尾草绿、奶油和锈色透明薄涂结合。纸色在开放区域保持可见，细线描谨慎刻画小肌理，却不让它们沉重。形体与有机形状贴近简单风化底面排列，温和重叠带来浅纵深。柔和均匀日光使阴影克制、色彩温暖。圆润轮廓、稀疏地面痕迹和有节制细节让图像温柔、安静且充满手工感。",
+  "theme_en": "Two bonneted children gathering small flowers beside an old brick wall",
+  "theme_zh": "两名戴软帽的孩子在旧砖墙旁采拾小花",
+  "wh_ratio": "1:1",
+  "id": "2493",
+  "name": "Kate Greenaway",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/kate-greenaway",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/kate-greenaway.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "f63a93cefcd29c6ab1a3573fcfd2ff22ee8afb9164ee377cd7a88f98bac6c814",
+    "gpt_submission_prompt": "A square children's-book watercolor shows two bonneted children crouching beside a small patch of white flowers at the foot of an old brick wall. The wall fills the upper half with warm tan and gray stones, interrupted by a projecting corner and a few trailing vines. On the left, a child in a rust-orange dress and broad white bonnet leans forward, one hand resting near the other child's shoulder. In front and slightly to the right, a child in a muted teal dress, cream apron, and white bonnet kneels close to the plants, reaching gently toward the blossoms. Their faces are mostly seen in profile or shaded by the bonnets, with attention directed to the flowers rather than the viewer. Cream-white blooms cluster at the lower right around dark green leaves and thin stems. Small rounded stones lie among the plants and across the pale earth in the foreground. The figures and flowers occupy the lower two-thirds, while the brick and ivy provide a sheltered backdrop. Delicate brown ink outlines describe the bonnets, hands, foliage, and masonry, softened by transparent washes of ochre, green, cream, and faded orange. The paper remains visible through light ground and wall areas, giving the image a gentle, aged texture. Daylight is even and warm, with modest shadows beneath the bonnets, arms, and leaves rather than strong cast shapes. No text or additional figures appear in the chosen scene. The overall composition is quiet and affectionate, drawing the eye from the two bent bodies into the small flowers within a softly weathered corner.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "7b8e8a90f57b4a1328ee6dd1832c62be5f949dfd2e38e35fe9c85d5badfb353d",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

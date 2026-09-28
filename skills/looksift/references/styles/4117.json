@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square nineteenth-century landscape oil painting follows a calm river through an autumn valley. In the right foreground, a tall birch rises beside the water, its pale trunk leaning upward into a broad canopy of golden yellow leaves. Smaller trees and shrubs in rust, olive, and muted orange continue along both banks. The river begins in the lower center and bends leftward into the distance between low wooded hills. Near the front, pale rocks and fallen leaves lie at the muddy bank; a few tiny dark waterbirds drift near the right middle. The sky is soft blue-gray with thin cream clouds, and a low distant ridge closes the horizon. Paint is carefully handled: fine dabs build foliage, smoother horizontal strokes describe reflections, and dry touches give the rocks and bark texture. The golden tree reflects in the brown-green water, its shape broken gently by ripples. Diffuse daylight warms the canopy and selected bank grasses while the water and distant hills stay cooler and quieter. The composition uses the birch as a strong near vertical and the bending river as a slow visual route into depth. There are no people or buildings to disturb the stillness. The overall mood is pastoral, observant, and slightly wistful, focused on autumn light and natural surface.",
+  "full_prompt_zh": "一幅方形十九世纪风景油画沿着秋日山谷中的平静河流展开。右前景一棵高桦树立在水边，浅树干向上倾，托着宽阔金黄叶冠。较小的锈色、橄榄和低调橙色树灌沿两岸延续。河从下中起，向左弯进低矮林丘之间的远处。前方泥岸有浅石与落叶；右侧中景几只极小深色水鸟漂着。天空柔蓝灰，带薄奶油云，低远山脊封住地平。颜料处理细致：细点搭建叶丛，较平滑水平笔触描述倒影，干擦给岩石与树皮肌理。金树映在棕绿水中，形体被涟漪轻轻打碎。弥散日光暖化树冠与部分岸草，水和远山则较冷更静。构图以桦树作强近景竖线，弯河作缓慢入深视觉路线。没有人或建筑打扰静止。整体田园、善观察而略怅惘，专注秋光与自然表面。",
+  "style_prompt_en": "Nineteenth-century landscape oil painting combines fine foliage dabs with smooth water reflections and dry mineral or bark texture. Golden ochre, rust, olive, brown-green, and soft blue-gray form a natural autumn palette. Diffuse daylight warms selected upper leaves while cool water and distance recede gently. A near vertical mass can balance a slow curving channel into the horizon. Reflections are soft and broken, never mirror perfect. Edges sharpen in the near ground and soften along low wooded ridges. The finish is pastoral, observational, and quietly wistful.",
+  "style_prompt_zh": "十九世纪风景油画结合细小叶点、平滑水反射与干燥矿物或树皮肌理。金赭、锈色、橄榄、棕绿与柔蓝灰形成自然秋季配色。弥散日光暖化上方部分叶子，冷水和远方温和后退。近处竖向大形可平衡缓慢弯入地平的水道。倒影柔而破碎，绝非完美镜面。近地边缘较清楚，低林丘处逐渐柔化。完成面田园、善观察且安静怅惘。",
+  "theme_en": "A quiet autumn river beneath golden birch trees",
+  "theme_zh": "金色桦树下安静的秋日河流",
+  "wh_ratio": "1:1",
+  "id": "4117",
+  "name": "Worthington Whittredge",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/worthington-whittredge.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "c9e72165d8d174db2808961b014dc5a8289dca122bae12405a0846d4f9f12658",
+    "gpt_submission_prompt": "A square nineteenth-century landscape oil painting follows a calm river through an autumn valley. In the right foreground, a tall birch rises beside the water, its pale trunk leaning upward into a broad canopy of golden yellow leaves. Smaller trees and shrubs in rust, olive, and muted orange continue along both banks. The river begins in the lower center and bends leftward into the distance between low wooded hills. Near the front, pale rocks and fallen leaves lie at the muddy bank; a few tiny dark waterbirds drift near the right middle. The sky is soft blue-gray with thin cream clouds, and a low distant ridge closes the horizon. Paint is carefully handled: fine dabs build foliage, smoother horizontal strokes describe reflections, and dry touches give the rocks and bark texture. The golden tree reflects in the brown-green water, its shape broken gently by ripples. Diffuse daylight warms the canopy and selected bank grasses while the water and distant hills stay cooler and quieter. The composition uses the birch as a strong near vertical and the bending river as a slow visual route into depth. There are no people or buildings to disturb the stillness. The overall mood is pastoral, observant, and slightly wistful, focused on autumn light and natural surface.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "ff1c07b60268e437d1fd1512c1d9f78ea53309092a3fa73e20ef30f959d403a8",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

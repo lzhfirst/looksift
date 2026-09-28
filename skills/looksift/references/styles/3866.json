@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white conceptual photograph faces down a broad stone stair toward a gray, nearly featureless body of water. Two dark-clad figures occupy opposite sides of the lower half. On the left, a person in a long black coat and brimmed hat stands by the low parapet, one hand holding a rectangular dark case and the body angled toward the water. On the right, a white-haired or pale-hatted person in a long black dress sits on a stone block against the opposite wall, head bent slightly down and hands gathered in the lap. The central stair remains empty, its worn horizontal treads leading the eye between the figures to a small open boat floating just beyond the landing. Three more people in dark suits and hats stand upright in the boat, their narrow silhouettes reflected weakly below. Low stone walls run from both lower corners toward the vessel, creating a severe triangular corridor. The water merges with pale mist at the top, erasing any far shore; only fine horizontal ripples interrupt the blank field. The photograph is sharply composed but softly tonal, with matte blacks, silver grays, mild grain, and no bright whites except the seated figure's head. Flat overcast light leaves very little cast shadow and emphasizes quiet separation between the people. The composition's exact spacing and still, theatrical gestures make the empty stair feel like a pause before an unexplained departure.",
+  "full_prompt_zh": "一幅方形黑白概念摄影正对宽石阶尽头的灰色、近乎无特征的水面。两名深衣人物分占下半幅两侧。左边，一人穿长黑外套、戴檐帽，站在低墙旁，一手提着深色矩形箱，身体朝水面斜转。右边，一位白发或戴浅色帽的人穿长黑裙，坐在对侧墙边石墩上，头稍垂，双手收在膝上。中央石阶空无一人，磨旧的横向踏步引视线穿过两人，到达台阶外一艘小敞船。船上三名穿深色西装、戴帽的人笔直站着，窄剪影在下方水里只有淡弱倒影。低石墙从两个下角向船收束，构成严整三角通道。水面在顶端并入浅雾，远岸全被抹去，只有细横波纹打断空场。摄影构图清楚，却调子柔和，哑黑、银灰、轻颗粒构成画面，除坐者头部外没有强白。平坦阴天光几乎不留下投影，强调人们之间安静的距离。精确的间距与静止、舞台般动作让空石阶像一场难以解释的离别前停顿。",
+  "style_prompt_en": "Black-and-white conceptual photography uses deliberate tableau spacing, severe converging lines, and a broad misty void. Arrange a few dark isolated forms on opposing edges so the center becomes an empty route toward a small distant focal group. Keep tonal range muted in matte black and soft silver gray; fine grain and faint surface ripples add tactility without visual clutter. Overcast light removes hard shadows and allows far boundaries to vanish into haze. Use symmetrical structure with subtly unequal poses to create psychological distance. The effect is restrained, mysterious, and theatrical, with scale and stillness carrying the narrative.",
+  "style_prompt_zh": "黑白概念摄影运用精心安排的画面间距、严整汇聚线条与大片雾状虚空。让几个深色孤立形体位于相对两边，使中央成为通向远处小焦点群的空路线。调子限于哑黑和柔银灰；细颗粒与浅水纹增加触感，不使画面杂乱。阴天光去掉硬影，让远界消失于雾。以对称结构配合微妙不等的姿态制造心理距离。效果克制、神秘且带舞台感，由尺度和静止承载叙事。",
+  "theme_en": "Two black-clad figures on a waterside stair as a small boat waits",
+  "theme_zh": "两名黑衣人在临水石阶两侧，小船在前方等候",
+  "wh_ratio": "1:1",
+  "id": "3866",
+  "name": "Geof Kern",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/geof-kern",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "cdcfe883a9a59b268eb8530a8717e94844d1071cda8d555631a5f9e4e96f74ee",
+    "gpt_submission_prompt": "A square black-and-white conceptual photograph faces down a broad stone stair toward a gray, nearly featureless body of water. Two dark-clad figures occupy opposite sides of the lower half. On the left, a person in a long black coat and brimmed hat stands by the low parapet, one hand holding a rectangular dark case and the body angled toward the water. On the right, a white-haired or pale-hatted person in a long black dress sits on a stone block against the opposite wall, head bent slightly down and hands gathered in the lap. The central stair remains empty, its worn horizontal treads leading the eye between the figures to a small open boat floating just beyond the landing. Three more people in dark suits and hats stand upright in the boat, their narrow silhouettes reflected weakly below. Low stone walls run from both lower corners toward the vessel, creating a severe triangular corridor. The water merges with pale mist at the top, erasing any far shore; only fine horizontal ripples interrupt the blank field. The photograph is sharply composed but softly tonal, with matte blacks, silver grays, mild grain, and no bright whites except the seated figure's head. Flat overcast light leaves very little cast shadow and emphasizes quiet separation between the people. The composition's exact spacing and still, theatrical gestures make the empty stair feel like a pause before an unexplained departure.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "0ca3a6b3f1614528e344757af1114df46a3487c9d9e8984c5c78cd5dfd53d5b4",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

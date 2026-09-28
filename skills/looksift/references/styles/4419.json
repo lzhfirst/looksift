@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square painterly night scene shows two small figures standing close under a red umbrella on a rain-soaked city street. They are placed near the center-right, in front of a warm orange glow at the end of the road. A tall old building rises on the left, with a yellow-lit upper window and a dim doorway below. Dark trees arch across the top and sides, their scattered leaves catching small glints of light. The wet pavement reflects amber, orange, and muted gold in broken vertical streaks. Deep blue-green and near-black shadows occupy the outer frame, allowing the umbrella and backlight to carry the focus. The figures are simplified silhouettes rather than detailed portraits, their proximity giving the scene a tender narrative. Loose brushwork and flecks of glowing paint suggest drifting leaves or rain in the air. The composition funnels inward through the dark tree canopy and the building edges toward the bright center. Diffuse mist softens the distant glow; crisp little reflections keep the foreground alive. The whole image feels like a quiet romantic storybook illustration, luminous and intimate despite its dark palette, with visible textured paint rather than photographic clarity.",
+  "full_prompt_zh": "一幅方形绘画性夜景呈现两名小小人物在被雨浸湿的城市街道上，共撑一把红伞并肩站立。他们位于中央偏右，前方街尽头透出温暖橙光。左侧一栋高而古旧的楼房立起，上方窗户亮着黄光，下方门口较暗。深色树木在上方和两侧拱合，零散叶片接住细小亮光。湿润路面把琥珀、橙色和低饱和金色映成破碎的垂直光纹。深蓝绿与近黑阴影占据外围，使红伞和逆光承担焦点。人物是概括的剪影，而非细节肖像；两人贴近的距离给场景带来温柔叙事。松动笔触和发亮颜料斑点暗示空中飘动的叶子或雨。深色树冠与建筑边缘把构图引向明亮中心。漫射雾气柔化远方光源，前景小而清楚的反光保持活力。整幅画像安静的浪漫故事书插画，虽然色谱深沉，却依然发亮而亲密，能看见有肌理的颜料而非摄影清晰度。",
+  "style_prompt_en": "A nocturnal painterly illustration style gathers deep blue-green and near-black edges around a compact amber light source. Small warm-colored silhouettes and broken wet reflections establish scale and intimacy. Dark overhead shapes form a natural vignette, guiding attention toward the center. Loose textured strokes, scattered luminous flecks, and mist-softened distance suggest rain or drifting particles. Warm orange and yellow remain concentrated so they glow against the cooler shadow field. Surface texture stays visible in both dark foliage and reflective ground. The mood is quiet, romantic, and storylike, with atmosphere carrying more weight than fine realistic detail.",
+  "style_prompt_zh": "夜景绘画插画风格以深蓝绿和近黑边缘围住一处紧凑琥珀色光源。细小暖色剪影和破碎湿地倒影建立尺度与亲密感。上方深色形状形成自然暗角，把注意力引向中心。松动有肌理的笔触、散落发光斑点和被雾柔化的远方暗示雨或漂浮微粒。暖橙与黄色保持集中，因而在冷色阴影场中发亮。深色叶丛和反光地面都保留可见表面肌理。气氛安静、浪漫、像故事，空气感重于细密写实。",
+  "theme_en": "Two figures under a red umbrella on a wet city street at night",
+  "theme_zh": "夜晚湿润街道上，两个人共撑一把红伞",
+  "wh_ratio": "1:1",
+  "id": "4419",
+  "name": "Pascal Campion",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/pascal-campion.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "7f1d3efff521dda98492c4fa0c45856626b25c345344288fe5bf007c9113773d",
+    "gpt_submission_prompt": "A square painterly night scene shows two small figures standing close under a red umbrella on a rain-soaked city street. They are placed near the center-right, in front of a warm orange glow at the end of the road. A tall old building rises on the left, with a yellow-lit upper window and a dim doorway below. Dark trees arch across the top and sides, their scattered leaves catching small glints of light. The wet pavement reflects amber, orange, and muted gold in broken vertical streaks. Deep blue-green and near-black shadows occupy the outer frame, allowing the umbrella and backlight to carry the focus. The figures are simplified silhouettes rather than detailed portraits, their proximity giving the scene a tender narrative. Loose brushwork and flecks of glowing paint suggest drifting leaves or rain in the air. The composition funnels inward through the dark tree canopy and the building edges toward the bright center. Diffuse mist softens the distant glow; crisp little reflections keep the foreground alive. The whole image feels like a quiet romantic storybook illustration, luminous and intimate despite its dark palette, with visible textured paint rather than photographic clarity.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "8679e7d2a32afeeffd0f2a44f0d4a7b0a6574273f197e3133f8223e0f2b5944a",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

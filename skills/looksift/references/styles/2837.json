@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A full-length studio photograph shows a young man standing alone against a flat terracotta-orange wall. He has dense dark curls and wears a grey patterned suit over a black shirt, with brown boots visible at the bottom of the frame. Both hands rest in his trouser pockets; one leg crosses loosely in front of the other, making a relaxed diagonal through the otherwise upright figure. The complete body remains in view from the hair to the boot soles. He stands slightly to the right of center, surrounded by a large uninterrupted orange field, especially on the left. Even studio light illuminates the suit's fine mottled weave and gives the face a mild highlight. A soft but distinct shadow falls just behind and left of his body, separating it from the wall without creating deep space. The photograph has clear edges around the hair, jacket, trousers, and boots, while the plain background remains smooth. The palette joins warm orange and brown with cool grey cloth and the dark interior shape of the shirt. The floor and wall meet without a conspicuous line; the boots appear grounded by a small soft shadow. The whole composition emphasizes the vertical proportion of a complete figure and the measured distance between that figure and the frame edges.",
+  "full_prompt_zh": "一幅全身摄影棚照片呈现年轻男子独自站在平整的赤陶橙色墙前。他留着浓密深色卷发，身穿灰色细纹西装和黑色内搭，棕色靴子出现在画面最下方。双手插在裤袋里，一条腿松松地交叉到另一条腿前，在挺直的身体中形成斜线。从发顶到靴底，人物全身都保留在画内。他略偏画面右侧站立，周围留有大片连续橙色，左侧尤为空阔。均匀的棚拍光照出西装细密的斑驳织纹，也给面部一层温和亮光。柔和却明确的影子贴在身后偏左处，使人物脱离墙面，但不形成很深空间。卷发、外套、长裤和靴子的边缘清楚，单色背景则保持平滑。暖橙与棕色和偏冷的灰色布料、黑色内搭相配。地面与墙面没有醒目的分界线，靴下的一点柔影让人物着地。整幅构图强调完整人物的纵向比例，以及人物与画框四边之间经过控制的距离。",
+  "style_prompt_en": "A full-length studio photographic approach keeps a complete vertical form inside a square frame and gives it ample plain space on all sides. A single warm matte color covers the background and floor, with only a soft adjacent shadow to locate the foreground. Even, restrained lighting preserves small textile texture and distinct silhouette edges without strong glare. Cool grey patterned midtones and a dark inner shape interrupt the broad orange field; brown accents gather near the lower edge. The composition relies on a slim upright mass, one relaxed diagonal, and large areas of uninterrupted color. Spatial depth remains shallow, defined by the soft wall shadow and subtle contact shading at the base. The eye travels from the small high-contrast upper details down the full figure, then across the surrounding quiet color plane.",
+  "style_prompt_zh": "全身摄影棚画法将完整纵向形体收在方幅之内，并在四周留下充足单纯空间。一种暖色哑光色彩同时铺满背景与地面，只有贴近主体的柔影提示前后关系。均匀而克制的照明保留细小织物纹理及明确剪影边缘，没有强烈眩光。偏冷的灰色纹理中间调和一块深色内部形状打断宽阔橙色面，棕色点缀集中在下缘。构图依靠修长直立的色块、一条松弛斜线和大面积连续底色。空间纵深很浅，由柔和墙影与底部轻微接触阴影界定。视线从上方小面积高对比细节沿完整形体下行，再越过周围安静的色面。",
+  "theme_en": "A full-length fashion portrait against a terracotta studio wall",
+  "theme_zh": "赤陶色摄影棚墙前的全身时装肖像",
+  "wh_ratio": "1:1",
+  "id": "2837",
+  "name": "Full body height portrait",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/full-body-height-portrait",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/full-body-height-portrait.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "dbcf5899ab63d05d0dba76b25b5e81d818d70c44f86ebf6cce46f2796c17d020",
+    "gpt_submission_prompt": "A full-length studio photograph shows a young man standing alone against a flat terracotta-orange wall. He has dense dark curls and wears a grey patterned suit over a black shirt, with brown boots visible at the bottom of the frame. Both hands rest in his trouser pockets; one leg crosses loosely in front of the other, making a relaxed diagonal through the otherwise upright figure. The complete body remains in view from the hair to the boot soles. He stands slightly to the right of center, surrounded by a large uninterrupted orange field, especially on the left. Even studio light illuminates the suit's fine mottled weave and gives the face a mild highlight. A soft but distinct shadow falls just behind and left of his body, separating it from the wall without creating deep space. The photograph has clear edges around the hair, jacket, trousers, and boots, while the plain background remains smooth. The palette joins warm orange and brown with cool grey cloth and the dark interior shape of the shirt. The floor and wall meet without a conspicuous line; the boots appear grounded by a small soft shadow. The whole composition emphasizes the vertical proportion of a complete figure and the measured distance between that figure and the frame edges.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "ae602af11834ee50cc02a78497b8009ae3ca515d3e8e61c160da2bf368d03e62",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

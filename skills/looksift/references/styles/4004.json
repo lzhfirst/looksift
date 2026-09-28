@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white street photograph catches a young woman in a crowded city passage looking slightly upward and to the left. Her loose dark hair catches a rim of pale daylight, and her calm face remains the clearest point in the frame. She wears a dark coat, while passersby crowd close around her. At far left, another person appears only as a back-view shoulder and head; a large blurred figure crosses the right foreground, obscuring much of the street. Behind the woman, a row of buildings and shopfronts recedes along the pavement, with signs and window edges reduced to soft vertical rhythms. The camera feels embedded in pedestrian traffic rather than set apart from it. A shallow depth of field isolates the woman's expression while the near body becomes a dark, out-of-focus veil. Light enters from the open street above, giving her forehead and hair a gentle glow against darker coats. The composition is asymmetrical, with her face slightly left of center and the broad foreground blur pushing across the opposite side. Film grain and restrained tonal range keep the moment ordinary and intimate. The scene feels candid, transient, and human, as though a single glance has been found in the stream of motion. No caption or graphic frame appears.",
+  "full_prompt_zh": "一幅方形黑白街头照片捕捉拥挤城市通道里一名年轻女子微微向左上方望去。松散深发接住一圈浅日光，平静面孔是全画幅最清晰之处。她穿深色外套，行人紧贴周围。最左边另一个人只露背对镜头的肩和头；右前景一位巨大的模糊路人横穿，遮住大半街景。女子背后，一排建筑和店面沿人行道后退，招牌与窗边化为柔和竖向节奏。相机仿佛嵌在行人流里，而非远离人群。浅景深把她的神情分离出来，近处身体则成为失焦暗幕。光从开放街道上方进入，使额头和头发在深衣间微微发亮。构图不对称，面孔在中央稍左，宽阔前景模糊从另一侧推入。胶片颗粒与克制色阶让瞬间日常而亲密。场景未经摆拍、稍纵即逝，像从流动人潮中发现了一瞥。没有字幕或图形边框。",
+  "style_prompt_en": "Candid monochrome street photography with a shallow focal plane embedded within close passing forms. One softly lit focal area emerges from dark coats and blurred foreground occlusion; receding vertical urban rhythms stay secondary. Natural overhead daylight, nuanced middle grays, slight film grain, and asymmetrical framing give the image an intimate, transient quality.",
+  "style_prompt_zh": "抓拍式单色街头摄影把浅焦平面嵌入贴近掠过的形体之间。一处柔亮焦点从深衣与模糊前景遮挡中显现；后退的竖向都市节奏居次位。自然顶光、细腻中灰、轻微胶片颗粒与不对称取景赋予画面亲密而短暂的质感。",
+  "theme_en": "A young woman looking upward within a crowded city street",
+  "theme_zh": "拥挤城市街头仰望的年轻女子",
+  "wh_ratio": "1:1",
+  "id": "4004",
+  "name": "Street photography",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/street-photography.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "83be3d9bfb2e74c1a1f0c51c3d69170dd20b8890b8e6fca5fca508a012abbfba",
+    "gpt_submission_prompt": "A square black-and-white street photograph catches a young woman in a crowded city passage looking slightly upward and to the left. Her loose dark hair catches a rim of pale daylight, and her calm face remains the clearest point in the frame. She wears a dark coat, while passersby crowd close around her. At far left, another person appears only as a back-view shoulder and head; a large blurred figure crosses the right foreground, obscuring much of the street. Behind the woman, a row of buildings and shopfronts recedes along the pavement, with signs and window edges reduced to soft vertical rhythms. The camera feels embedded in pedestrian traffic rather than set apart from it. A shallow depth of field isolates the woman's expression while the near body becomes a dark, out-of-focus veil. Light enters from the open street above, giving her forehead and hair a gentle glow against darker coats. The composition is asymmetrical, with her face slightly left of center and the broad foreground blur pushing across the opposite side. Film grain and restrained tonal range keep the moment ordinary and intimate. The scene feels candid, transient, and human, as though a single glance has been found in the stream of motion. No caption or graphic frame appears.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "b1598aba94df21321b6eb9d0c3cde7213b300a8a8f75be3d2339a678493b4887",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

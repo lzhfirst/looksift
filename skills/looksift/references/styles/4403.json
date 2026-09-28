@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square science-fiction illustration looks down the central aisle of a glass-roofed transport cabin. Several crew members sit in warm rust-colored seats along both sides, while one person stands near the middle console in a blue uniform. Broad curved glass ribs arch overhead and repeat toward a distant cockpit, creating a tunnel of perspective. Through the transparent shell, heavy gray clouds and hints of machinery or landscape appear outside. Narrow instrument panels, switches, and worn metal fittings run along the lower sides of the cabin. The floorboards are warm brown and lead straight inward, balancing the cool gray-green glass and steel around them. Fine ink drawing defines the ribs, seats, and equipment; muted watercolor or gouache washes give the surfaces a gently aged color. The figures are small but legible, their postures suggesting quiet work rather than action. Diffuse daylight through the canopy lights the central aisle, while deeper shadows remain under seats and along the ceiling frame. Slight paper grain and imperfect drawn lines keep the vehicle tactile despite its futuristic design. The whole image feels like a thoughtful illustrated novel plate, precise in spatial construction and calm in mood.",
+  "full_prompt_zh": "一幅方形科幻插画沿着玻璃顶交通舱的中央走道望去。几名队员坐在两侧锈橙色座椅上，一位穿蓝制服的人站在中间控制台附近。宽阔弯曲的玻璃肋拱在头顶，并向远处驾驶位重复，形成隧道般的透视。透过透明外壳，可见外部沉重灰云，以及机械或地景的些许痕迹。狭窄仪表板、开关和磨旧金属装件沿舱室下方两侧排布。暖棕色地板直引视线向内，平衡周围冷灰绿的玻璃和钢架。细密墨线界定肋架、座椅与设备，低饱和水彩或不透明水彩薄染赋予表面略微陈旧的颜色。人物虽小却清晰可读，姿态暗示安静工作而非激烈行动。穿过顶篷的漫射日光照亮中央走道，座位下和顶架旁保留深影。轻微纸纹和不完美的手绘线条使未来交通工具仍有触感。整幅画像一张思考周到的插画小说画页，空间构造准确而情绪平静。",
+  "style_prompt_en": "A finely drawn science-fiction illustration style combines precise repeating structures with muted hand-painted color. Curved ribs, narrow panels, and a central vanishing point organize spatial depth. Cool gray-green glass and metal dominate, balanced by warm rust, ochre, and brown accents in the lower frame. Fine ink contours and small mechanical marks remain visible beneath watercolor or gouache washes. Diffuse skylight fills transparent areas, while seats, recesses, or other lower forms hold soft shadow. Human-scale details make an elaborate environment feel inhabited. Subtle paper grain and slight irregularity in line work preserve an illustrated-book quality instead of polished digital rendering.",
+  "style_prompt_zh": "细密绘制的科幻插画风格把精确重复结构与低饱和手绘颜色结合。弯曲肋架、窄长面板和中央消失点组织空间纵深。冷灰绿玻璃与金属占主导，下方由暖锈色、赭色和棕色点缀平衡。细墨轮廓和小机械笔迹在水彩或不透明水彩薄染之下仍清晰可见。漫射天光填满透明区域，座位、凹处或其他下方形体保留柔和阴影。人物尺度的细节让复杂环境显得有人使用。细微纸纹和线条里的轻微不规则保留插画书气质，而非抛光数字渲染。",
+  "theme_en": "A small crew studies instruments inside a glass-roofed futuristic vehicle",
+  "theme_zh": "小队在玻璃穹顶的未来交通舱内查看仪表",
+  "wh_ratio": "1:1",
+  "id": "4403",
+  "name": "Yoshiyuki Tomino",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/yoshiyuki-tomino.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "fe553450fb43c15912cb9121a9ccbe25b509b1716118f35a847d653cd527e7c8",
+    "gpt_submission_prompt": "A square science-fiction illustration looks down the central aisle of a glass-roofed transport cabin. Several crew members sit in warm rust-colored seats along both sides, while one person stands near the middle console in a blue uniform. Broad curved glass ribs arch overhead and repeat toward a distant cockpit, creating a tunnel of perspective. Through the transparent shell, heavy gray clouds and hints of machinery or landscape appear outside. Narrow instrument panels, switches, and worn metal fittings run along the lower sides of the cabin. The floorboards are warm brown and lead straight inward, balancing the cool gray-green glass and steel around them. Fine ink drawing defines the ribs, seats, and equipment; muted watercolor or gouache washes give the surfaces a gently aged color. The figures are small but legible, their postures suggesting quiet work rather than action. Diffuse daylight through the canopy lights the central aisle, while deeper shadows remain under seats and along the ceiling frame. Slight paper grain and imperfect drawn lines keep the vehicle tactile despite its futuristic design. The whole image feels like a thoughtful illustrated novel plate, precise in spatial construction and calm in mood.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "88bb5d1abf98a16505d778696f0ed6c6a37fba5d01637a7a7751a8158d5f6f32",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

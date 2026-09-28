@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "An elevated documentary view looks almost straight down over an immense, densely built settlement. Corrugated roofs, improvised blocks, and narrow lanes pack every side of a broad curved road. Tiny vehicles and people trace that road in a pale, irregular loop around a scarred open area. The urban fabric continues to the frame edges, creating an overwhelming sense of scale and repetition. Small bright patches of yellow, red, and blue appear amid an otherwise weathered grey-brown mass. There is no single heroic center; the subject is the accumulated human pattern and the altered ground itself.\n\nThe photograph retains high detail across the field, allowing individual roofs and intersections to remain visible even as they merge into a larger texture. A cool, muted palette of dusty charcoal, slate, rust, and concrete beige conveys haze and worn surfaces. Light is overcast or diffused, with few hard shadows and a subdued overall contrast. The curve of the road supplies the main compositional movement, while countless small rectangles and diagonals create a restless visual grain. The vantage point is detached and analytical but not abstract: vehicles and scattered color keep the scale recognizably lived in. Slight atmospheric softness in the far portions enhances the deep sprawl. There is no readable lettering at this viewing scale.",
+  "full_prompt_zh": "一幅高处的纪实视角，几乎垂直俯看一片巨大而密集的聚居区。波纹屋顶、临时拼接的街区和狭窄巷道，把一条宽阔弯路的两侧塞满。极小车辆和行人沿这条路走成一道浅色而不规则的弧，围住受破坏的空地。城市肌理一直延伸到画幅边缘，带来压倒性的尺度和重复感。黄、红、蓝的小亮斑散落在整体磨旧的灰褐色中。这里没有单一的英雄中心；主题是累积的人类纹样与被改变的土地本身。\n\n照片在全幅保留高细节，单个屋顶与路口仍可见，同时汇成更大的纹理。灰尘感炭灰、石板色、锈色与水泥米色组成偏冷而克制的色谱，传达雾霭和磨损表面。光线阴柔或经过漫射，少有坚硬阴影，整体对比收敛。道路的弯曲提供主要构图动势，无数小矩形和对角线形成躁动的视觉颗粒。视点疏离而分析性强，却没有抽象到不可辨认：车辆和零散色点仍保留生活尺度。远处略带空气柔化，增强深远的蔓延感。以此观看尺度没有可辨认文字。",
+  "style_prompt_en": "Aerial photographic detail fills the frame edge to edge with countless small weathered rectangles, diagonals, and narrow gaps. Dusty charcoal, slate, rust, and concrete beige form a cool muted field punctuated by rare bright color flecks. Diffuse light suppresses hard shadow and keeps the contrast subdued, while high local detail allows the repeated structures to remain distinct. A broad pale curve cuts through the dense texture and gives the eye a route across it. The elevated viewpoint turns accumulated material into an almost abstract pattern, yet the small variations preserve human scale. Slight atmospheric softness toward the distance deepens the sprawl. The tone is documentary, analytical, and quietly overwhelming.",
+  "style_prompt_zh": "航拍照片的细节从一边到另一边填满画幅，无数磨旧的小矩形、对角线和狭窄间隙相互交织。灰尘感炭灰、石板色、锈色和水泥米色构成冷而克制的场域，偶有鲜明小色点。漫射光压低坚硬阴影，使整体对比收敛，高密度局部细节仍让重复结构各自可辨。一道宽而浅的弯线切过密集纹理，为视线提供通路。高处视点让积累的物质几乎变成抽象图案，细小差异仍保存人的尺度。远处稍有空气柔化，使蔓延感更深。基调纪实、分析性强，安静而令人感到巨大。",
+  "theme_en": "A vast aerial record of a crowded urban excavation",
+  "theme_zh": "拥挤城市开挖地带的辽阔航拍记录",
+  "wh_ratio": "1:1",
+  "id": "3177",
+  "name": "Edward Burtynsky",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/edward-burtynsky",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "da304b7bcfc43d12e5126f94636287d52d490b162b4b2fc9219915b9f55658d0",
+    "gpt_submission_prompt": "An elevated documentary view looks almost straight down over an immense, densely built settlement. Corrugated roofs, improvised blocks, and narrow lanes pack every side of a broad curved road. Tiny vehicles and people trace that road in a pale, irregular loop around a scarred open area. The urban fabric continues to the frame edges, creating an overwhelming sense of scale and repetition. Small bright patches of yellow, red, and blue appear amid an otherwise weathered grey-brown mass. There is no single heroic center; the subject is the accumulated human pattern and the altered ground itself.\n\nThe photograph retains high detail across the field, allowing individual roofs and intersections to remain visible even as they merge into a larger texture. A cool, muted palette of dusty charcoal, slate, rust, and concrete beige conveys haze and worn surfaces. Light is overcast or diffused, with few hard shadows and a subdued overall contrast. The curve of the road supplies the main compositional movement, while countless small rectangles and diagonals create a restless visual grain. The vantage point is detached and analytical but not abstract: vehicles and scattered color keep the scale recognizably lived in. Slight atmospheric softness in the far portions enhances the deep sprawl. There is no readable lettering at this viewing scale.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "4f078a5163d5ee7cdbf9d17b23490219b15ba585ab0be01526e73bf18d3f4b90",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

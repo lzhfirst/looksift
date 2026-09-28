@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A screen-printed crime film poster gathers a fictional ensemble into a steep, overlapping pyramid of faces and figures. The largest face rises on the upper right, rendered in cool black and gray pencil-like strokes. Smaller characters press forward below, some in sharp red garments, with a dark horizontal prop pointing into the open white margin. A flat red disc sits behind the upper group, while faint urban fragments and tiny figures dissolve along the base. The composition uses dramatic differences of scale like a vintage theatrical one-sheet: each layer is legible yet partly hidden by the next. Inked hatching and dry brush marks define the brows, hair, and folds; loose red splatters and vertical drips roughen the clean ivory field. The palette is deliberately narrow, with charcoal, warm gray, crimson, and off-white carrying almost all the drama. Light feels stark and directional across the main forms, leaving sharp dark pockets in the overlapping shapes. White space around the edges gives the dense center room to breathe. The whole poster combines crisp likeness drawing with expressive print damage, giving the scene a tense, pulpy energy without needing elaborate scenery or lettering.",
+  "full_prompt_zh": "一张具有丝网印刷质感的犯罪电影海报，把虚构的角色群像叠成陡峭的金字塔形。最大的一张面孔位于右上方，以冷调黑灰色、近似铅笔的笔触绘成。较小的角色在下方层层靠前，有些穿着鲜红的衣装，一件深色横向道具指向敞开的白色留边。上层人群背后是一轮平涂的红圆盘，淡淡的城市碎片和微小身影则沿画面底部逐渐消散。构图借鉴旧式电影单页海报的强烈尺度变化：每一层都可辨认，又部分被下一层遮挡。墨线排线与干笔痕勾出眉毛、发丝和褶皱；松散的红色飞溅和竖向滴痕打破干净的象牙色底。色盘刻意收窄，炭黑、暖灰、绯红和米白几乎承担了全部戏剧性。光线在主要形体上显得锐利而有方向感，重叠处聚出清晰的深色暗部。四周的留白给密集的中心留出呼吸空间。整张海报把精确的肖像绘制与富于表现力的印刷磨损结合起来，即使没有复杂场景或文字，也透出紧张的通俗电影气息。",
+  "style_prompt_en": "A vintage screen-printed poster with a steep stack of overlapping forms at its center and generous ivory space around it. Charcoal and warm gray hatching give the main shapes crisp volume; flat crimson circles and blocks interrupt the monochrome. Dry brush, splattered ink, thin drips, and rubbed edges give the print a weathered surface. Scale shifts dramatically from one large upper mass to small fragments below. Directional light cuts across the forms, while deep pockets of black collect at intersections. The effect is graphic, tense, and spacious despite the dense center.",
+  "style_prompt_zh": "一张旧式丝网印刷海报，画幅中央堆叠着陡峭的形体，四周保留宽裕的象牙色空白。炭黑与暖灰的排线赋予主要形状清晰体积；平涂的绯红圆形与色块打断单色调。干笔、溅墨、细滴痕和擦旧的边缘构成磨损的印面。尺度从上方的一大块形体骤然变为下方的细小碎片。定向光线切过形体，深黑集中在相互交叠之处。中心虽密集，整体仍显得图形鲜明、紧张而疏朗。",
+  "theme_en": "A fictional crime film ensemble on a poster",
+  "theme_zh": "一张虚构犯罪电影的群像海报",
+  "wh_ratio": "1:1",
+  "id": "3037",
+  "name": "Quentin Tarantino",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/quentin-tarantino",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "172b5bd327602934071869384684ebb2fe9879538b5bf901e68763f50e998d61",
+    "gpt_submission_prompt": "A screen-printed crime film poster gathers a fictional ensemble into a steep, overlapping pyramid of faces and figures. The largest face rises on the upper right, rendered in cool black and gray pencil-like strokes. Smaller characters press forward below, some in sharp red garments, with a dark horizontal prop pointing into the open white margin. A flat red disc sits behind the upper group, while faint urban fragments and tiny figures dissolve along the base. The composition uses dramatic differences of scale like a vintage theatrical one-sheet: each layer is legible yet partly hidden by the next. Inked hatching and dry brush marks define the brows, hair, and folds; loose red splatters and vertical drips roughen the clean ivory field. The palette is deliberately narrow, with charcoal, warm gray, crimson, and off-white carrying almost all the drama. Light feels stark and directional across the main forms, leaving sharp dark pockets in the overlapping shapes. White space around the edges gives the dense center room to breathe. The whole poster combines crisp likeness drawing with expressive print damage, giving the scene a tense, pulpy energy without needing elaborate scenery or lettering.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "749ed450afc2d0b6b0021596744d4f4125bd499a410105a075f88063ab5ffaf1",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

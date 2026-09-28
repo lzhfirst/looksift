@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square editorial illustration is built from a few flat, sharply controlled color shapes. A woman appears in left-facing profile at the center, her pale face reduced to a clean ivory wedge beneath a broad black brimmed hat. Her black high-neck silhouette continues downward, becoming a tall, elegant vertical mass. Behind her, divide the background into charcoal gray on the left and warm off-white on the right with a clean central seam. A large vermilion semicircle presses in from the left edge, while a smaller red disc sits behind the hat on the upper right. A dark rounded shape at the lower right balances the strong red field. The visible mouth receives a tiny red accent; the reduced facial detail leaves the nose, chin and hat brim to identify the figure. Figure-ground relationships are exceptionally clear: some black edges merge with the charcoal half, while the ivory face remains strikingly legible. Matte flat fills have faint paper grain and uniformly solid color. Every curve is deliberate and every tangent clean. The mood is poised, stylish and slightly mysterious, like a mid-century fashion poster made with contemporary reduction. The eye moves between the small pale face, the large hat and the red circular rhythm.",
+  "full_prompt_zh": "正方形编辑插画由少量平涂且严格控制的色形构成。一位女性位于中央，面向左侧，浅色脸部被简化为宽黑帽檐下干净的象牙白楔形。黑色高领剪影向下延伸，形成修长优雅的竖向体块。背景左半为炭灰，右半为暖灰白，中间留一条干净分界。巨大的朱红半圆从左边缘切入，较小的红色圆盘位于帽子右上方的后面；右下角是一块深色圆润形状，平衡强烈红色区域。可见嘴部只有一点红色，五官细节高度简化，鼻、下巴和帽檐使人物清晰可辨。图底关系极为清晰：部分黑色边缘与炭灰半边相融，象牙色面孔仍醒目可读。哑光平涂色面均匀，带有极淡的纸纹。每条曲线都经过细致安排，形状相接处干净。气氛端庄、时髦、略带神秘，像以当代减法重作的世纪中期时尚海报。视线在小小浅色面孔、宽帽与红色圆形节奏间移动。",
+  "style_prompt_en": "Minimal vector-like editorial illustration combines large matte flat-color areas, exact curves, clean figure-ground reversals and disciplined geometric balance. Charcoal, deep black, warm ivory and vivid vermilion form a limited palette, with a tiny color accent echoing larger shapes. Broad opposing areas divide the square field, organized by circles, cropped arcs and a strong vertical silhouette rhythm. Uniform color planes and faint print-like grain support economical contours, visual wit and high legibility at small scale.",
+  "style_prompt_zh": "极简矢量感编辑插画结合大面积哑光平涂、精确曲线、干净的图底反转和严谨几何平衡。炭灰、深黑、暖象牙白与鲜明朱红构成有限配色，极小色点呼应大形。宽阔对照区域分割正方形画幅，圆形、截断圆弧与强烈竖向剪影节奏组织画面。均匀色面与极淡印刷颗粒支撑经济轮廓、视觉巧思及缩小后仍清晰的可读性。",
+  "theme_en": "A profile in a black brimmed hat among red geometric forms",
+  "theme_zh": "黑色宽檐帽侧影与红色几何色块",
+  "wh_ratio": "1:1",
+  "id": "1151",
+  "name": "Olimpia Zagnoli",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/olimpia-zagnoli",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/olimpia-zagnoli.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "585d5448e59ea0dbabbc34f6c0045c94215c11ff5b5cbaf32727718df2191d29",
+    "gpt_submission_prompt": "A square editorial illustration is built from a few flat, sharply controlled color shapes. A woman appears in left-facing profile at the center, her pale face reduced to a clean ivory wedge beneath a broad black brimmed hat. Her black high-neck silhouette continues downward, becoming a tall, elegant vertical mass. Behind her, divide the background into charcoal gray on the left and warm off-white on the right with a clean central seam. A large vermilion semicircle presses in from the left edge, while a smaller red disc sits behind the hat on the upper right. A dark rounded shape at the lower right balances the strong red field. The visible mouth receives a tiny red accent; the reduced facial detail leaves the nose, chin and hat brim to identify the figure. Figure-ground relationships are exceptionally clear: some black edges merge with the charcoal half, while the ivory face remains strikingly legible. Matte flat fills have faint paper grain and uniformly solid color. Every curve is deliberate and every tangent clean. The mood is poised, stylish and slightly mysterious, like a mid-century fashion poster made with contemporary reduction. The eye moves between the small pale face, the large hat and the red circular rhythm.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "a3477bb7b0c2fa5a83e29e56f30df83200a694e9b19c716b3ca061bbee68e3d0",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

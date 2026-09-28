@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A direct black-and-white documentary photograph shows a boy standing in a rough rural yard with a horse close beside him. The boy occupies the center foreground from chest upward, wearing a worn button-front shirt with a small pocket. He faces the camera squarely, dark hair cut straight across the forehead, his expression serious and unguarded. The horse's large head enters from the left edge just behind his shoulder, its pale muzzle and bridle visible; the animal's scale nearly matches the child's upper body. A younger child stands several steps behind on the right, slightly blurred, while a few adults and low structures recede toward the soft hills in the distance. The crop is tight enough to make the central face and horse immediate, yet open enough to retain the social and rural setting. Overcast daylight spreads evenly across skin, shirt, animal hair, and damp-looking ground, with no theatrical highlights. The grayscale is rich and slightly gritty: deep blacks in hair and horse mane, textured midtones in clothing and earth, and pale gray sky beyond. Film grain and modest softness at the margins keep the print tactile and candid. The composition uses the quiet alignment of child, animal, and background figures to create a humane sense of place, allowing the direct gaze to hold the image without forcing drama.",
+  "full_prompt_zh": "一张直接的黑白纪实照片，拍下一位男孩站在粗朴的乡间院地里，马紧靠在身旁。男孩从胸部以上占据前景中央，穿着磨旧的纽扣衬衫，胸前有小口袋。他端正面对镜头，深色头发齐齐盖过额头，神情严肃而毫无遮掩。马的大头从左边紧贴男孩肩后进入画面，浅色口鼻与缰绳可见；动物的尺度几乎与孩子上半身相当。右后方几步处站着另一个更小的孩子，略微模糊；更远处有几位成年人和低矮建筑，向柔和山丘退去。裁切足够紧，让中心面孔与马显得亲近，又足够开放，保留社会和乡村环境。阴天日光均匀铺在皮肤、衬衫、动物毛发和看似潮湿的地面上，没有戏剧性亮点。灰阶丰厚而略显粗粝：头发与马鬃是深黑，衣物和泥地是有纹理的中间调，远处天空是浅灰。胶片颗粒和画面边缘适度柔化，使相纸可触且有抓拍感。构图以孩子、动物和背景人物的安静排列营造有人情味的地方感，让直接的目光撑住图像，无需硬造戏剧。",
+  "style_prompt_en": "Direct black-and-white documentary photography with fine grain, gritty midtone texture, and soft overcast light. A clear central form faces the viewer while a larger adjacent organic mass presses into one side of the close frame. Smaller, softer shapes step backward into an open rural distance. Deep blacks in hairlike textures balance pale gray sky and lighter skinlike planes, while clothing and ground retain worn detail. The composition is candid and humane, compact near the front yet layered behind. Edges are naturally imperfect and the tonal range feels like an older film print.",
+  "style_prompt_zh": "直接的黑白纪实摄影风格，细颗粒、略粗粝的中间调纹理和柔和阴天光。清楚的中心形态面对观看者，旁边更大的有机体块紧贴近距离画框一侧；更小更柔的形态依次退入开阔乡间远处。毛发般纹理里的深黑与浅灰天空、较浅平面相平衡，布料和地面则保留磨旧细节。构图抓拍而有人情味，前部紧凑，后方仍有层次。边缘自然不完美，明暗范围像一张旧胶片相纸。",
+  "theme_en": "A serious boy standing beside a horse in a rural yard",
+  "theme_zh": "乡间院子里严肃男孩立在马旁",
+  "wh_ratio": "1:1",
+  "id": "1210",
+  "name": "Larry Towell",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/larry-towell",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/larry-towell.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "7e07b9d0c367d1ed0e9b6cb7aefdb98344fc20d342f15214849a58f80e736da7",
+    "gpt_submission_prompt": "A direct black-and-white documentary photograph shows a boy standing in a rough rural yard with a horse close beside him. The boy occupies the center foreground from chest upward, wearing a worn button-front shirt with a small pocket. He faces the camera squarely, dark hair cut straight across the forehead, his expression serious and unguarded. The horse's large head enters from the left edge just behind his shoulder, its pale muzzle and bridle visible; the animal's scale nearly matches the child's upper body. A younger child stands several steps behind on the right, slightly blurred, while a few adults and low structures recede toward the soft hills in the distance. The crop is tight enough to make the central face and horse immediate, yet open enough to retain the social and rural setting. Overcast daylight spreads evenly across skin, shirt, animal hair, and damp-looking ground, with no theatrical highlights. The grayscale is rich and slightly gritty: deep blacks in hair and horse mane, textured midtones in clothing and earth, and pale gray sky beyond. Film grain and modest softness at the margins keep the print tactile and candid. The composition uses the quiet alignment of child, animal, and background figures to create a humane sense of place, allowing the direct gaze to hold the image without forcing drama.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "6ad0d2a9a3a6ac82d31e83f07018b0d755d532203fc2cd627c73062ee26fa829",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square archival black-and-white street photograph looks down a broad muddy avenue crowded with horse-drawn carriages. Several dark enclosed vehicles advance toward the camera along deep wheel ruts in the foreground; horses and drivers form small distinct silhouettes within the busy central lane. To the right, a long row of pale canvas market tents or temporary shelters lines the street beneath multi-story brick buildings. At the left, pedestrians gather near the edge of the road, with more carriages receding into a hazy distance. The buildings form a continuous urban wall with varied roof heights, window rows, and a small flag visible above one roof. The camera stands at an elevated viewpoint, allowing the viewer to read the churned road, vehicles, tents, and facades as a broad social panorama. Light is flat and overcast; details are preserved through gray tonal separation rather than direct sun. The image bears age marks: slightly soft focus, faint grain, uneven exposure, and a few dark spots along the paper border. The foreground remains sufficiently crisp to reveal carriage wheels and muddy texture, while the distance loses detail into atmospheric haze. The result feels observational and historic, densely inhabited without staging or dramatic emphasis.",
+  "full_prompt_zh": "一张方形档案式黑白街景照片沿宽阔泥泞道路望去，路上挤满马拉车。几辆深色封闭车沿前景深车辙朝镜头驶来；马与车夫在繁忙中央车道形成细小而清楚的剪影。右侧长排浅色帆布市场棚或临时帐篷沿街排列，其后是多层砖建筑。左侧行人聚在路边，更多车辆退入朦胧远处。楼房形成连续城市墙面，屋顶高低不同，窗列重复，一处屋顶上还能看见小旗。相机位于稍高视角，让泥泞道路、车辆、帐篷与立面成为宽阔社会全景。光线平坦而阴天，细节靠灰阶分离而非直射阳光保留。影像带有岁月痕迹：焦点略软、颗粒淡、曝光不均，纸面边缘有少量深斑。前景足够清楚，能看见车轮与泥土纹理，远处则在空气薄雾中失去细节。成品具有观察性与历史感，密集有人活动，却无摆拍或戏剧化强调。",
+  "style_prompt_en": "Archival black-and-white documentary photography with elevated panoramic framing, layered urban density, and flat overcast light. Muddy midtones, dark vehicle-like masses, pale repeating canopies, and receding masonry grids form a complex yet legible field. Slight softness, fine grain, uneven exposure, and edge wear preserve the aged print character. Distance fades gradually rather than ending at a sharp horizon.",
+  "style_prompt_zh": "档案式黑白纪实摄影，以稍高的全景取景、层叠城市密度和阴天平光构成。泥色中间调、深色交通形块、浅色重复棚面及后退砌石网格形成复杂但可辨的场域。轻微软度、细颗粒、曝光不均与边缘磨损保留老相纸性质。远处逐渐褪去，而非在锐利地平线处终止。",
+  "theme_en": "Horse-drawn carriages moving along a muddy nineteenth-century street",
+  "theme_zh": "马拉车行进在泥泞的十九世纪街道上",
+  "wh_ratio": "1:1",
+  "id": "4464",
+  "name": "Mathew Brady",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/mathew-brady.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "41df09095ab97a6d7eec92770825d510f39b7eb12ece8760701cf3293e0f52f4",
+    "gpt_submission_prompt": "A square archival black-and-white street photograph looks down a broad muddy avenue crowded with horse-drawn carriages. Several dark enclosed vehicles advance toward the camera along deep wheel ruts in the foreground; horses and drivers form small distinct silhouettes within the busy central lane. To the right, a long row of pale canvas market tents or temporary shelters lines the street beneath multi-story brick buildings. At the left, pedestrians gather near the edge of the road, with more carriages receding into a hazy distance. The buildings form a continuous urban wall with varied roof heights, window rows, and a small flag visible above one roof. The camera stands at an elevated viewpoint, allowing the viewer to read the churned road, vehicles, tents, and facades as a broad social panorama. Light is flat and overcast; details are preserved through gray tonal separation rather than direct sun. The image bears age marks: slightly soft focus, faint grain, uneven exposure, and a few dark spots along the paper border. The foreground remains sufficiently crisp to reveal carriage wheels and muddy texture, while the distance loses detail into atmospheric haze. The result feels observational and historic, densely inhabited without staging or dramatic emphasis.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "a59d24d58bd9a9e4037922229698c8124548b550b297a9d2d28573d7b57601a7",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

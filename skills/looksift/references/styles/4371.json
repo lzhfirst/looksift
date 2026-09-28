@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square oil-painted seascape shows a small lighthouse and adjoining building on a rugged coast while storm waves roll toward the viewer. The lighthouse stands at the far left, its pale narrow tower rising against a nearly black cliff and bank of heavy cloud. Low buildings cluster beside it at the edge of the surf. Across the middle distance, the sea is choppy with short green-gray swells; a tiny dark sailboat leans near the center-right, partly veiled by spray and haze. At the lower right, a high foaming breaker curls toward a line of wet rocks, and shallow water washes over scattered stones across the foreground. A bright opening in the cloud ceiling near the upper middle sends muted golden light down to the horizon and picks out silver edges along the waves. The rest of the sky remains densely layered in charcoal, blue-gray, and olive cloud, with softer mist thinning toward the right. The surface shows loose, loaded brushwork: broken white strokes catch foam, darker smeared strokes carry the water, and broad blended passages build the cloud masses. The land has rough craggy edges and small warm highlights on stone and masonry. No individual people or readable lettering are visible. The eye moves from the lit cloud gap to the little vessel, then back along diagonal breakers toward the lighthouse. The overall composition balances the tall dark coastal mass on the left against a broad restless sea and luminous storm break on the right.",
+  "full_prompt_zh": "一幅方形油画海景描绘一座小灯塔及相邻建筑立在崎岖海岸，暴风浪朝观者滚来。灯塔位于最左侧，细窄浅色塔身在近黑峭壁和厚云前升起。低矮建筑挤在它旁边的浪缘。中景海面由短促绿灰色浪涌组成；中央偏右一艘小暗色帆船倾斜着，部分被飞沫与薄雾遮住。右下方一道高起的白沫浪头向湿岩卷去，浅水漫过前景散落石块。上方中央附近的云层裂口将低调金光送向地平线，也挑亮浪尖的银色边缘。其余天空仍层层叠着炭色、蓝灰和橄榄色云团，较轻薄的雾向右侧散开。画面保留松动厚实的油彩笔触：破碎白笔痕捕捉浪沫，深色涂抹笔触承载海水，宽阔融合色段构成云团。陆地边缘粗粝不平，石头和建筑上有少量暖色亮部。看不到单独人物或可辨文字。视线先从明亮云隙到小船，再沿斜向浪头返回灯塔。整体构图以左侧高而暗的海岸体量，平衡右侧宽阔躁动的海面与发光风暴裂口。",
+  "style_prompt_en": "A dramatic oil-painted image uses broad blended cloud masses, broken impasto-like highlights, and smeared directional strokes across a turbulent lower field. Charcoal, olive gray, slate blue, and deep green dominate, with a narrow opening of warm gold and silver-white. Light filters through a soft gap above, catching selected edges while most forms stay in cool shadow. Rough dark masses frame a more open luminous center. Diagonal bands and irregular foam-like marks drive the eye across shallow foreground texture toward a hazy horizon. Edges vary from hard craggy silhouettes to dissolved atmospheric passages. The finish is moody, kinetic, and tactile without losing its quiet tonal unity.",
+  "style_prompt_zh": "戏剧性油画图像使用宽阔融合的云状体量、破碎厚涂般亮笔触，以及穿过下方躁动色域的方向性涂抹。炭色、橄榄灰、石板蓝和深绿占主导，仅有窄小暖金与银白开口。光从上方柔和空隙滤下，挑亮少数边缘，大部分形状留在冷影里。粗糙深色体量围住较开阔发亮的中心。斜向色带和不规则泡沫状笔痕引导视线跨过浅前景肌理，走向朦胧远界。边缘从坚硬嶙峋剪影变化到消散的大气色段。成品阴郁、富动势、有触感，同时保持安静的色调统一。",
+  "theme_en": "A lighthouse on a rocky coast beneath a stormy opening of light",
+  "theme_zh": "暴风云隙下岩岸上的灯塔",
+  "wh_ratio": "1:1",
+  "id": "4371",
+  "name": "Andreas Achenbach",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/andreas-achenbach.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "6ea20c9d62701a0a5c99da512d1150a8af844d567f43be3939dd241fe04a80b2",
+    "gpt_submission_prompt": "A square oil-painted seascape shows a small lighthouse and adjoining building on a rugged coast while storm waves roll toward the viewer. The lighthouse stands at the far left, its pale narrow tower rising against a nearly black cliff and bank of heavy cloud. Low buildings cluster beside it at the edge of the surf. Across the middle distance, the sea is choppy with short green-gray swells; a tiny dark sailboat leans near the center-right, partly veiled by spray and haze. At the lower right, a high foaming breaker curls toward a line of wet rocks, and shallow water washes over scattered stones across the foreground. A bright opening in the cloud ceiling near the upper middle sends muted golden light down to the horizon and picks out silver edges along the waves. The rest of the sky remains densely layered in charcoal, blue-gray, and olive cloud, with softer mist thinning toward the right. The surface shows loose, loaded brushwork: broken white strokes catch foam, darker smeared strokes carry the water, and broad blended passages build the cloud masses. The land has rough craggy edges and small warm highlights on stone and masonry. No individual people or readable lettering are visible. The eye moves from the lit cloud gap to the little vessel, then back along diagonal breakers toward the lighthouse. The overall composition balances the tall dark coastal mass on the left against a broad restless sea and luminous storm break on the right.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "b5001e62ce4495dbb0ef9beeaf4803a1a739c993a0a2330b10b882bb1c8fdd90",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

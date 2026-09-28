@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A carefully composed black-and-white photograph looks down a narrow wooden boardwalk toward a large white country house in the distance. A woman is seen from behind at the center of the path, walking away in a fitted dark dress with a full skirt that spreads outward as she moves. A broad, flat-brimmed dark hat creates a crisp horizontal accent above her bare upper back and slender waist. The boardwalk planks and low rails lead the eye directly toward the house, while grass and shrubs on either side remain softly textured. Above, heavy tree branches curve across the top of the frame, making a natural arch that encloses the distant building and the small figure beneath it. The pale house, with chimneys and a regular row of windows, sits behind a broad lawn in soft focus. Light falls gently through the foliage, leaving scattered highlights on the boards and a luminous gray sky behind the branches. The image relies on graphic contrasts: the woman’s almost-black dress against the lighter path, the dark canopy against the pale architecture, and symmetrical leading lines softened by irregular leaves. Fine film grain and rich gray midtones give the scene a classic photographic surface. The arrangement is precise but quiet, with an elegant, slightly enigmatic sense of movement toward an unseen destination.",
+  "full_prompt_zh": "一张经过细致构图的黑白照片，视线沿一条狭窄木板步道通向远处宽大的白色乡间宅邸。一位女子背对镜头走在小路中央，身穿贴合腰身的深色长裙，宽大的裙摆随步伐向外展开。宽而平的深色帽檐，在裸露的上背和纤细腰线之上形成清楚的水平线。步道木板和低矮护栏把目光直接引向房子，两侧草地和灌木则保持柔和纹理。上方厚实的树枝弯曲穿过画框，形成天然拱形，将远处的建筑和其下方较小的人物围合起来。浅色房子带有烟囱和整齐的窗列，隔着一片宽草坪处于轻微柔焦中。光温柔地穿过树叶，在木板上留下零星亮点，树枝后面是发亮的灰色天空。画面依靠图形化的对比：女子近乎黑色的裙子衬着较浅的道路，深色树冠衬着浅色建筑，对称的引导线又被不规则叶片柔化。细微的胶片颗粒和浓郁灰色中间调赋予照片经典的实体质感。安排精确却安静，随着人物走向看不见的目的地，带出优雅而略带谜意的运动感。",
+  "style_prompt_en": "Elegant monochrome photography built from precise geometric alignment and soft natural irregularity. Strong dark silhouettes sit against pale, gently focused distances, while long parallel lines pull the eye toward a quiet center. Overhead branching shapes create a loose frame, giving the composition depth and a measured rhythm. Diffused outdoor light produces scattered highlights and ample silver-gray midtones without harsh glare. Fine film grain and restrained contrast preserve a classic print texture. The scene feels poised, spacious, and subtly enigmatic, with deliberate symmetry softened by organic detail and a hint of movement.",
+  "style_prompt_zh": "优雅的黑白摄影风格，以精确几何对齐与柔和自然的不规则形状共同构成。强烈的深色剪影放在浅淡、略带柔焦的远景前，长长的平行线把视线引向安静的中心。上方分枝形状形成松散画框，为构图增加深度和有节制的节奏。漫射户外光带来零星高光和充足银灰中间调，没有刺眼眩光。细密胶片颗粒与克制对比保留经典相纸质感。画面从容、开阔而微带谜意，有意安排的对称被有机细节和一点运动感柔化。",
+  "theme_en": "A woman in a dark dress walking toward a country house",
+  "theme_zh": "穿深色长裙的女子走向乡间宅邸",
+  "wh_ratio": "1:1",
+  "id": "3873",
+  "name": "Rodney Smith",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/rodney-smith",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "f583475ba3df4e8965a27ecfadd50c65c2162dee3303c63f1d5ca537293ae7aa",
+    "gpt_submission_prompt": "A carefully composed black-and-white photograph looks down a narrow wooden boardwalk toward a large white country house in the distance. A woman is seen from behind at the center of the path, walking away in a fitted dark dress with a full skirt that spreads outward as she moves. A broad, flat-brimmed dark hat creates a crisp horizontal accent above her bare upper back and slender waist. The boardwalk planks and low rails lead the eye directly toward the house, while grass and shrubs on either side remain softly textured. Above, heavy tree branches curve across the top of the frame, making a natural arch that encloses the distant building and the small figure beneath it. The pale house, with chimneys and a regular row of windows, sits behind a broad lawn in soft focus. Light falls gently through the foliage, leaving scattered highlights on the boards and a luminous gray sky behind the branches. The image relies on graphic contrasts: the woman’s almost-black dress against the lighter path, the dark canopy against the pale architecture, and symmetrical leading lines softened by irregular leaves. Fine film grain and rich gray midtones give the scene a classic photographic surface. The arrangement is precise but quiet, with an elegant, slightly enigmatic sense of movement toward an unseen destination.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "f8268a2d65c0bd2acf080facd07efcd28a31ad8b6d803787d58cec7aee35fdc4",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

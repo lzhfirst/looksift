@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square fantasy character study fills the frame with the head of an old woodland creature turned toward the right. A long angular nose, deep-set blue eye and compressed mouth give the face a stern, watchful expression. Its skin seems formed from pale blue gray wood or stone: ridges flare backward from the brow, and layered creases run across the cheek and jaw. A pointed ear emerges at the left edge. The head is cropped tightly at top, left and bottom, leaving only a narrow blue gray background beside the profile. The eye, set beneath a heavy overhanging ridge, becomes the small emotional center of the image. Light from the upper left travels across the raised brow and bridge of the nose, while recesses around the eye and under the cheek deepen to charcoal blue. Fine graphite-like lines map every crack and fold. Soft smudged shading between those lines gives the rigid material an organic volume. The cool palette is nearly monochrome, shifting through ivory gray, slate and deep indigo rather than using bright accents. The composition feels like an illustrated field study or a page from a fantasy bestiary, closely observing the face rather than staging an event. Crisp edges at the nose and ear contrast with the rough, branching textures that disappear into shadow around the skull.",
+  "full_prompt_zh": "这幅方形奇幻角色习作让一只古老林中生物的头部填满画面，朝右侧转去。细长而有棱角的鼻子、深陷蓝眼和紧闭嘴唇使面容严肃而警觉。皮肤仿佛由浅蓝灰木头或石头形成：眉上的脊线向后翻出，层叠皱褶横过脸颊和下颌。尖耳从左边缘伸出。头部在上、左、下都被贴近裁切，侧面之外只剩窄窄的蓝灰背景。重重压下的眉脊下，那只眼成为细小的情绪中心。左上来光横过凸起额骨和鼻梁，眼周及颊下凹陷加深为炭蓝。细如石墨的线描出每一道裂缝和皱纹。线间柔和擦染使坚硬材质也有有机体积。冷色盘几乎单色，在象牙灰、板岩色与深靛蓝间变化，不靠鲜亮点缀。构图像奇幻生物志中的插画田野习作，近距离观察面容，而不安排事件。鼻与耳的清脆边缘对照头骨周围渐入阴影的粗糙分枝纹理。",
+  "style_prompt_en": "The fantasy study uses a nearly monochrome range of ivory gray, slate and deep indigo. Fine graphite-like lines trace branching cracks and layered folds over softly blended volume. Upper light catches raised ridges, leaving narrow recesses in cool dark shadow. The frame is tightly cropped, so texture and a few sharp contours carry the composition. Hard, angular edges alternate with feathery rubbed shading. The result feels tactile, weathered and contemplative.",
+  "style_prompt_zh": "这种奇幻习作使用近乎单色的象牙灰、板岩色与深靛蓝。细如石墨的线沿分枝裂纹和层叠褶线游走，下面是柔和融合的体积。上方光照到凸脊，让狭窄凹处留在冷暗影里。画面裁切紧密，纹理与少数锐利轮廓承担构图。坚硬棱角边缘和羽毛般擦染交替，效果可触、磨旧而沉思。",
+  "theme_en": "A craggy blue-gray woodland creature in close profile",
+  "theme_zh": "蓝灰色嶙峋林中生物的近景侧面",
+  "wh_ratio": "1:1",
+  "id": "3160",
+  "name": "Brian Froud",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/brian-froud",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "dd9a12fd5d316470f118662f0cee7f49ad858eebfdb75960d510794ac298bc60",
+    "gpt_submission_prompt": "A square fantasy character study fills the frame with the head of an old woodland creature turned toward the right. A long angular nose, deep-set blue eye and compressed mouth give the face a stern, watchful expression. Its skin seems formed from pale blue gray wood or stone: ridges flare backward from the brow, and layered creases run across the cheek and jaw. A pointed ear emerges at the left edge. The head is cropped tightly at top, left and bottom, leaving only a narrow blue gray background beside the profile. The eye, set beneath a heavy overhanging ridge, becomes the small emotional center of the image. Light from the upper left travels across the raised brow and bridge of the nose, while recesses around the eye and under the cheek deepen to charcoal blue. Fine graphite-like lines map every crack and fold. Soft smudged shading between those lines gives the rigid material an organic volume. The cool palette is nearly monochrome, shifting through ivory gray, slate and deep indigo rather than using bright accents. The composition feels like an illustrated field study or a page from a fantasy bestiary, closely observing the face rather than staging an event. Crisp edges at the nose and ear contrast with the rough, branching textures that disappear into shadow around the skull.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "75a414288fe6d9b541de03dd7d1dc063c2c6a9faf7ce6f29dee4171c1e0364b9",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

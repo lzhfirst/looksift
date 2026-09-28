@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white fashion photograph crops tightly around a young woman's face beneath a broad dark hat. A sheer black lace veil falls across the right side of her face, tracing intricate floral openings over her cheek and jaw, while both pale eyes remain visible and calmly meet the camera. The top brim occupies a dark diagonal across the upper frame; the lower edge fades into fabric shadow. Her skin is luminous yet naturally textured, with faint freckles and small tonal variations around the nose. Full lips stay relaxed and closed. A bright pale background appears only in irregular gaps at the left and behind the lace, increasing the contrast between open light and patterned black. The focus is exact on the eyes, eyelashes and closest lace threads; more distant hat texture softens gently. Light comes broadly from the front-left, giving the face roundness without a strong cast shadow. The lace is treated as an active optical layer, partly hiding features and creating depth without obscuring expression. The image is glamorous, but its visual interest comes from precise texture, negative space and direct gaze rather than jewelry or elaborate makeup. Fine grain and deep matte blacks suggest a carefully printed fashion photograph with quiet intensity.",
+  "full_prompt_zh": "一幅正方形黑白时尚照片在宽大深色帽檐下紧贴裁切年轻女性的面孔。一层轻薄黑蕾丝垂过脸右侧，花形镂空在脸颊和下颌上形成繁密线条；两只浅色眼睛仍可见，平静地看向镜头。上方帽檐形成深色对角，画面下缘进入布料阴影。皮肤发亮却保有自然肌理，鼻旁有淡雀斑和细小灰阶变化，丰满嘴唇放松而闭合。浅色背景仅从左侧和蕾丝孔隙不规则露出，加强开放亮区与花纹黑色之间的对比。焦点精确落在眼睛、睫毛及最近的蕾丝线，较远帽面纹理温和柔化。宽广光线来自左前方，使面孔圆润，不留下强烈投影。蕾丝是一层积极参与图像的光学表面，遮掩部分五官并制造纵深，却不抹去神情。画面有时尚华丽感，但视觉趣味来自准确肌理、留白和直接目光，而非首饰或复杂妆容。细颗粒和深哑光黑色使它像一幅精心放大的时尚摄影作品，强度安静而集中。",
+  "style_prompt_en": "The style is high-contrast black-and-white fashion photography with a close square crop, broad soft frontal light and direct central focus. A patterned translucent layer crosses luminous skin, creating partial concealment and precise foreground depth. Deep matte blacks alternate with open pale gaps, while fine grain and natural surface texture prevent a plastic finish. Dark diagonals frame the visual center. The effect is elegant and psychologically immediate, with detail concentrated in tiny edges, tonal transitions and optical layering.",
+  "style_prompt_zh": "这种风格是高反差黑白时尚摄影，具有紧凑正方形裁切、宽柔正面光和直接中央焦点。带图案的半透明层越过发亮皮肤，形成局部遮蔽与准确前景纵深。深哑光黑色和开放浅色空隙交替，细颗粒与自然表面肌理避免塑料质感。深色对角线围住视觉中心。效果优雅而有心理上的直接性，细节集中在微小边缘、灰阶过渡与光学叠层上。",
+  "theme_en": "A close fashion portrait behind a black lace veil",
+  "theme_zh": "黑色蕾丝面纱后的近景时尚肖像",
+  "wh_ratio": "1:1",
+  "id": "1247",
+  "name": "Inez and Vinoodh",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/inez-and-vinoodh",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/inez-and-vinoodh.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "81eccbbf326ac5cdd97eee772bbd2bcd345c963f17db6ae4bf97d6b12e472fbe",
+    "gpt_submission_prompt": "A square black-and-white fashion photograph crops tightly around a young woman's face beneath a broad dark hat. A sheer black lace veil falls across the right side of her face, tracing intricate floral openings over her cheek and jaw, while both pale eyes remain visible and calmly meet the camera. The top brim occupies a dark diagonal across the upper frame; the lower edge fades into fabric shadow. Her skin is luminous yet naturally textured, with faint freckles and small tonal variations around the nose. Full lips stay relaxed and closed. A bright pale background appears only in irregular gaps at the left and behind the lace, increasing the contrast between open light and patterned black. The focus is exact on the eyes, eyelashes and closest lace threads; more distant hat texture softens gently. Light comes broadly from the front-left, giving the face roundness without a strong cast shadow. The lace is treated as an active optical layer, partly hiding features and creating depth without obscuring expression. The image is glamorous, but its visual interest comes from precise texture, negative space and direct gaze rather than jewelry or elaborate makeup. Fine grain and deep matte blacks suggest a carefully printed fashion photograph with quiet intensity.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "7f94ab084719d81a4dcdaa90e08fa372c7d7aff6fa0411597066214fa97259f3",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square cinematic still at night features a woman seen in close three-quarter view beside a pane of wet glass. Her face sits just left of center, and the right half dissolves into dense blue-green moisture and blurred light. She looks past the viewer with a restrained, searching expression; an earring glints below dark hair swept back from her face, and a patterned high collar catches a few gold highlights near the lower edge. A pale turquoise light from the rainy window illuminates one cheek, eyelid and lips, while the other side of her face retreats into deep green-black shadow. The glowing shape at the far right is overexposed and soft, with hundreds of small droplets and streaks on the glass sharply visible in front of it. Behind the woman, indistinct dark shapes suggest an interior without specific furnishings. The color-treated photographic look includes grainy film texture, shallow focus, rich teal shadows, small amber and red accents, and the optical softness of low light. The image carries a quiet tension rather than overt action. The face remains recognizable but partially veiled by atmospheric color, and the rain texture on the glass is nearly as prominent as the sitter. A dark left border, luminous wet right border, and gentle falloff through the middle create asymmetrical balance in the square frame.",
+  "full_prompt_zh": "一幅夜间正方形电影剧照：一位女子以近距离四分之三角度站在湿润玻璃旁。脸部位于中心略左，右半部消散在浓密的蓝绿色水汽与模糊灯光里。她带着克制而探寻的表情望向镜头之外；向后梳起的深发下有一只耳饰闪光，下缘的花纹高领捕捉几点金色高光。来自雨窗的淡青光照亮一侧脸颊、眼睑和嘴唇，脸的另一侧隐入深绿黑色阴影。最右边的发光形状保持柔和且过曝，玻璃上密密的细小水滴和流痕则在前景清晰可见。女子身后仅以模糊暗形暗示室内，不描绘具体家具。调色后的摄影质感包括胶片颗粒、浅景深、浓郁青绿阴影、少量琥珀与红色点缀，以及低照度的光学柔化。气氛带安静的紧张感，不依赖明显动作。面容可辨认，却被氛围色彩部分遮蔽；玻璃上的雨迹几乎与人物同等重要。画面具有不对称平衡：左缘深暗，右缘潮湿发亮，明暗在正方形画面中部柔和衰减。",
+  "style_prompt_en": "A moody color-treated film-still aesthetic combines saturated teal-green shadows, selective amber warmth, soft low-light optics, shallow focus, visible film grain, and luminous moisture. One crisp focal plane contrasts with blurred glowing depth; highlights bloom at the edge. Asymmetry and large dark passages sustain quiet emotional tension across the square frame.",
+  "style_prompt_zh": "富于情绪的调色电影剧照质感，青绿色阴影饱满，琥珀暖色选择性出现，低光光学柔化、浅景深、胶片颗粒和潮湿亮光并存。一个清晰焦平面对照模糊发亮的纵深，边缘高光轻轻溢出。不对称构图和大面积暗部使正方形画面保持安静张力。",
+  "theme_en": "A woman quietly watching through a rain-covered window at night",
+  "theme_zh": "一位女子在夜里透过雨水覆盖的窗静静凝望",
+  "wh_ratio": "1:1",
+  "id": "3467",
+  "name": "Wong Kar-wai",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/wong-kar-wai",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "4534fe51f5e618cf6135331c97737fd2ea90a6e822bb1d896df14608f2438e46",
+    "gpt_submission_prompt": "A square cinematic still at night features a woman seen in close three-quarter view beside a pane of wet glass. Her face sits just left of center, and the right half dissolves into dense blue-green moisture and blurred light. She looks past the viewer with a restrained, searching expression; an earring glints below dark hair swept back from her face, and a patterned high collar catches a few gold highlights near the lower edge. A pale turquoise light from the rainy window illuminates one cheek, eyelid and lips, while the other side of her face retreats into deep green-black shadow. The glowing shape at the far right is overexposed and soft, with hundreds of small droplets and streaks on the glass sharply visible in front of it. Behind the woman, indistinct dark shapes suggest an interior without specific furnishings. The color-treated photographic look includes grainy film texture, shallow focus, rich teal shadows, small amber and red accents, and the optical softness of low light. The image carries a quiet tension rather than overt action. The face remains recognizable but partially veiled by atmospheric color, and the rain texture on the glass is nearly as prominent as the sitter. A dark left border, luminous wet right border, and gentle falloff through the middle create asymmetrical balance in the square frame.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "b6a43b8c7b3c71f0636f7153b1a18ec02746b3d189f7ffb459d06674acaddf91",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square surreal photographic composite shows an old wooden boat resting within a vast submerged interior. The boat occupies the center and lower half, its dark curved hull tilted slightly toward the viewer. Several small figures stand on the deck and roof; one pale dress near the right side catches the strongest light. Other figures in dark diving gear stand around the boat on a debris-strewn floor. Above them, murky yellow green water is filled with tiny fish and floating fragments. Tall structural lines and indistinct walls recede behind the vessel, making the space feel like a flooded hall rather than open sea. A broad shaft of light descends from the upper left through the water, illuminating suspended particles and the pale deck figure. The floor is covered in broken stone, rusted objects and silt. The boat's worn wood, wet surfaces and soft algae colors give the scene a heavy physical texture. Edges grow softer with distance, while the nearest gear and hull retain visible detail. The composition is crowded but clearly organized around the boat as a central platform. Its gold green light and underwater haze make the scene both archaeological and dreamlike, as if a preserved moment were being quietly explored.",
+  "full_prompt_zh": "这幅方形超现实摄影合成呈现一艘旧木船停在巨大的淹水室内。船占据中央和下半幅，深色弯船壳稍向观者倾斜。几名小人物站在甲板与顶棚上；右侧一条浅色裙子承接最强光。其他穿深色潜水装备的人站在船周围的碎物地面。上方浑浊黄绿水里有细小鱼群与漂浮碎片。高大的结构线和模糊墙面在船后退去，使空间像淹没的大厅，而非开放海洋。一束宽光从左上穿过水面落下，照亮悬浮颗粒和浅衣甲板人物。地面覆盖碎石、锈物与淤泥。船的磨旧木面、潮湿表层和柔和藻绿色给场景厚重实体纹理。边缘随距离变柔，近处装备和船壳仍有可见细节。构图拥挤，却清楚围绕船这一中央平台组织。金绿色光与水下雾气使画面既像考古现场又如梦，像被保存的一刻正遭安静探索。",
+  "style_prompt_en": "The photographic composite blends realistic worn surfaces with a murky, dreamlike atmosphere. Yellow green, olive and silt brown dominate, broken by a few pale highlights. A broad angled light shaft catches suspended particles and gives the center a soft glow while outer forms sink into haze. Close textures remain detailed; distant structural lines dissolve gradually. Dense small forms surround one large curved mass, creating a submerged, timeworn stillness.",
+  "style_prompt_zh": "这种摄影合成把写实磨旧表面与浑浊梦境般空气结合。黄绿、橄榄与淤泥棕占主调，少数浅亮点打断。宽斜光束照到悬浮颗粒，使中央柔亮，外围形状沉入雾。近处纹理保持细节，远方结构线逐渐消散。密集小形围绕一块大的弯曲体量，形成被淹没、经时间磨损的静止感。",
+  "theme_en": "An old boat and figures in a submerged interior",
+  "theme_zh": "被水淹没的室内空间中的旧船与人影",
+  "wh_ratio": "1:1",
+  "id": "3850",
+  "name": "Andreas Franke",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/andreas-franke",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "b0331de80fc5f61a52bb41f7bd888ab53e9b9f99e56ed9be1186a13062771de6",
+    "gpt_submission_prompt": "A square surreal photographic composite shows an old wooden boat resting within a vast submerged interior. The boat occupies the center and lower half, its dark curved hull tilted slightly toward the viewer. Several small figures stand on the deck and roof; one pale dress near the right side catches the strongest light. Other figures in dark diving gear stand around the boat on a debris-strewn floor. Above them, murky yellow green water is filled with tiny fish and floating fragments. Tall structural lines and indistinct walls recede behind the vessel, making the space feel like a flooded hall rather than open sea. A broad shaft of light descends from the upper left through the water, illuminating suspended particles and the pale deck figure. The floor is covered in broken stone, rusted objects and silt. The boat's worn wood, wet surfaces and soft algae colors give the scene a heavy physical texture. Edges grow softer with distance, while the nearest gear and hull retain visible detail. The composition is crowded but clearly organized around the boat as a central platform. Its gold green light and underwater haze make the scene both archaeological and dreamlike, as if a preserved moment were being quietly explored.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "d70fd6f9307862e417315d628b2c17e584a9d244d04c0dfa431ea1f6a3a2f59d",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

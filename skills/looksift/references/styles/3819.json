@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square whimsical painted cartoon shows a small orange canopy floating high above soft blue-gray clouds at night. Beneath the peaked cloth roof, two elderly people sit side by side on a narrow platform. Their expressive faces, layered clothes, and quiet posture are picked out in warm lantern-like light. A few tiny objects and small creature shapes perch along the platform edges, making the suspended shelter feel lived in without filling the frame. Several thin cords descend from the platform into the cloud bank below, where they disappear. The canopy's warm ocher and rust fabric forms a compact triangular focal point in the upper middle of the image. Around it stretches a broad expanse of deep navy sky. A pale full moon sits at the upper left, its soft halo modest compared with the brighter warm light inside the shelter. Along the lower edge, billowing clouds rise in rounded layers of slate blue and cool gray, leaving an open dark interval between cloud and canopy. The characters and platform are rendered with small, precise brush marks and slightly humorous proportions; the fabric has softer folds and the clouds use diffuse, blended strokes. Light falls unevenly but gently, making the tent a warm island in a cool nocturnal space. The extreme difference in scale between tiny shelter and expansive sky gives the absurd scene a calm, almost tender quality. The overall composition is sparse and dreamlike, balancing a detailed orange center against dark blue negative space and soft cloud forms.",
+  "full_prompt_zh": "一幅方形、充满奇趣的绘画卡通描绘夜空中一顶漂浮在柔软蓝灰云层之上的橙色小帐篷。尖顶布棚下，两位老人并肩坐在狭窄平台上。温暖灯光般的亮处勾出他们有表情的脸、层叠衣物和安静姿态。平台边缘停着几件极小物品与小生物形态，使悬空居所显得有人生活，却没有填满画面。几条细绳从平台垂入下方云层，并在那里消失。布棚的暖赭与锈色面料在画面中上部形成紧凑三角焦点。四周伸展大片深海军蓝天空。浅色满月位于左上，柔和光晕比帐篷里的暖光更克制。沿下缘，蓬松云层以石板蓝和冷灰色圆润叠起，在云与帐篷之间留出开阔暗处。人物与平台由细小精确笔痕绘制，比例略带幽默；布料褶线更柔和，云层则用漫散混合的笔触。光照不完全均匀，却很轻柔，使帐篷成为冷色夜空中的温暖小岛。小居所与广阔天空之间的极端尺度差异，让荒诞场景显得安静、近乎温柔。整体构图稀疏而如梦，以精细橙色中心平衡深蓝留白与柔软云形。",
+  "style_prompt_en": "A whimsical painted-cartoon style pairs meticulous small focal details with broad softly blended atmosphere. Warm ocher, orange, and rust gather in a compact center against expansive deep navy, slate blue, and cool gray. Rounded forms and gently comic proportions remain carefully lit rather than flat. Diffuse cool light fills the surrounding space, while concentrated warm illumination makes the small focal cluster glow. Large negative areas and low soft layers emphasize scale and suspension. The finish is tactile, quiet, and dreamlike, with humor carried by visual proportion.",
+  "style_prompt_zh": "富有奇趣的绘画卡通风格把细密的小尺度焦点与宽阔柔和的空气层结合。暖赭、橙与锈色聚集在紧凑中心，对照广阔深海军蓝、石板蓝与冷灰。圆润形态和略带幽默的比例仍经过细致光照，而非完全平面化。漫散冷光填满周围，集中的暖光让小型焦点簇群发亮。大片负空间与低处柔和层次强调尺度和悬浮感。成品有触感、安静且如梦，幽默由视觉比例承载。",
+  "theme_en": "An elderly couple inside a tiny orange tent floating above clouds at night",
+  "theme_zh": "夜空中，一对年长伴侣坐在漂浮于云上的橙色小帐篷里",
+  "wh_ratio": "1:1",
+  "id": "3819",
+  "name": "Gary Larson",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/gary-larson",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "8e14047221a3c4b2a85f635d54ccb7c949530277af77d4066f5cb5ea5955ca83",
+    "gpt_submission_prompt": "A square whimsical painted cartoon shows a small orange canopy floating high above soft blue-gray clouds at night. Beneath the peaked cloth roof, two elderly people sit side by side on a narrow platform. Their expressive faces, layered clothes, and quiet posture are picked out in warm lantern-like light. A few tiny objects and small creature shapes perch along the platform edges, making the suspended shelter feel lived in without filling the frame. Several thin cords descend from the platform into the cloud bank below, where they disappear. The canopy's warm ocher and rust fabric forms a compact triangular focal point in the upper middle of the image. Around it stretches a broad expanse of deep navy sky. A pale full moon sits at the upper left, its soft halo modest compared with the brighter warm light inside the shelter. Along the lower edge, billowing clouds rise in rounded layers of slate blue and cool gray, leaving an open dark interval between cloud and canopy. The characters and platform are rendered with small, precise brush marks and slightly humorous proportions; the fabric has softer folds and the clouds use diffuse, blended strokes. Light falls unevenly but gently, making the tent a warm island in a cool nocturnal space. The extreme difference in scale between tiny shelter and expansive sky gives the absurd scene a calm, almost tender quality. The overall composition is sparse and dreamlike, balancing a detailed orange center against dark blue negative space and soft cloud forms.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "1b470a6241034143f28a9d70435c0f5ef3d4843522fee7a3b8505295ec0e56f0",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

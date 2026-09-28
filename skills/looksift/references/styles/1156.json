@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A lively oil painting shows a young woman standing beside a weathered white garden wall and dark doorway. She wears a short white summer dress covered with loose red, blue, and green floral marks, and a pale straw hat rests over dark wavy hair. Her body turns slightly toward the left while her face angles back toward the viewer, giving the pose a relaxed, self-aware ease. Sunlight touches her face, bare shoulders, and the bright folds of the dress; the doorway behind her drops into near-black shadow. Terracotta pots, climbing leaves, hanging flowers, and rough brickwork fill the right side with small, irregular accents. The view is cropped near her knees, so the figure remains prominent while the surrounding plants and worn surfaces explain the warm outdoor setting. The paint is handled with broken, confident strokes rather than precise photographic blending: thick dark marks build the hair and doorway, brisk pale strokes describe sunlit plaster, and dabs of saturated red and blue animate the dress and flowers. Edges vary between crisp highlights and loose passages that melt into the background. The palette mixes creamy white, warm skin, brick orange, olive green, deep brown, and splashes of vivid color. The whole image has an intimate, sun-warmed rhythm, with the figure emerging naturally from a busy, painterly garden corner.",
+  "full_prompt_zh": "一幅生动的油画，描绘一位年轻女子站在风化的白色庭院墙和深色门口旁。她穿一条白色短夏裙，上面散落着红、蓝、绿的花纹笔触，浅色草帽压在深色波浪发上。身体略向左转，面孔则回望观者，姿态松弛而自如。阳光照在她的脸、裸露肩膀和裙子的明亮褶皱上，身后的门口沉入近乎黑色的阴影。赤陶花盆、攀爬叶片、悬挂花朵和粗糙砖墙以细碎、不规则的点缀填满右侧。画面在膝部附近裁切，让人物保持突出，同时周围植物和磨旧表面交代温暖的户外环境。颜料以破碎而自信的笔触处理，不追求摄影式细滑融合：厚实深笔触堆出头发与门洞，快速浅色笔触描出被太阳照亮的灰泥，饱和红蓝色点让裙子与花朵活跃起来。边缘时而由亮部清楚界定，时而松散地融进背景。配色混合奶油白、暖肤色、砖橙、橄榄绿、深棕，以及几处鲜亮颜色。整个画面亲近而有日晒的温度，人物自然地从繁忙、富于笔触的花园角落中浮现。",
+  "style_prompt_en": "Expressive oil painting with broken, visible brushstrokes and lively differences in paint thickness. Creamy light values and warm flesh tones stand against deep brown shadows, earthy brick orange, olive green, and small dabs of vivid red and blue. Sunlit areas are built from brisk, opaque strokes; darker passages use broader, thicker marks. Edges shift between sharply caught highlights and loose forms that dissolve into adjacent color. Layered small accents surround a clear central shape, making the composition busy yet readable. The overall feeling is intimate, bright, and tactile, with a spontaneous outdoor rhythm.",
+  "style_prompt_zh": "富于表现力的油画风格，笔触断续可见，颜料厚薄活跃变化。奶油色亮部和暖色调与深棕阴影、砖橙、橄榄绿以及少量鲜红、亮蓝并置。日照区域由快速而不透明的笔触建立，暗处使用更宽厚的色块。边缘在被光抓住的清晰高光与融入邻近颜色的松散形状之间切换。层层细小点缀围绕清楚的中心形态，使构图繁忙却易读。整体亲近、明亮而有触感，带着自发的户外节奏。",
+  "theme_en": "A woman in a floral summer dress beside a garden wall",
+  "theme_zh": "花裙女子倚在庭院墙边",
+  "wh_ratio": "1:1",
+  "id": "1156",
+  "name": "Inessa Garmash",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/inessa-garmash",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/inessa-garmash.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "81e587fd12519f2c5c9ef0b8dc5e7478650f72d9bed090b36d22957605482164",
+    "gpt_submission_prompt": "A lively oil painting shows a young woman standing beside a weathered white garden wall and dark doorway. She wears a short white summer dress covered with loose red, blue, and green floral marks, and a pale straw hat rests over dark wavy hair. Her body turns slightly toward the left while her face angles back toward the viewer, giving the pose a relaxed, self-aware ease. Sunlight touches her face, bare shoulders, and the bright folds of the dress; the doorway behind her drops into near-black shadow. Terracotta pots, climbing leaves, hanging flowers, and rough brickwork fill the right side with small, irregular accents. The view is cropped near her knees, so the figure remains prominent while the surrounding plants and worn surfaces explain the warm outdoor setting. The paint is handled with broken, confident strokes rather than precise photographic blending: thick dark marks build the hair and doorway, brisk pale strokes describe sunlit plaster, and dabs of saturated red and blue animate the dress and flowers. Edges vary between crisp highlights and loose passages that melt into the background. The palette mixes creamy white, warm skin, brick orange, olive green, deep brown, and splashes of vivid color. The whole image has an intimate, sun-warmed rhythm, with the figure emerging naturally from a busy, painterly garden corner.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "2676b26ef2e9e92ebf32db457dae0c796cf0ac2ca7b8d49cd44c1e54091a00df",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square vintage fantasy-cover painting shows a sword-bearing heroine in the foreground before a roaring red dragon. She stands three-quarter toward the viewer with long dark hair, a bright turquoise jeweled costume, and a short blade angled down across the lower left. Behind her, the dragon's open jaws and scaled head rise from a wall of crimson, orange flame, and smoke. Smaller armed figures struggle in the middle ground near the fire, giving depth and a sense of danger. The heroine is rendered with smooth, careful anatomy and a calm, direct expression, contrasting with the violent energy behind her. Warm firelight edges her skin and hair, while the turquoise costume supplies a cool saturated accent against the red-orange field. Broad painterly strokes build smoke and dragon texture; sharper marks define jewelry, sword, face, and claw. Deep blacks in the upper corners and shadowed lower edge hold the central glow. The composition uses a strong vertical figure over a looming monstrous diagonal, creating the drama of a pulp book cover. The whole frame feels theatrical, adventurous, and slightly camp, with lush oil-paint color and clear storytelling rather than a modern digital polish.",
+  "full_prompt_zh": "一幅方形复古奇幻封面绘画描绘一位持剑女英雄立于前景，身后有一条咆哮的红龙。她以四分之三角度面向观者，长黑发，穿鲜明青绿色镶宝石装束，短剑向左下方斜落。龙张开的巨口与鳞甲头部从绯红、橙色火焰和烟雾墙中升起。更小的武装人物在中景火旁搏斗，建立纵深与危险感。女英雄的解剖结构细致平滑，表情平静直接，与身后暴烈能量形成对照。暖火光勾亮皮肤和头发，青绿服装则在红橙色场中提供饱和冷色点缀。宽阔绘画笔触构成烟和龙鳞，较尖锐笔迹界定珠饰、剑、面孔与爪。上角深黑和下缘阴影围住中央亮火。构图以有力竖向人物压在庞大怪物斜线前，形成通俗小说封面的戏剧性。整幅画舞台化、冒险且略带夸张趣味，油画色彩丰厚、叙事清楚，没有现代数字抛光感。",
+  "style_prompt_en": "A vintage pulp-fantasy cover style contrasts a clear, carefully modeled foreground focal form with a huge energetic background presence. Crimson, burnt orange, flame yellow, and deep black dominate, interrupted by one saturated turquoise accent. Warm backlight rims selected edges; broad painterly marks describe smoke, flame, and rough surfaces, while sharper detail concentrates on face, metal, and ornament. A strong vertical foreground shape and diagonal looming mass create theatrical tension. Small middle-ground marks add narrative scale. The finish is lush and oil-painted, dramatic and slightly extravagant, with a readable hierarchy rather than seamless digital realism.",
+  "style_prompt_zh": "复古通俗奇幻封面风格把清楚而细致塑形的前景焦点，与巨大而充满能量的背景存在对照。绯红、焦橙、火黄和深黑占主导，由一处饱和青绿色打断。暖逆光勾出精选边缘；宽阔绘画笔迹描述烟、火和粗糙表面，较尖锐细节集中在面孔、金属和饰件上。有力的前景竖形与逼近的斜向大形体制造舞台张力。细小中景笔迹增加叙事尺度。效果丰厚而像油画，戏剧化且略显夸张，层级清楚，而非无缝数字写实。",
+  "theme_en": "A sword-bearing fantasy heroine before a fiery red dragon",
+  "theme_zh": "一位持剑奇幻女英雄站在火红巨龙前",
+  "wh_ratio": "1:1",
+  "id": "4254",
+  "name": "Boris Vallejo",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/boris-vallejo.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "3b934ad1bfce5d6e74fd6e738d6d6f5b45906d82570d60aa62c85f1e9bf4bc48",
+    "gpt_submission_prompt": "A square vintage fantasy-cover painting shows a sword-bearing heroine in the foreground before a roaring red dragon. She stands three-quarter toward the viewer with long dark hair, a bright turquoise jeweled costume, and a short blade angled down across the lower left. Behind her, the dragon's open jaws and scaled head rise from a wall of crimson, orange flame, and smoke. Smaller armed figures struggle in the middle ground near the fire, giving depth and a sense of danger. The heroine is rendered with smooth, careful anatomy and a calm, direct expression, contrasting with the violent energy behind her. Warm firelight edges her skin and hair, while the turquoise costume supplies a cool saturated accent against the red-orange field. Broad painterly strokes build smoke and dragon texture; sharper marks define jewelry, sword, face, and claw. Deep blacks in the upper corners and shadowed lower edge hold the central glow. The composition uses a strong vertical figure over a looming monstrous diagonal, creating the drama of a pulp book cover. The whole frame feels theatrical, adventurous, and slightly camp, with lush oil-paint color and clear storytelling rather than a modern digital polish.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "4444269aa449c3c8a009234adcff5c6da7b99924ae31f7c40696ad72f587abfa",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

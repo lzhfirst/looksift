@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square pop-art illustration shows two cheerful bird faces pressed together at the center. Their oversized white eyes tilt toward each other, outlined in thick black, while yellow beaks and rounded heads are divided into bright blocks of red, orange, purple and blue. Below them, simple flowers with circular centers and rounded petals sit near the lower corners. Behind the pair, a mosaic of squares, curved segments and small patches of texture fills the entire frame. There is no horizon or realistic setting; every gap becomes another color panel. The heavy black outlines act like stained-glass leading, keeping the crowded shapes distinct. Some areas carry dots, checks or tiny repeated patterns, while others remain flat glossy color. Light is graphic and even, with white eye areas and occasional pale panels supplying brightness rather than physical highlights. The birds occupy the middle of a tightly balanced composition, and their paired round eyes provide a clear focal point amid the busy decorative field. A thick black border frames the image. Primary colors are softened by pink, violet, lime and turquoise, creating a playful saturation without one dominant hue. The overall design feels celebratory and childlike, its surface made lively by bold contours, patchwork pattern and cheerful visual rhythm.",
+  "full_prompt_zh": "这幅方形波普艺术插画呈现两张欢快鸟脸在中央紧挨着。夸张白眼相向倾斜，由厚黑线围住，黄嘴与圆头被分成红、橙、紫、蓝的明亮色块。下方两角附近有圆心与圆瓣构成的简单花。两鸟身后，方块、曲段和细小纹理片组成的马赛克填满整个画框。没有地平线或写实环境，每个缝隙都变成另一块颜色。粗黑轮廓像彩窗铅条，使拥挤形状保持分明。有些区域带点纹、方格或微小重复纹样，另一些保持平坦光亮色。光图形化且均匀，白眼区和偶尔浅色块提供亮度，而非物理高光。两鸟位于紧密平衡构图的中部，成对圆眼在繁忙装饰色域中提供清楚焦点。厚黑边框围住图像。原色由粉、紫、莱姆绿与青绿缓和，形成不由单一色主导的俏皮饱和。整体设计欢庆而童趣，粗轮廓、拼贴图案和愉快视觉节奏使表面活跃。",
+  "style_prompt_en": "The pop-art image uses thick black partitions around bright flat color cells, like playful stained glass. Red, yellow and blue mix with pink, violet, lime and turquoise in a dense all-over pattern. Dots, checks and tiny repeated marks vary the surface without weakening the strong outlines. Even graphic light comes from white and pale cells rather than natural shadows. Rounded central forms and smaller corner accents make the crowded frame balanced and jubilant.",
+  "style_prompt_zh": "这种波普艺术图像用厚黑分隔线围住明亮平色格，像俏皮彩窗。红、黄、蓝与粉、紫、莱姆绿和青绿在密集满幅图案中相混。点纹、方格和细小重复记号变化表面，却不削弱强轮廓。均匀图形光来自白色和浅色格，而非自然阴影。中央圆形与角落较小点缀让拥挤画框保持平衡欢快。",
+  "theme_en": "Two cheerful birds among bright geometric flowers",
+  "theme_zh": "鲜艳几何花朵间的两只欢快鸟",
+  "wh_ratio": "1:1",
+  "id": "3214",
+  "name": "Romero Britto",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/romero-britto",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "63025ab3712b46e27a1ae22f83ba561c67ccf5e31e1f01862abf350d437de8cd",
+    "gpt_submission_prompt": "A square pop-art illustration shows two cheerful bird faces pressed together at the center. Their oversized white eyes tilt toward each other, outlined in thick black, while yellow beaks and rounded heads are divided into bright blocks of red, orange, purple and blue. Below them, simple flowers with circular centers and rounded petals sit near the lower corners. Behind the pair, a mosaic of squares, curved segments and small patches of texture fills the entire frame. There is no horizon or realistic setting; every gap becomes another color panel. The heavy black outlines act like stained-glass leading, keeping the crowded shapes distinct. Some areas carry dots, checks or tiny repeated patterns, while others remain flat glossy color. Light is graphic and even, with white eye areas and occasional pale panels supplying brightness rather than physical highlights. The birds occupy the middle of a tightly balanced composition, and their paired round eyes provide a clear focal point amid the busy decorative field. A thick black border frames the image. Primary colors are softened by pink, violet, lime and turquoise, creating a playful saturation without one dominant hue. The overall design feels celebratory and childlike, its surface made lively by bold contours, patchwork pattern and cheerful visual rhythm.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "ac1f346faf7eec66963162e9ce215fd3cbaa37b685d3730f19313d85eafaed21",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

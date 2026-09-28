@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square drawing shows an elderly scholar in close view, facing almost straight ahead beneath a dark soft cap. His deeply set eyes look outward; a broad nose and compressed mouth emerge from a web of fine brown lines. Long hair and a flowing beard occupy the lower half of the image. The material appears to be brown ink and chalk on warm aged paper. Thousands of delicate diagonal strokes overlap in changing directions, accumulating to form shadow under the cap, beside the nose and through the beard. Lighter regions are made by leaving the paper open, so the face glows softly without any hard white pigment. The background is not an empty flat field: dense crosshatching around the head produces a smoky halo and gives the contour depth. A few lines remain loose and exploratory, particularly in the hair, while the eyes and central features are more precisely resolved. The tight crop places the face almost at life scale within the square, lending the drawing a measured, intimate gravity. The palette stays within parchment tan, walnut brown and near-black. Its strength lies in patient observation and tonal accumulation; every mark works as both a trace of the hand and a unit of light, texture and form.",
+  "full_prompt_zh": "一幅正方形素描近距离描绘一位年长学者，头戴深色软帽，几乎正对观者。深陷的眼睛望向画外；宽鼻与紧闭的嘴从细褐线网中浮现。长发和流动的胡须占去画面下半部。材料看似暖色旧纸上的褐色墨水与粉笔。成千上万道纤细斜线以变化方向交叠，在帽下、鼻侧和胡须间逐渐积成阴影。浅色区域靠保留纸面形成，使面容柔和发亮，而不用生硬白色颜料。背景并非空白平面：头部周围密集交叉排线形成烟雾状光晕，也给轮廓带来深度。部分线条仍松散而探索性，尤其是发丝处；眼睛与中央五官则更精确。紧密裁切让面容在正方形中接近真人尺度，赋予画面审慎、亲密的庄重感。色谱限于羊皮纸黄、胡桃褐与近黑色。力量来自耐心观察和调子逐层积累；每一道线既是手的痕迹，也是光、质地和体积的单位。",
+  "style_prompt_en": "The style is old-master tonal drawing on warm paper, with intricate crosshatching and delicate changes in line density. Form emerges from accumulated brown strokes rather than flat fills; open support supplies the lightest values. Fine directional marks describe both broad volume and feathery surface texture, while darker overlapping nets create depth around a central focal area. A compressed sepia palette gives the image warmth and age. Close framing and selective precision lend the study intimate gravity.",
+  "style_prompt_zh": "这种风格是暖色纸上的古典明暗素描，具有繁密交叉排线与细微线密度变化。形体从逐渐积累的褐色线条中浮现，而非依靠平涂；裸露纸面提供最亮明度。细小有方向的笔痕同时描述宽阔体积与羽状表面肌理，更深的重叠线网则在中央焦点周围建立深度。压缩的赭褐色谱赋予画面温度和年代感。近距离取景与选择性精确带来亲密的庄重感。",
+  "theme_en": "An elderly scholar portrayed in layered sepia crosshatching",
+  "theme_zh": "以层叠赭褐排线描绘的年长学者",
+  "wh_ratio": "1:1",
+  "id": "4174",
+  "name": "Leonardo Da Vinci",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/leonardo-da-vinci.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "cfe41a4a2aec286e71c02fd7066ae33f4a913e6b6769c43717fb787a4b5ac14f",
+    "gpt_submission_prompt": "A square drawing shows an elderly scholar in close view, facing almost straight ahead beneath a dark soft cap. His deeply set eyes look outward; a broad nose and compressed mouth emerge from a web of fine brown lines. Long hair and a flowing beard occupy the lower half of the image. The material appears to be brown ink and chalk on warm aged paper. Thousands of delicate diagonal strokes overlap in changing directions, accumulating to form shadow under the cap, beside the nose and through the beard. Lighter regions are made by leaving the paper open, so the face glows softly without any hard white pigment. The background is not an empty flat field: dense crosshatching around the head produces a smoky halo and gives the contour depth. A few lines remain loose and exploratory, particularly in the hair, while the eyes and central features are more precisely resolved. The tight crop places the face almost at life scale within the square, lending the drawing a measured, intimate gravity. The palette stays within parchment tan, walnut brown and near-black. Its strength lies in patient observation and tonal accumulation; every mark works as both a trace of the hand and a unit of light, texture and form.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "d93eeab581695070054ca4998f300b6f256ef9afcb85bf3ee4f14f50484330aa",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

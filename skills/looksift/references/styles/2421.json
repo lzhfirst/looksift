@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square surreal drawing shows a tall crouching figure in a pale angular crown facing a small child in a red dress. The background is a nearly black wall, lightly scuffed and textured, with no identifiable room beyond the shallow ledge on which they sit. The taller figure occupies the left, balanced on bent knees and leaning forward. Its long gray coat folds around the legs and arms, and worn boots rest on a pale floor. Instead of a visible face, a tall off-white paperlike crown or folded head covering narrows toward the neck, with sharp cut angles at the top. One hand reaches toward the child in a delicate questioning gesture. On the right, the child sits on a pale rectangular chest with feet hanging down, body turned left to meet the figure. A soft white bonnet encloses the child's head; the long red garment supplies the image's only strong color. The child's small hands gather near the lap, and the profile remains calmly attentive. Fine pencil and charcoal marks describe cloth seams, boot creases, and the chest's edges. Warm cream paper shows through rubbed gray shading, while the black wall encloses the two figures in a stark, shallow space. Diffuse light from the upper left catches the crown, bonnet, hands, and front edges of the clothing; heavy shadow remains behind them and inside the coat folds. The overall composition is quiet and unsettling, using a close exchange, limited color, and faceless geometry to create a storybook-like sense of mystery.",
+  "full_prompt_zh": "这是一幅方形超现实素描，一位高大的蹲姿人物头戴浅色折角冠，面对一名穿红裙的小孩。背景是一面近黑色墙，带轻微擦痕与纹理；除他们所在的浅色矮台外，看不出具体房间。高大人物占据左侧，双膝弯曲保持平衡，身体向前倾。长灰外套绕着腿臂折叠，磨旧靴子踏在浅色地面上。脸并不可见，取而代之的是高而米白的纸状冠或折叠头罩，顶部有锐利裁切角，一路收窄到颈部。一只手以纤细询问般姿态伸向孩子。右侧孩子坐在浅色矩形箱上，双脚垂下，身体朝左与对方相向。柔软白帽包住头，长红衣提供画面唯一强烈色彩。小手聚在腿上，侧脸保持安静专注。纤细铅笔和炭笔痕描出布料接缝、靴褶和箱边。暖奶油色纸面从擦涂的灰色阴影里透出，黑墙把两者封在严峻的浅空间内。漫射光从左上方照亮冠、帽、手和衣物前缘；沉重阴影留在背后与外套褶里。整体构图安静而令人不安，以贴近的交流、有限色彩和无面几何形创造故事书般神秘感。",
+  "style_prompt_en": "The drawing combines graphite-like modeling, rubbed charcoal shadow, and one muted red accent on warm paper. A near-black rectangular ground encloses carefully shaded pale forms, creating a shallow stage with strong figure-ground separation. Clothing and solid surfaces are built from fine crosshatching, scumble, and exposed paper highlights. Angular, faceless geometry contrasts with small rounded shapes and softly observed gestures. Edges are precise at the focal exchange but fade into scratched grain near the border. Diffuse upper-side light picks out cream planes and hands while deep folds retain dense gray-black. The result is restrained, uncanny, and tactile, like an old illustrated fable.",
+  "style_prompt_zh": "绘图将石墨般塑形、擦涂炭笔阴影与暖纸面上的一处低调红色强调结合。近黑色矩形底围住仔细塑形的浅色形体，形成浅舞台与强烈形底分离。布料与坚实表面由细交叉排线、擦涂和裸纸高光构成。折角无面几何形对照小型圆润形状与柔和观察的姿态。焦点交流处边缘精确，接近画边则消散成刮痕颗粒。上方一侧的漫射光点出奶油色平面与手，深褶仍保留浓灰黑。效果克制、诡异而可触，像古旧寓言插画。",
+  "theme_en": "A crowned faceless figure crouching before a child in red",
+  "theme_zh": "戴冠无面人物蹲在红衣孩子面前",
+  "wh_ratio": "1:1",
+  "id": "2421",
+  "name": "Santiago Caruso",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/santiago-caruso",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/santiago-caruso.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "b7c338e16a68214726c454054151e3c5e26749e35c515eabcc44239d5596cde6",
+    "gpt_submission_prompt": "A square surreal drawing shows a tall crouching figure in a pale angular crown facing a small child in a red dress. The background is a nearly black wall, lightly scuffed and textured, with no identifiable room beyond the shallow ledge on which they sit. The taller figure occupies the left, balanced on bent knees and leaning forward. Its long gray coat folds around the legs and arms, and worn boots rest on a pale floor. Instead of a visible face, a tall off-white paperlike crown or folded head covering narrows toward the neck, with sharp cut angles at the top. One hand reaches toward the child in a delicate questioning gesture. On the right, the child sits on a pale rectangular chest with feet hanging down, body turned left to meet the figure. A soft white bonnet encloses the child's head; the long red garment supplies the image's only strong color. The child's small hands gather near the lap, and the profile remains calmly attentive. Fine pencil and charcoal marks describe cloth seams, boot creases, and the chest's edges. Warm cream paper shows through rubbed gray shading, while the black wall encloses the two figures in a stark, shallow space. Diffuse light from the upper left catches the crown, bonnet, hands, and front edges of the clothing; heavy shadow remains behind them and inside the coat folds. The overall composition is quiet and unsettling, using a close exchange, limited color, and faceless geometry to create a storybook-like sense of mystery.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "e5220a360c612cf13deb8944aa0989f9d61f5b36848cf5c218616d28578dac75",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

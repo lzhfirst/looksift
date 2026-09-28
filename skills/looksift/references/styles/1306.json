@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white editorial collage joins images of radically different scale across a mostly white page. On the left, an enormous cropped female profile in a dark hat occupies the full height. The hat brim obscures her eye and her pale face turns toward the right, mouth slightly open. Her neck and shoulder become a near-black vertical mass that extends to the lower edge. A rough, torn boundary runs along the right side of this portrait fragment, revealing white paper and a small piece of printed newspaper texture above. On the open right half, a tiny silhouetted person in a coat and hat strides to the right across a narrow strip of cracked cobblestone ground. The figure appears to carry a dark bundle or camera-like object near the shoulder. Above the walker is mostly blank white space, interrupted only by the torn gray scrap near the top. The collage's sharp contrast in scale is deliberately impossible: the left face looms like a wall beside the miniature street figure. The two photographs retain grain, soft dark tones, and slight print imperfections, while the torn paper edge is visibly irregular and tactile. There is no readable newspaper headline, caption, logo, or other typography. The composition is daringly sparse, using the left black mass and right small silhouette to balance unequal visual weights. Its mood is modern, witty, and enigmatic, as though a magazine spread were cut apart and recomposed into a visual question about attention and scale.",
+  "full_prompt_zh": "一幅方形黑白编辑式拼贴在大多白色纸页上连接尺度悬殊的影像。左侧一张巨大裁切的戴深帽女子侧脸占满高度，帽檐遮眼，浅脸朝右，嘴微张。她的颈肩变成近黑竖团块，延到下缘。肖像碎片右侧一道粗撕边露出白纸，顶部还有一小块印刷报纸纹理。开放的右半幅里，一名穿外套戴帽的微小剪影沿窄窄龟裂石路向右迈步，肩旁似乎提着深色包或相机状物。行人上方大多留白，只被顶部撕裂灰纸片打断。拼贴的尺度反差有意不可能：左脸像一道墙，站在微型街头人物旁。两张照片仍有颗粒、柔暗调和轻印相瑕疵，撕纸边则明显不规则、可触。没有可读报纸标题、说明、标志或其他排版字。构图大胆简疏，左黑团与右小剪影平衡不等视觉重量。氛围现代、机智、谜一般，仿佛杂志跨页被剪开并重新组合成关于注意力与尺度的视觉提问。",
+  "style_prompt_en": "Use sparse black-and-white editorial photo-collage that juxtaposes dramatically unequal scales across broad white negative space. Keep one large dark cropped mass at an edge and a very small isolated silhouette elsewhere, connecting them with a thin textured ground or torn-paper seam. Preserve the photographic grain and soft silver-print tonal range of each fragment, but expose rough ripped boundaries and occasional scraps of print texture. Let a large blank area remain truly open rather than filling it with decorative marks. The effect is modern, enigmatic, and witty, deriving its strength from abrupt scale shifts, asymmetrical balance, and visible assembly.",
+  "style_prompt_zh": "采用简疏黑白编辑式照片拼贴，在宽白负空间里并置尺度极不相等的元素。一处大深色裁切体量压在边缘，另一处极小孤立剪影落在别处，细纹地面或撕纸缝将它们连起。保留每张碎片的摄影颗粒与柔银盐灰度，同时显出粗撕边和偶尔的印刷纹片。大片空白真正留空，不填装饰记号。效果现代、谜般而机智，力量来自突然尺度转变、不对称平衡和可见组装过程。",
+  "theme_en": "A torn-paper black-and-white collage joining a giant profile and a tiny walker",
+  "theme_zh": "撕纸黑白拼贴将巨大的侧脸与微小行人并置",
+  "wh_ratio": "1:1",
+  "id": "1306",
+  "name": "Alexey Brodovitch",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/alexey-brodovitch",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/alexey-brodovitch.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "70eda2332875074a47ad8ae315eb21035d93045fd4105b4628f6db7fc6c53538",
+    "gpt_submission_prompt": "A square black-and-white editorial collage joins images of radically different scale across a mostly white page. On the left, an enormous cropped female profile in a dark hat occupies the full height. The hat brim obscures her eye and her pale face turns toward the right, mouth slightly open. Her neck and shoulder become a near-black vertical mass that extends to the lower edge. A rough, torn boundary runs along the right side of this portrait fragment, revealing white paper and a small piece of printed newspaper texture above. On the open right half, a tiny silhouetted person in a coat and hat strides to the right across a narrow strip of cracked cobblestone ground. The figure appears to carry a dark bundle or camera-like object near the shoulder. Above the walker is mostly blank white space, interrupted only by the torn gray scrap near the top. The collage's sharp contrast in scale is deliberately impossible: the left face looms like a wall beside the miniature street figure. The two photographs retain grain, soft dark tones, and slight print imperfections, while the torn paper edge is visibly irregular and tactile. There is no readable newspaper headline, caption, logo, or other typography. The composition is daringly sparse, using the left black mass and right small silhouette to balance unequal visual weights. Its mood is modern, witty, and enigmatic, as though a magazine spread were cut apart and recomposed into a visual question about attention and scale.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "c125c25ac76d1a93c2ebf0f04e95df71cf5927ab41381c5a29477d4368308cc5",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

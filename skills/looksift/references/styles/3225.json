@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A bald man kneels with his head bowed in the foreground of an immense crimson field. His loose grey shirt and dark trousers form a subdued vertical pause amid thousands of bright red and magenta blossoms. Behind him, flowers merge with a dense crowd of repeated small human forms that climbs through a narrow valley and recedes toward a hot pink horizon. The viewer first sees the quiet posture, then discovers how many figures surround it. The scene feels both public and deeply inward, a still point within overwhelming repetition.\n\nThe painting is intensely saturated and densely worked. Crimson, fuchsia, rose, and orange occupy almost every part of the landscape, interrupted by the kneeling figure's grey fabric and occasional pale blossoms. Small repeated brush marks and sharp flower heads create a restless granular surface. The crowd becomes less distinct with distance, turning into a patterned mass rather than individual portraits. Bright diffuse light holds the pink palette together without deep shadows; form is conveyed by shifts of red temperature and tightly packed detail. The central figure is modest in scale but separated by posture and muted color. A narrowing valley perspective leads the eye toward the upper center, amplifying the emotional pressure. The image is unsettling yet contemplative, with no readable lettering.",
+  "full_prompt_zh": "一名光头男子在巨大绯红色原野的前景跪下，低着头。宽松灰衬衫和深色裤子，在成千上万鲜红与洋红花朵之间形成收敛的竖向停顿。他身后，花朵与密集重复的小人影混成一体，沿狭窄谷地向上攀升，退向炙热粉红地平线。观看者先看到安静姿势，随后才发现周围有多少人影。场景既公共又极度内向，是压倒性重复中的静止一点。\n\n绘画饱和度极高，表面工作密集。绯红、紫红、玫红和橙色占据景观几乎每处，被跪姿人物的灰布和偶发浅色花打断。细小重复笔迹和锐利花头构成躁动的颗粒表面。人群向远处逐渐不再分明，成为纹样般的团块，而不是独立肖像。明亮弥散光把粉红色谱联在一起，没有深重阴影；形体由红色色温变化与紧密细节传达。中央人物尺度不大，却因姿态与暗淡颜色被分离。收窄的谷地透视把目光带向上方中央，放大情绪压力。图像令人不安却也沉思，没有可辨认文字。",
+  "style_prompt_en": "A densely repeated field of crimson, fuchsia, rose, and orange fills nearly every part of the frame. Small sharp marks and granular clusters merge gradually into a patterned distance. One muted grey vertical interruption becomes the quiet center against the overwhelming warm color. Diffuse brightness keeps shadows shallow; depth is carried by a narrowing passage, decreasing detail, and subtle temperature shifts among adjacent reds. Pale flecks punctuate the packed surface at irregular intervals. The composition is saturated, restless, and emotionally compressed, yet the central pause gives it contemplative force. Painterly detail accumulates until individual marks become a crowdlike texture.",
+  "style_prompt_zh": "绯红、紫红、玫红与橙色密集重复的场域，填满画幅几乎每处。尖细小笔迹与颗粒团簇向远方逐渐合成纹样。唯一暗灰色竖向打断，成为压倒性暖色中的安静中心。弥散亮光让阴影浅淡；深度由收窄通道、细节递减和相邻红色微妙色温变化承担。不规则间隔的浅色碎点刺破拥挤表面。构图饱和、躁动而情绪压紧，中央停顿又给它沉思力量。绘画细节不断累积，直到独立痕迹成为如人群般的纹理。",
+  "theme_en": "A solitary kneeling figure in a sea of crimson blossoms",
+  "theme_zh": "绯红花海中独自跪坐的人",
+  "wh_ratio": "1:1",
+  "id": "3225",
+  "name": "Fang Lijun",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/fang-lijun",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "9bb7147abcdddcdae4fc57fc02fd6347ddeb04c05beb6ecca09e9853068658a7",
+    "gpt_submission_prompt": "A bald man kneels with his head bowed in the foreground of an immense crimson field. His loose grey shirt and dark trousers form a subdued vertical pause amid thousands of bright red and magenta blossoms. Behind him, flowers merge with a dense crowd of repeated small human forms that climbs through a narrow valley and recedes toward a hot pink horizon. The viewer first sees the quiet posture, then discovers how many figures surround it. The scene feels both public and deeply inward, a still point within overwhelming repetition.\n\nThe painting is intensely saturated and densely worked. Crimson, fuchsia, rose, and orange occupy almost every part of the landscape, interrupted by the kneeling figure's grey fabric and occasional pale blossoms. Small repeated brush marks and sharp flower heads create a restless granular surface. The crowd becomes less distinct with distance, turning into a patterned mass rather than individual portraits. Bright diffuse light holds the pink palette together without deep shadows; form is conveyed by shifts of red temperature and tightly packed detail. The central figure is modest in scale but separated by posture and muted color. A narrowing valley perspective leads the eye toward the upper center, amplifying the emotional pressure. The image is unsettling yet contemplative, with no readable lettering.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "4b81c3c8bb8e08a767f0c7fb5e0cfbe65a6fc2c73e0301cedd78fdafee2e8a57",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

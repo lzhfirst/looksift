@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square architectural photograph records a tall stone apartment building on a quiet urban corner under an overcast sky. The building's corner swells into stacked rounded bays, their narrow vertical windows divided by dark metal frames and edged with shallow curved balconies. Repetition carries upward through several floors, while sculpted rooflines, chimneys and upright stone elements create an irregular crown. Both street facades remain visible, giving the structure a broad triangular presence within the image. Pale tan masonry shows weathering and joint lines, and the dark window glass alternates with lighter stone to make the vertical rhythm readable. Parked cars and a few small street objects at the base establish scale without taking over the scene. Leafy branches enter from the upper left and a tree at the right softens the building's hard silhouette. The camera stands across the intersection at pedestrian height and tilts only enough to include the roof; the main verticals remain reasonably controlled. Light is soft and even, so ornament, curved bays and layered setbacks become visible through form rather than strong shadow. The image feels documentary and unhurried, highlighting how a repeated structural grid can accommodate sculptural corners and lived urban context. The whole frame is filled by the building but still allows patches of open pale sky around its crown.",
+  "full_prompt_zh": "一幅正方形建筑照片记录阴天安静街角的一栋高层石质公寓。建筑转角膨出层层弧形凸窗，狭长竖窗由深色金属框分隔，外缘接浅弧阳台。这种重复一路上升数层，雕塑般屋顶线、烟囱和竖起的石构件形成不规则顶部。两面街道立面都可见，使建筑在画面里有宽阔的三角存在感。浅棕石砌显露风化和缝线，深色窗玻璃与浅石交替，使竖向节奏清楚。底部停放汽车和少量街道小物提供尺度，却不夺取场景。左上进入的绿叶枝条以及右侧一棵树软化建筑的硬轮廓。相机从路口对面行人高度拍摄，仅略向上使屋顶入画，主要竖线保持较好控制。光线柔和均匀，装饰、曲面凸窗和层叠退台主要通过形体而非强烈阴影显现。图像纪实而从容，突出重复结构网格如何容纳雕塑转角和有人生活的城市环境。建筑填满画面，却在屋冠四周仍留下浅色天空。",
+  "style_prompt_en": "The style is restrained urban architectural photography with an eye-level oblique corner view, repetitive vertical fenestration and softly sculpted massing. Overcast light reveals pale weathered masonry, dark glazing and small ornamental edges without harsh contrast. Curved bays and stepped crowns add movement to a regular structural grid. Sparse trees and street-scale accents provide context around the dominant built form. A square frame holds both facades and a little open sky, prioritizing measured observation and material detail.",
+  "style_prompt_zh": "这种风格是克制的城市建筑摄影，具有平视斜向街角视点、重复竖向开窗和柔和雕塑体量。阴天光揭示浅色风化砌面、深玻璃及细小装饰边缘，没有尖锐反差。弧形凸窗与层层屋冠为规则结构网格加入运动。稀疏树木和街道尺度重音为主导建筑提供环境。正方形画框同时纳入两面立面与少量开阔天空，重视审慎观察与材料细节。",
+  "theme_en": "A rounded stone apartment building at a quiet street corner",
+  "theme_zh": "安静街角的弧形石质公寓楼",
+  "wh_ratio": "1:1",
+  "id": "1308",
+  "name": "Auguste Perret",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/auguste-perret",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/auguste-perret.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "f18051df43dc8a6c92a878b9fa927d8519b60fdc8ea17928b772bf98dff656cb",
+    "gpt_submission_prompt": "A square architectural photograph records a tall stone apartment building on a quiet urban corner under an overcast sky. The building's corner swells into stacked rounded bays, their narrow vertical windows divided by dark metal frames and edged with shallow curved balconies. Repetition carries upward through several floors, while sculpted rooflines, chimneys and upright stone elements create an irregular crown. Both street facades remain visible, giving the structure a broad triangular presence within the image. Pale tan masonry shows weathering and joint lines, and the dark window glass alternates with lighter stone to make the vertical rhythm readable. Parked cars and a few small street objects at the base establish scale without taking over the scene. Leafy branches enter from the upper left and a tree at the right softens the building's hard silhouette. The camera stands across the intersection at pedestrian height and tilts only enough to include the roof; the main verticals remain reasonably controlled. Light is soft and even, so ornament, curved bays and layered setbacks become visible through form rather than strong shadow. The image feels documentary and unhurried, highlighting how a repeated structural grid can accommodate sculptural corners and lived urban context. The whole frame is filled by the building but still allows patches of open pale sky around its crown.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "539af2e49bff091306bb78e7731e63bb0450a2dac07e8dd9f7c6bebcbbd229a4",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

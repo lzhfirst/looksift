@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A Nordic folktale illustration presents a small traveler resting on a grassy slope beneath an immense dark creature that seems to grow from the rock above. The traveler, wrapped in a rusty red coat and narrow pointed hat, sits near the lower right of center, facing the pale valley; a tiny black animal stands far away on the lower-left path. From the upper-right darkness, a heavy furry muzzle and watchful eye incline toward the seated figure, while layered stone and coarse vegetation make its boundary with the hillside uncertain. Across the left half, a wide blue-gray slope descends toward a narrow band of light at the valley floor. The image is built from innumerable fine directional lines and short dry strokes, as though colored pencil, ink, and watercolor washes have been worked together over textured paper. Warm straw yellow pools around the traveler and along the path, contrasting with cold slate blue, moss-gray, and near-black masses. Light is low and diffuse, entering through the central gap between mountain and beast and turning the open ground softly golden without banishing the surrounding gloom. Broad dark overhangs compress the top and right, while the pale left incline gives the small figures breathing room and a strong sense of scale. The eye moves from the distant black speck along the sunlit path to the seated traveler, then upward into the creature's almost hidden face. The whole frame holds quiet unease and wonder through fine-grained texture, ambiguous forms, and a restrained winter palette.",
+  "full_prompt_zh": "一幅北欧民间故事插画描绘一名小小的旅人坐在草坡上休息，上方有一头仿佛从岩石里生长出来的巨大深色生物。旅人裹着锈红色外套，戴窄尖帽，坐在中央偏右的下方，望向浅色山谷；一只极小的黑色动物立在左下方远处的路上。巨兽厚重的毛茸茸口鼻和警觉的眼睛从右上方的黑暗里俯向坐着的人，而层叠石块与粗草使它同山坡的边界难以确定。左半幅一道宽阔的蓝灰色斜坡下降至谷底一条狭窄的亮带。画面由数不清的细密顺势线和短促干笔构成，仿佛彩铅、墨线和水彩薄涂共同加工在有纹理的纸上。温暖的麦秆黄汇聚在旅人周围和小路上，与冷板岩蓝、苔灰及近黑团块相对。光低而漫射，从山体与巨兽之间的中央空隙进入，让开阔地面柔和发金，却未驱散周围阴郁。宽阔的深色悬垂形体压紧顶部与右侧，浅色的左边斜坡则给小人物呼吸空间和强烈尺度感。视线从远方的黑色小点沿日照小路移向坐着的旅人，再抬入巨兽几乎藏起的面孔。整幅画以细颗粒纹理、暧昧形体和克制的冬日配色维持安静的不安与惊奇。",
+  "style_prompt_en": "A Nordic folktale illustration layers fine directional ink or pencil-like marks over thin watercolor-like washes and textured paper. Cold slate blue, moss gray, charcoal, and near-black expanses meet a small pool of muted straw-gold light and a restrained rust-red accent. Large ambiguous silhouettes merge into terrain-like textures; dense dark overhangs contrast with broad pale slopes. Low diffuse illumination and repeated short strokes create quiet depth rather than glossy realism. The whole frame feels windswept, mysterious, and materially handmade.",
+  "style_prompt_zh": "一幅北欧民间故事插画在有纹理的纸面与薄薄的水彩式晕染上叠加细密的顺势墨线或铅笔般痕迹。冷板岩蓝、苔灰、炭色和近黑的宽阔区域，遇上一小片低调麦秆金光与克制的锈红点缀。巨大而暧昧的剪影融入地形般纹理；浓密深色的悬垂形体对照宽阔浅色坡面。低低的漫射光和重复短线制造安静的纵深，而非光滑的写实。整幅画有风吹的感觉，神秘且具有手工物质感。",
+  "theme_en": "A tiny traveler rests beneath a looming mountain creature",
+  "theme_zh": "小小旅人在逼近的山中巨兽下歇息",
+  "wh_ratio": "1:1",
+  "id": "1824",
+  "name": "Theodor Kittelsen",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/theodor-kittelsen",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/theodor-kittelsen.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "d2613f6b7e78e7e7e531e96dae521b579ad4216e74395f1e238aead5450207f0",
+    "gpt_submission_prompt": "A Nordic folktale illustration presents a small traveler resting on a grassy slope beneath an immense dark creature that seems to grow from the rock above. The traveler, wrapped in a rusty red coat and narrow pointed hat, sits near the lower right of center, facing the pale valley; a tiny black animal stands far away on the lower-left path. From the upper-right darkness, a heavy furry muzzle and watchful eye incline toward the seated figure, while layered stone and coarse vegetation make its boundary with the hillside uncertain. Across the left half, a wide blue-gray slope descends toward a narrow band of light at the valley floor. The image is built from innumerable fine directional lines and short dry strokes, as though colored pencil, ink, and watercolor washes have been worked together over textured paper. Warm straw yellow pools around the traveler and along the path, contrasting with cold slate blue, moss-gray, and near-black masses. Light is low and diffuse, entering through the central gap between mountain and beast and turning the open ground softly golden without banishing the surrounding gloom. Broad dark overhangs compress the top and right, while the pale left incline gives the small figures breathing room and a strong sense of scale. The eye moves from the distant black speck along the sunlit path to the seated traveler, then upward into the creature's almost hidden face. The whole frame holds quiet unease and wonder through fine-grained texture, ambiguous forms, and a restrained winter palette.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "42bf4dc98701ea963e6e4673c8c5bc82c76b48a07c69224f0ac2828a17710099",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square caricature illustration depicts a crowded tavern interior where several people laugh around a tiny round table. At far left, an older man in a pale cap and white shirt throws his head back with his mouth wide open, one hand resting on the tabletop beside a stemmed glass. Beside him, women and men of different ages crowd toward the center, cheeks rounded, eyes wide, and mouths open in overlapping laughter. A warm yellow doorway glows behind them, revealing still more faces, while the rest of the room is cool blue-green wood paneling and shadow. The closest figures are large, with noses, chins, and grins exaggerated; smaller figures recede tightly into the doorway. Glasses, bottles, and tabletop reflections add small bright accents. Black scratchy lines trace hair and clothing, while loose watercolor-like color fills leave speckled paper texture visible. The palette moves between slate blue, cream, orange, warm skin pink, and a few burgundy notes. Interior light pools around the doorway and faces rather than falling evenly. The composition is chaotic but coherent, with a circle of expressions around the glass in the foreground. It feels convivial, noisy, and affectionately satirical.",
+  "full_prompt_zh": "一幅方形夸张人物插画描绘拥挤小酒馆内，数人围着极小圆桌大笑。最左侧一位戴浅帽、穿白衫的年长男子仰头张嘴大笑，一只手落在桌面高脚杯旁。身旁不同年龄的男女朝中心挤来，圆脸颊、瞪大眼和张开的嘴在笑声中重叠。暖黄门洞在他们背后发亮，露出更多面孔，房间其余部分是冷蓝绿木板与阴影。最近的人很大，鼻、下巴和笑容都经过夸张；较小人物紧紧退入门口。杯、瓶和桌面反光形成小亮点。黑色刮擦线描头发与衣服，松散水彩般色面留下可见斑点纸纹。色彩在板岩蓝、奶油、橙、暖肤粉和少量酒红间移动。室内光集中门洞与面孔，不均匀铺满全屋。构图混乱却连贯，前方玻璃杯周围形成一圈表情。画面热闹、喧闹而带亲切讽刺。",
+  "style_prompt_en": "Affectionate caricature illustration with crowded expressive forms, oversized noses and mouths, scratchy black contours, and loose watercolor-like fills. Warm amber pools puncture a cool blue-green interior field. Speckled paper texture and lively overlapping silhouettes convey noise and motion, while a few small reflective highlights establish a circular focal rhythm. The density feels social rather than chaotic.",
+  "style_prompt_zh": "亲切的夸张人物插画，以拥挤表现性形体、放大鼻口、刮擦黑轮廓和松散水彩般填色构成。暖琥珀光池刺入冷蓝绿室内色场。斑点纸纹和活跃交叠剪影传达喧闹与运动，少量小反光亮点建立环形焦点节奏。密度显得社交化，而非失控混乱。",
+  "theme_en": "A laughing family and friends crowding a small tavern table",
+  "theme_zh": "家人与朋友挤在小酒馆桌旁大笑",
+  "wh_ratio": "1:1",
+  "id": "0891",
+  "name": "Paresh Nath",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/paresh-nath",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/paresh-nath.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "6e6fbde49afbb85f0b07af8100df5b281a079e686b6661f724ffc82a5a236664",
+    "gpt_submission_prompt": "A square caricature illustration depicts a crowded tavern interior where several people laugh around a tiny round table. At far left, an older man in a pale cap and white shirt throws his head back with his mouth wide open, one hand resting on the tabletop beside a stemmed glass. Beside him, women and men of different ages crowd toward the center, cheeks rounded, eyes wide, and mouths open in overlapping laughter. A warm yellow doorway glows behind them, revealing still more faces, while the rest of the room is cool blue-green wood paneling and shadow. The closest figures are large, with noses, chins, and grins exaggerated; smaller figures recede tightly into the doorway. Glasses, bottles, and tabletop reflections add small bright accents. Black scratchy lines trace hair and clothing, while loose watercolor-like color fills leave speckled paper texture visible. The palette moves between slate blue, cream, orange, warm skin pink, and a few burgundy notes. Interior light pools around the doorway and faces rather than falling evenly. The composition is chaotic but coherent, with a circle of expressions around the glass in the foreground. It feels convivial, noisy, and affectionately satirical.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "42cdc7edce27af9519f7f6d32db0275a8282de14b0517bb803b2ab89fc8c493c",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

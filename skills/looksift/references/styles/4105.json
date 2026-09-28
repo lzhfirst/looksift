@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square chromolithographic image centers an ornate circular window containing a divided city scene. The left half is cool teal, the right half warm coral and ochre, with a straight vertical color division passing through the middle of a prominent leafy tree. Around the circle, scrolling relief and small decorative figures form a broad symmetrical frame, teal on the left and red-gold on the right. Inside, pale towers and an intricate skyline rise behind a busy street or square. Tiny people and architectural details gather across the lower distance, while the central tree separates two tonal worlds without breaking the continuous scene. Along the bottom foreground, a small dark rider or driver sits on a thin-wheeled vehicle, its wheels and frame making a precise silhouette against the lighter image. The print's many ink colors lie in distinct layered areas; slight grain, uneven saturation, and fine outlines keep the surface visibly lithographic. Light is broad and illustrative, with pale cream sky opening behind the upper branches and darker accents along the border's recesses. The left cool side feels shaded while the right side glows with warm afternoon color, yet the transition is deliberately graphic rather than physically gradual. There is no readable inscription. The overall composition is elaborate but tightly controlled, using circular framing and a strong warm-cool split to organize dense ornamental and narrative detail.",
+  "full_prompt_zh": "一幅方形彩色石版画把左右分色的城市景象置于华丽圆形窗口中央。左半部是冷青绿，右半部是暖珊瑚红与赭黄，一条笔直的竖向分色线穿过醒目的枝叶树木中央。圆周围，卷曲浮饰和小装饰形象形成宽厚对称边框，左侧青绿，右侧红金。圆内浅色塔楼和细密天际线升在繁忙街道或广场后方。小小人群与建筑细节聚在下方远处，中央树木分开两个调性世界，却没有切断连续场景。底部前景，一位深色小骑行者或驾车者坐在细轮车上，轮子和车架在较浅画面前形成精确剪影。印刷的多种墨色落在分明的层叠区域；轻微颗粒、不均饱和度与细勾线使表面明显带石版印刷感。光线宽泛而插画化，上部枝条后方露出浅奶油色天空，边框凹处则有较深强调。左侧冷色区像受阴影笼罩，右侧则发出暖午后色彩，但过渡刻意采用图形分割，而非物理渐变。没有可读铭文。整体构图繁复却控制严谨，以圆形框架和强烈冷暖分割组织密集的纹饰与叙事细节。",
+  "style_prompt_en": "Multicolor lithographic treatment layers finely outlined decorative detail over broad opposing color fields. Cool teal and blue-green meet coral, rust, ochre, and cream along a deliberate hard division, while small black accents sharpen the rhythm. Circular framing and bilateral ornament contain a dense inner field, and tiny repeated marks give the print scale without turning it into a blur. Light is even and illustrative, with pale reserved passages and darker recesses rather than a natural cast shadow. Slight ink grain and uneven saturation keep the surface tactile. The overall effect is ornate, balanced, and energized by a clear warm-cool split.",
+  "style_prompt_zh": "多色石版印刷把细勾线的装饰细节叠在宽阔而对置的色域上。冷青绿与蓝绿沿刻意清晰的分界遇上珊瑚红、铁锈红、赭黄和奶油色，小块黑色强调使节奏更锐利。圆形框架与左右对称纹饰收住密集内区，细小重复笔痕赋予版画尺度，却不将它糊成一团。照明均匀而插画化，依靠保留的浅色通道和较深凹处，而非自然投影。轻微墨粒和不均饱和度使表面有触感。整体华丽、均衡，由明确冷暖分割注入活力。",
+  "theme_en": "A divided city scene within an ornate circular frame",
+  "theme_zh": "华丽圆框中左右分色的城市景象",
+  "wh_ratio": "1:1",
+  "id": "4105",
+  "name": "Chromolithography",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/chromolithography.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "68c341cb24d3079f1808c4690205f846d538799ab892e72984197d7707639102",
+    "gpt_submission_prompt": "A square chromolithographic image centers an ornate circular window containing a divided city scene. The left half is cool teal, the right half warm coral and ochre, with a straight vertical color division passing through the middle of a prominent leafy tree. Around the circle, scrolling relief and small decorative figures form a broad symmetrical frame, teal on the left and red-gold on the right. Inside, pale towers and an intricate skyline rise behind a busy street or square. Tiny people and architectural details gather across the lower distance, while the central tree separates two tonal worlds without breaking the continuous scene. Along the bottom foreground, a small dark rider or driver sits on a thin-wheeled vehicle, its wheels and frame making a precise silhouette against the lighter image. The print's many ink colors lie in distinct layered areas; slight grain, uneven saturation, and fine outlines keep the surface visibly lithographic. Light is broad and illustrative, with pale cream sky opening behind the upper branches and darker accents along the border's recesses. The left cool side feels shaded while the right side glows with warm afternoon color, yet the transition is deliberately graphic rather than physically gradual. There is no readable inscription. The overall composition is elaborate but tightly controlled, using circular framing and a strong warm-cool split to organize dense ornamental and narrative detail.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "c158803dfec5e2c2a2476581264c07dbb48cbc0e368af9683ca7f21c8fbb481a",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square classical oil portrait shows a middle-aged man from the chest upward, turned three quarters toward the left while looking calmly at the viewer. Pale powdered hair is brushed back and gathered behind the ears, with a few soft curls catching the light. He wears a rich crimson velvet coat over a high white neck cloth and a delicate lace ruffle at the chest. The coat occupies the lower left in broad folds and dark burgundy shadows; the face and white cloth form the brightest region near the center. Behind him, a deep brown and olive background contains no distinct room, giving the figure a restrained sculptural presence. Soft light enters from the upper left, brightening the forehead, cheek, bridge of the nose, and raised ridges of velvet while the far side of the face remains gently shaded. Fine brushwork smooths the skin transitions, but the coat retains visible directional strokes and a slight plush texture. The man's expression is attentive without theatrical gesture, and the close crop leaves only a narrow pocket of dark space around the head. No readable lettering appears. The overall composition is measured and intimate, using warm flesh, white lace, and deep red cloth against a quiet umber field.",
+  "full_prompt_zh": "一幅方形古典油画肖像描绘一名中年男子，从胸口以上入画，身体向左呈四分之三角度，目光平静地看向观看者。浅色扑粉头发向后梳，在耳后束起，几缕柔卷接住光。身穿浓郁绯红天鹅绒外套，内有高立的白颈巾和胸前细蕾丝褶边。外套以宽阔褶层与深酒红影子占据左下；脸和白布在中央附近构成最亮区域。身后是深褐与橄榄色背景，没有明确房间，赋予人物克制的雕塑性存在。柔光从左上进入，照亮额头、脸颊、鼻梁和天鹅绒隆起的棱，脸另一侧仍温和地留在阴影中。细笔触使皮肤过渡平滑，外套则保留可见的方向笔和略蓬松的纹理。男子神情专注，却没有戏剧性手势；贴近裁切只在头部周围留下狭窄深色空间。没有可辨认文字。整体构图有分寸而亲密，在安静赭褐场前使用暖肤色、白蕾丝和深红布料。",
+  "style_prompt_en": "A classical oil-painted surface models a luminous central plane against a quiet deep umber and olive field. Warm cream and pale ivory highlights sit above broad crimson and burgundy folds, giving the palette a measured richness. Soft upper-side light creates smooth value transitions in the focal area and leaves the far edges gently shaded. Fine blended marks coexist with visible directional strokes in darker plush passages. The close crop gives a compact sculptural mass only a narrow dark margin, and a small bright ruffled accent sharpens the center. Edges are clear where light meets form and dissolve into the backdrop elsewhere. The mood is restrained, attentive, and intimate, with tactile paint rather than photographic polish.",
+  "style_prompt_zh": "古典油画表面在安静的深赭褐与橄榄色场前塑造发亮中央平面。暖乳白和浅象牙高光落在宽阔绯红、酒红褶层上，使色谱有分寸地丰富。柔和的上侧光在焦点处形成平滑明度过渡，让远侧边缘温和留在阴影里。细密晕合笔迹与较暗蓬松区域中可见的方向笔并存。贴近裁切使紧凑雕塑性大形只留狭窄深色边际，细小发亮褶饰让中央更锐。光与形相遇处边缘清楚，其他位置融入背景。情绪克制、专注而亲密，有可触颜料，而非照片式精修。",
+  "theme_en": "A composed scholar in a crimson coat against a dark ground",
+  "theme_zh": "暗背景前身穿深红外套的沉静学者",
+  "wh_ratio": "1:1",
+  "id": "2784",
+  "name": "Anton Raphael Mengs",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/anton-raphael-mengs",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/anton-raphael-mengs.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "575f5455d9b40f7d6a8c42fe649da516c17e8835d6d58c5bdca4984ef1d9981e",
+    "gpt_submission_prompt": "A square classical oil portrait shows a middle-aged man from the chest upward, turned three quarters toward the left while looking calmly at the viewer. Pale powdered hair is brushed back and gathered behind the ears, with a few soft curls catching the light. He wears a rich crimson velvet coat over a high white neck cloth and a delicate lace ruffle at the chest. The coat occupies the lower left in broad folds and dark burgundy shadows; the face and white cloth form the brightest region near the center. Behind him, a deep brown and olive background contains no distinct room, giving the figure a restrained sculptural presence. Soft light enters from the upper left, brightening the forehead, cheek, bridge of the nose, and raised ridges of velvet while the far side of the face remains gently shaded. Fine brushwork smooths the skin transitions, but the coat retains visible directional strokes and a slight plush texture. The man's expression is attentive without theatrical gesture, and the close crop leaves only a narrow pocket of dark space around the head. No readable lettering appears. The overall composition is measured and intimate, using warm flesh, white lace, and deep red cloth against a quiet umber field.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "be14e5939ae5c36e384fa823dbb3d7bf895ce669b4012672c596b276e7938cea",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

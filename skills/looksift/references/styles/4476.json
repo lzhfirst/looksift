@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white studio photograph places a woman beside a tall weathered mirror. Her real face occupies the right-center, tilted down and left, while a softer reflected profile appears in the mirror on the far left. One hand rises to the hair near her temple, creating a small curved gesture above the shoulder. She wears a dark dress with a broad neckline and a short string of pale beads at the neck. The mirror's rough vertical frame runs through the center, clearly separating the two versions of her face. Spots and fine scratches mark the glass, and the reflection recedes into a dim interior with a few tiny out-of-focus lights. Directional light from upper left catches the real forehead, nose, shoulder, and fingers; the mirrored image is lower in contrast and slightly blurred. Dark hair and clothing merge with nearly black surroundings, leaving the illuminated facial planes to carry attention. The camera is close and level, cropping out the room beyond the mirror. Fine film grain and nuanced silver midtones give the image a vintage print surface. The mood is inward and contemplative, constructed through repetition, a narrow frame, and the subtle difference between direct presence and reflection.",
+  "full_prompt_zh": "一张方形黑白影棚照片将一位女性置于一面高而风化的镜子旁。真实面孔位于中央偏右，低头朝左；更柔和的反射侧面在最左的镜中出现。一只手抬到太阳穴附近的头发上，在肩上方形成小弧形动作。她穿宽领口深衣，颈上有一串浅色短珠。粗糙的竖向镜框贯穿中央，明确分开两张脸。镜面有斑点与细划痕，倒影退入昏暗室内，只有几点失焦灯光。左上定向光照亮真实的额、鼻、肩和手指；镜中面孔反差更低，也略模糊。深发和衣服融入近黑周围，受光面部平面承担注意力。相机贴近且保持水平，裁去镜外更多房间。细胶片颗粒和细腻银色中间调赋予复古印相表面。气氛内向而沉思，来自重复、窄框和直接存在与反射之间的微妙差别。",
+  "style_prompt_en": "Vintage black-and-white photography using a vertical dividing frame, repeated softened imagery, deep surrounding black, and selective silver light. Reflected surfaces carry spots, scratches, and lower contrast, while direct planes retain crisp local detail. Fine grain and layered midtones create intimate psychological depth without theatrical props. The composition is close, restrained, and inward.",
+  "style_prompt_zh": "复古黑白摄影，以竖向分割框、重复而柔化的影像、周围深黑和选择性银光构成。反射表面带斑点、划痕及较低反差，直接显现的平面保留局部清晰细节。细颗粒与层叠中间调形成亲密心理纵深，无需戏剧性道具。构图靠近、克制而内向。",
+  "theme_en": "A woman beside an old mirror with her reflection in shadow",
+  "theme_zh": "一位女性靠在旧镜旁，暗处映出她的倒影",
+  "wh_ratio": "1:1",
+  "id": "4476",
+  "name": "Lee Miller",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/lee-miller.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "cbddcbccb5d1a93367b61336d67dc7c0febdf687e3abdf255fb889ffe84b3d8e",
+    "gpt_submission_prompt": "A square black-and-white studio photograph places a woman beside a tall weathered mirror. Her real face occupies the right-center, tilted down and left, while a softer reflected profile appears in the mirror on the far left. One hand rises to the hair near her temple, creating a small curved gesture above the shoulder. She wears a dark dress with a broad neckline and a short string of pale beads at the neck. The mirror's rough vertical frame runs through the center, clearly separating the two versions of her face. Spots and fine scratches mark the glass, and the reflection recedes into a dim interior with a few tiny out-of-focus lights. Directional light from upper left catches the real forehead, nose, shoulder, and fingers; the mirrored image is lower in contrast and slightly blurred. Dark hair and clothing merge with nearly black surroundings, leaving the illuminated facial planes to carry attention. The camera is close and level, cropping out the room beyond the mirror. Fine film grain and nuanced silver midtones give the image a vintage print surface. The mood is inward and contemplative, constructed through repetition, a narrow frame, and the subtle difference between direct presence and reflection.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "91ade44c9ad5a84c4fb24ad6246bc1971f08679e800504212cb97e8dc443d324",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

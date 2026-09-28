@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square fine-art portrait photograph shows a young child facing the camera against a softly blurred dark olive-green background. Large pale green eyes look directly outward, and the mouth is slightly parted. Light blond curls frame the face beneath an abundant crown of dusty rose, mauve, cream, and beige flowers. The flowers overlap in soft layers, some petals dry-looking and frayed at their edges. A pale ruffled collar and muted pink gathered sleeves fill the lower part of the frame, with narrow ties falling from beneath the floral headpiece. The child's shoulders turn a little to the right while the face remains frontal, adding a gentle twist to the otherwise centered arrangement. Diffuse light from the front left gives the skin a warm porcelain glow, brightens the eyes and flower edges, and leaves the backdrop deep but not pure black. The image has shallow focus and a softly retouched, painterly photographic surface; fine details stay around the gaze and petals while the outer hair and background dissolve. A small light maker mark at the lower left reads “LILIA ALVARADO.” The overall composition is quiet and storybook-like, with a luminous face held within a wide halo of aged pastel texture.",
+  "full_prompt_zh": "一张方形美术肖像照片描绘一名孩子面向镜头，身后是柔化失焦的深橄榄绿背景。浅绿色大眼直接望向画外，嘴微张。浅金卷发围着面容，上方是一顶由灰玫红、淡紫、乳白和米色花朵组成的丰厚花冠。花朵柔软层叠，有些花瓣显得干燥，边缘磨散。浅色荷叶领和暗粉色打褶袖子填满下部画幅，细窄系带从花饰下面垂落。孩子肩部稍向右转，脸仍正面，使原本居中的排列带一点温柔扭转。来自左前的弥散光赋予皮肤暖瓷般光泽，照亮眼睛和花瓣边缘，让背景深暗却并非纯黑。图像有浅景深与柔和修饰、似绘画的摄影表面；细节留在目光与花瓣附近，外侧头发和背景渐渐融化。左下角一枚浅色小作者标记写着“LILIA ALVARADO”。整体构图安静而像童话书，一张发亮的脸被宽阔、带旧感的粉彩纹理光环围住。",
+  "style_prompt_en": "A fine-art photographic surface blends soft painterly retouching with shallow-focus detail. Warm porcelain highlights and pale muted pastels glow against a deep olive-green field. Layered frayed textures form a broad halo around a small sharply resolved center, with edges becoming progressively softer outward. Diffuse frontal side light catches delicate ridges and smooth planes without a hard cast shadow. The palette stays dusty and restrained: rose, mauve, cream, beige, and green-grey rather than bright primaries. A centered arrangement gains slight movement from a subtle turn and uneven peripheral forms. The mood is quiet, delicate, and storybook-like, with photographic clarity concentrated sparingly.",
+  "style_prompt_zh": "美术摄影表面把柔和绘画式修饰与浅景深细节结合。暖瓷色高光和浅淡粉彩在深橄榄绿场前发亮。层叠磨散纹理围成宽阔光环，中央一小片清晰，边缘向外逐渐柔化。弥散的前侧光照到精细隆起与平滑平面，没有生硬投影。色谱灰柔而克制：玫红、淡紫、乳白、米色和绿灰，而非鲜亮原色。居中排列因轻微扭转和不均匀外围形而有了运动。情绪安静、细腻而像童话书，摄影清晰度有节制地集中。",
+  "theme_en": "A child with a crown of faded flowers against a dark green backdrop",
+  "theme_zh": "深绿背景前戴褪色花冠的孩子",
+  "wh_ratio": "1:1",
+  "id": "2235",
+  "name": "Lilia Alvarado",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/lilia-alvarado",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/lilia-alvarado.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "13f1a6fcedb6103d29b11ba65ad9eeff348c18b26b403308940292e1dac4ec59",
+    "gpt_submission_prompt": "A square fine-art portrait photograph shows a young child facing the camera against a softly blurred dark olive-green background. Large pale green eyes look directly outward, and the mouth is slightly parted. Light blond curls frame the face beneath an abundant crown of dusty rose, mauve, cream, and beige flowers. The flowers overlap in soft layers, some petals dry-looking and frayed at their edges. A pale ruffled collar and muted pink gathered sleeves fill the lower part of the frame, with narrow ties falling from beneath the floral headpiece. The child's shoulders turn a little to the right while the face remains frontal, adding a gentle twist to the otherwise centered arrangement. Diffuse light from the front left gives the skin a warm porcelain glow, brightens the eyes and flower edges, and leaves the backdrop deep but not pure black. The image has shallow focus and a softly retouched, painterly photographic surface; fine details stay around the gaze and petals while the outer hair and background dissolve. A small light maker mark at the lower left reads “LILIA ALVARADO.” The overall composition is quiet and storybook-like, with a luminous face held within a wide halo of aged pastel texture.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "b2dd2213e6040c4c86a049a4d043ab22e391f504fff6145b664e5101a316bae2",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square monochrome drawing places a tall, veiled woman at the left of an almost empty cream-colored field. She bends slightly toward two small children standing several steps away on the right and holds a loosely gathered bag out between them. The children look upward; one stands forward with a rounded head and dark trousers, while the smaller one is partly hidden behind, its narrow body suggested with only a few lines. The woman's dark drapery descends in one long vertical shape, its weight established by closely packed black pen strokes and delicate crosshatching. Her bowed face and extended hand remain small and carefully observed within that silhouette. A faint broken ground line is the only setting, leaving the rest of the image open and unmarked. The broad negative space makes the distance between adult and children as important as the figures themselves. Fine stipples and scratchy marks give the dark fabric a dry printed texture, while the children's clothing is much lighter and more spare. There is no decorative border, color accent, or dramatic light beam. The contrast of one dense form against two lightly drawn small forms produces a quiet, ambiguous social tableau with a restrained editorial quality.",
+  "full_prompt_zh": "一幅方形单色画把一位高挑、蒙着头纱的女子安置在近乎空白的奶油色画面左侧。她微微俯身，朝右方相隔几步的两个孩子伸出一个松松拢起的袋子。孩子仰头望着她；前面的孩子头形圆润、穿深色裤子，更小的孩子半藏在身后，瘦小的身体只用寥寥几笔勾出。女子的深色衣袍垂成一道长长的竖形，紧密的黑色钢笔笔触和细致的交叉排线赋予它重量。低垂的脸和伸出的手在这道剪影中显得细小而经过仔细观察。画面仅有一条若断若续的地线指示环境，其余大片空间保持空白。宽阔的留白让成人与孩子之间的距离和人物本身同样重要。细小的点和干涩的刮线使深色布料带有印刷般的纹理，孩子的衣着则轻淡而简省。画面没有装饰边框、彩色点缀或戏剧性的光束。一个密重的形体与两个轻描的小形体形成对比，构成安静、含义开放、克制的编辑插画场景。",
+  "style_prompt_en": "Sparse monochrome ink drawing on a warm off-white field. One dense vertical silhouette can counterbalance several lightly outlined smaller forms, with generous untouched paper carrying emotional distance. Fine crosshatching, dry stipple, and broken contour lines create weight without heavy shading everywhere. Small gestures receive precise attention while the setting is reduced to a faint ground trace. Restrained scale shifts and negative space give the composition its quiet, ambiguous editorial force.",
+  "style_prompt_zh": "在暖白底上展开的稀疏单色墨线画。一个密重的竖向剪影与几个轻描的小形体相平衡，大幅未经触碰的纸面承载情感距离。细密交叉排线、干涩点痕和断续轮廓线形成重量，却不让阴影铺满全幅。微小手势得到精确刻画，环境仅留下淡淡的地面痕迹。克制的比例差异与留白赋予画面安静、含义开放的编辑插画力量。",
+  "theme_en": "A veiled woman offering a bag to two small children",
+  "theme_zh": "蒙纱女子向两个孩子递出袋子",
+  "wh_ratio": "1:1",
+  "id": "0851",
+  "name": "Mana Neyestani",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/mana-neyestani",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/mana-neyestani.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "c0ad76edb16312f152fa2fc933b0cd135d13770a6dd5bd4d1fe7016ccd64e8ca",
+    "gpt_submission_prompt": "A square monochrome drawing places a tall, veiled woman at the left of an almost empty cream-colored field. She bends slightly toward two small children standing several steps away on the right and holds a loosely gathered bag out between them. The children look upward; one stands forward with a rounded head and dark trousers, while the smaller one is partly hidden behind, its narrow body suggested with only a few lines. The woman's dark drapery descends in one long vertical shape, its weight established by closely packed black pen strokes and delicate crosshatching. Her bowed face and extended hand remain small and carefully observed within that silhouette. A faint broken ground line is the only setting, leaving the rest of the image open and unmarked. The broad negative space makes the distance between adult and children as important as the figures themselves. Fine stipples and scratchy marks give the dark fabric a dry printed texture, while the children's clothing is much lighter and more spare. There is no decorative border, color accent, or dramatic light beam. The contrast of one dense form against two lightly drawn small forms produces a quiet, ambiguous social tableau with a restrained editorial quality.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "7bf0c265896308ff4b47f5be1df1df70457cb15b8af221082317a1458bd061b8",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

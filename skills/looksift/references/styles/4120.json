@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square loose oil painting shows a rainy city boulevard at dusk, with a horse-drawn carriage moving away near the center. Tall gray stone buildings line the left side, their lower storefronts glowing amber and orange beneath a red awning. On the right, a bare tree and indistinct pedestrians fade into bluish rain. The wet street fills the foreground with broad vertical reflections of shop lights, carriage red, pale sky, and dark figures. The carriage and its horse remain readable in silhouette, while people under umbrellas become small dark dabs along the sidewalks. The sky and far buildings merge into blue-gray mist, letting the street appear deep without precise architectural drawing. Paint is applied in broad wet strokes and palette-knife-like smears; some short bright marks punctuate lamps and window edges. Warm light clusters on the left and center, then breaks into elongated orange and magenta streaks across the pavement. Cool slate, steel blue, and charcoal carry the rainy air. The composition uses the central carriage as a moving focal point and the boulevard as a soft perspective corridor. It feels nostalgic and lively despite the weather, with human movement, light, and reflection joined in a fluid painterly surface.",
+  "full_prompt_zh": "一幅方形松动油画描绘黄昏雨中的城市林荫大道，一辆马车在中央附近向远方行进。高灰石建筑排列在左侧，底层店面在红遮篷下发琥珀橙光。右侧无叶树和难辨行人淡入蓝色雨幕。湿街占满前景，以宽长竖向倒影映出店光、马车红、浅天和深人影。车与马仍能从剪影中读出，撑伞人则成为路边小深色笔点。天空与远楼并入蓝灰雾，使街道深远而无需准确建筑画法。颜料以宽阔湿笔和调色刀般涂抹上去；短亮笔刺出灯与窗边。暖光聚在左中，随后裂成路面上拉长橙色与洋红条。冷石板、钢蓝与炭色承载雨中空气。构图以中央马车为移动焦点，林荫大道为柔化透视通道。尽管下雨，作品仍怀旧生动，人的移动、光与反射在流动绘画表面中合一。",
+  "style_prompt_en": "Loose oil painting of wet atmosphere uses broad blended strokes, palette-knife-like smears, and short luminous accents. Cool slate, steel blue, and charcoal surround clusters of amber, orange, and magenta light. Distant forms dissolve into mist; near reflections stretch into broken vertical bands. Perspective is suggested by receding value and repeated small silhouettes, not rigid line. Warm light blooms through damp air and fractures on the ground. The finish feels fluid, nostalgic, and active, with weather and painterly surface carrying the scene together.",
+  "style_prompt_zh": "湿润空气中的松动油画运用宽阔调和笔触、调色刀般涂抹和短亮色点。冷石板、钢蓝与炭色包围琥珀、橙和洋红光簇。远形溶入雾，近反射拉成破碎竖带。透视由后退明暗与重复小剪影暗示，而非僵硬线条。暖光穿潮空气扩散，并在地面碎裂。完成面流动、怀旧且活跃，天气与绘画表面共同承载场景。",
+  "theme_en": "A rainy city street with a horse carriage and glowing storefronts",
+  "theme_zh": "雨中马车与发亮店面的城市街道",
+  "wh_ratio": "1:1",
+  "id": "4120",
+  "name": "Willem Haenraets",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/willem-haenraets.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "d1630e4f28d8018cc62d889366800d837a56815152686553169904d0f7c5f04b",
+    "gpt_submission_prompt": "A square loose oil painting shows a rainy city boulevard at dusk, with a horse-drawn carriage moving away near the center. Tall gray stone buildings line the left side, their lower storefronts glowing amber and orange beneath a red awning. On the right, a bare tree and indistinct pedestrians fade into bluish rain. The wet street fills the foreground with broad vertical reflections of shop lights, carriage red, pale sky, and dark figures. The carriage and its horse remain readable in silhouette, while people under umbrellas become small dark dabs along the sidewalks. The sky and far buildings merge into blue-gray mist, letting the street appear deep without precise architectural drawing. Paint is applied in broad wet strokes and palette-knife-like smears; some short bright marks punctuate lamps and window edges. Warm light clusters on the left and center, then breaks into elongated orange and magenta streaks across the pavement. Cool slate, steel blue, and charcoal carry the rainy air. The composition uses the central carriage as a moving focal point and the boulevard as a soft perspective corridor. It feels nostalgic and lively despite the weather, with human movement, light, and reflection joined in a fluid painterly surface.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "d79380c724106654737a9e0941b45e62a55f85b72de96a080defe2e788cefff2",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

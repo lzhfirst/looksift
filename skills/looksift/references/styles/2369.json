@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square classical oil portrait shows a young man with curly brown hair turning his head toward the viewer against a deep warm-brown background. The crop is close, holding his head and upper shoulders while the lower part of his clothing falls into shadow. A loose mass of chestnut curls rises across the upper edge and around his ear, each lock described by small variations of umber, gold, and dark brown. His face is three-quarter view, with one cheek catching the light and both brown eyes looking directly outward. The nose, lips, and softly rounded jaw are carefully modeled through warm ivory, muted rose, and delicate gray-brown half-tones. His expression is quiet and alert, neither smiling nor overtly dramatic. Along the lower left, a dark jacket has a textured black-brown surface; a narrow strip of pale collar appears close to the neck. The background offers little scenery, only subtle brown variation that lets the face emerge without a drawn outline. Fine paint touches remain visible in the hair and fabric, while the skin transitions are smoother and more luminous. Warm light arrives from the upper left, brightening the forehead, nose bridge, and near cheek; the far side of the face and the jacket deepen gradually into soft shadow. The overall composition is intimate and poised, focusing attention on the direct gaze through a restrained palette of warm flesh, chestnut hair, pale linen, and surrounding darkness.",
+  "full_prompt_zh": "这是一幅方形古典油画肖像，一位棕色卷发青年在深暖褐背景前转头看向观者。取景贴近，容纳头部与肩上方，衣物下部落入阴影。栗色卷发松松铺满上缘并环绕耳朵，每绺头发由赭褐、金色与深褐色的细小变化描出。他的脸呈四分之三角度，一侧面颊承接光，两只棕色眼睛直视画外。鼻、双唇和柔和圆润的下颌通过暖象牙色、低调玫瑰色与精细灰褐中间调仔细塑形。神情安静而警觉，没有笑意，也不刻意戏剧化。左下方深色外套具有带肌理的黑褐表面；颈边露出一小段浅色衣领。背景几乎没有景物，只有细微褐色变化，让面部无需描边便从中显出。头发和布料里仍可见细小颜料笔触，皮肤过渡则更平滑、更明亮。暖光从左上方照来，提亮额头、鼻梁和较近的面颊；远侧脸与外套逐渐沉入柔影。整体构图亲密而沉稳，以暖肤色、栗发、浅亚麻色和周围暗色的克制色盘，将注意力集中在直接的目光上。",
+  "style_prompt_en": "The oil painting has classical naturalistic modeling, with smooth luminous midtones set against a deep umber ground. Warm ivory, muted rose, gold, chestnut, and black-brown are used in a compact range, so small value changes carry much of the form. Edges sharpen around focal features and soften where darker areas merge with the background. Visible fine brushwork gathers in fibrous and textured passages, while broad lit surfaces are more carefully blended. A single warm upper-side light shapes rounded volumes and tapers gradually into shadow, avoiding flat even illumination. The close framing and restrained background concentrate attention on subtle expression and material contrast. The effect is intimate, sober, and quietly radiant.",
+  "style_prompt_zh": "这种油画具有古典自然主义塑形，平滑明亮的中间调置于深赭褐底色之前。暖象牙、低调玫瑰色、金色、栗色和黑褐被收在紧凑范围内，让细微明度差承载大部分形体。焦点细节周围边缘变清楚，较深区域融入背景处则变柔。纤维状和带肌理区域聚集可见细笔触，宽阔受光表面经过更仔细调和。单一暖调上侧光塑造圆润体积，逐渐衰减为阴影，避免平板均光。贴近取景与克制背景让注意力集中在细微表情和材质对比。效果亲密、庄重，安静而明亮。",
+  "theme_en": "A young man with curly brown hair turning toward the viewer",
+  "theme_zh": "一位棕色卷发青年回头看向观者",
+  "wh_ratio": "1:1",
+  "id": "2369",
+  "name": "Annibale Carracci",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/annibale-carracci",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/annibale-carracci.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "9f0666305d0f41bf3b3265b8bd1d1f5d6412b71d2628150e1b9ad772da1cbff2",
+    "gpt_submission_prompt": "A square classical oil portrait shows a young man with curly brown hair turning his head toward the viewer against a deep warm-brown background. The crop is close, holding his head and upper shoulders while the lower part of his clothing falls into shadow. A loose mass of chestnut curls rises across the upper edge and around his ear, each lock described by small variations of umber, gold, and dark brown. His face is three-quarter view, with one cheek catching the light and both brown eyes looking directly outward. The nose, lips, and softly rounded jaw are carefully modeled through warm ivory, muted rose, and delicate gray-brown half-tones. His expression is quiet and alert, neither smiling nor overtly dramatic. Along the lower left, a dark jacket has a textured black-brown surface; a narrow strip of pale collar appears close to the neck. The background offers little scenery, only subtle brown variation that lets the face emerge without a drawn outline. Fine paint touches remain visible in the hair and fabric, while the skin transitions are smoother and more luminous. Warm light arrives from the upper left, brightening the forehead, nose bridge, and near cheek; the far side of the face and the jacket deepen gradually into soft shadow. The overall composition is intimate and poised, focusing attention on the direct gaze through a restrained palette of warm flesh, chestnut hair, pale linen, and surrounding darkness.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "f74e9e9121f64dc9dd7bd7245dfeb76d9419713ce3bf0b315cfdd6b7a494c69e",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

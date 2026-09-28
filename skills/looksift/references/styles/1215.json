@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A candid black-and-white street photograph frames a young couple leaning close together in a busy urban setting. The woman on the left wears a dark beret over swept-back hair and a small-check dress with short sleeves and a neat collar. She turns toward her companion with a slight, open smile, her forearms folded near the bottom edge. The man on the right wears a textured flat cap, a dark shirt, and a heavy jacket. He leans in, smiling as he meets her gaze, their foreheads nearly touching. The two faces occupy most of the middle of the square frame, forming an intimate diagonal from left to right. Behind them, a carved doorway, signs, and distant pedestrians suggest a city sidewalk, but the background remains softer and less important than the exchange. Daylight falls from the street side, lighting cheeks and noses while deep shadows remain beneath the caps and in the coats. The grayscale is full and tactile: woven fabric, coarse jacket cloth, smooth skin, and brick or stone detail each retain their own texture. Fine film grain and slight motion softness give the moment a natural, unstaged quality. The image feels warm despite its monochrome palette, capturing an ordinary affectionate glance within the flow of public life.",
+  "full_prompt_zh": "一张抓拍黑白街头照片，近距离拍下一对年轻情侣在繁忙的城市环境中靠在一起。左侧女子把深色贝雷帽戴在向后梳起的头发上，身穿小格子短袖连衣裙，领口整洁。她转向同伴，露出轻微而坦然的笑，前臂交叠在画面下边缘附近。右侧男子戴有纹理的鸭舌帽，穿深色上衣和厚外套。他靠近她，一边微笑一边迎上她的目光，两人的额头几乎相碰。两张脸占据正方形画面中央的大部分，从左到右构成亲密斜线。后方雕花门口、招牌与远处行人提示城市人行道，但背景更柔，不如这次对视重要。日光从街道一侧照过来，照亮脸颊和鼻梁，帽檐下与外套里仍保留深影。灰阶完整而可触：织物、粗厚外套、平滑皮肤和砖石细节各有自己的纹理。细密胶片颗粒和轻微运动柔化，让这一刻显得自然、未经摆布。虽然是单色画面，照片仍有温度，记录公共生活流动中的一次普通而亲密的目光交会。",
+  "style_prompt_en": "Human-scale black-and-white street photography with fine film grain and a warm, candid rhythm. Two close central forms create an intimate diagonal while a busier urban layer recedes softly behind them. Daylight lifts cheeks and textured fabric, leaving deep but readable shadow under dark upper edges. A full grayscale keeps woven patterns, coarse cloth, and smooth planes distinct. The crop is close but still allows signs of public space at the margins. Slight natural softness prevents a polished studio feel. The mood is affectionate, observant, and unforced.",
+  "style_prompt_zh": "贴近人的黑白街头摄影风格，胶片颗粒细密，抓拍节奏温暖。两个靠近的中心形态构成亲密斜线，较忙碌的城市层次柔和地退到后方。日光提亮曲面和织物纹理，深色上缘下仍留有浓而可辨的阴影。完整灰阶使编织花纹、粗布和平滑平面各自分明。裁切亲近，但边缘仍留公共空间的迹象。轻微自然柔化避免影棚式精修感。气氛亲切、观察式且不刻意。",
+  "theme_en": "A young couple sharing a smile on a busy street",
+  "theme_zh": "年轻情侣在热闹街头相视而笑",
+  "wh_ratio": "1:1",
+  "id": "1215",
+  "name": "Leonard Freed",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/leonard-freed",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/leonard-freed.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "0ef8dc3dd9218d793c889d7352f95e22c1e787424ee490e7bc3f4238108fd76e",
+    "gpt_submission_prompt": "A candid black-and-white street photograph frames a young couple leaning close together in a busy urban setting. The woman on the left wears a dark beret over swept-back hair and a small-check dress with short sleeves and a neat collar. She turns toward her companion with a slight, open smile, her forearms folded near the bottom edge. The man on the right wears a textured flat cap, a dark shirt, and a heavy jacket. He leans in, smiling as he meets her gaze, their foreheads nearly touching. The two faces occupy most of the middle of the square frame, forming an intimate diagonal from left to right. Behind them, a carved doorway, signs, and distant pedestrians suggest a city sidewalk, but the background remains softer and less important than the exchange. Daylight falls from the street side, lighting cheeks and noses while deep shadows remain beneath the caps and in the coats. The grayscale is full and tactile: woven fabric, coarse jacket cloth, smooth skin, and brick or stone detail each retain their own texture. Fine film grain and slight motion softness give the moment a natural, unstaged quality. The image feels warm despite its monochrome palette, capturing an ordinary affectionate glance within the flow of public life.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "f8b2cf63c009bd61d0925c7f3625bff1fc21575bad9a559b8712147d275b86e6",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "An extreme close portrait looks up at a bearded man's face from only a short distance away. His pale green eyes open wide, one near each upper corner, while his nose swells toward the center of the frame and his mustache curves across the lower right. Deep forehead creases, dark eyebrows, and coarse facial hair remain visible; the crown and lower jaw run beyond the crop. The perspective exaggerates the nearer nose and eyes while the edges of the face bend toward the square frame. His expression is intent and startled, with the gaze lifted slightly above the viewer. The photographic surface is textured and gritty, showing pores, stubble, fine wrinkles, and uneven skin tone. Muted olive, grey-brown, and dark charcoal dominate; small pale catches in the irises provide the brightest accents. A soft but directional light falls from the upper left, picking out forehead ridges and the bridge of the nose, while shadows gather around the eyes and within the beard. The background is reduced to small dark slivers at the corners, so the face becomes nearly the entire spatial field. The composition presses detail toward the viewer and lets the enlarged central planes push outward against the edges.",
+  "full_prompt_zh": "一幅极近距离肖像从稍低处仰看留胡须男子的面孔。淡绿色双眼大睁，分别靠近画面上方两角；鼻子在中央因近距离透视而显得膨大，浓密胡须弯过右下方。深额纹、暗色眉毛和粗硬面部毛发依然清楚，头顶与下颌都越过裁切边缘。透视夸大靠近镜头的鼻子与眼睛，脸部边缘向方形画框弯去。他的神情专注而惊讶，视线略高于观看者。照片表面粗粝，毛孔、胡茬、细皱纹和不均匀肤色可辨。低饱和橄榄色、灰褐色与深炭色占主导，虹膜里的几粒浅色反光最亮。柔和但有方向性的光从左上落下，挑出额头纹路和鼻梁，阴影聚在眼眶与胡须内部。背景只在边角露出暗色窄缝，面孔几乎占满整个空间。构图把密集细节推到观者眼前，让中央放大的体积向画框四边挤压。",
+  "style_prompt_en": "An extremely close, wide-angle photographic perspective enlarges near planes and bends peripheral contours toward a tight square crop. Dense surface detail is spread across almost the entire frame: granular texture, fine lines, small tonal blemishes, and coarse dark marks remain individually visible. Muted olive and brown midtones meet heavy charcoal shadows, with only a few bright reflective points. Directional soft light skims raised planes and falls into creases, creating rounded volume without a broad even fill. Background space is nearly absent; dark corner slivers provide the only separation from the foreground. The eye is pulled first to small bright accents, then across the enlarged central planes and out along warped edges. Close spacing, irregular texture, and compressed depth give the image a pressing visual rhythm.",
+  "style_prompt_zh": "极近距离的广角摄影透视放大近处平面，并让周边轮廓朝紧凑的方幅边缘弯曲。稠密表面细节几乎铺满全画面：颗粒质地、细线、细小色调斑点和粗深痕迹分别可辨。低饱和橄榄与褐色中间调遇上厚重炭灰阴影，只有少数很亮的反光点。带方向性的柔光掠过凸起平面并落入凹纹，制造圆转体积，而没有宽阔均匀的填光。背景空间几乎消失，仅边角的暗色窄缝把前景分开。视线先被小亮点吸引，再越过放大的中央平面，沿变形的外缘游走。近密的布局、不规则肌理和压缩的纵深让图像带有逼近观者的节奏。",
+  "theme_en": "An extreme wide-angle close portrait of a startled bearded man",
+  "theme_zh": "极广角近距离拍摄的惊讶胡须男子肖像",
+  "wh_ratio": "1:1",
+  "id": "2840",
+  "name": "Extreme wide portrait",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/extreme-wide-portrait",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/extreme-wide-portrait.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "d5580a2577e77d7a7c94a26637b58fdfda988c2ff850d8a6c754811880550d12",
+    "gpt_submission_prompt": "An extreme close portrait looks up at a bearded man's face from only a short distance away. His pale green eyes open wide, one near each upper corner, while his nose swells toward the center of the frame and his mustache curves across the lower right. Deep forehead creases, dark eyebrows, and coarse facial hair remain visible; the crown and lower jaw run beyond the crop. The perspective exaggerates the nearer nose and eyes while the edges of the face bend toward the square frame. His expression is intent and startled, with the gaze lifted slightly above the viewer. The photographic surface is textured and gritty, showing pores, stubble, fine wrinkles, and uneven skin tone. Muted olive, grey-brown, and dark charcoal dominate; small pale catches in the irises provide the brightest accents. A soft but directional light falls from the upper left, picking out forehead ridges and the bridge of the nose, while shadows gather around the eyes and within the beard. The background is reduced to small dark slivers at the corners, so the face becomes nearly the entire spatial field. The composition presses detail toward the viewer and lets the enlarged central planes push outward against the edges.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "741778e7acfaac99f96a6cf27823820f527145a97f4f6e22bf603c74411273f1",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

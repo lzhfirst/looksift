@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white documentary photograph shows a man and a woman sitting on the low porch of a weathered plank-sided building. The man sits on the left in a broad-brimmed light hat, dark jacket, loose trousers, and heavy worn boots. He leans forward with elbows on knees and turns his head toward the woman. She sits close on the right in a modest light dress and sturdy dark shoes, her legs crossed at the ankles and hands gathered over one knee. Her dark wavy bob frames a face turned toward him; the two seem absorbed in a quiet conversation. Behind them, a black open doorway splits the horizontal siding, and a small bright object hangs inside the darkness. Boards show peeling paint, nail marks, scratches, and uneven seams. A piece of draped fabric or tarp piles at the far left; at the right, leaning wooden boards and part of a round wheel-like object press against the wall. The porch boards sag slightly above bare dirt scattered with pebbles and straw. The camera stands at their seated height, allowing faces, clothing, and rough surroundings to share equal attention. Soft daylight from the left gives the hat and woman's dress pale values while the doorway remains deep black; no flash or dramatic shadow is apparent. Fine silver grain and moderate contrast retain the texture of wood, cloth, skin, and earth. The composition is plain and unposed, placing a human exchange within its specific worn environment.",
+  "full_prompt_zh": "一幅方形黑白纪实摄影呈现一男一女坐在木板侧墙已风化的房屋低矮门廊上。男子在左侧，戴浅色宽檐帽，穿深外套、宽松裤子和磨旧的厚靴。他前倾，双肘压在膝上，转头面向女子。女子紧挨坐在右侧，穿朴素浅色裙和结实深鞋，双腿在脚踝处交叠，双手收在一边膝上。深色波浪短发围住转向他的脸，二人似乎沉浸在安静交谈中。背后，黑色敞门截断横向木板墙，门内黑处悬着一小点亮物。木板可见剥漆、钉痕、刮擦和不齐的接缝。最左侧堆着一块垂挂布或篷布；右边靠墙有斜放木板和一部分圆轮般物体。门廊木板在散着小石与干草的裸土地面上方略有下垂。镜头与坐姿人物齐高，让面孔、衣服和粗糙环境得到同等关注。左侧柔日光使帽子与女子裙子呈浅调，门口仍深黑；看不出闪光灯或戏剧硬影。细银盐颗粒和适中对比保留木、布、皮肤与泥土纹理。构图朴素而自然，把人与人的交流放进具体的磨旧环境。",
+  "style_prompt_en": "Black-and-white documentary photography uses straightforward eye-level framing, available daylight, and moderate silver-tone contrast. Give people and surrounding material evidence equal weight: worn boards, rough ground, soft cloth, and small background objects remain readable without staging. Let deep door-like shadow sit beside pale sunlit fabric, with fine grain joining all surfaces. Favor natural postures, quiet glances, and imperfect asymmetry over stylized gestures. Keep edges clear enough for texture but allow shadow to stay full and dense. The transferable mood is honest, intimate, and grounded in lived detail.",
+  "style_prompt_zh": "黑白纪实摄影采用直接的齐眼视角、现场日光和适中银盐对比。人物与环境材质证据同等重要：磨旧木板、粗地面、软布和小背景物自然可读，不显摆拍。让门洞般深影与日照浅布相邻，细颗粒把全部表面连起。偏用自然姿态、安静目光与不完美的非对称，而非风格化手势。边缘清楚到能见纹理，同时让阴影保持厚重。可迁移气氛诚实、亲密，扎根于生活过的细节。",
+  "theme_en": "A man and woman talking on the porch of a worn wooden building",
+  "theme_zh": "男女坐在旧木屋门廊上交谈",
+  "wh_ratio": "1:1",
+  "id": "3869",
+  "name": "Walker Evans",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/walker-evans",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "d89ea2084952224b4f24a81ac3abca99504895b68b9025873fe15050e85b38e8",
+    "gpt_submission_prompt": "A square black-and-white documentary photograph shows a man and a woman sitting on the low porch of a weathered plank-sided building. The man sits on the left in a broad-brimmed light hat, dark jacket, loose trousers, and heavy worn boots. He leans forward with elbows on knees and turns his head toward the woman. She sits close on the right in a modest light dress and sturdy dark shoes, her legs crossed at the ankles and hands gathered over one knee. Her dark wavy bob frames a face turned toward him; the two seem absorbed in a quiet conversation. Behind them, a black open doorway splits the horizontal siding, and a small bright object hangs inside the darkness. Boards show peeling paint, nail marks, scratches, and uneven seams. A piece of draped fabric or tarp piles at the far left; at the right, leaning wooden boards and part of a round wheel-like object press against the wall. The porch boards sag slightly above bare dirt scattered with pebbles and straw. The camera stands at their seated height, allowing faces, clothing, and rough surroundings to share equal attention. Soft daylight from the left gives the hat and woman's dress pale values while the doorway remains deep black; no flash or dramatic shadow is apparent. Fine silver grain and moderate contrast retain the texture of wood, cloth, skin, and earth. The composition is plain and unposed, placing a human exchange within its specific worn environment.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "c1ec0705559f41067f7e54b100edccc7d6259ab6f65f991e291e155ff8d88cf7",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square symbolist pastel painting shows a loose arrangement of blue flowers, yellow blossoms, and peacock feathers in a dark vase against a warm golden background. The wall behind is divided into broad cream, aqua, and ochre areas, their boundaries softened by rubbed pigment. The bouquet rises from the lower center and spreads irregularly toward the upper left and right. Several round cobalt blossoms face forward, their deep blue petals standing out from the warm field. Smaller golden-yellow flowers cluster through the middle, mingled with slender green leaves and stems. Peacock feathers lift above and beside the flowers, their dark blue-green eye spots visible within wispy radiating strands. The vase at the lower middle is largely swallowed by brown and charcoal shadow, so the bouquet seems to emerge from a dark base. Fine flecks of rust and orange mark the foliage and the surface around it. The image does not describe every petal sharply; soft pastel dust, rubbed edges, and layers of blue and yellow make the forms shimmer. The golden wall on the right is especially luminous, while pale blue-green on the left cools the color balance. Diffuse light seems to pass across the front of the arrangement, lifting the brightest blossoms and feather eyes, with darker stems and vase recessed below. The overall composition is still yet visionary, gathering jewel-blue circles and warm floral sparks into a floating shape against textured gold.",
+  "full_prompt_zh": "这是一幅方形象征主义粉彩画，松散的蓝花、黄花和孔雀羽毛插在深色花瓶里，背后是温暖金色背景。后墙分成宽阔奶油、浅青和赭色色域，边界被摩擦过的颜料柔化。花束从下方中央升起，不规则地向左上及右方扩散。几朵圆形钴蓝花朝前，深蓝花瓣从暖色场域中显出。较小金黄花在中部成簇，夹杂细绿叶与茎。孔雀羽毛在花上方及旁边扬起，深蓝绿色眼斑可见于纤细放射羽丝中。下方中部花瓶大部分被褐色与炭色阴影吞没，使花束像从深色基底里浮出。细小锈红与橙色碎点标记枝叶及周围表面。图像并没有锐利刻画每片花瓣；柔粉彩尘、摩擦边缘和蓝黄叠层使形体闪动。右侧金色墙尤其发光，左侧浅蓝绿则平衡色彩冷暖。漫射光像从前方经过花束，提亮最亮的花和羽毛眼斑，较深茎与花瓶退入下方。整体构图静止却有幻象感，将宝石蓝圆形与暖花火花聚成漂浮形状，置于带肌理的金色之前。",
+  "style_prompt_en": "The painting has a symbolist pastel surface, with dusty rubbed pigment, soft luminous edges, and small jewel-color accents. Warm ochre, cream, and orange fields support deep cobalt and blue-green circles, while brown shadow gathers underneath. Forms emerge through layered color and stippled flecks more than hard contour, creating a floating, slightly dreamlike depth. Fine radiating marks and thin vertical strokes contrast with broad cloudlike patches. Diffuse front light makes selected saturated areas glow from within, while the darker base remains understated. The composition is centered but asymmetrical in its spreading rhythm, and the surface feels powdery, tactile, and gently aged.",
+  "style_prompt_zh": "绘画具有象征主义粉彩表面，颜料带粉尘且被摩擦，边缘柔和发光，点缀小块宝石色。暖赭、奶油与橙色色域承托深钴蓝与蓝绿色圆形，褐色阴影聚在下方。形体更多通过叠层色彩和点状碎屑而非硬轮廓浮现，形成漂浮、略如梦的纵深。纤细放射笔痕与细竖线对照宽阔云状色斑。漫射前光使选定饱和区域仿佛从内部发亮，较深底部则保持低调。构图居中，但扩散节奏不对称，表面有粉质、可触、轻微陈旧感。",
+  "theme_en": "Blue flowers and peacock feathers in a dark vase against gold",
+  "theme_zh": "金色背景前深色花瓶中的蓝花与孔雀羽毛",
+  "wh_ratio": "1:1",
+  "id": "2448",
+  "name": "Odilon Redon",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/odilon-redon",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/odilon-redon.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "c4f32d02ee915367497bb7f337081fb6d9079d5a62ad0b04d8ea98e854f227db",
+    "gpt_submission_prompt": "A square symbolist pastel painting shows a loose arrangement of blue flowers, yellow blossoms, and peacock feathers in a dark vase against a warm golden background. The wall behind is divided into broad cream, aqua, and ochre areas, their boundaries softened by rubbed pigment. The bouquet rises from the lower center and spreads irregularly toward the upper left and right. Several round cobalt blossoms face forward, their deep blue petals standing out from the warm field. Smaller golden-yellow flowers cluster through the middle, mingled with slender green leaves and stems. Peacock feathers lift above and beside the flowers, their dark blue-green eye spots visible within wispy radiating strands. The vase at the lower middle is largely swallowed by brown and charcoal shadow, so the bouquet seems to emerge from a dark base. Fine flecks of rust and orange mark the foliage and the surface around it. The image does not describe every petal sharply; soft pastel dust, rubbed edges, and layers of blue and yellow make the forms shimmer. The golden wall on the right is especially luminous, while pale blue-green on the left cools the color balance. Diffuse light seems to pass across the front of the arrangement, lifting the brightest blossoms and feather eyes, with darker stems and vase recessed below. The overall composition is still yet visionary, gathering jewel-blue circles and warm floral sparks into a floating shape against textured gold.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "7fd4a47c98bdcc56061dba684fe6c913758247aceaf54008c04a2c765eddd8ca",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

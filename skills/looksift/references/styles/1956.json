@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white street photograph catches a young woman turning toward the camera inside a dense crowd. She stands a little left of center, dressed in a pale long-sleeved top with a high neck. Her dark hair is cut to the nape and swept to one side, and her face holds a calm, direct look. The body is angled away, so the head turn becomes the photograph's main action. Large partial figures fill the foreground: a dark-clothed shoulder and neck occupy the far left, and at the right a broad shadowed face beneath the brim of a light hat crosses close to the lens. Behind the woman, more people overlap in soft layers, their hats and faces only partly distinguishable in bright haze. The crowd squeezes the open space to a narrow middle corridor around her pale shirt and lit face. Daylight enters from above and behind, blowing parts of the background toward white while leaving nearby figures in heavy gray and black. The woman's features remain clear but unpolished, with soft film grain and slight motion or atmospheric blur around the edges. The camera is close to the surrounding people at roughly eye level, creating a sense of accidental proximity. There is no carefully centered portrait backdrop; every edge is interrupted by another body. The high-contrast composition nevertheless isolates the woman through brightness and the direction of her gaze. The photograph feels fleeting and human, balancing the anonymity of the crowded street with the precise instant of one person noticing the camera.",
+  "full_prompt_zh": "一幅方形黑白街头照片捕捉一名年轻女子在密集人群中回头望向镜头。她站在中央略左，穿浅色高领长袖上衣。深发剪至后颈，向一侧扫开，脸上有平静直接的目光。身体仍斜向别处，因此回头成为照片主要动作。前景被大型局部人物填满：最左侧是一片深衣肩膀和颈部，右侧一张浅帽檐下的宽阔暗脸靠近镜头横切入画。女子身后更多人柔和重叠，帽子和面孔只在明亮雾气里部分可辨。人群把空隙挤压成她浅衣与受光面孔周围一条狭窄中间走廊。日光从上方和身后进入，使背景局部近乎白色，邻近人物则留在厚重的灰与黑中。女子面部清楚却不打磨，画面有柔软胶片颗粒，边缘略带运动或空气模糊。相机在大约眼睛高度靠近周围行人，营造偶然贴近的感觉。这里没有精心居中的肖像背景；每道边缘都被其他身体打断。高反差构图仍通过亮度和目光方向隔离出女子。照片转瞬即逝而有人情味，在拥挤街道的匿名感与一个人注意到相机的精确瞬间之间保持平衡。",
+  "style_prompt_en": "Black-and-white street photography uses eye-level proximity, interrupted edges, and overlapping bodies to create a candid crowd rhythm. A pale focal form and direct glance remain distinct amid near-black foreground silhouettes and a bright hazy background. Daylight can be high and uneven, allowing some distant areas to wash toward white while nearby faces retain dense shadow. Preserve moderate grain, slight atmospheric blur, and natural asymmetry. Tight cropping and layered partial figures convey movement and human density without staging or polished studio light.",
+  "style_prompt_zh": "黑白街头摄影以视线同高的贴近机位、被截断的边缘和重叠身体制造随拍的人群节奏。一块浅色焦点形状与直接目光在近黑前景剪影和明亮朦胧背景间保持清楚。日光可以从高处不均匀落下，让远处局部洗至近白，邻近面孔仍有浓阴影。保留适度颗粒、轻微空气模糊和自然的不对称。紧密裁切及层叠局部人物传达运动与人的密度，无须摆拍或精致影棚光。",
+  "theme_en": "A young woman looking toward the camera within a crowded street",
+  "theme_zh": "拥挤街道中，一名年轻女子回望镜头",
+  "wh_ratio": "1:1",
+  "id": "1956",
+  "name": "Marc Riboud",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/marc-riboud",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/marc-riboud.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "78b9b62580ad8f908e4240b2cb0e46cbb9c0a13883db108ba04081d20615cbba",
+    "gpt_submission_prompt": "A square black-and-white street photograph catches a young woman turning toward the camera inside a dense crowd. She stands a little left of center, dressed in a pale long-sleeved top with a high neck. Her dark hair is cut to the nape and swept to one side, and her face holds a calm, direct look. The body is angled away, so the head turn becomes the photograph's main action. Large partial figures fill the foreground: a dark-clothed shoulder and neck occupy the far left, and at the right a broad shadowed face beneath the brim of a light hat crosses close to the lens. Behind the woman, more people overlap in soft layers, their hats and faces only partly distinguishable in bright haze. The crowd squeezes the open space to a narrow middle corridor around her pale shirt and lit face. Daylight enters from above and behind, blowing parts of the background toward white while leaving nearby figures in heavy gray and black. The woman's features remain clear but unpolished, with soft film grain and slight motion or atmospheric blur around the edges. The camera is close to the surrounding people at roughly eye level, creating a sense of accidental proximity. There is no carefully centered portrait backdrop; every edge is interrupted by another body. The high-contrast composition nevertheless isolates the woman through brightness and the direction of her gaze. The photograph feels fleeting and human, balancing the anonymity of the crowded street with the precise instant of one person noticing the camera.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "ea02639dac5e7ec3f583e9beaa9571f1588cf7243a6ca8b4af6e04c86ff01826",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

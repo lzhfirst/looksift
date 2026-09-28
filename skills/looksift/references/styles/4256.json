@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square seascape captures the end of day as an energetic turquoise wave rises across the middle distance before dark coastal rocks. The horizon sits high enough to give the foreground shallows generous space. The wave curls in a transparent green-blue wall, then breaks into pale foam and flying spray where it strikes the stone. In front, thin water runs over wet sand and small rocks, reflecting a broken ribbon of peach and gold sunlight. A low sun rests near the horizon under soft lavender-gray clouds and warm apricot streaks. Visible, layered oil or thick acrylic brushstrokes shape the scene: broad horizontal marks across the sea, broken flicks in the spray, and scumbled warm strokes in the sky. The rocks are rugged, angular, and nearly black, anchoring the luminous water. Teal, jade, ultramarine, and pale mint planes make the water complex rather than uniformly blue. Bright reflections in the shallows form a loose path toward the sun, while white foam traces the line between rock and moving water. Cool saturated passages hold most of the canvas, allowing the sparse warm light to feel precious. Depth runs clearly from textured shore to breaking wave to quiet horizon. The whole frame glows with tactile paint and shifting light, free of photographic smoothness.",
+  "full_prompt_zh": "一幅方形傍晚海景呈现充满力量的青绿色海浪：它在中景隆起，朝深色海岸礁石扑去。地平线位置略高，为前景浅滩留出宽阔空间。海浪卷成透明的绿蓝色水墙，撞上礁石时化为浅色泡沫和飞散水花。前景薄薄的海水流过湿沙与小石，映出桃色和金色阳光的断续光带。地平线附近是低垂的太阳，上方铺着柔和的薰衣草灰云层与温暖杏色云迹。清晰可见、层层叠加的油画或厚丙烯笔触塑造景物：海面是宽阔水平笔迹，浪花是破碎短笔，天空是擦叠的暖色。礁石粗犷而有棱角，近乎黑色，稳住发亮的水面。深青、翡翠绿、群青与浅薄荷色面使海水丰富多变，而非均匀蓝色。浅滩里的明亮倒影松散地通向太阳，白色泡沫勾出礁石与流水之间的边界。饱和冷色占据大部分画布，使稀少暖光更显珍贵。从肌理丰富的海岸到翻卷海浪再到平静地平线，纵深清楚可见。整体由有触感的颜料和流动的光线照亮，远离摄影般的光滑。",
+  "style_prompt_en": "Use a luminous late-day oil painting language with visibly layered strokes, scumbled highlights, and broken reflections. Arrange a strong horizontal horizon above a spacious textured foreground, then place a broad, moving middle band of saturated cool color between them. Contrast dark angular masses against translucent teal, jade, mint, and ultramarine passages. Thread restrained peach and warm gold through a lavender-gray atmosphere, repeating those warm notes as fractured glints on wet surfaces. Describe foam and spray with quick irregular pale marks. Keep pigment tactile, edges varied, and the sense of light carried by adjacent color rather than digital glow.",
+  "style_prompt_zh": "采用发亮的傍晚油画语言，保留层叠笔触、擦叠高光和破碎倒影。把有力的水平地平线放在宽阔而有肌理的前景上方，其间安排一条饱和冷色、充满运动感的中景带。以深色棱角块面对比透明的深青、翡翠、薄荷绿和群青色段。让克制的桃色与暖金穿过薰衣草灰的空气，并在湿润表面化成断裂的细小反光。用快速、不规则的浅色短笔表现泡沫与飞溅。保持颜料的触感、边缘的变化，让相邻颜色的关系传达光感，而非数字发光效果。",
+  "theme_en": "Turquoise surf breaking over dark rocks beneath a pastel sunset",
+  "theme_zh": "粉彩落日前，青绿海浪拍打暗色礁石",
+  "wh_ratio": "1:1",
+  "id": "4256",
+  "name": "Abbott Fuller Graves",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/abbott-fuller-graves.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "fff976ee378bf4ba361902f0d47e43e37666be15293ba38bcdc64b4b94d43d66",
+    "gpt_submission_prompt": "A square seascape captures the end of day as an energetic turquoise wave rises across the middle distance before dark coastal rocks. The horizon sits high enough to give the foreground shallows generous space. The wave curls in a transparent green-blue wall, then breaks into pale foam and flying spray where it strikes the stone. In front, thin water runs over wet sand and small rocks, reflecting a broken ribbon of peach and gold sunlight. A low sun rests near the horizon under soft lavender-gray clouds and warm apricot streaks. Visible, layered oil or thick acrylic brushstrokes shape the scene: broad horizontal marks across the sea, broken flicks in the spray, and scumbled warm strokes in the sky. The rocks are rugged, angular, and nearly black, anchoring the luminous water. Teal, jade, ultramarine, and pale mint planes make the water complex rather than uniformly blue. Bright reflections in the shallows form a loose path toward the sun, while white foam traces the line between rock and moving water. Cool saturated passages hold most of the canvas, allowing the sparse warm light to feel precious. Depth runs clearly from textured shore to breaking wave to quiet horizon. The whole frame glows with tactile paint and shifting light, free of photographic smoothness.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "6ec16f6a5001d252cd912ff3a2e8f7be1ed2d197d89c2496f0441c73d394c62b",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

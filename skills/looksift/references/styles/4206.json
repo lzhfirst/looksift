@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square anthotype-like contact print sits as a small irregular sheet against a plain pale surround. Within the print, a dark tree rises on the left, splitting into a broad canopy that spreads over the upper edge. A faint field and distant trees fade toward a bright cream center. The lower part is washed with rusty red and brown, as though pigment has gathered unevenly near the edge. The paper border is visibly torn and wavy, with tan discoloration and darker worn corners. The image has very little sharp detail: branches remain recognizable, but their outer forms dissolve into mottled patches and soft chemical grain. Light appears diffuse, brightest in the central distance and behind the tree, making the dark trunk a gentle silhouette rather than a hard black cutout. A faint horizontal line separates the foreground from the pale background. The warm palette stays within burgundy brown, ochre, faded rose and yellowed cream, with no true white or crisp black. Small scratches and uneven exposure marks run across the surface. The composition is simple and quiet, anchored by the large off-center tree and broad open glow. The surrounding blank margin makes the print feel handled and fragile. It resembles a memory impressed into plant pigment, where paper texture and image fading matter as much as the landscape itself.",
+  "full_prompt_zh": "这幅方形近似植物印相的接触印片作为一张不规则小纸片放在朴素浅色背景上。印片内一棵深树从左侧升起，分成宽树冠，越过上缘。浅淡田地与远树向明亮奶油色中央退去。下部被锈红和棕色水洗覆盖，像颜料在边缘不均匀聚集。纸边明显撕裂起伏，带黄褐变色与更暗磨旧角。图像几乎没有锐利细节：枝条可认，但外形融进斑驳色片和柔和化学颗粒。光似乎漫散，中央远方和树后最亮，使暗树干成为温和剪影，而非硬黑剪纸。一条微弱水平线区分前景与浅背景。暖色盘只在酒红棕、赭黄、褪粉和发黄奶油色间活动，没有真正的纯白或清脆黑。细刮痕和不均匀曝光痕横过表面。构图简单安静，由偏心的大树与宽阔明亮空域固定。周围空白边缘使印片有被拿取过的脆弱感。它像印进植物颜料的记忆，纸面纹理和褪色与风景一样重要。",
+  "style_prompt_en": "The anthotype-like print has a narrow range of faded burgundy, ochre, rose brown and yellowed cream. Uneven plant-pigment density creates mottled shadows and a luminous pale center. Forms remain recognizable but soften into the fibrous paper surface, with scratches and weathered staining visible throughout. An irregular deckled border and broad blank margin emphasize the physical sheet. Diffuse light and weak contrast make the image fragile, quiet and memorylike.",
+  "style_prompt_zh": "这种近似植物印相的印片只有褪酒红、赭黄、玫棕与发黄奶油色的狭窄范围。植物颜料密度不均，形成斑驳阴影与明亮浅中心。形体仍可辨认，却柔化进纤维纸面，各处可见刮痕与磨旧污渍。不规则毛边和宽阔空白外缘强调实体纸片。漫射光与弱对比让图像脆弱、安静，像记忆。",
+  "theme_en": "A faded tree landscape on an uneven botanical print",
+  "theme_zh": "不规则植物印片上的褪色树景",
+  "wh_ratio": "1:1",
+  "id": "4206",
+  "name": "Anthotype print",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/anthotype-print.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "b1edcf34a69abd0a1e429bd7da228627d74ded50da356559656f310d46e46759",
+    "gpt_submission_prompt": "A square anthotype-like contact print sits as a small irregular sheet against a plain pale surround. Within the print, a dark tree rises on the left, splitting into a broad canopy that spreads over the upper edge. A faint field and distant trees fade toward a bright cream center. The lower part is washed with rusty red and brown, as though pigment has gathered unevenly near the edge. The paper border is visibly torn and wavy, with tan discoloration and darker worn corners. The image has very little sharp detail: branches remain recognizable, but their outer forms dissolve into mottled patches and soft chemical grain. Light appears diffuse, brightest in the central distance and behind the tree, making the dark trunk a gentle silhouette rather than a hard black cutout. A faint horizontal line separates the foreground from the pale background. The warm palette stays within burgundy brown, ochre, faded rose and yellowed cream, with no true white or crisp black. Small scratches and uneven exposure marks run across the surface. The composition is simple and quiet, anchored by the large off-center tree and broad open glow. The surrounding blank margin makes the print feel handled and fragile. It resembles a memory impressed into plant pigment, where paper texture and image fading matter as much as the landscape itself.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "234ca78fcf7259f6bc217cac0cff15f5a250f6aaa63b04f180d532fe4d4bf2af",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

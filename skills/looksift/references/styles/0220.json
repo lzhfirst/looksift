@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square ultra-wide photograph looks almost straight upward from street level between tall city buildings. The lower rim of the image bends into a dark curved band of pavement and facade bases, making the sky appear as a large irregular blue opening at the center. On every side, gray stone and concrete buildings climb inward toward that opening. A tall stepped tower rises from the lower center, its many narrow windows and strong vertical lines drawing the eye toward the middle of the sky. To the left and right, closely spaced rows of windows wrap around the square, with the nearest facades seeming to curve under fisheye distortion. Additional buildings hang from the top edge as though leaning overhead, their bright upper corners catching direct daylight. The sky is a clean pale cyan-blue with a faint warmer glow low near the central tower. Small windows and facade seams remain photographic and legible near the center, while outer edges stretch and bend more dramatically. No people, signs, or readable text form part of the selected image. Shadows occupy the bottom and the undersides of the surrounding facades, contrasting with the bright open sky and sunlit upper walls. The converging towers create a deep vertical well, yet the round distortion makes the enclosure feel almost bowl-shaped. The composition depends on radial perspective, large central negative space, and a ring of repeating architectural detail.",
+  "full_prompt_zh": "一幅方形超广角照片从街面几乎直直仰望高楼之间。图像下缘弯成深暗的铺地和楼底弧带，使天空成为中央一块大而不规则的蓝色开口。四面灰色石材与混凝土楼宇都向这开口爬升。一座有阶梯状轮廓的高塔从下方中央升起，许多狭窄窗和强烈竖线把目光引向天空中央。左右两侧密排窗户环绕方形画面，最近的立面在鱼眼变形下似乎弯曲。更多建筑从顶边倒挂般伸入，受日光的上角明亮。天空是干净的浅青蓝，中央高塔低处附近带微弱暖光。靠中心的小窗和立面接缝仍有摄影清晰度，外边缘则拉伸弯折得更明显。所选画面没有人物、招牌或可读文字。阴影占据底部和围拢建筑的底面，对抗明亮开放天空与受日照的上层墙面。汇聚高楼形成深竖井，圆形变形又让围合空间近乎碗状。构图依赖放射透视、巨大的中央负空间，以及一圈重复建筑细节。",
+  "style_prompt_en": "Ultra-wide photographic perspective bends long structural lines around a large central opening. Repeating small details remain readable but stretch toward the edges, turning ordinary rectilinear forms into a radial enclosure. Cool stone gray and dark slate masses ring a broad clear cyan field, with direct daylight catching select high edges. Near portions fall into heavier shade, strengthening the depth from rim to center. The viewpoint is steep and immersive, emphasizing converging verticals and a curved lower boundary. Large negative space at the center balances dense patterned surfaces on every side, creating a dramatic sense of height without needing moving action.",
+  "style_prompt_zh": "超广角摄影透视把长结构线弯到大块中央开口周围。重复的小细节仍可辨认，却向边缘拉伸，把普通直角形体变为放射状围合。冷石灰和深石板色体块环住宽阔清澈的青蓝色场，直射日光照亮少数高处边缘。近处部分落入更浓阴影，加强从边缘到中心的深度。视点陡峭而沉浸，强调汇聚竖线和弯曲的下边界。中央巨大负空间平衡四周密集纹样表面，即使没有运动也制造强烈高度感。",
+  "theme_en": "A fisheye view looking straight up between tall city buildings",
+  "theme_zh": "鱼眼视角从高楼之间直望天空",
+  "wh_ratio": "1:1",
+  "id": "0220",
+  "name": "Wide-angle view",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/wide-angle-view",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/wide-angle-view.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "551e3dca4d219490a2454d34c65f07c2fe8816fdc42c4f923e18e587dac088d9",
+    "gpt_submission_prompt": "A square ultra-wide photograph looks almost straight upward from street level between tall city buildings. The lower rim of the image bends into a dark curved band of pavement and facade bases, making the sky appear as a large irregular blue opening at the center. On every side, gray stone and concrete buildings climb inward toward that opening. A tall stepped tower rises from the lower center, its many narrow windows and strong vertical lines drawing the eye toward the middle of the sky. To the left and right, closely spaced rows of windows wrap around the square, with the nearest facades seeming to curve under fisheye distortion. Additional buildings hang from the top edge as though leaning overhead, their bright upper corners catching direct daylight. The sky is a clean pale cyan-blue with a faint warmer glow low near the central tower. Small windows and facade seams remain photographic and legible near the center, while outer edges stretch and bend more dramatically. No people, signs, or readable text form part of the selected image. Shadows occupy the bottom and the undersides of the surrounding facades, contrasting with the bright open sky and sunlit upper walls. The converging towers create a deep vertical well, yet the round distortion makes the enclosure feel almost bowl-shaped. The composition depends on radial perspective, large central negative space, and a ring of repeating architectural detail.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "d923a7b7a39b7c843ffaedb9faed4416e9157fc2748df8f03f89e870619344b2",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

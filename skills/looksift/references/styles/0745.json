@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A black-and-white photograph records a poised figure in a spacious, spare interior. A woman in a floor-length black dress stands near the base of a broad staircase, a little left of center. Her body faces to the right and her head turns back toward the viewer, giving the still pose a quiet sense of interruption. The dress forms a long, clean dark silhouette from high neckline to hem, with one bare arm catching a thin band of light. Behind her, stone steps climb diagonally from the lower right toward the upper center, each edge marked by a narrow bright stripe. High on the left, a small rectangular window sends a strong diagonal beam across the stairwell and over her shoulder. More daylight enters through taller openings at the far left, projecting a gridded patch onto the floor. A chair, a framed opening, and a few indistinct furnishings sit in the dim left background, kept secondary to the stark architecture. Pale plaster walls and worn stone surfaces carry a restrained range of greys, while the dress and shadowed recesses fall nearly to black. The camera holds enough distance to show the full figure and the shape of the room, with balanced verticals and a gentle film softness. The light constructs the scene: luminous steps and floor geometry surround one calm, dark human form.",
+  "full_prompt_zh": "一幅黑白照片记录了一位在宽敞、简朴室内静立的人物。身穿及地黑裙的女子站在宽阔楼梯底部，位置略偏左。身体朝右，头却回望观者，使静止姿态带有轻微被打断的感觉。裙装从高领到下摆形成修长、干净的深色剪影，一只裸露的手臂接住一窄带光。她身后石阶从右下角斜升至上方中央，每级边缘都被一道细亮线标出。左上方的小矩形窗户将强烈的斜射光束投过楼梯间与她的肩部。更左侧较高的开口也引入日光，在地面投下格状亮斑。一张椅子、一处门洞和几件模糊陈设位于左侧暗部背景，始终服从于鲜明的建筑空间。浅色灰泥墙与磨旧的石面承载克制的灰阶，裙子和阴影凹处则近乎纯黑。镜头保持足够距离，展示完整人像与房间形状，竖线平衡，并带有轻柔胶片柔化。光线搭建整个场景：明亮的台阶与地面几何围绕着一个平静的深色人物形体。",
+  "style_prompt_en": "The photograph uses a classic cinematic monochrome language, relying on strong natural window light and broad shadow fields. Pale architectural planes, charcoal recesses, and a near-black focal silhouette are arranged in deliberate geometric balance. Narrow highlights trace edges and create depth, while a visible diagonal beam gives the still scene atmosphere. Tonal transitions are smooth and slightly soft, preserving a film-like grain rather than digital sharpness. The camera viewpoint is measured and full-length, allowing negative space and repeating lines to carry as much weight as the focal form. The mood is elegant, restrained, and quietly dramatic.",
+  "style_prompt_zh": "照片采用经典电影感单色语言，依靠强烈的自然窗光与大面积阴影场。浅色平面、炭灰暗部和近黑色视觉焦点形成刻意的几何平衡。窄亮边勾出轮廓与纵深，可见的斜向光束为静止画面增加空气感。明暗过渡平滑且略柔，保留胶片般的颗粒，而非数码锐利感。机位审慎并能容纳完整形体，留白与重复线条和焦点形体同样重要。气氛优雅、收敛，带有安静的戏剧性。",
+  "theme_en": "A woman in a long black dress pauses at the foot of a sunlit stone staircase in an austere interior, photographed in cinematic monochrome.",
+  "theme_zh": "一位身穿黑色长裙的女子站在阳光照射的石阶脚下，置身简朴室内，以电影感黑白摄影呈现。",
+  "wh_ratio": "1:1",
+  "id": "0745",
+  "name": "Christian Coigny",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/christian-coigny",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/christian-coigny.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "e778d18aefc6e6f4d6a13394a290744e1bb789792e69037178a7f03081442d0b",
+    "gpt_submission_prompt": "A black-and-white photograph records a poised figure in a spacious, spare interior. A woman in a floor-length black dress stands near the base of a broad staircase, a little left of center. Her body faces to the right and her head turns back toward the viewer, giving the still pose a quiet sense of interruption. The dress forms a long, clean dark silhouette from high neckline to hem, with one bare arm catching a thin band of light. Behind her, stone steps climb diagonally from the lower right toward the upper center, each edge marked by a narrow bright stripe. High on the left, a small rectangular window sends a strong diagonal beam across the stairwell and over her shoulder. More daylight enters through taller openings at the far left, projecting a gridded patch onto the floor. A chair, a framed opening, and a few indistinct furnishings sit in the dim left background, kept secondary to the stark architecture. Pale plaster walls and worn stone surfaces carry a restrained range of greys, while the dress and shadowed recesses fall nearly to black. The camera holds enough distance to show the full figure and the shape of the room, with balanced verticals and a gentle film softness. The light constructs the scene: luminous steps and floor geometry surround one calm, dark human form.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "7fed807d5aa462d943efcb07af9b3a1ceb5566898bb1ce6cc115c406c0552fd4",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

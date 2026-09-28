@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square architectural photograph shows a low modern house set among mature trees beside a still pond. The building occupies the upper middle of the frame, slightly left of center, with a long sloping metal roof, warm timber frames, broad glass walls, and a projecting terrace. A pale rectangular side volume extends to the left, while darker roof planes overlap toward the right. Interior rooms glow amber behind the glass in the fading late-day light. A thin band of shrubs, rocks, and grasses separates the building from the pond. The lower half of the image is dominated by a dark mirror reflection of roof, windows, timber grid, and surrounding trees, gently disturbed at the edges by reeds. Tall trunks frame the sides, and sunlit foliage in ocher, olive, and muted green encloses the house without hiding its open facade. The sky is pale and small, mostly visible above the roof through the branches. The camera sits across the water at a level viewpoint, emphasizing the horizontal relationship between built structure and landscape. Materials remain tactile: warm wood, cool glass, gray roof metal, rough stones, and soft waterside plants. Daylight is soft, with amber highlights on the facade and deeper brown shadows beneath the roof. No people, signs, cars, or readable text appear. The mood is calm and environmentally attentive, showing the building as one layer in a larger composition of trees, water, reflection, and quiet evening light.",
+  "full_prompt_zh": "一张方形建筑照片呈现一栋低矮现代住宅置于成熟树木间、静池旁。房子占画面上中部稍偏左，带长斜金属屋顶、暖木框、宽玻璃墙和外挑露台。浅色矩形侧体向左延伸，较深屋顶平面向右重叠。傍晚渐暗光里，室内在玻璃后泛琥珀暖光。一条灌木、岩石和草带将房子与池子隔开。下半幅由屋顶、窗、木网格和周围树的深镜像倒影主导，仅边缘芦苇轻扰。高树干框两侧，赭、橄榄和低调绿的受光叶围住房子，却不挡其开放立面。天空浅而小，多在枝间屋顶上方露出。相机隔水处于水平视点，强调人造结构与自然的水平关系。材料仍可触：暖木、冷玻璃、灰金属屋面、粗岩和柔软水边植物。日光柔和，立面有琥珀高光，屋顶下阴影较深褐。没有人物、标牌、汽车或可读字。氛围平静且关注环境，建筑只是树、水、倒影和安静傍晚光组成的大构图中的一层。",
+  "style_prompt_en": "Use calm architectural photography that integrates long low horizontal forms with mature natural framing and a large mirror-like reflection. Balance warm timber and interior glow against cool glass, gray metal, stone, foliage, and dark water. Let the reflective lower half echo the upper structure without becoming perfectly abstract; retain reeds and slight edge disturbance. Compose from a level viewpoint across open space so layered built and organic forms remain legible. Use soft late-day light, moderate contrast, and textured shadows under projecting planes. The result is serene and site-conscious, with material clarity and environmental rhythm carrying the image rather than spectacle.",
+  "style_prompt_zh": "采用平静建筑摄影，将长而低的水平形融入成熟自然框景和大片镜面倒影。暖木与室内光对照冷玻璃、灰金属、石、树叶和深水。让下半倒影呼应上方结构，却不变成完美抽象，保留芦苇与边缘轻扰。隔开放空间以水平视点构图，使人造与有机层清楚。使用柔和傍晚光、适中对比及外挑平面下的有纹阴影。结果宁静且关注场地，由材料清晰度和环境节律承担图像，而非奇观。",
+  "theme_en": "A low glass-and-timber house mirrored in a quiet pond among trees",
+  "theme_zh": "林中低矮玻璃木屋倒映在静池里",
+  "wh_ratio": "1:1",
+  "id": "1178",
+  "name": "Glenn Murcutt",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/glenn-murcutt",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/glenn-murcutt.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "d18898e28d5a834b12542d3a0ce2b364a9e75f9ec2d1c4f6bfb7cd83db672e68",
+    "gpt_submission_prompt": "A square architectural photograph shows a low modern house set among mature trees beside a still pond. The building occupies the upper middle of the frame, slightly left of center, with a long sloping metal roof, warm timber frames, broad glass walls, and a projecting terrace. A pale rectangular side volume extends to the left, while darker roof planes overlap toward the right. Interior rooms glow amber behind the glass in the fading late-day light. A thin band of shrubs, rocks, and grasses separates the building from the pond. The lower half of the image is dominated by a dark mirror reflection of roof, windows, timber grid, and surrounding trees, gently disturbed at the edges by reeds. Tall trunks frame the sides, and sunlit foliage in ocher, olive, and muted green encloses the house without hiding its open facade. The sky is pale and small, mostly visible above the roof through the branches. The camera sits across the water at a level viewpoint, emphasizing the horizontal relationship between built structure and landscape. Materials remain tactile: warm wood, cool glass, gray roof metal, rough stones, and soft waterside plants. Daylight is soft, with amber highlights on the facade and deeper brown shadows beneath the roof. No people, signs, cars, or readable text appear. The mood is calm and environmentally attentive, showing the building as one layer in a larger composition of trees, water, reflection, and quiet evening light.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "21d3d897d6c774551f9ba8e284a2ddfc8247248143ec2c4e173278cc1029bafe",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

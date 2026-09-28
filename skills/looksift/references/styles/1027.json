@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white documentary photograph looks past four dark silhouettes toward a misty river harbor. The figures fill the lower foreground from left to right, seen from behind beneath a broad shadowed overhang. Several wear brimmed hats, and their shoulders merge into a single black band that anchors the image. A large rounded rectangular opening frames the pale outdoor scene, its thick upper and side borders nearly black. Beyond it, calm gray water stretches across the middle, carrying small distant boats and faint reflections. Near the far bank, a long low vessel sits beside two smokestacks sending heavy plumes upward and toward the right. The smoke is dark at its source and softens into gray as it spreads across the white sky. Industrial masts and a distant spired building appear only faintly through the haze along the horizon. The view has a strong tonal division: solid black foreground, silvery water, mist-gray distance and bright nearly blank sky. Soft outdoor light arrives from beyond the opening, turning the observers into featureless silhouettes while revealing fine ripples in the river. The smoke and far harbor have slightly diffuse edges, consistent with grainy film and atmospheric distance. No faces or readable signs are visible. The overall composition is quiet and observational, using the dark framing and repeated heads to lead attention toward the luminous industrial river beyond.",
+  "full_prompt_zh": "一张方形黑白纪实照片越过四道深色人影望向有雾的河港。人物从左到右填满下方前景，背对镜头，站在宽阔的阴影顶棚下。几人戴有帽檐的帽子，肩膀融成一条固定画面的黑色横带。一道圆角长方形大开口框住浅色室外景象，厚重的上边与两侧近乎黑色。其外，平静灰水横过中部，有几艘远处小船和淡淡倒影。远岸附近，一条低长船泊在两根烟囱旁，厚烟向上并朝右飘散。烟在源头深暗，扩散到白色天空时变成柔灰。工业桅杆与远处尖塔建筑只在地平线薄雾里隐约出现。画面有强烈明度分区：纯黑前景、银灰水面、雾灰远方和近乎空白的亮天空。柔和室外光从开口外照来，把观看者变成没有五官的剪影，同时显出河面细纹。烟与远港边缘略软，符合有颗粒的胶片与空气距离。看不到面孔或可读标识。整体构图安静而富观察感，以深色框景和重复头部把注意力引向外面发亮的工业河流。",
+  "style_prompt_en": "A classic monochrome documentary treatment uses a near-black foreground frame to contain a luminous, hazy middle distance. Repeated dark rounded silhouettes establish a low rhythmic band, while pale gray expanses and soft atmospheric detail open above them. Tonal transitions stay gentle in the distant field but abrupt at the foreground boundary. Fine film grain and diffuse edges preserve the sense of air and age; small reflections add texture to otherwise quiet midtones. Backlight removes interior detail from the closest forms and reveals layered light values farther away. The composition feels observant and slightly nostalgic through its strong frame-within-frame structure, restrained contrast distribution and deep atmospheric recession.",
+  "style_prompt_zh": "经典黑白纪实处理以近黑前景框架围住发亮、有雾的中远景。重复的深色圆润剪影建立低处节奏横带，浅灰宽域与柔和空气细节在上方打开。远处色域的明暗过渡温和，前景边界却骤然分明。细胶片颗粒与弥散边缘保留空气感和年代感；小反射为原本安静的中间调增添纹理。逆光抹去最近形体的内部细节，却揭示更远处层叠的浅色明度。画面借强烈的框中框结构、克制的反差分布与深远空气透视，显得善于观察而略带怀旧。",
+  "theme_en": "Four dark silhouettes watching a smoky river harbor through a wide opening",
+  "theme_zh": "四道深色人影透过宽阔窗口望向烟雾弥漫的河港",
+  "wh_ratio": "1:1",
+  "id": "1027",
+  "name": "Sabine Weiss",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/sabine-weiss",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/sabine-weiss.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "595ea8c33f9eb5e6e8f6b93f643366d83c88444f54f6e1d2cc02cb5598d337f3",
+    "gpt_submission_prompt": "A square black-and-white documentary photograph looks past four dark silhouettes toward a misty river harbor. The figures fill the lower foreground from left to right, seen from behind beneath a broad shadowed overhang. Several wear brimmed hats, and their shoulders merge into a single black band that anchors the image. A large rounded rectangular opening frames the pale outdoor scene, its thick upper and side borders nearly black. Beyond it, calm gray water stretches across the middle, carrying small distant boats and faint reflections. Near the far bank, a long low vessel sits beside two smokestacks sending heavy plumes upward and toward the right. The smoke is dark at its source and softens into gray as it spreads across the white sky. Industrial masts and a distant spired building appear only faintly through the haze along the horizon. The view has a strong tonal division: solid black foreground, silvery water, mist-gray distance and bright nearly blank sky. Soft outdoor light arrives from beyond the opening, turning the observers into featureless silhouettes while revealing fine ripples in the river. The smoke and far harbor have slightly diffuse edges, consistent with grainy film and atmospheric distance. No faces or readable signs are visible. The overall composition is quiet and observational, using the dark framing and repeated heads to lead attention toward the luminous industrial river beyond.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "4bd963027968f4ee94a30050f98659b48b1e1588ec4344305e68c60dfd03f2db",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

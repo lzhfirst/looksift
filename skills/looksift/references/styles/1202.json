@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A quiet black-and-white photograph shows a young shaved-headed novice standing in a rough field under dense mist. The child is positioned slightly right of center, seen in profile with head lowered and hands tucked into the folds of a long dark robe. The robe hangs in a simple tapering shape toward the lower edge, its dark mass contrasting with the pale, uncertain distance. Thin grasses and stubbly stems fill the foreground, their tips visible against the lighter haze before disappearing behind the figure. No building or horizon line is clearly defined; instead, the background rises through soft layers of gray vapor, with a brighter opening behind the head and shoulders and darker cloudlike tone at the top left. This tonal halo separates the rounded head from the surroundings without making the scene theatrical. Light is broad and diffused, producing gentle gradients on the face and cloth and almost no cast shadow. Fine film grain and slightly softened edges keep the photograph tactile, while the dark robe retains subtle folds rather than becoming a solid black cutout. The vertical crop and modest human scale leave ample atmospheric space around the figure. The whole frame feels restrained, contemplative, and humane, built from the small downward gesture, the rough grass, and the quiet weight of fog.",
+  "full_prompt_zh": "一张安静的黑白照片，表现一位剃发的年轻修行者站在浓雾笼罩的粗草地里。孩子位于中心稍右，以侧面示人，低着头，双手藏在深色长袍的褶皱中。袍子以简单的收拢形状垂至下缘，深色体块与浅淡、不确定的远方形成对照。前景布满细草和短茎，草尖在较亮雾气前可见，随后消失在人物背后。建筑或地平线都不清楚；背景由柔和的灰色水汽层层升起，头肩后方留有较亮的开口，左上部则更暗、更像云。这一明暗光环把圆润的头从周围分出，却不使画面显得戏剧化。光线宽阔而漫射，在脸和布料上形成柔和渐变，几乎没有投影。细密胶片颗粒和略柔的边缘让照片保有触感；深色袍子仍能看出细微褶皱，而非纯黑剪纸。纵向裁切和人物较小的尺度，使周围留有充足空气。整个画面克制、沉思且有人情味，由微小的低头姿态、粗草和雾的安静分量组成。",
+  "style_prompt_en": "Restrained black-and-white film photography with fine grain and broad, soft gray transitions. A compact dark vertical form stands amid rough low texture, separated from an undefined pale distance by a gentle tonal opening. Diffuse light produces little cast shadow; dark material keeps subtle inner folds and edges gradually soften into vapor. Sparse foreground lines provide tactile detail without filling the frame. The upper field is atmospheric and layered, with slightly deeper tone near one corner. The composition stays simple, still, and humane, letting quiet spacing carry the emotional weight.",
+  "style_prompt_zh": "克制的黑白胶片摄影风格，颗粒细密，灰阶过渡宽阔而柔和。紧凑的深色竖向形态立于粗糙低矮纹理中，由温和的明暗开口从不确定的浅色远景中分离。漫射光几乎没有投影；深色材质保留细微内部褶皱，边缘逐渐融入水汽。稀疏前景线条提供触觉细节，却不填满画面。上部区域富有空气层次，一角略微加深。构图简单、静止且有人情味，让安静的间距承载情绪。",
+  "theme_en": "A young novice standing alone in a misty field",
+  "theme_zh": "年轻修行者独立于薄雾草地",
+  "wh_ratio": "1:1",
+  "id": "1202",
+  "name": "Ken Domon",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/ken-domon",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/ken-domon.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "10c08d5b815757c287fc56843c07ae0a7d4c4c12a7dfb17f38bee78c82a5138b",
+    "gpt_submission_prompt": "A quiet black-and-white photograph shows a young shaved-headed novice standing in a rough field under dense mist. The child is positioned slightly right of center, seen in profile with head lowered and hands tucked into the folds of a long dark robe. The robe hangs in a simple tapering shape toward the lower edge, its dark mass contrasting with the pale, uncertain distance. Thin grasses and stubbly stems fill the foreground, their tips visible against the lighter haze before disappearing behind the figure. No building or horizon line is clearly defined; instead, the background rises through soft layers of gray vapor, with a brighter opening behind the head and shoulders and darker cloudlike tone at the top left. This tonal halo separates the rounded head from the surroundings without making the scene theatrical. Light is broad and diffused, producing gentle gradients on the face and cloth and almost no cast shadow. Fine film grain and slightly softened edges keep the photograph tactile, while the dark robe retains subtle folds rather than becoming a solid black cutout. The vertical crop and modest human scale leave ample atmospheric space around the figure. The whole frame feels restrained, contemplative, and humane, built from the small downward gesture, the rough grass, and the quiet weight of fog.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "2c32dd0e633fb070b7980f3ddc2efe2f5e2b89028ad111fb029ae3c629de2e10",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

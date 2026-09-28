@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square street-art portrait shows a young woman from the shoulders up against a rough, saturated blue wall. She faces forward with her head slightly turned, meeting the viewer with large dark eyes and a restrained expression. Dark hair is gathered into a loose bun, with flyaway strands sketched around the crown and temples. The face is modeled through intersecting strokes of warm yellow, coral, violet, turquoise, and deep navy. Thin dark lines mark the eyelids, nose, mouth, and hair, while brighter strokes sweep across the forehead and cheekbones. Her jacket or scarf is rendered in mixed blue, purple, and red marks at the lower right, dissolving into the surrounding wall. Scratches, drips, scribbles, paint splashes, and fragments of black lettering surround the figure; none of the marks form legible text. The wall surface is uneven, with visible vertical seams and worn patches that interrupt the image. At the top and right edge, dark blue and charcoal areas press toward the head. A cool blue field dominates, but warm orange-yellow highlights bring the face forward. The apparent light comes from the upper left, picked out by bright forehead and cheek strokes, while the far side and hair remain darker. The portrait is both painterly and stencil-like, with crisp graphic features layered over rough expressive color. The close framing keeps attention on the eyes while the marks around them reveal the physical urban surface. The overall composition is direct, weathered, and energetic, balancing tenderness of expression with restless sprayed and drawn texture.",
+  "full_prompt_zh": "一幅方形街头艺术肖像在粗糙、饱和蓝色墙面上描绘年轻女子的肩以上部分。她正面朝向观众，头略微转动，大而深的眼睛与观众相遇，表情收敛。深发松松挽髻，飞散发丝在头顶和鬓角周围以线条勾出。面孔由暖黄、珊瑚、紫、青绿和深海军蓝的交错笔触塑形。细深线标明眼睑、鼻、口和头发，更亮的笔痕扫过额头与颧骨。外套或围巾在右下由蓝、紫、红混合笔痕呈现，逐渐融入墙面。人物周围有刮痕、流痕、涂写、喷溅和黑色字母碎片，均不构成可读文字。墙面不平，有可见竖缝与磨损斑块打断图像。顶部和右缘，深蓝与炭黑区域压向头部。冷蓝色域主导，但暖橙黄高光把脸推到前面。光感似来自左上，由额和颊的亮笔划挑出，远侧和头发更暗。肖像兼有绘画感和模板感，清晰图形五官叠在粗糙表现性色彩上。近距离构图把注意留在眼睛，同时周围笔痕显露实体城市表面。整体直接、风化、充满能量，以温柔神情平衡不安定的喷涂与手绘肌理。",
+  "style_prompt_en": "Use layered street-art color on a visibly worn surface. Combine crisp stencil-like focal features with loose sprayed pigment, crosshatched strokes, scratches, drips, and scribbled marks. Let a dominant cool blue or teal field support warm yellow, coral, and violet highlights, with dark navy lines carrying structure. Keep seams, chips, and underlying wall texture visible through the image. Light can be expressed through bright painted strokes rather than smooth modeling. The result is immediate, humane, and restless.",
+  "style_prompt_zh": "在可见磨损表面上叠加街头艺术色彩。将清晰模板般焦点特征与松散喷涂、交叉排线、刮痕、流痕和涂写结合。以冷蓝或青绿主色域承托暖黄、珊瑚和紫色亮部，由深蓝线维持结构。接缝、缺口与底层墙纹需透出图像。光可借明亮笔痕而非平滑塑形表达。效果直接、有人味且不安定。",
+  "theme_en": "A vivid blue street-art portrait of a young woman on a worn wall",
+  "theme_zh": "磨损墙面上的鲜蓝色年轻女子街头肖像",
+  "wh_ratio": "1:1",
+  "id": "3936",
+  "name": "C215",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/c215.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "1426fc87df742fe3f53467e4979529bc5a317389a447177dcd272f8291a71147",
+    "gpt_submission_prompt": "A square street-art portrait shows a young woman from the shoulders up against a rough, saturated blue wall. She faces forward with her head slightly turned, meeting the viewer with large dark eyes and a restrained expression. Dark hair is gathered into a loose bun, with flyaway strands sketched around the crown and temples. The face is modeled through intersecting strokes of warm yellow, coral, violet, turquoise, and deep navy. Thin dark lines mark the eyelids, nose, mouth, and hair, while brighter strokes sweep across the forehead and cheekbones. Her jacket or scarf is rendered in mixed blue, purple, and red marks at the lower right, dissolving into the surrounding wall. Scratches, drips, scribbles, paint splashes, and fragments of black lettering surround the figure; none of the marks form legible text. The wall surface is uneven, with visible vertical seams and worn patches that interrupt the image. At the top and right edge, dark blue and charcoal areas press toward the head. A cool blue field dominates, but warm orange-yellow highlights bring the face forward. The apparent light comes from the upper left, picked out by bright forehead and cheek strokes, while the far side and hair remain darker. The portrait is both painterly and stencil-like, with crisp graphic features layered over rough expressive color. The close framing keeps attention on the eyes while the marks around them reveal the physical urban surface. The overall composition is direct, weathered, and energetic, balancing tenderness of expression with restless sprayed and drawn texture.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "c6f444b2ca4e10eb5f2b745dd9b0f4b65768cd7282417a996d535499e8ffab22",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square surrealist painting presents a lone seated traveler in a barren plain under a muted teal sky. A pale round moon hangs high at the right, while large cream clouds gather low along the horizon. At the left, a thin tree rises from a worn reddish case, its sparse branches carrying small red leaves against the sky. The traveler occupies the center, facing forward with knees apart and hands resting near the lap. Round yellow goggles conceal the eyes beneath a dark, windblown hat; the pale face remains still and difficult to read. A long charcoal coat falls over a rust-colored inner layer and loose gray trousers. Heavy red boots stand on the dusty foreground, casting short shadows that secure the figure to the flat ground. A larger ochre case sits to the right, with a slender staff leaning upright beside it. Beyond these objects, low distant ridges stretch across the open plain and leave a broad interval of empty earth around the sitter. The painted surfaces carry subdued grain and soft brush transitions, although the goggles, boots, and luggage retain clear silhouettes. Warm light from the upper left catches the face, shoulders, case edges, and the drifting clouds; cooler shadow gathers beneath the hat and around the coat folds. The scene joins ordinary travel belongings to impossible scale and placement, especially the little tree emerging from luggage. The overall composition is still and centered, with worn earth colors set against teal air and the moon's quiet glow.",
+  "full_prompt_zh": "一幅方形超现实主义绘画展现一位旅人独坐荒凉平原，身后是暗青绿色天空。浅色圆月高悬右上，大块奶油色云团聚在低矮地平线附近。左侧一棵细树从磨旧的红褐色箱子中长出，稀疏枝头的红叶映在天空上。旅人居中面朝前坐着，双膝分开，双手落在腿部附近。深色、被风吹乱的帽子下，一副黄色圆形护目镜遮住双眼；苍白的脸安静而难以辨读。长长的炭灰外套罩着铁锈色内层和宽松灰裤。厚重的红靴立在多尘前景，短影使人物与平坦地面接实。右侧放着一只更大的赭色箱子，旁边靠着一根细长的竖杖。这些物件之后，低矮远山沿开阔平原伸展，使坐者四周留下大片空旷土地。绘画表面带有收敛的颗粒和柔和笔触过渡，护目镜、靴子与箱子的剪影却仍清晰。来自左上方的暖光照到脸、肩、箱子边缘和飘散的云；冷影积在帽檐下和外套褶皱间。场景将普通旅途行李与不可能的尺度和位置结合，尤其是从箱中长出的细树。整体构图静止而居中，磨旧的土色与青绿色空气和月光相对。",
+  "style_prompt_en": "Painterly surrealism combines believable surface modeling with quiet, impossible juxtapositions. Edges are readable but gently softened by grain and atmospheric haze; thin irregular marks interrupt larger calm color fields. Muted teal and dusty earth hues dominate, with small ochre, red, and pale cream accents drawing attention through contrast. Warm oblique light touches exposed planes, while cool shadows sit under overhangs and in folds, preserving a tangible sense of volume. A low horizon and ample open field isolate a compact central arrangement. The resulting stillness feels contemplative and faintly uncanny rather than frantic.",
+  "style_prompt_zh": "绘画式超现实主义将可信的表面塑形与安静却不可能的并置结合。边缘可辨，却被颗粒和空气薄雾轻轻柔化；细而不规则的笔痕打断大片平静色域。暗青绿与蒙尘土色占主导，少量赭色、红色和浅奶油色通过对比吸引视线。斜向暖光触及外露平面，冷影落在遮蔽下沿与褶隙里，保留可感的体积。低地平线与充足空白将紧凑的中央组合隔离出来。由此形成的静止感沉思而略带异样，并不躁乱。",
+  "theme_en": "A seated traveler in goggles beneath a moonlit surreal sky",
+  "theme_zh": "月色超现实天空下戴护目镜坐着的旅人",
+  "wh_ratio": "1:1",
+  "id": "4038",
+  "name": "Surrealism",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/surrealism.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "cc20a18e3162064d0dd2e746bdaa1b651a12ca3cd399daca812e8a3e4c3779f7",
+    "gpt_submission_prompt": "A square surrealist painting presents a lone seated traveler in a barren plain under a muted teal sky. A pale round moon hangs high at the right, while large cream clouds gather low along the horizon. At the left, a thin tree rises from a worn reddish case, its sparse branches carrying small red leaves against the sky. The traveler occupies the center, facing forward with knees apart and hands resting near the lap. Round yellow goggles conceal the eyes beneath a dark, windblown hat; the pale face remains still and difficult to read. A long charcoal coat falls over a rust-colored inner layer and loose gray trousers. Heavy red boots stand on the dusty foreground, casting short shadows that secure the figure to the flat ground. A larger ochre case sits to the right, with a slender staff leaning upright beside it. Beyond these objects, low distant ridges stretch across the open plain and leave a broad interval of empty earth around the sitter. The painted surfaces carry subdued grain and soft brush transitions, although the goggles, boots, and luggage retain clear silhouettes. Warm light from the upper left catches the face, shoulders, case edges, and the drifting clouds; cooler shadow gathers beneath the hat and around the coat folds. The scene joins ordinary travel belongings to impossible scale and placement, especially the little tree emerging from luggage. The overall composition is still and centered, with worn earth colors set against teal air and the moon's quiet glow.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "0d1e1c55f3266b96ba23ba950f9783a590058d2851cef56b86ff96cd7fd77d4e",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

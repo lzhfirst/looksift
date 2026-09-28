@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square impressionist oil painting shows a small child seated on a turquoise wooden chair in a bright courtyard. She leans forward slightly, looking down at something held near her mouth. A pale patterned dress bunches around her knees, and pink sandals touch the uneven stone paving. Her light hair is tucked beneath a white bonnet. Behind the chair, a low white wall separates the courtyard from a loose scatter of baskets, fruit and foliage. A shallow brown basin rests at the right. Strong midday sunlight breaks into irregular white patches on the wall and pavement; blue-violet leaf shadows fall across the ground. The child's head and hands remain readable, but garments, chair and surroundings are translated into lively broken brushstrokes. Turquoise, warm cream, peach, cobalt shadow and small orange notes carry the composition. The chair is placed left of center, leaving open sunlit ground to the right and giving the little gesture breathing space. The pigment sits visibly on the surface, sometimes thick and brisk, particularly in the wall, floor and skirt. The scene has the intimacy of an observed domestic pause rather than a formal portrait. Its pleasure lies in the flicker of dappled light, the modest scale of the child and the tactile energy of outdoor color.",
+  "full_prompt_zh": "一幅正方形印象派油画呈现一名小孩坐在明亮庭院的青绿色木椅上。她稍向前倾，低头看着靠近嘴边握着的东西。浅色花纹裙在膝旁堆起，粉色凉鞋触着不平石地。浅发被白色软帽收住。椅后一道低白墙把庭院与松散散布的篮子、水果和叶片隔开。右侧放着浅褐色水盆。强烈正午阳光在墙与地面碎成不规则白斑；蓝紫色叶影落在地上。孩子的头与手仍可读，衣服、椅子和环境却被翻译成活跃的断续笔触。青绿、暖乳色、桃色、钴蓝阴影与少量橘色承担构图。椅子置于中央偏左，右侧留下开放受光地面，使微小动作得以呼吸。颜料明显留在表面，某些地方厚而迅捷，尤其是墙、地面和裙子。场景具有被观察到的家庭停顿的亲密感，而非正式肖像。乐趣来自斑驳光线的闪动、小孩的朴素尺度与户外色彩的可触能量。",
+  "style_prompt_en": "The style is sunlit impressionist oil painting with brisk broken strokes, textured pigment and dappled high-key color. Strong white light fragments across broad planes while cool blue-violet shadows describe interruptions in the sun. Warm cream and peach are balanced by turquoise and small orange accents. A modest focal gesture remains legible amid loose surrounding marks. Open ground and an off-center placement give the square image airy rhythm. Surface texture and outdoor light are as important as precise descriptive detail.",
+  "style_prompt_zh": "这种风格是阳光充沛的印象派油画，具有迅捷断笔、带肌理颜料和斑驳高明度色彩。强烈白光在宽阔平面上碎裂，冷蓝紫阴影描述阳光的中断。暖乳色与桃色由青绿和少数橘色点平衡。朴素焦点动作在松散周围笔痕中仍可辨认。开放地面与偏心布局赋予正方形图像轻盈节奏。表面肌理和户外光线与精确描述性细节同样重要。",
+  "theme_en": "A small child on a turquoise chair in a sunlit courtyard",
+  "theme_zh": "阳光庭院里坐在青绿色椅子上的小孩",
+  "wh_ratio": "1:1",
+  "id": "2186",
+  "name": "Dorothea Sharp",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/dorothea-sharp",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/dorothea-sharp.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "8a65cea63fd6b4d08f15c3bb451963ace1c0c8bde2b2f59fed269f8959030f3d",
+    "gpt_submission_prompt": "A square impressionist oil painting shows a small child seated on a turquoise wooden chair in a bright courtyard. She leans forward slightly, looking down at something held near her mouth. A pale patterned dress bunches around her knees, and pink sandals touch the uneven stone paving. Her light hair is tucked beneath a white bonnet. Behind the chair, a low white wall separates the courtyard from a loose scatter of baskets, fruit and foliage. A shallow brown basin rests at the right. Strong midday sunlight breaks into irregular white patches on the wall and pavement; blue-violet leaf shadows fall across the ground. The child's head and hands remain readable, but garments, chair and surroundings are translated into lively broken brushstrokes. Turquoise, warm cream, peach, cobalt shadow and small orange notes carry the composition. The chair is placed left of center, leaving open sunlit ground to the right and giving the little gesture breathing space. The pigment sits visibly on the surface, sometimes thick and brisk, particularly in the wall, floor and skirt. The scene has the intimacy of an observed domestic pause rather than a formal portrait. Its pleasure lies in the flicker of dappled light, the modest scale of the child and the tactile energy of outdoor color.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "ce27e1bcc9477e5aea029d8d6f43f52a298dfbcc716606b0fbbc9723017dccc1",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

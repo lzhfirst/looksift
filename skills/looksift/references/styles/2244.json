@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square sepia-toned photographic portrait shows an older man staring directly into the camera with severe, arched brows. His face fills most of the frame, and the low viewpoint makes the narrowed eyes seem especially forceful. Wispy white hair spreads from beneath a soft pointed cap, and a dark beard falls over a loose, rough-looking garment. A small dark animal-like form or ornament appears near the center of his chest, partly lost in beard and shadow. The background is plain smoky grey, without a clear room or setting. Light comes from above and slightly left, brightening the forehead, nose ridge, and white hair while dropping the sockets, cheeks, and lower beard into dense shadow. The photographic surface is soft and grainy rather than sharply modern; skin and cloth show textured midtones, and the edges fade toward a vignette. The cap and hair form a pale broken crown around the eyes, while the beard makes a heavy central triangle below. No readable lettering appears. The overall composition is confrontational and uncanny, using exaggerated expression, sculpted shadow, and aged print texture to make a close face feel like a stage apparition.",
+  "full_prompt_zh": "一张方形棕褐调摄影肖像描绘一名年长男子，以严厉上挑的眉直接盯向镜头。脸占据大半画幅，略低的视点使收紧的双眼尤其有压迫力。蓬松白发从软尖帽下向外散开，深色胡须垂在宽松而显粗糙的衣物上。胸口中央附近有一道小小深色、似动物或饰物的形，部分淹没在胡须与阴影里。背景是素净烟灰色，没有清晰房间或场所。光从上方略偏左来，照亮额头、鼻梁和白发，使眼窝、脸颊与下方胡须落入浓影。摄影表面柔软且有颗粒，并非现代式锐利；皮肤和衣物有纹理中间调，边缘向晕影淡去。帽与头发在双眼周围构成破碎浅色冠，下方胡须形成沉重中央三角。没有可辨认文字。整体构图具对抗感且诡异，借夸张表情、雕塑性阴影与旧相纸纹理，让近距离面容像舞台幽影。",
+  "style_prompt_en": "An aged photographic surface uses smoky sepia greys, soft grain, and a gentle vignette around an intensely modeled center. Light from high one side catches broken pale textures and a narrow ridge, while recessed areas fall quickly into velvety shadow. Crisp expression lines coexist with soft print edges and mottled midtones. A pale irregular upper mass frames a compact dark focal area; below it, a heavy triangular shadow steadies the arrangement. Background information remains minimal, increasing the theatrical pressure of the close crop. The result is uncanny and confrontational, with pictorial softness joined to stark emotional contrast.",
+  "style_prompt_zh": "旧相纸般摄影表面使用烟雾棕灰、柔颗粒和围绕强烈塑造中心的轻晕影。来自一侧高处的光照到破碎浅色纹理与狭窄凸线，凹处迅速落入绒影。清楚的表情线与柔相纸边缘、斑驳中间调并存。上方不规则浅色块框住紧凑深色焦点，下方沉重三角阴影稳住排列。背景信息极少，增加贴近裁切的戏剧压力。结果诡异而具对抗感，把图像柔软度与强烈情绪对比结合。",
+  "theme_en": "An intense theatrical face emerging from smoky shadow",
+  "theme_zh": "从烟雾阴影中浮出的强烈戏剧面容",
+  "wh_ratio": "1:1",
+  "id": "2244",
+  "name": "William Mortensen",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/william-mortensen",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/william-mortensen.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "d3273bb53ddde0d8fc484090d520c531e529bf0fbec96e56a63174bb8162bb26",
+    "gpt_submission_prompt": "A square sepia-toned photographic portrait shows an older man staring directly into the camera with severe, arched brows. His face fills most of the frame, and the low viewpoint makes the narrowed eyes seem especially forceful. Wispy white hair spreads from beneath a soft pointed cap, and a dark beard falls over a loose, rough-looking garment. A small dark animal-like form or ornament appears near the center of his chest, partly lost in beard and shadow. The background is plain smoky grey, without a clear room or setting. Light comes from above and slightly left, brightening the forehead, nose ridge, and white hair while dropping the sockets, cheeks, and lower beard into dense shadow. The photographic surface is soft and grainy rather than sharply modern; skin and cloth show textured midtones, and the edges fade toward a vignette. The cap and hair form a pale broken crown around the eyes, while the beard makes a heavy central triangle below. No readable lettering appears. The overall composition is confrontational and uncanny, using exaggerated expression, sculpted shadow, and aged print texture to make a close face feel like a stage apparition.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "2b776085e8e7b96bb2fe83ad4592555404ff3a7320252ad0d252ee24dd845cc8",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

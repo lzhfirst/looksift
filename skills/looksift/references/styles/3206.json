@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square Renaissance tempera painting shows a young man and woman standing close within an old stone doorway. The man is at the left, wearing a dark teal robe and reddish cap, his head lowered toward the woman. She stands at the right in a soft coral dress with a narrow green sash and a pale veil over blond hair. Her gaze falls toward a shallow basket of yellow and orange fruit near her lowered hand. Behind them, carved masonry, a deep recess and slender architectural details create a compact interior setting. The figures occupy most of the picture, yet their poses are quiet and contained. Light enters gently from the left, bringing pale warmth to the woman's forehead, veil and hands, and a softer glow to the man's face. Shadows remain transparent brown and olive rather than black. Fine lines describe hair, folds and stone seams, while softly layered color gives the garments a dry, fresco-like finish. The coral dress and teal robe form a clear complementary pair against the muted stone. A few fruit shapes add small warm circles at the lower right. The painting's vertical doorway and narrow spaces steady the subtle exchange between the figures. Their downward glances and close placement suggest a private moment, but the image leaves the story open. Decorative detail is present without overwhelming the calm geometry.",
+  "full_prompt_zh": "这幅方形文艺复兴蛋彩画呈现一对年轻男女近距离站在旧石门内。男子在左，穿深青绿长袍、戴赤褐帽，头朝女子微低。女子在右，穿柔和珊瑚色长裙，束一条窄绿腰带，金发上覆浅色头纱。她低头看向垂手旁一只装着黄橙水果的浅篮。身后雕刻砌石、深凹处与细长建筑细节形成紧凑室内。两人占据画面大部，姿态仍安静收敛。光从左侧温和进入，给女子额头、头纱和手带来浅暖色，也给男子面部一层较弱的光。阴影保持透明棕与橄榄色，不是纯黑。细线描述头发、衣褶和石缝，柔软叠色让衣料有干燥壁画般表面。珊瑚裙与青绿袍在低饱和石色前形成清楚互补。几颗水果在右下增添小暖圆形。竖向门框和狭窄空间稳住两人之间微妙交流。低垂的目光与贴近位置暗示私密一刻，但画面没有锁定故事。装饰细节存在，却不压过平静几何。",
+  "style_prompt_en": "The tempera painting uses dry, finely layered color and precise linear structure. Soft coral and deep teal sit within muted stone, olive and warm brown. Gentle side light gives pale planes a restrained glow; shadows remain transparent and quiet. Narrow vertical framing supports closely spaced forms, while small rounded accents break the geometry. Fine seam and fold lines add detail without making the surface glossy. The mood is calm, intimate and orderly.",
+  "style_prompt_zh": "这种蛋彩绘画使用干燥细层色彩与准确线性结构。柔和珊瑚色和深青绿置于低饱和石色、橄榄色与暖棕之间。温和侧光使浅色平面节制地发亮，阴影透明安静。狭窄竖向框架支撑贴近的形体，小圆形点缀打断几何。细接缝和折线添细节，却不使表面光亮。情绪平静、亲近而有秩序。",
+  "theme_en": "A young couple beside fruit in a stone doorway",
+  "theme_zh": "石门旁与水果相邻的年轻男女",
+  "wh_ratio": "1:1",
+  "id": "3206",
+  "name": "Filippino Lippi",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/filippino-lippi",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "3174897b10cc8221f71dd754abfc76bb18a7e3799df4802b6dce1810297ed930",
+    "gpt_submission_prompt": "A square Renaissance tempera painting shows a young man and woman standing close within an old stone doorway. The man is at the left, wearing a dark teal robe and reddish cap, his head lowered toward the woman. She stands at the right in a soft coral dress with a narrow green sash and a pale veil over blond hair. Her gaze falls toward a shallow basket of yellow and orange fruit near her lowered hand. Behind them, carved masonry, a deep recess and slender architectural details create a compact interior setting. The figures occupy most of the picture, yet their poses are quiet and contained. Light enters gently from the left, bringing pale warmth to the woman's forehead, veil and hands, and a softer glow to the man's face. Shadows remain transparent brown and olive rather than black. Fine lines describe hair, folds and stone seams, while softly layered color gives the garments a dry, fresco-like finish. The coral dress and teal robe form a clear complementary pair against the muted stone. A few fruit shapes add small warm circles at the lower right. The painting's vertical doorway and narrow spaces steady the subtle exchange between the figures. Their downward glances and close placement suggest a private moment, but the image leaves the story open. Decorative detail is present without overwhelming the calm geometry.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "ea1f4d6b3774ee2e5b2de4d30e84af721c5589621426a374e8a0742fb5751b1e",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

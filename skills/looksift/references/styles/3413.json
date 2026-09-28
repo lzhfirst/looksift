@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "The finished square is a decorative painted autumn landscape with a small boat crossing a glassy lake. The boat lies low across the lower middle, and one seated person appears as a tiny warm-colored figure within it. Dark reflections extend downward from the hull into water that is almost as still as a mirror. Across the lake, a white cottage stands on a gentle yellow-green rise near the center-right, surrounded by tall dark evergreens and rounded trees in ochre, rust and pale gold. Broad slabs of pale gray rock line the shore beneath the house. At the left, the water opens toward a distant low hill marked with red and purple autumn patches; a single small white sail is visible far away. Large, rounded white clouds fill much of the upper sky and sit against a muted slate-blue field. An orange-red tree in the near left foreground adds a strong warm counterweight to the cottage. The forms are simplified into broad, gently interlocking shapes, yet the surface retains fine dry-brush grain and slight color variation. Tree masses are patterned rather than individually leafed, the rocks read as flattened facets, and the lake uses long horizontal dark and pale areas. Soft daylight illuminates the hill and cloud tops without hard shadows. The palette of dusty blue, cream, olive, ochre and brick red feels calm and deliberately harmonized. Balanced placement, quiet reflection and compact human scale give the image the leisurely rhythm of an illustrated travel print.",
+  "full_prompt_zh": "成品正方形是一幅装饰性的秋日风景绘画，一只小舟横过镜面般的湖。船身低低横在下方中央，船中坐着一位暖色调的微小人物。深色倒影从船身向下延伸到几乎静止的水面。湖对岸，中央偏右的缓坡上有一幢白色小屋，周围是高耸深色常青树，以及赭黄、锈红、浅金色圆树。屋下岸边排列宽阔浅灰岩板。左侧湖面通向遥远低丘，山坡上有红紫色秋季斑块；很远处还有一片白色小帆。巨大圆润白云填满上方大部分天空，衬着柔和的石板蓝天色。近处左缘一棵橙红树，成为白屋的有力暖色平衡。形体被简化为宽阔而轻柔嵌合的色块，表面仍留有细微干笔颗粒和色彩变化。树冠更像花纹块面，而非逐片树叶；岩石化成扁平切面，湖水由长长的深浅横带构成。柔和日光照亮山坡和云顶，没有坚硬投影。蒙尘蓝、乳白、橄榄、赭色与砖红和谐而安静。平衡的布置、静止倒影和紧凑的人物尺度，使画面具有插图式旅行版画的悠闲节奏。",
+  "style_prompt_en": "Decorative painting simplifies forms into interlocking broad masses, flattened facets and long horizontal color bands. Dry-brush grain and slight pigment variation soften otherwise crisp boundaries. Dusty blue and cream balance olive, ochre and brick red, while mild daylight and mirrored dark shapes give the square image a calm printed rhythm.",
+  "style_prompt_zh": "装饰性绘画把形体简化为相互嵌合的宽阔体量、扁平切面和长横向色带。干笔颗粒与轻微颜料变化柔化原本清楚的边界。蒙尘蓝和乳白平衡橄榄、赭色与砖红，温和日光和镜像暗形赋予正方形画面平静的印刷节奏。",
+  "theme_en": "A small boat crossing a still autumn lake beneath white clouds",
+  "theme_zh": "小舟在白云下横渡安静秋湖",
+  "wh_ratio": "1:1",
+  "id": "3413",
+  "name": "A. J. Casson",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/a-j-casson",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "ed4f18238eee12e62c03634a8823329e7aa29cd89335dea419022ec7d48db4bc",
+    "gpt_submission_prompt": "The finished square is a decorative painted autumn landscape with a small boat crossing a glassy lake. The boat lies low across the lower middle, and one seated person appears as a tiny warm-colored figure within it. Dark reflections extend downward from the hull into water that is almost as still as a mirror. Across the lake, a white cottage stands on a gentle yellow-green rise near the center-right, surrounded by tall dark evergreens and rounded trees in ochre, rust and pale gold. Broad slabs of pale gray rock line the shore beneath the house. At the left, the water opens toward a distant low hill marked with red and purple autumn patches; a single small white sail is visible far away. Large, rounded white clouds fill much of the upper sky and sit against a muted slate-blue field. An orange-red tree in the near left foreground adds a strong warm counterweight to the cottage. The forms are simplified into broad, gently interlocking shapes, yet the surface retains fine dry-brush grain and slight color variation. Tree masses are patterned rather than individually leafed, the rocks read as flattened facets, and the lake uses long horizontal dark and pale areas. Soft daylight illuminates the hill and cloud tops without hard shadows. The palette of dusty blue, cream, olive, ochre and brick red feels calm and deliberately harmonized. Balanced placement, quiet reflection and compact human scale give the image the leisurely rhythm of an illustrated travel print.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "923d7aae20553bf661f74fbb38b3c03c2eb4fba4f7787edee4f566276aa23e95",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

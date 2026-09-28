@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square photograph of cave painting shows a small reddish animal figure on a large, uneven rock wall. The wall fills the entire image, its surface shifting from warm ochre in the central lit area to almost black along the top and right edge. A thick horizontal crack cuts across the upper portion and several finer fissures run down through the painting. Near the center, dark red-brown lines form a four-legged animal in side view, with a compact body, raised head, and thin limbs. Smaller faded marks and partial strokes sit nearby but remain too worn to resolve confidently as separate figures. The painted lines follow and disappear into the rock's pits, stains, and granular ridges, so the image is inseparable from its stone support. At the lower edge, the wall falls into deeper shadow, making the lit patch feel like a discovery within a dark recess. Warm directional light comes from the left and slightly above, grazing the rough surface and catching raised grains while leaving cracks nearly black. There is no smooth paper or designed border, and no text can be read. The limited colors are stone beige, burnt umber, rust red, and charcoal. The overall composition is spare and tactile, with a fragile hand-drawn mark held inside a much larger field of ancient, weathered mineral texture.",
+  "full_prompt_zh": "一幅方形洞穴壁画照片呈现巨大凹凸岩壁上一只小小的红褐色动物图形。岩壁填满画面，表面从中央受光处的暖赭黄渐变到顶部与右缘的近黑色。粗大的水平裂缝切过上部，几条较细的裂纹向下穿过绘画。靠近中央，深红棕色线条组成侧面的四足动物，身体紧凑，头部抬起，四肢细长。附近还有更小、更淡的痕迹和残笔，但磨损过重，无法确信它们是独立形象。绘画线条顺着石面的孔洞、污痕和颗粒脊线延伸，又在其中消失，因此图形与岩石载体不可分开。底边岩壁陷入更深阴影，使受光区域像黑暗凹处中的一次发现。暖色定向光从左上方擦过粗糙表面，挑亮凸起颗粒，让裂缝几乎全黑。这里没有光滑纸面或设计边框，也没有可读文字。有限色彩只有石米色、焦棕、铁锈红和炭黑。整体构图稀疏而有触感，一道脆弱手绘痕迹被包在远大于它的古老、风化矿物肌理中。",
+  "style_prompt_en": "Rough mineral-surface imagery sets sparse, irregular pigment lines into a field of cracks, pits, granular ridges, and uneven stains. Edges are broken by the support itself rather than mechanically distressed afterward. Stone beige, warm ochre, rust red, burnt umber, and near black form a narrow earthy range. Grazing light from one side lifts raised texture and pushes fissures into deep shadow, making the surface more spatial than the simple marks on it. A small loose focal cluster occupies a much larger darkened field. The visual effect is primitive in mark making, materially dense, and quietly archaeological.",
+  "style_prompt_zh": "粗糙矿物载体图像把稀疏、不规则的颜料线置于裂纹、孔洞、颗粒脊线和不均污痕之间。边缘由载体本身打断，而非事后机械做旧。石米色、暖赭黄、铁锈红、焦棕和近黑组成狭窄土色域。单侧擦光抬起凸出肌理，并使裂缝陷入深影，令表面比其上的简单笔痕更具空间感。小而松散的焦点聚合占据更大暗色区域的一部分。视觉效果笔痕原始，材料密实，带安静的考古气息。",
+  "theme_en": "A reddish animal figure on a rough cave wall",
+  "theme_zh": "粗糙洞壁上的红褐色动物图形",
+  "wh_ratio": "1:1",
+  "id": "4071",
+  "name": "Cave painting",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/cave-painting.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "95398b09419b746084b50ea0197c1c17208297bf5b952ac7f13b115d8fb139a1",
+    "gpt_submission_prompt": "A square photograph of cave painting shows a small reddish animal figure on a large, uneven rock wall. The wall fills the entire image, its surface shifting from warm ochre in the central lit area to almost black along the top and right edge. A thick horizontal crack cuts across the upper portion and several finer fissures run down through the painting. Near the center, dark red-brown lines form a four-legged animal in side view, with a compact body, raised head, and thin limbs. Smaller faded marks and partial strokes sit nearby but remain too worn to resolve confidently as separate figures. The painted lines follow and disappear into the rock's pits, stains, and granular ridges, so the image is inseparable from its stone support. At the lower edge, the wall falls into deeper shadow, making the lit patch feel like a discovery within a dark recess. Warm directional light comes from the left and slightly above, grazing the rough surface and catching raised grains while leaving cracks nearly black. There is no smooth paper or designed border, and no text can be read. The limited colors are stone beige, burnt umber, rust red, and charcoal. The overall composition is spare and tactile, with a fragile hand-drawn mark held inside a much larger field of ancient, weathered mineral texture.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "f1e2ff4db2829c6fb2fc5d59300566917f97a386405bbb4f68d420360a206a9e",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

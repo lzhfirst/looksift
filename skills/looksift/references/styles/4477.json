@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white wildlife photograph frames a lion's head in close left-facing profile. The broad nose approaches the left edge, while the eye near the center looks forward with calm alertness. Dark mane fills the right half of the frame and merges into near-black shadow, its long coarse strands only visible where narrow silver light catches them. The muzzle and whisker pads are softly illuminated, with individual pale whiskers extending into the darker lower left. Behind the nose lies a blurred gray field without identifiable habitat, keeping attention on the animal's expression and tactile fur. The light arrives obliquely from left front, tracing the top of the muzzle, the lower lip, and scattered mane hairs. The contrast is high but not harsh in the lit areas; subtle midtones retain the contours around the eye and cheek. The crop is intimate, excluding the body and most background, while negative space ahead of the face gives its gaze direction. Fine photographic grain adds texture to smooth shadow transitions. The image feels dignified and quiet rather than action-driven, built from profile geometry, deep black, and precise small highlights.",
+  "full_prompt_zh": "一张方形黑白野生动物照片近距离框取一头狮子向左的侧面。宽阔鼻子接近左缘，中央附近的眼睛平静而警觉地望向前方。深色鬃毛填满右半画面并融入近黑阴影，粗长发丝只有在狭窄银光擦过时才显出。口鼻和胡须根部被柔和照亮，单根浅胡须伸向较暗的左下。鼻子后方是模糊灰色区域，没有可辨栖息地，使注意力集中在动物神情与可触的毛发上。光从左前方斜入，勾亮口鼻上缘、下唇和散落的鬃毛。反差高，但受光处并不生硬；细微中间调保留眼和面颊周围轮廓。裁切亲密，排除身体与大部分背景，而面前的留白给予目光方向。细摄影颗粒增加平滑阴影过渡的肌理。画面庄严安静而非动作驱动，由侧面几何、深黑和准确小高光构成。",
+  "style_prompt_en": "High-contrast monochrome wildlife photography with intimate profile framing, expansive near-black mass, and narrow silver edge light. Fine tactile texture appears only where light grazes a surface; the remaining form is carried by subtle midtones and selective highlights. A softly blurred gray negative area opens beside the focal contour. Film grain and deep shadow produce restrained dignity and quiet power.",
+  "style_prompt_zh": "高反差单色野生动物摄影，以亲密的侧面取景、大片近黑形块和狭窄银色边光组织。细可触纹理只在光擦过表面时显出，其余形体靠微妙中间调及选定高光支撑。焦点轮廓旁打开柔糊灰色留白。胶片颗粒与深影形成克制尊严和安静力量。",
+  "theme_en": "A lion in profile emerging from a black-and-white shadow",
+  "theme_zh": "一头狮子的侧面从黑白阴影中浮出",
+  "wh_ratio": "1:1",
+  "id": "4477",
+  "name": "Laurent Baheux",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/laurent-baheux.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "ffa24095c405fe5f8690d0dde56e5fda527de9fc5768c8ef839e117157475918",
+    "gpt_submission_prompt": "A square black-and-white wildlife photograph frames a lion's head in close left-facing profile. The broad nose approaches the left edge, while the eye near the center looks forward with calm alertness. Dark mane fills the right half of the frame and merges into near-black shadow, its long coarse strands only visible where narrow silver light catches them. The muzzle and whisker pads are softly illuminated, with individual pale whiskers extending into the darker lower left. Behind the nose lies a blurred gray field without identifiable habitat, keeping attention on the animal's expression and tactile fur. The light arrives obliquely from left front, tracing the top of the muzzle, the lower lip, and scattered mane hairs. The contrast is high but not harsh in the lit areas; subtle midtones retain the contours around the eye and cheek. The crop is intimate, excluding the body and most background, while negative space ahead of the face gives its gaze direction. Fine photographic grain adds texture to smooth shadow transitions. The image feels dignified and quiet rather than action-driven, built from profile geometry, deep black, and precise small highlights.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "1f6d28b3ce080427846b180c4bda17efed85473939c0ed035b1ad46614d5d4b5",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

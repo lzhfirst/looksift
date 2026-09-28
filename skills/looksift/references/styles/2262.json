@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square vintage glamour painting shows a woman seated sideways in an elegant, theatrical pose against a rough turquoise backdrop. Her knees are bent toward the lower right, and she turns her face back toward the viewer with a lifted chin and vivid red lips. A wide black hat shades dark hair and carries a large warm orange flower near its left edge. She wears a fitted black sleeveless bodice, a dark scarf-like ruffle at the neck, black stockings and gloves, and a voluminous orange skirt that spreads in broad crumpled folds across the lower half. The turquoise ground is irregular, with rust and ochre brush patches at the margins, rather than a realistically described room. Warm light falls from above and left, catching the cheek, bare upper arm, and sharp orange fabric ridges; deep black clothing and the underside of the hat provide strong contrast. The skin is smoothly modeled, while the skirt and background show visibly brisk, rougher brush marks. The pose forms a compact dark diagonal across the more expansive orange folds. The palette is audacious but controlled: black, hot orange, turquoise, warm skin, and small red accents. No readable lettering appears. The overall composition feels flirtatious and poster-like, balancing polished facial detail against energetic painted cloth and ground.",
+  "full_prompt_zh": "一幅方形复古魅力绘画描绘一名女子以优雅而戏剧性的姿势侧坐在粗糙绿松石色背景前。她双膝向右下弯，回头看向观看者，下巴抬起，红唇鲜明。宽黑帽遮住深发，左缘别着一朵大暖橙花。她穿贴身黑色无袖上衣、颈部深色围巾状褶饰、黑丝袜和手套；丰厚橙裙在下半幅展开成宽阔皱褶。绿松石色背景不均匀，边缘有铁锈与赭黄笔块，并不描绘真实房间。暖光从左上落下，照亮脸颊、裸露上臂与橙布锐利的隆起；深黑衣物和帽下阴影提供强对比。皮肤塑造平滑，裙子和背景则保留明显更迅疾、粗糙的笔痕。姿势在更广阔橙色褶层之上形成紧凑深色对角线。色谱大胆但受控：黑、热橙、绿松石、暖肤色和少量红色重音。没有可辨认文字。整体构图俏皮且像海报，以精修面部细节平衡有力绘出的布料和底色。",
+  "style_prompt_en": "A vintage glamour painted surface combines smoothly modeled luminous areas with brisk, rough brushwork in broader surrounding planes. Deep black masses cut a compact diagonal across hot orange folds, while turquoise and rust patches create a lively contrasting field. Warm light from an upper side catches selected smooth curves and sharp fabriclike ridges, leaving strong dark shapes intact. The palette is bold and limited, with tiny red accents sharpening the focal area. Edges are crisp at the center and more broken in the expanded color fields. The composition has poster-like immediacy, polished detail where attention gathers, and energetic paint texture around it.",
+  "style_prompt_zh": "复古魅力绘画表面把平滑塑造的发亮区域与周围宽阔平面里的迅疾粗笔结合。深黑色块在热橙色褶层上切出紧凑对角线，绿松石与锈色斑块构成活泼对比场。来自一侧上方的暖光照到部分平滑曲面和锐利织物状隆起，强深色形仍然完整。色谱大胆而有限，细小红色点缀使焦点更尖锐。边缘在中央清晰，在扩张色场里更破碎。构图有海报式即时性，注意聚处细节精修，周围颜料纹理充满能量。",
+  "theme_en": "A glamorous seated figure in black and orange against turquoise",
+  "theme_zh": "绿松石背景前身着黑与橙的华丽坐姿人物",
+  "wh_ratio": "1:1",
+  "id": "2262",
+  "name": "Rolf Armstrong",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/rolf-armstrong",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/rolf-armstrong.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "5575d47cee20ddfaea7e99c1df46ac27377013460fcb744aeece276e4bbf9061",
+    "gpt_submission_prompt": "A square vintage glamour painting shows a woman seated sideways in an elegant, theatrical pose against a rough turquoise backdrop. Her knees are bent toward the lower right, and she turns her face back toward the viewer with a lifted chin and vivid red lips. A wide black hat shades dark hair and carries a large warm orange flower near its left edge. She wears a fitted black sleeveless bodice, a dark scarf-like ruffle at the neck, black stockings and gloves, and a voluminous orange skirt that spreads in broad crumpled folds across the lower half. The turquoise ground is irregular, with rust and ochre brush patches at the margins, rather than a realistically described room. Warm light falls from above and left, catching the cheek, bare upper arm, and sharp orange fabric ridges; deep black clothing and the underside of the hat provide strong contrast. The skin is smoothly modeled, while the skirt and background show visibly brisk, rougher brush marks. The pose forms a compact dark diagonal across the more expansive orange folds. The palette is audacious but controlled: black, hot orange, turquoise, warm skin, and small red accents. No readable lettering appears. The overall composition feels flirtatious and poster-like, balancing polished facial detail against energetic painted cloth and ground.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "b5fde182dd73956237d9053baddf7a5684575b5fa0fac407683300b8a178857c",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

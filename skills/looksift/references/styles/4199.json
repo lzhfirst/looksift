@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A broad, open field rests beneath a sky filled by towering summer clouds. The horizon sits low in a square print, leaving most of the image to a swelling white cloud mass surrounded by darker, turbulent gray. Near the horizon, a few clustered trees form irregular black silhouettes, and a low band of textured land stretches across the bottom. The field carries broken, granular marks rather than meticulously described grass; its varied darkness suggests uneven ground and a slight path of light. The cloud edges are soft and irregular, passing from open paper white through smoky gray into near-black patches at the upper edge. The entire scene is rendered as an old monochrome collotype-like print on warm off-white paper. Its tones feel deposited in tiny stippled particles and mottled ink passages, with subtly uneven coverage that makes the surface tangible. A restrained dark frame of printed ink defines the rectangular image, while an ample cream margin surrounds it. Light comes from the open cloud and distant sky, so the small trees remain nearly black and the lower landscape is compressed into a quiet tonal band. The composition is simple and expansive: a low horizontal ground line anchors a dramatic vertical rise of cloud, and open negative space gives the atmosphere weight. There is no human figure or narrative action; the appeal lies in the printed texture, weather, and delicate negotiation between dense dark ink and the untouched brightness of the sheet.",
+  "full_prompt_zh": "一片开阔田野位于充满高耸夏云的天空之下。方形版画中的地平线压得很低，把大部分画面留给膨胀的白色云团及其周围较暗、翻涌的灰色。地平线附近，几簇树木组成不规则的黑色剪影，底部横贯一条富有肌理的低矮土地。田野以破碎颗粒状痕迹表现，而不是细密描绘每根草；深浅不一的墨色暗示起伏地面与一道轻微的亮处。云的边缘柔和而不规则，从敞开的纸白过渡到烟灰色，再进入上缘近黑的色块。整幅场景像印在暖调米白纸上的旧式黑白珂罗版照片。明暗仿佛由细小点状颗粒与斑驳墨痕沉积而成，着墨略不均匀，使表面具有可触感。印墨形成的克制深色边界限定矩形图像，外围留有宽阔的奶油色纸边。光来自敞开的云层与远天，因此小树几乎全黑，下方景观被压缩成安静的明暗带。构图简洁而开阔：低水平地面线托住云团戏剧性的纵向升起，开放留白赋予天空重量。画面中没有人物或情节动作；魅力来自印刷肌理、天气，以及浓黑墨色与纸张未着墨亮白之间细腻的协调。",
+  "style_prompt_en": "A monochrome collotype-like print aesthetic on warm cream paper, built from granular ink deposits, mottled midtones, and luminous untouched highlights. Black silhouettes and charcoal masses sit beside smoky, softly dissolving transitions. Coverage is subtly uneven, making the image feel physically printed rather than digitally smooth. A simple rectangular picture area and generous paper margin give the composition a collected archival quality. Low-density detail in open regions balances concentrated dark clusters, while expansive negative space and restrained contrast create atmospheric depth. The overall effect is quiet, tactile, and gently aged.",
+  "style_prompt_zh": "暖奶油色纸上的黑白珂罗版式印刷美学，由颗粒状着墨、斑驳中间调和明亮的未着墨高光构成。黑色剪影与炭灰色块并置于烟雾般柔和消散的过渡旁。覆盖略不均匀，令图像呈现实体印刷感，而非数字平滑感。简洁的矩形图像区域与宽阔纸边赋予构图收藏级档案气质。开阔处的低密度细节平衡集中的深色簇群，大片留白和克制反差建立空气纵深。整体安静、可触，并带有温和的陈旧感。",
+  "theme_en": "A quiet open field beneath towering summer clouds",
+  "theme_zh": "高耸夏云下的一片安静旷野",
+  "wh_ratio": "1:1",
+  "id": "4199",
+  "name": "Collotype print",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/collotype-print.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "81a0f27fa7bb8956a4270a4248e1a3de6ea5782677a90d6754087f7b89b6ce24",
+    "gpt_submission_prompt": "A broad, open field rests beneath a sky filled by towering summer clouds. The horizon sits low in a square print, leaving most of the image to a swelling white cloud mass surrounded by darker, turbulent gray. Near the horizon, a few clustered trees form irregular black silhouettes, and a low band of textured land stretches across the bottom. The field carries broken, granular marks rather than meticulously described grass; its varied darkness suggests uneven ground and a slight path of light. The cloud edges are soft and irregular, passing from open paper white through smoky gray into near-black patches at the upper edge. The entire scene is rendered as an old monochrome collotype-like print on warm off-white paper. Its tones feel deposited in tiny stippled particles and mottled ink passages, with subtly uneven coverage that makes the surface tangible. A restrained dark frame of printed ink defines the rectangular image, while an ample cream margin surrounds it. Light comes from the open cloud and distant sky, so the small trees remain nearly black and the lower landscape is compressed into a quiet tonal band. The composition is simple and expansive: a low horizontal ground line anchors a dramatic vertical rise of cloud, and open negative space gives the atmosphere weight. There is no human figure or narrative action; the appeal lies in the printed texture, weather, and delicate negotiation between dense dark ink and the untouched brightness of the sheet.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "44913e0e30352f24c105f13589400b97425f49b402df12d2d939e07c69138445",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

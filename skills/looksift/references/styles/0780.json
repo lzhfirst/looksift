@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "The image depicts a quiet sacred encounter within a shallow architectural courtyard. A large rounded stone arch frames the central space, and a dark doorway recedes behind it. At left, a winged angel kneels in a flowing rose-pink robe, hands held together near the chest and head bowed in greeting. Opposite, a pale-robed woman stands with her body turned toward the angel, lowering her gaze and drawing her hands inward. Thin round gold halos circle both heads. Two additional figures stand farther back on the right in ochre and deep blue-red garments, while a shadowed figure is visible near the left edge. The scene is arranged carefully across a low stone threshold. Tiny flowers and a dark green planting strip mark the base; a few pale blossoms lie between the principal figures, giving the empty floor a delicate rhythm. Warm ochre masonry and faded reddish wall panels surround the arch. The painted surface looks aged and matte, with fine linear details in the architecture, feathered wings, drapery folds, and faces. Light is even and gentle rather than dramatic, leaving the doorway almost black while the robes remain softly luminous. The perspective is orderly but compressed, keeping attention on the exchange of gestures. The square frame has a devotional stillness: arcs above, horizontal threshold below, and the two bowed figures balancing one another in the middle. Its restrained color and small natural details make the moment solemn yet tender.",
+  "full_prompt_zh": "画面描绘浅空间建筑庭院里一场安静的神圣相遇。巨大的圆形石拱框住中央区域，后方深色门洞向内退去。左侧有翼天使穿飘垂的玫瑰粉长袍跪下，双手合在胸前，垂首问候。对面浅色衣袍的女子朝向天使站立，低下目光，将双手收在身前。两人的头周围都有细圆金色光环。右后方另站着两个人物，服装为赭黄及深蓝红色；左缘也隐现一位在阴影中的人物。场景精心排列在低矮石门槛上。细小花朵和深绿种植带标记底部，主要人物之间的地面散着几朵浅色小花，为留空处带来细微节奏。暖赭色砌石与褪红墙板环绕拱门。绘画表面旧化而哑光，建筑、羽翼、衣褶与面容都用细线交代。光线均匀柔和而非戏剧化，门洞近乎纯黑，衣袍仍轻轻发亮。透视有秩序却较压缩，使注意力集中于手势交流。方形画幅具有虔敬的静止感：上方拱线、下方横槛、中央互相平衡的两位低头人物。克制色彩与微小自然细节使场面庄严又温柔。",
+  "style_prompt_en": "Use early Renaissance fresco-like painting with matte aged pigment, fine drawn contours, and carefully ordered shallow perspective. Balance warm ochre stone, dusty rose, cream, muted blue, deep green, and restrained gold. Arrange soft rounded architectural curves above a firm horizontal base; place small botanical details and precise drapery folds within the larger calm geometry. Illuminate evenly, leaving recesses dark but avoiding theatrical spotlighting. Preserve devotional stillness and delicate surface wear.",
+  "style_prompt_zh": "采用早期文艺复兴壁画般的表现，以哑光旧化颜料、细致描线及有秩序的浅透视构成画面。平衡暖赭石色、灰玫瑰粉、奶油白、柔蓝、深绿与克制金色。让柔和圆拱曲线位于坚实水平底座上方，在宽阔平静的几何关系里加入细小植物纹样和精确衣褶。光照均匀，凹处保持深暗但无戏剧性聚光，呈现虔敬的静止感及细腻表面磨损。",
+  "theme_en": "Angelic greeting beneath a stone arch",
+  "theme_zh": "石拱门下的天使问候",
+  "wh_ratio": "1:1",
+  "id": "0780",
+  "name": "Fra Angelico",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/fra-angelico",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/fra-angelico.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "ea71fc40de628775cb372c0fac41f7cc1ec96e94fee01538349584ebd528d00d",
+    "gpt_submission_prompt": "The image depicts a quiet sacred encounter within a shallow architectural courtyard. A large rounded stone arch frames the central space, and a dark doorway recedes behind it. At left, a winged angel kneels in a flowing rose-pink robe, hands held together near the chest and head bowed in greeting. Opposite, a pale-robed woman stands with her body turned toward the angel, lowering her gaze and drawing her hands inward. Thin round gold halos circle both heads. Two additional figures stand farther back on the right in ochre and deep blue-red garments, while a shadowed figure is visible near the left edge. The scene is arranged carefully across a low stone threshold. Tiny flowers and a dark green planting strip mark the base; a few pale blossoms lie between the principal figures, giving the empty floor a delicate rhythm. Warm ochre masonry and faded reddish wall panels surround the arch. The painted surface looks aged and matte, with fine linear details in the architecture, feathered wings, drapery folds, and faces. Light is even and gentle rather than dramatic, leaving the doorway almost black while the robes remain softly luminous. The perspective is orderly but compressed, keeping attention on the exchange of gestures. The square frame has a devotional stillness: arcs above, horizontal threshold below, and the two bowed figures balancing one another in the middle. Its restrained color and small natural details make the moment solemn yet tender.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "36cbca8971f2cc40ebd484bef6b61d8658dcb9386a4cc1e940aebc0756c53ab8",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

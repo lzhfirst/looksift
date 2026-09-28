@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "The illustration shows an enormous shaggy gray dog sitting on the left side of a spare outdoor scene. Its body rises almost to the top of the square, and its long muzzle points toward a small rounded doorway on the right. A few unruly hairs stick up from its head, and the dog's large eyes glance toward the door with a puzzled, gentle expression. Between the dog and the doorway stands a very small child in a mustard-yellow top and reddish trousers. An even tinier pale animal sits beside the child's feet. The door is made of vertical brown wooden planks, with a small metal letter slot, latch, and stone arch built from uneven beige blocks. The ground is only a thin sandy strip; behind everything stretches an almost uninterrupted dusty blue field. This clean negative space makes the comic difference in scale immediate. Fine pencil-like strokes describe the dog's shaggy coat, while watercolor-like washes keep the blue sky and stone softly uneven. The child is reduced to a few accurate gestures and bright color marks. Light is diffuse and shadowless, suitable for a quiet picture-book page. The composition aligns the seated dog, tiny figures, and upright door in a simple row, letting their proportions carry the story. The scene feels tender and dryly funny: everyone seems to be waiting for a door that is far too small for the largest visitor.",
+  "full_prompt_zh": "插画描绘一只巨大的灰色蓬毛狗坐在简洁户外场景的左侧。身体几乎顶到方形画幅上缘，长长的口鼻指向右侧小小的拱门。几根乱毛从头顶翘起，大眼睛疑惑而温柔地瞥向门。狗与门之间站着一个非常小的孩子，穿芥黄色上衣和红褐色裤子；孩子脚边还有更小的浅色动物。门由竖向棕色木板构成，有小金属投信口和门闩，外面是不规则米色石块砌成的拱。地面只是一道窄窄的沙色条带，背后则几乎全是连续的灰蓝色空间。干净留白让尺度差异带来的幽默立刻可见。细铅笔般笔触描绘蓬松狗毛，水彩般的薄涂让蓝色背景和石头保持轻微不均。孩子只用几处准确姿势与亮色笔痕概括。光线漫射、几乎没有阴影，像安静的图画书页面。构图将坐着的狗、微小人物和竖立的门排成简单横列，让比例本身讲述故事。场面温柔又带干巴巴的笑意：大家似乎都在等一扇对最大访客来说实在太小的门。",
+  "style_prompt_en": "Use delicate picture-book linework with fine pencil texture, soft watercolor-like washes, and gently uneven paper color. Create humor through clear scale relationships and a small number of carefully placed forms. Keep the background broad and quiet, with dusty blue, warm beige, muted gray, and a few mustard or rust accents. Model furry or tactile surfaces with short feathery strokes while leaving the overall light diffuse and shadowless. Favor simple staging and expressive but restrained details.",
+  "style_prompt_zh": "使用细腻图画书线条、铅笔般纹理、柔和水彩薄涂及轻微不均的纸色。通过清晰尺度关系和少量精确摆放的形状产生幽默。背景宽阔安静，使用灰蓝、暖米色、柔灰及少量芥黄或铁锈色重音。以短而轻的羽状笔痕描绘触感表面，整体保持漫射无强影的光。偏向简洁舞台式安排与克制而传神的细节。",
+  "theme_en": "Enormous shaggy dog beside a tiny door",
+  "theme_zh": "小门旁的大毛狗",
+  "wh_ratio": "1:1",
+  "id": "0790",
+  "name": "Sandra Boynton",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/sandra-boynton",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/sandra-boynton.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "e8ce31c8cbcc05978b1e562ded1a08697476e19bd8dfa89a9a12a13c9706e318",
+    "gpt_submission_prompt": "The illustration shows an enormous shaggy gray dog sitting on the left side of a spare outdoor scene. Its body rises almost to the top of the square, and its long muzzle points toward a small rounded doorway on the right. A few unruly hairs stick up from its head, and the dog's large eyes glance toward the door with a puzzled, gentle expression. Between the dog and the doorway stands a very small child in a mustard-yellow top and reddish trousers. An even tinier pale animal sits beside the child's feet. The door is made of vertical brown wooden planks, with a small metal letter slot, latch, and stone arch built from uneven beige blocks. The ground is only a thin sandy strip; behind everything stretches an almost uninterrupted dusty blue field. This clean negative space makes the comic difference in scale immediate. Fine pencil-like strokes describe the dog's shaggy coat, while watercolor-like washes keep the blue sky and stone softly uneven. The child is reduced to a few accurate gestures and bright color marks. Light is diffuse and shadowless, suitable for a quiet picture-book page. The composition aligns the seated dog, tiny figures, and upright door in a simple row, letting their proportions carry the story. The scene feels tender and dryly funny: everyone seems to be waiting for a door that is far too small for the largest visitor.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "90f040ede5cc4f1e0bacc9c1dfbe18afd04c3d98230f0288fc2601391ee96d1a",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

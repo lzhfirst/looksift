@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square fantasy landscape painting looks through a monumental ring of classical stone columns toward a dark sea and storm-filled sky. Tall fluted pillars rise along both sides, and a curved entablature joins them near the top, making the architecture a frame for the distant light. Broad worn steps descend from the foreground terrace, with broken stones and low vegetation at their edges. Beyond the columns, a low bright sun or moon sits near the horizon, casting a narrow path of pale gold across the water. Immense charcoal clouds gather above it, their silver edges illuminated by the hidden light. The stone is weathered cream and gray, with carved capitals catching soft highlights while the inner sides sink into shadow. Thin daylight or moonlight reaches the floor, creating long quiet planes across the paving. Painterly detail is concentrated in the architecture and nearby rocks; cloud masses are broad, smoky, and layered. The composition is strongly symmetrical but softened by irregular clouds and vegetation. The whole frame suggests an ancient sanctuary at the edge of a vast world, solemn and luminous, with atmospheric depth more important than ornate decoration.",
+  "full_prompt_zh": "一幅方形奇幻风景画透过一圈纪念碑式的古典石柱，望向深色海面与布满风暴云的天空。高大的凹槽柱沿两侧升起，上方一道弧形檐部把它们连在一起，使建筑成为远方亮光的框架。宽阔而磨旧的台阶从前景平台下行，边缘散落碎石和矮植被。列柱之外，一轮低垂的太阳或月亮贴近地平线，在水上铺出狭窄的浅金光路。巨大的炭灰云层在上方聚拢，银亮的云缘被藏在后方的光照亮。石材是风化的乳白与灰色，雕刻柱头接住柔和高光，内侧沉入阴影。纤细的日光或月光抵达地板，在铺石上形成悠长安静的色面。绘画细节集中于建筑和近处石头；云体则宽阔、烟雾般层叠。构图强烈对称，但不规则云和植被让它柔和。整幅画像世界边缘的一处古老圣所，肃穆而发亮，空气纵深比繁复装饰更重要。",
+  "style_prompt_en": "A monumental painterly landscape style uses strong framing geometry around a distant source of light. Weathered stone cream and gray occupy the near edges, with delicate carving visible where light skims raised surfaces. Deep charcoal cloud masses and a dark horizon contrast with pale gold and silver openings. Broad steps or receding planes guide the eye inward, while a small luminous reflection carries depth across the distance. Symmetry supplies gravity, then irregular natural textures soften it. Brushwork shifts from detailed foreground masonry to smoky, layered atmosphere. The mood is ancient, solemn, and expansive, with light emerging quietly through heavy shadow.",
+  "style_prompt_zh": "纪念碑式绘画风景以有力的框架几何围住远方光源。风化乳白和灰色石材占据近处边缘，掠过凸起表面的光显出细致雕刻。深炭灰云团和暗地平线对照浅金与银色开口。宽阔台阶或后退的平面引视线向内，细小的亮色倒影把纵深送往远方。对称提供重量，不规则自然肌理再将它柔化。笔触从细致前景石造过渡到烟雾般层叠的空气。气氛古老、肃穆、辽阔，亮光安静地从厚重阴影中浮现。",
+  "theme_en": "Moonlit classical columns opening toward a stormy seascape",
+  "theme_zh": "月光下古典列柱向风暴海景敞开",
+  "wh_ratio": "1:1",
+  "id": "4400",
+  "name": "Karl Friedrich Schinkel",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/karl-friedrich-schinkel.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "519288f767cda69291ada5629aca48830776de62a46f06cf771dc1f1ccb9ec78",
+    "gpt_submission_prompt": "A square fantasy landscape painting looks through a monumental ring of classical stone columns toward a dark sea and storm-filled sky. Tall fluted pillars rise along both sides, and a curved entablature joins them near the top, making the architecture a frame for the distant light. Broad worn steps descend from the foreground terrace, with broken stones and low vegetation at their edges. Beyond the columns, a low bright sun or moon sits near the horizon, casting a narrow path of pale gold across the water. Immense charcoal clouds gather above it, their silver edges illuminated by the hidden light. The stone is weathered cream and gray, with carved capitals catching soft highlights while the inner sides sink into shadow. Thin daylight or moonlight reaches the floor, creating long quiet planes across the paving. Painterly detail is concentrated in the architecture and nearby rocks; cloud masses are broad, smoky, and layered. The composition is strongly symmetrical but softened by irregular clouds and vegetation. The whole frame suggests an ancient sanctuary at the edge of a vast world, solemn and luminous, with atmospheric depth more important than ornate decoration.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "0d7a614a2978df54d500129ddb6d646b03daa1605c952432fa5b31dc0c1ec207",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

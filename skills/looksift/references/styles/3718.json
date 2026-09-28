@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A richly observed oil painting shows a ginger-and-white cat seated on a grassy bank beside a small garden pond. The scene is framed closely, with the cat just right of center and its head lifted in profile toward the left. Behind it, layered green leaves and a nearly black pocket of shade form a dense backdrop; upright reeds rise on the left, while a low cluster of tiny white blossoms fills the bank below them. The cat's ears are alert, and its white muzzle, chest, and forelegs stand out against patches of warm orange fur. Fine, directional strokes describe the long coat, especially around the neck and tail. Its tail stretches forward along the grass toward the water, where a narrow irregular edge separates bank from pond. In the lower left, several flat lily pads rest on the dark water. The pond occupies the bottom of the image and carries soft, broken reflections of the surrounding greens and the cat's pale fur. Slender grass blades and small leaves cross the lower right foreground without hiding the animal. Light appears filtered through foliage from above, touching the fur and nearby grass while the background remains deep and cool. The detailed fur, varied leaf shapes, and dark reflective surface are held together by closely related olive, moss, amber, and cream tones. The composition gives a quiet sense of alert attention within a sheltered, abundant garden.",
+  "full_prompt_zh": "这是一幅观察细致的油画：一只橘白相间的猫坐在小花园池塘旁的草岸上。画面取景紧凑，猫位于中央稍偏右的位置，抬头朝左侧呈侧面姿态。它身后层叠的绿叶和一片近乎黑色的阴影构成浓密背景；左侧竖起一束细长的草茎，下方岸边则开着一丛细小白花。猫的耳朵警觉地竖着，白色口鼻、胸前和前腿在暖橘色毛发之间显得明亮。细小而有方向的笔触描绘出较长的皮毛，颈部与尾巴尤其明显。尾巴沿草地向前伸到水边，一道不规则的窄边界将岸和池塘分开。左下方，几片平坦的睡莲叶浮在深色水面上。池塘占据画面底部，以柔和、断续的倒影映出周围绿意和猫浅色的毛。细草叶与小叶片交错在右下前景，却没有遮住动物。光仿佛从上方经过枝叶过滤，照到毛发和近处草地，背景仍保持深暗而清凉。细致的皮毛、形态各异的叶片以及深色反光水面，被相近的橄榄绿、苔绿、琥珀色和奶油色连在一起。整幅画在丰盛而隐蔽的花园中呈现出安静、警醒的气息。",
+  "style_prompt_en": "Naturalistic oil paint combines precise, directional marks in the most closely observed areas with broader, darker masses behind them. Warm amber and cream notes emerge from a deep field of moss and olive greens. Filtered overhead light catches raised surfaces in small broken highlights, while shadow retains subtle color rather than flattening to black. Overlapping forms create a compact, sheltered depth; thin vertical strokes, soft clustered marks, and a low reflective band vary the rhythm. Edges sharpen around the focal form and loosen into the surrounding texture, giving the image attentive realism and quiet intimacy.",
+  "style_prompt_zh": "自然主义油画在观察最细致的区域使用准确而有方向的笔痕，后方则合并成更宽阔、更深暗的色块。暖琥珀色和奶油色从苔绿、橄榄绿组成的浓深色域中显现。经上方过滤的光在凸起表面留下细碎亮点，阴影仍保有微妙色彩，并未压成纯黑。重叠形体形成紧凑、被包围的纵深；细直笔触、柔软的成簇笔痕与下方狭长的反光带交替变化节奏。视觉焦点周围的边缘较清晰，向周边纹理过渡时逐渐放松，使画面兼具专注的写实感和安静的亲密感。",
+  "theme_en": "Ginger and white cat beside a shaded garden pond",
+  "theme_zh": "阴凉花园池塘旁的橘白猫",
+  "wh_ratio": "1:1",
+  "id": "3718",
+  "name": "Arthur Wardle",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/arthur-wardle",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "7917e06d75b909431bacb72c30eca3c0ebe9917e80ef1e449ae5d78b77259e2c",
+    "gpt_submission_prompt": "A richly observed oil painting shows a ginger-and-white cat seated on a grassy bank beside a small garden pond. The scene is framed closely, with the cat just right of center and its head lifted in profile toward the left. Behind it, layered green leaves and a nearly black pocket of shade form a dense backdrop; upright reeds rise on the left, while a low cluster of tiny white blossoms fills the bank below them. The cat's ears are alert, and its white muzzle, chest, and forelegs stand out against patches of warm orange fur. Fine, directional strokes describe the long coat, especially around the neck and tail. Its tail stretches forward along the grass toward the water, where a narrow irregular edge separates bank from pond. In the lower left, several flat lily pads rest on the dark water. The pond occupies the bottom of the image and carries soft, broken reflections of the surrounding greens and the cat's pale fur. Slender grass blades and small leaves cross the lower right foreground without hiding the animal. Light appears filtered through foliage from above, touching the fur and nearby grass while the background remains deep and cool. The detailed fur, varied leaf shapes, and dark reflective surface are held together by closely related olive, moss, amber, and cream tones. The composition gives a quiet sense of alert attention within a sheltered, abundant garden.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "999024d48ee33b416f5262d05e637fffc912be8612eb28e9022c5deac9b4d358",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

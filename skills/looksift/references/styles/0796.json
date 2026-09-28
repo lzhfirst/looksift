@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "The illustration shows an adult and two children standing in a broad snowy landscape. The figures appear small near the lower-left portion of the square. The adult bends slightly toward the older child, whose bright orange-red coat gives the group its strongest accent; a smaller child stands close beside them. They face across the snow toward a dark, simple house set in the middle distance. A few bare trees rise behind the house, their thin branches scratching into a vast flat orange-red sky. The land is not painted as continuous realistic snow. It is assembled from broad, irregular fields of cream, warm white, ochre, and muted teal, like torn paper or layered print blocks. Blue-green shapes suggest frozen ponds or deep shadows, while upright dry grasses make short dark marks in the foreground. Farther back, the house is reduced to dark brown and navy rectangles with only a couple of small windows. The orange sky dominates the upper third, turning winter into a warm, almost theatrical color statement. Light is conveyed through the contrast between pale ground and dark figures, with minimal cast shadows. The composition relies on spaciousness: three people occupy only a tiny part of a larger quiet world. Scuffed edges and mottled pigment keep the flat shapes tactile. The result feels like a children's book scene built from memory, where family scale, simple shapes, and strong color make the journey tender and slightly mysterious.",
+  "full_prompt_zh": "插画描绘一位成人与两个孩子站在宽阔雪地里。人物很小，位于方形画幅左下方附近。成人略向较大的孩子俯身，孩子鲜亮的橙红外套为小群体带来最强色彩重音；更小的孩子紧贴在旁。他们越过雪地望向中景一栋深色简洁的小屋。几棵光秃树立在屋后，细枝划进大片平坦橙红天空。土地并非连续写实的雪，而是由奶油色、暖白、赭黄和柔湖蓝的不规则大色域拼成，像撕纸或叠层印刷色块。蓝绿色形状暗示冻结池塘或深影，前景直立的枯草形成短深线。远处房屋被概括成深棕和海军蓝矩形，仅有一两扇小窗。橙色天空占据上部三分之一，使冬季呈现温暖而近乎舞台式的色彩宣言。亮度来自浅地面与深色人物的对比，投影极少。构图依赖宽阔空间：三人在更大而安静的世界里只占一小处。磨擦边缘和斑驳颜料让平面形状保持触感。整体像由记忆建成的儿童绘本场景，家庭尺度、简单形状和强烈色彩使旅程温柔又略带神秘。",
+  "style_prompt_en": "Use tactile cut-paper and printed-collage illustration with broad irregular color fields, scuffed edges, and mottled pigment. Set warm orange-red against cream, ochre, dark brown, and muted teal, keeping details spare and silhouettes small within generous space. Suggest terrain through layered patches rather than smooth gradients or realistic modeling. Let thin scratch-like marks punctuate the large flats, and create light mainly through value and color contrast in a calm square composition.",
+  "style_prompt_zh": "采用有触感的剪纸与印刷拼贴插画，以宽阔不规则色域、磨擦边缘和斑驳颜料组织画面。让暖橙红对照奶油白、赭黄、深棕与柔湖蓝，细节保持简练，剪影置于充足空间中。以叠层色片而非平滑渐变或写实塑形暗示地形。让细小刮痕般线条点缀大块平涂，以色值和色彩对比建立光，维持安静的方形构图。",
+  "theme_en": "Family crossing a snowy patchwork landscape",
+  "theme_zh": "一家人走过拼贴雪地",
+  "wh_ratio": "1:1",
+  "id": "0796",
+  "name": "Ezra Jack Keats",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/ezra-jack-keats",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/ezra-jack-keats.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "3aa31561f515e6a833a0916934655ac135d189ca2532807fe26b55d8dfa0f6c9",
+    "gpt_submission_prompt": "The illustration shows an adult and two children standing in a broad snowy landscape. The figures appear small near the lower-left portion of the square. The adult bends slightly toward the older child, whose bright orange-red coat gives the group its strongest accent; a smaller child stands close beside them. They face across the snow toward a dark, simple house set in the middle distance. A few bare trees rise behind the house, their thin branches scratching into a vast flat orange-red sky. The land is not painted as continuous realistic snow. It is assembled from broad, irregular fields of cream, warm white, ochre, and muted teal, like torn paper or layered print blocks. Blue-green shapes suggest frozen ponds or deep shadows, while upright dry grasses make short dark marks in the foreground. Farther back, the house is reduced to dark brown and navy rectangles with only a couple of small windows. The orange sky dominates the upper third, turning winter into a warm, almost theatrical color statement. Light is conveyed through the contrast between pale ground and dark figures, with minimal cast shadows. The composition relies on spaciousness: three people occupy only a tiny part of a larger quiet world. Scuffed edges and mottled pigment keep the flat shapes tactile. The result feels like a children's book scene built from memory, where family scale, simple shapes, and strong color make the journey tender and slightly mysterious.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "1f85b49686399e7509cd79d29ed9695df31c1451a1298a37e3a6c8f28b01d54a",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

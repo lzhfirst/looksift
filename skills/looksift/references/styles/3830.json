@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square dark fantasy painting shows a cloaked winged creature hovering or rising through a narrow passage of smoky teal mist. The background is deep green-black, with a pale green light opening near the upper center and indistinct vertical stone or forest shapes disappearing into haze behind it. The creature fills the left and center of the frame. Two immense batlike wings arch outward from its upper back, their red-brown membranes catching dim light along ribbed edges. A hood or horned head tilts forward beneath the wing span; the facial details are mostly hidden in shadow. Heavy dark robes stream downward in layered folds, and a bent arm projects to the right, ending near a small warm-lit point. The lower body is lost in black and green vapor rather than standing on a visible surface. Fine curling lines and ragged fabric edges give the silhouette restless motion. The wings form the clearest structural shape, while the center of the body is a dense black mass with occasional rusty red highlights. A cool diffuse glow comes from the opening beyond the figure, backlighting the wing edges and turning the central mist pale; weak warm accents catch a few folds and the hand. The surrounding darkness falls away quickly at the corners, with no other distinct characters or readable markings. The overall composition sets a single threatening form against a vertical shaft of light, using deep shadow, red membranes and drifting haze to create scale and suspense.",
+  "full_prompt_zh": "这幅方形暗色奇幻绘画里，一只披斗篷的翼状生物在烟雾般的青绿色窄通道中悬浮或升起。背景深绿近黑，上方中央附近打开一片浅绿光，模糊的竖向石质或林木形体在其后消入雾里。生物占据左侧与中央。两只巨大蝙蝠状翅膀从背部上方弯出，红褐色翼膜在有肋纹的边缘接住微弱光线。兜帽或带角的头在翼展下前倾，面部细节大多藏在阴影中。厚重深袍以层叠褶皱向下流动，一条弯曲手臂伸向右侧，末端靠近一点暖光。下半身消失在黑绿雾气中，并未站在可见地面上。细卷线与破碎布边使剪影带不安的动势。翅膀形成最清楚的结构，身体中央则是偶有锈红高光的密集黑块。清冷漫射光从人物背后的开口传来，给翼缘镶光，把中央雾气变浅；微弱暖色强调落在几处褶皱和手上。周围黑暗迅速落入角落，没有其他可辨角色或可读标记。整体构图让单个有威胁感的形体处于一道竖向亮光前，以深影、红翼膜和飘雾建立尺度与悬念。",
+  "style_prompt_en": "The fantasy painting gathers near-black masses within cold teal haze and a small zone of desaturated green light. Large arcing silhouettes carry the frame, while ragged subsidiary edges and fine curling strokes suggest motion. Rust and muted crimson glints warm selected thin membranes against the cool depth. Backlighting traces only a few edges; much of the central volume remains deliberately unreadable in deep shadow. Mist softens the distant vertical space, and more tactile layered strokes occupy the near form. The result is ominous and cinematic, with a restrained color range, strong scale contrast and a single luminous opening controlling the composition.",
+  "style_prompt_zh": "这种奇幻绘画把近黑量块聚在冷青雾和一小块压低的绿光之中。巨大的弯弧剪影承担画幅，破碎次边缘与纤细卷线暗示运动。锈色和压低深红光点暖化少量薄膜状表面，与清冷纵深对照。逆光只描出几条边；中央大部分体积刻意留在难以辨明的深影里。雾柔化远处竖向空间，近处形体则有更可触的分层笔触。成品不祥而有电影感，克制色域、强尺度反差和一处发光开口共同控制构图。",
+  "theme_en": "A cloaked winged creature emerging from a dark teal mist",
+  "theme_zh": "披斗篷的翼状生物从深青色迷雾中浮现",
+  "wh_ratio": "1:1",
+  "id": "3830",
+  "name": "Antonio J. Manzanedo",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/antonio-j-manzanedo",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "0c00b8ed4c05b23372ec99623d6db8ed10a533a2885a6fe5343f7daaa08f492c",
+    "gpt_submission_prompt": "A square dark fantasy painting shows a cloaked winged creature hovering or rising through a narrow passage of smoky teal mist. The background is deep green-black, with a pale green light opening near the upper center and indistinct vertical stone or forest shapes disappearing into haze behind it. The creature fills the left and center of the frame. Two immense batlike wings arch outward from its upper back, their red-brown membranes catching dim light along ribbed edges. A hood or horned head tilts forward beneath the wing span; the facial details are mostly hidden in shadow. Heavy dark robes stream downward in layered folds, and a bent arm projects to the right, ending near a small warm-lit point. The lower body is lost in black and green vapor rather than standing on a visible surface. Fine curling lines and ragged fabric edges give the silhouette restless motion. The wings form the clearest structural shape, while the center of the body is a dense black mass with occasional rusty red highlights. A cool diffuse glow comes from the opening beyond the figure, backlighting the wing edges and turning the central mist pale; weak warm accents catch a few folds and the hand. The surrounding darkness falls away quickly at the corners, with no other distinct characters or readable markings. The overall composition sets a single threatening form against a vertical shaft of light, using deep shadow, red membranes and drifting haze to create scale and suspense.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "f88c491cdcf54680d9985e419aa980b1f8925b3f81754f276bb20386191bd877",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

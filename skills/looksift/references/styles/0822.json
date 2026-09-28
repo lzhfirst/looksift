@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "This square color caricature shows two older men in formal suits seated in an ornate cream-colored room. The man on the left occupies a rose-upholstered armchair. He has high white hair, small glasses, a lined stern face, and a blue-green suit with a bow tie. One leg crosses over the other, and a slender smoking pipe extends from his mouth. His hands rest low over the crossed knee. On the right, a second man reclines in another ornate chair, wearing a dark pinstripe suit, white shirt, and bow tie. His enlarged head tilts back; a pipe lies between his lips, and one hand lifts another curved pipe at shoulder height. A small brown dog sits between the chairs near the floor, turned outward. At far left, a round side table holds a tall narrow glass and a small plate. The room behind them has carved gilded chair frames, cream wall panels, a framed picture, a decorative wall fixture, and a heavy golden curtain entering from the upper left. Thin curls of smoke rise above the seated figures. Warm diffused interior light brightens their faces, cuffs, and upholstered seats, leaving gentle brown-gray shadows in the folds. Fine penlike contours exaggerate brows, noses, and jowls, while pale watercolor-like color washes fill the furniture and clothing. The decor remains detailed but lightly handled, so the men and their conspicuous heads dominate the social scene. The image is wry and theatrical, built from elongated gestures, enlarged expressions, and airy warm color.",
+  "full_prompt_zh": "这幅方形彩色漫画讽刺画描绘两位穿正装的年长男子，坐在装饰华丽的奶油色房间里。左边男子占据一把玫瑰色软垫扶手椅。他白发高耸，戴小眼镜，面容多皱而严肃，穿蓝绿色西装并系领结。一条腿交叠在另一条上，一根细烟斗从嘴边伸出，双手低低放在交叉的膝上。右边第二位男子斜靠另一把雕饰椅，身穿深色细条纹西装、白衬衫和领结。放大的头向后仰，唇间含着烟斗，一只手又把一支弯烟斗举至肩高。椅子之间近地面处坐着一只棕色小狗，朝向画外。最左侧圆边桌上有高而窄的玻璃杯和小碟。后方室内有雕花镀金椅框、奶油色墙板、装框图画、装饰壁灯，以及从左上方垂入的厚金色窗帘。细细烟缕在座者上方升起。柔和暖色室内光提亮面部、袖口与软垫座椅，在褶皱中留下温和的棕灰阴影。细如钢笔的轮廓夸张了眉、鼻与下颌，浅薄的水彩式色洗填入家具和衣装。室内装饰虽有细节却处理轻盈，使人物和醒目的大头主导这幅社交场景。画面诙谐而戏剧化，由拉长的手势、放大的表情与通透暖色构成。",
+  "style_prompt_en": "Color caricature pairs fine, searching pen contours with transparent, lightly pooled washes. Proportions stretch around expressive features and gestures, while furniture and surrounding detail are sketched with enough accuracy to establish space. A pale cream and warm rose ground supports muted blue-green, charcoal, and gold accents. Diffuse illumination keeps the paperlike surface airy; small dark ink marks and concentrated facial shadows provide focus. Loose decorative linework contrasts with stronger modeling at the center, giving the scene an elegant but gently comic rhythm.",
+  "style_prompt_zh": "彩色讽刺漫画把细密、探索性的钢笔轮廓与透明且轻微聚色的色洗结合。比例在富表情的特征和手势周围拉伸，家具与环境细节则以足够准确的速写建立空间。浅奶油与暖玫瑰底色托住低饱和蓝绿、炭灰和金色重音。漫射照明使纸面质感轻盈，小块深墨痕及集中的局部阴影提供焦点。松散装饰线与中央较强塑造形成反差，让画面拥有优雅而温和滑稽的节奏。",
+  "theme_en": "Two formally dressed older men seated with pipes in an ornate room",
+  "theme_zh": "两位穿正装的年长男子持烟斗坐在装饰华丽的室内",
+  "wh_ratio": "1:1",
+  "id": "0822",
+  "name": "Bill Schorr",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/bill-schorr",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/bill-schorr.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "55d3de0f07bebccc854b4bf1649e096803845febdc4e5107b1ebc76c17fdae21",
+    "gpt_submission_prompt": "This square color caricature shows two older men in formal suits seated in an ornate cream-colored room. The man on the left occupies a rose-upholstered armchair. He has high white hair, small glasses, a lined stern face, and a blue-green suit with a bow tie. One leg crosses over the other, and a slender smoking pipe extends from his mouth. His hands rest low over the crossed knee. On the right, a second man reclines in another ornate chair, wearing a dark pinstripe suit, white shirt, and bow tie. His enlarged head tilts back; a pipe lies between his lips, and one hand lifts another curved pipe at shoulder height. A small brown dog sits between the chairs near the floor, turned outward. At far left, a round side table holds a tall narrow glass and a small plate. The room behind them has carved gilded chair frames, cream wall panels, a framed picture, a decorative wall fixture, and a heavy golden curtain entering from the upper left. Thin curls of smoke rise above the seated figures. Warm diffused interior light brightens their faces, cuffs, and upholstered seats, leaving gentle brown-gray shadows in the folds. Fine penlike contours exaggerate brows, noses, and jowls, while pale watercolor-like color washes fill the furniture and clothing. The decor remains detailed but lightly handled, so the men and their conspicuous heads dominate the social scene. The image is wry and theatrical, built from elongated gestures, enlarged expressions, and airy warm color.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "5f071bd6e5a7301bfca0c64ff66cfd2658a42c107b0c21d33fda314711d90c47",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

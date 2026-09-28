@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square theatrical photograph stages a young woman in an elaborate dark red historical dress at the front of a dim old room. She faces the camera with a composed, unsmiling expression, pale skin, dark curly hair, and a large cream ruff around her neck. Her corseted bodice and broad skirt form a strong triangular shape across the lower half of the frame. Three figures stand behind her at different depths: a dark-hatted figure at left, a person with a plumed headpiece near center, and a pale attendant in a tall soft cap at right. An old table near the left holds fruit, a bottle, and a few dishes; near the right, books and vessels stack beneath an ornate round wall object. The room is filled with worn plaster, dark wood, and muted antique decoration. Soft directional light from upper left illuminates the central face, collar, and folds while the companions remain partly in shadow. The palette is restrained olive-brown, burgundy, cream, and charcoal, with rich but not glossy textile detail. The ensemble feels like a staged painting brought into photographic focus: precise costumes and still poses give way to an uncanny narrative that is never explained.",
+  "full_prompt_zh": "一张方形戏剧性照片在昏暗旧室前方安排一位穿精致深红历史服装的年轻女性。她正面面对镜头，神情平静且不笑，肤色浅、深卷发，脖上围巨大奶油色皱领。紧身衣身与宽裙摆在画面下半部形成强三角形。三个同伴立在她背后不同纵深：左侧深帽人物、中央附近戴羽饰头冠的人，以及右侧戴高软帽的浅色侍者。左侧旧桌上摆着水果、瓶子和几只盘；右边在华丽圆形墙饰下堆着书和器皿。室内充满磨旧灰泥、深木和低调古董装饰。来自左上方的柔和定向光照亮中央面孔、领圈和衣褶，同伴仍部分受影。色彩限制于橄榄棕、酒红、奶油和炭黑，织物细节丰富却不发亮。整组场景像一幅经过摄影对焦的舞台绘画：准确服装和静止姿势引向从未解释的诡异故事。",
+  "style_prompt_en": "Cinematic tableau photography with painterly historical staging, a stable triangular focal mass, layered secondary presences, and densely aged room texture. Burgundy, olive-brown, cream, and charcoal remain subdued under soft directional chiaroscuro. Fabric and decorative detail are rich but matte. Measured stillness and deliberate depth create an enigmatic storybook atmosphere.",
+  "style_prompt_zh": "电影式场面调度摄影，以绘画般历史舞台安排、稳定三角焦点大形、层叠次要形体和密集老化空间肌理构成。酒红、橄榄棕、奶油与炭黑在柔和定向明暗中保持低调。织物和装饰细节丰富却哑光。经过安排的静止与纵深形成神秘故事书气氛。",
+  "theme_en": "A woman in a dark red historical dress before a strange household",
+  "theme_zh": "一位身着深红历史服装的女性站在奇异家庭前",
+  "wh_ratio": "1:1",
+  "id": "4502",
+  "name": "Eugenio Recuenco",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/eugenio-recuenco.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "b5ee76b2b56ad84399c23e9c9acaab4e478c2d683db1fa83f08eb4c9946d7323",
+    "gpt_submission_prompt": "A square theatrical photograph stages a young woman in an elaborate dark red historical dress at the front of a dim old room. She faces the camera with a composed, unsmiling expression, pale skin, dark curly hair, and a large cream ruff around her neck. Her corseted bodice and broad skirt form a strong triangular shape across the lower half of the frame. Three figures stand behind her at different depths: a dark-hatted figure at left, a person with a plumed headpiece near center, and a pale attendant in a tall soft cap at right. An old table near the left holds fruit, a bottle, and a few dishes; near the right, books and vessels stack beneath an ornate round wall object. The room is filled with worn plaster, dark wood, and muted antique decoration. Soft directional light from upper left illuminates the central face, collar, and folds while the companions remain partly in shadow. The palette is restrained olive-brown, burgundy, cream, and charcoal, with rich but not glossy textile detail. The ensemble feels like a staged painting brought into photographic focus: precise costumes and still poses give way to an uncanny narrative that is never explained.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "aace4cc49747cf29ff21bb825d44fcbc9f7b32157c27e0c9422be2cf700ce3a9",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

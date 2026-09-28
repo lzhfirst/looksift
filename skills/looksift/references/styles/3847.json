@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square cinematic photograph shows a bundled middle-aged rider seated on a pale horse in an overcast open field. The horse's light head and long gray mane fill the lower left, facing left and slightly downward. The rider sits near the center right in a heavy olive brown coat with a thick hood around his neck. He faces right in profile, looking into the distance rather than toward the camera. Behind them, a broad herd of pale and dark animals becomes a soft, low band across the frame, merging into a gray horizon. The sky occupies the upper half and is an even cold blue gray with no visible sun. The foreground is shallow in focus: the rider's face and coat are more defined, while the horse's outer edges and background herd blur gently. There are no bright colors; muted olive, slate, gray and off-white create a restrained palette. Diffuse daylight lifts the rider's cheek and the horse's mane, but the coat folds and lower body stay dark. The composition leaves a large quiet region of sky above and open space toward the direction of the rider's gaze. Its natural light, soft background and candid pose make the moment feel observed rather than staged. The mood is cold, patient and reflective.",
+  "full_prompt_zh": "这幅方形电影感摄影呈现一名穿厚衣的中年骑手坐在阴天开阔地里的浅色马上。马的浅色头部和长灰鬃填满左下，朝左且略向下。骑手靠近中央偏右，穿厚橄榄棕外套，厚帽围在颈边。他以侧面朝右，望向远方而非镜头。身后宽阔的深浅动物群成为横越画面的柔和低色带，融入灰色地平线。天空占上半幅，是均匀冷蓝灰，没有可见太阳。前景景深较浅：骑手的脸和外套更清楚，马外缘及后方群体轻柔模糊。没有鲜亮色彩；低饱和橄榄、板岩灰、灰和米白形成克制色盘。漫射日光抬亮骑手脸颊与马鬃，但外套褶皱和下身仍深暗。构图在上方留出大片安静天空，并向骑手目光方向留出开阔空间。自然光、柔背景和随意姿态使此刻像被观察到而非摆拍。情绪寒冷、耐心而沉思。",
+  "style_prompt_en": "The cinematic photograph uses a cool, desaturated range of slate, olive gray and off-white. Diffuse overcast light gives gentle volume without hard shadow. A shallow focus plane keeps one middle zone more legible as foreground edges and the distant horizontal band soften. Broad pale negative space above balances a compact darker mass below. Subtle grain and natural tonal falloff create a patient, observational mood.",
+  "style_prompt_zh": "这种电影感摄影使用冷而低饱和的板岩色、橄榄灰与米白。阴天漫射光提供温和体积，没有硬影。浅景深让中间一层较清楚，前景边缘和远方水平带逐渐柔化。上方宽阔浅色留域平衡下方紧凑暗块。细微颗粒和自然调子衰减营造耐心、观察性的情绪。",
+  "theme_en": "A bundled rider on a pale horse before a blurred herd",
+  "theme_zh": "模糊马群前骑浅色马的厚衣骑手",
+  "wh_ratio": "1:1",
+  "id": "3847",
+  "name": "Emmanuel Lubezki",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/emmanuel-lubezki",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "5d282e1afb678b9c0ce3ac96f660c1bafac9f04fc3136b8c480c4f94fbbbc0ee",
+    "gpt_submission_prompt": "A square cinematic photograph shows a bundled middle-aged rider seated on a pale horse in an overcast open field. The horse's light head and long gray mane fill the lower left, facing left and slightly downward. The rider sits near the center right in a heavy olive brown coat with a thick hood around his neck. He faces right in profile, looking into the distance rather than toward the camera. Behind them, a broad herd of pale and dark animals becomes a soft, low band across the frame, merging into a gray horizon. The sky occupies the upper half and is an even cold blue gray with no visible sun. The foreground is shallow in focus: the rider's face and coat are more defined, while the horse's outer edges and background herd blur gently. There are no bright colors; muted olive, slate, gray and off-white create a restrained palette. Diffuse daylight lifts the rider's cheek and the horse's mane, but the coat folds and lower body stay dark. The composition leaves a large quiet region of sky above and open space toward the direction of the rider's gaze. Its natural light, soft background and candid pose make the moment feel observed rather than staged. The mood is cold, patient and reflective.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "d266d10a2d8c6c1eab807e1cd91fda0f24b9faa72c0abaad4c366a0aba9d3558",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

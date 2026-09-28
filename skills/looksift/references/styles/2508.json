@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square natural-history illustration shows a blue-tailed bird perched among cream blossoms, yellow flowers, and dark seed clusters on an ivory paper ground. The bird occupies the center and upper-left area, facing left in clear profile. Its head is pale gray with a dark blue mask around the eye and throat; a narrow dark beak points toward the left edge. Warm brown scalloped feathers cover the back and shoulder, while the folded wing carries a long band of saturated turquoise blue. The slim tail descends diagonally toward the lower right, echoing the wing color and giving the composition a strong sweep. A thin branch supports the bird amid glossy dark green leaves and small reddish-brown fruit or seeds. Beneath the body, a large open white flower with a warm yellow center faces the viewer. Additional yellow and pink-tinged blossoms rise behind the bird, their petals drawn in precise overlapping layers. Faint gray botanical sketches and delicate stems remain visible in the otherwise open background, enriching it without forming a landscape. The surfaces are rendered through careful fine lines, translucent color washes, and subtle tonal shading that distinguishes feathers, waxy leaves, and soft petals. Light is even and natural, brightest on the bird's pale chest and the open white flower, while deeper shadows collect under the wing and among lower leaves. No label or readable text appears. The overall composition is graceful and balanced, setting one sharply observed bird against an abundant but airy arrangement of flowers and foliage.",
+  "full_prompt_zh": "这幅方形自然史插画呈现一只蓝尾鸟栖在奶油色花、黄花和深色种子簇之间，底面是象牙白纸。鸟占据中央及左上区域，以清楚侧面朝左。头部浅灰，眼周与喉部有深蓝面罩；细窄深色鸟喙指向左缘。暖棕色鳞状羽毛盖住背肩，折起的翅膀带一条饱和绿松石蓝长带。细尾斜向右下垂落，呼应翅色，使构图有强烈扫线。一根细枝在光亮深绿叶和小红棕果实或种子间支撑着鸟。身体下方，一朵盛开的白花正对观者，花心暖黄。更多黄色与带粉的花在鸟后升起，层叠花瓣描得精确。淡灰色植物素描与细茎仍可见于其他开放背景，丰富画面却不形成风景。表面以谨慎细线、半透明色彩薄涂和细微明暗塑形，区分羽毛、蜡质叶片和柔软花瓣。光均匀自然，鸟的浅胸与开放白花最亮，较深阴影聚在翼下和下方叶间。没有标签或可读文字。整体构图优雅而平衡，以一只观察精密的鸟对照丰盛却通透的花叶布局。",
+  "style_prompt_en": "Natural-history illustration combines precise fine drawing, translucent color washes, and open ivory paper. Brown, teal, olive, cream, and small yellow or rose accents remain natural but carefully arranged for contrast. Feathery, waxy, and soft surfaces differ through fine marks and subtle shading rather than heavy outlines. A clear diagonal focal form is balanced by layered organic clusters, with faint ghosted sketches adding depth to the negative space. Even daylight brings quiet highlights and modest shadows. The result is elegant, airy, and closely observed.",
+  "style_prompt_zh": "自然史插画结合精确细线、半透明色彩薄涂与开放象牙白纸面。棕、蓝绿、橄榄、奶油和少量黄或玫瑰色强调保持自然，同时经过谨慎对比排列。羽毛、蜡质和柔软表面通过细笔痕与微妙阴影区分，而非厚重轮廓。清楚的斜向焦点形与层叠有机群组平衡，淡淡底稿般线迹为负空间增加纵深。均匀日光带来安静亮部和克制阴影。整体优雅、通透且观察精密。",
+  "theme_en": "A blue-tailed bird perched among cream blossoms and seed clusters",
+  "theme_zh": "一只蓝尾鸟栖在奶油色花朵和种子簇之间",
+  "wh_ratio": "1:1",
+  "id": "2508",
+  "name": "John Gould",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/john-gould",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/john-gould.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "681435c2920160a6da742add837fd419b214f4410782b145ca97efe348a4f750",
+    "gpt_submission_prompt": "A square natural-history illustration shows a blue-tailed bird perched among cream blossoms, yellow flowers, and dark seed clusters on an ivory paper ground. The bird occupies the center and upper-left area, facing left in clear profile. Its head is pale gray with a dark blue mask around the eye and throat; a narrow dark beak points toward the left edge. Warm brown scalloped feathers cover the back and shoulder, while the folded wing carries a long band of saturated turquoise blue. The slim tail descends diagonally toward the lower right, echoing the wing color and giving the composition a strong sweep. A thin branch supports the bird amid glossy dark green leaves and small reddish-brown fruit or seeds. Beneath the body, a large open white flower with a warm yellow center faces the viewer. Additional yellow and pink-tinged blossoms rise behind the bird, their petals drawn in precise overlapping layers. Faint gray botanical sketches and delicate stems remain visible in the otherwise open background, enriching it without forming a landscape. The surfaces are rendered through careful fine lines, translucent color washes, and subtle tonal shading that distinguishes feathers, waxy leaves, and soft petals. Light is even and natural, brightest on the bird's pale chest and the open white flower, while deeper shadows collect under the wing and among lower leaves. No label or readable text appears. The overall composition is graceful and balanced, setting one sharply observed bird against an abundant but airy arrangement of flowers and foliage.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "9536b6f11d2283f5cc2f339914a6e63b09f37d1ebecb6eaa8fbe3b9779a46f29",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square heroic-fantasy painting shows a muscular barbarian seated on a rough stone ledge beside a massive horned beast skull. He faces partly toward the viewer, with dark hair, a thick beard, and a watchful expression. Bare arms and shoulders catch warm light above weathered leather, fur, and metal ornaments. A broad sword leans diagonally from the lower left, its pale blade cutting across the earthy composition. Smaller skulls and scattered stones sit along the ledge. Behind the figure, a vivid turquoise opening is surrounded by rust-red and burnt orange cloudlike color, making the body and ivory skull stand forward. Brushwork is broad and textured in the background but more exact on anatomy, weapon, horn, and face. The light is directional and warm, emphasizing the volume of shoulder and arm and the dry roughness of bone. Deep brown shadows collect beneath the seated legs and skull. The composition forms a stable triangle from sword tip through warrior to curling horns. The scene feels legendary but paused rather than active: a moment of rest after conflict. The whole frame has the robust painterly drama of a vintage fantasy book cover, with saturated color and tactile surfaces.",
+  "full_prompt_zh": "一幅方形英雄奇幻绘画呈现一位肌肉强健的蛮族战士坐在粗石台上，身旁有一枚巨大的长角兽骨。他身体略朝观者，黑发、浓胡须，神情警觉。裸露手臂和肩膀在风化皮革、毛皮与金属饰件上方接住暖光。一柄宽剑从左下斜靠，浅色剑刃切过泥土色构图。较小颅骨与散石沿石台摆放。人物身后，一块鲜明深青色开口被锈红与焦橙色云状色面围住，使身体和象牙色兽骨向前突出。背景笔触宽阔而有肌理，解剖结构、武器、角与面孔则更精确。定向暖光强调肩臂体积和骨头干燥粗糙的表面。深棕影积在坐姿双腿与兽骨下方。构图由剑尖经战士到卷角形成稳定三角形。场景具有传奇感，却是停顿而非动作：战斗之后的一刻休息。整幅画有复古奇幻书封面般健壮的绘画戏剧性，颜色饱和、表面可触。",
+  "style_prompt_en": "A vintage heroic-fantasy oil-painting language combines robust anatomy, rugged props, and a saturated warm-cool background. Rust red, burnt orange, and brown encircle a vivid turquoise opening; bone ivory and metallic gray form concentrated highlights. Broad textured brushwork builds the atmosphere, while more precise marks describe focal contours and material wear. Directional warm light carves rounded volume from deep shadow. A triangular arrangement gives the scene stability even when details are energetic. Leather, stone, bone, and metal each receive a distinct tactile treatment. The mood is legendary and muscular but momentarily still, with painterly force rather than polished digital fantasy sheen.",
+  "style_prompt_zh": "复古英雄奇幻油画语言把强健体积、粗犷道具和饱和冷暖背景结合。锈红、焦橙和棕色围住鲜明深青开口，骨白与金属灰形成集中高光。宽阔有肌理的笔触建立空气，较准确的笔迹描写焦点轮廓和材质磨耗。定向暖光从深影中刻出圆润体积。三角形安排使细节活跃的场景仍稳定。皮革、石头、骨和金属各有不同触感表现。气氛传奇而强悍，却暂时静止，主要依靠绘画力量而非抛光数字奇幻质感。",
+  "theme_en": "A muscular barbarian rests beside a horned beast skull and sword",
+  "theme_zh": "肌肉强健的蛮族战士坐在长角兽骨与长剑旁",
+  "wh_ratio": "1:1",
+  "id": "4232",
+  "name": "Frank Frazetta",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/frank-frazetta.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "183e33d7c95ce3796c997297a88634dbc93a0ead2bb9b1f8d1daf89103b2b3f1",
+    "gpt_submission_prompt": "A square heroic-fantasy painting shows a muscular barbarian seated on a rough stone ledge beside a massive horned beast skull. He faces partly toward the viewer, with dark hair, a thick beard, and a watchful expression. Bare arms and shoulders catch warm light above weathered leather, fur, and metal ornaments. A broad sword leans diagonally from the lower left, its pale blade cutting across the earthy composition. Smaller skulls and scattered stones sit along the ledge. Behind the figure, a vivid turquoise opening is surrounded by rust-red and burnt orange cloudlike color, making the body and ivory skull stand forward. Brushwork is broad and textured in the background but more exact on anatomy, weapon, horn, and face. The light is directional and warm, emphasizing the volume of shoulder and arm and the dry roughness of bone. Deep brown shadows collect beneath the seated legs and skull. The composition forms a stable triangle from sword tip through warrior to curling horns. The scene feels legendary but paused rather than active: a moment of rest after conflict. The whole frame has the robust painterly drama of a vintage fantasy book cover, with saturated color and tactile surfaces.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "17999f8d4cacc9bb5ded9fdb816789ae690ad48a50dcbf33dc03ae5a53773574",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

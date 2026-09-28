@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square expressive oil portrait shows a seated woman wearing a patterned headwrap and a dark jacket against a richly colored interior. She fills the left and central frame from the waist upward, with her shoulders angled slightly right and her face turned toward the viewer. Her gaze is steady and reserved, set beneath the bold cream, black, ochre, and blue shapes of the wrapped cloth. Dark hair is mostly covered, while small dangling earrings catch light near the cheeks. Warm brown skin is modeled with peach and mauve strokes, and full lips are softly defined. A dark blue-black jacket spreads across the lower half, its broad sleeves and folds broken by turquoise and purple reflections. At the center of the chest, a narrow scarf or garment strip introduces yellow, red, and blue patterned color. Behind her left shoulder, a curved rust-brown chair back rises, decorated with circular blue and orange shapes. The wall behind is a patchwork of muted teal, peach, gold, and coral, with loose ornamental lines but no clear architecture or readable writing. The paint is thick and visibly worked: angular strokes construct the headwrap and jacket, while the face is more carefully blended without losing brush texture. Warm light from the upper left brightens the forehead, cheek, and folded headwrap, leaving the opposite side of the face and jacket in colored shadow. The overall composition is bold and intimate, balancing a calm central expression with energetic surrounding pattern and complementary warm-cool paint.",
+  "full_prompt_zh": "这幅方形表现性油画肖像呈现一名坐姿女子，戴花纹头巾、穿深色夹克，背景是色彩丰厚的室内。她从腰部向上填满左侧与中央，双肩略向右，脸转向观者。目光稳定而保留，位于头巾鲜明的奶油、黑、赭黄与蓝色形状之下。深发大多被包住，脸旁小垂耳饰接住光。暖棕色皮肤由桃色与淡紫笔触塑形，丰满嘴唇柔和清楚。深蓝黑夹克铺开下半幅，宽大袖与褶皱被绿松石和紫反光打断。胸部中央，一条细窄围巾或衣带带来黄、红和蓝色花纹。左肩后，锈棕色弧形椅背升起，上面饰有蓝橙圆形。后方墙面是柔和蓝绿、桃、金和珊瑚色拼片，带松散装饰线，却没有清楚建筑或可读文字。颜料厚实且明显经过加工：棱角笔触构建头巾与夹克，面部融合更谨慎，同时不失笔触。暖光从左上方照亮额头、脸颊和折叠头巾，脸和夹克另一侧留在彩色阴影中。整体构图大胆而亲密，以中央平静神情平衡周围有活力的花纹和冷暖互补颜料。",
+  "style_prompt_en": "Expressive oil painting layers thick angular strokes and decorative color fragments around a more carefully modeled focal plane. Rust, peach, ochre, teal, cobalt, violet, and deep charcoal press together in a saturated but controlled palette. Patterned folds and broad dark masses alternate with small bright accents, creating depth through color rather than smooth gradients. Edges are firm at selected contours and broken elsewhere by visible brushwork. Warm upper-side light lifts key planes while cooler colored shadows keep the surface lively. The result is bold, tactile, and intimate.",
+  "style_prompt_zh": "表现性油画在塑形更细致的焦点平面周围叠加厚实棱角笔触与装饰性色彩碎片。锈色、桃、赭黄、蓝绿、钴蓝、紫和深炭色挤成饱和却受控的色盘。有花纹的褶面与宽大暗色团块交替小亮点，通过色彩而非光滑渐层创造纵深。局部轮廓边缘坚实，其他地方由可见笔触打碎。暖上侧光抬亮关键平面，较冷的彩色阴影让表面活跃。整体大胆、可触且亲密。",
+  "theme_en": "A seated woman in a patterned headwrap and dark jacket",
+  "theme_zh": "一位戴花纹头巾、穿深色夹克的坐姿女子",
+  "wh_ratio": "1:1",
+  "id": "2535",
+  "name": "Irma Stern",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/irma-stern",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/irma-stern.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "cb577fe739321158c7a44fda545409410feb1c71d81f4847935611293281e389",
+    "gpt_submission_prompt": "A square expressive oil portrait shows a seated woman wearing a patterned headwrap and a dark jacket against a richly colored interior. She fills the left and central frame from the waist upward, with her shoulders angled slightly right and her face turned toward the viewer. Her gaze is steady and reserved, set beneath the bold cream, black, ochre, and blue shapes of the wrapped cloth. Dark hair is mostly covered, while small dangling earrings catch light near the cheeks. Warm brown skin is modeled with peach and mauve strokes, and full lips are softly defined. A dark blue-black jacket spreads across the lower half, its broad sleeves and folds broken by turquoise and purple reflections. At the center of the chest, a narrow scarf or garment strip introduces yellow, red, and blue patterned color. Behind her left shoulder, a curved rust-brown chair back rises, decorated with circular blue and orange shapes. The wall behind is a patchwork of muted teal, peach, gold, and coral, with loose ornamental lines but no clear architecture or readable writing. The paint is thick and visibly worked: angular strokes construct the headwrap and jacket, while the face is more carefully blended without losing brush texture. Warm light from the upper left brightens the forehead, cheek, and folded headwrap, leaving the opposite side of the face and jacket in colored shadow. The overall composition is bold and intimate, balancing a calm central expression with energetic surrounding pattern and complementary warm-cool paint.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "c5906321eb3557828cd4bbbc4194bf5d594135d8b25c3e6a2c590796f9717f9c",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

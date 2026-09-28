@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white comics illustration shows two students at a wooden desk in a busy classroom. The student on the left has short spiky dark hair, round glasses, and a plain sweater or shirt, with an open book directly in front. They turn slightly toward the right, eyes wide behind the lenses and mouth held in a small uncertain line. Beside them sits another student with lighter curly hair, a dark cardigan, and a second open book, looking down at the pages with a similarly tentative expression. Their arms and books overlap the long horizontal desk, which stretches toward the lower-right corner. Behind them, rows of classmates fill a shallow room: several faces are visible above shoulders and desks, some looking forward, others turning to one another. A dark textured wall or board closes the upper background. The drawing uses loose, confident pen contours around heads and clothing, with dense hatching in dark hair, cardigans, and the rear wall. Pale paper pages and faces remain mostly white, making them readable amid the busy linework. Light is even, as in a comics panel, with tonal depth created by ink density rather than a realistic directional lamp. The desks recede diagonally from the lower foreground into the back rows, giving the crowded classroom a clear spatial rhythm. There is no legible writing on the books or wall, only implied page marks. The overall composition is lively and observant, balancing the quiet awkwardness of the front pair against the social bustle of the class behind them.",
+  "full_prompt_zh": "一幅方形黑白漫画插画描绘两位学生坐在忙碌教室的木课桌旁。左边学生短黑发竖起，戴圆眼镜，穿朴素毛衣或上衣，面前摊开一本书。此人略转向右，镜片后眼睛睁大，嘴是一道略不确定的小线。旁边另一位学生浅色卷发、穿深开衫，面前摊着第二本书，低头看书页，表情同样有点迟疑。两人的手臂和书叠在长横桌上，桌面延向右下角。身后，几排同学填满浅室内空间：肩与桌上方露出数张脸，有的朝前，有的互相转头。深色纹理墙面或黑板封住上方背景。画面以松而肯定的钢笔轮廓勾出头和衣服，深发、开衫与后墙用密排线。浅纸页和面孔大多留白，使它们在繁忙线条中可读。光如漫画画格般均匀，影调纵深来自墨色密度，而非写实定向灯。课桌从下前景斜向后排退远，给拥挤教室清楚空间节奏。书和墙上没有可读文字，只有暗示性页痕。整体构图活跃而观察细腻，以前排两人的安静尴尬平衡后方班级的社交热闹。",
+  "style_prompt_en": "The image has hand-drawn black-and-white comics linework, with lively contours, visible sketch strokes, and dense hatching for midtones. White focal planes sit among charcoal hairlike masses and a busy textured background, keeping crowded scenes readable. Repeated horizontal surfaces and receding rows organize multiple small figures in shallow depth. Edges are slightly irregular and human, and expressions are carried by a few precise marks rather than polished rendering. Light is largely graphic and even; ink density supplies shade and spatial separation. The overall effect is conversational, intimate, and briskly observed.",
+  "style_prompt_zh": "图像具有手绘黑白漫画线条，轮廓活跃，速写笔痕可见，以密排线构成中间调。白色焦点平面位于炭色发状大块和繁忙纹理背景之间，使拥挤场景仍可读。重复横向表面与退远行列在浅纵深里组织多个小形体。边缘略不规则且有人手感，表情由少数精确记号承担，而非抛光渲染。光主要是图形化而均匀的；墨线密度提供阴影与空间分离。整体效果有交谈气息、亲密且观察敏捷。",
+  "theme_en": "Two bespectacled students at a classroom desk in a black-and-white comic",
+  "theme_zh": "黑白漫画里，两位戴眼镜的学生坐在教室课桌旁",
+  "wh_ratio": "1:1",
+  "id": "3837",
+  "name": "Alison Bechdel",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/alison-bechdel",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "84779ff5acddad5d99767812a15810c0766f9c79520981ed9ecd85c9448fb718",
+    "gpt_submission_prompt": "A square black-and-white comics illustration shows two students at a wooden desk in a busy classroom. The student on the left has short spiky dark hair, round glasses, and a plain sweater or shirt, with an open book directly in front. They turn slightly toward the right, eyes wide behind the lenses and mouth held in a small uncertain line. Beside them sits another student with lighter curly hair, a dark cardigan, and a second open book, looking down at the pages with a similarly tentative expression. Their arms and books overlap the long horizontal desk, which stretches toward the lower-right corner. Behind them, rows of classmates fill a shallow room: several faces are visible above shoulders and desks, some looking forward, others turning to one another. A dark textured wall or board closes the upper background. The drawing uses loose, confident pen contours around heads and clothing, with dense hatching in dark hair, cardigans, and the rear wall. Pale paper pages and faces remain mostly white, making them readable amid the busy linework. Light is even, as in a comics panel, with tonal depth created by ink density rather than a realistic directional lamp. The desks recede diagonally from the lower foreground into the back rows, giving the crowded classroom a clear spatial rhythm. There is no legible writing on the books or wall, only implied page marks. The overall composition is lively and observant, balancing the quiet awkwardness of the front pair against the social bustle of the class behind them.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "ff6875da504b9fd4449e8876f32e998616968df1025bb5f155e5670b0765169f",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

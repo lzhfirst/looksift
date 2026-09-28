@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square minimalist animation-style landscape shows one broad golden tree growing from a dark rock at the left edge of a pale shore. Its trunk bends slightly right before spreading into a dense rounded crown of small yellow leaves. The rock and roots form a compact dark mass just above the lower left corner. Across the bottom, a light sand or snow surface slopes gently toward a narrow strip of bright water. One tiny dark seated figure rests near the shoreline at the lower center right, and a small boat lies just beyond at the far right edge. The upper two thirds are an uninterrupted deep blue sky, giving the tree and small figure a great deal of breathing room. A thin gold band near the horizon echoes the leaves. The shapes are simplified but textured: flecks of paint define the foliage, while the ground has sparse gray strokes and the rock is more heavily brushed. Light appears low from the right, making the leaves shine and casting a dark mass beneath the crown. There are no hard clouds or detailed buildings to compete with the main forms. The composition balances the large tree on the left with the vast blue opening on the right. Its restricted yellow, navy, cream and charcoal palette creates a quiet, contemplative atmosphere.",
+  "full_prompt_zh": "这幅方形极简动画式风景呈现一棵宽阔金色树，从浅色岸边左侧的深岩上生长。树干微向右弯，再展开成密实圆润的小黄叶树冠。岩石与树根在左下角上方构成紧凑暗块。下方浅色沙地或雪面缓缓倾向一道明亮水带。一个细小暗色坐姿身影在下方偏右的岸边休息，最右边缘外侧有一艘小船。上方三分之二是不间断的深蓝天空，给树和小人很大呼吸空间。地平线附近一条细金色带呼应树叶。形状简化却有纹理：颜料斑点界定树冠，地面有稀疏灰笔，岩面刷得更厚。光似乎从右侧低处来，使叶片发亮，并在树冠下投出暗块。没有硬云或详细建筑与主形竞争。构图以左侧大树平衡右侧广大蓝色开口。有限的黄、海军蓝、奶油白和炭色带来安静沉思的气氛。",
+  "style_prompt_en": "The animation-style image uses simplified silhouettes, broad negative space and a few textured painted surfaces. Saturated navy occupies the largest area, balanced by one dense golden shape and a thin pale lower band. Sparse dry marks add detail to otherwise clean planes. Low side light makes the warm area glow while a compact shadow anchors it. Strong asymmetry feels calm because the color masses are carefully weighted. The visual effect is poetic, spare and contemplative.",
+  "style_prompt_zh": "这种动画式图像使用简化剪影、宽阔留白和少数带绘画纹理的表面。饱和海军蓝占最大面积，由一块密集金色形与下方细浅色带平衡。稀疏干笔为原本干净的平面添细节。低侧光让暖色域发亮，紧凑阴影把它固定。强不对称因色块重量安排谨慎而显平静。视觉效果诗意、简约而沉思。",
+  "theme_en": "A lone golden tree above a pale shore and deep blue sky",
+  "theme_zh": "浅色岸边与深蓝天空前的一棵金树",
+  "wh_ratio": "1:1",
+  "id": "3423",
+  "name": "Michael Dudok de Wit",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/michael-dudok-de-wit",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "3ebe06fa4f34d0e0ee658684401ae99cff8a2b0de2cf913a14b15b08a647ee4a",
+    "gpt_submission_prompt": "A square minimalist animation-style landscape shows one broad golden tree growing from a dark rock at the left edge of a pale shore. Its trunk bends slightly right before spreading into a dense rounded crown of small yellow leaves. The rock and roots form a compact dark mass just above the lower left corner. Across the bottom, a light sand or snow surface slopes gently toward a narrow strip of bright water. One tiny dark seated figure rests near the shoreline at the lower center right, and a small boat lies just beyond at the far right edge. The upper two thirds are an uninterrupted deep blue sky, giving the tree and small figure a great deal of breathing room. A thin gold band near the horizon echoes the leaves. The shapes are simplified but textured: flecks of paint define the foliage, while the ground has sparse gray strokes and the rock is more heavily brushed. Light appears low from the right, making the leaves shine and casting a dark mass beneath the crown. There are no hard clouds or detailed buildings to compete with the main forms. The composition balances the large tree on the left with the vast blue opening on the right. Its restricted yellow, navy, cream and charcoal palette creates a quiet, contemplative atmosphere.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "66e72552549ba3c3cdd360798d7bb753b12409c769f5212410a08e8f51b46d97",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

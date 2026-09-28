@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square industrial night photograph looks down from a high steel catwalk over a sprawling refinery. At the far left, close to the viewer, a lone worker in dark clothing and a protective helmet sits or crouches on a broad metal beam beside vertical scaffold frames. This small figure is silhouetted against a cold blue-white work light. The catwalk and its railings form strong diagonal and vertical lines that pull the eye into the scene. Across the middle distance, pipes, tanks, low buildings, and service roads glow with many small amber lights. Near center-right, a tall illuminated processing tower rises above the rest of the plant, its stacked platforms punctuated by warm lamps. Steam or smoke drifts behind it into a deep navy sky; far-off industrial lights twinkle along the horizon. The image keeps the lower middle road mostly dark and open to give the dense machinery scale and breathing room. Photograph from a stable high vantage with detailed metal grating in the left foreground and gradually softer distant structures. The composition lets cool cyan highlights in the scaffold contrast with orange-yellow points throughout the site. A little atmospheric haze should bloom the bright lamps without erasing their geometry. The mood is immense, working, and nocturnal, with the solitary human silhouette acting as a scale marker rather than the main spectacle.",
+  "full_prompt_zh": "一张方形工业夜景照片从高处钢栈道俯瞰广阔炼厂。画面最左侧、贴近观看者的位置，一位穿深色衣服并戴防护头盔的工人坐或蹲在宽金属梁上，身旁是竖立的脚手架框架。小小的人影在冷蓝白作业灯前呈剪影。栈道和栏杆组成强烈的斜线与竖线，把目光拉向场景深处。中景的管道、储罐、低矮厂房及道路被许多小小的琥珀色灯照亮。中央偏右一座高耸发光的加工塔超过厂区其他部分，层叠平台之间点着暖灯。蒸汽或烟雾在塔后飘入深海军蓝的夜空，远处工业灯沿地平线闪烁。下方中央道路保留较暗、较空，给密集机器提供尺度和呼吸空间。画面以稳定的高机位拍摄，左前景金属格栅细节明确，远处结构渐渐柔化。画面让脚手架的冷青色亮点与厂区橙黄灯点对比。少量空气薄雾可使亮灯微微散开，却不抹掉几何结构。氛围辽阔、持续运作而属于夜晚，孤独的人影主要提供比例参照，而不是取代厂区成为主角。",
+  "style_prompt_en": "High-vantage industrial night photography organized by strong scaffold diagonals, dense repeating metal geometry, and deep open dark areas. The composition contrasts cold blue-cyan work light with many small amber practical lights. The composition lets atmospheric steam and distant haze soften points of brightness while near metal edges remain crisp. The image preserves a wide sense of scale, layered infrastructure, and a quiet human-scale accent within the larger luminous system.",
+  "style_prompt_zh": "高机位工业夜景摄影，以强烈的脚手架斜线、密集重复的金属几何和大片开阔深暗区组织画面。冷蓝青色作业灯与众多细小琥珀色实景灯相对。蒸汽和远处薄雾柔化灯点，近处金属边缘仍清晰。画面保留宽阔尺度、层叠基础设施，以及发光系统中一点安静的人尺度强调。",
+  "theme_en": "A worker above a luminous industrial complex at night",
+  "theme_zh": "夜间发光工业厂区上方的工人",
+  "wh_ratio": "1:1",
+  "id": "4011",
+  "name": "Industrial photography",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/industrial-photography.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "54d4f6a3467ae6aca1dcde7183a8b96db40b13ff6584289acae5057a0fd8b855",
+    "gpt_submission_prompt": "A square industrial night photograph looks down from a high steel catwalk over a sprawling refinery. At the far left, close to the viewer, a lone worker in dark clothing and a protective helmet sits or crouches on a broad metal beam beside vertical scaffold frames. This small figure is silhouetted against a cold blue-white work light. The catwalk and its railings form strong diagonal and vertical lines that pull the eye into the scene. Across the middle distance, pipes, tanks, low buildings, and service roads glow with many small amber lights. Near center-right, a tall illuminated processing tower rises above the rest of the plant, its stacked platforms punctuated by warm lamps. Steam or smoke drifts behind it into a deep navy sky; far-off industrial lights twinkle along the horizon. The image keeps the lower middle road mostly dark and open to give the dense machinery scale and breathing room. Photograph from a stable high vantage with detailed metal grating in the left foreground and gradually softer distant structures. The composition lets cool cyan highlights in the scaffold contrast with orange-yellow points throughout the site. A little atmospheric haze should bloom the bright lamps without erasing their geometry. The mood is immense, working, and nocturnal, with the solitary human silhouette acting as a scale marker rather than the main spectacle.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "b49771a3ebe6134f18fdad136904ebbd6c11108001b0d515baba75dfaf203ee9",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

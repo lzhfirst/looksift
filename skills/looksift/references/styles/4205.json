@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A young woman sits in a restrained studio portrait, her body angled to the side and her head lowered beneath a broad, dark brimmed hat. Her face is shown in a quiet three-quarter profile, with the hat casting a soft shade over her eyes. A fitted jacket creates a dark triangular mass through the center and lower part of the photograph, while her hands rest out of the main focal area near her lap. The backdrop is plain warm beige, with only subtle variations in tone; no furniture or room details compete with the seated silhouette. The portrait is printed as a faded brown monochrome albumen photograph. Highlights on the cheek, collar, and hat brim are gentle, and the shadows retain soft brown detail rather than collapsing into pure black. Fine grain, faint spotting, and slight tonal unevenness make the image feel embedded in an old physical print. The photograph sits inside a generous off-white paper mount with a broad border. Its edges show small stains, rubbed corners, and a little damage, so the mounted card is visible as an object as well as an image. The composition is vertical within a square presentation, leaving pale margin all around and giving the bowed figure a modest, withdrawn presence. Diffuse frontal light keeps the forms legible without theatrical contrast. The mood is still and private, sustained by the compressed sepia palette, the empty studio ground, and the gentle deterioration of the print.",
+  "full_prompt_zh": "一位年轻女子坐在克制的影楼肖像中，身体斜向一侧，头低垂在宽阔的深色帽檐下。她的脸呈安静的四分之三侧面，帽檐在眼睛上投下柔和阴影。合身外套在照片中央和下部形成深色三角形块面，双手则落在靠近膝上的非视觉中心区域。背景是朴素的暖米色，只有细微色调变化；没有家具或室内细节与坐姿剪影争夺注意力。这幅肖像像一张褪色的棕调黑白蛋白相纸照片。脸颊、衣领和帽檐上的高光轻柔，阴影保留柔和褐色细节，没有塌成纯黑。细颗粒、淡淡斑点和略不均匀的明暗，使图像仿佛嵌在真实旧照片之中。照片置于宽阔的米白色纸板上，留有厚边。边缘可见小污渍、磨损角部和少许破损，因此裱卡本身与照片同样作为物件呈现。方形展示中嵌着竖向画幅，四周保留浅色边缘，令低头人物显得谦逊而内敛。漫射的正面光使形态清楚，但没有戏剧性反差。压缩的褐色调、空白的影楼背景与照片温和的衰损共同维持静止而私密的气氛。",
+  "style_prompt_en": "A nineteenth-century albumen-print appearance with soft sepia browns, creamy highlights, and faded midtones. Diffuse illumination models forms gently, while shadows retain warm detail and the background stays plain and quiet. Fine photographic grain, faint spots, slight fading, and uneven chemical tone give the image a physical age. A smaller vertical picture area rests within a broad off-white mount, its edges marked by subtle stains, wear, and tiny damage. The spacious border and restrained central silhouette create a still, archival composition with subdued emotional presence.",
+  "style_prompt_zh": "十九世纪蛋白相纸的视觉质感：柔和的棕褐色、奶油色高光与褪淡的中间调。漫射光轻柔塑形，阴影保留暖色细节，背景朴素安静。细微摄影颗粒、淡斑、轻度褪色和不均匀化学色调赋予图像实体年代感。较小的竖向图像区域置于宽阔米白裱卡内，边缘带有细微污渍、磨损与小破损。宽松纸边和克制的中央剪影形成静止的档案式构图，情绪低调而含蓄。",
+  "theme_en": "A young woman in a wide-brimmed hat looking down in a studio portrait",
+  "theme_zh": "一位戴宽檐帽的年轻女子在影楼肖像中低头",
+  "wh_ratio": "1:1",
+  "id": "4205",
+  "name": "Albumen print",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/albumen-print.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "627374dd863bc58971e8aaa133392d179476680179da4f98205412996ae1c972",
+    "gpt_submission_prompt": "A young woman sits in a restrained studio portrait, her body angled to the side and her head lowered beneath a broad, dark brimmed hat. Her face is shown in a quiet three-quarter profile, with the hat casting a soft shade over her eyes. A fitted jacket creates a dark triangular mass through the center and lower part of the photograph, while her hands rest out of the main focal area near her lap. The backdrop is plain warm beige, with only subtle variations in tone; no furniture or room details compete with the seated silhouette. The portrait is printed as a faded brown monochrome albumen photograph. Highlights on the cheek, collar, and hat brim are gentle, and the shadows retain soft brown detail rather than collapsing into pure black. Fine grain, faint spotting, and slight tonal unevenness make the image feel embedded in an old physical print. The photograph sits inside a generous off-white paper mount with a broad border. Its edges show small stains, rubbed corners, and a little damage, so the mounted card is visible as an object as well as an image. The composition is vertical within a square presentation, leaving pale margin all around and giving the bowed figure a modest, withdrawn presence. Diffuse frontal light keeps the forms legible without theatrical contrast. The mood is still and private, sustained by the compressed sepia palette, the empty studio ground, and the gentle deterioration of the print.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "9a55806f934402f6f3d9aedd85515c74933f3bcce02b8332410a5538cb46f886",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

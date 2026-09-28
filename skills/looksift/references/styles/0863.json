@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square modernist painting shows two elegantly dressed women sitting close together at a small round cafe table. The left woman wears a dark jacket and compact dark hat; her long pale neck and angular face turn toward her companion. The right woman has a smooth black bob and a sleeveless orange, yellow, and cream dress, with one elbow resting on the table and her hand near her chin. Their narrow eyes and small red mouths are simplified into calm graphic marks. A stemmed glass with red liquid, a dark bottle, and two pale round pieces of fruit sit on the tabletop. Behind them, an abstract wall of overlapping rectangular color blocks rises in mustard, teal, brick red, ochre, cream, and gray. A dark bent chair back appears at the right edge. The bodies form flattened, interlocking planes rather than anatomically modeled volume. Thin dark outlines and broad matte color shapes carry most of the structure; selective pale highlights on cheeks, necks, and arms suggest indoor light. The composition is intimate and still, with the conversation implied by faces leaning inward. Visible brush texture and slight unevenness in the pigment prevent the geometry from feeling mechanically clean. The result is a decorative cafe scene balanced between figurative storytelling and abstract color architecture.",
+  "full_prompt_zh": "一幅方形现代主义绘画呈现两位穿着讲究的女性贴近坐在小圆咖啡桌旁。左侧女性穿深外套、戴小深帽，修长浅色颈部和有棱角的脸转向同伴。右侧女性有平滑黑色短发，穿橙、黄、奶油色无袖裙，一肘搭桌，手靠下巴。两人的细长眼睛与小红唇被简化为平静图形标记。桌上有一只盛红色液体的高脚杯、深瓶和两枚浅色圆果。身后由重叠矩形色块组成抽象墙面，芥黄、青绿、砖红、赭黄、奶油与灰色交错。右缘可见一截深色弯椅背。身体形成被压平、互相咬合的平面，而非解剖式塑形。细深轮廓与宽阔哑光色块承担主要结构；脸、颈、手臂上有选择的浅亮部暗示室内光。构图亲密静止，人物向内靠拢的脸暗示交谈。可见笔触和颜料轻微不均，使几何不显机械洁净。画面在人物叙事与抽象色彩建筑之间取得平衡。",
+  "style_prompt_en": "Decorative modernist painting with flattened interlocking planes, elongated elegant contours, and a patchwork of matte geometric color. Mustard, teal, brick red, ochre, cream, and charcoal form warm-cool rhythm. Fine dark outlines define selective edges, while broad brush-filled shapes and uneven pigment preserve a handmade surface. Simplified faces and quiet negative spaces let the composition remain figurative yet strongly abstract.",
+  "style_prompt_zh": "装饰性现代主义绘画，以压平咬合的平面、修长优雅轮廓和哑光几何拼布色彩组成。芥黄、青绿、砖红、赭黄、奶油与炭黑形成冷暖节奏。细深线定义部分边缘，宽阔笔填色形和不均颜料保留手工表面。简化面部与安静留白使构图仍有形象，却强烈抽象。",
+  "theme_en": "Two women speaking at a small cafe table",
+  "theme_zh": "两位女性在小咖啡桌旁交谈",
+  "wh_ratio": "1:1",
+  "id": "0863",
+  "name": "Itzchak Tarkay",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/itzchak-tarkay",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/itzchak-tarkay.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "3bc5046deebd53d30cfa402b9c2a94ba95a8b36ed42c9af33f0e043734a49ece",
+    "gpt_submission_prompt": "A square modernist painting shows two elegantly dressed women sitting close together at a small round cafe table. The left woman wears a dark jacket and compact dark hat; her long pale neck and angular face turn toward her companion. The right woman has a smooth black bob and a sleeveless orange, yellow, and cream dress, with one elbow resting on the table and her hand near her chin. Their narrow eyes and small red mouths are simplified into calm graphic marks. A stemmed glass with red liquid, a dark bottle, and two pale round pieces of fruit sit on the tabletop. Behind them, an abstract wall of overlapping rectangular color blocks rises in mustard, teal, brick red, ochre, cream, and gray. A dark bent chair back appears at the right edge. The bodies form flattened, interlocking planes rather than anatomically modeled volume. Thin dark outlines and broad matte color shapes carry most of the structure; selective pale highlights on cheeks, necks, and arms suggest indoor light. The composition is intimate and still, with the conversation implied by faces leaning inward. Visible brush texture and slight unevenness in the pigment prevent the geometry from feeling mechanically clean. The result is a decorative cafe scene balanced between figurative storytelling and abstract color architecture.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "2da32cf9a7064911c3220c3b6e61c38e9c774ae1f03744aeb5bae7219a34f5d4",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A busy satirical painting centers on a small café table crowded by several sharply observed city figures. A man in a dark hat and red tie faces forward, his pale expression fixed and tired. Beside him, a red-haired woman and other seated companions turn in different directions, while a dense crowd of hats, coats, faces, and conversations fills the background. Clear and colored bottles, glasses, plates, and loose papers stand on the table. The scene feels noisy and socially close, yet each person seems absorbed in a separate thought.\n\nThe drawing is quick and incisive, with wiry dark contours and watercolor-like patches of cream, ochre, charcoal, dusty blue, and sudden red. Faces are selectively exaggerated: angular noses, compressed mouths, and weary eyes carry a biting observational tone. The foreground table is left comparatively pale, a small breathing space beneath the crowded upper field. Background figures overlap and blur into restless marks, while the central faces receive sharper detail. Light is diffuse and indoor, flattening the depth so the crowd presses forward. Broken strokes and paper texture keep the image provisional and lively rather than polished. The composition moves in a loose circle around the table, with bottles and red accents repeating small vertical beats. No readable words appear on the visible papers or elsewhere in the selected image.",
+  "full_prompt_zh": "一幅繁忙的讽刺绘画，以一张被几位观察入微的城市人物围住的小咖啡馆餐桌为中心。一个戴深色帽、系红领带的男子正面而坐，苍白表情僵定而疲惫。旁边一位红发女子和其他同桌者各自转向不同方向，背景则塞满帽子、外套、面容和交谈。透明与有色瓶子、玻璃杯、盘子和散开的纸张立在桌上。场景嘈杂、社交距离很近，但每个人又像沉在独自的念头里。\n\n绘制迅疾而犀利，细硬的深色轮廓配合乳白、赭黄、炭灰、灰蓝与突然出现的红色水彩式斑块。面容经过有选择的夸张：棱角鼻子、紧嘴和疲惫双眼带尖刻的观察感。前景桌面相对浅淡，是拥挤上半幅下方一小片可呼吸的空间。背景人物互相重叠，化成躁动痕迹，中央面容则细节更锐。室内光弥散，压平深度，让人群向前挤来。断续笔触和纸纹让图像保持临时性和活力，而非精修。构图围着餐桌松松地旋动，瓶子和红色点反复形成短促竖向节拍。可见纸张与其他位置都没有可辨认字词。",
+  "style_prompt_en": "Wiry dark contours and quick watercolor-like patches make a densely overlapping social field. Cream, ochre, charcoal, dusty blue, and abrupt red accents sit on visible paper grain. Angular simplified shapes receive sharp detail near the center, while surrounding marks multiply and blur into a restless crowd of small forms. Diffuse indoor light keeps shadows light and compresses depth; a comparatively pale lower plane gives the packed upper area a little breathing room. Small vertical accents repeat around a loose circular arrangement. The finish is sketchy, incisive, and satirical, with broken lines and selective exaggeration supplying energy rather than polished modeling.",
+  "style_prompt_zh": "细硬深线与迅速的水彩式斑块，构成密集重叠的社交场域。乳白、赭黄、炭灰、灰蓝和突然的红色点缀落在可见纸纹上。中央附近的棱角化简形得到锐利细节，周围痕迹则增多、模糊，化为躁动的小形人群。弥散室内光让阴影轻淡并压紧深度；下方相对浅的平面给拥挤上部留一点呼吸。细小竖向点缀围绕松散环形布置反复出现。收尾草图感强、犀利而讽刺，断线和有选择的夸张提供能量，而非光滑的塑造。",
+  "theme_en": "A crowded café table in a restless city",
+  "theme_zh": "躁动城市里拥挤的咖啡馆餐桌",
+  "wh_ratio": "1:1",
+  "id": "3196",
+  "name": "George Grosz",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/george-grosz",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "dcfae5ad3ca1e54a9811451ab3ee4d89f8b2d2e5de199b5ba1199cbb2e92a6c5",
+    "gpt_submission_prompt": "A busy satirical painting centers on a small café table crowded by several sharply observed city figures. A man in a dark hat and red tie faces forward, his pale expression fixed and tired. Beside him, a red-haired woman and other seated companions turn in different directions, while a dense crowd of hats, coats, faces, and conversations fills the background. Clear and colored bottles, glasses, plates, and loose papers stand on the table. The scene feels noisy and socially close, yet each person seems absorbed in a separate thought.\n\nThe drawing is quick and incisive, with wiry dark contours and watercolor-like patches of cream, ochre, charcoal, dusty blue, and sudden red. Faces are selectively exaggerated: angular noses, compressed mouths, and weary eyes carry a biting observational tone. The foreground table is left comparatively pale, a small breathing space beneath the crowded upper field. Background figures overlap and blur into restless marks, while the central faces receive sharper detail. Light is diffuse and indoor, flattening the depth so the crowd presses forward. Broken strokes and paper texture keep the image provisional and lively rather than polished. The composition moves in a loose circle around the table, with bottles and red accents repeating small vertical beats. No readable words appear on the visible papers or elsewhere in the selected image.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "2d60cb0e7c2f8665949c10909d4397b3ebf57a0d9805dc3ecc8c0eb475f09b77",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

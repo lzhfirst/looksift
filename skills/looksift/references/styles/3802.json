@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square animation concept drawing shows a young woman beside a narrow tea table in a lightly suggested interior. She faces left in profile, standing with a slight forward lean and a curious, lively expression. A small headpiece rests on her dark hair, while a dark teal bodice and pale full apron define the upper body and broad skirt. One hand holds a small dark object near her chest; the other arm hangs closer to the table. On the left, a teapot, cups, and stacked dishes are drawn with quick, delicate lines. On the right, potted flowers and a few vertical room shapes fade into loose gray pencil marks. The woman receives the most finished attention: her face has gentle warm shading, the bodice carries a deep teal wash, and the apron has long pale folds. Her legs and shoes are indicated by fine, searching strokes rather than fully filled color. Warm white paper remains visible across most of the frame. The drawing preserves construction lines, repeated contours, and stray marks around the furniture and figure, giving it the energy of an evolving character study. Light is soft and diffuse, suggested by untouched paper and a few gray shadows beneath the table and skirt. The upright figure anchors a composition that otherwise dissolves toward its edges, and the modest teal accent focuses the eye amid white and graphite. The overall image feels graceful, animated, and unfinished in a deliberate way, balancing expressive pose with airy sketchbook texture.",
+  "full_prompt_zh": "一幅方形动画概念画中，一位年轻女子站在狭窄茶桌旁，室内环境仅被轻轻暗示。她面向左侧，身体微微前倾，神情好奇而活泼。深色头发上有小头饰，深青绿色紧身上衣和浅色宽围裙界定上身及蓬大的裙摆。一只手在胸前拿着一件小深色物品，另一只手臂靠近桌子。左侧，茶壶、杯子和叠放盘碟由快速细线画出。右侧，盆栽花朵和几道竖向室内形态淡化为松散灰色铅笔痕。女子得到最多完成度：脸有柔和暖色阴影，上衣覆以深青绿色色洗，围裙则有长长的浅色褶线。双腿和鞋子由细而反复寻找的笔触表示，而非完全填色。暖白纸面在画面大部分区域可见。画中保留结构线、重复轮廓和人物家具周围的游离痕迹，带有不断成形的人物习作能量。光线柔和漫散，由裸露纸面和桌、裙下方少量灰影暗示。直立人物稳住构图，其余部分向边缘渐渐消散；克制青绿色点缀在白色与石墨色中集中视线。整体优雅、生动，并有意保留未完成感，平衡表现性姿态与轻盈速写本肌理。",
+  "style_prompt_en": "An airy animation-concept drawing language on warm white paper. Search lines, repeated contours, and incomplete peripheral forms remain visible around a selectively finished focal area. Gray graphite strokes establish gesture and space, while a few muted teal and warm washes provide emphasis. Darker line weight gathers at expressive points; wide paper-white regions act as light and negative space. Soft diffuse illumination and minimal cast shadows keep the image open. The contrast between lively loose drafting and small refined details gives the work graceful sketchbook immediacy.",
+  "style_prompt_zh": "暖白纸上的轻盈动画概念画语言。探索线、重复轮廓和未完成外围形态围绕局部精修中心保留可见。灰色石墨笔痕建立动态与空间，少量低饱和青绿和暖色色洗形成强调。较重线条集中于有表情的焦点；宽阔纸白区域充当光和留白。柔和漫射照明与最少量投影保持画面的开放。活跃松动的草拟与细小精致处相对照，赋予作品优雅的速写本即时感。",
+  "theme_en": "A young woman in a pale apron at a small tea table",
+  "theme_zh": "一位系浅色围裙的年轻女子站在小茶桌旁",
+  "wh_ratio": "1:1",
+  "id": "3802",
+  "name": "Marc Davis",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/marc-davis",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "281468775c4f98af8b5b43274ba28f2730a49e2ea0415fd5d1fc69627c5bd483",
+    "gpt_submission_prompt": "A square animation concept drawing shows a young woman beside a narrow tea table in a lightly suggested interior. She faces left in profile, standing with a slight forward lean and a curious, lively expression. A small headpiece rests on her dark hair, while a dark teal bodice and pale full apron define the upper body and broad skirt. One hand holds a small dark object near her chest; the other arm hangs closer to the table. On the left, a teapot, cups, and stacked dishes are drawn with quick, delicate lines. On the right, potted flowers and a few vertical room shapes fade into loose gray pencil marks. The woman receives the most finished attention: her face has gentle warm shading, the bodice carries a deep teal wash, and the apron has long pale folds. Her legs and shoes are indicated by fine, searching strokes rather than fully filled color. Warm white paper remains visible across most of the frame. The drawing preserves construction lines, repeated contours, and stray marks around the furniture and figure, giving it the energy of an evolving character study. Light is soft and diffuse, suggested by untouched paper and a few gray shadows beneath the table and skirt. The upright figure anchors a composition that otherwise dissolves toward its edges, and the modest teal accent focuses the eye amid white and graphite. The overall image feels graceful, animated, and unfinished in a deliberate way, balancing expressive pose with airy sketchbook texture.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "52ac6c2c8dd6a773587e5dded35754dde434672b8bafd9873c52c174d9614e4f",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

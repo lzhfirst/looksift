@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A saturated contemporary anime illustration tightly frames a red haired young woman's face and shoulders against a bright turquoise background. Her head turns slightly to the viewer's left, yet large glassy blue gray eyes look forward with a surprised, questioning expression. Dark precise lash lines and intricate pale reflections give the eyes unusually high detail, while the small nose is defined by a crisp white highlight and the parted lips carry a muted rose red. Vivid crimson hair fills the top and both sides of the frame; short bangs break over her forehead and longer loose pieces curve around her cheeks. Brilliant white and hot pink strokes flash across the upper hair as if from a strong overhead light, while cyan edge color slips into strands on the left and lower right. A dark high neckline and a hint of red outer clothing anchor the cropped bottom, but the face remains the central event. The image mixes clean anime contour design with textured digital brushwork and a few rough chromatic edge artifacts, giving the polished features a lively hand painted finish. Strong light from above and slightly right cuts a bright shape along the nose, hair, and eye highlights, opposed by cool turquoise reflected light near the jaw. The whole frame feels immediate and electric, with close cropping and red cyan opposition intensifying an intimate expression.",
+  "full_prompt_zh": "一幅色彩饱和的当代动漫插画紧密截取一位红发年轻女性的脸与肩，背后是明亮的青绿色背景。她的头微微转向观者左侧，硕大而玻璃般的蓝灰色眼睛却看向前方，神情惊讶且带疑问。深色精确的睫毛线和复杂的浅色倒影让双眼细节格外丰富；小巧的鼻子由一道清晰白色高光界定，微张的嘴唇呈含蓄玫瑰红。鲜艳绯红头发填满顶端与两侧，短刘海落在额前，较长的松散发缕绕着脸颊弯曲。明亮白色与炽粉色笔触闪过上方发丝，像受到强烈顶光照射；青色边缘光则进入左侧和右下方的发束。深色高领与一抹红色外衣固定被裁切的下缘，但脸仍是中心。画面把干净的动漫轮廓设计与有肌理的数字笔触、少量粗糙的色边痕迹混合，让打磨过的五官仍具手绘活力。来自上方略偏右的强光在鼻梁、头发和眼睛高光上切出亮面，近下颌处有冷青色反射相对。整幅画直接而电光般鲜明，紧密取景与红青对照强化了亲近的表情。",
+  "style_prompt_en": "A saturated contemporary anime rendering with a tightly cropped focal area, polished expressive details, and painterly digital edges. Put the sharpest linework and layered reflections in a small set of focal marks, while larger surrounding masses use broader broken strokes. Drive the palette through hot crimson or magenta against vivid turquoise, with a dark anchor near the lower edge. Apply intense overhead highlights and cool edge bounce so smooth modeled planes meet sudden white flashes. Allow a little chromatic roughness at contours and stray strands or fragments to keep the image energetic rather than perfectly sterile. The composition should feel intimate and immediate, with strong complementary color tension and a clear hierarchy from detailed center to looser edges.",
+  "style_prompt_zh": "采用饱和的当代动漫渲染，以紧密裁切的焦点区域、打磨细致而有神的细节和绘画性的数字边缘为特征。把最锐利的线描与多层反光集中在少数焦点标记，大块周围色面则用更宽、更破碎的笔触。让炽热绯红或洋红对照鲜明的青绿，下缘设深色锚点。施加强烈的上方高光与冷色边缘反射，使平滑塑造的平面遭遇突然的白色闪光。轮廓附近允许少量色彩毛边、飞散丝缕或碎片，保持活力而非机械般洁净。构图应亲近而直接，具有强烈互补色张力，并从精细中心向松散边缘形成清楚的层级。",
+  "theme_en": "Red hair and luminous blue eyes",
+  "theme_zh": "红发与发亮的蓝眼",
+  "wh_ratio": "1:1",
+  "id": "3381",
+  "name": "Anime style",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/anime-style",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "5371b8252ff6d4d34893b8e06d9c6a0ed4f8a63fb7001ef9f0a6c7c6637b481e",
+    "gpt_submission_prompt": "A saturated contemporary anime illustration tightly frames a red haired young woman's face and shoulders against a bright turquoise background. Her head turns slightly to the viewer's left, yet large glassy blue gray eyes look forward with a surprised, questioning expression. Dark precise lash lines and intricate pale reflections give the eyes unusually high detail, while the small nose is defined by a crisp white highlight and the parted lips carry a muted rose red. Vivid crimson hair fills the top and both sides of the frame; short bangs break over her forehead and longer loose pieces curve around her cheeks. Brilliant white and hot pink strokes flash across the upper hair as if from a strong overhead light, while cyan edge color slips into strands on the left and lower right. A dark high neckline and a hint of red outer clothing anchor the cropped bottom, but the face remains the central event. The image mixes clean anime contour design with textured digital brushwork and a few rough chromatic edge artifacts, giving the polished features a lively hand painted finish. Strong light from above and slightly right cuts a bright shape along the nose, hair, and eye highlights, opposed by cool turquoise reflected light near the jaw. The whole frame feels immediate and electric, with close cropping and red cyan opposition intensifying an intimate expression.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "7e83edf4cb7cd62a968736cfaa6fcc707752170a2f5abb3e0cb6f8272c0a0551",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

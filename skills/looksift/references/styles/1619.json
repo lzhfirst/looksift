@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A monochrome graphite and charcoal drawing on warm ivory paper places two young women close together in an overlapping half length composition. The woman in front occupies the left side and turns her face slightly toward the viewer, her eyes looking out from beneath a wrapped headband. A thick braided section crosses above her ear and soft curled hair descends around her cheek and neck. Behind her on the right, a second woman lowers her gaze and turns away in three quarter profile, wearing a dark broad hat with a tall featherlike ornament rising beyond the top edge. Their faces are carefully modeled with delicate tonal transitions around eyelids, noses, and lips, while the hats, hair, and garments use vigorous crosshatching, smudged charcoal, and loose searching lines. The left figure's pale clothing dissolves into lightly sketched folds near the bottom; the right figure's darker shoulder gives the pair a layered depth. Around them, unfinished marks, rubbed shadows, and faint botanical or ornamental suggestions remain visible against the paper. The light is soft and diffuse from the upper left, leaving no hard cast shadow; the deepest values collect in the hat and hair and make the quiet faces glow. The whole image balances precise likeness with an unfinished, atmospheric edge, like a richly observed sketch still alive with the artist's hand.",
+  "full_prompt_zh": "一幅画在暖象牙色纸上的单色石墨与炭笔素描，将两位年轻女性紧密安排成相互叠压的半身构图。前方的女性占据左侧，脸略转向观者，目光从缠绕的头带下看出。粗辫横过耳朵上方，柔软卷发沿脸颊与颈部垂落。她身后右侧的第二位女性垂下视线，以三分之四侧面转开，戴一顶深色宽帽，帽上高高的羽状装饰延伸到画面顶边之外。两张脸通过眼睑、鼻梁与嘴唇周围细腻的明暗过渡精心塑造；帽子、头发与衣物则以有力的交叉排线、擦开的炭粉和松散的试探线条表现。左侧人物的浅色衣物在下方渐渐融入轻描的褶皱；右侧人物较暗的肩部使两人形成叠层深度。她们周围，未完成的笔迹、擦抹的阴影和若有若无的植物或装饰暗示仍显露在纸面上。柔和的漫射光从左上方进入，没有生硬投影；最深的调子聚集在帽子与头发，使安静的面庞显得发亮。整幅画在准确的形貌与未完成的氛围边缘之间取得平衡，像一张观察入微、仍带着画家手感的草图。",
+  "style_prompt_en": "A warm monochrome graphite and charcoal drawing that balances finely modeled focal planes with loose, exploratory surroundings. Use a narrow sepia gray value range on ivory paper, reserving the darkest rubbed charcoal for a few dense masses. Build delicate transitions with fine hatching and softly blended tone; let adjacent areas remain open with broken contours, crosshatched texture, erasure, and visible searching lines. Layer major forms closely so one partly veils another, creating depth without a fully rendered setting. Apply diffuse upper light that gives the palest surfaces quiet luminosity and leaves shadows soft. Keep the paper grain and imperfect hand marks present, allowing precision to dissolve gradually into unfinished atmospheric edges.",
+  "style_prompt_zh": "采用暖调单色的石墨与炭笔画法，在精细塑造的焦点平面和松散试探的周围区域之间取得平衡。在象牙色纸上使用狭窄的褐灰明度范围，只用少量厚重擦抹的炭黑形成最深色块。以细密排线和柔和晕染建立微妙过渡；相邻区域则保留断续轮廓、交叉线纹、擦除痕和可见的探索线。让主要形体紧密叠层，一个局部遮掩另一个，在没有完整背景的情况下形成深度。施以漫射的上方光，使最浅的表面安静发亮，阴影保持柔软。纸纹与不完美的手工笔迹要保留下来，让精确刻画逐渐消散于未完成的氛围边缘。",
+  "theme_en": "Two women in ornate headwear",
+  "theme_zh": "两位佩戴华丽头饰的女性",
+  "wh_ratio": "1:1",
+  "id": "1619",
+  "name": "Romulo Royo",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/romulo-royo",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/romulo-royo.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "9c00c9a30949884e26b29c7b62e067fc9c36b2f9f691ff7581c148ac6a358860",
+    "gpt_submission_prompt": "A monochrome graphite and charcoal drawing on warm ivory paper places two young women close together in an overlapping half length composition. The woman in front occupies the left side and turns her face slightly toward the viewer, her eyes looking out from beneath a wrapped headband. A thick braided section crosses above her ear and soft curled hair descends around her cheek and neck. Behind her on the right, a second woman lowers her gaze and turns away in three quarter profile, wearing a dark broad hat with a tall featherlike ornament rising beyond the top edge. Their faces are carefully modeled with delicate tonal transitions around eyelids, noses, and lips, while the hats, hair, and garments use vigorous crosshatching, smudged charcoal, and loose searching lines. The left figure's pale clothing dissolves into lightly sketched folds near the bottom; the right figure's darker shoulder gives the pair a layered depth. Around them, unfinished marks, rubbed shadows, and faint botanical or ornamental suggestions remain visible against the paper. The light is soft and diffuse from the upper left, leaving no hard cast shadow; the deepest values collect in the hat and hair and make the quiet faces glow. The whole image balances precise likeness with an unfinished, atmospheric edge, like a richly observed sketch still alive with the artist's hand.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "56917723f1f1186fff5e532f20bf6db5e0cfb286da2a87fcba67f929636c22d9",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

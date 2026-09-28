@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square decorative illustration shows two stylized terracotta-colored faces looking toward one another through dense foliage. One profile enters from the left, with a long angular nose, dark hair, and patterned marks along the neck. The other enters from the right, with dark hair drawn back, a circular blue earring, and a calm sideways gaze. Pale cream stems branch vertically between their faces, separating the pair without fully hiding either expression. Broad palm-like leaves in deep navy and muted teal rise behind and below them, while small flowers and repeated leaflets fill the gaps. The bodies are only partly visible; a decorated collar and red floral shape anchor the lower right. Flat color fields define the faces and plants, with thin darker lines incised across each surface to suggest carved or printed ornament. No realistic horizon or background room appears. Instead, the scene is an interlocking pattern of profiles, leaves, and cream negative spaces. The terracotta, navy, teal, cream, and restrained red palette creates strong warm-cool separation. Light is even and graphic, with no directional cast shadows; contrast comes from neighboring color planes and the pale branches. The faces remain the largest and simplest shapes, making the busy decoration readable. Repeated curves and sharp leaf tips create a rhythmic exchange across the central divide. The overall composition feels ceremonial and intimate, balancing bold flat silhouettes with dense handcrafted pattern.",
+  "full_prompt_zh": "一幅方形装饰性插画描绘两张赤陶色的程式化面孔隔着密集叶丛彼此相望。一张侧脸从左侧进入，鼻梁修长有棱角，头发深色，颈部带纹样标记。另一张从右侧进入，头发向后收拢，戴圆形蓝耳饰，以平静目光侧望。浅奶油色枝茎在两张脸之间竖向分叉，把两人隔开，却没有完全遮住表情。深海军蓝和低饱和青绿的大型棕榈状叶片从他们身后和下方升起，小花与重复的小叶填入空隙。身体只部分可见；装饰衣领和红色花形稳住右下方。脸和植物由平坦色域定义，较深细线像刻痕般穿过表面，暗示雕刻或印刷装饰。画面没有写实地平线或背景房间，而是侧脸、叶片和奶油色负空间相互咬合的图案。赤陶、海军蓝、青绿、奶油色及克制的红构成强冷暖分离。光均匀而图形化，没有定向投影；反差来自相邻色面与浅色枝条。面孔保持最大且最简洁的形状，让繁密装饰仍可读。重复曲线和尖锐叶端在中央分隔两侧形成有节奏的呼应。整体构图带仪式感而亲密，以大胆平面剪影平衡密集手作纹样。",
+  "style_prompt_en": "A flat decorative illustration language uses interlocking silhouettes, incised fine patterns, and repeated curving and pointed motifs. Terracotta red, deep navy, muted teal, warm cream, and small brighter red accents form a compact warm-cool palette. Broad simple focal shapes stand against densely patterned edges, while pale branching negative space keeps the composition legible. Light is even and graphic; value and adjacent color planes replace realistic shading. The surface feels carved or printed, rhythmic, handcrafted, and ceremonial.",
+  "style_prompt_zh": "平面装饰插画语言由咬合剪影、刻入般细纹样及重复的弯曲与尖角母题组成。赤陶红、深海军蓝、低饱和青绿、暖奶油色和少量亮红点缀构成紧凑冷暖配色。宽阔简洁的焦点形状对照密集纹样边缘，浅色分叉负空间维持构图可读。光均匀而图形化，以明度和相邻色面替代写实阴影。表面像雕刻或印刷品，富于节奏、手作感和仪式气息。",
+  "theme_en": "Two stylized faces looking toward one another through dense blue foliage",
+  "theme_zh": "两张程式化面孔隔着密集的蓝色叶形彼此相望",
+  "wh_ratio": "1:1",
+  "id": "0738",
+  "name": "Samoan art",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/samoan-art",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/samoan-art.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "1c46d272f95a7693dcd936ec90ab54ed28100d50ce252e70dda6125b81586845",
+    "gpt_submission_prompt": "A square decorative illustration shows two stylized terracotta-colored faces looking toward one another through dense foliage. One profile enters from the left, with a long angular nose, dark hair, and patterned marks along the neck. The other enters from the right, with dark hair drawn back, a circular blue earring, and a calm sideways gaze. Pale cream stems branch vertically between their faces, separating the pair without fully hiding either expression. Broad palm-like leaves in deep navy and muted teal rise behind and below them, while small flowers and repeated leaflets fill the gaps. The bodies are only partly visible; a decorated collar and red floral shape anchor the lower right. Flat color fields define the faces and plants, with thin darker lines incised across each surface to suggest carved or printed ornament. No realistic horizon or background room appears. Instead, the scene is an interlocking pattern of profiles, leaves, and cream negative spaces. The terracotta, navy, teal, cream, and restrained red palette creates strong warm-cool separation. Light is even and graphic, with no directional cast shadows; contrast comes from neighboring color planes and the pale branches. The faces remain the largest and simplest shapes, making the busy decoration readable. Repeated curves and sharp leaf tips create a rhythmic exchange across the central divide. The overall composition feels ceremonial and intimate, balancing bold flat silhouettes with dense handcrafted pattern.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "e6341f364eef864558e6e203dccf2be7fed78bc217353202edbf059368449918",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

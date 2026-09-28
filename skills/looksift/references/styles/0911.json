@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square lyrical picture-book illustration places a family of four in a pale gray woodland clearing beside a large white swan. A tall dark-suited adult stands at center-left facing a second adult in a mustard-yellow skirt and dark top, who holds a small white flower near the chest. Two children stand between and beside them, one dark-haired in a short coat and the other blond in a gray coat. The swan occupies the left foreground, its long curved neck rising beside the family and its broad white body reflecting softly into a watery surface. Thin tree trunks, long grasses, white blossoms, and scattered yellow petals fill the surrounding clearing. The background is layered in charcoal, dove gray, cream, and misty olive, with no sharp horizon. The people are simplified into small flat shapes and minimal faces, while foliage is created by small gouache dabs, thin scratch marks, and pale paper gaps. Mustard yellow accents repeat in skirt, flowers, and leaves, punctuating the restrained gray world. Light feels diffuse and cool, as though filtered through fog, but the whites of swan and flowers glow gently. The scene is still, intimate, and slightly dreamlike, with family, water, and woodland interwoven in one decorative field.",
+  "full_prompt_zh": "一幅方形抒情图画书插画把四口之家置于浅灰树林空地，身旁是一只大白天鹅。中左一位高挑深西装成人面向另一位穿芥黄裙、深上衣的成人，后者在胸前拿一朵小白花。两个孩子站在中间及身侧，一位深发穿短外套，另一位金发穿灰大衣。天鹅占左前景，长弯颈在家庭旁升起，宽白身体柔和地映在水面。细树干、长草、白花和散落黄花瓣填满周围空地。背景由炭灰、鸽灰、奶油与雾橄榄色层叠，没有硬地平线。人物简化为小平面形和极少面部标记，枝叶则由水粉小点、细刮痕和浅纸白缝构成。芥黄点缀在裙、花和叶中重复，刺破克制灰色世界。光冷而漫散，仿佛经过雾过滤，天鹅与花的白仍柔和发亮。场景静止、亲密且略有梦境感，家庭、水和林地交织成一片装饰场域。",
+  "style_prompt_en": "Lyrical picture-book gouache with simplified flat silhouettes, slender vertical botanical lines, scattered petal dabs, and layered mist-gray washes. A restrained palette of charcoal, dove gray, cream, olive, and small mustard-yellow accents creates gentle rhythm. Soft page light allows white shapes to glow without cast-shadow realism. Textured brush marks and fine scratches weave foreground and background into one quiet decorative plane.",
+  "style_prompt_zh": "抒情图画书水粉，以简化平面剪影、纤细竖向植物线、散落花瓣点和层叠雾灰洗染组成。炭灰、鸽灰、奶油、橄榄与少量芥黄构成克制节奏。柔纸面光使白形发亮而无需写实投影。纹理笔点与细刮痕把前后景织成安静装饰平面。",
+  "theme_en": "A family standing with a white swan in a flowering gray woodland",
+  "theme_zh": "一个家庭与白天鹅站在开花的灰色树林中",
+  "wh_ratio": "1:1",
+  "id": "0911",
+  "name": "Isabelle Arsenault",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/isabelle-arsenault",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/isabelle-arsenault.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "ef2a8e5e793c04e0197216d602aef1fc8bbde4cef5aed8866b62089a09a43f44",
+    "gpt_submission_prompt": "A square lyrical picture-book illustration places a family of four in a pale gray woodland clearing beside a large white swan. A tall dark-suited adult stands at center-left facing a second adult in a mustard-yellow skirt and dark top, who holds a small white flower near the chest. Two children stand between and beside them, one dark-haired in a short coat and the other blond in a gray coat. The swan occupies the left foreground, its long curved neck rising beside the family and its broad white body reflecting softly into a watery surface. Thin tree trunks, long grasses, white blossoms, and scattered yellow petals fill the surrounding clearing. The background is layered in charcoal, dove gray, cream, and misty olive, with no sharp horizon. The people are simplified into small flat shapes and minimal faces, while foliage is created by small gouache dabs, thin scratch marks, and pale paper gaps. Mustard yellow accents repeat in skirt, flowers, and leaves, punctuating the restrained gray world. Light feels diffuse and cool, as though filtered through fog, but the whites of swan and flowers glow gently. The scene is still, intimate, and slightly dreamlike, with family, water, and woodland interwoven in one decorative field.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "b77646785d21c1c252fb1da21047a9c4f68521eccd9998902efca9d9b723f0dc",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

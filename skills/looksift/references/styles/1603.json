@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A high clarity landscape photograph shows a shallow mountain pool winding between dark boulders and dense cushions of yellow green moss. The viewpoint sits low beside a large moss covered rock that fills the lower right foreground, its rounded surface catching the last warm light while the water beside it falls into deep blue shadow. Across the middle distance, smaller moss islands and exposed stones break up the still pool, and the water reflects both the pink orange opening in the sky and the darker clouds above. On the left, a nearly black rock wall slopes down toward the water and frames the luminous horizon. To the right, a serrated mountain ridge rises sharply from a stony valley, its faces showing muted brown and gray planes beneath a heavy blue gray cloud bank. The ridge and its reflection anchor the center of the view without flattening the depth created by the stepping stones. Fine moss texture, wet stone edges, and the glasslike reflection remain distinct, while the far slopes soften slightly in atmospheric distance. Warm sunset light enters from the left and grazes the vegetation, contrasting with the cool shaded water and clouded peaks. The whole frame balances intimate foreground texture with a vast, stormy mountain backdrop in a restrained natural color palette.",
+  "full_prompt_zh": "一幅高清晰度风景摄影呈现一汪浅浅的山间水池，池水在深色巨石与浓密的黄绿色苔藓团之间蜿蜒。视点贴近右下方一块巨大的覆苔岩石，圆润的表面承接最后一抹暖光，旁边的水面则沉入深蓝色阴影。中景里，较小的苔藓小岛与裸露石块将静水分开；水面同时倒映天空中粉橙色的亮口与上方更暗的云层。左侧，一面近乎黑色的岩壁朝水边倾斜，为发光的地平线构成边框。右侧，锯齿状山脊从石质山谷陡然升起，峰面在厚重的蓝灰云层下呈现含蓄的褐色与灰色层面。山脊及其倒影稳住画面中心，也保留了踏石形成的纵深。细密的苔藓质感、潮湿石缘和玻璃般的倒影都清楚可辨，而远处山坡因空气透视略微柔化。日落暖光自左侧射入，轻擦植被，与阴凉的水面及多云的山峰形成冷暖对照。整幅画面以克制的自然色彩，将亲近的前景肌理与辽阔而阴郁的山岳背景平衡在一起。",
+  "style_prompt_en": "A high clarity landscape photographic treatment built on low viewpoint, strong foreground anchoring, and layered atmospheric distance. Give nearby surfaces tactile microtexture and a measured sheen, then let reflected shapes lead the eye toward a distant serrated silhouette. Preserve a broad range from nearly black shadow to a narrow band of glowing warm sky, with cool blue gray masses holding most of the frame. Light should skim selected raised forms from one side and leave adjacent recesses rich and dark. Keep reflections calm and legible, edge detail crisp in the foreground, and far forms gently softened by haze. Use restrained natural color and a spacious, storm charged mood, closing the composition with a quiet balance between small material detail and monumental scale.",
+  "style_prompt_zh": "采用高清晰度风景摄影处理，以低视点、鲜明的前景锚点和分层的空气透视构图。近处表面保留可触的微细肌理与适度湿润光泽，让倒映的形状引导视线通向远方的锯齿状轮廓。保持从近乎黑色的阴影到一条温暖发光天空的宽广明度范围，画面主体由冷蓝灰色块支撑。侧光轻擦局部凸起的形体，使相邻凹处维持浓郁暗度。倒影应平静而清楚，前景边缘锐利，远处形态则被薄雾轻柔削弱。使用克制的自然色彩和开阔、暴风雨将至的气息，让细小的物质质感与宏大的尺度在画面中安静平衡。",
+  "theme_en": "Mossy mountain pool at sunset",
+  "theme_zh": "日落时分的苔石山池",
+  "wh_ratio": "1:1",
+  "id": "1603",
+  "name": "Erez Marom",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/erez-marom",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/erez-marom.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "a553cb5cc5ad9906621574dcedd916954d7b0d6411adf2a8009e1b8713b15cef",
+    "gpt_submission_prompt": "A high clarity landscape photograph shows a shallow mountain pool winding between dark boulders and dense cushions of yellow green moss. The viewpoint sits low beside a large moss covered rock that fills the lower right foreground, its rounded surface catching the last warm light while the water beside it falls into deep blue shadow. Across the middle distance, smaller moss islands and exposed stones break up the still pool, and the water reflects both the pink orange opening in the sky and the darker clouds above. On the left, a nearly black rock wall slopes down toward the water and frames the luminous horizon. To the right, a serrated mountain ridge rises sharply from a stony valley, its faces showing muted brown and gray planes beneath a heavy blue gray cloud bank. The ridge and its reflection anchor the center of the view without flattening the depth created by the stepping stones. Fine moss texture, wet stone edges, and the glasslike reflection remain distinct, while the far slopes soften slightly in atmospheric distance. Warm sunset light enters from the left and grazes the vegetation, contrasting with the cool shaded water and clouded peaks. The whole frame balances intimate foreground texture with a vast, stormy mountain backdrop in a restrained natural color palette.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "03478327effd569d8122ef7a5013e7f8c4b579719f0ff6c773b315365190abb9",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

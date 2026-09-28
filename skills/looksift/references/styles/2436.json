@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square comic illustration shows a startled bespectacled man before a wall crowded with colorful comic panels. His head and shoulders fill the center and lower half, seen from a slightly low angle that enlarges his nose and round eyes. Messy black hair rises in loose spikes, and thick-rimmed glasses frame two very wide pale blue eyes looking upward. His mouth hangs slightly open, making the expression anxious and surprised. A red shirt appears at the lower left and right edges. Behind him, rectangular panels are packed edge to edge across the wall. They contain tiny energetic figures, faces, bursts, and abstract action marks in yellow, orange, blue, purple, teal, and red, but their small printed words are not clearly legible. Some panels are narrow horizontal strips, while others are taller rectangles, creating an irregular grid around the central head. Heavy black ink outlines define the man's features and every comic compartment; finer hatching models cheeks, glasses, hair, and the crowded background. Skin is warm peach with mauve shadows and sharp cream highlights. Bright even light keeps the face readable, though the eye sockets and underside of the nose have strong cartoon shadows. The background is visually noisy, but the man's enlarged pale eyes and broad face provide a clear focal rest. The overall composition is frantic and humorous, using exaggerated anatomy and a mosaic of small stories to surround a single bewildered reaction.",
+  "full_prompt_zh": "这是一幅方形漫画插画，一位戴眼镜、受惊的男子站在挤满彩色漫画画格的墙前。他的头和肩填满中央与下半部，从略低视角观看，使鼻子与圆眼显得更大。凌乱黑发松松竖起，粗框眼镜围住两只向上看的浅蓝大眼。嘴微张，表情焦虑而惊讶。红上衣在下方左右边缘露出。身后，矩形画格在墙上边挨边排列，里面挤满极小的动态人物、面容、爆炸形与抽象动作痕迹，颜色有黄、橙、蓝、紫、青绿和红，但微小印刷字难以清楚辨读。有些画格是窄横条，另一些是更高矩形，在中央头部周围构成不规则网格。厚黑墨线界定男子的五官与每个漫画隔间；更细的排线为面颊、眼镜、头发和拥挤背景塑形。肤色为暖桃色，带淡紫阴影与锐利奶油色高光。明亮均匀的光让脸可读，眼窝和鼻下仍保留强烈卡通阴影。背景在视觉上嘈杂，但男子放大的浅色眼睛与宽脸提供清楚焦点停顿。整体构图狂乱而幽默，以夸张解剖与小故事的马赛克围绕一个不知所措的反应。",
+  "style_prompt_en": "The comic-art style uses thick irregular black outlines, energetic crosshatching, and saturated colors separated into many small high-contrast regions. Peach and cream highlights sit against mauve, blue, yellow, red, and deep black ink. Focal forms are exaggerated and strongly legible, while background fragments multiply into a restless grid of miniature marks. Ink line weight shifts from bold contour to scratchy interior shading, giving the printed surface a handmade edge. Lighting is broadly even but cartoon shadows remain sharp around recesses and overlaps. Crowded detail is controlled by a few large pale shapes that anchor the composition. The result is frenetic, funny, and highly expressive.",
+  "style_prompt_zh": "这种漫画画风使用粗而略不规则的黑轮廓、活跃交叉排线和被划分成许多高对比小区的饱和色彩。桃色与奶油高光置于淡紫、蓝、黄、红和浓黑墨色前。焦点形体经过夸张，清楚可读，背景碎片则倍增为不安定的微型笔痕网格。墨线线宽从大胆外轮廓变化到刮擦般内部阴影，使印刷表面带手工边缘。光大体均匀，但凹处和重叠处的卡通阴影仍锐利。拥挤细节由少数大块浅色形状稳住。效果狂热、有趣，表情极强。",
+  "theme_en": "A startled bespectacled man before a wall of chaotic comics",
+  "theme_zh": "一位戴眼镜的惊讶男子站在混乱漫画墙前",
+  "wh_ratio": "1:1",
+  "id": "2436",
+  "name": "Peter Bagge",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/peter-bagge",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/peter-bagge.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "a096738f3a5c937ed9d539b3b3e18388851d607a873fe95d730d2617c4a33f49",
+    "gpt_submission_prompt": "A square comic illustration shows a startled bespectacled man before a wall crowded with colorful comic panels. His head and shoulders fill the center and lower half, seen from a slightly low angle that enlarges his nose and round eyes. Messy black hair rises in loose spikes, and thick-rimmed glasses frame two very wide pale blue eyes looking upward. His mouth hangs slightly open, making the expression anxious and surprised. A red shirt appears at the lower left and right edges. Behind him, rectangular panels are packed edge to edge across the wall. They contain tiny energetic figures, faces, bursts, and abstract action marks in yellow, orange, blue, purple, teal, and red, but their small printed words are not clearly legible. Some panels are narrow horizontal strips, while others are taller rectangles, creating an irregular grid around the central head. Heavy black ink outlines define the man's features and every comic compartment; finer hatching models cheeks, glasses, hair, and the crowded background. Skin is warm peach with mauve shadows and sharp cream highlights. Bright even light keeps the face readable, though the eye sockets and underside of the nose have strong cartoon shadows. The background is visually noisy, but the man's enlarged pale eyes and broad face provide a clear focal rest. The overall composition is frantic and humorous, using exaggerated anatomy and a mosaic of small stories to surround a single bewildered reaction.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "81405c3a7a02c7dc41d6a879ff0762f536864f08eee689a43fa5ee2dcffea479",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

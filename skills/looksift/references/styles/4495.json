@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white fashion photograph stages a tall woman in a long fitted black coat and high heels beside a glossy vintage automobile. She stands at the left of the car's front quarter, one gloved hand raised near her face, body elongated and perfectly still. A broad black hat frames a pale face with dark lips and eyes. The car's rounded fender, chrome grille, headlamp, and polished hood occupy the center-right, catching silver reflections. Another vehicle and a sequence of pale arches recede behind her, establishing an elegant old-world street. The pavement and a bright patch at lower left provide a luminous base beneath the black outfit. Lighting is high contrast but controlled, with soft daylight reflecting across metal while the coat remains a near-solid dark silhouette. The composition combines long vertical posture with the car's sweeping curves and repeated arch shapes. Grain is fine, surfaces are crisp, and the tonal range reaches from rich black to bright silver-white. The scene feels deliberately glamorous and cinematic, yet the background remains understated enough that hat, glove, car chrome, and stance carry the image. No readable signs or logos are central to the composition.",
+  "full_prompt_zh": "一张方形黑白时装照片在一辆光亮老式汽车旁安排一位高挑女性，穿修身长黑外套与高跟鞋。她站在车前侧左边，一只戴手套的手抬到脸附近，身体拉长而完全静止。宽黑帽框住浅脸，唇与眼色深。汽车圆润挡泥板、镀铬格栅、车灯和擦亮的引擎盖占据中央偏右，接住银色倒影。另一辆车和连续浅色拱廊在她身后退远，构成优雅旧城街景。铺地和左下亮区在黑衣之下形成发光底座。光照反差高却受控，柔日光在金属上反射，外套则近乎完整深剪影。构图结合细长竖向姿态、汽车舒展曲线和重复拱形。颗粒细，表面清晰，调子从丰厚黑延伸到明亮银白。场景有意华丽且有电影感，但背景足够克制，由帽、手套、车铬件和站姿承担画面。可读标识或商标并非构图重点。",
+  "style_prompt_en": "High-contrast monochrome editorial photography with elongated vertical silhouette, polished sweeping curves, repeated pale arches, and rich silver reflections. Near-solid black fabric opposes glossy metal and luminous pavement. Controlled daylight preserves sharp local detail and fine grain while the overall pose remains sculpturally still. Glamour emerges through tonal precision and spare geometric staging.",
+  "style_prompt_zh": "高反差单色编辑摄影，以拉长的竖向剪影、擦亮舒展曲线、重复浅拱和丰厚银色反射构成。近乎纯黑布面与光亮金属及发光铺地相对。受控日光保留局部锐利细节和细颗粒，整体姿态雕塑般静止。华丽感来自精确调子与稀疏几何布置。",
+  "theme_en": "A black-clad fashion figure beside a glossy vintage car",
+  "theme_zh": "一位黑衣时装人物站在光亮老式汽车旁",
+  "wh_ratio": "1:1",
+  "id": "4495",
+  "name": "Helmut Newton",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/helmut-newton.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "15eda447f6067dcd8fa7cd114556279dd33f7732378d238c747b0e95757dc04f",
+    "gpt_submission_prompt": "A square black-and-white fashion photograph stages a tall woman in a long fitted black coat and high heels beside a glossy vintage automobile. She stands at the left of the car's front quarter, one gloved hand raised near her face, body elongated and perfectly still. A broad black hat frames a pale face with dark lips and eyes. The car's rounded fender, chrome grille, headlamp, and polished hood occupy the center-right, catching silver reflections. Another vehicle and a sequence of pale arches recede behind her, establishing an elegant old-world street. The pavement and a bright patch at lower left provide a luminous base beneath the black outfit. Lighting is high contrast but controlled, with soft daylight reflecting across metal while the coat remains a near-solid dark silhouette. The composition combines long vertical posture with the car's sweeping curves and repeated arch shapes. Grain is fine, surfaces are crisp, and the tonal range reaches from rich black to bright silver-white. The scene feels deliberately glamorous and cinematic, yet the background remains understated enough that hat, glove, car chrome, and stance carry the image. No readable signs or logos are central to the composition.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "557d0d8ace75cfc9241e297e7e96bdabce4e737136bb38caf28590df10b301c5",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

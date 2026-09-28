@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square color studio photograph shows a young woman in left-facing profile, wrapped in a deep black hood against a muted green-gray background. The image is cropped from the upper head to the shoulders, and the hood forms a large smooth arc that fills most of the right half. Her face projects into the quieter left side, with a clean line from forehead to nose, lips, and chin. Pale warm skin catches a soft side light, bringing out the cheek and eyelid while leaving the far side hidden by the fabric. Her dark brow and long lashes are visible above a lowered gaze. A small touch of saturated red lipstick is the strongest color in the frame. The hood gathers tightly beneath the jaw and falls around the neck in several matte folds, with one small reflective fastening or bead near the lower center. Behind her, the background has a gentle green-gray gradient, darker toward the right and lighter behind the face. No room details or props are visible. Soft studio light enters from the upper left, shaping the cheek and bridge of the nose without a hard cast shadow; the black fabric absorbs most of the light and remains a broad near-silhouette. Fine photographic grain gives the smooth tonal fields a subtle tactile finish. The head is slightly tilted and the expression inward, making the simple profile feel attentive rather than posed for display. The overall composition uses one pale lit contour, a tiny red accent, and a large black mass to create quiet elegance and restraint.",
+  "full_prompt_zh": "这幅方形彩色影棚照片呈现一位年轻女子朝左侧身，裹着深黑头巾，背景是低调绿灰色。画面从头顶裁到肩部，头巾形成一片大而平滑的弧形，占据右半部大多数区域。她的面孔伸向较安静的左侧，从前额到鼻、唇、下巴形成干净的侧影线。浅暖皮肤承接柔和侧光，照出脸颊与眼睑，远侧则被布料遮住。低垂目光上方可见深眉和长睫毛。一点饱和红唇是全幅最强色彩。头巾在下颌下紧紧聚拢，沿脖颈落成几道哑光褶纹，下方中央附近有一粒小反光扣饰或珠子。身后背景是柔和绿灰渐层，右侧更暗，脸后更亮。看不到房间细节或道具。影棚柔光从左上进入，塑出脸颊和鼻梁，没有硬投影；黑布吸收大部分光，保持宽阔近剪影。细摄影颗粒给平滑调子色域轻微可触表面。头略倾，神情内向，让简单侧影显得专注而非刻意展示。整体构图用一道浅色亮轮廓、一点红色重音和大片黑色，形成安静的优雅与克制。",
+  "style_prompt_en": "The color photograph is spare and carefully lit, built from a large near-black matte field, muted green-gray ground, pale warm highlights, and one tiny saturated red accent. Soft side illumination makes a single curved boundary luminous while inner folds and the far edge sink into darkness. Smooth tonal transitions keep the focus delicate, and fine grain prevents the broad quiet areas from looking sterile. The crop is close, but generous negative space remains in the direction of the focal contour. The composition feels poised and restrained because color, light, and silhouette are each used sparingly.",
+  "style_prompt_zh": "这种彩色摄影简净且照明谨慎，由大片近黑哑光色域、低调绿灰底、浅暖高光和一点饱和红色重音构成。柔和侧光让一道曲线边界发亮，内部折处和远侧边缘则沉入黑暗。平滑调子过渡保持焦点纤细，细颗粒让宽阔安静区域不显冷硬。裁切亲近，但焦点轮廓所指方向仍有充足留白。构图因色彩、光与剪影都用得节制而显得从容克制。",
+  "theme_en": "A black-hooded woman in profile against a muted green-gray ground",
+  "theme_zh": "一位戴黑头巾的女子在低调绿灰背景前侧身",
+  "wh_ratio": "1:1",
+  "id": "3047",
+  "name": "Milton H. Greene",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/milton-h-greene",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "e4dec27caf97ea081d782a58b43ce9e5dc73e47019e987261eb0de34c047ec26",
+    "gpt_submission_prompt": "A square color studio photograph shows a young woman in left-facing profile, wrapped in a deep black hood against a muted green-gray background. The image is cropped from the upper head to the shoulders, and the hood forms a large smooth arc that fills most of the right half. Her face projects into the quieter left side, with a clean line from forehead to nose, lips, and chin. Pale warm skin catches a soft side light, bringing out the cheek and eyelid while leaving the far side hidden by the fabric. Her dark brow and long lashes are visible above a lowered gaze. A small touch of saturated red lipstick is the strongest color in the frame. The hood gathers tightly beneath the jaw and falls around the neck in several matte folds, with one small reflective fastening or bead near the lower center. Behind her, the background has a gentle green-gray gradient, darker toward the right and lighter behind the face. No room details or props are visible. Soft studio light enters from the upper left, shaping the cheek and bridge of the nose without a hard cast shadow; the black fabric absorbs most of the light and remains a broad near-silhouette. Fine photographic grain gives the smooth tonal fields a subtle tactile finish. The head is slightly tilted and the expression inward, making the simple profile feel attentive rather than posed for display. The overall composition uses one pale lit contour, a tiny red accent, and a large black mass to create quiet elegance and restraint.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "6d0691d1a9d6e0fd332e6d233422b9e49b929c367cad956c0f4b84e329d8c0a3",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

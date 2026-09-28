@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square Art Nouveau illustration centers a seated young woman inside a large circular ornamental frame. The surrounding field is filled with intricate amber, olive, and teal foliage, organized into repeated curls and nested borders rather than open background. She is shown in left profile, her pale face turned toward the left edge and her chin resting lightly on one hand. Her blond hair is gathered in a loose braided bun, with a few fine strands framing the cheek and neck. A soft cream blouse has gathered sleeves and a deep neckline; dark green fabric folds over her bent knees and spreads across the lower center. The round frame closely surrounds her upper body, and golden rosette shapes repeat behind her head and along the inner ring. At each corner, smaller leaves and curling stems fill the space between circle and square. Dark outlines clarify the profile, fabric folds, and ornament without removing the image's muted softness. The printed surface carries fine grain and slight aging, particularly in the warm beige ground and the olive areas. Light is flat and decorative rather than directional, though pale highlights on the face, blouse, and gold motifs separate them from darker green passages. The eye moves around the circular border, then returns to the quiet face and folded figure. The overall composition joins a contemplative human presence to dense botanical pattern through a balanced circle, subdued jewel colors, and delicate flowing lines.",
+  "full_prompt_zh": "一幅方形新艺术风格插画将坐着的年轻女子置于大型圆形装饰框内。四周铺满琥珀、橄榄绿与青绿色的细密叶饰，组织成反复卷曲和嵌套边框，而非敞开的背景。女子以左侧面示人，浅色的脸转向画面左缘，下巴轻轻托在一只手上。金发挽成松散的辫髻，几缕细发沿脸颊与脖颈垂落。柔软的奶油色上衣有收拢的袖子和较深的领口；深绿色织物覆过弯曲的双膝，铺向下方中央。圆框紧紧围住她的上身，金色花盘形在头后和内圈重复。四角较小的叶片和卷枝填满圆与方之间的空间。深色勾线澄清侧脸、衣褶与纹饰，却不夺走画面的柔和暗调。印刷表面带有细微颗粒与轻度陈旧感，在暖米色底和橄榄绿区域尤其明显。光线平而偏装饰性，没有强烈方向，但脸、上衣及金色纹样上的浅亮使其从深绿部分分离出来。视线绕圆形边框移动，再回到安静的脸与蜷坐身形。整体构图借均衡的圆形、收敛的宝石色与精巧流线，将沉思的人物与密集的植物纹样连接。",
+  "style_prompt_en": "Decorative illustration relies on long sinuous contours, nested circular organization, and finely repeated arabesques abstracted into curling lines and tapered motifs. Thin dark outlines hold soft matte color areas together, while small internal hatching and aged print grain add tactile variation. Amber gold, olive, deep green, muted teal, and warm cream form a subdued jewel palette. Illumination is even and graphic, with small pale areas creating emphasis rather than a realistic cast shadow. A dense border encloses a quieter central space, making ornament and visual rest alternate in a deliberate rhythm. The result is elegant, intimate, and richly patterned.",
+  "style_prompt_zh": "装饰性插画依靠悠长蜿蜒的轮廓、嵌套圆形组织，以及抽象为卷线和渐尖纹样的细密重复曲饰。纤细深色勾线将柔和哑光色面系在一起，内部的小排线与陈旧印刷颗粒增添触感变化。琥珀金、橄榄绿、深绿、暗青绿和暖奶油色组成收敛的宝石色域。照明均匀且图形化，小块浅亮用于强调，而非形成写实投影。密集边框围出较安静的中央空间，使纹饰与视觉休息按刻意节奏交替。整体优雅、亲密而纹样丰厚。",
+  "theme_en": "A seated woman within a circular floral Art Nouveau ornament",
+  "theme_zh": "坐在圆形花卉新艺术纹饰中的女子",
+  "wh_ratio": "1:1",
+  "id": "4049",
+  "name": "Art Nouveau",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/art-nouveau.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "11dcc062059378641d14c3abf04b05674844eefe180484755259140c50ae56d5",
+    "gpt_submission_prompt": "A square Art Nouveau illustration centers a seated young woman inside a large circular ornamental frame. The surrounding field is filled with intricate amber, olive, and teal foliage, organized into repeated curls and nested borders rather than open background. She is shown in left profile, her pale face turned toward the left edge and her chin resting lightly on one hand. Her blond hair is gathered in a loose braided bun, with a few fine strands framing the cheek and neck. A soft cream blouse has gathered sleeves and a deep neckline; dark green fabric folds over her bent knees and spreads across the lower center. The round frame closely surrounds her upper body, and golden rosette shapes repeat behind her head and along the inner ring. At each corner, smaller leaves and curling stems fill the space between circle and square. Dark outlines clarify the profile, fabric folds, and ornament without removing the image's muted softness. The printed surface carries fine grain and slight aging, particularly in the warm beige ground and the olive areas. Light is flat and decorative rather than directional, though pale highlights on the face, blouse, and gold motifs separate them from darker green passages. The eye moves around the circular border, then returns to the quiet face and folded figure. The overall composition joins a contemplative human presence to dense botanical pattern through a balanced circle, subdued jewel colors, and delicate flowing lines.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "f3da2688f13388976c7a96916f2b764d50d4b1321c37bfb6784e7fbe6aaa3cd8",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

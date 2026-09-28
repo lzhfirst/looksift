@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square geometric painting places a red-haired woman in a bright rust-red dress across the center of a whimsical city scene. She is shown in side profile, looking upward to the right with her chin raised. One arm extends back toward the left and the other hand gathers her full skirt near her hip. Her dark boots and legs form a long walking stride, with one foot lifted. The dress opens into broad flowing red, orange, and deep blue folds that dominate the lower middle of the frame. Behind her, stacked pale buildings and several pointed towers rise on both sides. A tall tower stands just to her right, with a peaked roof and repeated windows; thinner spires punctuate the left skyline. Small birds cross a patch of saturated blue sky near her head. The city is not rendered as realistic space: buildings tilt and overlap, while enormous nested arcs in cobalt, turquoise, mustard, violet, and dark teal loop around the woman and architecture. Angular fragments at the bottom echo the towers and divide the ground into mosaic-like planes. The colors are saturated but controlled, with warm oranges and reds pressed against cool blue and green. Crisp edges, subtle speckled paint grain, and smoothly shaded areas coexist. The woman's sweeping pose and the circular bands give the still image the feeling of forward motion, while the repeated spires keep the design compact.",
+  "full_prompt_zh": "一幅方形几何绘画把一名身穿明亮锈红色连衣裙的红发女子置于奇想城市画面中央。她侧身向右，抬起下巴望向上方。一只手臂向左后方伸出，另一只手在臀边提起宽阔裙摆。深色靴子和双腿构成大步行走的长姿态，一只脚离地。裙子展开成宽大的红、橘和深蓝褶面，占据下方中部。她身后，层叠的浅色建筑与数座尖塔从两侧升起。右手边一座高塔有尖顶和重复窗洞；左侧天际线上则点着更细的尖塔。小鸟飞过头部附近一片饱和蓝天。城市并非写实空间：建筑倾斜交叠，巨大的钴蓝、青绿、芥黄、紫色和深青弧带围绕人物与建筑层层套叠。底部的棱角碎片呼应尖塔，把地面切成马赛克状平面。颜色饱和却有节制，暖橘红紧贴冷蓝绿。利落边缘、轻微斑点颜料颗粒与平滑塑形共存。女子舒展的姿态和环形色带让静止画面仿佛向前运动，而重复尖塔又使设计保持紧凑。",
+  "style_prompt_en": "Build a vivid, cubist-like graphic painting from nested arcs, tilted geometric planes, and overlapping simplified forms. Let a dynamic diagonal or sweeping pose cross a compact square design while broad circular bands bind the pieces together. Use saturated rust red, orange, mustard, cobalt, turquoise, violet, and deep teal, arranging warm and cool zones in alternating pulses. Edges stay crisp, yet light speckled grain and gentle modeling stop the color from feeling like pure vector art. Layer pointed vertical accents against curved fields to create motion and rhythm. Depth comes through scale changes, overlap, and selective shadows rather than strict perspective. The transferable effect is buoyant, theatrical, and intricately ordered: expressive motion held inside a tessellated color structure.",
+  "style_prompt_zh": "用层层套叠的弧线、倾斜几何平面与重叠的简化形状构建鲜艳的类立体主义图形绘画。让动态斜线或舒展姿态穿过紧凑方形构图，同时用宽阔环形色带把碎片收拢。使用饱和的锈红、橘、芥黄、钴蓝、青绿、紫和深青色，让冷暖区域交替起伏。边缘保持利落，但轻微斑点颗粒和柔和塑形避免颜色像纯矢量图。尖锐竖向重点叠在曲面色场前，制造运动与节奏。纵深来自尺度变化、重叠和选择性阴影，而非严格透视。可迁移的效果轻盈、富舞台感且精密有序：表现性运动被嵌合色彩结构稳稳容纳。",
+  "theme_en": "A red-haired woman strides through a colorful tower-filled city",
+  "theme_zh": "红发女子大步穿过一座彩色尖塔城市",
+  "wh_ratio": "1:1",
+  "id": "1860",
+  "name": "Georgy Kurasov",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/georgy-kurasov",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/georgy-kurasov.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "036c2005221330fa34279402bdffbd0072a0c1e9f1a1410cf2add24529c9cd1b",
+    "gpt_submission_prompt": "A square geometric painting places a red-haired woman in a bright rust-red dress across the center of a whimsical city scene. She is shown in side profile, looking upward to the right with her chin raised. One arm extends back toward the left and the other hand gathers her full skirt near her hip. Her dark boots and legs form a long walking stride, with one foot lifted. The dress opens into broad flowing red, orange, and deep blue folds that dominate the lower middle of the frame. Behind her, stacked pale buildings and several pointed towers rise on both sides. A tall tower stands just to her right, with a peaked roof and repeated windows; thinner spires punctuate the left skyline. Small birds cross a patch of saturated blue sky near her head. The city is not rendered as realistic space: buildings tilt and overlap, while enormous nested arcs in cobalt, turquoise, mustard, violet, and dark teal loop around the woman and architecture. Angular fragments at the bottom echo the towers and divide the ground into mosaic-like planes. The colors are saturated but controlled, with warm oranges and reds pressed against cool blue and green. Crisp edges, subtle speckled paint grain, and smoothly shaded areas coexist. The woman's sweeping pose and the circular bands give the still image the feeling of forward motion, while the repeated spires keep the design compact.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "140d1fc7900069d3532f221db064908e0d7a0572bf5b20916e857fc3fc41e66d",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

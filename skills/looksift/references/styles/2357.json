@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square fantasy ink-and-wash illustration encloses a small timber dwelling within an immense frame of tangled trees and roots. The image has a narrow decorative border in warm ivory, but the scene inside is dominated by deep charcoal, sepia, and pale blue-gray linework. Thick trunks rise along both sides, their bark splitting into knotted grooves and hollow openings. Across the top, heavy branches and hanging roots form a dark arch that leaves only a slender opening to a layered cloudy sky. In the center distance, a modest peaked-roof house stands behind an uneven clearing, with a low porch and fine supports visible beneath its eaves. A tiny dark figure near the lower middle gives scale to the surrounding trunks. The ground twists into exposed roots, stones, and short strokes of vegetation, leading inward toward the house. Other small tree forms recede behind it, rendered with progressively lighter and finer marks. Almost every surface contains dense hatching, contour lines, and tiny ornamental curls, yet the sky and central clearing provide needed breathing space. The tree frame is nearly black at its deepest points, while the middle distance remains washed in gray-blue and tan. Soft light filters from the open sky, lifting the house and distant clouds; the enclosing roots and canopy retain deep shadow. The overall composition feels like a view through a carved portal, balancing intricate dark edges against a quiet, miniature center.",
+  "full_prompt_zh": "这是一幅方形奇幻墨线与淡彩插画，一间小木屋被巨大缠绕的树木与树根围住。图像有一圈窄窄的暖象牙色装饰边，但内部场景由深炭色、棕褐色和浅蓝灰线描主导。粗树干沿两侧升起，树皮裂成打结沟槽与空洞。上方重枝与悬垂根须结成暗拱，只为层叠云天留下一道细窄开口。中远景一间朴素尖顶小屋立在不平的空地后方，低矮门廊和屋檐下的细支柱可见。下方中部附近一个极小的深色人影标示周围树干的尺度。地面扭成裸根、石块和短促植被线痕，引向屋内。其后更小的树形逐渐退远，用越来越浅、越来越细的笔痕绘出。几乎每个表面都有密集排线、轮廓线和细小装饰卷曲，但天空与中央空地留出了必要的呼吸空间。树木框架最深处近乎黑色，中景则浸在灰蓝和浅棕色中。柔光从开阔天空滤下，提亮小屋与远云；围拢的树根和树冠仍保留深影。整体构图如透过雕刻门廊观看，以繁复深色边缘平衡安静而微小的中心。",
+  "style_prompt_en": "The illustration has a densely engraved ink-and-wash character, with intricate hatching, knotted contour lines, and small ornamental curls layered over muted color. Charcoal and warm sepia masses form a heavy enclosing edge, while pale blue-gray and ivory open into a quieter center. Fine marks follow the direction of each surface, creating tactile barklike ridges and stony irregularity without smooth gradient modeling. Dark silhouettes overlap lighter distant planes, and a narrow opening of diffuse light draws the eye through the compact space. The borders are exceptionally detailed, but the interior contains enough open value to keep the structure readable. The overall result is mysterious, handcrafted, and richly textured.",
+  "style_prompt_zh": "插画具有密集镌刻式墨线与淡彩气质，繁复排线、打结轮廓和细小装饰卷曲层叠在低调色彩上。炭色与暖棕褐团块形成厚重围边，浅蓝灰和象牙色则向较安静的中央敞开。细笔痕顺着各表面方向行走，形成可触的树皮般脊纹与石质不规则感，而不依赖平滑渐层塑形。深色剪影叠压较浅的远处平面，一道窄窄漫射光开口引导视线穿过紧凑空间。边缘细节格外丰富，内部仍留足开放明度以维持结构清楚。整体效果神秘、手工感强，肌理丰厚。",
+  "theme_en": "A small timber dwelling enclosed by massive tangled trees",
+  "theme_zh": "巨大缠绕树木环抱的小木屋",
+  "wh_ratio": "1:1",
+  "id": "2357",
+  "name": "David Welker",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/david-welker",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/david-welker.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "28bc88137f7426afff94509cb2bbe530046685e898fcc7b9479f28c4557d49da",
+    "gpt_submission_prompt": "A square fantasy ink-and-wash illustration encloses a small timber dwelling within an immense frame of tangled trees and roots. The image has a narrow decorative border in warm ivory, but the scene inside is dominated by deep charcoal, sepia, and pale blue-gray linework. Thick trunks rise along both sides, their bark splitting into knotted grooves and hollow openings. Across the top, heavy branches and hanging roots form a dark arch that leaves only a slender opening to a layered cloudy sky. In the center distance, a modest peaked-roof house stands behind an uneven clearing, with a low porch and fine supports visible beneath its eaves. A tiny dark figure near the lower middle gives scale to the surrounding trunks. The ground twists into exposed roots, stones, and short strokes of vegetation, leading inward toward the house. Other small tree forms recede behind it, rendered with progressively lighter and finer marks. Almost every surface contains dense hatching, contour lines, and tiny ornamental curls, yet the sky and central clearing provide needed breathing space. The tree frame is nearly black at its deepest points, while the middle distance remains washed in gray-blue and tan. Soft light filters from the open sky, lifting the house and distant clouds; the enclosing roots and canopy retain deep shadow. The overall composition feels like a view through a carved portal, balancing intricate dark edges against a quiet, miniature center.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "4b2f0817be4e12b466e3d5375318514cd55806eecf4faa93a712a03c14697a4c",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

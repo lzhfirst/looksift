@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square Art Deco fashion illustration shows two elegant women in close profile amid dense floral ornament, with a third pale face partly visible behind them. The main pair occupy the left and center, both facing left. The left woman wears a dark teal close-fitting head covering and a rust-toned garment; her face is long and softly shaded, with a small red mouth. In front of her, the central woman has pale blond hair tucked beneath a warm coral headscarf, a white flower near the ear, and a red bead earring. A string of coral-colored beads follows the neckline of her dark dress, while her gaze extends calmly beyond the left frame. Behind her right shoulder, the third woman's face and curled brown hair emerge from the pattern, muted by overlap. Large stylized flowers in dusty pink, cream, and ochre fill the lower corners and upper background. Curving vines and fan-like gold motifs weave between the faces, leaving almost no open space. The women are drawn with long clean contours and smooth pale skin, while the surrounding surface has fine grain, linework, and layered muted colors. Flat decorative shapes sit close to the picture plane rather than receding into a realistic room. Light is soft and even, brightening the pale faces and flowers but making few cast shadows. Deep teal, warm coral, gold, cream, and dusty rose provide a harmonious restrained palette. No legible text appears. The overall composition is poised and ornamental, with repeated profiles, jewelry accents, and floral curves forming a graceful rhythm.",
+  "full_prompt_zh": "这幅方形装饰艺术时装插画呈现两位优雅女子在浓密花卉装饰间贴近侧身，身后另有一张部分可见的浅色面孔。主要两人占据左侧和中央，都朝左。左侧女子戴贴头深蓝绿色头饰，穿锈色衣服；脸形修长、阴影柔和，嘴唇小而红。她前方的中央女子把浅金发收进暖珊瑚色头巾，耳边有白花，并戴红珠耳饰。珊瑚色珠链沿深裙领口排列，她平静目光延向左侧画外。右肩后，第三位女子的脸和卷棕发从花纹里浮出，被重叠压得较淡。灰粉、奶油和赭黄的大型风格化花朵填满下方角落与上部背景。弯曲藤蔓和扇形金纹穿过面孔之间，几乎不留空处。女子们有修长干净的轮廓和平滑浅色皮肤，周围表面则有细颗粒、线描和层叠柔色。平面装饰形状贴近画面，而非退入写实房间。光柔和均匀，照亮浅色脸与花，却几乎没有投影。深蓝绿、暖珊瑚、金、奶油和灰玫瑰色构成协调克制的色盘。没有可读文字。整体构图沉稳且装饰性强，重复侧脸、珠饰点缀和花卉曲线形成优雅节奏。",
+  "style_prompt_en": "Art Deco illustration combines elongated clean contours, smooth pale focal planes, and densely interlaced floral curves. Deep teal, warm coral, aged gold, cream, and dusty rose are arranged in flat matte layers with subtle grain. Repeated profiles and oval accents create measured rhythm within a nearly full frame. Fine linework articulates ornament, while soft even light keeps shadows slight and colors harmonious. Decorative shapes stay close to the picture plane, giving elegance through pattern rather than deep perspective. The overall effect is graceful, polished, and quietly vintage.",
+  "style_prompt_zh": "装饰艺术插画结合修长干净轮廓、平滑浅色焦点平面与密集交织花卉曲线。深蓝绿、暖珊瑚、旧金、奶油和灰玫瑰色以平面哑光层排列，带细微颗粒。重复侧向轮廓和椭圆强调在几乎填满的画框里建立有节制节奏。细线描刻画装饰，柔和均匀光使阴影很少、色彩协调。装饰形贴近画面，通过花纹而非深透视形成优雅。整体雅致、精细且安静复古。",
+  "theme_en": "Two elegant women in profile amid Art Deco flowers and ornament",
+  "theme_zh": "两位优雅女子侧身立于装饰艺术花卉纹样之间",
+  "wh_ratio": "1:1",
+  "id": "2556",
+  "name": "Gerda Wegener",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/gerda-wegener",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/gerda-wegener.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "17c38267c04a14fc4bdf61388f95c813226201a3dfb400d3f00c91a0e779cd04",
+    "gpt_submission_prompt": "A square Art Deco fashion illustration shows two elegant women in close profile amid dense floral ornament, with a third pale face partly visible behind them. The main pair occupy the left and center, both facing left. The left woman wears a dark teal close-fitting head covering and a rust-toned garment; her face is long and softly shaded, with a small red mouth. In front of her, the central woman has pale blond hair tucked beneath a warm coral headscarf, a white flower near the ear, and a red bead earring. A string of coral-colored beads follows the neckline of her dark dress, while her gaze extends calmly beyond the left frame. Behind her right shoulder, the third woman's face and curled brown hair emerge from the pattern, muted by overlap. Large stylized flowers in dusty pink, cream, and ochre fill the lower corners and upper background. Curving vines and fan-like gold motifs weave between the faces, leaving almost no open space. The women are drawn with long clean contours and smooth pale skin, while the surrounding surface has fine grain, linework, and layered muted colors. Flat decorative shapes sit close to the picture plane rather than receding into a realistic room. Light is soft and even, brightening the pale faces and flowers but making few cast shadows. Deep teal, warm coral, gold, cream, and dusty rose provide a harmonious restrained palette. No legible text appears. The overall composition is poised and ornamental, with repeated profiles, jewelry accents, and floral curves forming a graceful rhythm.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "95b797de49749d323ac2f415796664aaed89143664b7a8f51a6e58d5abedca3a",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

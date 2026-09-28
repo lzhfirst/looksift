@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square mixed-media illustration shows a close male face spanning an open sketchbook-like central seam. The eyes are pale blue and directed outward. One side of the face is largely hidden by a dark blue watercolor stain and torn-paper texture, while the other is drawn in delicate gray pencil over a warm off-white page. The bridge of the nose lies near the vertical seam, and the lower mouth fades into lightly sketched lines rather than a finished edge. Loose geometric marks, faint notes and thin construction strokes spread into the blank margins. Blue pigment blooms and splatters at the upper left, then drips and fragments toward the cheek and lower corner. A little brown staining warms parts of the paper. Light is soft and even, allowing the eyes to become the clearest focal detail without a strong cast shadow. The image alternates precision and incompletion: carefully rendered gaze, transparent color washes, dry scratched edges and areas of nearly untouched paper. The central seam makes the composition feel like two pages or two states of the same image joined together. Blue and white dominate, with gray graphite and small ochre marks providing restraint. The overall mood is reflective and fragile, a likeness assembling itself out of drawing and pigment.",
+  "full_prompt_zh": "这幅方形混合媒介插画呈现一张近景男性面孔横跨像打开素描本的中央接缝。眼睛浅蓝，望向外侧。一边面孔大多被深蓝水彩污迹和撕纸纹理遮住，另一边在暖米白页上由细灰铅笔描出。鼻梁靠近竖接缝，下方嘴部渐入轻素描线，而非完整边缘。松散几何笔记、淡记号和细结构线散到空白边缘。蓝颜料在左上渗开飞溅，向脸颊与下角滴落、碎开。少量棕色污渍温暖纸面。光柔和均匀，使眼睛成为最清楚焦点，而无强投影。图像在精准与未完成间交替：仔细刻画的目光、透明色洗、干燥刮边和几乎未画纸面。中央接缝使构图像两页或同一图像的两种状态接合。蓝与白占主导，灰石墨和少量赭痕提供节制。整体情绪沉思脆弱，一幅形象正从绘图与颜料里组装出来。",
+  "style_prompt_en": "The mixed-media illustration combines precise graphite detail with transparent blue watercolor blooms, torn edges and broad off-white paper. One focal region is carefully resolved while adjacent marks remain exploratory and incomplete. Soft even light preserves the paper's pale value; deep pigment pools and splatters provide localized contrast. A vertical divide and drifting construction lines make the composition feel layered and provisional. Its restrained blue gray palette conveys delicate introspection.",
+  "style_prompt_zh": "这种混合媒介插画把准确石墨细节、透明蓝水彩渗化、撕裂边和宽阔米白纸面结合。一处焦点精心完成，相邻笔迹保持试探与未完成。柔和均匀光保留纸的浅明度，深颜料积池和飞溅提供局部对比。竖向分界与漂移结构线使构图层叠而像草稿。节制蓝灰色盘传递细腻内省。",
+  "theme_en": "A blue-eyed face emerging from torn blue watercolor marks",
+  "theme_zh": "从撕裂般蓝色水彩痕中显现的蓝眼面容",
+  "wh_ratio": "1:1",
+  "id": "3442",
+  "name": "David Mack",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/david-mack",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "3302990916611b5bc6e4d5e195df9d4e80c6b2dbb9aa564329e021f82e5ef099",
+    "gpt_submission_prompt": "A square mixed-media illustration shows a close male face spanning an open sketchbook-like central seam. The eyes are pale blue and directed outward. One side of the face is largely hidden by a dark blue watercolor stain and torn-paper texture, while the other is drawn in delicate gray pencil over a warm off-white page. The bridge of the nose lies near the vertical seam, and the lower mouth fades into lightly sketched lines rather than a finished edge. Loose geometric marks, faint notes and thin construction strokes spread into the blank margins. Blue pigment blooms and splatters at the upper left, then drips and fragments toward the cheek and lower corner. A little brown staining warms parts of the paper. Light is soft and even, allowing the eyes to become the clearest focal detail without a strong cast shadow. The image alternates precision and incompletion: carefully rendered gaze, transparent color washes, dry scratched edges and areas of nearly untouched paper. The central seam makes the composition feel like two pages or two states of the same image joined together. Blue and white dominate, with gray graphite and small ochre marks providing restraint. The overall mood is reflective and fragile, a likeness assembling itself out of drawing and pigment.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "4417de5268dcec140a3a7a7dfce515612067deee6083324ea8d686df023fc9f5",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

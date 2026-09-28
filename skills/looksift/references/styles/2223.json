@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white cinematic photograph shows a young woman sitting beside a weathered stone doorway while a young man stands close to her. She wears a dark, low-necked dress and a small pendant, with one hand resting near the lower edge of the frame. Her head tilts upward toward the light coming from the open street at left, and her expression is thoughtful. The man on the right wears a dark jacket over a pale open-collared shirt. He leans against the doorway and looks down toward her, a cigarette held at the corner of his mouth. The rough stone column and dark wooden wall divide the pale street from the intimate shadow around the pair. A small book or stack of papers sits at the far lower left. The outdoor light is soft but strongly directional, brightening the woman's face and the man's hair while allowing his jacket and the interior surface to sink into rich blacks. Fine photographic grain, shallow background blur, and gentle silver midtones give the frame a vintage print feeling. The two lines of sight cross without direct eye contact, creating a suspended social moment. No readable lettering appears. The overall composition is elegant and restrained, with bright stone and skin set against a deep doorway shadow.",
+  "full_prompt_zh": "一张方形黑白电影感照片描绘一名年轻女子坐在磨旧石门旁，一名年轻男子靠近她站着。她穿深色低领裙，戴小吊坠，一只手停在画面下边缘附近。她抬头朝向左侧敞开街道来的光，神情沉思。右侧男子穿深外套和浅色敞领衬衫。他靠着门边，低头望向她，嘴角叼一支烟。粗糙石柱与深色木墙把浅亮街道和两人周围亲密的阴影隔开。最左下有一本小书或一叠纸。户外光柔和但方向鲜明，照亮女子面容与男子头发，同时让他的外套和室内表面沉入丰厚黑色。细摄影颗粒、浅景深背景模糊与柔银灰中间调，使画幅有旧冲印照片质感。两道视线交错，却没有直接对视，形成被悬置的社交片刻。没有可辨认文字。整体构图优雅而克制，以明亮石面和皮肤对照深色门影。",
+  "style_prompt_en": "A cinematic monochrome photograph places softly illuminated pale forms beside a deep architectural shadow. Fine grain and gentle silver midtones give the image a vintage print surface, while a few rich blacks provide strong structural weight. Light arrives from one side through an open area, catching selected edges and leaving adjacent planes subdued. Rough matte texture contrasts with smoother luminous surfaces, and a shallow background blur keeps the close relationship of forms dominant. Upright dark divisions and a lighter side opening organize the square crop. The mood is intimate, elegant, and suspended, with understated contrast rather than harsh flash.",
+  "style_prompt_zh": "电影感单色照片把柔和受光的浅色形放在深色结构阴影旁。细颗粒和柔银灰中间调使图像有旧冲印表面，少数丰厚黑色则提供强结构重量。光从一侧开阔区域进入，照到有选择的边缘，使相邻平面留在暗处。粗糙哑光纹理对照较平滑的发亮表面，浅景深背景模糊让近处形体关系占主导。竖向深色分隔和一侧浅色开口组织方形裁切。情绪亲密、优雅而悬停，对比含蓄，并非生硬闪光。",
+  "theme_en": "A quiet exchange beside an old stone doorway",
+  "theme_zh": "旧石门旁的安静交谈",
+  "wh_ratio": "1:1",
+  "id": "2223",
+  "name": "Ruslan Lobanov",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/ruslan-lobanov",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/ruslan-lobanov.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "b17d2d25f5b4f43d5601bb9994ed5110b00da337fd994e32ff1a8bc89df527f2",
+    "gpt_submission_prompt": "A square black-and-white cinematic photograph shows a young woman sitting beside a weathered stone doorway while a young man stands close to her. She wears a dark, low-necked dress and a small pendant, with one hand resting near the lower edge of the frame. Her head tilts upward toward the light coming from the open street at left, and her expression is thoughtful. The man on the right wears a dark jacket over a pale open-collared shirt. He leans against the doorway and looks down toward her, a cigarette held at the corner of his mouth. The rough stone column and dark wooden wall divide the pale street from the intimate shadow around the pair. A small book or stack of papers sits at the far lower left. The outdoor light is soft but strongly directional, brightening the woman's face and the man's hair while allowing his jacket and the interior surface to sink into rich blacks. Fine photographic grain, shallow background blur, and gentle silver midtones give the frame a vintage print feeling. The two lines of sight cross without direct eye contact, creating a suspended social moment. No readable lettering appears. The overall composition is elegant and restrained, with bright stone and skin set against a deep doorway shadow.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "e14e493cc6990dae339381d051185b8a9b1ecb9eccea89ecb3a6761e67472731",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

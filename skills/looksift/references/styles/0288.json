@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A black-and-white vintage film still centers a veiled woman seated among a blurred audience. She occupies the middle of the frame, her pale face turned upward and slightly right, eyes wide beneath fine arched brows. A dark lace-like veil flows from her curled hair over both shoulders, merging into the surrounding black clothing. Several strands of dark beads descend across her chest, their small round highlights adding texture to the shadow. Behind her, two other seated faces appear on either side, both out of focus and also directed upward; their blurred presence suggests a shared event without identifying it. The woman's face receives the strongest soft light, creating a smooth ivory shape against the veil and deep background. Her mouth remains slightly open and her posture still, so attention gathers in the eye line rather than an overt gesture. The image is cropped at the lower edge by a pale horizontal rail or seat back, which grounds the close view. Fine grain, gentle halation on bright skin, and shallow focus give it the texture of an archival motion-picture frame. The tonal design avoids pure white outside the face and a few scattered highlights; rich blacks provide an enveloping field. The whole frame conveys hushed anticipation through a luminous gaze, surrounding shadow, and the uncertain presence of others.",
+  "full_prompt_zh": "一帧黑白复古电影画面，将坐在模糊观众席中的面纱女子置于中央。她占据画面中部，浅色面容向右上方抬起，细弯眉毛下的双眼睁大。深色蕾丝般的面纱从卷曲的头发上垂下，覆过双肩，与周围黑衣融在一起。数串深色珠链垂过胸前，小小的圆形亮点为阴影添入肌理。她身后左右两侧各有一张坐着的面孔，均失焦且同样朝上；模糊的存在暗示一场共同观看的事件，却没有指明是什么。女子的脸接到最强的柔光，在面纱和深背景前形成平滑的象牙色形状。嘴微微张开，姿态静止，因此注意力聚在视线方向，而非明显动作。下缘被一道浅色水平栏杆或座椅靠背截住，固定了近景。细颗粒、亮肤上的柔和光晕和浅景深，使它具有电影档案帧的质地。明暗设计在面部和少数散落高光之外避免纯白，浓郁黑色形成包裹的色域。整幅画通过发光的凝视、周围阴影和他人不确定的存在，传达屏息等待的气氛。",
+  "style_prompt_en": "The monochrome film image relies on rich blacks, luminous soft gray highlights, shallow focus, and fine archival grain. One compact high-value area emerges from an enveloping dark field; secondary pale shapes remain blurred and subordinate farther back. The crispest edges and finest tonal transitions stay close to the focal zone, while draped dark textures merge gradually into the background. Small repeated highlights form a descending rhythm in the lower middle. Gentle halation softens the brightest contours, and a low pale horizontal line steadies the crop. Contrast is strong in overall design but smooth across lit surfaces, giving the image a classic motion-picture softness rather than a harsh graphic cutout. The whole frame feels hushed and expectant through upward visual direction, layered darkness, and selective focus.",
+  "style_prompt_zh": "这幅黑白电影图像依靠浓郁黑色、发亮的柔灰高光、浅景深和细致的档案颗粒建立气氛。一处紧凑的高明度区域从包裹式深色中浮出，次要浅色形体在更远处保持模糊与从属。最清晰的边缘和最细腻的明暗过渡留在焦点附近，披垂的深色肌理则逐渐与背景融合。细小而重复的亮点在中下部形成向下的节奏。轻微光晕柔化最亮的轮廓，下方一道浅色水平线稳定裁切。整体设计对比强烈，但受光表面的过渡平滑，使图像有古典电影的柔软感，而非生硬的图形剪贴。整幅画通过向上的视觉方向、层层黑暗与有选择的对焦，显得静默而充满期待。",
+  "theme_en": "A veiled woman looking upward in a crowded room",
+  "theme_zh": "人群中仰望的面纱女子",
+  "wh_ratio": "1:1",
+  "id": "0288",
+  "name": "Tod Browning",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/tod-browning",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/tod-browning.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "1264548b5e1696514fdcb69e465970bd6499ddaeda611967f0e8442dacd6e554",
+    "gpt_submission_prompt": "A black-and-white vintage film still centers a veiled woman seated among a blurred audience. She occupies the middle of the frame, her pale face turned upward and slightly right, eyes wide beneath fine arched brows. A dark lace-like veil flows from her curled hair over both shoulders, merging into the surrounding black clothing. Several strands of dark beads descend across her chest, their small round highlights adding texture to the shadow. Behind her, two other seated faces appear on either side, both out of focus and also directed upward; their blurred presence suggests a shared event without identifying it. The woman's face receives the strongest soft light, creating a smooth ivory shape against the veil and deep background. Her mouth remains slightly open and her posture still, so attention gathers in the eye line rather than an overt gesture. The image is cropped at the lower edge by a pale horizontal rail or seat back, which grounds the close view. Fine grain, gentle halation on bright skin, and shallow focus give it the texture of an archival motion-picture frame. The tonal design avoids pure white outside the face and a few scattered highlights; rich blacks provide an enveloping field. The whole frame conveys hushed anticipation through a luminous gaze, surrounding shadow, and the uncertain presence of others.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "2b4fd098cf946052ee9b6ee0d8783043a9356793f80ddd39862df1e162632b60",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

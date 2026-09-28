@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square futurist-inspired painting shows a small town split by a river that curves from the lower center into the distance beneath a stone bridge. Compact ochre, green and rust-colored houses line both banks, their simplified roofs and facades built from short directional brush marks. A tall narrow tower near the left center emits a pale beam that widens diagonally into a swirling sky. The sky is the scene's most active region: concentric and fan-shaped strokes in indigo, cobalt, teal, yellow and amber sweep around the beam, making light feel like motion rather than a static glow. The river is dark blue with broken ochre reflections, and the masonry banks draw the eye inward toward the bridge. Architecture is recognizable but compressed into angular colored units, while the curving sky carries a stronger rhythmic abstraction. No figure or object competes with the relationship between town, beam and weather. The painting's thickly worked, granular surface suggests many short strokes layered in changing directions. A small bright apex at the tower is the visual trigger, but the whole frame participates in its radiating movement. The result feels energetic and slightly uncanny, translating a nighttime landscape into a study of sound-like light waves, perspective and chromatic vibration.",
+  "full_prompt_zh": "一幅正方形带未来主义气息的绘画呈现一座被河流分开的城镇。河从下方中央弯向远处，穿过一座石桥；两岸紧凑的赭、绿和锈色房屋由短促方向性笔触构成简化屋顶与立面。左中一座高窄塔楼发出浅色光束，向斜上方扩宽并融入旋转天空。天空是场景最活跃区域：靛蓝、钴蓝、青绿、黄和琥珀色的同心及扇形笔划围绕光束扫动，使光像一种运动，而非静态发亮。河面深蓝，带断续赭色倒影，两侧石堤引导视线深入桥下。建筑仍可辨认，却被压缩为角形色彩单元，曲折天空则承担更强的节奏抽象。没有人物或物件与城镇、光束和天气之间的关系争夺焦点。厚实而颗粒化的画面表面像由无数不同方向的短笔划层叠而成。塔顶的一点亮部触发视觉运动，整幅都参与它的放射变化。最终画面有能量且略诡异，把夜间风景转译为近似声音的光波、透视与色彩振动研究。",
+  "style_prompt_en": "The style is early futurist-inspired painting with directional short strokes, angular compressed forms and sweeping chromatic wave patterns. Indigo, cobalt and teal shadows collide with ochre, rust, yellow and amber light. Perspective recedes through a central curved passage, while radiating fan and spiral rhythms animate the upper field. Granular layered brushwork keeps the surface physical. The square composition converts illumination into apparent motion and balances legible structure with rhythmic abstraction.",
+  "style_prompt_zh": "这种风格是早期未来主义气息的绘画，具有方向鲜明的短笔触、压缩角形体块和横扫的彩色波纹。靛蓝、钴蓝与青绿阴影和赭、锈、黄、琥珀光相撞。透视沿中央弯曲通道退远，上部区域被放射扇形与螺旋节奏激活。颗粒化叠层笔触使表面具有物理感。正方形构图把照明转化为可感运动，在可辨结构与节奏抽象之间平衡。",
+  "theme_en": "A river town beneath a spiraling beam of color",
+  "theme_zh": "旋转彩色光束下的河畔城镇",
+  "wh_ratio": "1:1",
+  "id": "1273",
+  "name": "Luigi Russolo",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/luigi-russolo",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/luigi-russolo.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "24df57d27b32e1cd54eb45a276ac834b09e43d73b3e4cc92391a07b8985e9fb2",
+    "gpt_submission_prompt": "A square futurist-inspired painting shows a small town split by a river that curves from the lower center into the distance beneath a stone bridge. Compact ochre, green and rust-colored houses line both banks, their simplified roofs and facades built from short directional brush marks. A tall narrow tower near the left center emits a pale beam that widens diagonally into a swirling sky. The sky is the scene's most active region: concentric and fan-shaped strokes in indigo, cobalt, teal, yellow and amber sweep around the beam, making light feel like motion rather than a static glow. The river is dark blue with broken ochre reflections, and the masonry banks draw the eye inward toward the bridge. Architecture is recognizable but compressed into angular colored units, while the curving sky carries a stronger rhythmic abstraction. No figure or object competes with the relationship between town, beam and weather. The painting's thickly worked, granular surface suggests many short strokes layered in changing directions. A small bright apex at the tower is the visual trigger, but the whole frame participates in its radiating movement. The result feels energetic and slightly uncanny, translating a nighttime landscape into a study of sound-like light waves, perspective and chromatic vibration.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "b8aa4f9c589597983180018f2b800215d10d3d713ef1d3925e0557f37695f717",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

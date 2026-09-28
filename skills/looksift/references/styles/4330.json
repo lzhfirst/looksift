@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square epic-fantasy painting looks up a rough road through a narrow rocky gorge toward an immense fortress gate. Dark jagged slopes rise close on both sides, forming a natural frame around the brilliantly lit orange stone architecture. Two square gate towers stand before taller walls and structures that disappear beyond the upper edge. A large round arch opens at the center, its interior filled with warm haze rather than visible detail. A small group of mounted travelers moves away from the viewer toward the gate. The nearest three riders form dark silhouettes in the lower center, with one pale horse catching light along its back; two more figures are farther ahead near the arch. Their tiny scale makes the fortress feel monumental. The road is damp and uneven, with puddles in the foreground reflecting broken streaks of orange. The left and right rocks are almost black brown, while the towers glow in amber, rust, and gold. Dust or mist thickens toward the opening, softening distant masonry. Angular battlements and scattered small dark windows punctuate the tall walls. Brushwork is rugged in the terrain, broad and atmospheric in the light, and sharper around architectural edges and rider silhouettes. No banner, crest, letter, or readable inscription appears. The composition strongly funnels the viewer from cool dark foreground into a hot luminous destination. The mood is suspenseful and grand, a moment of approach before anything happens.",
+  "full_prompt_zh": "一幅方形史诗奇幻绘画沿狭窄岩石峡谷的粗糙道路仰望巨大要塞门。深而锯齿状的山坡紧贴两侧，形成天然框架，围住明亮发橙光的石建筑。两座方形门塔立在更高城墙和建筑前，后者越过顶缘。一道大圆拱开在中央，内部是暖雾而非清楚细节。一小队骑马旅人背离观者走向城门。最近三名骑手在下方中央形成深色剪影，其中一匹浅色马背接住光；另两人更远，近拱下。人物的微小尺度让城堡极其庞大。道路潮湿不平，前景积水映出破碎橙光条。左右岩石近黑褐，塔楼在琥珀、锈色与金色中发亮。灰尘或薄雾向门洞变浓，柔化远处砌体。角状女墙与零星暗小窗点缀高墙。笔触在地形处粗犷，在光处宽阔大气，在建筑边和骑手剪影处更利落。没有旗帜、徽记、字母或可读铭文。构图强烈地把观者从冷暗前景导向炽热明亮终点。氛围悬念而宏大，是事件发生前的一刻接近。",
+  "style_prompt_en": "Use epic fantasy concept painting with monumental scale, rugged dark framing masses, and a small sequence of silhouettes moving toward a radiant central opening. Funnel perspective through a narrowing path or passage. Contrast nearly black umber foregrounds with amber, rust, and gold illumination at the destination, letting dust and haze soften the middle distance. Apply coarse broken strokes to rough surfaces, broader glazes to light, and selective sharp edges around the focal geometry. Add small reflections on uneven ground to echo the warm source. The composition should feel deep, suspenseful, and cinematic, with scale communicated by tiny dark marks against towering illuminated forms.",
+  "style_prompt_zh": "采用史诗奇幻概念绘画，以巨大尺度、两侧粗犷深色框架体量和朝中央发光开口移动的少数小剪影组织画面。透视通过逐渐收窄的道路或通道汇聚。近黑褐前景对比终点琥珀、锈色和金光，灰尘与薄雾柔化中距。粗糙表面用破碎粗笔，光用更宽阔罩染，焦点几何才选择性地用利落边缘。在不平地面加少量反射以呼应暖光源。构图应深远、悬念且有电影感，以高耸发亮形体前的微小深记号传达尺度。",
+  "theme_en": "Riders approaching a vast glowing fortress gate through a rocky gorge",
+  "theme_zh": "骑手穿过岩石峡道走向发光的巨大要塞门",
+  "wh_ratio": "1:1",
+  "id": "4330",
+  "name": "Marc Simonetti",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/marc-simonetti.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "694d9bf564b501ddf22880e8ca56aedd0ab54c00bd71289d712f735d5a15b7ce",
+    "gpt_submission_prompt": "A square epic-fantasy painting looks up a rough road through a narrow rocky gorge toward an immense fortress gate. Dark jagged slopes rise close on both sides, forming a natural frame around the brilliantly lit orange stone architecture. Two square gate towers stand before taller walls and structures that disappear beyond the upper edge. A large round arch opens at the center, its interior filled with warm haze rather than visible detail. A small group of mounted travelers moves away from the viewer toward the gate. The nearest three riders form dark silhouettes in the lower center, with one pale horse catching light along its back; two more figures are farther ahead near the arch. Their tiny scale makes the fortress feel monumental. The road is damp and uneven, with puddles in the foreground reflecting broken streaks of orange. The left and right rocks are almost black brown, while the towers glow in amber, rust, and gold. Dust or mist thickens toward the opening, softening distant masonry. Angular battlements and scattered small dark windows punctuate the tall walls. Brushwork is rugged in the terrain, broad and atmospheric in the light, and sharper around architectural edges and rider silhouettes. No banner, crest, letter, or readable inscription appears. The composition strongly funnels the viewer from cool dark foreground into a hot luminous destination. The mood is suspenseful and grand, a moment of approach before anything happens.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "3d4f5a8497ce9ea5dcb1d6781958caf94aeec8c09f46b737a50fe56a4fb9422f",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

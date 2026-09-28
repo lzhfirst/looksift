@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square monochrome botanical image shows a spray of delicate seed heads bursting diagonally from the lower left across a pitch-black field. Long hair-thin stalks radiate outward, each ending in a small translucent orb, tuft, or dandelion-like star. Near the base, overlapping pale wisps and membrane-like forms gather into a luminous cluster. The finest strands are almost silver white; other filaments fade into soft gray, giving the airy structure subtle depth. Black negative space occupies much of the upper left and right, making each line and seed head legible. The image feels like an x-ray, photogram, or high-contrast botanical photograph rather than a conventional drawing. Light seems to pass through the plant material from behind, revealing skeletal veins and tiny beads along the stems. A few scattered dots float beyond the main fan, suggesting release and motion. The composition is asymmetrical and energetic, with the stems creating a strong diagonal sweep. Surface grain is very fine and restrained, while soft haloing around the translucent elements gives the image an ethereal quality. The whole frame balances scientific observation with abstract elegance, allowing line, transparency, and black space to carry the visual drama.",
+  "full_prompt_zh": "一幅方形单色植物影像呈现一束精细种子冠毛从左下方爆发，斜向扇过漆黑色域。头发般细的长茎向外放射，每根末端都有半透明的小圆体、绒球或蒲公英般星形。基部重叠的浅色絮毛与薄膜形状聚成发亮团块。最细的丝线几乎银白，其余纤维淡成柔灰，使轻盈结构有细微纵深。黑色负空间占据上方左右大部分，令每根线和种子头清楚可读。影像像X光、实物投影或高反差植物摄影，而非普通素描。光似乎从后方穿过植物材料，显露骨架叶脉和茎上的微小珠点。少量散点飘出主扇面，暗示释放与运动。构图不对称且富于能量，茎秆形成有力斜向扫掠。表面颗粒极细且克制，半透明元素周围的柔光晕使画面空灵。整体平衡科学观察与抽象优雅，让线条、透光和黑色空间承担视觉戏剧性。",
+  "style_prompt_en": "A high-contrast monochrome photogram or x-ray botanical language reveals hair-thin lines and translucent membranes against absolute black. Forms radiate diagonally from one luminous clustered origin, spreading into generous negative space. Silver-white highlights, soft gray filaments, tiny bead-like points, and faint halos create depth without color. Backlit transparency exposes fine inner structure, while scattered marks beyond the main cluster imply release and motion. The composition is asymmetrical and airy despite its sharp contrast. Fine restrained grain maintains photographic materiality. The mood is scientific and ethereal at once, driven by line, transparency, and black space.",
+  "style_prompt_zh": "高反差单色实物投影或X光植物语言让发丝般细线与半透明薄膜在绝黑底前显现。形体从一处发亮簇团斜向放射，散入宽阔负空间。银白高光、柔灰纤维、珠点般细节与淡光晕不靠彩色建立纵深。逆光透明感显露细微内部结构，主簇团之外的散点暗示释放与运动。构图不对称，虽反差强烈仍轻盈。极细克制颗粒保留摄影材料性。气氛同时科学又空灵，由线、透光和黑空间推动。",
+  "theme_en": "A burst of translucent seed heads fans across a black field in monochrome",
+  "theme_zh": "半透明种子冠毛在黑色底上扇形散开，呈单色影像",
+  "wh_ratio": "1:1",
+  "id": "4282",
+  "name": "Photogram",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/photogram.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "cc425e8daeec544ff8f2b2e524687d93f0eca5e8f8b812cd4e5118aed5850d6d",
+    "gpt_submission_prompt": "A square monochrome botanical image shows a spray of delicate seed heads bursting diagonally from the lower left across a pitch-black field. Long hair-thin stalks radiate outward, each ending in a small translucent orb, tuft, or dandelion-like star. Near the base, overlapping pale wisps and membrane-like forms gather into a luminous cluster. The finest strands are almost silver white; other filaments fade into soft gray, giving the airy structure subtle depth. Black negative space occupies much of the upper left and right, making each line and seed head legible. The image feels like an x-ray, photogram, or high-contrast botanical photograph rather than a conventional drawing. Light seems to pass through the plant material from behind, revealing skeletal veins and tiny beads along the stems. A few scattered dots float beyond the main fan, suggesting release and motion. The composition is asymmetrical and energetic, with the stems creating a strong diagonal sweep. Surface grain is very fine and restrained, while soft haloing around the translucent elements gives the image an ethereal quality. The whole frame balances scientific observation with abstract elegance, allowing line, transparency, and black space to carry the visual drama.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "5d819df4c03ad128359664313a0de90154675e316b42ddb7cd815c5e400ee0ff",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

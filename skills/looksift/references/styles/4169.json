@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square expressive oil painting brings a huge pale human face out of a turbulent mass of blue-gray and white brushwork. The face is partly submerged in the painted movement, shown in right-facing profile with one open eye, a long nose, and a mouth that dissolves into lighter paint. Thick strokes whirl over the forehead and around the cheek, making hair, spray, and cloudlike motion difficult to separate. The upper left is a dark bank of blue-black marks, while the right side opens into cool light gray and white. Warm ochre touches appear within the cheek and near the lower edge, preventing the near-monochrome blue from feeling entirely cold. The image is cropped tightly so no horizon or independent landscape is established. Paint ridges, short loaded dabs, and dragged arcs remain plainly visible, with some peaks catching light and small dark grooves marking the spaces between them. A diffuse light from upper right brightens the face and pale whirl, while the left and lower regions are shadowed by denser blue strokes. The recognizable eye acts as a quiet point inside the restless movement. No text appears. The overall composition is stormy and intimate, turning bodily likeness and wave-like energy into one continuous textured field.",
+  "full_prompt_zh": "一幅方形表现性油画使一张巨大的浅色人脸从蓝灰与白色笔触的激流中浮出。脸部分没于绘画动作里，以朝右的侧面露出一只张开的眼、长鼻梁和渐渐消入浅色颜料的嘴。厚笔触在额头上方和面颊周围打转，使头发、浪花与云状动势难以分开。左上是蓝黑笔痕的深色堤岸，右侧则打开为清冷浅灰与白色。暖赭黄触点落在脸颊和下缘附近，使近单色的蓝不至于完全冷。画面裁得很紧，没有地平线或独立风景。颜料凸脊、短厚色点和拖开的弧线清楚可见，一些峰面接住光，笔痕间的深小沟标出间隙。来自右上的漫射光照亮脸和浅色旋涡，左侧与下部被更密的蓝笔触压暗。可辨认的眼睛成为躁动之中的安静一点。没有文字。整体构图暴烈而亲密，把身体肖似与浪潮般的能量融成一片连续的肌理色域。",
+  "style_prompt_en": "Expressive oil painting builds volume from loaded short dabs, dragged arcs, and raised ridges that flow through one another. Dense blue-black and slate strokes meet pale gray, ivory, and white, with tiny ochre warmth preventing a purely cold effect. Some contours appear briefly and then dissolve into the same swirling material as their surroundings. Diffuse light from one upper side catches the thickest pale strokes; small grooves and dense overlaps stay dark. Tight cropping and a diagonal surge turn a compact focal point into part of a larger turbulent rhythm. The surface feels physical, urgent, and atmospheric.",
+  "style_prompt_zh": "表现性油画以厚重短色点、拖开的弧线和凸起色脊塑造体量，彼此流入。密集蓝黑与石板蓝笔触遇到浅灰、象牙白和白色，极少赭黄暖意避免完全寒冷的效果。有些轮廓短暂出现，随后消入与周围相同的旋动材料。上方一侧漫光照到最厚的浅色笔痕，小沟槽与密集重叠处保持深暗。紧密裁切与斜向冲涌把紧凑焦点纳入更大的激荡节奏。表面有物理重量、急迫感与空气感。",
+  "theme_en": "A turbulent wave formed from a pale face and dark blue paint",
+  "theme_zh": "由浅色面孔与深蓝颜料卷成的激浪",
+  "wh_ratio": "1:1",
+  "id": "4169",
+  "name": "Maggi Hambling",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/maggi-hambling.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "f7d3056f1deb5a74586f958ca76c41da2e63979d5288464bc9f3a7d06fe1e963",
+    "gpt_submission_prompt": "A square expressive oil painting brings a huge pale human face out of a turbulent mass of blue-gray and white brushwork. The face is partly submerged in the painted movement, shown in right-facing profile with one open eye, a long nose, and a mouth that dissolves into lighter paint. Thick strokes whirl over the forehead and around the cheek, making hair, spray, and cloudlike motion difficult to separate. The upper left is a dark bank of blue-black marks, while the right side opens into cool light gray and white. Warm ochre touches appear within the cheek and near the lower edge, preventing the near-monochrome blue from feeling entirely cold. The image is cropped tightly so no horizon or independent landscape is established. Paint ridges, short loaded dabs, and dragged arcs remain plainly visible, with some peaks catching light and small dark grooves marking the spaces between them. A diffuse light from upper right brightens the face and pale whirl, while the left and lower regions are shadowed by denser blue strokes. The recognizable eye acts as a quiet point inside the restless movement. No text appears. The overall composition is stormy and intimate, turning bodily likeness and wave-like energy into one continuous textured field.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "c527bea51a09fd7f344836796651a65fdbd72ff47972004a1d872a08ed45a800",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

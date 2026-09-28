@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A lively ink-and-color scene on warm, aged paper features an ancient gnarled tree spreading from the upper right across the open sky. Under its twisted trunk, a white-bearded supernatural elder appears to burst forward from folds of cloudlike robes. His head and outstretched pointing hand aim toward two surprised travelers at the lower left. The closer traveler wears a dark flowing robe and carries a small pipe; the second, in a pale rust robe, peers over his shoulder. A little white dog leaps between them and the spirit, its raised forelegs echoing the startled movement. A flat rock rests beneath the apparition, and short, individually drawn tufts of grass line the lower edge. The left half retains generous empty parchment, giving the encounter space to breathe, while the tree bark and streaming garment gather dense detail on the right. Supple black and dark gray ink contours change from fine twig lines to vigorous, ragged strokes in the beard and clothing. Restrained washes of charcoal, slate blue, umber and muted moss green leave the paper tone visible. Delicate shading replaces the modeling of a modern light source; the contrast comes from pale empty ground against active dark linework. Tiny red seal-like marks at the side contribute to the print character. The square is an expressive historical brush image, full of wit, motion and textured restraint.",
+  "full_prompt_zh": "温暖的旧纸底色上是一幅生动的水墨设色场面，一棵盘曲古树从右上方向空旷天空伸展。扭曲树干下，一位白须超自然老人仿佛从云雾般的衣褶中冲出，头和伸出的手指都指向左下角吃惊的两位旅人。较近的人穿深色飘动长袍，手持小烟斗；第二位穿浅锈色长袍，从他肩后探看。一只小白狗在旅人与精灵之间跃起，抬高的前爪呼应惊讶动作。幽灵下方有一块平石，下缘是一簇簇单独画出的短草。左半部保留宽阔空白纸面，让遭遇有呼吸空间；树皮和飞散衣袍在右侧聚集细节。柔韧黑灰墨线勾成轮廓，从纤细枝条到胡须衣物中的猛烈破笔不断变化。淡淡的炭灰、石板蓝、赭褐与柔和苔绿洗色间仍可见纸色。精微晕染取代了现代写实光源的塑造；明暗对比来自浅色空地和活跃深色线条。侧边细小的红色印章痕迹构成版画气质的一部分。整幅正方形画面是富于机趣、运动感和克制肌理的历史笔绘作品。",
+  "style_prompt_en": "Expressive ink-and-wash painting on warm aged paper has elastic contour lines, fine branching strokes, ragged dry-brush accents, restrained slate-blue and umber washes, and generous untouched negative space. Densely worked forms balance quiet parchment. Streaming strokes suggest motion, while tiny red seal-like marks punctuate the otherwise muted square image.",
+  "style_prompt_zh": "温暖旧纸上的写意水墨淡彩，轮廓线柔韧，枝状细线与破碎干笔交替，石板蓝和赭色晕染克制，大面积负空间未着色。密集笔绘形体与安静纸面相平衡，飞动笔势暗示运动，细小红色钤印般色点点亮柔和的正方形画面。",
+  "theme_en": "A white-bearded spirit startling travelers beneath an ancient tree",
+  "theme_zh": "白须精灵在古树下惊动旅人",
+  "wh_ratio": "1:1",
+  "id": "3463",
+  "name": "Kawanabe Kyosai",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/kawanabe-kyosai",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "8db866d6cf246dbe48e08166ac920c2bee19de9ceb8c13df51abc5c76af9d483",
+    "gpt_submission_prompt": "A lively ink-and-color scene on warm, aged paper features an ancient gnarled tree spreading from the upper right across the open sky. Under its twisted trunk, a white-bearded supernatural elder appears to burst forward from folds of cloudlike robes. His head and outstretched pointing hand aim toward two surprised travelers at the lower left. The closer traveler wears a dark flowing robe and carries a small pipe; the second, in a pale rust robe, peers over his shoulder. A little white dog leaps between them and the spirit, its raised forelegs echoing the startled movement. A flat rock rests beneath the apparition, and short, individually drawn tufts of grass line the lower edge. The left half retains generous empty parchment, giving the encounter space to breathe, while the tree bark and streaming garment gather dense detail on the right. Supple black and dark gray ink contours change from fine twig lines to vigorous, ragged strokes in the beard and clothing. Restrained washes of charcoal, slate blue, umber and muted moss green leave the paper tone visible. Delicate shading replaces the modeling of a modern light source; the contrast comes from pale empty ground against active dark linework. Tiny red seal-like marks at the side contribute to the print character. The square is an expressive historical brush image, full of wit, motion and textured restraint.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "428032b5c7a7c15c30137a8d7d982987099b5e08d4d378117cb3768f70e29602",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white documentary photograph tightly frames three men in worn heavy clothing. The nearest face on the right occupies almost half the image, looking slightly upward and beyond the camera with parted lips and an anxious, exhausted expression. Dark hair falls under a soft cap, and his cheekbones, stubble, and weathered skin are sharply visible. A second man intrudes from the far left, so close that part of his face is cut off by the frame. Between them, a third man stands farther back, his face centered in the narrow gap and partially shaded by a cap. All three gaze in roughly the same off-camera direction. Their heavy coats and scarves overlap in a dense dark foreground, leaving almost no background context. A narrow pale area of sky or wall appears behind their heads. The camera is very close and slightly below eye height, compressing the group and intensifying their shared concern. Natural overcast light reveals pores, damp hair, creases, and fabric wear without theatrical spotlights. The grayscale is harsh but detailed, with luminous faces against deep charcoal garments. Fine film grain and slight irregular softness near the edges preserve the immediate photojournalistic feel. There are no weapons, insignia, flags, words, or explicit event markers visible, only bodies and expressions. The image is unsentimental and physically direct, recording collective apprehension through the crowded arrangement of three faces and the unresolved space they are watching.",
+  "full_prompt_zh": "一张方形黑白纪实照片紧裁三名穿着磨旧厚衣的男子。右侧最近的脸占近半幅，略向上并越过镜头望去，嘴唇微张，神情焦虑而疲惫。深发压在软帽下，颧骨、胡茬和风化皮肤清楚可见。第二名男子从最左挤入，近得脸的一部分被画框切去。两人之间第三人站得稍远，脸位于窄缝中央，部分被帽影遮住。三人目光大致指向同一镜外方向。厚外套与围巾在深色前景相互叠合，几乎不留背景语境。头后仅见一道浅天空或墙。相机极近且略低于眼高，压紧人群并加强共同忧虑。自然阴天光揭示毛孔、湿发、皱褶和布料磨损，没有舞台聚光。灰度严峻但有细节，明亮面容对照深炭衣物。细胶片颗粒和边缘轻微不规则柔化保留即时新闻摄影感。没有武器、徽章、旗帜、文字或明确事件标记，只有身体与表情。图像不煽情且实体感强，通过三张脸的拥挤排列和他们注视的未解空间记录共同忐忑。",
+  "style_prompt_en": "Use unsentimental black-and-white photojournalism with close, crowded framing and a candid viewpoint slightly below eye level. Place several overlapping dark forms around a few luminous focal areas, letting one edge cut off a figure or shape to intensify immediacy. Preserve weathered surface detail, damp texture, coarse fabric, and fine film grain. Work in overcast natural light with strong but not empty blacks and detailed gray transitions. Keep background context minimal, so shared directional attention and bodily proximity carry the image. Avoid theatrical staging or symbolic props. The atmosphere is grave, urgent, and physically direct, as if a consequential moment were witnessed from within the crowd.",
+  "style_prompt_zh": "采用不煽情的黑白新闻摄影，以近而拥挤的裁切和略低于眼高的偶然视点构图。让几层深色形围住少数明亮焦点区，并让画面边缘切断一处形体以加强即时感。保留风化表面细节、潮湿肌理、粗布和细胶片颗粒。使用阴天自然光，黑色强却不空，中灰过渡有细节。背景语境极少，由共同的方向性注意与身体距离承载画面。避免戏剧化摆布或象征道具。氛围严峻、急迫且实体直接，像从人群内部目击一个重要时刻。",
+  "theme_en": "Three weary men crowded close together in a stark wartime photograph",
+  "theme_zh": "严峻战地照片中三名疲惫男子挤在一起",
+  "wh_ratio": "1:1",
+  "id": "4506",
+  "name": "Don McCullin",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/don-mccullin.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "fb11149b8abeb6e4f7d6512c52ffbfc79ec199921f4ed6f4c65ea5228645341b",
+    "gpt_submission_prompt": "A square black-and-white documentary photograph tightly frames three men in worn heavy clothing. The nearest face on the right occupies almost half the image, looking slightly upward and beyond the camera with parted lips and an anxious, exhausted expression. Dark hair falls under a soft cap, and his cheekbones, stubble, and weathered skin are sharply visible. A second man intrudes from the far left, so close that part of his face is cut off by the frame. Between them, a third man stands farther back, his face centered in the narrow gap and partially shaded by a cap. All three gaze in roughly the same off-camera direction. Their heavy coats and scarves overlap in a dense dark foreground, leaving almost no background context. A narrow pale area of sky or wall appears behind their heads. The camera is very close and slightly below eye height, compressing the group and intensifying their shared concern. Natural overcast light reveals pores, damp hair, creases, and fabric wear without theatrical spotlights. The grayscale is harsh but detailed, with luminous faces against deep charcoal garments. Fine film grain and slight irregular softness near the edges preserve the immediate photojournalistic feel. There are no weapons, insignia, flags, words, or explicit event markers visible, only bodies and expressions. The image is unsentimental and physically direct, recording collective apprehension through the crowded arrangement of three faces and the unresolved space they are watching.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "5bd2ab73db99f1b8033399c2434e937a4cca00277e040815f80dcc418f9ad274",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

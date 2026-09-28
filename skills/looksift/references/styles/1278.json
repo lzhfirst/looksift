@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square digital painting tightly frames a young woman from the shoulders upward against a deep green-gray background. She has black hair in loose twin tails, short uneven bangs, and a pair of dark goggles pushed onto the top of her head. Round red-tinted glasses sit low across her nose; their lenses reflect bright horizontal strips that partly obscure her eyes. Her lips are soft pink and slightly parted, and she looks outward with a guarded, detached expression. A black choker encircles her neck. She wears a red collared garment layered over pale blue sleeves, with only the upper torso visible before the crop cuts it off. Cool teal rim light catches wisps of hair and shoulders, while warm reddish light touches her cheek, mouth, and shirt. The background is minimal and shadowy, carrying only faint brush texture and no clear setting. Her face is finely modeled with smooth tonal transitions, but the hair and clothing are built with broader broken strokes and sketchy edge marks. Some stray strands cross the glasses and forehead, preventing the image from feeling overly polished. The composition is nearly frontal, but the head angles subtly and the reflective lenses add asymmetry. The palette remains controlled: charcoal, deep teal, cool gray, muted skin, crimson, and small pale glints. No text, sign, weapon, or added character appears. The overall mood is urban and cinematic, balancing intimate facial focus with expressive painterly texture and a restrained flash of red.",
+  "full_prompt_zh": "一幅方形数码绘画在深绿灰背景前紧裁一名年轻女子肩部以上。她的黑发松松扎双尾、刘海短且不齐，头顶推着一副深色护目镜。圆红色镜片压低在鼻梁上，亮横条反射局部遮住眼睛。嘴唇柔粉微张，向外望的神情戒备而疏离。脖上系黑颈圈。红色有领衣叠着浅蓝袖，仅见上身即被画框截去。冷青绿轮廓光接住散发与肩，暖红光触到脸颊、嘴和衣服。背景简约昏暗，仅留浅笔触纹理，没有清楚场所。面部用平滑明暗过渡细致塑形，头发与衣服则由较宽破碎笔触和速写边痕建起。几缕乱发越过眼镜和额头，使图像不至过度抛光。构图近正面，但头略倾，反光镜片添不对称。色板受控：炭色、深青、冷灰、低调肤色、绯红与小片浅色反光。没有文字、标牌、武器或附加人物。整体城市化而有电影感，把亲近面部焦点与有表情的绘画肌理、克制红色闪光平衡。",
+  "style_prompt_en": "Cinematic digital painting combines finely modeled focal planes with broader broken strokes at peripheral edges. A dark teal-charcoal atmosphere contains restrained crimson accents and small reflective glints. Cool rim light separates narrow contours from shadow, while softer warm light gives the center a gentle tonal warmth. Glossy or tinted surfaces interrupt the focal area with horizontal reflections. Close cropping and a minimal background preserve stray lines and visible brush texture, keeping the finish expressive rather than plastic. The mood is guarded and quietly intense, with color and edge control directing attention.",
+  "style_prompt_zh": "电影感数码绘画结合细致塑形的焦点平面与外围边缘较宽的破碎笔触。深青绿炭色氛围中含有克制的绯红重音和小片反光。冷轮廓光将窄边从阴影中分离，较柔暖光为中央带来温和的色调暖意。光泽或染色表面以水平反射打断焦点区域。紧密裁切和简约背景保留散线与可见笔触，使画面富于表现力而非塑料感。氛围戒备而安静紧张，色彩和边缘控制引导注意力。",
+  "theme_en": "A young woman with round red glasses in a moody painterly close-up",
+  "theme_zh": "戴圆红眼镜的年轻女子置于阴郁绘画特写中",
+  "wh_ratio": "1:1",
+  "id": "1278",
+  "name": "Guweiz",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/guweiz",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/guweiz.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "ac877a6e11f9ed27ea5df5c58dfc073474143e15dce91614810e74fd1ad29bcb",
+    "gpt_submission_prompt": "A square digital painting tightly frames a young woman from the shoulders upward against a deep green-gray background. She has black hair in loose twin tails, short uneven bangs, and a pair of dark goggles pushed onto the top of her head. Round red-tinted glasses sit low across her nose; their lenses reflect bright horizontal strips that partly obscure her eyes. Her lips are soft pink and slightly parted, and she looks outward with a guarded, detached expression. A black choker encircles her neck. She wears a red collared garment layered over pale blue sleeves, with only the upper torso visible before the crop cuts it off. Cool teal rim light catches wisps of hair and shoulders, while warm reddish light touches her cheek, mouth, and shirt. The background is minimal and shadowy, carrying only faint brush texture and no clear setting. Her face is finely modeled with smooth tonal transitions, but the hair and clothing are built with broader broken strokes and sketchy edge marks. Some stray strands cross the glasses and forehead, preventing the image from feeling overly polished. The composition is nearly frontal, but the head angles subtly and the reflective lenses add asymmetry. The palette remains controlled: charcoal, deep teal, cool gray, muted skin, crimson, and small pale glints. No text, sign, weapon, or added character appears. The overall mood is urban and cinematic, balancing intimate facial focus with expressive painterly texture and a restrained flash of red.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "f5ecacf786e023b8523697491b757a5f2c1b1cde52ccaa04ce830442ce2b0337",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

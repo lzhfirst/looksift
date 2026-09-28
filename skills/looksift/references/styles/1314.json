@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white comic panel shows a tense meeting in a damaged winter forest. In the left foreground, a traveler in a heavy coat stands three-quarter turned toward a second figure across a fallen tree. A long firearm hangs downward from the first traveler's hand rather than pointing at the other person. The distant figure stands near the center among pale leafless trunks, half hidden by brush and drifting light gray atmosphere. The huge fallen log cuts across the middle of the composition on a strong diagonal, physically separating the figures and leading the eye toward the central gap. Snow or pale ground patches break through black brush in the lower frame. Bare branches rise as sharp vertical marks around the scene, and the distant background becomes almost white through dense ink wash. Heavy black silhouettes define the nearest person and tree, while dry brush, crosshatching and scratched white streaks create bark, fabric, leaves and cold air. The figures are small enough within the woodland to suggest caution and uncertainty. There is no visible attack or injury; suspense comes from distance and the obstacle between them. The panel has the rough urgency of printed survival comics, with a clear spatial path through complicated marks and an atmosphere that feels harsh but readable.",
+  "full_prompt_zh": "一幅正方形黑白漫画格呈现受损冬林里紧绷的相遇。左前景一位穿厚外套的旅人以四分之三身形面向倒树另一侧的人；长枪从手里向下垂，并未指向对方。远处人物站在中央附近的浅色无叶树干之间，被灌木和浅灰漂浮空气遮住一半。巨大的倒木沿强烈对角线横切画面中部，既在物理上分开两人，也把目光引向中央空隙。下部黑色草丛间露出雪或浅色地面。裸枝作为尖锐竖线环绕场景，远背景经浓淡墨洗几乎化为白色。厚重黑剪影定义最近的人和树，干刷、交叉排线与刮出白痕刻画树皮、布料、叶片和冷空气。人物在树林里足够小，暗示警觉与不确定。画面没有可见袭击或伤害，悬念来自距离和中间障碍。它具有印刷生存漫画的粗粝紧迫感，复杂笔痕中仍有清晰空间路径，气氛严酷却可辨。",
+  "style_prompt_en": "The style is high-contrast black-and-white survival-comic inking with heavy silhouette masses, dry-brush grain, dense crosshatching and scratched pale streaks. Strong diagonals cross thin vertical rhythms, producing a readable route through rough environmental marks. Atmospheric gray wash separates foreground, middle distance and nearly white far space. The square composition balances black weight and exposed paper, preserving small-scale tension through placement rather than explicit action. Printed irregularity and tactile line pressure remain central to the finish.",
+  "style_prompt_zh": "这种风格是高反差黑白生存漫画墨线，具有厚重剪影、干刷颗粒、密集交叉排线和刮出的浅色条痕。强对角线穿过纤细竖向节奏，在粗糙环境标记间形成可读路径。空气感灰墨洗分开前景、中景与几乎白色的远处。正方形构图平衡黑色重量和露出纸面，通过位置而非直白动作保留小尺度张力。印刷不规则性和可触摸线条压力是最终表面的核心。",
+  "theme_en": "Two survivors facing each other across a fallen tree",
+  "theme_zh": "倒树两侧相望的两位幸存者",
+  "wh_ratio": "1:1",
+  "id": "1314",
+  "name": "Charlie Adlard",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/charlie-adlard",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/charlie-adlard.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "e922304cd27b7e69dfc9f4916881e878ec8ef43635cfb9a7cec8b5e93b704426",
+    "gpt_submission_prompt": "A square black-and-white comic panel shows a tense meeting in a damaged winter forest. In the left foreground, a traveler in a heavy coat stands three-quarter turned toward a second figure across a fallen tree. A long firearm hangs downward from the first traveler's hand rather than pointing at the other person. The distant figure stands near the center among pale leafless trunks, half hidden by brush and drifting light gray atmosphere. The huge fallen log cuts across the middle of the composition on a strong diagonal, physically separating the figures and leading the eye toward the central gap. Snow or pale ground patches break through black brush in the lower frame. Bare branches rise as sharp vertical marks around the scene, and the distant background becomes almost white through dense ink wash. Heavy black silhouettes define the nearest person and tree, while dry brush, crosshatching and scratched white streaks create bark, fabric, leaves and cold air. The figures are small enough within the woodland to suggest caution and uncertainty. There is no visible attack or injury; suspense comes from distance and the obstacle between them. The panel has the rough urgency of printed survival comics, with a clear spatial path through complicated marks and an atmosphere that feels harsh but readable.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "ac4dc4c458d3d980b03fe6241a4e6d9f0e710389a5b96c37fc1571b7d801758c",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

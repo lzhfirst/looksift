@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A vintage adventure illustration on warm, lightly worn paper shows an aviator standing in front of a compact old motorcar. The figure is centered and tall, with a firm, open stance; the rounded wheels, sweeping fenders, and exposed machinery make a broad low band behind her. A near-empty pale ground keeps the small foreground clear. Above it, a muted blue-green sky fills most of the background, broken by a few cream clouds with simple cut-paper silhouettes. The image is built from crisp dark contour lines and flat, gently weathered blocks of color. Brown leather, dusty rose, gray-green metal, and aged ivory supply its restrained palette. Fine scuffs and grain interrupt the flat areas like ink and paint rubbed across an old printed page. Mechanical circles, straps, seams, and buckles give the eye small rhythmic details without overtaking the large shapes. The light is even and slightly warm, with dark shadows gathered beneath the car and around its hardware, while the sky remains open and airy. A narrow printed border and subtle corner wear make the scene feel like an illustrated travel plate. The overall balance is graphic and calm, letting the upright silhouette and curving machine share the frame.",
+  "full_prompt_zh": "一幅画在微微磨旧的暖色纸上的复古冒险插画：一名飞行员站在一辆小巧旧式汽车前。人物居中而高挑，站姿稳健舒展；圆形车轮、弧线挡泥板和外露机械结构在她身后形成宽而低的横带。近乎空白的浅色地面让前景保持清爽。其上，柔和的蓝绿色天空占据大部分背景，几块奶油白的云呈简洁的剪纸轮廓。画面由清晰的深色轮廓线和略带磨损感的平涂色块构成。棕色皮革、灰玫瑰色、灰绿色金属与陈旧的象牙白组成克制的色盘。细小擦痕和颗粒打断平整色面，像旧印刷页上的油墨与颜料被轻轻磨过。机械圆环、带子、接缝和扣件形成细密的视觉节奏，却不盖过大形。光线均匀而略暖，暗影聚在车底与金属部件周围，天空则保持开阔通透。窄窄的印刷边框与角部的轻微旧痕，使场景像一张插画旅行画片。整体构图平衡而安静，让挺直的剪影与弯曲的机器共同占据画幅。",
+  "style_prompt_en": "A vintage printed illustration on lightly worn ivory paper. Crisp dark contours hold broad, matte areas of dusty rose, brown, blue-green, and muted gray. Rounded mechanical forms and slim vertical shapes repeat across a spacious composition; tiny rings, seams, and linear accents add measured rhythm. Fine grain and rubbed ink scuffs soften otherwise clean color blocks. Light is even and warm, with compact dark shadows below the heavier forms and a broad airy field above. A narrow border and faint corner wear complete the quiet travel-plate feeling.",
+  "style_prompt_zh": "略有旧痕的象牙色纸张上的复古印刷插画。清晰的深色轮廓围住灰玫瑰色、棕色、蓝绿色与柔灰色的宽阔哑光色面。圆润的机械形态与细长的竖向形态在疏朗构图中反复出现；小圆环、接缝和线状装饰形成有分寸的节奏。细颗粒与磨擦过的油墨痕迹柔化了原本整齐的色块。光线均匀温暖，较重的形体下方聚有紧凑暗影，上方则留下宽阔透气的色域。窄边框和边角轻微的旧痕带来安静的旅行画片气息。",
+  "theme_en": "An aviator and a weathered motorcar on a quiet roadside",
+  "theme_zh": "飞行员与旧式汽车停在安静的路边",
+  "wh_ratio": "1:1",
+  "id": "3034",
+  "name": "Dieselpunk",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/dieselpunk",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "a8e870bf9ead927c6bfbe69d933031f1f1a15be2b497c6ca6dd2b4373d15693b",
+    "gpt_submission_prompt": "A vintage adventure illustration on warm, lightly worn paper shows an aviator standing in front of a compact old motorcar. The figure is centered and tall, with a firm, open stance; the rounded wheels, sweeping fenders, and exposed machinery make a broad low band behind her. A near-empty pale ground keeps the small foreground clear. Above it, a muted blue-green sky fills most of the background, broken by a few cream clouds with simple cut-paper silhouettes. The image is built from crisp dark contour lines and flat, gently weathered blocks of color. Brown leather, dusty rose, gray-green metal, and aged ivory supply its restrained palette. Fine scuffs and grain interrupt the flat areas like ink and paint rubbed across an old printed page. Mechanical circles, straps, seams, and buckles give the eye small rhythmic details without overtaking the large shapes. The light is even and slightly warm, with dark shadows gathered beneath the car and around its hardware, while the sky remains open and airy. A narrow printed border and subtle corner wear make the scene feel like an illustrated travel plate. The overall balance is graphic and calm, letting the upright silhouette and curving machine share the frame.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "6b836303c01bd2336e6b6f4943c926c9c569df61bccb9d804cdd69b288288611",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

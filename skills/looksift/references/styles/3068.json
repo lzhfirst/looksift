@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A storybook scene is viewed from the shadow of a massive stone arch. The dark brown curve encloses most of the square, opening onto a pale, intricately assembled city of towers, pipes, bridges, and strange old machines. At the lower right, a small inventor crouches beside a rounded copper apparatus, touching a narrow control panel. The human scale makes the architecture feel enormous, yet the scene remains intimate because the figure and device occupy a pool of warm light on the stone floor. Beyond them, buildings rise in dusty blue-green layers, their carved and mechanical details softened by haze. Fine ink-like lines describe masonry joints, coils, railings, and rivets; a lightly grained wash unifies these details with the paper-like surface. Color is restrained: umber around the arch, chalky cream on the ground, faded teal in the distance, and copper orange on the machine. Light enters from the arch opening, creating a clear progression from deep foreground shadow to airy background. Rounded shapes repeat in the arch, smaller bridges, and apparatus, giving the busy scene visual order. Nothing feels polished or digitally exact; the imperfect textures make it resemble a hand-colored engraving brought to life as a film still. The image holds wonder through scale, layered depth, and quiet work.",
+  "full_prompt_zh": "一个故事书般的场景从巨大的石拱阴影中望出去。深棕色拱弧围住方形画幅的大部分，拱外是一座浅色、结构繁复的城市，有高塔、管道、桥梁和奇异的旧机器。右下方，一名小小的发明家蹲在圆鼓鼓的铜色装置旁，触碰一条狭窄的控制面板。人物的尺度使建筑显得格外庞大，但他与装置位于石地板上的一片暖光中，又让场景保持亲近。其后，建筑在灰蓝绿色的层次里升起，雕刻和机械细节被薄雾柔化。近似细墨线的笔迹描出石缝、线圈、栏杆与铆钉；轻微颗粒状的水洗色把这些细节与纸质表面统一起来。色彩克制：拱内的深棕、地面的粉白、远处褪色的青绿，以及机器上的铜橙色。光从拱洞透入，形成从深暗前景向通透背景的清楚过渡。圆形在拱、较小的桥和装置上反复出现，为繁忙场景带来秩序。画面没有光滑或数字般精确的质感；不完美的纹理使它像一张手工上色的版画变成电影剧照。层层深度、尺度变化与安静的工作动作共同承载奇妙感。",
+  "style_prompt_en": "An antique storybook image combining fine engraved lines with translucent hand-colored washes. A massive dark umber curve frames a luminous opening; intricate vertical and circular forms recede through chalk cream, faded teal, and dusty blue-green haze. Small copper-orange accents sit low in the frame. Fine masonry grain, scratches, rivet-like dots, and soft paper texture keep the detail tactile. Light moves from heavy foreground shadow into a pale distance, and repeated arcs organize the otherwise busy design. The mood is quietly wondrous, with layered scale and imperfect printed edges.",
+  "style_prompt_zh": "结合细致版刻线条与半透明手工上色薄层的古旧故事书画面。一道巨大的深棕弧线框住明亮开口；繁复的竖向和圆形结构在粉白、褪青绿和灰蓝绿薄雾中层层后退。小块铜橙色点缀落在画面下方。细密石纹、刮痕、铆钉般的圆点与柔软纸纹使细节保持可触的质地。光从沉重的前景阴影流向浅色远方，重复弧线给繁忙设计带来秩序。层层尺度和不完美的印刷边缘共同形成安静的奇妙气息。",
+  "theme_en": "A small inventor working beneath a giant stone arch",
+  "theme_zh": "巨型石拱下工作的小小发明家",
+  "wh_ratio": "1:1",
+  "id": "3068",
+  "name": "Karel Zeman",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/karel-zeman",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "1fe977434717d0820b1e4f660f9fea5b4bb5221fde61fdccea3c20667976b3b0",
+    "gpt_submission_prompt": "A storybook scene is viewed from the shadow of a massive stone arch. The dark brown curve encloses most of the square, opening onto a pale, intricately assembled city of towers, pipes, bridges, and strange old machines. At the lower right, a small inventor crouches beside a rounded copper apparatus, touching a narrow control panel. The human scale makes the architecture feel enormous, yet the scene remains intimate because the figure and device occupy a pool of warm light on the stone floor. Beyond them, buildings rise in dusty blue-green layers, their carved and mechanical details softened by haze. Fine ink-like lines describe masonry joints, coils, railings, and rivets; a lightly grained wash unifies these details with the paper-like surface. Color is restrained: umber around the arch, chalky cream on the ground, faded teal in the distance, and copper orange on the machine. Light enters from the arch opening, creating a clear progression from deep foreground shadow to airy background. Rounded shapes repeat in the arch, smaller bridges, and apparatus, giving the busy scene visual order. Nothing feels polished or digitally exact; the imperfect textures make it resemble a hand-colored engraving brought to life as a film still. The image holds wonder through scale, layered depth, and quiet work.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "3a744bc98aa47c1ac94f50321851aa6ef0868bdfd2ce2cac3120febd1e574c89",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

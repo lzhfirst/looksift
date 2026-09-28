@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "The painting presents a vast, moonlit desert valley under a sky crowded with monumental clouds. Near the center of the distant horizon, a small castle or fortified city rises from an isolated ochre plateau. Its narrow towers and clustered roofs catch a cool glimmer, but it occupies only a fraction of the frame. A bright river or ribbon of pale sand winds from the lower-left foreground toward the settlement, passing between reddish-brown rock outcrops. Low mountains stretch across both sides of the horizon, their peaks lit with silvery blue. Above them, tiers of immense cumulus clouds fill most of the square. They are sculpted in cream, blue-gray, and slate, with many small lit edges giving them a billowing, almost architectural presence. A brilliant round moon appears behind the cloud bank, while a much larger dark translucent sphere seems to loom behind it, creating an uncanny layered sky. The uppermost corners deepen to midnight blue and black. Light does not fall from a single simple source; moonlit highlights and reflected glows move through cloud, water, distant stone, and mountain ridges. The foreground remains dark and rugged, making the airy cloud masses feel even larger. The composition uses a low horizon and a tiny destination to emphasize scale and distance. It feels like a visionary landscape at the border of fantasy and cosmic dream, rendered with patient detail, luminous atmosphere, and an expansive sense of silence.",
+  "full_prompt_zh": "油画描绘月光下辽阔的荒漠山谷，天空被纪念碑般的巨云挤满。远处地平线中央，一座小城堡或要塞从孤立赭色高地上升起。细塔和密集屋顶接住冷微光，却只占画面很小部分。一条明亮河流或浅色沙带从左下前景蜿蜒向聚落，在红棕岩石间穿行。低山沿地平线两侧伸展，峰顶带银蓝光。其上层层庞大积云占据方形画幅大部，以奶油白、蓝灰和石板色塑形，许多小小亮边使云层鼓胀得近乎建筑。明亮圆月从云墙后显现，而更巨大的暗半透明球体似乎悬在其后，形成令人不安的重叠天空。最上角沉入深夜蓝与黑色。光并非来自单一简单源头，月色高光和反射微光在云、水、远处石城及山脊之间游走。前景保持粗砺昏暗，使轻盈云山显得更庞大。低地平线与微小目的地强调尺度和距离。它像处于幻想与宇宙梦境边界的远景，以耐心细节、发亮空气和开阔寂静感呈现。",
+  "style_prompt_en": "Create a visionary painted landscape with a very low horizon, small distant focal detail, and enormous sculpted atmospheric masses. Layer cream, slate, blue-gray, silver, ochre, and midnight navy with patient fine rendering and subtle luminous edges. Let winding bright paths guide the eye through dark textured foreground into hazy distance. Use overlapping circular glows and reflected cool highlights to create cosmic scale, keeping the square composition spacious and silent.",
+  "style_prompt_zh": "以极低地平线、微小远景焦点和庞大塑形气团构成幻想性绘画空间。耐心刻画奶油白、石板色、蓝灰、银色、赭黄与深夜蓝的层次及微亮边缘。让蜿蜒亮带引导目光穿过深色有肌理的前景进入朦胧远方。通过重叠圆形微光和冷色反射高光制造宇宙尺度，保持方形构图开阔而寂静。",
+  "theme_en": "Moonlit desert castle beneath immense clouds",
+  "theme_zh": "巨云之下的月夜荒原城堡",
+  "wh_ratio": "1:1",
+  "id": "1792",
+  "name": "Gilbert Williams",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/gilbert-williams",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/gilbert-williams.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "66aa84c0d4143a556efd24ecf9fa274925c83325abf9c20f960cec9cdaa0301d",
+    "gpt_submission_prompt": "The painting presents a vast, moonlit desert valley under a sky crowded with monumental clouds. Near the center of the distant horizon, a small castle or fortified city rises from an isolated ochre plateau. Its narrow towers and clustered roofs catch a cool glimmer, but it occupies only a fraction of the frame. A bright river or ribbon of pale sand winds from the lower-left foreground toward the settlement, passing between reddish-brown rock outcrops. Low mountains stretch across both sides of the horizon, their peaks lit with silvery blue. Above them, tiers of immense cumulus clouds fill most of the square. They are sculpted in cream, blue-gray, and slate, with many small lit edges giving them a billowing, almost architectural presence. A brilliant round moon appears behind the cloud bank, while a much larger dark translucent sphere seems to loom behind it, creating an uncanny layered sky. The uppermost corners deepen to midnight blue and black. Light does not fall from a single simple source; moonlit highlights and reflected glows move through cloud, water, distant stone, and mountain ridges. The foreground remains dark and rugged, making the airy cloud masses feel even larger. The composition uses a low horizon and a tiny destination to emphasize scale and distance. It feels like a visionary landscape at the border of fantasy and cosmic dream, rendered with patient detail, luminous atmosphere, and an expansive sense of silence.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "7abc2e036d744743b3f8d5d17fabf2d3deadb80eb175e0d2414fd9a42730f88b",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

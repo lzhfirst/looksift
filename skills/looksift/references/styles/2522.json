@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square quiet realist oil painting shows a young woman standing waist-deep in still marsh water at the edge of evening. She is placed slightly right of center and faces left in profile, her dark brown hair gathered into a soft low bun with loose strands near the cheek. She wears a high-necked navy blouse with sleeves pushed toward the elbows and a deep gray skirt that disappears beneath the waterline. Her arms rest straight and close to her sides, the hands submerged, while her gaze remains fixed on the distant reeds. The smooth water fills most of the lower frame in pale gray-green, interrupted by a few thin ripples around her waist and a dark vertical reflection below her body. Across the center runs a band of tall brown reeds and grasses, their fine upright marks mirrored faintly in the water. Beyond them lies a narrow dark tree line. At the top, a warm apricot and muted orange sunset grades into dusty blue, making the horizon a thin luminous divide. The woman's dark clothing becomes a compact solid shape against the pale reflective field. Brushwork is softly blended across skin and sky but remains visibly dragged and broken in the reeds and water. Low light from the sunset catches the side of her face and shoulder; the blouse and submerged skirt stay subdued with no sharp cast shadow. The composition uses restrained color, still reflections, and an upright solitary form to create a contemplative pause.",
+  "full_prompt_zh": "一幅方形安静的写实油画呈现年轻女子在傍晚站于齐腰的静沼水里。她略偏中央右侧，朝左呈侧面，深棕头发松松盘为低髻，面旁有几缕散发。她穿高领海军蓝上衣，袖子推向肘部，深灰裙子在水线下消失。双臂笔直贴近身侧，双手浸没水中，目光固定在远处芦苇。平滑水面以浅灰绿填满下半幅大部，只有腰边几道细波纹及身下深色竖向倒影。中央横着一带高棕芦苇和草，细竖笔在水中淡淡重现。其后是一条窄暗树线。上方，暖杏色与低饱和橙色夕照渐入灰蓝，使地平线成为细亮分界。女子深衣成为浅反光场前紧凑的实形。肌肤和天空笔触柔和融合，芦苇与水则有可见拖笔和断笔。落日低光照到侧脸和肩头，上衣与浸水裙子保持低调，没有锐利投影。构图以克制配色、静倒影和竖立的独自形体形成沉思停顿。",
+  "style_prompt_en": "Quiet realist oil painting uses softly blended flesh and sky beside broken, visibly dragged strokes in grass or reflective surfaces. Set a compact dark silhouette within a broad pale midtone field, with thin horizontal bands marking distance. Favor navy, slate green, brown reed tones, dusty blue, and a narrow apricot sunset glow. Low side light gently lifts one contour while much of the form remains subdued; reflections should be soft and slightly disrupted rather than mirror-perfect. Give the scene ample still space and only small movements of texture. The transferable feeling is restrained, introspective, and grounded in natural light.",
+  "style_prompt_zh": "安静写实油画让柔和融合的肌肤与天空，对着草或反光表面的可见拖笔、断笔。把紧凑深剪影置于宽阔浅中间调色场里，以细横带标出远处。偏用海军蓝、石板绿、棕色芦苇调、灰蓝和一道狭窄杏色夕光。低侧光轻轻托起一处轮廓，大部分形体仍克制；倒影柔和且稍被打乱，而非完美镜像。场景留充分静空间，只以小幅纹理变化运动。可迁移感受克制、内省，扎根于自然光。",
+  "theme_en": "A woman standing waist-deep in still marsh water at dusk",
+  "theme_zh": "暮色中女子站在齐腰的静沼水里",
+  "wh_ratio": "1:1",
+  "id": "2522",
+  "name": "Jeremy Lipking",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/jeremy-lipking",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/jeremy-lipking.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "4e979e9d42ffc5f0777cc15b34993f1c2fd8e19137ee2512a746a3c980b748ac",
+    "gpt_submission_prompt": "A square quiet realist oil painting shows a young woman standing waist-deep in still marsh water at the edge of evening. She is placed slightly right of center and faces left in profile, her dark brown hair gathered into a soft low bun with loose strands near the cheek. She wears a high-necked navy blouse with sleeves pushed toward the elbows and a deep gray skirt that disappears beneath the waterline. Her arms rest straight and close to her sides, the hands submerged, while her gaze remains fixed on the distant reeds. The smooth water fills most of the lower frame in pale gray-green, interrupted by a few thin ripples around her waist and a dark vertical reflection below her body. Across the center runs a band of tall brown reeds and grasses, their fine upright marks mirrored faintly in the water. Beyond them lies a narrow dark tree line. At the top, a warm apricot and muted orange sunset grades into dusty blue, making the horizon a thin luminous divide. The woman's dark clothing becomes a compact solid shape against the pale reflective field. Brushwork is softly blended across skin and sky but remains visibly dragged and broken in the reeds and water. Low light from the sunset catches the side of her face and shoulder; the blouse and submerged skirt stay subdued with no sharp cast shadow. The composition uses restrained color, still reflections, and an upright solitary form to create a contemplative pause.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "b37326ce57a431e70b841b513514834a266f177b6ed788f3f7dae15dea74b249",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

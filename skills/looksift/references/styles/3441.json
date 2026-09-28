@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A quiet comic-book illustration places a young girl and an older bearded man on a narrow city sidewalk under a vast pale grey sky. The girl stands near the middle in a simple orange-red dress and red boots, her black hair tied into short bunches. She looks down toward the man. He sits heavily on a low box at the right, wearing a red shirt with a yellow sleeve patch, dark trousers, thick boots, a cap, and a long ochre cape falling behind him. His elbows rest on his knees and his head tilts toward her. A red fire hydrant stands alone on the left, providing a second small vertical accent. Nearly two-thirds of the square image is empty grey air, with no visible buildings or horizon detail. Fine irregular ink lines pick out cloth folds, hair, beard, hydrant seams, and cracks in the light pavement; muted color is laid in flat, slightly mottled patches. Light is diffuse and nearly shadowless, yet small dark marks beneath the boots and box ground the figures. The restrained reds and ochres punctuate a broad neutral field. The three small forms spread along a single low ground line, and the large empty upper space slows the emotional rhythm of the exchange.",
+  "full_prompt_zh": "一幅安静的漫画插画把小女孩和留胡须的年长男子放在狭窄城市人行道上，上方是大面积浅灰天空。女孩站在中央附近，穿简洁的橙红连衣裙与红靴，黑发扎成短束，低头看向男子。男子沉沉坐在右边的矮箱上，穿红上衣、带黄色臂章的袖子、深色裤子、厚靴和帽子，长赭色披风垂在身后。他把手肘靠在膝上，头略转向她。左边独立立着红色消防栓，成为第二个小竖向色点。方形画幅近三分之二是空的灰色空气，没有可见建筑或地平线细节。纤细而不规则的墨线刻出衣褶、头发、胡须、消防栓接缝和浅色路面裂纹；低饱和颜色以略斑驳的平涂块铺开。光漫散，投影几乎没有，但靴子和箱子下面的细深痕让人物落地。克制的红和赭色点入宽阔中性色面。三个小形体沿同一低位地面线排开，巨大的上方空处放慢了这场交流的情绪节奏。",
+  "style_prompt_en": "A comic-ink and muted-color illustration puts finely drawn, irregular contours around compact forms set low in a broad pale field. Thin hatch marks and small broken lines describe folds, texture, and contact points, while large areas receive relatively flat, lightly mottled color. Rust red, ochre, charcoal, and cream accents remain small against a dominant cool grey ground. Diffuse illumination creates modest tonal turns and only short grounding shadows. The visual structure depends on wide negative space above a narrow horizontal strip, with a few separated vertical accents along it. Edges in the small focal forms are clear and detailed; the empty field has almost no internal marks or distance cues. The eye crosses the low sequence of forms and repeatedly returns to the calm expanse above, producing a deliberate, restrained pace.",
+  "style_prompt_zh": "漫画墨线与低饱和设色把纤细、不规则轮廓围在低处紧凑形体周围，上方保留宽阔浅色区域。细排线和断续小线描述褶皱、纹理与接触点，大块区域则采用相对平整、略有斑驳的填色。锈红、赭色、炭黑和奶白点缀在冷灰主底上保持小面积。漫射光带来适度明暗转折，只有短小的落地阴影。视觉结构依靠窄横带上方的宽阔留白，以及沿横带分离的几个竖向色点。小焦点处边缘清晰且细致，空色面几乎没有内部记号或距离线索。视线越过低处一串形体，又反复回到上方安静空地，使节奏有意放缓而克制。",
+  "theme_en": "A young girl speaking with an older costumed man beside a red hydrant",
+  "theme_zh": "红色消防栓旁与年长制服男子交谈的小女孩",
+  "wh_ratio": "1:1",
+  "id": "3441",
+  "name": "Frank Quitely",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/frank-quitely",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "f8a5a3c921e0df5430f4d4e5aad0bb430a8541e5aad9f22687442a32af8f2175",
+    "gpt_submission_prompt": "A quiet comic-book illustration places a young girl and an older bearded man on a narrow city sidewalk under a vast pale grey sky. The girl stands near the middle in a simple orange-red dress and red boots, her black hair tied into short bunches. She looks down toward the man. He sits heavily on a low box at the right, wearing a red shirt with a yellow sleeve patch, dark trousers, thick boots, a cap, and a long ochre cape falling behind him. His elbows rest on his knees and his head tilts toward her. A red fire hydrant stands alone on the left, providing a second small vertical accent. Nearly two-thirds of the square image is empty grey air, with no visible buildings or horizon detail. Fine irregular ink lines pick out cloth folds, hair, beard, hydrant seams, and cracks in the light pavement; muted color is laid in flat, slightly mottled patches. Light is diffuse and nearly shadowless, yet small dark marks beneath the boots and box ground the figures. The restrained reds and ochres punctuate a broad neutral field. The three small forms spread along a single low ground line, and the large empty upper space slows the emotional rhythm of the exchange.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "160a0acedc2445ca676c81db32c9b03ab9c5742e6d2b1bcda255e6f4e157c3a2",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

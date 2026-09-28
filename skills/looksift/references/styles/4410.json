@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square impressionist river landscape captures the hour just before sunset. A broad shallow river winds through low banks, reflecting a cloud-filled sky in broken cream, gold, gray, and soft blue patches. Slender dark trees rise from the left and right banks, while a small cluster of houses sits in the middle distance. The horizon is low enough for the heavy sky to occupy much of the frame. Its clouds are built from short, uneven brushstrokes in warm gray, pale ochre, lavender, and muted blue. The water repeats those colors with looser horizontal dabs, interrupted by marsh plants and dark reflected trunks. Foreground grasses and muddy banks are marked with quick green-brown touches. Diffuse light glows near the center of the horizon, gently brightening the roofs and water without a hard sun disk. The composition feels open and quiet, with vertical tree shapes giving rhythm to the river's horizontal surface. Paint is visibly layered but not thickly sculpted; small strokes mingle at a viewing distance while remaining separate up close. The whole scene has the fleeting, observed quality of an outdoor oil study, attentive to weather, reflection, and changing light rather than crisp detail.",
+  "full_prompt_zh": "一幅方形印象派河景捕捉日落前的一刻。宽而浅的河流穿过低岸，以破碎的乳白、金色、灰和浅蓝色块映出布满云的天空。纤细深色树木从左右岸升起，中景有一小簇房屋。地平线较低，让沉重天空占据画面大半。云由暖灰、浅赭、淡紫和低饱和蓝的短促不均匀笔触构成。水面用更松动的水平色点重复这些颜色，其间穿插湿地植物和深色树影。前景草丛与泥岸以快速绿棕色点笔标出。漫射亮光在地平线中央附近发亮，轻轻照亮屋顶与水面，没有清晰太阳圆盘。构图开放安静，垂直树形为河水的水平表面提供节奏。颜料明显层叠，但不厚重雕塑；远看小笔触相互融合，近看仍然分离。整体具有户外油画习作捕捉瞬间的性质，注意天气、倒影和变化中的光，而非锋利细节。",
+  "style_prompt_en": "An impressionist outdoor oil-painting language builds atmosphere through short broken strokes and repeated color notes in sky and reflection. Warm gray, pale ochre, lavender, muted blue, and green-brown mingle without smooth blending. A low horizon lets broad cloud texture dominate, while slender dark verticals punctuate the horizontal water. Diffuse late light glows near the center rather than forming a hard spotlight. Foreground vegetation is handled with quick marks; distant structures remain small and softened. The surface reads as layered paint observed in changing weather, with separate marks becoming coherent at a distance. The mood is quiet, open, and fleeting.",
+  "style_prompt_zh": "印象派户外油画语言通过短促破碎笔触、天空与倒影中重复的色点建立空气感。暖灰、浅赭、淡紫、低饱和蓝和绿棕相互交融，却不光滑混色。低地平线让广阔云纹占主导，纤细深色竖线点在水平水面上。傍晚漫射光在中央附近发亮，而不是形成硬聚光。前景植被用快速笔迹处理，远处建筑细小且柔化。表面是变化天气中层叠的观察性颜料，分开的笔迹在远看时合成整体。气氛安静、开放、稍纵即逝。",
+  "theme_en": "A quiet river at sunset reflects a cloudy sky and dark trees",
+  "theme_zh": "日落时一条安静河流映着云天与深色树木",
+  "wh_ratio": "1:1",
+  "id": "4410",
+  "name": "Claude Monet",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/claude-monet.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "7faa86098bc2f512df090d666f51e03aaa831a201efe88c47e148ea6831e6e77",
+    "gpt_submission_prompt": "A square impressionist river landscape captures the hour just before sunset. A broad shallow river winds through low banks, reflecting a cloud-filled sky in broken cream, gold, gray, and soft blue patches. Slender dark trees rise from the left and right banks, while a small cluster of houses sits in the middle distance. The horizon is low enough for the heavy sky to occupy much of the frame. Its clouds are built from short, uneven brushstrokes in warm gray, pale ochre, lavender, and muted blue. The water repeats those colors with looser horizontal dabs, interrupted by marsh plants and dark reflected trunks. Foreground grasses and muddy banks are marked with quick green-brown touches. Diffuse light glows near the center of the horizon, gently brightening the roofs and water without a hard sun disk. The composition feels open and quiet, with vertical tree shapes giving rhythm to the river's horizontal surface. Paint is visibly layered but not thickly sculpted; small strokes mingle at a viewing distance while remaining separate up close. The whole scene has the fleeting, observed quality of an outdoor oil study, attentive to weather, reflection, and changing light rather than crisp detail.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "eea43eddab87cfac20f1e5c9af74d67bd323d8aa4550cdb38ed8981b5edff8b5",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square realist painting shows an empty residential street after rain, viewed straight down its slightly receding length at dusk. Along the right side, a continuous row of red brick terrace houses runs toward the distance. Dark roofs, chimney stacks, white framed upper windows, and small front entries repeat in a measured rhythm above a long gray wooden fence. On the left, autumn trees line a strip of grass and pavement, their brown and rust leaves gathering into a dense canopy near the top edge. A series of thin streetlamps stands along the sidewalk, diminishing toward the vanishing point. The broad asphalt road fills the foreground, broken by shallow puddles that mirror the pale peach sky and dark branches in blue gray water. Wet fallen leaves lie scattered across the surface and along the curb. Near the distant center, the roadway narrows between the tree line and houses, but no figure or vehicle appears. Light from a low sky glows warm at the horizon, then cools to blue gray overhead. A small lit patch catches the pavement and house facades, while dark brown shade settles beneath the trees and fence. The painting is meticulously observed but subdued, with fine architectural edges, varied leaf marks, and soft reflections rather than dramatic action. The quiet street feels familiar, damp, and slightly melancholy, its repeating forms held together by evening color.",
+  "full_prompt_zh": "一幅方形写实绘画描绘雨后空荡的住宅街道，从正面望向它略微后退的尽头，时间是黄昏。右侧，连续一排红砖联排房屋伸向远方。深色屋顶、烟囱、白框上层窗户和小门廊在长长的灰色木围栏上方形成有节奏的重复。左侧，秋树沿草带和人行道排列，棕色与锈红叶片在顶缘附近聚成茂密树冠。一列细路灯沿着人行道站立，朝消失点逐渐缩小。宽阔柏油路占满前景，浅水洼把浅桃色天空和深色枝条映进蓝灰色水面。湿落叶散落在路面和路缘。靠近远处中央，道路在树列与房屋之间收窄，但没有人物或车辆。低空的光在地平线附近泛暖，往上转为蓝灰。小片亮处落在铺地和房屋立面上，树下及围栏旁聚着深棕阴影。画面观察细致却低调，有精准建筑边缘、多变叶片笔痕和柔软反射，而没有戏剧行动。安静街道熟悉、潮湿且略带忧郁，重复形体被傍晚颜色收拢。",
+  "style_prompt_en": "Realist landscape painting attends closely to ordinary surfaces under damp, fading light. Repeated verticals and narrow rectangular planes recede along a clear perspective line, while broad reflective ground occupies the foreground. The palette mixes brick red, smoky brown, muted olive, blue gray, and a small band of warm peach. Wet surfaces break reflections into irregular patches rather than mirror perfect copies, and scattered small marks interrupt larger calm planes. Fine edges describe built forms, while organic areas dissolve into softer, granular brushwork. Low evening illumination glows near the horizon and cools overhead; shadow collects along boundaries and beneath overhanging masses. The scene is empty and still, with subtle detail rewarding a longer look. Its mood is familiar, slightly melancholy, and carefully observed, shaped by weather, repeating rhythm, and restrained color.",
+  "style_prompt_zh": "写实风景绘画细看潮湿渐暗光线中的日常表面。重复竖线与窄矩形平面沿清楚透视线后退，宽阔反光地面占据前景。砖红、烟棕、低饱和橄榄绿、蓝灰和一小段暖桃色混成色域。湿表面把反射打碎成不规则色块，而非完美镜像，零散小痕打断较大的安静平面。细致边缘描述建造形体，有机区域则溶入更软的颗粒笔触。低垂傍晚光在远处发亮，往上转冷；阴影聚在边界和悬伸体块下方。场景空旷而静止，微妙细节经得起久看。气氛熟悉、略忧郁且观察精细，由天气、重复节奏和克制色彩共同塑成。",
+  "theme_en": "Empty wet residential street after rain at dusk",
+  "theme_zh": "雨后黄昏空无一人的潮湿住宅街道",
+  "wh_ratio": "1:1",
+  "id": "0806",
+  "name": "George Shaw",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/george-shaw",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/george-shaw.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "db2e5e7b64fb4571a5b587f2d881c28e144bc360938a68ab6b27f36cd29e2d94",
+    "gpt_submission_prompt": "A square realist painting shows an empty residential street after rain, viewed straight down its slightly receding length at dusk. Along the right side, a continuous row of red brick terrace houses runs toward the distance. Dark roofs, chimney stacks, white framed upper windows, and small front entries repeat in a measured rhythm above a long gray wooden fence. On the left, autumn trees line a strip of grass and pavement, their brown and rust leaves gathering into a dense canopy near the top edge. A series of thin streetlamps stands along the sidewalk, diminishing toward the vanishing point. The broad asphalt road fills the foreground, broken by shallow puddles that mirror the pale peach sky and dark branches in blue gray water. Wet fallen leaves lie scattered across the surface and along the curb. Near the distant center, the roadway narrows between the tree line and houses, but no figure or vehicle appears. Light from a low sky glows warm at the horizon, then cools to blue gray overhead. A small lit patch catches the pavement and house facades, while dark brown shade settles beneath the trees and fence. The painting is meticulously observed but subdued, with fine architectural edges, varied leaf marks, and soft reflections rather than dramatic action. The quiet street feels familiar, damp, and slightly melancholy, its repeating forms held together by evening color.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "f7a664a9f8e770437e0e0f176aab1c56bf38c3aaba173901223eadb5913d874c",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

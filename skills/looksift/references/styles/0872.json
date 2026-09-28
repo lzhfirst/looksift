@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square impressionistic painting gathers several young women in pastel dresses close together against a barely resolved floral setting. The central woman wears a blue-green dress with a gathered waist and dark hair piled high; her calm face turns toward the viewer. At left, a red-haired woman in pale rose leans inward. Behind them, faces and shoulders of other women emerge from soft patches of yellow, pink, cream, and light blue. At right, a pale-haired woman in lavender faces inward, completing the intimate cluster. Their eyes and lips are lightly suggested rather than sharply drawn. Thick but soft brushstrokes break the figures into overlapping color notes, so sleeves, hair, and flowers blend at the edges. The upper background carries scattered warm blossoms and cool green foliage; the lower half becomes a haze of gray-blue and cream paint that almost erases the bodies. Light is diffuse and pearly, without a single hard source or cast shadow. The composition feels airy, nostalgic, and social, with faces floating above an unfinished field of color. Visible canvas texture and scraped passages contribute to the tactile surface. The painterly mechanism relies on selective facial clarity against extensively lost edges and soft color mixing.",
+  "full_prompt_zh": "一幅方形印象式绘画把几位穿粉彩衣裙的年轻女性聚在几乎辨不清的花园场景中。中央女性穿腰部收起的蓝绿色衣裙，深发高盘，平静的脸朝观看者。左侧红发女子穿浅玫瑰色向内靠。背后其他女性的脸和肩从黄、粉、奶油及淡蓝色斑块中浮出。右侧浅发女子穿淡紫、面向内侧，围成亲密群组。眼与唇轻轻暗示，并不锐利勾出。厚而柔的笔触把人物拆成重叠色音，袖、发和花在边缘交融。上方背景散布暖色花朵与冷绿枝叶；下半部化为灰蓝与奶油颜料薄雾，身体几乎被抹去。光漫散如珍珠，没有单一硬光或投影。构图轻盈、怀旧而有社交气息，脸浮在未完成的色彩场上。可见画布纹理与刮擦段落增加触感。绘画机制是有选择地显清面部，对照大量消失的边缘与柔软色彩混合。",
+  "style_prompt_en": "Airy impressionistic painting with pearly diffuse light, soft pastel color notes, selective small areas of clarity, and broadly lost edges. Rose, lavender, blue-green, cream, and pale yellow overlap in broken brushwork. Canvas grain and scraped paint remain visible as forms dissolve into a gray-blue haze. The composition balances a compact focal cluster against an intentionally unfinished lower field.",
+  "style_prompt_zh": "轻盈印象式绘画，以珍珠般漫射光、柔粉彩色音、少数清楚小范围与大量消失的边缘构成。玫瑰、淡紫、蓝绿、奶油和浅黄在断续笔触中重叠。画布颗粒与刮擦颜料显露，形体融入灰蓝薄雾。构图让紧凑焦点群与有意未完成的下方场域平衡。",
+  "theme_en": "A gathering of pastel-dressed women in a loose garden painting",
+  "theme_zh": "松散花园绘画中一群身着粉彩衣裙的女性",
+  "wh_ratio": "1:1",
+  "id": "0872",
+  "name": "Judith Desrosiers",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/judith-desrosiers",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/judith-desrosiers.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "8d084021867b54b915f4bf3848d909b667aff8bc618504f7e74fd3cb7137b764",
+    "gpt_submission_prompt": "A square impressionistic painting gathers several young women in pastel dresses close together against a barely resolved floral setting. The central woman wears a blue-green dress with a gathered waist and dark hair piled high; her calm face turns toward the viewer. At left, a red-haired woman in pale rose leans inward. Behind them, faces and shoulders of other women emerge from soft patches of yellow, pink, cream, and light blue. At right, a pale-haired woman in lavender faces inward, completing the intimate cluster. Their eyes and lips are lightly suggested rather than sharply drawn. Thick but soft brushstrokes break the figures into overlapping color notes, so sleeves, hair, and flowers blend at the edges. The upper background carries scattered warm blossoms and cool green foliage; the lower half becomes a haze of gray-blue and cream paint that almost erases the bodies. Light is diffuse and pearly, without a single hard source or cast shadow. The composition feels airy, nostalgic, and social, with faces floating above an unfinished field of color. Visible canvas texture and scraped passages contribute to the tactile surface. The painterly mechanism relies on selective facial clarity against extensively lost edges and soft color mixing.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "79865434bbca0d69ae54a6abe04f6d71525b351599df45d393dee2c4e28fbfbe",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

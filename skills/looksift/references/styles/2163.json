@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square decorative illustration centers the head and shoulders of a pale-haired girl against a dense arrangement of curling botanical motifs. Large leather aviator goggles rest across the top of her swept white hair, their round glass lenses and dark straps adding weight to the delicate face below. She looks slightly toward the viewer with enormous dark blue-gray eyes, flushed cheeks, and softly closed lips. Long strands of hair curve around her shoulders in layered ribbons, mingling with pale turquoise leaves, a cool blue flower near her ear, and looping vine-like outlines. A light circular frame appears behind her head, organizing the ornament without becoming a hard border. Fine ink contours and numerous hairline strokes describe strands, petals, and mechanical details. The color is restrained and powdery: ivory, blue-gray, sea-glass green, faded teal, blush pink, and warm brown in the goggles. Shading is smooth on the skin but more textured and linear in the hair and decoration. Light is soft and even, giving the face a gentle glow while leaving the surrounding forms detailed rather than blurred. The eyes hold the focal point, while the curling pale shapes spread activity to every edge. The result blends doll-like character design, Art Nouveau ornament, and a carefully balanced mixture of organic and mechanical curves.",
+  "full_prompt_zh": "一幅方形装饰插画把浅发女孩的头肩置于密集卷曲的植物纹样前。宽大的皮质飞行护目镜横置在梳起的白发上，圆玻璃镜片与深色绑带给下方精致的面孔增添分量。女孩略朝观者望来，眼睛硕大而呈深蓝灰色，脸颊泛红，双唇柔和闭合。长发一缕缕绕过肩头，形成层叠丝带般的曲线，与浅青绿叶片、耳旁一朵冷蓝色花，以及盘绕的藤蔓轮廓交织。头后浮现淡淡的圆形框架，用来组织装饰，却并非硬边边框。纤细墨线与大量发丝般的笔触描出头发、花瓣和机械部件。色彩克制而带粉感：象牙白、蓝灰、海玻璃绿、褪色青绿、腮红粉和护目镜上的暖棕。皮肤的明暗平滑，头发与装饰则更有线性肌理。光线柔和均匀，让面孔微微发亮，同时周围形体保持丰富细节而不模糊。双眼锁住焦点，盘曲的浅色形体则把视觉活动延伸到四周。作品融合玩偶般的人物设计、新艺术风格装饰，以及有机曲线与机械曲线的细心平衡。",
+  "style_prompt_en": "Delicate decorative illustration with fine ink contours, ribbon-like curves, and layered ornamental density. Powdery ivory, sea-glass green, blue-gray, muted teal, blush, and small warm-brown accents create a gentle cool palette. Smooth luminous shading can meet intricate linear texture in adjacent surfaces. A subtle circular structure organizes swirling forms, while one sharply focused area anchors the eye. Organic motifs and precise mechanical details share the same graceful line language, with soft even light preserving the airy finish.",
+  "style_prompt_zh": "精致的装饰插画以纤细墨线、丝带般的曲线和层叠繁密的纹样构成。带粉感的象牙白、海玻璃绿、蓝灰、低饱和青绿、腮红粉与少量暖棕点缀形成柔和冷色系。平滑而微亮的明暗可以与相邻表面的繁复线性肌理并存。隐约的圆形结构组织盘旋形体，一个清晰焦点稳定视线。有机纹样与精确的机械细节共享优雅的线条语言，柔和均匀的光保留轻盈质感。",
+  "theme_en": "A pale-haired girl in aviator goggles amid curling floral ornament",
+  "theme_zh": "戴飞行护目镜的白发女孩置身卷曲花饰间",
+  "wh_ratio": "1:1",
+  "id": "2163",
+  "name": "Camilla d'Errico",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/camilla-derrico",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/camilla-derrico.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "87561958d54b0007cfe09c09ec0b52442daa2fc9d4926430397167d6d0e95cae",
+    "gpt_submission_prompt": "A square decorative illustration centers the head and shoulders of a pale-haired girl against a dense arrangement of curling botanical motifs. Large leather aviator goggles rest across the top of her swept white hair, their round glass lenses and dark straps adding weight to the delicate face below. She looks slightly toward the viewer with enormous dark blue-gray eyes, flushed cheeks, and softly closed lips. Long strands of hair curve around her shoulders in layered ribbons, mingling with pale turquoise leaves, a cool blue flower near her ear, and looping vine-like outlines. A light circular frame appears behind her head, organizing the ornament without becoming a hard border. Fine ink contours and numerous hairline strokes describe strands, petals, and mechanical details. The color is restrained and powdery: ivory, blue-gray, sea-glass green, faded teal, blush pink, and warm brown in the goggles. Shading is smooth on the skin but more textured and linear in the hair and decoration. Light is soft and even, giving the face a gentle glow while leaving the surrounding forms detailed rather than blurred. The eyes hold the focal point, while the curling pale shapes spread activity to every edge. The result blends doll-like character design, Art Nouveau ornament, and a carefully balanced mixture of organic and mechanical curves.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "36aee7aa6462ec39488a0c78aaab16b943d5236104eef16749e2ec3823810542",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

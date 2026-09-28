@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square expressionist oil portrait brings an older man's face and upper shoulders very close to the viewer. He wears a broad dark brimmed hat that stretches nearly across the top edge, casting a deep shadow over the forehead. His eyes look directly outward, wide and alert under thick brows. A strong nose, deep creases around the eyes, and a large curling dark mustache give the face its structure. Below the mustache, a full gray-white beard spreads across the lower center and merges into a dark jacket. A narrow reddish collar or scarf peeks near the bottom. The skin is built from brisk overlapping strokes of amber, salmon, ochre, cream, violet-gray, and black, with bright dabs on the brow, nose bridge, and cheekbone. The background is an unsettled field of green, yellow, rose, blue, and brown marks rather than a readable room. Dark strokes around the hat and shoulders anchor the face amid that color. Paint ridges, scraped passages, and quick directional marks remain visible; the beard is a tangle of pale short strokes rather than individually described hairs. The lighting appears warm from the upper right, lifting one side of the face while the hat brim and eye sockets stay deep. The composition is cropped tight enough that the figure presses outward, using raw paint movement and the direct gaze to create a forceful, candid presence.",
+  "full_prompt_zh": "一幅方形表现主义油画肖像把年长男子面孔与上肩推到观者近前。他戴宽大深色檐帽，几乎横过整条顶边，帽影沉在额头上。双眼在浓眉下直望外面，睁得警觉。挺鼻、眼旁深纹和一对卷曲大黑胡须构成面部结构。胡须下，浓密灰白长须铺在下部中央，并入深色外套。底边附近露出窄红褐色衣领或围巾。肌肤由琥珀、鲑粉、赭黄、奶油、紫灰与黑色的快速重叠笔触构成，眉额、鼻梁和颧骨有亮色点抹。背景是绿、黄、玫瑰、蓝和棕色笔痕组成的不安色场，而非可读房间。帽和肩周的深笔把脸稳在这些颜色中。颜料凸痕、刮擦段落和迅速定向笔迹都可见；胡子是一团浅短笔，而非一根根细描。光线似从右上暖照，托起脸一侧，帽檐和眼窝仍深暗。构图裁得很紧，使人物向外迫近，以原始颜料运动和直视目光造出有力、坦率的存在感。",
+  "style_prompt_en": "Expressionist oil portraiture uses brisk overlapping strokes, scrape marks, and thick dark anchors to make a recognizable form feel active. Build lit planes from amber, ochre, salmon, cream, and cool violet-gray, allowing colors to collide rather than blend perfectly. Let a broad shadow shape compress the upper frame and a textured pale mass hold the lower center. Background marks remain multicolored, restless, and only loosely spatial. A few sharply observed focal details preserve direct contact while surrounding edges loosen into paint. Directional warm light meets deep pockets of shadow. The transferable effect is candid, tactile, and forceful.",
+  "style_prompt_zh": "表现主义油画以快速重叠笔触、刮擦痕和厚深色锚点，让可辨形体显得活跃。受光平面由琥珀、赭黄、鲑粉、奶油与冷紫灰搭建，让颜色碰撞而不完美融合。宽阔深影形压住上缘，有纹理浅色团块稳住中下部。背景笔迹多彩、躁动，空间只作松散提示。少量锐利观察细节维持直接交流，周边边缘则放松进颜料。定向暖光遇上深重影窝。可迁移效果坦率、可触且有力。",
+  "theme_en": "An older mustached man in a dark hat painted with vigorous broken strokes",
+  "theme_zh": "戴深色帽的年长胡须男子，以强烈断笔描绘",
+  "wh_ratio": "1:1",
+  "id": "2480",
+  "name": "Lovis Corinth",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/lovis-corinth",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/lovis-corinth.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "604b027c4e53bb0d99b81c9e2ccd05cc7aab5da5489a16ebcd6263e153e9d272",
+    "gpt_submission_prompt": "A square expressionist oil portrait brings an older man's face and upper shoulders very close to the viewer. He wears a broad dark brimmed hat that stretches nearly across the top edge, casting a deep shadow over the forehead. His eyes look directly outward, wide and alert under thick brows. A strong nose, deep creases around the eyes, and a large curling dark mustache give the face its structure. Below the mustache, a full gray-white beard spreads across the lower center and merges into a dark jacket. A narrow reddish collar or scarf peeks near the bottom. The skin is built from brisk overlapping strokes of amber, salmon, ochre, cream, violet-gray, and black, with bright dabs on the brow, nose bridge, and cheekbone. The background is an unsettled field of green, yellow, rose, blue, and brown marks rather than a readable room. Dark strokes around the hat and shoulders anchor the face amid that color. Paint ridges, scraped passages, and quick directional marks remain visible; the beard is a tangle of pale short strokes rather than individually described hairs. The lighting appears warm from the upper right, lifting one side of the face while the hat brim and eye sockets stay deep. The composition is cropped tight enough that the figure presses outward, using raw paint movement and the direct gaze to create a forceful, candid presence.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "468e33cece527a39fd99c820bec5ec9d6a8fd6844b7b842e7a01bfa107d5e723",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

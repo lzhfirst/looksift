@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A gentle 35 mm color-film photograph shows a young woman sitting in the threshold of a shop doorway on a quiet afternoon. She wears a loose pale rose dress, white socks, and worn dark sneakers. One knee rises into the foreground while her elbow supports her head, and her long brown hair falls over her shoulder. She looks calmly toward the camera. The dark interior wall at right and the narrow doorframe create a strong vertical border, while the open street at left recedes into a soft background of low buildings, a utility pole, trees, and a light blue sky. Sunlight falls across her face, forearms, legs, and the concrete sill, leaving the interior in deep but gentle shadow. The photograph favors natural skin tones and a restrained pastel palette: blush pink, cream, dusty blue, muted green, and quiet brown. Grain is fine and the contrast moderate, with highlights that remain creamy rather than stark white. The distant street is softly focused, so its shapes give context without competing with the sitter. A slight warm cast in the light balances the cool sky and shaded frame. The picture is informal, with the leg and shoe cropped close to the lower edge and the body set slightly right of center. Its mood is unhurried and intimate, as though the shutter caught a natural pause between daily activities.",
+  "full_prompt_zh": "一幅柔和35毫米彩色胶片摄影呈现年轻女子在安静午后坐在商铺门槛上。她穿宽松淡玫瑰色裙、白袜和磨旧深色运动鞋。一只膝盖抬入前景，肘部支着头，长棕发落过肩。她平静地望向镜头。右侧深色室内墙和窄门框形成强竖向边界，左侧开阔街道退入低楼、电线杆、树和浅蓝天组成的柔背景。日光落在脸、前臂、腿和水泥门槛上，让室内保持深而柔的阴影。照片偏向自然肤色和克制粉彩：腮红粉、奶油、灰蓝、暗绿和安静棕色。颗粒细，反差适中，亮部奶油般柔和而非刺白。远处街道轻柔失焦，其形状提供环境而不与坐者争抢。一点暖光色平衡冷天空和阴影门框。画面随意，腿和鞋靠近下缘被裁切，身体略偏中心右侧。气氛不匆忙且亲密，像快门抓到日常活动之间的自然停顿。",
+  "style_prompt_en": "Fine-grained 35 mm color-film photography emphasizes natural skin and a subdued pastel palette. Creamy highlights, blush and peach midtones, muted greens, dusty blues, and deep neutral shadows are balanced without extreme saturation. Daylight enters from an open side, shaping nearby surfaces gently while a darker vertical edge frames the composition. Contrast remains moderate; shadow retains texture and bright areas roll off softly rather than clipping hard. The focus plane is clear around the nearer forms, while distant details relax into unobtrusive blur. A casual off-center crop and a close foreground shape make the frame feel observed rather than rigidly posed. Smooth skin, light cloth, concrete, and dark painted surfaces each carry distinct but restrained texture. The visual rhythm moves from shaded border through warm lit center into pale receding space, producing a quiet, nostalgic, everyday atmosphere.",
+  "style_prompt_zh": "细颗粒35毫米彩色胶片摄影强调自然皮肤与压低的粉彩调色。奶油亮部、腮红和浅桃中间调、暗绿、灰蓝和深中性影被平衡得不极端饱和。日光从开放一侧进入，柔和塑造近处表面，同时较暗竖边框住构图。反差适中；阴影保留纹理，亮区柔和滚降而非硬截白。焦平面在近形周围清楚，远细节放松为不扰人的模糊。随意偏心取景和贴近的前景形让画框像被观察到，而非僵硬摆好。平滑皮肤、轻布、水泥与深色涂漆面各有不同却受控的纹理。视觉节奏由遮阴边界穿过暖亮中心进入浅色退远空间，形成安静、怀旧、日常的气氛。",
+  "theme_en": "A young woman rests in a doorway on a quiet summer afternoon",
+  "theme_zh": "年轻女子在安静夏日下午倚坐门口休息",
+  "wh_ratio": "1:1",
+  "id": "2847",
+  "name": "Kodak Portra 160",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/kodak-portra-160",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/kodak-portra-160.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "a53ccf539622c79bba38ce886066f3aa346701c180050cc0bef186413df6fbd0",
+    "gpt_submission_prompt": "A gentle 35 mm color-film photograph shows a young woman sitting in the threshold of a shop doorway on a quiet afternoon. She wears a loose pale rose dress, white socks, and worn dark sneakers. One knee rises into the foreground while her elbow supports her head, and her long brown hair falls over her shoulder. She looks calmly toward the camera. The dark interior wall at right and the narrow doorframe create a strong vertical border, while the open street at left recedes into a soft background of low buildings, a utility pole, trees, and a light blue sky. Sunlight falls across her face, forearms, legs, and the concrete sill, leaving the interior in deep but gentle shadow. The photograph favors natural skin tones and a restrained pastel palette: blush pink, cream, dusty blue, muted green, and quiet brown. Grain is fine and the contrast moderate, with highlights that remain creamy rather than stark white. The distant street is softly focused, so its shapes give context without competing with the sitter. A slight warm cast in the light balances the cool sky and shaded frame. The picture is informal, with the leg and shoe cropped close to the lower edge and the body set slightly right of center. Its mood is unhurried and intimate, as though the shutter caught a natural pause between daily activities.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "3a3e0d88cc35dc42aeb91265f14f82001c6c39d451b2c6cb9287403f05c0d601",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square realist oil painting shows a blond child seated sideways on a wooden chair beside a white-clothed kitchen table. The child bends forward in absorbed concentration over a small object held near the lap, wearing a cream long-sleeved blouse, a dark green pinafore, and dark socks. On the table at left sit white ceramic vessels, a small plate, and a few orange fruits. Below, a ginger cat lies on the stone floor while a dark cat sits close to the chair leg. The wall behind is pale and worn, with hanging household objects, shelves, and a few red accents. The carved chair back and table legs give the intimate scene firm vertical structure, while the child's rounded posture softens it. Daylight falls from the left, making the cloth and blond hair glow and leaving gentle shadow under the table and chair. The painting is closely observed: fine marks describe hair, pottery, cloth folds, fur, and floor joints, but none feels sharply photographic. The palette stays warm and modest, with cream, ochre, brown, muted green, and small orange notes. No readable lettering appears. The overall composition is domestic and quiet, balancing careful detail with the stillness of a child occupied by ordinary work.",
+  "full_prompt_zh": "一幅方形写实油画描绘一名金发孩子侧坐在木椅上，旁边是铺白布的厨房桌。孩子向前弯身，专注于膝边手里的一件小物，穿乳白色长袖上衣、深绿色背带裙和深色袜子。左侧桌上放着白陶器、小盘和几颗橙色水果。下方，一只姜黄色猫卧在石地上，一只深色猫靠近椅腿坐着。身后墙面浅色而磨旧，有悬挂的家用物件、架子和少量红色点。雕花椅背与桌腿给予亲密场景坚实竖向结构，孩子圆弯的姿态使它柔和。日光从左侧落下，让布和金发发亮，桌椅下方留着温和阴影。绘画观察仔细：细笔描出头发、陶器、布褶、毛和地板接缝，却不显锐利照片感。色谱温暖而朴素，有乳白、赭黄、褐色、暗绿与少量橙色。没有可辨认文字。整体构图家庭化且安静，以仔细细节平衡孩子专注于寻常活计的静止感。",
+  "style_prompt_en": "A realist oil-painted surface holds warm cream, ochre, brown, muted green, and small orange accents within a modest interior light. Fine observed marks distinguish fibrous, ceramic, furry, and worn flat textures, while soft blending keeps the whole cohesive. Daylight from one side brightens pale clothlike planes and golden fine strokes, with gentle shadows gathering beneath horizontal surfaces. Firm vertical wooden forms balance a rounded central posture, and a few low dark accents weight the foreground. The composition is intimate and carefully ordered, with tactile domestic detail and calm rather than photographic sharpness.",
+  "style_prompt_zh": "写实油画表面在朴素室内光中安排暖乳白、赭黄、褐色、暗绿和少量橙色点。精细观察笔迹区分纤维、陶质、毛绒和磨旧平面纹理，柔和晕合仍使整体协调。一侧日光照亮浅色布样平面与金色细笔，温和阴影聚在水平面下方。坚实木质竖形平衡圆弯中央姿态，几处低处深色重点压住前景。构图亲密而有序，日常细节可触且平静，不追求照片般锐利。",
+  "theme_en": "A child occupied with a small task at a kitchen table",
+  "theme_zh": "厨房餐桌旁专注于小事的孩子",
+  "wh_ratio": "1:1",
+  "id": "2793",
+  "name": "Albert Anker",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/albert-anker",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/albert-anker.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "6092b727f7d44a0a1810a4ca0c2ac95054efab7717212365c9c03de6442c9b71",
+    "gpt_submission_prompt": "A square realist oil painting shows a blond child seated sideways on a wooden chair beside a white-clothed kitchen table. The child bends forward in absorbed concentration over a small object held near the lap, wearing a cream long-sleeved blouse, a dark green pinafore, and dark socks. On the table at left sit white ceramic vessels, a small plate, and a few orange fruits. Below, a ginger cat lies on the stone floor while a dark cat sits close to the chair leg. The wall behind is pale and worn, with hanging household objects, shelves, and a few red accents. The carved chair back and table legs give the intimate scene firm vertical structure, while the child's rounded posture softens it. Daylight falls from the left, making the cloth and blond hair glow and leaving gentle shadow under the table and chair. The painting is closely observed: fine marks describe hair, pottery, cloth folds, fur, and floor joints, but none feels sharply photographic. The palette stays warm and modest, with cream, ochre, brown, muted green, and small orange notes. No readable lettering appears. The overall composition is domestic and quiet, balancing careful detail with the stillness of a child occupied by ordinary work.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "ea03236ebb097f6ad99434c35158ac0bc2090a51a6970571abce9ef5ab508c60",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

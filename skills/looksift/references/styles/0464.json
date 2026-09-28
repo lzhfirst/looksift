@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square storybook-style game illustration shows three small, friendly characters seated side by side in a warmly lit wooden room. On the left, a purple-gray wolf or dog character with pointed ears sits in a red armchair, wearing a dark jacket and looking toward the center with a broad smile. In the middle, a round-faced human character with large glasses and a tan cap sits upright, hands resting near the lap, dressed in a blue top and brown trousers. On the right, a pink pig character in a light blue jacket occupies a matching red chair, smiling gently toward the viewer. The figures have oversized heads, short limbs, and clean, expressive facial features. Behind them, the wall is made of dark vertical wooden boards. Two simple round clocks hang high on either side, and a warm pendant lamp glows above a narrow shelf at the center. Small decorative objects and a few plants fill the back ledge without crowding the characters. In the foreground, a rounded patterned rug and a small wooden stool or table anchor the seating area; leaves and pots enter from the lower corners. The colors are earthy and soft, with plum, rose, tan, moss green, and amber. Surfaces resemble carefully textured 3D or painted game art, with gentle rounded modeling rather than sharp realism. Warm light pools over the faces and chairs, while corners remain cozy and dim. The composition is symmetrical in its three-character arrangement, but varied shapes and relaxed expressions make it intimate and playful.",
+  "full_prompt_zh": "一幅方形故事书式游戏插画描绘三位小巧友好的角色并排坐在温暖受光的木屋中。左侧，一只紫灰色、尖耳的狼或狗角色坐在红扶手椅上，穿深色外套，咧嘴笑着看向中央。中间，戴大眼镜和棕帽的圆脸人类角色坐得端正，双手靠近膝上，穿蓝上衣和棕裤。右侧，一只穿浅蓝外套的粉红猪角色坐在另一张红椅上，温和地朝观众笑。角色头大、四肢短，面部特征干净且表情明确。身后墙壁由深色竖木板组成。两只简单圆钟分别挂在高处两侧，一盏暖吊灯在中央窄架上方发光。小装饰物与几盆植物填在后方台面，但不挤占角色。前景中，圆角花纹地毯和小木凳或桌子稳住座区；叶片与花盆从下方两角进入。调色朴实柔和，有李紫、玫瑰红、棕褐、苔绿和琥珀。表面像细致纹理的三维或绘画游戏美术，以温和圆润塑形，而非尖锐写实。暖光聚在脸和椅上，角落仍舒适昏暗。构图因三人排列而对称，变化的形状与放松表情又使它亲密俏皮。",
+  "style_prompt_en": "Use cozy storybook game art with rounded forms, oversized expressive features, gently textured surfaces, and small readable props. Build a warm earthy palette of rose, plum, tan, moss, and amber with soft glowing light gathered near the focal group. Keep modeling simple and tactile, like painted 3D miniatures, avoiding sharp photoreal detail. Arrange a small ensemble in a clear balanced rhythm and surround it with enough domestic texture to feel inhabited while preserving generous visual clarity.",
+  "style_prompt_zh": "采用温暖故事书游戏美术，以圆润形体、夸张但表情清晰的特征、柔和纹理表面和可读的小道具成形。用玫瑰、李紫、棕褐、苔绿与琥珀建立朴实暖调，让柔亮光聚在焦点群。塑形简单可触，如手绘三维微缩物，避开尖锐摄影细节。将小型群体按清楚平衡的节奏排列，以适量生活肌理环绕，既像有人居住又保持视觉明晰。",
+  "theme_en": "Three friendly cartoon neighbors seated in a cozy wooden room",
+  "theme_zh": "三位友好的卡通邻居坐在温暖木屋中",
+  "wh_ratio": "1:1",
+  "id": "0464",
+  "name": "Animal Crossing",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/animal-crossing",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/animal-crossing.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "da7e76c2adba16a733a5b6eb07195636331dec577f3386b630d2833e44e1a990",
+    "gpt_submission_prompt": "A square storybook-style game illustration shows three small, friendly characters seated side by side in a warmly lit wooden room. On the left, a purple-gray wolf or dog character with pointed ears sits in a red armchair, wearing a dark jacket and looking toward the center with a broad smile. In the middle, a round-faced human character with large glasses and a tan cap sits upright, hands resting near the lap, dressed in a blue top and brown trousers. On the right, a pink pig character in a light blue jacket occupies a matching red chair, smiling gently toward the viewer. The figures have oversized heads, short limbs, and clean, expressive facial features. Behind them, the wall is made of dark vertical wooden boards. Two simple round clocks hang high on either side, and a warm pendant lamp glows above a narrow shelf at the center. Small decorative objects and a few plants fill the back ledge without crowding the characters. In the foreground, a rounded patterned rug and a small wooden stool or table anchor the seating area; leaves and pots enter from the lower corners. The colors are earthy and soft, with plum, rose, tan, moss green, and amber. Surfaces resemble carefully textured 3D or painted game art, with gentle rounded modeling rather than sharp realism. Warm light pools over the faces and chairs, while corners remain cozy and dim. The composition is symmetrical in its three-character arrangement, but varied shapes and relaxed expressions make it intimate and playful.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "9a6fda99643f7c23b0e311779faf2439de30c344012e2e555dd7d8f4d86afcbc",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

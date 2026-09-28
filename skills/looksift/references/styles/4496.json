@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square minimal fine-art photograph shows a lone dark-dressed figure standing or walking across a wide wet plain under a pale blue-gray sky. The person is small, near the lower center, their long skirt or coat widening toward the ground and trailing slightly in the wind. Shallow water and muddy tracks cross the foreground, reflecting a little cool sky light. The land rises gently at the far left horizon and fades into mist toward the right. Most of the upper two-thirds of the composition is empty clouded atmosphere, with subtle cyan and gray gradients rather than distinct clouds. The figure is rendered almost as a black silhouette but retains a fine edge along the head and upper torso. There are no buildings, trees, or other people to establish a fixed location. Low diffuse daylight removes hard shadows; tonal depth comes from the darker wet ground and the gradual haze of the distance. Fine grain and slightly muted focus preserve a dreamlike photographic texture. The spatial emptiness makes the single human presence feel vulnerable yet self-contained. The image is restrained, melancholy, and quietly cinematic, with its drama held in the distance between a tiny figure and the immense open weather.",
+  "full_prompt_zh": "一张方形极简艺术照片呈现一位深衣人影站立或行走在宽阔湿地上，头顶是浅蓝灰天空。人物很小，位于下方中央附近，长裙或外套在靠地处展开，被风稍稍拖动。浅水与泥泞车辙横过前景，反射少量冷天光。左侧远处地面轻轻升起，向右逐渐隐没在雾中。上方三分之二几乎全是空旷多云空气，只有微妙青灰渐层，没有清楚云形。人物近似黑剪影，但头部与上身仍有细边。没有建筑、树或其他人来规定地点。低而漫射的日光消除硬影；调子纵深来自更暗的湿地和远方渐浓的雾。细颗粒与稍柔的焦点保留梦境般摄影质感。空间空旷使单一人的存在显得脆弱却自持。画面克制、忧郁而安静地具有电影感，戏剧性藏在极小人影与巨大开放天气之间的距离中。",
+  "style_prompt_en": "Minimal fine-art photography with a tiny dark focal mark against immense pale blue-gray atmospheric space. Wet reflective ground, fog-softened horizon, muted focus, and fine grain carry the surface. Low diffuse light removes hard shadows, leaving depth to emerge from gentle tonal gradients and sparse silhouette contrast. The visual mood is solitary and quietly cinematic.",
+  "style_prompt_zh": "极简艺术摄影，以巨大浅蓝灰空气空间对照一个极小深色焦点标记。湿润反光地面、被雾柔化的地平线、低调焦点与细颗粒承担表面肌理。低位漫射光消除硬影，纵深由柔和调子渐层和稀疏剪影反差产生。视觉气氛孤独而安静地具有电影感。",
+  "theme_en": "A solitary dark-dressed figure crossing a cold wet plain",
+  "theme_zh": "一位深衣人影穿过寒冷潮湿的平原",
+  "wh_ratio": "1:1",
+  "id": "4496",
+  "name": "Felicia Simion",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/felicia-simion.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "a75868ac2c2cbe18b4d9b8a51635e23d1cdd5d20951284a54b04388e23b5042a",
+    "gpt_submission_prompt": "A square minimal fine-art photograph shows a lone dark-dressed figure standing or walking across a wide wet plain under a pale blue-gray sky. The person is small, near the lower center, their long skirt or coat widening toward the ground and trailing slightly in the wind. Shallow water and muddy tracks cross the foreground, reflecting a little cool sky light. The land rises gently at the far left horizon and fades into mist toward the right. Most of the upper two-thirds of the composition is empty clouded atmosphere, with subtle cyan and gray gradients rather than distinct clouds. The figure is rendered almost as a black silhouette but retains a fine edge along the head and upper torso. There are no buildings, trees, or other people to establish a fixed location. Low diffuse daylight removes hard shadows; tonal depth comes from the darker wet ground and the gradual haze of the distance. Fine grain and slightly muted focus preserve a dreamlike photographic texture. The spatial emptiness makes the single human presence feel vulnerable yet self-contained. The image is restrained, melancholy, and quietly cinematic, with its drama held in the distance between a tiny figure and the immense open weather.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "497e5d8198d52f20032a26f47b4c55ff8b8e17d7eb81b75c56f89c6f40efad09",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

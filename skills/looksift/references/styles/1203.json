@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square print-like illustration centers a single broad-bodied fish against a quiet ivory field. The fish faces right, its body shaped as a dark near-black oval with pointed tail and sharply cut triangular fins. Its large circular eye is ringed with red, ochre and cream, while thin colored bands and rows of small round markings travel along its side. The lower body holds deep oxblood red, pale blush and teal passages arranged in nested curving shapes. Each fin has a distinct direction and internal stripe rhythm, so the silhouette reads clearly before any small decoration is noticed. The figure nearly spans the width of the square but floats with ample pale space above and below. Colors stay earthy and mineral—black, burgundy, muted turquoise, ochre and warm cream—rather than neon. The surface resembles a carefully cut and printed design: fine grain inside the flat areas, slight edge texture, and strong outline control. There is no surrounding water or naturalistic scene. The image's interest lies in how animal form is translated into rhythmic geometry, with eye rings, fin wedges and internal arcs echoing one another. The final artwork feels handmade and highly organized, retaining both a lively biological profile and the clarity of a graphic emblem.",
+  "full_prompt_zh": "一幅正方形版画感插画在安静的象牙白底上居中呈现一条身体宽阔的鱼。鱼面向右，近黑色椭圆形身躯接尖尾和利落切出的三角鱼鳍。巨大的圆眼由红、赭与乳白色环围，细色带和一排排小圆纹沿身体侧面延伸。下半身由深酒红、浅粉与青绿色区域组成，形状层层相套、弧线弯转。每片鳍的方向和内部条纹节奏各不相同，因此剪影在细节被注意到之前已经清晰可读。鱼形几乎横跨正方形宽度，上下仍留充足浅色空间。颜色偏土色与矿物色，包含黑、酒红、低饱和青绿、赭与暖乳白，并非荧光。表面像精心裁切、印制的图案：平涂区内有细颗粒，边缘略有肌理，轮廓控制有力。周围没有水或自然主义场景。趣味在于动物形体如何被转为有节奏的几何，眼部圆环、鱼鳍楔形和内部弧线彼此呼应。最终作品有手工性又高度有序，既保留活泼的生物轮廓，也具有图形徽记般的清晰度。",
+  "style_prompt_en": "The style is hand-printed graphic illustration with a bold isolated silhouette, flat mineral pigments, nested curvilinear motifs and fine grain within color areas. Dark near-black shapes, oxblood red, muted teal, ochre and warm ivory form a restrained but lively palette. Strong contour control meets small repeated marks and carved-looking stripes. Broad negative space within a square frame gives the central form emblematic clarity. The surface remains tactile and slightly irregular rather than digitally frictionless, and decorative rhythm remains integrated with readable shape.",
+  "style_prompt_zh": "这种风格是手工印制感图形插画，具有醒目而独立的剪影、平涂矿物色、层套曲线纹样和色域内部的细颗粒。近黑形状、深酒红、低饱和青绿、赭黄与暖象牙白组成克制却活泼的配色。强力轮廓控制与小型重复标记、仿刻制条纹相遇。正方形画框内的宽阔留白赋予中央形体徽记般清晰度。表面可触摸且略不规则，没有数字绘制的无摩擦平滑感，装饰节奏仍与可读形状结合。",
+  "theme_en": "A patterned fish on a clean ivory field",
+  "theme_zh": "象牙白底上的纹样鱼形",
+  "wh_ratio": "1:1",
+  "id": "1203",
+  "name": "Kenojuak Ashevak",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/kenojuak-ashevak",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/kenojuak-ashevak.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "04cc4f3e94982f3ac596312b9e47e44cfacbd3df615c175864798866a755eb7f",
+    "gpt_submission_prompt": "A square print-like illustration centers a single broad-bodied fish against a quiet ivory field. The fish faces right, its body shaped as a dark near-black oval with pointed tail and sharply cut triangular fins. Its large circular eye is ringed with red, ochre and cream, while thin colored bands and rows of small round markings travel along its side. The lower body holds deep oxblood red, pale blush and teal passages arranged in nested curving shapes. Each fin has a distinct direction and internal stripe rhythm, so the silhouette reads clearly before any small decoration is noticed. The figure nearly spans the width of the square but floats with ample pale space above and below. Colors stay earthy and mineral—black, burgundy, muted turquoise, ochre and warm cream—rather than neon. The surface resembles a carefully cut and printed design: fine grain inside the flat areas, slight edge texture, and strong outline control. There is no surrounding water or naturalistic scene. The image's interest lies in how animal form is translated into rhythmic geometry, with eye rings, fin wedges and internal arcs echoing one another. The final artwork feels handmade and highly organized, retaining both a lively biological profile and the clarity of a graphic emblem.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "79f4b607556abdbc9ad9de08d6ede196b9d41e28ff490f23586efb462fc321a2",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

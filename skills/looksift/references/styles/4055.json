@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square painterly architectural view shows a grand red-stone monument beside calm reflective water. The building rises from the left and center of the image under a pale, lightly speckled sky. A large pale dome crowns the central block, while smaller domes and slender corner towers repeat at varied heights around it. Below the dome, a deep arched entrance cuts into a warm terracotta façade, its recesses layered with smaller pointed openings and delicate trim. The stone walls carry weathered rust, sienna, and brown tones, with pale bands tracing some edges and projecting ledges. At the left, a lower bridge-like section extends across the water toward the main structure; at the right, leafy trees partly screen the outer arcade. The bottom strip of water catches broken reflections of domes, masonry, and green foliage, softened by subtle ripples. Fine line work and lightly mottled washes suggest a hand-colored historical illustration rather than a hard-edged photograph. The ornament stays legible through repeated arch shapes, parapets, and tiny shadowed apertures, but no inscription is readable. Daylight falls from the upper left, warming the exposed stone while placing the entrance and side arches in deep brown shadow. The water returns this warm brightness in quieter, blurred bands. The overall composition feels stately and layered, balancing the high central dome with lower lateral wings and the cool horizontal mirror of water.",
+  "full_prompt_zh": "一幅方形绘画式建筑图展现平静倒影水畔的宏大红石纪念建筑。建筑在淡而略带斑点的天空下从左侧与中央升起。巨大的浅色穹顶冠于主楼之上，较小穹顶和细长角塔则在周围以不同高度重复。穹顶下方，深拱入口切入暖陶土色立面，凹处叠着更小的尖拱开口和精细饰边。石墙带有风化的铁锈色、赭红与棕色，部分边缘和外挑檐口由浅色横带勾出。左边较低的桥状部分越过水面接向主楼；右侧绿树遮住外侧拱廊一部分。底部水带映出穹顶、砌体和绿叶破碎的倒影，被细微涟漪柔化。细线与略带斑驳的淡彩使画面更像手工着色的历史插画，而非边缘生硬的照片。重复的拱形、墙顶与细小暗洞让装饰仍可辨认，但没有可读铭文。日光从左上方落下，温暖地照亮外露石面，让入口与侧拱陷入深棕阴影。水面以更安静、更模糊的色带回应这份暖亮。整体构图庄重而层叠，用高耸中央穹顶平衡较低的侧翼和水面清凉的水平镜像。",
+  "style_prompt_en": "Painterly illustration combines fine line work with mottled, hand-colored washes. Repeated pointed and rounded contours establish a layered cadence, while softened edges and tiny speckles give the surface an aged paper feel. Rust red, burnt sienna, ochre, pale stone, and subdued green dominate, set against a lightly warm neutral field. Oblique daylight warms exposed planes; dark recesses create depth through compact shadow rather than dramatic glare. A strong high center steps down toward broader side masses, and a reflective lower band adds a quieter horizontal counterweight. The treatment is ornate yet measured, with detail held inside a clear monumental silhouette.",
+  "style_prompt_zh": "绘画式插画将细密线条与斑驳的手工着色淡洗结合。重复的尖形和圆形轮廓建立层叠韵律，柔化边缘与细小斑点使表面有旧纸触感。铁锈红、焦赭、赭黄、浅石色和低调绿色占主导，衬着微暖的中性底面。斜向日光温暖外露平面；暗凹处以紧凑阴影创造深度，而非刺眼强光。强势的高中心向较宽的两侧体量逐级降低，下方的反射色带增加安静的水平平衡。处理精饰却有分寸，细节被收在清楚的宏大剪影内。",
+  "theme_en": "A domed red-stone monument beside reflective water",
+  "theme_zh": "倒影水畔的红石穹顶纪念建筑",
+  "wh_ratio": "1:1",
+  "id": "4055",
+  "name": "Mughal architecture",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/mughal-architecture.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "31a72cb8afd305e0e0eb4eb57765662513a1f5803765e78905be943824bce50c",
+    "gpt_submission_prompt": "A square painterly architectural view shows a grand red-stone monument beside calm reflective water. The building rises from the left and center of the image under a pale, lightly speckled sky. A large pale dome crowns the central block, while smaller domes and slender corner towers repeat at varied heights around it. Below the dome, a deep arched entrance cuts into a warm terracotta façade, its recesses layered with smaller pointed openings and delicate trim. The stone walls carry weathered rust, sienna, and brown tones, with pale bands tracing some edges and projecting ledges. At the left, a lower bridge-like section extends across the water toward the main structure; at the right, leafy trees partly screen the outer arcade. The bottom strip of water catches broken reflections of domes, masonry, and green foliage, softened by subtle ripples. Fine line work and lightly mottled washes suggest a hand-colored historical illustration rather than a hard-edged photograph. The ornament stays legible through repeated arch shapes, parapets, and tiny shadowed apertures, but no inscription is readable. Daylight falls from the upper left, warming the exposed stone while placing the entrance and side arches in deep brown shadow. The water returns this warm brightness in quieter, blurred bands. The overall composition feels stately and layered, balancing the high central dome with lower lateral wings and the cool horizontal mirror of water.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "40c2185b23f16fc5b3091db0f74ad95fe1478dcf68ad6da7761c96b1d7052f0b",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

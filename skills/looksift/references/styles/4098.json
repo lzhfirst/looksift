@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A vertical red lithographic print displayed within a square reference image shows a single enlarged human eye surrounded by restless marks. The printed sheet has a narrow uneven cream border and lies against a neutral gray background. The eye sits near the center, its dark iris and bright inner highlight enclosed by heavy upper and lower lids. Around it, red strokes spread into rough curves, radiating hatches, broken patches, and pale paper gaps. The upper third is especially dense, with twisting marks that suggest hair or an abstract canopy without settling into a fully separate scene. Below the eye, fine diagonal lines extend toward the lower edge, where the marks thin and more of the sheet remains visible. The red is not a single solid tone: varied pressure creates deep crimson, softer rose, and nearly white interruptions across the image. The surface reads as printed ink absorbed into textured paper, with ragged mark edges and slight grain. Light is graphic and frontal, carried by the untouched paper that brightens the lower region and the inner eye; shadows are dark red line clusters rather than naturally cast forms. The close crop gives the gaze an uneasy intensity despite the limited color. No lettering can be read. The overall composition pulls attention into one dark circular focus while the surrounding red marks expand outward across the tall sheet.",
+  "full_prompt_zh": "一张置于方形参考图中的竖幅红色石版画以躁动笔痕呈现一只放大的眼睛。印张带狭窄而不均的奶油色边，躺在中性灰背景上。眼睛位于中央附近，深色虹膜和内部亮点被厚重上下眼睑围住。周围红色笔触扩成粗糙曲线、放射排线、破碎色块和露出的浅纸白。上部三分之一区域尤其密集，扭动笔痕似乎暗示头发或抽象的顶棚，却并未稳定成独立场景。眼下细斜线延伸到底边附近，在那里笔痕变稀，更多纸面显露。红色并非一种实色：不同压力令深绯红、柔和玫红与近白间隙在画面上变化。表面看起来是印墨渗进有纹理的纸，笔痕边缘粗糙并带轻微颗粒。光线正面而图形化，由保留的纸白照亮下部与眼内；阴影是深红线团，而非自然投影。紧密裁切使目光在有限色彩中仍有不安强度。没有可读文字。整体构图把注意力拉入一个深色圆形焦点，周围红色笔痕沿高幅纸张向外扩张。",
+  "style_prompt_en": "Lithographic printmaking combines variable-pressure red marks with absorbent cream paper and a narrow irregular border. Broad scumbled patches, fine diagonal hatching, curved strokes, and ragged untouched gaps create a restless shift between density and openness. Crimson deepens to wine red in compressed areas and thins toward dusty rose where ink is sparse. Frontal graphic illumination comes from exposed paper, while shadow appears as accumulated mark weight. A compact dark circular focus holds the center as surrounding lines radiate and fragment outward. The result is raw, energetic, and visibly printed rather than smoothly rendered.",
+  "style_prompt_zh": "石版印刷将压力多变的红色笔痕与吸墨的奶油色纸张、狭窄不规则边框结合。宽阔擦涂色块、细斜排线、弯曲笔触和粗糙留白使密与疏不断变换。压紧的区域由绯红沉向酒红，墨色稀薄处淡成灰玫红。正面图形光来自露出的纸白，阴影则是笔痕重量的积累。紧凑深色圆形焦点稳住中央，周围线条向外放射并破碎。效果生猛、有能量，明显属于印刷而非光滑渲染。",
+  "theme_en": "A single eye rendered in red lithographic marks",
+  "theme_zh": "以红色石版印刷笔痕表现的单只眼睛",
+  "wh_ratio": "1:1",
+  "id": "4098",
+  "name": "Lithography print",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/lithography-print.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "9543c3298aa7b277da2367321065d18838fd67047af8b8773ce0ffb95e80573a",
+    "gpt_submission_prompt": "A vertical red lithographic print displayed within a square reference image shows a single enlarged human eye surrounded by restless marks. The printed sheet has a narrow uneven cream border and lies against a neutral gray background. The eye sits near the center, its dark iris and bright inner highlight enclosed by heavy upper and lower lids. Around it, red strokes spread into rough curves, radiating hatches, broken patches, and pale paper gaps. The upper third is especially dense, with twisting marks that suggest hair or an abstract canopy without settling into a fully separate scene. Below the eye, fine diagonal lines extend toward the lower edge, where the marks thin and more of the sheet remains visible. The red is not a single solid tone: varied pressure creates deep crimson, softer rose, and nearly white interruptions across the image. The surface reads as printed ink absorbed into textured paper, with ragged mark edges and slight grain. Light is graphic and frontal, carried by the untouched paper that brightens the lower region and the inner eye; shadows are dark red line clusters rather than naturally cast forms. The close crop gives the gaze an uneasy intensity despite the limited color. No lettering can be read. The overall composition pulls attention into one dark circular focus while the surrounding red marks expand outward across the tall sheet.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "9196da069ca71b35e89bef08b8164e5a3628d2d2b047cdbfb9b771971a391b2c",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

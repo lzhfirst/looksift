@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square environmental portrait photograph shows a woman standing in the open back of an older pickup truck parked in a grassy alpine valley. A simple green canvas canopy stretches over the truck bed, held up by bare branches, while baskets, cut flowers, dried stems and tools gather around her feet. She stands centered with hands calmly clasped, wearing practical layered clothes in muted brown and cream. Behind the truck, pale meadow grass runs toward forested slopes and snow-marked mountains beneath a cloudy sky. The camera faces the tailgate directly, so the truck becomes a rough frame around the subject and its handmade goods. The plants do not appear perfectly arranged; some stems lean out, some containers differ in size, and the canvas sags slightly. Overcast daylight renders the scene with a long range of cool grays and restrained greens, with modest warm tones in clothing and flowers. The woman's expression is steady and unsentimental. Fine detail appears in fabrics, vehicle metal, branches and flower heads, but the landscape recedes softly enough to preserve the portrait. The photograph speaks through the relationship between a person, a portable workspace and wide rural geography. It feels candid yet carefully composed, honoring everyday skill without romantic exaggeration or commercial staging.",
+  "full_prompt_zh": "一幅正方形环境肖像照片呈现一位女性站在旧皮卡敞开的车厢里，车辆停于高山草谷。简易绿色帆布篷覆盖车床，以裸枝支撑，篮筐、鲜切花、干茎和工具围在她脚边。她居中站立，双手平静相合，穿低调棕色与奶油色实用叠穿衣物。车后浅色草甸延向林坡和有积雪痕迹的山脉，头顶是阴云天空。相机正对尾门，使货车成为围住人物及手工货品的粗糙框架。植物并非完美摆拍，有些茎枝向外倾，有些容器大小不同，帆布也略下垂。阴天光把场景呈现为范围较长的冷灰和克制绿，衣物与花朵里有适度暖色。人物神情平稳，不煽情。布料、车身金属、树枝和花头都有细节，景观则足够柔和退远，保持肖像重心。照片通过人物、可移动工作场所和广阔乡村地理的关系说话。它像抓拍又精心构图，尊重日常技艺，却没有浪漫夸大或商业布置。",
+  "style_prompt_en": "The style is quietly composed environmental documentary photography with a frontal eye-level view, human-scale framing and expansive rural distance. Overcast light supports cool grays and muted greens, with small earthy warm accents. Practical materials, irregular arrangements and minor wear remain visible. A near symmetrical central structure holds the subject while landscape layers recede behind it. Detail is clear but not polished, giving the image a credible relationship between labor, place and weather without sentimental gloss.",
+  "style_prompt_zh": "这种风格是安静构图的环境纪实摄影，具有正面平视视点、以人尺度组织的框架和开阔乡间距离。阴天光支撑冷灰与低饱和绿，辅以少量土色暖重音。实用材料、不规则排布和轻微磨损均可见。近对称的中央结构固定主体，景观层次在后方退远。细节清楚却不被抛光，使劳动、地点与天气之间的关系可信，没有煽情光泽。",
+  "theme_en": "A rural maker standing inside a flower-filled truck",
+  "theme_zh": "站在满载花草的货车里的乡间手艺人",
+  "wh_ratio": "1:1",
+  "id": "1268",
+  "name": "Lucas Foglia",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/lucas-foglia",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/lucas-foglia.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "545461e3ca3ce375b3e794d1824837bcc68c3b8d7d39cce7838c6205bce50c15",
+    "gpt_submission_prompt": "A square environmental portrait photograph shows a woman standing in the open back of an older pickup truck parked in a grassy alpine valley. A simple green canvas canopy stretches over the truck bed, held up by bare branches, while baskets, cut flowers, dried stems and tools gather around her feet. She stands centered with hands calmly clasped, wearing practical layered clothes in muted brown and cream. Behind the truck, pale meadow grass runs toward forested slopes and snow-marked mountains beneath a cloudy sky. The camera faces the tailgate directly, so the truck becomes a rough frame around the subject and its handmade goods. The plants do not appear perfectly arranged; some stems lean out, some containers differ in size, and the canvas sags slightly. Overcast daylight renders the scene with a long range of cool grays and restrained greens, with modest warm tones in clothing and flowers. The woman's expression is steady and unsentimental. Fine detail appears in fabrics, vehicle metal, branches and flower heads, but the landscape recedes softly enough to preserve the portrait. The photograph speaks through the relationship between a person, a portable workspace and wide rural geography. It feels candid yet carefully composed, honoring everyday skill without romantic exaggeration or commercial staging.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "387fb19f0f780f5d0ff3066ba0b345a2868ef757fe3e4696f6865a30e1abca53",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

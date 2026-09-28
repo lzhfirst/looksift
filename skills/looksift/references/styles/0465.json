@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A selectively colored urban photograph looks obliquely down a weathered stone walkway beside a long row of arched windows. Most of the building, overhead beams, paving slabs, and distant leafless tree remain in textured black and white, establishing a quiet gray setting with visible mortar, stains, cracks, and rough masonry. Along the left edge, repurposed metal barrels carry flowering shrubs in saturated violet, magenta, red, turquoise, and rusty orange. The nearest cyan barrel fills the lower-left foreground; smaller vessels repeat toward the back, making a lively color rhythm that follows the receding arches. The flowers have soft, irregular edges and small bright petal clusters, while the barrels retain scraped paint, rust marks, and cylindrical weight. A diagonal run of pale paving guides the eye from the bottom center to the far right, where the corridor narrows into shadow. Diffuse daylight brightens the stone surface without harsh cast shadows, and dark voids inside the arches deepen the sense of perspective. The selective color is clearly deliberate: its vivid accents remain confined to the containers and plants, making the architecture appear more austere while preserving realistic photographic texture throughout. Repeated arches and barrels set up two parallel beats, one heavy and gray, the other bright and botanical. The whole frame feels like an overlooked city corner briefly awakened by concentrated color.",
+  "full_prompt_zh": "一幅局部保留彩色的城市摄影斜望一条风化的石铺通道，旁边是一长列拱形窗。建筑、头顶梁架、铺路石板与远处无叶树木大多保持有纹理的黑白色，形成安静的灰色环境，灰浆、污渍、裂缝和粗糙砌石仍然可见。沿左边缘，重新利用的金属桶栽着开花灌木，呈饱和的紫罗兰、洋红、红、青绿和锈橙色。最近的青蓝桶占据左下前景，较小的容器向后重复，形成顺着拱门退远的活泼色彩节奏。花朵边缘柔软而不规则，带有细小明亮的花瓣簇；铁桶则保留刮落的漆、锈迹和圆柱形重量。浅色铺地的斜向延伸将视线从下方中央引到远处右侧，通道在那里收进阴影。漫射日光照亮石面，没有强硬的投影，拱门内部的深色空洞加强透视。局部着色显然是有意选择：鲜艳点缀局限在容器和植物，使建筑更显冷峻，同时整体仍保持真实的摄影纹理。重复拱门与重复花桶建立两条平行节拍，一条厚重灰暗，一条明亮而具有植物气息。整幅画像一处被浓缩色彩短暂唤醒的城市角落。",
+  "style_prompt_en": "A selectively colored photograph preserves tactile black-and-white grain and a broad ladder of architectural grays while reserving saturated turquoise, violet, magenta, and rust-orange for limited accents. Diffuse daylight exposes scratches, rough stone, worn paint, and soft organic edges without theatrical shadow. Repeated forms recede along a clear diagonal, alternating heavy neutral masses with bright irregular patches. The whole frame feels realistic yet gently heightened by disciplined color placement.",
+  "style_prompt_zh": "一幅局部着色的照片保留可触的黑白颗粒和宽广的灰色明度阶梯，仅将饱和青绿、紫罗兰、洋红与锈橙放在有限的点缀区域。漫射日光呈现刮痕、粗石、磨旧的漆面和柔软的不规则边缘，没有戏剧化阴影。重复形体沿清晰斜线退远，厚重的中性色团块与明亮的不规则色块交替。整幅画保持真实感，又通过审慎的色彩落点得到温和强化。",
+  "theme_en": "Colorful flower barrels along a weathered monochrome arcade",
+  "theme_zh": "风化的单色拱廊旁一列彩色花桶",
+  "wh_ratio": "1:1",
+  "id": "0465",
+  "name": "Selective Colouring",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/selective-colouring",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/selective-colouring.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "3fe0ec2bde6da87efb4059a7fa58e355383f2f816ee14cf44a5eb90ae5869186",
+    "gpt_submission_prompt": "A selectively colored urban photograph looks obliquely down a weathered stone walkway beside a long row of arched windows. Most of the building, overhead beams, paving slabs, and distant leafless tree remain in textured black and white, establishing a quiet gray setting with visible mortar, stains, cracks, and rough masonry. Along the left edge, repurposed metal barrels carry flowering shrubs in saturated violet, magenta, red, turquoise, and rusty orange. The nearest cyan barrel fills the lower-left foreground; smaller vessels repeat toward the back, making a lively color rhythm that follows the receding arches. The flowers have soft, irregular edges and small bright petal clusters, while the barrels retain scraped paint, rust marks, and cylindrical weight. A diagonal run of pale paving guides the eye from the bottom center to the far right, where the corridor narrows into shadow. Diffuse daylight brightens the stone surface without harsh cast shadows, and dark voids inside the arches deepen the sense of perspective. The selective color is clearly deliberate: its vivid accents remain confined to the containers and plants, making the architecture appear more austere while preserving realistic photographic texture throughout. Repeated arches and barrels set up two parallel beats, one heavy and gray, the other bright and botanical. The whole frame feels like an overlooked city corner briefly awakened by concentrated color.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "e6f1f0f5b11177698e61029b1d9b0e4ad5192b97d1645005c8893d79308bf892",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

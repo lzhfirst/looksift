@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square colorful children's-book illustration shows two children from behind standing on a narrow garden path, surrounded by flowers almost as tall as they are. One child wears a light green dress and has dark hair; the other wears a bright blue top and red shorts. Yellow daisies, orange blossoms, pink and violet flowers, and broad green leaves crowd the lower and middle frame. A dark tree trunk rises on the left, while a soft blue opening near the upper center suggests sky beyond the dense garden. The children appear small and curious within the exuberant vegetation, facing toward the deeper path. Flowers are individually outlined but simplified into friendly rounded shapes and repeated petals. Color is laid in bright flat patches, with small textured marks giving leaves and soil variety. The palette is saturated: sun yellow, leaf green, turquoise, orange, magenta, and sky blue. Daylight seems to filter through the foliage, brightening the open flowers and the children's backs while shaded greens collect at the path edge. The composition is packed but easy to navigate because the path and two figures form a clear center. The whole image feels welcoming, educational, and full of discovery, celebrating close observation of a lively garden.",
+  "full_prompt_zh": "一幅方形彩色儿童绘本插画描绘两名孩子背对观者站在窄花园小径上，四周花朵几乎与他们同高。一名孩子穿浅绿裙、留深发；另一名穿亮蓝上衣和红短裤。黄雏菊、橙花、粉紫花及宽绿叶挤满下部与中部画框。左侧深树干升起，上中一处柔蓝开口暗示浓密花园后的天空。孩子在丰盛植物中显得小而好奇，面向更深的小路。花朵各有轮廓，却简化为友好的圆形与重复花瓣。颜色铺成明亮平块，小肌理笔痕让叶和土有变化。色域饱和：阳光黄、叶绿、青绿、橙、洋红与天蓝。日光似从叶丛滤入，照亮开放花朵和孩子背部，较深绿聚在路边。构图拥挤却易于游览，因为小径与两个人物形成清楚中心。整体亲切、富教育感且充满发现，赞美贴近观察的生动花园。",
+  "style_prompt_en": "Children's-book illustration uses bright flat color, friendly rounded outlines, and dense repeated natural shapes. Sun yellow, leaf green, turquoise, orange, magenta, and blue form a cheerful palette. Tiny texture marks vary broad color patches without making them realistic. Daylight appears filtered through a layered canopy, producing small bright accents among deeper greens. A simple central path or open channel organizes an otherwise crowded field. Scale can be playful and immersive. The finish is clear, inviting, and richly detailed enough to reward exploration.",
+  "style_prompt_zh": "儿童绘本插画运用明亮平色、友好圆润轮廓与浓密重复自然形。阳光黄、叶绿、青绿、橙、洋红和蓝形成快乐配色。小肌理笔痕变化宽阔色块，却不使之写实。日光像经层叠树冠过滤，在深绿间产生小亮点。简单中央小径或开口组织原本拥挤的色域。尺度可俏皮且沉浸。完成面清楚、亲切，并有足够细节供探索。",
+  "theme_en": "Two children standing among oversized bright garden flowers",
+  "theme_zh": "两名孩子站在高大鲜艳的花园花朵间",
+  "wh_ratio": "1:1",
+  "id": "0795",
+  "name": "Gail Gibbons",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/gail-gibbons",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/gail-gibbons.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "2fbf891a0a060ef6134bb74fff7b3680b63bba41f28f4850e3e9ebdfb74c47c0",
+    "gpt_submission_prompt": "A square colorful children's-book illustration shows two children from behind standing on a narrow garden path, surrounded by flowers almost as tall as they are. One child wears a light green dress and has dark hair; the other wears a bright blue top and red shorts. Yellow daisies, orange blossoms, pink and violet flowers, and broad green leaves crowd the lower and middle frame. A dark tree trunk rises on the left, while a soft blue opening near the upper center suggests sky beyond the dense garden. The children appear small and curious within the exuberant vegetation, facing toward the deeper path. Flowers are individually outlined but simplified into friendly rounded shapes and repeated petals. Color is laid in bright flat patches, with small textured marks giving leaves and soil variety. The palette is saturated: sun yellow, leaf green, turquoise, orange, magenta, and sky blue. Daylight seems to filter through the foliage, brightening the open flowers and the children's backs while shaded greens collect at the path edge. The composition is packed but easy to navigate because the path and two figures form a clear center. The whole image feels welcoming, educational, and full of discovery, celebrating close observation of a lively garden.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "17ce99815d333ab60e4a5741a5511daea51d8a2c5ff0783357e2837150ef4080",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square Dutch landscape oil painting opens onto a broad river bend with small tree-covered islands under a high blue sky. Water enters the lower foreground in dark reflective bands and curves around reeds and low grassy banks toward a pale horizon. Near the middle, a cluster of tall leafy trees rises from one island, while more rounded trees stand on both banks. A small building with a steep roof sits at the far right, and another modest structure lies toward the far left. The sky occupies much of the frame, filled with enormous cream-white cumulus clouds and darker gray undersides. Clear blue breaks appear between cloud towers. A tiny boat or low craft rests on the near water, giving scale to the scene. Brushwork is measured and fine in distant land and tree foliage, broader and softer in the clouds and mirrored water. Sunlight breaks through from the upper left, lighting cloud crowns, grassy patches, and selected ripples, while shadowed banks remain deep olive and brown. The composition moves gently through branching water channels rather than a dramatic straight perspective. Its mood is open, tranquil, and observational, with balanced terrestrial detail and atmospheric sky making the river feel both local and expansive.",
+  "full_prompt_zh": "一幅方形荷兰风景油画打开宽阔河湾，树木覆盖的小岛位于高蓝天下。水以深色反光带进入下方前景，绕过芦苇和低草岸，弯向浅色地平。中间附近，一簇高大叶树从小岛升起；两岸还有更多圆冠树。右远处有一栋陡顶小屋，左远处另有朴素建筑。天空占据画面大部，满是巨大奶油白积云与较深灰色云底。云塔之间露出清蓝。近水上有一条小船或低矮舟形，为场景提供尺度。远地与树叶笔触谨慎细致，云与镜面水则较宽柔。阳光从左上云间穿出，照亮云冠、草地亮片和部分波纹，阴影河岸仍深橄榄与棕。构图沿分叉水道温和移动，而非戏剧直透视。情绪开阔、宁静且忠于观察，土地细节与大气天空平衡，使河既像具体地方又辽阔。",
+  "style_prompt_en": "Dutch landscape oil painting balances detailed low terrain with a high, cloud-filled sky. Olive, umber, blue, cream, and muted green remain natural and subdued. Fine tree and bank marks meet broader blended cumulus forms and broken horizontal reflections. Sunlight moves in patches, brightening raised clouds and selected water surfaces while dark banks retain depth. Branching channels guide the eye through gentle spatial recession. The composition feels open and measured, with atmospheric scale above carefully observed local texture.",
+  "style_prompt_zh": "荷兰风景油画平衡细致低地形与高大满云天空。橄榄、熟褐、蓝、奶油和低调绿自然克制。细树岸笔痕与宽柔调和的积云、断续水平反射相遇。日光成片移动，照亮凸起云与部分水面，深岸仍保留纵深。分叉水道引导视线温和后退。构图开阔有分寸，大气尺度位于仔细观察的地方肌理上方。",
+  "theme_en": "A river bend with tree-covered islets under towering clouds",
+  "theme_zh": "高耸云团下树木小岛环绕的河湾",
+  "wh_ratio": "1:1",
+  "id": "4139",
+  "name": "Salomon van Ruysdael",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/salomon-van-ruysdael.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "3109599e7c17b1ae0292f58e97519bf3998b8ffae593b823f1ec615a982bdf0e",
+    "gpt_submission_prompt": "A square Dutch landscape oil painting opens onto a broad river bend with small tree-covered islands under a high blue sky. Water enters the lower foreground in dark reflective bands and curves around reeds and low grassy banks toward a pale horizon. Near the middle, a cluster of tall leafy trees rises from one island, while more rounded trees stand on both banks. A small building with a steep roof sits at the far right, and another modest structure lies toward the far left. The sky occupies much of the frame, filled with enormous cream-white cumulus clouds and darker gray undersides. Clear blue breaks appear between cloud towers. A tiny boat or low craft rests on the near water, giving scale to the scene. Brushwork is measured and fine in distant land and tree foliage, broader and softer in the clouds and mirrored water. Sunlight breaks through from the upper left, lighting cloud crowns, grassy patches, and selected ripples, while shadowed banks remain deep olive and brown. The composition moves gently through branching water channels rather than a dramatic straight perspective. Its mood is open, tranquil, and observational, with balanced terrestrial detail and atmospheric sky making the river feel both local and expansive.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "244a06a522f8fb07ad19b5c2e83688c35003c1f6e3603bb16a36762df1cf9b5d",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

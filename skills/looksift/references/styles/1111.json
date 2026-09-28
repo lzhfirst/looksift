@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A monochrome charcoal drawing looks upward from the foot of a deserted outdoor staircase. Broad stone steps begin at the lower center and narrow as they climb toward a dim landing near the upper middle. A substantial parapet rises on the left, its top edge sweeping diagonally toward the landing; another weathered wall presses against the right side of the stairs. Thin metal railings continue along the upper edges of both structures, their repeated uprights fading into the smoky distance. A single old-fashioned lamp stands on the left side of the landing, just below a sky filled with torn, turbulent grey clouds. The stone walls are rubbed with uneven black and grey marks, suggesting stains, age, and rough masonry without carefully drawn joints. Across the treads, strips of pale light alternate with dark recesses, giving the ascent a measured, slightly ominous rhythm. No people or readable signage appear, and the empty route becomes the subject of the frame. Smudged charcoal masses blur into fine scratches, tiny flecks, and exposed paper grain, particularly around the walls and overcast sky. The view is low and centered, so the converging walls pull the eye directly up the steps. Soft, cloud-filtered light catches some stair edges while the upper landing stays dark. The finished image feels quiet, weathered, and psychologically charged through its contrast of heavy structure and unsettled atmosphere.",
+  "full_prompt_zh": "一幅单色炭笔画从空旷室外楼梯底部向上望去。宽阔石阶从画面下方中央开始，攀向上方中央附近幽暗的平台时逐渐变窄。左侧厚实的矮墙升起，顶边沿斜线扫向平台；另一面风化墙体贴着楼梯右侧。细金属栏杆沿两边上缘延续，重复的竖杆渐渐消失在烟雾般的远处。一盏旧式路灯立在平台左边，其上方天空布满撕裂般翻涌的灰云。石墙经过不均匀的黑灰擦涂，暗示污渍、年代与粗糙砌体，却没有精确描绘每道砖缝。踏面上浅亮色带与深暗凹处交替，使上行路径形成审慎而略不安的节奏。画面没有人物或可读招牌，空无一人的路径本身成为主题。涂抹的炭灰大块融入细小刮痕、黑点和露出的纸张颗粒，墙体与阴天区域尤为明显。视点低而居中，聚拢的墙面把目光直接引上石阶。云层过滤的柔光照亮部分台阶边缘，上方平台则保持幽暗。完成画面安静、风化，并通过沉重结构与不安空气的对照产生心理张力。",
+  "style_prompt_en": "The drawing relies on monochrome charcoal values, with deep rubbed blacks, broad smoky greys, and paper-white highlights. Smudging and erasure create atmospheric transitions, while fine scratches, flecks, and sparse linear marks recover rough texture and structural edges. Repeated narrow value bands guide the eye through a strong perspective pull. Large dark masses frame a lighter opening, and cloudy diffuse light lets edges alternately sharpen and dissolve. Surface wear and grain remain visible across the tonal field. The overall mood is austere, unsettled, and contemplative, with material abrasion doing as much expressive work as composition.",
+  "style_prompt_zh": "画作依靠单色炭笔明度，由擦涂的深黑、宽阔烟灰与纸白亮部组成。涂抹与擦除制造空气式过渡，细刮痕、斑点及稀疏线痕重新找回粗糙肌理与结构边缘。重复的窄明度色带引导视线沿强烈透视后退。大块暗部围出较亮开口，阴云漫射光让边缘时而锐利、时而消融。表面磨损和纸张颗粒始终透过调子可见。整体气氛严峻、不安而内省，材料的磨擦痕迹与构图同样承担表达。",
+  "theme_en": "A deserted stone staircase climbs between weathered parapets toward a single old lamp under a turbulent grey sky, in smudged charcoal.",
+  "theme_zh": "一段空旷石阶从风化的矮墙之间升向一盏旧灯，头顶是翻涌灰天，以涂抹炭笔表现。",
+  "wh_ratio": "1:1",
+  "id": "1111",
+  "name": "Paul Rumsey",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/paul-rumsey",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/paul-rumsey.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "fa018d19ad755bf10ee095b3caaa3360b414a26feb53907d56e7cbe6e504df94",
+    "gpt_submission_prompt": "A monochrome charcoal drawing looks upward from the foot of a deserted outdoor staircase. Broad stone steps begin at the lower center and narrow as they climb toward a dim landing near the upper middle. A substantial parapet rises on the left, its top edge sweeping diagonally toward the landing; another weathered wall presses against the right side of the stairs. Thin metal railings continue along the upper edges of both structures, their repeated uprights fading into the smoky distance. A single old-fashioned lamp stands on the left side of the landing, just below a sky filled with torn, turbulent grey clouds. The stone walls are rubbed with uneven black and grey marks, suggesting stains, age, and rough masonry without carefully drawn joints. Across the treads, strips of pale light alternate with dark recesses, giving the ascent a measured, slightly ominous rhythm. No people or readable signage appear, and the empty route becomes the subject of the frame. Smudged charcoal masses blur into fine scratches, tiny flecks, and exposed paper grain, particularly around the walls and overcast sky. The view is low and centered, so the converging walls pull the eye directly up the steps. Soft, cloud-filtered light catches some stair edges while the upper landing stays dark. The finished image feels quiet, weathered, and psychologically charged through its contrast of heavy structure and unsettled atmosphere.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "a03bf4142e508dfc440aae1a68975f66cc76979387dcf0c1dcd4378e6da83d04",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

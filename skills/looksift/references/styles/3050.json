@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A paired formal portrait fills the square with two nearly symmetrical figures placed shoulder to shoulder. Their dark hair and blue-black jackets form a dense silhouette around two closely spaced faces. The faces are divided into acid yellow-green and hot magenta zones, but remain sharply recognizable through black drawing and carefully placed shadows. Pale blue and white collars, with small green ties below, provide crisp geometric accents at the lower edge. Behind the pair, a beige-gray ground is crossed by thin, looping black marks, as if a web of drawn lines sits over an old photograph. The image is built from several competing surfaces: detailed engraved hatching, flat unnatural color, paper grain, and overprinted scratches. The faces hold the highest contrast, with deep sockets and narrow shadow bands cutting across the saturated color. Lighting feels frontal but deliberately altered by the color blocks, turning ordinary portrait modeling into graphic pattern. The two repeated heads create a strong left-right rhythm; small differences in angle and color placement keep them from becoming a perfect mirror. Cropping is close, leaving little spare background and no scenic depth. The whole frame feels like a defaced photographic print or collage, tense yet orderly in its repetition.",
+  "full_prompt_zh": "一幅双人正式肖像几乎填满方形画幅，两位人物肩并肩，构成近乎对称的排列。深色头发与蓝黑色外套在两张紧挨的面孔周围形成密实剪影。面部被酸亮的黄绿色和灼热的洋红色分区覆盖，但通过黑色绘线与精确安放的阴影仍可清楚辨认。下缘的浅蓝色与白色衣领，以及小块绿色领带，成为利落的几何点缀。两人身后是米灰色底，上面交错着细而盘绕的黑线，仿佛在旧照片表面罩了一层线网。画面由几种相互竞争的表面构成：细密雕版式排线、不自然的平涂色、纸张颗粒和套印的刮痕。两张脸对比最强，深陷的暗部与狭长阴影切过饱和色彩。光照似乎来自正面，却被色块刻意改写，把普通肖像的塑形变成图案。两颗重复的头形成强烈左右节奏；角度与色彩落点上的细小差别又避免了完全镜像。取景紧密，背景留得很少，也没有景深。整幅画如一张被涂改的摄影印刷品或拼贴，重复中既紧张又有秩序。",
+  "style_prompt_en": "A close, symmetrical print collage with two repeated vertical masses pressed side by side. Acid yellow-green and hot magenta overlay fine black engraving, while blue-black fields anchor the lower half. Thin looping lines, scuffs, and paper grain cross a muted beige ground. Flat synthetic color competes with intricate hatched shading and sharply placed dark pockets. The light reads as frontal, then fractures into color zones. Cropping is tight and the rhythm comes from near duplication with small differences, producing a controlled but provocative graphic surface.",
+  "style_prompt_zh": "紧凑而对称的印刷拼贴，两组重复的竖向形体并肩挤在一起。酸亮黄绿色与灼热洋红覆在细密黑色刻线之上，蓝黑色域压住画面下半部。细线盘绕、擦痕和纸张颗粒横穿柔灰米色底。合成色般的平面色与繁复排线阴影、落点明确的深暗部相互碰撞。光照起初近似正面，随后被色彩分区打碎。裁切紧密，节奏来自带有细微差异的近重复，形成有控制却挑衅的图形表面。",
+  "theme_en": "A paired formal portrait with electric color overlays",
+  "theme_zh": "覆有鲜明色彩的双人正式肖像",
+  "wh_ratio": "1:1",
+  "id": "3050",
+  "name": "Gilbert and George",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/gilbert-and-george",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "d8917f957b783541882d1ada2ea21eef99b1b3afd79a444ab12dd5c8861f2aff",
+    "gpt_submission_prompt": "A paired formal portrait fills the square with two nearly symmetrical figures placed shoulder to shoulder. Their dark hair and blue-black jackets form a dense silhouette around two closely spaced faces. The faces are divided into acid yellow-green and hot magenta zones, but remain sharply recognizable through black drawing and carefully placed shadows. Pale blue and white collars, with small green ties below, provide crisp geometric accents at the lower edge. Behind the pair, a beige-gray ground is crossed by thin, looping black marks, as if a web of drawn lines sits over an old photograph. The image is built from several competing surfaces: detailed engraved hatching, flat unnatural color, paper grain, and overprinted scratches. The faces hold the highest contrast, with deep sockets and narrow shadow bands cutting across the saturated color. Lighting feels frontal but deliberately altered by the color blocks, turning ordinary portrait modeling into graphic pattern. The two repeated heads create a strong left-right rhythm; small differences in angle and color placement keep them from becoming a perfect mirror. Cropping is close, leaving little spare background and no scenic depth. The whole frame feels like a defaced photographic print or collage, tense yet orderly in its repetition.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "6aa66a5ceb42b67b7de893c871904f2615f8ee9aa7b47bcfb755182d88774050",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

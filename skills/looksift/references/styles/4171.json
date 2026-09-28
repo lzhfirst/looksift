@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square painting presents a rider on a rearing pale horse against an off-white wall of faint rectangular divisions. The horse rises diagonally from the lower left, its forelegs lifted and head thrust toward the upper right. An angular rider sits high in the saddle, a long dark staff standing behind one shoulder. Bright ochre cloth and a deep blue drape cut across the otherwise gray-white body. The horse, rider and costume are built from fractured planes, thin black construction lines and rough patches of paint, so the action feels at once forceful and carefully assembled. The animal's anatomy is recognizable but simplified into interlocking wedges; the raised legs become a clear rhythm of sharp bends and dark hooves. Pale ground shows through much of the image, leaving the main cluster of forms isolated and monumental. Small scratches and scumbled marks keep the surface handmade. Gray, cream and charcoal create a restrained base that gives the ochre and blue exceptional weight. The composition centers on the turning mass of the horse while its diagonal movement breaks the still grid of the background. The overall impression is a historical equestrian subject translated into a modern language of geometric fragments, emphatic contour and compressed color.",
+  "full_prompt_zh": "一幅正方形绘画呈现骑手骑在腾起的浅色马背上，身后是带有淡淡矩形分界的米白色墙面。马从左下向上斜起，前腿抬高，头伸向右上。棱角分明的骑手高坐鞍上，一根深色长杆立在肩后。明亮赭黄色衣料和深蓝色披布横切过灰白马身。马、骑手与衣饰由破碎色面、细黑结构线和粗糙颜料块构成，因此动作既有力量，又像经过仔细拼装。动物解剖仍可辨认，却被简化为互锁的楔形；扬起的腿形成尖锐折角与深色马蹄的清晰节奏。浅色底面在画面多处透出，使主体形群孤立而雄伟。细小刮痕和擦抹色迹保留手工表面。灰、乳白与炭黑构成克制底色，赭黄与蓝色因此格外有分量。构图集中于马匹转动的体块，而对角运动打破背景静止网格。整体像历史骑马题材被翻译成几何碎片、强势轮廓和压缩色彩的现代语言。",
+  "style_prompt_en": "The style is figurative painting reconstructed through angular interlocking planes, dark exploratory contours and visibly scumbled pigment. A mostly pale, lightly gridded ground leaves room around a compact diagonal mass. Restrained gray and cream values support a few forceful ochre and ultramarine accents. Thin lines reveal the construction beneath opaque patches, while scratches and irregular edges retain material immediacy. Movement arises from sharp bends and repeated wedges rather than smooth illusionistic modeling. The image feels monumental despite its spare setting.",
+  "style_prompt_zh": "这种风格是以棱角互锁的色面、深色探索性轮廓和可见擦涂颜料重构的具象绘画。大部分浅色、带淡淡网格的底面为紧凑对角形群留出空间。克制的灰色与乳白色托起少数有力的赭黄和群青色重音。细线显露不透明色块下的建构过程，刮痕与不齐边缘保留材料的即时性。运动来自尖锐折角与重复楔形，而非平滑的幻觉塑造。画面在简洁场景中仍显雄伟。",
+  "theme_en": "A rider on a rearing pale horse assembled from angular color planes",
+  "theme_zh": "由棱角色面拼成的骑手与腾起白马",
+  "wh_ratio": "1:1",
+  "id": "4171",
+  "name": "M. F. Husain",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/m-f-husain.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "1f457b53e66045fab53b196c5906601bf14ddd5bd6e91f5f22153b23d8942ff5",
+    "gpt_submission_prompt": "A square painting presents a rider on a rearing pale horse against an off-white wall of faint rectangular divisions. The horse rises diagonally from the lower left, its forelegs lifted and head thrust toward the upper right. An angular rider sits high in the saddle, a long dark staff standing behind one shoulder. Bright ochre cloth and a deep blue drape cut across the otherwise gray-white body. The horse, rider and costume are built from fractured planes, thin black construction lines and rough patches of paint, so the action feels at once forceful and carefully assembled. The animal's anatomy is recognizable but simplified into interlocking wedges; the raised legs become a clear rhythm of sharp bends and dark hooves. Pale ground shows through much of the image, leaving the main cluster of forms isolated and monumental. Small scratches and scumbled marks keep the surface handmade. Gray, cream and charcoal create a restrained base that gives the ochre and blue exceptional weight. The composition centers on the turning mass of the horse while its diagonal movement breaks the still grid of the background. The overall impression is a historical equestrian subject translated into a modern language of geometric fragments, emphatic contour and compressed color.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "95e48a0070c61419a44b0725bfe3bf7a9e08a73f75be87a95a0e5d4142227e40",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

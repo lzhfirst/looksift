@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square narrative oil painting shows two Indigenous riders moving down a grassy forest slope on a white horse and a chestnut horse. The leading rider at left wears light buckskin clothing with red and dark ornament and a tall feathered headdress that fans backward against the trees. He sits upright on a sturdy white horse whose pale face and forelegs catch the strongest light. Beside him, a second rider with long dark hair wears red and patterned clothing and guides a brown horse; the two animals step close together along the uneven path. Farther back at the upper right, a third pale horse and rider appear partly hidden by pine trunks and brush. The foreground is broken into yellow grass, dusty earth, small rocks, and gray-green shrubs. Tall dark conifers rise behind the leading figures, and the slope climbs to a sunlit clearing at the right edge. A blue-violet mountain or distant wooded hillside is visible through the upper center, softened by haze. Paint is thick and broken across grass and foliage, while shorter controlled strokes shape the horses' heads, clothing, and faces. Warm sunlight from the upper right touches the white horse, feather edges, and dry meadow; cool blue and green shadows collect between the trees. The composition sets an unhurried close pair against a receding line of companions and landscape, creating a sense of travel through open upland country.",
+  "full_prompt_zh": "一幅方形叙事油画呈现两名原住民骑手骑着白马与栗色马，沿草坡林地向下行进。左侧领先骑者穿浅色鹿皮装，带红色与深色装饰，头上高羽饰向后扇展，在树林前清楚可见。他挺身坐在结实白马上，马的浅色面孔与前腿接住最强日光。旁边第二骑者留长深发，穿红色与带图案的衣服，牵引棕马；两匹马沿不平小路紧挨迈步。更远的右上，第三匹浅色马和骑者被松树干与灌丛部分遮住。前景由黄草、干土、小石与灰绿灌木碎成多块。高深色针叶树立在领先人马之后，山坡向右缘的日照空地升起。上部中央透过雾可见蓝紫远山或远处林坡。草和树叶油彩厚而破碎，较短受控笔触塑出马头、衣服和面孔。右上方暖日光落在白马、羽饰边缘和干草地上；冷蓝绿影聚在树间。构图让亲近而不疾行的一对人马，对照后方退远的同伴与风景，带出穿越开阔高地的旅途感。",
+  "style_prompt_en": "Narrative realist oil painting pairs carefully observed focal figures with broken, textured strokes across grass, foliage, and rocky ground. Use warm ochre sunlight and dry yellow-green accents against cool blue-violet distance and deep forest green shadow. Arrange a close overlapping pair, then repeat a smaller echo in the background to carry movement through depth. Keep pale surfaces strongly lit, dark forms legible through selective edge highlights, and atmospheric distance softer than the foreground. Brushwork should vary from firm anatomical modeling to quick dabs and scumbles in the environment. The transferable effect is expansive, active, and grounded in tactile outdoor light.",
+  "style_prompt_zh": "叙事写实油画把细致观察的焦点形体，与草、叶、岩土上的破碎纹理笔触结合。暖赭日光和干黄绿重点，对照冷蓝紫远景与深林绿阴影。近处安排一组重叠形体，背景以更小的呼应延续纵深运动。浅表面受强光，深形体由选择性边光保持可辨，远景空气比前景柔。笔触从坚实解剖塑形变换为环境中的快速点抹和擦涂。可迁移效果开阔、有行动感，并扎根于可触的户外光。",
+  "theme_en": "Two Native riders descending a sunny forest slope on white and brown horses",
+  "theme_zh": "两名原住民骑手骑白马与棕马沿阳光林坡下行",
+  "wh_ratio": "1:1",
+  "id": "2537",
+  "name": "Howard Terpning",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/howard-terpning",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/howard-terpning.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "2f4ee479e172069756af2a8d8a978f0bf11570c2449d6475a06c43815f279852",
+    "gpt_submission_prompt": "A square narrative oil painting shows two Indigenous riders moving down a grassy forest slope on a white horse and a chestnut horse. The leading rider at left wears light buckskin clothing with red and dark ornament and a tall feathered headdress that fans backward against the trees. He sits upright on a sturdy white horse whose pale face and forelegs catch the strongest light. Beside him, a second rider with long dark hair wears red and patterned clothing and guides a brown horse; the two animals step close together along the uneven path. Farther back at the upper right, a third pale horse and rider appear partly hidden by pine trunks and brush. The foreground is broken into yellow grass, dusty earth, small rocks, and gray-green shrubs. Tall dark conifers rise behind the leading figures, and the slope climbs to a sunlit clearing at the right edge. A blue-violet mountain or distant wooded hillside is visible through the upper center, softened by haze. Paint is thick and broken across grass and foliage, while shorter controlled strokes shape the horses' heads, clothing, and faces. Warm sunlight from the upper right touches the white horse, feather edges, and dry meadow; cool blue and green shadows collect between the trees. The composition sets an unhurried close pair against a receding line of companions and landscape, creating a sense of travel through open upland country.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "d1a427e9368977db2737eccfbe22f57455ed5eb7fdec0a47c72ba58f150bbc83",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

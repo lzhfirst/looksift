@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square gothic fashion portrait places a pale young woman at the center of a dark crimson room. Her platinum curls are arranged in polished rolls, and a small red crown-like headpiece rises above them. She wears a high-neck, long-sleeved gown in deep red with layered lace and floral ruffles around the chest and shoulders. Her expression is still and direct, with red lips and cool skin standing sharply against the saturated surroundings. Two white birds rest in her arms and at her side, their pale feathers creating bright shapes across the lower center. Behind her, large red damask wallpaper and roses form a dense ornamental field, nearly merging with the dress. Black fabric and shadow anchor the bottom edge, while subtle side lighting models the face, curls, birds, and raised cloth details. The composition is formal and almost symmetrical, with the woman's vertical figure dividing the elaborate backdrop. Textures differ clearly: velvety red fabric, stiff lace, smooth skin, soft feathers, and embossed wall pattern. The palette stays almost entirely crimson, black, ivory, and a trace of pink. The whole frame feels staged and uncanny, like a Victorian fashion plate reimagined as a dark fairytale, with opulence controlled by a rigid central pose.",
+  "full_prompt_zh": "一幅方形哥特时装肖像把一位肤色苍白的年轻女子放在深红色房间中央。白金色卷发被精心卷成圆润发卷，上方立着小小的红色冠状头饰。她穿深红色高领长袖礼服，胸前和肩部层叠蕾丝与花形褶饰。表情静止而直接，红唇和冷色皮肤与饱和周围环境形成尖锐对比。两只白鸟分别安在她怀里和身侧，浅色羽毛在下方中央形成明亮形状。身后巨大的红色锦缎纹样和玫瑰构成浓密装饰场，几乎与礼服融合。黑色布料和阴影压住下缘，细微侧光塑造面孔、卷发、白鸟和隆起的布饰。构图正式而近乎对称，女子的垂直身形分开繁复背景。不同肌理清楚可辨：天鹅绒般红布、挺括蕾丝、光滑皮肤、柔软羽毛和压花墙纹。色谱几乎只由绯红、黑、象牙白和一点粉构成。整幅画像维多利亚时装画页被改写为黑暗童话，舞台感与诡异感兼具，丰饰被僵静的中央姿态收束。",
+  "style_prompt_en": "A gothic editorial portrait language uses a rigid central composition against dense ornamental pattern. Saturated crimson and oxblood dominate, with black shadows and small ivory shapes supplying strong relief. Velvet, lace, feathers, skin, and embossed motifs each retain distinct tactile treatment. Soft directional light draws out raised fabric and pale focal surfaces without flattening the red field. Repeated floral forms merge figure and setting, while controlled symmetry keeps the visual density orderly. A few cool highlights and a still expression lend an uncanny fairytale atmosphere. The finish is lush and staged, with deep tonal separation and no bright multicolor distraction.",
+  "style_prompt_zh": "哥特编辑肖像语言让挺直的中央构图立于密集装饰纹样之前。饱和绯红与血红占主导，黑色阴影和小面积象牙白形体形成强烈起伏。天鹅绒、蕾丝、羽毛、皮肤和压花纹样各有不同的可触表现。柔和定向光提亮隆起布料和浅色焦点表面，却不压平红色色域。重复花形让人物与环境相融，受控的对称使视觉密度仍有秩序。少量冷高光和静止神情带来诡异童话气氛。成像丰丽且有舞台感，明暗分离深刻，没有多彩鲜色的干扰。",
+  "theme_en": "A pale woman in a crimson gown holding white birds before damask wallpaper",
+  "theme_zh": "苍白女子身着深红礼服，怀抱白鸟站在锦缎纹样墙前",
+  "wh_ratio": "1:1",
+  "id": "4409",
+  "name": "Natalie Shau",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/natalie-shau.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "dc62ca7ea109dde4392c135a3f14d1fcd867449c015e15ec2bfc9e01bd3f7fcb",
+    "gpt_submission_prompt": "A square gothic fashion portrait places a pale young woman at the center of a dark crimson room. Her platinum curls are arranged in polished rolls, and a small red crown-like headpiece rises above them. She wears a high-neck, long-sleeved gown in deep red with layered lace and floral ruffles around the chest and shoulders. Her expression is still and direct, with red lips and cool skin standing sharply against the saturated surroundings. Two white birds rest in her arms and at her side, their pale feathers creating bright shapes across the lower center. Behind her, large red damask wallpaper and roses form a dense ornamental field, nearly merging with the dress. Black fabric and shadow anchor the bottom edge, while subtle side lighting models the face, curls, birds, and raised cloth details. The composition is formal and almost symmetrical, with the woman's vertical figure dividing the elaborate backdrop. Textures differ clearly: velvety red fabric, stiff lace, smooth skin, soft feathers, and embossed wall pattern. The palette stays almost entirely crimson, black, ivory, and a trace of pink. The whole frame feels staged and uncanny, like a Victorian fashion plate reimagined as a dark fairytale, with opulence controlled by a rigid central pose.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "b016c3a25e75a7b3525c149b8a40e210f402af3a2cd7fa02bb0df6ebeaf79c63",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

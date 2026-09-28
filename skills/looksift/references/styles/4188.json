@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square antique-looking photographic print shows a woman's head in right-facing profile on a pale cream ground. Her eyes are lowered and the mouth is gently closed, giving the pose a contemplative stillness. Across the hair, cheek and neck, a dark mountain landscape appears to be double-exposed into the portrait. A ridge line crosses the upper face, while rocky textures and a shadowed valley fill the lower head and shoulders. The two images blend without a hard seam; the cheek remains legible even as terrain passes through it. The print sits within a narrow pale border whose slightly uneven tone recalls an aged photographic mount. Black and warm sepia dominate, with soft gray midtones where the face and landscape overlap. Fine grain and irregular density make the merged areas feel printed in chemistry rather than assembled from perfectly clean digital layers. The profile occupies much of the square but leaves open cream space along the right edge, giving the face room to breathe. Darkest values collect at the hair and lower shoulder; light catches the forehead, nose and upper lip. The visual tension comes from two scales of experience sharing one form: intimate facial observation and distant topography, both held within the fragile surface of an old photograph.",
+  "full_prompt_zh": "一幅带古旧质感的正方形摄影印相在浅乳色底上呈现一位女子朝右的侧脸。双眼垂下，嘴轻轻闭合，姿态显得沉思而静止。深色山景仿佛被双重曝光进头发、脸颊和颈部。山脊线横过上方面容，岩石肌理与阴暗山谷填满头部下方及肩部。两幅图像没有硬接缝；地形穿过脸颊时，脸部仍可辨认。印相落在窄浅色边框内，略不均匀的色调令人想到老摄影装裱。黑色与暖赭褐占主导，脸与风景重叠处出现柔和灰色中间调。细颗粒和不规则密度使融合区域像经化学印制，而非完美清洁的数字图层。侧脸占去画面大部分，右边仍留开放的乳色空隙，让面容得以呼吸。最深的调子集中在头发与下方肩部；光落在额头、鼻梁和上唇。视觉张力来自两种体验尺度共用一个形体：亲密的面部观察与遥远地形同时被容纳在脆弱的旧照片表面。",
+  "style_prompt_en": "The style is antique monochrome photographic fusion with translucent double exposure and a visibly aged print surface. Two distinct spatial scales overlap through continuous tonal transitions instead of hard collage seams. Warm black, sepia and cream create a narrow palette; grain, imperfect density and slight edge irregularity preserve chemical-print character. A large dark central mass balances generous pale negative space. Soft focus and selective crisp contours let separate visual layers remain legible without losing their blended, dreamlike unity.",
+  "style_prompt_zh": "这种风格是古旧单色摄影融合，以半透明双重曝光和可见老化印相表面为特征。两种不同空间尺度通过连续明暗过渡重叠，而非以硬拼贴接缝连接。暖黑、赭褐与乳色组成狭窄色谱；颗粒、不完美密度和轻微边缘不规则保留化学印相气质。中央较大的深色体块与宽阔浅色留白平衡。柔焦与选择性清楚轮廓使不同视觉层仍可辨认，同时保持融合、梦幻的统一性。",
+  "theme_en": "A contemplative profile merged with a mountain landscape in an aged print",
+  "theme_zh": "在旧版画中与山景交融的沉思侧脸",
+  "wh_ratio": "1:1",
+  "id": "4188",
+  "name": "Melainotype print",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/melainotype-print.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "d724ddd4e5b2bf04701bde36c890087305caaa88ee1654eae5c378ad19dfe9d4",
+    "gpt_submission_prompt": "A square antique-looking photographic print shows a woman's head in right-facing profile on a pale cream ground. Her eyes are lowered and the mouth is gently closed, giving the pose a contemplative stillness. Across the hair, cheek and neck, a dark mountain landscape appears to be double-exposed into the portrait. A ridge line crosses the upper face, while rocky textures and a shadowed valley fill the lower head and shoulders. The two images blend without a hard seam; the cheek remains legible even as terrain passes through it. The print sits within a narrow pale border whose slightly uneven tone recalls an aged photographic mount. Black and warm sepia dominate, with soft gray midtones where the face and landscape overlap. Fine grain and irregular density make the merged areas feel printed in chemistry rather than assembled from perfectly clean digital layers. The profile occupies much of the square but leaves open cream space along the right edge, giving the face room to breathe. Darkest values collect at the hair and lower shoulder; light catches the forehead, nose and upper lip. The visual tension comes from two scales of experience sharing one form: intimate facial observation and distant topography, both held within the fragile surface of an old photograph.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "e240739e7a969163644d914d0f7c519a1cdb69aaca08a35e66f87a692f2a3926",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "This is a tightly cropped color photograph of a young woman's face against a dark burgundy background, shaped by theatrical white and red makeup. The head fills almost the entire square. Brown hair enters from the upper left and merges with the shadow along that edge, while the face turns slightly to the right and tilts down. The far side of the face falls out of focus near the right border. An opaque matte white shape covers the visible eye area, crosses the bridge of the nose, and curves broadly down around the cheek. Its edge is rounded but irregular enough to look applied to the skin rather than printed on the photograph. A large dark crimson disk sits within this pale cheek area. A smaller red patch crosses the front of the nose, creating an off-center echo of the circle below the eye. The partly lowered eyelid, natural brow, fine lashes, and soft closed lips remain legible, so the graphic paint sits beside quiet human expression. Warm directional light comes from the left and above. It brightens the forehead, white paint, nose, and lip ridge, while the eye socket and rightward side of the face recede into gentle shadow. The shallow focus preserves subtle skin and paint texture where the cheek is sharp, then softens the features near the picture edge. The photograph is intimate and still, with hard color shapes set against a softly modeled face and a nearly seamless red-black field.",
+  "full_prompt_zh": "这是一张紧密裁切的彩色摄影，深酒红背景前，一位年轻女性的脸以戏剧性的白色与红色彩绘塑形。头部几乎填满整个方形画面。棕发从左上方进入，与该侧阴影融为一体；面部微向右转并低垂。脸的远侧在右边缘附近渐渐失焦。一块不透明的哑光白色形状覆盖可见的眼周，跨过鼻梁，再沿面颊宽阔地弯下。它的边界圆润，却有涂在皮肤上的细微不规则，而非印在照片上的图案。白色面颊区域内有一枚深绯红大圆。鼻前方横着一小块红色，与眼下圆形形成不对称呼应。微垂的眼睑、自然的眉、细睫毛与轻闭的嘴唇仍可辨认，使图形彩绘与安静的人物表情并存。暖色定向光从左上方照来，提亮前额、白色彩绘、鼻部和唇峰；眼窝与面部右侧则退入柔和阴影。浅景深在清晰的面颊保留细微皮肤和彩绘质地，又让靠近画边的五官变柔。整张照片亲近而静止，以鲜明色块对照柔和塑造的面容与近乎无缝的深红黑背景。",
+  "style_prompt_en": "Studio photography combines broad matte color blocking with softly modeled natural surfaces. Large rounded shapes have clean yet subtly hand-applied edges, while small irregularities prevent them from looking mechanically flat. A restricted palette of warm pale tones, deep crimson, and near-black gives the darkest accent unusual weight. Directional warm light brings out minute texture on the illuminated plane and lets adjacent planes disappear gradually into shadow. Shallow focus concentrates attention on one crisp area, with neighboring edges and background softened into continuous color. Graphic contrast and delicate tonal transitions coexist, producing an intimate, quiet image with a controlled theatrical charge.",
+  "style_prompt_zh": "影棚摄影把大面积哑光色块与柔和塑造的天然表面结合起来。宽阔的圆润形状边界清楚，却带有手工施加的细微不规则，不显机械平板。暖浅色、深绯红与近黑色构成受限色盘，让最暗的色彩重音格外有分量。暖色定向光显出受光平面的细微肌理，相邻平面则逐渐隐入阴影。浅景深把注意力集中在一处清晰区域，使周围边缘和背景软化为连续色域。鲜明图形反差与细腻明暗过渡并存，形成亲近、安静又带克制戏剧感的画面。",
+  "theme_en": "A close photographic study of a face marked with white and deep red circles",
+  "theme_zh": "一张以白色和深红圆形面部彩绘为焦点的近景摄影",
+  "wh_ratio": "1:1",
+  "id": "0804",
+  "name": "Sophie Delaporte",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/sophie-delaporte",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/sophie-delaporte.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "00d5db8575a5d2d972a74e6bdc851ed29dad8ec8c85a167b3fe11c35aa2316e5",
+    "gpt_submission_prompt": "This is a tightly cropped color photograph of a young woman's face against a dark burgundy background, shaped by theatrical white and red makeup. The head fills almost the entire square. Brown hair enters from the upper left and merges with the shadow along that edge, while the face turns slightly to the right and tilts down. The far side of the face falls out of focus near the right border. An opaque matte white shape covers the visible eye area, crosses the bridge of the nose, and curves broadly down around the cheek. Its edge is rounded but irregular enough to look applied to the skin rather than printed on the photograph. A large dark crimson disk sits within this pale cheek area. A smaller red patch crosses the front of the nose, creating an off-center echo of the circle below the eye. The partly lowered eyelid, natural brow, fine lashes, and soft closed lips remain legible, so the graphic paint sits beside quiet human expression. Warm directional light comes from the left and above. It brightens the forehead, white paint, nose, and lip ridge, while the eye socket and rightward side of the face recede into gentle shadow. The shallow focus preserves subtle skin and paint texture where the cheek is sharp, then softens the features near the picture edge. The photograph is intimate and still, with hard color shapes set against a softly modeled face and a nearly seamless red-black field.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "396622bfe088b16db065fb1557775be4d8a69a483195f67cb5cf0a591b341317",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

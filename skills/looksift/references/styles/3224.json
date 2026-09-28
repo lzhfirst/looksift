@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square ink-and-wash painting shows three horses running directly toward the viewer against an open warm beige ground. A pale cream horse leads at the center, flanked by two dark horses whose manes and tails whip outward. Their chests, raised forelegs and lowered heads create a powerful forward rhythm. The central pale body is painted with broad translucent washes, leaving the paper light as part of the form. The dark horses are built from sweeping black and charcoal strokes, with dry feathered edges suggesting moving hair. The ground beneath them is scarcely defined; only a few darker marks and soft shadows give the animals contact with space. There is no stable horizon or detailed setting, so the movement becomes the whole subject. Faces and eyes are more carefully marked than the racing bodies, making the three heads readable within the energetic brushwork. Warm brown washes around the edges soften the empty background and bring the pale center forward. Light is diffuse, with brightness created mostly by untouched paper rather than a depicted source. The composition balances the white middle figure with two black side masses. Its strokes move rapidly but remain controlled, alternating fluid wash, dry bristle marks and precise ink accents. The image feels vigorous and direct, like one decisive gesture expanded into three related forms.",
+  "full_prompt_zh": "这幅方形水墨淡彩画呈现三匹马朝观者正面奔来，背景是开阔暖米色素地。一匹浅奶油色马在中央领先，两侧深色马的鬃毛和尾巴向外扬起。胸部、抬起的前腿和低垂的头形成有力的向前节奏。中央浅色身体由宽阔透明水洗绘成，让纸的明亮本身成为形体。深色马由黑与炭色扫笔构成，干燥羽状边缘暗示运动中的毛发。脚下地面几乎没有定义，只有少数暗笔和柔影让动物与空间接触。没有稳定地平线或详细环境，因此动作成为全部主题。面孔与眼睛比奔跑身体标得更精确，让三颗头在有力笔触中仍可辨认。边缘暖棕水洗柔化空背景，并把浅色中心推前。光漫散，亮度主要由未染纸面构成，而非描绘某个光源。构图以白色中马平衡两侧黑色体量。笔触迅速却有控制，在流动水洗、干笔毛痕与准确墨点之间转换。画面有力而直接，像一个果断手势扩展成三个相关形体。",
+  "style_prompt_en": "The ink-and-wash painting sets sweeping black and charcoal marks around a luminous untouched center. Warm beige paper and pale brown washes provide generous breathing space. Broad wet strokes establish volume, dry feathered edges imply rapid motion, and a few precise dark accents clarify the focal forms. Diffuse light comes from the paper itself rather than a rendered source. Three related masses repeat with slight variation, creating a vigorous forward rhythm without a detailed setting.",
+  "style_prompt_zh": "这种水墨淡彩把横扫的黑与炭色笔痕放在发亮的留白中心周围。暖米色纸与浅棕水洗提供宽裕呼吸空间。宽阔湿笔建立体积，干燥羽状边缘暗示迅疾运动，少数准确暗点澄清焦点形体。漫射亮度来自纸面自身，而非被描绘的光源。三个相关体量略有变化地重复，在没有详细场景的情况下形成有力前进节奏。",
+  "theme_en": "Three horses running forward against a warm plain ground",
+  "theme_zh": "暖色素地前向前奔跑的三匹马",
+  "wh_ratio": "1:1",
+  "id": "3224",
+  "name": "Xu Beihong",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/xu-beihong",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "7e995cb88ea3c1263e62c2932d939bb873788587d156fb65a50f03bf96a8946a",
+    "gpt_submission_prompt": "A square ink-and-wash painting shows three horses running directly toward the viewer against an open warm beige ground. A pale cream horse leads at the center, flanked by two dark horses whose manes and tails whip outward. Their chests, raised forelegs and lowered heads create a powerful forward rhythm. The central pale body is painted with broad translucent washes, leaving the paper light as part of the form. The dark horses are built from sweeping black and charcoal strokes, with dry feathered edges suggesting moving hair. The ground beneath them is scarcely defined; only a few darker marks and soft shadows give the animals contact with space. There is no stable horizon or detailed setting, so the movement becomes the whole subject. Faces and eyes are more carefully marked than the racing bodies, making the three heads readable within the energetic brushwork. Warm brown washes around the edges soften the empty background and bring the pale center forward. Light is diffuse, with brightness created mostly by untouched paper rather than a depicted source. The composition balances the white middle figure with two black side masses. Its strokes move rapidly but remain controlled, alternating fluid wash, dry bristle marks and precise ink accents. The image feels vigorous and direct, like one decisive gesture expanded into three related forms.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "12306bb09a7f5bd70d9ce68befac79540beb4cada598c068e2b8e77ee168eb51",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

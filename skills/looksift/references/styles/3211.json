@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square fantasy comic painting shows a small band of armored travelers riding huge beasts across snowy, rocky ground. The nearest creature, pale blue gray and wolf-like, crouches at the right foreground with long claws spread on the ground and a fierce face turned toward the viewer. A tan lion-like animal strides beside it at the left, carrying a blue-cloaked rider. Above them, an older bearded figure in green and bronze armor sits high among branching antler-like forms. Other travelers and animals overlap behind, partly lost in the intricate group. A large warm full moon glows at the upper left against a violet blue sky, while bare twisted trees and distant mountains fill the cold background. The composition is crowded but layered: claws and fur in front, riders and armor in the middle, pale moon and icy distance behind. Fine black contour work describes fur tufts, scales, straps, armor plates and branches. Muted watercolor-like blues, ochres, greens and warm bronze fill the drawing without hiding the line. Moonlight gives cool highlights to the beasts and snow, while warmer accents sit on faces and gear. The group moves toward the viewer, creating a strong sense of fantasy adventure. Despite its density, the large blue creature and full moon provide clear visual anchors.",
+  "full_prompt_zh": "这幅方形奇幻漫画绘画呈现一小队披甲旅者骑着巨兽穿越覆雪岩地。最近一只浅蓝灰狼形生物蹲在右前景，长爪张开按地，凶猛面孔朝向观者。左侧一只黄褐狮形动物向前跨步，载着披蓝斗篷的骑手。它们上方，一位穿绿铜铠甲的长须老者坐得很高，周围是鹿角般分枝形。其他旅者与动物在后方重叠，部分失在繁密群体里。左上巨大暖满月在紫蓝天空中发光，弯曲枯树和远山填满寒冷背景。构图拥挤却分层：前方爪毛，中层骑手铠甲，后方浅月与冰冷远景。细黑轮廓描写毛束、鳞片、背带、甲片和树枝。低饱和水彩般蓝、赭、绿与暖铜填入线稿，不遮住线。月光给巨兽和雪冷亮点，更暖的点缀落在面孔与装备。队伍朝观者推进，带来强烈奇幻冒险感。尽管密集，大蓝兽和满月提供清楚视觉锚点。",
+  "style_prompt_en": "The fantasy comic image uses exceptionally fine black contours to organize dense overlapping forms. Cool blue gray, muted ochre, green and bronze sit beneath a violet night field and one pale warm disc. Linework stays visible through translucent color, giving fur-like, plated and branching textures distinct rhythms. Cool backlight catches raised edges, while small warm accents guide attention across the packed middle. Layered scale creates energetic depth without losing two strong anchors.",
+  "style_prompt_zh": "这种奇幻漫画图像以极细黑轮廓组织密集重叠形体。冷蓝灰、低饱和赭色、绿和铜色置于紫夜色域与一枚浅暖圆盘下。线稿透过透明颜色保持可见，使毛束般、板片般和分枝纹理节奏分明。冷逆光照到凸起边缘，细小暖点引导注意穿过拥挤中部。层叠尺度创造活跃深度，同时保有两个强锚点。",
+  "theme_en": "Armored riders on giant beasts beneath a full moon",
+  "theme_zh": "满月下骑巨兽的铠甲旅者",
+  "wh_ratio": "1:1",
+  "id": "3211",
+  "name": "Arthur Adams",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/arthur-adams",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "2d92e7a3edef52c940b94aa4af19660511f5a60c70fde7f8dc2a63db95ac5bf7",
+    "gpt_submission_prompt": "A square fantasy comic painting shows a small band of armored travelers riding huge beasts across snowy, rocky ground. The nearest creature, pale blue gray and wolf-like, crouches at the right foreground with long claws spread on the ground and a fierce face turned toward the viewer. A tan lion-like animal strides beside it at the left, carrying a blue-cloaked rider. Above them, an older bearded figure in green and bronze armor sits high among branching antler-like forms. Other travelers and animals overlap behind, partly lost in the intricate group. A large warm full moon glows at the upper left against a violet blue sky, while bare twisted trees and distant mountains fill the cold background. The composition is crowded but layered: claws and fur in front, riders and armor in the middle, pale moon and icy distance behind. Fine black contour work describes fur tufts, scales, straps, armor plates and branches. Muted watercolor-like blues, ochres, greens and warm bronze fill the drawing without hiding the line. Moonlight gives cool highlights to the beasts and snow, while warmer accents sit on faces and gear. The group moves toward the viewer, creating a strong sense of fantasy adventure. Despite its density, the large blue creature and full moon provide clear visual anchors.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "a641b1079ffd3b6277b12a06e27a9f396efdc0704cc44509a8a48f913b417e03",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square dark-fantasy painting centers on a robed keeper wearing a white animal skull mask with sweeping black horns. The figure stands close to the viewer, dressed in heavy ochre cloth over deep charcoal layers, and holds a smaller human skull at chest height. Behind the head, a large circular golden disc is engraved with faint ornament, giving the pose a ritual symmetry. The surrounding wall is dense with yellow-ochre floral relief, scratches, and worn plaster. The mask's pale bone catches warm light, while the eye sockets and neck disappear into near black. A staff or dark vertical object rests alongside the body, strengthening the upright form. Painterly brushwork distinguishes matte cloth, chalky bone, and cracked wall: broad scumbled areas on the robe, finer edge highlights on the skulls, and gritty marks in the background. The palette is unusually narrow, moving through mustard, antique gold, warm brown, charcoal, and bone ivory. Light seems to fall from the upper left, making the horns and round halo legible without a glowing special effect. The composition is formal and static, with central weight and a textured ornamental field. The whole image feels ancient, solemn, and slightly ominous, like a weathered devotional portrait from an invented mythology.",
+  "full_prompt_zh": "一幅方形暗黑奇幻绘画以一位披袍守护者为中心，他戴着白色兽骨面具，黑色长角向两侧弯出。人物靠近观者，厚重赭黄色布料覆在深炭色内层之上，胸前托着一枚更小的人类颅骨。头后是一面刻着淡淡装饰的大型圆形金盘，赋予姿态仪式性的对称。周围墙面密布黄赭色花纹浮雕、刮痕和磨旧灰泥。骨面具接住暖光，眼窝与脖颈则消失进近黑。身体旁有手杖或深色竖向物，加强挺直形态。绘画笔触区分哑光布、粉白骨和裂纹墙面：袍服上的宽阔擦叠色面、骨头边缘更细的亮笔和背景粗颗粒痕迹。色谱很窄，主要在芥末黄、古金、暖棕、炭灰和骨白之间变化。光似乎从左上落下，使长角与圆形光环清楚可辨，却没有特效般的发光。构图正式静止，中央分量沉重，背景纹饰有肌理。整体古老、肃穆、略带不祥，像虚构神话里被风化的礼拜肖像。",
+  "style_prompt_en": "A dark-fantasy devotional painting language uses a centered vertical silhouette before a broad ornamental circle. Antique gold, mustard ochre, warm brown, charcoal, and bone ivory form a narrow, heavy palette. Matte cloth, chalky pale material, and cracked relief each retain distinct brush texture. Warm raking light picks out raised edges, while sockets and inner folds remain near black. Fine scratches and floral or abstract ornament fill the background without competing with the central shape. Broad scumbling gives large areas age; precise pale accents clarify the focal structure. The mood is ritual, ancient, and solemn, with static symmetry and tactile weathering rather than luminous spectacle.",
+  "style_prompt_zh": "暗黑奇幻礼拜绘画语言把居中的垂直剪影置于宽阔装饰圆盘前。古金、芥末赭、暖棕、炭黑和骨白形成狭窄厚重的色谱。哑光布、粉白材质与开裂浮雕各有不同笔触肌理。温暖侧掠光挑出隆起边缘，凹洞和内侧褶皱保持近黑。细刮痕与花纹或抽象装饰填满背景，却不与中央形态争夺注意。宽阔擦叠使大色区显旧，准确浅色点笔澄清焦点结构。气氛仪式化、古老、肃穆，依靠静止对称与可触风化，而非发光奇观。",
+  "theme_en": "A horned skull-masked keeper holding a human skull against a golden wall",
+  "theme_zh": "一位戴角骨面具的守护者手持人类颅骨，站在金色墙前",
+  "wh_ratio": "1:1",
+  "id": "4229",
+  "name": "Gerald Brom",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/gerald-brom.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "cbaa0ae903efab5f59da848fb99559d2035b1d8e878053139c2f6528550b6d78",
+    "gpt_submission_prompt": "A square dark-fantasy painting centers on a robed keeper wearing a white animal skull mask with sweeping black horns. The figure stands close to the viewer, dressed in heavy ochre cloth over deep charcoal layers, and holds a smaller human skull at chest height. Behind the head, a large circular golden disc is engraved with faint ornament, giving the pose a ritual symmetry. The surrounding wall is dense with yellow-ochre floral relief, scratches, and worn plaster. The mask's pale bone catches warm light, while the eye sockets and neck disappear into near black. A staff or dark vertical object rests alongside the body, strengthening the upright form. Painterly brushwork distinguishes matte cloth, chalky bone, and cracked wall: broad scumbled areas on the robe, finer edge highlights on the skulls, and gritty marks in the background. The palette is unusually narrow, moving through mustard, antique gold, warm brown, charcoal, and bone ivory. Light seems to fall from the upper left, making the horns and round halo legible without a glowing special effect. The composition is formal and static, with central weight and a textured ornamental field. The whole image feels ancient, solemn, and slightly ominous, like a weathered devotional portrait from an invented mythology.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "5e719556cd7f8e4107650c568914cd05252660defb75482c2eaafea3ea7619e8",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

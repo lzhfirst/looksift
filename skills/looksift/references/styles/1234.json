@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square architectural photograph shows a pale modern museum beside a long, narrow reflecting canal. The building's main white tiled volume rises at the left, its upper block almost solid except for a few inset openings. A glass-sided box cantilevers from the center toward the water, while warmly lit transparent lower floors reveal public interior space. A paved walkway and low steps trace the canal's left edge; trees and carefully shaped planting soften the base of the architecture. The water occupies the right foreground and recedes deeply toward a vanishing point between the building and a line of trees. Its dark surface reflects glowing windows, pale walls and patches of foliage with mild ripples. The sky is overcast and cool, creating even light outside, while indoor illumination adds a quiet amber counterpoint. The camera is positioned across the canal at a slightly low angle, so the projecting glass volume and long water perspective remain clear. Straight tile joints and crisp architectural edges are visible, but the photograph does not become sterile because trees, reflections and human-scale paths provide variation. No crowd or dramatic event appears. The image centers on the relationship of weightless white volumes, transparent voids, warm interiors and calm dark water, conveying civic openness through spatial arrangement.",
+  "full_prompt_zh": "一幅正方形建筑照片呈现一座美术馆与旁边狭长的倒影水渠。建筑左侧升起浅色贴砖主楼，上部体块近乎完整，仅有少量内凹开口。中央一只带玻璃围护的盒状体量向水面悬挑，底层透明空间透出温暖的公共室内灯光。铺地步道和低矮台阶沿水渠左缘延伸，树木与修剪过的种植软化建筑基部。水面占据右侧前景，在建筑和树列之间深深退向消失点。暗色水面带轻微涟漪，映出发光窗带、浅墙和叶片斑块。阴天色调清冷，户外照明均匀，室内琥珀光提供安静对应。相机隔水而立，角度略低，悬挑玻璃体量与长长的水面透视都清楚可辨。笔直砖缝和清晰建筑边线可见，但树木、倒影和适合行人的路径使照片不显无菌。场内没有拥挤人群或戏剧事件。图像以轻盈白色体量、透明空处、暖色室内和沉静深水之间的关系为中心，通过空间安排传达公共建筑的开放感。",
+  "style_prompt_en": "The style is cool contemporary architectural photography with pale rectilinear volumes, transparent cantilevers, fine facade grids and a long reflective perspective. Overcast exterior light gives even gray-white surfaces, while small warm interior pools reveal depth. Dark water reflections and restrained planting provide organic counterweights to sharp edges. A controlled low oblique viewpoint guides the square frame toward a deep vanishing point. The result is precise but inhabitable, with material clarity, spatial openness and gentle tonal contrast.",
+  "style_prompt_zh": "这种风格是清冷的当代建筑摄影，具有浅色直角体量、透明悬挑、细密立面网格与狭长反射透视。阴天室外光使灰白表面均匀，少量暖色室内光区揭示纵深。深色水面倒影和克制绿植为锋利边缘提供有机配重。受控的低位斜角视点引导正方形画面走向深处消失点。效果精确却适于人使用，具有清晰材料、开放空间和柔和灰阶对比。",
+  "theme_en": "A white modern museum beside a narrow reflecting canal",
+  "theme_zh": "狭长倒影水渠旁的白色现代美术馆",
+  "wh_ratio": "1:1",
+  "id": "1234",
+  "name": "Fumihiko Maki",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/fumihiko-maki",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/fumihiko-maki.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "6312991dbfb59dde7bb9f3e5193a972be0940a80af3101b75311b08165e4ab2c",
+    "gpt_submission_prompt": "A square architectural photograph shows a pale modern museum beside a long, narrow reflecting canal. The building's main white tiled volume rises at the left, its upper block almost solid except for a few inset openings. A glass-sided box cantilevers from the center toward the water, while warmly lit transparent lower floors reveal public interior space. A paved walkway and low steps trace the canal's left edge; trees and carefully shaped planting soften the base of the architecture. The water occupies the right foreground and recedes deeply toward a vanishing point between the building and a line of trees. Its dark surface reflects glowing windows, pale walls and patches of foliage with mild ripples. The sky is overcast and cool, creating even light outside, while indoor illumination adds a quiet amber counterpoint. The camera is positioned across the canal at a slightly low angle, so the projecting glass volume and long water perspective remain clear. Straight tile joints and crisp architectural edges are visible, but the photograph does not become sterile because trees, reflections and human-scale paths provide variation. No crowd or dramatic event appears. The image centers on the relationship of weightless white volumes, transparent voids, warm interiors and calm dark water, conveying civic openness through spatial arrangement.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "f566fa896b9841869d10ec58e08218764764751c9bc91e21644d04247f5b4c70",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

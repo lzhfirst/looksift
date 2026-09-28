@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square monochrome illustration shows several enormous weathered skulls partly embedded in a snowy, almost empty landscape. One skull sits nearest the viewer on a dark ledge at the lower right; another rises behind it toward the left. Their hollow eye sockets are the deepest black shapes in the scene. Thin leafless trees stand at the far left, their branches dissolving into a cloud of charcoal dust. A tiny dark figure or fragment appears between the larger forms, making the skulls seem monumentally oversized. The ground below the ledge fades into pale washes and erasures rather than solid topography. Smudged graphite, sprayed ink and rubbed charcoal marks blur the boundaries between bone, snow and atmospheric mist. The right half of the composition opens into almost untouched white paper, creating an uneasy silence around the dark cluster. Fine scratches and stray marks drift through the air like debris. The nearest skull has enough anatomical detail to be recognizable, but the rear forms are less certain and merge with shadow. The image evokes a frightening vision caught mid-dissolution, not a neatly mapped fantasy world. Its drama arises from scale, negative space and the unstable transition from precise dark sockets to diffuse, grainy gray haze.",
+  "full_prompt_zh": "一幅正方形单色插画呈现数个巨大风化头骨半埋在几乎空白的雪地里。最靠近观者的头骨坐在右下深色台地上，另一颗从后方向左侧升起。空洞眼窝是场景中最深的黑形。最左边立着细瘦枯树，枝条消散入炭粉云雾。较大形体之间有一处微小深色人物或碎片，使头骨显得像纪念碑一样庞大。台地下方地面化成浅色洗痕和擦除痕迹，而非坚实地貌。擦抹石墨、喷散墨点和揉开的炭痕模糊了骨、雪与雾的边界。构图右半部敞开成几乎未触及的白纸，在深色形群周围制造不安静默。细刮痕和零星笔迹像碎屑飘过空中。最近头骨仍有足够解剖细节可供辨认，后方形体却较不确定，并与阴影融合。图像像一段正在消散的恐怖幻象，而非清楚制图的幻想世界。戏剧性来自尺度、留白，以及精确深眼窝向弥散颗粒灰雾的不稳定过渡。",
+  "style_prompt_en": "The style is atmospheric monochrome horror illustration made from rubbed graphite, charcoal dust, ink spatter and broad erasure. A small cluster of dark defined forms is set against expansive nearly white negative space. Edges shift between anatomical precision and smoky dissolution; stray scratches and scattered grain suggest unstable air. Value contrast is strongest in a few deep cavities, while surrounding planes fade into mist. Scale remains ambiguous, creating unease through silence and incompletion rather than graphic excess.",
+  "style_prompt_zh": "这种风格是由擦抹石墨、炭粉、喷散墨点和宽阔擦除构成的大气感单色恐怖插画。一小簇深暗明确形体置于辽阔、近白的留白前。边缘在解剖精度与烟雾般消散之间摇摆；零星刮痕与散落颗粒暗示不稳定空气。明度对比集中于少数深洞，周围平面则隐入雾。尺度保持暧昧，通过寂静和未完成感而非夸张视觉刺激制造不安。",
+  "theme_en": "Giant weathered skulls beside bare trees in a snowy void",
+  "theme_zh": "雪白虚空里枯树旁的巨大风化头骨",
+  "wh_ratio": "1:1",
+  "id": "4378",
+  "name": "Stephen Gammell",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/stephen-gammell.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "89bf90201fe067ab09e7a649be09bbc5748f556dca9f50aff4d5cf3495c1a4b9",
+    "gpt_submission_prompt": "A square monochrome illustration shows several enormous weathered skulls partly embedded in a snowy, almost empty landscape. One skull sits nearest the viewer on a dark ledge at the lower right; another rises behind it toward the left. Their hollow eye sockets are the deepest black shapes in the scene. Thin leafless trees stand at the far left, their branches dissolving into a cloud of charcoal dust. A tiny dark figure or fragment appears between the larger forms, making the skulls seem monumentally oversized. The ground below the ledge fades into pale washes and erasures rather than solid topography. Smudged graphite, sprayed ink and rubbed charcoal marks blur the boundaries between bone, snow and atmospheric mist. The right half of the composition opens into almost untouched white paper, creating an uneasy silence around the dark cluster. Fine scratches and stray marks drift through the air like debris. The nearest skull has enough anatomical detail to be recognizable, but the rear forms are less certain and merge with shadow. The image evokes a frightening vision caught mid-dissolution, not a neatly mapped fantasy world. Its drama arises from scale, negative space and the unstable transition from precise dark sockets to diffuse, grainy gray haze.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "ae970a3eb7fb6489c16134d9c4121e80865bf3cec412b78f614815beb57d4b02",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A spare painted portrait shows a seated woman facing the viewer against a warm, pale background. Her black hair is arranged close to the head, and a narrow face is drawn with dark arched brows, steady eyes, and small red lips. A vivid red shirt dress with a dark belt provides the principal color shape. Her forearms cross lightly in her lap, making a calm triangular arrangement beneath the long neck. A faint chair back and scuffed wall marks are the only setting. The image has a direct, almost disarming simplicity: the figure is centered and fully present, while much of the surrounding surface remains empty.\n\nThe style uses lean black contours, restrained shading, and matte blocks of red and beige. The background is not uniformly clean; thin scratches and small rubbed patches let the handmade surface show through. Skin is a pale cream with minimal modeling, while the hair and belt are near-black, establishing a few decisive contrasts. The shoulders and sleeves are angular, the hands simplified, and the proportions slightly elongated. Light is even and frontal, with almost no cast shadow. The composition depends on stillness, negative space, and a limited palette rather than detail. The red garment feels rich but not glossy, and the thin drawing gives the face a quiet watchfulness. No readable lettering appears.",
+  "full_prompt_zh": "一幅简净的绘画肖像描绘一名女子坐在暖浅色背景前，正面面向观看者。黑发贴近头部梳起，狭长的脸由深色弯眉、稳定的双眼和小小红唇描出。鲜红衬衫裙配深色腰带，成为主要色块。双前臂轻轻交叠在膝上，于长颈下方形成平静三角形。淡淡的椅背与磨旧墙痕是唯一环境。图像有直接、近乎让人卸下防备的简洁：人物居中而完整存在，周围大部分表面保持空白。\n\n风格使用精瘦黑轮廓、节制的阴影和哑光的红与米色色块。背景并不均匀洁净；细划痕和小块擦痕透出手工表面。皮肤是少有塑造的浅乳白，头发和腰带近黑，建立几处果断对比。肩与袖有棱角，双手简化，比例稍拉长。光均匀而正面，几乎没有投影。构图依赖静止、留白和有限色谱，而非细节。红色衣物浓郁却不发亮，纤细绘线赋予面容安静的注视感。没有可辨认文字。",
+  "style_prompt_en": "Lean dark contours outline elongated, simplified forms against a warm pale field. One vivid matte red shape carries most of the color, balanced by near-black accents and a small cream area. Shading is restrained and frontal light leaves almost no cast shadow. Thin scratches, rubbed patches, and slight unevenness in the beige ground reveal a handmade painted surface. Angular outer lines settle into a calm triangular arrangement, surrounded by generous negative space. The economy of detail makes a few arched and curved marks especially expressive. The overall effect is direct, watchful, and quietly elegant, with graphic clarity and slight material wear rather than polished realism.",
+  "style_prompt_zh": "精瘦深色轮廓在暖浅色场中勾出拉长、简化的形体。一片鲜明哑光红色承担主要颜色，与近黑重音和小块乳白平衡。阴影节制，正面光几乎没有投影。细划痕、擦痕与米色底轻微不均，透露手工绘画表面。棱角外线归入安静的三角排列，四周留有宽阔负空间。细节经济，使少数弯眉样与弧形笔迹格外富于表现。整体直接、注视而安静优雅，有图形清晰度和轻微材料磨损，而非精修写实。",
+  "theme_en": "A woman in a red dress seated against a pale wall",
+  "theme_zh": "浅色墙前穿红裙端坐的女子",
+  "wh_ratio": "1:1",
+  "id": "3222",
+  "name": "Sanyu",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/sanyu",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "b85667e785bd190279fecb48af50ca80c9918f2aeed39175da078c0ac44158a8",
+    "gpt_submission_prompt": "A spare painted portrait shows a seated woman facing the viewer against a warm, pale background. Her black hair is arranged close to the head, and a narrow face is drawn with dark arched brows, steady eyes, and small red lips. A vivid red shirt dress with a dark belt provides the principal color shape. Her forearms cross lightly in her lap, making a calm triangular arrangement beneath the long neck. A faint chair back and scuffed wall marks are the only setting. The image has a direct, almost disarming simplicity: the figure is centered and fully present, while much of the surrounding surface remains empty.\n\nThe style uses lean black contours, restrained shading, and matte blocks of red and beige. The background is not uniformly clean; thin scratches and small rubbed patches let the handmade surface show through. Skin is a pale cream with minimal modeling, while the hair and belt are near-black, establishing a few decisive contrasts. The shoulders and sleeves are angular, the hands simplified, and the proportions slightly elongated. Light is even and frontal, with almost no cast shadow. The composition depends on stillness, negative space, and a limited palette rather than detail. The red garment feels rich but not glossy, and the thin drawing gives the face a quiet watchfulness. No readable lettering appears.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "ad4e86f1aa2a578a392528098d00dda1f00871362e5836092364fa33e20be991",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

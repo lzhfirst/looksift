@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square radiographic artwork on a pure black field combines the glowing outline of a teapot with a human skull and neck. The teapot sits in the upper center: its round body, short lid and knob, curved spout on the left, and loop handle on the right appear as thin blue-white translucent lines. Within the vessel, a pale flower floats upright like an object seen through glass. The lower contour of the teapot overlaps the crown of the skull, so the skull seems to extend downward from the pot. The jaw and teeth face left, and a short section of cervical vertebrae descends toward the lower right. Layered exposures make some edges doubled and reveal internal structures at different densities. The brightest whites gather around the teeth, rim, and base of the vessel; soft cyan halos outline the outer curves. The surrounding background is uninterrupted matte black, intensifying the strange composite and leaving no environmental clues. Illumination seems intrinsic to the X-ray image rather than cast from an external light. Fine grain and faint ghosted transitions give the picture a photographic technical quality. The composition feels clinical, witty, and uncanny, built from transparency and structural overlap rather than surface color.",
+  "full_prompt_zh": "一幅方形放射影像艺术作品置于纯黑底上，将发亮的茶壶轮廓与人类颅骨和颈骨结合。茶壶位于上方中央：圆壶身、短壶盖与钮、左侧弯曲壶嘴和右侧环形手柄都呈现细蓝白半透明线。壶内一朵浅色花直立漂浮，像隔着玻璃被看见。茶壶下缘与颅顶重叠，使头骨仿佛从壶下延伸。下颌和牙齿朝左，一小段颈椎向右下延展。叠加曝光使部分边缘成双，并以不同密度显出内部结构。最亮的白集中在牙齿、壶缘和壶身底部；柔青光晕勾出外曲线。周围是不间断哑黑背景，强化奇异组合，不留下环境线索。光仿佛来自 X 光影像本身，而不是外部投射。细颗粒与淡淡重影过渡赋予画面摄影技术质感。构图带临床感、机智而诡异，依靠透明与结构交叠而非表面色彩成立。",
+  "style_prompt_en": "Radiographic image-making on absolute black, where translucent cyan-white contours and varying internal densities reveal overlapping structures. Thin luminous edges, ghosted double exposures, soft halos, and fine photographic grain carry the texture. Sparse high-contrast placement creates a clinical yet uncanny rhythm; brightness feels emitted from within rather than projected onto a surface.",
+  "style_prompt_zh": "纯黑底上的放射影像表现，半透明青白轮廓与不同内部密度显出交叠结构。细发光边缘、重影双曝光、柔和光晕与细摄影颗粒承担肌理。稀疏高反差布置形成兼具临床感与诡异感的节奏；亮度似从内部发出，而非投在表面。",
+  "theme_en": "A translucent X-ray teapot joined to a human skull silhouette",
+  "theme_zh": "透明 X 光茶壶与人类颅骨剪影相连",
+  "wh_ratio": "1:1",
+  "id": "4456",
+  "name": "Nick Veasey",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/nick-veasey.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "5d409f0377aeea2e24a3675ab093a52c44e0da2536977184ea16c5b2dfe47a95",
+    "gpt_submission_prompt": "A square radiographic artwork on a pure black field combines the glowing outline of a teapot with a human skull and neck. The teapot sits in the upper center: its round body, short lid and knob, curved spout on the left, and loop handle on the right appear as thin blue-white translucent lines. Within the vessel, a pale flower floats upright like an object seen through glass. The lower contour of the teapot overlaps the crown of the skull, so the skull seems to extend downward from the pot. The jaw and teeth face left, and a short section of cervical vertebrae descends toward the lower right. Layered exposures make some edges doubled and reveal internal structures at different densities. The brightest whites gather around the teeth, rim, and base of the vessel; soft cyan halos outline the outer curves. The surrounding background is uninterrupted matte black, intensifying the strange composite and leaving no environmental clues. Illumination seems intrinsic to the X-ray image rather than cast from an external light. Fine grain and faint ghosted transitions give the picture a photographic technical quality. The composition feels clinical, witty, and uncanny, built from transparency and structural overlap rather than surface color.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "4355c5a0c271cf97be34f7b87adba97ba784ec7e5ae5bf1c807fd29e5487a7da",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square hand-colored comic illustration shows a young woman lounging diagonally on a yellow-and-turquoise checked sofa with a black cat sleeping beside her. The background is a loose wash of warm cream and golden yellow, with no detailed room beyond the sofa and a few small floor objects. The woman sits near the upper center, her dark curled hair arranged close to the head and her face angled downward with a private, amused smile. One elbow rests on the sofa arm, and her hand supports her cheek. She wears a bright pink blouse with rolled sleeves, dark teal cropped trousers and black low heels. Her legs stretch toward the lower left, crossing the pale foreground with an easy, unhurried posture. The black cat occupies the right side of the cushion, its body curled over an open pale book or sheet of paper. Narrow ink lines pick out the closed eyes, paws and glossy folds of fur within the large dark shape. At the left edge, a small tan doglike figure and other cropped household details appear, while a red object sits on the floor at the lower right. The sofa's repeating yellow grid creates a clear rhythmic surface behind the softer clothing and animal forms. Light is even and warm, leaving little cast shadow; black outlines and flat color differences define most depth. The overall composition feels relaxed and witty, balancing a saturated pink figure with the dark cat and bright patterned seat.",
+  "full_prompt_zh": "这幅方形手工设色漫画插画里，一位年轻女子斜躺在黄与青绿色格纹沙发上，身旁一只黑猫睡着。背景是松散的暖奶油色和金黄色水洗，除了沙发与少量地上小物，没有详绘房间。女子坐在上方中央附近，深色卷发贴头整理，面孔低垂，带着私密而觉得好笑的微笑。一边手肘支在沙发扶手上，手掌托住脸颊。她穿亮粉上衣，袖子卷起，下着深青绿色九分裤和黑色低跟鞋。双腿伸向左下，以轻松不急的姿势穿过浅色前景。黑猫占据坐垫右侧，身体蜷在一本打开的浅色书或纸张上。细墨线在大块深色中点出闭合眼睛、爪子和发亮的毛褶。左缘出现一只小型浅褐色狗状形体与其他被截住的家居细节，右下地面有一件红色物品。沙发反复的黄色方格在较柔和的衣物与动物形体后形成清楚节奏。光线均匀温暖，几乎没有投影；黑轮廓与平涂色差定义主要纵深。整体构图轻松机智，让饱和粉色人物与深色黑猫、明亮花纹座椅相平衡。",
+  "style_prompt_en": "The hand-colored comic style combines confident black contour lines with flat, slightly worn color fields. Warm golden ground and patterned yellow-green areas support concentrated pink and deep teal accents, while a large black shape provides visual weight. Faces and gestures are lightly caricatured but carefully observed, with small expressive ink details inside simpler silhouettes. Repeating fine grids create a lively counter-rhythm to loose organic curves. Light is broadly even and warm; depth comes mainly from overlap, contour and color rather than modeled cast shadows. The page feels intimate and playful, with open pale space preventing the patterned center from becoming crowded.",
+  "style_prompt_zh": "这种手工设色漫画风格把自信的黑轮廓线与平涂、略磨旧的色域结合。暖金底和带纹样的黄绿色区域承托集中的粉与深青绿强调，大块黑形提供视觉重量。表情和动作略带漫画夸张，却经过细心观察，简洁剪影内部点缀小而传神的墨线细节。反复细格纹与松弛有机曲线形成活泼对位。光线宽泛均匀而温暖；纵深主要来自重叠、轮廓和色彩，而非塑形投影。画页亲密而俏皮，敞开的浅色空间避免中央花纹区过于拥挤。",
+  "theme_en": "A relaxed woman on a checked sofa beside a sleeping black cat",
+  "theme_zh": "一位女子放松地坐在格纹沙发上，旁边睡着黑猫",
+  "wh_ratio": "1:1",
+  "id": "0592",
+  "name": "Jackie Ormes",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/jackie-ormes",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/jackie-ormes.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "d4d51b1654fe1f1fb511b831804195b65887f4d9c8e10631c64b3b3756135b21",
+    "gpt_submission_prompt": "A square hand-colored comic illustration shows a young woman lounging diagonally on a yellow-and-turquoise checked sofa with a black cat sleeping beside her. The background is a loose wash of warm cream and golden yellow, with no detailed room beyond the sofa and a few small floor objects. The woman sits near the upper center, her dark curled hair arranged close to the head and her face angled downward with a private, amused smile. One elbow rests on the sofa arm, and her hand supports her cheek. She wears a bright pink blouse with rolled sleeves, dark teal cropped trousers and black low heels. Her legs stretch toward the lower left, crossing the pale foreground with an easy, unhurried posture. The black cat occupies the right side of the cushion, its body curled over an open pale book or sheet of paper. Narrow ink lines pick out the closed eyes, paws and glossy folds of fur within the large dark shape. At the left edge, a small tan doglike figure and other cropped household details appear, while a red object sits on the floor at the lower right. The sofa's repeating yellow grid creates a clear rhythmic surface behind the softer clothing and animal forms. Light is even and warm, leaving little cast shadow; black outlines and flat color differences define most depth. The overall composition feels relaxed and witty, balancing a saturated pink figure with the dark cat and bright patterned seat.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "35e2f8479eafd69b28ddb5c96cc154e0a7fe13bab421abd2ab9512521e3fb4f5",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

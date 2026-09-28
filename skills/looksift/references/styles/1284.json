@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square staged color photograph depicts a woman in a deep red mid-century dress seated on a patterned sofa in a dim domestic room. She holds an open book in her lap and looks toward the left, where an old wooden television cabinet glows with an uncanny underwater scene of small fish and plants instead of a normal broadcast. A pendant lamp with a warm orange shade hangs above her, creating a bright pool that touches the rolled hair, shoulders, book and part of the green-painted wall. Daylight seeps through a lace curtain at the far left, cooler and weaker than the interior lamp. Houseplants, framed pictures and worn upholstery occupy the edges, giving the room the density of a lived-in memory. The color palette is theatrical but restrained: bottle green walls, dark brown furniture, saturated red cloth, warm amber light and a small turquoise glow from the screen. The woman sits in profile and remains emotionally quiet despite the strange display. The camera stands back far enough to show her relationship to the television and room rather than turning the scene into a close portrait. Shadows are deep, but small details stay readable. The image feels like a carefully constructed mystery within an ordinary home, where one altered familiar object shifts the mood of the entire scene.",
+  "full_prompt_zh": "一幅正方形布景彩色照片描绘一位穿深红色世纪中期连衣裙的女子坐在昏暗家居里的花纹沙发上。她膝上放一本打开的书，视线转向左侧；那里一台旧木壳电视发出诡异水下景象的光，屏幕里有小鱼和水草，而非普通节目。头顶暖橙色罩灯垂下，亮区碰到卷发、肩膀、书页和部分绿漆墙。最左侧蕾丝窗帘透入日光，其冷度和亮度都弱于室内灯。盆栽、框画和磨损软装占据画面边缘，使房间有生活记忆的密度。配色带舞台感却克制：瓶绿墙面、深棕家具、饱和红布料、暖琥珀灯光，以及屏幕的一小块青蓝辉光。女子侧身坐着，面对奇怪画面仍情绪平静。相机距离足以呈现她与电视和房间的关系，而非变成近景肖像。阴影浓重，小细节仍可阅读。图像像一个被精心建构在普通住宅里的谜团，一件熟悉物品的变化改变了整个场景气氛。",
+  "style_prompt_en": "The style is staged cinematic color photography with a mid-century domestic atmosphere, deep interior shadows and tightly controlled pools of practical light. Bottle green, amber, dark brown and saturated red surround one cooler luminous accent. Layered furnishings and slight wear create an inhabited set rather than a pristine studio. A moderate wide view relates the central figure or form to a subtly altered everyday environment. Narrative tension remains quiet, emerging from color, gaze and one uncanny visual contradiction.",
+  "style_prompt_zh": "这种风格是布景式电影彩色摄影，具有世纪中期家居氛围、深室内阴影和严密控制的现场光区。瓶绿、琥珀、深棕与饱和红围住一处更冷的发亮重音。层叠家具与轻微磨损构成有人使用的布景，而非洁净影棚。适度宽视角建立中央形体与发生微妙变化的日常环境之间的关系。叙事张力安静地从色彩、视线和一处诡异的视觉矛盾中生出。",
+  "theme_en": "A woman reading beside an aquarium-like television",
+  "theme_zh": "在鱼缸般的老电视旁阅读的女子",
+  "wh_ratio": "1:1",
+  "id": "1284",
+  "name": "Holly Andres",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/holly-andres",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/holly-andres.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "57de9c1bf59a3f0ec4f1eb11d67cc42b2f47a3b823fd54d75666a725f246a43c",
+    "gpt_submission_prompt": "A square staged color photograph depicts a woman in a deep red mid-century dress seated on a patterned sofa in a dim domestic room. She holds an open book in her lap and looks toward the left, where an old wooden television cabinet glows with an uncanny underwater scene of small fish and plants instead of a normal broadcast. A pendant lamp with a warm orange shade hangs above her, creating a bright pool that touches the rolled hair, shoulders, book and part of the green-painted wall. Daylight seeps through a lace curtain at the far left, cooler and weaker than the interior lamp. Houseplants, framed pictures and worn upholstery occupy the edges, giving the room the density of a lived-in memory. The color palette is theatrical but restrained: bottle green walls, dark brown furniture, saturated red cloth, warm amber light and a small turquoise glow from the screen. The woman sits in profile and remains emotionally quiet despite the strange display. The camera stands back far enough to show her relationship to the television and room rather than turning the scene into a close portrait. Shadows are deep, but small details stay readable. The image feels like a carefully constructed mystery within an ordinary home, where one altered familiar object shifts the mood of the entire scene.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "79e44f5544d2a575543b87e44db507eb6cf06355228d51554494df2cbbe7ce58",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

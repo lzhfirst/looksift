@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A small yellow skiff rests in a shallow opening among tall marsh grasses, its pale interior turned slightly toward the viewer. The boat is placed just right of center and low in the composition, where a narrow channel of still blue-green water moves through the grass from the foreground. Its reflection is faint and broken by submerged stems. A flat band of golden reeds stretches across the middle distance, meeting a very thin blue horizon. Above it rises an immense blue-grey sky, softened by haze and marked by one luminous white cloud near the upper right. The sky takes more than half of the square image, giving the little vessel a quiet sense of solitude. The palette moves gently between muted turquoise, slate blue, straw yellow, olive green, and cream, with no hard black. The grasses are suggested by many fine upright marks that loosen into a smooth field with distance. Water and cloud edges are blended and airy; the boat has just enough crisp structure to hold the eye. Light seems filtered through coastal moisture, bright enough to lift the cloud and yellow hull but not sharp enough to cast strong shadows. Horizontal bands of sky, sea, reeds, and water create a patient rhythm, while the diagonal curve of the channel leads inward. The painted surface remains understated and matte, balancing delicate texture with broad areas of calm color.",
+  "full_prompt_zh": "一艘黄色小船停在高高的沼泽草丛间一处浅水开口里，浅色船舱略微转向观者。小船位于画面中线右侧且位置偏低，前景一条狭窄的蓝绿色静水通道穿过草丛向它延伸。倒影很淡，被浸在水中的草茎打碎。中景横向铺开一带金色芦草，与极细的蓝色地平线相接。上方升起巨大的蓝灰色天空，被薄雾柔化，右上方有一团发亮的白云。天空占据方形画面的一半以上，使小船带着安静的孤独感。色彩在柔和的绿松石色、石板蓝、稻草黄、橄榄绿和奶油白之间轻轻转换，没有生硬的黑色。草丛以许多细小的竖向笔痕提示，远处逐渐融为平滑的色带。水与云的边缘融合且轻盈；小船只有足够清晰的结构来抓住视线。光仿佛穿过海岸湿润空气，足以提亮云朵和黄色船身，却不锐利到形成浓重阴影。天空、海面、芦草和水道的水平色带构成缓慢的节奏，弯曲水道的斜线则引导视线深入。画面表面低调而哑光，在细腻肌理和大面积平静色彩之间取得平衡。",
+  "style_prompt_en": "Open atmospheric color fields and low horizontal bands create a spacious, contemplative composition. Blue-grey, muted turquoise, straw yellow, olive, and soft cream meet through gentle tonal transitions. A small, clearly structured focal shape is held within broad expanses of softened sky and ground. Fine upright marks give nearby texture, then merge into smooth distant bands. Waterlike or translucent areas carry broken reflections rather than hard mirror symmetry. Cloudlike light is diffuse and humid, with one concentrated pale glow and almost no harsh shadows. Edges alternate between airy blending and a few selective crisp accents. The surface feels matte, quiet, and patiently painted, with a delicate balance between emptiness and subtle detail.",
+  "style_prompt_zh": "开阔的大气色域与低矮的水平色带构成宽裕、沉思的构图。蓝灰、柔和绿松石色、稻草黄、橄榄绿和浅奶油色通过轻柔的明暗过渡相接。一个结构清楚的小焦点被安置在大片柔化的天空和地面之中。近处细小的竖向笔痕形成肌理，随后并入远处平滑的色带。水样或半透明的区域呈现断续倒影，而非生硬的镜面对称。云层般的光弥散且湿润，只有一处集中的浅色辉光，几乎没有浓重阴影。边缘在轻盈融合与少数有选择的清晰重音间交替。表面哑光、安静且绘制耐心，让留空和细微细节保持精巧平衡。",
+  "theme_en": "A small yellow skiff resting in golden marsh grass beneath a wide sky",
+  "theme_zh": "金色沼泽草丛中的一艘黄色小船与宽阔天空",
+  "wh_ratio": "1:1",
+  "id": "3737",
+  "name": "Anne Packard",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/anne-packard",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "b7271337a32b35b6477b1b7f9cd2ca0e89f8ccc278b20b0220fa32f9039faf40",
+    "gpt_submission_prompt": "A small yellow skiff rests in a shallow opening among tall marsh grasses, its pale interior turned slightly toward the viewer. The boat is placed just right of center and low in the composition, where a narrow channel of still blue-green water moves through the grass from the foreground. Its reflection is faint and broken by submerged stems. A flat band of golden reeds stretches across the middle distance, meeting a very thin blue horizon. Above it rises an immense blue-grey sky, softened by haze and marked by one luminous white cloud near the upper right. The sky takes more than half of the square image, giving the little vessel a quiet sense of solitude. The palette moves gently between muted turquoise, slate blue, straw yellow, olive green, and cream, with no hard black. The grasses are suggested by many fine upright marks that loosen into a smooth field with distance. Water and cloud edges are blended and airy; the boat has just enough crisp structure to hold the eye. Light seems filtered through coastal moisture, bright enough to lift the cloud and yellow hull but not sharp enough to cast strong shadows. Horizontal bands of sky, sea, reeds, and water create a patient rhythm, while the diagonal curve of the channel leads inward. The painted surface remains understated and matte, balancing delicate texture with broad areas of calm color.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "334ade61912db00417207e68eb6566c721625bf501f6db92ef96681a057e849e",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

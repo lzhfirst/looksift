@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square painterly fantasy cityscape shows a densely built island rising in tiers from dark reflective water. At the base, elegant old townhouses with mansard roofs and many warm-lit windows line a narrow shore. Above them, more stone buildings climb a wooded hill in increasingly tight layers, culminating in a grand palace-like structure with domes and slender spires. Trees and shrubs grow among the masonry, softening its edges and making the built forms appear intertwined with the land. The camera faces the island from across still water at a slight distance, allowing the whole stacked silhouette to fit within the frame. A dull cloudy sky glows pale gray behind the upper towers. The lower half contains deep olive and brown shadows, with scattered yellow windows and broken reflections adding warmth. Rooflines, balconies, arches, and tiny facade divisions are painted in abundant detail, yet haze makes the far structures less exact. The water reflects the island in dark wavering bands rather than a perfect mirror. Overall color is aged cream, ochre, moss green, charcoal, and soft gray. Light feels like late afternoon or early evening, diffuse and atmospheric. The composition has a strong pyramidal ascent from shore to summit, creating a romantic, slightly impossible urban world. No people dominate, and no text or decorative frame appears.",
+  "full_prompt_zh": "一幅方形绘画式奇幻城市风景里，密集岛城从深色倒影水面层层升起。底部带斜折屋顶与许多暖亮窗的旧式联排楼沿窄岸排开。其上更多石楼攀上林木山丘，层次愈发紧密，顶端是一组带穹顶和细尖塔的宏伟宫殿式建筑。树和灌木生在砌石之间，软化边缘，让建筑似与土地交织。镜头从静水对面稍远处面对岛屿，使完整层叠剪影收入画幅。上方塔楼后是浅灰发亮的阴云天。下半充满深橄榄和棕影，散落的黄色窗光与破碎反光添暖。屋顶线、阳台、拱和细小立面分格绘得丰富，薄雾却让远楼不那么精确。水面把岛屿倒成深色摇曳条带，而非完美镜像。整体颜色为旧奶油、赭黄、苔绿、炭黑和柔灰。光像下午晚些时候或初晚，漫射且有空气感。构图从岸到顶强烈金字塔式上升，营造浪漫而略不可能的都市世界。没有人物主导，也没有文字或装饰框。",
+  "style_prompt_en": "Atmospheric painterly fantasy rendering with abundant fine built detail softened by mist and interwoven organic texture. A pyramidal stack of overlapping volumes rises from a dark reflective base toward pale sky. Aged cream, ochre, moss green, charcoal, and scattered warm pinlights keep the palette restrained but rich. Small facade rhythms contrast with broad haze and wavering reflections, creating romantic depth without photoreal sharpness.",
+  "style_prompt_zh": "大气感绘画式奇幻呈现以丰富精细构造细节、雾气软化和交织有机纹理为特色。重叠体量的金字塔式堆叠从深倒影基底升向浅天空。旧奶油、赭黄、苔绿、炭黑与散落暖光点使调色克制而丰厚。细小表面节奏对照广阔薄雾和摇曳反射，建立浪漫纵深，不追求摄影锐利。",
+  "theme_en": "A many-tiered city rising on a wooded island above reflective water",
+  "theme_zh": "倒映水面的林木岛上层叠升起的城市",
+  "wh_ratio": "1:1",
+  "id": "0757",
+  "name": "Pierre-Jacques Pelletier",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/pierre-jacques-pelletier",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/pierre-jacques-pelletier.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "98f5c39ac691f685e2468c5f9eecf7bb45b139d25b7463fa278cf9901744aa20",
+    "gpt_submission_prompt": "A square painterly fantasy cityscape shows a densely built island rising in tiers from dark reflective water. At the base, elegant old townhouses with mansard roofs and many warm-lit windows line a narrow shore. Above them, more stone buildings climb a wooded hill in increasingly tight layers, culminating in a grand palace-like structure with domes and slender spires. Trees and shrubs grow among the masonry, softening its edges and making the built forms appear intertwined with the land. The camera faces the island from across still water at a slight distance, allowing the whole stacked silhouette to fit within the frame. A dull cloudy sky glows pale gray behind the upper towers. The lower half contains deep olive and brown shadows, with scattered yellow windows and broken reflections adding warmth. Rooflines, balconies, arches, and tiny facade divisions are painted in abundant detail, yet haze makes the far structures less exact. The water reflects the island in dark wavering bands rather than a perfect mirror. Overall color is aged cream, ochre, moss green, charcoal, and soft gray. Light feels like late afternoon or early evening, diffuse and atmospheric. The composition has a strong pyramidal ascent from shore to summit, creating a romantic, slightly impossible urban world. No people dominate, and no text or decorative frame appears.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "04a89c4f6250285d3b9eccfe186e52e55ecadb9ff457e760896ca5354e98ea31",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

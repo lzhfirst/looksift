@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A decorative storybook illustration places two young travelers and a white wolf beneath a heavily flowering tree. The figures recline together across the center, their blue and warm beige garments interlocking with the creature's bright white fur. Above them, thick twisting branches carry dense orange and cream blossoms against a near-black blue woodland. More flowers and grasses curve around the lower edge, making the scene feel enclosed within a living ornamental frame. Every shape is carefully outlined with fine ink-like contours. Color is laid in broad, mostly flat areas, then animated by small interior lines that describe hair, fabric folds, fur, bark, and petals. The palette is limited and harmonious: slate blue, warm ochre, cream, copper orange, muted olive, and dark navy. There is little conventional shadow; contrast comes instead from the white animal and pale faces against the deep ground, and from the warm flower clusters against cooler garments. The composition has a clear horizontal resting line through the figures, balanced by the arcing branches overhead. Flowers recur in varied sizes, creating a gentle decorative rhythm without hiding the central group. A thin border encloses the square like a plate from an old illustrated book. The image is intimate and fantastical, with precise linework and flattened depth making the woodland feel patterned rather than naturalistically vast.",
+  "full_prompt_zh": "一幅装饰性故事书插画把两位年轻旅人和一只白狼放在开满花的树下。人物在画面中部并肩斜卧，蓝色与暖米色衣裳同雪白皮毛互相交错。上方，粗壮扭曲的树枝托着密集的橙色与奶油白花簇，衬在近乎黑蓝的树林前。更多花朵和草叶沿下缘弯曲，把场景包在一圈活的装饰边框中。每个形状都用细墨线般的轮廓仔细勾勒。色彩主要铺成宽阔平面，再由细小内部线条描出头发、布料褶皱、皮毛、树皮和花瓣。色盘有限而协调：石板蓝、暖赭黄、奶油白、铜橙、柔橄榄色和深海军蓝。画面少有传统明暗；对比来自白色动物与浅色面庞衬在深背景前，也来自暖花簇与较冷衣料的相遇。人物横向休憩的布局十分清楚，上方拱形树枝与之平衡。不同大小的花反复出现，形成柔和装饰节奏，却没有遮住中央群像。细边框围住方形画面，像旧插画书中的一页。作品亲密而奇幻，精确的线条和压平的纵深使树林更像图案，而非自然主义的辽阔空间。",
+  "style_prompt_en": "A decorative storybook plate with fine continuous ink contours and broad matte color fields. Slate blue, copper orange, ochre, cream, muted olive, and deep navy repeat through interlocking organic shapes. Dense clusters of small rounded marks form an upper canopy and lower border, enclosing a calmer horizontal center. Interior hatch and contour marks describe texture without heavy modeling. Pale masses stand out sharply against dark blue recesses; lighting is gentle and largely graphic. Flattened depth, an arcing overhead structure, and a thin surrounding rule give the image a patterned, intimate rhythm.",
+  "style_prompt_zh": "一张装饰性故事书画页，以细而连续的墨色轮廓和宽阔哑光色面构成。石板蓝、铜橙、赭黄、奶油白、柔橄榄色和深海军蓝在相扣的有机形状中反复出现。密集小圆点簇成上方树冠与下方边饰，围住更平静的横向中心。内部排线与轮廓笔迹描出质地，而不依赖厚重明暗。浅色大形在深蓝缝隙前清晰凸显；光线柔和，主要通过图形关系呈现。压平的纵深、上方弯拱结构与细窄外框带来图案化、亲密的节奏。",
+  "theme_en": "A woodland story beneath flowering branches",
+  "theme_zh": "繁花枝下的林间故事",
+  "wh_ratio": "1:1",
+  "id": "3120",
+  "name": "Dorothy Lathrop",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/dorothy-lathrop",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "aa65a48131ba64e7cd52c39f905ca96b927ed55ab4b9f07ffe7a49b43b97fc92",
+    "gpt_submission_prompt": "A decorative storybook illustration places two young travelers and a white wolf beneath a heavily flowering tree. The figures recline together across the center, their blue and warm beige garments interlocking with the creature's bright white fur. Above them, thick twisting branches carry dense orange and cream blossoms against a near-black blue woodland. More flowers and grasses curve around the lower edge, making the scene feel enclosed within a living ornamental frame. Every shape is carefully outlined with fine ink-like contours. Color is laid in broad, mostly flat areas, then animated by small interior lines that describe hair, fabric folds, fur, bark, and petals. The palette is limited and harmonious: slate blue, warm ochre, cream, copper orange, muted olive, and dark navy. There is little conventional shadow; contrast comes instead from the white animal and pale faces against the deep ground, and from the warm flower clusters against cooler garments. The composition has a clear horizontal resting line through the figures, balanced by the arcing branches overhead. Flowers recur in varied sizes, creating a gentle decorative rhythm without hiding the central group. A thin border encloses the square like a plate from an old illustrated book. The image is intimate and fantastical, with precise linework and flattened depth making the woodland feel patterned rather than naturalistically vast.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "f5851f11bcb4e9454d1610ae99dbaf2889ec757476547878da51e40359dd6f45",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A young woman fills a close, vertical three-quarter portrait, turning her head toward the viewer while her shoulders angle away. A deep teal wrap gathers her violet-brown hair, and small ocher blossoms and loose leaves cluster around its edges. Her expression is quiet and alert, with softly parted lips, luminous eyes, and fine freckles across the cheeks and nose. A light ruffled collar appears beneath the surrounding foliage. The face is rendered with delicate tonal transitions and warm peach light, while the hair, fabric, flowers, and leaves resolve into broader, more visibly layered strokes. Thin dark contours define selected features without outlining every surface. Rust and golden ocher accents move through the frame against cool teal and muted green, anchored by deep plum shadows. Flecks, rubbed passages, translucent color, and irregular paperlike texture lend the image a worn, tactile finish. The pale background remains quiet and uneven rather than describing a detailed room, allowing the figure and botanical shapes to create an intimate decorative enclosure. The portrait reads clearly at a glance, then rewards a closer look through its contrast between smooth facial modeling and rougher collage-like paint marks. Gentle side light gives the face dimension without hard theatrical shadows; the overall mood is tender, contemplative, and slightly vintage. A square canvas preserves the cropped closeness of the head and the balanced floral surround.",
+  "full_prompt_zh": "画面是一幅近距离的竖向四分之三侧面肖像：年轻女子的肩膀斜向一边，头却转向观者，占据画面大部分空间。深青绿色头巾收拢紫棕色头发，边缘簇拥着小朵赭黄色花和松散的叶片。她神情安静而警觉，双唇微启，眼睛明亮，鼻梁与双颊散布细小雀斑。环绕的叶影下露出浅色褶边衣领。面部以细腻的明暗过渡和暖桃色光线塑形，头发、布料、花朵与叶片则化为更宽阔、更明显的层叠笔触。细而深的线条只在关键五官处勾勒，并不把所有表面封闭描边。铁锈红与金赭色穿行于画框，和冷青绿、低饱和绿形成对比，深李紫阴影稳住整体。斑点、擦抹、半透明色层及不规则的纸张般肌理，让画面带有旧画似的可触质感。浅色背景保持安静且略不均匀，没有交代具体房间，人物与植物形态因此组成亲密的装饰性围合。肖像远看清楚，近看则显现光滑面部塑形与粗粝拼贴般色痕之间的对比。柔和侧光赋予脸部立体感，却没有硬朗的戏剧性阴影；整体温柔、沉思，略带复古气息。方形画幅保留头部的近距离裁切和周围花饰的均衡。",
+  "style_prompt_en": "A painterly mixed-media portrait language with delicate, softly blended focal modeling set against looser, layered color around the edges. Warm peach, rust, and ocher mingle with deep teal, muted green, and plum shadow. Selected fine contours clarify key forms while broad translucent brush marks, rubbed pigment, scattered specks, and paperlike irregularities keep the surface tactile. Gentle side light creates quiet volume without harsh contrast. A close composition concentrates attention in the center, with decorative fragments gathering around it and a pale, understated ground giving the richer marks room to breathe. The result feels intimate, richly worked, and subtly aged.",
+  "style_prompt_zh": "带有混合媒介感的绘画语言：视觉中心以细腻柔和的渐变塑形，边缘则使用更松动的层叠色块。暖桃色、铁锈红和赭黄与深青绿、灰绿及李紫阴影交融。局部细线明确关键形态，宽阔半透明笔触、擦抹的颜料、散落斑点和纸张般的不规则肌理使表面具有触感。温柔的侧光形成安静的体积感，避免生硬反差。近距离构图把注意力收于中心，装饰性碎片在周围聚拢，浅淡克制的底色为浓郁笔痕留出呼吸空间。整体亲密、层次丰富，并带有轻微旧画感。",
+  "theme_en": "A young woman with a teal head wrap and floral accents in a three-quarter portrait",
+  "theme_zh": "一位戴青绿色头巾、点缀花饰的年轻女子四分之三侧面肖像",
+  "wh_ratio": "1:1",
+  "id": "3849",
+  "name": "Tatiana Suarez",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/tatiana-suarez",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "8675e69acbef2068a5b8cf903f0c20f7ddfae7ec4657e40222a2c54f3373401c",
+    "gpt_submission_prompt": "A young woman fills a close, vertical three-quarter portrait, turning her head toward the viewer while her shoulders angle away. A deep teal wrap gathers her violet-brown hair, and small ocher blossoms and loose leaves cluster around its edges. Her expression is quiet and alert, with softly parted lips, luminous eyes, and fine freckles across the cheeks and nose. A light ruffled collar appears beneath the surrounding foliage. The face is rendered with delicate tonal transitions and warm peach light, while the hair, fabric, flowers, and leaves resolve into broader, more visibly layered strokes. Thin dark contours define selected features without outlining every surface. Rust and golden ocher accents move through the frame against cool teal and muted green, anchored by deep plum shadows. Flecks, rubbed passages, translucent color, and irregular paperlike texture lend the image a worn, tactile finish. The pale background remains quiet and uneven rather than describing a detailed room, allowing the figure and botanical shapes to create an intimate decorative enclosure. The portrait reads clearly at a glance, then rewards a closer look through its contrast between smooth facial modeling and rougher collage-like paint marks. Gentle side light gives the face dimension without hard theatrical shadows; the overall mood is tender, contemplative, and slightly vintage. A square canvas preserves the cropped closeness of the head and the balanced floral surround.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "7791835288a73d176e515345053efec7d0557391b48077bda262e17c087e9899",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

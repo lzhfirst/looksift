@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square cinematic photograph centers on a large camera lens held close to the viewer by a hand at the left edge. Through the circular glass opening, an empty industrial street runs toward a distant city silhouette and a low orange sunset. Utility poles and narrow structures create converging lines within the lens. Outside the circle, the fingers and lens barrel fall into soft focus, becoming a dark framing device around the sharply defined distant view. Cool teal and desaturated blue-gray tones color the surrounding scene; amber and coral light concentrate at the horizon and reflect faintly in the glass. The circular aperture occupies most of the frame, creating a strong image-within-image structure. A narrow warm rim and small reflections trace the lens elements, revealing their thickness without overwhelming the street. Shallow depth of field separates near hand and metal from the viewed distance, while fine film grain and slight optical softness keep the image tactile. The industrial road feels quiet and spacious, with its rails or pavement lines pulling the eye inward. The whole frame conveys patient observation at dusk, balancing a precise geometric circle against atmospheric color and a personal, handheld point of view.",
+  "full_prompt_zh": "一幅方形电影感摄影以一枚靠近观者的大型相机镜头为中心，左缘有一只手将它举起。透过圆形玻璃开口，一条空旷的工业街道延伸向远处城市剪影与低垂橙色落日。电线杆和狭窄建筑在镜内形成汇聚线。圆外的手指和镜筒失焦，化作围住清楚远景的深色框架。冷青绿和低饱和蓝灰给周围场景上色；琥珀与珊瑚色光集中在地平线，并微弱反射在玻璃里。圆形光圈占据画面大部分，形成强烈的画中画结构。细窄暖色边缘和小反光沿镜片分布，显出玻璃厚度，却不遮住街道。浅景深把近处手和金属与远方景物分开，细微胶片颗粒和轻微光学柔化保留触感。工业道路安静而开阔，轨道或路面线条引视线向内。整幅画传达黄昏时耐心观察的感觉，在准确的几何圆形、空气色彩和手持个人视角之间取得平衡。",
+  "style_prompt_en": "A cinematic photographic style uses an oversized circular frame within the frame to organize attention. Shallow depth of field softens nearby hands or objects into a dark surround, while a distant central scene remains comparatively crisp. Cool teal and desaturated blue-gray dominate the outer field, with concentrated amber and coral light at a far horizon. Small optical reflections and a warm rim articulate glass or another transparent layer. Converging lines draw the eye through the circle into depth. Fine grain, slight lens softness, and restrained contrast keep the result tactile and contemplative rather than sterile. The visual mechanism is a contrast between close physical framing and an expansive view beyond.",
+  "style_prompt_zh": "电影感摄影风格以画框中的巨大圆形框架组织注意力。浅景深让近处手或物体柔化为深色外围，远处中央景物相对清楚。冷青绿与低饱和蓝灰主导外层画面，琥珀和珊瑚色光集中在遥远地平线。细小光学反射和一圈暖色边缘显示玻璃或其他透明层的厚度。汇聚线把视线穿过圆形引向纵深。细微颗粒、轻微镜头柔化和克制反差使结果可触且沉思，而非无菌般冷硬。其视觉机制在于近处实体框架与远方开阔景观之间的对比。",
+  "theme_en": "A hand holds a camera lens framing a sunset industrial street",
+  "theme_zh": "一只手举起镜头，圈住落日下的工业街道",
+  "wh_ratio": "1:1",
+  "id": "4287",
+  "name": "Through-the-Viewfinder photography",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/through-the-viewfinder-photography.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "a3d5b3c5cdaa72634b867f73ba03130217c654df940f3cc8bbb368002de3bfc9",
+    "gpt_submission_prompt": "A square cinematic photograph centers on a large camera lens held close to the viewer by a hand at the left edge. Through the circular glass opening, an empty industrial street runs toward a distant city silhouette and a low orange sunset. Utility poles and narrow structures create converging lines within the lens. Outside the circle, the fingers and lens barrel fall into soft focus, becoming a dark framing device around the sharply defined distant view. Cool teal and desaturated blue-gray tones color the surrounding scene; amber and coral light concentrate at the horizon and reflect faintly in the glass. The circular aperture occupies most of the frame, creating a strong image-within-image structure. A narrow warm rim and small reflections trace the lens elements, revealing their thickness without overwhelming the street. Shallow depth of field separates near hand and metal from the viewed distance, while fine film grain and slight optical softness keep the image tactile. The industrial road feels quiet and spacious, with its rails or pavement lines pulling the eye inward. The whole frame conveys patient observation at dusk, balancing a precise geometric circle against atmospheric color and a personal, handheld point of view.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "17d58c2d05756c2967439011298528213a38c28b131a6d2bfc3b2825c8089be5",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

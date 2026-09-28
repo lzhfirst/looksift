@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square photographic studio scene shows one old-fashioned spotlight mounted on a slender tripod in a nearly black room. The lamp stands left of center, its cylindrical metal housing and warm circular lens emerging from shadow. Narrow support legs descend toward the dark floor, and a cable drops from the back of the fixture. Behind it, the wall is a soft deep teal-gray with no decoration or readable text. A powerful pale beam crosses diagonally from the upper left past the lamp toward the lower right. Its edges are soft because fine haze fills the room, and several brighter parallel streaks run inside the larger cone. The air becomes the main visible surface of the light, shifting from white near the lamp to gray as it reaches into darkness. At the far lower right, a small patch of floor catches the beam as a low horizontal highlight. The rest of the floor and wall fall into smooth charcoal and black, leaving abundant negative space around the equipment. The spotlight lens itself glows amber, a small warm core against the much cooler beam and background. Metal rings and hinges are crisp where the light catches them, while the unlit side loses detail. The composition is strongly directional: a compact vertical object anchors the left and a wide diagonal fan cuts through the empty right. This single luminous event gives the sparse room a theatrical, expectant stillness.",
+  "full_prompt_zh": "一幅方形摄影棚场景描绘一盏老式聚光灯，装在纤细三脚架上，周围房间几乎全黑。灯立在中央偏左，圆柱形金属外壳与温暖圆形灯面从阴影里显现。窄支脚向暗地面下降，一根电缆从灯后垂下。灯后墙面是柔暗深青灰，没有装饰或可读文字。强烈浅色光束从左上沿对角方向经过灯，射向右下。房间里有细雾，因此光束边缘柔和；较大的光锥内部有几条更亮的平行光痕。空气成为光的主要可见表面，从靠灯处白色逐渐变为深入暗处的灰色。最右下方一小片地面承接光束，形成低低的横向亮点。其余地面与墙都沉入平滑炭灰和黑色，让设备周围有大量负空间。聚光灯镜面本身发出琥珀光，在更冷的光束与背景前形成小小暖色核心。金属环和铰接处受光时清楚，背光面则失去细节。构图方向性强：紧凑竖向设备固定左侧，宽阔斜向光扇切过空荡右侧。这单一发光事件赋予简省暗室以戏剧性、充满等待感的静止。",
+  "style_prompt_en": "Low-key photographic lighting isolates a compact dark form within extensive charcoal negative space and gives a broad diagonal beam physical visibility through haze. A warm small light core contrasts with cooler white-gray rays and a muted blue-green room. The brightest streaks stay inside a softer-edged cone, producing layered illumination rather than a flat triangle. Hard local highlights reveal metal or other reflective surfaces, while unlit sides dissolve almost completely. A small pool on the lower plane anchors the direction of the beam. The visual rhythm comes from one vertical mass, a crossing diagonal fan, and the quiet surrounding dark.",
+  "style_prompt_zh": "低调摄影照明把紧凑暗形体孤立在大片炭灰负空间里，借雾气让宽阔斜向光束可见。小而暖的光核与较冷的白灰光线、柔暗蓝绿环境形成反差。最亮光痕留在边缘较柔的大光锥内，因此照明分层，而非平坦三角形。硬朗局部高光揭示金属或其他反光表面，未受光侧则几乎完全融化。下方平面的一小块光池固定光束方向。视觉节奏来自一块竖向体量、横切的对角光扇和安静周围黑暗。",
+  "theme_en": "A studio spotlight sending a pale beam through a dark room",
+  "theme_zh": "摄影棚聚光灯向暗室投出浅色光束",
+  "wh_ratio": "1:1",
+  "id": "0194",
+  "name": "Spotlight lighting",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/spotlight-lighting",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/spotlight-lighting.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "71277fb3613ba9894f85485a8ad660d3518a79c537f9d7fd5892787613c22daf",
+    "gpt_submission_prompt": "A square photographic studio scene shows one old-fashioned spotlight mounted on a slender tripod in a nearly black room. The lamp stands left of center, its cylindrical metal housing and warm circular lens emerging from shadow. Narrow support legs descend toward the dark floor, and a cable drops from the back of the fixture. Behind it, the wall is a soft deep teal-gray with no decoration or readable text. A powerful pale beam crosses diagonally from the upper left past the lamp toward the lower right. Its edges are soft because fine haze fills the room, and several brighter parallel streaks run inside the larger cone. The air becomes the main visible surface of the light, shifting from white near the lamp to gray as it reaches into darkness. At the far lower right, a small patch of floor catches the beam as a low horizontal highlight. The rest of the floor and wall fall into smooth charcoal and black, leaving abundant negative space around the equipment. The spotlight lens itself glows amber, a small warm core against the much cooler beam and background. Metal rings and hinges are crisp where the light catches them, while the unlit side loses detail. The composition is strongly directional: a compact vertical object anchors the left and a wide diagonal fan cuts through the empty right. This single luminous event gives the sparse room a theatrical, expectant stillness.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "cabca4c36cb48e5f3a18aa7769cbb89f132de95755243ade58d98235d4170c6e",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

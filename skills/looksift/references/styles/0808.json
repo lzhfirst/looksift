@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square atmospheric city painting shows a handful of dark pedestrian silhouettes walking into a rain-soaked street. The buildings on both sides are suggested as vertical smears and broken windows rather than precise architecture. At the center, a bright orange and yellow opening glows through mist, bathing the wet ground in long reflected strokes. Cool turquoise, slate blue, and gray-violet wash across the outer frame, with a few sharper orange window lights suspended above. The figures remain small and simplified, giving the city light and weather the main role. Thick and thin painted layers intermingle: broad blurred fields, scraped vertical marks, and narrow dark accents for people and facades. Edges repeatedly dissolve, so the street feels both present and remembered. Diffuse light emerges from within the haze instead of a visible lamp, while its reflection stretches toward the viewer across the lower half. The composition forms a quiet tunnel from cool dark sides to warm central distance. Fine canvas or pigment grain and a few dry scuffs keep the luminous abstraction physical. The whole frame feels moody, urban, and contemplative, with its emotional effect carried by wet reflections, color temperature, and partial visibility.",
+  "full_prompt_zh": "一幅方形氛围城市绘画呈现几个深色行人剪影走入被雨浸湿的街道。两侧建筑被暗示为竖向擦痕与破碎窗点，而非精确立面。中央一处明亮橙黄开口透过雾发光，将长长倒影笔触铺向湿地面。冷青绿、石板蓝和灰紫薄染覆盖外围，几扇较清楚的橙色窗光悬在上方。人物细小且概括，使城市光与天气成为主角。厚薄颜料层相互交织：宽阔模糊色域、刮开的竖痕，以及人物和立面的狭窄深色笔迹。边缘不断消散，街道像真实存在又像回忆。漫射亮光从雾内部浮现，而非来自可见灯具，倒影在下半部向观者拉长。构图由冷暗两侧通向温暖中央远方，形成安静隧道。细画布或颜料颗粒与几处干擦痕让发亮抽象仍有物理表面。整幅画阴郁、都市、沉思，情绪主要由湿地倒影、色温和部分可见性承载。",
+  "style_prompt_en": "An atmospheric abstract city-painting style builds depth through blurred vertical masses, a warm central glow, and long wet reflections. Cool turquoise, slate blue, gray-violet, orange, and yellow occupy broad interwoven fields. Small dark silhouettes or window marks give scale without demanding detailed architecture. Painted edges dissolve repeatedly; scraped vertical strokes and dry scuffs interrupt soft haze. A warm opening in the middle distance draws the eye between cooler shadowed sides, then repeats on a reflective lower surface. Fine grain keeps the luminous scene tactile. The mood is contemplative and rain-soaked, with color and partial visibility doing more than literal description.",
+  "style_prompt_zh": "氛围性抽象城市绘画风格通过模糊竖向体量、中央暖光和拉长湿地倒影建立纵深。冷青绿、石板蓝、灰紫、橙和黄形成互相交织的大色域。细小深色剪影或窗点标明尺度，无须精确建筑。绘画边缘不断消散，刮开的竖笔与干擦痕打断柔雾。中景暖色开口从较冷的阴影两侧之间牵引视线，又在下方反光表面重复。细颗粒让发亮场景可触。气氛沉思、雨意浓重，颜色和部分可见性重于字面描写。",
+  "theme_en": "Small walkers dissolve into a rain-lit city of turquoise and orange",
+  "theme_zh": "几个行人溶入青绿与橙光交织的雨后城市",
+  "wh_ratio": "1:1",
+  "id": "0808",
+  "name": "Annette Schmucker",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/annette-schmucker",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/annette-schmucker.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "80206ab8e4afe3b7dc52df2446fb6a96db05cd7c27b30ff4d09ba9ccd59b3439",
+    "gpt_submission_prompt": "A square atmospheric city painting shows a handful of dark pedestrian silhouettes walking into a rain-soaked street. The buildings on both sides are suggested as vertical smears and broken windows rather than precise architecture. At the center, a bright orange and yellow opening glows through mist, bathing the wet ground in long reflected strokes. Cool turquoise, slate blue, and gray-violet wash across the outer frame, with a few sharper orange window lights suspended above. The figures remain small and simplified, giving the city light and weather the main role. Thick and thin painted layers intermingle: broad blurred fields, scraped vertical marks, and narrow dark accents for people and facades. Edges repeatedly dissolve, so the street feels both present and remembered. Diffuse light emerges from within the haze instead of a visible lamp, while its reflection stretches toward the viewer across the lower half. The composition forms a quiet tunnel from cool dark sides to warm central distance. Fine canvas or pigment grain and a few dry scuffs keep the luminous abstraction physical. The whole frame feels moody, urban, and contemplative, with its emotional effect carried by wet reflections, color temperature, and partial visibility.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "5be28227b6a7c5c4046e81b96f824db13ad4a7365c34e4358ef5edc5493d3974",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

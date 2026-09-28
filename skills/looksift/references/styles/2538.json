@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square surrealist painting shows three colossal cracked stone faces standing together on a barren plain beneath a storm-gray sky. The largest face rises on the right, turned in profile toward the far right, with a broad nose, closed lips, and a weathered cheek marked by pale fissures. Two darker faces stand partly behind it to the left, their noses and brows overlapping in a sequence that recedes into shadow. All three appear carved from massive rock rather than belonging to living bodies. A small castle-like structure sits on top of the central rear head, its tan towers and battlements sharply visible against the clouds. Sparse human figures walk along the flat horizon below, tiny enough to make the stone heads feel monumental. One figure stands near the base of the forward profile on the right, while a few more silhouettes cross the left side of the plain. The ground is pale sand or packed dust with almost no vegetation, and the sky is a continuous dark gray field of heavy cloud. Fine cracks, chipped edges, and subtle color variation make the stone feel aged and physical. Light filters weakly from the left, brightening the forward face's nose and jaw while the rear faces deepen toward charcoal. No labels or readable text appear. The overall composition is austere and uncanny, using repeated human profiles, a miniature structure, and tiny ground figures to create an improbable but coherent sense of scale.",
+  "full_prompt_zh": "这幅方形超现实主义绘画呈现三张巨大的开裂石脸并立于荒凉平原，头顶是风暴灰天空。最大的脸升在右侧，侧面朝向最右方，有宽鼻、闭唇和带浅裂缝的风化脸颊。两张较深的脸在左后方部分遮挡，鼻与眉依次重叠，退入阴影。三者都像从巨岩雕出，而非活人的身体。中央较后头顶坐着一座小城堡般结构，棕褐色塔楼与垛口在云前清楚可见。稀疏人物沿下方平坦地平线行走，渺小得让石头像纪念碑。一名人物站在右侧前方侧脸脚下，另外几个剪影穿过平原左边。地面是浅沙或压实灰尘，几乎没有植被，天空是一整片厚云组成的深灰区域。细裂纹、剥落边缘和微妙色差让石头显得古老且真实。微弱光从左侧渗入，照亮前方脸的鼻与下巴，后方脸逐渐深至炭色。没有标签或可读文字。整体构图简峻而诡异，以重复人类侧脸、微小结构和小地面人物创造不可能却自洽的尺度感。",
+  "style_prompt_en": "Surrealist painting renders familiar contours as massive weathered stone, using fine cracks and chipped planes to make impossible scale feel tangible. Sand beige, cool gray, charcoal, and muted brown remain low in saturation beneath a heavy overcast sky. Repeated overlapping profiles or curved masses recede from a brighter front plane into deeper shadow. Tiny precise scale markers punctuate a broad empty ground, intensifying the monumental effect. Diffuse side light reveals rough texture without theatrical color. The overall image is austere, dreamlike, and quietly unsettling.",
+  "style_prompt_zh": "超现实主义绘画把熟悉轮廓画成巨大的风化石体，以细裂纹和剥落平面让不可能的尺度具有触感。沙米、冷灰、炭色和柔棕在厚重阴天低饱和。重复重叠的侧向曲面从较亮前平面退入更深阴影。细小精确的尺度标记点在宽阔空地上，加强宏大效果。漫射侧光显露粗糙纹理，却没有舞台式彩色。整体简峻、梦境般且安静不安。",
+  "theme_en": "Three colossal cracked stone faces standing in a barren plain",
+  "theme_zh": "三张巨大的开裂石脸矗立于荒凉平原",
+  "wh_ratio": "1:1",
+  "id": "2538",
+  "name": "Igor Morski",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/igor-morski",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/igor-morski.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "3c6896a2a546de2a5ba7a9d235d42559f3e0fdd4859113b59fb74d323ce28ba9",
+    "gpt_submission_prompt": "A square surrealist painting shows three colossal cracked stone faces standing together on a barren plain beneath a storm-gray sky. The largest face rises on the right, turned in profile toward the far right, with a broad nose, closed lips, and a weathered cheek marked by pale fissures. Two darker faces stand partly behind it to the left, their noses and brows overlapping in a sequence that recedes into shadow. All three appear carved from massive rock rather than belonging to living bodies. A small castle-like structure sits on top of the central rear head, its tan towers and battlements sharply visible against the clouds. Sparse human figures walk along the flat horizon below, tiny enough to make the stone heads feel monumental. One figure stands near the base of the forward profile on the right, while a few more silhouettes cross the left side of the plain. The ground is pale sand or packed dust with almost no vegetation, and the sky is a continuous dark gray field of heavy cloud. Fine cracks, chipped edges, and subtle color variation make the stone feel aged and physical. Light filters weakly from the left, brightening the forward face's nose and jaw while the rear faces deepen toward charcoal. No labels or readable text appear. The overall composition is austere and uncanny, using repeated human profiles, a miniature structure, and tiny ground figures to create an improbable but coherent sense of scale.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "5bae93366318209b477507a2d11f299f8b60a9fa93c8db28812332409be0a253",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square atmospheric oil painting looks across a quiet harbor where a small dark boat with one tall pale sail floats near the lower-left center. A handful of tiny people or dark shapes cluster in the hull, their details dissolving into the golden haze. The water occupies the lower half, painted in olive-gray and warm amber with a long soft reflection running from the luminous sky toward the boat. On the right bank, a pale stone town rises through mist: a tall square tower stands near the upper-right edge, and lower blocklike roofs and walls recede toward the center. The far left shore is barely visible as a faint row of white forms. Several dark low boats rest nearer the right bank, almost swallowed by fog. Above, the sky is an expanse of cream, pearl, pale peach, and smoky blue-gray, with a warm bright opening just left of the high tower. The horizon is deliberately uncertain, allowing town, water, and cloud to merge in vapor. Thin glazes and softly dragged strokes make the distant buildings nearly transparent, while a few thicker dark marks define the near boat and foreground water. Diffuse sun through haze produces a broad vertical path of light on the surface, without sharp shadows. The composition sets the tiny sail against monumental, half-vanishing architecture and a radiant sky, creating a sense of quiet passage through memory and weather.",
+  "full_prompt_zh": "一幅方形氛围油画望向安静港湾，一只深色小船竖着一面高高浅帆，浮在下部偏左中央。船身里聚着几个极小人影或深形，细节溶在金色薄雾中。水面占下半幅，以橄榄灰与暖琥珀色描绘，发亮天空向小船投下一道长而柔的倒光。右岸，一座浅石小城从雾里升起：高方塔靠近右上缘，较低的块状屋顶和墙向中央退去。最左岸仅是一列淡白形。几只深色低船靠右岸停着，几乎被雾吞没。上方天空铺开奶油、珍珠、浅桃和烟蓝灰，暖亮光口落在高塔左边。地平线刻意不清，使城、水、云在水汽里相融。薄罩染和柔拖笔令远建筑近乎透明，少量较厚深笔定义近船与前景水。雾中漫射日光在水面形成宽竖向光路，没有锐影。构图让小帆对照巨大却半隐的建筑与光辉天空，带出穿行于记忆和天气之间的安静感。",
+  "style_prompt_en": "Atmospheric oil painting dissolves solid forms into pearly haze with thin glazes, soft dragged strokes, and only a few dark anchors. Build a broad warm luminous opening in cream, peach, and pale gold, then let smoky blue-gray and olive tones settle into lower areas. Reflections stretch vertically and blur, and the horizon stays uncertain so sky, ground, and water-like planes can merge. Use a small crisp silhouette to give scale to larger half-visible masses. Light is diffuse and expansive rather than sharply sourced. The transferable mood is poetic, spacious, and transient, shaped by tonal atmosphere more than detail.",
+  "style_prompt_zh": "氛围油画以薄罩染、柔拖笔和少数深色锚点，让坚实形体溶进珍珠般薄雾。奶油、浅桃、淡金构成宽阔暖亮口，烟蓝灰与橄榄调沉到下方。倒影竖向延伸并模糊，地平线不确定，使天空、地面与水样平面能够相融。用小而清晰的剪影为更大半隐团块提供尺度。光线漫射而宽广，不来自锐利单点。可迁移气氛诗意、开阔且短暂，由调子大气而非细节塑成。",
+  "theme_en": "A small sailing boat beneath a luminous sky in a misty harbor",
+  "theme_zh": "迷雾港湾的小帆船立在发光天空之下",
+  "wh_ratio": "1:1",
+  "id": "2534",
+  "name": "J.M.W. Turner",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/jmw-turner",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/jmw-turner.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "4585b9086eb291fbe585c00ac975a1b2e2306939ae5b32a95aa6833f110c30bc",
+    "gpt_submission_prompt": "A square atmospheric oil painting looks across a quiet harbor where a small dark boat with one tall pale sail floats near the lower-left center. A handful of tiny people or dark shapes cluster in the hull, their details dissolving into the golden haze. The water occupies the lower half, painted in olive-gray and warm amber with a long soft reflection running from the luminous sky toward the boat. On the right bank, a pale stone town rises through mist: a tall square tower stands near the upper-right edge, and lower blocklike roofs and walls recede toward the center. The far left shore is barely visible as a faint row of white forms. Several dark low boats rest nearer the right bank, almost swallowed by fog. Above, the sky is an expanse of cream, pearl, pale peach, and smoky blue-gray, with a warm bright opening just left of the high tower. The horizon is deliberately uncertain, allowing town, water, and cloud to merge in vapor. Thin glazes and softly dragged strokes make the distant buildings nearly transparent, while a few thicker dark marks define the near boat and foreground water. Diffuse sun through haze produces a broad vertical path of light on the surface, without sharp shadows. The composition sets the tiny sail against monumental, half-vanishing architecture and a radiant sky, creating a sense of quiet passage through memory and weather.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "486311cf369f07dd91ce2bee53716477c94d7dfd071b45260479634c820315e5",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

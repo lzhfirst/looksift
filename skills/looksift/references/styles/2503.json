@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square picture-book illustration shows a dark, oddly shaped house on a small island of land, surrounded by still gray water and a warm, misty sky. The house rises near the center with a steep roof forming two pointed ear-like peaks. Two small round pale windows near the upper roof give it a watchful face, while a few lower windows glow muted yellow. Tall leafless trees stand behind and around the roof, their narrow branches reaching upward into the soft beige sky. A round off-white moon hangs to the upper left, and a few tiny birds scatter nearby. At the far left, a narrow boat carries three small dark figures toward the island. Their silhouettes are simple and nearly flat, which keeps the scene mysterious rather than detailed. The land, boat, and house merge into deep brown-black shapes; the water has a quiet gray-green wash with a faint reflection beneath the island. Paper-like grain, mottled pigment, and rubbed edges lend the image a gently aged surface. Light comes from the moon and tiny warm windows, with no harsh spotlight. The large open sky gives breathing room to the clustered vertical trees and compact house. The whole composition feels hushed, curious, and faintly eerie, using sparse shapes and texture to suggest a story beyond the frame.",
+  "full_prompt_zh": "一幅方形绘本插画描绘灰色静水围绕的一小块陆地，陆地上有一栋形状古怪的深色房子，天空暖而迷蒙。房子立于中央附近，陡屋顶形成两处像耳朵的尖峰。屋顶上部两扇小圆浅色窗像在凝视，较低的几扇窗泛着低调黄光。高大的无叶树立在屋后和屋旁，细枝伸向柔和米色天空。偏左上挂着一轮灰白圆月，附近散着几只极小的飞鸟。最左侧一条窄船载着三个深色小人驶向小岛。人影简化而近乎平面，使画面保持神秘而非繁复。陆地、船与房子并成深棕黑色形块；水面铺着安静灰绿渲染，小岛下方只有淡淡倒影。似纸张的颗粒、斑驳颜料与磨擦边缘使画面带有温和陈旧的表面。光来自月亮和几扇温暖小窗，没有严厉聚光。大片空旷天空为成簇的竖树和紧凑房子留下呼吸空间。整幅构图安静、好奇、微带诡异，以稀疏形状和肌理暗示画外故事。",
+  "style_prompt_en": "Picture-book illustration relies on simplified dark silhouettes, muted washes, and worn paper-like grain. Warm beige and smoky gray sit beside brown-black and restrained yellow pinpoints. Slender vertical marks cluster against a broad quiet field; irregular rubbed edges keep the silhouettes from looking digitally exact. Light is low and diffuse, expressed through a pale circular glow and tiny warm apertures. Shallow layered space and faint reflection support a still, storylike atmosphere. The visual rhythm moves between open emptiness and compact, highly suggestive shapes, with a gentle sense of age and mystery.",
+  "style_prompt_zh": "绘本插画依靠简化的深色剪影、低调水洗色层和磨旧纸面颗粒。暖米与烟灰邻接棕黑，并点出克制的小黄光。细长竖痕聚集在广阔安静底色前；不规则磨擦边缘使剪影免于数字般精确。光线低而弥散，以淡色圆光与极小暖色开口表达。浅层叠空间和微弱倒影支撑静止的故事气氛。视觉节奏在大片空白与紧凑、暗示性强的形块间移动，带着温和年代感与神秘感。",
+  "theme_en": "A dark house among bare trees beneath a pale moon",
+  "theme_zh": "淡月下枯树间的深色小屋",
+  "wh_ratio": "1:1",
+  "id": "2503",
+  "name": "Jon Klassen",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/jon-klassen",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/jon-klassen.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "215f3bfbeb436af307983c6e5220b69ccd368486e0b0c9fbbd6a6993d28c8ebb",
+    "gpt_submission_prompt": "A square picture-book illustration shows a dark, oddly shaped house on a small island of land, surrounded by still gray water and a warm, misty sky. The house rises near the center with a steep roof forming two pointed ear-like peaks. Two small round pale windows near the upper roof give it a watchful face, while a few lower windows glow muted yellow. Tall leafless trees stand behind and around the roof, their narrow branches reaching upward into the soft beige sky. A round off-white moon hangs to the upper left, and a few tiny birds scatter nearby. At the far left, a narrow boat carries three small dark figures toward the island. Their silhouettes are simple and nearly flat, which keeps the scene mysterious rather than detailed. The land, boat, and house merge into deep brown-black shapes; the water has a quiet gray-green wash with a faint reflection beneath the island. Paper-like grain, mottled pigment, and rubbed edges lend the image a gently aged surface. Light comes from the moon and tiny warm windows, with no harsh spotlight. The large open sky gives breathing room to the clustered vertical trees and compact house. The whole composition feels hushed, curious, and faintly eerie, using sparse shapes and texture to suggest a story beyond the frame.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "904e2a18b155ffa0af813fc0d2da3b37c16dee2e7bd386e60ecfb7c7c4f57663",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

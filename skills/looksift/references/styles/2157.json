@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square, cleanly composed illustration looks down a broad city avenue lined on both sides with densely blooming pink trees. The road narrows toward a distant vanishing point, where low blue rooftops and a cluster of pale modern towers rise beyond the rows of trees. Three very tall, dark, needle-like trees pierce the left side of the sky and add vertical contrast to the rounded flowering canopies. A small pale moon or bright disk hangs above sculpted white cumulus clouds. Parked vehicles and simple street details sit beneath the trees, but the strong rhythm of trunks, pink crowns, and converging road edges carries the image. The sky is a saturated clear cyan-blue, set against deep teal shadows, violet-pink foliage, pale concrete, and crisp white cloud shapes. Architecture and trees are drawn with precise geometric silhouettes and nearly flat color areas, while tiny granular marks give the foliage a slightly printed texture. Sunlight is bright and high, producing decisive shadow blocks rather than soft atmospheric haze. The perspective is centered and orderly, yet the unreal density of blossoms makes the city feel dreamlike. The overall frame has the polished stillness of a retro travel illustration, using large color masses and carefully spaced verticals to create a serene, idealized urban vista.",
+  "full_prompt_zh": "一幅方形、构图整洁的插画沿宽阔城市大道望去，道路两侧密密种着盛开的粉色花树。路面向远处消失点收束，那里有低矮蓝色屋顶和一簇淡色现代高楼，从树列后升起。左侧三棵极高、如针般修长的深色树刺入天空，与圆厚的花冠形成竖向对比。一轮小小的浅色月亮或亮圆盘悬在雕塑般的白色积云上方。车辆和简洁街道细节藏在树下，但真正支撑画面的是树干、粉色树冠和收束路沿的强烈节奏。天空是饱和而清澈的青蓝色，与深青绿阴影、紫粉色树叶、浅色混凝土和清晰的白云形体相对。建筑与树木采用精确的几何剪影和近乎平涂的色块，而细小颗粒让花叶有轻微印刷纹理。阳光明亮且位置较高，形成明确的块状阴影而非柔软的雾气。透视居中而有序，花朵超现实般的密度却使城市显得如梦。整体画面有复古旅行插画的光洁静谧，通过大片色块与精心安排的竖线创造理想化的都市风景。",
+  "style_prompt_en": "Crisp retro illustration built from geometric silhouettes, long centered perspective, and large nearly flat color fields. Saturated cyan and teal oppose violet-pink, with luminous white shapes used sparingly for relief. Repeated rounded forms and a few needle-like verticals establish visual rhythm. Fine grain within otherwise smooth areas suggests print texture. Clear high light casts simple decisive shadows, giving the composition polished calm and an idealized, dreamlike atmosphere.",
+  "style_prompt_zh": "清晰的复古插画由几何剪影、居中的纵深透视和大片近乎平涂的色域构成。饱和青蓝与深青绿对照紫粉色，少量明亮白形提供呼吸。重复的圆形与少数针状竖线建立视觉节奏。平整色面中轻微的细颗粒暗示印刷肌理。明净高位光产生简洁果断的阴影，使构图光洁安静，带有理想化的梦境气氛。",
+  "theme_en": "A broad avenue of pink flowering trees leading to distant towers",
+  "theme_zh": "粉色花树大道通向远方高楼",
+  "wh_ratio": "1:1",
+  "id": "2157",
+  "name": "Hiroshi Nagai",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/hiroshi-nagai",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/hiroshi-nagai.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "db4d14baa5d22fb6688a6736fbe0736f17b4de7f4668b43fcb70427e73222e9e",
+    "gpt_submission_prompt": "A square, cleanly composed illustration looks down a broad city avenue lined on both sides with densely blooming pink trees. The road narrows toward a distant vanishing point, where low blue rooftops and a cluster of pale modern towers rise beyond the rows of trees. Three very tall, dark, needle-like trees pierce the left side of the sky and add vertical contrast to the rounded flowering canopies. A small pale moon or bright disk hangs above sculpted white cumulus clouds. Parked vehicles and simple street details sit beneath the trees, but the strong rhythm of trunks, pink crowns, and converging road edges carries the image. The sky is a saturated clear cyan-blue, set against deep teal shadows, violet-pink foliage, pale concrete, and crisp white cloud shapes. Architecture and trees are drawn with precise geometric silhouettes and nearly flat color areas, while tiny granular marks give the foliage a slightly printed texture. Sunlight is bright and high, producing decisive shadow blocks rather than soft atmospheric haze. The perspective is centered and orderly, yet the unreal density of blossoms makes the city feel dreamlike. The overall frame has the polished stillness of a retro travel illustration, using large color masses and carefully spaced verticals to create a serene, idealized urban vista.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "ff8cd0b68c0855973eb81b402c5c5f7516ffec5c0440047e03d7761cd217163d",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

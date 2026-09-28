@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square, high contrast editorial illustration shows a poised woman from the chest up before a weathered brick wall. Her short, tousled white hair sweeps across one eye, while the visible eye meets the viewer with a calm, direct gaze. Economical gray washes and crisp black contours shape the face, leaving wide areas of paper almost pure white. A small touch of muted red on the lips is the only clear color accent. A sleeveless black high-neck garment forms a strong dark silhouette beneath the luminous hair and pale face. Some of the hair dissolves into loose ink loops and sketch marks along the shoulder. Behind her, old masonry appears through broken, irregular black linework that fades toward a spacious white margin. The composition is off-center and airy; the textured wall carries rhythm without overwhelming the face. Brush ink, fine pen, and pale watercolor-like shadow meet in visible print grain and imperfect edges. Dark marks gather around the neck and lower corner, creating a visual anchor for the pale upper face. Small broken bricks and splatters introduce a rough urban note against the elegant pose. The whole image has the refined but visibly handmade character of a stylish monochrome graphic novel plate, with each black area deliberate and each white opening allowed to breathe.",
+  "full_prompt_zh": "一幅方形高反差的编辑插画呈现一位姿态从容的女子，她以半身入画，身后是风化砖墙。蓬松的白色短发横扫过一只眼睛，另一只眼睛平静而直接地看向观者。节制的灰色薄染和利落黑色轮廓塑造面孔，大片纸面近乎纯白。唇上的一小抹暗红是唯一明确的彩色点缀。黑色无袖高领上衣在明亮头发和浅色面孔下形成有力的暗色剪影。部分发丝在肩侧散成松动的墨线圈和速写痕迹。背景旧砖墙由断续、不规则的黑线表现，并向留白处逐渐消散。构图略偏一侧且有呼吸感；砖墙纹理提供节奏，却不压过面孔。毛笔墨迹、细钢笔线和淡水彩般的阴影相互交织，印刷颗粒与不整齐的边缘清晰可见。深色笔迹集中在颈部和下角，为浅色上半面孔建立视觉支点。零散砖块和墨点为优雅姿态添了一点粗粝都市气息。整体像一张时髦的黑白图像小说插页，精练而明显带着手工痕迹，每块黑色都明确，每处白色都留有呼吸。",
+  "style_prompt_en": "Work in a sparse monochrome ink and wash style on an open white ground. Build the focal form from clear black silhouettes, thin pen contours, pale gray washes, and a few calligraphic stray lines. Let rough architectural or surface marks occupy only part of the frame, fading into generous negative space. Put the darkest mass low or to one side so the light focal planes remain vivid. Add one restrained, muted warm accent at most. Keep edges varied: some precise and printed, others dry, broken, and sketchy. Favor an editorial graphic novel feel with elegant asymmetry, hand drawn irregularity, and visible paper grain rather than polished grayscale rendering.",
+  "style_prompt_zh": "在宽阔留白上采用稀疏的黑白墨线与淡染风格。以明确的黑色剪影、细笔轮廓、浅灰薄染和少量书写般的游离线条构成焦点形态。粗粝的建筑或表面痕迹只占画面一部分，并逐渐消散进充裕的负空间。最深色块置于下方或一侧，使浅色焦点面鲜明。彩色最多只用一点克制的低饱和暖色。边缘要有变化：有的精确如印刷，有的干涩、断裂、近似速写。整体追求编辑插画与图像小说的气质，强调优雅的不对称、手绘的不规则和可见纸纹，避免光滑的灰阶渲染。",
+  "theme_en": "A white-haired woman in a black sleeveless top against a distressed brick wall",
+  "theme_zh": "白发女子身着黑色无袖上衣，立于磨损砖墙前",
+  "wh_ratio": "1:1",
+  "id": "4246",
+  "name": "Chris Bachalo",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/chris-bachalo.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "908897fba6727a1d9725fef43c01165f7adcf536fc2131b8d2b7e811cd290b7a",
+    "gpt_submission_prompt": "A square, high contrast editorial illustration shows a poised woman from the chest up before a weathered brick wall. Her short, tousled white hair sweeps across one eye, while the visible eye meets the viewer with a calm, direct gaze. Economical gray washes and crisp black contours shape the face, leaving wide areas of paper almost pure white. A small touch of muted red on the lips is the only clear color accent. A sleeveless black high-neck garment forms a strong dark silhouette beneath the luminous hair and pale face. Some of the hair dissolves into loose ink loops and sketch marks along the shoulder. Behind her, old masonry appears through broken, irregular black linework that fades toward a spacious white margin. The composition is off-center and airy; the textured wall carries rhythm without overwhelming the face. Brush ink, fine pen, and pale watercolor-like shadow meet in visible print grain and imperfect edges. Dark marks gather around the neck and lower corner, creating a visual anchor for the pale upper face. Small broken bricks and splatters introduce a rough urban note against the elegant pose. The whole image has the refined but visibly handmade character of a stylish monochrome graphic novel plate, with each black area deliberate and each white opening allowed to breathe.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "43e0a5743518b8c64388364ea3df1816defdf4dc53f1f2ec5ba7d9a5d062e8c9",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

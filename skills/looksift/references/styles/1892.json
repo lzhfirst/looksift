@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square, nearly black-and-white image shows a man from the waist upward against a featureless black field. He leans forward and twists toward the right, his head lowered so the face is almost completely hidden in shadow. Short wavy hair is picked out in bright white along the crown. His loose light shirt catches strong illumination on the shoulders, back, raised left sleeve, and folds around the torso, while the chest and right side plunge into black. At the left edge, one hand lifts beside his head with fingers spread and bent in a tense expressive gesture. His other arm extends downward across the lower half, partly lost where its sleeve meets the dark ground. The body does not sit at rest; the forward bend, turn of the shoulders, and suspended hand suggest a moment caught mid-motion. No prop, setting, or horizon is visible. Hard light from high left cuts crisp highlights into the wrinkled cloth and hair, leaving the face unreadable and the background uniformly dark. The shirt's fine gray gradients and brilliant white edges provide most of the tonal variation. The crop is close and cuts the lower body at the bottom. Its strong diagonal from the raised hand through the bowed head to the lower arm gives movement to an otherwise sparse frame. The composition relies on the figure's sculptural gesture and an extreme contrast of illuminated fabric against deep negative space.",
+  "full_prompt_zh": "一幅方形、近黑白图像在没有细节的黑色场域前呈现一名男子上半身。他向前倾，并朝右扭身，低头使脸几乎完全藏在阴影里。短而起伏的头发沿头顶被明亮白光勾出。宽松浅色衬衫在肩、背、抬起的左袖及身体褶皱处承接强光，胸前和右侧则沉入黑色。画面左边，一只手举在头旁，手指张开弯曲，形成紧绷而富表现力的手势。另一条手臂向下伸过下半幅，衣袖接近暗处时部分消失。身体没有静坐；前倾、肩部转向与悬起的手显示一个被捕捉的运动瞬间。看不到道具、环境或地平线。左上方硬光把利落亮部切进起皱布料和头发，脸无法读清，背景均匀漆黑。衬衫细腻的灰阶过渡与明亮白边提供大部分明暗变化。裁切靠近，在底部截去下身。从举手经低头到下方手臂的一道强烈斜线，为稀疏画面赋予动势。构图依靠人物雕塑般的动作，以及受光布料与深色留白之间极端的反差。",
+  "style_prompt_en": "Monochrome image-making uses an almost black field and severe directional illumination to turn a moving form into sculptural light and shadow. Let bright edges, finely graded grays, and deep crushed blacks coexist, preserving select folds or ridges while obscuring secondary detail. A strong diagonal gesture can cut through large negative space, with a close crop heightening tension. Light falls hard from high to one side, making reflective or pale material flare against matte darkness. Restrict the frame to one concentrated subject mass and no decorative background. The transferable effect is stark, dramatic, and kinetic, grounded in tonal contrast, suspended motion, and precise control over what remains visible.",
+  "style_prompt_zh": "单色影像以近黑色场域和严厉的定向照明，把运动形体转化成雕塑般的光影。让亮边、细腻灰阶和深沉黑部并存，保留选中的褶痕或隆脊，遮蔽次要细节。一道强烈斜向动作可切过大片留白，紧凑裁切提高张力。硬光从一侧高处落下，使反光或浅色材料在哑光黑暗前突亮。画面限制在一处集中的主体形体，不加装饰背景。可迁移的效果鲜明、戏剧化而充满动势，根基是明暗反差、被悬住的动作，以及对可见部分的精确控制。",
+  "theme_en": "A man twists through darkness with one hand raised",
+  "theme_zh": "一名男子举起一只手，在黑暗中扭转身体",
+  "wh_ratio": "1:1",
+  "id": "1892",
+  "name": "Robert Longo",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/robert-longo",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/robert-longo.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "bbfe69779cf30a85d41241f5ab6f7f695e1c327e50279553578558e246cef381",
+    "gpt_submission_prompt": "A square, nearly black-and-white image shows a man from the waist upward against a featureless black field. He leans forward and twists toward the right, his head lowered so the face is almost completely hidden in shadow. Short wavy hair is picked out in bright white along the crown. His loose light shirt catches strong illumination on the shoulders, back, raised left sleeve, and folds around the torso, while the chest and right side plunge into black. At the left edge, one hand lifts beside his head with fingers spread and bent in a tense expressive gesture. His other arm extends downward across the lower half, partly lost where its sleeve meets the dark ground. The body does not sit at rest; the forward bend, turn of the shoulders, and suspended hand suggest a moment caught mid-motion. No prop, setting, or horizon is visible. Hard light from high left cuts crisp highlights into the wrinkled cloth and hair, leaving the face unreadable and the background uniformly dark. The shirt's fine gray gradients and brilliant white edges provide most of the tonal variation. The crop is close and cuts the lower body at the bottom. Its strong diagonal from the raised hand through the bowed head to the lower arm gives movement to an otherwise sparse frame. The composition relies on the figure's sculptural gesture and an extreme contrast of illuminated fabric against deep negative space.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "3cb64a9b7e7c0cc1933344388739d2afae4ae84eaade9144f0741cb95206e822",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

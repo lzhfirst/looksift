@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square, brightly colored aerial illustration shows a winding turquoise river cutting an S-shaped path between wide golden beaches. The viewpoint looks steeply down, so the shorelines read as clean curving bands rather than a conventional horizon. Darker blue contour lines follow the river's bends, making the water look gently layered and deep at the center. Along both sandy banks, many tiny people appear as small dark and pastel figures, some clustered near the water and others spaced farther across the yellow ground. A few miniature boats float in the channel, including a dark craft near the upper middle and a smaller orange one lower down. The river narrows at the middle bend and widens toward the upper right, carrying the eye continuously through the image. Dense rounded trees border the beaches on both sides, their olive, moss and deep green crowns packed into textured clusters. Small pink and lavender roofs peek from the tree cover near the upper right and lower left. Scattered umbrellas, paths and speckled shadows add detail without interrupting the dominant turquoise-yellow contrast. Thin dark outlines and tiny stippled marks sharpen the playful maplike finish, while the large color areas remain flat and clear. Light is bright and nearly overhead, with only short soft shadows beneath the tiny forms. The overall composition feels bustling yet orderly, turning a crowded leisure landscape into a rhythmic pattern of flowing blue and sunny gold.",
+  "full_prompt_zh": "这幅方形、色彩明亮的俯视插画里，一条青绿色河流在宽阔金黄沙滩间切出 S 形路径。视点陡峭向下，因此岸线读作干净弯曲的色带，而不是普通地平线。较深蓝色等高线顺着河弯延伸，让水面显得轻轻分层、中央更深。两侧沙岸上，许多极小人物以深色和粉彩色小形体出现，有些聚在水边，另一些散在更远的黄色地面。几只小船漂在河道里，包括上方中段的深色船和更下方一只较小橙船。河流在中间转弯处收窄，向右上变宽，引导目光连续穿过图像。浓密圆形树木沿两岸沙滩排布，橄榄、苔绿与深绿树冠挤成有肌理的簇群。上右和左下附近，小小粉色、淡紫屋顶从树林中露出。散落的遮阳伞、小路和点状阴影增添细节，却没有打断主导的青绿与黄色对照。纤细深轮廓和细小点痕让俏皮地图式完成面更清楚，大色块仍平涂明晰。光明亮且几乎从正上方照下，微小形体下只有短而柔的阴影。整体构图热闹却有秩序，把拥挤的游憩景色转成流动蓝色与阳光金色的节奏图案。",
+  "style_prompt_en": "The illustration favors a high viewpoint, clean curving color bands and many miniature marks held within a simple overall shape. Electric turquoise and saturated yellow dominate, moderated by densely clustered olive and moss-green areas with small pink accents. Fine dark outlines, stippling and repeated short contours give texture without breaking the clear flat color design. Bright overhead light keeps shadows compact and value differences mostly graphic. Large sinuous paths organize the eye, while the tiny details invite closer inspection at the edges. The result is upbeat, maplike and densely playful, with strong color contrast carrying the composition from a distance.",
+  "style_prompt_zh": "这种插画偏爱高视点、干净弯曲色带，以及被简明总体形状收住的许多微小笔痕。电青绿与饱和黄色占主导，密集橄榄和苔绿色簇群与小块粉色强调加以调和。纤细深轮廓、点描与反复短等高线带来肌理，却不破坏清楚的平涂配色设计。明亮顶光使阴影紧凑，明度差主要偏图形化。大尺度蛇形路径组织视线，边缘的细节则邀请近看。整体轻快、似地图且密集俏皮，远处观看时仍由强色彩对比稳住构图。",
+  "theme_en": "A winding turquoise river lined by golden beaches and tiny vacationers",
+  "theme_zh": "弯曲青绿色河流两岸是金黄沙滩与微小度假人群",
+  "wh_ratio": "1:1",
+  "id": "2889",
+  "name": "Tim Lahan",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/tim-lahan",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/tim-lahan.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "4fe42812e0674f5a271d9df725dbe0ee4f2105554c0eb8b3bd125e598ef8ace8",
+    "gpt_submission_prompt": "A square, brightly colored aerial illustration shows a winding turquoise river cutting an S-shaped path between wide golden beaches. The viewpoint looks steeply down, so the shorelines read as clean curving bands rather than a conventional horizon. Darker blue contour lines follow the river's bends, making the water look gently layered and deep at the center. Along both sandy banks, many tiny people appear as small dark and pastel figures, some clustered near the water and others spaced farther across the yellow ground. A few miniature boats float in the channel, including a dark craft near the upper middle and a smaller orange one lower down. The river narrows at the middle bend and widens toward the upper right, carrying the eye continuously through the image. Dense rounded trees border the beaches on both sides, their olive, moss and deep green crowns packed into textured clusters. Small pink and lavender roofs peek from the tree cover near the upper right and lower left. Scattered umbrellas, paths and speckled shadows add detail without interrupting the dominant turquoise-yellow contrast. Thin dark outlines and tiny stippled marks sharpen the playful maplike finish, while the large color areas remain flat and clear. Light is bright and nearly overhead, with only short soft shadows beneath the tiny forms. The overall composition feels bustling yet orderly, turning a crowded leisure landscape into a rhythmic pattern of flowing blue and sunny gold.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "1a04493039f2cb51b69c84aa7a7e8ca992990c07972a8802bf98d34e2e143426",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

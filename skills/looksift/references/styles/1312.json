@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white documentary photograph looks over a bare rural yard toward an old wooden farmhouse. Two children stand with their backs to the camera near the center foreground. The shorter child on the left wears a simple knee-length dress and knitted cap; the taller child on the right wears a dark brimmed hat, long trousers, and suspenders over a shirt. They stand close together, almost touching, both facing the distant house. The farmhouse has a steep triangular roof, a dark porch opening, and worn horizontal siding. A bare tree rises at the right edge, its branches reaching into the pale clouded sky, while a simple timber structure or fence sits farther back near the house. The yard is rough and largely empty, with patches of dirt, scattered debris, and a faint track leading toward the porch. The camera remains at an adult waist or child-head height, making the two figures a quiet anchor in a wide scene. Natural daylight is diffuse; contrast is moderately strong but the weathered siding, clothing folds, and dirt textures remain visible. The sky and open yard leave generous space around the children. Film grain, slight softness, and unembellished tonal treatment give the image an archival feel. No printed caption, sign, readable writing, or stated historical event appears within the frame. The mood is sober and patient, with the children's shared gaze and the distance to the house carrying the emotional weight of the otherwise ordinary rural setting.",
+  "full_prompt_zh": "一张方形黑白纪实照片越过裸露乡间院地看向旧木农舍。两名孩子背对镜头站在中央前景。左边较矮的孩子穿简单及膝裙和针织帽；右边较高的孩子戴深色宽檐帽，穿长裤和有背带的衬衫。两人靠得很近，几乎碰到，都面向远房。农舍有陡三角屋顶、深门廊口和磨旧水平木板。右缘一棵秃树升起，枝条伸入浅云天；屋旁远处有简易木结构或篱笆。院子粗糙且大多空，带泥地块、零碎杂物和一道通往门廊的浅路。相机约在成人腰或孩子头高，使两形体成为宽场景里的安静锚点。自然日光漫散，对比适度强，但风化木板、衣褶和泥土纹理仍可见。天空与空院给孩子周围留充足空间。胶片颗粒、轻微柔化及不添饰灰度使图像有档案感。画框内没有印刷说明、标牌、可读文字或明确历史事件。氛围肃静而耐心，由孩子共同的目光和到房子的距离承担原本平常乡村场景的情绪重量。",
+  "style_prompt_en": "Use sober black-and-white documentary photography with plain natural light and a wide but legible relationship between small near figures and a distant structure. Keep the viewpoint human and level, leaving generous empty ground and sky around the focal pair. Render weathered boards, rough soil, simple clothing, and bare branches through a full gray scale with fine film grain and slight archival softness. Avoid theatrical lighting or sentimental posing; let proximity between small forms and the distance to the background carry emotional meaning. The composition should feel patient, factual, and quietly poignant.",
+  "style_prompt_zh": "采用肃静黑白纪实摄影，以平实自然光和近处小形与远结构之间宽阔却清楚的关系构图。视点保持人的高度与水平，焦点两形周围留充足空地和天空。风化木板、粗泥、简朴衣物及枯枝由完整灰阶、细胶片颗粒和轻档案柔化呈现。避免戏剧光或煽情摆姿；让小形彼此贴近和它们距背景的远度承载情绪。构图应耐心、事实性且安静动人。",
+  "theme_en": "Two children seen from behind facing a lonely farmhouse across bare ground",
+  "theme_zh": "两名背对镜头的孩子隔荒地望向孤独农舍",
+  "wh_ratio": "1:1",
+  "id": "1312",
+  "name": "Carl Mydans",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/carl-mydans",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/carl-mydans.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "ec38ddd98482b270b8674bb46fa7a8b90b6a0d93293ccafdbea002157ab5120e",
+    "gpt_submission_prompt": "A square black-and-white documentary photograph looks over a bare rural yard toward an old wooden farmhouse. Two children stand with their backs to the camera near the center foreground. The shorter child on the left wears a simple knee-length dress and knitted cap; the taller child on the right wears a dark brimmed hat, long trousers, and suspenders over a shirt. They stand close together, almost touching, both facing the distant house. The farmhouse has a steep triangular roof, a dark porch opening, and worn horizontal siding. A bare tree rises at the right edge, its branches reaching into the pale clouded sky, while a simple timber structure or fence sits farther back near the house. The yard is rough and largely empty, with patches of dirt, scattered debris, and a faint track leading toward the porch. The camera remains at an adult waist or child-head height, making the two figures a quiet anchor in a wide scene. Natural daylight is diffuse; contrast is moderately strong but the weathered siding, clothing folds, and dirt textures remain visible. The sky and open yard leave generous space around the children. Film grain, slight softness, and unembellished tonal treatment give the image an archival feel. No printed caption, sign, readable writing, or stated historical event appears within the frame. The mood is sober and patient, with the children's shared gaze and the distance to the house carrying the emotional weight of the otherwise ordinary rural setting.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "fb7faf1908ff22505479cb1e97d628575317491d416b9b82bfd052fbcf306568",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

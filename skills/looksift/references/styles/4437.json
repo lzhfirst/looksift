@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square photographic portrait shows a snowy owl facing the viewer against an almost black background. Its pale rounded head fills most of the frame, with the upper edge of its folded wings and feathered chest visible along the bottom. The broad facial disk is built from extraordinarily fine white and cream feathers, and a scatter of small brown markings crosses the crown. Two amber eyes sit under a shallow downward brow, giving the steady gaze unusual intensity without turning the animal into a cartoon. The tiny dark beak falls precisely on the central axis. Soft directional light separates the layered feathers from one another while preserving deep shade in the hollows around the eyes and beneath the bill. Each hairlike barb has a crisp local edge, yet the transitions across the cheek and neck remain gentle and tactile. The background carries no visible setting, so the owl's form and expression become the complete composition. The crop is close and nearly symmetrical, though slight irregularities in the plumage keep it alive rather than diagrammatic. Cream highlights, muted brown flecks, warm irises and velvety black create a narrow, deliberate palette. The result has the presence of a formal studio portrait and the exacting texture of wildlife photography, allowing small natural details to supply the drama.",
+  "full_prompt_zh": "一幅正方形摄影肖像呈现一只正面凝视观者的雪鸮，背景近乎纯黑。圆润的浅色头部占据画面大半，下缘可见收拢翅膀的上部和覆羽胸部。宽阔的面盘由极细的白色与乳色羽毛构成，头顶散布细小褐色斑点。两只琥珀色眼睛位于微微下压的眉线之下，令稳定的目光格外有力，却没有把动物处理成卡通。小小的深色喙恰好落在中央轴线上。柔和的定向光将层叠羽毛彼此分开，同时保留眼窝和喙下的深影。每根细丝般的羽枝都有清楚的局部边缘，脸颊与颈部的明暗过渡却依然轻柔可触。背景没有可见环境，因此雪鸮的形体与神情构成了完整画面。近距离裁切几乎对称，羽毛中轻微的不规则又使其显得鲜活而非图解。乳色高光、暗褐斑点、暖色虹膜和绒黑色形成克制的窄色谱。成像兼具正式影棚肖像的存在感与野生动物摄影的精细质感，由微小的自然细节承载戏剧性。",
+  "style_prompt_en": "The style is an intimate, near-symmetrical photographic study isolated against seamless darkness. Very close framing gives the central form strong presence, while soft directional light reveals minute surface structure through layered highlights and deep recesses. Fine texture stays crisp locally and gently rounded across larger volumes. A narrow palette of cool pale tones, muted earthy marks, one warm accent and velvety black concentrates attention. Small organic asymmetries keep the formal composition from becoming mechanical. The image feels simultaneously documentary and studio controlled.",
+  "style_prompt_zh": "这种风格是以无缝暗背景隔离主体的亲密、近对称摄影研究。极近的取景使中央形体具有强烈存在感，柔和定向光则通过层叠高光和深暗凹处显露微小表面结构。细节在局部清晰，大体积的转折又轻柔圆润。冷浅色、压低的土色痕迹、单一暖色重音与绒黑色组成狭窄色谱，将注意力集中起来。少量有机的不对称使形式构图不至于机械。图像同时具有纪实感和影棚控制感。",
+  "theme_en": "A snowy owl rendered as an intimate natural-history portrait",
+  "theme_zh": "以亲密自然史肖像呈现的雪鸮",
+  "wh_ratio": "1:1",
+  "id": "4437",
+  "name": "Tim Flach",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/tim-flach.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "05c8cb8d8c000a47b5ce70a5cad1ae262ea20cb6226e7fc461f6dcdc10da1d80",
+    "gpt_submission_prompt": "A square photographic portrait shows a snowy owl facing the viewer against an almost black background. Its pale rounded head fills most of the frame, with the upper edge of its folded wings and feathered chest visible along the bottom. The broad facial disk is built from extraordinarily fine white and cream feathers, and a scatter of small brown markings crosses the crown. Two amber eyes sit under a shallow downward brow, giving the steady gaze unusual intensity without turning the animal into a cartoon. The tiny dark beak falls precisely on the central axis. Soft directional light separates the layered feathers from one another while preserving deep shade in the hollows around the eyes and beneath the bill. Each hairlike barb has a crisp local edge, yet the transitions across the cheek and neck remain gentle and tactile. The background carries no visible setting, so the owl's form and expression become the complete composition. The crop is close and nearly symmetrical, though slight irregularities in the plumage keep it alive rather than diagrammatic. Cream highlights, muted brown flecks, warm irises and velvety black create a narrow, deliberate palette. The result has the presence of a formal studio portrait and the exacting texture of wildlife photography, allowing small natural details to supply the drama.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "c66b8d295f4588b4700cfcddc7739869913c313c1f31d18ff0a866752fa79132",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

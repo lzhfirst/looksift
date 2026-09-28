@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square monochrome fine-art photograph shows a vast mist-filled shore. A massive dark cliff rises abruptly along the left edge, while two isolated rock formations emerge from the haze over the water at the right distance. Across the middle ground, several small travelers walk along the broad wet sand, their silhouettes spaced at different depths; two figures nearer the right foreground form the clearest pair. The horizon is uncertain, almost erased by sea mist, so the pale sky and water flow into one broad tonal area. The sand carries subtle ripples, foot-worn dark patches and a faint sheen without becoming a literal mirror. A long horizontal internal composition sits inside the square frame, with dark bands above and below echoing a carefully printed photographic presentation. The print has an expansive range of restrained grays: dense near-black in the cliff and nearest silhouettes, soft charcoal across the beach, and light silver in the fog. The figures remain unposed and tiny beside geological forms. Soft diffuse light and gentle optical detail maintain the monochrome atmosphere. The texture resembles a rich analog print with fine grain and gentle separation in the shadows. The image conveys distance, silence and physical scale, inviting the eye to travel from the dark foreground across the disappearing procession into fog.",
+  "full_prompt_zh": "正方形单色艺术摄影呈现雾气笼罩的辽阔海岸。巨大深色悬崖从左侧边缘陡然升起，右侧远处两块独立海蚀岩从海面薄雾中显现。画面中景，几名小小旅人沿宽阔湿沙滩行走，各自位于不同深度；右前方两人成为最清楚的一组。地平线几乎被海雾抹去，使浅色天空和水面融为一片宽广灰阶。沙面带细微波纹、脚踩出的暗处和淡淡湿亮感，但不变成字面上的镜子。以正方形外框容纳内部较长的水平构图，上下深色带仿佛精心放印的照片边界。曝光保留宽广而克制的灰阶：悬崖与最近剪影近黑，海滩为柔和炭灰，雾中为浅银灰。人物不摆姿势，在地质体量旁保持渺小。柔和漫射光与轻柔光学细节维系单色氛围。质地如同深厚的胶片放大照片，颗粒细致，阴影层次轻柔分离。画面传达距离、寂静与实体尺度，引导视线从深色前景越过渐隐的行人走入雾中。",
+  "style_prompt_en": "Monochrome fine-art photography combines expansive mist, layered silhouettes, uncertain horizontal boundaries and rich analog print tonality. Dense dark masses contrast with broad pale negative space, creating a long internal horizontal rhythm within the square frame. Fine grain, soft atmospheric recession and subtle middle-gray texture remain visible. Diffuse light produces gentle shadows near the closest forms and nearly shadowless distance. Tiny scale accents and wide spatial intervals convey silence and depth through restrained tonal separation.",
+  "style_prompt_zh": "单色艺术摄影结合宽广薄雾、层叠剪影、模糊水平边界与丰厚胶片放印灰阶。浓重暗体块与大片浅色留白对照，在正方形画框中形成横向延展的内部节奏。细颗粒、柔和空气透视与中间灰的微妙肌理清晰可见。漫射光在最近形体处产生轻柔阴影，远处则几乎没有明显投影。微小尺度重音与宽阔空间间隔通过克制明暗分离传达寂静和纵深。",
+  "theme_en": "Travelers walking along a misty shore between rock formations",
+  "theme_zh": "旅人行经巨岩之间的雾中海岸",
+  "wh_ratio": "1:1",
+  "id": "1157",
+  "name": "Kenro Izu",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/kenro-izu",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/kenro-izu.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "6a95487befe04977d849b26d00ecc0839dc9c7df72193ab217536363fa82c6cc",
+    "gpt_submission_prompt": "A square monochrome fine-art photograph shows a vast mist-filled shore. A massive dark cliff rises abruptly along the left edge, while two isolated rock formations emerge from the haze over the water at the right distance. Across the middle ground, several small travelers walk along the broad wet sand, their silhouettes spaced at different depths; two figures nearer the right foreground form the clearest pair. The horizon is uncertain, almost erased by sea mist, so the pale sky and water flow into one broad tonal area. The sand carries subtle ripples, foot-worn dark patches and a faint sheen without becoming a literal mirror. A long horizontal internal composition sits inside the square frame, with dark bands above and below echoing a carefully printed photographic presentation. The print has an expansive range of restrained grays: dense near-black in the cliff and nearest silhouettes, soft charcoal across the beach, and light silver in the fog. The figures remain unposed and tiny beside geological forms. Soft diffuse light and gentle optical detail maintain the monochrome atmosphere. The texture resembles a rich analog print with fine grain and gentle separation in the shadows. The image conveys distance, silence and physical scale, inviting the eye to travel from the dark foreground across the disappearing procession into fog.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "a3debf65312ee5d556fd53d0601e119daf1970a6e5f6a138e9074a585faef60e",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

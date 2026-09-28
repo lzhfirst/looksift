@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square dark-fantasy painting places three closely overlapping figures inside a weathered circular arch, with the central woman in a deep red garment and an elaborate crown of dried leaves and branches. Her pale face is shown in right-facing profile near the center, lit warmly against a much darker background. Fine brown hair is gathered beneath the crown, which rises and branches into tangled ochre forms across the upper middle. Behind her on the left, a young man in gray-green clothing faces left; on the right, another partially hidden figure turns toward the right edge. Their heads make a layered sequence of profiles, each at a slightly different depth. The circular arch forms a pale cream rim across the top and sides, but its plaster is cracked, stained, and missing pieces. Small reddish fragments or leaves break away near the outer edges. Within the circle, shadowy dark brown and olive forms crowd behind the heads, giving the ornament an almost carved density. The central woman's high neckline and red fabric create the strongest chromatic accent, while the other garments remain subdued slate and olive. Light appears to fall from the upper left, catching her cheek, nose, and crown tips, then fading into deep shadow around the side figures and lower corners. The paint surface mixes fine facial modeling with rougher scuffs and scraped patches on the arch. The overall composition uses a strict circular frame and three opposing profiles to hold ornate decay, quiet tension, and restrained color together.",
+  "full_prompt_zh": "这幅方形黑暗奇幻绘画把三个紧密交叠的人物放在风化圆拱内，中央女子穿深红衣，戴由干叶与枝条组成的华丽冠饰。浅色面孔位于中央附近，以朝右侧脸出现，在更深的背景前受到暖光照亮。细棕发拢在冠饰下，冠饰向上升起，在上方中央枝杈交错成赭色形体。她身后左侧，一位穿灰绿衣的年轻男子朝左；右侧另一位部分被遮住的人物朝向右边缘。三个头形成不同纵深的侧影序列。圆拱以浅奶油色边缘横过顶部与两侧，但灰泥开裂、有污渍并有缺块。小红褐碎片或叶片在外缘附近脱落。圆内深棕与橄榄色阴影形体挤在头后，使装饰几乎有雕刻般密度。中央女子的高领和红布成为最强色彩重音，另外的衣服保持低调石板灰与橄榄绿。光似乎从左上落下，照亮她的脸颊、鼻和冠饰尖端，然后淡入侧边人物与下角的深影。画面表面把精细面部塑造与拱门上较粗的擦伤和刮痕混合。整体构图以严格圆框和三道相反侧影，把华丽衰败、安静张力与克制色彩聚在一起。",
+  "style_prompt_en": "The painting combines delicate realistic modeling with worn, almost fresco-like material. A pale cracked circular boundary contains deep olive, umber, slate, and one concentrated wine-red accent. Fine branching ornaments and small detached fragments fill the upper region, while lower forms merge into heavy shadow. Warm directional light touches a narrow focal plane and leaves adjacent layers subdued, creating depth within a compact arrangement. Edges shift from carefully drawn contours to scraped, broken plaster texture. The composition is formal yet uneasy, using layered profiles and restrained color to make decorative density feel solemn.",
+  "style_prompt_zh": "这种绘画把细腻写实塑形与磨旧、近似壁画的材料结合起来。浅色开裂圆形边界包住深橄榄、赭褐、石板灰和一处集中的酒红重音。精细分枝装饰与小型脱落碎片填满上部，下方形体并入厚重阴影。暖色定向光只触及窄焦平面，让相邻层次压低，在紧凑排列中建立纵深。边缘从谨慎描出的轮廓转为刮擦破碎的灰泥肌理。构图正式却不安，以层叠侧影和克制色彩让装饰密度显得肃穆。",
+  "theme_en": "Three overlapping profiles beneath a branch crown inside a weathered arch",
+  "theme_zh": "风化圆拱内三道交叠侧影与枝叶冠饰",
+  "wh_ratio": "1:1",
+  "id": "3089",
+  "name": "Anato Finnstark",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/anato-finnstark",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "1ae91c117dbf04465bedb61e92178b195ec6b017579ae2d7943a8606fbc34938",
+    "gpt_submission_prompt": "A square dark-fantasy painting places three closely overlapping figures inside a weathered circular arch, with the central woman in a deep red garment and an elaborate crown of dried leaves and branches. Her pale face is shown in right-facing profile near the center, lit warmly against a much darker background. Fine brown hair is gathered beneath the crown, which rises and branches into tangled ochre forms across the upper middle. Behind her on the left, a young man in gray-green clothing faces left; on the right, another partially hidden figure turns toward the right edge. Their heads make a layered sequence of profiles, each at a slightly different depth. The circular arch forms a pale cream rim across the top and sides, but its plaster is cracked, stained, and missing pieces. Small reddish fragments or leaves break away near the outer edges. Within the circle, shadowy dark brown and olive forms crowd behind the heads, giving the ornament an almost carved density. The central woman's high neckline and red fabric create the strongest chromatic accent, while the other garments remain subdued slate and olive. Light appears to fall from the upper left, catching her cheek, nose, and crown tips, then fading into deep shadow around the side figures and lower corners. The paint surface mixes fine facial modeling with rougher scuffs and scraped patches on the arch. The overall composition uses a strict circular frame and three opposing profiles to hold ornate decay, quiet tension, and restrained color together.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "25521a877996b9998db6aba1b1e30a6c6f4ca94b33b92f889afed0d2aa746537",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

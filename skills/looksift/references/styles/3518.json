@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "The square image is a naturalistic oil painting of an elderly white-bearded man resting on a grassy slope beside a white sheep. The man sits near the center-right, with one leg extended forward and the other bent, his right elbow supported on a low rock or rise of ground. He wears a dark brown jacket over a gray-tan waistcoat and shirt, a narrow dark tie, tan trousers and worn brown boots. His pale beard and hair catch soft light as he looks outward with a thoughtful, slightly distant expression. At the left foreground, a single shaggy sheep stands in profile, turned toward him, its cream fleece luminous against the deeper greens and browns. Wild grass, small flowers and low plants crowd the lower edge, while a twisting tree trunk and a warm stone wall or bank occupy the upper right. More sheep appear as small pale shapes in the distant pasture on the left. The brushwork is detailed without becoming rigid: individual wool curls and beard hairs are suggested within broader, softly blended paint, and foreground plants are built from quick layered marks. Afternoon light is warm and diffused, giving the figures gentle dimensionality and leaving soft earth-colored shadows beneath them. The palette stays close to moss green, olive, umber, tan and cream, with quiet red-brown accents in the clothing and ground. The seated posture, companionable distance to the animal and slowly receding field give the whole square painting a patient rural calm.",
+  "full_prompt_zh": "正方形画面是一幅自然主义油画：一位白胡子老人坐在草坡上，身旁有一只白羊。老人位于中央偏右，一条腿向前伸，另一条弯曲，右肘支在低矮石块或隆起地面上。他穿深棕外套、灰褐背心与衬衫、细深色领带、浅褐长裤和磨旧棕靴。淡色胡须和头发接住柔光，他神情沉思，目光略显遥远。左侧前景，一只毛蓬蓬的羊侧身站立，朝向老人，乳白羊毛在深绿和棕色中发亮。野草、小花和低矮植物挤满下缘，弯曲树干与暖色石墙或土坡占据右上。左侧远处牧地里还有几个浅色小羊形。笔触细致而不僵硬：羊毛卷曲和胡须细丝在宽阔柔和的颜料中得到暗示，前景植物由迅速叠加的笔触组成。午后光温暖而漫射，赋予人物和羊柔和体积，在其下方留有泥土色软影。色彩围绕苔绿、橄榄绿、赭褐、浅褐和乳白，衣物与土地中有安静的红棕点缀。坐姿、人与动物之间相伴的距离及缓缓退远的田野，使整幅正方形绘画充满耐心的乡村宁静。",
+  "style_prompt_en": "Naturalistic oil painting carries softly blended volume, fine touches nested inside broad strokes, tactile organic texture and warm diffused light. Moss green, olive, umber, tan and cream remain closely balanced, with subdued red-brown accents. Gentle cast shadows and gradual recession give the square composition patient, quiet depth.",
+  "style_prompt_zh": "自然主义油画具有柔和融合的体积、宽笔触中嵌入的细小点画、可触的有机肌理和温暖漫射光。苔绿、橄榄绿、赭褐、浅褐与乳白彼此平衡，配有克制的红棕点缀。柔和投影与逐渐退远的空间使正方形构图安静而有耐心。",
+  "theme_en": "An elderly man resting beside a white sheep in a quiet pasture",
+  "theme_zh": "老人坐在静谧牧场的白羊身旁休息",
+  "wh_ratio": "1:1",
+  "id": "3518",
+  "name": "Briton Riviere",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/briton-riviere",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "b06fc28d5d524bb23defbc80ddc6456a4176aefb3fa53b2f93d4a5a644bbbe29",
+    "gpt_submission_prompt": "The square image is a naturalistic oil painting of an elderly white-bearded man resting on a grassy slope beside a white sheep. The man sits near the center-right, with one leg extended forward and the other bent, his right elbow supported on a low rock or rise of ground. He wears a dark brown jacket over a gray-tan waistcoat and shirt, a narrow dark tie, tan trousers and worn brown boots. His pale beard and hair catch soft light as he looks outward with a thoughtful, slightly distant expression. At the left foreground, a single shaggy sheep stands in profile, turned toward him, its cream fleece luminous against the deeper greens and browns. Wild grass, small flowers and low plants crowd the lower edge, while a twisting tree trunk and a warm stone wall or bank occupy the upper right. More sheep appear as small pale shapes in the distant pasture on the left. The brushwork is detailed without becoming rigid: individual wool curls and beard hairs are suggested within broader, softly blended paint, and foreground plants are built from quick layered marks. Afternoon light is warm and diffused, giving the figures gentle dimensionality and leaving soft earth-colored shadows beneath them. The palette stays close to moss green, olive, umber, tan and cream, with quiet red-brown accents in the clothing and ground. The seated posture, companionable distance to the animal and slowly receding field give the whole square painting a patient rural calm.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "928c77b87f62d786c6c3cbd1e8b1b31b05aa4b868307555bb5bbd0966a2bdf19",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

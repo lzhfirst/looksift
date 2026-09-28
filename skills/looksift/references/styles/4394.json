@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square atmospheric landscape painting shows a quiet marsh at daybreak, with several tall cranes standing among reeds and shallow water. One dark crane near the right foreground has a long neck and a small red crown, its silhouette crisp against a pool of pale mist. Farther left, other birds recede into haze, their forms becoming faint and blue-gray. Small flying birds cross the upper sky. Warm amber and burnt orange light fills the upper right, while deep teal and muted blue-green settle in the water and lower mist. The shoreline is only suggested by dark reeds and soft wet reflections. Broad washes establish the colored atmosphere; thin brush lines define grasses, necks, and branches; small scumbled marks add texture at the water's edge. A glowing horizontal opening in the mist provides depth between near and far birds. The image is asymmetrical, with the clearest bird weighted to the right and open luminous space spreading leftward. Light seems diffused through fog rather than cast as a sharp beam. The paper or canvas surface carries subtle pigment granulation and softened edges. The whole scene feels hushed, poetic, and spacious, like an ink-and-watercolor landscape warmed by a restrained sunset palette.",
+  "full_prompt_zh": "一幅方形氛围风景画呈现黎明时分安静的湿地，几只高鹤站在芦苇和浅水间。右侧前景有一只深色鹤，脖颈修长，头顶一点红冠，它的剪影在浅色雾池前很清楚。更远处的鸟向左退入薄雾，形体逐渐变得淡而蓝灰。几只飞鸟掠过上方天空。暖琥珀与焦橙色光填满右上方，深青与低饱和蓝绿沉在水与下方雾气里。岸线仅由深色芦苇和柔和湿地倒影暗示。宽阔薄染建立有色空气，细笔线界定草茎、鸟颈和枝条，水边的小块擦叠笔迹增加肌理。雾中一条发亮的水平开口在远近鸟之间建立纵深。画面不对称，最清楚的鸟压在右侧，左边延展开放的亮色空间。光仿佛透过雾漫射，而非尖锐光束。纸面或画布留有细微颜料颗粒和柔化边缘。整幅画安静、诗意、宽敞，像一幅被克制落日色谱温暖的水墨水彩风景。",
+  "style_prompt_en": "An atmospheric ink-and-wash landscape style blends broad translucent color fields with sparse precise natural line. Warm amber and burnt orange gather above cool teal, muted blue-green, and pale fog. A few crisp dark silhouettes provide scale against a luminous horizontal opening; distant forms dissolve into soft haze. Thin strokes pick out reeds or similarly delicate structure, while scumbled marks and pigment granulation enrich the lower surface. The composition is asymmetric and spacious, with large areas of diffuse light balancing small, dark focal marks. Edges shift from sharply inked to almost invisible. The mood is hushed and poetic, carried by color temperature and depth through mist.",
+  "style_prompt_zh": "富于空气感的水墨淡染风景风格把宽阔半透明色域与少量准确的自然细线结合。暖琥珀和焦橙聚于上方，冷深青、低饱和蓝绿和浅雾位于下方。少数清晰深色剪影在发亮的水平开口前建立尺度；远方形体则消散在柔雾中。细笔勾出芦苇或同样纤弱的结构，擦叠笔迹和颜料颗粒丰富下方表面。构图不对称而宽敞，大片漫射亮光平衡细小深色焦点笔迹。边缘从墨线清晰渐变到几乎不可见。气氛安静而诗意，由色温和雾中的纵深承载。",
+  "theme_en": "Cranes gather in a misty marsh beneath an amber sky",
+  "theme_zh": "琥珀色天空下，鹤群聚在迷雾湿地",
+  "wh_ratio": "1:1",
+  "id": "4394",
+  "name": "Tyrus Wong",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/tyrus-wong.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "1a302b4963ee3819a7ccb1585bd3c4c173769ca89f4354d85eb286f072d810c1",
+    "gpt_submission_prompt": "A square atmospheric landscape painting shows a quiet marsh at daybreak, with several tall cranes standing among reeds and shallow water. One dark crane near the right foreground has a long neck and a small red crown, its silhouette crisp against a pool of pale mist. Farther left, other birds recede into haze, their forms becoming faint and blue-gray. Small flying birds cross the upper sky. Warm amber and burnt orange light fills the upper right, while deep teal and muted blue-green settle in the water and lower mist. The shoreline is only suggested by dark reeds and soft wet reflections. Broad washes establish the colored atmosphere; thin brush lines define grasses, necks, and branches; small scumbled marks add texture at the water's edge. A glowing horizontal opening in the mist provides depth between near and far birds. The image is asymmetrical, with the clearest bird weighted to the right and open luminous space spreading leftward. Light seems diffused through fog rather than cast as a sharp beam. The paper or canvas surface carries subtle pigment granulation and softened edges. The whole scene feels hushed, poetic, and spacious, like an ink-and-watercolor landscape warmed by a restrained sunset palette.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "38f3d1211337381a3ffac92eb75c3ab99aa315363f2e68b919524777c32c87f2",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

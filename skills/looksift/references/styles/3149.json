@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A tightly cropped oil-painted study shows a man in a dark hat and jacket facing the viewer. His uneven gaze and compressed mouth hold a restless intensity. Bright yellow and orange strike one side of his face, while the other side breaks into red-brown, dark green, and indigo shadows. The hat nearly fuses with the turbulent background, and only a few pale strokes at the collar separate the jacket from the surrounding dark paint. The composition presses the head close to the top edge, making the face the entire dramatic event.\n\nPaint is laid on thickly in short, urgent strokes, with ridges and dragged passages remaining visible. The features are built from juxtaposed patches of color rather than smooth blending: an ochre plane beside crimson, a green-black edge beside cream, a rough indigo mark inside the coat. Contours waver and seem to move, even as the eyes remain direct. Light is expressive rather than even; the bright side glows against a deep compressed surround. An earthy palette has strong local contrast, and the painted ground swirls around the figure. The result feels physically worked and emotionally unsettled, with a dense, tactile impasto surface. Brush energy and the weight of color give the likeness a rough, expressive character. No legible text appears.",
+  "full_prompt_zh": "一幅裁得很紧的油画研究，描绘一名戴深色帽子、穿深色外套的男子面向观看者。他不完全一致的目光和紧闭的嘴含着躁动的强度。明亮黄与橙击中脸的一侧，另一侧则碎成红褐、深绿与靛蓝阴影。帽子几乎与翻涌的背景融合，领口只有几笔浅色把外套从周围深色颜料中分开。构图将头部推近上边缘，使面容成为全部戏剧事件。\n\n颜料以短促急切的笔触厚厚堆下，留下可见的隆起和拖拽痕迹。五官由并列色块而非平滑晕染构成：赭黄平面挨着深红，绿黑边缘挨着奶油白，外套里嵌入粗糙的靛蓝笔迹。轮廓摇晃，仿佛在动，双眼却仍直视前方。光是表现性的而非均匀的；明亮的一侧在压紧的深色环境中发光。色谱具有泥土感，局部对比强烈，绘画底色围绕人物翻卷。结果具有身体性劳作感和情绪不安感，厚涂表面浓密可触。笔刷能量和颜色重量使形象粗粝而富表现力。没有可辨认文字。",
+  "style_prompt_en": "Dense oil paint is driven across the surface in short, urgent, thick strokes. Ochre and yellow flare beside crimson, dark green, indigo, cream, and near-black, with adjacent patches constructing volume more than smooth blending does. Contours waver and partly merge into a turbulent ground. Ridges of impasto, scraped passages, and dragged pigment make the surface physically present. A concentrated bright area glows against compressed shadow, giving the composition emotional pressure. The crop is tight, and the densest marks gather near the center while the surrounding dark colors continue to swirl. The overall effect is earthy yet high contrast, expressive and unsettled, with brush energy taking precedence over polished finish.",
+  "style_prompt_zh": "浓密油彩以短促、急切而厚实的笔触推过表面。赭黄与黄色在深红、深绿、靛蓝、奶油白和近黑色旁迸亮，相邻色块比平滑晕染更主要地构筑体积。轮廓摇晃，并部分融入翻涌的底色。厚涂隆起、刮擦区域和拖曳的颜料让表面具有强烈实体感。集中的亮区在压紧的阴影旁发光，使构图带情绪压力。裁切很紧，最密的笔迹聚在中央，周围深色仍继续旋动。整体质朴而对比强烈，表现性强且不安，笔刷能量优先于光滑收尾。",
+  "theme_en": "An intense painted study of a seated musician",
+  "theme_zh": "一位坐着的音乐家的强烈绘画研究",
+  "wh_ratio": "1:1",
+  "id": "3149",
+  "name": "Chaim Soutine",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/chaim-soutine",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "f5f7958d079d7afd0de3fd59249ae10d03909f2be51ed27c833662497f15a6b2",
+    "gpt_submission_prompt": "A tightly cropped oil-painted study shows a man in a dark hat and jacket facing the viewer. His uneven gaze and compressed mouth hold a restless intensity. Bright yellow and orange strike one side of his face, while the other side breaks into red-brown, dark green, and indigo shadows. The hat nearly fuses with the turbulent background, and only a few pale strokes at the collar separate the jacket from the surrounding dark paint. The composition presses the head close to the top edge, making the face the entire dramatic event.\n\nPaint is laid on thickly in short, urgent strokes, with ridges and dragged passages remaining visible. The features are built from juxtaposed patches of color rather than smooth blending: an ochre plane beside crimson, a green-black edge beside cream, a rough indigo mark inside the coat. Contours waver and seem to move, even as the eyes remain direct. Light is expressive rather than even; the bright side glows against a deep compressed surround. An earthy palette has strong local contrast, and the painted ground swirls around the figure. The result feels physically worked and emotionally unsettled, with a dense, tactile impasto surface. Brush energy and the weight of color give the likeness a rough, expressive character. No legible text appears.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "49409469964047dd6f2c6dfb8fed692e08176543a13b664c6c7c1140565d0cc6",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

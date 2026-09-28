@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white fine-art photograph shows a woman seated in profile beside a bright window. Her dark hair is gathered into a soft bun, and her head tilts downward as she looks toward her lap. The patterned fabric of her dress and the rounded fold of a cloth or quilt fill the lower half. Behind her, lace curtains hang loosely across the window, their delicate openwork becoming bright gray against the daylight. A small arrangement of flowers and leaves sits on the sill, partly backlit and partly lost in the curtain texture. The woman occupies the right side of the composition, her face and upper body largely in soft shadow. The window and lace fill the left, creating a luminous counterweight to her dark silhouette. There is no crisp hard edge between figure and room; tonal gradations and mild grain blend the forms together. The backlight outlines her forehead, nose, shoulder, and gathered hair, while the side of the face remains quiet and inward. The image has a subdued silver-gelatin character, with creamy highlights, charcoal midtones, and deep but detailed shadows. The room beyond the immediate window and seated figure is barely described. The photograph feels private and contemplative, like a moment observed without interruption. No theatrical pose, color, signage, or readable text appears; the expressive weight lies in light filtered through fabric and the still curve of the bowed head.",
+  "full_prompt_zh": "一张方形黑白艺术照片呈现一名女子在明亮窗旁侧身坐着。深色头发盘成柔软发髻，头向下倾，目光落在膝间。花纹衣料与一块布或被子的圆形褶皱占下半幅。身后蕾丝窗帘松松挂在窗上，镂空细纹在日光前变成亮灰。窗台一小簇花叶部分逆光，部分融入窗帘纹理。女子占据构图右侧，面部和上身大多在柔影里。窗与蕾丝填左侧，成为深剪影的发光平衡物。人物与房间之间没有生硬锐边；灰度过渡和细颗粒把形体揉合。逆光描出额头、鼻梁、肩和盘发边缘，脸侧保持安静内向。影像有低调银盐胶片质感，亮部奶油般柔，中间调炭灰，深影仍有细节。除了眼前窗与坐着的人，房间几乎没有描述。照片私密且沉思，像不打扰地观察到的一刻。没有舞台化姿态、彩色、标牌或可读文字；表达重量在穿过布料的光和低垂头部的静曲线里。",
+  "style_prompt_en": "Use quiet monochrome fine-art photography with luminous backlight filtered through delicate fabric or foliage. Keep the main dark form in soft profile against a textured bright plane, allowing highlights to trace only selected edges. Favor creamy whites, many gentle silvery midtones, and charcoal shadows that retain subtle internal detail. Compose asymmetrically, balancing a shadowed mass with a glowing patterned area. Let grain and soft focus merge peripheral edges while preserving the important curve or gesture. Avoid aggressive contrast and theatrical lighting; the atmosphere should feel private, still, and observational, with the emotional center carried by restrained posture and filtered light.",
+  "style_prompt_zh": "采用安静的单色艺术摄影，让发亮逆光穿过细密布料或叶片。主要深色形体以柔软侧影置于有纹理的亮面前，只让高光描出选定边缘。选用奶油白、多层柔银中间调及仍留内部细节的炭灰阴影。不对称构图，让阴影体量与发光纹样区相平衡。颗粒和软焦揉合外围边缘，同时保留重要曲线或动作。避免激烈对比与戏剧化布光；氛围应私密、静止且有观察感，情绪中心由克制姿态和滤过的光承载。",
+  "theme_en": "A woman in profile beside a lace-curtained window with flowers",
+  "theme_zh": "蕾丝窗帘与花朵旁侧身静坐的女子",
+  "wh_ratio": "1:1",
+  "id": "4454",
+  "name": "Olive Cotton",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/olive-cotton.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "4036e4b28bb61a4b5a884af625955ba29f808620d0386e8200b34f30634c0ee6",
+    "gpt_submission_prompt": "A square black-and-white fine-art photograph shows a woman seated in profile beside a bright window. Her dark hair is gathered into a soft bun, and her head tilts downward as she looks toward her lap. The patterned fabric of her dress and the rounded fold of a cloth or quilt fill the lower half. Behind her, lace curtains hang loosely across the window, their delicate openwork becoming bright gray against the daylight. A small arrangement of flowers and leaves sits on the sill, partly backlit and partly lost in the curtain texture. The woman occupies the right side of the composition, her face and upper body largely in soft shadow. The window and lace fill the left, creating a luminous counterweight to her dark silhouette. There is no crisp hard edge between figure and room; tonal gradations and mild grain blend the forms together. The backlight outlines her forehead, nose, shoulder, and gathered hair, while the side of the face remains quiet and inward. The image has a subdued silver-gelatin character, with creamy highlights, charcoal midtones, and deep but detailed shadows. The room beyond the immediate window and seated figure is barely described. The photograph feels private and contemplative, like a moment observed without interruption. No theatrical pose, color, signage, or readable text appears; the expressive weight lies in light filtered through fabric and the still curve of the bowed head.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "ff3022eb13bff52cfb97523418b443ef487b7adc4c593dd0f12e15598a06a15c",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

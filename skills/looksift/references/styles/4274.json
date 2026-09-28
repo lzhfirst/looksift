@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white architectural photograph looks across a quiet modern lounge toward a vast wall of curved glass. The window rises from the floor on the right and sweeps into the sloping ceiling at the left, making one continuous structural gesture. Thin mullions divide the exterior view into a measured grid. Beyond them, a distant skyline stands across a bright river under billowing clouds. Several low chairs and compact tables occupy the lower third, their dark silhouettes separated by pools of pale daylight on the floor. The room remains nearly empty, so the window's broad curve and the regular vertical lines dominate. A restrained grayscale range moves from deep charcoal furniture and ceiling shadows to silvery window light and soft cloud whites. The glass carries slight reflections, but the city remains readable through it. Natural light enters from the broad exterior opening, casting diagonal bands of light and shadow across the floor. Subtle film grain and gentle tonal compression evoke a mid-century archive print. The camera angle is low enough to emphasize the sweep of the roof and wide enough to hold both intimate furnishings and distant urban scale. The whole image feels composed, spacious, and contemplative, with geometric order softened by clouds and light.",
+  "full_prompt_zh": "一幅方形黑白建筑摄影从安静的现代休息厅望向巨大的弧形玻璃墙。窗面从右侧地板升起，并向左侧倾斜天花板延展，形成连续的结构性手势。纤细窗框把外景分成有节奏的网格。窗外远处的城市天际线隔着明亮河面，在翻涌云层下展开。几张低矮椅子和小桌占据画面下三分之一，深色剪影之间是落在地板上的浅色日光。室内几乎空无一物，因此窗的宽阔弧线与规律竖线占主导。克制的灰阶从家具和天花板阴影的深炭黑，过渡到银色窗光与柔和云白。玻璃略有反射，但仍能看清城市。自然光从宽广的外侧开口进入，在地板上投下斜向明暗带。细微胶片颗粒和柔和的色调压缩令人想到世纪中期档案照片。机位足够低，突出屋顶的弧线；视角又足够宽，容纳亲密的家具尺度与遥远的城市尺度。整幅画面井然、开阔而沉思，几何秩序被云和光柔化。",
+  "style_prompt_en": "A monochrome architectural photography language emphasizes broad structural curves, thin repeated lines, and generous spatial depth. Deep charcoal silhouettes anchor the foreground, while silvery daylight and soft cloud whites open the distance. A restrained grayscale range preserves detail in both shadow and glass. Natural light produces long bands and quiet reflections rather than theatrical glare. Wide framing lets a dominant arc converse with a regular grid and a few small objects for scale. Subtle film grain, gentle contrast, and a calm archive-print character give the image a tactile finish. The visual mechanism can carry any spacious scene with clear geometry, transparent layers, and a distant horizon.",
+  "style_prompt_zh": "黑白建筑摄影语言强调宽阔的结构弧线、重复的纤细线条和充裕的空间纵深。深炭黑剪影稳住前景，银色日光与柔和云白打开远方。克制灰阶同时保留阴影与玻璃中的细节。自然光形成长条明暗与安静反射，而不是戏剧性眩光。宽幅取景让主导弧线与规律网格对话，并用少量小物件标示尺度。细微胶片颗粒、柔和反差和档案照片般的平静气质赋予画面触感。这套视觉机制可用于任何具有清晰几何、透明层次与远方地平线的开阔场景。",
+  "theme_en": "A modern lounge overlooking a city through a vast curved glass wall",
+  "theme_zh": "现代休息厅透过巨大的弧形玻璃墙俯瞰城市",
+  "wh_ratio": "1:1",
+  "id": "4274",
+  "name": "Ezra Stoller",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/ezra-stoller.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "d50ff10b7de8f96aa6b317697bcb7bf9c2a638d81e21123f9a4c06601acae42c",
+    "gpt_submission_prompt": "A square black-and-white architectural photograph looks across a quiet modern lounge toward a vast wall of curved glass. The window rises from the floor on the right and sweeps into the sloping ceiling at the left, making one continuous structural gesture. Thin mullions divide the exterior view into a measured grid. Beyond them, a distant skyline stands across a bright river under billowing clouds. Several low chairs and compact tables occupy the lower third, their dark silhouettes separated by pools of pale daylight on the floor. The room remains nearly empty, so the window's broad curve and the regular vertical lines dominate. A restrained grayscale range moves from deep charcoal furniture and ceiling shadows to silvery window light and soft cloud whites. The glass carries slight reflections, but the city remains readable through it. Natural light enters from the broad exterior opening, casting diagonal bands of light and shadow across the floor. Subtle film grain and gentle tonal compression evoke a mid-century archive print. The camera angle is low enough to emphasize the sweep of the roof and wide enough to hold both intimate furnishings and distant urban scale. The whole image feels composed, spacious, and contemplative, with geometric order softened by clouds and light.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "4e878ebe6e924a8a65dd18c6a841194c04e64bf46456e68e0cbb76cbb2b75434",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

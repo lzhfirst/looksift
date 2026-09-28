@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A weathered anime adventure illustration tightly frames a black haired young man from the chest upward against an aged stone wall. He looks up beyond the top of the picture with large round white eyes and small dark pupils, eyebrows drawn into a worried yet determined angle. A short stitched scar sits beneath one eye, and a few fine scratches mark the cheek and neck. His untidy black hair fans into pointed clumps around the head; behind his neck, the broad curve of a brown straw hat is visible like a muted halo. An open red shirt falls from the shoulders, leaving the chest and collarbones in warm light. The figure is nearly centered, with the face occupying most of the square image and the lower shirt cropped by the bottom edge. The stone wall behind him is irregular, cracked, and stained in beige, gray, and ocher; it remains quiet enough for the eyes and dark hair to dominate. The rendering uses strong inklike anime contours but overlays them with grain, scratches, and mottled color that suggest an aged printed illustration. Warm light from the upper right catches the forehead, nose, neck, and upper chest, while a broad shadow darkens the left side of the face. The whole frame feels earnest and slightly battered, turning a simple upward glance into a charged pause before a larger adventure.",
+  "full_prompt_zh": "一幅带有风化质感的动漫冒险插画紧密截取一位黑发年轻男子胸部以上，背景是老旧石墙。他望向画面上方之外，双眼又大又圆，白眼球中只有小小深色瞳孔，眉毛紧紧收成既忧虑又坚定的角度。一只眼下有短短的缝合状伤疤，脸颊和颈部还留着几道细小擦痕。凌乱黑发在头周围分成尖锐发束；颈后露出棕色草帽的宽阔弧线，像一圈含蓄的光环。敞开的红色衬衫从肩上垂下，胸口和锁骨处落着暖光。人物几乎居中，面部占据方形画面的绝大部分，下方衬衫被底边裁切。身后的石墙不规则、龟裂，并带有米色、灰色和赭色污迹；它足够安静，使眼睛与深发主导画面。渲染采用坚实的墨线式动漫轮廓，但叠加颗粒、划痕与斑驳色彩，让作品像一幅老化的印刷插画。来自右上方的暖光擦亮额头、鼻梁、脖颈和上胸，宽阔的阴影压暗脸部左侧。整幅画真诚而略显受挫，把简单的向上凝望变成更大冒险前充满张力的一次停顿。",
+  "style_prompt_en": "An anime adventure illustration with direct expressive features and the worn surface of an aged print. Use a close central crop, broad simple facial marks, pointed dark silhouette accents, and a warm limited palette of ocher, red, brown, and stone gray. Draw focal eyes or equivalent graphic marks with strong ink like contours, then overlay the cleaner forms with paper grain, scattered scratches, and mottled pigment. Keep the surrounding background textured but low in contrast so the central expression or gesture remains unmistakable. Warm directional light should illuminate one side and cast a connected shadow across the other. The effect is earnest, slightly battered, and story charged, as though one quiet instant has been preserved from a larger journey.",
+  "style_prompt_zh": "采用动漫冒险插画语言，以直接有神的特征和老化印刷品般的表面结合。使用紧密的中央裁切、宽阔简洁的面部标记、尖锐的深色剪影强调，以及赭黄、红、棕和石灰色构成的有限暖调。以坚实的墨线式轮廓描画焦点眼睛或同等清晰的图形标记，再在整洁形体上叠加纸纹、零散划痕和斑驳颜料。周围背景有肌理但低对比，使中心表情或动作毫不含糊。暖色定向光照亮一侧，在另一侧投出相连的阴影。效果真诚、略带磨损且充满故事感，像从更大旅程中保存的一次安静瞬间。",
+  "theme_en": "Wide eyed adventurer against aged stone",
+  "theme_zh": "旧石墙前睁大眼睛的冒险者",
+  "wh_ratio": "1:1",
+  "id": "3396",
+  "name": "One Piece",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/one-piece",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "a43a3ba876f0eb7ee9b545b6db117badf92b71cdfd4d7d891cc2197f728e6103",
+    "gpt_submission_prompt": "A weathered anime adventure illustration tightly frames a black haired young man from the chest upward against an aged stone wall. He looks up beyond the top of the picture with large round white eyes and small dark pupils, eyebrows drawn into a worried yet determined angle. A short stitched scar sits beneath one eye, and a few fine scratches mark the cheek and neck. His untidy black hair fans into pointed clumps around the head; behind his neck, the broad curve of a brown straw hat is visible like a muted halo. An open red shirt falls from the shoulders, leaving the chest and collarbones in warm light. The figure is nearly centered, with the face occupying most of the square image and the lower shirt cropped by the bottom edge. The stone wall behind him is irregular, cracked, and stained in beige, gray, and ocher; it remains quiet enough for the eyes and dark hair to dominate. The rendering uses strong inklike anime contours but overlays them with grain, scratches, and mottled color that suggest an aged printed illustration. Warm light from the upper right catches the forehead, nose, neck, and upper chest, while a broad shadow darkens the left side of the face. The whole frame feels earnest and slightly battered, turning a simple upward glance into a charged pause before a larger adventure.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "b1235829d614512c7b2c439ba49ea4f7bbfea3cb878c37be5c6d7caee499ae8a",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

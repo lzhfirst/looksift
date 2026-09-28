@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white photographic portrait shows a young dark-haired woman seated in a woven chair inside a dim room. She occupies the left and central area, body angled slightly right while her head tilts toward the camera. Loose strands cross her forehead and cheek, and a thick braid falls over one shoulder into the dark clothing. Her lips are parted, and her direct but tired-looking gaze gives the still pose an intimate, unguarded quality. A dark open-neck garment covers the shoulders and torso, its fabric nearly merging with the deep shadow in the lower frame. To the right of her face, the chair back curves upward in a narrow oval, with closely spaced cane or wicker lines catching small pale highlights. The background is out of focus: a pale horizontal band on the left suggests a wall or furnishing, while the upper right recedes into charcoal darkness. Soft window-like light comes from the upper left, touching the left cheek, nose, lips, and loose hair while leaving the opposite side of the face in gentle shade. The eye and skin retain photographic detail, but film grain and a slight softness make the image feel analog rather than clinically sharp. The crop is close enough to emphasize the face and braid but wide enough to show the chair as a patterned companion to the human form. No readable writing or other person appears in the chosen scene. The overall composition is quiet and psychologically immediate, balancing a pale expressive face against black clothing, a dim interior, and fine woven lines.",
+  "full_prompt_zh": "一幅方形黑白摄影肖像描绘一位深发年轻女子坐在昏暗房间里的编织椅上。她占据左侧与中央，身体略向右，头转向镜头。松散发丝横过额头和脸颊，一条粗辫子垂在肩前，没入深衣。她双唇微张，直视却显疲倦的眼神让静坐姿态亲密而未设防。深色开领衣服覆盖肩和躯干，衣料几乎融进画面下方深影。脸右边，椅背以窄椭圆弯起，密排藤条或柳编线接住几个浅亮点。背景失焦：左侧一道浅横带暗示墙或家具，右上退入炭黑。类似窗光的柔光从左上进入，照到左脸颊、鼻、唇和散发，对侧脸则留在温和阴影里。眼与皮肤保留摄影细节，但胶片颗粒与轻微柔焦让图像显得胶片式，而非机械锐利。裁切足够近以强调脸与辫子，也足够宽以让椅子成为人物旁的纹样对应。所选场景没有可读文字或其他人。整体构图安静且有直接心理感，以浅亮表情面孔平衡黑衣、昏暗室内和细密编织线。",
+  "style_prompt_en": "The photograph has intimate low-key monochrome tonality, with a pale focal plane emerging from deep clothing and dim interior shadow. Soft side light models the central volume in gradual grays, while film grain and slight focus falloff keep the scene tactile and unpolished. A narrow repeated linear pattern sits beside the softer organic contours, adding rhythm without clutter. Most edges melt into charcoal, but eyes and a few lit strands remain quietly precise. The close crop and unposed feeling give the image psychological directness. The overall effect is private, delicate, and subdued.",
+  "style_prompt_zh": "照片具有亲密的低调黑白影调，浅亮焦点平面从深衣与昏暗室内影子里浮出。柔和侧光用渐变灰色塑造中央体积，胶片颗粒和轻微失焦让场景可触且未经抛光。窄幅重复线纹位于更柔软的有机轮廓旁，增加节奏而不杂乱。多数边缘溶入炭灰，但眼睛和几缕受光细丝仍安静精确。近裁切与未经摆拍的感觉给图像直接心理力量。整体效果私密、细腻而低调。",
+  "theme_en": "A dark-haired woman with a loose braid seated in a wicker chair",
+  "theme_zh": "深发女子编着松辫，坐在藤椅上",
+  "wh_ratio": "1:1",
+  "id": "1286",
+  "name": "Katy Grannan",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/katy-grannan",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/katy-grannan.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "e71041ed805002cda673280651f78db2f54c27bda299475c4f6add891ef3bc62",
+    "gpt_submission_prompt": "A square black-and-white photographic portrait shows a young dark-haired woman seated in a woven chair inside a dim room. She occupies the left and central area, body angled slightly right while her head tilts toward the camera. Loose strands cross her forehead and cheek, and a thick braid falls over one shoulder into the dark clothing. Her lips are parted, and her direct but tired-looking gaze gives the still pose an intimate, unguarded quality. A dark open-neck garment covers the shoulders and torso, its fabric nearly merging with the deep shadow in the lower frame. To the right of her face, the chair back curves upward in a narrow oval, with closely spaced cane or wicker lines catching small pale highlights. The background is out of focus: a pale horizontal band on the left suggests a wall or furnishing, while the upper right recedes into charcoal darkness. Soft window-like light comes from the upper left, touching the left cheek, nose, lips, and loose hair while leaving the opposite side of the face in gentle shade. The eye and skin retain photographic detail, but film grain and a slight softness make the image feel analog rather than clinically sharp. The crop is close enough to emphasize the face and braid but wide enough to show the chair as a patterned companion to the human form. No readable writing or other person appears in the chosen scene. The overall composition is quiet and psychologically immediate, balancing a pale expressive face against black clothing, a dim interior, and fine woven lines.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "0b49a1167dfc3d7530086af4185d08876dc4551c29bd6d3dbf7f3790d7eb1719",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square vintage comic illustration shows three men in a rocky cave, with an ominous skull-shaped form looming from the dark wall behind them. The largest figure fills the foreground at the right of center: an older gray-haired man in a mustard yellow coat, pale shirt and dark tie. He turns his head upward to the right, brows lifted and mouth slightly open in alarm. At the middle left, a dark-haired man in a yellow top points forward from deeper in the cave. A third man in red crouches behind a low rock at the far left, one hand near his face. Twisted roots and rough stone frame the upper edge, while broken ledges and small plants occupy the lower part of the image. The background cavern is a dense mixture of moss green, black and warm ochre, its recesses shaped by heavy ink hatching. A pale skull-like face emerges above the men, its eye sockets and teeth suggested by rough dark marks rather than clean outlines. The men's clothes are defined by bold black contour and folded color planes, with finer stippling in faces and stone. Warm light from the front left catches the mustard coat and exposed faces, while the cave behind remains deep and unevenly shadowed. The overall composition compresses alert figures against a textured threatening backdrop, giving the scene brisk adventure energy and vintage printed color.",
+  "full_prompt_zh": "一幅方形复古漫画插画描绘三名男子身在岩洞，背后黑暗洞壁上隐现令人不安的骷髅状形体。最大人物占据中央偏右前景：一位灰发长者穿芥末黄外套、浅衬衫和深领带。他抬头转向右上，眉毛扬起，嘴微张，显出惊愕。中间左侧，一位穿黄上衣的黑发男子从洞穴深处向前指。第三名穿红衣的男子蹲在最左侧一块低岩后，一只手靠近脸。扭曲树根和粗糙岩石围住上缘，断裂石台与小植物占据下方。背景洞穴由苔绿、黑与暖赭密集混合，凹处靠厚重墨线排线塑形。一个浅色骷髅般面孔从人物上方显出，眼窝与牙齿由粗糙暗痕暗示，并无洁净轮廓。男子衣着以大胆黑轮廓和折叠色面界定，脸与石头里则有更细的点纹。前左方暖光照亮芥末黄外套和露出的脸，背后洞穴仍是深而不均的阴影。整体构图把警觉的人物压在有肌理、带威胁感的背景前，形成敏捷的冒险能量与复古印刷色彩。",
+  "style_prompt_en": "The vintage comic rendering uses emphatic black ink contours, dense hatch work and slightly rough printed color. Mustard yellow, brick red and moss green sit against charcoal recesses, with aged cream highlights lending warmth to the page. Foreground forms are sharply outlined and modeled by angular flat shadow planes; surrounding textures break into stipple, scratch and irregular crosshatching. Small pale openings inside large dark masses become points of unease and focus. Light falls from a clear forward direction, striking exposed upper planes while cavities remain almost black. The image has tight overlapping depth and a crowded edge rhythm, yet its large color blocks keep the action immediately readable. The effect is dramatic, pulpy and palpably hand-printed.",
+  "style_prompt_zh": "这种复古漫画画法使用醒目的黑墨轮廓、密集排线和略粗糙的印刷色。芥末黄、砖红和苔绿对照炭黑凹处，陈旧奶油色亮部为纸面带来暖意。前景形体被锐利勾出，以棱角分明的平面阴影塑形；周边肌理碎成点描、刮痕和不规则交叉排线。大暗块中的细小浅色开口成为不安感与注意力的焦点。光从清楚的前方方向落下，击中外露上平面，而孔穴近乎纯黑。画面有紧密的叠压纵深和拥挤边缘节奏，但大色块使动作一眼可读。效果戏剧化、通俗冒险感鲜明，并有可触的手工印刷质地。",
+  "theme_en": "Three men in a rocky cave with a skull-shaped shadow behind them",
+  "theme_zh": "三名男子身处岩洞，背后有骷髅形阴影",
+  "wh_ratio": "1:1",
+  "id": "0750",
+  "name": "Dick Sprang",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/dick-sprang.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "1747ca73b7710f9e687ba1ab19f80cd8440cf3f00c3747641643b3c5edb3b34f",
+    "gpt_submission_prompt": "A square vintage comic illustration shows three men in a rocky cave, with an ominous skull-shaped form looming from the dark wall behind them. The largest figure fills the foreground at the right of center: an older gray-haired man in a mustard yellow coat, pale shirt and dark tie. He turns his head upward to the right, brows lifted and mouth slightly open in alarm. At the middle left, a dark-haired man in a yellow top points forward from deeper in the cave. A third man in red crouches behind a low rock at the far left, one hand near his face. Twisted roots and rough stone frame the upper edge, while broken ledges and small plants occupy the lower part of the image. The background cavern is a dense mixture of moss green, black and warm ochre, its recesses shaped by heavy ink hatching. A pale skull-like face emerges above the men, its eye sockets and teeth suggested by rough dark marks rather than clean outlines. The men's clothes are defined by bold black contour and folded color planes, with finer stippling in faces and stone. Warm light from the front left catches the mustard coat and exposed faces, while the cave behind remains deep and unevenly shadowed. The overall composition compresses alert figures against a textured threatening backdrop, giving the scene brisk adventure energy and vintage printed color.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "d50fdade326f651b5d654609dbedc43ffd5bafac3611c47d5901824f7007d823",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

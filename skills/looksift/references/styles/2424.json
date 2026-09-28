@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square illustrated storybook scene shows a small child and an older traveler facing each other at a yellow doorway. The door sits just left of center inside a weathered gray stone wall, its mustard-painted panels warmed by light from within. The child stands on the left, looking up, wearing a bright orange cap, green coat, brown trousers, and pale shoes. Opposite, the tall older man bends his head toward the child. A gray cap covers his hair, and a long brown coat hangs over layered dark clothing. One hand holds a rounded tan bag at his right side, while a small upright brown suitcase rests beside his feet. His slim legs and oversized brown shoes stretch down to the uneven pale paving. The wall around them is washed in sage gray, cream, and faded blue, with faint cracks and rubbed texture. A dark passage to the right of the door provides a vertical shadow behind the man's shoulder. The figures are outlined with thin pencil-like marks and filled with softly mottled watercolor or colored-pencil shading. Their faces are simplified but their attentive postures make the encounter clear. Warm light from the doorway falls on the child's face, the man's nose, and a small patch of paving; the surrounding wall remains cool and subdued. The overall composition is gentle and intimate, balancing the large leaning traveler with the tiny upright child amid muted stone colors and one warm yellow opening.",
+  "full_prompt_zh": "这是一幅方形故事书插画，一个小孩和一位年长旅人在黄色门口相对而立。门略偏中央左侧，嵌在风化灰石墙内，芥末黄色门板被室内光温暖。孩子站在左边仰头看，戴鲜橙帽，穿绿外套、棕裤和浅色鞋。对面高个老者低头望向孩子。灰帽盖住头发，长褐外套披在层叠深色衣服上。一只手在右侧提着圆润浅棕包，脚旁竖着一只小褐色手提箱。细长双腿和宽大棕鞋一直伸到不平的浅色铺地。周围墙面由鼠尾草灰、奶油色和褪色蓝晕染，带细裂纹和擦旧肌理。门右侧的深暗通道在男子肩后形成竖向阴影。人物用铅笔般细线勾勒，内部填以柔和斑驳的水彩或彩铅阴影。面容简化，但专注的姿态让相遇清楚可读。暖光从门口落在孩子的脸、男子的鼻子和一小片铺地上；周围墙面仍冷而低调。整体构图温柔而贴近，以高大前倾的旅人平衡小小直立的孩子，置于低调石色和一个暖黄开口之间。",
+  "style_prompt_en": "The storybook illustration uses fine pencil-like contour, softly mottled watercolor color, and a worn paper surface. Mustard yellow and restrained orange warm a palette of sage gray, faded blue, cream, and brown. Rounded, slightly exaggerated shapes stay readable within simple architectural planes, while small scratches and uneven pigment soften the boundaries. The focal relationship is carried by differing scale and posture rather than elaborate facial detail. Light pools gently in one warm opening and fades across cooler surrounding surfaces, leaving shadows soft and shallow. The composition is uncluttered, with a few carefully placed objects and ample muted wall area. The result feels humane, nostalgic, and quietly narrative.",
+  "style_prompt_zh": "故事书插画采用铅笔般细轮廓、柔和斑驳水彩色与磨旧纸面。芥末黄和克制橙色温暖鼠尾草灰、褪蓝、奶油和褐色组成的色盘。略带夸张的圆润形状在简洁几何平面中仍可读，小刮痕和不均颜料柔化边界。焦点关系由不同尺度和姿态承载，而非繁复面部细节。光在一处暖色开口轻轻汇聚，向较冷周围表面衰减，让阴影柔浅。构图不拥挤，少量物件经过仔细安置，留下宽裕低调的墙面区域。效果有人情味、怀旧，叙事安静。",
+  "theme_en": "A small child and an older traveler at a yellow doorway",
+  "theme_zh": "黄色门口的小孩与年长旅人",
+  "wh_ratio": "1:1",
+  "id": "2424",
+  "name": "Raymond Briggs",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/raymond-briggs",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/raymond-briggs.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "3cc046c5d18b420019b18de19bd2c3349fae76fc7816ea74a3f2e2bc0745638b",
+    "gpt_submission_prompt": "A square illustrated storybook scene shows a small child and an older traveler facing each other at a yellow doorway. The door sits just left of center inside a weathered gray stone wall, its mustard-painted panels warmed by light from within. The child stands on the left, looking up, wearing a bright orange cap, green coat, brown trousers, and pale shoes. Opposite, the tall older man bends his head toward the child. A gray cap covers his hair, and a long brown coat hangs over layered dark clothing. One hand holds a rounded tan bag at his right side, while a small upright brown suitcase rests beside his feet. His slim legs and oversized brown shoes stretch down to the uneven pale paving. The wall around them is washed in sage gray, cream, and faded blue, with faint cracks and rubbed texture. A dark passage to the right of the door provides a vertical shadow behind the man's shoulder. The figures are outlined with thin pencil-like marks and filled with softly mottled watercolor or colored-pencil shading. Their faces are simplified but their attentive postures make the encounter clear. Warm light from the doorway falls on the child's face, the man's nose, and a small patch of paving; the surrounding wall remains cool and subdued. The overall composition is gentle and intimate, balancing the large leaning traveler with the tiny upright child amid muted stone colors and one warm yellow opening.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "2db3bf8096756cb32d61abede8f75e6259005106fbb8c24fa675223e63b9d3a3",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square classical oil painting brings a young woman close to the viewer in a quiet, reflective pose. She leans her cheek into one hand and lowers her eyes toward the left, with long copper hair falling over her shoulder. Her pale dress has a soft white neckline and a golden outer layer patterned with small floral marks. The shoulder and sleeve occupy much of the lower right, giving the composition a warm luminous mass beneath the gently modeled face. At the left edge, a vertical panel of elaborate gilded ornament rises beside her; the background behind her is deep red brown, barely revealing any room. Warm light from the upper left catches hair, forehead, cheek, lace and the gold textile. It falls more softly across her lowered eyelids and hand, then disappears into dark surrounding color. Fine brushwork makes the skin smooth and translucent, while the brocade and carved panel receive sharper, more intricate marks. Her posture creates a descending diagonal from the crown of the head to the resting hand and curved shoulder. There is no overt narrative event, only a pause held between rich decoration and inward attention. The restrained red, cream and gold palette makes the image intimate despite its ornamental detail. The shadowed frame keeps the calm face and fine fabric as the principal sources of light.",
+  "full_prompt_zh": "这幅方形古典油画以安静沉思的姿态把一位年轻女子带到观者近前。她以一只手托住脸颊，目光向左下垂，长铜色头发落过肩。浅裙有柔软白领口，外层金色衣料布满小花纹。肩和袖占据右下大部，在柔和塑造的面孔下形成暖亮色块。左边缘一条复杂的镀金装饰板在她身旁竖起；身后背景是深红棕色，几乎看不出房间。左上暖光照亮头发、额头、脸颊、花边和金布。它更柔和地越过低垂眼睑与手，随后消失在周围暗色里。细笔让皮肤平滑通透，锦缎与雕刻板则由更锐利繁复的笔记构成。姿势从头顶经托腮的手到弯曲肩部形成下降斜线。没有明显叙事事件，只有丰富装饰与内向关注之间的暂停。节制的红、奶油和金色盘使画面虽有装饰细节仍然亲密。阴影边框让安静面孔与精细布料成为主要光源。",
+  "style_prompt_en": "The classical oil painting gives soft, translucent modeling to its pale focal planes and more intricate marks to surrounding ornament. Warm gold, cream and copper glow against deep red brown shadow. Light arrives from one upper side, tracing curved highlights before falling away gently. Fine decorative texture is concentrated along one edge and below the center, while the background stays dark and simple. The close composition and descending diagonal rhythm create quiet intimacy within a rich surface.",
+  "style_prompt_zh": "这种古典油画让浅色焦点平面接受柔和通透的塑造，周围装饰则由更繁复笔记构成。暖金、奶油色与铜色在深红棕阴影前发亮。光从上方一侧到来，沿曲面描出亮痕，再温和减弱。精细装饰纹理集中在一条边缘和中央下方，背景保持深暗简单。贴近的构图与下降斜线节奏使丰富表面内仍有安静亲密感。",
+  "theme_en": "A red-haired woman resting her cheek against her hand",
+  "theme_zh": "以手托腮的红发女子",
+  "wh_ratio": "1:1",
+  "id": "3202",
+  "name": "Frederic Leighton",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/frederic-leighton",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "c15e53f22bf9f6a0d4b7453b695f678f186c4ee953e5869d1983723f887078b4",
+    "gpt_submission_prompt": "A square classical oil painting brings a young woman close to the viewer in a quiet, reflective pose. She leans her cheek into one hand and lowers her eyes toward the left, with long copper hair falling over her shoulder. Her pale dress has a soft white neckline and a golden outer layer patterned with small floral marks. The shoulder and sleeve occupy much of the lower right, giving the composition a warm luminous mass beneath the gently modeled face. At the left edge, a vertical panel of elaborate gilded ornament rises beside her; the background behind her is deep red brown, barely revealing any room. Warm light from the upper left catches hair, forehead, cheek, lace and the gold textile. It falls more softly across her lowered eyelids and hand, then disappears into dark surrounding color. Fine brushwork makes the skin smooth and translucent, while the brocade and carved panel receive sharper, more intricate marks. Her posture creates a descending diagonal from the crown of the head to the resting hand and curved shoulder. There is no overt narrative event, only a pause held between rich decoration and inward attention. The restrained red, cream and gold palette makes the image intimate despite its ornamental detail. The shadowed frame keeps the calm face and fine fabric as the principal sources of light.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "e146538e72860d84255c1da8c1845d42edf4da6412e674ca83d3f4ac942451d4",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

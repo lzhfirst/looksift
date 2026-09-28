@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "This square painterly portrait shows a young woman from the chest upward in a dark interior beside a narrow, weathered wall. Her head and upper body fill most of the frame, leaving deep near-black shadow along the left side. She turns toward the right and looks beyond the visible edge, so her cheek and nose form a clear three-quarter profile against a warmer vertical strip. Golden-brown hair is braided across the crown and falls in a thicker braid along the left edge of the picture. A few softer strands curl around the temple and neck. The face is delicately modeled, with pale blue eyes, warm pink cheeks, and softly parted lips. Bright, warm light enters from the right. It touches the forehead, the far side of the nose, cheekbone, chin, neck, and raised strands of hair, while the left side of the head remains embedded in shadow. The narrow background strip looks like old plaster or stone, mottled with cream, ochre, and blue-gray patches; it gives the light a textured surface to strike. At the lower right, a blue-green garment carries small ornate gold and dark motifs. These decorative marks are denser than the smooth treatment of the face and link its cool cloth colors to the speckled wall. The image has an almost photographic crispness at the eyes and illuminated cheek, yet darker hair and background are merged by soft painterly transitions. The portrait feels hushed and attentive, with warm directional light drawing a gentle profile from a dense shadowed setting.",
+  "full_prompt_zh": "这幅方形绘画式肖像呈现一位年轻女性的胸部以上近景，身处幽暗室内，旁边是一道狭窄的斑驳墙面。她的头和上身占据画面大部，左侧留着近黑的深影。她转向右边，目光越过可见画边，面颊与鼻部因而在较暖的竖向区域前形成清楚的四分之三侧面。金棕色头发在头顶编成发辫，左边缘还有一束更厚的辫子垂下。几缕较软的发丝绕在太阳穴和颈边。面部塑造细致，浅蓝眼睛、泛粉的暖色双颊与微张嘴唇清晰可见。明亮暖光从右边进入，落在前额、鼻部远侧、颧骨、下巴、颈部与凸起的发丝上，头部左侧则嵌在阴影里。狭窄的背景看起来像旧灰泥或石面，奶油、赭黄与蓝灰斑块交错，为光提供带纹理的承接面。右下方蓝绿色衣物上有细小的金色与深色装饰纹样。这些纹样比平滑的面部更密，也让冷调布色与斑驳墙面相连。眼睛与受光面颊近乎有摄影般的清晰，而深发与背景通过柔和的绘画过渡融合。整幅肖像安静而专注，暖色定向光从浓厚的暗处引出温柔的侧面。",
+  "style_prompt_en": "Painterly realism pairs precise focal detail with deep areas of softened darkness. Warm directional light picks out smooth planes and narrow high points, while broad shadow merges neighboring forms without erasing their volume. Ochre and gold highlights meet blue-green and blue-gray notes in a restrained, low-key palette. Ornate, finely patterned zones and weathered mottling contrast with comparatively smooth central modeling. Edges alternate between sharp luminous accents and dark lost contours, giving a shallow composition a quiet sense of depth. The effect is intimate, slightly romantic, and richly tactile without becoming uniformly ornate.",
+  "style_prompt_zh": "绘画式写实让精确的焦点细节与大片柔化的深暗区域并存。暖色定向光挑出平滑平面和狭窄高点，宽阔阴影则使相邻形体融合而不抹去体积。赭黄与金色高光在克制的低明度色盘中遇到蓝绿和蓝灰。精细装饰纹区与风化斑驳质地，同相对平滑的中央塑造形成反差。边缘在清亮的锐利重音与隐入暗色的轮廓之间交替，使浅空间也具有安静纵深。效果亲近、略带浪漫气息，触感丰厚却不处处繁饰。",
+  "theme_en": "A braided young woman turning toward warm light beside a weathered wall",
+  "theme_zh": "编发年轻女性在斑驳墙边转向暖光",
+  "wh_ratio": "1:1",
+  "id": "0813",
+  "name": "Helene Beland",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/helene-beland",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/helene-beland.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "4151a56a288b34e05e73efe06b2df87d66acc0ea9175653ba5aa058572c63606",
+    "gpt_submission_prompt": "This square painterly portrait shows a young woman from the chest upward in a dark interior beside a narrow, weathered wall. Her head and upper body fill most of the frame, leaving deep near-black shadow along the left side. She turns toward the right and looks beyond the visible edge, so her cheek and nose form a clear three-quarter profile against a warmer vertical strip. Golden-brown hair is braided across the crown and falls in a thicker braid along the left edge of the picture. A few softer strands curl around the temple and neck. The face is delicately modeled, with pale blue eyes, warm pink cheeks, and softly parted lips. Bright, warm light enters from the right. It touches the forehead, the far side of the nose, cheekbone, chin, neck, and raised strands of hair, while the left side of the head remains embedded in shadow. The narrow background strip looks like old plaster or stone, mottled with cream, ochre, and blue-gray patches; it gives the light a textured surface to strike. At the lower right, a blue-green garment carries small ornate gold and dark motifs. These decorative marks are denser than the smooth treatment of the face and link its cool cloth colors to the speckled wall. The image has an almost photographic crispness at the eyes and illuminated cheek, yet darker hair and background are merged by soft painterly transitions. The portrait feels hushed and attentive, with warm directional light drawing a gentle profile from a dense shadowed setting.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "251d1197735bbc2960ffd2002044f0203ba899fa4f6ed51c2c8fdb4f0d6e4b95",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

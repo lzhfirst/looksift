@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square painterly creature illustration shows a small pale fantasy animal peering out from dark grass at night. The subject sits close to the center and fills much of the vertical space, its rounded head raised above a short broad body. Two large glossy black eyes catch small cream highlights and look straight outward. A low curved mouth line and tiny nostrils give the face a gentle, watchful expression. Short pointed spikes rise along the top of the head, while small finlike ears extend from both sides with muted rose inner color. Its pale bone-colored face passes into cool blue-green along the neck and body. One forelimb reaches into the foreground at the lower right, ending in small curved claws partly hidden by leaves and grass. Dark teal foliage surrounds the creature on three sides, with narrow grass blades crossing the right edge and broad overlapping leaves at the bottom. The background recedes into a near-black blue-green field, so the pale head becomes the clear focus. Brush marks are soft and layered on the rounded body, while fine sketch lines pick out spikes, claws, leaf edges, and individual stems. A dim cool light falls from above and slightly left, brightening the forehead and eyes; the lower torso and surrounding plants remain in deep velvety shadow. The overall composition is intimate and curious, balancing a softly luminous unusual form against dense, tactile nocturnal foliage.",
+  "full_prompt_zh": "这是一幅方形绘画式生物插画，一只浅色奇幻小动物在夜里的深草中探头。主体靠近中央，占据画面大部分高度，圆头抬在短而宽的身体上方。两只大而光亮的黑眼睛接住奶油色小高光，直直望向外面。低低弯曲的嘴线和小鼻孔让面容显得温和而警觉。短尖刺沿头顶竖起，两侧伸出小鳍状耳朵，内侧带低调玫瑰色。浅骨白色面部向颈部和身体过渡成冷蓝绿色。一只前肢伸向右下前景，末端小弯爪部分藏在叶与草之间。深青绿色枝叶从三侧围住小生物，细草叶穿过右边，宽阔叶片在下方层层叠压。背景退入近黑的蓝绿色域，使浅色头部成为清楚焦点。圆润身体上的笔痕柔和而层叠，纤细草图线则点出尖刺、爪、叶边和单根茎秆。微弱冷光从上方略偏左落下，提亮额头与眼睛；下方躯干和周围植物保留在深而柔软的阴影中。整体构图贴近而富于好奇感，以柔光下不寻常的形体平衡浓密可触的夜色枝叶。",
+  "style_prompt_en": "The illustration mixes softly modeled digital-paint or watercolor-like masses with fine sketch lines and a worn paper edge. Bone cream and muted rose highlights stand out against deep teal, blue-green, and near-black passages. Rounded luminous focal shapes are surrounded by layered narrow marks and broader irregular patches, concentrating detail at the center while keeping the background dark. Edges shift between feathered pigment and precise drawn accents, so the finish feels tactile rather than slick. Small glossy highlights puncture the low light, while a cool upper-side glow fades rapidly into velvety shadow. The arrangement is close and slightly mysterious, with a gentle character emerging from dense organic texture.",
+  "style_prompt_zh": "这种插画把柔和塑形的数字绘画或水彩般色团与细草图线、磨旧纸边结合。骨白与低调玫瑰色高光从深青、蓝绿和近黑区域前显出。圆润发光的焦点形状被层叠细线与更宽不规则色斑环绕，使细节集中在中央，背景保持深暗。边缘在晕开的颜料与精确描绘强调之间变化，完成面因而可触而非光滑。低照度里少量光亮高光跳出，冷调上侧光迅速衰减为柔软深影。安排贴近且略神秘，温和性格从浓密有机肌理中浮现。",
+  "theme_en": "A small pale fantasy creature peering out from dark grass",
+  "theme_zh": "一只浅色奇幻小生物从深草中探出",
+  "wh_ratio": "1:1",
+  "id": "2372",
+  "name": "Aaron Blaise",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/aaron-blaise",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/aaron-blaise.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "f6d01ee34602857b4b15ac761464f7fdf66a8e0d5b28ac917b91f94524c945f1",
+    "gpt_submission_prompt": "A square painterly creature illustration shows a small pale fantasy animal peering out from dark grass at night. The subject sits close to the center and fills much of the vertical space, its rounded head raised above a short broad body. Two large glossy black eyes catch small cream highlights and look straight outward. A low curved mouth line and tiny nostrils give the face a gentle, watchful expression. Short pointed spikes rise along the top of the head, while small finlike ears extend from both sides with muted rose inner color. Its pale bone-colored face passes into cool blue-green along the neck and body. One forelimb reaches into the foreground at the lower right, ending in small curved claws partly hidden by leaves and grass. Dark teal foliage surrounds the creature on three sides, with narrow grass blades crossing the right edge and broad overlapping leaves at the bottom. The background recedes into a near-black blue-green field, so the pale head becomes the clear focus. Brush marks are soft and layered on the rounded body, while fine sketch lines pick out spikes, claws, leaf edges, and individual stems. A dim cool light falls from above and slightly left, brightening the forehead and eyes; the lower torso and surrounding plants remain in deep velvety shadow. The overall composition is intimate and curious, balancing a softly luminous unusual form against dense, tactile nocturnal foliage.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "81b274b6a09ae1356e02cb6ad3d8529d62676eacd3cbf21cbd494da370781d06",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

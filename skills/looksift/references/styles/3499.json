@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "The finished square is a tightly cropped monochrome pen-and-ink drawing of three formally dressed travelers. An older man with a narrow moustache, hat, coat and dark tie stands at the left rear; his face is partly hidden by the other two figures. In the middle, a young woman looks slightly upward and to the right, her wide light eyes and softly parted lips carrying an alert, uncertain expression. A broad brim or dark hat mass crosses above her forehead, throwing a band of shadow across the upper face. At the right foreground, another man appears in emphatic profile, his large nose, pursed mouth and pale hat brim cut by the frame edge. Their faces crowd one another with no open landscape behind them; the dramatic event they observe remains entirely outside the picture. The drawing uses extremely fine black hatching and stipple to describe cheek planes, eyelids, moustache, hat felt and clothing, while broad untouched white paper keeps the faces luminous. Dark areas collect in the overlapping hats and between the heads, creating shallow but forceful depth. The contrast is graphic rather than atmospheric, with no color and no soft digital blur. Each profile has a different directional pull, yet their eyes converge toward the unseen right side. A slim enclosing ink border and slight paper grain give the image the character of an old printed story illustration. The close compression and exact facial linework turn a moment of looking into the entire narrative.",
+  "full_prompt_zh": "成品正方形是一幅紧密裁切的黑白钢笔画，表现三位穿着正式的旅人。左后方一位年长男子有窄胡须，戴帽、穿外套和深色领带，面容被另两人部分挡住。中间的年轻女子略向右上望，浅色大眼与微张的嘴唇带着警觉而不确定的神情。宽帽檐或深色帽形从她额头上方横过，在上半张脸投出一条暗带。右侧前景的另一位男子是突出的侧影，大鼻、紧抿嘴唇和浅色帽檐被画框截断。三张脸彼此拥挤，身后没有展开的风景；他们观看的戏剧性事件完全留在画外。画面以极细黑色排线与点描塑造脸颊、眼睑、胡须、帽毡和衣物，大片未经着墨的白纸则使面孔发亮。深色聚集在重叠帽子和头部之间，形成浅却有力的空间纵深。对比是图形化的，没有色彩或柔软的数字模糊。各个侧影有不同的方向牵引，目光却都收向不可见的右侧。纤细墨框和轻微纸面颗粒赋予画面旧式印刷故事插画气质。紧凑的挤压和准确的人脸线条，把一个凝望瞬间变成完整叙事。",
+  "style_prompt_en": "Monochrome pen-and-ink illustration relies on hairline contours, fine parallel hatching, stipple, broad white paper reserves and dense black overlaps. A tight printed border and faint paper grain reinforce an old storybook surface. Compressed foreground scale and directional gazes generate narrative tension through graphic contrast and exact linework rather than color or soft blur.",
+  "style_prompt_zh": "黑白钢笔插画依靠细如发丝的轮廓、密排平行线、点描、大面积白纸留空和重叠处的浓黑。紧凑印刷边框与淡纸张颗粒强化旧故事书表面。被压缩的前景尺度和有方向的视线，通过图形对比与准确线条产生叙事张力，而不依赖色彩或柔焦。",
+  "theme_en": "Three formally dressed travelers staring toward an unseen spectacle",
+  "theme_zh": "三位正装旅人凝视画外奇观",
+  "wh_ratio": "1:1",
+  "id": "3499",
+  "name": "Winsor McCay",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/winsor-mccay",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "2819c35203968081c4265bcf8b9b2389ccb25e7ca3663fb4a6ec0b2a114a8f86",
+    "gpt_submission_prompt": "The finished square is a tightly cropped monochrome pen-and-ink drawing of three formally dressed travelers. An older man with a narrow moustache, hat, coat and dark tie stands at the left rear; his face is partly hidden by the other two figures. In the middle, a young woman looks slightly upward and to the right, her wide light eyes and softly parted lips carrying an alert, uncertain expression. A broad brim or dark hat mass crosses above her forehead, throwing a band of shadow across the upper face. At the right foreground, another man appears in emphatic profile, his large nose, pursed mouth and pale hat brim cut by the frame edge. Their faces crowd one another with no open landscape behind them; the dramatic event they observe remains entirely outside the picture. The drawing uses extremely fine black hatching and stipple to describe cheek planes, eyelids, moustache, hat felt and clothing, while broad untouched white paper keeps the faces luminous. Dark areas collect in the overlapping hats and between the heads, creating shallow but forceful depth. The contrast is graphic rather than atmospheric, with no color and no soft digital blur. Each profile has a different directional pull, yet their eyes converge toward the unseen right side. A slim enclosing ink border and slight paper grain give the image the character of an old printed story illustration. The close compression and exact facial linework turn a moment of looking into the entire narrative.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "820af4132fe34fbb0ace11abf0af997d18a5c58402a0b20dc8a2e81f3b23d044",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square painterly harbor scene looks down a narrow canal lined with old wooden and stone buildings. Several small boats crowd the foreground and middle water, their dark hulls holding groups of figures. The closest boat sits on the right, with another crossing the left foreground. Buildings lean toward the channel from both sides, their roofs, chimneys and narrow facades receding to a pale blue distance. A tall vertical mast and several spires break the sky near the center. The water is deep blue green, broken by short dark ripples and bright reflected strokes beneath the boats. Sunlight enters from the upper left, catching the right-hand roofs and patches of the water while leaving the nearest building fronts in cooler shadow. Smoke or mist softens the far end of the canal. The paint is loose but descriptive: broad strokes establish architecture, and small dark dabs suggest figures and boat gear. Warm ochre and reddish brown walls contrast with clear blue sky and water. The viewpoint is slightly elevated, allowing the viewer to see the busy traffic and the channel's tapering perspective. The composition draws the eye along the central water corridor, while irregular building silhouettes keep the sides lively. It feels like a crowded working waterfront observed in bright but hazy daylight.",
+  "full_prompt_zh": "这幅方形绘画式港口场景沿一条夹在旧木石建筑间的窄运河看去。几条小船挤在前景和中景水面，深色船壳载着一组组人。最近一条在右侧，另一条横过左前。两岸建筑朝水道倾近，屋顶、烟囱和狭窄立面向浅蓝远方退去。高竖桅杆和数座尖塔在中央附近打断天空。水呈深蓝绿，由短暗水纹和船下明亮倒影笔触打破。阳光从左上进入，照亮右岸屋顶与水面几块区域，近处建筑正面仍在较冷阴影里。烟或雾柔化运河远端。颜料松散却有描述力：宽笔建立建筑，小暗点暗示人物和船上装备。暖赭与赤棕墙面对照清蓝天空和水。视点稍高，可以看到繁忙交通和水道收窄透视。构图引导目光沿中央水廊走远，不规则建筑剪影使两侧活跃。它像在明亮却有雾的日光下观察拥挤劳作港岸。",
+  "style_prompt_en": "The painterly image uses loose descriptive strokes and a deep central perspective. Clear blue and blue green passages contrast with warm ochre, rust and shadowed charcoal. Directional daylight catches upper planes and broken reflective marks, while far edges soften in haze. Short dabs give the crowded middle distance movement without spelling out every detail. Vertical accents rise from long receding bands, creating lively depth and an observed, working atmosphere.",
+  "style_prompt_zh": "这种绘画图像使用松散而有描述力的笔触与深远中央透视。清蓝和蓝绿色段落对照暖赭、锈色与阴影炭色。定向日光照到上方平面和断续反光笔记，远处边缘在雾中柔化。短色点让繁忙中景有运动感，而无需逐一说明细节。竖向点缀从长长后退的色带中升起，创造活跃深度与观察到的劳作气息。",
+  "theme_en": "Small boats along a sunlit canal lined with old houses",
+  "theme_zh": "阳光旧屋夹岸的运河上的小船",
+  "wh_ratio": "1:1",
+  "id": "4209",
+  "name": "Ernest Hamlin Baker",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/ernest-hamlin-baker.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "accdb2b832a6daedd0840b0ebe84774047e766727c55bc710e51ba652dffe83a",
+    "gpt_submission_prompt": "A square painterly harbor scene looks down a narrow canal lined with old wooden and stone buildings. Several small boats crowd the foreground and middle water, their dark hulls holding groups of figures. The closest boat sits on the right, with another crossing the left foreground. Buildings lean toward the channel from both sides, their roofs, chimneys and narrow facades receding to a pale blue distance. A tall vertical mast and several spires break the sky near the center. The water is deep blue green, broken by short dark ripples and bright reflected strokes beneath the boats. Sunlight enters from the upper left, catching the right-hand roofs and patches of the water while leaving the nearest building fronts in cooler shadow. Smoke or mist softens the far end of the canal. The paint is loose but descriptive: broad strokes establish architecture, and small dark dabs suggest figures and boat gear. Warm ochre and reddish brown walls contrast with clear blue sky and water. The viewpoint is slightly elevated, allowing the viewer to see the busy traffic and the channel's tapering perspective. The composition draws the eye along the central water corridor, while irregular building silhouettes keep the sides lively. It feels like a crowded working waterfront observed in bright but hazy daylight.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "c776b7afc50731c37942ddafa911992a15bd9694433ce3c2430887baa440d9cd",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

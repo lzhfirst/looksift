@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square staged color photograph shows a blonde woman standing on a barren roadside in front of a cream travel trailer. She wears a sharp red skirt suit, light stockings, and narrow heels, holding a boxy brown suitcase at her side. Large dark sunglasses and carefully set short curls give her a composed mid-century appearance. Three men in dark and tan suits stand spaced around the trailer behind her, each facing forward with almost motionless formality. The open desert stretches flat behind them, with low mountains at the horizon and an unbroken deep teal sky occupying the upper half. Midday sun is hard and low enough to cast long defined shadows toward the right foreground, outlining every shoe, bag, and body on the dusty ground. Color is highly controlled: burnt red becomes the focal block against pale sand, cream metal, dark suits, and green-blue sky. The figures seem deliberately placed rather than caught by chance. The trailer's rounded rectangle and the repeated vertical human silhouettes make a simple theatrical set. The woman's central stance is calm, yet the separation of the silent men gives the scene a subtle tension. The overall image has crisp cinematic realism, vintage styling, and a surreal sense of narrative suspended before something happens.",
+  "full_prompt_zh": "一幅方形摆拍彩色照片描绘一位金发女子站在荒凉路边的奶油色旅行拖车前。她穿剪裁利落的红色套裙、浅丝袜和细跟鞋，侧手提一只方形棕手箱。深色大墨镜和精心整理的短卷发令她有二十世纪中叶的沉稳外观。三位穿深色与棕色西装的男子分散站在她身后拖车周围，各自正面朝外，姿态近乎静止。开阔沙漠在身后平展，低山压在地平线，完整深青绿天空占据上半幅。正午日光坚硬且角度足以把长而清楚的影子投向右前方，在尘土上勾出每只鞋、手箱与身体。色彩高度受控：焦红在浅沙、奶油金属、深西服与蓝绿天前成为焦点。人物似被刻意放置，而非偶然抓拍。拖车的圆角长方形与重复竖向人影构成简单戏剧布景。女子中央站姿平静，沉默男子之间的距离却让场景微有紧张。整体具有清晰电影写实、复古造型与故事悬停未发的超现实感。",
+  "style_prompt_en": "Staged color photography uses crisp cinematic realism and precisely separated figures within a spare landscape. Burnt red and cream stand against dusty tan, black, and a dense green-blue sky. Hard side daylight produces clean long shadows and sharply defined objects. Mid-century styling and deliberate spacing make ordinary forms feel theatrically arranged. Smooth unbroken color fields contrast with gritty ground texture. The horizon sits low, giving the open sky large visual weight. The mood is composed, cool, and quietly uncanny, as though a narrative has paused at one exact moment.",
+  "style_prompt_zh": "摆拍彩色摄影在简省景观中运用清晰电影写实与精确分开的形体。焦红和奶油对照尘土棕、黑与浓蓝绿天空。坚硬侧日光投出干净长影，使物体轮廓明确。二十世纪中叶造型和刻意间距令普通形体仿佛戏剧安排。平滑不断的色面与粗粒地面肌理对照。低地平线赋予开阔天空大视觉重量。气氛沉稳、冷静且安静奇异，好像故事在一个精确时刻暂停。",
+  "theme_en": "A blonde woman in a red suit standing beside a travel trailer",
+  "theme_zh": "旅行拖车旁站着的红衣金发女子",
+  "wh_ratio": "1:1",
+  "id": "3856",
+  "name": "Alex Prager",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/alex-prager",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "ae309eab962904a0a9dcb9e0ffe591833322c14b22c0515a6c294436e2acf5ef",
+    "gpt_submission_prompt": "A square staged color photograph shows a blonde woman standing on a barren roadside in front of a cream travel trailer. She wears a sharp red skirt suit, light stockings, and narrow heels, holding a boxy brown suitcase at her side. Large dark sunglasses and carefully set short curls give her a composed mid-century appearance. Three men in dark and tan suits stand spaced around the trailer behind her, each facing forward with almost motionless formality. The open desert stretches flat behind them, with low mountains at the horizon and an unbroken deep teal sky occupying the upper half. Midday sun is hard and low enough to cast long defined shadows toward the right foreground, outlining every shoe, bag, and body on the dusty ground. Color is highly controlled: burnt red becomes the focal block against pale sand, cream metal, dark suits, and green-blue sky. The figures seem deliberately placed rather than caught by chance. The trailer's rounded rectangle and the repeated vertical human silhouettes make a simple theatrical set. The woman's central stance is calm, yet the separation of the silent men gives the scene a subtle tension. The overall image has crisp cinematic realism, vintage styling, and a surreal sense of narrative suspended before something happens.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "a1f330a7b18c05a4e1ea199351aa276a95d9a1c57de36bb43ab9f05d1ca42558",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

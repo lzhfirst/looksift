@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square painting shows a young woman seated with her hands folded in her lap amid a fantastically dense garden of oversized flowers. She has straight black hair with a blunt fringe and looks to the left with a quiet, thoughtful expression. A pale high-collared blouse carries a small cluster of painted blossoms, while a dark skirt is sprinkled with tiny multicolored floral marks. Cool lavender stockings appear beneath its hem. Behind her, huge discs of yellow, blue and peach flowers overlap smaller blooms, stems and foliage until very little empty ground remains. The leaves and blossoms are assembled from short, broken strokes and irregular dots rather than smooth botanical description. Colors shift rapidly among turquoise, violet, acid green, butter yellow, orange and rose pink, yet the woman's dark hair and skirt hold the busy field together. Her realistic face and carefully posed hands have firmer edges than the surrounding vegetation, creating a calm focal point within the decorative abundance. The paint surface suggests layered marks and lightly speckled texture throughout. The composition feels both like a portrait and a patterned tapestry: its shallow space presses the garden forward, while a few slender blue trunks hint at depth. The atmosphere is gentle, dreamlike and slightly uncanny because natural scale gives way to color and repetition.",
+  "full_prompt_zh": "一幅正方形绘画呈现一位年轻女子坐在绚密花园里，双手交叠置于膝上，周围是尺寸夸张的花朵。她留着齐刘海直黑发，安静而若有所思地望向左侧。浅色高领上衣绘有一小簇花，深色裙子散布细小多色花纹，裙摆下露出淡紫色袜子。身后的黄、蓝、桃色大花盘与较小花、茎和叶层层叠压，几乎没有空地。叶片和花朵由短而断续的笔触及不规则色点拼成，而非平滑的植物学描写。颜色在青绿、紫、亮绿、奶黄、橘与玫粉之间迅速转换，女子的深发与深裙却稳住了繁忙色场。相较周围植被，她写实的面容和仔细摆放的双手边缘更明确，使装饰丰盛的画面保留宁静焦点。整个颜料表面可见层叠痕迹与轻微斑点。构图既像肖像也像图案织毯：浅空间把花园推向前方，几根细蓝树干又暗示深度。气氛温柔、梦幻且略显诡异，因为自然尺度让位于色彩与重复。",
+  "style_prompt_en": "The style combines a comparatively precise central focal area with a dense, shallow field of decorative marks. Short broken strokes, stippled color and overlapping irregular patches produce a woven, painterly surface. An exuberant palette moves among cool turquoise and violet and warm yellow, coral and orange. Large repeated shapes mix with many miniature accents, compressing depth into pattern. Dark values stabilize the composition while pale highlights and crisp local contours preserve a readable visual hierarchy. The mood is tender and dreamlike.",
+  "style_prompt_zh": "这种风格把相对精确的中央焦点与密集、浅平的装饰色痕结合起来。短而断续的笔触、点状色彩和彼此交叠的不规则色块形成如织物般的绘画表面。丰盛色谱在青绿、紫色的冷调与黄色、珊瑚色、橘色的暖调间移动。重复的大形状混合许多微小重音，使深度压缩成图案。深色明度稳住构图，浅色高光与局部清楚轮廓保留可读层次。气氛温柔而梦幻。",
+  "theme_en": "A seated young woman in a fantastically dense flower garden",
+  "theme_zh": "坐在绚密花园中的年轻女子",
+  "wh_ratio": "1:1",
+  "id": "4162",
+  "name": "Naomi Okubo",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/naomi-okubo.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "c016b1f2f096552e21b906a2eb335a1377c3a4e4b0cce8657b717a3709448812",
+    "gpt_submission_prompt": "A square painting shows a young woman seated with her hands folded in her lap amid a fantastically dense garden of oversized flowers. She has straight black hair with a blunt fringe and looks to the left with a quiet, thoughtful expression. A pale high-collared blouse carries a small cluster of painted blossoms, while a dark skirt is sprinkled with tiny multicolored floral marks. Cool lavender stockings appear beneath its hem. Behind her, huge discs of yellow, blue and peach flowers overlap smaller blooms, stems and foliage until very little empty ground remains. The leaves and blossoms are assembled from short, broken strokes and irregular dots rather than smooth botanical description. Colors shift rapidly among turquoise, violet, acid green, butter yellow, orange and rose pink, yet the woman's dark hair and skirt hold the busy field together. Her realistic face and carefully posed hands have firmer edges than the surrounding vegetation, creating a calm focal point within the decorative abundance. The paint surface suggests layered marks and lightly speckled texture throughout. The composition feels both like a portrait and a patterned tapestry: its shallow space presses the garden forward, while a few slender blue trunks hint at depth. The atmosphere is gentle, dreamlike and slightly uncanny because natural scale gives way to color and repetition.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "1077c345159dafcd945b6de4b223d6cf1219424355a5d3ac1330c579efa9847c",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

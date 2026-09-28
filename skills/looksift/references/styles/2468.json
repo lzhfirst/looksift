@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "An intimate Impressionist oil painting shows a young girl seated in a rounded, warm orange upholstered chair. She wears a dark high-neck dress with softly puffed sleeves and delicate sheer fabric at the wrists. Her brown hair is drawn back with a small dark blue ribbon, leaving a few wisps near her cheek. Resting her chin on one hand, she looks down and to the left with a quiet, absorbed expression. The chair curves around her shoulders like a broad ocher halo, while a pale wall behind it carries loose traces of floral color—lavender, muted green, peach, and cream. The composition is close, cropping below the waist so the girl's posture and slight tilt of the head dominate. Warm light grazes her forehead, nose, cheek, and hand, while the dress forms a dense blue-black center with visible folds and brush texture. The chair is painted in broader sweeps of russet and golden brown, and the wall breaks into thin, lively touches rather than precise pattern. Edges around the dark clothing are partly lost against shadow, whereas the lit face remains softly modeled and clear. The painting balances a restrained inner mood with active surface handling. Its warmth comes from the upholstery and skin against the dark dress, and its stillness from the small, unforced gesture of leaning into the hand.",
+  "full_prompt_zh": "一幅亲近的印象派油画，描绘一位年轻女孩坐在圆弧形的暖橙色软椅里。她穿深色高领裙，袖肩柔和鼓起，手腕处有纤细半透明布料。棕色头发向后束起，系一小段深蓝丝带，面颊边留下几缕细发。她一只手托着下巴，向左下方望去，神情安静而沉浸。椅背像宽大的赭色光环围住肩膀，后方浅色墙上留有松散的花卉色痕：淡紫、低调绿、桃色和奶油白。构图贴近，在腰部以下裁断，让姿态和头部轻微倾斜占据重点。暖光掠过额头、鼻梁、面颊和手，裙子则形成浓重的蓝黑色中心，褶皱与笔触纹理可见。椅子用更宽的赤褐和金棕笔扫出，墙面化成细小活泼的色点，而非准确的图案。深衣物周围的边缘有些融进阴影，受光面孔则柔和塑造、保持清楚。绘画以内敛的内心情绪平衡活跃的表面处理。温度来自软椅与皮肤对深色衣裙的衬托，静止感则来自倚在手上的不刻意小动作。",
+  "style_prompt_en": "Intimate Impressionist oil painting with soft modeling on a clear central form and lively broken strokes in surrounding surfaces. Warm ocher, russet, peach, lavender, and cream frame a dense blue-black mass. Light touches a few curved planes and small pale accents, while darker fabriclike areas retain visible folds and brush texture. Broad sweeps make the near background rounded and enveloping; finer scattered marks animate the pale rear field. Some edges dissolve into shadow, others remain gently defined. The mood is quiet and reflective, carried by warm-cool balance and tactile, unpolished paint.",
+  "style_prompt_zh": "亲近的印象派油画风格，清楚的中心形态以柔和明暗塑造，周围表面则由活跃的断续笔触构成。暖赭、赤褐、桃色、淡紫和奶油色围住浓重蓝黑体块。光碰到少数弯曲平面和浅色小点，较暗的布料般区域仍可见褶皱与笔触。宽笔扫出近处包围性的圆弧背景，细碎色痕使后方浅色区域活跃。部分边缘融进阴影，另一些温和界定。气氛安静而沉思，由冷暖平衡与可触、不刻意磨平的颜料承载。",
+  "theme_en": "A thoughtful girl in black seated against a warm upholstered chair",
+  "theme_zh": "黑衣女孩倚着暖色软椅沉思",
+  "wh_ratio": "1:1",
+  "id": "2468",
+  "name": "Mary Cassatt",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/mary-cassatt",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/mary-cassatt.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "1705627463319edbfc9d814b1039c4c98018fe8b1dc45d0fdde107e6b4a57fa0",
+    "gpt_submission_prompt": "An intimate Impressionist oil painting shows a young girl seated in a rounded, warm orange upholstered chair. She wears a dark high-neck dress with softly puffed sleeves and delicate sheer fabric at the wrists. Her brown hair is drawn back with a small dark blue ribbon, leaving a few wisps near her cheek. Resting her chin on one hand, she looks down and to the left with a quiet, absorbed expression. The chair curves around her shoulders like a broad ocher halo, while a pale wall behind it carries loose traces of floral color—lavender, muted green, peach, and cream. The composition is close, cropping below the waist so the girl's posture and slight tilt of the head dominate. Warm light grazes her forehead, nose, cheek, and hand, while the dress forms a dense blue-black center with visible folds and brush texture. The chair is painted in broader sweeps of russet and golden brown, and the wall breaks into thin, lively touches rather than precise pattern. Edges around the dark clothing are partly lost against shadow, whereas the lit face remains softly modeled and clear. The painting balances a restrained inner mood with active surface handling. Its warmth comes from the upholstery and skin against the dark dress, and its stillness from the small, unforced gesture of leaning into the hand.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "aabb7c6be6ab569d1dbc2c28a5a8af49a34c0116796e25e1bd289639459e3463",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

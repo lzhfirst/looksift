@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square comic collage fills the frame with overlapping portraits and small story panels. At upper left, a fair-haired young woman in a dark red top rests her chin on her hand amid a busy wall of clipped comic pages. Her blue eyes look sideways, and a dark ribbon gathers her hair. An enlarged close-up of a fair-haired young man's blue eyes dominates the upper right; rough pink and yellow print marks streak across his nose and cheek, while his hand props up his face. Below, a turquoise-haired woman in rounded amber glasses looks outward from the lower left. A dark-haired woman with black rectangular glasses fills the lower right, her face rendered in pale cream with heavy black shapes. Between these large faces, narrow monochrome panels show several figures, interiors, and street fragments at a much smaller scale. Page borders, torn-looking overlaps, speechless narrative fragments, and a bright angular yellow-blue comic burst make the arrangement feel like a wall of collected panels. The art mixes confident black ink contours, scratchy crosshatching, smooth pale skin planes, halftone grain, and distressed printed color. The palette alternates warm sepia and black with sharp teal, red, cyan, and yellow accents. Large faces interrupt the miniature scenes, creating an energetic rhythm of close detail and crowded visual evidence. The light is graphic and flat, with deep ink shadows rather than realistic atmospheric depth.",
+  "full_prompt_zh": "一幅方形漫画拼贴以相互叠压的肖像和小型故事画格填满画面。左上，一名浅发年轻女子穿深红上衣，在密集剪贴漫画页前用手托腮。她的蓝眼睛侧望，深色丝带束起头发。浅发年轻男子蓝眼睛的放大特写占据右上；粗粝粉红与黄色印痕横过他的鼻梁和脸颊，一只手支着脸。下方，戴琥珀色圆框眼镜的青绿色头发女子从左下向外看。戴黑色矩形眼镜的黑发女子填满右下，面容以浅奶油色与厚重黑色块绘出。大面孔之间的狭窄单色画格，以远小得多的尺度呈现数个人物、室内和街景片段。画格边框、如撕贴般的交叠、无对白的叙事片段，以及黄蓝相间的明亮棱角漫画爆炸图形，使整幅画仿佛一墙收集的画格。画法混合自信的黑墨轮廓、粗细交错的排线、平滑浅色肤面、网点颗粒和磨损的印刷色。配色在暖深褐与黑色之间交替，并用鲜明青绿、红、青蓝和黄色点缀。大面孔打断微小场景，形成近景细节与密集视觉线索的活跃节奏。光线具有平面图形感，由浓黑墨影塑形，而非真实大气纵深。",
+  "style_prompt_en": "A layered comic-page collage combines enlarged graphic forms with many smaller framed fragments. Confident black ink contours and scratchy crosshatching meet smooth pale color planes, worn halftone dots, torn-paper seams, and distressed print flecks. Warm sepia and charcoal hold the base palette, interrupted by saturated turquoise, brick red, cyan, and acid yellow. Large cropped shapes overlap compact monochrome vignettes, creating a lively alternation of visual scale. Edges shift between razor-sharp ink, rubbed grain, and rough cutout borders. Lighting is mostly flat and printed, while dense black shadow pockets add force without deep atmospheric perspective. The surface feels assembled, tactile, energetic, and slightly weathered.",
+  "style_prompt_zh": "层叠漫画页拼贴把放大的图形体量与许多较小的有框片段结合。自信的黑墨轮廓、粗细交错的排线，与平滑浅色平面、磨损的网点、撕纸接缝和斑驳印痕相接。暖深褐与炭黑托住基础色域，高饱和青绿、砖红、青蓝和酸黄色穿插其间。宽大的裁切形状覆盖紧凑单色小画格，形成活泼的尺度交替。边缘在锋利墨线、擦磨颗粒和粗糙剪贴边界之间变化。光影主要呈平面印刷感，密集黑色暗块增强力度，却不形成深远大气透视。表面有拼装的触感，活跃而略带旧痕。",
+  "theme_en": "A comic collage of expressive young faces and small urban story panels",
+  "theme_zh": "富有表情的年轻面孔与城市故事小画格拼贴",
+  "wh_ratio": "1:1",
+  "id": "4334",
+  "name": "Comic book style",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/comic-book-style.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "7128bc212850fea3cc61969cc97f276a4eb9e67ee85af5c04327d94e4e2ccd00",
+    "gpt_submission_prompt": "A square comic collage fills the frame with overlapping portraits and small story panels. At upper left, a fair-haired young woman in a dark red top rests her chin on her hand amid a busy wall of clipped comic pages. Her blue eyes look sideways, and a dark ribbon gathers her hair. An enlarged close-up of a fair-haired young man's blue eyes dominates the upper right; rough pink and yellow print marks streak across his nose and cheek, while his hand props up his face. Below, a turquoise-haired woman in rounded amber glasses looks outward from the lower left. A dark-haired woman with black rectangular glasses fills the lower right, her face rendered in pale cream with heavy black shapes. Between these large faces, narrow monochrome panels show several figures, interiors, and street fragments at a much smaller scale. Page borders, torn-looking overlaps, speechless narrative fragments, and a bright angular yellow-blue comic burst make the arrangement feel like a wall of collected panels. The art mixes confident black ink contours, scratchy crosshatching, smooth pale skin planes, halftone grain, and distressed printed color. The palette alternates warm sepia and black with sharp teal, red, cyan, and yellow accents. Large faces interrupt the miniature scenes, creating an energetic rhythm of close detail and crowded visual evidence. The light is graphic and flat, with deep ink shadows rather than realistic atmospheric depth.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "6fac7f3fc66bb659dce89388f56096dd8849261c91ebea89e4927ffcbee6d927",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

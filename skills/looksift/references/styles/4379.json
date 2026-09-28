@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square Art Nouveau illustration shows a red-haired woman seated beside a lion within a richly patterned garden. She wears a deep plum-red gown with pale sleeves, and long copper curls fall over her shoulder. Her face tilts upward toward the right while one hand rests on her knee and another holds a thin upright staff or stem. The lion's golden head occupies the left foreground, its mane rendered in curled lines and layered ochre forms. Behind both, a large round blue-and-gold ornamental frame encloses birds, leaves, and winding stems. Every edge of the image is crowded with autumnal foliage, intricate curves, and small natural forms, yet the woman's pale face and the lion's profile remain readable. The palette mixes teal blue, golden ochre, russet, plum, cream, and olive. Fine black outlines keep colored areas distinct, and patterned hatching gives fabric, mane, and leaves a tactile rhythm. The space is shallow and almost tapestry-like rather than a deep landscape. Light is even and decorative, with small cream highlights on skin, fur, and embroidered folds. The composition is calm but elaborate, arranging animal, human, and vegetation into one continuous ornamental system. The whole image feels mythical, handcrafted, and richly narrative.",
+  "full_prompt_zh": "一幅方形新艺术风格插画描绘一位红发女子坐在华丽花园中狮子旁。她穿深梅红裙，袖子浅色，长铜卷发垂过肩。脸朝右上仰，一手放膝上，另一手握细竖杖或茎。狮子的金色头占左前景，鬃毛由卷曲线和层叠赭色形体描出。两者身后，大型蓝金装饰圆框围住鸟、叶和缠绕茎。图像每处边缘都挤满秋色叶丛、繁复曲线和小自然形，但女子浅脸与狮子侧面仍清楚。配色混合青蓝、金赭、锈红、梅色、奶油和橄榄。细黑轮廓让色区分明，花纹排线给予布料、鬃毛和叶片可触节奏。空间浅而近似壁毯，并非深远景观。光均匀且装饰化，皮肤、毛与绣褶有小奶油高光。构图安静却精繁，把动物、人和植物编入连续纹饰体系。整幅有神话、手工与浓厚叙事感。",
+  "style_prompt_en": "Art Nouveau illustration uses flowing contours, circular framing, and densely interwoven organic pattern. Teal, gold, russet, plum, cream, and olive sit in clearly bounded areas with fine dark outlines. Repeated curls and leaf shapes create a tapestry-like rhythm across shallow space. Pale focal planes remain legible amid ornament because their value and contour are carefully controlled. Light is even, appearing as small cream accents rather than realistic cast shadows. Surface detail includes hatching, embroidery-like marks, and layered curves. The finish is mythical, handcrafted, and visually abundant.",
+  "style_prompt_zh": "新艺术风格插画运用流动轮廓、圆形框架和浓密交织的有机花纹。青绿、金、锈红、梅色、奶油与橄榄处在由细深线清楚圈住的色区。重复卷纹和叶形在浅空间形成壁毯般节奏。浅色焦点平面在饰物中仍可辨，因为明暗与轮廓受到谨慎控制。光均匀，以小奶油色点出现，而非写实投影。表面细节有排线、刺绣般笔痕和层叠曲线。完成面神话化、手制且视觉丰饶。",
+  "theme_en": "A seated red-haired woman beside a lion in an ornate garden",
+  "theme_zh": "华丽花园中坐在狮旁的红发女子",
+  "wh_ratio": "1:1",
+  "id": "4379",
+  "name": "Walter Crane",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/walter-crane.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "972d69ef149def6b0f74f302f007fd1ac993fe6a340cd3dc4736fcb1d19970f0",
+    "gpt_submission_prompt": "A square Art Nouveau illustration shows a red-haired woman seated beside a lion within a richly patterned garden. She wears a deep plum-red gown with pale sleeves, and long copper curls fall over her shoulder. Her face tilts upward toward the right while one hand rests on her knee and another holds a thin upright staff or stem. The lion's golden head occupies the left foreground, its mane rendered in curled lines and layered ochre forms. Behind both, a large round blue-and-gold ornamental frame encloses birds, leaves, and winding stems. Every edge of the image is crowded with autumnal foliage, intricate curves, and small natural forms, yet the woman's pale face and the lion's profile remain readable. The palette mixes teal blue, golden ochre, russet, plum, cream, and olive. Fine black outlines keep colored areas distinct, and patterned hatching gives fabric, mane, and leaves a tactile rhythm. The space is shallow and almost tapestry-like rather than a deep landscape. Light is even and decorative, with small cream highlights on skin, fur, and embroidered folds. The composition is calm but elaborate, arranging animal, human, and vegetation into one continuous ornamental system. The whole image feels mythical, handcrafted, and richly narrative.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "5c1ee2d22d052c77ad92b99f57c62275dbb200f59d88a6fe85bc017aa1423319",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

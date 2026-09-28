@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white editorial photograph shows a young man seated directly on a wooden floor against a white gallery wall hung with six framed images. He occupies the lower center, knees raised and spread, boots pointed toward the bottom corners. A dark sweater and medium-gray jeans form a broad triangular seated shape. His tousled hair drops over the forehead; he looks toward the camera with a guarded, tired expression, one hand held loosely near his mouth and the other arm resting across a knee. On the wall, three frames align across the top: two stylized portraits of a blond woman at left and center, and a dark-haired face at right. Three more frames line the row below, though the central space is partly hidden by the sitter; the visible images include a hatted figure at lower left and a darker scene at lower right. Simple dark frame borders contrast with the light wall and create an orderly grid behind his irregular pose. A thin baseboard runs horizontally just behind his shoulders, and the floorboards lead inward from the lower edge. The photograph retains moderate grain, deep but detailed black clothing, and clear silvery highlights on faces and frame glass. Broad indoor light falls evenly across the wall and the sitter from above left, leaving soft shadows beneath the frames and around his boots. The composition places a contemporary, unposed-looking figure below an archive of fixed faces, balancing rigid display geometry with casual human presence.",
+  "full_prompt_zh": "一幅方形黑白编辑摄影呈现年轻男子直接坐在木地板上，背靠挂着六幅相框图像的白色画廊墙。他在下部中央，双膝抬起分开，靴尖指向下方两角。深色毛衣与中灰牛仔裤构成宽阔三角坐姿。乱发落在额前，他带着警惕又疲惫的神情看向镜头，一只手松松停在嘴边，另一臂搭在膝上。墙上，三幅画框排在上方：左侧和中央是金发女子的两张风格化肖像，右侧是一张黑发面孔。下方另有三框，不过中央被坐者部分挡住；可见图像包括左下戴帽人影和右下较暗的场景。简单深色画框对着浅墙，形成整齐网格，衬托他不规则的姿态。细踢脚线在肩后横过，木地板从下缘向内延伸。摄影保留适中的颗粒、深而仍有细节的黑色衣物，以及面孔和画框玻璃上的清晰银亮。宽泛室内光从左上均匀落在墙与坐者身上，在相框下和靴周留下柔影。构图把当代、似未经摆拍的人放在一组固定面孔的档案下，以严整展示几何平衡随意的人类存在。",
+  "style_prompt_en": "Black-and-white editorial photography juxtaposes an informal, closely held human pose with a regular background grid. Use dark matte clothing, mid-gray floor texture, clean pale wall, and sharply bordered rectangular elements to organize the tonal range. Let soft broad indoor light keep faces and framed surfaces readable while shadows collect beneath objects. Compose symmetrically enough for the grid to register, but allow the focal pose to interrupt it with natural asymmetry. Maintain fine film grain and moderate contrast rather than glossy polish. The transferable effect is candid, reflective, and quietly self-aware.",
+  "style_prompt_zh": "黑白编辑摄影把随意、收拢的人的姿态与规则背景网格并置。以哑黑衣物、中灰地板纹理、干净浅墙及锐边矩形元素组织调子。宽而柔的室内光保持面孔和画框表面可读，阴影收在物体下方。构图足够对称，让网格成立，同时让焦点姿态以自然的不对称打断它。保留细胶片颗粒与适中反差，而非光泽修饰。可迁移效果坦率、沉思且略有自我意识。",
+  "theme_en": "A young man seated beneath a grid of framed portraits",
+  "theme_zh": "年轻男子坐在成排相框肖像下方",
+  "wh_ratio": "1:1",
+  "id": "3872",
+  "name": "Terry O'Neill",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/terry-o-neill",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "32273f910f148b0bf1f366ef8ead732fb2c0725dc38bf4c657e0d4407b7ebe66",
+    "gpt_submission_prompt": "A square black-and-white editorial photograph shows a young man seated directly on a wooden floor against a white gallery wall hung with six framed images. He occupies the lower center, knees raised and spread, boots pointed toward the bottom corners. A dark sweater and medium-gray jeans form a broad triangular seated shape. His tousled hair drops over the forehead; he looks toward the camera with a guarded, tired expression, one hand held loosely near his mouth and the other arm resting across a knee. On the wall, three frames align across the top: two stylized portraits of a blond woman at left and center, and a dark-haired face at right. Three more frames line the row below, though the central space is partly hidden by the sitter; the visible images include a hatted figure at lower left and a darker scene at lower right. Simple dark frame borders contrast with the light wall and create an orderly grid behind his irregular pose. A thin baseboard runs horizontally just behind his shoulders, and the floorboards lead inward from the lower edge. The photograph retains moderate grain, deep but detailed black clothing, and clear silvery highlights on faces and frame glass. Broad indoor light falls evenly across the wall and the sitter from above left, leaving soft shadows beneath the frames and around his boots. The composition places a contemporary, unposed-looking figure below an archive of fixed faces, balancing rigid display geometry with casual human presence.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "9dc946be7e35a45497225282148f49c9e436a2e2398c4274e75d55031bce9316",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

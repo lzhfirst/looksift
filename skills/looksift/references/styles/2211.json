@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square atmospheric digital painting shows a hooded traveler sitting on a dark hillside in thick grey-blue fog. The figure occupies the right half and leans forward with one knee raised, a large dark backpack pressing against the upper back. The face is hidden by the hood and downward angle. Just in front of the traveler, a small upright plant with reddish orange leaves catches the eye as the only warm color. The left half opens into mist, where a distant evergreen silhouette stands near the edge and low vegetation fades away. Rough grasses and dark brush along the bottom make the sloping ground tangible, but the valley beyond has almost no distinct horizon. Light is broad, overcast, and cool; it lifts the pale fog and traces soft grey edges along the hood and pack while leaving the seated body mostly in shadow. The surface is quiet and slightly grainy, with detailed near foliage giving way to smoothed distant vapor. The small red leaves are crisp enough to register separately from the background, and their scale emphasizes the traveler’s stillness. There is no readable text. The overall composition is sparse and introspective, setting a heavy dark form and tiny warm accent against an expansive cold field.",
+  "full_prompt_zh": "一幅方形气氛数码绘画描绘一名戴兜帽的旅者坐在浓厚蓝灰雾中的深色山坡上。人物占右半幅，向前倾身，一侧膝盖抬起，大深色背包压在上背。脸被兜帽和低头角度遮住。旅者前方有一株直立的小植物，带红橙色叶片，是唯一醒目的暖色。左半幅打开为雾，其中一棵远处的常青树剪影靠近边缘，低矮植被渐渐隐没。下方的粗草与深色灌丛使斜坡地面可触，但远谷几乎没有明确地平线。光宽泛、阴柔且冷，托起浅雾，在兜帽和背包边缘勾出柔灰线，坐着的身体大多留在阴影里。表面安静且略带颗粒，近处叶丛较细，远处水汽则平滑。小红叶足够清晰，能从背景中逐片辨认，它们的尺度强调旅者的静止。没有可辨认文字。整体构图稀疏而内省，用沉重深色形与极小暖色点，对照辽阔冷色场域。",
+  "style_prompt_en": "An atmospheric digital painted surface lets dense charcoal shapes occupy one side of a broad blue-grey field. Fine near textures in rough, fibrous marks fade rapidly into smooth vapor and nearly horizonless distance. Broad overcast light lifts the pale background and gives the dark mass only a few soft edge highlights. A tiny warm red-orange accent stands apart from the otherwise cool, desaturated palette, creating a quiet focal point through color alone. The composition is asymmetrical and low, with ample misty negative space and a gradual loss of detail. Slight grain keeps the surface tactile while the overall mood remains hushed, spare, and introspective.",
+  "style_prompt_zh": "气氛数码绘画表面让密实炭黑形占据宽阔蓝灰场域的一侧。近处粗纤维状笔痕的细纹迅速淡入平滑水汽与几乎无地平线的远方。宽泛阴天光托起浅背景，仅给深色块少量柔边高光。一点极小的暖红橙色与其余冷而去饱和的色谱分开，单靠颜色建立安静焦点。构图不对称且重心偏低，拥有充足雾状留白和渐失的细节。轻微颗粒使表面可触，整体情绪仍寂静、稀疏且内省。",
+  "theme_en": "A hooded traveler resting beside a small red plant in fog",
+  "theme_zh": "雾中一名兜帽旅者在小红植株旁歇息",
+  "wh_ratio": "1:1",
+  "id": "2211",
+  "name": "Yuri Shwedoff",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/yuri-shwedoff",
+    "image": "https://static.midlibrary.io/midjourney-styles/v61/yuri-shwedoff.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "09c10c2b00af530140d7167b4b143c8071ce8f1f613f0150938d2af63828cd09",
+    "gpt_submission_prompt": "A square atmospheric digital painting shows a hooded traveler sitting on a dark hillside in thick grey-blue fog. The figure occupies the right half and leans forward with one knee raised, a large dark backpack pressing against the upper back. The face is hidden by the hood and downward angle. Just in front of the traveler, a small upright plant with reddish orange leaves catches the eye as the only warm color. The left half opens into mist, where a distant evergreen silhouette stands near the edge and low vegetation fades away. Rough grasses and dark brush along the bottom make the sloping ground tangible, but the valley beyond has almost no distinct horizon. Light is broad, overcast, and cool; it lifts the pale fog and traces soft grey edges along the hood and pack while leaving the seated body mostly in shadow. The surface is quiet and slightly grainy, with detailed near foliage giving way to smoothed distant vapor. The small red leaves are crisp enough to register separately from the background, and their scale emphasizes the traveler’s stillness. There is no readable text. The overall composition is sparse and introspective, setting a heavy dark form and tiny warm accent against an expansive cold field.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "065619a6d48f8d76ed88f5b52bf297ca4058aeec609c3e29e247a7d63b309981",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

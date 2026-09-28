@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A close oil-painted study shows an elderly man with wild white hair and a short grey beard emerging from a dark background. His head turns slightly toward the viewer; deep-set eyes look sideways under raised brows. The hair flares outward in pale yellow, cream, and grey strokes, while the face is pieced together from ochre, rose, brown, and dark blue marks. A dark coat dissolves into the surrounding black-green paint near the bottom. The crop is tight enough to make the face and the movement of the brush the full event.\n\nThe paint is thick and emphatically physical. Long curved strokes twist through the hair, shorter ridged marks build wrinkles and cheek planes, and broad dark sweeps close the space behind the figure. Color is not blended smooth; adjacent flecks and dragged pigments create a vibrating surface. Light collects irregularly on the forehead, hair, nose, and beard, with deep shadow holding the opposite side. The expression feels alert, weary, and challenging at once. A nearly black ground gives the warmer face and pale hair high contrast without a detailed setting. The visual rhythm moves in looping arcs around the head, then tightens into small marks at the eyes. The result is expressive, tactile, and unstable, with no readable lettering.",
+  "full_prompt_zh": "一幅近距离油画研究描绘一名白发蓬乱、留短灰胡子的老人，从深色背景中浮出。他的头略转向观看者，深陷的双眼在抬起的眉下向侧边看。头发以浅黄、乳白和灰色笔触向外飞扬，面容则由赭黄、玫红、褐色和深蓝笔迹拼成。深色外套在下方融进周围黑绿色颜料。画幅裁切很紧，使面容与笔刷运动成为全部事件。\n\n颜料厚重，实体感鲜明。长弯笔触在头发中扭动，较短的隆起痕迹建起皱纹与脸颊平面，宽阔深色扫笔封住人物身后的空间。颜色没有晕合光滑；相邻色屑和拖拽颜料形成振动的表面。光不规则地聚在额头、头发、鼻子和胡须，深影托住另一侧。神情同时显得警觉、疲惫并带挑战。近黑底色使暖面容和浅发形成强对比，却不提供具体环境。视觉节奏绕头部走出回环弧线，然后在双眼处收成小笔迹。结果表现性强、可触而不稳定，没有可辨认文字。",
+  "style_prompt_en": "Thick oil pigment moves in curved ridges, short broken marks, and broad dark sweeps. Cream, pale yellow, ochre, rose, blue-grey, and near-black meet as adjacent flecks rather than smooth gradients. The brightest strokes arc outward from a dense central cluster; smaller tight marks gather around a few high-contrast points. Irregular light catches raised paint and leaves broad areas in black-green shadow. Contours merge with the background at the lower edge but flare into energetic curves above. The surface feels physically worked and slightly unstable, expressive in both color and directional rhythm. A close crop concentrates the tension without setting or ornament.",
+  "style_prompt_zh": "厚油彩以弯曲隆起、短促断笔和宽阔深色扫线运动。乳白、浅黄、赭黄、玫红、蓝灰与近黑以相邻色屑相接，而非平滑渐变。最亮笔触从密集中央团块向外弯出；较小的紧笔迹聚在少数高对比点周围。不规则光抓住颜料隆起，让宽阔区域留在黑绿色阴影中。轮廓在下边融入背景，上方则迸成有力弧线。表面有身体性劳作感且略不稳定，颜色和方向节奏都富表现力。紧裁构图把张力集中，不靠场景或装饰。",
+  "theme_en": "An elderly painter emerging from thick restless color",
+  "theme_zh": "老画家从厚重躁动的颜色中浮现",
+  "wh_ratio": "1:1",
+  "id": "3229",
+  "name": "Affandi",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/affandi",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "db7998cf31cb831c7c90e317443434d559843c65b68c2cf90e472fd41e8caa8f",
+    "gpt_submission_prompt": "A close oil-painted study shows an elderly man with wild white hair and a short grey beard emerging from a dark background. His head turns slightly toward the viewer; deep-set eyes look sideways under raised brows. The hair flares outward in pale yellow, cream, and grey strokes, while the face is pieced together from ochre, rose, brown, and dark blue marks. A dark coat dissolves into the surrounding black-green paint near the bottom. The crop is tight enough to make the face and the movement of the brush the full event.\n\nThe paint is thick and emphatically physical. Long curved strokes twist through the hair, shorter ridged marks build wrinkles and cheek planes, and broad dark sweeps close the space behind the figure. Color is not blended smooth; adjacent flecks and dragged pigments create a vibrating surface. Light collects irregularly on the forehead, hair, nose, and beard, with deep shadow holding the opposite side. The expression feels alert, weary, and challenging at once. A nearly black ground gives the warmer face and pale hair high contrast without a detailed setting. The visual rhythm moves in looping arcs around the head, then tightens into small marks at the eyes. The result is expressive, tactile, and unstable, with no readable lettering.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "d979fab6c2d69e6512fed10e1b1ac988971bbac450f55fae2deb63d2649e0907",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

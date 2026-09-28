@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square retro science-fiction painting opens onto a distant futuristic city across a still body of water. The viewer stands in dark rocky foreground at the lower left, where several tiny silhouettes face the far skyline. Across the water, domed towers, narrow spires, and tiered structures rise in deep blue and violet. A gigantic sweeping blue arc fills most of the sky above them, like an illuminated roof or broad atmospheric ring. At the horizon, hot pink and coral light glows behind the city, while thin bands of yellow, turquoise, and magenta reflect across the water. A few small dark airborne shapes punctuate the space between the foreground and towers. The image is strongly layered: shadowed rocky edge, luminous water, detailed city, and huge curved sky. Painted marks are broad and textured in the sky, finer and more graphic in the structures and reflected horizontal lines. The lower left is nearly black, allowing the distant city color to bloom. Lighting comes from the vivid horizon and scattered bright details on the buildings, silhouetting the small viewers. The composition emphasizes discovery and scale, with human figures dwarfed by the urban mass and its encompassing celestial architecture. The overall mood is strange, expansive, and nostalgic, driven by rich blue against electric pink.",
+  "full_prompt_zh": "一幅方形复古科幻绘画隔着静水展现远处未来城市。观者仿佛立在左下深色岩石前景，几道极小剪影面向远方天际。水对面，圆顶塔、细尖塔与层叠结构以深蓝和紫色升起。巨大的蓝色弧面横扫城市上方大部分天空，像发亮屋顶或宽阔大气环。地平线上，炽热粉红与珊瑚色从城后发光，细窄黄色、青绿和洋红横带映在水面。几个深色小飞行形点在前景与高塔之间。画面层次明确：阴影岩岸、发光水面、细致城市和巨大弯曲天空。天空笔痕宽阔有肌理，建筑与水平反光线条更细、更具图形性。左下近黑，让远方城市颜色盛放。光来自鲜明地平线与建筑上散落的亮点，使小观者成为剪影。构图强调发现与尺度，人影被城市体量和笼罩它的天体建筑压小。整体奇异、辽阔而怀旧，由浓蓝与电粉色对比推动。",
+  "style_prompt_en": "Retro science-fiction painting combines sweeping atmospheric arcs with fine layered silhouettes and narrow bands of luminous reflection. Deep cyan and indigo carry the frame, while coral, magenta, and small yellow accents ignite the horizon. Broad textured sky strokes contrast with crisp graphic structures and horizontal water marks. Backlight separates dark near shapes from a bright distant center. Scale expands through successive foreground, reflective middle distance, and monumental far forms. The composition feels exploratory and nostalgic, with saturated color and handmade painterly edges rather than sterile precision.",
+  "style_prompt_zh": "复古科幻绘画把横扫大气的弧形与细密层叠剪影、窄带发光反射结合。深青与靛蓝承载画幅，珊瑚、洋红与小块黄色点燃地平线。宽阔带肌理的天空笔触对照清楚的图形结构和水平水痕。逆光分开深色近景与明亮远方中心。尺度通过前景、反光中景和宏伟远景连续扩大。构图充满探索和怀旧气息，饱和颜色与手绘边缘取代冰冷精确感。",
+  "theme_en": "A futuristic city across glowing water under a vast blue dome",
+  "theme_zh": "巨大蓝色穹顶下隔着发光水面的未来城市",
+  "wh_ratio": "1:1",
+  "id": "2530",
+  "name": "Jack Gaughan",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/jack-gaughan",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/jack-gaughan.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "c4c5c090f80e5c924371196ddeb2adc6a2d860654efcb60862432078d93096e9",
+    "gpt_submission_prompt": "A square retro science-fiction painting opens onto a distant futuristic city across a still body of water. The viewer stands in dark rocky foreground at the lower left, where several tiny silhouettes face the far skyline. Across the water, domed towers, narrow spires, and tiered structures rise in deep blue and violet. A gigantic sweeping blue arc fills most of the sky above them, like an illuminated roof or broad atmospheric ring. At the horizon, hot pink and coral light glows behind the city, while thin bands of yellow, turquoise, and magenta reflect across the water. A few small dark airborne shapes punctuate the space between the foreground and towers. The image is strongly layered: shadowed rocky edge, luminous water, detailed city, and huge curved sky. Painted marks are broad and textured in the sky, finer and more graphic in the structures and reflected horizontal lines. The lower left is nearly black, allowing the distant city color to bloom. Lighting comes from the vivid horizon and scattered bright details on the buildings, silhouetting the small viewers. The composition emphasizes discovery and scale, with human figures dwarfed by the urban mass and its encompassing celestial architecture. The overall mood is strange, expansive, and nostalgic, driven by rich blue against electric pink.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "69e194d18a14f3001e2364198373f7d4266beae0ebea033b8b5c8cac56c63bcb",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

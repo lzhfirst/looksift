@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square painting looks down across a broad winter town square whose pale ground is busy with many small pedestrians. Dark-coated adults and children move in loose pairs and groups, their simplified silhouettes made from a few blunt strokes. A red-brick house with glowing yellow windows anchors the left foreground; gray buildings and a tall dark block close the right side. Low industrial structures and chimneys fade into a smoky cream horizon. Two boxy vehicles sit near the middle distance, adding muted red and blue accents to the wide empty plane between buildings. The pedestrians do not form a single dramatic event. Their scattered paths instead build an everyday rhythm, with little gaps of pale ground between each dark figure. A few red scarves or coats enliven the near-monochrome crowd. The paint is modestly textured and the architecture is reduced to sturdy shapes, straight rooflines and simple window marks. Atmospheric haze softens distant edges while the nearest silhouettes remain crisp. The elevated viewpoint keeps the ground plane dominant and allows the figures to become a repeated graphic pattern. The scene feels observant and humane: an ordinary cold day, shaped by industrial brick, winter light and the quiet movement of people through shared public space.",
+  "full_prompt_zh": "一幅正方形绘画从稍高处俯望宽阔的冬日城镇广场，浅色地面上布满小小行人。深色外套的成人和儿童松散地成双或成群移动，简化剪影只用几道钝笔触构成。左侧前景的红砖房与发黄光的窗户成为锚点，右侧由灰色建筑和深色高块围合。低矮工业建筑与烟囱隐入烟雾般的乳色地平线。两辆方形车辆位于中景，给建筑之间的广阔空地添上暗红和蓝色点缀。行人没有形成单一戏剧事件；分散的路径构成日常节奏，每个深色小人之间都留有浅地空隙。少数红围巾或外套激活近乎单色的人群。颜料肌理朴素，建筑被简化成结实形块、笔直屋顶线和简单窗格。雾气柔化远处边缘，近处剪影仍清楚。略高视点让地面占主导，也让人物成为重复图形。场景既细致观察又有人情味：一个普通寒日由工业砖墙、冬光和人们穿过公共空间的安静行动塑成。",
+  "style_prompt_en": "The style is understated narrative painting with a high viewpoint, a wide pale ground plane and repeated miniature dark marks. Architecture reduces to simple sturdy silhouettes and sparse warm window accents. Atmospheric haze dissolves distant edges into cream and gray, while near details remain more definite. Small touches of brick red punctuate muted charcoal and off-white. Modest brush texture and simplified anatomy favor everyday rhythm over individual spectacle. Open intervals between repeated marks keep the crowded composition lucid.",
+  "style_prompt_zh": "这种风格是克制的叙事绘画，采用高视点、宽阔浅色地面和重复的微型深色笔痕。建筑化为简单结实的剪影，暖色窗格只作稀疏重音。大气雾霭使远处边缘融入乳白与灰色，近处细节则较明确。少量砖红点醒压低的炭灰和米白。朴素笔触肌理与简化形体重视日常节奏，而非个体奇观。重复笔痕之间的开敞间隙使拥挤构图保持清楚。",
+  "theme_en": "A winter industrial town square full of small pedestrians",
+  "theme_zh": "布满小行人的冬日工业城镇广场",
+  "wh_ratio": "1:1",
+  "id": "4177",
+  "name": "L. S. Lowry",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/l-s-lowry.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "4342c478f78125d7279f88b087adc67c3b7f12a86b89652d8d7b8a1f8a6e0284",
+    "gpt_submission_prompt": "A square painting looks down across a broad winter town square whose pale ground is busy with many small pedestrians. Dark-coated adults and children move in loose pairs and groups, their simplified silhouettes made from a few blunt strokes. A red-brick house with glowing yellow windows anchors the left foreground; gray buildings and a tall dark block close the right side. Low industrial structures and chimneys fade into a smoky cream horizon. Two boxy vehicles sit near the middle distance, adding muted red and blue accents to the wide empty plane between buildings. The pedestrians do not form a single dramatic event. Their scattered paths instead build an everyday rhythm, with little gaps of pale ground between each dark figure. A few red scarves or coats enliven the near-monochrome crowd. The paint is modestly textured and the architecture is reduced to sturdy shapes, straight rooflines and simple window marks. Atmospheric haze softens distant edges while the nearest silhouettes remain crisp. The elevated viewpoint keeps the ground plane dominant and allows the figures to become a repeated graphic pattern. The scene feels observant and humane: an ordinary cold day, shaped by industrial brick, winter light and the quiet movement of people through shared public space.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "b5df3fd1d5647830b83cbc600b4cf8c2efcfc7a5e3d82d7b34c42f83eb896252",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

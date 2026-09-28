@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A black-and-white landscape photograph looks down on a sweeping pale path carved through dark, gently sloping dunes. The bright band enters from the upper left, bends toward the center, and curls back into shadow at the upper right, creating a broad S-shaped movement through the frame. Three tiny walkers stand close together on the path near the lower-left side of its central curve. Their small silhouettes give scale to the enormous smooth surfaces but do not interrupt the quiet geometry. The dunes are almost abstract: deep charcoal slopes occupy the lower left and right, while fine diagonal ridges in the sand catch faint gray light. The pale path has subtly varied texture rather than a flat white surface, and its edges are clean but naturally uneven. Light comes from above and to the left, tracing the curve and letting the adjacent hollows fall into dense black. The image avoids a visible sky or horizon, so all attention stays on line, tone, and human scale. Fine film grain and restrained midtones preserve the tactile sand even within the graphic contrast. The composition is spacious, deliberate, and contemplative. Its visual drama comes from one luminous bend moving through dark land and from the almost incidental presence of three people within that vast shape.",
+  "full_prompt_zh": "一张黑白风景照片，从高处俯看一条浅色道路在缓缓起伏的深色沙丘间扫出大弯。亮带从左上进入，向中心弯去，再回卷到右上方的阴影中，构成贯穿画面的宽阔 S 形动势。三个微小行者靠在一起，位于中心曲线偏左下的一段路上。他们的小剪影给巨大的平滑表面提供尺度，却没有打破安静几何。沙丘几乎抽象：深炭色斜坡占据左下和右侧，沙面上的细密斜纹接住微弱灰光。浅色道路有细微变化的纹理，而非平板纯白，边缘清楚却自然不齐。光从上方偏左落下，勾出弯线，让旁边凹地沉入浓黑。画面避开可见天空或地平线，使全部注意力留在线、明暗和人的尺度上。细密胶片颗粒与克制的中间调，即使在图形化对比中也保留沙的触感。构图开阔、谨慎而沉思。视觉戏剧性来自一条亮弯穿过暗地，以及三个人在巨大形状中近乎偶然的存在。",
+  "style_prompt_en": "Graphic black-and-white photography organized by one sweeping luminous curve through deep charcoal masses. Large smooth tonal fields are broken only by fine directional grain and a few tiny dark accents. There is no visible horizon; a high viewpoint transforms broad surfaces into rhythm, line, and scale. Directional light catches a pale band while adjacent hollows remain dense, readable black. Edges are clear but naturally irregular, never mechanically perfect. Fine film grain preserves surface tactility. The composition is spacious and contemplative, using extreme scale contrast with great restraint.",
+  "style_prompt_zh": "图形感强的黑白摄影，以一道发亮的大弯线穿过深炭色体块组织画面。大片平滑明暗区域仅由定向细纹和几个微小深色点缀打断。没有可见地平线；高视点把宽阔表面转成节奏、线条与尺度。定向光抓住浅色带，旁边凹处仍是浓而可辨的黑。边缘清楚却自然不规则，绝不机械完美。细密胶片颗粒保留表面触感。构图开阔而沉思，以极端尺度对比展现克制。",
+  "theme_en": "Three tiny walkers on a bright curve through dark dunes",
+  "theme_zh": "三位微小行者走在暗色沙丘间的亮弯道上",
+  "wh_ratio": "1:1",
+  "id": "1140",
+  "name": "Paul Caponigro",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/paul-caponigro",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/paul-caponigro.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "425b76f0a3d52fc447feb878a993b21af432e37741677b9e494d3235a526edcf",
+    "gpt_submission_prompt": "A black-and-white landscape photograph looks down on a sweeping pale path carved through dark, gently sloping dunes. The bright band enters from the upper left, bends toward the center, and curls back into shadow at the upper right, creating a broad S-shaped movement through the frame. Three tiny walkers stand close together on the path near the lower-left side of its central curve. Their small silhouettes give scale to the enormous smooth surfaces but do not interrupt the quiet geometry. The dunes are almost abstract: deep charcoal slopes occupy the lower left and right, while fine diagonal ridges in the sand catch faint gray light. The pale path has subtly varied texture rather than a flat white surface, and its edges are clean but naturally uneven. Light comes from above and to the left, tracing the curve and letting the adjacent hollows fall into dense black. The image avoids a visible sky or horizon, so all attention stays on line, tone, and human scale. Fine film grain and restrained midtones preserve the tactile sand even within the graphic contrast. The composition is spacious, deliberate, and contemplative. Its visual drama comes from one luminous bend moving through dark land and from the almost incidental presence of three people within that vast shape.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "988fd53398786882ef2596eb44e47404bb691bf3314f4fa319820e6903bdddeb",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

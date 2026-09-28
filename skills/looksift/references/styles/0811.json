@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square romantic oil portrait shows a young woman reclining in an ornate upholstered chair. She wears a pale pink and white lace dress with fluttering sleeves and a broad ribbon at the waist. Dark hair is gathered loosely above her face, and a small smile accompanies a relaxed gaze toward the viewer. One hand touches the cheek; the other rests along the chair arm. A black-and-white cat curls beside her on the cushion. Flowers, carved furniture, and hints of framed decor crowd the softly lit room without distracting from the sitter. Broad, lively brushstrokes describe upholstery and floral background, while finer touches define her eyes, lips, lace, and fingers. Cream, blush pink, gold, olive green, and warm brown make a luminous but restrained palette. Soft window light washes over her face and dress, leaving deeper brown-green shadows at the edges. The chair's pale fabric creates a generous bright shape around the figure, and the cat gives a small dark counterweight. The whole frame feels intimate, leisurely, and elegant, with visible oil-paint texture and a fashionable, slightly idealized atmosphere rather than photographic precision.",
+  "full_prompt_zh": "一幅方形浪漫油画肖像呈现年轻女子倚坐在精致软椅中。她穿浅粉与白色蕾丝裙，袖子轻轻翻起，腰间系宽缎带。深色头发松松盘起，嘴角小小的笑伴着朝向观者的放松目光。一只手碰着脸颊，另一只沿椅扶手放着。一只黑白猫蜷在她身旁的坐垫上。花朵、雕刻家具和装框装饰痕迹充满柔光房间，却不抢过人物。宽阔而活泼的笔触描写软椅和花卉背景，较细笔触界定眼睛、嘴唇、蕾丝与手指。乳白、浅粉、金、橄榄绿和暖棕构成明亮而克制的色谱。柔和窗光洗过面孔与裙子，较深棕绿阴影留在边缘。椅子的浅色布面在人物周围形成宽阔亮形，猫则提供小型深色平衡。整幅画亲密、悠闲、优雅，油画笔触可见，气氛时髦且稍被理想化，而非摄影般精确。",
+  "style_prompt_en": "A romantic oil-portrait style balances refined focal features with loose, lively brushwork in upholstery and floral surroundings. Cream, blush pink, warm gold, olive, and brown form a softly luminous palette. Window-like light opens a broad pale area around the center, while darker edges and a small dark accent create depth. Lace, ribbon, skin, carved wood, and flowers receive different mark sizes and textures. The composition feels leisurely and intimate, with one relaxed gesture anchoring the pose. Visible oil strokes keep the picture painted rather than photographically smooth. The mood is elegant, warm, and slightly idealized.",
+  "style_prompt_zh": "浪漫油画肖像风格在精细焦点五官与软椅、花卉环境中的松动活泼笔触间平衡。乳白、浅粉、暖金、橄榄绿和棕色组成柔亮色谱。窗光般照明在中央周围打开宽阔浅色区，较深边缘与一小块暗色增加纵深。蕾丝、缎带、皮肤、雕木和花各自得到不同大小与肌理的笔迹。构图悠闲亲密，由一个放松手势稳住姿态。可见油画笔触让画面始终是绘画，而非摄影般光滑。气氛优雅、温暖、略显理想化。",
+  "theme_en": "A woman in a pale pink lace dress reclines in a floral upholstered chair",
+  "theme_zh": "一位身穿浅粉蕾丝裙的女子倚坐在花饰软椅中",
+  "wh_ratio": "1:1",
+  "id": "0811",
+  "name": "Konstantin Razumov",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/konstantin-razumov",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/konstantin-razumov.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "f5afee38c8d4ec292f33cfa932be505e0ac5e418feb1faf75184cf20ced8429a",
+    "gpt_submission_prompt": "A square romantic oil portrait shows a young woman reclining in an ornate upholstered chair. She wears a pale pink and white lace dress with fluttering sleeves and a broad ribbon at the waist. Dark hair is gathered loosely above her face, and a small smile accompanies a relaxed gaze toward the viewer. One hand touches the cheek; the other rests along the chair arm. A black-and-white cat curls beside her on the cushion. Flowers, carved furniture, and hints of framed decor crowd the softly lit room without distracting from the sitter. Broad, lively brushstrokes describe upholstery and floral background, while finer touches define her eyes, lips, lace, and fingers. Cream, blush pink, gold, olive green, and warm brown make a luminous but restrained palette. Soft window light washes over her face and dress, leaving deeper brown-green shadows at the edges. The chair's pale fabric creates a generous bright shape around the figure, and the cat gives a small dark counterweight. The whole frame feels intimate, leisurely, and elegant, with visible oil-paint texture and a fashionable, slightly idealized atmosphere rather than photographic precision.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "38e67b57789dfe32d8754fdb7a907ebbc9e9b120fadc8c1cc780ff73a57ff4a3",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

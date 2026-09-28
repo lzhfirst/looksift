@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square monochrome retro-futurist illustration looks down over a crowded metropolis beneath enormous curving elevated roadways. The viewpoint is high and oblique, with dense dark building blocks filling the lower half and fading into a smoky gray skyline. One bright sweeping road rises from the lower right and bends toward a distant interchange at center-right, its surface dotted with many tiny dark vehicles. Above it, a much larger dark overpass arcs across nearly the entire top of the frame, leaving long pale strips of sky visible between its nested lanes. The nearest structure feels impossibly wide compared with the small streets and towers below. A small propeller-like aircraft crosses the open pale sky at upper left, while several tinier flying shapes dot the haze toward the horizon. Straight city streets cut bright channels through the darker blocks, reinforcing the depth below the curving routes. Fine stipple and soft grain texture the air and distant buildings, while the road edges stay clean and graphic. Diffuse light comes through the hazy sky from the left, making pale road surfaces glow and leaving the underside of the overhead lanes almost black. The scene contains no legible signs or close human figures. The overall composition is monumental and restless, contrasting fluid streamlined curves with the rigid granular city grid in a tightly controlled grayscale palette.",
+  "full_prompt_zh": "一幅方形黑白复古未来主义插画俯视拥挤都市，头顶是巨大弯曲的高架道路。视点高而倾斜，密集深色楼块填满下半部，并淡入烟灰色天际线。一道明亮弧路从右下升起，弯向中右远处的交汇点，路面点缀许多极小深色车辆。其上，一道更庞大的深色高架几乎横扫整幅上缘，只在嵌套车道之间留下长条浅色天空。最近的结构与下方小街和楼塔相比宽得近乎不可能。一架小型螺旋桨状飞行器掠过左上开阔浅天，几处更小飞行形体散在地平线方向的薄雾里。笔直城市街道在深色楼块间切出亮通道，强化曲线道路下方的纵深。细点描与柔颗粒给空气和远处建筑添纹，路边却保持干净的图形边缘。漫射光从左侧雾天穿过，让浅色路面发亮，使头顶车道的底面近乎黑色。场景没有可读标识或贴近的人物。整体构图宏大而躁动，在受控灰阶中以流线曲线对照刚硬颗粒状都市网格。",
+  "style_prompt_en": "A monochrome retro-futurist illustration treatment sets vast streamlined curves above a dense granular lower field. Charcoal undersides, silvery gray surfaces and almost white atmospheric gaps create a powerful value hierarchy. Smooth sweeping bands remain sharply bounded, while distant detail breaks into stipple, soft grain and haze. High oblique perspective exaggerates scale: small repeated marks cluster far below monumental near forms. Diffuse light from a pale side opening brightens selected upper planes and leaves deep continuous shadow beneath them. Curvilinear motion crosses rigid straight-line rhythm, giving the composition both speed and architectural weight. The visual effect is visionary, austere and slightly ominous.",
+  "style_prompt_zh": "黑白复古未来主义插画处理让庞大流线曲线悬在密集颗粒状下部色域上方。炭黑底面、银灰表面与近白空气缝隙建立强明度层级。平滑扫动的色带保持锐利边界，远处细节则散成点描、柔颗粒和雾。高角度斜视透视夸大尺度：细小重复笔痕聚在纪念性近景形体之下。浅色侧向开口的漫射光照亮少数上表面，下面则留连续深影。曲线运动横穿刚直线节奏，使构图兼有速度和结构重量。视觉效果富于远见、严峻且略带不祥。",
+  "theme_en": "A vast elevated road system sweeping over a hazy monochrome metropolis",
+  "theme_zh": "巨大的高架道路在雾蒙蒙的黑白都市上空扫过",
+  "wh_ratio": "1:1",
+  "id": "1104",
+  "name": "Norman Bel Geddes",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/norman-bel-geddes",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/norman-bel-geddes.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "6a283fdbac3fb6d5e48896a1437c0c2d8259dfa34ffe267be708721ef880f11f",
+    "gpt_submission_prompt": "A square monochrome retro-futurist illustration looks down over a crowded metropolis beneath enormous curving elevated roadways. The viewpoint is high and oblique, with dense dark building blocks filling the lower half and fading into a smoky gray skyline. One bright sweeping road rises from the lower right and bends toward a distant interchange at center-right, its surface dotted with many tiny dark vehicles. Above it, a much larger dark overpass arcs across nearly the entire top of the frame, leaving long pale strips of sky visible between its nested lanes. The nearest structure feels impossibly wide compared with the small streets and towers below. A small propeller-like aircraft crosses the open pale sky at upper left, while several tinier flying shapes dot the haze toward the horizon. Straight city streets cut bright channels through the darker blocks, reinforcing the depth below the curving routes. Fine stipple and soft grain texture the air and distant buildings, while the road edges stay clean and graphic. Diffuse light comes through the hazy sky from the left, making pale road surfaces glow and leaving the underside of the overhead lanes almost black. The scene contains no legible signs or close human figures. The overall composition is monumental and restless, contrasting fluid streamlined curves with the rigid granular city grid in a tightly controlled grayscale palette.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "f18057e020a44cc79d38162e05de17cf8a938beb771851dddfa0c0626a5368e8",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

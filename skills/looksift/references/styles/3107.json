@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A nocturnal color photograph shows two small seated figures near a modern shelter in dense fog. The figures sit to the left of center, reduced to dark silhouettes and separated by a narrow gap. On the right, a simple rectangular opening releases a cool cyan glow into the mist, while a long coral-red light strip traces the sloping roof edge overhead. Almost everything beyond this small illuminated area disappears into brown-green darkness. The wet ground occupies the lower third, holding broken teal reflections and a few faint highlights that lead toward the shelter. The composition is spare and asymmetrical: a large empty dark field opens at the upper left, while the bright architectural edge draws a strong diagonal across the right. Fog is not just weather here; it becomes the visible material of the image, diffusing both colored lights into broad soft halos and erasing distant detail. The figures are deliberately tiny, making the open space feel strange and quiet. Digital noise or fine photographic grain lends texture to the low light without sharpening it. Red, cyan, moss green, and near-black form a tightly controlled palette. There is no clear narrative event; the unease comes from the distance between the figures, the unnatural color, and the silence of the empty forecourt.",
+  "full_prompt_zh": "一张夜间彩色照片描绘浓雾中，两道小小的坐姿身影位于一处现代灯棚旁。两人坐在中心左侧，只剩深色剪影，中间隔着窄窄的距离。右侧一个简洁矩形开口向雾中放出冷青色亮光，一条长长的珊瑚红灯带沿上方倾斜的屋檐描出线条。除这片受光区域之外，几乎所有景物都消失在棕绿色黑暗里。湿地占据下方三分之一，留有破碎的青绿色倒影和几处微弱高光，把视线引向灯棚。构图简洁而不对称：左上角打开一大片空暗区域，明亮的建筑边缘则在右侧拉出有力斜线。雾在这里不只是天气，更成为画面的可见材料，把两种彩色光扩散为宽阔柔软的光晕，并抹去远处细节。人物刻意很小，使空旷场地显得陌生而安静。数字噪点或细微摄影颗粒给低照度增添质感，却没有让图像变得锐利。红、青、苔绿和近黑组成严格控制的色盘。画面没有明确情节；不安来自两人之间的间距、不自然的色彩以及空场地的寂静。",
+  "style_prompt_en": "A low-light color photograph dominated by dense atmospheric haze and broad nearly black space. One long coral-red diagonal and a soft cyan rectangular glow cut through brown-green darkness. Fine noise and fog blur the edges of distant forms. Small paired dark marks sit off center, with broken teal highlights scattered across a wet lower plane. The colored lights bloom widely but retain a few crisp cores. Large empty areas, restrained geometry, and asymmetrical spacing create a quiet, uncanny tension.",
+  "style_prompt_zh": "一张低照度彩色照片，由浓厚大气雾感与大片近黑空间主导。一条长珊瑚红斜线和一处柔软的青色矩形亮光切过棕绿色黑暗。细噪点与雾气模糊远处形体的边缘。成对的小深色痕迹偏离中心，下方潮湿平面散布破碎青绿高光。彩色灯光大范围晕开，核心仍保留少许清晰度。大片空白、节制几何和不对称间距形成安静而奇异的张力。",
+  "theme_en": "Two quiet figures near a neon-lit shelter in fog",
+  "theme_zh": "浓雾中霓虹灯棚旁的两道安静身影",
+  "wh_ratio": "1:1",
+  "id": "3107",
+  "name": "Elsa Bleda",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/elsa-bleda",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "03407319d12e22e334fb6a578ac9341ebec95eb9fc0febeb41608f5a3078a1b8",
+    "gpt_submission_prompt": "A nocturnal color photograph shows two small seated figures near a modern shelter in dense fog. The figures sit to the left of center, reduced to dark silhouettes and separated by a narrow gap. On the right, a simple rectangular opening releases a cool cyan glow into the mist, while a long coral-red light strip traces the sloping roof edge overhead. Almost everything beyond this small illuminated area disappears into brown-green darkness. The wet ground occupies the lower third, holding broken teal reflections and a few faint highlights that lead toward the shelter. The composition is spare and asymmetrical: a large empty dark field opens at the upper left, while the bright architectural edge draws a strong diagonal across the right. Fog is not just weather here; it becomes the visible material of the image, diffusing both colored lights into broad soft halos and erasing distant detail. The figures are deliberately tiny, making the open space feel strange and quiet. Digital noise or fine photographic grain lends texture to the low light without sharpening it. Red, cyan, moss green, and near-black form a tightly controlled palette. There is no clear narrative event; the unease comes from the distance between the figures, the unnatural color, and the silence of the empty forecourt.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "84e62fd77512b11267c934ef76be106d4c8fda888ce6950578d1f3a8b61f67f4",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

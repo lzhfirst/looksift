@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A whimsical ink-and-watercolor storybook image shows a tall black dog sitting beneath a russet umbrella beside a tiny upright companion. The dog occupies the right half, its body a simple charcoal silhouette with long pointed ears, a square snout, one round pale eye, and a curved tail on the ground. A thin dark arm holds the umbrella shaft, while the curved handle hangs in front of its chest. The small companion stands to the left in a red checked coat, with little ears, round eyes, and stick-thin legs. Their difference in scale supplies the gentle humor of the scene, yet both are treated with the same quiet dignity. The umbrella spans the upper middle as the single broad color shape, its rust-red panels divided by fine dark ribs. Behind them is an open beige paper field with no drawn weather or setting. A narrow gray-brown ground strip runs across the bottom, just enough to support the figures. Fine hatching, uneven pigment density, and faint paper grain give the dark shapes a soft, handmade texture. The image is framed within irregular printed edges and a white margin, like a small page from an illustrated book. Light is diffuse and shadow modest; expression comes from silhouette, proportion, and the careful spacing between the figures. The whole frame feels tender and lightly absurd in its spare, weathered simplicity.",
+  "full_prompt_zh": "一幅奇趣的墨线与水彩故事书画面描绘一只高大的黑狗坐在赤褐色雨伞下，身旁站着一个小小的直立伙伴。黑狗占据右半部，身体是简洁的炭黑剪影，长尖耳、方鼻子、一只圆而浅色的眼睛，弯尾搭在地上。纤细的深色前肢握住伞杆，弯钩形伞柄垂在胸前。小伙伴站在左侧，穿红色格纹外套，顶着小耳朵、圆眼睛和细如棍子的腿。两者尺度的差异提供温和幽默，却都被赋予同样安静的尊严。雨伞横跨上方中部，成为唯一宽阔的彩色形状，锈红色伞面被纤细深色伞骨分开。他们身后是开放的米色纸面，没有画出天气或环境。下方一道狭窄的灰棕色地面条带已足够支撑角色。细密排线、不均匀的颜料浓度和淡淡纸纹，使深色形体拥有柔软的手工质地。图像被不规则印制边缘和白色留边围住，如同一本图画书中的小页。光线漫射，阴影克制；情感来自剪影、比例和人物之间谨慎留下的距离。整幅画因节省、旧化的简洁处理而显得温柔且略带荒诞。",
+  "style_prompt_en": "The ink-and-watercolor illustration uses spare charcoal silhouettes, a single broad rust-red accent, warm beige paper, and a narrow neutral ground band. Forms are simplified into memorable geometry, with tiny pale circular details and thin appendages set against larger dark masses. Fine hatching and uneven pigment fill soften the silhouettes, while visible paper grain gives the image an aged handmade surface. A wide open background surrounds a compact central grouping; the most expansive curved shape sits above smaller upright shapes and creates a protective visual canopy. Outlines are slightly irregular rather than vector-smooth. Light remains diffuse, and depth is conveyed by scale and overlap instead of shading or perspective. An uneven inner border reinforces the printed storybook quality. The whole frame feels tender, wry, and calm through careful spacing, restrained color, and tactile simplicity.",
+  "style_prompt_zh": "这幅墨线与水彩插画使用节省的炭黑剪影、单一宽阔的锈红色重点、暖米色纸面和狭窄的中性地面带。形体被简化为易记的几何轮廓，细小浅色圆点和纤细附属线条与更大的深色体量相对。细密排线与不均匀的颜料填充柔化剪影，可见纸纹让画面具有旧化手工表面。宽阔开放的背景围住紧凑的中央组合；最宽大的弧形位于较小的直立形体上方，形成视觉上的庇护。轮廓略不规则，而非矢量般平滑。光线保持漫射，纵深靠尺度与重叠传达，而非阴影或透视。不齐整的内边框强化了印制故事书的质感。整幅画因谨慎的间距、克制的色彩和可触的简洁感而显得温柔、诙谐且平静。",
+  "theme_en": "A black dog sharing an umbrella with a tiny companion",
+  "theme_zh": "黑狗与小伙伴共撑一把伞",
+  "wh_ratio": "1:1",
+  "id": "0304",
+  "name": "Marc Johns",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/marc-johns",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/marc-johns.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "f0d5a45a5b02a13eae4677a1cb7f2044a659a31527db2b0c5a2e3337c5263ae3",
+    "gpt_submission_prompt": "A whimsical ink-and-watercolor storybook image shows a tall black dog sitting beneath a russet umbrella beside a tiny upright companion. The dog occupies the right half, its body a simple charcoal silhouette with long pointed ears, a square snout, one round pale eye, and a curved tail on the ground. A thin dark arm holds the umbrella shaft, while the curved handle hangs in front of its chest. The small companion stands to the left in a red checked coat, with little ears, round eyes, and stick-thin legs. Their difference in scale supplies the gentle humor of the scene, yet both are treated with the same quiet dignity. The umbrella spans the upper middle as the single broad color shape, its rust-red panels divided by fine dark ribs. Behind them is an open beige paper field with no drawn weather or setting. A narrow gray-brown ground strip runs across the bottom, just enough to support the figures. Fine hatching, uneven pigment density, and faint paper grain give the dark shapes a soft, handmade texture. The image is framed within irregular printed edges and a white margin, like a small page from an illustrated book. Light is diffuse and shadow modest; expression comes from silhouette, proportion, and the careful spacing between the figures. The whole frame feels tender and lightly absurd in its spare, weathered simplicity.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "aee0314981883a95110e6d60fe9b779026285755219b09df90109f8ca641f0d5",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

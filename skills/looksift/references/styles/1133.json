@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A cool-toned architectural photograph looks through a spare concrete passage toward a bright wedge of mountain landscape. The viewer stands under a broad sloping ceiling whose surface shows subtle seams, stains, and rough patches. Tall walls on both sides create a deep trapezoidal corridor; the right wall is washed in blue-green shadow, while the left catches a paler light. At the far end, a sharply angled opening reveals a lush mountain slope in rich blue and green, with a bright patch of sky and sunlight near the lower edge. A small rectangular doorway is set into the right wall near the opening, giving the otherwise monumental concrete a human scale. The floor is smooth and light, with a broad diagonal band of sunlight crossing from the outer opening into the sheltered space. Sparse plants or dark ground texture gather at the lower left edge, but the composition remains largely empty. The camera viewpoint is level and measured, emphasizing the depth and geometry of the passage rather than a dramatic tilt. Cool cyan, gray, and muted forest green dominate, with clear but restrained contrast. Edges of the concrete planes are crisp, while the distant vegetation has softer detail. The photograph feels contemplative and spatially precise, using large quiet surfaces and a single opening to make the transition from enclosure to open air visible.",
+  "full_prompt_zh": "一张冷色调建筑照片，视线穿过简洁的混凝土通道，望向露出山景的明亮楔形开口。观者站在宽阔倾斜的顶板下方，其表面有细微接缝、污痕和粗糙斑块。两侧高墙形成深长的梯形走廊；右墙浸在蓝绿色阴影里，左侧承接较浅的光。远端一个锐利斜角的开口露出浓蓝与绿色的茂密山坡，下方附近还有一片亮天空和日光。右墙靠近出口处嵌着一扇小矩形门，让原本巨大的混凝土有了人的尺度。地面平滑而浅色，一条宽宽的斜向阳光从外部开口横穿进遮蔽空间。左下缘聚着零星植物或深色地面纹理，但构图整体仍很空。镜头视点水平且有节制，强调通道的纵深和几何，而不依靠戏剧化倾斜。冷青、灰和低调森林绿占主导，对比清楚却克制。混凝土平面的边缘锐利，远处植被细节较柔。照片沉思且空间准确，以巨大而安静的表面与单一开口，让从封闭到开放空气的过渡可见。",
+  "style_prompt_en": "Cool-toned photography built from large quiet planes, exact diagonal edges, and a bright angular opening. Cyan-gray and blue-green shadow meet pale concrete-like surfaces and a softer, saturated distance. Directional natural light creates one broad wedge across a smooth lower plane, while sheltered areas retain subtle seams and weathered texture. The viewpoint is level and measured, giving strong depth through receding walls rather than distortion. Crisp near geometry contrasts with softer distant detail. Negative space is generous, and the overall mood is contemplative, spatially precise, and calm.",
+  "style_prompt_zh": "冷色调摄影风格，以安静的大平面、精确的斜边和明亮棱角开口构成。青灰与蓝绿阴影碰到浅色混凝土般表面和更柔、更饱和的远景。定向自然光在平滑下方平面上形成一道宽楔形光，受遮蔽区域保留细微接缝与风化纹理。视点水平有节制，通过后退的墙面而非形变建立强烈纵深。清楚的近处几何与较柔的远方细节对照。留白充裕，整体沉思、空间精准且安静。",
+  "theme_en": "A pale concrete passage opening toward blue mountain air",
+  "theme_zh": "浅色混凝土通道通向蓝色山间空气",
+  "wh_ratio": "1:1",
+  "id": "1133",
+  "name": "Naoya Hatakeyama",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/naoya-hatakeyama",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/naoya-hatakeyama.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "7d8ccd47c889f2bdc7fe8c6275891211c4a9b9644c0b55618e23a71f7c21ba0e",
+    "gpt_submission_prompt": "A cool-toned architectural photograph looks through a spare concrete passage toward a bright wedge of mountain landscape. The viewer stands under a broad sloping ceiling whose surface shows subtle seams, stains, and rough patches. Tall walls on both sides create a deep trapezoidal corridor; the right wall is washed in blue-green shadow, while the left catches a paler light. At the far end, a sharply angled opening reveals a lush mountain slope in rich blue and green, with a bright patch of sky and sunlight near the lower edge. A small rectangular doorway is set into the right wall near the opening, giving the otherwise monumental concrete a human scale. The floor is smooth and light, with a broad diagonal band of sunlight crossing from the outer opening into the sheltered space. Sparse plants or dark ground texture gather at the lower left edge, but the composition remains largely empty. The camera viewpoint is level and measured, emphasizing the depth and geometry of the passage rather than a dramatic tilt. Cool cyan, gray, and muted forest green dominate, with clear but restrained contrast. Edges of the concrete planes are crisp, while the distant vegetation has softer detail. The photograph feels contemplative and spatially precise, using large quiet surfaces and a single opening to make the transition from enclosure to open air visible.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "98da2442143401197739f2757e8feac4449a5e0a17201229f9eb3f7b1cff491e",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

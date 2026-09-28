@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square ocean photograph looks close into the interior of a powerful breaking wave at low light. The wave curls from the upper left and sweeps downward toward the middle, creating a dark turquoise tunnel whose rounded opening contains a small, intense golden glow. The near water fills the lower half in glossy navy and black, streaked by thin blue highlights and a few warm reflections. Along the inner face of the curl, layered green-blue bands, tiny bubbles, and ragged foam reveal the thickness and speed of the moving water. The crest above is turbulent and partly translucent; scattered droplets break away into the dark air. Beyond the tunnel, a narrow sliver of distant horizon and pale warm sky appears, but the main space is enclosed by the wave. No surfer or boat is visible. The camera sits almost on the water surface, giving the curl immense scale and making the small light at its opening feel far away. Light is concentrated at the tunnel's end, with amber and pale gold leaking through the thinner water and catching spray. The outer mass remains deep teal and charcoal, so the warm center becomes the clear point of attention. The photograph retains fine surface detail in the moving liquid, from ribbed lines to bubbles and flecks, while the foreground is slightly softened by water close to the lens. The composition is a strong spiral around a tiny bright aperture. It is both violent and strangely intimate, presenting the instant before a wave collapses as an enclosed world of cold motion and warm light.",
+  "full_prompt_zh": "一幅方形海洋摄影在低光下贴近强烈破浪的内部。浪从左上卷起，向中央扫落，形成深青绿隧道，圆形开口里有一小团强烈金光。近处水面以发亮的海军蓝和黑色占据下半，划着细蓝高光和少量暖倒影。卷曲内壁有层叠绿蓝色带、细气泡和参差泡沫，显出流动水体的厚度与速度。上方浪尖翻涌、局部半透明，散开的水滴飞进暗空气。隧道之外露出狭窄远地平线和浅暖天空，但主要空间被浪包围。看不到冲浪者或船。相机几乎贴着水面，让卷浪有巨大尺度，也使开口里的小亮光显得遥远。光集中于隧道尽头，琥珀与浅金穿过较薄水层并照亮水花。外侧体量保持深青与炭色，因此暖中心成为清楚的注意焦点。照片保留流动液体的细表面细节，从肋状线到气泡与碎点，前景则因水贴近镜头而略柔。构图是一条围绕极小明亮开口的有力螺旋。它猛烈却奇异地亲密，把浪崩塌前的一瞬呈现为冷色运动与暖光围成的封闭世界。",
+  "style_prompt_en": "Low-light water-level photography shapes a near-spiral from a heavy translucent liquid mass. Deep teal, navy, and charcoal carry fine ribbed flow lines, bubbles, spray, and glossy reflections. A tiny amber-gold aperture concentrates the light, sending a few warm streaks through otherwise cold shadow. Keep the foreground broad and dark, the crest textured and unsettled, and the distant opening small. Close camera placement magnifies scale while maintaining physical detail. The effect is immersive, dramatic, and tactile, balancing fluid violence with a contained luminous center.",
+  "style_prompt_zh": "低光近水面摄影以厚重半透明液体体量塑造近似螺旋。深青、海军蓝和炭色带细肋状流线、气泡、水花与发亮倒影。极小琥珀金开口集中光线，把几道暖痕送入其余冷阴影。前景宽而深，浪尖有纹理且躁动，远开口保持微小。贴近的相机放大尺度，同时保留物理细节。效果沉浸、戏剧化、可触，在液体的猛烈与被包裹的明亮中心之间平衡。",
+  "theme_en": "A dark turquoise wave curling around a small golden glow at sea level",
+  "theme_zh": "深青绿卷浪环绕水面一小团金光",
+  "wh_ratio": "1:1",
+  "id": "1957",
+  "name": "Warren Keelan",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/warren-keelan",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/warren-keelan.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "1124717a42316e1f81cf084cd47426d1b92bba8d0e81adc55e655563edcd50e3",
+    "gpt_submission_prompt": "A square ocean photograph looks close into the interior of a powerful breaking wave at low light. The wave curls from the upper left and sweeps downward toward the middle, creating a dark turquoise tunnel whose rounded opening contains a small, intense golden glow. The near water fills the lower half in glossy navy and black, streaked by thin blue highlights and a few warm reflections. Along the inner face of the curl, layered green-blue bands, tiny bubbles, and ragged foam reveal the thickness and speed of the moving water. The crest above is turbulent and partly translucent; scattered droplets break away into the dark air. Beyond the tunnel, a narrow sliver of distant horizon and pale warm sky appears, but the main space is enclosed by the wave. No surfer or boat is visible. The camera sits almost on the water surface, giving the curl immense scale and making the small light at its opening feel far away. Light is concentrated at the tunnel's end, with amber and pale gold leaking through the thinner water and catching spray. The outer mass remains deep teal and charcoal, so the warm center becomes the clear point of attention. The photograph retains fine surface detail in the moving liquid, from ribbed lines to bubbles and flecks, while the foreground is slightly softened by water close to the lens. The composition is a strong spiral around a tiny bright aperture. It is both violent and strangely intimate, presenting the instant before a wave collapses as an enclosed world of cold motion and warm light.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "b195bff8be518c9e3d52f5a626542cefbbc3a2156168d02085f26c61ee962f13",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A close grouping of four elderly observers is painted in a restrained early fresco manner. Their heads overlap in a tight horizontal sequence, all turned toward the left so that the rhythm of brows, noses and beards carries the viewer across the image. At the front, a white-bearded man wears a deep ultramarine hood and matching drapery with thick folds; immediately behind him is a bald man in dusty rose, then a curly blond-bearded man wrapped in ochre orange, while a fourth face is partly cropped at the far left edge. Each face has a distinct age and bone structure, with carefully defined eyelids, forehead lines, long noses, and softly blended beard hair. Their expressions are sober and concentrated, their eyes directed toward something beyond the frame. A pale weathered stone arch and gray masonry sit close behind them, providing a simple shallow setting rather than landscape depth. Warm earth tones and subtle directional light from the upper left model the heads; blue cloth provides the strongest color, with orange and rose as quieter counterweights. Tempera-like matte surfaces, precise dark contours, delicate hair strokes and soft gradations give the image a painted character without glossy photographic detail. Slight wear and uneven texture recall an old painted wall. The square crop feels intentionally intimate, almost as if one meaningful section has been lifted from a larger narrative painting, with every face contributing to the calm, solemn visual rhythm.",
+  "full_prompt_zh": "四位年长观察者的近景群像呈现克制的早期壁画笔法。他们的头部在水平方向紧密重叠，全部转向左侧，使眉、鼻和胡须的节奏带领视线穿过画面。最前方的白须男子戴深群青兜帽，身上同色布料形成厚重褶皱；紧随其后是穿灰玫瑰色衣服的秃顶男子，再后是一位卷曲金发胡须、披赭橙布料的男子，第四张脸在最左缘被部分裁掉。每张脸有不同的年龄和骨骼特征，眼睑、额纹、长鼻及柔和层染的胡须都清晰细致。他们神情严肃专注，目光都朝画框之外。浅色风化石拱和灰色砌石紧贴其后，形成简单而浅的背景，不展开深远风景。暖土色和来自左上方的微妙定向光塑造头部；蓝衣是最强色彩，橙与玫瑰红则安静平衡。蛋彩般的哑光表面、准确深色轮廓、细致毛发笔触与柔和过渡构成绘画质感，没有光滑照片细节。表面带有旧绘墙面的轻微磨损和不平肌理。正方形裁切显得亲密，像从更大的叙事画中截取出意味深长的一段，每张脸都为平静而庄严的视觉节奏出力。",
+  "style_prompt_en": "Early fresco-like painting combines matte tempera color, weathered plaster texture, lucid contours, gentle modeling of warm planes, fine linear strokes, and shallow space. Overlapping forms create a measured rhythm, with strong ultramarine balanced by warm ochre, rose, and stone gray. Soft directional light gives the square image solemn clarity.",
+  "style_prompt_zh": "早期壁画式绘画，哑光蛋彩、风化灰泥肌理、清楚轮廓、暖色平面的柔和塑造、细线笔触和浅层空间并存。重叠形体形成有节奏的排列，强烈群青与暖赭、灰玫瑰色和石灰灰相平衡。柔和而有方向的光使正方形画面庄严清晰。",
+  "theme_en": "Four attentive elders standing in profile beneath a stone arch",
+  "theme_zh": "四位长者站在石拱下侧身凝望",
+  "wh_ratio": "1:1",
+  "id": "3472",
+  "name": "Masaccio",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/masaccio",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "ba0057ea795abc852ed223dcd333ebad5fa5f23a9669d03bf34ac3c52893986d",
+    "gpt_submission_prompt": "A close grouping of four elderly observers is painted in a restrained early fresco manner. Their heads overlap in a tight horizontal sequence, all turned toward the left so that the rhythm of brows, noses and beards carries the viewer across the image. At the front, a white-bearded man wears a deep ultramarine hood and matching drapery with thick folds; immediately behind him is a bald man in dusty rose, then a curly blond-bearded man wrapped in ochre orange, while a fourth face is partly cropped at the far left edge. Each face has a distinct age and bone structure, with carefully defined eyelids, forehead lines, long noses, and softly blended beard hair. Their expressions are sober and concentrated, their eyes directed toward something beyond the frame. A pale weathered stone arch and gray masonry sit close behind them, providing a simple shallow setting rather than landscape depth. Warm earth tones and subtle directional light from the upper left model the heads; blue cloth provides the strongest color, with orange and rose as quieter counterweights. Tempera-like matte surfaces, precise dark contours, delicate hair strokes and soft gradations give the image a painted character without glossy photographic detail. Slight wear and uneven texture recall an old painted wall. The square crop feels intentionally intimate, almost as if one meaningful section has been lifted from a larger narrative painting, with every face contributing to the calm, solemn visual rhythm.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "f4ed9e8648f5c3f83614cc3eb95432b4e42eabb408ffe05c985d11a4cbd404e4",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

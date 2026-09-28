@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square oil landscape looks down a pale dirt road running from the lower center toward a distant village. Low houses and dark trees stretch across the horizon, while tall narrow trees punctuate the middle ground on both sides of the road. Yellow-green fields spread left and right, broken by olive shadows, ochre strokes, and rough clumps of vegetation. Above, a broad peach-pink sky holds a small yellow sun in the upper left, its light warming the buildings and earth without casting hard shadows. A tiny dark walker appears far down the road, giving the scene a human scale. The perspective is clear but not rigid: the road narrows to the village, while painted marks keep its edges loose. Thick, restless strokes and dragged pigment cover the canvas. Greens, yellows, pinks, and brown blacks are interwoven rather than smoothly blended, so surface texture remains as important as the landscape forms. The distant houses are simplified into pale rectangular patches, and tree crowns into scratchy upright clusters. The composition is expansive but intimate, with the road serving as a quiet invitation into the scene. Light seems to shimmer across the fields and the sky. The painting has the warmth and material density of expressive impasto, with no lettering or decorative border.",
+  "full_prompt_zh": "一幅方形油画风景沿浅色土路望去，道路从下方中央通向远村。低矮房屋和深树横布地平线，细高树在路两边的中景形成标点。黄绿田野向两侧展开，被橄榄色暗影、赭色笔痕和粗糙植被团打断。上方宽广桃粉天空在左上放着一轮小黄太阳，光温暖屋舍与土地，却没有生硬投影。路远处有一个极小深色行人，赋予场景人的尺度。透视清楚但不僵硬：道路向村中收窄，绘画笔痕让边缘保持松散。厚重躁动笔触与拖拽颜料覆盖画布。绿、黄、粉与棕黑相互穿织而非平滑融合，表面纹理同风景形体一样重要。远屋简化成浅矩形斑块，树冠化作刮擦竖向团簇。构图宽展却亲密，道路像安静地邀人入景。光似在田野与天空上闪烁。画面带表现性厚涂的温暖和物质密度，没有字样或装饰边框。",
+  "style_prompt_en": "Expressive impasto oil painting with dragged pigment, broken strokes, and visibly interwoven warm and cool color. Peach-pink light and yellow-green fields meet olive and umber accents; small pale geometric patches stabilize a loose horizon. A receding diagonal or central path can organize depth without suppressing the active surface. Shimmering color and tactile paint matter more than smooth naturalistic finish.",
+  "style_prompt_zh": "表现性厚涂油画具有拖拽颜料、断续笔触和明显交织的冷暖色。桃粉光与黄绿大色场碰上橄榄、赭褐重音；远处小片浅几何稳定松动地平线。后退的斜向或中央引导线组织纵深，同时不压住活跃表面。闪烁色彩与可触颜料比平滑写实完成度更重要。",
+  "theme_en": "A road leading through sunlit fields toward a distant village",
+  "theme_zh": "穿过阳光田野通向远村的道路",
+  "wh_ratio": "1:1",
+  "id": "3184",
+  "name": "Beauford Delaney",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/beauford-delaney",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "862ab3e799205491ed69de521743f5ee8a7cd907194eb0258482fd4d1ed70772",
+    "gpt_submission_prompt": "A square oil landscape looks down a pale dirt road running from the lower center toward a distant village. Low houses and dark trees stretch across the horizon, while tall narrow trees punctuate the middle ground on both sides of the road. Yellow-green fields spread left and right, broken by olive shadows, ochre strokes, and rough clumps of vegetation. Above, a broad peach-pink sky holds a small yellow sun in the upper left, its light warming the buildings and earth without casting hard shadows. A tiny dark walker appears far down the road, giving the scene a human scale. The perspective is clear but not rigid: the road narrows to the village, while painted marks keep its edges loose. Thick, restless strokes and dragged pigment cover the canvas. Greens, yellows, pinks, and brown blacks are interwoven rather than smoothly blended, so surface texture remains as important as the landscape forms. The distant houses are simplified into pale rectangular patches, and tree crowns into scratchy upright clusters. The composition is expansive but intimate, with the road serving as a quiet invitation into the scene. Light seems to shimmer across the fields and the sky. The painting has the warmth and material density of expressive impasto, with no lettering or decorative border.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "a700b4edff88005436026458dcba0e5a5aed7a20a8f94851bcd1df79835f1fef",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

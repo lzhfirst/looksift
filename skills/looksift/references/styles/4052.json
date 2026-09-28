@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square mixed-media painting fills the frame with a close-up human face assembled from vivid overlapping patches of color. The face turns slightly upward and to the right, with wide dark eyes, a sharply defined nose, and parted lips near the lower center. Short dark hair meets the upper edge, while one ear remains visible at the left. Around the features, hot pink, orange, yellow, turquoise, blue, violet, and white break into irregular strips, dabs, and torn-looking fields. The skin is not rendered as a continuous natural tone; its planes are carried by abrupt color changes and darker drawn contours. Small dotted and hatched areas cross the cheeks and neck, making the surface feel printed, painted, and collaged at once. Behind the head, the background is equally active, with saturated fragments pressing toward the profile instead of receding into a quiet setting. At the lower right, a dark collar and a pale garment edge anchor the otherwise explosive composition. The strongest highlights sit on the eyes, nose bridge, and lower lip, while deep blue-black lines carve shadow beneath the jaw and around the nostrils. Light reads as high-contrast graphic modeling rather than a single natural source, and the color patches create their own pulsing brightness. The image retains a clear human expression even as its surface resists smooth realism. The overall composition is exuberant and tightly cropped, with fragmented marks and competing saturated hues holding the face in restless focus.",
+  "full_prompt_zh": "一幅方形混合媒材绘画让由鲜艳重叠色块拼成的人脸特写充满画面。面孔略微向右上方转，深色大眼、轮廓明确的鼻子和下方中央微张的嘴唇清晰可见。短深发触及上边缘，左侧露出一只耳朵。五官周围，亮粉、橙、黄、绿松石蓝、蓝、紫和白破碎为不规则长片、色点与仿佛撕开的色域。皮肤并非连续的自然肤色，而由突然变换的色面和较深的手绘轮廓构成。细小点纹和排线横过脸颊与脖颈，让表面同时具有印刷、绘画与拼贴触感。头部后方也同样活跃，饱和色碎片挤向侧脸，而非退为安静场景。右下角的深色衣领和浅色衣边稳住了近乎爆裂的构图。最强亮点落在眼睛、鼻梁与下唇，深蓝黑线则刻出下颌和鼻孔周围的阴影。光更像高反差图形塑形，而非单一自然光源；色块自身制造跳动的亮度。尽管表面抵抗光滑写实，图像仍保留清楚的人类神情。整体构图热烈且裁切紧密，破碎笔痕和互相争夺的饱和色使面孔保持不安分的焦点。",
+  "style_prompt_en": "Mixed-media painting and printlike collage turn solid modeling into irregular, overlapping fragments. Jagged patches, small dotted passages, short hatching, and assertive dark contours coexist on a visibly worked surface. Hot pink, orange, yellow, turquoise, cobalt, and violet compete at high saturation, with black and pale cream supplying sharp anchors. Light emerges from juxtaposed color and hard graphic contrast more than from a consistent physical source. Dense marks crowd the frame, yet a few continuous contours keep a focal structure readable. The effect is exuberant, tactile, and deliberately unruly.",
+  "style_prompt_zh": "混合媒材绘画与印刷感拼贴把连续塑形拆成不规则的重叠碎片。锯齿状色块、小片点纹、短排线和有力深色轮廓共存在明显加工过的表面上。亮粉、橙、黄、绿松石蓝、钴蓝和紫以高饱和度互相竞争，黑色和浅奶油色提供锐利锚点。光主要来自并置色彩与强烈图形反差，而非稳定的物理光源。密集笔痕挤满画幅，但少数连续轮廓仍使焦点结构可读。整体效果热烈、有触感，并有意不受拘束。",
+  "theme_en": "A close-up face built from vivid painted fragments",
+  "theme_zh": "由鲜艳彩色绘画碎片构成的面孔特写",
+  "wh_ratio": "1:1",
+  "id": "4052",
+  "name": "Funk art",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/funk-art.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "4477da2e9927f83c873f88871b9de1fdabb5bd5186753f80bb77af27443e143a",
+    "gpt_submission_prompt": "A square mixed-media painting fills the frame with a close-up human face assembled from vivid overlapping patches of color. The face turns slightly upward and to the right, with wide dark eyes, a sharply defined nose, and parted lips near the lower center. Short dark hair meets the upper edge, while one ear remains visible at the left. Around the features, hot pink, orange, yellow, turquoise, blue, violet, and white break into irregular strips, dabs, and torn-looking fields. The skin is not rendered as a continuous natural tone; its planes are carried by abrupt color changes and darker drawn contours. Small dotted and hatched areas cross the cheeks and neck, making the surface feel printed, painted, and collaged at once. Behind the head, the background is equally active, with saturated fragments pressing toward the profile instead of receding into a quiet setting. At the lower right, a dark collar and a pale garment edge anchor the otherwise explosive composition. The strongest highlights sit on the eyes, nose bridge, and lower lip, while deep blue-black lines carve shadow beneath the jaw and around the nostrils. Light reads as high-contrast graphic modeling rather than a single natural source, and the color patches create their own pulsing brightness. The image retains a clear human expression even as its surface resists smooth realism. The overall composition is exuberant and tightly cropped, with fragmented marks and competing saturated hues holding the face in restless focus.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "5289a1839a053b80a1e933cc316b9a8da05728fd527d8ff4769a433533821ca4",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

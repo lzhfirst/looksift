@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A young woman sits in profile beside a tall divided window, her hands resting quietly in her lap as she looks into the daylight. She wears a warm orange blouse beneath a dark pinafore, and her fair hair is gathered at the nape of her neck. Strong sunlight enters from the right, illuminating her cheek, sleeve, and shoulder while the room behind her falls into deep, cool shadow. On the broad windowsill stands a rounded dark vase overflowing with small yellow flowers; a translucent green glass vessel and a small brown object sit nearby. Outside the panes, soft blue distance and a few low roofs are only lightly indicated. The composition is built on a vivid exchange between dark interior mass and glowing window color: the orange sleeve and yellow blossoms answer one another across the center, while the black skirt grounds the lower half. The paint is loose enough to reveal short, lively brush marks in cloth and wall, yet the face and posture remain tenderly observed. Sunlit edges are warm and crisp, dissolving into soft shadow around the skirt and corner. The window bars supply a simple vertical and horizontal structure, balanced by the round vase and the gentle curve of the seated figure. The scene feels domestic and unhurried, filled with the particular warmth of afternoon light rather than staged drama.",
+  "full_prompt_zh": "一位年轻女子侧身坐在高高的分格窗旁，双手安静地放在膝上，望向日光。她穿着暖橙色上衣和深色围裙裙装，浅色头发在颈后束起。强烈的阳光从右侧照进来，照亮她的脸颊、袖子和肩膀，身后的室内则沉入深沉的冷色阴影。宽窗台上放着一个圆润的深色花瓶，盛满小小的黄色花朵；旁边还有一只半透明的绿色玻璃器皿和一件棕色小物。窗外的柔蓝远景和几处低矮屋顶仅被轻轻提示。构图建立在室内暗块与发亮窗色的鲜明交换上：橙色袖子和黄色花朵隔着画面中心彼此呼应，黑色裙摆稳住下半部。颜料足够松动，让衣料和墙面显出短促而活泼的笔痕，但面容和姿态仍被温柔观察。日照边缘温暖清晰，在裙摆和墙角附近逐渐融入柔软阴影。窗框的纵横线提供简洁结构，并与圆花瓶和坐姿的轻缓曲线取得平衡。场景居家而不急促，充满午后阳光特有的温暖，而非摆拍式的戏剧感。",
+  "style_prompt_en": "Warm directional light cuts through a cool, dark tonal mass, selecting a few edges and saturated accents for emphasis. Orange, gold, and pale cream glow beside deep umber, blue-grey, and muted green. Broad shadow planes give the composition weight; shorter broken strokes animate illuminated surfaces. Structural verticals and horizontals are softened by rounded forms and gentle curves. Transparent color notes and small bright clusters add sparkle within an otherwise restrained interior atmosphere. Edges sharpen where light strikes, then dissolve into surrounding shade. The paint feels direct and tactile, balancing keen observation with visible brushwork. The mood is intimate, still, and quietly radiant.",
+  "style_prompt_zh": "温暖的定向光切入冷而深的明暗色块，挑出少数边缘和饱和色重音。橙色、金色和浅奶油色在深棕、蓝灰与柔和绿色旁发亮。宽大的阴影平面给构图分量；较短的断续笔痕让受光表面活跃起来。结构性的纵横线由圆润形体和轻缓曲线柔化。透明色彩与小片明亮色簇在原本克制的室内空气中带来闪烁感。边缘在受光处变清晰，随后融入周围阴影。颜料处理直接而可触摸，在敏锐观察与可见笔触之间取得平衡。气氛亲近、静止而悄然发光。",
+  "theme_en": "A young woman sitting by a sunlit window with yellow flowers",
+  "theme_zh": "一位年轻女子坐在洒满阳光的窗边，身旁有黄色花束",
+  "wh_ratio": "1:1",
+  "id": "3740",
+  "name": "Anna Ancher",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/anna-ancher",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "6baff7953da02cdec71b9b62c11fb583664be934afac83d4ccc82d5d08b0d7d6",
+    "gpt_submission_prompt": "A young woman sits in profile beside a tall divided window, her hands resting quietly in her lap as she looks into the daylight. She wears a warm orange blouse beneath a dark pinafore, and her fair hair is gathered at the nape of her neck. Strong sunlight enters from the right, illuminating her cheek, sleeve, and shoulder while the room behind her falls into deep, cool shadow. On the broad windowsill stands a rounded dark vase overflowing with small yellow flowers; a translucent green glass vessel and a small brown object sit nearby. Outside the panes, soft blue distance and a few low roofs are only lightly indicated. The composition is built on a vivid exchange between dark interior mass and glowing window color: the orange sleeve and yellow blossoms answer one another across the center, while the black skirt grounds the lower half. The paint is loose enough to reveal short, lively brush marks in cloth and wall, yet the face and posture remain tenderly observed. Sunlit edges are warm and crisp, dissolving into soft shadow around the skirt and corner. The window bars supply a simple vertical and horizontal structure, balanced by the round vase and the gentle curve of the seated figure. The scene feels domestic and unhurried, filled with the particular warmth of afternoon light rather than staged drama.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "87eb896b1e3dd67123ac420b867c88b00c16132ee3db23c0042e6db036804f9b",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

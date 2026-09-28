@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square folk-art cityscape fills the frame with a hillside town packed tightly above a blue waterfront. Buildings of many sizes rise in tiers: a pale domed civic structure near the center, small red-brick houses, blue and yellow façades, narrow towers, and varied roofs. Round treetops in deep emerald and olive tuck into almost every gap, making the architecture feel woven through a green canopy. At the upper left, a strip of water and a few small sailboats open the otherwise dense pattern. The lower edge is shadowed by near trees and tightly clustered roofs. Each window, door, balcony, and cornice is delineated with miniature crisp marks, but the overall composition remains readable through stacked color blocks. The palette is rich yet controlled: deep teal, navy, brick red, ochre, cream, and warm illuminated yellow. Sunlight falls across the upper building faces while tree masses and lower streets stay deeper in tone. There is little empty sky; the view celebrates accumulation and pattern more than an isolated landmark. Perspective is gently compressed, allowing the eye to climb from waterfront through successive rows toward the upper hillside. The image feels busy, cheerful, and carefully handcrafted, with a quilt-like rhythm of small structures and rounded foliage.",
+  "full_prompt_zh": "一幅方形民间艺术城市景把蓝色水岸上方的山坡小镇紧密填满画框。大小不一的建筑分层升起：中央附近有淡色圆顶公共建筑，还有红砖小屋、蓝黄立面、窄塔和各式屋顶。深祖母绿与橄榄色圆树冠塞进几乎每处空隙，让建筑仿佛编进绿冠。左上有一带水面和几艘小帆船，为原本浓密图案打开通道。下缘被近处树木与紧密屋顶压暗。每扇窗、门、阳台与檐口都以微型清晰笔痕界定，但整个构图仍靠叠加色块保持可读。配色丰富而受控：深青、藏蓝、砖红、赭、奶油与温暖亮黄。阳光掠过上层建筑正面，树团和较低街道保留深调。空天很少；视野庆祝积累和图案，而不突出单一地标。透视温和压缩，使视线从水岸沿连续行列爬向上坡。画面繁忙、快乐且精心手制，微小建筑与圆润叶团形成拼布般节奏。",
+  "style_prompt_en": "Folk-art city painting builds a dense tapestry from miniature crisp details and broad stacked color masses. Teal, navy, brick red, ochre, cream, and warm yellow remain distinct yet harmonious. Rounded organic clusters weave between angular blocks, producing a repeating quilt-like rhythm. Light picks out selected upper planes and windows; darker lower layers preserve depth within the crowding. Perspective is compressed and tiered, inviting the eye to travel upward through successive bands. The surface is richly handworked, cheerful, and intricate without relying on photographic precision.",
+  "style_prompt_zh": "民间艺术城市绘画以微型清楚细节和宽阔叠放色团织成浓密画面。青绿、藏蓝、砖红、赭、奶油与暖黄彼此分明而和谐。圆形有机簇穿插在棱角块间，产生反复拼布节奏。光点亮部分上层平面与窗，更深的下层在拥挤中保持纵深。透视压缩而分层，引导视线穿过连续色带向上移动。表面充满手工痕迹，愉快繁密，却不依靠摄影精确感。",
+  "theme_en": "A layered hillside town of colorful buildings and trees",
+  "theme_zh": "树木与多彩建筑层叠的山坡小镇",
+  "wh_ratio": "1:1",
+  "id": "2566",
+  "name": "Eric Dowdle",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/eric-dowdle",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/eric-dowdle.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "db486acc99d47c539ce3cb651915a9cf94c05dac66da2d95b9aa5cd95701f50b",
+    "gpt_submission_prompt": "A square folk-art cityscape fills the frame with a hillside town packed tightly above a blue waterfront. Buildings of many sizes rise in tiers: a pale domed civic structure near the center, small red-brick houses, blue and yellow façades, narrow towers, and varied roofs. Round treetops in deep emerald and olive tuck into almost every gap, making the architecture feel woven through a green canopy. At the upper left, a strip of water and a few small sailboats open the otherwise dense pattern. The lower edge is shadowed by near trees and tightly clustered roofs. Each window, door, balcony, and cornice is delineated with miniature crisp marks, but the overall composition remains readable through stacked color blocks. The palette is rich yet controlled: deep teal, navy, brick red, ochre, cream, and warm illuminated yellow. Sunlight falls across the upper building faces while tree masses and lower streets stay deeper in tone. There is little empty sky; the view celebrates accumulation and pattern more than an isolated landmark. Perspective is gently compressed, allowing the eye to climb from waterfront through successive rows toward the upper hillside. The image feels busy, cheerful, and carefully handcrafted, with a quilt-like rhythm of small structures and rounded foliage.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "9ab1eff3fbdd59794da6e05d714e3ebc6769c02a24a5bb78cfc9dc6515ba36f5",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

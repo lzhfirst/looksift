@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square stylized animation illustration shows two young adults seated on floor cushions across a low tea setting in a compact Japanese-style room. The dark-clothed figure at left leans forward with head lowered, dark hair falling toward the face. The figure at right wears a pale turquoise robe with a lavender bow at the back and sits upright, turned in profile toward the companion. Small bowls, cups, and a dark kettle or pot rest between them on low trays. A green tatami-like floor fills the foreground, with warm peach mats beneath the seated figures. Behind them, a paper-paneled door, shelves, clock, framed pictures, and scattered everyday objects create a dense lived-in interior. The perspective is slightly oblique, with floor lines leading toward the doorway on the right. The palette combines deep forest green and near-black shadow with faded teal, tan, ochre, and restrained pink. Indoor light is low and diffuse, entering from the left window and lifting the paper panels, robe, and tea objects while the ceiling and left figure remain darker. Clean drawn contours and flattened color areas are tempered by grainy, worn shading. There is no readable lettering. The overall composition is quiet and conversational, with two simple silhouettes held inside a richly observed room.",
+  "full_prompt_zh": "一幅方形风格化动画插画描绘两名年轻成人坐在紧凑日式房间的坐垫上，隔着低矮茶具相对。左侧深色衣物的人向前倾，低着头，深发垂向面部。右侧人物穿浅青绿色袍服，背后有淡紫色结，坐姿端正，侧身朝向同伴。小碗、杯子和深色壶置于两人之间的低盘上。绿色榻榻米状地面填满前景，坐姿人物下方铺着暖桃色垫。后方，纸格门、架子、时钟、画框和散落的日常物品，组成细密而有人生活过的室内。透视略斜，地板线条引向右侧门口。色谱把深森林绿和近黑阴影，与褪色青绿、黄褐、赭黄及节制粉色结合。室内光低而弥散，从左窗进入，照亮纸格、袍服和茶具，天花板与左侧人物仍更暗。干净绘线和压平色面被颗粒状磨旧阴影柔化。没有可辨认文字。整体构图安静而像在交谈，两道简单剪影被细致观察的房间包围。",
+  "style_prompt_en": "A stylized animation illustration combines clean dark contours and flattened color planes with grainy worn shading. Deep forest green and near-black anchor the frame, while faded teal, tan, ochre, and restrained pink give selected areas warmth. Oblique floor lines and upright panel rhythms build a compact interior depth without realistic rendering. Low diffuse side light brightens pale rectangular surfaces and small objects while leaving the upper and side areas shadowed. Dense everyday detail gathers around a quiet central gap, and simple silhouettes remain legible within the busy setting. The surface feels graphic yet lived in, with controlled texture and a hushed conversational pace.",
+  "style_prompt_zh": "风格化动画插画把干净深轮廓与压平色面，同颗粒状磨旧阴影结合。深森林绿和近黑压住画幅，褪色青绿、黄褐、赭黄与节制粉色使部分区域带暖意。斜向地板线和竖向分格节奏建立紧凑空间深度，却不用写实塑造。低而弥散的侧光照亮浅色矩形表面与小物，上方和侧边仍留在影里。密集日常细节围绕安静中央间隙聚集，简单剪影在繁忙环境中仍清晰。表面图形化却有生活痕迹，纹理受控，节奏像低声交谈。",
+  "theme_en": "Two companions sharing tea on the floor of a lived-in room",
+  "theme_zh": "两位同伴在生活气息浓厚的房间席地喝茶",
+  "wh_ratio": "1:1",
+  "id": "2255",
+  "name": "The Tatami Galaxy",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/the-tatami-galaxy",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/the-tatami-galaxy.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "54cb097ee1d328951f579313b4b67f3940c642820fcac2cd199a661c29fa1b97",
+    "gpt_submission_prompt": "A square stylized animation illustration shows two young adults seated on floor cushions across a low tea setting in a compact Japanese-style room. The dark-clothed figure at left leans forward with head lowered, dark hair falling toward the face. The figure at right wears a pale turquoise robe with a lavender bow at the back and sits upright, turned in profile toward the companion. Small bowls, cups, and a dark kettle or pot rest between them on low trays. A green tatami-like floor fills the foreground, with warm peach mats beneath the seated figures. Behind them, a paper-paneled door, shelves, clock, framed pictures, and scattered everyday objects create a dense lived-in interior. The perspective is slightly oblique, with floor lines leading toward the doorway on the right. The palette combines deep forest green and near-black shadow with faded teal, tan, ochre, and restrained pink. Indoor light is low and diffuse, entering from the left window and lifting the paper panels, robe, and tea objects while the ceiling and left figure remain darker. Clean drawn contours and flattened color areas are tempered by grainy, worn shading. There is no readable lettering. The overall composition is quiet and conversational, with two simple silhouettes held inside a richly observed room.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "db77e2753dcdf823e2104e66086ef7b33acec12a9112dd4a17b4e8907fe7aff1",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

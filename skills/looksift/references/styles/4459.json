@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square candid color photograph captures a dark-haired person leaning toward the camera across a cluttered dinner table in a dim interior. Their pale face, dark brows, and direct intense eyes emerge from near-black clothing and shadow. One hand holds a utensil over a plate near the lower middle; the other arm reaches upward toward their hair or the wall behind. In front sit used dishes, cups, crumpled napkins, a clear bottle, amber glassware, and small fragments of food on a patterned red-brown tablecloth. A pink dish or napkin catches light at the lower left. The wall behind has aged floral wallpaper, and a dark chair back is barely visible. A blunt on-camera flash lights the face and tabletop with warm hard-edged brightness while the room corners remain heavy and dark. Colors feel slightly shifted toward red and amber, with grain, uneven exposure, and an imperfect snapshot crop. The person occupies the top-center rather than posing neatly; table objects spill toward the frame edges, making the viewer feel seated among them. The picture records a private, unscripted social moment, with emotional directness produced by proximity, flash, and disorder rather than formal composition.",
+  "full_prompt_zh": "一张方形随手拍的彩色照片捕捉一位深发人物在昏暗室内隔着凌乱餐桌向镜头倾身。浅色面庞、深眉和直视镜头的强烈双眼从近黑衣服与阴影中浮出。一只手在下方中央附近用餐具拨弄盘中食物，另一条手臂举向头发或身后墙面。前方放着用过的盘、杯、皱餐巾、透明瓶、琥珀色玻璃杯和红棕花纹桌布上的食物碎屑。左下一个粉色盘子或餐巾接住光。背后墙上是陈旧花纹壁纸，深色椅背几乎隐没。直接的机顶闪光灯以暖而硬的光照亮脸和桌面，房间角落则浓暗。颜色略偏红和琥珀，带颗粒、曝光不均和不完美的快照裁切。人物占据上方中央，没有端正摆拍；桌上物件溢向画框边缘，使观看者像坐在同席。画面记录私密、不排演的社交瞬间，情感直接性来自近距离、闪光灯和杂乱，而非正式构图。",
+  "style_prompt_en": "Intimate snapshot photography with blunt direct flash, dense near-black surroundings, warm red-amber color drift, visible grain, and imperfect framing. Close proximity brightens select faces and clutter while corners collapse into shadow. Tangible domestic textures and uneven exposure convey a lived moment. Composition feels spontaneous, crowded, and emotionally direct rather than carefully staged.",
+  "style_prompt_zh": "亲密的快照摄影，以直接而生硬的闪光灯、近黑环境、偏红琥珀色的色偏、可见颗粒及不完美取景构成。近距离使选定表面与杂物突然发亮，角落沉入阴影。可触摸的日常肌理与曝光不均传递正在发生的生活瞬间。构图自发、拥挤而情感直接，不像精心安排。",
+  "theme_en": "An intimate flash-lit dinner snapshot with a dark-haired guest",
+  "theme_zh": "一位深发客人的亲密闪光灯晚餐快照",
+  "wh_ratio": "1:1",
+  "id": "4459",
+  "name": "Nan Goldin",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/nan-goldin.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "a70a26b45afe2226ad8e662b1122ee9fa9285efab59a91e7d9e10dc4989a9311",
+    "gpt_submission_prompt": "A square candid color photograph captures a dark-haired person leaning toward the camera across a cluttered dinner table in a dim interior. Their pale face, dark brows, and direct intense eyes emerge from near-black clothing and shadow. One hand holds a utensil over a plate near the lower middle; the other arm reaches upward toward their hair or the wall behind. In front sit used dishes, cups, crumpled napkins, a clear bottle, amber glassware, and small fragments of food on a patterned red-brown tablecloth. A pink dish or napkin catches light at the lower left. The wall behind has aged floral wallpaper, and a dark chair back is barely visible. A blunt on-camera flash lights the face and tabletop with warm hard-edged brightness while the room corners remain heavy and dark. Colors feel slightly shifted toward red and amber, with grain, uneven exposure, and an imperfect snapshot crop. The person occupies the top-center rather than posing neatly; table objects spill toward the frame edges, making the viewer feel seated among them. The picture records a private, unscripted social moment, with emotional directness produced by proximity, flash, and disorder rather than formal composition.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "729590cdd3355faf4fe8afb0ffa63d861aac3915f399047ffc4b87b375be5f17",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

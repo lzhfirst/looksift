@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "This is a square, storybook-style painted illustration of two children and a small rabbit in a hollow enclosed by roots and dark stone. The hollow opens from a shadowed foreground toward a small patch of warm light at the upper center. On the left, an older child in a blue-gray coat crouches close to the ground, holding a rounded object in both hands. A pale rabbit sits near the lower left edge, partly framed by angular roots. On the right, a younger child in a pale blouse and rust-colored skirt kneels facing the other child, hands gathered near the lap. Between them lies a scattered pile of small orange-brown round objects on the earthen floor. Thick, branching roots and rocklike forms curve over the group to make a dark arch; fine twigs and leaf debris cover the lower edge. Warm light filters through the opening above, touching the children's hair, the central objects, and the dusty ground. The cave walls remain charcoal blue and brown, with tiny drawn lines describing bark, stone, and tangled vegetation. The figures are small against the enclosing structure, so the hollow feels secret and protective as well as slightly ominous. Their faces and hands are softly modeled, while the surrounding root network is more angular and densely hatched. No writing appears. The overall composition is a quiet fairy-tale encounter, with a warm central triangle of activity held inside a dark, richly textured natural frame.",
+  "full_prompt_zh": "这是一幅方形、故事绘本式的绘画插画，两个孩子和一只小兔子待在被树根与深色石头包围的洞穴里。洞穴从阴暗前景通向上方中央一小块暖色亮处。左侧，较大的孩子穿蓝灰外套，贴地蹲下，双手拿着一个圆形物件。浅色兔子坐在左下边缘附近，部分被棱角状树根框住。右侧，较小的孩子穿浅色上衣和锈色裙子，跪坐着面向另一个孩子，双手收在膝前。两人之间，泥土地面上散着一堆橙褐色小圆物。粗大的分枝树根与石头般形体在他们上方弯成深色拱顶；细枝与落叶碎屑覆盖下边缘。暖光从上方开口滤入，照到孩子的头发、中央物件与尘土地面。洞壁保持炭蓝与褐色，细小绘制线条描写树皮、石面和纠结植被。人物相对于包围结构显得很小，使洞穴既秘密、安全，又略带不安。面孔与双手塑形柔和，周围树根网络则更有棱角，排线也更密。没有文字。整体构图是一场安静的童话相遇，中央暖色的三角形活动被深色、肌理丰富的自然框架围住。",
+  "style_prompt_en": "The illustrated treatment places a small pool of warm cream and rust light inside a much larger charcoal-blue and earthy-brown enclosure. Rootlike branching lines, fine hatching, and scratched granular marks make the surrounding texture dense, while focal forms are smoother and more gently modeled. Curved outer masses create a protective arch and direct attention inward. Small warm accents near the center balance the cool, shadowed perimeter. The linework is delicate but irregular, allowing the painted surface to feel handmade rather than mechanically crisp. Space is shallow and intimate, with overlapping dark layers suggesting hidden depth. The overall effect is mysterious, tender, and tactile, holding quiet activity inside a richly worked frame.",
+  "style_prompt_zh": "这种插画处理在更大范围的炭蓝和土褐包围中设置一小池暖奶油色与锈色光。树根般的分枝线、细密排线和刮擦颗粒痕使周围肌理浓密，焦点形体则更平顺、塑形更柔和。弯曲外围体量形成保护性的拱，并把注意力引向内部。中央附近的少量暖色强调平衡冷而昏暗的外围。线条精细却不规则，使绘画表面有手工感，而非机械式清晰。空间浅而亲密，重叠暗层暗示隐藏的纵深。整体效果神秘、温柔且有触感，将安静活动容纳在经营丰富的框架之内。",
+  "theme_en": "Two children with a rabbit in a root-filled woodland hollow",
+  "theme_zh": "两个孩子与一只兔子在遍布树根的林间洞穴里",
+  "wh_ratio": "1:1",
+  "id": "3007",
+  "name": "Brothers Grimm",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/brothers-grimm",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/brothers-grimm.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "27849094e17be22f7ad0d4fdc006e0f88611b96ca71b388f78b7bb023991a200",
+    "gpt_submission_prompt": "This is a square, storybook-style painted illustration of two children and a small rabbit in a hollow enclosed by roots and dark stone. The hollow opens from a shadowed foreground toward a small patch of warm light at the upper center. On the left, an older child in a blue-gray coat crouches close to the ground, holding a rounded object in both hands. A pale rabbit sits near the lower left edge, partly framed by angular roots. On the right, a younger child in a pale blouse and rust-colored skirt kneels facing the other child, hands gathered near the lap. Between them lies a scattered pile of small orange-brown round objects on the earthen floor. Thick, branching roots and rocklike forms curve over the group to make a dark arch; fine twigs and leaf debris cover the lower edge. Warm light filters through the opening above, touching the children's hair, the central objects, and the dusty ground. The cave walls remain charcoal blue and brown, with tiny drawn lines describing bark, stone, and tangled vegetation. The figures are small against the enclosing structure, so the hollow feels secret and protective as well as slightly ominous. Their faces and hands are softly modeled, while the surrounding root network is more angular and densely hatched. No writing appears. The overall composition is a quiet fairy-tale encounter, with a warm central triangle of activity held inside a dark, richly textured natural frame.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "30def0fa6b76e7c30da63a9e1ca80400e3ab2451d7bb92be521ddb290adac17c",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

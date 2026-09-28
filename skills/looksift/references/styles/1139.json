@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square interior photograph looks down a sequence of rooms through several vivid blue doorframes. The nearest room has a floor of irregular blue and white tiles that fills the lower half and gleams with reflected daylight. Walls are old, chalky, and partly flaked, with pale blue wash over white plaster. On the right, a low tiled counter holds ceramic vessels and bowls; on the left, a plain narrow wooden bench sits beside a tall bright window. Through the central doorway, more blue frames repeat toward a sunlit room at the far end, where a small table and chairs are silhouetted against the light. A dark hanging lamp is visible in the middle distance. The viewpoint is level and centered enough to make the door sequence a strong perspective tunnel, while the uneven surfaces keep the image informal and lived in. Cool daylight enters from the left window and the far opening, creating bright tile reflections and soft shadows along the counter and door recesses. Deep cobalt edges punctuate otherwise pale azure, white, and muted wood. Fine wear, grout lines, and chipped plaster are clearly visible, but the far room becomes gently softer. No readable lettering appears. The overall composition is airy and tactile, with repeated rectangles guiding the eye through layers of blue toward warm white light.",
+  "full_prompt_zh": "一张方形室内照片透过几道鲜明蓝色门框，望向一连串房间。最近的房间有不规则蓝白瓷砖地面，填满下半幅，并在日光中发出反光。墙面陈旧、粉笔般粗糙且部分剥落，白灰泥上覆浅蓝色洗。右侧低矮瓷砖台面摆着陶器与碗；左侧一条素净窄木凳靠着高而明亮的窗。穿过中央门口，更多蓝门框反复延伸到最远端受日照房间，那里小桌和椅子在光前成为剪影。中远处可见一盏深色吊灯。视点平而足够居中，使门序列成为强透视通道，不均匀表面又让图像随性且有人生活过。冷日光从左窗和远处开口进入，形成明亮砖面反射，以及台面和门凹处的柔影。深钴蓝边缘点破其他较浅的天蓝、白和暗木色。细磨损、砖缝与剥落灰泥清楚可见，最远房间则轻轻柔化。没有可辨认文字。整体构图通气而可触，反复矩形引导视线穿过层层蓝色，走向暖白光。",
+  "style_prompt_en": "An interior photographic surface combines vivid cobalt framing with chalky pale blue and white planes. Repeated rectangular openings create a deep central perspective, while irregular glossy patches below reflect cool side light. Matte chipped textures, visible seams, and worn edges contrast with smooth luminous areas and muted wood tones. Light enters from a side opening and a distant bright endpoint, giving soft recess shadows without making the space dark. The near surface is tactile and detailed, the far layers gently softer. The composition feels airy and lived in, with rhythm from nested frames and blue color recurring at different depths.",
+  "style_prompt_zh": "室内摄影表面把鲜明钴蓝框线与粉笔般浅蓝、白色平面结合。反复矩形开口形成中央深透视，下方不规则亮面反射冷侧光。哑光剥落纹理、可见接缝和磨旧边缘，对照平滑发亮区域与暗木色。光从侧面开口和远端明亮终点进入，使内凹处有柔影，却不使空间昏暗。近处表面可触且细致，远层轻轻柔化。构图通气、有人生活过，节奏来自套叠框形与不同深度反复的蓝色。",
+  "theme_en": "A weathered blue room opening into a sunlit sequence of interiors",
+  "theme_zh": "磨旧蓝色房间通向一连串明亮室内",
+  "wh_ratio": "1:1",
+  "id": "1139",
+  "name": "Paola Navone",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/paola-navone",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/paola-navone.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "40b02e27118fc634a197b28658e23960a38a3b20ab1e60ecba7f8d662155c522",
+    "gpt_submission_prompt": "A square interior photograph looks down a sequence of rooms through several vivid blue doorframes. The nearest room has a floor of irregular blue and white tiles that fills the lower half and gleams with reflected daylight. Walls are old, chalky, and partly flaked, with pale blue wash over white plaster. On the right, a low tiled counter holds ceramic vessels and bowls; on the left, a plain narrow wooden bench sits beside a tall bright window. Through the central doorway, more blue frames repeat toward a sunlit room at the far end, where a small table and chairs are silhouetted against the light. A dark hanging lamp is visible in the middle distance. The viewpoint is level and centered enough to make the door sequence a strong perspective tunnel, while the uneven surfaces keep the image informal and lived in. Cool daylight enters from the left window and the far opening, creating bright tile reflections and soft shadows along the counter and door recesses. Deep cobalt edges punctuate otherwise pale azure, white, and muted wood. Fine wear, grout lines, and chipped plaster are clearly visible, but the far room becomes gently softer. No readable lettering appears. The overall composition is airy and tactile, with repeated rectangles guiding the eye through layers of blue toward warm white light.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "105d921e117ad79b09e326d9dbd1cb5710ee1fff3d7bac5f488aa5195f8067f4",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

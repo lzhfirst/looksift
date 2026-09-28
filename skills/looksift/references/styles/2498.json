@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square visionary painting shows a dark curving roadway sweeping from the lower foreground toward a luminous city near the center. A huge elliptical arch frames the horizon, and long beams of white, yellow, pink, blue and green light radiate from a brilliant point among the distant towers. The road's parallel lanes bend smoothly around dark reflective water, carrying warm orange edges and cool teal reflections into the foreground. Slender towers stand as narrow silhouettes against the burst of light. The arch is thick and dark along its outer rim, giving the chromatic rays a strong enclosed stage. Beyond it, the sky is divided into long prismatic wedges that seem to converge on the city. The painting combines geometric control with visibly brushed color: crisp road curves contrast with streaky, layered rays and irregular dark side forms. Deep navy and black hold the outside of the composition while the center glows nearly white. The viewpoint is low and forward moving, as though the viewer approaches the city along the road. No pedestrians or vehicles are prominent; spatial motion and radiant color carry the narrative. The square frame intensifies the tunnel-like depth by bringing the arch close to every side. The atmosphere is utopian, theatrical and electrically charged, turning infrastructure and light into one sweeping visual rhythm.",
+  "full_prompt_zh": "一幅正方形幻想绘画呈现深色弯曲道路从下方前景扫向中央附近发光的城市。巨大的椭圆拱环框住地平线，白、黄、粉、蓝、绿长光束从远方楼群中的明亮一点放射。道路的平行车道平滑绕过深色反光水面，把暖橘边线和冷青绿倒影带入前景。纤细楼塔在光爆前形成窄剪影。拱环外缘厚而深暗，使彩色射线拥有有力的封闭舞台。拱内天空被分成长棱镜楔形，似乎都向城市汇聚。绘画把几何控制与可见的刷色结合：道路清晰曲线对比带条痕、层叠的射线和不规则深色侧面形体。深海军蓝与黑色稳住画面外围，中心几乎亮成白色。视点低且向前移动，仿佛观者沿路靠近城市。行人和车辆并不突出；空间运动与放射色彩承担叙事。正方形画幅把拱环推近各边，强化隧道般纵深。气氛乌托邦、剧场化且充满电流感，使基础设施与光成为一道横扫画面的视觉节奏。",
+  "style_prompt_en": "The style is visionary modernist painting with prismatic radial color, monumental curving geometry and a bright distant vanishing point. Crisp parallel arcs pull the eye inward while visibly brushed rays fan across the upper field. Deep navy and black perimeter masses heighten a near-white central glow. Teal reflections and warm orange edges provide chromatic counterpoint. The square composition feels tunnel-like and forward moving, with infrastructural precision fused to theatrical color and luminous abstraction.",
+  "style_prompt_zh": "这种风格是幻想式现代主义绘画，具有棱镜般放射色彩、宏大的弯曲几何与远处明亮消失点。清楚的平行弧线把目光向内拉，可见刷痕的射线在上方色场扇形展开。深海军蓝和黑色外围体块加强近白的中央辉光。青绿倒影与暖橘边缘形成彩色对位。正方形构图像隧道般向前推进，把基础设施的精确性与剧场色彩和发光抽象融为一体。",
+  "theme_en": "A radiant futuristic city beyond a curving elevated roadway",
+  "theme_zh": "弯曲高架道路尽头放射光芒的未来城市",
+  "wh_ratio": "1:1",
+  "id": "2498",
+  "name": "Joseph Stella",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/joseph-stella",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/joseph-stella.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "078e23058d9470225e3543a89c1b4b15126aea8b0dd275565340f53d802af78a",
+    "gpt_submission_prompt": "A square visionary painting shows a dark curving roadway sweeping from the lower foreground toward a luminous city near the center. A huge elliptical arch frames the horizon, and long beams of white, yellow, pink, blue and green light radiate from a brilliant point among the distant towers. The road's parallel lanes bend smoothly around dark reflective water, carrying warm orange edges and cool teal reflections into the foreground. Slender towers stand as narrow silhouettes against the burst of light. The arch is thick and dark along its outer rim, giving the chromatic rays a strong enclosed stage. Beyond it, the sky is divided into long prismatic wedges that seem to converge on the city. The painting combines geometric control with visibly brushed color: crisp road curves contrast with streaky, layered rays and irregular dark side forms. Deep navy and black hold the outside of the composition while the center glows nearly white. The viewpoint is low and forward moving, as though the viewer approaches the city along the road. No pedestrians or vehicles are prominent; spatial motion and radiant color carry the narrative. The square frame intensifies the tunnel-like depth by bringing the arch close to every side. The atmosphere is utopian, theatrical and electrically charged, turning infrastructure and light into one sweeping visual rhythm.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "dad435eff807aea213cc90973b016631a60aa25dd20fb34ba15fcce0f0e79c01",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

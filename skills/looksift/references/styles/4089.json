@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square painterly scene shows a young woman seated indoors, leaning over an open notebook in her lap. She fills most of the frame, her bowed head and dark braided hair occupying the upper center. A loose blue-violet dress with pale cuffs wraps around her shoulders and falls in broad folds across the lower half. Her right hand holds a slender pen close to the page, while the left supports the notebook near its lower edge. Warm light strikes her cheek, hands, and white paper, guiding attention to the quiet act of writing. Behind her, the room is only loosely described: gray-blue furniture, a shadowed vertical opening, and a second indistinct seated figure or reflection blend into quick strokes. The foreground edge contains muted brown and cream patches that suggest a table or fabric without resolving into sharp objects. Brush marks stay broad and visible in the dress and setting, while the face and hands receive smaller, gentler transitions. Cool cobalt, violet, gray, and cream dominate, with warm peach and ochre reserved for lit skin and nearby highlights. The light appears to come from the upper left, making the page the brightest plane and leaving the room behind in softly broken shadow. There is no readable writing on the notebook. The overall composition is intimate and unhurried, with the downward curve of the figure gathered around a small luminous page.",
+  "full_prompt_zh": "一幅方形绘画场景表现一位年轻女子坐在室内，俯身在腿上的打开笔记本上书写。她占据画面大部，低垂的头和深色盘发位于上方中央。宽松的蓝紫色裙装带浅色袖口，从肩头包裹下来，在下半部形成宽大褶皱。她的右手握着细笔贴近纸页，左手在下缘附近扶着本子。暖光照到面颊、双手和白纸，将注意力引向安静的书写动作。身后的房间只被松散描出：灰蓝家具、深色竖向开口，以及一位模糊的坐者或倒影融入快捷笔触。前景边缘的暗棕与奶油色块暗示桌面或布料，但没有变成边界清晰的物件。裙装与环境中的笔痕宽阔可见，脸和手则以更小、更轻的过渡塑形。钴蓝、紫色、灰与奶油色占主导，暖桃色和赭色留给受光皮肤与附近亮点。光似来自左上方，使纸页成为最亮平面，后方房间处在柔和破碎的暗影中。笔记本上没有可读字迹。整体构图亲密而从容，人物向下弯曲的线条围拢着一小片发亮的纸页。",
+  "style_prompt_en": "Painterly realism uses broad, visible strokes for secondary areas and finer soft transitions near the focus. Cobalt, blue-violet, cool gray, and creamy white carry most of the image; limited peach and ochre accents mark the brightest warm passages. Edges alternately resolve and dissolve, giving depth without meticulous outlines. Oblique soft light gathers around one pale plane and lets surrounding marks fall into broken, subdued shadow. A gently curved central rhythm draws the eye down toward a compact bright area, while peripheral forms remain loosely suggested. The result is observant, quiet, and tactile.",
+  "style_prompt_zh": "绘画式写实在次要区域使用宽阔可见的笔触，在焦点附近使用更细更柔的过渡。钴蓝、蓝紫、冷灰和奶油白承担画面大部，有限的桃色与赭黄标记最明亮的暖色部分。边缘时而明确、时而消散，不靠细密勾线也能产生纵深。斜向柔光聚在一块浅亮平面周围，让邻近笔痕落入破碎而收敛的阴影。中央柔和弯曲的节奏把视线引向下方紧凑亮区，外围形体只作松散提示。整体细察、安静且有触感。",
+  "theme_en": "A woman in a blue dress writing in a notebook",
+  "theme_zh": "穿蓝裙在笔记本上书写的女子",
+  "wh_ratio": "1:1",
+  "id": "4089",
+  "name": "Zinaida Serebriakova",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/zinaida-serebriakova.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "097b9dd75aeb35fab94032548f40ed0723cffd36df8ef43c6e89396751fb8d5a",
+    "gpt_submission_prompt": "A square painterly scene shows a young woman seated indoors, leaning over an open notebook in her lap. She fills most of the frame, her bowed head and dark braided hair occupying the upper center. A loose blue-violet dress with pale cuffs wraps around her shoulders and falls in broad folds across the lower half. Her right hand holds a slender pen close to the page, while the left supports the notebook near its lower edge. Warm light strikes her cheek, hands, and white paper, guiding attention to the quiet act of writing. Behind her, the room is only loosely described: gray-blue furniture, a shadowed vertical opening, and a second indistinct seated figure or reflection blend into quick strokes. The foreground edge contains muted brown and cream patches that suggest a table or fabric without resolving into sharp objects. Brush marks stay broad and visible in the dress and setting, while the face and hands receive smaller, gentler transitions. Cool cobalt, violet, gray, and cream dominate, with warm peach and ochre reserved for lit skin and nearby highlights. The light appears to come from the upper left, making the page the brightest plane and leaving the room behind in softly broken shadow. There is no readable writing on the notebook. The overall composition is intimate and unhurried, with the downward curve of the figure gathered around a small luminous page.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "156c2f464bdba6293c8ca64859a374a4ea04f14c42776d9f6db2881e17134c7c",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

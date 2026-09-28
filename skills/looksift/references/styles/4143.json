@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square mixed-media collage fills a pale canvas with torn photographic fragments, broad painted patches, and exposed paper. At the upper left, a red rectangular field sits beside a small dark black-and-white photograph. Additional gray photographic pieces appear along the upper edge, their subjects partly obscured by overpainting and abrasion. A warm yellow vertical shape and a rust-red curve anchor the far left, while the center is a large rough white area that seems scraped or transferred rather than evenly painted. Near the right, a small colored image of a rounded object peeks through a pale layered field. Along the bottom, black and gray stains accumulate in irregular blocks, with drips and rubbed marks extending upward. The pieces do not align to a strict grid; their edges overlap, tear, and fade into one another. The surface is materially busy despite the mostly pale palette: paper fibers, scratches, embedded grain, and uneven paint thickness remain visible. Broad studio light falls evenly across the flat canvas, but tiny shadows at lifted edges and darker recesses among layers reveal its physical depth. Red, ochre, black, gray, and cream carry the limited color, with small found-image details adding local contrast. Some fragments include marks too obscured to read as text. The overall composition is open yet restless, balancing a large abraded white center against colored and photographic weight around the margins.",
+  "full_prompt_zh": "一幅方形混合媒材拼贴在浅色画布上铺满撕开的照片碎片、宽阔色块与外露纸面。左上红色矩形紧挨一小块深色黑白照片。上缘还有灰调照片片段，其中主题被覆色与磨蚀遮住一部分。暖黄色竖形与铁锈红曲线稳住最左侧，中央大块粗糙白区更像刮擦或转印而非均匀涂绘。靠右一小片圆形物件的彩色图像从浅色叠层中露出。底部黑灰污痕聚成不规则块，滴流和磨擦痕向上延伸。碎片不依严格网格排列；边缘重叠、撕裂，或彼此消融。虽然色域大体浅淡，表面在材料上却繁忙：纸纤维、划痕、嵌入颗粒和不均颜料厚度都可见。宽泛影棚光均匀照到平面画布，但翘起边缘的小影和层间暗处显露其物理深度。红、赭黄、黑、灰与奶油色承担有限色彩，拾得图像的小细节提供局部反差。部分碎片有被遮得无法读作文字的痕迹。整体构图开阔却躁动，以大片磨蚀白色中心平衡边缘的彩色与照片重量。",
+  "style_prompt_en": "Mixed-media collage combines torn paper edges, photographic grain, transferred marks, broad paint, and scraped areas on a visibly layered support. A large abraded pale region allows smaller red, ochre, charcoal, and gray clusters to carry disproportionate visual weight. Edges range from crisp rectangular cuts to frayed overlaps and near-erased stains. Even frontal light reveals tiny relief shadows where layers lift, while deeper ink and paint patches create tonal anchors. The arrangement is asymmetrical and loose, with active margins around a quieter center. Its effect is found, weathered, and materially complex.",
+  "style_prompt_zh": "混合媒材拼贴把撕开的纸边、照片颗粒、转印痕、宽涂颜料与刮擦区域结合在明显分层的载体上。大片磨蚀浅色区让较小的红、赭黄、炭色和灰色聚合承担不成比例的视觉重量。边缘从利落矩形切口变化到毛糙叠边与近乎擦除的污痕。均匀正面光显出层片翘起处的小浮雕阴影，较深墨色与颜料块成为调性锚点。排列不对称而松散，安静中央周围是活跃边缘。效果像拾得之物，风化且材料层次复杂。",
+  "theme_en": "A weathered collage of photographs and colored paper on a pale canvas",
+  "theme_zh": "浅色画布上由照片和彩纸组成的风化拼贴",
+  "wh_ratio": "1:1",
+  "id": "4143",
+  "name": "Robert Rauschenberg",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/robert-rauschenberg.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "7da6c77a21acd432fdc6fba043a76e1055b9da9aad9edf36fea7abc520630d35",
+    "gpt_submission_prompt": "A square mixed-media collage fills a pale canvas with torn photographic fragments, broad painted patches, and exposed paper. At the upper left, a red rectangular field sits beside a small dark black-and-white photograph. Additional gray photographic pieces appear along the upper edge, their subjects partly obscured by overpainting and abrasion. A warm yellow vertical shape and a rust-red curve anchor the far left, while the center is a large rough white area that seems scraped or transferred rather than evenly painted. Near the right, a small colored image of a rounded object peeks through a pale layered field. Along the bottom, black and gray stains accumulate in irregular blocks, with drips and rubbed marks extending upward. The pieces do not align to a strict grid; their edges overlap, tear, and fade into one another. The surface is materially busy despite the mostly pale palette: paper fibers, scratches, embedded grain, and uneven paint thickness remain visible. Broad studio light falls evenly across the flat canvas, but tiny shadows at lifted edges and darker recesses among layers reveal its physical depth. Red, ochre, black, gray, and cream carry the limited color, with small found-image details adding local contrast. Some fragments include marks too obscured to read as text. The overall composition is open yet restless, balancing a large abraded white center against colored and photographic weight around the margins.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "2bfc350f75570414a58a0429d27aa02f4206fa8f2a20da57f00daef0790f3133",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

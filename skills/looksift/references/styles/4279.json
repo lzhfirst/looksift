@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square sepia storybook illustration shows a tall, crooked old house standing alone on a slight rise beside a quiet road. Its uneven gables, dark roof, little tower, and scattered windows form an eccentric silhouette against a parchment-colored sky. A narrow stair climbs from the road to an arched front door, where warm yellow lamplight spills out. Two leafless trees rise on either side, their thin branches scratching the pale air. A few tiny birds cross the upper right, and distant buildings fade along the low horizon. Fine black pen hatching describes roof shingles, stonework, railings, and shadowed garden growth; thin brown wash softens the night-like atmosphere. The house remains nearly black in its lower corners, with a few lit windows making it feel inhabited. The composition is centered and still, but the leaning rooflines and bare branches add a gentle unease. Paper stains and worn edges enhance the feel of an old illustrated page. The road curves around the foreground, giving a simple path toward the glowing door. The whole frame feels whimsical, lonely, and mildly gothic, with intimate lamplight standing against broad sepia emptiness.",
+  "full_prompt_zh": "一幅方形棕褐故事书插画呈现一栋高而歪斜的老屋，孤零零立在安静道路旁的小坡上。不平整的山墙、深色屋顶、小塔和散落窗户在羊皮纸色天空前形成古怪剪影。狭窄阶梯从路边通往拱形正门，暖黄色灯光从门内溢出。两棵光秃树立在屋两侧，纤细枝条刮过浅色空气。几只小鸟飞过右上方，远方建筑在低地平线旁淡去。细黑钢笔排线描写屋瓦、石造、栏杆和阴影里的花园草木；浅棕薄染柔化近夜色气氛。房子下角近乎全黑，几扇亮窗又使它像有人居住。构图居中静止，但倾斜屋顶和枯枝增添温和不安感。纸面污渍与磨旧边缘加强旧插画页的感觉。道路绕过前景弯曲，形成通向发光门口的简单路线。整体奇趣、孤独、轻微哥特，亲密灯光与宽阔棕褐空域对照。",
+  "style_prompt_en": "A sepia pen-and-wash storybook style places an eccentric dark silhouette against broad parchment-colored sky. Fine hatching and stipple articulate roofs, branches, masonry, and small windows, while thin brown wash gives the scene age. One concentrated warm lamplight draws the eye through a simple stair or path. Slightly crooked geometry and leafless organic lines introduce gentle unease without horror. Deep black lower masses balance the pale empty upper field. Tiny birds or distant marks establish scale. Paper stains, worn edges, and a narrow tonal range make the image feel like an old book plate: whimsical, lonely, and quietly gothic.",
+  "style_prompt_zh": "棕褐钢笔淡染故事书风格把古怪深色剪影放在宽阔羊皮纸色天空前。细排线和点描刻画屋顶、树枝、石墙与小窗，浅棕薄染给场景添上岁月感。一处集中的暖灯光通过简单台阶或路径牵引视线。稍歪斜几何与无叶有机线条带来温和不安，而非恐怖。深黑下方体量平衡上方浅色空域。细小飞鸟或远方笔迹标明尺度。纸面污渍、磨旧边缘和狭窄色调范围使画面像古书画页：奇趣、孤独、安静的哥特感。",
+  "theme_en": "A lonely crooked house glows at the entrance beneath a sepia sky",
+  "theme_zh": "孤独歪斜的屋子在棕褐天空下，门口发出微光",
+  "wh_ratio": "1:1",
+  "id": "4279",
+  "name": "John Kenn Mortensen",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/john-kenn-mortensen.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "78876b544aec07678a90241af8d8258ea9d2e631386ea32fbd450eaede3f5de7",
+    "gpt_submission_prompt": "A square sepia storybook illustration shows a tall, crooked old house standing alone on a slight rise beside a quiet road. Its uneven gables, dark roof, little tower, and scattered windows form an eccentric silhouette against a parchment-colored sky. A narrow stair climbs from the road to an arched front door, where warm yellow lamplight spills out. Two leafless trees rise on either side, their thin branches scratching the pale air. A few tiny birds cross the upper right, and distant buildings fade along the low horizon. Fine black pen hatching describes roof shingles, stonework, railings, and shadowed garden growth; thin brown wash softens the night-like atmosphere. The house remains nearly black in its lower corners, with a few lit windows making it feel inhabited. The composition is centered and still, but the leaning rooflines and bare branches add a gentle unease. Paper stains and worn edges enhance the feel of an old illustrated page. The road curves around the foreground, giving a simple path toward the glowing door. The whole frame feels whimsical, lonely, and mildly gothic, with intimate lamplight standing against broad sepia emptiness.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "5adbeb0078a99671a3fec1706e446c3b36cb0d48ab7623d6d6d1a592490d0860",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

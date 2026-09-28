@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square moody painterly photograph shows a young woman sitting in a dim room beside a narrow window and a heavy pale curtain. She is placed at the center, her head lowered and eyes nearly closed, with dark hair loosely gathered behind her neck and a few strands escaping around the face. Her bare shoulders and upper arms emerge softly from shadow. One arm crosses her lap, while the other hand falls toward the lower center with relaxed fingers. A voluminous off-white skirt or draped cloth gathers around her legs, its folds taking up much of the lower-right frame. The left side and upper background recede into murky olive and charcoal darkness, with the wall almost featureless except for uneven aged texture. At the far right, daylight filters through the tall curtain, revealing a muted sage-gray fabric weave. A small group of dark leafy stems rises near the lower-right window edge. Skin, cloth, and wall all carry subdued grain and worn painterly mottling; contours soften into the darkness rather than ending sharply. The window light comes from the right, brightening her cheek, shoulder, forearm, and a few creases of pale cloth, then fading across her torso and into the left background. The composition holds a quiet inward pose against broad shadow and a single vertical opening of light, giving the image a fragile, intimate sense of pause.",
+  "full_prompt_zh": "一幅方形、带绘画感的暗调摄影呈现年轻女子坐在狭窄窗和厚浅色窗帘旁的昏暗房间。她在中央，头低垂，双眼近乎闭合，深色头发松松拢在颈后，几缕发丝散在面旁。裸露肩膀与上臂柔和地从阴影里浮出。一臂横过腿上，另一只手向中下垂落，手指松弛。蓬松的米白裙子或垂布聚在腿周，褶皱占右下大部。左侧和上方背景退入浑浊橄榄色与炭色暗处，墙面除不匀的陈旧肌理外几乎无形。最右侧，日光透过高高的窗帘，露出低饱和鼠尾草灰的布纹。几根深色带叶枝条在右下窗边升起。肌肤、布和墙都有克制颗粒与磨旧的绘画斑驳；轮廓柔化进入暗处，而非锐利终止。窗光从右方进入，照亮脸颊、肩头、前臂和浅布几道褶，再越过上身淡入左侧背景。构图让安静内向的坐姿置于大片暗影与唯一竖向光口之间，形成脆弱亲密的停顿感。",
+  "style_prompt_en": "Painterly low-key photography uses one soft side window as the main light, allowing illuminated skin or fabric to emerge gradually from olive-charcoal shadow. Favor muted green-gray, warm cream, and earthy dark tones, with deep but textured blacks. Let worn grain, slight haze, and mottled surfaces soften contours like old paint. Place a quiet compact focal form beside a narrow vertical light area, leaving broad surrounding darkness unfilled. Cloth folds or other pale textured surfaces can catch the fading light and carry gentle movement. The transferable result is introspective, fragile, and intimate without glossy retouching.",
+  "style_prompt_zh": "绘画感低调摄影以一处柔和侧窗为主光，让受光肌肤或布面从橄榄炭色暗影里渐渐浮出。偏用低饱和绿灰、暖奶油色与土色深调，黑色浓重却有纹理。磨旧颗粒、轻雾和斑驳表面像旧油画一样柔化轮廓。将安静紧凑的焦点形体放在狭窄竖向亮区旁，周围大片暗处保持未填满。布褶或其他浅色有纹理的表面承接渐弱的光，带一点柔和运动。可迁移效果内省、脆弱而亲密，没有光滑修片感。",
+  "theme_en": "A woman seated in a dim room beside a pale curtain",
+  "theme_zh": "女子坐在昏暗房间中，身旁垂着浅色窗帘",
+  "wh_ratio": "1:1",
+  "id": "3881",
+  "name": "Katia Chausheva",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/katia-chausheva.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "1859dff174c3f504a55b820bc6e1bc40d485ed5bc1ffae6c198cf1e0ed033912",
+    "gpt_submission_prompt": "A square moody painterly photograph shows a young woman sitting in a dim room beside a narrow window and a heavy pale curtain. She is placed at the center, her head lowered and eyes nearly closed, with dark hair loosely gathered behind her neck and a few strands escaping around the face. Her bare shoulders and upper arms emerge softly from shadow. One arm crosses her lap, while the other hand falls toward the lower center with relaxed fingers. A voluminous off-white skirt or draped cloth gathers around her legs, its folds taking up much of the lower-right frame. The left side and upper background recede into murky olive and charcoal darkness, with the wall almost featureless except for uneven aged texture. At the far right, daylight filters through the tall curtain, revealing a muted sage-gray fabric weave. A small group of dark leafy stems rises near the lower-right window edge. Skin, cloth, and wall all carry subdued grain and worn painterly mottling; contours soften into the darkness rather than ending sharply. The window light comes from the right, brightening her cheek, shoulder, forearm, and a few creases of pale cloth, then fading across her torso and into the left background. The composition holds a quiet inward pose against broad shadow and a single vertical opening of light, giving the image a fragile, intimate sense of pause.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "9b85ddc422fa58fc0a8c22b2c93ae99aba50dc41d6d12ebac7e5b3c83c0d1d43",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

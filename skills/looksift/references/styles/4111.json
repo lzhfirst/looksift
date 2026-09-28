@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square marker drawing on off-white sketchbook paper shows a young woman from the shoulders up, her head tilted back slightly as she looks toward the upper right. Her dark hair is gathered behind the head, with loose strands crossing the face and neck. Strong navy-blue marker strokes define the jaw, throat, lashes, and the shadow under the cheek, while magenta and hot pink streaks sweep behind the head and through the hair. The face is mostly open paper, with only restrained pale gray and blue marks turning the nose and lips. A dark blue garment and striped marks enter at the lower right. Several capped markers lie beyond the paper's upper edge, making the image visibly a working drawing rather than a borderless digital portrait. Fast layered lines follow the hair and collar; broader chisel-tip patches give the shadows their graphic weight. Some strokes overlap imperfectly and leave white gaps between them. Light is suggested by untouched paper across the forehead, cheek, and shoulder, contrasted with intense blue on the neck. The warm pink background creates a lively counterpoint without describing a location. The composition is close, energetic, and improvisational, yet the eyes and profile remain carefully observed amid the bold color.",
+  "full_prompt_zh": "一幅方形马克笔画绘在米白素描本纸上，一位年轻女子的肩上半身仰起头，目光朝右上。深发在脑后束起，松发丝穿过脸和颈。强烈藏蓝马克笔划定下颌、喉、睫毛和颊下暗面，洋红与亮粉红条痕扫过头后与发间。脸大部分保留纸白，仅有克制浅灰与蓝笔痕转出鼻唇。深蓝衣物和条纹痕进入右下。几支带盖马克笔放在纸张上缘之外，让图像明显是工作中的手绘，而非无边数字肖像。快速层叠线顺头发和衣领方向运行；较宽的斜头色块给予阴影图形重量。部分笔触不完全对齐并留下白缝。光由额、颊和肩上的未着墨纸面暗示，对照颈上强蓝。暖粉背景形成活泼对应，却不描绘地点。构图贴近、充满能量且即兴，但眼与侧脸在大胆颜色中仍被仔细观察。",
+  "style_prompt_en": "Marker drawing uses fast layered lines, broad chisel-tip blocks, and open paper highlights. Navy blue, magenta, hot pink, gray, and off-white create a vivid restricted palette. Fine directional strokes can cross broader saturated patches, leaving irregular gaps and visible overlaps. Strong cool shadows give graphic weight while untouched paper holds the light. Edges remain handmade and slightly improvised, with crisp focal contours beside loose background sweeps. The surface is dry, direct, and energetic rather than smoothly blended. A close composition keeps observed detail in tension with expressive color.",
+  "style_prompt_zh": "马克笔画运用快速层叠线、宽斜头色块与留白纸面高光。藏蓝、洋红、亮粉、灰和米白构成鲜明受限配色。细定向笔痕穿过较宽饱和色片，留下不规则白缝与可见重叠。强冷影给予图形重量，未着墨纸面承担光。边缘手工且略即兴，清楚焦点轮廓邻接松散背景扫笔。表面干爽直接而有能量，并不平滑调和。贴近构图使观察细节与表现性色彩保持张力。",
+  "theme_en": "A woman drawn in blue and magenta marker on sketchbook paper",
+  "theme_zh": "素描本上以蓝紫马克笔绘成的女子",
+  "wh_ratio": "1:1",
+  "id": "4111",
+  "name": "Marker drawing",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/marker-drawing.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "6e05ec4e1ce9b9fbe42eff27449d0becf038dedc586e45bfe600d7148a0c80a5",
+    "gpt_submission_prompt": "A square marker drawing on off-white sketchbook paper shows a young woman from the shoulders up, her head tilted back slightly as she looks toward the upper right. Her dark hair is gathered behind the head, with loose strands crossing the face and neck. Strong navy-blue marker strokes define the jaw, throat, lashes, and the shadow under the cheek, while magenta and hot pink streaks sweep behind the head and through the hair. The face is mostly open paper, with only restrained pale gray and blue marks turning the nose and lips. A dark blue garment and striped marks enter at the lower right. Several capped markers lie beyond the paper's upper edge, making the image visibly a working drawing rather than a borderless digital portrait. Fast layered lines follow the hair and collar; broader chisel-tip patches give the shadows their graphic weight. Some strokes overlap imperfectly and leave white gaps between them. Light is suggested by untouched paper across the forehead, cheek, and shoulder, contrasted with intense blue on the neck. The warm pink background creates a lively counterpoint without describing a location. The composition is close, energetic, and improvisational, yet the eyes and profile remain carefully observed amid the bold color.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "47740295cb8a893ab44ad5037f2e0d68bea299f39075d2c6958d739eb6a4f5c9",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

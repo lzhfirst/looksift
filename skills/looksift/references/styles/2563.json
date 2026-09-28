@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square surreal narrative painting shows a narrow weathered house standing alone on a high, tapering cliff. The cliff rises from the lower left and slopes toward the house near the upper left, its top covered in long gold grass. A tiny figure stands on the path below the building, emphasizing the precarious scale. The house has steep roofs, a small tower, dark windows, and a yellow pennant on a thin pole. A red-leaved tree bends outward from the cliff edge to the right, its sparse canopy bright against heavy blue-gray clouds. The rest of the frame is largely sky, with mottled smoky cloud masses and a pale clearing on the right. Earth below the grassy edge is layered in jagged dark rock and rough brown brush. Paint is textured and slightly distressed, particularly in the stone and windblown grass; smaller architectural details are sharper. Warm light touches the path, cliff top, and tree, while the storm sky stays cool and shadowed. The unlikely isolated perch creates an atmosphere of wonder mixed with unease. The composition leads along the golden diagonal up to the house, then outward through the bending tree into open weather. The whole image feels like a quiet fragment of an unusual story.",
+  "full_prompt_zh": "一幅方形超现实叙事绘画描绘一栋狭窄陈旧的房子独立于高而尖细的悬崖。崖从左下升起，朝左上房屋斜坡延伸，顶部覆满长金草。建筑下方小路上有极小人影，强调摇摇欲坠的尺度。房子有陡屋顶、小塔、深窗和细杆上的黄旗。一棵红叶树从悬崖边向右伸出，稀疏树冠在厚重蓝灰云前发亮。其余画框大部分是天空，烟雾般斑驳云团聚集，右侧留浅色豁口。金草边缘下的土地由锯齿深岩与粗棕笔触层叠。颜料带肌理、略显磨损，尤其在石面和风吹草地；建筑细节较清楚。暖光照在小路、崖顶和树上，暴风天空保持冷与阴影。这个不可思议的孤立位置创造惊奇又不安的气氛。构图沿金色对角线上行至房子，再顺弯树向外进入开阔天气。整幅图像像一段安静的奇异故事。",
+  "style_prompt_en": "Surreal narrative painting pairs a small sharply described focal structure with broad stormy atmospheric fields. Golden ochre and rust accents glow against blue-gray, charcoal, and weathered brown. Rough scraped marks describe fractured mineral surfaces and windblown fibers; distant cloud forms blend more softly. Light is selective, warming one sloped plane while the surrounding field remains cool and heavy. A long diagonal guides the eye toward a precarious summit, then releases it into empty air. The finish is textured, wistful, and quietly uncanny.",
+  "style_prompt_zh": "超现实叙事绘画把细致描绘的小焦点结构放在宽阔暴风空气场中。金赭和锈红在蓝灰、炭色与风化棕前发亮。粗刮笔痕描出碎裂矿物表面和风吹纤维，远处云团调和得更柔。光选择性地暖化一片斜面，周围仍冷而沉重。长对角线把视线引向不稳的高处，再释放进空旷空气。完成面有肌理、怅惘且安静奇异。",
+  "theme_en": "A narrow house on a golden cliff under storm clouds",
+  "theme_zh": "暴风云下金色悬崖上的窄小房屋",
+  "wh_ratio": "1:1",
+  "id": "2563",
+  "name": "Esao Andrews",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/esao-andrews",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/esao-andrews.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "c39e276068115e13942ec8c06e69a42a029b315fc062c6bf130a3c405e188e88",
+    "gpt_submission_prompt": "A square surreal narrative painting shows a narrow weathered house standing alone on a high, tapering cliff. The cliff rises from the lower left and slopes toward the house near the upper left, its top covered in long gold grass. A tiny figure stands on the path below the building, emphasizing the precarious scale. The house has steep roofs, a small tower, dark windows, and a yellow pennant on a thin pole. A red-leaved tree bends outward from the cliff edge to the right, its sparse canopy bright against heavy blue-gray clouds. The rest of the frame is largely sky, with mottled smoky cloud masses and a pale clearing on the right. Earth below the grassy edge is layered in jagged dark rock and rough brown brush. Paint is textured and slightly distressed, particularly in the stone and windblown grass; smaller architectural details are sharper. Warm light touches the path, cliff top, and tree, while the storm sky stays cool and shadowed. The unlikely isolated perch creates an atmosphere of wonder mixed with unease. The composition leads along the golden diagonal up to the house, then outward through the bending tree into open weather. The whole image feels like a quiet fragment of an unusual story.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "3a5132ad39b0bad546a1a6f73d7d60d3f7e10a21e85c11107e08a82a28c75323",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

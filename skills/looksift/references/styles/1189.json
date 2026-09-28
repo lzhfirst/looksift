@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A candid color street photograph shows two friends standing close together on a city sidewalk in front of worn brick buildings and closed shop shutters. The person on the left wears a thick black fur-like coat over a patterned red and gold top, with large hoop earrings and dark sunglasses. Their hair is pulled high, and they face the camera with an assured, unsmiling expression. The person on the right wears a dark baseball cap marked with a small gold emblem, sunglasses, layered gold chains, a black leather jacket, and loose green trousers. One hand rests in a pocket while the other arm falls naturally beside the companion. The pair fill the foreground from head to below the knees, while the sidewalk runs away behind them to a softer, busier block of storefronts and distant pedestrians. Muted red doors, gray pavement, and brown masonry form a weathered urban backdrop for the rich black clothing and metallic jewelry. The light is overcast and even, allowing fabric texture, skin tones, and scuffed street surfaces to stay visible without harsh shadows. The photograph has the slightly subdued color and tactile grain of a late twentieth-century print. Its frontal, human-scale framing feels direct and respectful, preserving both the individuality of the outfits and the easy solidarity of the two figures in their neighborhood.",
+  "full_prompt_zh": "一张抓拍彩色街头照片，拍下两位朋友紧靠着站在城市人行道上，身后是磨旧的砖楼和关闭的店铺卷帘。左侧人物穿厚实的黑色毛绒外套，里面是红金相间的花纹上衣，戴大圈耳环与深色太阳镜。头发高高束起，面向镜头，神情自信而不露笑意。右侧人物戴一顶有小金色标志的深色棒球帽和太阳镜，佩戴多层金链，穿黑皮夹克与宽松绿裤。一只手插在口袋里，另一只手自然垂在同伴身边。两人从头到膝下占据前景，身后人行道向远处延伸，通向较柔软、较繁忙的店面与遥远路人。暗红色门、灰色铺地和棕色砖墙构成风化的城市背景，托出浓黑衣料与金属饰物。阴天光均匀，布料纹理、肤色和磨损的街面都保持可见，没有强烈投影。照片有二十世纪后期相纸般略微压低的色彩和可触颗粒。正面、贴近人的构图直接而尊重，既保留穿着的个性，也保留两人在社区中自然相伴的感觉。",
+  "style_prompt_en": "Direct color street photography with human-scale frontal framing and the slightly subdued color of an older print. Deep blacks, worn brick reds, gray pavement tones, muted green, and small metallic gold accents form a grounded palette. Overcast daylight keeps shadows gentle and details legible across fabric, skin, and weathered surfaces. The foreground forms are clear and confident; storefront textures and receding lines soften gradually into the distance. Fine grain and natural imperfections keep the image tactile. The composition is candid yet steady, attentive to personal presence within an ordinary urban setting.",
+  "style_prompt_zh": "直接的彩色街头摄影风格，正面构图贴近人的尺度，色彩像旧相纸般略微压低。深黑、磨旧砖红、灰色铺地、低调绿和少量金属金色构成扎实配色。阴天日光使阴影温和，布料、皮肤与风化表面上的细节都清楚。前景形态明确自信，店面纹理与后退的线条逐渐向远处变柔。细颗粒和自然的不完美保留触感。构图虽是抓拍却稳定，关注普通城市环境中人的存在。",
+  "theme_en": "Two friends in bold street clothes on a city sidewalk",
+  "theme_zh": "两位穿醒目街头服饰的朋友站在城市人行道上",
+  "wh_ratio": "1:1",
+  "id": "1189",
+  "name": "Jamel Shabazz",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/jamel-shabazz",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/jamel-shabazz.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "fd04adf811716531dbf439b86d6e758b8093129ee658f5453e47f0f5f59ab0e1",
+    "gpt_submission_prompt": "A candid color street photograph shows two friends standing close together on a city sidewalk in front of worn brick buildings and closed shop shutters. The person on the left wears a thick black fur-like coat over a patterned red and gold top, with large hoop earrings and dark sunglasses. Their hair is pulled high, and they face the camera with an assured, unsmiling expression. The person on the right wears a dark baseball cap marked with a small gold emblem, sunglasses, layered gold chains, a black leather jacket, and loose green trousers. One hand rests in a pocket while the other arm falls naturally beside the companion. The pair fill the foreground from head to below the knees, while the sidewalk runs away behind them to a softer, busier block of storefronts and distant pedestrians. Muted red doors, gray pavement, and brown masonry form a weathered urban backdrop for the rich black clothing and metallic jewelry. The light is overcast and even, allowing fabric texture, skin tones, and scuffed street surfaces to stay visible without harsh shadows. The photograph has the slightly subdued color and tactile grain of a late twentieth-century print. Its frontal, human-scale framing feels direct and respectful, preserving both the individuality of the outfits and the easy solidarity of the two figures in their neighborhood.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "25a0965394e2acf46f3b0c6e8099edddb01977c522ae78236e6e90a8cbc4f1b9",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square imaginative digital painting shows a round metal machine hovering just above a bare, dusty ground. Its dark gray body resembles a sealed spherical vessel with small round yellow lamps and a cluster of mechanical joints under the front. Several long articulated legs or claws bend outward and downward, each ending in a narrow pointed tip. Thin aerials, pipes and a small platform rise from the top, making the object look improvised and lived in. The large sphere fills the central upper half of the picture, while a soft oval shadow beneath it establishes its distance from the ground. Behind, a towering cream colored cloud rises through a smoky ochre sky. The cloud's illuminated edge creates a pale halo that separates the dark machine from the atmosphere. Warm light catches the front lamps, metal rims and selected leg segments; other panels and recesses remain soot brown. Rivets, seams and scuffs are visible but do not disrupt the main round silhouette. The landscape contains little else, so the many jointed appendages cast a striking radial rhythm against open air. Painted edges vary from crisp hardware contours to soft, dusty atmospheric transitions. The image balances whimsy and industrial wear, suggesting a strange traveler whose precise mechanism is partly hidden by shadow and haze.",
+  "full_prompt_zh": "这幅方形想象性数字绘画呈现一台圆形金属机器，悬在裸露的尘土地面上方。深灰机身像密封球形容器，正面有几个圆黄灯，下面聚着机械关节。几条长的分节腿或爪向外、向下弯曲，每条以窄尖端结束。细天线、管道和小平台从顶部升起，让装置显得临时拼装而被使用过。大球体填满画面中央上半，下面的柔和椭圆阴影标明它离地的高度。后方一座奶油色巨云穿过烟赭天空升起。云的受光边缘形成浅色光晕，把暗机器从空气中分离。暖光碰到前灯、金属轮缘和几段腿部，其余面板与凹处仍是烟棕。铆钉、接缝和擦痕可见，却不破坏主圆形剪影。风景中几乎没有其他东西，因此多节附肢在空中形成醒目的辐射节奏。绘制边缘从清脆硬件轮廓变到柔软尘雾过渡。画面平衡怪趣与工业磨损，像一位奇异旅行者，其准确机构部分藏于阴影与雾霭。",
+  "style_prompt_en": "The digital painting joins a strong rounded silhouette to thin radial limbs and small technical marks. Soot gray, aged bronze and dusty ochre dominate, with a few amber lights and pale cream highlights. A broad backlit cloud softens the horizon and separates the dark central mass. Crisp metal edges and tiny seams alternate with hazy, brushed atmosphere. The mostly empty lower field gives the detailed central form room to hover. Weathered texture and warm diffuse light keep the fanciful design grounded.",
+  "style_prompt_zh": "这种数字绘画把强烈圆形剪影与细长辐射线及小型技术笔记结合。烟灰、旧铜与尘赭占主调，少量琥珀亮点和浅奶油色高光点缀。宽阔逆光云团柔化天边，并把中央暗块分离。清脆金属边缘与细小接缝同朦胧的笔刷空气交替。下方大部分留空，让细节丰富的中央形体有悬浮余地。磨旧纹理与暖漫光使奇想设计有真实重量。",
+  "theme_en": "A hovering spherical walking machine in a dusty sky",
+  "theme_zh": "尘色天空中悬浮的球形步行机器",
+  "wh_ratio": "1:1",
+  "id": "3166",
+  "name": "Brian Despain",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/brian-despain",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "81177ef95c1d54aa07f8b0aad37af307a5f58f732c54c470cfea91a3ed10982a",
+    "gpt_submission_prompt": "A square imaginative digital painting shows a round metal machine hovering just above a bare, dusty ground. Its dark gray body resembles a sealed spherical vessel with small round yellow lamps and a cluster of mechanical joints under the front. Several long articulated legs or claws bend outward and downward, each ending in a narrow pointed tip. Thin aerials, pipes and a small platform rise from the top, making the object look improvised and lived in. The large sphere fills the central upper half of the picture, while a soft oval shadow beneath it establishes its distance from the ground. Behind, a towering cream colored cloud rises through a smoky ochre sky. The cloud's illuminated edge creates a pale halo that separates the dark machine from the atmosphere. Warm light catches the front lamps, metal rims and selected leg segments; other panels and recesses remain soot brown. Rivets, seams and scuffs are visible but do not disrupt the main round silhouette. The landscape contains little else, so the many jointed appendages cast a striking radial rhythm against open air. Painted edges vary from crisp hardware contours to soft, dusty atmospheric transitions. The image balances whimsy and industrial wear, suggesting a strange traveler whose precise mechanism is partly hidden by shadow and haze.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "5bc2d28fd2ee71423d800a8d779a86c3e1c55f759356aa90e108cc6f8cdfc64f",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square ornamental fantasy illustration shows a small birdlike winged creature perched amid an abundant woodland tangle. Its pale green-gray wings open diagonally across the center, layered feathers rendered one by one with fine ink lines. The head faces right, beak slightly open, and soft ochre accents mark the face and breast. Around it stand broad ivory mushrooms, cream blossoms, curling leaves, seed heads, and a small red-capped fungus near the lower center. All these forms sit inside a circular medallion bordered by dark black and gold botanical ornament. The creature is partly surrounded and partly concealed by foliage, so its wings and the larger mushroom caps create an interlocking pattern. The palette is antique and restrained: sage, ivory, dusty olive, tan, muted rust, and deep black. Thin contour lines, careful hatching, and softly filled color give the surface the quality of an illuminated natural-history plate or Art Nouveau book illustration. Light is even, with slight pale highlights on feather edges and mushroom tops; shadows are decorative and shallow rather than photographic. Dense detail fills nearly every corner, but the round frame and central diagonal wing keep the arrangement readable. Aged paper tone adds warmth. No text, label, or modern border graphics appear.",
+  "full_prompt_zh": "一幅方形装饰性奇幻插画里，一只小型似鸟翼生物停在丰茂林地纠结枝叶间。浅绿灰双翼沿中心斜向展开，层叠羽片由细墨线逐根描出。头朝右，喙微张，脸与胸有柔赭色重音。周围有宽阔象牙色蘑菇、奶油花、卷曲叶、种荚，下方中央附近有一朵红顶小菌。所有形态置于圆形徽章内，外缘饰以深黑与金色植物纹。生物部分被枝叶围合与遮住，双翼和较大菌盖交错成图案。配色古旧而节制：鼠尾草、象牙、旧橄榄、棕黄、低调铁锈红和深黑。细轮廓、仔细排线与柔和填色让表面像装饰博物图谱或新艺术书插画。光线均匀，羽边与菌顶有些浅高光；阴影装饰化而浅，不是摄影式。密集细节几乎填满每角，圆框与中央斜翼仍使安排清楚。旧纸色添暖。没有文字、标签或现代边框图形。",
+  "style_prompt_en": "Ornamental hand-inked illustration with fine contours, delicate hatching, and softly filled antique color. Interlocking organic forms nearly cover the surface inside a circular dark-and-gold frame. Sage, ivory, dusty olive, tan, and muted rust preserve a faded natural-history palette. Shallow decorative shadow, repeated curves, and layered small textures create intricate density without losing the central visual flow.",
+  "style_prompt_zh": "装饰性手绘墨线插画具细轮廓、轻巧排线和柔和古旧填色。交错有机形态在深金圆形框内几乎覆盖整面。鼠尾草、象牙、旧橄榄、棕黄与低调铁锈色保留褪色博物图谱调色。浅装饰影、重复曲线和层叠微纹理形成精密密度，同时保有中心视觉流向。",
+  "theme_en": "A small winged creature among mushrooms and pale flowers",
+  "theme_zh": "蘑菇与浅色花间的小型翼生物",
+  "wh_ratio": "1:1",
+  "id": "0763",
+  "name": "Linda Ravenscroft",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/linda-ravenscroft",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/linda-ravenscroft.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "3360465c6bef5d153adf5926aae4836baa51888ce8862db2bc449c0e8f4b110c",
+    "gpt_submission_prompt": "A square ornamental fantasy illustration shows a small birdlike winged creature perched amid an abundant woodland tangle. Its pale green-gray wings open diagonally across the center, layered feathers rendered one by one with fine ink lines. The head faces right, beak slightly open, and soft ochre accents mark the face and breast. Around it stand broad ivory mushrooms, cream blossoms, curling leaves, seed heads, and a small red-capped fungus near the lower center. All these forms sit inside a circular medallion bordered by dark black and gold botanical ornament. The creature is partly surrounded and partly concealed by foliage, so its wings and the larger mushroom caps create an interlocking pattern. The palette is antique and restrained: sage, ivory, dusty olive, tan, muted rust, and deep black. Thin contour lines, careful hatching, and softly filled color give the surface the quality of an illuminated natural-history plate or Art Nouveau book illustration. Light is even, with slight pale highlights on feather edges and mushroom tops; shadows are decorative and shallow rather than photographic. Dense detail fills nearly every corner, but the round frame and central diagonal wing keep the arrangement readable. Aged paper tone adds warmth. No text, label, or modern border graphics appear.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "1a844bec79125465a8b2ea992bc76c91af04a8dd8462d2048d1ea9aa13cb8222",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

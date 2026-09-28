@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square classical oil portrait shows a silver-haired man from the chest upward against a dark brown interior ground. The backdrop has no definite objects; broad umber strokes and warmer reddish areas gather behind his head and fade toward the corners. His body is turned slightly to the right, while the face turns back toward the viewer. Thick pale curls spread around the temples and crown, their lively small strokes catching the brightest light in the image. The forehead, nose and upper cheek are softly illuminated from the upper left, while the far side of the face retreats into a gentle warm shadow. His expression is composed and direct, with relaxed mouth and eyes looking outward without a smile. A high white cravat is wrapped closely at the throat and catches a clear cream highlight beneath the chin. The black coat occupies most of the lower frame, its broad lapels and shoulder only partly distinguished from the deep background by subtle blue-black and brown brushwork. A small pale shirt edge shows between the coat and cravat. The paint is more precise around eyes, nose and mouth, while the hair, jacket and surrounding ground use looser, visibly brushed transitions. There is no strong cast shadow or accessory to distract from the head and collar. The overall composition concentrates light on the face and white hair, setting a reserved human presence within the broad, warm darkness.",
+  "full_prompt_zh": "这幅方形古典油画肖像让一位银发男子从胸部以上出现在深褐色室内底前。背景没有确定物件；宽阔的赭褐笔触和更暖的红褐区域聚在头后，向角落渐暗。他的身体略向右转，面孔却回转面向观众。浓密浅色卷发铺在两鬓与头顶，小而活跃的笔触接住画中最亮的光。额头、鼻子与上脸颊从左上柔和受光，脸的远侧退入温和暖影。神情沉着直接，嘴部放松，眼睛向外望而不露笑意。高高的白色领巾紧裹颈部，在下巴下接住清楚的奶油色高光。黑色外套占据下方大部分，宽翻领与肩膀仅靠细微蓝黑和褐色笔触，从深背景中部分分离。外套与领巾之间露出少量浅色衬衫边。眼、鼻、嘴周围画得更精确，头发、外套和周围底则用更松、可见的笔触过渡。没有强投影或配件分散对头部与领口的注意。整体构图把光集中在面部与白发上，让克制的人物形象安置于宽阔暖暗之中。",
+  "style_prompt_en": "The classical oil-painting manner centers a softly modeled light area within a wide umber and near-black field. Cream, warm gray and restrained flesh tones rise out of deep brown through gradual tonal transitions, while a few small bright strokes articulate the sharpest features. Edges are selective: focal details remain measured and clear, but dark outer forms merge with the background. Loose brush texture is visible in secondary zones, giving the smooth central modeling a painterly surround. A high, warm side light creates subtle volume without theatrical hard shadows. The spare composition feels formal and intimate, letting value and brush economy carry its authority.",
+  "style_prompt_zh": "这种古典油画手法把一处柔和塑形的亮区置于宽阔赭褐与近黑色域中。奶油色、暖灰和克制的肉色，经渐进调性从深褐中浮起，少量细小亮笔刻出最清楚的特征。边缘经过选择：焦点细部平稳清楚，外侧深色形体则与背景相融。次要区域可见松散画笔肌理，为平滑的中央塑形提供绘画式包围。偏高的暖侧光建立细腻体积，没有戏剧化硬阴影。简省构图正式而亲近，让明度与笔触节约承担其力量。",
+  "theme_en": "A silver-haired man in a dark coat and white cravat against brown shadow",
+  "theme_zh": "银发男子穿深色外套、系白领巾，站在褐色阴影前",
+  "wh_ratio": "1:1",
+  "id": "0563",
+  "name": "Gilbert Stuart",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/gilbert-stuart",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/gilbert-stuart.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "3245c50af9fd62bb7334d25b88fca866da2005702d0fb22235077ee7128a1611",
+    "gpt_submission_prompt": "A square classical oil portrait shows a silver-haired man from the chest upward against a dark brown interior ground. The backdrop has no definite objects; broad umber strokes and warmer reddish areas gather behind his head and fade toward the corners. His body is turned slightly to the right, while the face turns back toward the viewer. Thick pale curls spread around the temples and crown, their lively small strokes catching the brightest light in the image. The forehead, nose and upper cheek are softly illuminated from the upper left, while the far side of the face retreats into a gentle warm shadow. His expression is composed and direct, with relaxed mouth and eyes looking outward without a smile. A high white cravat is wrapped closely at the throat and catches a clear cream highlight beneath the chin. The black coat occupies most of the lower frame, its broad lapels and shoulder only partly distinguished from the deep background by subtle blue-black and brown brushwork. A small pale shirt edge shows between the coat and cravat. The paint is more precise around eyes, nose and mouth, while the hair, jacket and surrounding ground use looser, visibly brushed transitions. There is no strong cast shadow or accessory to distract from the head and collar. The overall composition concentrates light on the face and white hair, setting a reserved human presence within the broad, warm darkness.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "0b9b061900670b58b098c256c1ad34d6eb64c58343c587ab4780f24bc054d045",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

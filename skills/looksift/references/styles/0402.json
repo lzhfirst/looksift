@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square Renaissance-style painted portrait fills the frame with the head and upper shoulders of a young man. He turns slightly to his left but looks almost directly toward the viewer, his expression composed and unsmiling. Short brown hair is brushed forward across the forehead beneath a soft brown cap with a broad folded brim. His face is pale and carefully modeled, with heavy-lidded gray eyes, a long narrow nose, and restrained lips. The ears and jaw are clearly drawn, while fine tonal hatching suggests skin texture around the eyes and cheeks. Below the chin, a narrow white ruffled collar emerges from a dark underlayer. A richly patterned outer garment rises around the shoulders in warm ocher, copper, and brown, its edge picked out by small ornate motifs and dark outlines. Behind him, a close architectural or panelled setting contains rectilinear gilded frames and carved-looking details, almost as intricate as the clothing. A slim strip of pale wall appears at the far left edge. The warm background presses close to the figure rather than opening into distance. Soft light arrives from the upper left and touches the forehead, nose, and cheek, leaving gentle brown shadows on the side of the face. The paint surface looks aged and granular, with thin translucent flesh tones set against denser patterned gold and umber. The crop is intimate and nearly symmetrical, but the small turn of the head and sideways shift of the eyes create quiet tension. The overall composition conveys formal dignity through precise drawing, restrained color, and dense decorative framing.",
+  "full_prompt_zh": "一幅方形文艺复兴式绘画肖像让一名年轻男子的头与上肩填满画面。他的头略向左转，却几乎直看观众，神情克制，没有笑意。短棕发在柔软棕帽的宽折檐下向额头梳去。面孔苍白且细致塑形，灰眼半垂，鼻梁狭长，双唇收敛。耳朵和下颌线描明确，细微灰调排线暗示眼周与脸颊肌肤纹理。下巴下，一圈窄白色褶领从深色内层露出。温赭、铜和棕色的华丽纹样外衣围住双肩，边缘有小型繁饰与深轮廓。身后紧贴人物的建筑或镶板空间里有直线形镀金框架和似雕刻的细部，几乎与衣物同样复杂。最左边缘出现一窄条浅墙。暖背景紧靠人物，并未向远处敞开。柔光从左上落下，触及额头、鼻子和脸颊，脸侧留下温和棕影。画面表面显得陈旧而有颗粒感，薄透肤色与更密的金色、赭褐纹样并置。裁切亲密而近乎对称，头部轻转与眼睛的侧移却制造了安静张力。整体构图以精确素描、克制色彩和密集装饰框景传达正式尊严。",
+  "style_prompt_en": "Use early Renaissance panel-painting qualities: exact drawing, thin layered flesh tones, fine hatching, and dense ornamental detail over an aged granular surface. Keep the palette in warm ocher, copper, umber, muted cream, and soft gray. Place the principal form close to a patterned shallow background rather than deep perspective. Let gentle upper-side light model contours without harsh shadow. Maintain formal stillness, intricate edging, and a slight asymmetry of pose or gaze to enliven the compact frame.",
+  "style_prompt_zh": "采用早期文艺复兴板画质感：精确线描、层叠薄透肤色、细密排线和陈旧颗粒表面上的浓密装饰。调色控制在暖赭、铜色、赭褐、暗奶油与柔灰。主体靠近有纹样的浅背景，而非深远透视。温和上侧光塑造轮廓，不造硬阴影。维持正式静止、精细边饰，并以姿态或视线的微小不对称活跃紧凑画幅。",
+  "theme_en": "A solemn young man in a brown cap and embroidered collar",
+  "theme_zh": "戴棕帽、穿刺绣衣领的严肃年轻男子",
+  "wh_ratio": "1:1",
+  "id": "0402",
+  "name": "Melozzo da Forli",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/melozzo-da-forli",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/melozzo-da-forli.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "5ddc0683dec037ed7d8e5c8619a1d1dbf353adab54e5026cb1559e28b6bb84b6",
+    "gpt_submission_prompt": "A square Renaissance-style painted portrait fills the frame with the head and upper shoulders of a young man. He turns slightly to his left but looks almost directly toward the viewer, his expression composed and unsmiling. Short brown hair is brushed forward across the forehead beneath a soft brown cap with a broad folded brim. His face is pale and carefully modeled, with heavy-lidded gray eyes, a long narrow nose, and restrained lips. The ears and jaw are clearly drawn, while fine tonal hatching suggests skin texture around the eyes and cheeks. Below the chin, a narrow white ruffled collar emerges from a dark underlayer. A richly patterned outer garment rises around the shoulders in warm ocher, copper, and brown, its edge picked out by small ornate motifs and dark outlines. Behind him, a close architectural or panelled setting contains rectilinear gilded frames and carved-looking details, almost as intricate as the clothing. A slim strip of pale wall appears at the far left edge. The warm background presses close to the figure rather than opening into distance. Soft light arrives from the upper left and touches the forehead, nose, and cheek, leaving gentle brown shadows on the side of the face. The paint surface looks aged and granular, with thin translucent flesh tones set against denser patterned gold and umber. The crop is intimate and nearly symmetrical, but the small turn of the head and sideways shift of the eyes create quiet tension. The overall composition conveys formal dignity through precise drawing, restrained color, and dense decorative framing.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "ac30082d75eabef09f2137a32ba90ccfa06d1bff52c3aac3aed67a154d04c4cd",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

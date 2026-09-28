@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square isometric painting shows a multi-level industrial lodging house opened to view like a cutaway model. Narrow walkways with metal railings connect rooms at different heights, and a central stair descends diagonally from an upper platform to a warmly lit lower floor. Weathered walls display patchy teal, rust red and dirty ochre paint. Doorways reveal small interiors with desks, shelves, lamps and stacked objects; no single room is fully isolated from the surrounding structure. A lone tiny person stands near the lower edge, providing scale for the dense architecture. Warm amber light glows from windows and workspaces, while the outer edges fall into deep blue-black shadow. Pipes, loose cables, patched planks and thin posts create believable layers of use and repair. The elevated oblique viewpoint keeps the whole building readable at once, but the eye can travel from one illuminated compartment to another. Textured brush marks and rough dark outlines make the materials feel worn rather than cleanly engineered. The structure is complex without becoming a flat diagram because stairs, shadows and lit thresholds establish depth. The palette balances cold oxidized green with orange interior warmth. The scene evokes a lived-in, precarious urban world, rich with implied stories yet centered on spatial construction and light.",
+  "full_prompt_zh": "一幅正方形等距绘画把一栋多层工业住所像剖面模型一样打开给观者看。带金属栏杆的窄走道连接不同高度的房间，中央楼梯从上方平台斜向下通往受暖光照亮的底层。风化墙面带有斑驳青绿、锈红和脏赭色油漆。门洞露出小室内，有桌子、架子、灯与堆放物件；没有一间房与周围结构完全隔绝。一位微小人物站在下缘附近，为密集建筑提供尺度。暖琥珀光从窗户与工作空间发出，外缘则沉入深蓝黑阴影。管道、松散电线、修补木板和细立柱形成可信的使用与维修层次。抬高的斜向视点使整栋建筑同时可读，目光又能从一个发亮隔间走向另一个。带肌理笔痕与粗暗轮廓使材料显得磨损，而非干净工程制图。结构复杂，却未压成平面图，因为楼梯、阴影和受光门槛建立了深度。色谱平衡冷氧化绿色与橙色室内暖光。场景唤起有人居住、摇摇欲坠的都市世界，暗含许多故事，却以空间建构和光线为核心。",
+  "style_prompt_en": "The style is painterly isometric environment art with layered cutaway depth, dense architectural texture and selective warm illumination. An elevated oblique view reveals connected compartments and diagonal circulation within one coherent square composition. Weathered teal, rust, ochre and deep shadow distinguish surfaces by age and material. Rough outlines, small props and patched edges suggest accumulated use, while amber pools of light guide visual exploration. Scale cues remain tiny, allowing the constructed spatial system and its atmospheric lighting to dominate.",
+  "style_prompt_zh": "这种风格是绘画化等距环境艺术，具有层叠剖面纵深、密集建筑肌理与选择性暖光。抬高的斜向视点在统一正方形构图中展示相连隔间与对角通行路径。风化青绿、锈色、赭色和深影按年代感与材质区分表面。粗轮廓、微小道具和修补边缘暗示累积使用，琥珀色光池则引导视觉探索。尺度线索保持微小，使建构的空间系统及大气照明占主导。",
+  "theme_en": "A layered industrial lodging house seen as an illuminated cutaway",
+  "theme_zh": "以受光剖面呈现的层叠工业住所",
+  "wh_ratio": "1:1",
+  "id": "2198",
+  "name": "Disco Elysium",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/disco-elysium",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/disco-elysium.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "778c1bec6cad210e15ee50b801d24042a99e05a20ce459c6853822430e21470e",
+    "gpt_submission_prompt": "A square isometric painting shows a multi-level industrial lodging house opened to view like a cutaway model. Narrow walkways with metal railings connect rooms at different heights, and a central stair descends diagonally from an upper platform to a warmly lit lower floor. Weathered walls display patchy teal, rust red and dirty ochre paint. Doorways reveal small interiors with desks, shelves, lamps and stacked objects; no single room is fully isolated from the surrounding structure. A lone tiny person stands near the lower edge, providing scale for the dense architecture. Warm amber light glows from windows and workspaces, while the outer edges fall into deep blue-black shadow. Pipes, loose cables, patched planks and thin posts create believable layers of use and repair. The elevated oblique viewpoint keeps the whole building readable at once, but the eye can travel from one illuminated compartment to another. Textured brush marks and rough dark outlines make the materials feel worn rather than cleanly engineered. The structure is complex without becoming a flat diagram because stairs, shadows and lit thresholds establish depth. The palette balances cold oxidized green with orange interior warmth. The scene evokes a lived-in, precarious urban world, rich with implied stories yet centered on spatial construction and light.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "baa4897476fe85db1fd954598e278c63c52d2d34200aeeafad8b43c5215a4d28",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

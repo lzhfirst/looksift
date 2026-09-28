@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square Victorian genre oil painting centers on a pale young boy facing the viewer beside an old brick wall. He wears a worn brown jacket, high white collar, small red patterned neckerchief, and a soft brown hat pushed back over curly hair. One hand holds a green glass bottle near his chest. His blue-gray eyes look outward with a guarded, slightly tired expression, and warm light catches his flushed cheeks and small nose. At the right, another boy in a dark cap appears in close profile, looking toward him; behind them, faint youthful faces emerge from the shadowed upper background. Rough brick, climbing greenery, and broken plaster give the setting a close, weathered texture. The central boy's head and shoulders occupy most of the frame, while the side profile and background faces form a dense social surround. Fine naturalistic brushwork models skin and fabric, with small highlights on the bottle and cheek, while darker areas remain loose and smoky. Earthy umber, red-brown, olive green, and cream dominate. Light is strongest on the front face and falls quickly across the wall and companions. The composition conveys a lived-in street moment without theatrical posing. It feels sentimental yet observant, with tangible nineteenth-century paint texture. There is no caption, label, or decorative frame.",
+  "full_prompt_zh": "一幅方形维多利亚风俗油画以旧砖墙旁正对观者的浅肤色男孩为中心。他穿磨旧棕外套、高白领、带图案的小红领巾，软棕帽向后推在卷发上。一只手把绿色玻璃瓶握在胸前。蓝灰眼睛向外看，神情戒备而略疲惫，暖光照亮泛红面颊与小鼻。右边另一名戴深帽的男孩以近距离侧面出现，朝他望去；身后阴暗上方还有几张年轻面孔隐约浮出。粗砖、攀缘绿植和破损灰泥给近处环境风化质感。中心男孩头肩占大半画幅，侧脸与背景面孔形成密集社会环境。精细写实笔法塑造皮肤和布料，瓶身与面颊有小高光，暗处仍松散烟雾化。大地赭褐、红棕、橄榄绿和奶油色主导。光在正面脸上最强，越过墙与同伴迅速减弱。构图传达有生活痕迹的街头瞬间，而非舞台摆姿。它带情感却仍观察入微，具有可触的十九世纪颜料质感。没有字幕、标签或装饰边框。",
+  "style_prompt_en": "Nineteenth-century genre oil painting with close naturalistic modeling, warm directional light, and weathered material detail. Earthy umber, red-brown, olive, and cream support small luminous skin and glass highlights. Several overlapping forms press toward the picture plane while background features dissolve into dark loose brushwork. Fine focal strokes and softer peripheral paint create intimate social depth and a slightly sentimental mood.",
+  "style_prompt_zh": "十九世纪风俗油画具贴近的自然主义塑形、暖方向光和风化材质细节。大地赭褐、红棕、橄榄与奶油色支撑皮肤和玻璃上的小亮点。数个重叠形体贴近画面，背景特征消散在深色松动笔触里。焦点的精细笔与周边更柔的颜料创造亲密社会纵深及略带情感的气氛。",
+  "theme_en": "A young boy holding a bottle beside a brick wall",
+  "theme_zh": "砖墙旁握着瓶子的年轻男孩",
+  "wh_ratio": "1:1",
+  "id": "3191",
+  "name": "Augustus Edwin Mulready",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/augustus-edwin-mulready",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "112d83c1cbea2c180fa11c870929d5a16d84b7569c8a1a80d8f486573a6a40bc",
+    "gpt_submission_prompt": "A square Victorian genre oil painting centers on a pale young boy facing the viewer beside an old brick wall. He wears a worn brown jacket, high white collar, small red patterned neckerchief, and a soft brown hat pushed back over curly hair. One hand holds a green glass bottle near his chest. His blue-gray eyes look outward with a guarded, slightly tired expression, and warm light catches his flushed cheeks and small nose. At the right, another boy in a dark cap appears in close profile, looking toward him; behind them, faint youthful faces emerge from the shadowed upper background. Rough brick, climbing greenery, and broken plaster give the setting a close, weathered texture. The central boy's head and shoulders occupy most of the frame, while the side profile and background faces form a dense social surround. Fine naturalistic brushwork models skin and fabric, with small highlights on the bottle and cheek, while darker areas remain loose and smoky. Earthy umber, red-brown, olive green, and cream dominate. Light is strongest on the front face and falls quickly across the wall and companions. The composition conveys a lived-in street moment without theatrical posing. It feels sentimental yet observant, with tangible nineteenth-century paint texture. There is no caption, label, or decorative frame.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "40dcd7037557754a6d89a0f0c1cf5423adfa0ec317916738f36d07bb82496c37",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "The image is a close, square painting of two figures whose faces nearly touch. The figure on the left turns inward in profile, with a closed or lowered eye, a compact dark cap, and a long neck descending into layered dark clothing. The figure on the right faces slightly left while one large eye remains visible, and an orange-red garment cuts across the lower center. Their noses and lips approach across a narrow dark gap, making the relationship between the profiles the quiet center of the composition. Behind them, deep blue-green and burgundy color areas provide almost no literal setting. The painted forms are built from angular, gently curved facets rather than continuous naturalistic modeling: warm yellow and vermilion planes describe the left face, while cream, pale gold, mauve and cool blue planes describe the right. Dark blue hair and headwear provide broad enclosing masses, and thin crimson accents articulate lips and fabric. Edges are clean enough to read as distinct color planes but softened by visible brush texture, mottled pigment and subtle unevenness within each shape. Warm light appears to enter from the front left, turning the nearest cheek planes luminous, while shadow gathers between the two heads and at the frame edges. The palette is saturated without becoming glossy; its depth comes from stacked opaque color and measured dark intervals. The close crop, restrained expressions and interlocking triangles give the entire square painting an intimate, contemplative stillness.",
+  "full_prompt_zh": "画面是一幅正方形近景绘画，两个人物的脸几乎相触。左侧人物以侧面向内转，眼睛闭合或低垂，戴着紧贴头部的深色帽子，修长脖颈没入层叠的深色衣服。右侧人物微微向左，仍露出一只较大的眼睛，橙红色衣物斜切过画面下方中央。两人的鼻与嘴隔着狭窄暗隙相互靠近，侧影之间的关系成为安静的构图中心。背后是深蓝绿与酒红色块，几乎没有具体场所。绘画形体由棱角分明又略带曲度的色面构成，而非连续自然主义明暗：暖黄和朱红面塑造左脸，乳白、浅金、淡紫与冷蓝面塑造右脸。深蓝头发和头饰形成宽阔包围体量，细窄绯红点明嘴唇及布料。边缘清晰到足以读出独立色面，却又因可见笔触、斑驳颜料和色块内部的轻微不均而柔化。暖光似乎从左前方进入，使最近的脸颊色面发亮，阴影聚集在两颗头之间及画框边缘。色彩饱和却不光滑，深度来自层叠的不透明颜料和有节制的暗色间隔。紧凑裁切、克制表情与互锁三角形，使整幅正方形绘画具有亲密而沉思的静止感。",
+  "style_prompt_en": "Opaque painterly color is organized into interlocking angular and gently curved facets. Saturated vermilion, gold, cream, mauve and deep blue-green balance broad dark masses with luminous warm planes. Edges remain readable yet carry fine brush texture and mottled pigment. Tight cropping, measured shadow gaps and a restrained rhythm of triangular shapes give the square composition intimate stillness.",
+  "style_prompt_zh": "不透明绘画色彩组织成互相嵌合的棱角形与微弯色面。饱和朱红、金黄、乳白、淡紫和深蓝绿，在宽阔暗形与发亮暖色面之间形成平衡。边缘清晰可辨，同时带细微笔触和斑驳颜料。紧凑裁切、有节制的阴影空隙及三角形节奏，使正方形构图呈现亲密的静止感。",
+  "theme_en": "Two figures in close, quiet conversation rendered as faceted color",
+  "theme_zh": "两个人物以彩色切面呈现的静默近谈",
+  "wh_ratio": "1:1",
+  "id": "3485",
+  "name": "Martiros Saryan",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/martiros-saryan",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "2dde8102ed42ce5ce8d25c8dea3c5b8e1a24291e9f8e3ec5e1b8de35f2aef4e6",
+    "gpt_submission_prompt": "The image is a close, square painting of two figures whose faces nearly touch. The figure on the left turns inward in profile, with a closed or lowered eye, a compact dark cap, and a long neck descending into layered dark clothing. The figure on the right faces slightly left while one large eye remains visible, and an orange-red garment cuts across the lower center. Their noses and lips approach across a narrow dark gap, making the relationship between the profiles the quiet center of the composition. Behind them, deep blue-green and burgundy color areas provide almost no literal setting. The painted forms are built from angular, gently curved facets rather than continuous naturalistic modeling: warm yellow and vermilion planes describe the left face, while cream, pale gold, mauve and cool blue planes describe the right. Dark blue hair and headwear provide broad enclosing masses, and thin crimson accents articulate lips and fabric. Edges are clean enough to read as distinct color planes but softened by visible brush texture, mottled pigment and subtle unevenness within each shape. Warm light appears to enter from the front left, turning the nearest cheek planes luminous, while shadow gathers between the two heads and at the frame edges. The palette is saturated without becoming glossy; its depth comes from stacked opaque color and measured dark intervals. The close crop, restrained expressions and interlocking triangles give the entire square painting an intimate, contemplative stillness.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "7877ddbc6dd8139d235d174ecb8a0ac3c91b54c035817076241d1037936d765c",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

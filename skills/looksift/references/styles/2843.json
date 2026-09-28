@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "An intimate photographic crop shows the left portion of a young woman's face against a deep teal background. One large blue eye looks straight toward the viewer beneath a dark, sharply defined lash line. Copper-red hair sweeps across the forehead and falls in loose curled strands by the cheek; a red patterned cloth appears near the upper right corner. Freckles scatter densely across the bridge of the nose and the warm, pale cheek. The left edge cuts through the nose and forehead, and the lower edge passes just below her softly parted pink lips. The close distance preserves small differences in skin texture, the gloss of the lower lip, and separate flyaway hairs. Light comes from the upper left and falls evenly over the visible facial planes, with modest shadow under the nose and along the jaw. The eye and freckles remain the clearest points, while the teal field and farther hair soften gently. Warm peach, copper, and muted red occupy most of the foreground, balanced by a narrow cool background area on the right. The image is deliberately incomplete as a portrait, using the tight crop and asymmetric face placement to keep attention on texture and gaze.",
+  "full_prompt_zh": "一幅亲近的摄影裁切，在深青绿色背景前呈现年轻女子面孔的左半侧。一只蓝色大眼睛从清晰的深色睫线下直视画外。铜红色头发扫过额头，几缕卷发垂在脸颊边，右上角露出红色花纹布料。密集雀斑散在鼻梁和暖色浅肤色脸颊上。左侧画框切过鼻子与额头，下缘刚好经过微张的粉色嘴唇。近距离保留皮肤微细起伏、下唇光泽及分离的散发。光从左上方照来，均匀铺过可见面部平面，鼻下和颌边只有适度阴影。眼睛与雀斑最清楚，青绿底色和较远发丝渐渐柔化。暖桃色、铜色和低饱和红色占据前景大半，右边窄窄的冷色背景与之平衡。这幅肖像有意只呈现局部，通过紧密裁切和偏置的面孔，让注意力停在纹理和目光上。",
+  "style_prompt_en": "A close photographic crop magnifies small surface variation and allows a single sharply focused focal region to dominate. Fine speckles, soft pores, thin curved lines, and a few glossy accents remain individually legible within warm peach and copper midtones. A narrow cool teal field sits behind the foreground and offers simple color separation without detailed space. Light enters broadly from above and one side, creating mild shadow under projecting forms but avoiding a hard dividing line. Some edges are cut abruptly by the frame, while farther strands and background contours soften. The near plane occupies nearly all the square composition; depth comes from the focus shift and warm-cool contrast rather than a visible horizon. The rhythm alternates between dense microtexture and the small, quiet area of saturated background.",
+  "style_prompt_zh": "近距离摄影裁切放大细小表面变化，让一处清晰焦点占据主导。细斑、柔和毛孔、纤细弧线与少数光泽亮点在暖桃色和铜色中间调里分别可辨。狭窄的冷青绿底色位于前景之后，用简单色差分出层次，没有复杂空间细节。光从上方偏一侧宽阔进入，在凸起形体下形成轻微阴影，却没有硬朗的明暗分割。部分边缘被画框突然截断，较远的细线和背景轮廓逐渐柔化。近景几乎占满整个方幅；纵深由焦点变化和冷暖对比建立，而非可见地平线。视觉节奏在密集微纹理与一小片安静饱和背景之间交替。",
+  "theme_en": "A close cropped portrait of a freckled red-haired woman",
+  "theme_zh": "雀斑红发女子的紧裁近景肖像",
+  "wh_ratio": "1:1",
+  "id": "2843",
+  "name": "Close-up portrait",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/close-up-portrait",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/close-up-portrait.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "99c3b70e5a86b5065a3bb90f6b67e3e5972189d00363877ad53eb0fbed3da31d",
+    "gpt_submission_prompt": "An intimate photographic crop shows the left portion of a young woman's face against a deep teal background. One large blue eye looks straight toward the viewer beneath a dark, sharply defined lash line. Copper-red hair sweeps across the forehead and falls in loose curled strands by the cheek; a red patterned cloth appears near the upper right corner. Freckles scatter densely across the bridge of the nose and the warm, pale cheek. The left edge cuts through the nose and forehead, and the lower edge passes just below her softly parted pink lips. The close distance preserves small differences in skin texture, the gloss of the lower lip, and separate flyaway hairs. Light comes from the upper left and falls evenly over the visible facial planes, with modest shadow under the nose and along the jaw. The eye and freckles remain the clearest points, while the teal field and farther hair soften gently. Warm peach, copper, and muted red occupy most of the foreground, balanced by a narrow cool background area on the right. The image is deliberately incomplete as a portrait, using the tight crop and asymmetric face placement to keep attention on texture and gaze.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "99286d11fe756b16a4e633908e9b2bca5639bfc11bd8bf19cfc96f9991704336",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

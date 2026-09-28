@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square rainy boulevard painting has a loose yet detailed late nineteenth-century oil style. A compact turquoise tram approaches along steel tracks from the middle left, its windows glowing amber against the damp blue-gray street. Men and women in long dark coats walk or stand on both sides of the rails, their figures partly softened by drizzle and distance. At right, a line of bare trees and warm gas lamps recedes toward a hazy civic building with a mansard roof; shopfronts and older stone facades continue along the left. Generous wet pavement fills the foreground, where tram tracks, dark footsteps and golden lights break into uneven reflected streaks. The sky is overcast and bright enough to silhouette branches, but the overall hour is dim. Short broken brushstrokes, scumbled atmospheric grays, small dabs of warm yellow and varied dark accents create softly defined architecture. The turquoise tram is recognizable without becoming a polished focal object; it belongs to the movement and weather of the street. Figures cluster more densely near the far crossing, thinning in the foreground to make a walkable space. Damp cold air, city bustle and fleeting lamplight give the scene its atmosphere. The painting feels observed in passing, with rich surface texture and luminous reflection held within a muted palette.",
+  "full_prompt_zh": "正方形雨中大道画面具有松动却细致的十九世纪末油画语言。一辆紧凑的青绿色电车从画面中左沿钢轨驶来，车窗的琥珀色光在潮湿蓝灰街面上发亮。穿深色长大衣的人们在轨道两侧行走或停留，身形被细雨和距离轻轻模糊。右侧一排裸树与暖色煤气灯退向远处带斜屋顶的朦胧公共建筑；左侧延续商铺与旧石立面。宽阔湿润路面占据前景，电车轨道、深色脚步与金黄灯光在其中断裂为不规则反光。阴天仍足够明亮，可衬出枝条剪影，但整体时刻偏暗。短而破碎的笔触、擦涂般的大气灰、小块暖黄和变化的深色重音塑造边缘柔和的建筑。青绿色电车清晰可辨，却不成为抛光的展示物；它属于街道的流动与天气。人群在远处路口较密，前景逐渐稀疏，保留可供行走的空间。潮冷空气、城市忙碌与短暂灯光构成整体氛围。最终画作像路过时所见，表面肌理丰富，在低饱和配色中保有发亮的倒影。",
+  "style_prompt_en": "Atmospheric oil painting combines short broken strokes, scumbled haze, softened distance and irregular reflective surfaces. A muted blue-gray and brown palette carries small turquoise and amber accents. Diffuse light, point-like warm highlights, broken reflection streaks and selective dark silhouettes establish depth. Distant detail gradually dissolves into atmosphere, while foreground textures remain varied and tactile. Diagonal recession and a generous foreground plane create a sense of transient observation and painterly movement.",
+  "style_prompt_zh": "大气感油画结合短而断续的笔触、擦涂薄雾、柔化远景与不规则反射表面。低饱和蓝灰和棕色中分布少量青绿与琥珀色重音。漫射光、点状暖高光、断续倒影条痕与选择性的深色剪影建立纵深。远处细节逐渐融入大气，前景肌理仍变化且可触。对角递进与宽阔前景平面形成转瞬观察感和绘画流动。",
+  "theme_en": "A turquoise tram on a rainy city boulevard at dusk",
+  "theme_zh": "黄昏雨后城市大道上的青色电车",
+  "wh_ratio": "1:1",
+  "id": "1154",
+  "name": "Luigi Loir",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/luigi-loir",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/luigi-loir.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "98982ca9f30b5e17a740284ef093c4f7b530ea15f400452c0be037d246f6a813",
+    "gpt_submission_prompt": "A square rainy boulevard painting has a loose yet detailed late nineteenth-century oil style. A compact turquoise tram approaches along steel tracks from the middle left, its windows glowing amber against the damp blue-gray street. Men and women in long dark coats walk or stand on both sides of the rails, their figures partly softened by drizzle and distance. At right, a line of bare trees and warm gas lamps recedes toward a hazy civic building with a mansard roof; shopfronts and older stone facades continue along the left. Generous wet pavement fills the foreground, where tram tracks, dark footsteps and golden lights break into uneven reflected streaks. The sky is overcast and bright enough to silhouette branches, but the overall hour is dim. Short broken brushstrokes, scumbled atmospheric grays, small dabs of warm yellow and varied dark accents create softly defined architecture. The turquoise tram is recognizable without becoming a polished focal object; it belongs to the movement and weather of the street. Figures cluster more densely near the far crossing, thinning in the foreground to make a walkable space. Damp cold air, city bustle and fleeting lamplight give the scene its atmosphere. The painting feels observed in passing, with rich surface texture and luminous reflection held within a muted palette.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "52aa62f238e595e9ceaa66617e835192d13019c1322cec32af8b1e5a6966473d",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

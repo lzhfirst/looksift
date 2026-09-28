@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square modernist painting looks along a narrow turquoise canal between two stone walkways. The water begins wide at the lower center and recedes to a small luminous opening near the upper middle. On both sides, tiny dark figures walk in scattered groups; a few stand near the rails or walls. Tall thin tree trunks line the left bank, while rounded blue green crowns rise along the right. Behind them, simplified houses appear as stacked blocks in muted brown, green and ochre, with a few glowing yellow windows. The composition is strongly symmetrical in its receding canal, yet the trees and people vary enough to keep it natural. The water is not realistically reflective; broad teal and emerald planes overlap with darker rectangular patches. The figures are reduced to narrow black marks with occasional red and orange accents. Light filters through a hazy upper opening and warms selected building faces, while the lower canal and walls remain cool. Brushwork is broad and matte, with soft edges on trees and hard geometric divisions in architecture and water. The high viewpoint allows the eye to travel down the channel and across both banks. The image feels quiet and communal, combining a measured urban pattern with the softness of foliage and mist.",
+  "full_prompt_zh": "这幅方形现代主义绘画沿一条窄青绿色运河看去，两侧是石步道。水面从下方中央宽展开，向上方中部一个小亮开口收敛。两岸细小暗人影成散组行走；几人在栏边或墙旁站着。左岸一排细高树干，右岸升起圆润蓝绿树冠。后面简化房屋作为低饱和棕、绿和赭色叠块出现，少数窗发黄光。构图在后退的运河上强烈对称，但树和人有所变化，仍显自然。水不作写实反光，而由宽青绿和翠绿平面叠加较暗矩形斑块构成。人物缩成窄黑笔，偶有红橙点缀。光从上方朦胧开口滤入，温暖选定立面，下方运河和墙仍冷。笔触宽而哑光，树边柔和，建筑与水的几何分界较硬。略高视点让目光沿水道远行并横看两岸。图像安静而有群居气息，把谨慎城市图案与叶和雾的柔软结合。",
+  "style_prompt_en": "The modernist painting balances flat geometric planes with softened rounded forms. Turquoise, emerald, blue green and ochre dominate, punctuated by tiny warm accents. A central receding channel establishes measured depth, while repeated slim marks create gentle activity along both sides. Hazy upper light lifts a distant opening; broad lower areas remain cool and matte. Hard block boundaries and diffuse organic edges coexist in a calm, patterned rhythm.",
+  "style_prompt_zh": "这种现代主义绘画平衡平坦几何色面与柔化圆形。青绿、翠绿、蓝绿和赭色占主调，细小暖点间或打断。中央后退通道建立谨慎深度，两侧重复细笔制造温和活动。上方朦胧光抬亮远开口，宽阔下部保持冷色哑光。坚硬色块边与漫散有机边共同形成平静图案节奏。",
+  "theme_en": "People walking along a bridge over a turquoise canal",
+  "theme_zh": "青绿色运河上桥边行走的人群",
+  "wh_ratio": "1:1",
+  "id": "3223",
+  "name": "Lin Fengmian",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/lin-fengmian",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "0c1816cb51f9f6391d05b0a465f89249a6036a57fed94ad5bb5e208b89ab4c34",
+    "gpt_submission_prompt": "A square modernist painting looks along a narrow turquoise canal between two stone walkways. The water begins wide at the lower center and recedes to a small luminous opening near the upper middle. On both sides, tiny dark figures walk in scattered groups; a few stand near the rails or walls. Tall thin tree trunks line the left bank, while rounded blue green crowns rise along the right. Behind them, simplified houses appear as stacked blocks in muted brown, green and ochre, with a few glowing yellow windows. The composition is strongly symmetrical in its receding canal, yet the trees and people vary enough to keep it natural. The water is not realistically reflective; broad teal and emerald planes overlap with darker rectangular patches. The figures are reduced to narrow black marks with occasional red and orange accents. Light filters through a hazy upper opening and warms selected building faces, while the lower canal and walls remain cool. Brushwork is broad and matte, with soft edges on trees and hard geometric divisions in architecture and water. The high viewpoint allows the eye to travel down the channel and across both banks. The image feels quiet and communal, combining a measured urban pattern with the softness of foliage and mist.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "582d0dd748523a2d1a8e831491cecbdb4becf3e7c247aaec788f136a5d55d9a8",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

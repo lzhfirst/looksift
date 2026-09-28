@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square storybook illustration presents a pale, rabbit-like woodland creature in side view, stepping toward the right. Its long ears and rounded muzzle are drawn delicately, with an amber eye facing outward. From the back and head rise elaborate branching structures that resemble both antlers and dry leaves, sweeping across the upper left of the frame. Cream and ochre leaflike feathers also layer over the shoulders and flank, while darker grey-brown legs take weight on the pale ground. One foreleg lifts midstep, giving the otherwise still study a quiet sense of motion. The background is a warm aged-paper field marked by faint rectangular divisions, and a narrow dark border frames the image. Fine ink lines trace fur, veins, winglike forms, and twisting branches; transparent beige and amber washes add volume without hiding the paper. Light is soft and even, so the pale body remains the brightest focus and the darker legs and border give it weight. The intricate upper growth spreads widely, countering the compact body below. There is no readable lettering. The overall composition feels like a delicate natural-history fantasy plate, balanced between careful animal observation and an impossible botanical flourish.",
+  "full_prompt_zh": "一幅方形童话书插画呈现一只浅色、像兔子的林地生灵侧身向右迈步。长耳和圆润口鼻描得精巧，一只琥珀色眼向外看。背和头上升起复杂分枝结构，既像角又像干叶，扫过画幅左上。乳白和赭黄的叶状羽毛层叠在肩与身侧，较深的灰褐色腿踩住浅色地面。一条前腿抬在步中，使其余静止的研究带一点安静动势。背景是暖旧纸色场，带淡淡矩形分格，窄深色边框围住图像。细墨线描出毛发、叶脉、翼状形和扭曲枝条；透明米色与琥珀薄涂增加体积，却不盖住纸面。光柔和均匀，因此浅色身体保持最亮焦点，较深腿部和边框给予重量。精细的上方生长物广泛展开，平衡下方紧凑身体。没有可辨认文字。整体构图像细腻的奇幻博物画图版，在仔细的动物观察与不可能的植物繁盛之间取得平衡。",
+  "style_prompt_en": "A storybook ink-and-wash illustration places fine natural lines over warm aged paper. Transparent cream, beige, ochre, and amber washes allow paper grain and faint ruled divisions to remain visible. Dense branching and veinlike textures spread across an upper area, while a compact pale mass below stays clear against the ground. Thin dark contours and selective grey-brown shadows give the light forms weight without harsh lighting. A narrow dark perimeter steadies the airy interior. The balance of meticulous organic detail and open matte space creates a natural-history fantasy feeling, delicate, tactile, and quietly strange.",
+  "style_prompt_zh": "童话书式水墨插画把精细自然线条落在暖旧纸上。透明乳白、米色、赭黄与琥珀薄涂让纸纹和淡淡分格仍可见。密集分枝与叶脉状纹理在上方区域展开，下方紧凑浅色体在底色前保持清晰。纤细深轮廓和有选择的灰褐阴影给予亮形重量，却没有严厉光照。窄深色边界稳住通气的内部。精密有机细节与开放哑光空间的平衡，形成博物画式奇幻感，细腻、可触且安静奇异。",
+  "theme_en": "A pale woodland creature with branching antlers and leaflike wings",
+  "theme_zh": "长枝角与叶状羽翼的苍白林地生灵",
+  "wh_ratio": "1:1",
+  "id": "2252",
+  "name": "Jackie Morris",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/jackie-morris",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/jackie-morris.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "57a2d3496f7d98778b34703a67b2c71018b39b5cd7035ed037fff65280beee25",
+    "gpt_submission_prompt": "A square storybook illustration presents a pale, rabbit-like woodland creature in side view, stepping toward the right. Its long ears and rounded muzzle are drawn delicately, with an amber eye facing outward. From the back and head rise elaborate branching structures that resemble both antlers and dry leaves, sweeping across the upper left of the frame. Cream and ochre leaflike feathers also layer over the shoulders and flank, while darker grey-brown legs take weight on the pale ground. One foreleg lifts midstep, giving the otherwise still study a quiet sense of motion. The background is a warm aged-paper field marked by faint rectangular divisions, and a narrow dark border frames the image. Fine ink lines trace fur, veins, winglike forms, and twisting branches; transparent beige and amber washes add volume without hiding the paper. Light is soft and even, so the pale body remains the brightest focus and the darker legs and border give it weight. The intricate upper growth spreads widely, countering the compact body below. There is no readable lettering. The overall composition feels like a delicate natural-history fantasy plate, balanced between careful animal observation and an impossible botanical flourish.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "f64b1331612236bcc93c6e4661971f28f22ba52cc3487de8c33f564c44d6f2de",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

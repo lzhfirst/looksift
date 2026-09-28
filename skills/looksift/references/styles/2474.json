@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A richly detailed natural-history painting shows a pink parrot perched among oversized flowering plants. The bird stands slightly right of center, its pale ivory head turned left and its curved beak outlined against deep leaves. Rose-pink feathers cover the chest and neck, shifting into brown and cream on the folded wings. Around it, large blossoms press toward the foreground: a broad pale flower opens at the upper left, a layered magenta bloom sits above the bird, and a spiky pink-and-cream flower spreads across the lower left. Dark green leaves, stems, buds, and seed heads weave through every gap, making the composition dense without hiding the bird. The background remains a shaded botanical tangle rather than an open landscape, with occasional lighter patches giving the plants depth. Light is even but warm, allowing fine petal veins, feather edges, glossy leaves, and pollen-rich centers to remain legible. The painting combines close observation with decorative abundance. Shapes are precisely drawn and modeled, yet color transitions stay painterly, with brushed highlights and soft shadow within each petal. The palette mixes olive and forest green with blush pink, mauve, cream, ocher, and touches of red. The eye moves between the bird's alert face and the surrounding blooms, held by the repeated curves and layered foliage of a luxuriant enclosed garden.",
+  "full_prompt_zh": "一幅细节丰厚的自然史绘画，描绘一只粉色鹦鹉停在大型开花植物之间。鸟位于中心稍右，浅象牙色头部转向左侧，弯喙在深色叶片前被清楚勾出。玫瑰粉羽毛覆盖胸颈，折叠的翅膀转为棕色和奶油色。周围的大花压向前景：左上方一朵宽大的浅色花敞开，鸟上方有层叠洋红花，下左方一朵粉白相间的带刺状花瓣大花舒展。深绿叶片、茎、花蕾与种头织进每个空隙，使构图密集，却没有遮住鸟。背景保持阴影中的植物纠缠，而非开阔风景，偶尔的浅色空隙给植物纵深。光线均匀而温暖，使细小花瓣脉络、羽毛边缘、发亮叶片与花粉丰富的花心仍可辨。绘画把近距离观察与装饰性的丰盛结合。形状描绘准确并有体积，颜色过渡却仍具绘画性，每片花瓣内部都有刷出的亮部和柔和阴影。配色将橄榄绿、森林绿与腮红粉、淡紫、奶油色、赭黄和少量红色混合。目光在鸟警觉的面孔与周围花朵之间移动，被重复曲线和层叠叶丛留在繁茂的封闭花园里。",
+  "style_prompt_en": "Detailed painting with precise observed contours, soft internal modeling, and a dense decorative arrangement. Olive and forest greens form a shaded ground for blush pink, mauve, cream, ocher, and small red accents. Large curved forms overlap with fine linear marks, small rounded accents, and intricately patterned surfaces, filling the frame without losing a clear focal area. Warm even light reveals tiny edges and subtle gloss while maintaining soft shadow inside each form. Brushwork is controlled but visible in highlights and color transitions. The mood is luxuriant, enclosed, and attentive to tactile texture.",
+  "style_prompt_zh": "细致的绘画风格，观察准确的轮廓、柔和内部塑形和密集的装饰安排并存。橄榄绿与森林绿形成阴影底色，托出腮红粉、淡紫、奶油色、赭黄与少量红色。大弯曲形态与细线、小圆形点缀和纹理精密的表面重叠，填满画面却不失清楚焦点。温暖均匀的光显露微小边缘和淡淡光泽，同时在每个形体内部保持软影。笔触受控，但在高光和颜色过渡中仍可见。气氛繁茂、封闭，关注可触的质地。",
+  "theme_en": "A pink parrot among large pale and magenta blossoms",
+  "theme_zh": "粉色鹦鹉立于浅色与洋红大花间",
+  "wh_ratio": "1:1",
+  "id": "2474",
+  "name": "Marianne North",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/marianne-north",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/marianne-north.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "a0ed750187fb0d5a74f83a830115d3892b18a83e6f1e24da901351d92fe75f89",
+    "gpt_submission_prompt": "A richly detailed natural-history painting shows a pink parrot perched among oversized flowering plants. The bird stands slightly right of center, its pale ivory head turned left and its curved beak outlined against deep leaves. Rose-pink feathers cover the chest and neck, shifting into brown and cream on the folded wings. Around it, large blossoms press toward the foreground: a broad pale flower opens at the upper left, a layered magenta bloom sits above the bird, and a spiky pink-and-cream flower spreads across the lower left. Dark green leaves, stems, buds, and seed heads weave through every gap, making the composition dense without hiding the bird. The background remains a shaded botanical tangle rather than an open landscape, with occasional lighter patches giving the plants depth. Light is even but warm, allowing fine petal veins, feather edges, glossy leaves, and pollen-rich centers to remain legible. The painting combines close observation with decorative abundance. Shapes are precisely drawn and modeled, yet color transitions stay painterly, with brushed highlights and soft shadow within each petal. The palette mixes olive and forest green with blush pink, mauve, cream, ocher, and touches of red. The eye moves between the bird's alert face and the surrounding blooms, held by the repeated curves and layered foliage of a luxuriant enclosed garden.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "c34435857638bfa238dc69adcdbabac3ffdad62c07443d157d598673540c8f36",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

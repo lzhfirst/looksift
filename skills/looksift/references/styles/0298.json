@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A delicate graphic storybook illustration shows a pale-haired young woman surrounded by black birds and large gray flowers. Her upper body occupies the center, drawn with a long light neck, a quiet sideways gaze, and fine strands of hair held back by a thin dark band. The face is mostly white paper with faint peach and gray shading at the nose, eyelids, and lips, making it the calmest area in a busy frame. Three dark birds overlap the floral setting: one rises behind her on the left, another crosses near the lower left shoulder, and the largest stands to the right with a muted golden beak. Their black bodies are decorated with thin silver-gray feather lines, so they remain readable against the dark parts of her clothing. Oversized blossoms and leaves crowd behind and below, rendered in finely lined gray washes with small ochre accents. Her black garment has tiny pale dots and a light collar; ochre leaves drift across its lower edge. The square composition is dense within a clean white border, yet the arrangement gives the face enough open space to anchor the image. Most shapes are flat and cut-paper-like, with depth created by precise overlap rather than realistic modeling. The whole frame feels poised and gently uncanny through pale skin, intricate botanical line, and the emphatic silhouettes of the birds.",
+  "full_prompt_zh": "一幅纤细的图形化故事书插画描绘一位浅发年轻女子，被黑鸟和大型灰色花朵环绕。她的上半身占据中央，细长浅色颈部、安静的侧向目光和被窄窄深色发带拢住的细发丝清晰可见。脸部大部分保留白纸色，只在鼻子、眼睑和嘴唇处施以淡桃色与灰色阴影，因此成为繁密画面中最平静的区域。三只深色鸟与花丛重叠：一只在她左后方升起，一只掠过左下肩附近，最大的一只站在右侧，喙呈低饱和金色。鸟的黑色身体上饰有纤细银灰羽线，使它们在衣物的深色部分前仍可分辨。放大的花朵和叶片拥挤在身后与下方，用细密线条的灰色淡染和少量赭黄重点绘成。她的黑衣上有细小浅色点纹和浅色衣领，赭黄叶片飘过衣物下缘。方形构图在干净白边内十分饱满，却仍给面孔足够空处成为支点。多数形状平整，像裁纸；空间深度来自精确重叠，而非写实塑造。整幅画凭借浅色肌肤、繁密植物线描与黑鸟强烈的剪影，显得端庄而微带奇异。",
+  "style_prompt_en": "The graphic storybook image combines abundant white paper with flat black silhouettes, fine gray botanical linework, and sparse muted ochre accents. A pale, lightly shaded central zone creates breathing room inside a dense square cluster of overlapping forms. Thin interior lines describe feathers, petals, and leaves, while larger dark shapes remain almost unmodeled and decisive. Depth comes from layering and scale rather than perspective or cast shadow. The palette is intentionally narrow: white, charcoal, cool gray, a touch of peach, and small golden notes. Edges are precise but hand-drawn, with soft wash inside some delicate outlines. Tiny repeated pale dots add a second rhythm against the larger organic curves. The whole frame feels poised and slightly uncanny through its balance of intricate natural pattern, blank space, and emphatic black form.",
+  "style_prompt_zh": "这幅图形化故事书图像把充足白纸、平整黑色剪影、细密灰色植物线描和稀疏的低饱和赭黄重点结合起来。中央一片浅色、略加阴影的区域，在密集的方形重叠形体中留下呼吸空间。纤细内线描绘羽毛、花瓣和叶片，较大的深色形状则几乎不塑造体积，显得果断。纵深来自层叠与尺度，而非透视或投影。色盘有意收窄为白、炭黑、冷灰、少量桃色与零星金色。边缘精确但保留手绘感，部分纤细轮廓内部有柔和淡染。重复的浅色小点在更大的有机曲线前形成第二层节奏。整幅画通过繁密自然纹样、空白和鲜明黑色形体之间的平衡，显得端庄而略带奇异。",
+  "theme_en": "A pale-haired girl among black birds and flowers",
+  "theme_zh": "黑鸟与花丛中的浅发女孩",
+  "wh_ratio": "1:1",
+  "id": "0298",
+  "name": "Katy Smail",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/katy-smail",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/katy-smail.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "0cb7109a89a43807b5d996abfafde4174d99fa04c7e2453ff68d9ca72107ce78",
+    "gpt_submission_prompt": "A delicate graphic storybook illustration shows a pale-haired young woman surrounded by black birds and large gray flowers. Her upper body occupies the center, drawn with a long light neck, a quiet sideways gaze, and fine strands of hair held back by a thin dark band. The face is mostly white paper with faint peach and gray shading at the nose, eyelids, and lips, making it the calmest area in a busy frame. Three dark birds overlap the floral setting: one rises behind her on the left, another crosses near the lower left shoulder, and the largest stands to the right with a muted golden beak. Their black bodies are decorated with thin silver-gray feather lines, so they remain readable against the dark parts of her clothing. Oversized blossoms and leaves crowd behind and below, rendered in finely lined gray washes with small ochre accents. Her black garment has tiny pale dots and a light collar; ochre leaves drift across its lower edge. The square composition is dense within a clean white border, yet the arrangement gives the face enough open space to anchor the image. Most shapes are flat and cut-paper-like, with depth created by precise overlap rather than realistic modeling. The whole frame feels poised and gently uncanny through pale skin, intricate botanical line, and the emphatic silhouettes of the birds.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "9be5eee9a66205cde2d4475b9472d16e863683d3e2802ebb71eda7dbd3562a9e",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

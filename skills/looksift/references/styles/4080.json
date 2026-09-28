@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square woodblock-style print groups three women in patterned robes beneath two broad parasols. The pale paper ground shows through around their dark hair and the curved umbrella ribs. At the left, a smaller woman turns slightly inward, her teal garment carrying warm floral accents. The central woman is largest, shown in right-facing profile with a carefully arranged dark coiffure and a robe patterned in orange, cream, and muted green. At the right, a third woman faces the same direction behind her, partly overlapped by the central figure and a rust-red parasol. A blue-green parasol spreads behind the left pair, its spokes radiating from an upper point; the red parasol balances it on the other side. Decorative blossoms, patterned fabric areas, and narrow contour lines fill the composition, but flat color blocks keep the figures separate. Small printed marks appear near the right edge; they are too tiny to transcribe. The paper surface carries light grain and irregular ink density, especially in the broad teal and rust fields. Illumination is even and graphic, with minimal cast shadow; depth is conveyed chiefly by overlap, scale, and the ordering of the silhouettes. The strongest darks lie in the hair and slender facial outlines, while skin remains pale and calm. The overall composition is compact and rhythmic, using the parasol arcs and repeated profiles to unite intricate fabric pattern with a restrained vintage palette.",
+  "full_prompt_zh": "一幅方形木版画风格图把三位穿花纹衣袍的女子置于两把宽大纸伞下。浅色纸底从深发和弯曲伞骨周围透出。左侧较小的女子略向内转，青绿色衣服带暖色花卉强调。中央女子最大，以朝右侧面示人，深色发髻整齐，衣袍饰有橙、奶油色和暗绿色图案。右侧第三位女子在她身后面朝同一方向，被中央人物和一把锈红纸伞遮去一部分。蓝绿色纸伞在左侧两人背后展开，伞骨从上方一点放射；红伞在另一侧与之平衡。装饰花朵、织物图案和纤细轮廓线填满构图，但平面色块仍使人物彼此分开。右缘附近有小印刷痕迹，过于细小无法逐字辨认。纸面带轻微颗粒和不均匀墨色，在大块青绿与铁锈色处尤其明显。照明均匀而图形化，几乎没有投影；纵深主要由遮挡、尺度和剪影次序传达。最深色落在头发和细脸部轮廓，肤色保持浅淡平静。整体构图紧凑而有韵律，借纸伞弧线和重复侧面连接繁复织物纹样与克制的旧式配色。",
+  "style_prompt_en": "Woodblock-like printmaking relies on firm dark contour lines, broad flat ink areas, and fine patterns held inside clean silhouettes. Slight grain and uneven pigment density keep the planes tactile rather than perfectly digital. Muted teal, rust red, warm cream, dull ochre, and near black repeat in balanced patches. Light is even and graphic, with almost no cast shadow; overlap and line weight organize depth. Large arcs answer smaller repeating marks, so densely patterned areas sit beside calmer paper-toned intervals. The result is decorative, poised, and rhythmically layered.",
+  "style_prompt_zh": "近似木版的印刷处理依靠坚定深色轮廓、大块平面墨色，以及收在清晰剪影内的细图案。轻微颗粒与不均墨色使色面有触感，而非完美数码平面。暗青绿、铁锈红、暖奶油色、钝赭黄和近黑以均衡色块重复。光线均匀而图形化，几乎没有投影；遮挡和线条粗细组织纵深。大弧线回应较小的重复笔痕，让密集纹样区与较平静的纸色间隔并置。整体装饰性强、姿态稳妥，层次富有韵律。",
+  "theme_en": "Three women beneath patterned parasols in a woodblock-style print",
+  "theme_zh": "木版画风格图中花纹纸伞下的三位女子",
+  "wh_ratio": "1:1",
+  "id": "4080",
+  "name": "Ukiyo-e",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/ukiyo-e.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "3bd86befdf0ce3959af1f1436cfc4b99a427503743f78b48736f4707175b1580",
+    "gpt_submission_prompt": "A square woodblock-style print groups three women in patterned robes beneath two broad parasols. The pale paper ground shows through around their dark hair and the curved umbrella ribs. At the left, a smaller woman turns slightly inward, her teal garment carrying warm floral accents. The central woman is largest, shown in right-facing profile with a carefully arranged dark coiffure and a robe patterned in orange, cream, and muted green. At the right, a third woman faces the same direction behind her, partly overlapped by the central figure and a rust-red parasol. A blue-green parasol spreads behind the left pair, its spokes radiating from an upper point; the red parasol balances it on the other side. Decorative blossoms, patterned fabric areas, and narrow contour lines fill the composition, but flat color blocks keep the figures separate. Small printed marks appear near the right edge; they are too tiny to transcribe. The paper surface carries light grain and irregular ink density, especially in the broad teal and rust fields. Illumination is even and graphic, with minimal cast shadow; depth is conveyed chiefly by overlap, scale, and the ordering of the silhouettes. The strongest darks lie in the hair and slender facial outlines, while skin remains pale and calm. The overall composition is compact and rhythmic, using the parasol arcs and repeated profiles to unite intricate fabric pattern with a restrained vintage palette.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "d6d2ac6fd6a73715a5e42717fad4f1e9e621f3595b21a44ae770939cf6c62324",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

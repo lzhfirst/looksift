@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A candid black-and-white photograph catches a young woman at a crowded street gathering, seated low and turning her face toward the camera with a direct, self-possessed expression. A dark, soft-brimmed cap rests over her tousled hair, and long feathers or wispy trim extend from the hat into the upper right of the frame. A scarf wraps loosely around her neck above a worn, quilted coat, with folds and stitching visible across her shoulders and bent arms. The crop is intimate, showing her from roughly the waist upward, while surrounding figures press close behind her and spill beyond the edges. Those background faces and garments are softer and partially obscured, giving the subject presence without removing her from the busy social setting. The scene is framed with a dark border and strong near-field texture, as though captured quickly on film at close range. Light catches one side of her cheek, nose, and lips, while the cap casts a gentle shadow across her eyes; black fabric, pale skin, and mid-gray coat remain distinct within a rich monochrome range. Grain, slight softness at the margins, and uneven natural light preserve the rough immediacy of documentary photography. The photograph feels alert and humane, built around an unforced exchange of glances and the layered noise of people just outside the center.",
+  "full_prompt_zh": "一张黑白抓拍照片，拍下拥挤街头聚会里一位年轻女子坐在较低位置，转脸看向镜头，神情直接而沉着。一顶深色软檐帽压在略显凌乱的头发上，长羽毛或轻细装饰从帽子向画面右上方延伸。围巾松松绕过颈部，外面是一件有穿着痕迹的绗缝外套，肩膀和弯曲的手臂上都能看到褶皱与缝线。构图亲近，大约从腰部以上取景；旁边的人群紧贴在身后，又不断溢出画框。背景里的人脸与衣料较为柔软，有些被挡住，使主角具有存在感，同时仍处在嘈杂的社会场景中。画面带有深色边框和强烈的近景质感，像是在很近的距离迅速用胶片拍下。光落在一侧脸颊、鼻梁和嘴唇上，帽檐在眼部投下温和阴影；黑色布料、浅色皮肤和中灰外套在丰厚的黑白层次里各自分明。颗粒、边缘的轻微软化以及不均匀的自然光，保留了纪实摄影粗粝而即时的感受。照片敏锐且有人情味，以不刻意的目光交会和中心之外层层相叠的人群动静构成。",
+  "style_prompt_en": "Intimate black-and-white documentary photography with a rich tonal range, visible film grain, and the slight edge softness of a quick close-range exposure. Natural light lands unevenly, bringing selected planes forward while textured dark regions keep their detail. The frame is densely layered, with one clear near form held against partially obscured, softer surrounding forms. Cropping feels immediate rather than ceremonious; a narrow dark border reinforces the tactile print quality. Worn surfaces, folds, and stray fine lines remain legible. The overall effect is alert, humane, and unpolished, preserving the energy of a real moment.",
+  "style_prompt_zh": "亲近的黑白纪实摄影风格，灰阶丰厚，胶片颗粒可见，近距离快速拍摄带来轻微的边缘柔化。自然光不均匀地落下，提亮局部平面，同时让深色纹理保有细节。画面层次密集，清晰的近处形态与部分遮挡、较柔软的周围形态并置。裁切即时而不仪式化；窄窄的深色边缘强化实体相纸的触感。磨损表面、褶皱和游离的细线仍可辨认。整体敏锐、有人情味且未经刻意修饰，保留真实瞬间的活力。",
+  "theme_en": "A candid close portrait at a crowded street gathering",
+  "theme_zh": "拥挤街头聚会中的近距离抓拍肖像",
+  "wh_ratio": "1:1",
+  "id": "3867",
+  "name": "Mary Ellen Mark",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/mary-ellen-mark",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "e5ce51c9944c518f598642d98fc67cde178f643cdd2727313732b2612b068884",
+    "gpt_submission_prompt": "A candid black-and-white photograph catches a young woman at a crowded street gathering, seated low and turning her face toward the camera with a direct, self-possessed expression. A dark, soft-brimmed cap rests over her tousled hair, and long feathers or wispy trim extend from the hat into the upper right of the frame. A scarf wraps loosely around her neck above a worn, quilted coat, with folds and stitching visible across her shoulders and bent arms. The crop is intimate, showing her from roughly the waist upward, while surrounding figures press close behind her and spill beyond the edges. Those background faces and garments are softer and partially obscured, giving the subject presence without removing her from the busy social setting. The scene is framed with a dark border and strong near-field texture, as though captured quickly on film at close range. Light catches one side of her cheek, nose, and lips, while the cap casts a gentle shadow across her eyes; black fabric, pale skin, and mid-gray coat remain distinct within a rich monochrome range. Grain, slight softness at the margins, and uneven natural light preserve the rough immediacy of documentary photography. The photograph feels alert and humane, built around an unforced exchange of glances and the layered noise of people just outside the center.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "213b081bb4210fbc03d1999781d51d2e3cac925443c83cdd19a9193851aa4fcb",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

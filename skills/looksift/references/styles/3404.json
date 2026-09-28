@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "The finished square is an intense graphic illustration built around a confrontation of scale. A small figure stands at the bottom center with their back to the viewer, wearing a red helmet and a loose red jacket. Above them, an immense armored mechanical face fills nearly all remaining space. Angular violet plates meet at a sharp central seam, while deep black openings hold two fierce orange-red eyes. The glowing rings are the brightest marks in the upper half and pull attention immediately toward the machine's gaze. Narrow scratches, chips and ink-like dark seams break the surfaces of the armor. Broad black passages between the plates suggest great depth without exposing the whole mechanism. The little figure's helmet is close to the lower edge of the metal face, intensifying the imbalance between fragile human scale and massive machinery. At the far left and right, muted ochre components and deep red areas imply further structures outside the crop. The composition is almost symmetrical around the central point of the armored brow, but the loosely drawn garment and surface marks introduce irregularity. Color is concentrated in plum-violet, charcoal, rust red and blazing orange, with very little open background. Hard-edged shadow planes and forceful ink contours establish the form, while rough painted scuffs prevent the surfaces from feeling sterile. The light seems to come from within the machine's eyes, washing nearby facets with red. The image reads as a dramatic, monumental moment held in a compact illustrated frame.",
+  "full_prompt_zh": "成品正方形是一幅强烈的图形插画，核心是悬殊尺度的对峙。一名小人物背向观众站在下方中央，戴红头盔、穿宽松红外套。上方巨大的装甲机械面孔几乎填满其余空间。棱角分明的紫色甲片在尖锐中线相接，深黑孔洞里有两只炽烈橙红眼睛。发光圆环是上半部最亮的笔触，立刻把注意力引向机械目光。狭窄刮痕、缺口和墨黑接缝打断装甲表面。甲片之间宽阔黑区暗示巨大纵深，却不揭露完整机械结构。小人物的头盔非常接近金属面孔下缘，强化脆弱人体与庞大机器之间的不平衡。左右最远处的柔和赭色部件与深红区域暗示画框之外还有结构。构图围绕装甲眉心近乎对称，但松动的衣物线条和表面划痕带来不规则变化。配色集中在李紫、炭黑、锈红与炽橙，几乎没有开阔背景。硬边暗面和有力墨线建立形体，粗糙彩绘擦痕则避免表面过于无菌。光仿佛来自机械眼睛内部，把附近切面染红。画面是一刻宏大戏剧场景，凝结在紧凑的插画框景里。",
+  "style_prompt_en": "Graphic science-fiction illustration emphasizes monumental angular planes, heavy ink contours, rough painted scuffs, large black recesses and concentrated internal glow. Plum-violet, rust red and charcoal masses frame a few blazing orange accents. Near symmetry and sharply unequal scales heighten drama in the compact square image.",
+  "style_prompt_zh": "图形化科幻插画强调巨大的棱角切面、厚重墨线、粗糙彩绘擦痕、大块黑色凹处与集中的内部辉光。李紫、锈红和炭黑体量围住少量炽橙重点。接近对称的构图与极端不等的尺度使紧凑正方形画面更具戏剧性。",
+  "theme_en": "A helmeted child facing the glowing eyes of an enormous machine",
+  "theme_zh": "戴头盔的孩子面对巨型机械发光的眼睛",
+  "wh_ratio": "1:1",
+  "id": "3404",
+  "name": "Neon Genesis Evangelion",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/neon-genesis-evangelion",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "c40640124e3db0d284f3185e7d7120160146c7ce3924412a11c36fc2c12cd5d7",
+    "gpt_submission_prompt": "The finished square is an intense graphic illustration built around a confrontation of scale. A small figure stands at the bottom center with their back to the viewer, wearing a red helmet and a loose red jacket. Above them, an immense armored mechanical face fills nearly all remaining space. Angular violet plates meet at a sharp central seam, while deep black openings hold two fierce orange-red eyes. The glowing rings are the brightest marks in the upper half and pull attention immediately toward the machine's gaze. Narrow scratches, chips and ink-like dark seams break the surfaces of the armor. Broad black passages between the plates suggest great depth without exposing the whole mechanism. The little figure's helmet is close to the lower edge of the metal face, intensifying the imbalance between fragile human scale and massive machinery. At the far left and right, muted ochre components and deep red areas imply further structures outside the crop. The composition is almost symmetrical around the central point of the armored brow, but the loosely drawn garment and surface marks introduce irregularity. Color is concentrated in plum-violet, charcoal, rust red and blazing orange, with very little open background. Hard-edged shadow planes and forceful ink contours establish the form, while rough painted scuffs prevent the surfaces from feeling sterile. The light seems to come from within the machine's eyes, washing nearby facets with red. The image reads as a dramatic, monumental moment held in a compact illustrated frame.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "338e606de8924911ca0d81f566944bfd30d5c3fa2e5696738ca5fa4eac0d0f7e",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

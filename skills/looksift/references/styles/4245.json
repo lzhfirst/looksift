@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square painterly concept illustration shows a lone traveler standing with their back to the viewer before an enormous weathered walking machine. The person wears a light helmet, tan jacket, rusty orange trousers, and a compact backpack. The machine occupies the center and upper frame: a round off-white cockpit or body with dark circular opening, thick blue vertical arms, and heavy cylindrical legs planted in dusty earth. Rust stains, scratches, exposed joints, and chipped paint make the mechanism feel old and used. At right, a tall ochre ruin or wall rises close to the machine; at left, a small domed building and scattered wreckage recede into the dry settlement. Tufts of pale grass, stones, and shadows texture the foreground. Warm afternoon sunlight falls from the upper left, brightening the machine's rounded shell and the traveler's helmet, while blue-gray shadows sit under joints and in the open cockpit. The camera is near ground level behind the person, making the size difference unmistakable. The painting uses broad rough strokes in sky and earth, with more precise edges around mechanical seams. Dusty cream, terracotta, faded cyan, and muted blue dominate. The mood is exploratory and cinematic, suggesting a paused encounter rather than action.",
+  "full_prompt_zh": "一幅方形绘画式概念插画呈现一位独行者背对观看者，站在巨大的风化步行机器前。人物戴浅色头盔，穿棕褐夹克、锈橙裤，背紧凑行囊。机器占中央与上方：灰白圆驾驶舱或机身有深色圆开口，粗蓝竖臂与沉重圆柱腿扎在尘土中。锈迹、刮痕、外露关节与剥落油漆使机构显旧且久经使用。右边近处高赭色遗迹或墙升起；左边小圆顶建筑和散落残骸退入干燥聚落。浅草束、石头与阴影给前景添纹理。暖午后阳光从左上落下，照亮机器圆壳和旅人头盔，蓝灰影藏在关节下与敞开的舱里。相机接近地面位于人物背后，尺寸差异显而易见。天空与土地用宽阔粗笔，机械接缝附近边缘更准确。灰奶油、赤陶、褪青和低调蓝占主导。气氛探索性且有电影感，暗示暂停的相遇而非动作。",
+  "style_prompt_en": "Painterly science-fiction concept art with a monumental rounded weathered form, exposed joints, and a tiny foreground scale marker. Dusty cream and terracotta contrast with faded cyan-blue mechanical planes. Broad rough environment strokes meet precise chipped seams and cool undercuts. Warm side sun, dry atmospheric depth, and grounded perspective make speculative machinery feel used and physically present.",
+  "style_prompt_zh": "绘画式科幻概念艺术，以巨大圆形风化大形、外露关节和极小前景尺度标记构成。尘灰奶油与赤陶对照褪色青蓝机械平面。环境宽粗笔触遇上准确剥落接缝与冷色凹影。暖侧日光、干燥空气纵深与落地透视使推想机器像真实被使用过。",
+  "theme_en": "A small traveler inspecting a weathered walking machine in a desert ruin",
+  "theme_zh": "一位小旅人检查荒漠遗迹中的风化步行机器",
+  "wh_ratio": "1:1",
+  "id": "4245",
+  "name": "Craig Mullins",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/craig-mullins.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "3d560a3f60e6364abdc8237d640d6f479d82a8679f29d0dcbb344869f8d3b7c9",
+    "gpt_submission_prompt": "A square painterly concept illustration shows a lone traveler standing with their back to the viewer before an enormous weathered walking machine. The person wears a light helmet, tan jacket, rusty orange trousers, and a compact backpack. The machine occupies the center and upper frame: a round off-white cockpit or body with dark circular opening, thick blue vertical arms, and heavy cylindrical legs planted in dusty earth. Rust stains, scratches, exposed joints, and chipped paint make the mechanism feel old and used. At right, a tall ochre ruin or wall rises close to the machine; at left, a small domed building and scattered wreckage recede into the dry settlement. Tufts of pale grass, stones, and shadows texture the foreground. Warm afternoon sunlight falls from the upper left, brightening the machine's rounded shell and the traveler's helmet, while blue-gray shadows sit under joints and in the open cockpit. The camera is near ground level behind the person, making the size difference unmistakable. The painting uses broad rough strokes in sky and earth, with more precise edges around mechanical seams. Dusty cream, terracotta, faded cyan, and muted blue dominate. The mood is exploratory and cinematic, suggesting a paused encounter rather than action.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "5d2b842cb9714a5c2f6030bf37ffc59a09489dc816d08e85adecbe7bfca2cb8a",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

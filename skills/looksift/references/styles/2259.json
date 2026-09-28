@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square psychedelic cartoon poster centers on a wild-eyed man in a tall magenta top hat and sharp-shouldered magenta coat. Black hair flares sideways beneath the brim, and long pointed moustache ends curl across a grey face. Two bright yellow eyes stare directly outward with dark pupils; a broad downturned mouth makes the expression stern and manic at once. An ochre shirt and narrow tie show beneath the coat. Behind the figure, orange and yellow smoke coils into dense cloud shapes, meeting a near-black plum background at the top. Tall hot-pink block letters rise behind the hat, but the central portion is hidden and the word is not fully legible within this selected panel. The illustration uses thick dark contours and rough, screenprint-like color grain. Saturated magenta and plum dominate the upper and lower figure, while yellow-orange firelight surrounds the head and creates a strong warm halo. The light is graphic rather than naturalistic: bright flat color marks the eyes and smoke, and violet shadow carves the face and sleeves. The front-facing symmetry is unsettled by crooked hair and irregular clouds. The image is tightly packed with no calm landscape depth. The overall composition is loud, comic, and unsettling, powered by rough texture and explosive color contrast.",
+  "full_prompt_zh": "一幅方形迷幻卡通海报以一名眼神狂乱的男子为中心，他戴高高的洋红礼帽、穿肩部尖挺的洋红外套。黑发从帽檐下向两边炸开，细长上唇胡的尖端在灰色脸上卷曲。两只明黄色眼直视画外，瞳孔深色；宽而下垂的嘴使表情同时严厉且狂躁。外套下露出赭黄衬衫与细领带。人物身后，橙黄烟雾卷成浓密云形，与上方近黑梅紫底相接。高大的热粉色块字从帽后升起，但中段被挡住，在所选画面里整词无法完整辨读。插画使用厚深色轮廓与粗糙、近似丝网印刷的彩色颗粒。饱和洋红与梅紫主导人物上下，黄橙火光围住头部，形成强暖色光环。光是图形性的，而非自然主义：明亮平涂标出双眼与烟，紫影刻出脸和衣袖。正面近对称被歪斜头发与不规则云团搅动。图像紧密拥挤，没有平静景观深度。整体构图喧闹、滑稽而令人不安，由粗纹理和爆裂色彩对比推动。",
+  "style_prompt_en": "A psychedelic cartoon surface presses thick black contours, rough screenprint-like grain, and saturated flat color into a crowded square. Magenta and deep plum masses meet coils of orange and yellow, creating a hot halo around a grey-violet center. Small intensely bright points anchor the focal area, while irregular cloud shapes and crooked side extensions disturb near-symmetry. Graphic light comes from contrasting color fields rather than realistic illumination; violet shadows cut through warmer planes. The background is shallow and packed, with little resting space. The finish is loud, comic, and unsettling, its tactile speckle keeping the color from feeling digitally smooth.",
+  "style_prompt_zh": "迷幻卡通表面把厚黑轮廓、粗糙丝网印刷般颗粒与饱和平涂颜色压进拥挤方幅。洋红与深梅紫大形遇到橙黄卷团，在灰紫中心周围形成热光环。少数极亮小点压住焦点，不规则云形和歪斜的侧向延伸打乱近乎对称。图形光来自对立色场，而非真实照明；紫影切过暖平面。背景浅而拥挤，几乎没有休息空间。完成效果喧闹、滑稽且令人不安，可触的斑点让颜色不显数码平滑。",
+  "theme_en": "A manic top-hatted showman against a wall of orange smoke",
+  "theme_zh": "橙色浓烟前戴高礼帽的狂躁主持人",
+  "wh_ratio": "1:1",
+  "id": "2259",
+  "name": "Superjail!",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/superjail",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/superjail.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "bbee6a4e617aa7a9382bb45496c9bf589794fbbbbbfbbf1c2b76016b40ac775a",
+    "gpt_submission_prompt": "A square psychedelic cartoon poster centers on a wild-eyed man in a tall magenta top hat and sharp-shouldered magenta coat. Black hair flares sideways beneath the brim, and long pointed moustache ends curl across a grey face. Two bright yellow eyes stare directly outward with dark pupils; a broad downturned mouth makes the expression stern and manic at once. An ochre shirt and narrow tie show beneath the coat. Behind the figure, orange and yellow smoke coils into dense cloud shapes, meeting a near-black plum background at the top. Tall hot-pink block letters rise behind the hat, but the central portion is hidden and the word is not fully legible within this selected panel. The illustration uses thick dark contours and rough, screenprint-like color grain. Saturated magenta and plum dominate the upper and lower figure, while yellow-orange firelight surrounds the head and creates a strong warm halo. The light is graphic rather than naturalistic: bright flat color marks the eyes and smoke, and violet shadow carves the face and sleeves. The front-facing symmetry is unsettled by crooked hair and irregular clouds. The image is tightly packed with no calm landscape depth. The overall composition is loud, comic, and unsettling, powered by rough texture and explosive color contrast.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "5bb007702ad3cc1ecfd04d0870a6e88ebd851ca41a548f0b18252681cf83dfd4",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

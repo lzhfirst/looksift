@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square aerial photograph looks almost straight down at a bright white pool terrace. A curving turquoise swimming pool occupies the entire right half, its shallow ripple texture turning sunlight into a field of tiny pale flecks. On the left, five beach umbrellas form a loose vertical sequence: orange in the foreground, then pale pink, blue, purple and light green farther away. Each umbrella shades a pair of white-and-yellow striped loungers and casts a crisp dark shadow across the sunlit deck. A row of potted shrubs and a white railing define the outer left boundary, with no crowd or swimmers interrupting the geometric calm. The composition depends on the pool's broad S-like edge, whose graceful bend counters the repeated circular umbrella tops. Colors are bright but soft, with clean whites and pastel accents set against saturated cyan water. Midday light gives shadows clear direction and edges; there is very little atmospheric haze. The high viewpoint compresses the scene into patterns, yet the loungers, planters and small water tiles remain identifiable. The image has a leisurely, graphic optimism, as though a vacation setting has become a carefully spaced color study. Physical details stay credible: fabric ribs in the umbrellas, small deck marks and moving water prevent the layout from looking like a flat diagram.",
+  "full_prompt_zh": "一幅正方形航拍照片几乎垂直俯视明亮的白色泳池露台。弯曲的青蓝泳池占满右半部，浅浅水纹把阳光拆成无数淡亮小点。左侧五把遮阳伞松散地排成竖列：近处橙色，向远处依次为浅粉、蓝、紫与淡绿。每把伞遮着一组白黄条纹躺椅，并在阳光铺地上投下边缘清楚的深影。一列盆栽灌木和白栏杆限定最左侧边界，没有人群或泳者打破几何平静。构图依靠泳池宽阔的 S 形边缘，其优雅弯曲对应重复的圆形伞顶。颜色明亮却柔和，干净白色和粉彩重音置于饱和青色水面前。正午光让阴影方向明确、边缘清楚，空气薄雾极少。高视点把场景压缩成图案，但躺椅、花盆和细小水面纹理仍能辨认。画面具有闲适而图形化的乐观感，像度假空间变成了间距准确的色彩研究。实体细节仍可信：伞布骨架、地面小痕和流动的水使布局不至于像平面图。",
+  "style_prompt_en": "The style is bright overhead leisure photography with a near-orthographic aerial view, strong curving geometry and repeated circular accents. Clean white surfaces, saturated cyan and a sequence of soft pastel colors form a high-key palette. Direct midday sun produces crisp directional shadows and clear material detail. Generous spacing gives each accent room, while a continuous curved boundary organizes the square field. The visual result is graphic and playful but still photographic, with subtle surface irregularities preserving physical reality.",
+  "style_prompt_zh": "这种风格是明亮的俯视休闲摄影，采用近正投影航拍视点、强烈弯曲几何和重复圆形重音。干净白色表面、饱和青蓝与一串柔和粉彩形成高调配色。正午直射光带来方向明确的清晰投影及材料细节。宽裕间距赋予每处色彩重音呼吸空间，连续曲边组织正方形画幅。视觉效果图形化而轻快，却仍属于摄影，细小表面不规则性保持物理真实。",
+  "theme_en": "Pastel umbrellas beside a curving turquoise pool",
+  "theme_zh": "弯曲碧蓝泳池旁的粉彩遮阳伞",
+  "wh_ratio": "1:1",
+  "id": "1238",
+  "name": "Gray Malin",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/gray-malin",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/gray-malin.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "bffa15a9a29f8f084a52715af4e79a19389aaeaf6bebc2e8fea49bb06745d35f",
+    "gpt_submission_prompt": "A square aerial photograph looks almost straight down at a bright white pool terrace. A curving turquoise swimming pool occupies the entire right half, its shallow ripple texture turning sunlight into a field of tiny pale flecks. On the left, five beach umbrellas form a loose vertical sequence: orange in the foreground, then pale pink, blue, purple and light green farther away. Each umbrella shades a pair of white-and-yellow striped loungers and casts a crisp dark shadow across the sunlit deck. A row of potted shrubs and a white railing define the outer left boundary, with no crowd or swimmers interrupting the geometric calm. The composition depends on the pool's broad S-like edge, whose graceful bend counters the repeated circular umbrella tops. Colors are bright but soft, with clean whites and pastel accents set against saturated cyan water. Midday light gives shadows clear direction and edges; there is very little atmospheric haze. The high viewpoint compresses the scene into patterns, yet the loungers, planters and small water tiles remain identifiable. The image has a leisurely, graphic optimism, as though a vacation setting has become a carefully spaced color study. Physical details stay credible: fabric ribs in the umbrellas, small deck marks and moving water prevent the layout from looking like a flat diagram.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "c730c1dbaa709f7586ff135d3ec3bb390927eb79bedf1ba63b62722937475de3",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

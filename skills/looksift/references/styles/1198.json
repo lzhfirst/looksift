@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square documentary photograph shows an artist crouched at the edge of an enormous chalk illusion on a paved pedestrian square. From the camera's chosen viewing point, the flat ground appears to plunge into a deep urban canyon lined with old stone facades and a distant arch. A red stepladder seems to descend along the left side of the apparent drop, although its feet remain on the real surface. The artist, wearing a plain white shirt and gray trousers, works near the right rim with a small drawing tool. Real pavement surrounds the image, and a few cut-off passerby legs at the top edge reveal the ordinary public setting. The illusion is most convincing in its converging architectural lines, blue-gray shadowed depth and warm highlights along windows and masonry. Its near edge deliberately exposes the transition between actual pavement and pigment, allowing the viewer to understand both the trick and the labor behind it. Daylight is open and natural, with no fantasy glow or digital portal effects. Fine chalk strokes and grain of the slabs remain visible even inside the simulated depth. The image presents a precise anamorphic perspective as a public performance: one viewpoint turns a horizontal surface into a vertiginous imaginary space while the working artist anchors it in reality.",
+  "full_prompt_zh": "一幅正方形纪实照片呈现一位艺术家蹲在人行广场巨大粉笔幻象的边缘。从相机选定的视点看，平坦地面仿佛向下坠入深深的城市峡谷，两侧排着旧石立面，远处有一道拱门。一架红色折梯似乎沿虚构深渊左侧向下伸展，梯脚其实仍在真实地面上。艺术家穿朴素白衫和灰裤，在右侧边缘用小工具继续作画。真实铺地围绕图像，上缘几位路人的残缺腿部显出普通公共场所。幻象的说服力来自汇聚的建筑线、蓝灰阴影深处以及窗框和石墙上的暖色亮部。近缘有意露出实际地面与颜料之间的转换，观者因而同时理解视觉机关与手工劳动。日光开阔自然，没有幻想光晕或数字传送门效果。即使在模拟深处，细粉笔笔划与石板颗粒仍可见。图像把精确的变形透视作为公共表演：单一视点使水平表面变为令人眩晕的想象空间，而作画者把它重新锚在现实中。",
+  "style_prompt_en": "The style is documentary photography of anamorphic street drawing, with a carefully chosen viewpoint that converts a flat textured surface into apparent spatial depth. Precise converging lines, layered architectural shading and chalky pigment create the illusion, while visible surface grain and working traces reveal its material basis. Natural daylight and ordinary public-space context keep the scene credible. The square composition balances a steep central recession against surrounding flat borders, making the perceptual switch itself the principal event.",
+  "style_prompt_zh": "这种风格是记录变形透视街头绘画的纪实摄影，特定视点使平坦而有颗粒的表面显现出虚构纵深。精确汇聚线、层叠的建筑明暗与粉质颜料共同形成幻象，表面颗粒和作画痕迹又揭示其材料基础。自然日光与普通公共空间环境保持可信。正方形构图平衡陡峭的中央退深与周围平坦边界，使知觉转换本身成为主要事件。",
+  "theme_en": "A pavement drawing that appears to open into a deep city chasm",
+  "theme_zh": "仿佛裂成深邃城市峡谷的人行道画",
+  "wh_ratio": "1:1",
+  "id": "1198",
+  "name": "Julian Beever",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/julian-beever",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/julian-beever.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "187708cb74bf36fed3a4b1bfa038d6ab2064e403f0288ebeb5bdc474ee0c9326",
+    "gpt_submission_prompt": "A square documentary photograph shows an artist crouched at the edge of an enormous chalk illusion on a paved pedestrian square. From the camera's chosen viewing point, the flat ground appears to plunge into a deep urban canyon lined with old stone facades and a distant arch. A red stepladder seems to descend along the left side of the apparent drop, although its feet remain on the real surface. The artist, wearing a plain white shirt and gray trousers, works near the right rim with a small drawing tool. Real pavement surrounds the image, and a few cut-off passerby legs at the top edge reveal the ordinary public setting. The illusion is most convincing in its converging architectural lines, blue-gray shadowed depth and warm highlights along windows and masonry. Its near edge deliberately exposes the transition between actual pavement and pigment, allowing the viewer to understand both the trick and the labor behind it. Daylight is open and natural, with no fantasy glow or digital portal effects. Fine chalk strokes and grain of the slabs remain visible even inside the simulated depth. The image presents a precise anamorphic perspective as a public performance: one viewpoint turns a horizontal surface into a vertiginous imaginary space while the working artist anchors it in reality.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "83b2a17581fac735a52322ba5dda38d02be89a399cedf5e943754dc970ad7235",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

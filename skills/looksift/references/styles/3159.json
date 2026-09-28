@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A broad modernist mural presents a neighborhood gathering through overlapping groups and architectural fragments. In the foreground, seated figures in orange and gray occupy the lower corners, while a standing dark silhouette anchors the center. At the right, two people converse closely; behind them, additional figures emerge from teal foliage and warm terracotta walls. The left edge opens toward a small coastal building beneath a pale sky, giving the crowded social scene a glimpse of distance. Perspective is intentionally compressed. Instead of one continuous location, translucent rectangles and bands of coral, cream, ochre, teal, and muted gray carry pieces of the scene across one another. Faces and hands are readable but simplified, with broad planes of color and softened outlines. The paint surface has visible wear, grain, and uneven layering, like pigment worked into plaster. Light is dispersed across the mural rather than focused from a single source; the warm orange passages draw attention while the cool green canopy and blue water steady the composition. Repeated vertical figures and block-like structures create a measured rhythm, and the eye moves between small human interactions rather than a single heroic center. The whole frame feels communal and reflective, balancing narrative detail with decorative abstraction.",
+  "full_prompt_zh": "一幅宽阔的现代主义壁画通过相互覆盖的人群和建筑碎片呈现街区聚会。前景下方两角分别坐着橙色和灰色衣着的人物，一道站立的深色剪影固定中心。右侧两人靠近交谈；他们身后，更多人物从青绿叶丛与暖陶土色墙面中浮现。左缘打开一处小小海边建筑和浅色天空，让拥挤的社交场景露出一点远方。透视被有意压缩。画面并非一个连续地点，而是半透明的矩形以及珊瑚色、奶油白、赭黄、青绿和柔灰色带，把场景片段彼此覆盖。面孔与手可辨，却被简化为宽阔色面和柔软轮廓。颜料表面有可见磨损、颗粒与不均匀叠层，像是色料揉进灰泥。光分散在壁画各处，而非集中来自单一光源；暖橙区域吸引注意，冷绿色树冠与蓝色水面稳住构图。重复竖向人物与块状结构形成有分寸的节奏，视线在小小的人际互动之间移动，而不是围绕单个英雄中心。整幅画有共同生活的气息和沉思感，把叙事细节与装饰性抽象平衡起来。",
+  "style_prompt_en": "A modernist mural surface built from overlapping translucent rectangles, broad simplified forms, and softened human-scale marks. Terracotta orange, cream, ochre, muted teal, and gray alternate in an irregular grid. Pigment looks grainy, worn, and worked into plaster, with faint earlier layers showing through. Lighting is distributed and gentle; warm patches draw the eye while cool green-blue areas hold the frame. Repeated vertical shapes and block-like divisions set a measured rhythm. Perspective is compressed so near and far fragments can coexist on one decorative plane.",
+  "style_prompt_zh": "一幅现代主义壁画表面，由交叠的半透明矩形、宽阔简化形体和柔软的人体尺度笔迹构成。陶土橙、奶油白、赭黄、柔青绿与灰色在不规则网格中交替。颜料显得有颗粒、磨损，像揉进灰泥里，较早的色层隐约透出。光线分散且柔和；暖色斑块吸引目光，冷绿蓝区域稳住画幅。重复竖形与块状分割建立有分寸的节奏。透视被压缩，使近远片段能共存于同一装饰平面。",
+  "theme_en": "A neighborhood gathering in a layered mural",
+  "theme_zh": "层叠壁画中的街区聚会",
+  "wh_ratio": "1:1",
+  "id": "3159",
+  "name": "Candido Portinari",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/candido-portinari",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "eef010893aed1f4bd921a8dadb19c59bd572594538069a2ff5b79ada0dde8c13",
+    "gpt_submission_prompt": "A broad modernist mural presents a neighborhood gathering through overlapping groups and architectural fragments. In the foreground, seated figures in orange and gray occupy the lower corners, while a standing dark silhouette anchors the center. At the right, two people converse closely; behind them, additional figures emerge from teal foliage and warm terracotta walls. The left edge opens toward a small coastal building beneath a pale sky, giving the crowded social scene a glimpse of distance. Perspective is intentionally compressed. Instead of one continuous location, translucent rectangles and bands of coral, cream, ochre, teal, and muted gray carry pieces of the scene across one another. Faces and hands are readable but simplified, with broad planes of color and softened outlines. The paint surface has visible wear, grain, and uneven layering, like pigment worked into plaster. Light is dispersed across the mural rather than focused from a single source; the warm orange passages draw attention while the cool green canopy and blue water steady the composition. Repeated vertical figures and block-like structures create a measured rhythm, and the eye moves between small human interactions rather than a single heroic center. The whole frame feels communal and reflective, balancing narrative detail with decorative abstraction.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "ae1f812b981cd34938d3c1af97501c7efaef27ef2a3962d8f77a9c75ed819ebf",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

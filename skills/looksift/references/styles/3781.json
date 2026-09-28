@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square graphic illustration shows a dark-haired woman curled forward on a blue-gray floor. Her body forms a low, broad triangle: a voluminous red patterned skirt rises at left, a mustard-yellow sash crosses her waist, and a plum-purple top folds toward the right. Her head rests close to the ground at the lower right, with a pale cheek, closed or downcast eye, and one pale hand visible near her face. Long black hair spills over the shoulder and merges with the dark area behind her. The skirt carries subtle red-on-red motifs and fine black lines, making the largest color field decorative rather than empty. Beneath her, the gray floor has an irregular network of darker cracks or etched marks. The upper part of the picture is a nearly flat charcoal background, leaving no detailed room or scenery. The forms are defined by crisp, economical ink contours; broad areas of color remain flat and matte, while the fabric and floor receive dense linear texture. Light is even and subdued, indicated mainly by the contrast of the pale face and hand against dark hair and clothing. There are no bright highlights or deep modeled shadows. The strong red skirt, yellow band, and purple sleeve create a compact warm-cool sequence within the broad black and gray space. The close cropping keeps attention on the body's folded posture and the contrast between intricate pattern and open dark ground. The overall composition is still, tense, and quietly surreal, with elegant flat color and controlled linework holding the scene together.",
+  "full_prompt_zh": "一幅方形平面插画中，黑发女子蜷身伏在蓝灰色地面上。身体形成低矮宽阔的三角形：蓬大的红色纹样裙在左侧隆起，芥末黄腰带横过腰间，李紫色上衣向右折下。她的头靠近右下方地面，浅色脸颊、闭合或低垂的眼睛和一只靠近脸的浅色手清楚可见。长黑发垂过肩膀，并与身后的暗区融为一体。裙子带细腻的同色红纹和黑色细线，使最大的色块具有装饰性，而非空白。身下的灰色地面有不规则深色裂纹或蚀刻线网。画面上部是近乎平坦的炭灰背景，没有详细房间或风景。形态由清脆简练的墨线轮廓界定；大块颜色平坦哑光，布料与地面则有密集线性纹理。光均匀且低调，主要通过浅色脸和手与深发、深衣之间的对比呈现。画面没有明亮高光或深度塑形的阴影。强烈红裙、黄色带子与紫色袖子在宽阔黑灰空间中组成紧凑的冷暖色序列。近距离裁切把注意力留在身体折叠的姿态，以及精细纹样与开阔暗底之间的对比。整体静止、紧张、略带超现实感，优雅平涂与受控线条使场景统一。",
+  "style_prompt_en": "A flat graphic illustration language with crisp economical ink contours and broad matte color fields. Charcoal and blue-gray space supports concentrated crimson, mustard, and plum accents. Fine repeated pattern and etched linear ground texture add detail without disrupting the large silhouettes. Light is even and subdued, carried by value separation rather than gradual realistic modeling. Dense decorative regions alternate with quiet open darkness, creating a low, compressed spatial rhythm. The surface feels controlled, printed, and slightly uncanny.",
+  "style_prompt_zh": "平面图形插画语言，使用清脆简练的墨线轮廓与宽阔哑光色块。炭灰和蓝灰空间托住集中的深红、芥末黄与李紫色点缀。细小重复纹样和蚀刻般的线性底纹增加细节，却不打断大型剪影。光感均匀低调，主要由明度分离承担，而非写实的连续渐变塑形。密集装饰区与安静开阔暗区交替，形成低矮压缩的空间节奏。表面受控，带印刷感和轻微诡异气息。",
+  "theme_en": "A woman curled forward on a gray floor in a red patterned skirt",
+  "theme_zh": "一名女子穿红色纹样裙，蜷身伏在灰色地面上",
+  "wh_ratio": "1:1",
+  "id": "3781",
+  "name": "Toshio Saeki",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/toshio-saeki",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "945a77a21e6000a423581f20d4237299e8c982f87beda11c2c7ea71eafef947d",
+    "gpt_submission_prompt": "A square graphic illustration shows a dark-haired woman curled forward on a blue-gray floor. Her body forms a low, broad triangle: a voluminous red patterned skirt rises at left, a mustard-yellow sash crosses her waist, and a plum-purple top folds toward the right. Her head rests close to the ground at the lower right, with a pale cheek, closed or downcast eye, and one pale hand visible near her face. Long black hair spills over the shoulder and merges with the dark area behind her. The skirt carries subtle red-on-red motifs and fine black lines, making the largest color field decorative rather than empty. Beneath her, the gray floor has an irregular network of darker cracks or etched marks. The upper part of the picture is a nearly flat charcoal background, leaving no detailed room or scenery. The forms are defined by crisp, economical ink contours; broad areas of color remain flat and matte, while the fabric and floor receive dense linear texture. Light is even and subdued, indicated mainly by the contrast of the pale face and hand against dark hair and clothing. There are no bright highlights or deep modeled shadows. The strong red skirt, yellow band, and purple sleeve create a compact warm-cool sequence within the broad black and gray space. The close cropping keeps attention on the body's folded posture and the contrast between intricate pattern and open dark ground. The overall composition is still, tense, and quietly surreal, with elegant flat color and controlled linework holding the scene together.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "cc439b32b6007106cc047e9cd9d534e2916b5f0125f272ac85213c3c803f0270",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square historical oil landscape shows a cobbled lane winding beside quiet green water toward a group of old stone buildings. On the left, a low arched stone bridge crosses the river, its dark opening reflected in the still surface. Beyond it, faint spires rise in bluish haze. The main building stands near the upper center: a weathered pale-stone tower with a steep rust-red roof and small corner turret, joined to lower roofs and walls. Warm ochre and gray stonework is broken by narrow windows, irregular brick patches and foliage climbing around the base. The lane begins in the lower right and bends left toward a shaded passage beneath the building. A small cart and a few tiny figures occupy the middle distance, giving scale to the heavy architecture. Dense leafy trees frame the tower on both sides, their dark green crowns partly hiding the walls. The riverbank at lower left is edged with rocks, low plants and a little sunlit earth. Above, a broad gray-white clouded sky lets patches of warm light through. The light falls from the upper left, touching the red roofs, tower face and pale stones of the path while the arch and tree canopy hold deeper shadow. Fine controlled strokes render masonry and paving, softening gradually toward the distant spires. The overall composition follows the curving lane from foreground texture into a picturesque, settled townscape beside reflective water.",
+  "full_prompt_zh": "这幅方形历史题材油画风景里，一条铺石小路沿平静绿水蜿蜒，通向一组旧石建筑。左侧一座低矮石拱桥跨过河流，深色桥洞映在静水中。桥后，模糊塔尖升在蓝色薄雾里。主要建筑立在上方中央附近：一座磨旧浅石塔楼，屋顶陡峭而锈红，角上还有一座小塔，与较低屋顶和墙体相连。暖赭和灰色石工被窄窗、不规则砖块和攀在基部的草木打断。小路从右下开始，向左弯入建筑下方阴凉的通道。中景有一辆小车和几位极小人物，反衬厚重建筑的尺度。浓密树木从两侧围住塔楼，深绿树冠部分遮墙。左下河岸镶着石块、低植物和一点受光土色。上方宽阔灰白云天透出几片暖光。光从左上落下，触及红屋顶、塔面和小路上的浅色石块，桥拱和树冠则藏着更深阴影。细密受控笔触描写砌石与铺地，向远处塔尖逐渐柔化。整体构图沿弯曲小路从前景肌理走向水边如画而安定的城镇景色。",
+  "style_prompt_en": "The oil-painting style combines carefully textured near surfaces with softened atmospheric distance. Warm ochre, rust red and pale stone balance deep leafy green and cool blue-gray haze. Small controlled strokes articulate joints and rough edges, while broader soft strokes shape clouds and far forms. Broken sunlight selects certain planes and ground patches, leaving arches and dense masses in rich shadow. A curving route through the image organizes layered depth, and reflective horizontal bands calm the detailed vertical shapes. The overall effect is picturesque, orderly and slightly nostalgic, with material texture anchoring the luminous atmosphere.",
+  "style_prompt_zh": "这种油画风格把近处仔细描写的肌理表面同柔化的空气远景结合。暖赭、锈红与浅石色平衡深叶绿和冷蓝灰薄雾。小而受控的笔触刻画接缝与粗边，较宽柔笔塑造云与远处形体。破云阳光挑选部分平面和地面色块，拱下与密集量块则保留浓影。一条弯曲的画内路径组织层层纵深，反光横带安抚细密竖形。总体效果如画、有序而略带怀旧感，材料肌理稳住明亮空气。",
+  "theme_en": "A cobbled riverside lane beneath a red-roofed tower and stone bridge",
+  "theme_zh": "红顶塔楼与石桥下，一条铺石河岸小路蜿蜒而过",
+  "wh_ratio": "1:1",
+  "id": "2899",
+  "name": "Cornelis Springer",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/cornelis-springer",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/cornelis-springer.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "3da035b000529ad831b929d8b68c86edffe07e6a438ba758f250d927127baa8c",
+    "gpt_submission_prompt": "A square historical oil landscape shows a cobbled lane winding beside quiet green water toward a group of old stone buildings. On the left, a low arched stone bridge crosses the river, its dark opening reflected in the still surface. Beyond it, faint spires rise in bluish haze. The main building stands near the upper center: a weathered pale-stone tower with a steep rust-red roof and small corner turret, joined to lower roofs and walls. Warm ochre and gray stonework is broken by narrow windows, irregular brick patches and foliage climbing around the base. The lane begins in the lower right and bends left toward a shaded passage beneath the building. A small cart and a few tiny figures occupy the middle distance, giving scale to the heavy architecture. Dense leafy trees frame the tower on both sides, their dark green crowns partly hiding the walls. The riverbank at lower left is edged with rocks, low plants and a little sunlit earth. Above, a broad gray-white clouded sky lets patches of warm light through. The light falls from the upper left, touching the red roofs, tower face and pale stones of the path while the arch and tree canopy hold deeper shadow. Fine controlled strokes render masonry and paving, softening gradually toward the distant spires. The overall composition follows the curving lane from foreground texture into a picturesque, settled townscape beside reflective water.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "719c2413c7e29ac95fc86d0ce1d121924a554d9e55ea6a9fba0249f233a2b7ae",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

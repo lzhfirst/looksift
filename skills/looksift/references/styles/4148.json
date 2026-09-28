@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square semi-abstract oil painting shows a pale path or broad road leading away from the lower foreground into a dark blue-green landscape. The path is made of wide, rough off-white and muted pink brush strokes, narrowing near the center of the frame. Dark vertical masses on the right suggest trees or building supports, while a low green bank and horizontal waterlike strip stretch along the left. Above the horizon, an immense turbulent turquoise and slate sky rises in thick, scraped marks, with a bright white burst near the vanishing point. The subject is only loosely described; color, surface, and direction carry the scene. Paint seems dragged and scumbled across the canvas, revealing underlying layers and uneven edges. Cool teal and deep navy dominate, with pale gray, cream, and dusty rose in the ground. Light gathers at the distant center, turning the path into a guide toward a glowing atmospheric opening. The flanking dark masses frame that opening without forming a precise architectural corridor. The eye moves from broad foreground paint through the narrowing pale band into textured sky. The whole composition feels open but unsettled, balancing the stability of a receding path with the energy of weather and paint.",
+  "full_prompt_zh": "一幅方形半抽象油画描绘一条浅色小路或宽道从下方前景引入深蓝绿景观。路由宽大粗糙的灰白和低调粉红笔触构成，到中央附近收窄。右侧深色竖块暗示树或建筑支撑，左侧有低绿岸与水平水样色带。地平线上，巨大动荡的青绿和石板色天空以厚刮笔痕升起，消失点附近有一团亮白爆开。题材只松散提示；颜色、表面和方向承担画面。颜料像在画布上拖曳与干擦，露出底层和不均边缘。冷青绿与深藏蓝占主导，地面有浅灰、奶油和尘粉。光在远处中央聚起，使道路成为通向发亮空气开口的引导。两侧深团框住它，却没有形成准确建筑通道。视线从宽阔前景颜料沿收窄浅带进入有肌理天空。整体开阔却不安，在后退道路的稳定与天气、颜料的能量间平衡。",
+  "style_prompt_en": "Semi-abstract oil painting relies on rough scraped color, broad directional strokes, and a simple receding corridor. Deep teal, slate blue, navy, cream, and dusty rose remain visibly layered rather than smoothly blended. A bright distant opening pulls the eye through a pale foreground band. Dark side masses frame the light but retain ambiguous edges. Surface scuffs and exposed underlayers make the image tactile, while vertical and horizontal marks suggest space without fully describing it. The result feels weathered, restless, and atmospheric, with paint activity as central as the scene.",
+  "style_prompt_zh": "半抽象油画依赖粗刮色彩、宽阔定向笔痕和简单后退通道。深青绿、石板蓝、藏蓝、奶油和尘粉可见层叠，没有平顺调和。远处亮开口通过前景浅带吸引视线。深色侧团框住光，却保留暧昧边缘。表面擦痕和露出底层使画面可触，竖向与横向笔痕提示空间而不完全描绘。结果风化、躁动且充满空气感，颜料活动与场景同样重要。",
+  "theme_en": "A pale path beneath a turbulent blue-green sky",
+  "theme_zh": "动荡蓝绿天空下的浅色小路",
+  "wh_ratio": "1:1",
+  "id": "4148",
+  "name": "Raoul De Keyser",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/raoul-de-keyser.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "43a03cee53750ecc5e79396a7a8d956bd4492caba9fcb078686d3e889325bfbf",
+    "gpt_submission_prompt": "A square semi-abstract oil painting shows a pale path or broad road leading away from the lower foreground into a dark blue-green landscape. The path is made of wide, rough off-white and muted pink brush strokes, narrowing near the center of the frame. Dark vertical masses on the right suggest trees or building supports, while a low green bank and horizontal waterlike strip stretch along the left. Above the horizon, an immense turbulent turquoise and slate sky rises in thick, scraped marks, with a bright white burst near the vanishing point. The subject is only loosely described; color, surface, and direction carry the scene. Paint seems dragged and scumbled across the canvas, revealing underlying layers and uneven edges. Cool teal and deep navy dominate, with pale gray, cream, and dusty rose in the ground. Light gathers at the distant center, turning the path into a guide toward a glowing atmospheric opening. The flanking dark masses frame that opening without forming a precise architectural corridor. The eye moves from broad foreground paint through the narrowing pale band into textured sky. The whole composition feels open but unsettled, balancing the stability of a receding path with the energy of weather and paint.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "02a1c9f031b002d814feac4fc45ec9ef06f8617d2ed20883185b8aa11f507e24",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

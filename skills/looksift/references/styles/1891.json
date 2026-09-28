@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square cinematic photograph looks across an empty coastal plain at dusk. The foreground is a wide dark sweep of rippled sand or gravel, almost black at the lower edge, with shallow ridges leading toward a low horizon. A dim line of water runs across the far left and center. On the right, a steep dark hillside descends diagonally into the plain, its edge cutting through a haze of red-orange light. Near the base of that slope a concentrated warm light burns at the horizon, blooming into coral, amber, and rose fog. Farther left, a much smaller cold blue-white point shines near the waterline, separated from the warm glow by a broad stretch of dark ground. Above, the sky is smooth and unsettled: deep teal at the upper left, gray-green across the middle, and muted pink around the warm light. The two glows are overexposed enough to soften their sources, so they read as distant, ambiguous beacons rather than clearly identifiable objects. No people or structures are resolved. The image is deliberately spare, with a strong horizontal horizon countered by the hillside's descending diagonal. Subtle noise and low-light softness sit over the colored mist, while the foreground texture remains visible as long shallow bands. The camera is set low and faces the lights directly, letting the void between them become the central subject. Cool and warm color zones oppose each other gently, producing an eerie, expectant mood within an otherwise realistic landscape photograph.",
+  "full_prompt_zh": "一幅方形电影感照片越过黄昏时空旷的海岸平原。前景是一大片带波纹的沙地或砾地，下缘近乎纯黑，浅浅的条形起伏引向低地平线。左侧到中央的远处横着一条暗淡水线。右边陡暗山坡斜斜落入平原，山缘切开一团红橙色雾光。靠近坡脚的地平线上，一处集中的暖光燃起，晕成珊瑚色、琥珀色和玫瑰色雾气。更左边，靠近水线的地方有一个小得多的冷蓝白色光点，两光之间隔着宽阔暗地。上方天空平滑又不安定：左上深青色，中部灰绿，暖光附近则是低饱和粉色。两处亮光略微过曝，使光源边界变软，因此看起来是远处难辨的信标，而不是可确认的物件。画面里没有清晰可辨的人或建筑。图像刻意简约，强水平地平线被山坡下降的对角线打断。细微噪点和弱光柔度覆在有色雾气上，前景肌理仍以长而浅的带状纹路可见。相机低置并直面灯光，让两光之间的空处成为中心。冷暖色域温和相对，使原本写实的风景摄影带上诡异而有所期待的情绪。",
+  "style_prompt_en": "Make a sparse low-light photograph with a low viewpoint, broad dark foreground, and distant lights diffusing through colored haze. Hold a subdued teal and gray-green atmosphere against restrained coral, amber, and rose glows, with a small cold white accent. Let sources bloom slightly and remain ambiguous while foreground bands or grain stay faintly readable. Use a low horizon, one decisive diagonal landform or shadow, and generous unoccupied space. Preserve photographic noise and soft dusk transitions for an eerie, expectant tone.",
+  "style_prompt_zh": "制作稀疏的弱光摄影：低视点、宽阔暗前景，以及穿过有色薄雾扩散的远处亮点。以低饱和青色和灰绿空气对照克制的珊瑚、琥珀与玫瑰色光晕，再点入一处冷白。光源轻微溢亮并保持难辨，前景条带或颗粒则隐约可读。采用低地平线、一条明确的地形或阴影斜线和大面积无人空域。保留摄影噪点与柔和暮色过渡，形成诡异而有所期待的气氛。",
+  "theme_en": "Two distant lights on a dark coastal plain at dusk",
+  "theme_zh": "暮色暗海岸平原上的两处远光",
+  "wh_ratio": "1:1",
+  "id": "1891",
+  "name": "Trevor Paglen",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/trevor-paglen",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/trevor-paglen.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "c5bf41ebbb5fc726dc8fd96a01da6471f52d24364e6de2b2738abfb5f32ccba3",
+    "gpt_submission_prompt": "A square cinematic photograph looks across an empty coastal plain at dusk. The foreground is a wide dark sweep of rippled sand or gravel, almost black at the lower edge, with shallow ridges leading toward a low horizon. A dim line of water runs across the far left and center. On the right, a steep dark hillside descends diagonally into the plain, its edge cutting through a haze of red-orange light. Near the base of that slope a concentrated warm light burns at the horizon, blooming into coral, amber, and rose fog. Farther left, a much smaller cold blue-white point shines near the waterline, separated from the warm glow by a broad stretch of dark ground. Above, the sky is smooth and unsettled: deep teal at the upper left, gray-green across the middle, and muted pink around the warm light. The two glows are overexposed enough to soften their sources, so they read as distant, ambiguous beacons rather than clearly identifiable objects. No people or structures are resolved. The image is deliberately spare, with a strong horizontal horizon countered by the hillside's descending diagonal. Subtle noise and low-light softness sit over the colored mist, while the foreground texture remains visible as long shallow bands. The camera is set low and faces the lights directly, letting the void between them become the central subject. Cool and warm color zones oppose each other gently, producing an eerie, expectant mood within an otherwise realistic landscape photograph.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "cfbaee1d6cd48f3c735722579c6fa9295588e257d67c5a0e1d30cde95cf37e4e",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

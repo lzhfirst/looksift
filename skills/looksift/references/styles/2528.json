@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white social documentary photograph looks into a cramped, worn room where an elderly man sits alone at left beside a small cast-iron stove. His broad-brimmed dark hat and heavy coat merge with the shadow around him. He bends forward on a low chair, hands gathered over his knees, face turned down toward the floor rather than toward the camera. At the right foreground, the compact stove stands against a rough brick wall, its firebox window glowing white and a black pipe curving upward. A kettle or small pot rests on its top, and round bowls and a basin sit near the hearth on the uneven plank floor. Behind the man, a low bed or pile of bedding stretches across the center, rumpled sheets catching a little gray light. Crowded frames, scraps of paper, hanging cloth, and narrow shelves fill the rear wall without clear order. Near the upper center-left, a glaring bare light or window flare burns into the image, washing a small area of the back wall almost white. The rest of the room has deep black corners, smoky midtones, and scratched silver grain. Light from the bright opening and stove strikes dusty floorboards and a few metal rims, then falls off quickly toward the seated man. The composition gives the worn objects as much weight as the solitary figure, recording hardship through dense material evidence and unembellished stillness.",
+  "full_prompt_zh": "一幅方形黑白社会纪实摄影看入狭窄磨旧的房间，老人独自坐在左侧一只小铸铁炉旁。宽檐深帽和厚外衣并入四周阴影。他在低椅上前弯，双手收在膝上，脸朝地面而非镜头。右前景，紧凑炉子贴着粗砖墙，炉门窗口发白光，黑烟管向上弯。炉顶放水壶或小锅，炉边不平木地板上有圆碗与盆。老人身后，低床或成堆被褥横在中央，揉皱床单接住一点灰光。拥挤画框、纸片、垂布和窄架毫无整齐秩序地占满后墙。上方偏左中央，一处刺眼裸灯或窗光烧进影像，把背墙小块冲成近白。房间其余部分有深黑角落、烟灰中间调与刮擦银盐颗粒。亮口和炉火的光照到积尘地板与几个金属边，随后朝坐着的老人迅速衰落。构图赋予磨旧物件与孤独人物同等分量，以密集的材质证据和不加修饰的静止记录艰辛。",
+  "style_prompt_en": "Early black-and-white documentary photography tolerates harsh isolated highlights, deep shadow, grain, and crowded material detail. Place a small human form inside a cramped setting where worn surfaces, tools, fabric, and improvised objects remain legible. Let one glaring practical light burn near white while most corners recede into smoky gray-black; a second weak glow can pick out a few reflective edges. Keep the framing direct and unpolished, with imperfect perspective and scratched silver texture. The transferable effect is humane, unsentimental, and grounded in the physical evidence of daily life.",
+  "style_prompt_zh": "早期黑白纪实摄影容纳刺眼孤立亮部、深影、颗粒与拥挤材质细节。把小小人形放在狭窄环境里，让磨旧表面、工具、布料和临时拼凑物仍可辨。一处刺目实际光源烧近白色，大多角落退入烟灰黑；第二处弱光可挑出少数反光边缘。构图直接且不修饰，保留不完美透视与刮擦银盐纹理。可迁移效果有人性、不煽情，扎根于日常生活的物理证据。",
+  "theme_en": "An elderly man sitting by a stove in a dim crowded room",
+  "theme_zh": "老人坐在拥挤暗房间的炉边",
+  "wh_ratio": "1:1",
+  "id": "2528",
+  "name": "Jacob Riis",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/jacob-riis",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/jacob-riis.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "021b37f0cda64c8883e81b7ab52707274f2751724d200fc6fb4f14ffa5a0327f",
+    "gpt_submission_prompt": "A square black-and-white social documentary photograph looks into a cramped, worn room where an elderly man sits alone at left beside a small cast-iron stove. His broad-brimmed dark hat and heavy coat merge with the shadow around him. He bends forward on a low chair, hands gathered over his knees, face turned down toward the floor rather than toward the camera. At the right foreground, the compact stove stands against a rough brick wall, its firebox window glowing white and a black pipe curving upward. A kettle or small pot rests on its top, and round bowls and a basin sit near the hearth on the uneven plank floor. Behind the man, a low bed or pile of bedding stretches across the center, rumpled sheets catching a little gray light. Crowded frames, scraps of paper, hanging cloth, and narrow shelves fill the rear wall without clear order. Near the upper center-left, a glaring bare light or window flare burns into the image, washing a small area of the back wall almost white. The rest of the room has deep black corners, smoky midtones, and scratched silver grain. Light from the bright opening and stove strikes dusty floorboards and a few metal rims, then falls off quickly toward the seated man. The composition gives the worn objects as much weight as the solitary figure, recording hardship through dense material evidence and unembellished stillness.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "67fb969b40d7dbc423092ddba83871a5828cbae9d83b8ed4d6ef54fd56791892",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

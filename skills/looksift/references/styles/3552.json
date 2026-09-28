@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square monochrome photograph places a lone man in a dark overcoat and brimmed hat on a rough open plain beneath a huge flock of birds. He stands near the lower center with his head bent and face turned down, the coat hanging straight almost to the knees. The dark human silhouette is solid and quiet against the pale gray horizon. Above, hundreds of small black birds scatter from the upper left across the sky, becoming more widely spaced toward the upper middle and right. Their irregular wing shapes make a shifting dotted cloud over the still figure. At the right edge, a weathered small building with a pitched roof intrudes into the frame, its dark wall and windows partly cropped. The foreground is low, stony, and uneven, with little vegetation and no clear path. Layered gray cloud banks sit behind the man near the horizon, while the upper sky is lighter and more open around the flock. Soft overcast light gives broad tonal divisions rather than sharp highlights; the figure and building stay in deep shadow, and the ground shows subdued grain. The birds remain crisp enough to read as separate silhouettes near the top, then merge into a denser haze farther left. The scene has a slightly aged, muted photographic finish with faint grain and a wide range of middle grays. There are no other people or readable signs. The overall composition balances one heavy grounded figure and a cropped structure against countless tiny moving marks, creating a quiet, uncanny sense of scale and isolation.",
+  "full_prompt_zh": "一幅方形黑白摄影把一位穿深色大衣、戴有檐帽的男子放在粗砺开阔荒原上，头顶是庞大鸟群。他靠近下方中央站立，低着头、脸朝下，外套笔直垂至膝部附近。深色人形剪影在浅灰地平线前坚实而安静。上方，数百个小黑鸟影从左上散过天空，向上中与右侧逐渐稀疏。不规则翅形在静止人影上方组成变化的点状云。右边缘一栋斜屋顶的风化小屋进入画框，深墙和窗户部分被截断。前景低矮、多石而不平，植被很少，也没有清楚道路。层叠灰云带位于男子身后地平线附近，鸟群周围的上层天空更浅、更开阔。柔和阴天光带来宽缓影调分区，而非锐利高光；人物和建筑保持深暗，地面有低调颗粒。顶部鸟影足够清楚，可分辨单只剪影，向左远处则合成更密的雾状团。场景有略陈旧、低调的摄影完成面，带淡颗粒和丰富中灰。没有其他人物或可读标牌。整体构图以一个沉重落地人形和被裁切建筑对照无数微小运动记号，营造安静、奇异的尺度与孤立感。",
+  "style_prompt_en": "The image has subdued monochrome photographic tonality, with a heavy grounded silhouette beneath a wide pale field of scattered tiny marks. Charcoal and middle gray dominate the lower band; soft cloud layers and a lighter upper area offer atmospheric separation. The small marks are irregular and individually sharp in places, becoming a denser grain-like swarm elsewhere. An off-center dark structural edge adds weight without filling the open space. Overcast light is broad and low in contrast, leaving few highlights and no hard shadow. The overall effect is spare, lonely, and quietly uncanny, with stillness balanced against dispersed motion.",
+  "style_prompt_zh": "图像具有低调黑白摄影影调，宽阔浅色画域中散满细小记号，下面由沉重的落地剪影稳住。炭黑和中灰主导下方色带，柔和云层与更浅上部提供空气分离。小记号不规则，部分可单独辨认，另一些合成更密的颗粒群。偏心深色结构边增加重量，却没有填满开放空间。阴天光宽缓、低反差，几乎没有亮点或硬影。整体效果稀疏、孤独而安静诡异，以静止平衡分散的运动。",
+  "theme_en": "A lone dark-coated man under a vast flock of birds on a bleak plain",
+  "theme_zh": "荒原上，深衣独行男子站在庞大鸟群之下",
+  "wh_ratio": "1:1",
+  "id": "3552",
+  "name": "Joan Fontcuberta",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/joan-fontcuberta",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "c989dbdf74023d87d05b8ce72d6cd6b0b16d25c6d24094db4c317ea83396f998",
+    "gpt_submission_prompt": "A square monochrome photograph places a lone man in a dark overcoat and brimmed hat on a rough open plain beneath a huge flock of birds. He stands near the lower center with his head bent and face turned down, the coat hanging straight almost to the knees. The dark human silhouette is solid and quiet against the pale gray horizon. Above, hundreds of small black birds scatter from the upper left across the sky, becoming more widely spaced toward the upper middle and right. Their irregular wing shapes make a shifting dotted cloud over the still figure. At the right edge, a weathered small building with a pitched roof intrudes into the frame, its dark wall and windows partly cropped. The foreground is low, stony, and uneven, with little vegetation and no clear path. Layered gray cloud banks sit behind the man near the horizon, while the upper sky is lighter and more open around the flock. Soft overcast light gives broad tonal divisions rather than sharp highlights; the figure and building stay in deep shadow, and the ground shows subdued grain. The birds remain crisp enough to read as separate silhouettes near the top, then merge into a denser haze farther left. The scene has a slightly aged, muted photographic finish with faint grain and a wide range of middle grays. There are no other people or readable signs. The overall composition balances one heavy grounded figure and a cropped structure against countless tiny moving marks, creating a quiet, uncanny sense of scale and isolation.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "8cd6ff51fce9d3601f82dd9adb4c2ad3acf7a5d17dc5df50c1d891558ce09c8c",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

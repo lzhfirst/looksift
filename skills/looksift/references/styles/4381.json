@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square realist painting shows an older man sitting alone on a stool at a long wooden diner counter. He leans forward with one hand supporting his cheek, his profile turned toward the right. A few small bottles and a white cup sit far along the counter, but the space between them and the man remains mostly bare. The interior is built from deep bottle-green walls, a dark doorway and a shadowed window frame on the left. Light from outside falls in a broad diagonal across the pale floor and touches the man's gray hair, face and olive jacket. The polished counter catches a warm amber strip that cuts horizontally through the cool room. A dark oval shadow gathers under the stool. The figure is quiet and compact within the architecture, dwarfed by blank wall planes and the length of the bar. Perspective is simple and convincing: the counter recedes toward the upper right, while wall openings form rigid verticals behind him. Brushwork is smooth enough to feel observed but still shows muted painterly texture in the shadows. The palette narrows to teal green, black, ochre wood and cool cream light. The scene contains no visible conversation or dramatic event. Its feeling of isolation comes from geometry, distance and the way a single lit body occupies an otherwise vacant public interior.",
+  "full_prompt_zh": "一幅正方形写实绘画呈现一位老人独坐在长木质餐馆吧台边的凳子上。他向前倾，一只手托着脸颊，侧脸朝右。吧台远处放着几个小瓶与一只白杯，他与物品之间的台面大多空着。室内由深瓶绿色墙、黑暗门洞和左侧阴影中的窗框构成。室外光斜斜铺过浅色地板，也触到他的灰发、面容与橄榄色外套。抛光吧台反出一道暖琥珀色横带，切过冷色房间。凳子下聚起深色椭圆阴影。人物在建筑中安静而紧凑，被空白墙面和吧台长度衬得渺小。透视简单可信：吧台向右上方退去，后方墙洞形成严整竖线。笔触足够平滑，令人感到现场观察，同时阴影中仍保留压低的绘画肌理。色谱收窄为青绿、黑色、赭木色与冷乳色光。场景没有可见交谈或戏剧事件。孤独感来自几何、距离，以及唯一受光身体如何占据这个其余空荡的公共室内。",
+  "style_prompt_en": "The style is restrained American realist painting shaped by simple architectural geometry, vacant intervals and sharply observed light. Cool green shadow planes surround a compact warm focal area; a long horizontal strip and a diagonal floor beam organize the square. Smooth but visibly painted surfaces suppress unnecessary detail. Strong vertical openings and convincing recession establish quiet spatial distance. A limited palette of deep teal, amber brown, black and pale cream creates contemplative isolation through placement rather than overt expression.",
+  "style_prompt_zh": "这种风格是克制的美国写实绘画，由简单建筑几何、空置间隔和被敏锐观察的光线塑成。冷绿色阴影平面围住紧凑暖色焦点；一道长水平色带与斜向地面光束组织正方形画幅。平滑但仍可见笔触的表面压低多余细节。强烈竖向开口和可信后退透视建立安静空间距离。深青、琥珀棕、黑与浅乳色的有限色谱通过位置关系，而非外露表情，制造沉思式孤独。",
+  "theme_en": "A solitary older man at a nearly empty diner counter",
+  "theme_zh": "几近空荡的餐馆吧台边的独坐老人",
+  "wh_ratio": "1:1",
+  "id": "4381",
+  "name": "Edward Hopper",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/edward-hopper.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "790130fdf7dd8d1543a87647dc76b65679201f55fd9702af9565cb85188f9e55",
+    "gpt_submission_prompt": "A square realist painting shows an older man sitting alone on a stool at a long wooden diner counter. He leans forward with one hand supporting his cheek, his profile turned toward the right. A few small bottles and a white cup sit far along the counter, but the space between them and the man remains mostly bare. The interior is built from deep bottle-green walls, a dark doorway and a shadowed window frame on the left. Light from outside falls in a broad diagonal across the pale floor and touches the man's gray hair, face and olive jacket. The polished counter catches a warm amber strip that cuts horizontally through the cool room. A dark oval shadow gathers under the stool. The figure is quiet and compact within the architecture, dwarfed by blank wall planes and the length of the bar. Perspective is simple and convincing: the counter recedes toward the upper right, while wall openings form rigid verticals behind him. Brushwork is smooth enough to feel observed but still shows muted painterly texture in the shadows. The palette narrows to teal green, black, ochre wood and cool cream light. The scene contains no visible conversation or dramatic event. Its feeling of isolation comes from geometry, distance and the way a single lit body occupies an otherwise vacant public interior.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "e3baf1363e0637cc210c562756ab833b5911431369e2418138bddc6262c7ce5f",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

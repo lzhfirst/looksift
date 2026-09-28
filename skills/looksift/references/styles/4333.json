@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square monochrome storybook illustration shows a small child in profile facing a much larger shaggy horned creature. The child stands on the right, head tipped upward, short curly hair outlined by fine ink marks. A simple collared garment covers the shoulders. The creature leans in from the left, occupying almost the entire left half with thick fur, broad curved horns, pointed ears, a blunt snout, and a wide mouth that appears friendly despite its size. Its round eyes look directly at the child. A vertical dark doorway or wall shadow divides the space behind them, while lighter gray wall planes frame both sides. The image is closely cropped around the encounter; neither full body is visible, focusing attention on the exchange of gazes and the enormous difference in scale. Fur is built from countless small, directional pen strokes, with dense crosshatching deepening the neck and underside. The child's hair, nose, and cloth have lighter, more economical lines. A stippled gray wash softens the broad background and contributes an aged printed-paper texture. The creature's white teeth, pale muzzle, and horn edges emerge sharply from charcoal black shadow. There is no color, title, dialogue, or visible lettering. The tone is intimate and strange rather than frightening. The generous detail in the animal's fur is balanced by quiet, nearly empty wall areas, making the still moment feel like a page from a thoughtful illustrated children's tale.",
+  "full_prompt_zh": "一幅方形单色故事书插画呈现一个小孩侧身面对体型大得多的毛茸茸有角生物。孩子站在右侧，抬头，短卷发由细墨线勾出，肩上是一件简单有领衣服。生物从左侧探入，厚毛、宽弯角、尖耳、钝鼻和宽嘴几乎占满左半幅；它虽巨大却显得友善。圆眼直看孩子。背后一道竖向深门洞或墙影划分空间，两侧由较浅灰墙面框住。画面紧密裁切这次相遇，双方全身都不可见，注意力集中在互望与巨大尺度差异上。毛发由无数细小定向钢笔线组成，密集交叉排线压深颈部和下侧。孩子的头发、鼻子和衣物线条更轻、更简。点状灰洗柔化大块背景，添上旧印刷纸质感。生物的白牙、浅口鼻和角边从炭黑影中清楚浮出。没有颜色、标题、对话或可见文字。气氛亲密而古怪，不是恐怖。动物毛发的大量细节与安静、近乎空白的墙面取得平衡，使静止瞬间像一页思虑细致的儿童插画故事。",
+  "style_prompt_en": "Use monochrome storybook illustration with fine ink lines, stippled gray wash, and visibly aged paper texture. Give the focal textured area dense directional hatching while keeping surrounding planes quiet and lightly toned. Model contrasts through charcoal shadow, soft middle gray, and small cream highlights. Let expressive contours remain slightly irregular and handmade. Crop close around an exchange or visual relationship so scale is felt directly, leaving simple vertical background divisions to organize space. The mood should be tender, uncanny, and still, with richly observed texture balanced by generous calm areas rather than decorative clutter.",
+  "style_prompt_zh": "采用单色故事书插画，结合细钢笔线、点状灰洗和可见旧纸质感。焦点纹理区用密集定向排线，周围平面则安静、浅调。以炭黑影、柔和中灰与小片奶油白高光建立对比。表情性轮廓略不规则，保留手工感。紧裁一组交流或视觉关系，使尺度被直接感知，并用简单竖向背景分隔组织空间。氛围温柔、奇异且静止，丰富观察纹理与充足安静区域平衡，而非堆积装饰。",
+  "theme_en": "A small child quietly facing a shaggy horned creature in a doorway",
+  "theme_zh": "小孩在门口安静地面对毛茸茸的有角生物",
+  "wh_ratio": "1:1",
+  "id": "4333",
+  "name": "Maurice Sendak",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/maurice-sendak.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "0981f1327050af44391dc166163bcb9b401b41b089d55388d3a73c409c54e1d0",
+    "gpt_submission_prompt": "A square monochrome storybook illustration shows a small child in profile facing a much larger shaggy horned creature. The child stands on the right, head tipped upward, short curly hair outlined by fine ink marks. A simple collared garment covers the shoulders. The creature leans in from the left, occupying almost the entire left half with thick fur, broad curved horns, pointed ears, a blunt snout, and a wide mouth that appears friendly despite its size. Its round eyes look directly at the child. A vertical dark doorway or wall shadow divides the space behind them, while lighter gray wall planes frame both sides. The image is closely cropped around the encounter; neither full body is visible, focusing attention on the exchange of gazes and the enormous difference in scale. Fur is built from countless small, directional pen strokes, with dense crosshatching deepening the neck and underside. The child's hair, nose, and cloth have lighter, more economical lines. A stippled gray wash softens the broad background and contributes an aged printed-paper texture. The creature's white teeth, pale muzzle, and horn edges emerge sharply from charcoal black shadow. There is no color, title, dialogue, or visible lettering. The tone is intimate and strange rather than frightening. The generous detail in the animal's fur is balanced by quiet, nearly empty wall areas, making the still moment feel like a page from a thoughtful illustrated children's tale.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "1725e114ac6551bf028f24979604ba8d66467bce616a025c0b519e27a7300e05",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A painted adventure illustration catches an armed traveler crouching on a wooded cliff, ready to move toward a distant citadel. The figure is set left of center, bent into a dynamic diagonal with one arm extended and a long sword pointing up into the pale blue air. Dense dark foliage and a rock face close in from the upper left; large leaves and small flowering plants fill the lower foreground. Across a misty valley, a white castle with many narrow spires rises at the upper right, bright and distant compared with the earthy foreground. The composition separates two distinct depths: richly detailed green-brown terrain close to the viewer and cool blue architecture softened by atmosphere. The traveler is modeled with lively brushwork, broad light on the white sleeves, and darker folds in leather and brown cloth. Small highlights catch leaves, stones, and the sword edge, giving movement to the busy foreground. The sky provides a needed open area around the far towers and the raised blade. The palette balances deep forest green, umber, pale cobalt, chalk white, and touches of flower red. Light appears to filter through open air from above, making the distant destination glow while the approach remains shaded. The whole frame has the energetic storytelling of a vintage illustrated adventure cover, with clear action, tactile paint, and a strong path for the eye.",
+  "full_prompt_zh": "一幅绘制的冒险插画抓住一位持剑旅人蹲在林木悬崖上的瞬间，正准备前往远处城堡。人物位于中心偏左，身体弯成富有动势的斜线，一只手伸出，长剑指向浅蓝色空气。浓密暗色树叶和岩壁从左上压入，大片叶片与细小花草填满下方前景。跨过朦胧山谷，一座拥有许多细尖塔的白色城堡在右上升起，与泥土色前景相比明亮而遥远。构图区分两层深度：贴近观者、细节丰富的绿棕色地形，以及被空气柔化的冷蓝色建筑。旅人以活跃笔触塑造，白色袖口受宽阔亮光照射，皮革和棕色布料的褶皱更暗。小高光落在叶片、石头和剑刃上，使繁忙前景富于运动。天空在远塔与举起的剑周围提供必要的开阔区域。色盘平衡深森林绿、深棕、浅钴蓝、粉白和少量花朵红色。光仿佛从上方开放空气中滤下，让远方目的地发亮，而通往它的近路仍在阴影中。整幅画具备复古冒险封面插画的蓬勃叙事力，动作清楚、颜料可感、目光行进的路径明确。",
+  "style_prompt_en": "A vintage adventure painting with energetic diagonal movement and tactile brushwork. Dense dark green-brown texture fills one near corner, opening across a cool misty gap to a pale blue and chalk-white distant mass. Small red and cream flecks animate leafy foreground forms; a thin hard line rises through open sky. Warm light catches selected near planes, while atmospheric light makes the distance brighter and softer. The composition relies on sharp detail close by, hazy receding layers, and a clear dark-to-light path across the frame.",
+  "style_prompt_zh": "一幅复古冒险绘画，斜向运动有力，笔触具有可触质感。一处近角填满密集深绿棕色纹理，越过冷色雾隙，通向浅蓝与粉白的远处体量。细小红色和奶油白碎点让近处叶状形体活跃；一条细而硬的线穿过开阔天空向上伸展。暖光照亮近处少量平面，大气光则使远方更亮、更柔。构图依靠近处锐利细节、逐层朦胧的退远空间，以及贯穿画面的清楚明暗路径。",
+  "theme_en": "An adventurer on a wooded cliff above a distant citadel",
+  "theme_zh": "林木悬崖上遥望远处城堡的冒险者",
+  "wh_ratio": "1:1",
+  "id": "3117",
+  "name": "Earl Norem",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/earl-norem",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "002637850a96f1dc26dce6a68f0c579569b5ce784ec13d363869219046b3d1f8",
+    "gpt_submission_prompt": "A painted adventure illustration catches an armed traveler crouching on a wooded cliff, ready to move toward a distant citadel. The figure is set left of center, bent into a dynamic diagonal with one arm extended and a long sword pointing up into the pale blue air. Dense dark foliage and a rock face close in from the upper left; large leaves and small flowering plants fill the lower foreground. Across a misty valley, a white castle with many narrow spires rises at the upper right, bright and distant compared with the earthy foreground. The composition separates two distinct depths: richly detailed green-brown terrain close to the viewer and cool blue architecture softened by atmosphere. The traveler is modeled with lively brushwork, broad light on the white sleeves, and darker folds in leather and brown cloth. Small highlights catch leaves, stones, and the sword edge, giving movement to the busy foreground. The sky provides a needed open area around the far towers and the raised blade. The palette balances deep forest green, umber, pale cobalt, chalk white, and touches of flower red. Light appears to filter through open air from above, making the distant destination glow while the approach remains shaded. The whole frame has the energetic storytelling of a vintage illustrated adventure cover, with clear action, tactile paint, and a strong path for the eye.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "01fd97c0d94496f273593e8f60168feb9f3ff72898226a8c8d22800c2dfba0a5",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

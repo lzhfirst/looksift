@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square presentation contains a horizontal landscape painting of a calm river extending toward distant mountains. Dark wooded banks frame the water on the left and right, narrowing toward a pale opening at the center. The river surface is nearly still, reflecting muted peach clouds, soft blue-gray sky and the shadowed tree line in long, quiet bands. The far mountains are hazy and low, their edges dissolving into atmospheric light. A warm cluster of cloud near the center-right suggests late afternoon, but the overall palette remains subdued: olive green, smoky blue, amber cream and brown-black. The scene has no figures, boats or buildings. Its emphasis is on the distance created by receding banks and on subtle tonal changes across air and water. The nearest trees are rendered as dense dark masses with only a few visible leaf details; their silhouettes guide the viewer toward the open center. Brushwork is smooth at a distance and gently textured in the reflections. Broad sky takes almost half the horizontal image, allowing a restful balance with the wide water below. White margins above and below make the picture feel like a reproduced or mounted landscape within the square source. The painting's mood is contemplative and spacious, with light slowly settling across the river rather than announcing a dramatic event.",
+  "full_prompt_zh": "一幅正方形呈现中包含一张横幅风景画：宁静河流伸向远方山脉。左、右两侧深色林岸框住水面，向中央浅亮开口收窄。河面近乎静止，以悠长安静的色带映照压低的桃色云、柔蓝灰天空和阴影树林线。远山朦胧而低矮，边缘消融进大气光。中央偏右一簇暖云暗示傍晚，但整体色谱仍克制：橄榄绿、烟蓝、琥珀乳色与褐黑。场景没有人物、船或建筑。重点是后退河岸形成的距离，以及空气与水面上细微的明暗变化。近处树木被处理为密集深色体块，只露少量叶片细节；其剪影把观者引向开放中央。笔触远看平滑，倒影里有轻柔肌理。宽阔天空占横幅图像近一半，与下方大片水面形成安宁平衡。上下白边使画面像一张置于正方形来源图中的复制或装裱风景。绘画气氛沉思而开阔，光缓缓落在河上，而非宣告戏剧事件。",
+  "style_prompt_en": "The style is restrained luminist landscape painting with broad horizontal bands, subdued earth colors and delicate atmospheric recession. Dark near-side masses frame a pale central distance; smooth water mirrors soft cloud light in long low-contrast strokes. Distant contours dissolve gradually rather than ending abruptly. Olive, smoky blue, warm cream and brown-black carry quiet tonal variation. Generous sky and open reflective space create calm scale. The painterly surface remains gentle and observational, emphasizing settled light over dramatic action.",
+  "style_prompt_zh": "这种风格是克制的发光主义风景绘画，具有宽阔水平色带、压低土色和细腻大气后退。近处深色体块框住浅亮中央远方；平静水面以悠长低对比笔触映照柔软云光。远方轮廓逐渐消散，而非突然结束。橄榄色、烟蓝、暖乳色和褐黑承载安静调子变化。宽阔天空与开放反光空间形成平和尺度。绘画表面温柔而具观察性，强调安定光线而非戏剧动作。",
+  "theme_en": "A quiet river reflecting warm clouds and distant mountains",
+  "theme_zh": "宁静河面映照暖云与远山",
+  "wh_ratio": "1:1",
+  "id": "2507",
+  "name": "John Frederick Kensett",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/john-frederick-kensett",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/john-frederick-kensett.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "f08497e82cfc75e22d22743f631b8212acfa1ea724ad5518ac6a68c494893993",
+    "gpt_submission_prompt": "A square presentation contains a horizontal landscape painting of a calm river extending toward distant mountains. Dark wooded banks frame the water on the left and right, narrowing toward a pale opening at the center. The river surface is nearly still, reflecting muted peach clouds, soft blue-gray sky and the shadowed tree line in long, quiet bands. The far mountains are hazy and low, their edges dissolving into atmospheric light. A warm cluster of cloud near the center-right suggests late afternoon, but the overall palette remains subdued: olive green, smoky blue, amber cream and brown-black. The scene has no figures, boats or buildings. Its emphasis is on the distance created by receding banks and on subtle tonal changes across air and water. The nearest trees are rendered as dense dark masses with only a few visible leaf details; their silhouettes guide the viewer toward the open center. Brushwork is smooth at a distance and gently textured in the reflections. Broad sky takes almost half the horizontal image, allowing a restful balance with the wide water below. White margins above and below make the picture feel like a reproduced or mounted landscape within the square source. The painting's mood is contemplative and spacious, with light slowly settling across the river rather than announcing a dramatic event.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "bbe2a987025bb44f3412d3aa2e313bfde514feab0f04365c7ffe4aa2b6e6f477",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

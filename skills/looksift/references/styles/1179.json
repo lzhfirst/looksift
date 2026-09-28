@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A large, frontal male face fills a warm sepia composition, but its features are interrupted and rebuilt from layers of weathered paper, scratched paint, and small city images. The eyes look outward with a steady, slightly weary expression; the nose and mouth remain recognizable, while the cheeks and forehead break into fragments of architecture, streets, and tiny human figures. Several small rectangular images appear near the top, like photographs pasted to a damaged wall. Across the lower half, dark stairlike structures and rough blocks merge with the beard and neckline. The background is pale beige, mottled with old plaster tones and faint lines, allowing the darker head to remain prominent without a hard cutout edge. The collage has a strong vertical emphasis and a close crop, with the forehead nearly touching the top and the lower face dissolving into dense black-brown marks. Fine drawing, photographic fragments, scraped patches, and broad brushed stains coexist; no one material appears perfectly clean. Light is diffuse and dusty, with the brightest cream areas across the upper face and background and heavier shadow gathering around the mouth and chin. The palette stays almost monochrome: parchment, gray-brown, soot black, and a little faded olive. The image feels like a monumental portrait discovered within a wall, simultaneously personal and built from traces of collective urban memory.",
+  "full_prompt_zh": "一张男性正面面孔占满暖褐色画面，但五官被风化纸张、刮擦颜料和微小城市图像的层次切断并重新拼成。双眼以稳定、略显疲惫的神情望向外面；鼻子与嘴巴依然可辨，面颊和额头却裂解为建筑、街道与细小人群的碎片。顶部附近出现几块小矩形影像，像贴在受损墙面上的照片。下半部深色的台阶状结构与粗糙块面融进胡须和领口。背景为浅米色，带着旧灰泥的斑驳色调与微弱线痕，使较暗的头部保持突出，却没有剪贴般坚硬的外缘。拼贴强调纵向与近距离裁切，额头几乎碰到上边缘，下脸则散入密集的黑褐痕迹。细线描绘、照片碎片、刮开的斑块和宽刷污迹并存，没有一种材料显得完美洁净。光线漫射且灰蒙，上半张脸和背景是最亮的奶油色区域，较重阴影聚在嘴部和下巴。配色近乎单色：旧纸黄、灰褐、烟黑与少量褪色橄榄绿。图像像一幅从墙里显露的巨大肖像，既私人，又由集体城市记忆的痕迹构成。",
+  "style_prompt_en": "Layered mixed-media collage in a restrained range of parchment, gray-brown, soot black, and faded olive. Recognizable broad planes are interrupted by tiny rectangular fragments, scraped patches, delicate drawing, and embedded photographic textures. Edges break apart into the surrounding mottled field instead of remaining uniformly sharp. Dusty diffuse light keeps the brightest areas creamy and the shadows dense but varied. Dense marks collect low in the composition, while quieter pale regions give the upper area breathing room. The surface feels weathered, pasted, peeled, and repeatedly worked, with an introspective monumental weight.",
+  "style_prompt_zh": "层叠混合媒介拼贴，配色限制在旧纸黄、灰褐、烟黑和褪色橄榄绿。可辨认的大平面被微小矩形碎片、刮开斑块、纤细线描和嵌入的照片纹理打断。边缘碎裂并融入斑驳底色，而非处处锐利。灰蒙漫射光使最亮处带奶油质感，阴影浓重却有变化。密集痕迹聚在下部，上方较安静的浅色区域留出呼吸空间。表面像经历风化、粘贴、剥落与反复加工，具有内省而巨大的分量。",
+  "theme_en": "A weathered face built from layered city fragments",
+  "theme_zh": "以层叠城市碎片构成的风化面孔",
+  "wh_ratio": "1:1",
+  "id": "1179",
+  "name": "Gonzalo Borondo",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/gonzalo-borondo",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/gonzalo-borondo.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "0636118be0524f76cc5439812c5c7f4762a5e5f6e66d971da89cb7357cfebbd4",
+    "gpt_submission_prompt": "A large, frontal male face fills a warm sepia composition, but its features are interrupted and rebuilt from layers of weathered paper, scratched paint, and small city images. The eyes look outward with a steady, slightly weary expression; the nose and mouth remain recognizable, while the cheeks and forehead break into fragments of architecture, streets, and tiny human figures. Several small rectangular images appear near the top, like photographs pasted to a damaged wall. Across the lower half, dark stairlike structures and rough blocks merge with the beard and neckline. The background is pale beige, mottled with old plaster tones and faint lines, allowing the darker head to remain prominent without a hard cutout edge. The collage has a strong vertical emphasis and a close crop, with the forehead nearly touching the top and the lower face dissolving into dense black-brown marks. Fine drawing, photographic fragments, scraped patches, and broad brushed stains coexist; no one material appears perfectly clean. Light is diffuse and dusty, with the brightest cream areas across the upper face and background and heavier shadow gathering around the mouth and chin. The palette stays almost monochrome: parchment, gray-brown, soot black, and a little faded olive. The image feels like a monumental portrait discovered within a wall, simultaneously personal and built from traces of collective urban memory.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "f960189d408fe68f51feb3ee8ec70afe5a3e9be604650966cf22b4e92d21c6f7",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A painted science-fiction scene presents a huge yellow exploration craft banking through brilliant clouds. Its rounded nose, topped by a dark blue glass lens, pushes toward the viewer near the center-right. Behind it, fins, antennas, layered hull plating, and exposed machinery recede diagonally toward the lower left. Tall weathered towers rise and fall in the background, partly hidden by white clouds against a strong cobalt sky. The low viewing angle gives the machine imposing scale, yet its curved nose and varied appendages make it feel eccentric and hand-built. The yellow paint is bright but worn, broken by panel seams, blue-green sections, dark vents, and small rust-brown details. Fine brush marks describe rivets and surface damage, while broader textured strokes shape the clouds. Sunlight from above catches the nose and upper fuselage, leaving the underside dense with shadow and mechanical detail. The cloud banks create alternating white and blue spaces around the craft, preventing the intricate central form from becoming visually clogged. Repeated vertical towers counter the strong diagonal motion of the vehicle. The palette is direct: industrial yellow, blue glass, teal metal, chalk white, deep cobalt, and small warm accents. The image feels like a classic speculative-fiction cover, full of air, engineered detail, and a vigorous sense of movement.",
+  "full_prompt_zh": "一幅绘制的科幻场景呈现一艘巨大的黄色探索飞船在明亮云层间倾斜掠过。圆润船首顶着深蓝色玻璃镜头，位于中心偏右，向观者迎面逼近。其后，翼片、天线、层叠船壳板和外露机械沿斜线退向左下。高高的风化塔楼在背景中起伏升降，一部分藏进蓝天下的白云。低视角让机器显得巨大，而弯曲船首与多变附属构件又使它带有古怪的手工制造感。黄色漆面鲜亮却磨旧，被板缝、蓝绿部件、深色通风口和少量锈棕细节打断。细笔触描出铆钉与表面损伤，更宽的纹理笔触则塑造云层。上方日光照亮船首与船体上部，底部保持浓暗，机械细节密集。云层在飞船周围形成交替的白与蓝空间，使繁复的中心形体不至于堵塞视线。反复的竖向高塔与飞船强烈的斜向运动互相抵衡。色盘直接：工业黄、蓝玻璃、青绿金属、粉白、深钴蓝以及少量暖色重点。画面像经典的幻想科幻封面，空气宽阔、工程细节丰富，充满有力动感。",
+  "style_prompt_en": "A classic painted science-fiction cover with one enormous rounded yellow mass sweeping diagonally through an open field of cobalt and chalk-white cloud. Blue glass and teal metal interrupt weathered industrial color; dark vents, panel seams, rivets, and rust-brown flecks supply small-scale texture. Broad painterly cloud strokes contrast with precise mechanical details. Strong daylight brightens the upper planes and leaves the underside in dense shadow. Slender distant verticals counter the diagonal foreground form. The image combines airy spacing, bold primary color, and energetic engineered complexity.",
+  "style_prompt_zh": "一幅经典手绘科幻封面，巨大的圆润黄色体块斜向掠过钴蓝与粉白云层组成的开阔色域。蓝玻璃与青绿金属打断磨旧的工业色；深色通风口、板缝、铆钉和锈棕碎点形成小尺度纹理。宽阔的绘画云笔触与精确机械细节对照。强日光照亮上方平面，下方则保持浓密阴影。远处细长竖形平衡前景斜向体量。画面结合通透间距、大胆主色和富于动势的工程复杂度。",
+  "theme_en": "A yellow exploration craft above towering clouds",
+  "theme_zh": "黄色探索飞船掠过高耸云海",
+  "wh_ratio": "1:1",
+  "id": "3141",
+  "name": "Chris Foss",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/chris-foss",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "f0645075928a32f9756d7b150ba32e5ef5652060037a05f59a67c2ea30d865b6",
+    "gpt_submission_prompt": "A painted science-fiction scene presents a huge yellow exploration craft banking through brilliant clouds. Its rounded nose, topped by a dark blue glass lens, pushes toward the viewer near the center-right. Behind it, fins, antennas, layered hull plating, and exposed machinery recede diagonally toward the lower left. Tall weathered towers rise and fall in the background, partly hidden by white clouds against a strong cobalt sky. The low viewing angle gives the machine imposing scale, yet its curved nose and varied appendages make it feel eccentric and hand-built. The yellow paint is bright but worn, broken by panel seams, blue-green sections, dark vents, and small rust-brown details. Fine brush marks describe rivets and surface damage, while broader textured strokes shape the clouds. Sunlight from above catches the nose and upper fuselage, leaving the underside dense with shadow and mechanical detail. The cloud banks create alternating white and blue spaces around the craft, preventing the intricate central form from becoming visually clogged. Repeated vertical towers counter the strong diagonal motion of the vehicle. The palette is direct: industrial yellow, blue glass, teal metal, chalk white, deep cobalt, and small warm accents. The image feels like a classic speculative-fiction cover, full of air, engineered detail, and a vigorous sense of movement.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "259ac4b5d3313f975e410159215bf04ee818a2a1c53af5e999f6e83852814b51",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square romantic oil-painted portrait shows a young man with closed eyes against a nearly black background, his head turned slightly toward the left and bowed. His face fills the center, framed by loose curls of light brown hair that catch warm highlights. Soft pink flush colors his cheeks, while the eyelids, nose, and lips are modeled with gentle transitions from cream to rose and muted brown. A high white cravat wraps around his throat in layered folds. Beneath it, a dark green-black coat with a broad collar is edged with a narrow line of warm gold. At the right of his head, a small pale bird perches among a compact cluster of orange, pink, and yellow flowers and deep green leaves. The bird faces toward him, its light feathers bright against the dark foliage. The upper and left background remains indistinct and shadowy, so the face and flowers appear to emerge from darkness. The brushwork is smooth in the skin, softer and more broken through the curls, and thickly dabbed in the petals. Warm side light from the upper left illuminates the forehead, nose ridge, cheek, and cravat; the ear, coat, and outer leaves recede into rich shadow. The portrait is cropped below the shoulders and just above the hair, creating close, intimate framing. There is no visible setting or readable text. The overall composition balances the quiet downward tilt of the face with the small bright flower-and-bird accent, giving the dark palette a tender contemplative center.",
+  "full_prompt_zh": "一幅方形浪漫主义油画肖像描绘一名闭眼的年轻男子，身后几乎全黑，头略向左转并低垂。面孔占据中央，松卷的浅棕头发围住脸部，承接暖色高光。双颊带柔和粉红，眼睑、鼻子和嘴唇以奶油色到玫瑰色、低饱和棕色的细腻过渡塑形。高高的白色领巾以多层褶皱围住喉部。其下，深绿黑外套有宽领口，边缘有一条窄暖金线。头右侧，一只浅色小鸟停在橙、粉、黄花朵和深绿叶片的紧凑花簇中。鸟面向他，浅羽在暗叶前显得明亮。上方和左侧背景模糊而深暗，让面孔与花朵仿佛从黑暗里浮现。皮肤处笔触平滑，卷发中更柔软破碎，花瓣处则是较厚的点笔。左上方暖侧光照亮额头、鼻梁、面颊和领巾；耳朵、外套与外围叶片退入浓影。肖像在肩下和发顶上方裁切，形成贴近而亲密的取景。没有可见环境或可读文字。整体构图以面孔安静向下的倾角平衡一小片明亮花鸟重点，为深色调创造温柔沉思的中心。",
+  "style_prompt_en": "A romantic oil-painted surface uses softly blended focal planes against a deep near-black surround. Cream, muted rose, umber, forest green, and small gold-orange accents form a warm yet shadowed palette. Smooth tonal transitions carry the brightest central forms, while broken loaded brush marks add texture at the periphery. Warm upper-side light picks out delicate ridges and folded edges, then falls quickly into rich darkness. The close composition concentrates detail in a compact bright area and leaves broad indistinct margins. Edges alternately dissolve into shadow or sharpen where pale forms meet dark ones. The finish is intimate, tender, and quietly dramatic.",
+  "style_prompt_zh": "浪漫主义油画表面以柔和融合的焦点平面置于近黑深色外围。奶油色、低饱和玫瑰色、赭褐、森林绿与少量金橙重点组成温暖却多阴影的色域。平滑色调过渡承载最亮的中央形状，外围破碎厚笔则增添肌理。上方暖侧光挑出细腻隆起和折叠边缘，随后迅速没入浓暗。近距构图把细节集中于紧凑亮区，四周留下宽阔模糊边缘。边界有时消融进阴影，有时在浅色与深色相遇处变得清晰。成品亲密、温柔且安静地富于戏剧性。",
+  "theme_en": "A young man with closed eyes beside a small bird and flowers",
+  "theme_zh": "闭眼的年轻男子与小鸟、花朵",
+  "wh_ratio": "1:1",
+  "id": "3733",
+  "name": "Anne-Louis Girodet",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/anne-louis-girodet",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "79901527b129e04f0daea4f8fb21d2a507a35fa52771c1ecf117179b971decbe",
+    "gpt_submission_prompt": "A square romantic oil-painted portrait shows a young man with closed eyes against a nearly black background, his head turned slightly toward the left and bowed. His face fills the center, framed by loose curls of light brown hair that catch warm highlights. Soft pink flush colors his cheeks, while the eyelids, nose, and lips are modeled with gentle transitions from cream to rose and muted brown. A high white cravat wraps around his throat in layered folds. Beneath it, a dark green-black coat with a broad collar is edged with a narrow line of warm gold. At the right of his head, a small pale bird perches among a compact cluster of orange, pink, and yellow flowers and deep green leaves. The bird faces toward him, its light feathers bright against the dark foliage. The upper and left background remains indistinct and shadowy, so the face and flowers appear to emerge from darkness. The brushwork is smooth in the skin, softer and more broken through the curls, and thickly dabbed in the petals. Warm side light from the upper left illuminates the forehead, nose ridge, cheek, and cravat; the ear, coat, and outer leaves recede into rich shadow. The portrait is cropped below the shoulders and just above the hair, creating close, intimate framing. There is no visible setting or readable text. The overall composition balances the quiet downward tilt of the face with the small bright flower-and-bird accent, giving the dark palette a tender contemplative center.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "0338f1e74b5deba0829b675e61c97b32e9a3a9a2016b00435cc21ac426d8dcd6",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square digital collage on a warm off-white ground centers a grayscale bust of a young woman facing three-quarter right. Her head is turned slightly upward, her expression alert and calm, and her short dark hair falls in soft waves around her face. The image retains photographic detail in the face and patterned light clothing while allowing the lower shoulders to dissolve into torn black-and-white image fragments. Behind her, arrange a large orange semicircle and several flat orange rectangular blocks; The composition lets some blocks cut across the figure and others extend beyond the background shape. The scene places a compact black circle high on the left and a tall near-black rectangular slab near the upper right. Overlay small rows of narrow vertical bars, distressed horizontal streaks, speckled ink, and bits of grainy landscape texture so the composition feels pasted, printed, and digitally recombined. The orange areas should range from bright tangerine to deeper rust, with visibly scraped patches revealing the cream ground beneath. The image keeps the young woman's face mostly unbroken, making it the still focal point inside a busy system of hard-edged planes and rough photographic masks. Lighting on the portrait is soft and photographic, while the added shapes remain flat and unshaded. The composition balances the dense central overlap with open ivory margins; The image preserves a deliberate tension between classical tonal portraiture and bold, imperfect geometric interruption.",
+  "full_prompt_zh": "一幅方形数码拼贴置于暖灰白底色上，中央是一位朝右前方三分之四角度的灰阶年轻女性半身像。她的头稍稍扬起，神情警觉而平静，短而深色的头发柔软地卷在面庞周围。面部和带纹样的浅色衣服保留照片细节，下方肩部则融入撕开的黑白图像碎片。人物背后排列一个巨大的橙色半圆和数块纯色橙色矩形；有些色块切过人物，有些越出背景图形。左上方放一枚紧凑黑圆，右上方是一道近黑的高矩形块。叠加成排的细竖条、磨损的横向擦痕、墨点和少量颗粒状风景纹理，使构图像是粘贴、印刷后再经数字重组。橙色从明亮橘色延伸到较深铁锈色，带有刮擦露出奶油底色的斑驳区域。女性脸部大体保持完整，成为硬边平面与粗糙照片遮罩交叠系统中安静的焦点。肖像光照柔和而有摄影感，添加的图形则平坦无阴影。画面让中央密集的重叠与四周开阔象牙色边缘平衡，保留古典灰阶肖像与大胆、不完美几何切入之间的张力。",
+  "style_prompt_en": "Graphic digital collage combining continuous grayscale photographic modeling with opaque saturated geometric planes. The image uses warm ivory negative space, bright orange and rust accents, a few deep black anchors, and irregular torn-image masks. Layer circles, semicircles, rectangles, narrow bars, print-like scratches, speckles, and displaced horizontal strips. The image keeps tonal photographic areas softly lit while the graphic overlays stay flat, crisp, and partially weathered; concentrate overlaps near the center and leave room to breathe at the edges.",
+  "style_prompt_zh": "画面把连续的灰阶摄影调子与不透明的高饱和几何平面结合的图形数码拼贴。画面使用暖象牙色留白、明橙与铁锈色点缀、少量深黑锚点，以及不规则的撕裂图像遮罩。层叠圆、半圆、矩形、细条、印刷般的刮痕、斑点与错位的横向切片。摄影区域保持柔和光照，图形叠层则平坦、清晰而局部磨旧；画面把重叠集中于中央，边缘留出呼吸空间。",
+  "theme_en": "A grayscale young woman interrupted by orange geometric collage",
+  "theme_zh": "被橙色几何拼贴切入的灰阶年轻女性",
+  "wh_ratio": "1:1",
+  "id": "3999",
+  "name": "Digital collage",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/digital-collage.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "7b5696ea8b56ea7f4c71a9a48d48d1a8067bebb803169379b3287f535550cdae",
+    "gpt_submission_prompt": "A square digital collage on a warm off-white ground centers a grayscale bust of a young woman facing three-quarter right. Her head is turned slightly upward, her expression alert and calm, and her short dark hair falls in soft waves around her face. The image retains photographic detail in the face and patterned light clothing while allowing the lower shoulders to dissolve into torn black-and-white image fragments. Behind her, arrange a large orange semicircle and several flat orange rectangular blocks; The composition lets some blocks cut across the figure and others extend beyond the background shape. The scene places a compact black circle high on the left and a tall near-black rectangular slab near the upper right. Overlay small rows of narrow vertical bars, distressed horizontal streaks, speckled ink, and bits of grainy landscape texture so the composition feels pasted, printed, and digitally recombined. The orange areas should range from bright tangerine to deeper rust, with visibly scraped patches revealing the cream ground beneath. The image keeps the young woman's face mostly unbroken, making it the still focal point inside a busy system of hard-edged planes and rough photographic masks. Lighting on the portrait is soft and photographic, while the added shapes remain flat and unshaded. The composition balances the dense central overlap with open ivory margins; The image preserves a deliberate tension between classical tonal portraiture and bold, imperfect geometric interruption.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "b59408bf8af82ebe0edc513bd1a326f173c2a3271f92df5bfd7c4b139fe3ae47",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

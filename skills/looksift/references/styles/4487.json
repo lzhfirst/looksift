@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square architectural documentary photograph faces an immense densely packed residential structure, filling the frame from edge to edge. Small concrete rooms, balconies, stairs, doorways, and platforms stack in irregular tiers. Several broad pedestrian bridges cut horizontally through the middle, leaving deep voids between towers. Tiny people walk across the bridges and gather near doorways, making the huge structure feel inhabited rather than purely abstract. Some walls are weathered beige and gray, while scattered doors and panels appear faded turquoise, pale red, or warm yellow. Exposed pipes, railings, improvised awnings, and hanging fabrics give the surfaces a layered lived-in texture. The eye follows a central vertical gap upward through repeating openings, then travels sideways along the busy bridges. Soft daylight from the left illuminates protruding ledges, while recesses fall into brown-gray shade. The camera is set at a distant frontal vantage, compressing the structure into a complex grid without losing human scale. There is little sky or surrounding landscape; the architecture itself becomes the visual world. The overall impression is intricate, communal, and slightly precarious, with countless small spatial decisions visible in one coherent photograph.",
+  "full_prompt_zh": "一张方形建筑纪实照片正面面对庞大而密集的住宅结构，房体从边到边填满画框。小混凝土房间、阳台、楼梯、门洞和平台以不规则层级堆叠。数道宽人行连桥水平切过中部，在塔间留下深空洞。极小的人走过桥，聚在门前，使巨大结构呈现居住性，而非纯抽象。墙体多为风化米色与灰色，零散门板呈褪色绿松石、浅红或暖黄。外露管道、栏杆、临时遮篷和悬挂布料使表面有层叠生活纹理。目光沿中央竖向空隙穿过重复开口向上，再沿繁忙连桥横向移动。左侧柔日光照亮突出的台面，凹处落入棕灰阴影。相机位于较远的正面机位，把结构压成复杂网格，同时不丢失人的尺度。几乎没有天空或周围景观；建筑本身成了视觉世界。整体繁复、具有社区性而略显不稳定，无数细小空间决策同时出现在一张连贯照片里。",
+  "style_prompt_en": "Documentary architectural photography organized as a dense irregular grid of stacked modules, voids, and horizontal connectors. Weathered beige-gray surfaces carry scattered muted color accents and lived-in microtexture. Soft side daylight reveals protrusions while deep recesses create complex rhythm. A distant frontal vantage compresses depth, and tiny scale marks keep the monumental accumulation human and legible.",
+  "style_prompt_zh": "纪实建筑摄影，以密集而不规则的叠置模块、空洞和水平连接组织成网格。风化米灰表面承载零散低调彩色重点与生活化微肌理。柔和侧光显出突出部分，深凹处形成复杂节奏。较远正面视角压缩纵深，细小尺度标记仍使纪念碑般累积可亲近且易读。",
+  "theme_en": "A densely layered residential structure with bridges and tiny inhabitants",
+  "theme_zh": "带有连桥与微小居民的密集层叠住宅结构",
+  "wh_ratio": "1:1",
+  "id": "4487",
+  "name": "Iwan Baan",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/iwan-baan.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "88df0d81cc08f6088b98e62886cc89b2e9f09ac1ddf8784e7aff19de53028ed7",
+    "gpt_submission_prompt": "A square architectural documentary photograph faces an immense densely packed residential structure, filling the frame from edge to edge. Small concrete rooms, balconies, stairs, doorways, and platforms stack in irregular tiers. Several broad pedestrian bridges cut horizontally through the middle, leaving deep voids between towers. Tiny people walk across the bridges and gather near doorways, making the huge structure feel inhabited rather than purely abstract. Some walls are weathered beige and gray, while scattered doors and panels appear faded turquoise, pale red, or warm yellow. Exposed pipes, railings, improvised awnings, and hanging fabrics give the surfaces a layered lived-in texture. The eye follows a central vertical gap upward through repeating openings, then travels sideways along the busy bridges. Soft daylight from the left illuminates protruding ledges, while recesses fall into brown-gray shade. The camera is set at a distant frontal vantage, compressing the structure into a complex grid without losing human scale. There is little sky or surrounding landscape; the architecture itself becomes the visual world. The overall impression is intricate, communal, and slightly precarious, with countless small spatial decisions visible in one coherent photograph.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "6037cf480fd24fc5e6e43d73450a326b9d64ea4887fe38159dfcd54026ae7058",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

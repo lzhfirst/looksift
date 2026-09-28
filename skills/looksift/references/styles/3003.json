@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square oil painting shows an older man resting on a low step outside a weathered village building, holding a small cup near his mouth. He occupies the right half of the frame, leaning forward in a brown jacket, greenish trousers, high boots, and a dark pointed cap. His beard and lined face are warmly lit, and his gaze is directed downward toward the cup rather than toward the viewer. A wooden barrel and a shallow bowl stand beside the step at the far right. Behind him, rough yellow plaster, a dark open doorway, and a sloping roof enclose the near side of the street. The lane recedes from the lower center toward the left distance, its dusty earth surface marked by scattered small stones and uneven patches of shadow. A few humble buildings line the route, their steep roofs and small windows diminishing into bluish haze. Beyond them, narrow towers rise on the far horizon beneath a cloudy green-gray sky. Light breaks through the clouds from the upper left, warming the man's coat and the plaster wall while the farther street remains cool and subdued. The paint is thick enough to show broken strokes in masonry and ground, but the distant town becomes soft and thinly modeled. Dark edges around the seated figure separate him from the brighter wall without making the scene theatrical. The overall composition places a quiet everyday pause against a long village view, balanced in ochre, olive, brown, and cool gray.",
+  "full_prompt_zh": "这幅方形油画呈现一位老人坐在风化村屋外的低台阶上休息，举一只小杯到嘴边。他占据画面右半，身体前倾，穿棕色夹克、带绿的裤子、高靴和深色尖帽。胡须与有皱纹的脸受到暖光照亮，目光向下看杯子，而非观者。最右侧台阶旁有一只木桶和浅碗。身后粗糙黄灰泥、深暗门洞与斜屋顶围起街道的近侧。小路从下方中央退向左侧远处，尘土地表散着小石块和不规则阴影。几栋朴素房屋沿路排开，陡屋顶与小窗在蓝色薄雾里逐渐缩小。更远的地平线上有狭窄塔尖升起，头顶是多云的灰绿天空。光从左上方穿过云层，温暖老人外套和灰泥墙，远处街道保持冷而低调。颜料有足够厚度，在砌石与地面上显出断续笔触，远处小镇则变得柔和、薄涂。坐姿人物周围的暗边把他从较亮的墙前分开，却不让场景显得舞台化。整体构图把安静的日常停顿放在漫长村景前，以赭黄、橄榄、棕色和冷灰取得平衡。",
+  "style_prompt_en": "The oil painting favors humble surfaces and a modest, intimate scale. Broken strokes and granular scumbles describe rough near textures; distant forms soften into cool atmospheric gray. Warm ochre and olive-brown gather where daylight lands, while blue-gray and muted green organize the receding space. Light is selective but gentle, picking out a near focal area without erasing the shadows around it. Architectural masses and low horizontal ground lines create a steady depth rhythm, with small uneven details preventing stiffness. The overall effect is earthy, observant, and quietly humane.",
+  "style_prompt_zh": "这类油画偏向朴素表面和亲近而不宏大的尺度。断续笔触与颗粒擦涂描述近处粗糙肌理；远处形体柔化进入冷色空气灰。暖赭与橄榄棕聚在日光落点，蓝灰和低调绿组织退后的空间。光有选择性却温和，挑亮近处焦点而不抹去周围阴影。厚实色块和低水平地面线形成稳定的纵深节奏，细小不匀的细节防止僵硬。整体效果质朴、善于观察且安静有人情味。",
+  "theme_en": "An older villager drinking outside a weathered house along a receding lane",
+  "theme_zh": "一位老人坐在风化村屋外喝酒，小路向远处延伸",
+  "wh_ratio": "1:1",
+  "id": "3003",
+  "name": "Adriaen van Ostade",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/adriaen-van-ostade",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/adriaen-van-ostade.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "ac08735d282f920c18c6145d27b52be9cd5453f157dacfb1a796b4d9dc3e38a4",
+    "gpt_submission_prompt": "A square oil painting shows an older man resting on a low step outside a weathered village building, holding a small cup near his mouth. He occupies the right half of the frame, leaning forward in a brown jacket, greenish trousers, high boots, and a dark pointed cap. His beard and lined face are warmly lit, and his gaze is directed downward toward the cup rather than toward the viewer. A wooden barrel and a shallow bowl stand beside the step at the far right. Behind him, rough yellow plaster, a dark open doorway, and a sloping roof enclose the near side of the street. The lane recedes from the lower center toward the left distance, its dusty earth surface marked by scattered small stones and uneven patches of shadow. A few humble buildings line the route, their steep roofs and small windows diminishing into bluish haze. Beyond them, narrow towers rise on the far horizon beneath a cloudy green-gray sky. Light breaks through the clouds from the upper left, warming the man's coat and the plaster wall while the farther street remains cool and subdued. The paint is thick enough to show broken strokes in masonry and ground, but the distant town becomes soft and thinly modeled. Dark edges around the seated figure separate him from the brighter wall without making the scene theatrical. The overall composition places a quiet everyday pause against a long village view, balanced in ochre, olive, brown, and cool gray.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "cadc4684bc3e5e597d4c97b729128290b3c09ad781a68e214205646724dd3df6",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

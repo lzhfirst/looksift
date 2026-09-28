@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white documentary photograph catches two young people facing each other beside an older car on a suburban roadside. At left, a short-haired woman in a light sleeveless blouse and jeans stands with her body angled toward the man. Her mouth is slightly open and her expression is intent, as though she is in the middle of a conversation. At right, the man in a plain pale short-sleeved shirt turns in profile toward her, shoulders relaxed and head tilted slightly down. A dark car with its hood or trunk open fills the space behind them, with another person only partly visible beyond the left edge. Utility poles and small houses recede in the background under a flat gray sky. The camera is close enough to capture facial tension and clothing texture but wide enough to place the encounter in an everyday street setting. Midday light is soft and even, giving skin a range of gentle grays while the car body remains a broad dark tone. The scene has visible film grain, modest contrast, and unpolished framing. Neither subject seems posed for a formal portrait; the moment feels observed and unresolved. The overall image is humane and understated, deriving its strength from gesture, proximity, and ordinary surroundings.",
+  "full_prompt_zh": "一幅方形黑白纪实照片抓住两位年轻人在郊区路边一辆旧车旁相向而立的时刻。左边短发女子穿浅色无袖上衣与牛仔裤，身体朝向男子。她微张嘴，神情专注，仿佛谈话正进行。右边穿普通浅色短袖衬衣的男子侧身看她，肩放松，头略低。深色汽车的引擎盖或后备箱打开，占据身后空间，另一个人只在左边缘外部分可见。电线杆和小住宅在平坦灰天下向后退去。镜头近到能捕捉面部紧张感与服装肌理，又足够宽，使相遇位于日常街道环境里。正午光柔和均匀，让皮肤有温和灰阶，车身保持大片深色。画面有可见胶片颗粒、中等对比和未加修饰的框景。两人似乎都没有为正式肖像摆姿，时刻像被观察到且尚未解决。整体有人情味而低调，力量来自手势、距离和普通周遭。",
+  "style_prompt_en": "Black-and-white documentary photography favors candid proximity, visible film grain, and ordinary environmental detail. Soft even daylight gives skin gentle midtones and lets large dark objects anchor the frame. Edges are optically natural, without theatrical blur or studio polish. The framing retains a little incidental clutter and an unfinished gesture, making the moment feel observed. A broad grayscale range separates pale clothing from charcoal metal and a flat gray sky. The mood is humane, unresolved, and quietly attentive to everyday exchange.",
+  "style_prompt_zh": "黑白纪实摄影偏爱自然接近、可见胶片颗粒和日常环境细节。柔和均匀日光给予皮肤温和中间调，让大片深色物件稳定画幅。边缘光学自然，没有戏剧模糊或影棚光洁感。框景保留一点偶发杂物和未完成手势，使时刻像被观察到。宽灰阶把浅衣、炭色金属与平灰天分开。情绪有人情味、尚未定论，安静关注普通交流。",
+  "theme_en": "Two young people facing each other beside an old car",
+  "theme_zh": "旧车旁面对面的两位年轻人",
+  "wh_ratio": "1:1",
+  "id": "3880",
+  "name": "Mark Steinmetz",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/mark-steinmetz.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "bdcebbedad7bb00277c3a1bf376d24bab00a1373ddd0888f8ea67ff1e017fc7d",
+    "gpt_submission_prompt": "A square black-and-white documentary photograph catches two young people facing each other beside an older car on a suburban roadside. At left, a short-haired woman in a light sleeveless blouse and jeans stands with her body angled toward the man. Her mouth is slightly open and her expression is intent, as though she is in the middle of a conversation. At right, the man in a plain pale short-sleeved shirt turns in profile toward her, shoulders relaxed and head tilted slightly down. A dark car with its hood or trunk open fills the space behind them, with another person only partly visible beyond the left edge. Utility poles and small houses recede in the background under a flat gray sky. The camera is close enough to capture facial tension and clothing texture but wide enough to place the encounter in an everyday street setting. Midday light is soft and even, giving skin a range of gentle grays while the car body remains a broad dark tone. The scene has visible film grain, modest contrast, and unpolished framing. Neither subject seems posed for a formal portrait; the moment feels observed and unresolved. The overall image is humane and understated, deriving its strength from gesture, proximity, and ordinary surroundings.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "494f6d3b37a9054207c59ec2b4bdc862d624bc68ae2c25e5be4ccc3cb1cb83b8",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

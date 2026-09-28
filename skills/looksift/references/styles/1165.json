@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square monochrome photograph shows a solitary man crouched against the left wall of a foggy cobblestone street. His dark overcoat and brimmed hat merge into one weighty foreground silhouette, while his hands meet near his face around a small lit cigarette. A pale curl of smoke becomes briefly visible against the mist. The road opens across the right side of the composition, its irregular stones textured in the near ground and gradually swallowed by haze. Several distant pedestrians appear as soft dark shapes, and a row of tiny lights marks a receding path toward an almost erased industrial building. The camera stands low and somewhat apart, giving the man a private moment within a larger public space. Black-and-white film grain softens the scene without dissolving its essential structure. The man's coat occupies the densest black, the wet street carries long middle grays, and the fog forms a luminous pale field above. A narrow white print border surrounds the image. There is no staged eye contact or dramatic action; the atmosphere depends on separation, weather and the slight brightness of smoke. The final photograph carries documentary restraint, a tactile analog surface and a patient sense of urban solitude.",
+  "full_prompt_zh": "一幅正方形黑白照片呈现雾中石板街道左侧墙边蹲坐的孤身男子。他的深色大衣和宽檐帽连成厚重的前景剪影，双手在脸旁合拢，夹着一支微亮的香烟。一缕淡烟在薄雾前短暂可见。道路向画面右侧敞开，近处不规则石块肌理清楚，越往远处越被雾吞没。几名路人变成柔软的深色影子，一排微小灯点指向几乎消失的工业建筑。相机位置较低，与男子略有距离，使他在公共空间里保有私密瞬间。黑白胶片颗粒柔化场景，却没有消解基本结构。大衣形成最浓重的黑，潮湿街面容纳较长的中间灰，雾则在上方铺成发亮的浅色区域。图像四周有一圈窄白相纸边。画面没有摆拍式对视或戏剧化动作，氛围来自隔离、天气与烟的微光。最终照片具有纪实克制、可触摸的胶片表面与耐心的城市孤独感。",
+  "style_prompt_en": "The visual language is monochrome documentary photography with fine analog grain, a low unintrusive viewpoint and a narrow white print margin. Dense foreground blacks give way to textured middle grays and a pale atmospheric distance. Soft fog reduces far edges while near surface detail stays tactile. Small receding light points and widely spaced dark accents organize the square frame. The emotional register remains patient and understated, with ordinary stillness carrying more weight than theatrical contrast.",
+  "style_prompt_zh": "这种视觉语言属于单色纪实摄影，具有细密胶片颗粒、低位而不打扰现场的视角及窄白相纸边。浓重的前景黑色过渡到有肌理的中间灰，再进入浅色空气远景。柔雾削弱远处边缘，近处表面细节仍可触摸。逐渐退远的小灯点与间隔较宽的深色重音组织正方形画面。情绪耐心而克制，普通的静止状态比戏剧化反差更有重量。",
+  "theme_en": "A lone man smoking on a foggy cobblestone street",
+  "theme_zh": "雾中石板路旁独自吸烟的男子",
+  "wh_ratio": "1:1",
+  "id": "1165",
+  "name": "Erich Hartmann",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/erich-hartmann",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/erich-hartmann.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "3adbddbf0f7004a5af78fc8967baf3931c385b66c286d92d2008efd26f6db48d",
+    "gpt_submission_prompt": "A square monochrome photograph shows a solitary man crouched against the left wall of a foggy cobblestone street. His dark overcoat and brimmed hat merge into one weighty foreground silhouette, while his hands meet near his face around a small lit cigarette. A pale curl of smoke becomes briefly visible against the mist. The road opens across the right side of the composition, its irregular stones textured in the near ground and gradually swallowed by haze. Several distant pedestrians appear as soft dark shapes, and a row of tiny lights marks a receding path toward an almost erased industrial building. The camera stands low and somewhat apart, giving the man a private moment within a larger public space. Black-and-white film grain softens the scene without dissolving its essential structure. The man's coat occupies the densest black, the wet street carries long middle grays, and the fog forms a luminous pale field above. A narrow white print border surrounds the image. There is no staged eye contact or dramatic action; the atmosphere depends on separation, weather and the slight brightness of smoke. The final photograph carries documentary restraint, a tactile analog surface and a patient sense of urban solitude.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "f05729c46019555f86ab01ca3b4868d2ab524248e6104cace5057cb41a453820",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

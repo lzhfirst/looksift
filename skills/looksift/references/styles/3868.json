@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square fine-art color photograph presents two young women standing close together, both wearing vivid red garments. The woman at left has loosely gathered brown hair and a high-neck dress; she looks straight ahead with a quiet, slightly startled expression. The woman at right wears a textured red hood and pleated blouse, dark hair partly hidden, her face turned subtly toward the camera. Between their shoulders and hands, a dark gray cat looks outward with bright eyes, its body almost absorbed by the red fabric and shadow. The background is an indistinct deep olive interior or wall, kept low in detail and light. The faces are pale, softly freckled, and carefully separated from the surrounding dark tones by side light. Red varies from bright scarlet at the front folds to deep garnet in the recesses. The close crop cuts away most of the bodies, making the paired faces and animal form a compact triangular arrangement. Skin and cloth retain natural texture; the image is polished but not flattened by heavy smoothing. A soft directional light from the left brightens cheeks, lips, and small fabric ridges, while the right edge fades into cooler shade. The mood is intimate, watchful, and faintly historical, with saturated costume color against a quiet painterly ground.",
+  "full_prompt_zh": "一幅方形艺术彩色照片呈现两位并肩站立的年轻女子，两人都穿鲜红衣物。左侧女子棕发松松挽起，穿高领裙，直视前方，神情安静而略带惊讶。右侧女子戴有肌理的红头巾、穿褶皱上衣，深发部分隐藏，脸微微转向镜头。两人肩与手之间，一只深灰猫以亮眼向外看，身体几乎融入红布与阴影。背景是难以辨认的深橄榄色室内或墙面，细节和亮度都很低。脸色浅、带轻微雀斑，由侧光从周围暗调中谨慎分开。红色从前方衣褶鲜猩红变到凹处深石榴红。贴近裁切去掉大部分身体，让双脸和动物形成紧凑三角布局。皮肤与布料保留自然肌理；画面精致，却没有因过度磨皮而变平。左侧柔和定向光照亮面颊、嘴唇和小布脊，右边缘退入较冷阴影。情绪亲密、警觉而略带历史感，饱和服饰色位于安静绘画般的背景前。",
+  "style_prompt_en": "Fine-art color photography uses close grouping, soft directional light, and a painterly low-key background. Saturated scarlet and deep garnet carry the image against muted olive and charcoal. Pale natural skin and small bright highlights emerge from shadow without looking airbrushed. Fabric texture stays visible in folds, while peripheral detail falls away softly. The composition gathers several focal shapes into a compact triangle, producing intimate tension. Warm color is concentrated at the center, with cooler subdued edges. The result is watchful, tactile, and quietly historical in mood.",
+  "style_prompt_zh": "艺术彩色摄影采用贴近组合、柔和定向光与绘画般低调背景。饱和猩红和深石榴红在低调橄榄与炭色前承载画面。浅色自然皮肤和小亮点从阴影里浮出，却没有磨皮感。褶皱中的布料肌理可见，外围细节柔和退去。构图把数个焦点形体收成紧凑三角，产生亲密张力。暖色集中中央，边缘较冷而低调。结果警觉、可触，情绪上安静带历史感。",
+  "theme_en": "Two young women in red with a dark cat between them",
+  "theme_zh": "两位红衣年轻女子与中间的黑猫",
+  "wh_ratio": "1:1",
+  "id": "3868",
+  "name": "Inna Mosina",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/inna-mosina",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "7a418ff2d4e3b025a518c818ab6d579b5ff191562bb5b2b7df32e7a44d885646",
+    "gpt_submission_prompt": "A square fine-art color photograph presents two young women standing close together, both wearing vivid red garments. The woman at left has loosely gathered brown hair and a high-neck dress; she looks straight ahead with a quiet, slightly startled expression. The woman at right wears a textured red hood and pleated blouse, dark hair partly hidden, her face turned subtly toward the camera. Between their shoulders and hands, a dark gray cat looks outward with bright eyes, its body almost absorbed by the red fabric and shadow. The background is an indistinct deep olive interior or wall, kept low in detail and light. The faces are pale, softly freckled, and carefully separated from the surrounding dark tones by side light. Red varies from bright scarlet at the front folds to deep garnet in the recesses. The close crop cuts away most of the bodies, making the paired faces and animal form a compact triangular arrangement. Skin and cloth retain natural texture; the image is polished but not flattened by heavy smoothing. A soft directional light from the left brightens cheeks, lips, and small fabric ridges, while the right edge fades into cooler shade. The mood is intimate, watchful, and faintly historical, with saturated costume color against a quiet painterly ground.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "5470c1fbf8fc36d41b212c3a63ab55f1fe0f8d736e54037794080764bc0958ec",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

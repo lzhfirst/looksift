@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square impressionistic oil painting shows a woman walking toward the viewer along a narrow stone lane at evening. She carries a pale round parasol over her shoulder, and the glowing circle frames her dark wavy hair and softly modeled face. Her dress combines a light cream upper part with turquoise and muted red layered skirts; a long crimson sash drapes from the waist and swings at her side. Warm orange lanterns hang among rustic facades and leafy plants on both sides of the lane. Small indistinct figures stand farther back, adding life without demanding detail. The path is broken into irregular cool blue-gray and ochre brushstrokes, with wet-looking orange reflections near the lower left. Dark green foliage borders the scene and creates a corridor leading toward the woman. Thick painterly strokes describe fabric, leaves, cobbles, and architecture; contours appear and disappear in the varied pigment. The lanterns supply warm points of light, while the remaining setting is immersed in cool dusk. The woman remains the clearest shape, with the path and lights receding behind her. The composition is romantic and lively but visually grounded by the strong parasol circle and the central walking gesture.",
+  "full_prompt_zh": "一幅方形印象式油画描绘一位女子在傍晚沿狭窄石巷朝观看者走来。她肩上撑着一把浅色圆伞，发亮的圆形环住深色波浪发和柔和塑形的脸。衣裙上身浅奶油色，下摆由青绿与低调红色层层组成；长绯红腰带从腰间垂下，在身侧摆动。温暖橙灯笼挂在小巷两侧的乡朴立面与绿植间。更远处站着几位模糊人物，使街道有生活感却不争夺细节。小路以不规则的冷蓝灰和赭黄笔触拆分，左下附近有湿润般的橙色反光。深绿叶丛围住场景，形成通向女子的走廊。厚实绘画笔触描衣料、枝叶、鹅卵石和建筑；轮廓在多样颜料中时隐时现。灯笼提供暖色光点，其余环境沉在冷暮色里。女子是最清楚的形，小路与灯光在她身后退远。构图浪漫且生动，同时受圆伞和中央行走动作稳定。",
+  "style_prompt_en": "Impressionistic oil painting with broken thick brush marks, partly lost contours, and wet-looking color reflections. Warm amber and crimson points float within cool teal, blue-gray, and deep green masses. A round pale light shape provides a central anchor while layered texture and receding luminous accents create movement. Surface detail feels tactile and spontaneous rather than smoothly blended.",
+  "style_prompt_zh": "印象式油画，以断续厚笔痕、局部消失的轮廓和湿润般的色彩反射构成。暖琥珀与绯红光点浮在冷青绿、蓝灰及深绿大形中。一处浅色圆亮形稳定中央，层叠肌理和逐渐后退的亮点带来运动。表面细节可触而自然，不被磨成平滑渐变。",
+  "theme_en": "A woman with a parasol walking through a lantern-lit garden lane",
+  "theme_zh": "一位撑伞女子走过灯笼点亮的花园小巷",
+  "wh_ratio": "1:1",
+  "id": "4352",
+  "name": "Daniel F. Gerhartz",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/daniel-f-gerhartz.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "ece3312aad860d49ea54c61ea4d99a7fde21726f25cc2921842b137054fd4832",
+    "gpt_submission_prompt": "A square impressionistic oil painting shows a woman walking toward the viewer along a narrow stone lane at evening. She carries a pale round parasol over her shoulder, and the glowing circle frames her dark wavy hair and softly modeled face. Her dress combines a light cream upper part with turquoise and muted red layered skirts; a long crimson sash drapes from the waist and swings at her side. Warm orange lanterns hang among rustic facades and leafy plants on both sides of the lane. Small indistinct figures stand farther back, adding life without demanding detail. The path is broken into irregular cool blue-gray and ochre brushstrokes, with wet-looking orange reflections near the lower left. Dark green foliage borders the scene and creates a corridor leading toward the woman. Thick painterly strokes describe fabric, leaves, cobbles, and architecture; contours appear and disappear in the varied pigment. The lanterns supply warm points of light, while the remaining setting is immersed in cool dusk. The woman remains the clearest shape, with the path and lights receding behind her. The composition is romantic and lively but visually grounded by the strong parasol circle and the central walking gesture.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "629b0492b05279fafcab241e281c3831c40d88732422bd6bbbd49e26e0c9cf6f",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

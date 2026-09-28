@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square graphic print presents two large frontal faces constructed from interlocking rectangles, circles, wedges and bands. The pair stands close together against a vivid crimson ground, their dark charcoal head masses separated by a narrow red vertical channel. One eye on each face is especially prominent, rendered as a large white or ochre oval with a black pupil, while other facial clues emerge from smaller curved ears, striped cheek blocks and angular nose forms. Earthy orange, rust, black and pale cream shapes lie within the near-symmetrical heads, but each side differs in eye size, internal pattern and color placement. A broad dark patterned band runs along the bottom and gives the image a grounded edge. The entire surface has coarse grain, stamped variation and distressed pigment, as if color has been transferred through a textured plate. Shapes have strong boundaries yet carry slight irregularities, preserving hand-made character. The composition is bold enough to read from a distance but rewards close inspection of embedded dots, rings, hatch marks and small symbol-like accents. There is no realistic depth or background scene. The visual emphasis is rhythm and relationship: two related forms seem to face the viewer together while maintaining distinct internal identities. The finished image feels ceremonial and modern, with tactile printmaking energy rather than slick vector cleanliness.",
+  "full_prompt_zh": "一幅正方形图形版画呈现两张由互相咬合的长方形、圆、楔形和条带构成的大型正面面孔。两张脸紧挨着站在鲜明绯红底上，深炭色头部之间隔一条窄红竖向通道。每张脸各有一只特别醒目的眼睛，以白或赭色大椭圆和黑色瞳孔构成；其余五官由较小的弯耳、条纹脸颊块和角形鼻子暗示。土橙、锈红、黑与浅乳色形状位于近对称头部内部，但两侧的眼睛大小、内部纹样和色彩位置各异。下方一条宽阔深色纹样带为图像压住底边。整张表面带粗颗粒、拓印变化和磨损颜料感，像颜色经过有纹理的版面转印。形状边界有力，却保留轻微不规则性与手工性。构图从远处足够醒目，近看则可发现点、环、排线及小型象征标记。没有写实纵深或背景场景。视觉重心在节奏和关系：两个相关形体一起面对观者，却保持各自内部身份。最终图像具有仪式气息与现代性，能量来自可触摸的版画表面，而非光滑矢量洁净感。",
+  "style_prompt_en": "The style is tactile geometric printmaking with coarse grain, distressed pigment and strong interlocking flat shapes. Crimson, charcoal, rust, ochre and cream form a warm high-contrast palette. Near-symmetry is animated by differences in eye-like ovals, stripes, rings and small internal marks. Large squared masses read at a distance; stamped texture and symbol-like details reward close viewing. The square frame remains flat and frontal, with a broad grounding band and a narrow central interval maintaining compositional tension.",
+  "style_prompt_zh": "这种风格是可触摸的几何版画，具有粗颗粒、磨损颜料和有力咬合的平面形状。绯红、炭色、锈红、赭与乳白形成暖而高反差配色。近对称因眼状椭圆、条纹、圆环和小型内部笔记的差异而活跃。大块方形体从远处可读，拓印质地与符号般细节经得起近看。正方形画幅保持平面与正面性，宽阔底部带和狭窄中央间隔维持构图张力。",
+  "theme_en": "Two geometric faces on a textured crimson field",
+  "theme_zh": "粗粝绯红底面上的两张几何面孔",
+  "wh_ratio": "1:1",
+  "id": "1311",
+  "name": "Bruce Onobrakpeya",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/bruce-onobrakpeya",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/bruce-onobrakpeya.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "af34540e55c3c81ec1be759253ee749743194f3da42ac7a9ec75c0ff12002993",
+    "gpt_submission_prompt": "A square graphic print presents two large frontal faces constructed from interlocking rectangles, circles, wedges and bands. The pair stands close together against a vivid crimson ground, their dark charcoal head masses separated by a narrow red vertical channel. One eye on each face is especially prominent, rendered as a large white or ochre oval with a black pupil, while other facial clues emerge from smaller curved ears, striped cheek blocks and angular nose forms. Earthy orange, rust, black and pale cream shapes lie within the near-symmetrical heads, but each side differs in eye size, internal pattern and color placement. A broad dark patterned band runs along the bottom and gives the image a grounded edge. The entire surface has coarse grain, stamped variation and distressed pigment, as if color has been transferred through a textured plate. Shapes have strong boundaries yet carry slight irregularities, preserving hand-made character. The composition is bold enough to read from a distance but rewards close inspection of embedded dots, rings, hatch marks and small symbol-like accents. There is no realistic depth or background scene. The visual emphasis is rhythm and relationship: two related forms seem to face the viewer together while maintaining distinct internal identities. The finished image feels ceremonial and modern, with tactile printmaking energy rather than slick vector cleanliness.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "e10dc7249c5212d224760f3940bb61a21d44450e55e0f21395ded1cbe6886ac4",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

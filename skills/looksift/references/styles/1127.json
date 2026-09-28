@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square landscape photograph shows a single broad tree standing in a low grassy plain beneath an enormous blue-grey dawn sky. The tree sits slightly left of center, its thick dark trunk splitting into strong horizontal limbs and a wide, almost flat-topped crown of dense orange foliage. A faint blush of pink light lies along the horizon behind it. Low dark shrubs and ochre grasses fill the foreground, with a thin distant tree line and soft haze separating land from sky. No people or structures appear. The tree's canopy makes a warm, textured island in the otherwise cool, spare frame. Its leaf edges are crisp enough to reveal many small irregular clusters, while the far ground is softened by atmospheric distance. Light is diffuse and low, perhaps just before sunrise; it brightens the orange crown from the front and side without producing a long visible shadow. The sky holds smooth tonal gradations from paler blue near the left horizon to deeper slate at the top and right. The composition leaves more than half the frame open above the subject, emphasizing its lonely scale. Fine grasses in front give a modest tactile base. No readable lettering appears. The overall image is calm and contemplative, balancing warm saturated foliage against a wide, muted blue field.",
+  "full_prompt_zh": "一张方形风景照片描绘一棵宽阔的孤树立在低草平原上，头顶是巨大的蓝灰黎明天空。树略偏左，粗深树干分出强水平枝，托起一顶宽而近乎平的浓橙色树冠。身后一抹淡粉光躺在地平线。低暗灌丛和赭色草铺满前景，细远树线与柔雾隔开土地和天空。没有人或建筑。树冠在其余冷而稀疏的画幅中成为温暖、有纹理的小岛。叶缘足够清晰，可见许多不规则小团，远地面则被空气距离柔化。光弥散且很低，或许是日出之前；它从前方和侧方照亮橙冠，却没有形成可见的长投影。天空由左侧地平线附近的较浅蓝，平滑过渡到上方和右侧更深石板色。构图在主体上方留下超过半幅的空天，强调孤独尺度。前方细草提供朴素触感底座。没有可辨认文字。整体图像平静而沉思，以暖饱和树叶平衡宽阔暗蓝色场。",
+  "style_prompt_en": "A photographic surface gives one broad warm textured mass a clear silhouette within a vast smooth cool field. Orange and rust detail gather densely at the center, while blue-grey tonal gradations and distant haze keep the surrounding space quiet. Diffuse low light lifts the warm area without a dramatic hard shadow. A low horizontal division and thin rough foreground band hold the composition beneath generous negative space. Near irregular edges are crisp, and far forms recede softly through atmosphere. The color relationship is simple but strong, producing a patient, contemplative sense of scale and solitude.",
+  "style_prompt_zh": "摄影表面让一块宽阔暖色纹理体在巨大平滑冷色场中形成清晰剪影。橙与铁锈细节在中央密集，蓝灰明暗过渡和远方霭气让周围空间安静。弥散低光托起暖区，没有戏剧性硬影。低位水平分界和细窄粗糙前景带，在充足负空间下稳住构图。近处不规则边缘清晰，远形经空气柔和后退。色彩关系简单却有力，形成耐心、沉思的尺度与孤独感。",
+  "theme_en": "A solitary orange tree beneath a quiet blue dawn sky",
+  "theme_zh": "静蓝黎明天空下一棵孤独橙树",
+  "wh_ratio": "1:1",
+  "id": "1127",
+  "name": "Marsel van Oosten",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/marsel-van-oosten",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/marsel-van-oosten.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "aa8f5f468efc39e0333866d8177aa833cfb36854cedfb05dca996b50f774fdab",
+    "gpt_submission_prompt": "A square landscape photograph shows a single broad tree standing in a low grassy plain beneath an enormous blue-grey dawn sky. The tree sits slightly left of center, its thick dark trunk splitting into strong horizontal limbs and a wide, almost flat-topped crown of dense orange foliage. A faint blush of pink light lies along the horizon behind it. Low dark shrubs and ochre grasses fill the foreground, with a thin distant tree line and soft haze separating land from sky. No people or structures appear. The tree's canopy makes a warm, textured island in the otherwise cool, spare frame. Its leaf edges are crisp enough to reveal many small irregular clusters, while the far ground is softened by atmospheric distance. Light is diffuse and low, perhaps just before sunrise; it brightens the orange crown from the front and side without producing a long visible shadow. The sky holds smooth tonal gradations from paler blue near the left horizon to deeper slate at the top and right. The composition leaves more than half the frame open above the subject, emphasizing its lonely scale. Fine grasses in front give a modest tactile base. No readable lettering appears. The overall image is calm and contemplative, balancing warm saturated foliage against a wide, muted blue field.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "ebd0a1bb46fc009f62f48e96b9f24374a7ced2404f15e26f2cbf277b352a3605",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

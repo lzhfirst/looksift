@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square impasto portrait painting shows a young woman from the shoulders up, turned slightly left while looking directly toward the viewer. Her short black bob has uneven bangs falling across the forehead and loose outward tips around the cheeks. Large dark eyes, a pale nose bridge, softly flushed cheeks, and parted rose-red lips are carefully modeled. A vivid crimson scarf wraps around the neck and falls over a pale blue-gray jacket at the lower left. The face is framed by dark hair and the red scarf, making it the luminous center of the picture. Behind her, a cream and warm ocher wall is heavily distressed with visible scraping, rough vertical marks, rectangular patches, and dark brown stains. The background is not detailed as a specific room; it acts as a textured, almost abstract plane. Paint on the jacket is broken into broad cool strokes, while the hair contains sharper black and blue highlights. The face has smoother transitions than the surrounding paint, though small rough marks remain near the jaw and neck. Light from the upper left lifts the forehead, cheeks, and shoulder; darker shadow gathers under the hair and at the far side of the neck. The palette contrasts black hair and saturated red against creamy neutrals and muted blue-gray. The close crop, direct gaze, and abrasion around the edges give the portrait a candid but deliberately painterly presence.",
+  "full_prompt_zh": "一幅方形厚涂肖像画呈现一位年轻女子肩部以上形象，身体略向左转，却直接望向观者。黑色齐颈短发有不整齐刘海落在额前，发梢在双颊边松散向外。大而深的眼睛、浅色鼻梁、微红面颊和微张玫瑰红唇细致塑形。鲜明深红围巾绕住脖子，落在左下浅蓝灰外套上。面庞由深发和红围巾夹住，成为画面发亮中心。她身后奶油色与暖赭色墙面磨损严重，可见刮擦、粗竖痕、矩形斑片和深褐污渍。背景并未具体描绘成某间屋，而像一片富纹理的抽象平面。外套颜料破碎为宽阔冷色笔触，头发则有更锐利的黑蓝高光。脸部过渡比周围颜料平顺，下颌和颈部附近仍留少量粗糙痕迹。光从左上提亮额头、面颊和肩部；较深阴影聚在头发下及颈部远侧。配色以黑发与饱和红对照奶油中性色和低饱和蓝灰。紧密裁切、直视目光及周边磨损，让肖像既像抓拍，又明显有绘画意识。",
+  "style_prompt_en": "An impasto portrait treatment centers a smoothly blended pale focal area amid rough scraped paint. Broad cream and ocher background fields carry vertical abrasions, brown stains, and blocklike remnants. Near-black masses frame the center from above, while a concentrated crimson passage supplies the strongest color accent below. Muted blue-gray strokes balance the warm wall and red accent. Edges shift from crisp at the focal features to broken and dragged where outer forms meet the distressed ground. Upper-side light creates soft facial modeling and a few cool highlights in the dark areas, with deeper shadow tucked beneath the top mass. The paint surface is visibly layered, matte, and slightly worn. Tight cropping and a centered gaze-like alignment hold the image still, while irregular brush marks keep its margins active.",
+  "style_prompt_zh": "厚涂肖像处理把平顺晕染的浅色焦点放在粗糙刮擦颜料中。宽阔奶油色与赭色背景带竖向磨损、褐色污斑和残留方块形。近黑团块从上方围住中心，下部一处集中深红成为最强颜色重音。低饱和蓝灰笔触平衡暖墙和红色。边缘从焦点细部的清楚，转为外围形体接入磨旧底面时的破碎与拖拽。上部侧光柔和塑造中央明暗，并在深色区域留下少量冷高光，顶端团块下藏着更深阴影。颜料表面层叠可见、哑光、略显磨旧。紧密裁切和中央直视般排列使图像稳定，不规则笔痕则让四周保持活跃。",
+  "theme_en": "A dark-bobbed woman wearing a red scarf against a worn wall",
+  "theme_zh": "旧墙前戴红围巾的黑色短发女子",
+  "wh_ratio": "1:1",
+  "id": "2184",
+  "name": "Diego Dayer",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/diego-dayer",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/diego-dayer.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "5011c427e19d50bce7b8e9e81347f254587a8d224163c015daaed0aeda0c24af",
+    "gpt_submission_prompt": "A square impasto portrait painting shows a young woman from the shoulders up, turned slightly left while looking directly toward the viewer. Her short black bob has uneven bangs falling across the forehead and loose outward tips around the cheeks. Large dark eyes, a pale nose bridge, softly flushed cheeks, and parted rose-red lips are carefully modeled. A vivid crimson scarf wraps around the neck and falls over a pale blue-gray jacket at the lower left. The face is framed by dark hair and the red scarf, making it the luminous center of the picture. Behind her, a cream and warm ocher wall is heavily distressed with visible scraping, rough vertical marks, rectangular patches, and dark brown stains. The background is not detailed as a specific room; it acts as a textured, almost abstract plane. Paint on the jacket is broken into broad cool strokes, while the hair contains sharper black and blue highlights. The face has smoother transitions than the surrounding paint, though small rough marks remain near the jaw and neck. Light from the upper left lifts the forehead, cheeks, and shoulder; darker shadow gathers under the hair and at the far side of the neck. The palette contrasts black hair and saturated red against creamy neutrals and muted blue-gray. The close crop, direct gaze, and abrasion around the edges give the portrait a candid but deliberately painterly presence.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "3eb6dbe3eeb2f76a2dd7b40bbae2243bbd6970886f5ffb35c6401ddca6a40526",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

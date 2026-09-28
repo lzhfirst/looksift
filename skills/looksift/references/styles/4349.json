@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square experimental solargraph-like image shows a nearly black sea and distant low headland at sunset. In the upper-middle, a bright sun-like glow hangs close to the horizon, encircled by a thin red-orange ring or long-exposure arc. A diagonal luminous band runs from the lower left toward the upper right, crossing the sky with red, yellow, cyan, and deep blue edges like a prism or light leak. Several translucent rectangular exposure fields overlap behind the band, making the horizon appear layered and slightly displaced. The water below catches a faint warm reflection, but much of the lower half remains in deep textured shadow. The sky transitions from charcoal at the top to warm rust near the horizon, and small grain or dust flecks are visible across the image. The hard geometric diagonals and rectangles contrast with the soft glow of sun and water. A subtle black border and aged photographic surface keep the picture tactile. There are no figures or readable words. The composition centers the glowing ring but lets the spectral diagonal pull the eye across it, producing a mysterious record of time and light rather than a conventional landscape photograph.",
+  "full_prompt_zh": "一张方形实验太阳轨迹影像呈现日落时近乎黑色的海和远处低矮岬角。画面中上部一团似太阳的亮光贴近地平线，外面围着细红橙色圆环或长曝光弧线。一条斜向发光带自左下走向右上，以红、黄、青和深蓝边缘横过天空，像棱镜或漏光。光带后方有几块半透明矩形曝光区域叠在一起，使地平线呈现层叠而略错位的状态。下方水面接住一点暖反光，大半下部仍沉在有纹理的深影里。天空从顶部炭黑过渡到地平线附近暖铁锈色，细颗粒或灰点遍布图像。坚硬几何斜线和矩形与太阳、水面的柔光形成对照。细微黑边及老化摄影表面保持画面的触感。没有人物或可读文字。构图以发光圆环为中心，同时让光谱斜线把目光横向牵过它，形成一份关于时间与光的神秘记录，而非普通风景照片。",
+  "style_prompt_en": "Experimental long-exposure photographic abstraction with dark granular fields, soft solar glow, thin circular light traces, and a bold diagonal spectral leak. Rust-orange, red, yellow, cyan, and deep blue appear only where light breaks the near-black surface. Translucent rectangular exposure overlaps add displaced layers. The contrast between precise geometric light and atmospheric haze creates a tactile record of time.",
+  "style_prompt_zh": "实验性长曝光摄影抽象，以深色颗粒场域、柔和太阳辉光、细圆形光迹及大胆斜向光谱漏光组织。铁锈橙、红、黄、青和深蓝只在光撕开近黑表面的地方出现。半透明矩形曝光层叠造成错位层次。精确几何光与大气薄雾之间的对照留下可触的时间记录感。",
+  "theme_en": "A dark seascape under a circular solar trail and diagonal spectral band",
+  "theme_zh": "环形日迹与斜向光谱带下的深色海面",
+  "wh_ratio": "1:1",
+  "id": "4349",
+  "name": "Solargram",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/solargram.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "833a1690f832455dd649064e7bf6fd991db08d5a7e0511560bf555b113a1b794",
+    "gpt_submission_prompt": "A square experimental solargraph-like image shows a nearly black sea and distant low headland at sunset. In the upper-middle, a bright sun-like glow hangs close to the horizon, encircled by a thin red-orange ring or long-exposure arc. A diagonal luminous band runs from the lower left toward the upper right, crossing the sky with red, yellow, cyan, and deep blue edges like a prism or light leak. Several translucent rectangular exposure fields overlap behind the band, making the horizon appear layered and slightly displaced. The water below catches a faint warm reflection, but much of the lower half remains in deep textured shadow. The sky transitions from charcoal at the top to warm rust near the horizon, and small grain or dust flecks are visible across the image. The hard geometric diagonals and rectangles contrast with the soft glow of sun and water. A subtle black border and aged photographic surface keep the picture tactile. There are no figures or readable words. The composition centers the glowing ring but lets the spectral diagonal pull the eye across it, producing a mysterious record of time and light rather than a conventional landscape photograph.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "12f50a7dc574b3787aec3bfb3c8aad70782a2c22acaf90a68e83806a69b9ff36",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

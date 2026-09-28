@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square cinematic film still shows two young adults seated close together inside a dim diner or bar. The dark-haired person on the left occupies the nearest foreground in side profile, looking toward the right with a restrained expression. Their face is partially shadowed by messy hair and a dark jacket. Slightly farther back on the right, a blonde woman in a charcoal coat leans forward and also looks to the right, her forehead, nose, and cheek catching a cool greenish light. Their shoulders overlap but neither looks at the other. Behind them, a warm lamp with patterned shade hangs near the top right; a doorway or window emits turquoise light deeper in the room. Glassware and a blurry tabletop sit in the rear. The color palette is moody and carefully split: near-black brown, olive, teal, muted gold, and pale skin. The image has shallow focus, with the two faces relatively sharp and the background lights turning into soft glowing patches. The camera is close at seated eye level, compressing the pair against the narrow interior. Light comes from several practical sources, so one side of each face is softly illuminated while the rest falls into shadow. Fine film grain and modest halation around lamps maintain an analog cinematic feel. There is no visible menu, logo, sign, or readable text. The scene feels suspended and inward, as if both are listening to something out of frame. The visual story remains in their parallel profiles and the separation created by depth, shadow, and unspoken attention.",
+  "full_prompt_zh": "一张方形电影剧照呈现两名年轻成年人紧挨坐在昏暗餐馆或酒吧里。左侧深发者占最近前景侧脸，以克制神情望右，凌乱头发与深外套使脸局部入影。右边稍后方一名金发女子穿炭灰外套前倾，也望右，额头、鼻梁和脸颊接冷绿光。肩部重叠，却没有互望。背后一盏花纹灯罩暖灯挂在右上附近；深处门洞或窗散青绿光，后方有玻璃器皿和模糊桌面。色板阴郁且细心分割：近黑棕、橄榄、蓝绿、低调金及浅肤色。浅焦令两张脸较清楚，背景灯化成柔亮斑。相机在坐者眼高近距离，压紧两人与狭窄室内。光来自几处实际灯源，因此每张脸一侧柔亮，其余落影。细胶片颗粒和灯周适度晕光保持模拟电影感。看不到菜单、商标、标牌或可读字。场景悬而内向，像两人都在听画外某物。视觉故事留在平行侧脸，以及由纵深、阴影和未说出的注意力造成的间隔。",
+  "style_prompt_en": "Use intimate cinematic photography with shallow focus, close overlapping planes, and several practical pools of mixed-temperature light. Grade shadows toward near-black brown and olive, letting teal-green spill and small amber lamps define selected facial or material edges. Keep foreground and middle forms relatively sharp while background fixtures blur into soft halated points. Compose at human eye level in a confined interior, allowing parallel directional attention to suggest an off-frame event. Preserve fine film grain and natural shadow falloff. The mood is quiet, inward, and unresolved, with unspoken tension carried by depth, light separation, and restrained gesture.",
+  "style_prompt_zh": "采用亲近电影摄影，结合浅焦、紧密重叠平面与数处冷暖混合实际灯光池。阴影调向近黑棕与橄榄，青绿溢光和小琥珀灯只界定选定脸或材料边。前景和中层形较清楚，背景灯具化柔晕点。以人的眼高在狭窄室内构图，平行的方向性注意暗示画外事件。保留细胶片颗粒和自然阴影衰减。氛围安静、内向且悬而未决，由纵深、光分离与克制动作承载未说出的张力。",
+  "theme_en": "Two young adults in profile sharing a quiet pause inside a dim diner",
+  "theme_zh": "两位年轻人侧身在昏暗餐馆里静静停顿",
+  "wh_ratio": "1:1",
+  "id": "1182",
+  "name": "Gus Van Sant",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/gus-van-sant",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/gus-van-sant.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "6f7a0299d4383bdf27c74b1dee72c21479f8251135702a9074a1660bc36ecfa7",
+    "gpt_submission_prompt": "A square cinematic film still shows two young adults seated close together inside a dim diner or bar. The dark-haired person on the left occupies the nearest foreground in side profile, looking toward the right with a restrained expression. Their face is partially shadowed by messy hair and a dark jacket. Slightly farther back on the right, a blonde woman in a charcoal coat leans forward and also looks to the right, her forehead, nose, and cheek catching a cool greenish light. Their shoulders overlap but neither looks at the other. Behind them, a warm lamp with patterned shade hangs near the top right; a doorway or window emits turquoise light deeper in the room. Glassware and a blurry tabletop sit in the rear. The color palette is moody and carefully split: near-black brown, olive, teal, muted gold, and pale skin. The image has shallow focus, with the two faces relatively sharp and the background lights turning into soft glowing patches. The camera is close at seated eye level, compressing the pair against the narrow interior. Light comes from several practical sources, so one side of each face is softly illuminated while the rest falls into shadow. Fine film grain and modest halation around lamps maintain an analog cinematic feel. There is no visible menu, logo, sign, or readable text. The scene feels suspended and inward, as if both are listening to something out of frame. The visual story remains in their parallel profiles and the separation created by depth, shadow, and unspoken attention.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "bb9a55299981635bf4f5fc9bdc9475697e7977263577803987b43a71ec28d906",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

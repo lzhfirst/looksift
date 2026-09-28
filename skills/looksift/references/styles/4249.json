@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square, old-fashioned gothic family dinner unfolds inside a worn parlor. Several eccentric figures in formal dark clothing sit around a round table crowded with dishes and serving pieces. Their silhouettes vary, yet their restrained, deadpan expressions make the strange household scene feel entirely ordinary to its inhabitants. A few small birds wander across the floor, adding gentle visual absurdity. A pendant lamp hangs above the table, while a dark fireplace and framed decor occupy the left side and a shadowy doorway opens at the back. Graphite, gray ink, and soft charcoal carry the whole room without full color. Fine hatching and smoky tonal washes describe upholstery, plaster, wood, and folds of clothing. Highlights appear mainly on pale faces, tableware, and the lamp. The furnished room remains legible because the circular table gathers the ensemble and separates their faces from the dark walls. Little pale plates and hand gestures punctuate the broad middle gray. Deep corners enclose the gathering, but the light at the center keeps it inviting enough to study. The image holds the witty macabre detail, soft paper grain, and varied hand-drawn line of an antique illustrated book. Its oddness emerges from ordinary staging and quiet expressions, without theatrical horror lighting or glossy finish.",
+  "full_prompt_zh": "一幅方形的复古哥特家庭晚餐插画呈现磨旧的起居室。几位穿正式深色衣装的古怪人物围坐圆桌，桌上摆满菜肴和餐具。他们剪影各异，神情却同样克制而木然，使这户人家的奇异场面在他们眼中显得十分寻常。地面上有几只小鸟走动，为画面增添温和的荒诞感。圆桌上方悬着吊灯，左边是暗色壁炉与装饰画，后方开着一扇阴影里的门。全屋由石墨、灰墨和柔软木炭调子构成，没有完整彩色。细密排线和烟雾般的灰阶薄染表现软垫、灰泥、木头与衣褶。高光主要落在浅色面孔、餐具和灯上。房间陈设浓密却仍清晰可读，因为圆桌聚拢了群像，也使面孔与暗墙分离。小小的浅色盘子和手势在宽广的中间灰阶中形成节拍。幽深角落包围聚会，但中心的亮光让场面仍适合细细观看。画面带有旧书插画的冷幽默、柔软纸纹和轻重丰富的手绘笔迹。怪诞感来自日常布置与安静表情，而非戏剧化恐怖打光或油亮表面。",
+  "style_prompt_en": "Use an antique graphite and gray ink illustration style with a broad middle-tone range, thin descriptive hatching, and soft charcoal shadows. Stage multiple forms within a compact, slightly theatrical interior, using a clear central grouping and quiet peripheral details. Keep the palette near monochrome; let pale highlights glimmer through dark clothes and worn surroundings. Allow pencil texture, scumbled shading, paper grain, and varied contour weight to remain visible. Balance dense narrative detail with readable silhouettes and a stable focal center. The mood is dryly whimsical and gently gothic, carried by ordinary staging and restrained expressions rather than spectacle.",
+  "style_prompt_zh": "采用古旧的石墨与灰墨插画风格，铺开宽广的中间灰阶，以细致排线说明结构，以柔和木炭阴影收住暗部。把多个形体安排在紧凑、略带舞台感的室内，用清楚的中心组合与安静的边缘细节组织画面。配色几乎单色，让浅色高光从深衣物和磨旧环境中透出。保留铅笔颗粒、擦抹调子、纸纹和轻重有别的轮廓。浓密的叙事细节要与易读的剪影及稳定焦点平衡。气氛是冷幽默又温和的哥特感，由寻常布景和克制表情承载，而不是依赖夸张奇观。",
+  "theme_en": "An eccentric family gathers around a dinner table in a dim old room",
+  "theme_zh": "古旧暗室里，一个古怪的家庭围桌用餐",
+  "wh_ratio": "1:1",
+  "id": "4249",
+  "name": "Charles Addams",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/charles-addams.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "2fda5941d6bfc67b47907359d67bdd8c52a1a02c40e182d34d68143861b7058f",
+    "gpt_submission_prompt": "A square, old-fashioned gothic family dinner unfolds inside a worn parlor. Several eccentric figures in formal dark clothing sit around a round table crowded with dishes and serving pieces. Their silhouettes vary, yet their restrained, deadpan expressions make the strange household scene feel entirely ordinary to its inhabitants. A few small birds wander across the floor, adding gentle visual absurdity. A pendant lamp hangs above the table, while a dark fireplace and framed decor occupy the left side and a shadowy doorway opens at the back. Graphite, gray ink, and soft charcoal carry the whole room without full color. Fine hatching and smoky tonal washes describe upholstery, plaster, wood, and folds of clothing. Highlights appear mainly on pale faces, tableware, and the lamp. The furnished room remains legible because the circular table gathers the ensemble and separates their faces from the dark walls. Little pale plates and hand gestures punctuate the broad middle gray. Deep corners enclose the gathering, but the light at the center keeps it inviting enough to study. The image holds the witty macabre detail, soft paper grain, and varied hand-drawn line of an antique illustrated book. Its oddness emerges from ordinary staging and quiet expressions, without theatrical horror lighting or glossy finish.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "114e6a52e3d9c716305952b8610a343ececd458af559f4ad9ebafdb2d11cbadb",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

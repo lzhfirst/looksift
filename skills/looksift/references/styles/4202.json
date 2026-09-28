@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "An elderly man appears in a tight bust portrait against an almost black ground. His head turns down and slightly to the side, while one long hand rises across his mouth and nose as if he is caught in a private moment of worry. A bright folded ruff at his neck cuts a sharp pale arc through his dark clothing. His forehead, angular nose, hollow cheek, and knuckles emerge in fragments of light, while the lower body dissolves into the surrounding dark. The flesh is built from disquieting layers of ocher yellow, raw pink, bruised violet, magenta, gray, and dirty cream. Brushstrokes pull across the face in short, urgent directions, with scraped lines and semi-transparent smears interrupting any polished outline. The hand is anatomically readable but slightly strained in its elongated fingers and uneven color. A few thin vertical drips and scratch-like marks pass through the dark field, reinforcing the sense of paint as a disturbed physical surface. Light concentrates on the head, hand, and white collar, leaving a huge unlit region behind the figure. The square composition feels cramped around the face even as the surrounding black opens into an indeterminate void. There is no detailed interior or identifying object. The emotional tension comes from the constricted gesture, abrupt tonal cuts, and collision of sickly warm and cool pigments. The finished image reads as a psychologically charged expressionist oil painting with a rough, unfinished edge.",
+  "full_prompt_zh": "一位老者以紧凑的胸像形式出现在近黑背景前。他的头向下并微微侧转，一只修长的手抬到嘴和鼻子前，像是陷入私密的忧虑时刻。颈间明亮的褶领在深色衣服中切出一道醒目的浅色弧线。额头、棱角分明的鼻子、凹陷的脸颊和指节以零碎光斑浮现，躯干下部则消融进周围暗部。皮肤由令人不安的赭黄、生粉红、瘀紫、洋红、灰色和脏奶油色层叠而成。短促急切的笔触沿不同方向划过面部，刮擦线条与半透明涂抹打断了任何光滑完整的轮廓。手部解剖仍可辨认，但拉长的手指和不均匀的颜色带来轻微紧绷感。几道细竖向流痕和抓痕穿过暗场，加强了颜料作为受扰动物理表面的感觉。光集中于头、手和白领，人物身后则留下大片不受光区域。方形构图虽然周围黑色展开成难辨的虚空，面部附近依然显得逼仄。画面没有细致室内或标识性物件。情绪张力来自收紧的手势、突兀的明暗切割，以及病态暖色与冷色颜料的碰撞。成品是一幅心理压迫感很强、边缘粗粝而未完全收整的表现主义油画。",
+  "style_prompt_en": "A dark expressionist oil-paint language with unstable contours, smeared layers, scraped lines, and urgent directional strokes. Near-black space swallows broad areas while isolated pale highlights expose selected forms. Acidic yellow, raw pink, violet, magenta, and dirty cream clash within otherwise muted dark color. Modeling remains legible but purposely uneven, with paint thickness and translucent scumbles visible on the surface. Tight framing and abrupt shifts between light and void create psychological pressure. The finish feels rough, immediate, and materially worked rather than polished.",
+  "style_prompt_zh": "深色表现主义油画语言，以不稳定轮廓、涂抹层次、刮擦线和急促的定向笔触构成。近黑空间吞没大面积区域，孤立的浅色高光揭示局部形态。酸涩的黄色、生粉色、紫色、洋红与脏奶油色在其余低调暗色中相互碰撞。塑形保持可辨，却有意不均匀，表面可见颜料厚度和半透明的薄擦。紧凑裁切以及光与虚空之间的突变产生心理压力。成品粗粝、直接，保留实际手工反复处理的感觉，而非精致抛光。",
+  "theme_en": "An anxious elderly man pressing a hand across his mouth in darkness",
+  "theme_zh": "黑暗中一位焦虑的老者用手遮住嘴",
+  "wh_ratio": "1:1",
+  "id": "4202",
+  "name": "Francis Bacon",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/francis-bacon.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "8ba6490900df2e872d2e1771b8e89a1ce14d4d2cfc1a064bf4bb7c2edb8873c4",
+    "gpt_submission_prompt": "An elderly man appears in a tight bust portrait against an almost black ground. His head turns down and slightly to the side, while one long hand rises across his mouth and nose as if he is caught in a private moment of worry. A bright folded ruff at his neck cuts a sharp pale arc through his dark clothing. His forehead, angular nose, hollow cheek, and knuckles emerge in fragments of light, while the lower body dissolves into the surrounding dark. The flesh is built from disquieting layers of ocher yellow, raw pink, bruised violet, magenta, gray, and dirty cream. Brushstrokes pull across the face in short, urgent directions, with scraped lines and semi-transparent smears interrupting any polished outline. The hand is anatomically readable but slightly strained in its elongated fingers and uneven color. A few thin vertical drips and scratch-like marks pass through the dark field, reinforcing the sense of paint as a disturbed physical surface. Light concentrates on the head, hand, and white collar, leaving a huge unlit region behind the figure. The square composition feels cramped around the face even as the surrounding black opens into an indeterminate void. There is no detailed interior or identifying object. The emotional tension comes from the constricted gesture, abrupt tonal cuts, and collision of sickly warm and cool pigments. The finished image reads as a psychologically charged expressionist oil painting with a rough, unfinished edge.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "2c3c80db661f87f61269a7521c3669133c9bdcfa5cc08a231e09661bcae6f826",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

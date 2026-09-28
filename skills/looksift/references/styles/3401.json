@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "The finished square is a dark animated illustration of a girl glancing back over one shoulder. Long black hair falls around her face and dark pink bows hold small sections near the top of her head. Her large eyes are almost black with tiny red-pink specks and crisp reflected lights. The expression is watchful and uneasy, with slightly parted lips and a faint crease at the brows. A soft pink garment wraps over the right shoulder and descends into shadow at the lower edge. In the left foreground, a round handheld light or glowing lens points outward, its hot magenta center surrounded by dim rings. The glow strikes the edge of her cheek, nose, hair and clothing, producing a narrow vivid rim while leaving the upper background nearly black. Cool gray skin planes and very dark blue-black hair establish the main tonal range. The image combines slender ink contours with flat cel-like shadow areas and a little soft bloom around the light. Small flyaway hairs break the otherwise clean silhouette, and the dark setting contains only a faint indistinct shape behind the head. The composition is close and slightly off center: the face occupies the upper right and the glowing circle balances it at lower left. The emotional effect comes from the contrast between an innocent animated face and the unexplained darkness, with color held to a few precise magenta accents across the whole image.",
+  "full_prompt_zh": "成品正方形是一幅暗调动画插画，一位女孩越过肩膀回望。长黑发围住面孔，头顶两侧有深粉色蝴蝶结束起少量发束。大眼睛近乎黑色，其中有细小红粉斑点和清楚反光。神情警觉而不安，嘴唇略微张开，眉间轻轻皱起。柔粉色衣物裹住右肩，并在下缘沉入阴影。左侧前景有一盏圆形手持小灯或发光镜头向外照射，炽热洋红中心外环绕暗淡光圈。亮光擦过脸颊、鼻、发丝和衣服边缘，形成狭窄鲜明的轮廓光，上方背景则几乎全黑。冷灰肤色面和深蓝黑头发建立主要灰阶。图像结合纤细墨线、平涂赛璐珞式暗面以及灯周围少量柔光溢出。细碎散发打破原本清楚的剪影，暗色场所中仅在头后留下模糊形状。构图近而略偏中心：脸占右上，左下的发光圆形与之平衡。情绪效果来自天真动画面孔和无法解释的黑暗之间的对照，色彩被收束为贯穿画面的少数准确洋红点缀。",
+  "style_prompt_en": "Dark cel-style illustration balances fine tapered contours, flat blue-black shadow shapes and selective neon-magenta glow. Small glossy reflections punctuate broad near-black space, while soft bloom remains localized around one luminous accent. Tight asymmetric framing and restrained surface grain give the square composition suspense.",
+  "style_prompt_zh": "暗调赛璐珞式插画以纤细收尖轮廓、平涂蓝黑阴影和选择性霓虹洋红光相平衡。小块光泽反射点缀宽阔近黑空间，柔光溢出仅集中在一处发亮重点周围。紧凑不对称框景与克制表面颗粒，在正方形构图中形成悬念。",
+  "theme_en": "A frightened girl glancing back beside a small pink light",
+  "theme_zh": "女孩在粉红小灯旁惊惧回望",
+  "wh_ratio": "1:1",
+  "id": "3401",
+  "name": "J Horror anime style",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/j-horror-anime-style",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "bd0001c803725f099517443bbfd277b8b930d676b11e957d2916d0edb5c2e45a",
+    "gpt_submission_prompt": "The finished square is a dark animated illustration of a girl glancing back over one shoulder. Long black hair falls around her face and dark pink bows hold small sections near the top of her head. Her large eyes are almost black with tiny red-pink specks and crisp reflected lights. The expression is watchful and uneasy, with slightly parted lips and a faint crease at the brows. A soft pink garment wraps over the right shoulder and descends into shadow at the lower edge. In the left foreground, a round handheld light or glowing lens points outward, its hot magenta center surrounded by dim rings. The glow strikes the edge of her cheek, nose, hair and clothing, producing a narrow vivid rim while leaving the upper background nearly black. Cool gray skin planes and very dark blue-black hair establish the main tonal range. The image combines slender ink contours with flat cel-like shadow areas and a little soft bloom around the light. Small flyaway hairs break the otherwise clean silhouette, and the dark setting contains only a faint indistinct shape behind the head. The composition is close and slightly off center: the face occupies the upper right and the glowing circle balances it at lower left. The emotional effect comes from the contrast between an innocent animated face and the unexplained darkness, with color held to a few precise magenta accents across the whole image.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "df55b687c0b114da40a1e99827828532acf484c34240e04af8aca477f4710351",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

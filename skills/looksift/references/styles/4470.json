@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square conceptual color photograph shows three adults walking side by side across a patch of sunlit dry ground in front of an old stone wall. Each has a boxy beige cathode-ray television set where the head would normally be, with a dark glass screen facing forward. The figure at left wears a tan jacket, cream trousers, and dark shoes; the middle figure wears a simple long white dress and carries a small pale handbag; the right figure wears a patterned long-sleeved shirt with dark trousers. Their bodies and walking postures are ordinary, which makes the absurd substitution feel matter-of-fact. The television boxes have visible knobs, vents, and slight wear, differing subtly in size and angle. A deep line of trees shadows the upper left, while mottled stone blocks fill the right background. Late-afternoon light strikes the devices, shoulders, and dusty ground, producing soft brown shadows beneath the feet. The muted palette combines tobacco tan, warm white, faded lavender, dark olive, and gray stone. The camera is at standing height and sufficiently distant to show the complete group. Film-like color grain and slightly softened edges keep the surreal scene grounded in a physical photographic world. No legible screen images or lettering are needed.",
+  "full_prompt_zh": "一张方形概念彩色照片呈现三位成年人并肩走过受阳光照亮的干燥地面，身后是旧石墙。每个人头部的位置都是一台方盒形米色阴极射线电视，深色玻璃屏朝前。左边人物穿棕褐夹克、奶油长裤和深鞋；中央人物穿简单白色长裙，提一只浅手袋；右边人物穿花纹长袖衫和深裤。他们的身体与步态很普通，使荒谬置换显得理所当然。电视盒有可见旋钮、通风口和轻微磨损，尺寸与角度略有不同。上左方深树影压住背景，右侧是斑驳石块。傍晚阳光照到设备、肩部和尘土，在脚下形成柔棕影。低饱和色彩结合烟草棕、暖白、褪色淡紫、深橄榄和灰石。相机位于站立高度且距离足够远，展示完整三人。胶片般彩色颗粒和稍柔边缘使超现实场景落在物理摄影世界里。屏幕不需要可读画面或文字。",
+  "style_prompt_en": "Conceptual color photography built around a single absurd visual substitution within otherwise ordinary candid motion. Faded earth colors, weathered objects, warm late-day sun, and film-like grain make the constructed idea feel physically present. Clear full-body spacing and a simple textured backdrop keep the concept legible. Surrealism arises from matter-of-fact staging rather than digital spectacle.",
+  "style_prompt_zh": "概念彩色摄影，以普通自然动作中的一次荒谬视觉置换为核心。褪色土色、磨旧物件、温暖傍晚阳光与胶片般颗粒，使被设计的观念具有物理在场感。清楚的全身间距和简单有纹理背景让概念可读。超现实性来自理所当然的布置，而非数字奇观。",
+  "theme_en": "Three walkers wearing television sets as heads",
+  "theme_zh": "三位以电视机为头部的行人",
+  "wh_ratio": "1:1",
+  "id": "4470",
+  "name": "Martha Rosler",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/martha-rosler.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "7e9401007af7e465163806bd32b6b84a47f275189a4e906a8e347339c23caf63",
+    "gpt_submission_prompt": "A square conceptual color photograph shows three adults walking side by side across a patch of sunlit dry ground in front of an old stone wall. Each has a boxy beige cathode-ray television set where the head would normally be, with a dark glass screen facing forward. The figure at left wears a tan jacket, cream trousers, and dark shoes; the middle figure wears a simple long white dress and carries a small pale handbag; the right figure wears a patterned long-sleeved shirt with dark trousers. Their bodies and walking postures are ordinary, which makes the absurd substitution feel matter-of-fact. The television boxes have visible knobs, vents, and slight wear, differing subtly in size and angle. A deep line of trees shadows the upper left, while mottled stone blocks fill the right background. Late-afternoon light strikes the devices, shoulders, and dusty ground, producing soft brown shadows beneath the feet. The muted palette combines tobacco tan, warm white, faded lavender, dark olive, and gray stone. The camera is at standing height and sufficiently distant to show the complete group. Film-like color grain and slightly softened edges keep the surreal scene grounded in a physical photographic world. No legible screen images or lettering are needed.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "1dd3f40f37a7391bd57ee96f349f49e12bb1214b4574a628ae98c6bd8bcb43c9",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

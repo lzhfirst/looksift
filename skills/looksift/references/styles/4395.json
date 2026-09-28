@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white science-fiction illustration shows a lone traveler sitting on a narrow beam amid the exposed mechanisms of a towering machine. The figure is small and dressed in dark practical clothes, viewed in profile near the center. Massive angled pipes, joints, gears, and plates occupy the upper left, while taut cables streak diagonally toward the open pale sky at the right. The structure seems both mechanical and architectural, with nested parts extending beyond the frame. Extremely fine ink lines describe bolts, wire bundles, scratched metal, and dense grime. Deep black cross-hatching pools in the inner machinery, while untouched cream paper creates bright negative space around the silhouette and cables. The composition is strongly diagonal, making the precarious perch and scale of the machine immediately clear. The light is broad and overcast, with little tonal gradation outside the hatched shadows. There is no colorful science-fiction glow; the atmosphere comes from contrast between tiny human presence and immense engineered complexity. The drawing feels like a detailed graphic novel plate, patient and austere, with meticulous line density and a slightly weathered printed surface. The whole frame suggests a pause during a journey through an industrial world.",
+  "full_prompt_zh": "一幅方形黑白科幻插画呈现一位独行旅人坐在高耸机械裸露结构中的狭窄横梁上。人物很小，穿深色实用衣装，以侧面位于中央附近。巨大的斜管、接头、齿轮和板件占据左上，绷紧的缆线向右侧开放浅色天空斜射。结构既像机械也像建筑，层层部件延伸出画框。极细墨线描写螺栓、线束、刮伤金属和密集油垢。深黑交叉排线积在机械内部，未着墨乳白纸面则在人物剪影和缆线周围形成亮色负空间。构图强烈倾斜，使危险的坐处与机器尺度立刻清楚。光线宽阔而阴沉，排线暗部之外几乎没有渐变。画面没有五彩科幻辉光；气氛来自微小人类与庞大工程复杂性之间的对比。绘画像一张细密图像小说画页，耐心而冷峻，线条密度极高，印刷表面略带风化。整幅画暗示工业世界旅程中的一次停顿。",
+  "style_prompt_en": "A highly detailed monochrome science-fiction ink style combines immense mechanical density with open cream-paper negative space. Diagonal pipes, cables, and beams create forceful perspective and a sense of scale. Fine technical contours, cross-hatching, grime, and scratched-metal marks cluster in dark structural areas, then abruptly yield to untouched light fields. A small simple focal silhouette can clarify the architecture's size without dominating it. Overcast illumination keeps the palette black, gray, and paper white, with form carried by line density rather than gradients. Slight print wear and deliberate irregularity prevent the technical drawing from feeling sterile. The mood is austere, precarious, and contemplative.",
+  "style_prompt_zh": "高度细密的黑白科幻墨绘风格把庞大机械密度与开放乳白纸面负空间结合。斜向管线、缆索和横梁建立有力透视与尺度感。精细技术轮廓、交叉排线、油垢和金属刮痕聚在深色结构区域，又突然让位于未着墨亮面。一个小而简单的焦点剪影可说明建筑尺度而不占据主导。阴天般的光使色谱只含黑、灰、纸白，体积由线条密度而非渐变承担。轻微印刷磨损和有意的不规则使技术画不显无菌。气氛冷峻、悬危、沉思。",
+  "theme_en": "A traveler sits among cables on a towering industrial machine",
+  "theme_zh": "一位旅人坐在高耸工业机械的缆线上",
+  "wh_ratio": "1:1",
+  "id": "4395",
+  "name": "Tsutomu Nihei",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/tsutomu-nihei.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "99e20f16d56819f89b6980d815c14863b8b96436d7cdc9f42d43629020ed2d47",
+    "gpt_submission_prompt": "A square black-and-white science-fiction illustration shows a lone traveler sitting on a narrow beam amid the exposed mechanisms of a towering machine. The figure is small and dressed in dark practical clothes, viewed in profile near the center. Massive angled pipes, joints, gears, and plates occupy the upper left, while taut cables streak diagonally toward the open pale sky at the right. The structure seems both mechanical and architectural, with nested parts extending beyond the frame. Extremely fine ink lines describe bolts, wire bundles, scratched metal, and dense grime. Deep black cross-hatching pools in the inner machinery, while untouched cream paper creates bright negative space around the silhouette and cables. The composition is strongly diagonal, making the precarious perch and scale of the machine immediately clear. The light is broad and overcast, with little tonal gradation outside the hatched shadows. There is no colorful science-fiction glow; the atmosphere comes from contrast between tiny human presence and immense engineered complexity. The drawing feels like a detailed graphic novel plate, patient and austere, with meticulous line density and a slightly weathered printed surface. The whole frame suggests a pause during a journey through an industrial world.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "cd1ac5e9001f7b5125325cc6a48c345ba8c0318fc4f93b6eb1b73d4d86a2adce",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

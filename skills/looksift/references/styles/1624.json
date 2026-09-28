@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square old-master-style drawing with transparent color shows an elderly man in a russet hood, turning toward the right. His weathered face is close to the viewer, with a long angular nose, deep-set eyes, and a full gray-white beard that falls over the front of his cloak. One hand rises to the side of his cheek, fingers lightly bent as if holding a quiet thought. The hood arches over his brow in broad warm folds, and the cloak fills the left and lower margins with layered orange-brown cloth. Behind his right shoulder, a narrow passage of distant pointed roofs, spires, and pale masonry suggests an old town, rendered at a much smaller scale. The near figure is drawn with exact contours and minute strokes: individual beard strands, fine wrinkles, seams in the fabric, and tonal lines around the eyes. Thin washes of warm tan, muted russet, gray, and subdued blue-green sit over the drawing, allowing the paperlike surface to remain visible. Light comes softly from the left front, illuminating the cheek and beard while the hood creates a gentle shadow above the eye. The town behind is lower in contrast, giving depth without competing with the face. A faint worn texture across the sheet lends the image the feel of an aged painted drawing. The close cropping makes the hand, hood, and downward gaze the emotional center. The overall composition is quiet and contemplative, balancing meticulous human detail against a small, delicate architectural distance.",
+  "full_prompt_zh": "一幅方形古典大师式、覆透明色彩的绘画描绘一位赤褐色兜帽老者转向右侧。他饱经风霜的脸贴近观者，长而棱角分明的鼻子、深陷的眼睛和丰满灰白胡须清楚可见；胡须垂到披风前面。一只手抬到脸颊旁，手指轻弯，像在保持安静的思绪。兜帽以宽阔暖色褶层拱在眉上，披风的层叠橙褐布料填满左缘和下缘。他右肩后，一条狭窄的远景呈现尖顶屋檐、塔尖和浅色砌石，暗示古镇，尺度远小于近处人物。近景人物由精确轮廓与微小笔痕绘成：逐根胡须、细皱纹、衣料接缝及眼周的明暗线都可见。暖黄褐、低饱和赤褐、灰和暗淡蓝绿色薄洗色层覆盖在画线上，仍让纸张般表面透出。光从左前方柔和照来，照亮脸颊与胡须，兜帽在眼睛上方投下轻微阴影。远处城镇对比更低，建立纵深而不争夺脸部注意力。整张画面带淡淡磨旧质地，像经年的设色绘图。近裁切让手、兜帽和低垂目光成为情绪中心。整体安静沉思，以细密人物细节平衡小而精巧的建筑远景。",
+  "style_prompt_en": "An old-master drawing language with exact contours, minute hairlike strokes, delicate hatching, and transparent earth-colored washes. Warm tan, russet, gray, muted blue-green, and aged cream create a restrained palette. Soft left-front light models close focal planes, while smaller distant forms remain pale and low contrast. Paper grain and subtle wear show through the color; folds and surfaces are carefully described without hard modern sharpness. The composition joins intimate detailed foreground with a narrow, delicately receding background, creating a contemplative antique effect.",
+  "style_prompt_zh": "古典大师式绘画语言使用精确轮廓、微小毛发般笔痕、细致排线和透明土地色系色洗。暖黄褐、赤褐、灰、低饱和蓝绿与旧奶油色构成克制配色。左前方柔光塑造近处中心平面，较小远景形态保持浅淡和低反差。纸张颗粒与轻微磨损从色层中透出；褶层和表面描绘仔细，却没有现代般生硬锐度。构图把亲密而细密的前景与狭窄、精巧后退的背景接合，形成沉思的古旧效果。",
+  "theme_en": "A thoughtful elderly man in a russet hood before a distant old town",
+  "theme_zh": "一位戴赤褐色兜帽的沉思老者，身后是远处古镇",
+  "wh_ratio": "1:1",
+  "id": "1624",
+  "name": "Martin Schongauer",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/martin-schongauer",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/martin-schongauer.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "5e9a1d37780b50bb82756394645ad3251b84e24c09f6fd954f508c6fca12679a",
+    "gpt_submission_prompt": "A square old-master-style drawing with transparent color shows an elderly man in a russet hood, turning toward the right. His weathered face is close to the viewer, with a long angular nose, deep-set eyes, and a full gray-white beard that falls over the front of his cloak. One hand rises to the side of his cheek, fingers lightly bent as if holding a quiet thought. The hood arches over his brow in broad warm folds, and the cloak fills the left and lower margins with layered orange-brown cloth. Behind his right shoulder, a narrow passage of distant pointed roofs, spires, and pale masonry suggests an old town, rendered at a much smaller scale. The near figure is drawn with exact contours and minute strokes: individual beard strands, fine wrinkles, seams in the fabric, and tonal lines around the eyes. Thin washes of warm tan, muted russet, gray, and subdued blue-green sit over the drawing, allowing the paperlike surface to remain visible. Light comes softly from the left front, illuminating the cheek and beard while the hood creates a gentle shadow above the eye. The town behind is lower in contrast, giving depth without competing with the face. A faint worn texture across the sheet lends the image the feel of an aged painted drawing. The close cropping makes the hand, hood, and downward gaze the emotional center. The overall composition is quiet and contemplative, balancing meticulous human detail against a small, delicate architectural distance.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "749407e56c58ad7e2eea3d572c7fc1b3267f0a977eea7430c1c08425369f18a6",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

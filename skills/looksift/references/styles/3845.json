@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square surreal landscape illustration shows a giant pale blue moon suspended above a green garden and towering sunlit clouds. The scene is viewed from a shaded terrace or opening. A dark roof plane cuts across the upper right corner and a red brick wall stands along the right edge, framing the otherwise open sky. The moon is a nearly perfect circle high near the center, its surface softly graded from pale cream to turquoise. Below it, enormous cream and gray clouds billow upward from the horizon, their edges warm with afternoon light. The sky behind them is deep blue with a few faint speckles. In the lower half, a formal-looking garden contains clipped shrubs, low hedges and a rectangular planter near the right. A single rounded dark green tree stands just right of center, and a pale path or paved area stretches toward the distant skyline at the left. Small rooftops and thin poles mark a settlement beyond the garden, dwarfed by the celestial disc. The foreground remains partly in terrace shadow, so the bright moon and cloud edges feel especially luminous. Light comes from the left horizon, warming the cloud rims, brick and foliage tips while leaving the shaded roof and path cooler. The image has a slightly grainy printed surface and clear illustrated contours rather than photographic detail. The overall composition uses a sheltered dark frame around a vast impossible sky, balancing intimate garden geometry with cosmic scale.",
+  "full_prompt_zh": "这幅方形超现实风景插画里，一轮巨大的浅蓝月亮悬在绿园与高耸受光云层上方。视点处在阴凉的露台或开口中。一片深色屋顶平面切过右上角，右缘立着红砖墙，框住其余敞开天空。月亮几乎是正圆，位于上方中央附近，表面从浅奶油色柔和过渡到青绿色。月下，巨大的奶油与灰色云从地平线层层隆起，边缘带午后暖光。后方天空深蓝，散着少许淡点。下半部，一座形式整齐的花园有修剪过的灌木、低矮树篱和靠右的矩形花箱。一棵圆冠深绿树位于中心稍右，浅色小路或铺地区向左侧远处天际伸去。园外的小屋顶和细杆标出聚落，被天上的巨大圆盘衬得很小。前景部分留在露台阴影里，使明月和云缘尤其发亮。光从左侧地平线来，暖化云缘、砖与叶尖，受遮蔽屋顶和路径则较冷。图像带轻微颗粒印刷表面和清楚插画轮廓，而非摄影细节。整体构图用受遮蔽的深色框围住辽阔而不可能的天空，让亲近的花园几何与宇宙尺度平衡。",
+  "style_prompt_en": "The surreal illustration sets one enormous softly graded circular form against crisp gardenlike geometry and billowing atmospheric masses. Deep blue and cool turquoise dominate the open upper field; sunlit cream, yellow-green and brick red provide warm anchors below. Dark framing planes and small precise forms establish near scale, while hazy distant edges enlarge the imagined space. Light is low and warm along cloud rims and selected surfaces, but sheltered zones remain cool and comparatively flat. Fine print grain adds age without obscuring the clean outlines. The effect is vivid, theatrical and quietly contemplative, driven by the collision of familiar small order with oversized luminous space.",
+  "style_prompt_zh": "这种超现实插画让一个巨大的柔渐变圆形，对照清楚几何组织和鼓胀的空气量块。深蓝与冷青绿主导敞开的上方色域；受光奶油色、黄绿和砖红在下方稳住暖色。深色框架平面和精确小形建立近处尺度，朦胧远边则扩展想象空间。光在云缘和部分表面低位而温暖，受遮蔽区保持清冷且较平。细印刷颗粒添旧感，却不遮住干净轮廓。效果鲜明、有舞台感而安静沉思，由熟悉的小尺度秩序与超大明亮空间的碰撞驱动。",
+  "theme_en": "A giant pale blue moon above a sunlit garden and towering clouds",
+  "theme_zh": "一轮巨大的浅蓝月亮悬在阳光花园与高耸云层之上",
+  "wh_ratio": "1:1",
+  "id": "3845",
+  "name": "Tadanori Yokoo",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/tadanori-yokoo",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "c5049b25553dbf8f9473590ffc8bf1b334c7330626d07c3f28a83f7501d8f41c",
+    "gpt_submission_prompt": "A square surreal landscape illustration shows a giant pale blue moon suspended above a green garden and towering sunlit clouds. The scene is viewed from a shaded terrace or opening. A dark roof plane cuts across the upper right corner and a red brick wall stands along the right edge, framing the otherwise open sky. The moon is a nearly perfect circle high near the center, its surface softly graded from pale cream to turquoise. Below it, enormous cream and gray clouds billow upward from the horizon, their edges warm with afternoon light. The sky behind them is deep blue with a few faint speckles. In the lower half, a formal-looking garden contains clipped shrubs, low hedges and a rectangular planter near the right. A single rounded dark green tree stands just right of center, and a pale path or paved area stretches toward the distant skyline at the left. Small rooftops and thin poles mark a settlement beyond the garden, dwarfed by the celestial disc. The foreground remains partly in terrace shadow, so the bright moon and cloud edges feel especially luminous. Light comes from the left horizon, warming the cloud rims, brick and foliage tips while leaving the shaded roof and path cooler. The image has a slightly grainy printed surface and clear illustrated contours rather than photographic detail. The overall composition uses a sheltered dark frame around a vast impossible sky, balancing intimate garden geometry with cosmic scale.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "5854c168eb222fc2ca8cf5ccbf2d9ce816cdbdef2f961369f95bd94ff3a863ee",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square cinematic digital painting places a bulky red futuristic rover at the left of a snow-dusted roadside. Its rounded metal shell carries circular windows, antennas, weathered panels, and one bright headlamp facing the camera. Two small coat-wearing people stand near it, one dark and one ochre, making the machine feel large but still part of an everyday stop. A road leads right toward a low illuminated service building, beyond which a huge four-legged industrial machine rises through blue fog. Streetlights glow pale yellow above icy ground, and distant utility poles fade into the atmosphere. The palette is dominated by cold cyan, muted slate, frost gray, and chipped coral red. Snow collects in thin irregular patches over gravel and weeds, while the rover's paint looks scratched and worn. A hazy blue-gray sky occupies the upper half, swallowing the remote towers. Light comes from lamps, the rover headlight, and the little shop, all softened by mist; there are no hard daylight shadows. The composition contrasts a detailed close vehicle with giant indistinct machinery in the distance. The scene feels lived-in and quietly speculative, as though advanced technology has been parked in an ordinary winter town. Its calm, melancholy atmosphere matters as much as the science-fiction objects.",
+  "full_prompt_zh": "一幅方形电影感数字绘画把一辆笨重红色未来探测车放在薄雪覆盖的路旁左侧。圆润金属壳上有圆窗、天线、风化面板和一盏朝镜头的亮前灯。两个穿外套的小人站在车旁，一个深色，一个赭色，让机器显大却仍像日常停靠的一部分。道路向右通向低矮发亮的服务站，后方巨大四足工业机器在蓝雾里升起。路灯在冰冷地面上方发淡黄光，远处电线杆消失于空气。配色以冷青、低调石板、霜灰和脱漆珊瑚红为主。雪不规则薄薄积在碎石与杂草上，探测车漆面刮伤陈旧。朦胧蓝灰天空占上半幅，吞没远塔。光来自路灯、车前灯和小店，全部被雾柔化，没有硬日影。构图对照细致近车与巨大而不明的远方机械。场景像有人居住、安静推想，先进技术仿佛停在普通冬季小镇。平静忧郁的气氛与科幻物件同样重要。",
+  "style_prompt_en": "Cinematic digital painting merges ordinary weathered infrastructure with quiet speculative scale. Cold cyan fog, slate, frost gray, and chipped coral red form a subdued palette. Nearby metal has detailed worn edges and grime; distant monumental forms soften into blue haze. Small warm lamps punctuate the cold scene and spread through mist rather than casting hard shadows. Snow and gravel create fine low texture beneath a spacious atmospheric sky. The composition balances a readable foreground mass with an uncanny remote silhouette. The mood is calm, melancholy, and lived in.",
+  "style_prompt_zh": "电影感数字绘画把日常风化设施与安静的推想尺度结合。冷青雾、石板、霜灰和脱漆珊瑚红构成低调配色。近处金属有细致磨损边缘和污迹；远处庞大形体柔化进入蓝雾。小暖灯点破寒景，并在雾中扩散，而非投出硬影。雪和碎石在宽阔空气天空下形成细小地面肌理。构图平衡可辨近景大块与奇异远方剪影。情绪平静、忧郁且有人居感。",
+  "theme_en": "A red futuristic rover at a snowy roadside under blue fog",
+  "theme_zh": "蓝雾雪路旁的红色未来探测车",
+  "wh_ratio": "1:1",
+  "id": "4358",
+  "name": "Simon Stalenhag",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/simon-stalenhag.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "3f7a370e439a199b632ac5595fd1086a88998ffcbf2fa9b46c91cd434851c7ba",
+    "gpt_submission_prompt": "A square cinematic digital painting places a bulky red futuristic rover at the left of a snow-dusted roadside. Its rounded metal shell carries circular windows, antennas, weathered panels, and one bright headlamp facing the camera. Two small coat-wearing people stand near it, one dark and one ochre, making the machine feel large but still part of an everyday stop. A road leads right toward a low illuminated service building, beyond which a huge four-legged industrial machine rises through blue fog. Streetlights glow pale yellow above icy ground, and distant utility poles fade into the atmosphere. The palette is dominated by cold cyan, muted slate, frost gray, and chipped coral red. Snow collects in thin irregular patches over gravel and weeds, while the rover's paint looks scratched and worn. A hazy blue-gray sky occupies the upper half, swallowing the remote towers. Light comes from lamps, the rover headlight, and the little shop, all softened by mist; there are no hard daylight shadows. The composition contrasts a detailed close vehicle with giant indistinct machinery in the distance. The scene feels lived-in and quietly speculative, as though advanced technology has been parked in an ordinary winter town. Its calm, melancholy atmosphere matters as much as the science-fiction objects.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "87cf4b3f9466a3ecf07733a158a9d1cbc584a7973019bc6b2763e46321c6888d",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

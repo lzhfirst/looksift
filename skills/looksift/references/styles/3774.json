@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square charcoal-and-pencil drawing depicts a city square with a large camera mounted on a tall tripod beside a reflective pool. The camera sits just left of center, its dark mechanical body and three thin legs forming the crispest structure in the scene. A person crouches low on the left, adjusting equipment near the ground. Farther back, faint pedestrians, carts, trees, and a low classical building appear through rubbed gray haze. The horizontal edge of the water divides the page across the lower middle. Below it, the camera and tripod reappear as a broken upside-down reflection, stretched and softened by ripples. The drawing is made on warm off-white paper that remains visible through much of the image. Dense black charcoal gathers around the camera, crouching figure, and their reflection, while the surrounding square is built from quick linear marks, erased patches, and ghostlike silhouettes. Faint ruled lines and traces of handwriting are embedded in the surface, but no words are clearly legible. Light is broad and diffuse, suggested by the pale paper and wiped highlights rather than colored illumination. The city recedes through decreasing contrast: foreground forms are dark and precise, distant forms are light and unstable. Smudges, scratches, and incomplete contours make the image feel like an evolving visual memory rather than a fully sealed scene. The overall composition balances a strong vertical mechanical axis against a wide reflective band, creating a contemplative rhythm between observation and its wavering double.",
+  "full_prompt_zh": "一幅方形炭笔与铅笔画描绘城市广场：一台大型摄影机架在高三脚架上，旁边有一片倒影水面。摄影机位于中央略偏左，深色机械机身和三条细长支脚组成全画最清晰的结构。左侧一人低蹲，在地面附近调整设备。更远处，淡淡的行人、车、树木和低矮古典建筑透过擦开的灰色薄雾浮现。水面的水平边缘横穿画面中下部。其下，摄影机与三脚架成为破碎的倒置倒影，被水纹拉长并柔化。绘画位于暖米白纸上，纸面在大部分区域可见。浓黑炭色集中于摄影机、蹲伏人物及其倒影，周围广场则由快速线痕、擦除色块和幽灵般剪影组成。表面嵌有淡淡格线和书写痕迹，但没有清晰可辨的字词。光线宽缓而漫射，由浅色纸面和擦出的高光暗示，而非彩色照明。城市随对比减弱而后退：前景形态深暗且精确，远处形态浅淡不稳定。涂抹、划痕和未闭合轮廓让画面像持续生成的视觉记忆，而非完全封闭的场景。整体构图以强烈竖向机械轴线平衡宽阔反光带，在观察与摇曳的镜像之间形成沉思节奏。",
+  "style_prompt_en": "A charcoal-and-pencil drawing language on warm, visibly marked paper. Dense black anchors coexist with quick fine construction lines, erased gray passages, smudges, and ghosted repetitions. Diffuse light comes from exposed paper and wiped highlights; depth forms as contrast fades from crisp dark foreground to unstable pale distance. Faint ruled marks and illegible script fragments remain as surface texture. Strong vertical elements meet broad horizontal reflective or tonal bands, creating a layered, memory-like composition. The unfinished edges and tactile revisions feel exploratory and contemplative.",
+  "style_prompt_zh": "暖色、留有痕迹的纸面上的炭笔与铅笔画语言。浓黑锚点与快速细结构线、擦除的灰色段落、涂抹及幽灵般的重复形态共存。漫射光来自裸露纸面与擦出的高光；对比从清晰深暗的前景逐渐退成不稳定的浅色远处，形成纵深。淡格线与不可辨字迹残片保留为表面纹理。强竖向元素与宽阔水平反光或明暗带相遇，形成层叠、近似记忆的构图。未完成边缘与可触的修正痕迹显得探索性强而沉思。",
+  "theme_en": "A camera operator beside a reflective pool in a charcoal city study",
+  "theme_zh": "炭笔城市习作中，一位摄影机操作员守在倒影水池旁",
+  "wh_ratio": "1:1",
+  "id": "3774",
+  "name": "William Kentridge",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/william-kentridge",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "976beee549897ae7e15b79b42eb98def4f90f4dd881099d33880cab38179e91a",
+    "gpt_submission_prompt": "A square charcoal-and-pencil drawing depicts a city square with a large camera mounted on a tall tripod beside a reflective pool. The camera sits just left of center, its dark mechanical body and three thin legs forming the crispest structure in the scene. A person crouches low on the left, adjusting equipment near the ground. Farther back, faint pedestrians, carts, trees, and a low classical building appear through rubbed gray haze. The horizontal edge of the water divides the page across the lower middle. Below it, the camera and tripod reappear as a broken upside-down reflection, stretched and softened by ripples. The drawing is made on warm off-white paper that remains visible through much of the image. Dense black charcoal gathers around the camera, crouching figure, and their reflection, while the surrounding square is built from quick linear marks, erased patches, and ghostlike silhouettes. Faint ruled lines and traces of handwriting are embedded in the surface, but no words are clearly legible. Light is broad and diffuse, suggested by the pale paper and wiped highlights rather than colored illumination. The city recedes through decreasing contrast: foreground forms are dark and precise, distant forms are light and unstable. Smudges, scratches, and incomplete contours make the image feel like an evolving visual memory rather than a fully sealed scene. The overall composition balances a strong vertical mechanical axis against a wide reflective band, creating a contemplative rhythm between observation and its wavering double.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "f866fe3b6f0cf7fc95aff41f2c8edadd3a36e001103d633b6f0442ef95ae9a02",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

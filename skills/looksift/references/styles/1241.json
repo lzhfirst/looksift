@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square natural-history painting shows a black raven perched on a low mound of rough stones, facing left in three-quarter profile. Its thick beak points slightly upward, and its folded wings reveal individual layered feathers in deep blue-black and charcoal rather than a single flat silhouette. Gray claws grip the upper rock, while the long tail angles toward the lower right. The stones carry pale lichen patches, ochre mineral stains and uneven facets; a small fringe of dry grasses grows around the base. Behind the bird is a quiet smoky gray-brown atmosphere, darker at the edges and softly lighter near the head, with no distracting landscape detail. The raven occupies most of the vertical field but retains breathing room around beak and tail. Patient brushwork follows each feather shaft and barb, then becomes rough and granular on rock and delicate around grass seeds. The lighting is diffuse, so the highlights are narrow and controlled rather than shiny. A subdued palette of slate, charcoal, blue-black, warm gray and faded ochre supports the bird's imposing yet ordinary presence. The final work feels attentive to animal form and habitat, neither cartoonish nor theatrical, with a painterly realism that allows fine observation and atmosphere to coexist.",
+  "full_prompt_zh": "一幅正方形自然史绘画呈现一只黑色渡鸦停在低矮粗石堆上，身体四分之三转向左方。厚喙略微上扬，收拢的翅膀能看到一片片层叠羽毛，色彩在深蓝黑与炭灰之间变化，并非整块平面剪影。灰色爪子抓住上层石块，长尾斜向右下。石面带浅色地衣斑、赭色矿物污痕和不平切面，底部有一圈稀疏枯草。鸟后是安静的烟灰棕色空气，边缘较暗，头旁略亮，没有分散注意力的风景细节。渡鸦占据大部分竖向空间，喙和尾周围仍有呼吸余地。耐心的笔触顺着每根羽轴与羽枝，到石面变得粗糙颗粒化，到草穗则又纤细。光线漫射，高光窄而受控，不显油亮。岩灰、炭色、蓝黑、暖灰与褪色赭黄构成低调配色，承托这只鸟威严又普通的存在。最终作品关注动物形态与栖居之地，既不卡通也不戏剧化，绘画写实容纳精细观察和大气感。",
+  "style_prompt_en": "The style is natural-history wildlife painting with exact anatomical observation, patiently layered feather detail and a softly receding atmospheric ground. Cool charcoal, slate and blue-black values meet small mineral ochres and warm grays. Diffuse light creates restrained narrow highlights and readable dark textures. The central subject mass sits above tactile granular support forms, while a quiet background keeps the square composition uncluttered. Fine brush description alternates with rougher natural surfaces, yielding realistic presence without photographic hardness.",
+  "style_prompt_zh": "这种风格是自然史野生生物绘画，具有准确解剖观察、耐心叠加的羽毛细节和柔和退远的空气底色。冷炭灰、岩灰与蓝黑对应少量矿物赭色和暖灰。漫射光形成克制的窄高光与可读的暗部肌理。中央主形位于可触摸的颗粒状承托形体之上，安静背景使正方形构图不杂乱。精细笔触描绘与更粗糙的自然表面交替，取得写实存在感却没有摄影般硬度。",
+  "theme_en": "A black raven on lichen-covered stones",
+  "theme_zh": "停在地衣石块上的黑色渡鸦",
+  "wh_ratio": "1:1",
+  "id": "1241",
+  "name": "Guy Coheleach",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/guy-coheleach",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/guy-coheleach.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "dba614edff7b7e211c8cd5eb9c8122071e738084aa8b5cc9b9dd340652ffc133",
+    "gpt_submission_prompt": "A square natural-history painting shows a black raven perched on a low mound of rough stones, facing left in three-quarter profile. Its thick beak points slightly upward, and its folded wings reveal individual layered feathers in deep blue-black and charcoal rather than a single flat silhouette. Gray claws grip the upper rock, while the long tail angles toward the lower right. The stones carry pale lichen patches, ochre mineral stains and uneven facets; a small fringe of dry grasses grows around the base. Behind the bird is a quiet smoky gray-brown atmosphere, darker at the edges and softly lighter near the head, with no distracting landscape detail. The raven occupies most of the vertical field but retains breathing room around beak and tail. Patient brushwork follows each feather shaft and barb, then becomes rough and granular on rock and delicate around grass seeds. The lighting is diffuse, so the highlights are narrow and controlled rather than shiny. A subdued palette of slate, charcoal, blue-black, warm gray and faded ochre supports the bird's imposing yet ordinary presence. The final work feels attentive to animal form and habitat, neither cartoonish nor theatrical, with a painterly realism that allows fine observation and atmosphere to coexist.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "334b27efecfbd0d2f077ac113eb31fc24444b0242e51041164a0696e56274a4a",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

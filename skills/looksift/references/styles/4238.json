@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square noir comic illustration shows a man in a dark suit and a woman in a vivid red dress leaning toward each other across a bar table. The man turns to listen, one hand near a short glass; the woman faces him in profile with a poised, serious expression. Several glasses and a small cocktail sit between them, catching dim highlights. The room behind is narrow and worn, with framed wall pictures, a small lamp, and rough yellow-brown paneling. Black ink strokes and broad dark shadows define the clothing and table, while warm ochre and muted olive washes describe the interior. The woman's red dress is the primary color accent and creates a strong vertical shape against the surrounding dark tones. Faces are rendered with firm line and controlled gray shading, keeping their relationship central despite the textured room. Light from above and slightly behind falls on their faces and the glass rims, leaving the lower table nearly black. The composition is intimate and compressed, with the two profiles creating a focused exchange across the center. Scratches, uneven brush marks, and print-like grain make the image tactile. The whole frame feels like a tense pause in a graphic detective story, cinematic and restrained rather than action-filled.",
+  "full_prompt_zh": "一幅方形黑色电影式漫画插画描绘穿深色西装的男子与穿鲜红礼服的女子在酒吧桌两侧相向倾身。男子转头倾听，一只手靠近矮玻璃杯；女子以侧面望着他，神情沉着严肃。两人之间摆着几只酒杯和一杯小鸡尾酒，杯缘接住昏暗亮光。身后房间狭窄磨旧，有墙上装框画、一盏小灯和粗糙黄棕色墙板。黑墨笔触与大片深影界定衣物和桌面，暖赭与低饱和橄榄绿薄染说明室内。女子红裙是主要彩色点缀，在周围深色中形成有力竖形。面孔由坚实线条与受控灰影描绘，纹理丰富的房间仍不分散两人关系的中心地位。上方略偏后的光落在他们的面孔与杯口，下方桌面几乎全黑。构图亲密而压缩，两侧面孔在中央形成集中的交流。刮痕、不均匀刷迹和印刷颗粒使画面可触。整体像侦探图像小说中紧张的一次停顿，有电影感而克制，不靠动作场面。",
+  "style_prompt_en": "A noir graphic-illustration style pairs heavy black ink with muted ochre, olive, and one concentrated red accent. Close human-scale forms face each other across a small central gap, creating tension through posture and gaze. Rough room texture, framed details, and scratched print grain provide atmosphere while broad shadows keep the hierarchy simple. Firm contour lines and measured gray modeling make focal expressions readable. A small overhead or practical light catches faces and reflective edges, leaving lower planes nearly black. The mood is cinematic, intimate, and restrained, with a pause in conversation carrying more force than spectacle.",
+  "style_prompt_zh": "黑色电影式图像插画风格把厚重黑墨与低饱和赭色、橄榄绿和一处集中的红色点缀结合。贴近的人物尺度形体隔着中央狭窄空隙相对，以姿态和目光制造张力。粗糙室内肌理、装框细节和刮擦印刷颗粒提供气氛，宽阔深影仍保持简单层级。坚实轮廓和适度灰阶塑形使焦点神情可读。一处小型上方或室内实用光照亮面孔与反光边缘，下方平面几乎全黑。气氛电影化、亲密、克制，对话停顿比奇观更有力量。",
+  "theme_en": "A man and a woman speak quietly over drinks in a dim bar",
+  "theme_zh": "一男一女在昏暗酒吧里隔着饮品低声交谈",
+  "wh_ratio": "1:1",
+  "id": "4238",
+  "name": "Ed Brubaker",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/ed-brubaker.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "c0592d525d8516d31b75ed2d72757a728ae2bbb8a240fba1db03bed04ad85985",
+    "gpt_submission_prompt": "A square noir comic illustration shows a man in a dark suit and a woman in a vivid red dress leaning toward each other across a bar table. The man turns to listen, one hand near a short glass; the woman faces him in profile with a poised, serious expression. Several glasses and a small cocktail sit between them, catching dim highlights. The room behind is narrow and worn, with framed wall pictures, a small lamp, and rough yellow-brown paneling. Black ink strokes and broad dark shadows define the clothing and table, while warm ochre and muted olive washes describe the interior. The woman's red dress is the primary color accent and creates a strong vertical shape against the surrounding dark tones. Faces are rendered with firm line and controlled gray shading, keeping their relationship central despite the textured room. Light from above and slightly behind falls on their faces and the glass rims, leaving the lower table nearly black. The composition is intimate and compressed, with the two profiles creating a focused exchange across the center. Scratches, uneven brush marks, and print-like grain make the image tactile. The whole frame feels like a tense pause in a graphic detective story, cinematic and restrained rather than action-filled.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "739c2c3d12dec3d1fba47507ba2c81c4d43213eedd76ffe164a230f647d63846",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

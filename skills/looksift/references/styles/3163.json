@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square architectural photograph shows a small pale chapel beside a still lake. Its form is an arrangement of simple volumes: a low rectangular block at the front, a taller rounded tower behind, and a deep arched opening cut into the wall. The walls are cream colored and visibly lined with fine horizontal courses of masonry. A broad stone terrace fills the foreground, its pale rectangular slabs leading toward the shadowed entrance. At the left, the lake and a distant shoreline open the composition. Layered blue mountains sit beyond the water beneath a clear sky with faint clouds. On the right, a rocky slope and a slim section of neighboring wall complete the setting without crowding the main form. Daylight comes from the left, washing the exterior in warm ivory and making the entrance read as a dark, sheltered void. The curved roof catches a smooth gradient of light; the blocky lower walls show sharper plane changes. Fine masonry texture keeps the minimal geometry tactile. There are no people or signs, so the scale is carried by the doorway, terraces and shore. The view is calm, spacious and exact, balancing the heavy whiteness of the building with the cool openness of water and mountains. Its slight perspective lets the front and side planes be read at once.",
+  "full_prompt_zh": "这幅方形建筑摄影呈现一座静湖旁的浅色小礼拜堂。它由简单体块组成：前方低矩形体、后方更高的圆弧塔体，以及墙上深挖出的拱形入口。墙面呈奶油色，可见细密的水平砌筑线。宽阔石露台填满前景，浅色长方石板引向阴影中的入口。左侧湖面与远岸敞开构图。层叠蓝山越过水面，位于有淡云的清澈天空下。右侧岩坡和一小段相邻墙体补足环境，却不挤压主形。日光从左侧来到，把外墙洗成暖象牙色，让入口成为深而受庇护的空洞。弯曲屋顶承接平滑明暗渐变，下部块状墙面则呈现更锐利的平面转折。细密砌体纹理使简洁几何仍可触。没有人物或标志，尺度由门洞、露台和岸线传递。视角平静、宽敞而精确，厚重白色建筑与水山的冷色开阔互相平衡。略带透视的角度让正面与侧面同时可读。",
+  "style_prompt_en": "The photographic treatment emphasizes pure massing, quiet daylight and spacious negative space. Warm ivory planes meet cool blue reflective areas and distant gray contours. A softly curved upper volume balances crisp rectilinear lower edges, while a single deep opening supplies strong shadow. Fine horizontal texture remains visible within broad pale surfaces. The composition gives the main geometric form generous room, with a broad foreground plane and a low horizontal boundary establishing calm depth. Light is clear, natural and gently directional.",
+  "style_prompt_zh": "这种摄影处理强调纯粹体块、安静日光与宽裕留白。暖象牙色平面与冷蓝反射区域及远处灰色轮廓相接。柔和弯曲的上部体量平衡下方清脆直角边缘，单个深开口提供强阴影。宽阔浅色表面内仍看得到细水平纹理。构图给主几何形体充足空间，由宽阔前景平面与低位水平边界建立平静深度。光清澈自然，方向性温和。",
+  "theme_en": "A pale geometric chapel beside a quiet lake",
+  "theme_zh": "静湖旁的浅色几何礼拜堂",
+  "wh_ratio": "1:1",
+  "id": "3163",
+  "name": "Valerio Olgiati",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/valerio-olgiati",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "db32894bafe1392dd4a144d66413f8195ca783945c478fc2e5126a1c380afe38",
+    "gpt_submission_prompt": "A square architectural photograph shows a small pale chapel beside a still lake. Its form is an arrangement of simple volumes: a low rectangular block at the front, a taller rounded tower behind, and a deep arched opening cut into the wall. The walls are cream colored and visibly lined with fine horizontal courses of masonry. A broad stone terrace fills the foreground, its pale rectangular slabs leading toward the shadowed entrance. At the left, the lake and a distant shoreline open the composition. Layered blue mountains sit beyond the water beneath a clear sky with faint clouds. On the right, a rocky slope and a slim section of neighboring wall complete the setting without crowding the main form. Daylight comes from the left, washing the exterior in warm ivory and making the entrance read as a dark, sheltered void. The curved roof catches a smooth gradient of light; the blocky lower walls show sharper plane changes. Fine masonry texture keeps the minimal geometry tactile. There are no people or signs, so the scale is carried by the doorway, terraces and shore. The view is calm, spacious and exact, balancing the heavy whiteness of the building with the cool openness of water and mountains. Its slight perspective lets the front and side planes be read at once.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "33be071d6dc16c3460ab08314fb6f353725a0915316f09d7dbb6d491955cec0a",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

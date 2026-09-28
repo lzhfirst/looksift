@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square cinematic night photograph shows a quiet suburban street almost emptied by fog. A two-story pale clapboard house fills the right half, with a dark roof and a warm yellow light glowing from its front porch and several ground-floor windows. At the left, a small garage or neighboring structure fades into cyan mist. A light-colored older sedan is parked along the curb in front of it, facing toward the right, its dim lamps and metallic body softened by fog. A bright blue-green streetlamp hangs in the upper left, casting a broad cold pool over the roadway. The road is wet, uneven, and glossy, reflecting the porch light as long yellow strokes and the streetlamp as blue-white smears. Dark power wires cross the sky, and shrub silhouettes sit at the house foundation. The foreground has ample slick pavement, with shallow puddles and black patches forming a low abstract texture. The composition keeps the house and car still, but the opposing warm and cold light sources create suspense. Fog obscures the far street, removing any clear endpoint. The color palette is tightly controlled: teal, deep navy, pale blue, amber, and small charcoal shadows. There are no visible residents, passing cars, movement, signs, or readable address numbers. The scene feels carefully staged yet plausible as a real photograph, with a slight cinematic haze and strong spatial silence. It suggests that something could happen, while depicting only the ordinary exterior, parked vehicle, wet asphalt, and light.",
+  "full_prompt_zh": "一张方形电影感夜景照片呈现一条被雾几乎清空的安静郊区街。右半幅是一栋两层浅色横木板房，深屋顶，门廊与数扇一楼窗透暖黄光。左边小车库或邻屋渐入青色雾。一辆浅色旧轿车沿路边停在其前，车头朝右，暗灯与金属车身被雾柔化。左上一盏明亮蓝绿街灯在路面洒下宽冷光池。道路湿、不平且发亮，把门廊灯映成长黄条、街灯映成蓝白涂抹。深电线横过天空，灌木剪影贴在房屋基脚。前景留充足滑亮路面，浅水洼与黑斑形成低处抽象纹理。构图让房与车静止，对立冷暖光源却制造悬念。雾遮住远街，移除了清楚终点。色板严格受控：蓝绿、深海蓝、淡蓝、琥珀和小片炭影。看不到住户、过车、动作、标牌或可读门牌。场景像精心布置却仍可信的真实照片，带轻微电影薄雾和强烈空间寂静。它暗示也许会发生某事，却只描绘普通外墙、停放车、湿沥青和光。",
+  "style_prompt_en": "Use meticulously staged cinematic night photography with ordinary spaces made uncanny through fog, stillness, and opposing pools of colored light. Set cool teal-blue ambient haze against small warm amber interiors or localized lamps. Let wet ground carry long broken reflections, with deep navy shadows holding the edges. Compose a plausible quiet scene with significant empty pavement or open space and no visible action. Keep practical details credible and exposure controlled: windows glow without blowing out, dark areas retain form, and distant layers vanish gradually into mist. The atmosphere is suspenseful and hushed, suggesting narrative through lighting and spatial absence alone.",
+  "style_prompt_zh": "采用精细布置的电影感夜景摄影，借雾、静止与相反色彩光池使普通空间变得奇异。冷青蓝环境薄雾对照小片暖琥珀室内光或局部灯。湿地面承载拉长破碎倒影，深海蓝阴影稳住边缘。构图为可信的安静场景，保留明显空路面或开放空间，没有可见动作。实际细节可信且曝光受控：窗发光却不死白，暗处有形，远层逐步消入雾。氛围有悬念而静谧，仅由布光与空间缺席暗示叙事。",
+  "theme_en": "An empty suburban house and parked car on a wet foggy night",
+  "theme_zh": "雾湿夜晚里一栋空寂郊区房屋与停放汽车",
+  "wh_ratio": "1:1",
+  "id": "4494",
+  "name": "Gregory Crewdson",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/gregory-crewdson.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "80dfb67c1bb94a45e05bc314c2620562a18224e305836789034d3798d18ca81b",
+    "gpt_submission_prompt": "A square cinematic night photograph shows a quiet suburban street almost emptied by fog. A two-story pale clapboard house fills the right half, with a dark roof and a warm yellow light glowing from its front porch and several ground-floor windows. At the left, a small garage or neighboring structure fades into cyan mist. A light-colored older sedan is parked along the curb in front of it, facing toward the right, its dim lamps and metallic body softened by fog. A bright blue-green streetlamp hangs in the upper left, casting a broad cold pool over the roadway. The road is wet, uneven, and glossy, reflecting the porch light as long yellow strokes and the streetlamp as blue-white smears. Dark power wires cross the sky, and shrub silhouettes sit at the house foundation. The foreground has ample slick pavement, with shallow puddles and black patches forming a low abstract texture. The composition keeps the house and car still, but the opposing warm and cold light sources create suspense. Fog obscures the far street, removing any clear endpoint. The color palette is tightly controlled: teal, deep navy, pale blue, amber, and small charcoal shadows. There are no visible residents, passing cars, movement, signs, or readable address numbers. The scene feels carefully staged yet plausible as a real photograph, with a slight cinematic haze and strong spatial silence. It suggests that something could happen, while depicting only the ordinary exterior, parked vehicle, wet asphalt, and light.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "f6040a07d829c05b2e76067b81520474f8fb83e0ef35268fd054587a67c0f8f1",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

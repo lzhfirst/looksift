@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "The finished square is a softly detailed oil-style mountain landscape. A low green meadow occupies the foreground, scattered with dark boulders and smaller pale stones. It descends toward a still narrow lake that curves into the middle distance, catching a slim silver reflection of the sky. On the left, a rounded shadowed hill slopes down to the shore. On the right, a taller cluster of dark cliffs and one thin pointed rock tower rise steeply, their bases dissolving into blue-gray mist. A few small trees and scrubby branches sit on the right bank, while more distant peaks become increasingly faint toward the central horizon. Above them, a large warm sun or bright break in cloud glows through a thick veil of gray, cream and dusty turquoise vapor. The upper sky feels weighty and textured, yet the shaft of light softens the central valley and makes the distant water luminous. The composition is arranged as a sheltered opening between two darker sides, with the eye traveling from rocks at the bottom through the reflective lake toward the hazy brightness. Brushwork is layered and understated: grasses are made from short green touches, rock edges from muted dry strokes, and atmospheric depth from thin blended color. There are no figures or buildings, and the silence of the place remains unbroken. The palette moves gently among moss green, olive, charcoal, slate blue and pale gold, with dark foreground anchors preventing the misty light from dissolving the entire image.",
+  "full_prompt_zh": "成品正方形是一幅细致柔和的油画式山地风景。低矮绿草地占据前景，散布深色巨石和较小浅色石块，向一条安静狭长的湖面下降。湖水弯入中景，接住天空细窄银色倒光。左边圆润的暗山坡落向岸边，右边更高的深色悬崖和一根尖窄岩塔陡然升起，山脚渐渐消失在蓝灰薄雾中。右岸有几棵小树和粗枝，远峰朝中央地平线逐渐变淡。上方，一轮暖日或云隙亮光透过浓厚的灰、乳白和蒙尘青绿雾层发亮。天空上半部沉重而有纹理，但光束柔化中央山谷，使远处水面明亮。构图如两侧深暗之间受保护的开口，视线从下方石块沿反光湖水走向雾中亮处。笔触层叠而克制：草由短促绿点构成，石边由柔和干笔描出，氛围纵深则由薄薄融合色彩建立。没有人物或建筑，场所的寂静没有受到干扰。配色在苔绿、橄榄、炭灰、石板蓝和浅金之间轻柔移动，前景深色锚点使雾光不会吞没整幅画面。",
+  "style_prompt_en": "Softly detailed oil-style painting builds depth through layered translucent haze, short organic brush touches, muted dry texture and carefully blended light. Moss green and olive settle into charcoal and slate blue, while pale gold diffuses from a high luminous area. Dark near-field anchors frame a quiet bright opening within the square composition.",
+  "style_prompt_zh": "细致柔和的油画式绘画通过层叠半透明雾气、短促有机笔触、克制干性纹理与仔细融合的光建立纵深。苔绿与橄榄色沉入炭灰和石板蓝，浅金色从高处亮区漫开。近处暗色锚点框住正方形构图中的安静明亮开口。",
+  "theme_en": "A quiet mountain lake beneath a high misty sun",
+  "theme_zh": "薄雾高日下安静的山间湖泊",
+  "wh_ratio": "1:1",
+  "id": "3416",
+  "name": "Albert Bierstadt",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/albert-bierstadt",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "b225071153e220fd66b0982be3857cf69c4ddeb2568f9b4056330ebb94bf91b7",
+    "gpt_submission_prompt": "The finished square is a softly detailed oil-style mountain landscape. A low green meadow occupies the foreground, scattered with dark boulders and smaller pale stones. It descends toward a still narrow lake that curves into the middle distance, catching a slim silver reflection of the sky. On the left, a rounded shadowed hill slopes down to the shore. On the right, a taller cluster of dark cliffs and one thin pointed rock tower rise steeply, their bases dissolving into blue-gray mist. A few small trees and scrubby branches sit on the right bank, while more distant peaks become increasingly faint toward the central horizon. Above them, a large warm sun or bright break in cloud glows through a thick veil of gray, cream and dusty turquoise vapor. The upper sky feels weighty and textured, yet the shaft of light softens the central valley and makes the distant water luminous. The composition is arranged as a sheltered opening between two darker sides, with the eye traveling from rocks at the bottom through the reflective lake toward the hazy brightness. Brushwork is layered and understated: grasses are made from short green touches, rock edges from muted dry strokes, and atmospheric depth from thin blended color. There are no figures or buildings, and the silence of the place remains unbroken. The palette moves gently among moss green, olive, charcoal, slate blue and pale gold, with dark foreground anchors preventing the misty light from dissolving the entire image.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "3bc666e29523210f010a97192d3f97bf4fd3782c7d76688e257b56cc2aec8dcd",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

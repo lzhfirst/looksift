@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square thickly painted abstract harbor scene shows several sailing ships moored on calm water. The largest vessel sits just right of center, its hull and rigging picked out in luminous gold and warm cream. Smaller boats fade to the left behind thin masts. The water fills the lower half in horizontal bands of icy blue, lilac, blush pink, silver-gray, and yellow reflection. Above, vertical streaks of pale blue, mauve, white, and tan suggest mist, sails, and distant waterfront structures without resolving them sharply. The paint is applied with palette-knife ridges, dragged strokes, and scraped edges; some bright passages stand physically above darker underlayers. The main ship's reflection drops downward as broken yellow and white stripes, interrupted by cool horizontal ripples. Light seems to come through the mist from the upper left, making the gold hull and selected mast lines shimmer. Dark blue accents under the ship give it weight amid otherwise airy color. The composition is centered but loosely balanced, with a dense boat cluster near the horizon and more open shimmering water below. The recognizable harbor is partly dissolved into a study of color and material. The overall effect is luminous, optimistic, and tactile, where thick paint conveys both structure and shifting reflection.",
+  "full_prompt_zh": "一幅方形厚涂抽象港湾画描绘几艘帆船停在平静水面。最大一艘略偏中央右，船身与索具由发亮金色和暖奶油色挑出。较小船只退向左侧，藏在细桅杆后。水面占下半幅，由冰蓝、淡紫、粉红、银灰与黄色倒影构成水平带。上方淡蓝、淡紫、白和棕黄竖痕暗示雾、船帆与远岸结构，却不把它们解析得很清楚。颜料由调色刀凸脊、拖曳笔触和刮擦边缘涂成；部分亮处真实凸于深底。主船倒影以破碎黄白竖带下落，被冷色水平涟漪打断。光似从左上穿雾而来，让金色船身与部分桅线闪动。船下深蓝点给它重量，平衡其余通透颜色。构图居中却松动，地平附近船群浓密，下方闪水较开阔。可辨港口部分溶成颜色与材料研究。整体发亮、乐观而可触，厚颜料同时传达结构与变动倒影。",
+  "style_prompt_en": "Palette-knife abstraction builds a luminous scene from ridges, dragged streaks, and scraped underlayers. Ice blue, lilac, blush, silver, warm cream, and gold produce a pastel field with concentrated bright accents. Vertical marks imply upright forms; broken horizontal bands suggest reflective depth. Paint remains physically thick, catching light at the ridge tops and leaving darker color in grooves. Edges shift between suggestive structure and near-total dissolution. A dense center balances more open lower space. The finish is airy, shimmering, and tactile, with material movement more important than precise outlines.",
+  "style_prompt_zh": "调色刀抽象以凸脊、拖曳条痕和刮露底层建立发亮场景。冰蓝、淡紫、粉红、银色、暖奶油与金形成有集中亮点的粉彩色域。竖痕暗示直立形，破碎水平带暗示反光纵深。颜料保持实际厚度，凸脊顶接光，沟内留深色。边缘在可暗示结构与几乎完全溶解之间变化。浓密中央平衡更开阔下方。完成面通透、闪烁而可触，材料运动比精确轮廓更重要。",
+  "theme_en": "Golden sailing ships reflected in a pastel harbor",
+  "theme_zh": "粉彩港湾中倒映的金色帆船",
+  "wh_ratio": "1:1",
+  "id": "0779",
+  "name": "Peter Nottrott",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/peter-nottrott",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/peter-nottrott.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "787fb6d220020444fb79deb83806d3eae577c062d31b68eb058afbfea7d3e93c",
+    "gpt_submission_prompt": "A square thickly painted abstract harbor scene shows several sailing ships moored on calm water. The largest vessel sits just right of center, its hull and rigging picked out in luminous gold and warm cream. Smaller boats fade to the left behind thin masts. The water fills the lower half in horizontal bands of icy blue, lilac, blush pink, silver-gray, and yellow reflection. Above, vertical streaks of pale blue, mauve, white, and tan suggest mist, sails, and distant waterfront structures without resolving them sharply. The paint is applied with palette-knife ridges, dragged strokes, and scraped edges; some bright passages stand physically above darker underlayers. The main ship's reflection drops downward as broken yellow and white stripes, interrupted by cool horizontal ripples. Light seems to come through the mist from the upper left, making the gold hull and selected mast lines shimmer. Dark blue accents under the ship give it weight amid otherwise airy color. The composition is centered but loosely balanced, with a dense boat cluster near the horizon and more open shimmering water below. The recognizable harbor is partly dissolved into a study of color and material. The overall effect is luminous, optimistic, and tactile, where thick paint conveys both structure and shifting reflection.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "b975706a7dc516ae0a3f462c1197615adcc6e05102c5a17846eb43dd1423ad07",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

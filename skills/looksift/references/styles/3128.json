@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "An intimate rural oil painting shows a young woman resting on a low stone wall at the edge of a garden. She bends over small red fruit held in her lap, absorbed in the simple work. Three chickens search the irregular dirt path at her feet. A wicker basket and a grey metal pail sit among dark green leaves and clusters of red flowers. Behind a rough fence, the land opens to a calm pale sea with tiny sail shapes under a clouded sky. The scene has the unhurried rhythm of an ordinary afternoon rather than a posed event.\n\nThe style is closely observed naturalism with soft, careful modeling and a visibly painted surface. Warm cream and taupe in the apron and stone contrast with the dark red bodice, russet hair, deep green plants, and muted blue-grey distance. Light is broad and overcast, so transitions are gentle and no hard shadow dominates. Fine strokes pick out stems, feathers, wicker, and scattered stones, while looser blended passages keep the water and far shore quiet. The seated figure anchors the left half; the basket and chickens make small repeated accents below, and the horizon supplies a long, restful counterline. Weathered textures and subtle tonal variety give the garden a natural, quietly detailed surface.",
+  "full_prompt_zh": "一幅亲密的乡村油画，描绘一位年轻女子坐在花园边的低矮石墙上歇息。她低头处理膝上的小颗红果，专注于这件简单的活计。三只鸡在脚边凹凸不平的土路上寻食。藤编篮和灰色金属桶放在深绿叶片与成簇红花之间。粗糙篱笆后，土地伸展到平静的浅色海面，阴云天空下有细小的帆影。这一幕有寻常午后的从容节奏，而非刻意摆拍的事件。\n\n风格是仔细观察的自然主义，形体塑造柔和精细，同时保留可见的绘画表面。围裙与石墙的暖乳白、灰褐色，对照深红上衣、栗色头发、深绿植物和远处含蓄的蓝灰色。光线宽泛而阴柔，因此过渡缓和，没有生硬阴影主导。细笔触挑出枝茎、羽毛、藤编纹路与散落石子；更松的晕合区域使水面与远岸保持安静。坐姿人物压住左半幅，篮子和鸡在下方形成小而重复的点缀，地平线则提供一道悠长安稳的反向线条。保留花园的旧痕纹理与微妙的色调差异，所选场景没有装饰性排字或可辨认标记。",
+  "style_prompt_en": "Carefully observed oil-paint naturalism uses soft modeling over a visibly brushed surface. Warm cream, taupe, muted red, and russet settle against deep foliage green and a distant blue-grey band. Broad overcast light keeps shadows gentle and gives every color a slightly subdued, cohesive cast. Fine strokes describe small fibrous and granular textures in the near ground, while the distance is blended more quietly. A weighted form rests to one side; several small repeated accents gather below it, and a long level line opens the upper space. The rhythm is unhurried and domestic, with weathered surfaces, modest color contrast, and enough detail to feel lived in without becoming sharply photographic.",
+  "style_prompt_zh": "仔细观察的油画自然主义，在看得见的笔刷表面上柔和塑造形体。暖乳白、灰褐、暗红与栗色落在深叶绿和远方蓝灰色带之间。宽泛的阴天光让阴影保持温和，也让每种颜色都略显收敛、彼此协调。细笔触描写近处细纤维与颗粒般的纹理，远景则更安静地晕合。一个有分量的形体停在构图一侧，下方聚集数个重复的小色点，悠长的水平线打开上方空间。节奏从容而有生活气息，表面带旧痕，色彩对比适度，细节足以使画面可信，却不走向锐利的摄影效果。",
+  "theme_en": "A quiet harvest afternoon near the coast",
+  "theme_zh": "海岸附近宁静的收获午后",
+  "wh_ratio": "1:1",
+  "id": "3128",
+  "name": "Daniel Ridgway Knight",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/daniel-ridgway-knight",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "1e9ea68e35e68bbe3a983ce20b0ebca4324c72b6d73eed5b9627867873d1c81b",
+    "gpt_submission_prompt": "An intimate rural oil painting shows a young woman resting on a low stone wall at the edge of a garden. She bends over small red fruit held in her lap, absorbed in the simple work. Three chickens search the irregular dirt path at her feet. A wicker basket and a grey metal pail sit among dark green leaves and clusters of red flowers. Behind a rough fence, the land opens to a calm pale sea with tiny sail shapes under a clouded sky. The scene has the unhurried rhythm of an ordinary afternoon rather than a posed event.\n\nThe style is closely observed naturalism with soft, careful modeling and a visibly painted surface. Warm cream and taupe in the apron and stone contrast with the dark red bodice, russet hair, deep green plants, and muted blue-grey distance. Light is broad and overcast, so transitions are gentle and no hard shadow dominates. Fine strokes pick out stems, feathers, wicker, and scattered stones, while looser blended passages keep the water and far shore quiet. The seated figure anchors the left half; the basket and chickens make small repeated accents below, and the horizon supplies a long, restful counterline. Weathered textures and subtle tonal variety give the garden a natural, quietly detailed surface.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "4554880b3b9ac3a8d227d7112df1c34a60381002ba6b96d66baa94630402c130",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

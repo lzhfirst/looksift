@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square surreal fine-art photograph shows a young woman suspended in a dark empty space, her skirt and loose leaves swirling around her. She is slightly left of center and angled upward toward the left, with her face in profile and eyes turned into the distance. Long reddish hair fans out behind her head, its strands caught in a warm side light. Her fitted dark bodice leads into a broad layered skirt of brown, ochre, and muted gold fabric. The fabric spreads diagonally from her waist toward the lower right and curls back under her legs, as if lifted by a current of air. One hand extends to the left and the other opens on the right, lightly holding the outer edges of the moving cloth. Her bare lower legs appear beneath the skirt, pointed downward into shadow. Small leaves and fragments scatter around the upper right arc of the fabric, with a few isolated pieces crossing the otherwise empty background. The background is a deep charcoal-brown gradient rather than a recognizable place, brighter behind the head and upper torso and nearly black toward the lower corners. Warm light comes from the upper left, catching hair, face, fingers, and the outer folds while the inner fabric and far side of the body remain dark. Soft photographic grain and gentle edge blur give the airborne movement a dreamlike quality, yet the central face and dress folds remain readable. The overall composition uses one diagonal flowing mass against vast dark space, creating a quiet image of weightlessness and transformation.",
+  "full_prompt_zh": "这幅方形超现实艺术照片呈现一位年轻女子悬在深暗空处，裙摆与散叶在她身周旋转。她位于中央略偏左，身体斜向左上，侧脸望向远处。长红棕发在脑后散开，发丝被暖侧光捕捉。贴身深色上衣接向由棕、赭黄与低调金色布料层叠的宽大裙摆。布料从腰部斜向右下扩展，又在腿下卷回，仿佛被气流托起。一只手向左伸，另一只在右侧张开，轻轻牵住飞动衣料的外缘。赤裸小腿从裙下露出，向下指入阴影。小叶和碎片散在布料右上方的弧线周围，另有几片越过原本空白的背景。背景是深炭棕渐变，并非可辨认的地点；头与上身后方较亮，向下方两角几乎变黑。暖光从左上进入，照到头发、脸、手指和外层褶边，内层布料与身体远侧保持深暗。柔和摄影颗粒与轻微边缘模糊赋予悬空运动梦境感，但中央面孔与裙褶仍可读。整体构图让一道斜向流动的形体面对广大暗空间，形成安静的失重与变形意象。",
+  "style_prompt_en": "The fine-art photographic image uses low-key brown-black space, warm directional highlights, and sweeping soft-edged motion. Rich ochre and muted gold emerge from charcoal shadow in layered, almost painterly folds. Tiny scattered accents extend the main diagonal rhythm without filling the background. Light isolates selected edges and leaves interior overlaps deep, producing volume and a sense of suspended movement. Fine grain and gradual blur soften the scene while the focal center stays legible. The composition is sparse yet emotionally charged, balancing a compact luminous core against expansive darkness.",
+  "style_prompt_zh": "这种艺术摄影使用低调棕黑空间、温暖定向高光和边缘柔化的扫掠动势。浓赭与低调金色从炭灰阴影中浮现，层叠褶形几乎带绘画质感。细小散点延伸主要斜向节奏，却不填满背景。光分离选定边缘，让内部交叠保持深暗，制造体积和悬空运动感。细颗粒与渐进模糊柔化场景，焦点中央仍可读。构图简净却富有情绪张力，以紧凑发亮核心平衡广阔黑暗。",
+  "theme_en": "A woman suspended in darkness amid swirling golden fabric and leaves",
+  "theme_zh": "女子悬在暗处，金色布料与叶片在身周旋转",
+  "wh_ratio": "1:1",
+  "id": "3009",
+  "name": "Brooke Shaden",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/brooke-shaden",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/brooke-shaden.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "89f43bee0abc789ddb4c225ac854ad23e15c385d81657c7226a63b88b5efdb98",
+    "gpt_submission_prompt": "A square surreal fine-art photograph shows a young woman suspended in a dark empty space, her skirt and loose leaves swirling around her. She is slightly left of center and angled upward toward the left, with her face in profile and eyes turned into the distance. Long reddish hair fans out behind her head, its strands caught in a warm side light. Her fitted dark bodice leads into a broad layered skirt of brown, ochre, and muted gold fabric. The fabric spreads diagonally from her waist toward the lower right and curls back under her legs, as if lifted by a current of air. One hand extends to the left and the other opens on the right, lightly holding the outer edges of the moving cloth. Her bare lower legs appear beneath the skirt, pointed downward into shadow. Small leaves and fragments scatter around the upper right arc of the fabric, with a few isolated pieces crossing the otherwise empty background. The background is a deep charcoal-brown gradient rather than a recognizable place, brighter behind the head and upper torso and nearly black toward the lower corners. Warm light comes from the upper left, catching hair, face, fingers, and the outer folds while the inner fabric and far side of the body remain dark. Soft photographic grain and gentle edge blur give the airborne movement a dreamlike quality, yet the central face and dress folds remain readable. The overall composition uses one diagonal flowing mass against vast dark space, creating a quiet image of weightlessness and transformation.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "367c95782714408e4164e9051a8f46d4cf0f53662fb18031bd24f8b4e4f86381",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

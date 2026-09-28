@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square oil-painted lakeside landscape frames a low sunset through tall dark pines and brilliant autumn foliage. The view looks across a narrow near shore into a turquoise lake, with a darker blue land strip holding the horizon. At the upper center-right, the pale golden sun sits close to the horizon beneath a banded sky of blue, coral, yellow, and muted orange. A bright vertical reflection descends from the sun into the water, breaking into warm yellow and gold strokes amid teal. On the left, slender trunks and orange-red trees rise from a dark shoreline. On the right, several nearly black pine trunks and branches form a heavier vertical screen, partly hiding the open water. The lower foreground is a rough patch of dark green, rust, violet, and brown ground, with short strokes suggesting rock and vegetation. Across the middle, a small dark spit of land protrudes from the left and interrupts the lake's reflective surface. The trees are simplified into strong silhouettes, while their leaves and the water contain many discrete dabs and dragged patches of pigment. The paint looks thick in brighter areas and scraped or thin in the darks, creating a varied tactile surface. Low warm light from the setting sun intensifies the reflection and foliage; the foreground trees remain mostly in cool shadow. The overall composition is compact yet luminous, balancing upright dark trunks around a central opening of glowing sky and water.",
+  "full_prompt_zh": "这是一幅方形油画湖畔风景，高大的深色松树和鲜亮秋叶框住低垂夕阳。视线越过狭窄近岸望向青绿色湖泊，一条较深蓝色陆地压住地平线。上方中央偏右，浅金太阳靠近地平线，位于蓝、珊瑚色、黄与低调橙色分层的天空之下。一道明亮竖向倒影从太阳落入水中，在青绿色之间裂成暖黄与金色笔痕。左侧，细树干和橙红树木从深色岸边升起。右侧，几根近黑色松干与枝条构成更厚重的竖向屏障，部分遮住开阔湖面。下方前景是一片由深绿、锈红、紫色和褐色构成的粗糙地面，短笔触暗示石块与植被。中部，一小段深色陆地从左边伸出，打断反光湖面。树木被简化为强剪影，枝叶与水面则含有许多独立点涂和拖曳的颜料块。明亮处颜料显得厚，暗处则有刮擦或薄涂变化，形成多样可触表面。落日低暖光强化倒影与叶色；前景树木大多留在冷影里。整体构图紧凑却发光，以竖立深树干平衡中央敞开的天空与水光。",
+  "style_prompt_en": "The oil painting uses saturated cool color against concentrated warm light, with visibly thick strokes and patches of scraped pigment. Turquoise, teal, indigo, violet, and near-black form the broad field; orange, coral, and golden yellow gather in smaller radiant areas. Slender dark verticals frame a bright opening and give the composition a measured rhythm. Broken dabs and short dragged marks animate reflective and textured surfaces, while larger dark silhouettes remain relatively simple. Low directional light creates a luminous passage across the center and leaves the foreground in cool shadow. Edges flicker where brush marks meet, but the overall value structure remains clear. The result is bold, tactile, and quietly radiant.",
+  "style_prompt_zh": "油画以饱和冷色对照集中的暖光，具有可见厚笔触和刮擦颜料斑块。青绿、蓝绿、靛蓝、紫色与近黑色形成宽阔场域；橙、珊瑚和金黄聚成较小发光区域。纤细深色竖线框住明亮开口，赋予构图有度的节奏。破碎点涂和短拖痕使反光与带肌理表面活跃，较大的深色剪影则相对简洁。低角度定向光穿过中央形成明亮通道，前景留在冷影里。笔痕相接处边缘闪动，但整体明度结构仍清楚。效果大胆、可触，安静而明亮。",
+  "theme_en": "A sunset reflected in a turquoise lake between dark pines",
+  "theme_zh": "夕阳映在深松林之间的青绿湖面",
+  "wh_ratio": "1:1",
+  "id": "2402",
+  "name": "Tom Thomson",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/tom-thomson",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/tom-thomson.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "58bcd3b3f5f99eb509568a1a8acc42c5654737d884a3327052457fbad2a4c503",
+    "gpt_submission_prompt": "A square oil-painted lakeside landscape frames a low sunset through tall dark pines and brilliant autumn foliage. The view looks across a narrow near shore into a turquoise lake, with a darker blue land strip holding the horizon. At the upper center-right, the pale golden sun sits close to the horizon beneath a banded sky of blue, coral, yellow, and muted orange. A bright vertical reflection descends from the sun into the water, breaking into warm yellow and gold strokes amid teal. On the left, slender trunks and orange-red trees rise from a dark shoreline. On the right, several nearly black pine trunks and branches form a heavier vertical screen, partly hiding the open water. The lower foreground is a rough patch of dark green, rust, violet, and brown ground, with short strokes suggesting rock and vegetation. Across the middle, a small dark spit of land protrudes from the left and interrupts the lake's reflective surface. The trees are simplified into strong silhouettes, while their leaves and the water contain many discrete dabs and dragged patches of pigment. The paint looks thick in brighter areas and scraped or thin in the darks, creating a varied tactile surface. Low warm light from the setting sun intensifies the reflection and foliage; the foreground trees remain mostly in cool shadow. The overall composition is compact yet luminous, balancing upright dark trunks around a central opening of glowing sky and water.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "9b9d1c8c66b27bc1fc66f74bf3d0fe052c6527f81975458a5d31123fde21813e",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square comic illustration shows a bespectacled man seated cross-legged near the center-bottom, reading a folded newspaper in an autumnal wooded setting. He wears a muted green suit, white shirt, and dark tie; his head is bowed in concentration and his small orderly posture seems unaware of what looms behind him. Above and around him, a huge gnarled tree trunk and dense curling foliage resolve into the face of a green monster, with narrow orange eyes, ridged brow, and broad snout. Twisted branches and roots frame the reader like claws, while orange-yellow leaves collect at the left and scatter across the ground. Tiny mushrooms, insects, and organic knots add detail among the roots. Fine black contour, dense stippling, and closely spaced hatch marks make the green mass tactile and slightly sinister. Color is limited to moss, olive, mustard, gray-green, and warm cream, giving the work a printed comic feel. Light reaches the newspaper and the reader's face from the front, while the upper monster-tree remains darker under its leaf canopy. The small calm reader and vast watchful surrounding form create the central tension. The image is witty and eerie, combining narrative contrast with meticulous decorative ink texture.",
+  "full_prompt_zh": "一幅方形漫画插画描绘一位戴眼镜男子盘腿坐在中下部秋色树林里阅读折叠报纸。他穿低调绿西装、白衫和深领带；低头专注，整齐的小身姿似乎不知道背后是什么。上方及周围巨大的扭曲树干与密卷枝叶渐成绿色怪物面孔，带狭窄橙眼、隆起眉脊和宽鼻吻。曲枝与树根像爪一样框住读者，橙黄叶聚在左边并散落地上。小蘑菇、昆虫与有机树瘤添在根间。细黑轮廓、密点描和紧排线使绿色大形可触且略阴森。色彩限于苔绿、橄榄、芥黄、灰绿和暖奶油，带印刷漫画感。光从前方照到报纸与读者脸，顶部怪树在叶冠下更暗。安静的小读者与巨大凝视形体形成中心张力。画面机智而诡异，把叙事对比与精密装饰墨纹结合。",
+  "style_prompt_en": "Meticulous comic illustration with small calm focal geometry enclosed by an immense curling organic mass. Moss green, olive, mustard, and warm cream are carried by fine black contour, dense stipple, and tight hatching. Repeated knots, leaves, and clawlike curves create tactile pressure around a clearer light center. Printed color remains slightly muted, and contrast between scale and texture supplies both wit and unease.",
+  "style_prompt_zh": "精密漫画插画，以清楚小焦点几何被巨大卷曲有机大形围住。苔绿、橄榄、芥黄和暖奶油由细黑轮廓、密点描与紧排线承载。重复树瘤、叶与爪状曲线在较亮中央周围产生可触压力。印刷色略低调，尺度与肌理的对照同时带来机智与不安。",
+  "theme_en": "A bespectacled reader beneath an immense green monster canopy",
+  "theme_zh": "一位戴眼镜读者坐在巨大绿色怪物树冠下",
+  "wh_ratio": "1:1",
+  "id": "4239",
+  "name": "Ed Piskor",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/ed-piskor.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "43a7a27c3841be9e0fbb975f3958b12d6561850c3a79474d0a67a3a9cf8c09de",
+    "gpt_submission_prompt": "A square comic illustration shows a bespectacled man seated cross-legged near the center-bottom, reading a folded newspaper in an autumnal wooded setting. He wears a muted green suit, white shirt, and dark tie; his head is bowed in concentration and his small orderly posture seems unaware of what looms behind him. Above and around him, a huge gnarled tree trunk and dense curling foliage resolve into the face of a green monster, with narrow orange eyes, ridged brow, and broad snout. Twisted branches and roots frame the reader like claws, while orange-yellow leaves collect at the left and scatter across the ground. Tiny mushrooms, insects, and organic knots add detail among the roots. Fine black contour, dense stippling, and closely spaced hatch marks make the green mass tactile and slightly sinister. Color is limited to moss, olive, mustard, gray-green, and warm cream, giving the work a printed comic feel. Light reaches the newspaper and the reader's face from the front, while the upper monster-tree remains darker under its leaf canopy. The small calm reader and vast watchful surrounding form create the central tension. The image is witty and eerie, combining narrative contrast with meticulous decorative ink texture.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "f60c44f19eb69af86a01533bb0b7d53a9e5423cbbfcd32fb0670e0e0f12e59e3",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A black-and-white outdoor photograph shows a young woman seated among tall grass on a wide open plain. She wears a sleeveless white blouse tied or gathered at the waist and a dark full skirt spread across her lap. Her body faces slightly left, one arm braced down in the grass, while her head turns back toward the light with a calm, distant expression. Wind lifts her short wavy hair and gently disturbs the pale grasses around her. Behind her, a dark vintage car is parked to the right of center, its rounded hood and roofline cutting a compact shape against a broad low horizon. The field stretches away with only tiny distant marks, leaving a large, almost unbroken expanse of pale sky above. The image balances the bright blouse and grass against the deep skirt and automobile, with a soft but clear range of silver-gray tones. Strong natural daylight defines the curve of her cheek and shoulders and the narrow blades of grass, yet the atmosphere remains open rather than harsh. The viewpoint is low enough to let the grasses fill the foreground and make the seated figure feel embedded in the landscape. Fine film grain, measured contrast, and a modest amount of tonal softness lend the scene an easy, mid-century photographic elegance, as if the moment was found during a pause in travel.",
+  "full_prompt_zh": "一张黑白户外照片，拍下一位年轻女子坐在开阔平原的高草之间。她穿着在腰间收拢的无袖白衬衫，深色宽裙铺在腿上。身体略朝左，一只手撑在草地里，头则转向光线，神情平静而略显遥远。风吹起她的短卷发，也轻轻拨动周围浅色的草。身后偏右处停着一辆深色旧汽车，圆润的车头和车顶在低平的地平线上形成紧凑形状。原野向远处延伸，只留下极小的远景痕迹，上方是大片几乎不中断的浅色天空。画面以明亮的衬衫、草地与深色裙子、汽车形成平衡，银灰色阶柔和而清晰。强烈的自然日光勾勒面颊和肩膀的弧线，也照出细窄草叶，但气氛依旧开朗，不显生硬。较低的视点使草丛填满前景，让坐着的人确实置身于环境之中。细微胶片颗粒、适度对比和略带柔软的明暗层次，给这个场景一份轻松的世纪中叶摄影优雅感，仿佛它是在旅途中短暂停留时被发现的。",
+  "style_prompt_en": "A graceful black-and-white film photograph with measured contrast, fine grain, and clear yet gently softened tonal transitions. Bright natural light draws simple contours from pale surfaces and textured fine lines, while compact dark masses anchor the lower frame. A low viewpoint gives foreground textures presence, opening onto a long, level distance and generous light negative space. The composition feels unforced and airy, its principal form slightly off center and balanced by a smaller dark shape. Subtle movement in delicate details keeps the image alive. Silver-gray midtones connect luminous highlights to deep, readable shadows, creating an understated mid-century photographic mood.",
+  "style_prompt_zh": "优雅的黑白胶片摄影风格，对比适中，颗粒细微，明暗过渡清晰而略带柔软。明亮自然光从浅色表面和细密线条中勾出简单轮廓，紧凑的深色体块稳定画面下部。低视点突出前景纹理，随后展开平直的远景与充裕的明亮留白。构图轻松透气，主要形态略偏中心，由较小的深色形状取得平衡。纤细细节中的微妙运动让画面鲜活。银灰中间调连起发亮高光和仍可辨读的深阴影，形成含蓄的世纪中叶摄影气息。",
+  "theme_en": "A woman pausing in tall grass beside a vintage car",
+  "theme_zh": "女子在旧汽车旁的高草地里小憩",
+  "wh_ratio": "1:1",
+  "id": "3870",
+  "name": "Fritz Henle",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/fritz-henle",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "eb44a172802ddd63b9c83ad55114b9ba130eac0e24dc3ee85255cd9c4f821b09",
+    "gpt_submission_prompt": "A black-and-white outdoor photograph shows a young woman seated among tall grass on a wide open plain. She wears a sleeveless white blouse tied or gathered at the waist and a dark full skirt spread across her lap. Her body faces slightly left, one arm braced down in the grass, while her head turns back toward the light with a calm, distant expression. Wind lifts her short wavy hair and gently disturbs the pale grasses around her. Behind her, a dark vintage car is parked to the right of center, its rounded hood and roofline cutting a compact shape against a broad low horizon. The field stretches away with only tiny distant marks, leaving a large, almost unbroken expanse of pale sky above. The image balances the bright blouse and grass against the deep skirt and automobile, with a soft but clear range of silver-gray tones. Strong natural daylight defines the curve of her cheek and shoulders and the narrow blades of grass, yet the atmosphere remains open rather than harsh. The viewpoint is low enough to let the grasses fill the foreground and make the seated figure feel embedded in the landscape. Fine film grain, measured contrast, and a modest amount of tonal softness lend the scene an easy, mid-century photographic elegance, as if the moment was found during a pause in travel.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "6bf10afe56de012daebc4c24e2e5787ddbc7e6297d27c860a6e5e9c3d5a0f67a",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

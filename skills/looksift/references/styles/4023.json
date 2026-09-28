@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square speculative architectural rendering places a large modular structure on a single sweeping concrete support in an open paved plaza. The support rises from the ground near center, curves outward like a broad inverted hook, and carries several long horizontal platforms. Stack pale metal and glass boxes unevenly above it, with projecting cantilevers extending far to both sides. Some boxes have translucent blue-green glazing; others are off-white with small square openings or exposed service bands. Fine railings, narrow catwalks, visible structural frames, and strips of copper or rust-colored piping reveal the technical assembly. Near the base, a small exterior stair climbs to the support, and two leafy trees stand on either side to establish scale. Low pale buildings and soft white mountains recede along the horizon beneath a clear muted cyan sky. The image adds a small disc-shaped object far above and right of the structure if present, but keep it secondary. The lighting illuminates the scene with broad even daylight from the left, producing light shadows beneath the cantilevers and readable material divisions. The image uses a nearly symmetrical, frontal viewpoint while letting the platforms themselves remain asymmetrical. The result should feel engineered, monumental, and plausible in its material detail, with ample empty plaza anchoring the intricate elevated mass.",
+  "full_prompt_zh": "一张方形推想建筑效果图，将庞大的模块化结构置于开阔铺装广场上一根弯曲的混凝土支座之上。支座从中央附近地面升起，像宽阔的倒钩向外弯，托起数层长水平平台。浅色金属和玻璃盒体错落堆叠，悬挑部分向两侧伸得很远。有些盒体是半透明蓝绿色玻璃，有些则呈灰白色，开小方窗或露出设备带。细栏杆、窄栈道、可见框架和铜锈色管道条带显出技术装配过程。底部一道小外楼梯通向支座，两侧各有树木以建立尺度。低矮浅色建筑和柔白山脉沿地平线退远，上方是低饱和青蓝晴空。若呈现小碟状物体，可放在建筑右上方远处，并保持次要。来自左侧的宽阔均匀日光照亮场景，在悬挑下方形成轻影，让材料分界可读。视角近乎正面且对称，而平台本身仍不对称。成品应具有工程感、纪念性和可信的材质细节，广场的大块空地稳定上方繁复的悬挑形体。",
+  "style_prompt_en": "Speculative high-tech rendering with stacked cantilevered planes, exposed frames, slim railings, translucent cool glazing, and pale concrete support forms. The composition contrasts intricate service details with large simple structural sweeps. The image uses clean cyan daylight, off-white and blue-green surfaces, restrained rust accents, long shadowed undersides, and a spacious frontal composition that makes the assembly legible.",
+  "style_prompt_zh": "推想式高科技效果图，以层叠悬挑平面、外露框架、细栏杆、半透明冷色玻璃和浅色混凝土支撑形体组织。繁复设备细节与大而简单的结构曲线形成对照。画面使用洁净青色日光、灰白和蓝绿表面、克制的铁锈色点缀、长长的受影底面，以及便于读清装配关系的开阔正面构图。",
+  "theme_en": "A high-tech platform structure on a single curved support",
+  "theme_zh": "架在单根弧形支座上的高科技平台结构",
+  "wh_ratio": "1:1",
+  "id": "4023",
+  "name": "High-tech architecture",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/high-tech-architecture.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "99c2efcea77638774462e55ebf8930c1ea245e5bb229f897518bb97ca1b3d45e",
+    "gpt_submission_prompt": "A square speculative architectural rendering places a large modular structure on a single sweeping concrete support in an open paved plaza. The support rises from the ground near center, curves outward like a broad inverted hook, and carries several long horizontal platforms. Stack pale metal and glass boxes unevenly above it, with projecting cantilevers extending far to both sides. Some boxes have translucent blue-green glazing; others are off-white with small square openings or exposed service bands. Fine railings, narrow catwalks, visible structural frames, and strips of copper or rust-colored piping reveal the technical assembly. Near the base, a small exterior stair climbs to the support, and two leafy trees stand on either side to establish scale. Low pale buildings and soft white mountains recede along the horizon beneath a clear muted cyan sky. The image adds a small disc-shaped object far above and right of the structure if present, but keep it secondary. The lighting illuminates the scene with broad even daylight from the left, producing light shadows beneath the cantilevers and readable material divisions. The image uses a nearly symmetrical, frontal viewpoint while letting the platforms themselves remain asymmetrical. The result should feel engineered, monumental, and plausible in its material detail, with ample empty plaza anchoring the intricate elevated mass.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "9704a29ac1de33b1540e56c9d184382150a2887061d43556d3a62db660e011ae",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

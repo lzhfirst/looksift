@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A suited man is seen from the side at the bottom of a square editorial illustration, his shoulders dark and his chin lifted sharply toward the upper right. His pale face is modeled with tight black hatching and small gray tonal marks, giving the nose, mouth, and neck a crisp engraved quality. A narrow dark tie and white collar emerge from the heavy black jacket. Above him, a restless coral and salmon cloud expands across the top half of the picture, made from loose curls, speckled debris, short scratch marks, and darker red and black knots. A few tiny fragments drift downward through the otherwise clear pink space. The background is a flat warm coral field, with slight printed variation rather than a described location. The illustration has a rough, thin black boundary and a small white margin beyond it, like a reproduced newspaper or magazine drawing. Its color is bold but limited: pink, orange-red, pale cream, gray, and dense black. The contrast between the exact crosshatched profile and the chaotic, almost smoky texture overhead creates the visual tension. There is no detailed setting and no explanatory text. The figure's backward angle gives the image a strong diagonal, while the cloud's spreading contour occupies the upper edge and leaves breathing room around the face. The result is sharp, satirical, and slightly ominous, with handmade pen texture and flat poster-like color working together.",
+  "full_prompt_zh": "方形社论插画的底部是一名从侧面看的西装男子，肩部深黑，下巴猛地扬向右上方。浅色面部以密集黑色排线和细小灰调痕迹塑形，使鼻子、嘴巴和脖颈呈现清脆的版画感。厚重黑色外套中露出窄深色领带和白衣领。他的头上方，躁动的珊瑚红与鲑粉色云团铺展在画面上半部，由松散的卷曲、斑点碎屑、短促刮痕及更深的红黑色结块组成。少量细碎形态向下飘过其余清空的粉色空间。背景是一整片暖珊瑚色，只有轻微印刷变化，没有描绘具体地点。插画带有粗糙而细的黑色边界，外侧保留少量白边，像一张经过复制的报纸或杂志绘图。用色大胆但有限：粉红、橙红、浅奶油色、灰色和浓黑。精确排线的侧脸与头顶混乱、近似烟雾的肌理之间形成视觉张力。画面没有详细场景，也没有解释文字。人物后仰角度形成强斜线，云团展开的轮廓占据上缘，同时在面部周围留下呼吸空间。成品尖锐、带讽刺意味，略微不祥，手绘钢笔肌理与平面海报式色彩相互配合。",
+  "style_prompt_en": "A bold editorial cartoon language with engraved black hatching, stippled gray modeling, flat saturated color, and loose expressive marks. A limited palette of coral, salmon, orange-red, cream, gray, and heavy black gives the image poster-like impact. Precisely lined focal forms contrast with turbulent clouds of curls, specks, and scratch strokes. The background remains mostly flat and open, while texture gathers in one dramatic area. An irregular thin border and small white margin suggest a printed illustration. Strong diagonals, abrupt value jumps, and tactile ink marks create a satirical, slightly uneasy rhythm.",
+  "style_prompt_zh": "大胆的社论漫画语言，结合刻版般的黑色排线、点状灰阶塑形、平坦饱和色面与松动的表现性笔痕。珊瑚红、鲑粉、橙红、奶油色、灰色和浓黑组成有限配色，产生海报般冲击力。精确线描的视觉中心与卷曲、斑点和刮擦笔痕构成的翻腾肌理相对照。背景大体平坦开阔，纹理集中于一处戏剧性区域。不规则细边框和少量白边暗示印刷插画。强斜线、突兀明暗跳跃与有触感的墨迹营造讽刺而略显不安的节奏。",
+  "theme_en": "A suited man tilting his head back beneath a turbulent coral cloud",
+  "theme_zh": "一名西装男子仰头面对翻腾的珊瑚红云团",
+  "wh_ratio": "1:1",
+  "id": "4214",
+  "name": "Jack Ohman",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/jack-ohman.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "bdb9579326abd2195d1070fd95c99963fd8f7d6936ccbe0c6cb4c6773c8f0021",
+    "gpt_submission_prompt": "A suited man is seen from the side at the bottom of a square editorial illustration, his shoulders dark and his chin lifted sharply toward the upper right. His pale face is modeled with tight black hatching and small gray tonal marks, giving the nose, mouth, and neck a crisp engraved quality. A narrow dark tie and white collar emerge from the heavy black jacket. Above him, a restless coral and salmon cloud expands across the top half of the picture, made from loose curls, speckled debris, short scratch marks, and darker red and black knots. A few tiny fragments drift downward through the otherwise clear pink space. The background is a flat warm coral field, with slight printed variation rather than a described location. The illustration has a rough, thin black boundary and a small white margin beyond it, like a reproduced newspaper or magazine drawing. Its color is bold but limited: pink, orange-red, pale cream, gray, and dense black. The contrast between the exact crosshatched profile and the chaotic, almost smoky texture overhead creates the visual tension. There is no detailed setting and no explanatory text. The figure's backward angle gives the image a strong diagonal, while the cloud's spreading contour occupies the upper edge and leaves breathing room around the face. The result is sharp, satirical, and slightly ominous, with handmade pen texture and flat poster-like color working together.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "f3fef974060fb7284db2290b13555b47a10e0b485bf7b117901d16929c083e9e",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

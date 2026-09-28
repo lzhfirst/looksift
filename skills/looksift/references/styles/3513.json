@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square naturalistic oil painting shows a young woman seated sideways near the bow of a small weathered boat on a quiet green river. She occupies the right half, her body folded into a compact triangular pose and her face turned left and slightly upward toward the unseen bank. Her dark hair is tucked beneath a muted blue-gray headscarf, and soft light touches her pale cheek and nose. She wears a simple dark navy bodice over a light gray-beige full skirt. Her hands clasp loosely over one knee, holding or resting beside a small gray vessel. The skirt bunches in heavy creases around her lap and trails toward the boat's black wooden side. A plank and angled rail cross the lower right; the boat's worn edges are picked out in gray and brown. On the left bank, delicate stems, rounded leaves, and a few small orange flowers rise from the foreground. Beyond them, teal-green water fills the center, reflecting vertical pale streaks from the sky and blurred vegetation. Tall reeds and tawny grasses line the upper-right bank, while a darker mass of trees closes the far shore at the top. The painted surface blends precise features and hands with looser dabs of foliage and broad translucent water reflections. Cool diffuse daylight from the upper left lights the face and folds without sharp shadow, allowing deep green, charcoal blue, and warm reed gold to mingle. The composition balances the woman's thoughtful stillness against the river's soft reflections and dense bankside texture.",
+  "full_prompt_zh": "一幅方形写实油画呈现一位年轻女子侧坐在小旧船近船头处，船停在安静的绿色河面上。她占据右半部，身体折成紧凑的三角形，面孔转向左侧并微微抬起，望向画外河岸。深色头发收在低饱和蓝灰头巾下，柔光落在浅色面颊与鼻梁。她穿简单的深海军蓝上衣和浅灰米色宽裙。双手松松拢在一侧膝盖上，扶着或靠近一个灰色小容器。裙子在腿上堆出厚重褶皱，向船的黑木侧边垂落。一块木板与斜栏横过右下，船体磨旧边缘以灰棕色挑出。左岸前景，细茎、圆叶和几朵橙色小花向上生长。其后，蓝绿河水填满中央，映出天空与模糊草木留下的竖向浅色水纹。高芦苇和黄褐草丛沿右上河岸排开，远岸更深的树木从顶边合拢。油画表面让面容和手的准确描绘，与较松散的叶片点抹及宽幅透明水纹并存。左上方冷色漫射日光照亮脸和衣褶，没有锐影，使深绿、炭蓝与温暖芦苇金相融。构图以女子沉思般的静止，对照河面的软反射和岸边浓密肌理。",
+  "style_prompt_en": "Naturalistic oil painting combines careful modeling of a focal form with looser, broken strokes for foliage and water. Use deep teal green, charcoal blue, soft gray-beige, and small warm ochre accents. Let diffuse cool daylight pick out cheeks, folds, and worn edges while reflections remain translucent and vertical. Build a compact, contemplative silhouette against a broad quiet plane, then frame it with denser organic texture at the margins. Keep the brush surface visible: softened transitions on skin, heavier impasto-like dabs in plants, and thin dragged strokes across water. The atmosphere is intimate and reflective, with visual richness held inside a restrained, shadowed palette.",
+  "style_prompt_zh": "写实油画将焦点形体的细致塑形与草木、水面的松散断续笔触结合。使用深蓝绿、炭蓝、柔灰米色和小块暖赭色。冷色漫射日光挑亮面颊、褶皱与磨损边缘，倒影则保持透明和竖向延伸。让紧凑沉思的剪影对着广阔安静的平面，再以边缘较密的有机肌理加框。保留可见的笔触表面：肌肤过渡柔和，植物有较厚的点抹，水面用薄而拖曳的线。气氛亲密且带反思感，视觉丰富度收在克制而偏暗的配色中。",
+  "theme_en": "A young woman resting in a boat on a still green river",
+  "theme_zh": "年轻女子坐在小船上，身旁是静绿河水",
+  "wh_ratio": "1:1",
+  "id": "3513",
+  "name": "Alfred Guillou",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/alfred-guillou",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "1106912fee70cf1f610a29a1238b414149ad01d1d64deffa28268fba9806494e",
+    "gpt_submission_prompt": "A square naturalistic oil painting shows a young woman seated sideways near the bow of a small weathered boat on a quiet green river. She occupies the right half, her body folded into a compact triangular pose and her face turned left and slightly upward toward the unseen bank. Her dark hair is tucked beneath a muted blue-gray headscarf, and soft light touches her pale cheek and nose. She wears a simple dark navy bodice over a light gray-beige full skirt. Her hands clasp loosely over one knee, holding or resting beside a small gray vessel. The skirt bunches in heavy creases around her lap and trails toward the boat's black wooden side. A plank and angled rail cross the lower right; the boat's worn edges are picked out in gray and brown. On the left bank, delicate stems, rounded leaves, and a few small orange flowers rise from the foreground. Beyond them, teal-green water fills the center, reflecting vertical pale streaks from the sky and blurred vegetation. Tall reeds and tawny grasses line the upper-right bank, while a darker mass of trees closes the far shore at the top. The painted surface blends precise features and hands with looser dabs of foliage and broad translucent water reflections. Cool diffuse daylight from the upper left lights the face and folds without sharp shadow, allowing deep green, charcoal blue, and warm reed gold to mingle. The composition balances the woman's thoughtful stillness against the river's soft reflections and dense bankside texture.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "c4704ebe1a23e68c87f2f49c8392d48396b9b353bff9255d8b88d5b58876ae90",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

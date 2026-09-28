@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square close ocean image looks from inside the hollow curl of a breaking wave toward a warm sunset near the horizon. The wave rises from the lower-right foreground and arcs overhead to the upper-left edge, forming a nearly circular tunnel. Its inner wall is vivid turquoise and deep blue, streaked with white foam, fine bubbles, and darker moving lines. The lower water is ribbed and reflective, with copper-orange sunlight glinting across ripples that run toward the small opening. Through that opening, a low dark headland lies on the left, and the sky fades from peach and gold near the horizon to soft violet and blue-gray higher up. The brightest point is the small warm gap framed by the cool wave, while the thick upper water becomes darker and more textured. A few spray droplets scatter near the left edge where the crest begins to collapse. The camera is at water level and very close to the curling surface, making the wave's moving architecture feel enormous. The shore and sunset are distant, sharp enough to orient the view but secondary to the translucent water. Light passes through the thinner crest and paints gold lines on the inner wave face; deeper blue regions remain shaded. The image has an unusually textured, painterly appearance, with every swirl and ridge of water clearly visible. Its composition pulls the eye around the enclosing arc and then outward through the small sunset aperture, creating a vivid contrast between the turbulent near water and quiet distant evening.",
+  "full_prompt_zh": "一幅方形近距离海洋图像从破浪的空心卷曲内部望向地平线附近的暖色日落。浪从右下前景升起，越过头顶弯到左上边缘，形成近乎圆形的隧道。内壁是鲜亮青绿与深蓝，划着白泡沫、细气泡和更暗的流动线。下方水面有肋状波纹和反光，铜橙日光在通向小开口的水纹上闪动。透过开口，左侧有低矮深色岬角，天空从地平线附近桃色与金色渐变到更高处柔紫与蓝灰。最亮点是冷色浪壁框住的小小暖色缺口，较厚的上方水体则更暗、更有质地。浪尖开始坍下的左边缘散着几滴水花。相机位于水面高度且贴近弯曲表面，使浪的运动结构显得巨大。岸与落日距离遥远，足够清楚可供辨向，却从属于半透明的水。光穿过较薄浪尖，并在内浪面画出金线；更深蓝的区域保持阴影。图像有异常丰富的绘画般纹理，每一道水旋和棱脊都清楚可见。构图让目光绕着包围的弧线移动，再经小小日落窗口向外，形成躁动近水和安静远方傍晚的鲜明对照。",
+  "style_prompt_en": "Close water-level photography builds an enveloping frame from a translucent curling surface. Deep turquoise and cobalt masses carry fine bubbles, foam, and directional flow lines, while a small distant opening glows peach and gold. Backlight passes through thin edges and draws warm streaks across cooler reflective texture. Keep the near arc immense and tactile, the far horizon small and calm, and the light concentrated toward the exit of the curve. The effect is immersive, energetic, and painterly in texture while retaining convincing liquid motion.",
+  "style_prompt_zh": "近水面摄影用半透明卷曲表面建成包围式画框。深青绿与钴蓝体量带细气泡、泡沫和方向性流线，小小远处开口发出桃金色光。逆光穿过薄边，并在较冷反射纹理上画出暖色条痕。近处弧线巨大而可触，远地平线小而平静，光集中于曲线出口。效果沉浸、充满能量、质地近似绘画，同时保留可信液体运动。",
+  "theme_en": "A turquoise wave barrel framing a warm sunset at the horizon",
+  "theme_zh": "青绿卷浪的浪管框住地平线暖色落日",
+  "wh_ratio": "1:1",
+  "id": "1942",
+  "name": "Clark Little",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/clark-little",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/clark-little.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "8e0c5069372fa1dd318911ef819ae1a6178499f361f59dbadf5a2fd1e1522dd1",
+    "gpt_submission_prompt": "A square close ocean image looks from inside the hollow curl of a breaking wave toward a warm sunset near the horizon. The wave rises from the lower-right foreground and arcs overhead to the upper-left edge, forming a nearly circular tunnel. Its inner wall is vivid turquoise and deep blue, streaked with white foam, fine bubbles, and darker moving lines. The lower water is ribbed and reflective, with copper-orange sunlight glinting across ripples that run toward the small opening. Through that opening, a low dark headland lies on the left, and the sky fades from peach and gold near the horizon to soft violet and blue-gray higher up. The brightest point is the small warm gap framed by the cool wave, while the thick upper water becomes darker and more textured. A few spray droplets scatter near the left edge where the crest begins to collapse. The camera is at water level and very close to the curling surface, making the wave's moving architecture feel enormous. The shore and sunset are distant, sharp enough to orient the view but secondary to the translucent water. Light passes through the thinner crest and paints gold lines on the inner wave face; deeper blue regions remain shaded. The image has an unusually textured, painterly appearance, with every swirl and ridge of water clearly visible. Its composition pulls the eye around the enclosing arc and then outward through the small sunset aperture, creating a vivid contrast between the turbulent near water and quiet distant evening.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "cf47b138479dc8acf975c3e81a5e60091ab226d6e5af0675397d1576a3653083",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

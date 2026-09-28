@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square ink drawing on white paper shows a seated woman in a quiet, three-quarter pose. She occupies a small central area, leaving wide clean paper around her, especially at the top and right. Her hair is gathered back, and her head tilts down as she looks toward something held close to her lap. Loose sleeves and a voluminous garment are suggested by long curved strokes, broken hatching, and a few concentrated pools of black ink. The hands meet near the center of the figure, where the marks become denser but stop short of describing every finger. Faint lines drift away from the body, as if the artist has kept searching marks and partial contours on the page. Darkest accents appear around the hair, lap, and fold intersections; the rest of the dress is carried by light dry lines and untouched white paper. The surface is flat and uncolored, with no defined room or distant horizon. Light is even across the page, while the illusion of shadow comes from grouped ink strokes rather than a painted light source. The open white surrounding area gives the figure a suspended, intimate quality. No lettering is legible. The overall composition is spare and attentive, using irregular ink density and unfinished edges to make a small human gesture feel vivid within extensive negative space.",
+  "full_prompt_zh": "一幅方形白纸墨画描绘一位安静地以四分之三角度坐着的女子。她只占中央一小片区域，周围留下宽阔干净纸白，上方和右侧尤多。头发向后收起，头低垂，望向靠近腿上的某物。宽松袖子与丰厚衣物由长弯线、断续排线和少数集中的黑墨块提示。双手在人物中央附近相接，那里笔痕更密，却没有逐指描完。浅线从身体向外飘出，像画家把探索性笔痕和未完成轮廓留在纸上。最深强调在发间、腿上和衣褶交会处；衣服其余部分由干淡细线和未着墨纸白承担。表面平坦无彩，没有明确房间或远方地平线。纸面受光均匀，阴影幻觉来自成组墨线，而非绘出的光源。周围敞开的白色让人物显得悬浮而亲密。没有可辨认文字。整体构图简约而专注，以不规则墨色密度与未完边缘，使小小的人体动作在大量留白中变得鲜活。",
+  "style_prompt_en": "Ink drawing uses varied line weight, dry broken hatching, and occasional dense black pools on open white paper. Some contours are decisive; others trail away as light searching strokes, leaving form to be completed by negative space. The palette remains black, gray, and paper white, with tonal depth created entirely by mark concentration. Even ambient light leaves no strong cast shadow, so the densest strokes act as local dark anchors. A compact off-center cluster sits within a much wider quiet field. The effect is spontaneous, delicate, and observational.",
+  "style_prompt_zh": "墨线绘画在敞开的白纸上使用变化的线重、干涩断续排线与偶尔浓密的黑墨块。有些轮廓明确，有些以浅淡探索性笔触消散，让留白补足形体。色域保持黑、灰与纸白，调性深度全由笔痕集中程度创造。均匀环境光没有强烈投影，最密集线条因而成为局部深色锚点。紧凑而略偏心的聚合置于更宽阔的安静色域中。效果即兴、精巧而带观察感。",
+  "theme_en": "A seated woman rendered in loose black ink on white paper",
+  "theme_zh": "白纸上以松散黑墨表现的坐姿女子",
+  "wh_ratio": "1:1",
+  "id": "4115",
+  "name": "Ink drawing",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/ink-drawing.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "e12b0b2e96339e376527921469e7e15872e04d4bf1ab9e32f5e8f35d8a54329b",
+    "gpt_submission_prompt": "A square ink drawing on white paper shows a seated woman in a quiet, three-quarter pose. She occupies a small central area, leaving wide clean paper around her, especially at the top and right. Her hair is gathered back, and her head tilts down as she looks toward something held close to her lap. Loose sleeves and a voluminous garment are suggested by long curved strokes, broken hatching, and a few concentrated pools of black ink. The hands meet near the center of the figure, where the marks become denser but stop short of describing every finger. Faint lines drift away from the body, as if the artist has kept searching marks and partial contours on the page. Darkest accents appear around the hair, lap, and fold intersections; the rest of the dress is carried by light dry lines and untouched white paper. The surface is flat and uncolored, with no defined room or distant horizon. Light is even across the page, while the illusion of shadow comes from grouped ink strokes rather than a painted light source. The open white surrounding area gives the figure a suspended, intimate quality. No lettering is legible. The overall composition is spare and attentive, using irregular ink density and unfinished edges to make a small human gesture feel vivid within extensive negative space.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "5eaeba34a5119cdc068b8c02484b30acbe7bcb6430decd0a974eedaf89973ca8",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A stark black-and-white cinematic portrait shows a man in side profile turning his face toward a light above and to the left. He occupies the right two-thirds of the frame, with dark hair swept back, a firm brow, and a set mouth. Strong illumination catches the forehead, bridge of the nose, cheek, and lip, leaving the eye socket, underside of the jaw, and much of the neck in heavy shadow. A white shirt collar and dark jacket appear at the lower right before merging into nearly black surroundings. The left side holds an indistinct rough wall or urban surface, its patches of gray, scraped marks, and vertical streaks suggesting age without specifying a location. Bright specks, scratches, and film-like grain scatter across both face and background. The crop is close enough to emphasize the triangular projection of the nose and the rise of the gaze, but retains a little negative space ahead of the face. Contrast is deliberately severe: middle grays remain compressed, and the few illuminated planes stand out against dense black. Hard facial edges alternate with distressed, partially lost background contours. The figure feels still, while the mottled surface adds visual unrest around him. The whole frame conveys private intensity through upward direction, deep shadow, and the damaged texture of an old monochrome print.",
+  "full_prompt_zh": "一幅鲜明的黑白电影感人像描绘一名男子的侧脸，他将面容转向左上方的光。人物占据画面右侧约三分之二，深色头发向后梳，眉骨坚实，双唇收紧。强光照到额头、鼻梁、脸颊和嘴唇，眼窝、下颌下方和大部分颈部则留在厚重阴影里。右下方露出白衬衫领口和深色外套，随后与近黑的周围融为一体。左侧是一面难以辨清的粗糙墙面或城市表面，灰色斑块、刮擦痕迹与竖向条纹暗示岁月，却不具体交代地点。亮色斑点、划痕与胶片般的颗粒同时散在面部和背景上。裁切足够近，强调鼻子的三角形突出和视线的抬起，又在面前保留一点负空间。对比刻意严厉：中灰调被压缩，少数受光平面从密集黑色中凸显。坚实的面部边缘与磨损、部分消失的背景轮廓交替。人物显得静止，斑驳表面却在四周加入视觉躁动。整幅画借助向上运动的方向、深重阴影与旧黑白印件的损伤肌理，传达私密的强烈情绪。",
+  "style_prompt_en": "The monochrome cinematic image uses severe chiaroscuro, compressed midtones, and dense black masses interrupted by a few sharply lit gray-white planes. A close crop places the main volume against a narrow strip of rough negative space. Strong directional light from high on one side creates angular transitions, while the far side falls almost entirely into darkness. Film grain, white specks, scratches, and vertical abrasions sit visibly over both subject and ground, giving the surface an aged, damaged-print character. Clear structural edges coexist with areas lost to shadow and distressed texture. The composition keeps visual tension near an upward diagonal and leaves little decorative relief. Its materials appear dry and gritty rather than polished. The whole frame feels austere and intense through the combination of sculptural light, deep shadow, and weathered monochrome texture.",
+  "style_prompt_zh": "这幅黑白电影感图像使用严厉的明暗对照、压缩的中间调和浓密黑色体量，只由少数受强光照亮的灰白平面打断。近距离裁切把主要体积置于一条狭窄而粗糙的负空间前。来自一侧高处的强烈定向光创造棱角分明的过渡，远侧则几乎全部落入黑暗。胶片颗粒、白色斑点、划痕和竖向磨损同时覆盖主要形体与背景，使表面具有陈旧、受损印件的质地。清晰的结构边缘与隐入阴影和磨旧肌理的区域并存。构图让视觉张力停在向上的斜线附近，几乎没有装饰性的缓冲。材质显得干燥而粗粝，而非光洁。整幅画因雕塑般的光、深重阴影和旧化黑白肌理的结合，显得严峻而强烈。",
+  "theme_en": "A man looking upward in a weathered monochrome frame",
+  "theme_zh": "旧化黑白画面中仰望的男子",
+  "wh_ratio": "1:1",
+  "id": "0282",
+  "name": "Tim Bradstreet",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/tim-bradstreet",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/tim-bradstreet.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "39e3f4306fb6ef9956cb67a83156e34506f2d5ffb09d32b9a3095233fa549ad3",
+    "gpt_submission_prompt": "A stark black-and-white cinematic portrait shows a man in side profile turning his face toward a light above and to the left. He occupies the right two-thirds of the frame, with dark hair swept back, a firm brow, and a set mouth. Strong illumination catches the forehead, bridge of the nose, cheek, and lip, leaving the eye socket, underside of the jaw, and much of the neck in heavy shadow. A white shirt collar and dark jacket appear at the lower right before merging into nearly black surroundings. The left side holds an indistinct rough wall or urban surface, its patches of gray, scraped marks, and vertical streaks suggesting age without specifying a location. Bright specks, scratches, and film-like grain scatter across both face and background. The crop is close enough to emphasize the triangular projection of the nose and the rise of the gaze, but retains a little negative space ahead of the face. Contrast is deliberately severe: middle grays remain compressed, and the few illuminated planes stand out against dense black. Hard facial edges alternate with distressed, partially lost background contours. The figure feels still, while the mottled surface adds visual unrest around him. The whole frame conveys private intensity through upward direction, deep shadow, and the damaged texture of an old monochrome print.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "d8648b79b2ca28ddb3b26c37d57d23d19e9ebfddb20099cda395fb323d2da48d",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

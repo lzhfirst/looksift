@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square cinematic photograph shows a red-haired young woman seated outdoors at golden hour. She faces slightly left with her eyes closed or nearly closed and her chin raised into warm light. Wind lifts loose copper strands around her face. A dark long-sleeved bodice forms a deep central shape, while a voluminous red skirt spreads across the grass at the lower edge. The background is a soft blur of low vegetation, distant land, and luminous amber sky, with the sun just beyond the left edge. Strong back and side light rims the hair in gold and catches the cheek and throat; the front of the dress stays near black. The red fabric has folds and small highlights that make it distinct from the dark top. The pose is still and inward, with hands resting low in the lap. A shallow depth of field turns the landscape into atmospheric color rather than specific detail. Warm orange and rust dominate, balanced by brown, black, and muted green in the ground. The low viewpoint and close crop keep the face and draped fabric central while preserving a sense of open air. The whole image feels romantic, quiet, and slightly melancholy, with light and movement in the hair carrying the emotion.",
+  "full_prompt_zh": "一幅方形电影感照片描绘一位红发年轻女子在金色时分坐在户外。她略朝左，双眼闭起或几乎闭起，抬起下巴迎向暖光。风吹起脸旁松散铜色发丝。深色长袖上衣形成中央暗块，一条宽大的红裙铺开在下缘草地上。背景是低矮植物、远地与琥珀亮天的柔化色团，太阳刚在左边缘外。强逆侧光给头发镶金边，照到面颊与喉部；上衣正面保留近黑。红布有褶皱和小高光，与深上衣区分。姿态安静而内向，双手低放在膝前。浅景深把景观转为空气色彩，而非具体细节。暖橙和锈红占主导，由地面的棕、黑与低调绿平衡。低视角与贴近裁切让脸和垂布居中，同时保留露天空气感。整体浪漫、安静而略忧郁，发丝上的光与运动承载情绪。",
+  "style_prompt_en": "Cinematic outdoor photography uses golden-hour backlight, shallow depth of field, and a warm restrained palette. Amber rim light catches fine moving strands and raised surfaces, while broad near-black areas preserve depth. Rust red folds, muted green ground, and soft brown distance support the luminous focal area. The background becomes creamy atmospheric blur rather than descriptive scenery. Edges alternate between glowing hair, crisp nearby fabric, and dissolved far forms. The composition feels intimate but open to the air, with a still emotional center and a gentle suggestion of wind.",
+  "style_prompt_zh": "电影感户外摄影运用金色时分逆光、浅景深与温暖克制配色。琥珀轮廓光照住细小飘动线条与凸起表面，大片近黑保留纵深。锈红布褶、低调绿地和柔棕远景支撑发亮焦点。背景化成奶油般空气模糊，而非描述性景观。边缘在发亮细发、清楚近布与消隐远形间切换。构图亲密却向空气打开，情绪中心静止，同时轻轻暗示风。",
+  "theme_en": "A red-haired woman seated in a dark dress at golden hour",
+  "theme_zh": "金色时分穿深裙坐着的红发女子",
+  "wh_ratio": "1:1",
+  "id": "3877",
+  "name": "TJ Drysdale",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/tj-drysdale",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "5b810684192df9c3ff023253e794529ed22d9ee96fb97a88681dc778bb8eb058",
+    "gpt_submission_prompt": "A square cinematic photograph shows a red-haired young woman seated outdoors at golden hour. She faces slightly left with her eyes closed or nearly closed and her chin raised into warm light. Wind lifts loose copper strands around her face. A dark long-sleeved bodice forms a deep central shape, while a voluminous red skirt spreads across the grass at the lower edge. The background is a soft blur of low vegetation, distant land, and luminous amber sky, with the sun just beyond the left edge. Strong back and side light rims the hair in gold and catches the cheek and throat; the front of the dress stays near black. The red fabric has folds and small highlights that make it distinct from the dark top. The pose is still and inward, with hands resting low in the lap. A shallow depth of field turns the landscape into atmospheric color rather than specific detail. Warm orange and rust dominate, balanced by brown, black, and muted green in the ground. The low viewpoint and close crop keep the face and draped fabric central while preserving a sense of open air. The whole image feels romantic, quiet, and slightly melancholy, with light and movement in the hair carrying the emotion.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "52989d63d2c6ee552cabfcf23293a5025e27fbeb6dffa93516436db3e75ada7f",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square long-exposure night photograph shows streams of colored vehicle lights sweeping horizontally across a dark street. Red, orange, yellow, cyan, and white lines enter from the left edge and stretch toward the middle right, layered at different heights like translucent ribbons. Some trails are sharp narrow strokes; others widen into soft glowing bands. Behind them, the outline of a leafless tree stands near the center, its dark branches partially hidden by the light. A tall palm tree rises at the far right against a deep teal evening sky. Low houses and a few warm windows sit across the right background, with a small bright light near street level. The road occupies the lower third in charcoal and brown, reflecting thin orange and red streaks on its uneven surface. Curb lines and shadowed pavement patches remain visible where the trails thin out. The moving lights appear to pass quickly through the frame, while the trees and buildings stay fixed and relatively crisp. The exposure lets multiple moments overlap into one continuous flow, with no clearly resolved car body at the center. The brightest cluster lies just left of center, creating a warm flare that radiates into the surrounding blue and red trails. The composition balances kinetic horizontal marks against the static vertical palm and tree trunks. Darkness at the top and bottom gives the ribbons room to glow, and slight grain keeps the scene photographic rather than purely abstract.",
+  "full_prompt_zh": "一幅方形长曝光夜景摄影呈现彩色车灯流横向扫过昏暗街道。红、橘、黄、青蓝和白线从左缘进入，伸向中央偏右，在不同高度叠成半透明带。有些轨迹是锐利细线，有些扩成柔亮光带。其后，一棵落叶树的轮廓立在中央附近，深色枝条部分被光遮住。最右侧一棵高棕榈在深青蓝傍晚天空前升起。右后方有低矮房屋和几扇暖窗，街面附近一点亮光。道路占下三分之一，呈炭黑和褐色，不平表面映出细橘红线。光轨变稀处仍可见路缘线和阴影路面斑块。移动灯光似快速穿过画幅，树与房屋则固定且较清楚。曝光把多个瞬间叠成连续流动，中部没有清楚完整的车身。最亮簇落在中央偏左，形成暖色眩光，向周围蓝红轨迹辐射。构图以有动势的水平笔形平衡静止竖向棕榈和树干。上下黑暗给彩带发光空间，轻颗粒让场景仍具摄影感，而非纯抽象。",
+  "style_prompt_en": "A long-exposure photographic treatment turns motion into layered horizontal ribbons of red, amber, white, and cyan against a deep teal-black field. Thin sharp light lines interleave with wider translucent smears, crossing a darker lower plane that carries broken reflections. Stationary vertical silhouettes remain comparatively crisp and provide scale amid the luminous flow. A concentrated warm flare near one side anchors the image, while the trails taper and dim toward the opposite side. Low-light grain and slight optical bloom soften the brightest edges without erasing the fine streaks. Most of the frame stays dark, giving the colored paths strong contrast. The rhythm is fast and lateral, countered by a few still upright marks and a quiet upper sky.",
+  "style_prompt_zh": "长曝光摄影处理把运动化为深青黑底上的层叠红、琥珀、白和青色水平彩带。细锐光线与更宽半透明擦影交错，穿过带破碎倒影的深色下平面。静止竖向剪影相对清楚，在亮流里提供尺度。一侧集中的暖眩光固定图像，轨迹朝对侧逐渐收细、变暗。弱光颗粒与轻微光学泛光柔化最亮边缘，却不抹掉细线。画幅大部保持暗，让彩色路径反差强烈。节奏迅速且横向，被少数静止竖痕和安静上部天空抵住。",
+  "theme_en": "Colored traffic light trails crossing a dark city street",
+  "theme_zh": "夜色城市街道上掠过的彩色车灯轨迹",
+  "wh_ratio": "1:1",
+  "id": "2819",
+  "name": "Slow shutter speed",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/slow-shutter-speed",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/slow-shutter-speed.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "5ba772daf3c0732136f1c910a6f6f60344712abe1a8cb6d5f7fc6c9747728cbe",
+    "gpt_submission_prompt": "A square long-exposure night photograph shows streams of colored vehicle lights sweeping horizontally across a dark street. Red, orange, yellow, cyan, and white lines enter from the left edge and stretch toward the middle right, layered at different heights like translucent ribbons. Some trails are sharp narrow strokes; others widen into soft glowing bands. Behind them, the outline of a leafless tree stands near the center, its dark branches partially hidden by the light. A tall palm tree rises at the far right against a deep teal evening sky. Low houses and a few warm windows sit across the right background, with a small bright light near street level. The road occupies the lower third in charcoal and brown, reflecting thin orange and red streaks on its uneven surface. Curb lines and shadowed pavement patches remain visible where the trails thin out. The moving lights appear to pass quickly through the frame, while the trees and buildings stay fixed and relatively crisp. The exposure lets multiple moments overlap into one continuous flow, with no clearly resolved car body at the center. The brightest cluster lies just left of center, creating a warm flare that radiates into the surrounding blue and red trails. The composition balances kinetic horizontal marks against the static vertical palm and tree trunks. Darkness at the top and bottom gives the ribbons room to glow, and slight grain keeps the scene photographic rather than purely abstract.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "17f2f756b00c026e196f541fbc8a75d25792a221d00070691313b096ce1b8abf",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

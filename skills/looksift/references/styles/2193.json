@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square whimsical storybook illustration shows a tall thin green creature striding up a grassy slope through heavy rain. It wears a tall red-and-white striped hat and a loose red neck scarf that streams behind it. One raised hand grips the curved handle of a broad rust-red umbrella, tilted against the wind above its head. Its long fuzzy legs take an exaggerated running step, and its narrow tail curls backward. A much smaller yellow creature follows a short distance behind on the same path, its little arms raised as it runs. The hillside rises from lower left to lower right in rough bands of green, ocher, and pale gray. Overhead, a huge charcoal and navy storm cloud hangs low, filling most of the upper half with dense diagonal brush marks. Slanted white dashes of rain cross the open gap between cloud and hill. A brighter blue-gray break in the sky behind the figures separates their silhouettes from the dark cloud. The umbrella is the strongest warm color block, echoed by the scarf and hat stripes. Thick, scratchy paint and ink-like black contours give the grassy slope, fur, and cloud an energetic handmade texture. Light is diffuse storm light, with a pale strip along the horizon and no crisp shadow. The figures move to the right against the weather, giving the scene a playful sense of urgency. Dark sky weight is balanced by the bright low path and lively repeated diagonals of rain, grass, and legs.",
+  "full_prompt_zh": "一幅方形奇想绘本插画呈现一个高瘦绿色生物冒着大雨跨步爬上草坡。它戴高高的红白条纹帽，松散红围巾向身后飘。抬起的一只手握住宽大铁锈红雨伞的弯柄，伞在头顶迎风倾斜。长长毛绒腿迈出夸张跑步动作，细尾巴向后卷。一个更小的黄色生物沿同一道路在后方追赶，边跑边举着小胳膊。山坡从左下向右下升起，以粗糙的绿、赭和浅灰色带组成。头顶巨大炭灰与海军蓝暴风云压得很低，密集斜向笔痕填满上半幅大部。斜落白色雨线穿过云与坡之间的空隙。人物后方较亮的蓝灰天隙把它们的剪影从深云前分开。伞是最强暖色色块，围巾和帽条纹与之呼应。厚重、刮擦感颜料和墨线般黑轮廓，让草坡、毛发与云有活跃的手工肌理。光是漫散风暴光，地平线有浅色光带，没有清楚投影。人物向右顶着天气前进，令场景带玩笑般急迫感。深天空重量由明亮低处路径、以及雨线、草和腿的重复斜线平衡。",
+  "style_prompt_en": "A lively hand-painted storybook surface sets a large dark blue-charcoal mass over a narrow, sloping pale ground. Scratchy diagonal strokes and short white dashes create wind and rain movement throughout the frame. A compact rust-red curved accent rides above two slender yellow-green forms, making the warm color immediately legible against cool storm tones. Black ink-like contours remain slightly uneven and expressive, while fuzzy short marks soften the main shapes. A pale blue-gray interval between dark upper mass and textured lower slope separates silhouettes and supplies diffuse light. Shadow is broad and atmospheric rather than sharply cast. The composition moves uphill through repeated diagonals, balancing the oppressive cloud area with playful, quick-footed forms and rough grassy marks.",
+  "style_prompt_zh": "活泼手绘绘本表面把大片深蓝炭灰团块压在狭窄倾斜浅色地面上。刮擦状斜笔与短白划痕在全幅制造风雨运动。一处紧凑铁锈红弧形重音悬在两道细长黄绿形体上方，让暖色在冷风暴调中立即可辨。黑墨线般轮廓略不均匀且富表情，短毛状笔痕又柔化主体。深上部与有肌理下坡之间的浅蓝灰间隙分开剪影并提供漫射光。阴影宽阔而空气化，并非清晰投影。构图沿重复斜线向上移动，以压迫的云域平衡轻快的细形体与粗草笔痕。",
+  "theme_en": "A tall green creature running with a red umbrella in the rain",
+  "theme_zh": "高个绿色生物在雨中撑红伞奔跑",
+  "wh_ratio": "1:1",
+  "id": "2193",
+  "name": "Dr. Seuss",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/dr-seuss",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/dr-seuss.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "3585a10bfb933a7040d540e458cae3732d08fbc73383e1836731af9f47784595",
+    "gpt_submission_prompt": "A square whimsical storybook illustration shows a tall thin green creature striding up a grassy slope through heavy rain. It wears a tall red-and-white striped hat and a loose red neck scarf that streams behind it. One raised hand grips the curved handle of a broad rust-red umbrella, tilted against the wind above its head. Its long fuzzy legs take an exaggerated running step, and its narrow tail curls backward. A much smaller yellow creature follows a short distance behind on the same path, its little arms raised as it runs. The hillside rises from lower left to lower right in rough bands of green, ocher, and pale gray. Overhead, a huge charcoal and navy storm cloud hangs low, filling most of the upper half with dense diagonal brush marks. Slanted white dashes of rain cross the open gap between cloud and hill. A brighter blue-gray break in the sky behind the figures separates their silhouettes from the dark cloud. The umbrella is the strongest warm color block, echoed by the scarf and hat stripes. Thick, scratchy paint and ink-like black contours give the grassy slope, fur, and cloud an energetic handmade texture. Light is diffuse storm light, with a pale strip along the horizon and no crisp shadow. The figures move to the right against the weather, giving the scene a playful sense of urgency. Dark sky weight is balanced by the bright low path and lively repeated diagonals of rain, grass, and legs.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "24136b33e8822f7b5c477ca3af965a2eeb89309fc6211b4c2f810a6b375e060e",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

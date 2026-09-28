@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white noir comic image centers on a dark-haired woman seated at a bar, chin resting on one hand. Her upper body fills the right half of the composition, and her short wavy bob frames a pale face with arched brows, dark lips and an outward, distant gaze. She wears a sleeveless black dress whose broad dark shape contrasts strongly with her white arms and the pale counter. A stemmed cocktail glass stands just to her right, its triangular bowl outlined against the light surface. The bar behind her is drawn in layered gray lines: hanging lights, bottles and patrons gradually dissolve into a pale, busy distance. At the left edge, two smaller rectangular inset panels show a couple at a table above and a solitary seated figure below. These brief scenes are separated by narrow white gutters, while the central woman remains much larger and more sharply modeled. Thick areas of solid black alternate with slender ink contours and gray brush texture, producing bold graphic rhythm across the frame. Overhead interior light creates bright highlights on her face and arms, with the dress and hair remaining deep black. The overall composition uses a poised central figure and small narrative fragments to create a cool, introspective barroom mood.",
+  "full_prompt_zh": "一幅方形黑白黑色电影漫画以一位坐在酒吧、单手托腮的黑发女子为中心。她上半身填满构图右半，短波浪发围住浅色脸，脸上有弯眉、深唇和望向画外的遥远目光。她穿无袖黑裙，宽阔深色形体与白皙手臂及浅色吧台强烈对比。一只高脚鸡尾酒杯就在她右侧，三角杯身从浅桌面上勾出。她身后的酒吧以层层灰线描画：吊灯、瓶子和客人逐渐消融进浅色而忙碌的远处。左缘两块较小矩形插格，上方是一对坐在桌边的人，下方是一位独坐人物。窄白沟隔开这些短暂场景，而中央女子更大、塑形也更清楚。大块实黑与纤细墨轮廓及灰色刷笔肌理交替，在画面形成鲜明图像节奏。室内顶光在她脸与手臂上造成亮点，裙子和头发则保持浓黑。整体构图用端坐的中心人物和细小叙事片段营造清冷内省的酒吧气氛。",
+  "style_prompt_en": "A noir comic treatment is organized by decisive black silhouettes, exposed white fields and a limited range of brushed grays. Thick, smooth contour lines clarify the focal form, while peripheral structures dissolve into finer sketch marks and soft tonal grain. Small inset regions can vary pacing, but one much larger shape carries the emotional center. Value contrast is high: pale lit planes abut nearly featureless dark masses, with only narrow midtone transitions. Overhead interior light creates clean highlights and compact shadows rather than colorful atmosphere. Simple geometric framing and elegant curves coexist, producing a graphic image that feels poised, cinematic and slightly melancholy.",
+  "style_prompt_zh": "这种黑色电影漫画处理由果断的黑色剪影、露出的白色区域与有限刷笔灰阶组织。厚而光滑的轮廓澄清焦点形体，外围结构则融为更细的速写痕与柔和灰颗粒。小型插格可改变节奏，但一个更大的形体承担情绪中心。明度对比强：浅亮平面紧邻几乎无细节的深色团块，中间过渡很窄。室内顶光带来干净亮面和紧凑阴影，而非彩色气氛。简明几何框架与优雅曲线并置，形成端庄、电影感且略带忧郁的图像。",
+  "theme_en": "A dark-haired woman seated at a bar in a black-and-white noir comic",
+  "theme_zh": "黑白黑色电影漫画中坐在酒吧里的黑发女子",
+  "wh_ratio": "1:1",
+  "id": "3821",
+  "name": "Darwyn Cooke",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/darwyn-cooke",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "8aa4f5409b9d66dc730c2b6415f5c2ffa43d84460edee89a4ddbb13ca9899c46",
+    "gpt_submission_prompt": "A square black-and-white noir comic image centers on a dark-haired woman seated at a bar, chin resting on one hand. Her upper body fills the right half of the composition, and her short wavy bob frames a pale face with arched brows, dark lips and an outward, distant gaze. She wears a sleeveless black dress whose broad dark shape contrasts strongly with her white arms and the pale counter. A stemmed cocktail glass stands just to her right, its triangular bowl outlined against the light surface. The bar behind her is drawn in layered gray lines: hanging lights, bottles and patrons gradually dissolve into a pale, busy distance. At the left edge, two smaller rectangular inset panels show a couple at a table above and a solitary seated figure below. These brief scenes are separated by narrow white gutters, while the central woman remains much larger and more sharply modeled. Thick areas of solid black alternate with slender ink contours and gray brush texture, producing bold graphic rhythm across the frame. Overhead interior light creates bright highlights on her face and arms, with the dress and hair remaining deep black. The overall composition uses a poised central figure and small narrative fragments to create a cool, introspective barroom mood.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "86e48dbb4a30096162083531bdb280f137c1141ee1005e79d82b87a8626f4591",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

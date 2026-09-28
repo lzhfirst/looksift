@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square painterly city scene shows three men walking away across a rain-soaked quay beside blue water at dusk. The foreground is a broad turquoise pavement, its dark joints and irregular brush marks visible through shallow puddles. Long black reflections of the men stretch toward the lower edge, broken by wet patches of teal and indigo. The three figures occupy the middle center, seen from behind. Each wears a dark coat and brimmed hat; the left man carries a rectangular case at his side, and the right man holds a smaller dark object. They are close together yet separated by narrow strips of blue light. Beyond them, low waterfront buildings and a moored vessel appear as dim navy silhouettes. A few warm orange lamps shine near the shore and repeat as thin vertical streaks in the water and wet ground. The horizon is softened by mist, merging with a violet-gray sky that has muted peach and gold touches above the rooftops. The broad surface is painted in energetic short and dragged strokes, leaving small flecks of contrasting color in the pavement rather than a smooth photographic reflection. Diffuse evening light from the clouded sky keeps the scene cool, while the isolated lamps provide the only concentrated warm points. There are no readable signs or distinct faces. The overall composition draws the eye along the three dark walkers into a hazy industrial waterfront, balancing solitude, movement and luminous rain.",
+  "full_prompt_zh": "这幅方形绘画式城市景色里，三名男子在黄昏背向观众，穿过蓝色水边雨湿的码头。前景是宽阔青绿铺地，浅水洼下仍可见深色接缝和不规则笔痕。三人的长黑倒影伸向下缘，被青绿与靛蓝湿斑打碎。三位人物位于中段中央，皆从背面可见，穿深外套、戴有檐帽；左边男子在身旁提着矩形箱子，右边男子握一件较小深色物。他们彼此靠近，又被窄窄蓝光分开。后方，低矮水岸建筑和一艘停靠船只显成暗海军蓝剪影。岸边几盏暖橙灯亮着，在水面和湿地上重复成细竖光痕。地平线被薄雾柔化，融入带有屋顶上方压低桃金色笔触的淡紫灰天空。宽阔表面由有活力的短笔和拖笔画出，铺地上留着对比小色点，而非平滑摄影倒影。多云天空的傍晚漫射光让景色保持清冷，孤立路灯提供唯一集中的暖点。没有可读标识或清楚面孔。整体构图沿三道深色步行身影通向朦胧工业水岸，平衡孤独、移动与发亮雨水。",
+  "style_prompt_en": "The painting uses broken, dragged strokes to turn wet surfaces into shimmering fields of turquoise, indigo and violet. Dark upright silhouettes provide clear anchors against the reflective low-value ground, while tiny orange lights puncture the cool palette. Edges soften rapidly in mist, but near brush marks and pavement divisions stay active and tactile. Diffuse evening light spreads broadly without a single sharp beam; repeated vertical reflections organize depth and movement. The composition carries a low horizon and generous luminous foreground, producing a melancholy but vivid urban rhythm.",
+  "style_prompt_zh": "这种绘画用断续拖笔把湿表面化成青绿、靛蓝与紫色闪动色域。深色直立剪影在低明度反光地面前提供清楚锚点，细小橙灯刺穿冷配色。边缘在雾中迅速柔化，近处笔痕和铺地分隔仍活跃而可触。傍晚漫射光宽泛铺开，没有单一道锐利光束；重复竖向倒影组织纵深与动势。构图地平线低、发亮前景宽裕，形成忧郁却鲜明的都市节奏。",
+  "theme_en": "Three men walking across a rain-soaked blue quay at dusk",
+  "theme_zh": "三名男子在黄昏穿过雨湿的蓝色码头",
+  "wh_ratio": "1:1",
+  "id": "4223",
+  "name": "Alexander Millar",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/alexander-millar.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "7506245bd923db8b1b293e507a2dae683820a734b516b08c97e7ac6534ce9cd5",
+    "gpt_submission_prompt": "A square painterly city scene shows three men walking away across a rain-soaked quay beside blue water at dusk. The foreground is a broad turquoise pavement, its dark joints and irregular brush marks visible through shallow puddles. Long black reflections of the men stretch toward the lower edge, broken by wet patches of teal and indigo. The three figures occupy the middle center, seen from behind. Each wears a dark coat and brimmed hat; the left man carries a rectangular case at his side, and the right man holds a smaller dark object. They are close together yet separated by narrow strips of blue light. Beyond them, low waterfront buildings and a moored vessel appear as dim navy silhouettes. A few warm orange lamps shine near the shore and repeat as thin vertical streaks in the water and wet ground. The horizon is softened by mist, merging with a violet-gray sky that has muted peach and gold touches above the rooftops. The broad surface is painted in energetic short and dragged strokes, leaving small flecks of contrasting color in the pavement rather than a smooth photographic reflection. Diffuse evening light from the clouded sky keeps the scene cool, while the isolated lamps provide the only concentrated warm points. There are no readable signs or distinct faces. The overall composition draws the eye along the three dark walkers into a hazy industrial waterfront, balancing solitude, movement and luminous rain.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "4b3baac05e1e031c956c9355832e07d0802b4f1ac3f611d5c2f54f7499c44cd7",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

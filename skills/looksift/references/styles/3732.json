@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square sunlit harbor oil painting looks down a narrow water channel between worn working buildings and stone quays. In the lower-left foreground, a small white dinghy with a warm orange interior points into the channel, its hull mirrored in softly rippled blue-green water. Farther back near the right wall, a second boat painted turquoise and orange floats alongside a rough wooden landing. A person appears as a small warm-colored figure in or near it. The right building rises directly from a gray-brown stone foundation, its pale blue-gray siding worn, patched, and shadowed under a low roof. On the left, darker sheds and stacked quay walls compress the passage. At the far end, large fishing vessels with white decks and crowded masts sit across a hazy opening to the outer harbor. Several white gulls skim or rest on the water in the lower-right quarter, their bodies bright against deep green reflections. The channel carries fragmented vertical reflections of boats, masonry, sky, and dark hulls. Paint is thick and broken along stone edges and building siding, then dragged in broader horizontal and vertical strokes across the water. Warm sunlight from the upper left catches the small boats and the upper wall, while tight spaces under the wharves remain cool and dark. The composition guides the eye from intimate brightly painted craft through a working inlet toward the larger ships beyond, balancing lively color with weathered coastal texture.",
+  "full_prompt_zh": "一幅方形日照港口油画沿狭窄水道望去，水道夹在磨旧工作建筑与石码头之间。左下近景，一只白色小艇露出暖橙色内部，船头伸向渠里，船身在柔波蓝绿水面留下倒影。稍远右墙旁，第二只青绿与橙色小船靠在粗木泊台边。船里或船边有个暖色小人影。右侧房屋直接从灰棕石基升起，浅蓝灰板墙磨旧、修补，低屋顶下有阴影。左侧较暗棚屋和层叠码头墙压窄通道。尽头，大型渔船带白色甲板和密集桅杆，停在通向外港的朦胧开口处。几只白鸥在右下四分之一水面掠飞或停浮，亮身体对着深绿倒影。水道有船、砌石、天空与深船身的破碎竖向反光。石边和房屋木板用厚而断的颜料，水面则以更宽的横竖拖笔处理。左上方暖日光照到小船与上方墙面，码头下紧窄区域保持冷暗。构图让视线从亲近的彩色小船穿过工作水巷，走向后方大船，在活跃色彩与风化海岸肌理之间平衡。",
+  "style_prompt_en": "Sunlit harbor-style oil painting uses broken, confident strokes to separate bright small accents from weathered large masses. Build water from layered blue-green and dark emerald strokes with vertical fragments of reflected color. Let warm orange and white highlights punctuate cool stone, aged wood, and shadowed hull tones. Close side forms can create a narrowing passage that opens into a hazy, complex distance; this spatial method transfers beyond a harbor. Vary paint handling from thick scumbled edges to smoother dragged reflections. Directional daylight gives lively sparkle while the palette retains working, worn texture.",
+  "style_prompt_zh": "日照港口气息油画以断续而果断的笔触区分亮色小重点与风化的大团块。水面由层叠蓝绿和深祖母绿色笔触构成，穿插竖向碎反光。暖橙与白色亮点落在冷石、旧木和阴影深形上。两侧近处形体可形成收窄通道，再通向复杂朦胧远景；这种空间方法可迁移到港口之外。笔触从厚擦边缘变换为较平滑拖曳倒影。定向日光带来活跃闪光，配色仍保留工作环境的磨旧肌理。",
+  "theme_en": "Small bright boats in a narrow harbor channel beside weathered wharf buildings",
+  "theme_zh": "小船停在旧码头建筑旁的狭窄港渠",
+  "wh_ratio": "1:1",
+  "id": "3732",
+  "name": "Anthony Thieme",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/anthony-thieme",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "4ababceb8f72f8ba6ae7e0290c4aa02bd367463d6d0fe5ee1a2c91884c92c153",
+    "gpt_submission_prompt": "A square sunlit harbor oil painting looks down a narrow water channel between worn working buildings and stone quays. In the lower-left foreground, a small white dinghy with a warm orange interior points into the channel, its hull mirrored in softly rippled blue-green water. Farther back near the right wall, a second boat painted turquoise and orange floats alongside a rough wooden landing. A person appears as a small warm-colored figure in or near it. The right building rises directly from a gray-brown stone foundation, its pale blue-gray siding worn, patched, and shadowed under a low roof. On the left, darker sheds and stacked quay walls compress the passage. At the far end, large fishing vessels with white decks and crowded masts sit across a hazy opening to the outer harbor. Several white gulls skim or rest on the water in the lower-right quarter, their bodies bright against deep green reflections. The channel carries fragmented vertical reflections of boats, masonry, sky, and dark hulls. Paint is thick and broken along stone edges and building siding, then dragged in broader horizontal and vertical strokes across the water. Warm sunlight from the upper left catches the small boats and the upper wall, while tight spaces under the wharves remain cool and dark. The composition guides the eye from intimate brightly painted craft through a working inlet toward the larger ships beyond, balancing lively color with weathered coastal texture.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "eba3854994725e6498ad130219e192d2afbbae38397913b8d090f9d1fdcfba7b",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

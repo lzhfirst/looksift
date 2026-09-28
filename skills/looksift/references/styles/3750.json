@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A wide shadowed arch frames a still Alpine lake and a chain of blue mountains beneath a pale, cloud-filled sky. The dark curved opening occupies the top and sides of the square image, creating a sheltered foreground from which the luminous distance is viewed. At left, a weathered lakeside house with a projecting wooden balcony catches warm afternoon light. A narrow brown boat is moored against the stone edge below it, its bow pointing toward open water. Plants cluster around the threshold: small potted flowers at the base of the wall and delicate branches at the right edge. The lake stretches calmly into the center, reflecting muted turquoise, cream, and sky blue in long soft bands. Across the water, wooded slopes and a few tiny buildings fade into atmospheric haze; beyond them, multiple mountain ridges step back in progressively paler tones. Warm amber light strikes plaster, roof, stone paving, and clouds, while the framing arch remains nearly black. The composition uses this strong value contrast to draw the gaze through a quiet opening into an immense, inviting landscape. Architectural detail, foliage, and water are painted with patient small marks near the viewer, then simplified toward the distance. Edges shift from crisp stone and wood to soft mountain contours. The mood is tranquil and romantic, with a theatrical but natural passage from intimate shade to sunlit depth.",
+  "full_prompt_zh": "一道宽阔的阴影拱廊框住平静的阿尔卑斯山湖，以及浅色云天之下连绵的蓝色山脉。深色弧形开口占据方形画面的上方和两侧，形成一个有遮蔽的前景，观者从这里望向明亮远处。左侧，一幢风化的湖畔房屋带有外挑木阳台，沐浴在温暖的午后光中。下方，一只狭长的棕色小船系在石岸边，船头指向开阔水面。植物聚集在入口周围：墙脚有几盆小花，右缘伸入纤细树枝。湖水平静地延向中央，以柔长的色带映出柔和绿松石色、奶油白和天蓝。对岸的林坡和几处微小建筑渐入空气薄雾；更远处，多层山脊以越来越浅的色调逐级退后。温暖的琥珀光照亮灰泥、屋顶、石铺地和云层，框景拱廊则近乎黑色。构图利用这一强烈明暗对比，引导视线穿过安静开口，进入宏大而亲切的风景。近处的建筑细节、植物和水由耐心的小笔痕绘出，远处逐渐简化。边缘从清晰的石木转为柔软的山形。气氛宁静而浪漫，从亲近阴影进入阳光深处的过程富于舞台感，却仍显自然。",
+  "style_prompt_en": "A deep near-black foreground frame opens onto luminous, layered atmospheric distance. Warm amber and cream highlights meet cool turquoise, blue-grey, and softened green. Overlapping planes recede through progressively paler values and less defined edges. Close surfaces carry patient small strokes and tactile grain; distant areas blend into smooth air and water. Curving dark borders concentrate attention on a broad central opening, while narrow horizontal reflections calm the composition. Light is warm and angled, selecting a few edges without overpowering the softer middle values. The balance of intimate enclosure and expansive depth gives the painted surface a tranquil, romantic glow.",
+  "style_prompt_zh": "近黑色的深色前景框架通向明亮、层叠且充满空气感的远处。温暖的琥珀色和奶油白亮部与冷绿松石色、蓝灰及柔化的绿色相接。重叠平面凭借逐渐变浅的明度和越来越模糊的边缘后退。近处表面保有耐心的小笔触和可触摸颗粒，远处则融进平滑的空气与水。弯曲的深色边界把注意力集中到宽阔的中央开口，细长的水平倒影使构图安定。光线温暖而倾斜，选择性地照亮少数边缘，同时保留柔和的中间调。亲近的围合感与开阔深度之间的平衡让画面呈现宁静而浪漫的辉光。",
+  "theme_en": "An Alpine lake seen through a shadowed lakeside arch",
+  "theme_zh": "从阴影中的湖畔拱廊望向阿尔卑斯山湖",
+  "wh_ratio": "1:1",
+  "id": "3750",
+  "name": "Alois Arnegger",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/alois-arnegger",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "6ff514c47090c09c68a24804ccb6f8a297dbbc8065528df46c7104375c184d0b",
+    "gpt_submission_prompt": "A wide shadowed arch frames a still Alpine lake and a chain of blue mountains beneath a pale, cloud-filled sky. The dark curved opening occupies the top and sides of the square image, creating a sheltered foreground from which the luminous distance is viewed. At left, a weathered lakeside house with a projecting wooden balcony catches warm afternoon light. A narrow brown boat is moored against the stone edge below it, its bow pointing toward open water. Plants cluster around the threshold: small potted flowers at the base of the wall and delicate branches at the right edge. The lake stretches calmly into the center, reflecting muted turquoise, cream, and sky blue in long soft bands. Across the water, wooded slopes and a few tiny buildings fade into atmospheric haze; beyond them, multiple mountain ridges step back in progressively paler tones. Warm amber light strikes plaster, roof, stone paving, and clouds, while the framing arch remains nearly black. The composition uses this strong value contrast to draw the gaze through a quiet opening into an immense, inviting landscape. Architectural detail, foliage, and water are painted with patient small marks near the viewer, then simplified toward the distance. Edges shift from crisp stone and wood to soft mountain contours. The mood is tranquil and romantic, with a theatrical but natural passage from intimate shade to sunlit depth.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "ccb7aa27aafd2f242d7452b8290305f51392c577e548b9d975f3366676643021",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square landscape photograph looks from a high coastal viewpoint across a densely built town toward a broad mountain-ringed bay at sunset. The lower right is packed with weathered terracotta roofs and narrow streets, several windows beginning to glow. On a raised slope near the right third, a tall bell tower and domed church catch the last warm sunlight and stand clearly against distant blue peaks. The bay opens leftward into calm water, with a small dark boat near the near shore and faint chains of lights along the opposite coast. Above everything, layered clouds spread coral, gold and lavender across a large sky. The lighting belongs to blue hour meeting the remaining sunset: warm highlights cling to architecture while cool shadow fills the mountains and water. Fine detail persists in roofs and the church, yet distant ranges soften naturally through atmospheric haze. The composition has a gentle diagonal from the dark foreground town upward to the bright church and then across the sky toward the left horizon. Reflections and coastal lights are small and believable, not exaggerated. The image feels expansive and travel-oriented, but its material richness comes from old masonry, water and changing weather rather than postcard saturation. The whole frame remains balanced between a luminous sky and inhabited land.",
+  "full_prompt_zh": "一幅正方形风景照片从海岸高处俯望密集小镇和群山环绕的宽阔海湾，时值日落。右下方挤满风化陶土屋顶和狭窄街道，几扇窗开始发光。靠右三分之一的一处高坡上，钟楼和圆顶教堂接住最后的暖阳，在远处蓝色山峰前清楚立起。海湾向左敞开为平静水面，近岸停一艘深色小船，对岸沿线有模糊灯链。层叠云朵在大片天空铺开珊瑚、金色与淡紫。光线处于蓝调时刻和残余夕阳交接之际：暖亮部依附建筑，冷影填满群山和海水。屋顶与教堂保持细节，远山则经空气薄雾自然柔化。构图从深色前景小镇轻斜上升到明亮教堂，再越过天空指向左侧地平线。倒影与海岸灯火小而可信，没有夸张增强。画面开阔，有旅行摄影气息，但材料丰富性来自旧石墙、水与变化天气，而非明信片式过饱和。整幅在发亮天空和有人居住的陆地之间保持平衡。",
+  "style_prompt_en": "The style is luminous travel landscape photography with a high viewpoint, layered atmospheric distance and a sky occupying a generous share of the square frame. Warm sunset coral and gold meet cool blue-violet shadows in a controlled natural gradient. Fine near detail, softened distant contours, tiny practical lights and restrained water reflections build depth. The composition follows a gentle diagonal between dense lower texture and open upper air. Color remains rich but credible, emphasizing the meeting of weather, geography and inhabited surfaces.",
+  "style_prompt_zh": "这种风格是发亮的旅行风景摄影，采用高处视点、层叠空气距离与占据正方形画幅较大份额的天空。夕阳珊瑚色和金色以受控自然渐变交会冷蓝紫阴影。近处细节、柔化的远方轮廓、细小现场灯光与克制水面倒影共同建立纵深。构图沿细密下部肌理与敞开上方空气之间的缓和对角线行进。颜色丰富但可信，强调天气、地理与有人使用的表面相遇。",
+  "theme_en": "A coastal town and domed church above a sunset bay",
+  "theme_zh": "晚霞海湾上方的小镇与圆顶教堂",
+  "wh_ratio": "1:1",
+  "id": "1226",
+  "name": "Elia Locardi",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/elia-locardi",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/elia-locardi.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "41813fee85c807f686806a5630d0d0ec429a8a920fc32f93b61eb7db589bdccb",
+    "gpt_submission_prompt": "A square landscape photograph looks from a high coastal viewpoint across a densely built town toward a broad mountain-ringed bay at sunset. The lower right is packed with weathered terracotta roofs and narrow streets, several windows beginning to glow. On a raised slope near the right third, a tall bell tower and domed church catch the last warm sunlight and stand clearly against distant blue peaks. The bay opens leftward into calm water, with a small dark boat near the near shore and faint chains of lights along the opposite coast. Above everything, layered clouds spread coral, gold and lavender across a large sky. The lighting belongs to blue hour meeting the remaining sunset: warm highlights cling to architecture while cool shadow fills the mountains and water. Fine detail persists in roofs and the church, yet distant ranges soften naturally through atmospheric haze. The composition has a gentle diagonal from the dark foreground town upward to the bright church and then across the sky toward the left horizon. Reflections and coastal lights are small and believable, not exaggerated. The image feels expansive and travel-oriented, but its material richness comes from old masonry, water and changing weather rather than postcard saturation. The whole frame remains balanced between a luminous sky and inhabited land.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "c989f66efa6b7b5f05468e7e58d9a91301661351727f1184d9f8b6e91912cb02",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

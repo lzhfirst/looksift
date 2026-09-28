@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square dramatic seascape centers on an enormous turquoise wave rising and curling into a hollow tunnel. The wave's inner wall glows with translucent blue-green light, while the outer crest breaks into jagged white spray. Dark water churns across the lower frame, its ridges converging toward the luminous hollow. Beyond the crest, a rough mountain-like mass of water and foam rises under a nearly black storm sky. The scene contains no visible shoreline or figures, so the wave's scale feels elemental and immense. Deep teal, petrol blue, sea green, pale aqua, and cold silver organize the color, with the brightest area near the center of the curl. Strong side light seems to penetrate the thin water, revealing internal bands and fine streaming lines. Dense shadow fills the trough and upper corners, giving the glowing wave a sculptural three-dimensional presence. Spray and spindrift blur some edges, while the main curve remains forcefully defined. The surface feels cinematic and highly detailed, with wet gloss, foam particles, and streaked moving water. The composition spirals inward, drawing the viewer's eye through darkness to the cold light inside the wave. The whole frame is awe-filled, ominous, and physically powerful.",
+  "full_prompt_zh": "一幅方形戏剧性海景以一座巨大的青绿海浪为中心，它升起并卷成空心隧道。浪的内壁透出半透明蓝绿亮光，外侧浪脊碎成锯齿状白色飞沫。深色海水在下方翻涌，水脊向发亮的空洞汇聚。浪峰之外，一团粗粝的山般水体和泡沫在近黑的暴风天空下升起。画面没有可见海岸或人物，因此海浪尺度显得原始而巨大。深青、石油蓝、海绿、浅水蓝和冷银色组织配色，最亮处位于卷浪中心附近。强烈侧光仿佛穿透薄水层，显出内部色带和细细流线。深影填满波谷与上方角落，使发亮海浪具有雕塑般的立体感。飞沫和浪花模糊部分边缘，主弧线仍被有力界定。表面具有电影感和高度细节：湿亮水面、泡沫颗粒和被拉长的流动水纹。构图向内旋转，把视线从黑暗引入浪内冷光。整幅画令人敬畏、略带不祥，并充满物理力量。",
+  "style_prompt_en": "A cinematic storm-seascape language uses a large spiraling curve as the main structural form. Petrol blue, deep teal, sea green, pale aqua, and cold silver move from near-black troughs to translucent illuminated thin edges. Wet gloss, streaked flow lines, foam particles, and blurred spray make the surface active and physical. A concentrated cold light inside the curve draws the eye inward, while heavy shadow in the outer corners gives scale and menace. Strong modeling preserves sculptural volume in the moving form. The composition remains simple but forceful, with a deep tonal range and no decorative clutter.",
+  "style_prompt_zh": "电影感风暴海景语言以巨大旋转弧线作为主要结构。石油蓝、深青、海绿、浅水蓝和冷银色从近黑波谷过渡到半透明的受光薄边。湿亮表面、拉长流线、泡沫颗粒和模糊飞沫让表面活跃且符合物理感。弧线内部集中的冷光把视线引向里侧，外围角落的厚重阴影赋予尺度与威胁。强烈塑形保留运动形体的雕塑体积。构图简洁却有力，明暗范围深，没有装饰性杂物。",
+  "theme_en": "A giant turquoise wave twists into a hollow tunnel under a black storm sky",
+  "theme_zh": "巨大的青绿海浪在黑色暴风天空下卷成空心隧道",
+  "wh_ratio": "1:1",
+  "id": "4444",
+  "name": "Ray Collins",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/ray-collins.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "30b773c279fb70d1fa0d9f17891c141a914bb636873084ff772ebb67b6dabf8b",
+    "gpt_submission_prompt": "A square dramatic seascape centers on an enormous turquoise wave rising and curling into a hollow tunnel. The wave's inner wall glows with translucent blue-green light, while the outer crest breaks into jagged white spray. Dark water churns across the lower frame, its ridges converging toward the luminous hollow. Beyond the crest, a rough mountain-like mass of water and foam rises under a nearly black storm sky. The scene contains no visible shoreline or figures, so the wave's scale feels elemental and immense. Deep teal, petrol blue, sea green, pale aqua, and cold silver organize the color, with the brightest area near the center of the curl. Strong side light seems to penetrate the thin water, revealing internal bands and fine streaming lines. Dense shadow fills the trough and upper corners, giving the glowing wave a sculptural three-dimensional presence. Spray and spindrift blur some edges, while the main curve remains forcefully defined. The surface feels cinematic and highly detailed, with wet gloss, foam particles, and streaked moving water. The composition spirals inward, drawing the viewer's eye through darkness to the cold light inside the wave. The whole frame is awe-filled, ominous, and physically powerful.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "fe0a52101f988bd2e6492897771e4578278893b5d04ca44c493b9a679fa0f9f0",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "The painting shows a fashionable young woman seated at a table, leaning her left cheek into one hand. Her body turns slightly across the square while her gaze meets the viewer with a tired, self-possessed expression. Dark hair is piled high in a loose, sweeping arrangement; flyaway strands and quick black strokes break its silhouette. She wears a black jacket with large puffed shoulders over a high white blouse. A narrow red ribbon hangs at the throat, echoing the warm red upholstery of the chair behind her. One arm folds across the tabletop, where a few sheets of paper and faint drawing marks lie beneath her hand. A small glass of amber drink sits near the lower-left edge, catching a delicate highlight. The background is mostly warm cream and pale gray, crossed by unfinished pencil-like lines and rubbed patches of paint. The face receives the most careful attention: pink cheeks, red lips, and dark eyes are modeled softly against the vigorous surrounding marks. The jacket and hair are rendered with fast, broad black strokes, while the blouse and table dissolve into airy whites and ochres. Light appears to come from the front-left, brightening skin, paper, and glass without defining a detailed room. The composition feels spontaneous yet deliberate, the figure anchored by the chair and table while surrounding sketchwork seems to move around her. It carries the elegance and motion of a society portrait caught mid-thought.",
+  "full_prompt_zh": "油画描绘一位时髦的年轻女子坐在桌旁，用左手托着面颊。身体在方形画幅中略斜，目光直视观者，神情有些疲倦却自持。深发高高盘起，松散地向上飞扬，几缕发丝和快速黑色笔触打破轮廓。她穿肩部蓬起的黑色外套，内搭高领白衬衫。领口垂下一条细红丝带，呼应身后椅背的暖红色。另一只手臂横在桌面，手下有几张纸与淡淡素描痕迹。左下角一只小杯盛着琥珀色饮料，接住细微高光。背景大多是暖奶油白与浅灰，其间穿着未完成的铅笔般线条和擦磨色斑。面部得到最细致的刻画：粉色脸颊、红唇与深眼在四周有力笔痕里柔和成形。外套和头发由迅速宽阔的黑笔构成，衬衫与桌面则消融于通透白色和赭色。光似乎从左前方进入，照亮皮肤、纸张和玻璃，却不说明具体房间。构图自发而有意，人物由椅子和桌面固定，周围速写线条仿佛仍在流动，带着一幅沉思瞬间的优雅社交肖像气质。",
+  "style_prompt_en": "Use brisk, elegant oil painting with sweeping dark brushwork, unfinished sketch lines, and airy pale grounds. Concentrate soft, precise modeling in one focal area while surrounding forms remain loose and visibly worked. Balance black and warm cream with small red and amber accents. Let broad strokes describe fabric and movement, thin marks suggest secondary objects, and rubbed paint expose process. Keep illumination gentle and frontal-side, with a spontaneous yet composed square arrangement.",
+  "style_prompt_zh": "采用迅疾而优雅的油画方式，以飞动的深色宽笔、未收束素描线和通透浅底组织画面。在一个视觉焦点内集中柔和精确的塑形，周围形态则保持松动和可见制作痕迹。以黑色与暖奶油白为主，加入少量红色和琥珀色。宽笔表现材质与动势，细线暗示次要物件，擦磨颜料显露过程。用温和的侧前光维持自发却完整的方形构图。",
+  "theme_en": "Resting woman at a café table",
+  "theme_zh": "咖啡桌旁托腮的女子",
+  "wh_ratio": "1:1",
+  "id": "1785",
+  "name": "Giovanni Boldini",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/giovanni-boldini",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/giovanni-boldini.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "b2b7dccc252398bdc038071a1f9bb5688516ee96aceb0f4490068ff83302b474",
+    "gpt_submission_prompt": "The painting shows a fashionable young woman seated at a table, leaning her left cheek into one hand. Her body turns slightly across the square while her gaze meets the viewer with a tired, self-possessed expression. Dark hair is piled high in a loose, sweeping arrangement; flyaway strands and quick black strokes break its silhouette. She wears a black jacket with large puffed shoulders over a high white blouse. A narrow red ribbon hangs at the throat, echoing the warm red upholstery of the chair behind her. One arm folds across the tabletop, where a few sheets of paper and faint drawing marks lie beneath her hand. A small glass of amber drink sits near the lower-left edge, catching a delicate highlight. The background is mostly warm cream and pale gray, crossed by unfinished pencil-like lines and rubbed patches of paint. The face receives the most careful attention: pink cheeks, red lips, and dark eyes are modeled softly against the vigorous surrounding marks. The jacket and hair are rendered with fast, broad black strokes, while the blouse and table dissolve into airy whites and ochres. Light appears to come from the front-left, brightening skin, paper, and glass without defining a detailed room. The composition feels spontaneous yet deliberate, the figure anchored by the chair and table while surrounding sketchwork seems to move around her. It carries the elegance and motion of a society portrait caught mid-thought.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "a354356d6d1c44c826737a18dc5141933cfccffaa9a8e0499a53e4f960c4e6b1",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

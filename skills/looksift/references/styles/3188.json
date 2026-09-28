@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square midcentury magazine illustration captures a restaurant table from close range. In the foreground, a young woman in a sleeveless turquoise dress turns over her shoulder to look directly toward the viewer. One hand rests near her chin. Her dark cropped hair, sharply drawn eyes and coral lips form a vivid focal point against the pale tablecloth. An older man in a dark suit sits beside her in profile, looking toward the right. Behind them, several diners and a white-haired standing man fill a softly painted room. Glasses and plates on the table are suggested with quick reflective strokes rather than fully described. The composition works through overlapping figures: the woman's bright shoulder and dress dominate the left front, the older man's gray face creates a middle plane, and the distant guests fade into creamy gray and sage. Light is broad and indoor, catching faces, collars and glass rims while dark suits provide strong contrast. Loose brushwork and thin sketch lines remain visible around the background figures and furniture. The image feels like a paused social moment, with the woman's direct gaze interrupting the conversations around her. Turquoise provides the strongest color, accompanied by muted warm skin, charcoal and pale ivory. The cropped framing makes the dining room feel busy beyond the image's edges.",
+  "full_prompt_zh": "这幅方形世纪中期杂志插画从近处抓住餐厅桌边一刻。前景一位穿无袖青绿色裙的年轻女子回过肩，直望观者。一只手靠近下巴。深色短发、清楚画出的眼睛和珊瑚唇在浅色桌布前形成鲜明焦点。一位深西装老者坐在她旁边，以侧面朝右。身后数名客人和一位白发站立男子填满柔和绘制的房间。桌上杯盘由迅疾反光笔触暗示，而非完整描写。构图依靠身影层叠：女子的明亮肩头和裙子主导左前，老者灰色面容形成中层，远处客人淡入奶油灰与鼠尾草绿。室内光宽阔，照到脸、领口与玻璃杯边，深色西装提供强对比。背景人物和家具周围可见松散笔触与细草图线。画面像社交场合被暂停的一瞬，女子的直接目光打断周围谈话。青绿是最强色彩，辅以柔和暖肤色、炭色与浅象牙色。贴近的裁切使餐厅的繁忙延伸到画框之外。",
+  "style_prompt_en": "The midcentury illustration mixes confident ink-like drawing with loose opaque washes. A single vivid turquoise area stands out among ivory, charcoal, warm gray and muted sage. Broad indoor light models the central planes, while distant forms fade into abbreviated strokes. Overlapping shapes create a crowded but readable depth. Some edges are crisp and graphic; others remain sketchy and unfinished. The candid angle and restrained palette give the image a lively editorial feel.",
+  "style_prompt_zh": "这种世纪中期插画把有把握的墨线式绘图与松散不透明色洗结合。一块鲜明青绿从象牙白、炭色、暖灰和低饱和鼠尾草绿中跃出。宽阔室内光塑造中央平面，远处形体简化成短笔。重叠形状建立拥挤却易读的深度。有些边缘清脆而图形化，另一些保留草图般未完成感。随意截取的角度与节制色盘赋予图像活泼的编辑插画气息。",
+  "theme_en": "A woman in turquoise glancing back across a restaurant table",
+  "theme_zh": "餐厅桌边一位身穿青绿色衣服回望的女子",
+  "wh_ratio": "1:1",
+  "id": "3188",
+  "name": "Austin Briggs",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/austin-briggs",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "c83e3dc57d752307487d108f474951bc09ddfef1b0c00dc4b1efb81a25b2dc7d",
+    "gpt_submission_prompt": "A square midcentury magazine illustration captures a restaurant table from close range. In the foreground, a young woman in a sleeveless turquoise dress turns over her shoulder to look directly toward the viewer. One hand rests near her chin. Her dark cropped hair, sharply drawn eyes and coral lips form a vivid focal point against the pale tablecloth. An older man in a dark suit sits beside her in profile, looking toward the right. Behind them, several diners and a white-haired standing man fill a softly painted room. Glasses and plates on the table are suggested with quick reflective strokes rather than fully described. The composition works through overlapping figures: the woman's bright shoulder and dress dominate the left front, the older man's gray face creates a middle plane, and the distant guests fade into creamy gray and sage. Light is broad and indoor, catching faces, collars and glass rims while dark suits provide strong contrast. Loose brushwork and thin sketch lines remain visible around the background figures and furniture. The image feels like a paused social moment, with the woman's direct gaze interrupting the conversations around her. Turquoise provides the strongest color, accompanied by muted warm skin, charcoal and pale ivory. The cropped framing makes the dining room feel busy beyond the image's edges.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "086abe6be7cc9e19d45c9382f62f555a5ffc65410eda5650b7a43d63571f7463",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square fashion photograph places a young woman in a patterned robe amid an almost wall-to-wall mass of flowers. She faces the camera from slightly left of center, with a straight black fringe, dark eyes, and vivid red lips. Red, blue, turquoise, pink, orange, and violet blossoms surround her head and shoulders so tightly that there is almost no visible background. Her robe carries equally dense floral and geometric color, with a bright turquoise collar and red-orange lower section. Large flowers at the right and along the top edge overlap the space near her face; smaller petals and dark leaves fill the gaps. The expression is steady and poised, an island of calm inside the visual abundance. Light is direct and soft enough to keep skin smooth, while the petals retain crisp highlights and saturated shadow. The focus is strongest on the face, collar, and nearby flowers, with only slight softness farther into the dense arrangement. Dark recesses between blooms make the luminous colors seem even stronger. The square crop confines the overflowing floral forms rather than showing a setting beyond them. No readable lettering appears. The overall composition is maximal and immersive, with a quiet central gaze held against an exuberant, jewel-toned field.",
+  "full_prompt_zh": "一张方形时尚照片把一名穿图案长袍的年轻女子放在几乎满墙的花朵中。她在中央略偏左面对镜头，留齐黑刘海，眼色深，红唇鲜明。红、蓝、绿松石、粉、橙与紫花把头和肩围得很紧，几乎看不到背景。长袍同样有密集花与几何色彩，领口明亮青绿，下部红橙。右侧与上边缘的大花重叠到脸旁，小花瓣和深叶填满空隙。表情稳定端庄，是视觉丰盛中的安静小岛。光直接却足够柔和，使皮肤平滑，花瓣仍有清晰高光和饱和阴影。焦点在脸、领口与邻近花上最强，深入密集陈列处只有轻微柔化。花间暗缝使发亮颜色更强。方形裁切围住外溢花形，不展示其外场所。没有可辨认文字。整体构图极繁且沉浸，一道安静中央目光被欢腾宝石色场包围。",
+  "style_prompt_en": "A saturated fashion-photographic surface packs jewel-toned color into nearly every part of the frame. Red, pink, turquoise, cobalt, violet, orange, and gold clusters overlap, with small dark recesses separating the luminous areas. Direct soft light keeps the central smooth planes clear and makes nearby textured surfaces crisp, while more distant layers soften only slightly. Patterned fabriclike detail and petal-like shapes share a dense rhythm, leaving almost no empty background. A calm focal area sits inside the abundance, organized by a few sharper dark contours. The result is maximal, immersive, and radiant, with color saturation and layered texture carrying the image.",
+  "style_prompt_zh": "饱和时尚摄影表面把宝石色填满画幅几乎每处。红、粉、绿松石、钴蓝、紫、橙与金色团块重叠，细小深色凹隙分开发亮区域。直接柔光使中央平滑平面清楚，也让邻近纹理表面锐利，较远层次只有轻微柔化。织物状图案细节与花瓣状形共享密集节奏，几乎没有空背景。平静焦点处于丰盛之内，由少数更清晰的深轮廓组织。结果极繁、沉浸而发亮，由色彩饱和度与层叠纹理承担图像。",
+  "theme_en": "A vivid floral portrait in a patterned ceremonial robe",
+  "theme_zh": "穿花纹礼服的鲜艳花海肖像",
+  "wh_ratio": "1:1",
+  "id": "1132",
+  "name": "Mika Ninagawa",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/mika-ninagawa",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/mika-ninagawa.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "2708a6c93c3dd415bc02ebbbea030782277ec8d0b840569cbc281137d3a36fcf",
+    "gpt_submission_prompt": "A square fashion photograph places a young woman in a patterned robe amid an almost wall-to-wall mass of flowers. She faces the camera from slightly left of center, with a straight black fringe, dark eyes, and vivid red lips. Red, blue, turquoise, pink, orange, and violet blossoms surround her head and shoulders so tightly that there is almost no visible background. Her robe carries equally dense floral and geometric color, with a bright turquoise collar and red-orange lower section. Large flowers at the right and along the top edge overlap the space near her face; smaller petals and dark leaves fill the gaps. The expression is steady and poised, an island of calm inside the visual abundance. Light is direct and soft enough to keep skin smooth, while the petals retain crisp highlights and saturated shadow. The focus is strongest on the face, collar, and nearby flowers, with only slight softness farther into the dense arrangement. Dark recesses between blooms make the luminous colors seem even stronger. The square crop confines the overflowing floral forms rather than showing a setting beyond them. No readable lettering appears. The overall composition is maximal and immersive, with a quiet central gaze held against an exuberant, jewel-toned field.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "f8ed72c84b6deec72253aa58c02d75774b5a31002c83e1c16d2c8ea297981e39",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

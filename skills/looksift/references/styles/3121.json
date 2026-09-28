@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square surreal oil painting shows a young woman in a plain blue-gray dress standing on a dry ledge, looking down toward a small group of pale animals at her feet. She is placed on the right half, seen in side profile facing left, with short curled brown hair and a lowered gaze. The short-sleeved dress falls below the knee and is cinched lightly at the waist; her dark shoes stand near the edge of the rough ground. One hand hangs beside her, holding a small yellow object, while the other is partly hidden by the dress. At the lower left, several white or cream animal shapes lie and move among scattered leaves, rocks, and dark branches. Their bodies overlap, giving the foreground a strange crowded stillness. Behind the woman, ochre rock walls rise, their uneven edges partly sheltering her. Beyond them, a low flat horizon stretches across an open brown plain. Heavy cloud forms press down from above in charcoal, gray-green, and pale turquoise, with a brighter torn opening near the upper left. The scene's light is diffuse but stronger through that opening, touching the woman's face, dress folds, and the animals while the rock recesses stay dark. Thin brush marks and rough scumbles make the sky and ground visibly painted; the dress and face are modeled more smoothly. The viewpoint is level and slightly distant, making the human figure and animals part of one uneasy landscape. The overall composition holds a quiet downward gesture between dense foreground forms and vast troubled sky.",
+  "full_prompt_zh": "这幅方形超现实油画呈现一位年轻女子穿朴素蓝灰连衣裙站在干燥台地上，低头看脚边一小群浅色动物。她位于右半部，以朝左侧影出现，留短卷棕发，目光低垂。短袖裙垂到膝下，腰部轻轻收束；深色鞋站在粗糙地面边缘附近。一只手垂在身侧，握着一件小黄色物件，另一只手部分藏在裙旁。左下有几只白色或奶油色动物在散叶、石块和暗枝间躺着或移动。它们的身体相互交叠，让前景有奇异而拥挤的静止感。女子身后赭黄岩墙升起，不齐边缘部分庇护着她。墙外低平地平线横贯开阔棕色平原。厚云从上方压下，炭灰、灰绿和浅青绿色交错，左上附近有一道较亮的撕裂开口。场景光漫射，但透过开口处更强，碰亮女子面部、裙褶与动物，岩石凹处保持深暗。细笔痕与粗擦涂让天空和地面明显带绘画感；裙子与面孔塑造更平滑。视点平视而稍远，使人和动物成为同一片不安风景的一部分。整体构图把安静下望的动作放在密集前景形体和广阔扰动天空之间。",
+  "style_prompt_en": "The oil painting has a muted, unsettling realism, with smooth central modeling set against rougher atmospheric scumbles. Ochre and dusty brown masses hold the lower image; charcoal, gray-green, and pale turquoise churn above. Light is filtered through a broken brighter area, leaving broad shadows and gentle localized highlights. Edges vary from carefully drawn near forms to clouded, rubbed transitions in the distance. A small vertical focal accent stands among dense low shapes beneath a wide turbulent field. The composition feels dreamlike because ordinary tonal detail remains convincing within an oddly still, open space.",
+  "style_prompt_zh": "这种油画带低调而不安的写实感，中央平滑塑形与更粗糙的空气擦涂并置。赭黄与带灰棕色块稳住下半幅，炭灰、灰绿和浅青绿在上方翻涌。光穿过破开的较亮区域，留下宽阔阴影与温和局部高光。边缘从近处谨慎绘制的形体变化为远处云雾般擦揉过渡。一个小型竖向焦点重音立在密集低形之间，上方是宽阔湍动色域。构图梦境般，因为普通的明暗细节在奇异静止的开阔空间里仍然可信。",
+  "theme_en": "A woman looking down at pale animals beneath a troubled sky",
+  "theme_zh": "女子在动荡天空下低头看浅色动物",
+  "wh_ratio": "1:1",
+  "id": "3121",
+  "name": "Dorothea Tanning",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/dorothea-tanning",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "b5c729f2656f1bbb4ec6492417788f2070632264205225e47d3dc964fe1ba401",
+    "gpt_submission_prompt": "A square surreal oil painting shows a young woman in a plain blue-gray dress standing on a dry ledge, looking down toward a small group of pale animals at her feet. She is placed on the right half, seen in side profile facing left, with short curled brown hair and a lowered gaze. The short-sleeved dress falls below the knee and is cinched lightly at the waist; her dark shoes stand near the edge of the rough ground. One hand hangs beside her, holding a small yellow object, while the other is partly hidden by the dress. At the lower left, several white or cream animal shapes lie and move among scattered leaves, rocks, and dark branches. Their bodies overlap, giving the foreground a strange crowded stillness. Behind the woman, ochre rock walls rise, their uneven edges partly sheltering her. Beyond them, a low flat horizon stretches across an open brown plain. Heavy cloud forms press down from above in charcoal, gray-green, and pale turquoise, with a brighter torn opening near the upper left. The scene's light is diffuse but stronger through that opening, touching the woman's face, dress folds, and the animals while the rock recesses stay dark. Thin brush marks and rough scumbles make the sky and ground visibly painted; the dress and face are modeled more smoothly. The viewpoint is level and slightly distant, making the human figure and animals part of one uneasy landscape. The overall composition holds a quiet downward gesture between dense foreground forms and vast troubled sky.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "c1e2a3393ad3e51ae99ba8a4b9d13e8a5a60eddcea121af79f75b71815952b70",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

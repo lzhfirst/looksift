@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square expressive oil painting shows a loose stand of flowers rising from the lower edge against a blue-green background. Across the upper half, broad yellow and orange blooms open as shallow cups, their centers marked by darker red and brown dabs. A large magenta flower spreads on the left, another pink bloom stands to the right of center, and smaller violet, white, and coral flowers fill the gaps below. Thin green stems run upward from a dark tangle at the bottom, bending at different angles and breaking where thick paint crosses them. Several small buds and isolated yellow marks reach into the open blue space near the top. The flowers are recognizable but not botanically precise: petals are built from short, loaded strokes, scraped edges, and bright color laid beside bright color. Deep violet shadows collect between the stems and beneath the heads, while lime and turquoise strokes enliven the ground. The background shifts from periwinkle blue at the top into soft green and purple lower down, with visible vertical brush drag and scattered flecks of pigment. Light feels even and airy, expressed mainly through high-chroma yellow and white petals rather than through cast shadows. The arrangement is informal, with blooms scattered at several heights instead of forming a tidy bouquet. Some outer petals nearly touch the left and right edges, while a generous patch of cool blue remains above the central flowers. The overall composition is exuberant and tactile, balancing warm floral bursts with a cool, painterly field.",
+  "full_prompt_zh": "一幅方形表现性油画描绘一丛松散的花从下缘升起，立于蓝绿背景前。上半幅有宽阔的黄、橙花朵如浅杯展开，花心以较深红棕色点出。左边一朵大洋红花张开，中央偏右又有粉红花，下方空隙由较小的紫、白和珊瑚色花朵填满。细绿茎从底部深色纠结处向上伸展，角度各异，并在厚涂颜料穿过处时断时续。几枚小花苞和孤立黄点伸进顶部开放的蓝色空间。花仍可辨认，却不追求植物学精确：花瓣由短促饱蘸的笔触、刮擦边缘，以及并置的明亮色彩构成。深紫阴影聚在茎之间和花头下方，黄绿与青绿笔痕使底色活跃。背景从顶部的长春花蓝转为下方柔绿和紫色，可见竖向拖刷痕与散落颜料斑点。光线均匀而轻快，主要借高饱和黄瓣和白瓣表现，而非投影。花丛安排随意，花朵散布于不同高度，并不组成整齐花束。有些外侧花瓣几乎碰到左右边缘，中央花朵上方仍保留宽阔冷蓝空间。整体构图奔放、可触，以温暖花色的爆发平衡冷调绘画底色。",
+  "style_prompt_en": "Use expressive opaque oil color with short loaded strokes, palette-knife-like scraping, broken contours, and visible vertical brush drag. Place saturated warm yellows, oranges, pinks, and corals against periwinkle, turquoise, lime, and deep violet. Keep forms legible through color masses while allowing edges and stems to fragment into energetic marks. Let light arise from vivid neighboring pigments and occasional pale highlights, with little dependence on realistic cast shadow. Preserve an airy upper area and a denser, darker lower network for lively balance.",
+  "style_prompt_zh": "采用表现性不透明油彩，以短促饱蘸笔触、调色刀般刮擦、断续轮廓和可见竖向拖刷成形。把饱和暖黄、橙、粉、珊瑚与长春花蓝、青绿、黄绿和深紫并置。形体凭色块保持可辨，边缘与细线则碎成充满动势的笔痕。光感来自相邻鲜亮颜料与零星浅色高光，不依赖写实投影。上部保留通透空间，下部形成较密较暗的网络，取得活泼平衡。",
+  "theme_en": "Loose orange, yellow, pink, and violet flowers against a blue-green field",
+  "theme_zh": "蓝绿底色前松散盛开的橙、黄、粉、紫花朵",
+  "wh_ratio": "1:1",
+  "id": "0380",
+  "name": "Olha Darchuk",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/olha-darchuk",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/olha-darchuk.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "63a87bb6793c8d7995f0c33468fcd667e69761fe993ab0b4a58d42155e5ab293",
+    "gpt_submission_prompt": "A square expressive oil painting shows a loose stand of flowers rising from the lower edge against a blue-green background. Across the upper half, broad yellow and orange blooms open as shallow cups, their centers marked by darker red and brown dabs. A large magenta flower spreads on the left, another pink bloom stands to the right of center, and smaller violet, white, and coral flowers fill the gaps below. Thin green stems run upward from a dark tangle at the bottom, bending at different angles and breaking where thick paint crosses them. Several small buds and isolated yellow marks reach into the open blue space near the top. The flowers are recognizable but not botanically precise: petals are built from short, loaded strokes, scraped edges, and bright color laid beside bright color. Deep violet shadows collect between the stems and beneath the heads, while lime and turquoise strokes enliven the ground. The background shifts from periwinkle blue at the top into soft green and purple lower down, with visible vertical brush drag and scattered flecks of pigment. Light feels even and airy, expressed mainly through high-chroma yellow and white petals rather than through cast shadows. The arrangement is informal, with blooms scattered at several heights instead of forming a tidy bouquet. Some outer petals nearly touch the left and right edges, while a generous patch of cool blue remains above the central flowers. The overall composition is exuberant and tactile, balancing warm floral bursts with a cool, painterly field.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "28d81a52d2b91f7ef34ecadeecdb441c2ab090a8e4501c32a1ad1a280ad09f02",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

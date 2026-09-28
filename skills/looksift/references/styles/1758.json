@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "The illustration stages a tense evening inside a stylized bar. A stern man in a dark tuxedo stands at the center, his angular face facing outward beneath a broad orange arch. The white shirt front and small bow tie form a bright geometric wedge against his nearly black suit. Behind and around him, smaller men in hats occupy booths or stand near counters; one leans at the left, another appears far right beside bottles and glassware. A cocktail glass with a warm orange drink sits near the central lower edge. Pipes, shelves, hanging fixtures, and circular signs crowd the background, but they are simplified into interlocking blocks rather than naturalistic objects. The palette is sharply limited to deep navy, near-black, teal, burnt orange, mustard, and cream. Facets of light cut across faces and walls in hard triangles, creating a noir mood without photographic shading. The largest orange circle frames the central head, while repeated smaller circles and rectangles move the eye through the bar. Fine parallel lines and tiny grain fill some color fields, giving the flat vector-like shapes a printed surface. The composition is dense from edge to edge, yet strong silhouette and value contrast keep the central figure immediately readable. Light seems to come from multiple amber fixtures inside the room, set against cool shadow. The whole square feels like a retro crime poster: theatrical, alert, and assembled from precise pieces of graphic rhythm.",
+  "full_prompt_zh": "插画将紧张的夜晚置于风格化酒吧。中央一位穿深色礼服的严肃男子直面观者，棱角分明的脸被宽阔橙色拱形框住。白衬衫前襟和小领结在近黑西服上形成明亮几何楔形。身后四周有戴帽的小人物坐在卡座或站在柜台旁：左侧有人斜靠，右远处有人出现在瓶子和玻璃器皿旁。中央下缘附近是一杯暖橙色鸡尾酒。管道、架子、吊灯与圆形招牌挤满背景，却被简化成互锁色块，而非自然主义物件。色盘严格限制在深海军蓝、近黑、湖绿、焦橙、芥黄和奶油白。硬三角光面切过脸与墙，无需照片式阴影便形成黑色电影气氛。最大的橙圆框住中心人物头部，重复的小圆与矩形则引导视线穿过酒吧。有些色域填着细平行线和微颗粒，使平面矢量般形状带印刷表面。构图从边到边密集，却由强剪影与明暗对比保证主体立刻可读。光仿佛来自室内多处琥珀色灯具，与冷阴影相对。整个方形画面像复古犯罪海报：舞台感强、警觉，并由精准图形节奏组装。",
+  "style_prompt_en": "Use retro geometric poster illustration with hard-edged interlocking shapes, angular faceted light, and a restricted navy, teal, burnt orange, mustard, cream, and black palette. Build visual hierarchy with one large circular framing element, repeated smaller circles, and strong dark silhouettes. Add fine parallel line texture and light print grain inside otherwise flat color fields. Keep the square densely composed, balancing amber-like illumination against cool noir shadows and precise graphic rhythm.",
+  "style_prompt_zh": "采用复古几何海报插画，以硬边互锁形状、棱角光面及海军蓝、湖绿、焦橙、芥黄、奶油白和黑色的有限色盘构图。用一个大圆形框架、重复小圆和有力深色剪影建立视觉层级。平涂色域内加入细平行线及淡印刷颗粒。方形画幅保持密集，以琥珀般暖光对照冷调黑色电影阴影和精准图形节奏。",
+  "theme_en": "Geometric noir gathering at a bar",
+  "theme_zh": "几何黑色电影酒吧聚会",
+  "wh_ratio": "1:1",
+  "id": "1758",
+  "name": "Tom Whalen",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/tom-whalen",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/tom-whalen.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "7bd749a62c99a6407552e17543f994104ed6fa5820dce6d7058781a2973d8d1e",
+    "gpt_submission_prompt": "The illustration stages a tense evening inside a stylized bar. A stern man in a dark tuxedo stands at the center, his angular face facing outward beneath a broad orange arch. The white shirt front and small bow tie form a bright geometric wedge against his nearly black suit. Behind and around him, smaller men in hats occupy booths or stand near counters; one leans at the left, another appears far right beside bottles and glassware. A cocktail glass with a warm orange drink sits near the central lower edge. Pipes, shelves, hanging fixtures, and circular signs crowd the background, but they are simplified into interlocking blocks rather than naturalistic objects. The palette is sharply limited to deep navy, near-black, teal, burnt orange, mustard, and cream. Facets of light cut across faces and walls in hard triangles, creating a noir mood without photographic shading. The largest orange circle frames the central head, while repeated smaller circles and rectangles move the eye through the bar. Fine parallel lines and tiny grain fill some color fields, giving the flat vector-like shapes a printed surface. The composition is dense from edge to edge, yet strong silhouette and value contrast keep the central figure immediately readable. Light seems to come from multiple amber fixtures inside the room, set against cool shadow. The whole square feels like a retro crime poster: theatrical, alert, and assembled from precise pieces of graphic rhythm.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "b2479370acb8e228b242672abd5e52a20f4263452fbd832ad443d04c01c4f238",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

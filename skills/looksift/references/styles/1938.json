@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square color photograph records an artist working on a monumental face mural that covers almost an entire exterior wall. The painted face fills the frame from top to bottom, shown close and slightly turned, with large blue-gray eyes, a long nose, and softly parted lips. Warm rust, orange, and sienna strokes build the skin, while cool blue and violet marks run through shadows and around the eyes. The brick or plaster wall remains visible through the image, its seams, scratches, and drips giving the face a rough public surface. At the right, a real man in a dark T-shirt and gray shorts stands on a tall ladder pressed to the wall. He reaches toward the mural's eye area with one hand and holds tools close to his chest with the other. The ladder's wooden or metal rungs form a strong vertical line beside the enormous cheek. A narrow strip of dark adjoining wall appears at the far right, emphasizing the work's scale. The mural's features are highly realistic in proportion, but the color is built from broad energetic brush and spray-like layers rather than smooth skin blending. Daylight strikes the wall evenly, making the raised texture and painted marks visible without dramatic cast shadow. The viewpoint is close and slightly oblique, so the artist looks small beside the painted eyes. The composition pairs a human-scale act of making with a face much larger than life. Its bold warm-cool palette and visible weathering make the mural feel alive in the city rather than sealed inside a picture frame.",
+  "full_prompt_zh": "一幅方形彩色照片记录一名画家在覆盖几乎整面外墙的巨幅人脸壁画上工作。绘出的脸从上到下填满画面，近景、略带转向，有巨大的蓝灰眼睛、长鼻和微张嘴唇。暖锈、橙和赭棕笔触建立肤色，冷蓝和紫色痕线穿过阴影与眼周。砖墙或灰泥仍从图像中透出，接缝、划痕和滴痕让面孔带粗糙公共表面。右侧，一名穿深T恤和灰短裤的真人站在贴墙高梯上。他一只手伸向壁画眼部，另一只手把工具靠在胸前。梯子的木或金属横档在巨大脸颊旁形成有力竖线。最右边窄窄出现相邻暗墙，更强调作品尺度。壁画五官比例高度真实，颜色却由宽阔、有活力的画笔和喷涂层建立，而非平滑肤色晕染。日光均匀照着墙面，使凸起质地和绘画痕迹可见，没有戏剧投影。视点近而略斜，因此画家在彩绘眼睛旁显得很小。构图把人类尺度的制作行为与远超真人的面孔相配。大胆冷暖调色和可见风化让壁画像活在城市中，而非封在画框内。",
+  "style_prompt_en": "Street-art documentation combines monumental painted scale with the visible human and architectural surfaces that reveal it. Realistic proportions are constructed from loose warm rust, orange, ocher, cobalt, and violet marks layered over masonry texture. Keep seams, drips, scuffs, and brush or spray transitions apparent rather than hiding the wall. Broad daylight makes both pigment and substrate legible. A small real-world scale cue and a strong vertical edge can show how large the painted form is. The effect is vivid, textured, and active, joining artwork and making process in one frame.",
+  "style_prompt_zh": "街头艺术记录摄影把纪念碑般彩绘尺度与揭示尺度的真人和建筑表面结合。真实比例由松动暖锈色、橙、赭黄、钴蓝和紫色痕迹在砖墙纹理上层叠构建。保留接缝、流漆、擦痕和画笔或喷涂过渡，不遮掩墙面。宽泛日光让颜料和承载底面都可读。一个小小现实尺度线索及有力竖边可以显出彩绘形体之大。效果鲜亮、有纹理且活跃，将艺术品与制作过程置于一帧。",
+  "theme_en": "An artist on a ladder painting a monumental face mural",
+  "theme_zh": "一名画家站在梯上绘制巨幅人脸壁画",
+  "wh_ratio": "1:1",
+  "id": "1938",
+  "name": "Matt Adnate",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/matt-adnate",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/matt-adnate.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "4603670b712fab4f58a9cb893ac9cce1c762501d5c673da144b8ff652432c123",
+    "gpt_submission_prompt": "A square color photograph records an artist working on a monumental face mural that covers almost an entire exterior wall. The painted face fills the frame from top to bottom, shown close and slightly turned, with large blue-gray eyes, a long nose, and softly parted lips. Warm rust, orange, and sienna strokes build the skin, while cool blue and violet marks run through shadows and around the eyes. The brick or plaster wall remains visible through the image, its seams, scratches, and drips giving the face a rough public surface. At the right, a real man in a dark T-shirt and gray shorts stands on a tall ladder pressed to the wall. He reaches toward the mural's eye area with one hand and holds tools close to his chest with the other. The ladder's wooden or metal rungs form a strong vertical line beside the enormous cheek. A narrow strip of dark adjoining wall appears at the far right, emphasizing the work's scale. The mural's features are highly realistic in proportion, but the color is built from broad energetic brush and spray-like layers rather than smooth skin blending. Daylight strikes the wall evenly, making the raised texture and painted marks visible without dramatic cast shadow. The viewpoint is close and slightly oblique, so the artist looks small beside the painted eyes. The composition pairs a human-scale act of making with a face much larger than life. Its bold warm-cool palette and visible weathering make the mural feel alive in the city rather than sealed inside a picture frame.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "24757223aefc2b4c0b28512a4d0696b3edfc2899837e516b8ece5cbb3d656028",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

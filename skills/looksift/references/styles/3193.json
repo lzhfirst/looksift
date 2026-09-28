@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A tightly cropped expressionist painting fills the frame with two monumental faces placed side by side. The face at left turns slightly toward the viewer with one amber eye near the upper edge; the face at right looks forward with a cooler dark eye. Heavy black strokes make a vertical seam between them and shape the long angular noses, narrowed mouths, and dark hollows. Burnt red, golden yellow, cream, and deep blue-black patches sit in the faces like pieces of colored glass. There is almost no surrounding space, so the paired gazes and asymmetry carry all the tension.\n\nThe paint is thick, rough, and visibly layered. Black contours are broad and uneven rather than clean graphic outlines, while color inside them is scraped, scumbled, and mottled. Light seems to glow from within the warm patches, not from a realistic source; the blue-black regions keep the forms weighty and somber. Shapes remain simple and frontal, but small differences in angle and hue prevent symmetry from becoming static. The top of the composition is crowded by the eyes, and the lower faces dissolve into dark paint at the bottom edge. The surface evokes stained glass and worn fresco at once, solemn and human, with no legible lettering in the selected image.",
+  "full_prompt_zh": "一幅裁切极紧的表现主义绘画，让两张纪念碑般的面容并列填满画幅。左侧面容稍向观看者转来，一只琥珀色眼靠近上边；右侧面容以更冷的深色眼睛直视前方。厚重黑笔划在两者之间形成竖缝，也塑出狭长多棱的鼻子、紧闭的嘴和深色凹陷。焦红、金黄、乳白与深蓝黑色斑块像彩色玻璃片般落在脸上。周围几乎没有空间，因此两道目光与不对称关系承担全部张力。\n\n颜料厚、粗糙而有明显层次。黑轮廓宽大且不均，并非干净的图形描边；其中的颜色被刮擦、擦画，呈斑驳状。光像从暖色块内部发出，而非来自真实光源；蓝黑区域则使形体沉重而肃穆。形状简单而正面，但角度和色相的小差异避免对称变得静止。双眼挤在构图上端，面容下部在底边融入深色颜料。表面同时令人想到彩色玻璃和磨旧壁画，庄严而有人性，所选图像没有可辨认文字。",
+  "style_prompt_en": "Monumental frontal shapes are compressed into a tight frame and divided by broad, uneven black seams. Burnt red, golden yellow, cream, and deep blue-black sit beside one another like worn pieces of colored glass. Thick paint is scraped and scumbled, leaving mottled texture within simple angular planes. The warm patches seem internally lit, while the cool black areas give weight and solemnity. Large verticals and narrow dark openings organize the upper field; lower forms sink into dense shadow. Slight asymmetry in hue and angle keeps the arrangement tense. The surface recalls stained glass and weathered fresco, expressive and tactile rather than smoothly modeled.",
+  "style_prompt_zh": "纪念碑般的正面形被压入紧密画幅，并由宽大不均的黑缝分开。焦红、金黄、乳白和深蓝黑色相邻，像磨旧的彩色玻璃片。厚颜料经刮擦与擦画，在简单多棱平面中留下斑驳纹理。暖色块似乎从内部发光，冷黑区域则提供重量与肃穆感。大竖线和狭窄深色开口组织上方区域；下部形体沉入浓影。色相与角度的轻微不对称，使排列保持张力。表面令人想到彩色玻璃和风化壁画，有表现力与触感，而非平滑塑造。",
+  "theme_en": "Two solemn faces divided by a dark seam",
+  "theme_zh": "一道暗缝分隔的两张肃穆面容",
+  "wh_ratio": "1:1",
+  "id": "3193",
+  "name": "George Rouault",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/george-rouault",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "623f07a98889cd57aa011345c03ec897d81993e6e63262a99e67438c8ee84639",
+    "gpt_submission_prompt": "A tightly cropped expressionist painting fills the frame with two monumental faces placed side by side. The face at left turns slightly toward the viewer with one amber eye near the upper edge; the face at right looks forward with a cooler dark eye. Heavy black strokes make a vertical seam between them and shape the long angular noses, narrowed mouths, and dark hollows. Burnt red, golden yellow, cream, and deep blue-black patches sit in the faces like pieces of colored glass. There is almost no surrounding space, so the paired gazes and asymmetry carry all the tension.\n\nThe paint is thick, rough, and visibly layered. Black contours are broad and uneven rather than clean graphic outlines, while color inside them is scraped, scumbled, and mottled. Light seems to glow from within the warm patches, not from a realistic source; the blue-black regions keep the forms weighty and somber. Shapes remain simple and frontal, but small differences in angle and hue prevent symmetry from becoming static. The top of the composition is crowded by the eyes, and the lower faces dissolve into dark paint at the bottom edge. The surface evokes stained glass and worn fresco at once, solemn and human, with no legible lettering in the selected image.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "97d8f2329a79aa057ac5cd45c19a3675b573cab6f39c5ba0c81f7a89e85ca4bc",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square mixed-media image shows an artist at the left painting a large pale woman's face that occupies the center and right. The artist is seen in side view from behind, wearing a dark cap and shirt, with one hand holding a thin brush near the painted lips. The face on the upright surface tilts downward in profile, eyes closed, nose and mouth softly modeled in ivory and cool gray. Around it, tangled gold strokes and leaflike shapes gather thickly across the upper right and trail through the darker lower field. The painted support appears rough and layered, with scratches, scattered flecks, and exposed dark patches beneath the metallic marks. The artist's head and shoulder form a near-black foreground silhouette, making the luminous face seem to emerge from the textured surface. A narrow cream margin is visible at the far right, marking the edge of the working image. Light falls softly from above and slightly right, brightening the forehead, nose, and golden textures; the artist remains mostly in shadow. The gold is uneven and matte-glittering rather than a continuous polished sheet. No text is readable. The overall composition joins a quiet act of making to a richly worked image, balancing deep charcoal mass with a serene pale profile and scattered warm metallic light.",
+  "full_prompt_zh": "一幅方形混合媒材图像展现左侧画家正在绘制占据中央与右侧的大幅浅色女子面孔。画家以背后的侧面示人，戴深色帽、穿深色衣，手握细笔贴近画中嘴唇。竖立画面上的脸以侧面微微下倾，双眼闭合，鼻与口用象牙白和冷灰柔和塑形。其周围纠结的金色笔痕与近似叶片的形状厚厚聚于右上，继续散入较暗的下方色域。绘画载体粗糙且层叠，有划痕、零散色点与从金属色笔痕下露出的深色片段。画家的头肩形成近黑的前景剪影，让发亮的脸仿佛从肌理表面浮出。最右侧可见一道狭窄奶油色边缘，标出正在绘制的画幅边界。光从上方略偏右柔和落下，照亮额头、鼻梁和金色肌理；画家大部留在暗中。金色不均匀，呈哑光闪烁，而不是连续抛光金箔。没有可读文字。整体构图将安静创作动作与加工丰厚的画面相连，以深炭色体量平衡宁静浅色侧脸和散落的暖金光点。",
+  "style_prompt_en": "Mixed-media painting combines softly modeled pale forms with dark, heavily worked grounds and broken metallic accents. Scratches, scattered flecks, tangled fine strokes, and matte glints accumulate around a calm focal area without forming a smooth decorative fill. Ivory and cool gray emerge from charcoal black, while antique gold supplies concentrated warmth. Light descends gently from above one side, grazing raised texture and making a few planes luminous; adjacent regions remain dense and shadowed. An asymmetrical dark mass balances a quieter pale area, creating a contemplative rhythm within tactile richness.",
+  "style_prompt_zh": "混合媒材绘画将柔和塑形的浅色形体与加工厚重的深色底面、破碎金属色强调结合。划痕、散点、纠结细笔触和哑光微闪聚在安静焦点周围，却不形成光滑装饰填充。象牙白和冷灰从炭黑中浮现，旧金色提供集中的暖意。光从上方一侧轻轻下降，擦亮凸起肌理和少数发亮平面；邻近区域仍厚重而阴暗。不对称深色体量平衡较平静的浅色区域，在丰富触感中创造沉思的节奏。",
+  "theme_en": "An artist painting a pale face in a dark gold-textured image",
+  "theme_zh": "在深色金纹画面中绘制浅色面孔的画家",
+  "wh_ratio": "1:1",
+  "id": "4092",
+  "name": "Yoann Lossel",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/yoann-lossel.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "0941fcd33e0f4264e42f0a4318f918c00c975ee3536216297e0cedcf5b6723ea",
+    "gpt_submission_prompt": "A square mixed-media image shows an artist at the left painting a large pale woman's face that occupies the center and right. The artist is seen in side view from behind, wearing a dark cap and shirt, with one hand holding a thin brush near the painted lips. The face on the upright surface tilts downward in profile, eyes closed, nose and mouth softly modeled in ivory and cool gray. Around it, tangled gold strokes and leaflike shapes gather thickly across the upper right and trail through the darker lower field. The painted support appears rough and layered, with scratches, scattered flecks, and exposed dark patches beneath the metallic marks. The artist's head and shoulder form a near-black foreground silhouette, making the luminous face seem to emerge from the textured surface. A narrow cream margin is visible at the far right, marking the edge of the working image. Light falls softly from above and slightly right, brightening the forehead, nose, and golden textures; the artist remains mostly in shadow. The gold is uneven and matte-glittering rather than a continuous polished sheet. No text is readable. The overall composition joins a quiet act of making to a richly worked image, balancing deep charcoal mass with a serene pale profile and scattered warm metallic light.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "beba647a47df296cd2efa4d9d5ce64b34b5f6cb4313b530d9ad396a9042e4ab5",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

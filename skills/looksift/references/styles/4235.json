@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square color comic illustration assembles a lively group of youthful adventurers around a giant old town clock. Near the center, a smiling figure in an orange vest and black jacket sits casually on stone steps below the clock face. Other characters occupy different levels of the scene: a hat-wearing figure at left, companions among market stalls at right, and many small faces and bodies receding into a crowded street. The composition feels like a celebratory ensemble cover, with movement and overlapping stories across the whole frame. Warm orange and gold accents weave through cool pale blue masonry, gray stone, black clothing, and bright skin tones. Inked outlines vary from bold around the foreground figures to fine around architecture and the distant crowd. Watercolor-like color washes and crosshatched printed texture soften the otherwise graphic forms. The clock provides a strong circular anchor high in the composition, while steps and figures cascade downward. Faces are expressive and cartoon-like, yet the town setting is densely observed. The whole image is packed with character and detail, balancing readable focal figures against a festive, almost chaotic background. It feels adventurous, friendly, and bustling, with layered comic storytelling carried by line and color.",
+  "full_prompt_zh": "一幅方形彩色漫画插画把热闹的年轻冒险者群像聚在一座巨大的旧城镇钟表周围。中央附近，一位穿橙色背心与黑外套、面带笑容的人随意坐在钟面下方石阶上。其他角色分布在场景不同高度：左边戴帽人物、右边市集摊位旁的同伴，以及退入拥挤街道的许多细小面孔和身体。构图像一张庆典式群像封面，运动与交叠故事铺满画框。暖橙与金色点缀穿梭在冷浅蓝石造、灰石、黑衣和明亮肤色之间。墨线轮廓在前景人物处较粗，在建筑和远方人群处变细。水彩般色层和交叉排线的印刷肌理柔化原本图形化的形体。钟表在上方提供有力圆形支点，台阶和人物向下层层铺开。面孔富于表情且漫画化，城镇环境仍观察细密。整幅画拥挤而有性格，在清楚可读的焦点人物与节庆般近乎混乱的背景间保持平衡。气氛冒险、友好、繁忙，由线条和颜色承载多线漫画叙事。",
+  "style_prompt_en": "A richly populated color-comic style uses expressive inked figures, layered city detail, and a strong circular focal landmark. Bold foreground contours give way to finer architectural and crowd lines in the distance. Warm orange and gold accents move through pale blue, gray stone, black, and lively skin tones. Watercolor-like washes, crosshatching, and slight print texture keep the colorful page tactile. Figures overlap at several heights, but steps, streets, or other clear structural lines guide the eye through the busyness. The mood is adventurous and communal, with many small stories held together by a readable central anchor and rhythmic color distribution.",
+  "style_prompt_zh": "人物丰富的彩色漫画风格使用表情鲜明的墨线角色、层叠城市细节与有力的圆形焦点地标。前景粗轮廓逐渐变成远方建筑和人群的细线。暖橙与金色点缀穿过浅蓝、石灰、黑与活泼肤色。水彩般薄染、交叉排线和轻微印刷肌理让彩色画页可触。人物在多个高度重叠，但台阶、街道或其他明确结构线引视线穿过繁忙场面。气氛冒险且有共同体感，许多小故事由可读中央支点和有节奏的配色连接。",
+  "theme_en": "A lively band of comic adventurers gathers around a giant town clock",
+  "theme_zh": "热闹的漫画冒险者群像聚在一座巨大城镇钟表周围",
+  "wh_ratio": "1:1",
+  "id": "4235",
+  "name": "Eiichiro Oda",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/eiichiro-oda.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "ff5941bd9d7850dfa8e950b44215e12e86e8a07af075047cb1449078b9d29a3c",
+    "gpt_submission_prompt": "A square color comic illustration assembles a lively group of youthful adventurers around a giant old town clock. Near the center, a smiling figure in an orange vest and black jacket sits casually on stone steps below the clock face. Other characters occupy different levels of the scene: a hat-wearing figure at left, companions among market stalls at right, and many small faces and bodies receding into a crowded street. The composition feels like a celebratory ensemble cover, with movement and overlapping stories across the whole frame. Warm orange and gold accents weave through cool pale blue masonry, gray stone, black clothing, and bright skin tones. Inked outlines vary from bold around the foreground figures to fine around architecture and the distant crowd. Watercolor-like color washes and crosshatched printed texture soften the otherwise graphic forms. The clock provides a strong circular anchor high in the composition, while steps and figures cascade downward. Faces are expressive and cartoon-like, yet the town setting is densely observed. The whole image is packed with character and detail, balancing readable focal figures against a festive, almost chaotic background. It feels adventurous, friendly, and bustling, with layered comic storytelling carried by line and color.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "e7a71995b59a53314c4b7853a4f4a2b28a91710a7e109961d4b6b6fee2498f5c",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square realistic oil portrait shows a young woman from the shoulders up, turned three-quarters toward the viewer beneath a loosely wrapped white headscarf. A brown underband crosses her forehead, visible where the pale outer cloth opens around the face. The scarf falls in broad soft folds from the crown along the left side, bunches into a tied knot near the lower left, then wraps the neck and shoulder in finer creased layers. Her pale face is gently flushed at the cheeks, with gray-green eyes, a straight narrow nose, and closed muted rose lips. The gaze is steady but reserved, directed just to the side of the viewer. Dark hair is mostly concealed. A patch of deep brown wall occupies the upper left background, while a warm gray plaster-like field fills the right; neither contains detailed objects. Light falls from the upper left, brightening the scarf ridges, forehead, nose, and cheek. The far right side of the face and inner folds remain in soft shadow. Paint is blended almost invisibly across skin, but more visible dry strokes and fine lace-like texture appear along the cloth edges. The palette is restrained ivory, cream, taupe, warm brown, and rose. The large bright wrap creates a framing curve around the compact face, and the close crop excludes nearly all setting. Quiet tonal transitions and the serious expression give the portrait a calm, intimate gravity.",
+  "full_prompt_zh": "一幅方形写实油画肖像呈现一位年轻女子肩部以上形象，松松缠着白头巾，以四分之三角度朝向观者。褐色内带横过额头，从浅色外布围住脸的开口中可见。头巾从头顶沿左侧垂成宽软褶，在左下聚成结，再以更细的皱层绕住颈和肩。浅色面庞的双颊微红，有灰绿眼、直而窄的鼻梁与合拢的低饱和玫瑰色唇。目光稳定而含蓄，略偏向观者一侧。深色头发大部藏住。左上背景是一片深棕墙，右侧是暖灰灰泥般色域，都没有具体物件。光从左上落下，提亮头巾凸褶、额头、鼻和脸颊。脸远右侧与内层布褶保持柔影。皮肤上的颜料几乎无痕融合，布边却有更可见的干笔和蕾丝般细纹。配色克制在象牙白、奶油色、灰褐、暖棕与玫瑰色。宽大的亮布在紧凑面孔周围形成围框弧线，近景裁切排除几乎全部环境。安静明暗过渡和严肃神情赋予肖像平静、亲密的重量。",
+  "style_prompt_en": "A realistic oil portrait treatment centers a smoothly blended pale focal area inside broad folds of ivory and cream. Warm taupe and brown shadow planes separate the layers, while one darker background block balances an open gray field. Soft upper-side illumination brightens raised fabric-like ridges and gently models the central features; there are no hard cast shadows. Edges alternate between clear at the compact focal contour and soft where translucent pale layers overlap. Fine dry-brush and lace-like marks enrich the clothlike perimeter, contrasting with the nearly seamless transitions of the inner plane. The palette remains quiet: warm white, muted brown, gray, and a hint of rose. Tight cropping and a large curving surround make the composition intimate, stable, and contemplative.",
+  "style_prompt_zh": "写实油画肖像处理把平顺晕染的浅色焦点放在宽阔象牙与奶油色褶层之中。暖灰褐和棕色阴影平面分隔层次，一块较深背景对照另一侧开放灰色域。柔和上方侧光提亮布料般凸棱，轻轻塑造中央细部；没有硬投影。边缘在紧凑焦点轮廓处清楚，在半透明浅色层叠处变软。细干刷和蕾丝般笔痕丰富布质外围，对照内侧几乎无缝的过渡。配色安静：暖白、低饱和棕、灰，以及一点玫瑰色。紧密裁切和大弧形围框令构图亲密、稳定而沉思。",
+  "theme_en": "A close portrait of a young woman in a white headscarf",
+  "theme_zh": "戴白色头巾的年轻女子近景肖像",
+  "wh_ratio": "1:1",
+  "id": "2236",
+  "name": "Serge Marshennikov",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/serge-marshennikov",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/serge-marshennikov.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "e59a9dd07cca33ef35d3842e900798838e8a028becacfc7ecd29076ef65e036a",
+    "gpt_submission_prompt": "A square realistic oil portrait shows a young woman from the shoulders up, turned three-quarters toward the viewer beneath a loosely wrapped white headscarf. A brown underband crosses her forehead, visible where the pale outer cloth opens around the face. The scarf falls in broad soft folds from the crown along the left side, bunches into a tied knot near the lower left, then wraps the neck and shoulder in finer creased layers. Her pale face is gently flushed at the cheeks, with gray-green eyes, a straight narrow nose, and closed muted rose lips. The gaze is steady but reserved, directed just to the side of the viewer. Dark hair is mostly concealed. A patch of deep brown wall occupies the upper left background, while a warm gray plaster-like field fills the right; neither contains detailed objects. Light falls from the upper left, brightening the scarf ridges, forehead, nose, and cheek. The far right side of the face and inner folds remain in soft shadow. Paint is blended almost invisibly across skin, but more visible dry strokes and fine lace-like texture appear along the cloth edges. The palette is restrained ivory, cream, taupe, warm brown, and rose. The large bright wrap creates a framing curve around the compact face, and the close crop excludes nearly all setting. Quiet tonal transitions and the serious expression give the portrait a calm, intimate gravity.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "850ce3d01a0cecea9e19ef97db00abe3c9834062604cb799a65df7945c39f2f3",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

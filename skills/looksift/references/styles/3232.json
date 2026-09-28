@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square photograph contains a circular fisheye view of a mountain lake, surrounded by a thick black field. Within the round image, a narrow band of sunset glows peach and gold at the far horizon. Steep slopes rise on both sides, their lower rocks dark and their autumn trees glowing yellow orange. The still lake runs from that bright distance toward the viewer, mirroring the sky, hills and a clouded blue gray ceiling. Large submerged stones remain visible through clear water in the lower center. Two dark boulders press into the near left and right edges of the circle, emphasizing the feeling of standing at the shore. The fisheye projection bends the horizon and slopes gently around the curved frame, making the landscape feel enclosed like a small world. The center stays relatively open and symmetrical, with opposing slopes forming a V that points toward the sunset. Light is low and diffuse; warm color sits along the trees and horizon, while the cloudbank casts cool shadow over the lake. Fine ripples and rock textures stay sharp close to the camera, and distant details soften in haze. The black area outside the circular scene is essential to the composition, making the bright reflection and radial landscape appear suspended in darkness. The result feels immersive, quiet and slightly surreal despite its natural subject.",
+  "full_prompt_zh": "这幅方形摄影在厚黑色域中容纳一个圆形鱼眼视角的山间湖泊。圆形画面内，远方地平线有一条桃金色夕照。陡坡从两侧升起，下部岩石深暗，秋树发黄橙光。静湖从明亮远处延向观者，映出天空、山坡与多云的蓝灰穹顶。下方中央清水中可见几块大的水下石头。两块暗巨石挤入圆框左右近缘，加强站在岸边的感觉。鱼眼投影使地平线与坡面沿弯曲边框轻轻弯折，风景像被封在一个小世界里。中央相对开阔且对称，两侧坡面构成指向夕阳的V形。光低而漫散；暖色沿树与天边停留，云层把冷影投在湖上。近镜头的细水纹和石纹保持锐利，远处细节渐入雾。圆景外的黑色区域是构图关键，使明亮倒影与辐射状风景像悬在暗中。结果沉浸、安静，天然景象也因视角而略显超现实。",
+  "style_prompt_en": "The fisheye photograph compresses a wide view into a perfect circular field within black negative space. Radial curvature bends the outer edges toward a calm, nearly symmetrical center. Cool blue gray and charcoal dominate, interrupted by thin peach gold and yellow orange bands. Low diffuse light leaves nearby texture crisp while distant forms soften. Mirrored vertical color gives depth to the compact circle, and the dark surround heightens its immersive, suspended quality.",
+  "style_prompt_zh": "这种鱼眼摄影把宽阔视野压进黑色留域里的完整圆形。辐射状弯曲把外围边缘拉向安静、近乎对称的中心。冷蓝灰与炭色占主调，细桃金与黄橙色带打断它们。低而漫散的光让近处纹理清楚、远方形体柔化。镜像式竖向色彩赋予紧凑圆域深度，深暗外围加强沉浸而悬浮的质感。",
+  "theme_en": "A mountain lake seen through a circular fisheye view",
+  "theme_zh": "圆形鱼眼视角中的山间湖泊",
+  "wh_ratio": "1:1",
+  "id": "3232",
+  "name": "Fisheye lens",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/fisheye-lens",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "bc91376ca3e9e5fb797281dba7fa6e5261a2013c72b73a4cfe3d43f943aebacf",
+    "gpt_submission_prompt": "A square photograph contains a circular fisheye view of a mountain lake, surrounded by a thick black field. Within the round image, a narrow band of sunset glows peach and gold at the far horizon. Steep slopes rise on both sides, their lower rocks dark and their autumn trees glowing yellow orange. The still lake runs from that bright distance toward the viewer, mirroring the sky, hills and a clouded blue gray ceiling. Large submerged stones remain visible through clear water in the lower center. Two dark boulders press into the near left and right edges of the circle, emphasizing the feeling of standing at the shore. The fisheye projection bends the horizon and slopes gently around the curved frame, making the landscape feel enclosed like a small world. The center stays relatively open and symmetrical, with opposing slopes forming a V that points toward the sunset. Light is low and diffuse; warm color sits along the trees and horizon, while the cloudbank casts cool shadow over the lake. Fine ripples and rock textures stay sharp close to the camera, and distant details soften in haze. The black area outside the circular scene is essential to the composition, making the bright reflection and radial landscape appear suspended in darkness. The result feels immersive, quiet and slightly surreal despite its natural subject.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "31c72c8038c803d717ab96ad9319b95c57cc5db869ddfd77d52b300c5abb52b5",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square cinematic science-fiction image shows a heavily armored spacefarer from the chest upward, facing the viewer directly. The helmet is large and angular, with a dark amber reflective visor that hides the face. A substantial mechanical respirator projects over the mouth area, with layered gray metal plates, side cylinders, seams, and small bolts. The shoulders carry thick, weathered armor modules, and the chest is covered by pale gray-beige plating marked with scratches, dust, and darker joints. Behind the helmet, a bright circular white ring hangs in the smoky air, positioned so it forms a precise halo around the head but is clearly separate from the armor. The background is a warm brown-gray cloud field with soft glowing patches and no identifiable architecture. Light from the upper left and the halo catches hard edges of the helmet and the shoulders, while deep shadow fills the gaps beneath the chin and between plates. The palette is restricted to stone gray, worn tan, copper-brown, amber, charcoal, and the nearly white halo. The figure is centered and symmetrical, occupying the full width at the shoulders and leaving a narrow atmospheric border. Fine material detail in chipped paint and mechanical fittings makes the suit tactile rather than toy-like. No weapon, emblem, words, or visible facial expression appears. The mood is solemn and iconic, with the simple ring providing a spiritual visual note to an otherwise practical, weighty machine suit.",
+  "full_prompt_zh": "一张方形电影感科幻图像从胸部以上呈现重铠太空旅人，正面朝观者。头盔巨大且棱角分明，深琥珀反射面罩遮住脸。厚重机械呼吸器在嘴部凸出，有层叠灰金属板、侧筒、接缝和小螺栓。肩上装着厚而风化的铠模块，胸由浅灰米色板覆盖，留刮痕、灰尘和深色关节。头盔后一道亮白圆环悬在烟雾空气中，位置恰好为头形成光环，却明显与铠甲分离。背景是暖棕灰云场，只有柔亮光斑，没有可辨建筑。左上光和光环抓住头盔及肩部硬边，颌下与板间深影。色板限于石灰、磨旧棕黄、铜棕、琥珀、炭色和近白光环。人物居中且对称，双肩占满宽度，周围留窄大气边。掉漆与机械连接的细材料细节让铠甲可触，不像玩具。没有武器、徽记、文字或可见表情。氛围肃穆且图标化，简洁圆环给重而实用的机械套装添一丝精神性视觉音符。",
+  "style_prompt_en": "Cinematic science-fiction realism combines monumental central symmetry, worn hard-surface detail, and one clean luminous circle behind the focal mass. Chipped matte plating, exposed joints, bolts, dust, and dark recesses have convincing weight. The palette is restricted to stone gray, tan, copper-brown, amber, charcoal, and near-white light. Controlled rim illumination separates the dark central form from a smoky background while preserving deep internal shadow. The circular light remains simple and graphic against the complex material surface. The effect is solemn, iconic, and tactile, balancing technical density with a strong instantly readable silhouette.",
+  "style_prompt_zh": "电影感科幻写实结合纪念碑式中央对称、磨损硬表面细节，以及焦点体量后一道干净的发光圆环。掉漆哑光板、外露关节、螺栓、灰尘与深凹处具有可信的重量。色板限于石灰、棕黄、铜棕、琥珀、炭色及近白光。受控轮廓光使深色中央形体从烟雾背景分离，同时保留内部浓影。圆形光在复杂材料表面前保持简洁图形性。效果肃穆、图标化且可触，在技术密度与第一眼可读的强剪影之间取得平衡。",
+  "theme_en": "A weathered armored spacefarer beneath a glowing halo in smoky light",
+  "theme_zh": "烟雾光中一名风化铠甲太空旅人立于发亮光环下",
+  "wh_ratio": "1:1",
+  "id": "1288",
+  "name": "Halo",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/halo",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/halo.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "1d5cdf7fac46bdc581253e1dedc2313627aa3d13417bf30ffabe71fa57c33bfc",
+    "gpt_submission_prompt": "A square cinematic science-fiction image shows a heavily armored spacefarer from the chest upward, facing the viewer directly. The helmet is large and angular, with a dark amber reflective visor that hides the face. A substantial mechanical respirator projects over the mouth area, with layered gray metal plates, side cylinders, seams, and small bolts. The shoulders carry thick, weathered armor modules, and the chest is covered by pale gray-beige plating marked with scratches, dust, and darker joints. Behind the helmet, a bright circular white ring hangs in the smoky air, positioned so it forms a precise halo around the head but is clearly separate from the armor. The background is a warm brown-gray cloud field with soft glowing patches and no identifiable architecture. Light from the upper left and the halo catches hard edges of the helmet and the shoulders, while deep shadow fills the gaps beneath the chin and between plates. The palette is restricted to stone gray, worn tan, copper-brown, amber, charcoal, and the nearly white halo. The figure is centered and symmetrical, occupying the full width at the shoulders and leaving a narrow atmospheric border. Fine material detail in chipped paint and mechanical fittings makes the suit tactile rather than toy-like. No weapon, emblem, words, or visible facial expression appears. The mood is solemn and iconic, with the simple ring providing a spiritual visual note to an otherwise practical, weighty machine suit.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "4e4a7b51b83b5961bc51b23b01984d5d97889b07e04776158c7d42eaf7d8bac2",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

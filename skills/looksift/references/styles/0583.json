@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square nineteenth-century-style oil landscape shows a mountain stream winding through a lush valley toward blue-gray peaks. The upper sky is pale cream and clouded, its bright opening near the left washing the distant mountains in atmospheric haze. A steep dark cliff rises along the far left edge, while layered ridges descend toward the center. On the right, a cluster of leafy trees and a rocky hillside frames the view; a small pale structure perches high on a distant rise near the upper middle. The stream begins as a narrow white thread in the distance, then tumbles over gray stones through the middle and lower center of the image. White foam marks several short falls, contrasting with darker green pools. Rough grasses, mossy rocks and low shrubs fill the banks. A few grazing cattle are scattered through the meadow at different depths, one darker animal near the lower-left corner and small light ones farther up the right slope. The foreground grows more detailed, with stone surfaces and plants picked out by short controlled strokes; the mountains become smoother and cooler as they recede. Diffuse light from the bright upper-left sky grazes the grass and water, while the cliff and thickets keep deeper green-brown shadows. No people or lettering interrupt the scene. The overall composition follows the lively water from a misted far valley into a textured foreground, balancing rugged height with pastoral calm.",
+  "full_prompt_zh": "这幅方形、十九世纪气质的油画风景里，一条山溪蜿蜒穿过茂密山谷，流向蓝灰群峰。上方天空是浅奶油色且多云，靠左的明亮开口把远山浸入空气薄雾。远左边缘升起陡峭深色山崖，层层山脊向中央下降。右侧一簇多叶树木与岩石山坡围住视野；上方中部附近，一座小浅色结构立在远处高坡。溪流在远处起初是一条细白线，随后在画面中部与下方越过灰石奔流。白色水沫标出几段短瀑，与较深的绿水潭对照。粗草、苔石和低灌木填满两岸。几只牛在不同深度的草地上吃草，一只较暗的动物靠左下角，更小的浅色动物在较远的右坡。前景细节增多，石面与植物由短而受控的笔触点出；山峰向远处变得更平滑、更冷。来自左上亮空的漫射光擦过草地与水面，山崖和树丛保留更深的绿褐阴影。画中没有人物或字样打断景色。整体构图顺着活跃溪水从雾中的远谷走向有肌理的前景，平衡崎岖高度与田园平静。",
+  "style_prompt_en": "The oil-painting treatment layers finely observed foreground textures into a luminous atmospheric distance. Moss green, olive, stone gray and earthy brown dominate nearby, then shift toward soft blue-violet and cream farther away. Small controlled strokes articulate rough surfaces and moving highlights, while broad blended passages keep the upper distance open. Edges sharpen around near dark accents and soften in successive receding layers. Diffuse high light picks out selected ridges and flowing bright marks, leaving sheltered masses in deep green shadow. A winding light path draws the eye into the picture, giving the scene breadth, order and a serene romantic mood.",
+  "style_prompt_zh": "这种油画处理把细心观察的前景肌理层层接入明亮的空气远景。苔绿、橄榄色、石灰与土褐主导近处，向远处转成柔和蓝紫和奶油色。小而受控的笔触刻画粗面与流动亮痕，宽阔融合色层让上方远景敞开。近处深色强调的边缘较清楚，后退层次里逐渐柔化。高处漫射光挑出部分隆起亮面和流动亮痕，让受遮蔽的量块留在深绿影中。一条蜿蜒的亮色路径把视线引入画面，赋予景色宽广、秩序与宁静浪漫气氛。",
+  "theme_en": "A mountain stream descending through a green valley beneath hazy peaks",
+  "theme_zh": "山溪穿过绿色谷地，流向薄雾中的群峰之下",
+  "wh_ratio": "1:1",
+  "id": "0583",
+  "name": "Gustav Bauernfeind",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/gustav-bauernfeind",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/gustav-bauernfeind.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "22ae8b8ff4ace5ce29da87c7da3f169887d7457df49208900df5e3ce1c78b9b5",
+    "gpt_submission_prompt": "A square nineteenth-century-style oil landscape shows a mountain stream winding through a lush valley toward blue-gray peaks. The upper sky is pale cream and clouded, its bright opening near the left washing the distant mountains in atmospheric haze. A steep dark cliff rises along the far left edge, while layered ridges descend toward the center. On the right, a cluster of leafy trees and a rocky hillside frames the view; a small pale structure perches high on a distant rise near the upper middle. The stream begins as a narrow white thread in the distance, then tumbles over gray stones through the middle and lower center of the image. White foam marks several short falls, contrasting with darker green pools. Rough grasses, mossy rocks and low shrubs fill the banks. A few grazing cattle are scattered through the meadow at different depths, one darker animal near the lower-left corner and small light ones farther up the right slope. The foreground grows more detailed, with stone surfaces and plants picked out by short controlled strokes; the mountains become smoother and cooler as they recede. Diffuse light from the bright upper-left sky grazes the grass and water, while the cliff and thickets keep deeper green-brown shadows. No people or lettering interrupt the scene. The overall composition follows the lively water from a misted far valley into a textured foreground, balancing rugged height with pastoral calm.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "0ca8444d48e774b4f50c7f659fb1f5ede60344ff2350735ff2cd095156a75c74",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

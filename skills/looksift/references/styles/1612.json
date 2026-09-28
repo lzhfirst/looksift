@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A documentary photograph of a minimalist installation shows a sequence of large rectilinear wooden modules aligned along a pale gallery wall. The nearest module dominates the right half of the frame, a thick honey brown outer box with a deep open cavity and a shorter internal ledge set inside its lower right area. Matching units continue toward the distant left, each smaller by perspective and separated by a measured gap. Their repetition creates a firm rhythm without ornament, making thickness, opening, and interval the main visual events. The camera looks obliquely down the row from a low standing height, so the polished gray concrete floor occupies much of the foreground and mirrors the modules as soft dark reflections. Narrow darker rectangles beneath each unit read as cast shadows, and a faint white wall line crosses behind them. Above, the exposed ceiling beams run across the image while a line of small gallery spotlights recedes toward the vanishing point. Warm light catches the upper edges and reveals natural grain in the wood; the interior planes remain deeper brown, giving each opening a clear sense of volume. The rest of the space is cool, spare, and quiet, with no decorative objects competing for attention. The whole image is governed by repeated geometry, material honesty, and the slow perspective of identical forms diminishing through space.",
+  "full_prompt_zh": "一幅极简装置的纪实摄影呈现一列大型直线形木质模块，沿浅色画廊墙壁整齐排列。最近的模块占据画面右半部，是一个厚重的蜜棕色外框，内部有深凹的开口，右下区域还嵌着一道较短的内侧台阶。相同单元向远处左侧延续，因透视逐一缩小，彼此之间保持经计算的间距。重复形成坚实而无装饰的节奏，让厚度、开口和间隔成为主要视觉事件。相机从较低的站立高度斜视整列，因此抛光的灰色混凝土地面占据大量前景，并把模块映成柔和的深色倒影。每个单元下方较窄的暗矩形是投影，背后则横过一条淡淡的白色墙线。上方，外露的天花梁横跨画面，一列小型画廊射灯向消失点退去。暖光照亮上缘并显出木材天然纹理；内部平面保持较深的棕色，使每个开口都有明确体积。其余空间冷静、简洁且安静，没有装饰物争夺注意力。整幅画面由重复几何、材料本色和相同形体在空间中缓缓缩小的透视主导。",
+  "style_prompt_en": "A spare documentary photographic treatment of repeated rectilinear volumes in a large quiet space. Organize the frame around consistent modules, open cavities, and measured intervals, using oblique perspective so the nearest form has weight and each following form steadily diminishes. Let genuine material grain remain visible on broad warm surfaces, with darker inner planes defining depth. Surround the repetition with pale neutral walls, an expansive polished floor, soft reflections, and precise cast shadows. Keep edges straight, proportions disciplined, and the camera stable. Use even gallery illumination with a slight warm emphasis on the material and a cooler ambient field. The visual effect should be rigorous, calm, and physically present, with repetition and empty space carrying the composition.",
+  "style_prompt_zh": "采用简洁的纪实摄影处理，在宽阔安静的空间里表现重复的直线几何体。围绕一致的模块、敞开的凹腔和经过度量的间距组织画面；利用斜向透视让最近的形体有重量，后续形体逐步缩小。宽阔的暖色表面保留真实材料纹理，较暗的内部平面界定深度。以浅色中性墙面、开阔的抛光地面、柔和倒影和精确投影包围重复序列。边缘要直，比例要克制，相机要稳定。使用均匀的展厅照明，对材料稍加暖色强调，环境整体偏冷。视觉效果应严谨、平静且具有物理存在感，让重复和空白共同承担构图。",
+  "theme_en": "Receding wooden modules in a gallery",
+  "theme_zh": "画廊中渐远的木质模块",
+  "wh_ratio": "1:1",
+  "id": "1612",
+  "name": "Donald Judd",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/donald-judd",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/donald-judd.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "b40722ec8a4f5d2d7350d157dbb902c5c8083af86a3a0d838822ba86c99b5f4b",
+    "gpt_submission_prompt": "A documentary photograph of a minimalist installation shows a sequence of large rectilinear wooden modules aligned along a pale gallery wall. The nearest module dominates the right half of the frame, a thick honey brown outer box with a deep open cavity and a shorter internal ledge set inside its lower right area. Matching units continue toward the distant left, each smaller by perspective and separated by a measured gap. Their repetition creates a firm rhythm without ornament, making thickness, opening, and interval the main visual events. The camera looks obliquely down the row from a low standing height, so the polished gray concrete floor occupies much of the foreground and mirrors the modules as soft dark reflections. Narrow darker rectangles beneath each unit read as cast shadows, and a faint white wall line crosses behind them. Above, the exposed ceiling beams run across the image while a line of small gallery spotlights recedes toward the vanishing point. Warm light catches the upper edges and reveals natural grain in the wood; the interior planes remain deeper brown, giving each opening a clear sense of volume. The rest of the space is cool, spare, and quiet, with no decorative objects competing for attention. The whole image is governed by repeated geometry, material honesty, and the slow perspective of identical forms diminishing through space.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "a2cc3bab6e5d9bfa7dbf6e814448f09054831174c6730cda342f35139d460ed1",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

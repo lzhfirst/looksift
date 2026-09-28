@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A fantastic cityscape rises from a stony basin under a dark teal sky. The central tower climbs above clusters of pale old buildings, while an enormous cauliflower-like plume of grey smoke swells behind it. Jagged mountains flank the city. Near the tower base, a small orange fire glows beside a blue-green waterway, making the scale of the structures feel uncertain and uncanny. The foreground is an uneven scatter of dark rocks, with tiny paths and low blocks leading toward the crowded urban center. The image resembles a quiet disaster witnessed from a distant vantage point.\n\nThe painting is meticulously detailed but tonally subdued. Cool slate, dusty teal, concrete cream, and umber carry most of the scene; the orange fire is a small, sharp interruption. Fine architectural marks define windows, ledges, and repetitive rooflines, while the smoke is built from softer rounded lobes and granulated shading. Light filters through an overcast atmosphere, giving the city a chalky glow against darker cliffs and sky. The tall central vertical is balanced by the plume's broad organic mass and the horizontal strip of water below. Textures range from crisp masonry to velvety cloud and rough stone. The mood is surreal, solemn, and faintly ominous, with no readable lettering in the selected image.",
+  "full_prompt_zh": "一座奇异城市从石质盆地里升起，置于深青绿天空之下。中央高塔从成群浅色旧建筑上方攀升，身后巨大如花椰菜般的灰烟云翻涌。锯齿山峰夹住城市。塔基附近，一小团橙火在蓝绿水道旁发亮，使结构尺度显得不确定而诡异。前景是不平整的深色碎石，小路与低矮块体通向拥挤的城市中心。画面像从远处目睹的一场安静灾难。\n\n绘画细节极精，却在明暗上收敛。冷石板色、灰青绿、水泥乳白与赭褐承担大半场景；橙火是小而尖锐的打断。细小建筑笔迹定义窗、檐和重复屋顶，烟云则由较柔软的圆瓣和颗粒阴影堆起。光经阴天大气过滤，使城市在深色悬崖与天空前有粉笔般的亮。高耸中央竖线与烟云宽阔的有机块、下方水平水带相平衡。纹理从清晰砌体到绒状云和粗糙岩石不断变化。情绪超现实、肃穆且略不祥，所选图像没有可辨认文字。",
+  "style_prompt_en": "Meticulous small marks build pale masonry and repeated geometric structures inside a subdued teal and slate landscape. A tall narrow vertical meets a broad organic mass of rounded, granulated grey lobes. Chalky cream planes glow gently through overcast light, while dark rocky edges and a low horizontal blue-green band anchor the frame. One tiny orange accent interrupts the otherwise cool, dusty palette. Texture shifts from crisp architectural detail to velvety cloud and rough foreground stone. The composition is distant and carefully ordered yet unsettling in scale, with quiet atmospheric depth and a surreal, solemn tone.",
+  "style_prompt_zh": "细密小笔迹在收敛的青绿与石板色风景中堆起浅色砌体和重复几何结构。一道高而窄的竖形遇到由圆瓣状颗粒灰团组成的宽阔有机体。粉笔般的乳白平面在阴天光中过滤出微亮，深色岩边与下方蓝绿水平带压住画幅。唯一微小橙色重音打断其余冷而灰尘感的色谱。纹理由清晰建筑细节变化到绒状云与粗糙前景石。构图远观而仔细有序，尺度却令人不安，带安静空气深度与超现实、肃穆的基调。",
+  "theme_en": "A strange city below a colossal smoke cloud",
+  "theme_zh": "巨大烟云下的奇异城市",
+  "wh_ratio": "1:1",
+  "id": "3200",
+  "name": "Franz Sedlacek",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/franz-sedlacek",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "12582ee2c09d12b288d78db05687b37ca9e8a7cc6d0082a2a1e687c3719267ac",
+    "gpt_submission_prompt": "A fantastic cityscape rises from a stony basin under a dark teal sky. The central tower climbs above clusters of pale old buildings, while an enormous cauliflower-like plume of grey smoke swells behind it. Jagged mountains flank the city. Near the tower base, a small orange fire glows beside a blue-green waterway, making the scale of the structures feel uncertain and uncanny. The foreground is an uneven scatter of dark rocks, with tiny paths and low blocks leading toward the crowded urban center. The image resembles a quiet disaster witnessed from a distant vantage point.\n\nThe painting is meticulously detailed but tonally subdued. Cool slate, dusty teal, concrete cream, and umber carry most of the scene; the orange fire is a small, sharp interruption. Fine architectural marks define windows, ledges, and repetitive rooflines, while the smoke is built from softer rounded lobes and granulated shading. Light filters through an overcast atmosphere, giving the city a chalky glow against darker cliffs and sky. The tall central vertical is balanced by the plume's broad organic mass and the horizontal strip of water below. Textures range from crisp masonry to velvety cloud and rough stone. The mood is surreal, solemn, and faintly ominous, with no readable lettering in the selected image.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "794d5908c2a71568c6a021c14e8729e4e9eb5240ca88b29255c7dac8935faf58",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

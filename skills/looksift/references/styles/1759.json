@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square impressionist garden painting shows an uneven stone path climbing between dense flowers and shrubs toward a shaded opening. Large pale paving stones occupy the lower foreground, their irregular edges separated by narrow seams of grass and soil. As the path recedes through the center, it becomes a series of short steps that rise toward the dark upper-left background. On both sides, green plants press close to the stones, breaking the path's edges into small leaf shapes. At right, tall purple iris-like flowers lift above narrow upright leaves; a terracotta pot stands just behind them on a low stone ledge. Small white blossoms punctuate the greenery near the middle-right, while more purple and pink blooms gather deeper along the route. At left, lower leafy mounds and scattered violet flowers soften an old pale wall. Dark tree branches and a recess of foliage hang over the far end of the walk, reducing the light there. The scene contains no person, sign, or readable text. The viewpoint is low enough for the near paving slabs to appear large, but it looks gently upward along the stair. Sunlight filters from the upper right, flashing warm cream and cool lavender across the stones while plants cast broken green shadows. Short thick strokes and mottled color describe flowers and leaves without outlining every petal. The overall composition uses the winding pale path as a calm central guide through a dense, colorful garden.",
+  "full_prompt_zh": "一幅方形印象派花园绘画呈现一条不平整的石径，穿过密集花丛与灌木，向上延伸到阴凉开口。大块浅色铺石占据下部前景，形状不规则，边缘之间有狭窄的草和土缝。小路沿中央后退时，变成一连串短台阶，升向左上深暗背景。两侧绿植紧贴石面，把小路边缘打碎成许多叶形。右侧高高的紫色鸢尾状花朵从狭长直立叶片上升起；后方低石台上放着一只陶土花盆。细小白花点在中右绿叶间，更远处的紫花与粉花沿路聚集。左侧较低的叶丛和零散紫花柔化旧浅色墙。深色树枝与枝叶凹处垂在道路尽头，使那里的光变弱。场景里没有人物、标志或可读文字。视点足够低，让近处铺石显得很大，又沿台阶轻轻向上看。日光从右上穿过，在石面闪出暖乳白与冷淡紫，植物则投下破碎绿影。短而厚的笔触和斑驳色彩描绘花叶，无需逐片勾出花瓣。整体构图以蜿蜒浅色路径作为安静的中央引导，穿过浓密而多彩的花园。",
+  "style_prompt_en": "Impressionist painting builds an intimate space from short broken strokes and color patches rather than hard continuous outlines. Pale cream and lavender planes weave through dense moss, olive, and blue-green marks, with violet, pink, and white accents clustered at different depths. Filtered daylight makes warm highlights and cool shadows alternate across rough surfaces. Vertical stems and blossoms rise beside a receding central rhythm, while dark foliage closes the far end and increases depth. Textures remain lively but not uniformly sharp; near areas show thicker separate marks, distant growth blends into mottled color. The overall effect is sun-dappled, tranquil, and richly planted.",
+  "style_prompt_zh": "印象派绘画用短促破碎笔触和色块，而非坚硬连续轮廓，建立亲密空间。浅乳白与淡紫平面穿过密集苔绿、橄榄绿和蓝绿笔痕，紫、粉、白色重音在不同纵深成簇出现。穿透枝叶的日光让暖高光与冷阴影在粗糙表面交替。直立茎花在向后退去的中央节奏旁升起，深色枝叶封住远端并增加纵深。肌理活跃，却非处处同样锐利；近处笔痕更厚且彼此分开，远处植物融成斑驳色彩。整体效果有斑驳日光、安静且植物繁盛。",
+  "theme_en": "A sunlit stone path climbing through a flowering garden",
+  "theme_zh": "阳光照亮的石径穿过开花的花园向上延伸",
+  "wh_ratio": "1:1",
+  "id": "1759",
+  "name": "Guy Rose",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/guy-rose",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/guy-rose.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "6f2b4a9a57cdab5ef7099ce10eca72d340d7af7a853a00bbe09f7357f9e623a0",
+    "gpt_submission_prompt": "A square impressionist garden painting shows an uneven stone path climbing between dense flowers and shrubs toward a shaded opening. Large pale paving stones occupy the lower foreground, their irregular edges separated by narrow seams of grass and soil. As the path recedes through the center, it becomes a series of short steps that rise toward the dark upper-left background. On both sides, green plants press close to the stones, breaking the path's edges into small leaf shapes. At right, tall purple iris-like flowers lift above narrow upright leaves; a terracotta pot stands just behind them on a low stone ledge. Small white blossoms punctuate the greenery near the middle-right, while more purple and pink blooms gather deeper along the route. At left, lower leafy mounds and scattered violet flowers soften an old pale wall. Dark tree branches and a recess of foliage hang over the far end of the walk, reducing the light there. The scene contains no person, sign, or readable text. The viewpoint is low enough for the near paving slabs to appear large, but it looks gently upward along the stair. Sunlight filters from the upper right, flashing warm cream and cool lavender across the stones while plants cast broken green shadows. Short thick strokes and mottled color describe flowers and leaves without outlining every petal. The overall composition uses the winding pale path as a calm central guide through a dense, colorful garden.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "b671dc9c44de0592532bcd74a13a8fac1a8d886b7fe96f67c581524b1ddbfc55",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

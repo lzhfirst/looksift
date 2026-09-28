@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white architectural photograph depicts a severe concrete structure beside a still pool. The building consists of interlocking rectangular volumes, one large horizontal block projecting strongly over a shadowed lower level, with smaller recesses and openings cut into the upper mass. The concrete shows visible formwork seams, rain streaks and tonal variation rather than appearing pristine. A broad stepped terrace leads toward the dark undercroft from the right; at the left, a bare-branched tree stands beside a low wall. A reflecting pool fills the foreground, and its gently disturbed surface repeats the building's heavy shapes and the tree's thin branches. The sky is pale and overcast, giving the whole image a quiet, soft illumination and a long span of middle grays. The largest cantilever spans the upper central field, the pool fills the lower third, and the tree forms an organic counterweight. The slightly low oblique viewpoint makes the compression and apparent weight of the slabs palpable, while all main edges are straight and legible. The structure is unadorned and the setting is unoccupied. The image emphasizes the relationship between weight and open space, rough material and smooth water, rigid geometry and irregular branches. The image feels contemplative, precise and quietly monumental.",
+  "full_prompt_zh": "正方形黑白建筑摄影中，主体是一座严峻的混凝土结构及其旁边的静水池。建筑由互相咬合的长方体构成，一块巨大的水平体量强烈悬挑在阴暗下层上方，较小的凹口与开洞切入上部实体。混凝土显露模板接缝、雨水流痕和灰阶变化，表面带有真实的使用痕迹。宽阔阶梯平台从右侧通向暗色架空层；左侧一棵枝条裸露的树立在低墙旁。前景由水池占据，轻微扰动的水面重复建筑的厚重形状和树的细枝。天空浅灰阴沉，使全图受到安静柔和的光照，保有很长一段中间灰。构图让最大悬挑横贯画面上方中心，水池位于下三分之一，树作为有机配重。相机从略低的斜角拍摄，让楼板的压迫感和重量可感，同时主要边线仍端正清晰。建筑未经装饰，环境中空无一人。画面突出重量与空处、粗糙材料与平滑水面、刚性几何与不规则树枝之间的关系。图像沉静、精确且具有不张扬的纪念性。",
+  "style_prompt_en": "Black-and-white photography centers on exposed geometric structure, projecting masses, open voids and a disciplined square frame. Pale overcast illumination produces extended middle grays, deep sheltered shadows and clear linear edges. Grain, seam lines, weather staining and slight reflection ripples remain visible. Rough matte surfaces oppose dark smooth reflective areas, with a small organic counter-rhythm. The oblique but controlled viewpoint, spare atmosphere and strong tonal hierarchy create a contemplative sense of weight and space.",
+  "style_prompt_zh": "黑白摄影围绕裸露的几何结构、突出的体量、敞开空隙与克制的正方形画框展开。浅灰阴天光产生延展的中间灰、深暗遮蔽区和清晰线性边缘。颗粒、接缝线、风化污痕及轻微倒影水纹清晰可见。粗糙哑光表面与深色平滑反射区对照，少量有机节奏形成配重。倾斜而受控的视角、简净气氛与明确明暗层级共同形成沉静的重量感和空间感。",
+  "theme_en": "A cantilevered concrete building beside a still reflecting pool",
+  "theme_zh": "静水池旁层叠悬挑的混凝土建筑",
+  "wh_ratio": "1:1",
+  "id": "1141",
+  "name": "Paulo Mendes da Rocha",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/paulo-mendes-da-rocha",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/paulo-mendes-da-rocha.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "fb0e1137fd035fb6c00b87ed7d76f863cd5bc2ad2ee965a6a6c31e57d666d9da",
+    "gpt_submission_prompt": "A square black-and-white architectural photograph depicts a severe concrete structure beside a still pool. The building consists of interlocking rectangular volumes, one large horizontal block projecting strongly over a shadowed lower level, with smaller recesses and openings cut into the upper mass. The concrete shows visible formwork seams, rain streaks and tonal variation rather than appearing pristine. A broad stepped terrace leads toward the dark undercroft from the right; at the left, a bare-branched tree stands beside a low wall. A reflecting pool fills the foreground, and its gently disturbed surface repeats the building's heavy shapes and the tree's thin branches. The sky is pale and overcast, giving the whole image a quiet, soft illumination and a long span of middle grays. The largest cantilever spans the upper central field, the pool fills the lower third, and the tree forms an organic counterweight. The slightly low oblique viewpoint makes the compression and apparent weight of the slabs palpable, while all main edges are straight and legible. The structure is unadorned and the setting is unoccupied. The image emphasizes the relationship between weight and open space, rough material and smooth water, rigid geometry and irregular branches. The image feels contemplative, precise and quietly monumental.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "e4dc9793ce31b6b49ac2dadf96315c8786c83427645bc6b131611b7f6ebb9c3c",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

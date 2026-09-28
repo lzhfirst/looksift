@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A realistic landscape painting follows an empty urban street on a rainy evening. A row of dark stone houses runs down the right side, their bay windows and chimneys shrinking steadily into fog. Warm yellow light shines from a few windows and streetlamps, repeating at loose intervals along the block. The wet roadway fills the foreground and mirrors those lights in long broken vertical streaks. The left side fades into a cool gray-blue veil, allowing the near buildings to carry the main detail and the far street to disappear. The scene is carefully observed without becoming clinical: masonry and window frames are drawn firmly close by, while rain, mist, and distance blur the later façades into softer marks. Blue-gray, slate, charcoal, and muted brown form the dominant field; the warm lights are small but vivid. Illumination comes from those practical lamps and windows under an overcast sky, not from any visible sun. Surface texture gives the pavement a slick, uneven sheen, with darker puddles interrupting the reflections. The perspective pulls the eye from the luminous near right windows diagonally toward dim points far left. No figures demand attention, so the atmosphere itself becomes the subject. The whole painting holds a patient, melancholy quiet through controlled recession, rain-softened edges, and restrained contrast between cold air and domestic warmth.",
+  "full_prompt_zh": "一幅写实风景画沿着雨夜空旷的城市街道展开。右侧一排深色石屋向远处延伸，凸窗与烟囱在雾中逐渐缩小。几扇窗和路灯发出温暖黄光，沿街区以松散间隔反复出现。湿漉漉的路面填满前景，把这些亮光映成长而破碎的竖向光带。左侧渐渐消失在冷灰蓝色薄幕中，使近处房屋承担主要细节，远街则隐去。场景观察细致，却不显生硬：近处砖石和窗框画得坚定，雨、雾与距离把后续立面模糊成更软的笔迹。蓝灰、石板色、炭色与柔棕构成主场，暖灯光虽小却鲜明。照明来自阴天之下的路灯和窗户，而非可见太阳。表面纹理赋予路面湿滑不平的光泽，更暗的水坑打断倒影。透视把视线从右侧近处的亮窗斜向拉到左方远处昏暗光点。没有人物争夺注意，大气本身成为主题。整个画面通过受控的退远关系、被雨柔化的边缘，以及冷空气与家居暖光之间克制的对照，维持耐心而略带忧郁的静谧。",
+  "style_prompt_en": "A realistic rainy landscape in slate blue, charcoal, cool gray, and small amber light. Firm near verticals and repeated rectangular openings recede diagonally into fog, losing detail and contrast with distance. A wide dark lower plane carries elongated broken reflections and puddled shine. Overcast ambient light remains diffuse, while isolated warm points glow locally. Fine painterly texture softens stone and wet surfaces without erasing their structure. The frame feels open on one side, weighted by detail on the other, and paced by a sequence of lights fading into mist.",
+  "style_prompt_zh": "一幅写实雨景，主体为石板蓝、炭黑、冷灰和少量琥珀亮光。近处坚实竖线与重复矩形开口沿对角线退入雾中，距离越远，细节与反差越弱。宽阔的深色下方平面承载细长破碎的倒影与水洼光泽。阴天环境光持续漫射，孤立暖光点则在局部发亮。细致绘画纹理柔化石面与湿面，却不抹去结构。画幅一侧开阔，另一侧由细节压住，灯光逐个隐入薄雾形成节奏。",
+  "theme_en": "A rain-soaked street at blue hour",
+  "theme_zh": "蓝调时刻被雨浸湿的街道",
+  "wh_ratio": "1:1",
+  "id": "3138",
+  "name": "Clive Madgwick",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/clive-madgwick",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "be8d2b93ec08362538a56d17cf47a4cd9a8679226fedecc39d76ec69337ed6d4",
+    "gpt_submission_prompt": "A realistic landscape painting follows an empty urban street on a rainy evening. A row of dark stone houses runs down the right side, their bay windows and chimneys shrinking steadily into fog. Warm yellow light shines from a few windows and streetlamps, repeating at loose intervals along the block. The wet roadway fills the foreground and mirrors those lights in long broken vertical streaks. The left side fades into a cool gray-blue veil, allowing the near buildings to carry the main detail and the far street to disappear. The scene is carefully observed without becoming clinical: masonry and window frames are drawn firmly close by, while rain, mist, and distance blur the later façades into softer marks. Blue-gray, slate, charcoal, and muted brown form the dominant field; the warm lights are small but vivid. Illumination comes from those practical lamps and windows under an overcast sky, not from any visible sun. Surface texture gives the pavement a slick, uneven sheen, with darker puddles interrupting the reflections. The perspective pulls the eye from the luminous near right windows diagonally toward dim points far left. No figures demand attention, so the atmosphere itself becomes the subject. The whole painting holds a patient, melancholy quiet through controlled recession, rain-softened edges, and restrained contrast between cold air and domestic warmth.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "25080a262d2bf099fd7d9b6fddc26767fe836149d2519a84356a723fdecd8478",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

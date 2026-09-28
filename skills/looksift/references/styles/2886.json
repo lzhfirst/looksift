@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square fantasy landscape painting shows a small island of white stone ruins and palm trees beneath an impossible red-brown rock arch over brilliant blue sea. A deep cobalt sky fills the upper background, nearly cloudless except for a few tiny pale birdlike marks. At the upper left, several palms rise from a green ledge, their spiky crowns backlit against the blue. Pale crumbling towers and walls cluster below and to the right of the trees, with small dark openings in the stone. The island narrows into a rocky base near the left center, where dark vines and shaded vegetation collect. A broad reddish arch sweeps from that base across the middle toward the right, curving over a bright opening of sky and water. The underside of the arch is deep umber, while its sunlit upper edge glows ochre and terracotta. In the lower third, turquoise water laps against a small strip of pale sand and rock, catching short white highlights. Farther right, a tiny dark sailboat sits on the horizon; distant pale stone pillars rise from the sea behind it. The painting uses crisp silhouette edges around the arch and towers, with softer atmospheric fading toward the far structures. High clear daylight from the upper left brightens the white ruins, palm fronds and beach, while shaded rock and foliage form strong dark accents. The overall composition balances a weighty, improbable land bridge over luminous open water, creating an airy sense of discovery.",
+  "full_prompt_zh": "这幅方形奇幻风景绘画里，一座带白色石遗迹和棕榈树的小岛，位于一条不可能存在的红褐岩拱下方，四周是鲜亮蓝海。深钴蓝天空填满上方背景，几乎无云，只有几枚细小浅色鸟状痕迹。左上方，几棵棕榈从绿地台上升起，尖叶树冠逆着蓝天。浅色坍塌塔楼与墙体聚在树下和树右侧，石面有小深洞。岛在左侧中部收为岩石基部，深藤与暗影植被聚集其间。一道宽阔红色岩拱从该基部横扫中段向右，弯过明亮天空与水的开口。拱底是深赭褐，受光上缘发出赭黄和赤陶色。下方三分之一，青绿色水面拍打窄窄的浅沙与岩石，接住短白亮痕。更远右侧，地平线上有一只极小深色帆船，后方从海中升起淡色石柱。画面对岩拱与塔楼使用清楚剪影边，在远处结构中则让空气渐淡。来自左上的高处晴朗日光照亮白色遗迹、棕榈叶和沙滩，受遮蔽岩石与叶丛形成强深色强调。整体构图让厚重而不可思议的陆桥悬在发亮敞开水面上，营造通透的发现感。",
+  "style_prompt_en": "The fantasy painting combines crisp large silhouettes with finely lit textures and clear atmospheric recession. Cobalt and turquoise form broad luminous fields, opposed by warm ochre, rust and pockets of rich green. High daylight gives pale surfaces bright edges while deep shadow collects under overhangs and in dense recesses. Organic branching masses connect solid forms, and distant shapes soften into blue haze to expand scale. Small sharp accents remain scattered across otherwise open expanses. The interplay of heavy elevated structures and spacious light creates an adventurous, dreamlike rhythm without losing a convincing sense of sun and air.",
+  "style_prompt_zh": "这种奇幻绘画把清楚的大剪影、细致受光肌理和明确的空气退远结合。钴蓝与青绿组成宽阔明亮色域，与暖赭黄、锈色和浓绿凹处相对。高处日光让浅色表面带亮边，深影积在挑出部分下方和密集凹处。有机分枝状量块连接坚实形体，远处形状柔入蓝色薄雾，扩展尺度。小而尖的强调散在其他敞开区域中。厚重升起结构与宽裕光域相互作用，形成冒险而梦幻的节奏，同时保有可信的日光与空气。",
+  "theme_en": "A fantastical stone arch island with palms and pale ruins above blue water",
+  "theme_zh": "蓝色海水之上，奇幻石拱岛生长棕榈并立着浅色遗迹",
+  "wh_ratio": "1:1",
+  "id": "2886",
+  "name": "Roger Dean",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/roger-dean",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/roger-dean.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "bc22f50d004cf59f0e52b6ab3dafa5941dad21488f3f6eb39e0d4d3d4b67e48b",
+    "gpt_submission_prompt": "A square fantasy landscape painting shows a small island of white stone ruins and palm trees beneath an impossible red-brown rock arch over brilliant blue sea. A deep cobalt sky fills the upper background, nearly cloudless except for a few tiny pale birdlike marks. At the upper left, several palms rise from a green ledge, their spiky crowns backlit against the blue. Pale crumbling towers and walls cluster below and to the right of the trees, with small dark openings in the stone. The island narrows into a rocky base near the left center, where dark vines and shaded vegetation collect. A broad reddish arch sweeps from that base across the middle toward the right, curving over a bright opening of sky and water. The underside of the arch is deep umber, while its sunlit upper edge glows ochre and terracotta. In the lower third, turquoise water laps against a small strip of pale sand and rock, catching short white highlights. Farther right, a tiny dark sailboat sits on the horizon; distant pale stone pillars rise from the sea behind it. The painting uses crisp silhouette edges around the arch and towers, with softer atmospheric fading toward the far structures. High clear daylight from the upper left brightens the white ruins, palm fronds and beach, while shaded rock and foliage form strong dark accents. The overall composition balances a weighty, improbable land bridge over luminous open water, creating an airy sense of discovery.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "5734edbc0774c0484d624ec102f45b2dfc0c45cc70c4fa2666cb5dd811f52eed",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

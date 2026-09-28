@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square dark graphic painting shows a solemn man in side profile, seated or leaning at the right while raising a human skull toward his face. His bald scalp, sharp nose, and downcast eyes are picked out in blue-gray light, and his expression appears absorbed in the object he studies. A long teal coat covers his shoulders and torso, with a pale open collar and muted violet shirt at the center. His bent left arm rises from the lower left; slender fingers cradle the skull at eye level. The skull glows dirty ivory and gray, its eye sockets black, jaw slightly open, and wisps of white-lilac smoke or flame climbing from the crown. A broad crimson patch occupies the central background behind the skull and head. Around it, a rough wall shifts into plum, maroon, deep blue, and charcoal blocks, faintly marked by brick-like rectangles and scraped paint. The lower edge dissolves into shadowed broken strokes so neither chair nor floor becomes distinct. Outlines are energetic but controlled, with scratchy hatching around the face and hand and broader smeared brush planes in the jacket. The pale skull and smoke provide the main light, catching the man's brow, cheek, fingers, and coat lapel against the heavy red-dark field. The composition forms a tight exchange between lowered gaze and lifted skull, using stark complementary color and theatrical shadow to create brooding, supernatural drama.",
+  "full_prompt_zh": "一幅方形深色图像绘画里，肃穆男子在右侧呈侧面坐着或倚着，抬起人头骨靠近面孔。光头、锋利鼻梁与低垂眼睛被蓝灰光挑出，神情似乎沉浸于眼前物件。长青蓝外套覆住肩膀和上身，中央露出浅色敞领与低饱和紫色衬衣。他弯曲的左臂从左下升起，纤细手指将头骨托在眼睛高度。头骨发着脏象牙白与灰色微光，眼窝漆黑，颌骨微张，白紫色烟或火苗从颅顶向上飘。宽阔绯红色块占据头骨和人头后的中央背景。周围粗糙墙面转入李紫、栗红、深蓝与炭色块，隐约可见砖块似的矩形与刮擦颜料。下缘溶进破碎暗笔，椅子或地板都不明确。轮廓有活力却受控，面孔和手周围有刮擦排线，外套则以宽阔抹擦笔面构成。浅色头骨与烟雾提供主要光源，照到男子眉额、面颊、手指和翻领，对着沉重的红暗背景。构图在低垂目光和举起的头骨之间形成紧张交流，以强烈互补色与戏剧暗影营造阴郁超自然气氛。",
+  "style_prompt_en": "Dark graphic painting blends assertive linework and scratchy hatching with broad scraped color planes. Build a heavy maroon, crimson, plum, charcoal, and teal field, then use one pale luminous accent to model nearby forms. Let a rough geometric background read as layered texture rather than precise setting. Keep silhouettes clear while edges fray into smoke, broken strokes, or deep shadow. Cool blue highlights on warm dark ground heighten theatrical contrast. Arrange two closely facing focal shapes in a tight diagonal relationship, with the lower frame dissolving away. The transferable character is brooding, dramatic, and tactile, carried by color collision and uneven paint rather than polished realism.",
+  "style_prompt_zh": "深色图像绘画把果断线条与刮擦排线，融合宽阔刮涂色面。以栗红、绯红、李紫、炭色和青蓝建立厚重色场，再用一处浅色发光重点塑出邻近形体。粗糙几何背景更像层叠肌理而非精确场景。剪影保持清楚，边缘则散为烟、破笔或深影。暖深底上的冷蓝亮部增强戏剧对比。让两个相向焦点形状形成紧密对角关系，下半幅逐渐溶去。可迁移的气质阴郁、戏剧化且可触，由色彩碰撞与不均匀颜料承担，而非光滑写实。",
+  "theme_en": "A solemn man holding a luminous smoking skull before a crimson wall",
+  "theme_zh": "肃穆男子在绯红墙前托举冒烟的发光头骨",
+  "wh_ratio": "1:1",
+  "id": "2552",
+  "name": "Greg Capullo",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/greg-capullo",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/greg-capullo.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "0910f78ebea0b9645d8c74de1053dbff0840ac1e260462d11a915d5fdc1e2b5a",
+    "gpt_submission_prompt": "A square dark graphic painting shows a solemn man in side profile, seated or leaning at the right while raising a human skull toward his face. His bald scalp, sharp nose, and downcast eyes are picked out in blue-gray light, and his expression appears absorbed in the object he studies. A long teal coat covers his shoulders and torso, with a pale open collar and muted violet shirt at the center. His bent left arm rises from the lower left; slender fingers cradle the skull at eye level. The skull glows dirty ivory and gray, its eye sockets black, jaw slightly open, and wisps of white-lilac smoke or flame climbing from the crown. A broad crimson patch occupies the central background behind the skull and head. Around it, a rough wall shifts into plum, maroon, deep blue, and charcoal blocks, faintly marked by brick-like rectangles and scraped paint. The lower edge dissolves into shadowed broken strokes so neither chair nor floor becomes distinct. Outlines are energetic but controlled, with scratchy hatching around the face and hand and broader smeared brush planes in the jacket. The pale skull and smoke provide the main light, catching the man's brow, cheek, fingers, and coat lapel against the heavy red-dark field. The composition forms a tight exchange between lowered gaze and lifted skull, using stark complementary color and theatrical shadow to create brooding, supernatural drama.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "b5eedda6086111334f8815ad51e8c411a58b3717ee48d6a33df594d50b9d3695",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square satirical ink-and-watercolor sketch features a wild-haired character with a huge pink nose and toothy grin rising above a crowded tabletop. The head is exaggerated and almost puppet-like, with fine black hairlines shooting outward in every direction. Small figures, bottles, cups, and odd scraps jostle below, but none is rendered with neat illustrative polish. Loose scratchy pen lines carve the faces and objects; blots of orange, yellow, peach, and dirty gray watercolor burst across the otherwise white paper. Long thin splatters and drips extend upward and outward from the central cluster. A thick horizontal yellow stroke anchors the table area, while ragged gray wash falls beneath it. The composition has abundant white margin around a chaotic dense center, keeping the visual explosion readable. The pink nose, bright warm stains, and black ink tangles create a comic rhythm of sharp and soft marks. Light is essentially the untouched paper, not modeled illumination. The image feels irreverent, feverish, and deliberately messy, like a quick political cartoon or sketchbook page whose accidental stains were left visible. Its energy comes from line speed, asymmetry, and material splatter rather than a polished finish.",
+  "full_prompt_zh": "一幅方形讽刺性墨线水彩速写以一位乱发、粉红大鼻、咧嘴露齿的人物为主角，他从拥挤桌面上方探出。头部夸张得像木偶，黑色细发线向四面八方射出。下方小人物、瓶、杯与奇怪碎物互相挤靠，没有任何东西经过整齐的插画抛光。松动而刮擦般的钢笔线刻出面孔和物体；橙、黄、桃色和脏灰水彩斑点在大片白纸上爆开。长细飞溅线与滴痕从中央簇团向上向外延伸。一道厚重黄色水平笔迹压住桌面，下方落着不规则灰色薄染。混乱密集的中心外仍有充裕白边，使视觉爆炸清楚可读。粉红鼻子、明亮暖色污渍和黑墨缠线形成锐线与柔斑的滑稽节奏。光基本来自未着墨的纸白，而非体积照明。画面不敬、亢奋、刻意杂乱，像一张留下偶然污渍的快速政治漫画或速写本页。能量来自线条速度、不对称和材料飞溅，而非完成度抛光。",
+  "style_prompt_en": "A satirical ink-and-watercolor sketch style uses scratchy rapid line, exaggerated contour, and unruly splashes on broad white paper. Black pen tangles define the main forms; orange, yellow, peach, pink, and dirty gray washes land as irregular stains, drips, and flecks. A dense off-center cluster is balanced by generous untouched margin. Some thick horizontal stroke can anchor the activity, while spidery marks shoot outward. Paper white supplies light and contrast instead of modeled shading. The surface remains visibly improvised, with accidents embraced as texture. The mood is irreverent, energetic, and comic, shaped by speed and material rather than tidy detail.",
+  "style_prompt_zh": "讽刺性墨线水彩速写风格在宽阔白纸上使用刮擦般的快线、夸张轮廓和不受约束的飞溅。黑色钢笔缠线界定主形体；橙、黄、桃、粉和脏灰薄染落成不规则污渍、滴痕和斑点。偏中心的密集簇团由充裕未着墨白边平衡。一道较厚的水平笔迹可压住活动，其余蛛丝状线条向外射出。纸白提供光与反差，而非塑形阴影。表面明显带即兴性，偶然痕迹成为肌理。气氛不敬、充满能量且滑稽，由速度和材料形成，而不是整齐细节。",
+  "theme_en": "A wild-haired grinning character amid an explosive ink-and-watercolor sketch",
+  "theme_zh": "一位乱发咧嘴人物置于爆裂的墨线水彩速写中",
+  "wh_ratio": "1:1",
+  "id": "4417",
+  "name": "Ralph Steadman",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/ralph-steadman.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "3a018c20323a3b85030dc0d1d736c1753764b15ab7bc45b2f34ed3e867b598d2",
+    "gpt_submission_prompt": "A square satirical ink-and-watercolor sketch features a wild-haired character with a huge pink nose and toothy grin rising above a crowded tabletop. The head is exaggerated and almost puppet-like, with fine black hairlines shooting outward in every direction. Small figures, bottles, cups, and odd scraps jostle below, but none is rendered with neat illustrative polish. Loose scratchy pen lines carve the faces and objects; blots of orange, yellow, peach, and dirty gray watercolor burst across the otherwise white paper. Long thin splatters and drips extend upward and outward from the central cluster. A thick horizontal yellow stroke anchors the table area, while ragged gray wash falls beneath it. The composition has abundant white margin around a chaotic dense center, keeping the visual explosion readable. The pink nose, bright warm stains, and black ink tangles create a comic rhythm of sharp and soft marks. Light is essentially the untouched paper, not modeled illumination. The image feels irreverent, feverish, and deliberately messy, like a quick political cartoon or sketchbook page whose accidental stains were left visible. Its energy comes from line speed, asymmetry, and material splatter rather than a polished finish.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "a5957a095b6cd15552e5a748f74d72cb448c8298ac19036d5ca17060a8169758",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

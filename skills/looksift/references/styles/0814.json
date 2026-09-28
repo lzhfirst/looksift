@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square editorial cartoon shows a small worried statesman seated on a broken stone platform in a ruined city. He wears a dark green suit, with an oversized expressive face and hands clasped tightly in front of him. Crumbling columns and damaged buildings flank the scene; rubble scatters across the paving. Above his head, a large blue-green globe floats between the ruins, turning the crisis into a direct visual metaphor. Tiny figures at the sides reinforce the scene's public scale. Thick black ink contours, fine cross-hatching, and compact colored washes give the drawing both comic clarity and architectural detail. The palette is dusty blue, olive green, stone gray, warm cream, and rust, with the globe the strongest cool accent. The character's wide eyes and compressed posture contrast with the grand broken setting. Light is even and illustrative, so each symbol remains readable despite the busy page. A dark irregular border and slightly worn paper texture make the scene resemble a printed newspaper cartoon. The composition is central and symmetrical enough for immediate meaning, but rubble and tilted structures keep it unsettled. The whole frame is satirical, anxious, and visually dense, with exaggeration used to clarify a serious theme.",
+  "full_prompt_zh": "一幅方形编辑漫画呈现一位小小的忧虑政客坐在废墟城市的破石台上。他穿深绿色西装，面孔夸张富于表情，双手在前面紧紧扣住。倒塌的柱子和损坏建筑夹在两侧，碎石散落在铺地上。头顶一颗巨大的蓝绿色地球漂在废墟之间，把危机转成直接视觉隐喻。两侧细小人物加强公共事件的尺度。厚黑墨轮廓、细交叉排线和紧凑彩色薄染同时提供漫画清晰度与建筑细节。色谱有灰蓝、橄榄绿、石灰、暖乳白与锈色，地球是最强冷色点缀。人物睁大眼睛、身体收缩，与宏大的破损环境对照。光均匀且属于插画，让每个象征即使在繁忙画页中仍可读。深色不规则边框和略磨旧纸面肌理使场景像印刷报纸漫画。构图足够居中和对称，意义可迅速读出，但碎石与倾斜结构保持不稳定。整体讽刺、焦虑、视觉密集，以夸张澄清严肃议题。",
+  "style_prompt_en": "An editorial cartoon style joins caricatured focal features, clear symbolic objects, and densely hatched surroundings. Thick black contour makes the central gesture readable at a glance; fine cross-hatching gives masonry, debris, or other environmental detail weight. Dusty blue, olive, gray, cream, and rust stay restrained, with one strong cool accent carrying the metaphor. Even illustrative light keeps the many elements legible. A compact central composition and irregular dark border echo a printed newspaper panel. The mood is satirical and anxious, with visual exaggeration supporting a serious idea rather than decorative fantasy.",
+  "style_prompt_zh": "编辑漫画风格结合夸张焦点五官、清楚象征物和密集排线环境。厚黑轮廓让中央动作一眼可读，细交叉排线赋予砖石、废物或其他环境细节重量。灰蓝、橄榄、灰、乳白和锈色保持克制，一处强冷色点缀承担隐喻。均匀插画光让众多元素清楚。不规则深色边框与紧凑中央构图令人想到印刷报纸漫画。气氛讽刺又焦虑，视觉夸张服务于严肃想法，而非装饰奇幻。",
+  "theme_en": "A worried cartoon statesman sits in a ruined city beneath a floating globe",
+  "theme_zh": "一位忧虑的漫画政客坐在废墟城市中，头顶漂着地球",
+  "wh_ratio": "1:1",
+  "id": "0814",
+  "name": "Rob Rogers",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/rob-rogers",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/rob-rogers.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "80c4a6c7561aa63ec3abc2e80471cca25019217462133b667acd3950465e4c09",
+    "gpt_submission_prompt": "A square editorial cartoon shows a small worried statesman seated on a broken stone platform in a ruined city. He wears a dark green suit, with an oversized expressive face and hands clasped tightly in front of him. Crumbling columns and damaged buildings flank the scene; rubble scatters across the paving. Above his head, a large blue-green globe floats between the ruins, turning the crisis into a direct visual metaphor. Tiny figures at the sides reinforce the scene's public scale. Thick black ink contours, fine cross-hatching, and compact colored washes give the drawing both comic clarity and architectural detail. The palette is dusty blue, olive green, stone gray, warm cream, and rust, with the globe the strongest cool accent. The character's wide eyes and compressed posture contrast with the grand broken setting. Light is even and illustrative, so each symbol remains readable despite the busy page. A dark irregular border and slightly worn paper texture make the scene resemble a printed newspaper cartoon. The composition is central and symmetrical enough for immediate meaning, but rubble and tilted structures keep it unsettled. The whole frame is satirical, anxious, and visually dense, with exaggeration used to clarify a serious theme.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "3d6f68d8d1e03925f6cb2f95b9ebfa59042a48acb85fa7d50dea9509ef1fb144",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

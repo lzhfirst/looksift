@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square mural-like painting is dominated by an enormous dark mask with two sharp hornlike projections and wide pale eyes. Its beak-shaped central ridge descends toward an open book laid horizontally across the bottom of the image. Crimson organic forms coil around both sides of the mask, resembling flame, cloth, or muscular wings. In the shadowed areas behind them, additional distorted eyes and mouths emerge from the composition, partly swallowed by black. Above, a geometric gray wall and several muted vertical strips suggest a confined interior. The central gaze is unnervingly direct, while the book's pale curled pages create a calmer horizontal base. Strong outlines and angular planes structure the faces, but the paint surface is visibly rubbed and uneven. Charcoal, smoky gray, red ochre, faded cream, and small dusty pink highlights form a compressed palette. Light appears to rise from the pale pages and strike the underside of the mask and surrounding red folds, while the top corners remain dim. The forms crowd the frame without a clear background horizon. The image feels allegorical and severe, with expressive distortion and rough fresco texture carrying more weight than literal realism or decorative detail.",
+  "full_prompt_zh": "一幅方形壁画式绘画由一张巨大的深色面具主导，面具伸出两只尖角，露出睁大的浅色双眼。喙状中央脊线向下指向横放在画面底部的一本打开的书。深红有机形体在面具两侧卷起，似火焰、布料，也似强健的翅膀。它们后方的暗处还浮出扭曲的眼与嘴，部分没入黑色。上方灰色几何墙面和几道低调竖条暗示封闭室内。中央视线令人不安地直射观看者，书本浅色卷页则构成较平静的水平底座。强轮廓与有棱角平面组织面孔，颜料表面却可见擦痕和不均。炭黑、烟灰、红赭、褪色奶油色与少量灰粉高光形成压缩的色彩。光仿佛从浅页上升，照到面具下方与周围红色褶形，上角仍昏暗。形体挤满画框，没有清楚地平线。画面具有寓言感和严峻感，表现性变形与粗砺壁画肌理比字面写实或装饰细节更重要。",
+  "style_prompt_en": "Severe mural painting with compressed angular masses, staring circular accents, heavy black recesses, and crimson organic swirls. The palette stays in charcoal, ash gray, red ochre, dusty rose, and faded cream. Dry rubbed pigment and uneven fresco-like patches remain visible over forceful outlines. Pale horizontal light near the base pushes upward into crowded dark forms, creating symbolic intensity without polished realism.",
+  "style_prompt_zh": "严峻的壁画绘画，以压缩的棱角形块、凝视般的圆形重点、厚重黑色凹处和深红有机卷形构成。色彩控制在炭黑、灰烬色、红赭、灰粉和褪色奶油色。干擦颜料与不均匀的湿壁画式斑块显露在有力轮廓之上。靠近底部的浅色水平亮区向拥挤深形上推，形成不依赖光滑写实的象征强度。",
+  "theme_en": "A giant horned mask with staring eyes above an open book",
+  "theme_zh": "张开的书上方一副巨大的角形面具和凝视双眼",
+  "wh_ratio": "1:1",
+  "id": "4307",
+  "name": "Jose Clemente Orozco",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/jose-clemente-orozco.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "f00da11db3d2ff2ee846ccff24225f467e039bcecd3751b820e7b22144d07781",
+    "gpt_submission_prompt": "A square mural-like painting is dominated by an enormous dark mask with two sharp hornlike projections and wide pale eyes. Its beak-shaped central ridge descends toward an open book laid horizontally across the bottom of the image. Crimson organic forms coil around both sides of the mask, resembling flame, cloth, or muscular wings. In the shadowed areas behind them, additional distorted eyes and mouths emerge from the composition, partly swallowed by black. Above, a geometric gray wall and several muted vertical strips suggest a confined interior. The central gaze is unnervingly direct, while the book's pale curled pages create a calmer horizontal base. Strong outlines and angular planes structure the faces, but the paint surface is visibly rubbed and uneven. Charcoal, smoky gray, red ochre, faded cream, and small dusty pink highlights form a compressed palette. Light appears to rise from the pale pages and strike the underside of the mask and surrounding red folds, while the top corners remain dim. The forms crowd the frame without a clear background horizon. The image feels allegorical and severe, with expressive distortion and rough fresco texture carrying more weight than literal realism or decorative detail.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "3e1cadf179c17735ef116f989c97129a299d6f0b92f8dfa0c32c68de82766fef",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

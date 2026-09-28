@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square folk-art winter scene is viewed from a high, surveying position. Snow blankets rolling fields from the crowded foreground into distant pale hills. Tiny people in red, black, ocher, and blue clothing scatter over the whole landscape: some gather in groups beside a blue-gray pond at the bottom, others move along winding tracks, and many small figures travel up the central slope. A dark bare tree stands near the middle of the composition, with other finely branched trees spaced through the snowy grounds. Several low white buildings with steep snowy roofs sit among the people. One larger building appears at middle left, another near middle right, and a small church with a steeple rises in the far upper-right distance. At the lower edge, figures and a dark horse-like shape crowd the area around the frozen or partly open water. The horizon sits very high, beneath a narrow band of cool blue sky. Perspective is intuitive rather than strict: houses, people, and trees are arranged in tiers so many little activities remain visible at once. The paint has a fine stippled and brushed texture; white snow varies through cream, gray, and pale blue. Bright clothing accents animate the quiet winter palette. The eye wanders from one tiny episode to another while the broad snowfield keeps the scene unified.",
+  "full_prompt_zh": "一幅方形民间绘画风格的冬日景象从较高、便于环顾的视点呈现。白雪盖住从拥挤前景延伸到远处浅色山丘的起伏田野。穿红、黑、赭黄和蓝色衣服的微小人物散布全景：有人聚在底部蓝灰色池塘旁，有人沿弯曲小路行进，更多小人走上中央坡面。一棵深色落叶树立在构图中部，其余枝条纤细的树分布在雪地里。几栋覆雪陡顶的低矮白屋置于人群之间，左中景有一栋较大建筑，右中景也有一栋；远处右上角，一座带尖塔的小教堂从山坡升起。下边缘，人物和一处深色马形围在结冰或半开阔的水面附近。地平线很高，上方只留一条冷蓝天空。透视凭直觉安排而不严守规则：房屋、人物和树木层层排开，让众多小活动同时可见。颜料带细密点状与刷涂肌理，白雪在奶油色、灰色和浅蓝之间变化。鲜亮衣色活跃了安静的冬季色盘。视线从一个小场景游向另一个，而宽阔雪原维系全画统一。",
+  "style_prompt_en": "Use a high, inclusive viewpoint to organize many small incidents across a broad landscape of softly rolling bands. Favor naive, hand-painted scale and clear tiered placement over exact linear perspective. Surfaces carry tiny stipples, thin tree lines, and modest brush texture. A dominant pale field can vary through warm white, cool gray, cream, and blue, while miniature red, black, ocher, and blue accents create a lively scattered rhythm. Diffuse daylight gives even visibility to foreground and distance; avoid dramatic spotlighting. Keep structures simple and figures reduced but individually legible through posture and color. The transferable effect is patient narrative abundance within a calm overall pattern, where numerous little actions are held together by repeated marks, open ground, and a restrained seasonal palette.",
+  "style_prompt_zh": "用较高而包容的视点，把许多小事件组织在宽阔、柔和起伏的带状地形中。偏向朴拙的手绘尺度和清楚的层次摆放，不拘泥精确线性透视。表面有细小点痕、纤细树线和适度笔触质感。主导的浅色区域可在暖白、冷灰、奶油色和浅蓝间变化，微小红、黑、赭黄与蓝色重点形成活跃的散点节奏。散射日光使前后景都均匀可见，避免戏剧性聚光。结构保持简单，人物缩小，却仍通过姿态和颜色各自可辨。可迁移的效果是平静整体纹样中的耐心叙事丰度，众多微小动作被重复笔痕、开阔地面和克制的季节色盘共同收拢。",
+  "theme_en": "A busy winter village with skaters and sledders across snowy hills",
+  "theme_zh": "雪丘之间滑冰与乘雪橇的人群组成热闹冬日村庄",
+  "wh_ratio": "1:1",
+  "id": "1856",
+  "name": "Grandma Moses",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/grandma-moses",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/grandma-moses.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "f32eca166a9acbaf71d9c494b4f9568d2e634c1d71185c6d2d67efba71a3c743",
+    "gpt_submission_prompt": "A square folk-art winter scene is viewed from a high, surveying position. Snow blankets rolling fields from the crowded foreground into distant pale hills. Tiny people in red, black, ocher, and blue clothing scatter over the whole landscape: some gather in groups beside a blue-gray pond at the bottom, others move along winding tracks, and many small figures travel up the central slope. A dark bare tree stands near the middle of the composition, with other finely branched trees spaced through the snowy grounds. Several low white buildings with steep snowy roofs sit among the people. One larger building appears at middle left, another near middle right, and a small church with a steeple rises in the far upper-right distance. At the lower edge, figures and a dark horse-like shape crowd the area around the frozen or partly open water. The horizon sits very high, beneath a narrow band of cool blue sky. Perspective is intuitive rather than strict: houses, people, and trees are arranged in tiers so many little activities remain visible at once. The paint has a fine stippled and brushed texture; white snow varies through cream, gray, and pale blue. Bright clothing accents animate the quiet winter palette. The eye wanders from one tiny episode to another while the broad snowfield keeps the scene unified.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "3a2d88ab97bd2abfea12ba03355be29657ecb7efc1d7cffa0f18ec0b9ef3139c",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

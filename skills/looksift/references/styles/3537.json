@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square oil-paint-like illustration shows a young woman seated against a rough, sunlit beige wall. She sits near the lower center, legs angled toward the left edge and upper body turned toward the right. A very broad black hat casts a deep shadow across her eyes, while dark shoulder-length hair frames the illuminated lower face. The red blouse is loosely folded at the sleeves and collar, its rich rust color standing out from the black skirt gathered around the waist and upper thighs. One arm drops beside the body and the other rests close to the lap, giving the pose a calm but watchful stillness. A large angular shadow of the hat and head falls to the right on the wall, making a second dark shape beside the figure. The left edge of the image falls into nearly black shadow, so the narrow bright wall area behind the woman feels like a stage of warm light. Brushwork is visible throughout: broad scumbled strokes roughen the wall, dark blocks simplify the skirt, and smaller smooth passages describe the face and bare legs. The palette is spare, moving between ocher beige, brick red, warm skin tones, and dense brown-black. Strong light arrives from the upper left, sharpening the wall shadow and catching the cheek and knee, while the hat brim protects the eyes from direct illumination. The setting offers no furniture or readable sign, keeping attention on pose, color, and cast shadow. The overall composition is compact and theatrical, with one bright figure held between broad darkness and the textured golden wall.",
+  "full_prompt_zh": "一幅方形、近似油画的插画表现一位年轻女子坐在粗糙、受到日照的米色墙前。她靠近下方中央，双腿斜向左边缘，上身转向右侧。极宽的黑帽在眼睛上投下深影，深色及肩发围住受光的下半张脸。红衬衫在袖子和领口处松松起皱，浓郁锈红色在腰部和大腿上方聚拢的黑裙前格外突出。一只手臂沿身侧垂下，另一只靠近膝上，姿态平静却带警觉。帽子与头部的大块折角投影落在右侧墙上，构成她旁边的第二个暗形。画面左边缘落入近黑阴影，使女子身后狭窄亮墙像一块暖光舞台。笔触处处可见：宽阔干擦痕使墙粗糙，暗色块简化裙子，较小且平滑的区域描绘脸和裸腿。配色节制，在赭米色、砖红、暖肤色与浓棕黑之间移动。强光从左上方来，使墙上投影锐利，并照到脸颊和膝盖，帽檐则挡住眼睛上的直光。场景没有家具或可读标牌，让注意力集中在姿势、颜色和投影上。整体构图紧凑而戏剧化，一个明亮人物被宽阔黑暗和有肌理的金色墙面夹在中间。",
+  "style_prompt_en": "The image is a bold painterly illustration made from broad matte color areas and visible rough brushwork. Warm ocher and brick red face large near-black masses, with small skin-toned highlights bridging the two. Strong angled light makes cast shadows an active geometric part of the composition; broad dark edges hold the brighter center tightly. Forms are simplified into clean readable silhouettes, yet scumbled grain and irregular edges keep them hand-painted rather than flat. The brightest planes carry a soft warm glow, while details in the shadows are deliberately compressed. The overall effect is cinematic, poised, and high in graphic contrast.",
+  "style_prompt_zh": "图像是一种大胆的绘画式插画，由宽阔哑光色域和可见粗笔触构成。暖赭与砖红面对大片近黑色块，少量肤色亮部连接两者。强烈斜光让投影成为构图中活跃的几何部分；宽暗边紧紧包住更亮的中心。形体被简化为清楚可读的剪影，干擦颗粒和不规则边缘又让它们保持手绘感而非平面图形。最亮的平面有柔和暖光，阴影细节则有意压缩。整体效果电影化、姿态稳住、图形反差很强。",
+  "theme_en": "A woman in a red blouse and broad black hat seated against a sunlit wall",
+  "theme_zh": "红衬衫、宽黑帽女子坐在日照墙前",
+  "wh_ratio": "1:1",
+  "id": "3537",
+  "name": "Bill Brauer",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/bill-brauer",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "03b10fa3d2fa53ce800ed42ac75ce260abac532e334905856644892c160382ab",
+    "gpt_submission_prompt": "A square oil-paint-like illustration shows a young woman seated against a rough, sunlit beige wall. She sits near the lower center, legs angled toward the left edge and upper body turned toward the right. A very broad black hat casts a deep shadow across her eyes, while dark shoulder-length hair frames the illuminated lower face. The red blouse is loosely folded at the sleeves and collar, its rich rust color standing out from the black skirt gathered around the waist and upper thighs. One arm drops beside the body and the other rests close to the lap, giving the pose a calm but watchful stillness. A large angular shadow of the hat and head falls to the right on the wall, making a second dark shape beside the figure. The left edge of the image falls into nearly black shadow, so the narrow bright wall area behind the woman feels like a stage of warm light. Brushwork is visible throughout: broad scumbled strokes roughen the wall, dark blocks simplify the skirt, and smaller smooth passages describe the face and bare legs. The palette is spare, moving between ocher beige, brick red, warm skin tones, and dense brown-black. Strong light arrives from the upper left, sharpening the wall shadow and catching the cheek and knee, while the hat brim protects the eyes from direct illumination. The setting offers no furniture or readable sign, keeping attention on pose, color, and cast shadow. The overall composition is compact and theatrical, with one bright figure held between broad darkness and the textured golden wall.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "939445e0db1c0e77f8b0b7648c8067bf2e02b05e3b7fc3d1131af1631e8f65ec",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

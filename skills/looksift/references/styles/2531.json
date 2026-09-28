@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square expressionist oil painting depicts a solitary man in dark formal clothes standing near a wind-tossed shore beneath an immense blue sky. He occupies the left half, turned in profile toward the right, hands tucked into his coat pockets. His black jacket, vest, and trousers form a long vertical mass; a narrow pale shirt and tie show at the throat. Short dark hair and a serious side-facing expression are indicated with a few firm warm and cool strokes rather than fine likeness. Near his feet at the lower right, a small brown dog sits or crouches facing toward the water. Behind them, a low band of turquoise-green sea runs across the middle, with scattered red, yellow, and pink paint fragments suggesting reflections or land at the horizon. Above, the sky churns with broad electric-blue and ultramarine strokes, interrupted by a large streak of cream-white, pale yellow, and lilac cloud sweeping diagonally behind the man's head. Below, the shore is a broken mosaic of cobalt, teal, green, violet, and occasional orange. Thick wet-looking brush ridges and dragged, slashing marks remain visible across every part of the canvas, making the atmosphere feel as active as the figures are still. Light is implied through pale cloud and bright patches on water, while the man stays a dark silhouette with a few cool blue glints. The composition sets a quiet pair against expansive, restless painted weather.",
+  "full_prompt_zh": "一幅方形表现主义油画描绘孤独男子穿深色正式衣服，立于风起的海岸附近，上方是巨大的蓝天。他在左半幅朝右呈侧面，双手插在外套口袋里。黑外套、背心与裤子形成长长竖向团块，喉间露出窄浅衬衫和领带。短深发与严肃侧脸由少数坚定的冷暖笔触提示，而不追求细致肖像。脚边偏右下，一只棕色小狗坐着或蹲着，朝水面看。后方，蓝绿色低矮海带横过中央，散落红、黄、粉色颜料碎块暗示地平线的反光或陆地。上方，天空由宽阔电蓝与群青笔触翻卷，一道奶油白、浅黄与淡紫大云斜扫过男子头后。下方海岸是钴蓝、青绿、绿、紫和少量橙色组成的破碎马赛克。厚而似湿的画笔凸痕、拖笔和劈划笔迹留在画布各处，使大气和静止人物形成动静对照。光由浅云与水上亮色块暗示，男子仍是深剪影，只有少量冷蓝闪点。构图让安静的一人一狗对着广阔不安的绘制天气。",
+  "style_prompt_en": "Expressionist oil painting keeps thick, wet-looking brush ridges and directional slashes visible across the whole image. Build atmosphere from turbulent cobalt, electric blue, teal, violet, and a few warm red-orange fragments, then break it with a sweeping cream and lilac light mass. Place a simple dark vertical focal silhouette against the active color field; a small secondary accent can steady the lower edge. Forms remain recognizable but their edges participate in the movement of paint. Light comes through color and impasto contrast rather than exact naturalistic shading. The transferable effect is solitary and emotionally weathered, with restless texture surrounding still structure.",
+  "style_prompt_zh": "表现主义油画让厚实似湿的笔触凸痕和定向劈划在全画面可见。用翻涌钴蓝、电蓝、青绿、紫色及少量暖红橙碎片构成大气，再以横扫的奶油白淡紫亮团打断。简单深竖向焦点剪影对着活跃色场；小块次级重点可稳住下缘。形体仍可辨，但边缘也参与颜料运动。光来自颜色与厚涂对比，而非精确自然阴影。可迁移效果孤独、情绪饱受天气洗刷，躁动纹理围着静止结构。",
+  "theme_en": "A solitary man and small dog before a turbulent blue shore",
+  "theme_zh": "独行男子与小狗置身翻涌蓝色海岸",
+  "wh_ratio": "1:1",
+  "id": "2531",
+  "name": "Jack Butler Yeats",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/jack-butler-yeats",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/jack-butler-yeats.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "5b94338e794f39dfa2aa95bb979ae8d417d018c595f94539f71cb13f03a03358",
+    "gpt_submission_prompt": "A square expressionist oil painting depicts a solitary man in dark formal clothes standing near a wind-tossed shore beneath an immense blue sky. He occupies the left half, turned in profile toward the right, hands tucked into his coat pockets. His black jacket, vest, and trousers form a long vertical mass; a narrow pale shirt and tie show at the throat. Short dark hair and a serious side-facing expression are indicated with a few firm warm and cool strokes rather than fine likeness. Near his feet at the lower right, a small brown dog sits or crouches facing toward the water. Behind them, a low band of turquoise-green sea runs across the middle, with scattered red, yellow, and pink paint fragments suggesting reflections or land at the horizon. Above, the sky churns with broad electric-blue and ultramarine strokes, interrupted by a large streak of cream-white, pale yellow, and lilac cloud sweeping diagonally behind the man's head. Below, the shore is a broken mosaic of cobalt, teal, green, violet, and occasional orange. Thick wet-looking brush ridges and dragged, slashing marks remain visible across every part of the canvas, making the atmosphere feel as active as the figures are still. Light is implied through pale cloud and bright patches on water, while the man stays a dark silhouette with a few cool blue glints. The composition sets a quiet pair against expansive, restless painted weather.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "2c39dc8bd4a7da05c75084a2de3f7940d44a762e493578e2771b9b91def11c7c",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

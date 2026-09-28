@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A young reader sits low among tall meadow grasses, holding an open book across her lap and looking down at its pages. Her dark, wavy hair forms a soft halo around a pale face, while a patterned high collar and dark garment merge into the shadowed plants. Thin stems and tiny blossoms cross both in front of and behind her, creating a layered veil rather than a clear separation between subject and setting. The book pages catch one of the brightest patches of light near the lower center, answering the gentle illumination on her forehead, nose, and cheek. Most of the background falls into velvety black, with only a few pale grass tips and small flowers emerging from it. The composition is intimate and close, cropped around the upper body and hands; no distant landscape competes with the absorbed gesture. This is a black-and-white photograph with a soft tonal range, fine film grain, and an almost hand-worked delicacy in the transition between hair, leaves, and shadow. Some grasses appear sharp and wiry, while others blur into luminous, feathery strokes across the foreground. The dark clothing and surrounding vegetation become one broad mass, allowing the face and pages to float softly forward. The light feels filtered through open shade, tender and quiet, with no theatrical beam or hard contour. The image evokes private attention, natural closeness, and a fleeting moment suspended in a textured dark field.",
+  "full_prompt_zh": "一位年轻读者低坐在高高的草丛中，膝上捧着打开的书，低头望向书页。深色波浪发在浅色面容周围形成柔软光晕，带纹样的高领和深色衣服融入阴影里的植物。纤细草茎与小花既穿过人物前方，也出现在身后，形成层叠薄纱，而非把主体与环境清楚分开。书页在画面下方中央接住一处最亮的光，与额头、鼻梁和脸颊上的柔光呼应。背景大多沉入天鹅绒般的黑色，只有少数浅色草尖和小花从中显露。构图亲近且紧凑，围绕上半身和双手裁切；没有远景与专注的动作竞争。这是一张黑白照片，明暗过渡柔和、胶片颗粒细密，头发、树叶与阴影之间的转换近乎手工细作。有些草茎锐利而纤细，另一些则在前景化为发亮的羽状模糊笔痕。深色衣服和周围植物融成一块宽大的暗色区域，让脸与书页柔和地浮到前方。光仿佛穿过开阔阴处被过滤，温柔而安静，没有戏剧性的光束或坚硬轮廓。图像传达私密的专注、与自然的亲近，以及悬在深色肌理场中的短暂瞬间。",
+  "style_prompt_en": "Soft monochrome photography layers fine grain, velvety blacks, and restrained silver-grey highlights. Delicate near forms cross the frame at different focus depths, some crisp and wiry, others blurred into feathery light. A small pale focal area emerges from a broad dark mass without a hard separating edge. Open-shade illumination models surfaces gently, allowing tonal transitions to flow through hairlike, fibrous, or leafy textures. The framing is close and intimate, with foreground occlusion providing depth and a sense of privacy. Brightness is concentrated in a few quiet accents rather than distributed evenly. The overall impression is tender, contemplative, and tactile.",
+  "style_prompt_zh": "柔和的黑白摄影叠加细密颗粒、天鹅绒般的黑和克制的银灰亮部。细腻的近景形状在不同焦距层次上穿过画面，有些清晰而纤细，有些模糊为羽状的光。小块浅色焦点从宽大的暗色块中浮现，却没有坚硬的分界。开阔阴处的光温和地塑造表面，让明暗过渡流经发丝般、纤维状或叶状的肌理。取景紧凑且亲近，前景遮挡带来纵深和私密感。亮度集中于少量安静的重音，而非均匀分布。整体印象温柔、沉思且可触摸。",
+  "theme_en": "A young reader absorbed in a book among tall meadow grasses",
+  "theme_zh": "一位年轻读者在高草丛中专注读书",
+  "wh_ratio": "1:1",
+  "id": "3912",
+  "name": "Nell Dorr",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/nell-dorr.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "f0a1108298c6d8dd88ac0676d8935341c2ef259f4c0fc41ac1b4ee3156dca27c",
+    "gpt_submission_prompt": "A young reader sits low among tall meadow grasses, holding an open book across her lap and looking down at its pages. Her dark, wavy hair forms a soft halo around a pale face, while a patterned high collar and dark garment merge into the shadowed plants. Thin stems and tiny blossoms cross both in front of and behind her, creating a layered veil rather than a clear separation between subject and setting. The book pages catch one of the brightest patches of light near the lower center, answering the gentle illumination on her forehead, nose, and cheek. Most of the background falls into velvety black, with only a few pale grass tips and small flowers emerging from it. The composition is intimate and close, cropped around the upper body and hands; no distant landscape competes with the absorbed gesture. This is a black-and-white photograph with a soft tonal range, fine film grain, and an almost hand-worked delicacy in the transition between hair, leaves, and shadow. Some grasses appear sharp and wiry, while others blur into luminous, feathery strokes across the foreground. The dark clothing and surrounding vegetation become one broad mass, allowing the face and pages to float softly forward. The light feels filtered through open shade, tender and quiet, with no theatrical beam or hard contour. The image evokes private attention, natural closeness, and a fleeting moment suspended in a textured dark field.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "604ec64d2d7bd3043d70d890a6ecde9a293a418152f76b5bc97a40e2d433b1ae",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

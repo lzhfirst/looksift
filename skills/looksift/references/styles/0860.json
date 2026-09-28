@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square narrative cartoon shows a quiet breakfast scene in a modest room. A long-nosed, bespectacled man in a gray-blue suit and narrow red tie sits at the left side of a small round table. Opposite him, a tiny child with matching round glasses peers over the tabletop toward a plate of food. Cups, a pot, and a few breakfast items stand on the white tablecloth. An open doorway or tall window at the far left frames pale rooftops and a low glowing sun; a dark curtain hangs beside it. Above the table, a simple pendant shade casts a pool of warm light. Framed pictures, a mantel, a small clock, and books furnish the otherwise restrained interior. Strong black contours and rounded caricature shapes define the figures, while soft painted shading gives the walls, floorboards, and cloth gentle depth. The palette moves between slate gray, muted blue, cream, brown, and a small amount of burnt orange from the outdoors. The adult's slumped shoulders and the child's attentive upward gaze create a tender comic pause. A broad dark floor anchors the foreground, and the warm rectangle of the exterior view counterbalances the indoor lamp. The scene feels like a hand-drawn storybook panel, with clean staging, understated humor, and a slightly worn domestic atmosphere.",
+  "full_prompt_zh": "一幅方形叙事漫画呈现朴素房间里的安静早餐。左侧，一位长鼻子、戴圆眼镜的男子穿灰蓝西装和窄红领带，坐在小圆桌旁。对面一个同样戴圆眼镜的幼小孩子从桌沿探出头，望向食物盘。白色桌布上摆着杯子、壶和少量早餐物件。最左侧敞开的门口或高窗框住浅色屋顶与低悬发光的太阳，旁边垂着深色窗帘。桌上方，简单的吊灯罩投下一团暖光。墙上的画框、壁炉架、小钟和书使克制的室内带上居家气息。浓黑轮廓与圆润的漫画造型界定人物，柔和的着色为墙壁、地板和布料添加浅浅纵深。配色在石板灰、低饱和蓝、奶油色与棕色之间变化，室外只透进少量焦橙色。成人略塌的肩膀和孩子专注向上的目光形成温柔的喜剧停顿。前景大片暗色地板固定画面，室外暖色的方形景框则与室内吊灯互相平衡。这一幕如手绘故事书中的一格，叙事清楚、幽默含蓄，带着略显陈旧的家庭气息。",
+  "style_prompt_en": "Hand-drawn narrative cartoon with firm black outlines, rounded facial exaggeration, and soft painterly interior shading. Muted slate blue, gray, cream, and warm brown form a lived-in palette, with a small amber accent drawing the eye. A close domestic composition uses simple furniture planes, framed wall details, and a foreground shadow to build depth. Gentle pools of light and unhurried poses support quiet humor and emotional warmth. Surfaces retain slight brush texture rather than polished vector flatness.",
+  "style_prompt_zh": "手绘叙事漫画采用清晰的黑色轮廓、圆润的面部夸张和柔和的室内绘画式明暗。低饱和石板蓝、灰、奶油色与暖棕组成有生活痕迹的配色，少量琥珀色点缀引导视线。亲密的室内构图借简单的家具平面、墙上画框细节与前景阴影建立纵深。柔和的局部光线和舒缓的姿态支撑含蓄幽默与情感温度。表面保留轻微笔触，而非光洁的矢量平涂。",
+  "theme_en": "A long-nosed man and a child at breakfast in a modest room",
+  "theme_zh": "长鼻男子与孩子在朴素房间里共进早餐",
+  "wh_ratio": "1:1",
+  "id": "0860",
+  "name": "Philippe Geluck",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/philippe-geluck",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/philippe-geluck.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "9b8b9923e744172d864b6105811acf8a00eb9ae8e364f7f79e3b12211c7bb17a",
+    "gpt_submission_prompt": "A square narrative cartoon shows a quiet breakfast scene in a modest room. A long-nosed, bespectacled man in a gray-blue suit and narrow red tie sits at the left side of a small round table. Opposite him, a tiny child with matching round glasses peers over the tabletop toward a plate of food. Cups, a pot, and a few breakfast items stand on the white tablecloth. An open doorway or tall window at the far left frames pale rooftops and a low glowing sun; a dark curtain hangs beside it. Above the table, a simple pendant shade casts a pool of warm light. Framed pictures, a mantel, a small clock, and books furnish the otherwise restrained interior. Strong black contours and rounded caricature shapes define the figures, while soft painted shading gives the walls, floorboards, and cloth gentle depth. The palette moves between slate gray, muted blue, cream, brown, and a small amount of burnt orange from the outdoors. The adult's slumped shoulders and the child's attentive upward gaze create a tender comic pause. A broad dark floor anchors the foreground, and the warm rectangle of the exterior view counterbalances the indoor lamp. The scene feels like a hand-drawn storybook panel, with clean staging, understated humor, and a slightly worn domestic atmosphere.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "aa85b86d5c6c0e86f895f1d695d618f1754ab2eb8875611c1808e3f7f22f0fb7",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white documentary photograph shows two boys seated on a low stone step outside a weathered doorway, with a shaggy white dog sitting close beside them. The entrance is centered in a rough plaster wall. Its old wooden door is partly open, revealing a deep black interior that frames the children's heads and upper bodies. The dog occupies the left foreground of the group, its bright coat and dark nose standing out against the soil and shadow. The boy in the middle sits close to the doorjamb, slightly hunched with hands near his knees. The boy on the right wears a dark jacket and shorts; his knees are apart, boots planted on the bare ground, and hands gathered loosely in his lap. Both children turn their faces toward the right side of the frame, as though noticing something outside the photograph. Cracked plaster, uneven stone, and worn vertical boards surround them, giving clear evidence of a modest, aged place. The light is soft daylight from outside the doorway. It reveals faces, dog fur, and wall texture while leaving the interior almost entirely black. The tonal range is broad: white plaster and pale fur contrast with dark clothes, shadowed wood, and earth. The camera faces the group at about seated eye level, giving the moment a direct, unforced intimacy. The framing is balanced but not stiff; the door's verticals provide structure, while the children and animal make an irregular row at the base. Fine film grain and natural poses retain the feel of an observed instant rather than a staged scene.",
+  "full_prompt_zh": "一幅方形黑白纪实照片描绘两名男孩坐在风化门口的低石阶上，身旁紧挨着一只毛蓬蓬的白狗。入口位于粗糙灰泥墙中央。旧木门半开，里面一片深黑，衬出孩子们的头和上身。白狗占据这组人物左侧前景，明亮的毛和深色鼻子在泥地与阴影前格外清楚。中间的男孩靠近门框，微微驼背，双手放在膝旁。右侧男孩穿深色外套和短裤，双膝分开，靴子踩在裸地上，双手松松拢在腿上。两个孩子都把脸转向画面右方，仿佛注意到照片之外的事。开裂灰泥、不平整石头和磨旧的竖木板环绕他们，清楚表现一处朴素而陈旧的地方。光线是门外的柔和日光，照出面孔、狗毛和墙面质地，却让室内几乎全黑。色调跨度宽：白灰泥与浅色毛发对照深色衣服、阴影木门和泥土。相机以接近坐姿视线的高度面对这组人物，让一刻显得直接而自然。取景平衡却不僵硬；门的竖线提供结构，孩子与动物在底部形成不规则横列。细胶片颗粒和自然姿态保留了被观察到的瞬间感，而非摆拍感。",
+  "style_prompt_en": "Black-and-white documentary photography preserves unposed gestures, natural eye lines, and the texture of an ordinary location. Soft exterior daylight reveals pale rough surfaces and fur or fabric detail while an open dark recess supplies deep contrast. Work with a broad gray scale, restrained grain, and sharp enough focus to describe cracked plaster, aged timber, stone, and clothing. A simple frontal frame uses vertical architectural edges to organize an informal cluster near the bottom. The result should feel human, quiet, and observational, with no theatrical spotlight or excessive polish.",
+  "style_prompt_zh": "黑白纪实摄影保留未摆拍的姿态、自然视线和日常地点的质地。柔和户外日光揭示浅色粗糙表面及毛发或布料细节，敞开的暗处提供深反差。使用宽广灰阶、克制颗粒和足以描出裂纹灰泥、旧木、石头与衣着的清晰焦点。简单正面取景借助建筑竖边整理靠近底部的非正式组合。结果应有人情味、安静、重观察，没有戏剧聚光或过度打磨。",
+  "theme_en": "Two boys and a white dog seated before a worn doorway",
+  "theme_zh": "两名男孩与一只白狗坐在磨旧门口",
+  "wh_ratio": "1:1",
+  "id": "1890",
+  "name": "David Seymour",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/david-seymour",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/david-seymour.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "d28e5a321a4fccdc8fdab86f9732679a081324bd0bf8e538be88c8aad8db030e",
+    "gpt_submission_prompt": "A square black-and-white documentary photograph shows two boys seated on a low stone step outside a weathered doorway, with a shaggy white dog sitting close beside them. The entrance is centered in a rough plaster wall. Its old wooden door is partly open, revealing a deep black interior that frames the children's heads and upper bodies. The dog occupies the left foreground of the group, its bright coat and dark nose standing out against the soil and shadow. The boy in the middle sits close to the doorjamb, slightly hunched with hands near his knees. The boy on the right wears a dark jacket and shorts; his knees are apart, boots planted on the bare ground, and hands gathered loosely in his lap. Both children turn their faces toward the right side of the frame, as though noticing something outside the photograph. Cracked plaster, uneven stone, and worn vertical boards surround them, giving clear evidence of a modest, aged place. The light is soft daylight from outside the doorway. It reveals faces, dog fur, and wall texture while leaving the interior almost entirely black. The tonal range is broad: white plaster and pale fur contrast with dark clothes, shadowed wood, and earth. The camera faces the group at about seated eye level, giving the moment a direct, unforced intimacy. The framing is balanced but not stiff; the door's verticals provide structure, while the children and animal make an irregular row at the base. Fine film grain and natural poses retain the feel of an observed instant rather than a staged scene.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "5f0761d4c45072ed758599a2c0c1793602bf3cd5c256c2d9cf3e296bf9617ce0",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A mysterious landscape painting shows a small lake enclosed by steep rocky banks and fragments of ancient masonry. On the left, tall ruined arches and a wall rise from a sun-warmed cliff. A dark cypress-like tree stands near their edge. Across the water, lower stone remnants fade into the distance beneath a deep teal-blue sky. A pale moon hangs high to the right of the tree. The water glows turquoise near the near shore and darkens toward the far bank, holding a few softened reflections. No human figure appears; the scene feels like a place left to memory and silence.\n\nThe rendering is detailed and classically modeled, with finely described stone, layered vegetation, and calm water. Warm ochre and olive light strike the left cliff, while deep blue-green shadow fills the right and upper spaces. The lighting is ambiguous between late dusk and moonlit afterglow, giving the old structures a solemn, dreamlike presence. Crisp masonry edges and tree silhouettes stand against softer distant hills. The composition forms a broad U around the lake, guiding the eye inward and back to the small moon. Brush texture is subtle but visible in rock and foliage, and the still water provides a smooth contrast to those rough surfaces. There is no readable text in the selected image.",
+  "full_prompt_zh": "一幅神秘风景画呈现一座被陡峭岩岸和古代砌体残片围住的小湖。左侧，高高的残拱与墙体从受暖光照射的悬崖升起。一棵深色、近似柏树的树立在边缘。隔湖相望，更低的石头遗迹在深青蓝天空下向远处淡去。淡月高悬在树的右方。湖水在近岸发出绿松石色光，向对岸转深，映出几道柔化的倒影。没有人影；场景像一个留给记忆与寂静的地方。\n\n画法细致且有古典的形体塑造，石块、分层植被和平静水面都被精心描写。暖赭黄与橄榄色光落在左侧悬崖，深蓝绿阴影填满右侧和上方。光线介于傍晚和月光余晖之间，给旧结构以肃穆如梦的存在感。清晰砌体边缘与树影站在更柔和的远山前。构图绕湖形成宽阔的U形，引导视线向内，再回到小月亮。岩石和叶丛中有细微可见的笔刷纹理，静水则以平滑表面对照粗糙材料。所选图像没有可辨认文字。",
+  "style_prompt_en": "A still turquoise basin is enclosed by warm ochre rock on one side and deep teal-blue shadow on the other. Carefully modeled stone edges, layered vegetation, and narrow dark verticals give the scene a classical, solemn structure. A small pale circle hangs in a broad dark upper field, while distant forms soften gently into the atmosphere. The light feels suspended between dusk warmth and moonlit coolness. Rough brush texture in rock and foliage contrasts with smooth reflective water. A broad U-shaped enclosure guides the eye toward a quiet center and back into distance. The palette is restrained, ancient, and dreamlike, with crisp near detail and softened far planes.",
+  "style_prompt_zh": "一片平静的绿松石色水域，一边由暖赭色岩石围住，另一边由深青蓝影子围住。仔细塑造的石缘、层叠植被和狭长深色竖形，给予场景古典而肃穆的结构。小小浅色圆形悬在宽阔深色上方区域，远处形体轻轻融入大气。光似乎停在傍晚暖意与月光冷意之间。岩石和叶丛的粗糙笔刷纹理，对照平滑的反射水面。宽阔的U形围合引导视线到安静中心，再回到远方。色谱收敛、古老且如梦，近处细节清晰，远处平面柔化。",
+  "theme_en": "Ancient ruins beside a still moonlit lake",
+  "theme_zh": "月光静湖旁的古老废墟",
+  "wh_ratio": "1:1",
+  "id": "3216",
+  "name": "Arnold Bocklin",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/arnold-bocklin",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "3097eb97dfaa03b9600d3b38314d2bb0dd206c41abf921bf264e4d05ffa829ea",
+    "gpt_submission_prompt": "A mysterious landscape painting shows a small lake enclosed by steep rocky banks and fragments of ancient masonry. On the left, tall ruined arches and a wall rise from a sun-warmed cliff. A dark cypress-like tree stands near their edge. Across the water, lower stone remnants fade into the distance beneath a deep teal-blue sky. A pale moon hangs high to the right of the tree. The water glows turquoise near the near shore and darkens toward the far bank, holding a few softened reflections. No human figure appears; the scene feels like a place left to memory and silence.\n\nThe rendering is detailed and classically modeled, with finely described stone, layered vegetation, and calm water. Warm ochre and olive light strike the left cliff, while deep blue-green shadow fills the right and upper spaces. The lighting is ambiguous between late dusk and moonlit afterglow, giving the old structures a solemn, dreamlike presence. Crisp masonry edges and tree silhouettes stand against softer distant hills. The composition forms a broad U around the lake, guiding the eye inward and back to the small moon. Brush texture is subtle but visible in rock and foliage, and the still water provides a smooth contrast to those rough surfaces. There is no readable text in the selected image.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "0bae8ec6d72c0b91ed3872c0e68afbecd704fad02afdab163ba419ebd4e82db8",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

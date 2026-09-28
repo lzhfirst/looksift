@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square watercolor storybook illustration shows three clothed rabbits beside a woodland burrow, gathered around a large woven basket of vegetables. One small rabbit in a muted green jacket crouches by the basket, another sits behind it, and an adult rabbit in a blue dress and white bonnet stands at the right holding a smaller basket. Carrots, round roots, and leafy greens fill the central basket and spill onto the sandy path. A dark tree hollow opens behind the group, while moss, roots, and tiny plants frame the edges. The rabbits' fur is painted in warm cream and brown washes with fine pencil-like outlines; cloth folds and basket weave receive careful small strokes. The palette stays earthy and gentle: sage blue, olive green, straw ochre, warm brown, and off-white. Soft forest daylight touches the bonnets, ears, vegetables, and ground without deep theatrical shadow. The composition feels intimate and low to the ground, making the small animals' work seem important. Fine paper grain and slightly uneven watercolor edges remain visible. The whole scene is patient, domestic, and inviting, like a classic illustrated children's tale with close natural observation and quiet humor.",
+  "full_prompt_zh": "一幅方形水彩故事书插画呈现三只穿衣兔子聚在林中洞穴旁，围着一只装满蔬菜的大柳条篮。穿低饱和绿外套的小兔蹲在篮边，另一只坐在篮后，右侧一只穿蓝裙、戴白帽的大兔站着，手里提着较小的篮子。胡萝卜、圆根茎和绿叶菜填满中央篮子，也散到沙地小路上。暗色树洞在群像身后打开，苔、树根和小植物围住边缘。兔毛由暖乳白与棕色薄染绘成，带细铅笔般轮廓；布料褶皱与篮筐编织得到耐心细笔。色谱贴近泥土且温和：鼠尾草蓝、橄榄绿、麦秆赭、暖棕和米白。柔和林间日光照到帽子、耳朵、蔬菜与地面，没有深重戏剧阴影。构图亲密且贴近地面，让小动物的劳作显得重要。细纸纹和略不均匀水彩边缘仍可见。整个场景耐心、家常、亲切，像经典儿童故事插画，兼有自然观察和安静幽默。",
+  "style_prompt_en": "A classic watercolor storybook style uses small careful pencil contours beneath transparent earthy washes. Warm cream, straw ochre, olive, sage blue, and soft brown distinguish fur, cloth, plants, and woven materials. The viewpoint sits low and close, with a compact group gathered around one tactile central object. Moss, roots, and tiny vegetation frame the edges without crowding the main action. Diffuse woodland light keeps shadows soft and color gentle. Fine paper grain, variable water edges, and patient short strokes preserve a handmade page quality. The mood is domestic, tender, and observant, with natural detail scaled to a small world.",
+  "style_prompt_zh": "经典水彩故事书风格在透明泥土色薄染下保留小而仔细的铅笔轮廓。暖乳白、麦秆赭、橄榄绿、鼠尾草蓝和柔棕区分毛发、布、植物与编织物。视点贴近地面，一组紧凑形体围住有触感的中央物件。苔、树根和细小植被框住边缘，却不挤压主要活动。漫射林光让阴影柔和、颜色温暖。细纸纹、变化的水边与耐心短笔保留手工书页性质。气氛家常、温柔、善于观察，自然细节按小世界的尺度展开。",
+  "theme_en": "Three clothed rabbits sort a basket of vegetables beside a woodland burrow",
+  "theme_zh": "三只穿衣兔子在林中洞穴旁整理一篮蔬菜",
+  "wh_ratio": "1:1",
+  "id": "4263",
+  "name": "Beatrix Potter",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/beatrix-potter.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "f26665dd8cd175154e8f3841717c1d2d979f3e54f4139090aa99405f1479e492",
+    "gpt_submission_prompt": "A square watercolor storybook illustration shows three clothed rabbits beside a woodland burrow, gathered around a large woven basket of vegetables. One small rabbit in a muted green jacket crouches by the basket, another sits behind it, and an adult rabbit in a blue dress and white bonnet stands at the right holding a smaller basket. Carrots, round roots, and leafy greens fill the central basket and spill onto the sandy path. A dark tree hollow opens behind the group, while moss, roots, and tiny plants frame the edges. The rabbits' fur is painted in warm cream and brown washes with fine pencil-like outlines; cloth folds and basket weave receive careful small strokes. The palette stays earthy and gentle: sage blue, olive green, straw ochre, warm brown, and off-white. Soft forest daylight touches the bonnets, ears, vegetables, and ground without deep theatrical shadow. The composition feels intimate and low to the ground, making the small animals' work seem important. Fine paper grain and slightly uneven watercolor edges remain visible. The whole scene is patient, domestic, and inviting, like a classic illustrated children's tale with close natural observation and quiet humor.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "19c9543f4294724ec74eb81fd1a1bfb9e98380e189437d61caed7fcde2f366e7",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

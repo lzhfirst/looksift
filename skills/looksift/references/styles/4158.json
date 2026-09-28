@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square expressionist painting presents two elongated, mask-like faces pressed close together against a dark red and black field. The face on the left is slightly taller and broader, with a long pale vertical nose, a narrow amber eye, and a shadowed mouth. The face on the right is slimmer and divided into cream, ochre, orange, and black planes, with one eye looking outward beneath a heavy brow. Their outlines partly merge with the surrounding geometric background, so the figures seem built from the same layered material as the space around them. Thick dark contours and flat color blocks alternate with rough rubbed texture and small scratches. Deep crimson occupies a broad band behind the heads, while smoky charcoal and warm umber keep the lower and side areas heavy. The shapes are simplified rather than anatomically smooth; sharp angles at the nose and jaw stand beside long rounded forehead forms. Light appears graphic and frontal, concentrated in pale cream strips and ochre patches; dark black planes create depth where the faces overlap. The visible surface looks dry and worn, with pigment variation across the blocks. No lettering appears. The overall composition is crowded, solemn, and direct, using narrow eyes and compressed vertical planes to hold attention within a dense earth-red palette.",
+  "full_prompt_zh": "一幅方形表现主义绘画让两张修长、面具般的脸紧靠在深红与黑色底面前。左脸略高略宽，有一道长而浅的竖鼻、一只狭窄琥珀眼和处在阴影中的嘴。右脸更瘦，分成奶油色、赭黄、橙与黑色平面，一只眼从厚眉下向外望。轮廓部分融入周围几何背景，使人物像由身边空间同样的层叠材料砌成。厚深轮廓与平面色块交替，伴随粗糙磨擦肌理和细小划痕。深绯红在头后占据宽色带，烟炭色和暖熟褐让下部与两侧厚重。形态是简化的而非解剖式光滑；鼻颌处的锐角与额头修长圆弧相邻。光线图形化而正面，集中于浅奶油色条和赭黄色块；脸部重叠处的深黑平面创造纵深。可见表面干燥而磨旧，色块内部有颜料变化。没有文字。整体构图拥挤、肃穆且直接，以狭长眼睛和压缩竖向色面在浓厚土红色域中保持注意力。",
+  "style_prompt_en": "Expressionist painting compresses elongated forms into rough interlocking planes with heavy dark contours. Cream and ochre strips advance against crimson, orange-brown, umber, and charcoal, while rubbed pigment and small scratches keep each block imperfect. Light is graphic and frontal, built from pale vertical accents opposed to black recesses rather than gradual natural modeling. Rounded upper arcs meet abrupt angular cuts below, generating tension within a crowded vertical rhythm. Limited negative space and close overlap intensify the image. The result is solemn, forceful, and materially weathered.",
+  "style_prompt_zh": "表现主义绘画把修长形体压缩进粗糙互锁的平面，并以厚重深色轮廓分隔。奶油色和赭黄条向前，衬着绯红、橙棕、熟褐与炭色；磨擦颜料和小划痕让每块颜色都不完美。光正面而图形化，由浅色竖向强调与黑色凹处对置建成，而非渐进的自然塑形。上部圆弧遇到下方突然的棱角切口，在拥挤竖向节奏中制造张力。有限留白和贴近的重叠增强图像强度。效果肃穆、有力且材料风化。",
+  "theme_en": "Two elongated mask-like faces assembled from earthy planes",
+  "theme_zh": "由土色色面拼成的两张修长面具式面孔",
+  "wh_ratio": "1:1",
+  "id": "4158",
+  "name": "Oswaldo Guayasamin",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/oswaldo-guayasamin.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "11a8674a8a78c6ec942c0d65c13b82792ccd79d58c03edb104132143f75039a1",
+    "gpt_submission_prompt": "A square expressionist painting presents two elongated, mask-like faces pressed close together against a dark red and black field. The face on the left is slightly taller and broader, with a long pale vertical nose, a narrow amber eye, and a shadowed mouth. The face on the right is slimmer and divided into cream, ochre, orange, and black planes, with one eye looking outward beneath a heavy brow. Their outlines partly merge with the surrounding geometric background, so the figures seem built from the same layered material as the space around them. Thick dark contours and flat color blocks alternate with rough rubbed texture and small scratches. Deep crimson occupies a broad band behind the heads, while smoky charcoal and warm umber keep the lower and side areas heavy. The shapes are simplified rather than anatomically smooth; sharp angles at the nose and jaw stand beside long rounded forehead forms. Light appears graphic and frontal, concentrated in pale cream strips and ochre patches; dark black planes create depth where the faces overlap. The visible surface looks dry and worn, with pigment variation across the blocks. No lettering appears. The overall composition is crowded, solemn, and direct, using narrow eyes and compressed vertical planes to hold attention within a dense earth-red palette.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "f512ca2125668882cbcb8af8c37435f18ddb1c7f2d3585431bfc46b8d7a6df32",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "The square image is a softly luminous color fashion photograph in an extreme frontal close-up. A young woman's face occupies the center, with both pale green eyes aimed directly at the viewer. Dark smoky eye makeup and long lashes give the eyes strong graphic weight, while warm blush spreads across the cheeks and coral-red lips remain slightly parted. White flowers, pale ribbonlike petals and dense green leaves surround her hairline and both sides of her face, forming an irregular living frame. Several leaves overlap the upper forehead and temple, but the eyes, nose and mouth stay unobstructed. More white floral material wraps loosely around the neck and lower edge, merging into the light background. The photograph uses a restrained palette of cream, olive and forest green, warm peach skin, charcoal eye shadows and a single concentrated red accent at the lips. Soft, broad frontal illumination smooths the skin and keeps the whites of the flowers glowing; the leaf clusters supply deeper pockets of shadow and tactile variation. Focus is strongest on the eyes and lips, while some petals and foliage near the frame edges soften slightly. The image has a subtle printed or film grain and gentle tonal fade, giving it a vintage editorial finish rather than a hard digital gloss. Face and botanical material are tightly interlocked, with almost no open background and an intimate, symmetrical center held inside lively asymmetrical foliage.",
+  "full_prompt_zh": "正方形画面是一张柔和发亮的彩色时尚摄影，镜头极近，面孔正对观众。年轻女子的脸占据中央，两只浅绿色眼睛直视观众。深色烟熏眼妆和长睫毛赋予双眼强烈的图形重量，暖色腮红铺开，珊瑚红嘴唇微微张开。白花、浅色带状花瓣和浓密绿叶环绕发际线及脸的两侧，构成不规则的生命框景。数片叶子压在额头上方和太阳穴旁，但眼、鼻、嘴仍然清楚。更多白色花材松松围住颈部和下缘，融入浅色背景。照片配色克制，以乳白、橄榄绿、森林绿、暖桃肤色、炭黑眼影为主，嘴唇是唯一集中的红色重点。宽而柔和的正面光使皮肤平顺、白花发亮；叶簇提供更深的阴影空隙和触感变化。焦点最强处落在眼与唇，画面边缘的一些花瓣和叶片略微柔化。照片带细微印刷或胶片颗粒与轻柔的调子褪色，形成复古时尚编辑质感，而非坚硬数字光泽。脸和植物材质紧密咬合，几乎没有空背景，亲密的对称中心包在活跃不对称的叶片之间。",
+  "style_prompt_en": "Softly luminous color photography combines broad frontal light, gentle tonal fade, subtle print grain, selective crisp focus and softened peripheral detail. Cream and layered greens surround warm peach color, smoky charcoal accents and a concentrated coral-red note. A stable central focus sits within irregular dense framing, producing vintage editorial elegance across the square image.",
+  "style_prompt_zh": "柔和发亮的彩色摄影结合宽阔正面光、轻微调子褪色、细印刷颗粒、局部清晰焦点与柔化的外围细节。乳白和层层绿色围住暖桃色，炭灰暗调与集中珊瑚红成为点缀。稳定的中央焦点置于不规则密集框景中，使正方形画面呈现复古编辑美感。",
+  "theme_en": "A flower-framed face in a luminous fashion photograph",
+  "theme_zh": "花叶环绕面孔的明亮时尚摄影",
+  "wh_ratio": "1:1",
+  "id": "3509",
+  "name": "Bert Stern",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/bert-stern",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "ebbafa3781bf98105bcf366f7fb5db1beb91e76824de80e3bfde578e1c3457d8",
+    "gpt_submission_prompt": "The square image is a softly luminous color fashion photograph in an extreme frontal close-up. A young woman's face occupies the center, with both pale green eyes aimed directly at the viewer. Dark smoky eye makeup and long lashes give the eyes strong graphic weight, while warm blush spreads across the cheeks and coral-red lips remain slightly parted. White flowers, pale ribbonlike petals and dense green leaves surround her hairline and both sides of her face, forming an irregular living frame. Several leaves overlap the upper forehead and temple, but the eyes, nose and mouth stay unobstructed. More white floral material wraps loosely around the neck and lower edge, merging into the light background. The photograph uses a restrained palette of cream, olive and forest green, warm peach skin, charcoal eye shadows and a single concentrated red accent at the lips. Soft, broad frontal illumination smooths the skin and keeps the whites of the flowers glowing; the leaf clusters supply deeper pockets of shadow and tactile variation. Focus is strongest on the eyes and lips, while some petals and foliage near the frame edges soften slightly. The image has a subtle printed or film grain and gentle tonal fade, giving it a vintage editorial finish rather than a hard digital gloss. Face and botanical material are tightly interlocked, with almost no open background and an intimate, symmetrical center held inside lively asymmetrical foliage.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "05aa387ce20695788953e5ae8c8ac1d2dd8d8f8f3c6ad03a91e8d1575d49ec3a",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

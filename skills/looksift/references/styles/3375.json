@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A polished chibi anime illustration centers a tiny seated girl with an oversized head and long flowing blue green hair against a deep navy background. Her head occupies most of the square image, with layered bangs sweeping across the forehead, a small upward curl at the crown, and a braid tucked along the right side. Long wavy strands cascade below the shoulders and nearly reach the bottom edge. Two large glossy pale green eyes look forward beneath fine dark lashes, while the nose and mouth are reduced to delicate marks and a faint blush warms both cheeks. Beneath the large head, the body is very small: a cream ruffled blouse, a brown bow at the throat, dark fitted bodice, and burgundy skirt gather into a compact seated shape. Tiny hands rest at the front, adding a quiet, shy pose. The surrounding navy field has no detailed setting; a loose cluster of warm gold points and soft flecks glows behind the hair and around the lower body. Smooth digital gradients give the face and hair volume, while crisp dark outlines keep every strand and garment layer legible. Gentle frontal illumination brightens the eyes and cheeks, and a cooler rim separates the blue green hair from the dark ground. The whole frame feels delicate and jewel like, using exaggerated proportions, meticulous hair design, and scattered light to create a charming miniature presence.",
+  "full_prompt_zh": "一幅精致的 Q 版动漫插画在深海蓝背景前居中放置一位坐姿的小女孩，她的头部异常硕大，蓝绿色长发轻柔流动。头部占据方形画面的绝大部分，层叠刘海横过额头，头顶有一缕向上翘起的弧线，右侧还收着一条辫子。波浪状长发越过肩膀，几乎垂到底边。两只硕大、带高光的浅绿色眼睛从细黑睫毛下看向前方，鼻子与嘴被压缩成纤细记号，双颊有淡淡红晕。大头下方身体很小：奶油色荷叶边上衣、喉部的棕色蝴蝶结、深色贴身衣身与酒红裙子聚成紧凑坐姿。小手放在前面，姿态安静而羞怯。周围海蓝色场没有详细场景；松散的暖金色光点与柔软碎屑在头发背后及身体下方发亮。平滑的数字渐变赋予脸与头发体积，清晰深色轮廓让每缕发丝与衣物层次可读。柔和正面光照亮眼睛与脸颊，较冷的边光使蓝绿色头发从暗底分离。整幅画精巧如宝石，以夸张比例、细致发型设计和散落微光创造可爱的微型存在。",
+  "style_prompt_en": "A polished chibi anime rendering with an oversized focal mass above a very small compact lower form. Use large glossy eyes or similarly clear focal marks, simplified delicate features, rounded contours, and finely separated flowing strands or layers. Apply smooth digital gradients with controlled darker outlines, balancing pale cool color against a deep near navy ground. Add a sparse halo of warm tiny lights and fine specks rather than a detailed environment. Keep the composition centered and collectible, with high detail concentrated in the dominant upper form and subordinate detail scaled down below. Gentle frontal light and a subtle cool rim should create soft volume and clear separation. The overall impression is tender, miniature, and meticulously finished.",
+  "style_prompt_zh": "采用精致的 Q 版动漫渲染，让硕大的上部焦点体量置于极小而紧凑的下部形态之上。使用带高光的大眼睛或同样清楚的焦点记号、简化而细腻的特征、圆润轮廓，以及层层分开的流动丝缕或叠片。以受控的深色轮廓配合平滑数字渐变，让浅冷色与近乎海军蓝的深底平衡。只添稀疏的暖色小光点与细碎颗粒形成光晕，不建立复杂环境。构图保持居中、具有收藏品般的完整感，细节高度集中在占主导的上部形态，下方细节则相应缩小。柔和正面光与轻微冷色边光建立体积和清晰分离。整体印象温柔、微型且打磨细致。",
+  "theme_en": "Teal haired chibi in a starry field",
+  "theme_zh": "星光中的蓝绿色头发 Q 版人物",
+  "wh_ratio": "1:1",
+  "id": "3375",
+  "name": "Chibi anime style",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/chibi-anime-style",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "72ec39335b1f7211b490b95a9cb963688598647910449a6f95c17126da3e25ad",
+    "gpt_submission_prompt": "A polished chibi anime illustration centers a tiny seated girl with an oversized head and long flowing blue green hair against a deep navy background. Her head occupies most of the square image, with layered bangs sweeping across the forehead, a small upward curl at the crown, and a braid tucked along the right side. Long wavy strands cascade below the shoulders and nearly reach the bottom edge. Two large glossy pale green eyes look forward beneath fine dark lashes, while the nose and mouth are reduced to delicate marks and a faint blush warms both cheeks. Beneath the large head, the body is very small: a cream ruffled blouse, a brown bow at the throat, dark fitted bodice, and burgundy skirt gather into a compact seated shape. Tiny hands rest at the front, adding a quiet, shy pose. The surrounding navy field has no detailed setting; a loose cluster of warm gold points and soft flecks glows behind the hair and around the lower body. Smooth digital gradients give the face and hair volume, while crisp dark outlines keep every strand and garment layer legible. Gentle frontal illumination brightens the eyes and cheeks, and a cooler rim separates the blue green hair from the dark ground. The whole frame feels delicate and jewel like, using exaggerated proportions, meticulous hair design, and scattered light to create a charming miniature presence.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "01e4272f4004c4edcd8eff2bbae0bcc093b875192b582225788587592c124e27",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

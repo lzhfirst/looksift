@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square long-exposure light-painting photograph shows a solitary woman standing centered in a dark, abandoned room. She faces away from the camera, her arms relaxed by her sides, wearing a short pale dress with a softly flared skirt. Behind her, a nearly perfect luminous white-gold circle surrounds the whole figure from the floor to above her head. Fine stray sparks and wavering threads radiate beyond the ring, revealing that the bright geometry was drawn through time. The ring is the primary light source: it rims her shoulders and hair, brightens her legs, and spills a pool of light over dusty broken flooring. The walls and ceiling remain brown-black, with faint cracks, stains, and rough surfaces appearing only near the glow. A small stick or piece of debris lies to the right on the ground. The woman is still and dark against the blazing circle, creating a clean central silhouette while the surrounding room falls into shadow. Warm golden light contrasts with cool gray-brown darkness. The camera is steady and frontal, preserving a symmetrical, almost ritual composition. Tiny trails vary in brightness, giving the circular line a lively handmade edge rather than a digitally perfect stroke. The image has photographic texture, deep exposure, and a quiet sense of wonder. No title, border, or additional subject appears.",
+  "full_prompt_zh": "一幅方形长曝光光绘摄影中，孤身女子站在幽暗废弃房间中央。她背对相机，双臂自然垂下，穿浅色短裙，裙摆柔和张开。身后一圈近乎完美的白金色发光圆环从地面延伸至头顶以上，将全身围住。细小散逸火花和摇曳丝线越出环外，显示这一明亮几何是随时间划出的。圆环是主要光源：它为肩部和头发勾亮轮廓，照亮双腿，也把一池光洒在积灰破损地面上。墙与顶仍呈棕黑色，裂缝、污痕和粗糙表面只在靠近光处微微现身。地面右侧躺着一根小棍或碎物。女子在炽亮圆环前保持静止而暗，形成清晰中央剪影，周围房间则沉入阴影。暖金光与冷灰棕黑暗对照。相机稳定正对，保留近乎对称且带仪式感的构图。微小光轨亮度各异，使圆线具有鲜活手绘边缘，而非数码完美笔画。画面有摄影质感、深曝光和安静惊奇感。没有标题、边框或额外主体。",
+  "style_prompt_en": "Long-exposure light painting with a steady frontal camera, deep ambient shadow, and luminous hand-traced geometry. Brilliant warm white-gold trails vary in thickness and brightness, releasing fine sparks and subtle motion threads. Backlit silhouettes hold still against the glowing shape; light spills across rough nearby surfaces while distant space remains nearly black. Symmetry, controlled contrast, and photographic grain create quiet wonder.",
+  "style_prompt_zh": "长曝光光绘以稳定正面机位、深沉环境阴影和手划发光几何构成。明亮暖白金光轨的粗细与亮度各不相同，散出细火花和微弱运动丝线。逆光剪影在发光形态前保持静止；亮光洒过近处粗糙表面，远处几乎全黑。对称、受控反差与摄影颗粒营造安静惊奇。",
+  "theme_en": "A woman standing within a circle of light in an abandoned room",
+  "theme_zh": "废弃房间光环中的站立女子",
+  "wh_ratio": "1:1",
+  "id": "4280",
+  "name": "Light painting",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/light-painting.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "f85ebf9b8a3f044d0437fa3b052eb7aeea2b8018d9d4d3e6fe4b0c0e1898537b",
+    "gpt_submission_prompt": "A square long-exposure light-painting photograph shows a solitary woman standing centered in a dark, abandoned room. She faces away from the camera, her arms relaxed by her sides, wearing a short pale dress with a softly flared skirt. Behind her, a nearly perfect luminous white-gold circle surrounds the whole figure from the floor to above her head. Fine stray sparks and wavering threads radiate beyond the ring, revealing that the bright geometry was drawn through time. The ring is the primary light source: it rims her shoulders and hair, brightens her legs, and spills a pool of light over dusty broken flooring. The walls and ceiling remain brown-black, with faint cracks, stains, and rough surfaces appearing only near the glow. A small stick or piece of debris lies to the right on the ground. The woman is still and dark against the blazing circle, creating a clean central silhouette while the surrounding room falls into shadow. Warm golden light contrasts with cool gray-brown darkness. The camera is steady and frontal, preserving a symmetrical, almost ritual composition. Tiny trails vary in brightness, giving the circular line a lively handmade edge rather than a digitally perfect stroke. The image has photographic texture, deep exposure, and a quiet sense of wonder. No title, border, or additional subject appears.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "f55f89005aa7479718f8effab65211018043e1c3848c8b0eab1077fe48da3337",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

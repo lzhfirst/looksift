@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "An oil painting presents a quiet outdoor scene in restrained, earthy color. A young woman dominates the right half of the composition, wearing a long nearly black dress and a white head covering that wraps around her neck. Her face turns down and toward the left; one hand rests against her cheek, lending the pose a pensive stillness, while her other arm hangs beside the dark folds of her skirt. A pale, weathered stone wall rises behind her and catches soft light, making the figure's dark silhouette clear. In the left middle distance, several smaller figures gather along a dry ochre path, their muted garments and faces sketched with looser brushwork than the foreground subject. A low stone block at the lower left supports scattered round fruit and a woven basket; a few small orange-red accents repeat near the right edge. Beyond the group, an open landscape stretches toward a dark green-blue, clouded sky. The woman is modeled with smooth, gentle transitions through the face and hands, while the clothing, masonry, and foliage reveal more visible brush texture. Diffuse daylight keeps highlights subdued and shadows broad, with no hard glare. The entire image feels reflective and theatrical in a quiet way, its careful figure arrangement and subdued palette carrying the emotional weight.",
+  "full_prompt_zh": "一幅油画以克制的泥土色系呈现安静的户外场景。年轻女子占据构图右半部，身穿近乎黑色的长裙，白色头巾包住头部并绕过颈部。她垂眼向左侧转头，一只手贴在脸颊上，使姿态带有沉思的静止感；另一只手臂垂在深色裙褶旁。她身后的浅色风化石墙承接柔光，将人物深色轮廓清晰地衬出。左侧中景，一群比例较小的人沿干燥的赭色小路聚集，衣装与面容的笔触比前景主角更松散。左下方低矮的石块上有几枚圆果和一只编织篮，少量橙红色又在右边缘重复出现。人群之后，开阔地景延展至深绿蓝色的多云天空。女子的脸和手以平滑、温和的明暗过渡塑形，衣褶、石材与草木则呈现更明显的笔触肌理。漫射日光压低高光、扩展阴影，没有刺眼的眩光。整幅图安静而略具戏剧性，经过安排的人物关系与低饱和配色承载着情绪重量。",
+  "style_prompt_en": "The painting uses a restrained nineteenth-century academic oil language with soft naturalistic modeling and carefully staged depth. Broad, low-contrast shadow masses are balanced by chalky pale passages, while limited ochre, olive, muted blue-green, and small warm-red notes organize the palette. The nearest forms receive precise edges and smooth tonal transitions; farther forms loosen into visible, slightly scumbled brushwork. Diffuse daylight gives surfaces a matte glow rather than sharp sparkle. Architectural planes and open distance act as quiet value fields around the focal area. The composition is solemn, measured, and reflective, with detailed observation held inside an overall painterly softness.",
+  "style_prompt_zh": "画面采用克制的十九世纪学院派油画语言，以柔和自然的塑形和精心安排的纵深构图为主。大块低对比暗部与粉白的浅色区域平衡，有限的赭色、橄榄绿、灰蓝绿及少量暖红色组织调色板。近处形体边缘准确、明暗过渡平滑，远处形体则松动为可见的、略带擦染感的笔触。漫射日光令表面呈哑光微亮，而非尖锐闪烁。平面与远景构成安静的明度场，围绕视觉焦点展开。构图肃穆、谨慎且内省，细致观察融入整体柔软的绘画质感中。",
+  "theme_en": "A contemplative woman in dark dress and white headscarf beside a pale stone wall and a small outdoor gathering, painted in muted nineteenth-century oil colors.",
+  "theme_zh": "一位穿深色衣裙、戴白色头巾的沉思女子倚在浅色石墙旁，远处有小群人聚集，以沉静的十九世纪油画色调呈现。",
+  "wh_ratio": "1:1",
+  "id": "0733",
+  "name": "Anselm Feuerbach",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/anselm-feuerbach",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/anselm-feuerbach.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "bb3e1694b209f1a02edc2aa8a90b543286e6f997a88ffc9101e7b625aed68965",
+    "gpt_submission_prompt": "An oil painting presents a quiet outdoor scene in restrained, earthy color. A young woman dominates the right half of the composition, wearing a long nearly black dress and a white head covering that wraps around her neck. Her face turns down and toward the left; one hand rests against her cheek, lending the pose a pensive stillness, while her other arm hangs beside the dark folds of her skirt. A pale, weathered stone wall rises behind her and catches soft light, making the figure's dark silhouette clear. In the left middle distance, several smaller figures gather along a dry ochre path, their muted garments and faces sketched with looser brushwork than the foreground subject. A low stone block at the lower left supports scattered round fruit and a woven basket; a few small orange-red accents repeat near the right edge. Beyond the group, an open landscape stretches toward a dark green-blue, clouded sky. The woman is modeled with smooth, gentle transitions through the face and hands, while the clothing, masonry, and foliage reveal more visible brush texture. Diffuse daylight keeps highlights subdued and shadows broad, with no hard glare. The entire image feels reflective and theatrical in a quiet way, its careful figure arrangement and subdued palette carrying the emotional weight.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "d932f69efb9baefe9720b6d4fa039ed63bf7237c355cf0db994facfc76d36979",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

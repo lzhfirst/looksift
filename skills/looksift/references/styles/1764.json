@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "The painting shows a young woman seated in a dark, undefined interior, her eyes closed as though asleep or lost in thought. Her head tilts to the left and rests on one hand, with the elbow supported by a low surface. A patterned turban in russet, cream, and gold wraps her hair. She wears an olive-green bodice with dark lacing and voluminous pale sleeves gathered at the wrists. Her expression is gentle and unguarded; warm light models the eyelids, nose, cheek, and relaxed lips. A small white rabbit lies across her lap, its soft body touched by the same light. Near it stand a brown bottle and an ornate round object with carved or embossed patterns. Dark red fabric gathers along the right side, partly disappearing into shadow. The background is nearly black, without architecture to establish a precise location. The forms emerge from that darkness through a controlled sequence of highlights: first the face and white collar, then sleeves, rabbit, and small still-life details. Brushwork is smooth on skin and more tactile in cloth, fur, and the patterned head covering. The square crop keeps the figure close, with a diagonal from turban through the bowed face and folded arms to the pale rabbit. The mood is intimate and quiet, though the theatrical contrast gives this ordinary pause the weight of a staged Baroque scene.",
+  "full_prompt_zh": "油画描绘一位年轻女子坐在深暗而无法辨认的室内，双眼闭合，像睡去或陷入思绪。头向左倾，靠在一只手上，肘部支在低处。赭红、奶油白与金色纹样的头巾裹住头发。她穿橄榄绿束身上衣，深色系带与宽大的浅色衣袖在手腕处收紧。表情柔和而毫无防备，暖光塑造眼睑、鼻梁、脸颊和放松的嘴唇。一只小白兔卧在腿上，柔软身体也被同一道光轻触。旁边立着棕色瓶子和带雕刻或压花纹的圆形器物。深红布料聚在右侧，部分消失于阴影。背景近乎纯黑，没有建筑说明确切地点。形体按受控的高光顺序从黑暗浮出：先是面部与白领，然后衣袖、兔子和小型静物细节。皮肤笔触平滑，布、毛与花纹头巾则更有触感。方形裁切将人物拉近，一条斜线从头巾经低垂面孔与叠放手臂引向浅色兔子。气氛亲密安静，但舞台式对比赋予普通停顿一场巴洛克场景的重量。",
+  "style_prompt_en": "Use Baroque chiaroscuro with warm focused light emerging from a near-black ground. Model skin or similarly smooth focal surfaces with delicate transitions, while fabrics, fur-like textures, and carved details receive more tactile brushwork. Balance olive, russet, cream, dark red, and umber in a compact diagonal grouping. Let highlights descend in a deliberate visual sequence and allow secondary areas to disappear into shadow. Preserve intimacy and quiet theatricality in the square frame.",
+  "style_prompt_zh": "采用巴洛克明暗对照，让集中的暖光从近黑底色浮现。以细腻过渡塑造平滑焦点表面，让织物、绒毛般肌理与雕刻细节获得更强触感笔触。把橄榄绿、赭红、奶油白、深红与棕色组织成紧凑斜向组合。高光按明确视觉顺序向下传递，次要区域逐渐消失于阴影。方形画幅保持亲密与安静的舞台感。",
+  "theme_en": "Sleeping young woman with a white rabbit",
+  "theme_zh": "与白兔相伴入睡的年轻女子",
+  "wh_ratio": "1:1",
+  "id": "1764",
+  "name": "Hendrick ter Brugghen",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/hendrick-ter-brugghen",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/hendrick-ter-brugghen.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "a6bfc01f2e9ae216dc1e8c1942a035ab397e94d733320f55c1851d4f6e9d15fc",
+    "gpt_submission_prompt": "The painting shows a young woman seated in a dark, undefined interior, her eyes closed as though asleep or lost in thought. Her head tilts to the left and rests on one hand, with the elbow supported by a low surface. A patterned turban in russet, cream, and gold wraps her hair. She wears an olive-green bodice with dark lacing and voluminous pale sleeves gathered at the wrists. Her expression is gentle and unguarded; warm light models the eyelids, nose, cheek, and relaxed lips. A small white rabbit lies across her lap, its soft body touched by the same light. Near it stand a brown bottle and an ornate round object with carved or embossed patterns. Dark red fabric gathers along the right side, partly disappearing into shadow. The background is nearly black, without architecture to establish a precise location. The forms emerge from that darkness through a controlled sequence of highlights: first the face and white collar, then sleeves, rabbit, and small still-life details. Brushwork is smooth on skin and more tactile in cloth, fur, and the patterned head covering. The square crop keeps the figure close, with a diagonal from turban through the bowed face and folded arms to the pale rabbit. The mood is intimate and quiet, though the theatrical contrast gives this ordinary pause the weight of a staged Baroque scene.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "1a4ac055e42353e43970173cca4fa3dfa99fec81017037f9b600bd927b79a031",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

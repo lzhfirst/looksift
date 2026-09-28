@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A carefully painted narrative scene shows a multigenerational family seated close together on a shaded bench. Near the center, a man in a rust-red suit turns toward a child in a luminous white dress. Their exchanged look and small joined hands give the crowded composition a quiet focus. Other relatives extend across the full width in muted sage, brown, teal, and coral garments, with faces partly held in shadow against a dark green wall. A narrow strip of pale tiled floor along the bottom provides a clean base for the row of legs and shoes. The painterly realism is detailed but controlled: skin, cloth folds, hat brims, and chair edges are carefully observed, while the background stays plain enough to support the figures. Warm light enters from the front-left, striking the white dress and rust suit most strongly, then fading across the darker faces at either side. The palette is rich yet restrained, built from earthy reds, olive and teal greens, deep browns, and ivory. The figures overlap tightly, making a long horizontal rhythm of hats and heads above the more varied shapes of seated bodies. Subtle brush texture and softened transitions prevent the realism from feeling photographic. The whole frame conveys an ordinary, dignified shared moment, its emotional center formed by a small gesture rather than a dramatic action.",
+  "full_prompt_zh": "一幅细致绘制的叙事画面：几代家人紧挨着坐在阴凉的长椅上。靠近中心，一位穿铁锈红西装的男子转向身穿明亮白裙的孩子。两人交换的目光和轻轻相牵的手，让拥挤构图有了安静的焦点。其他亲属横贯画幅，衣着呈柔鼠尾草绿、棕色、青绿与珊瑚色；深绿色墙面前，一些面孔部分隐入阴影。底部一条浅色地砖为成排的腿和鞋提供干净的基座。绘画写实细致而克制：皮肤、布料褶皱、帽檐和椅边都经过细心观察，背景则保持平淡，托住人物。暖光从左前方照入，最强地落在白裙和铁锈红西装上，随后渐渐淡过两侧较暗的面孔。色盘浓郁却不杂乱，由泥土红、橄榄绿与青绿、深棕和象牙白构成。人物紧密重叠，上方的帽子与头部形成长横向节奏，下方坐姿则变化更多。微妙的笔触肌理和柔和过渡让写实不显得像照片。整幅画呈现普通而有尊严的共同瞬间，情绪中心来自一个小动作，而非戏剧性事件。",
+  "style_prompt_en": "A realist narrative oil painting with carefully observed forms and restrained brush texture. Earthy rust, olive, teal, dark brown, and ivory gather in a closely overlapped horizontal arrangement. A bright central patch of white and warm red attracts the eye, while surrounding masses step gradually into shadow. Faces and cloth are shaped with soft tonal transitions; select hems, edges, and small objects receive firmer drawing. Light comes warmly from the front-left. A plain deep green backdrop and thin pale lower strip keep the crowded composition ordered and dignified.",
+  "style_prompt_zh": "一幅写实叙事油画，形体经过细心观察，笔触纹理保持克制。泥土铁锈红、橄榄绿、青绿、深棕和象牙白聚成紧密重叠的横向布局。中心一块明亮白色和暖红吸引视线，周围形体逐步进入阴影。主要形状通过柔和明度过渡塑造，少数边缘和小物件则用更明确的绘线勾出。光从左前方温暖地照来。素净深绿背景与下方细窄的浅色带，让拥挤构图仍有秩序和庄重感。",
+  "theme_en": "A family gathering on a shaded bench",
+  "theme_zh": "阴凉长椅上的家庭聚会",
+  "wh_ratio": "1:1",
+  "id": "3088",
+  "name": "Kadir Nelson",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/kadir-nelson",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "58c47c1aa6558cc1df0c606e60f8ce75c87f727988dc1bdbd10af6e977d16707",
+    "gpt_submission_prompt": "A carefully painted narrative scene shows a multigenerational family seated close together on a shaded bench. Near the center, a man in a rust-red suit turns toward a child in a luminous white dress. Their exchanged look and small joined hands give the crowded composition a quiet focus. Other relatives extend across the full width in muted sage, brown, teal, and coral garments, with faces partly held in shadow against a dark green wall. A narrow strip of pale tiled floor along the bottom provides a clean base for the row of legs and shoes. The painterly realism is detailed but controlled: skin, cloth folds, hat brims, and chair edges are carefully observed, while the background stays plain enough to support the figures. Warm light enters from the front-left, striking the white dress and rust suit most strongly, then fading across the darker faces at either side. The palette is rich yet restrained, built from earthy reds, olive and teal greens, deep browns, and ivory. The figures overlap tightly, making a long horizontal rhythm of hats and heads above the more varied shapes of seated bodies. Subtle brush texture and softened transitions prevent the realism from feeling photographic. The whole frame conveys an ordinary, dignified shared moment, its emotional center formed by a small gesture rather than a dramatic action.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "3c120c6c014a5d57648295fd9f9ee9a47e761339e16496b142fe297891b6ecfb",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

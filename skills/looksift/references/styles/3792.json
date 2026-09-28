@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square western-comic composition gives its largest central area to the stern face of an older white-haired man. His head faces forward, cropped close enough for the furrowed brow, pale beard and direct blue-gray eyes to dominate. Thick white hair sweeps back from the forehead, with dark hatched shadows separating individual locks and carving deep lines around the eyes. A broad mustache covers the upper lip, meeting a short full beard that frames the strong jaw. He wears a muted rust scarf at the neck and a dark garment that disappears into the lower edge. At the far left, two narrow stacked comic panels add other rugged figures: an older hat-wearing man above and a small crouched traveler below. These side panels sit behind hard vertical borders and are smaller than the central portrait. The background behind the main face is a compact mix of dark blue-gray and warm brown, broken by brushy line and quiet color patches. Fine black ink contours sharpen the eyes, nose and beard, while dry hatch marks make the face and cloth feel weathered. Warm light from the upper left touches the forehead and hair, leaving the opposite cheek in denser charcoal-blue shade. The overall composition has a bold graphic hierarchy, using the large central gaze and adjacent narrative fragments to create a rugged, concentrated atmosphere.",
+  "full_prompt_zh": "一幅方形西部漫画构图把最大中央区域留给一位白发长者严肃的脸。他正面望来，裁切得很近，让紧皱眉头、浅色胡须和直视的蓝灰眼睛占主导。浓密白发从额头向后掠去，深色排线阴影分开一束束头发，并刻出眼周深纹。宽阔上唇胡须连着短而浓的下巴胡须，围住坚实下颌。他颈部系低饱和锈红围巾，深色衣服消失于下缘。最左侧两块上下叠置的窄漫画格加入其他粗犷人物：上方一位戴帽长者，下方一个矮小的蹲伏旅人。这些边格被硬竖边框围住，尺寸小于中央肖像。主脸背后背景由紧凑的深蓝灰和暖棕组成，被刷笔线与安静色块打断。细黑墨轮廓使眼、鼻和胡须锐利，干排线又令脸与衣料显得经风霜。左上暖光触及额头和白发，另一侧脸颊留在更密的炭蓝阴影里。整体构图具有鲜明图像层级，以中央大幅凝视和邻近叙事碎片形成粗粝凝聚的气氛。",
+  "style_prompt_en": "A graphic comic treatment joins precise black ink contour, dense directional hatching and muted painted color. Warm ochre, rust and skin-toned highlights are set against slate blue, brown and charcoal shadow, producing a weathered rather than glossy surface. Narrow hard borders can divide the field, but the focal shape remains much larger and more detailed than peripheral fragments. Expression comes through emphatic brows, angular planes and forceful changes in line weight. Dry strokes and exposed paper grain interrupt smooth fills. Light is directional, lifting upper planes while lower and far sides gather thick crosshatched darkness. The result is rugged, dramatic and highly legible, with strong visual hierarchy and hand-drawn texture.",
+  "style_prompt_zh": "这种图像化漫画处理结合精确黑墨轮廓、密集定向排线与低饱和绘画色彩。暖赭、锈色与肤色亮部对照板岩蓝、棕色和炭色阴影，形成风霜感而非光亮表面。狭窄硬边框可以分割画面，但焦点形体仍远大于外围碎片且细节更足。表现力来自强调的眉线、棱角平面与有力线重变化。干笔和露出的纸纹打断平滑填色。光线方向明确，抬亮上方平面，让下方与远侧积聚厚重交叉排线暗部。效果粗粝、戏剧化且清楚易读，有强层级与手绘肌理。",
+  "theme_en": "A white-haired bearded man's stern face in a richly inked western comic panel",
+  "theme_zh": "浓重墨线西部漫画格中白发留须男子严肃的脸",
+  "wh_ratio": "1:1",
+  "id": "3792",
+  "name": "Mike Grell",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/mike-grell",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "7a337b05af2a42b6ce4bc408aee45c504e0a5bfc1d9b2f78683e0aa6780d0219",
+    "gpt_submission_prompt": "A square western-comic composition gives its largest central area to the stern face of an older white-haired man. His head faces forward, cropped close enough for the furrowed brow, pale beard and direct blue-gray eyes to dominate. Thick white hair sweeps back from the forehead, with dark hatched shadows separating individual locks and carving deep lines around the eyes. A broad mustache covers the upper lip, meeting a short full beard that frames the strong jaw. He wears a muted rust scarf at the neck and a dark garment that disappears into the lower edge. At the far left, two narrow stacked comic panels add other rugged figures: an older hat-wearing man above and a small crouched traveler below. These side panels sit behind hard vertical borders and are smaller than the central portrait. The background behind the main face is a compact mix of dark blue-gray and warm brown, broken by brushy line and quiet color patches. Fine black ink contours sharpen the eyes, nose and beard, while dry hatch marks make the face and cloth feel weathered. Warm light from the upper left touches the forehead and hair, leaving the opposite cheek in denser charcoal-blue shade. The overall composition has a bold graphic hierarchy, using the large central gaze and adjacent narrative fragments to create a rugged, concentrated atmosphere.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "dd12bd105d611061a8b666ce871ed6925011f00d037ab524c340f84b407b8559",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

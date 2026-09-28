@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square young-reader graphic-novel illustration shows a schoolgirl seated at a desk, resting her cheek in one hand and looking upward with a small hopeful smile. Give her large round glasses, bright wide eyes, warm brown hair tied into a loose side bun with flyaway strands, and a simple teal long-sleeved shirt. Her elbow sits on the desk just below the frame, making the hand-to-face gesture relaxed and natural. Behind her, a golden yellow wall and a large rectangular patch of lighter color create a simple classroom setting. At the lower sides, suggest short piles of books or papers and the dark back of a chair, but keep them secondary. The image uses clear dark brown linework that varies in thickness and wiggles slightly at the edges, rounded simplified forms, and expressive facial proportions. The image adds soft, mottled color fills rather than hard flat vectors: ochre background, muted teal clothing, peach skin, and amber-brown hair. Shadows are gentle and shallow, as if diffuse daylight fills the room. The composition frames closely at chest level, leaving a little warm space above the head. The picture should feel friendly, observant, and narratively open, with small imperfections of hand-drawn ink and color visible throughout.",
+  "full_prompt_zh": "一幅方形少年图像小说插画描绘一个坐在课桌前的女孩，她用一只手托着脸颊，带着轻微而充满期待的笑意向上看。她戴大圆眼镜，眼睛明亮，暖棕色头发扎成松散的侧髻，几缕碎发翘出，穿简单的青绿色长袖衫。手肘支在画面下缘的桌面上，托脸动作放松自然。背后金黄色墙面和一块较浅的矩形色区组成简洁教室。下方两侧可略示几叠书或纸以及深色椅背，但保持次要。画面用清楚而粗细变化的深棕线条，边缘略有手绘的摇摆感；形体圆润简化，面部比例富于表情。色面柔软斑驳，而不是坚硬的矢量纯色：赭黄背景、低饱和青绿衣服、桃色肤色和琥珀棕头发。阴影轻浅，仿佛漫射天光充满房间。画面以胸部近景取景，头顶留下少量暖色空间。画面友好、善于观察且留有叙事余地，墨线与上色的小不完美处处可见。",
+  "style_prompt_en": "Warm hand-drawn graphic-novel illustration with rounded simplified shapes, expressive scale shifts, and dark brown contour lines that vary gently in weight. Fill large areas with ochre, muted teal, peach, and amber, allowing subtle paper grain and mottled pigment to remain. The image keeps shadows shallow under diffuse light and background geometry economical, so gesture and visual rhythm stay clear without polished vector perfection.",
+  "style_prompt_zh": "暖色手绘图像小说插画，形体圆润简化，比例富于表现力，深棕轮廓线粗细轻微变化。大面积填入赭黄、低饱和青绿、桃色与琥珀色，保留细纸纹和斑驳色料。漫射光下阴影轻浅，背景几何简练，使动作和视觉节奏清楚，同时避免过于光滑的矢量完美感。",
+  "theme_en": "A thoughtful girl with round glasses at a classroom desk",
+  "theme_zh": "教室课桌前戴圆眼镜、若有所思的女孩",
+  "wh_ratio": "1:1",
+  "id": "4295",
+  "name": "Raina Telgemeier",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/raina-telgemeier.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "32d4b046bacd65ea43407efe643d405206c9cd444985224063ed2a968d10a525",
+    "gpt_submission_prompt": "A square young-reader graphic-novel illustration shows a schoolgirl seated at a desk, resting her cheek in one hand and looking upward with a small hopeful smile. Give her large round glasses, bright wide eyes, warm brown hair tied into a loose side bun with flyaway strands, and a simple teal long-sleeved shirt. Her elbow sits on the desk just below the frame, making the hand-to-face gesture relaxed and natural. Behind her, a golden yellow wall and a large rectangular patch of lighter color create a simple classroom setting. At the lower sides, suggest short piles of books or papers and the dark back of a chair, but keep them secondary. The image uses clear dark brown linework that varies in thickness and wiggles slightly at the edges, rounded simplified forms, and expressive facial proportions. The image adds soft, mottled color fills rather than hard flat vectors: ochre background, muted teal clothing, peach skin, and amber-brown hair. Shadows are gentle and shallow, as if diffuse daylight fills the room. The composition frames closely at chest level, leaving a little warm space above the head. The picture should feel friendly, observant, and narratively open, with small imperfections of hand-drawn ink and color visible throughout.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "ff33f2657998d427db117b16e7e3b53c36ba8af9b7554a6183f023d8b94717cb",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

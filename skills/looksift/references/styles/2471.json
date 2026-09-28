@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A detailed comic-style illustration places a red-haired woman in a vivid crimson dress at the center of a dense wall of illustrated story fragments. She is shown from the waist upward, looking directly outward with a composed, challenging expression. A red headband gathers her hair, and long red gloves reach past her wrists; one gloved finger rises near her lips while the other arm folds across her body. The fitted dress has satinlike highlights and narrow dark seams that define its shape. Behind her, a crowded montage of black-and-white character drawings, speech-like panels, torn paper shapes, and patches of faded red extends to every edge. Several faces and figures overlap in the collage, but they remain secondary, forming a textured narrative field around the strong foreground silhouette. The lighting is theatrical: a warm beam touches her face, bare shoulders, and glossy fabric while dark shadows sharpen her eyes and the folds of the dress. Fine ink linework, crosshatching, and rough printed grain make the background busy and tactile; smoother painted transitions on the central figure keep her readable. The palette is tightly controlled, using saturated red and warm skin against charcoal, cream, and gray. The composition feels dramatic and self-aware, with the single clear figure held in front of many smaller conflicting stories.",
+  "full_prompt_zh": "一幅细密的漫画风格插画，把一位穿鲜明深红裙的红发女子放在密集的图像故事碎片墙前。她从腰部以上入画，镇定而带挑战意味地直视外面。红色发带束住头发，长红手套盖过手腕；一根戴手套的手指抬在嘴边，另一只手臂交叠于身前。合身裙子带着缎面般高光和细窄深色接缝，界定其形状。她身后，黑白人物绘图、像分镜一样的画格、撕纸形状和褪色红块组成拥挤蒙太奇，延伸至每一个边缘。拼贴里有几张面孔和人物相互遮叠，但它们保持次要地位，在强烈前景剪影周围组成有纹理的叙事色场。灯光带戏剧性：一道暖光照到脸、裸露肩部和发亮布料，深影则使眼部与裙子褶皱更鲜明。细墨线、交叉排线和粗糙印刷颗粒让背景繁忙而可触；中心人物较平滑的绘制过渡使她保持易读。配色受到严格控制，饱和红与暖肤色对照炭黑、奶油白和灰。构图戏剧性强且有自我意识，一个清楚人物被放在许多较小且相互冲突的故事之前。",
+  "style_prompt_en": "Detailed comic illustration combining a smooth, theatrical central shape with a dense montage of smaller inked fragments. Saturated crimson and warm peach stand forward against charcoal, cream, gray, and faded red. Fine linework, crosshatching, torn-paper edges, and rough print grain make the surrounding field restless and tactile. A directed warm light picks out select curves and glossy ridges, while dark strokes sharpen key contours. The focal form stays clear through scale, color concentration, and controlled edge contrast. The overall rhythm is dramatic, layered, and graphic, balancing painted volume with archival-looking printed marks.",
+  "style_prompt_zh": "细密的漫画插画风格，把平滑、戏剧性强的中心形态与密集的小幅墨线碎片蒙太奇结合。饱和深红与暖桃色从炭黑、奶油白、灰和褪红之前浮出。细线、交叉排线、撕纸边缘与粗糙印刷颗粒使周围色场躁动而可触。定向暖光提起部分曲面和发亮棱线，深色笔触强化关键轮廓。焦点形态通过尺度、颜色集中和受控边缘对比保持清楚。整体节奏戏剧性强、层次密集且图形化，兼具绘画体积和档案般的印刷痕迹。",
+  "theme_en": "A red-clad heroine before a wall of graphic story fragments",
+  "theme_zh": "红衣女主角立于图像故事碎片墙前",
+  "wh_ratio": "1:1",
+  "id": "2471",
+  "name": "Mark Brooks",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/mark-brooks",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/mark-brooks.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "6f5cf07be7055ccc32e9d379406fc939a0b4a45b46bc38636cd9723ee11b28c2",
+    "gpt_submission_prompt": "A detailed comic-style illustration places a red-haired woman in a vivid crimson dress at the center of a dense wall of illustrated story fragments. She is shown from the waist upward, looking directly outward with a composed, challenging expression. A red headband gathers her hair, and long red gloves reach past her wrists; one gloved finger rises near her lips while the other arm folds across her body. The fitted dress has satinlike highlights and narrow dark seams that define its shape. Behind her, a crowded montage of black-and-white character drawings, speech-like panels, torn paper shapes, and patches of faded red extends to every edge. Several faces and figures overlap in the collage, but they remain secondary, forming a textured narrative field around the strong foreground silhouette. The lighting is theatrical: a warm beam touches her face, bare shoulders, and glossy fabric while dark shadows sharpen her eyes and the folds of the dress. Fine ink linework, crosshatching, and rough printed grain make the background busy and tactile; smoother painted transitions on the central figure keep her readable. The palette is tightly controlled, using saturated red and warm skin against charcoal, cream, and gray. The composition feels dramatic and self-aware, with the single clear figure held in front of many smaller conflicting stories.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "44d9f0ac90a584048ef1468e8bb91c4d0b82c1cfbe955eff559a03f3b0e175a5",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

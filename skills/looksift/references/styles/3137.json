@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A close illustrative study places a woman's face across a warm off-white field. Her gaze turns slightly upward to the right; finely described lashes, brows, nose, and coral lips remain recognizably drawn, while the left side of the head dissolves into overlapping bursts of turquoise, apricot, golden yellow, and pink. Thin graphite-like construction lines cross the colored patches and extend beyond the face, giving the image the feeling of a sketch that has become unexpectedly vivid. Small splashes and dots scatter around the cheek and hair area, but the lower right remains spacious and quiet.\n\nThe surface mixes delicate pencil drawing with translucent washes and more opaque paint daubs. Fine grey line contours give the facial planes clarity without fully enclosing them. Color appears in torn, irregular islands: some edges are wet and soft, others sharply broken, with a few flecks thrown outward. The light is even and pale, with little cast shadow; contrast comes instead from dark lashes and the saturated color against cream paper. The composition is asymmetric, the face large and cropped, and the paint activity concentrated on one side. The result is intimate, lively, and slightly unfinished in a deliberate way, preserving both observational draftsmanship and spontaneous painterly interruption. No readable text or typography appears in the selected image.",
+  "full_prompt_zh": "一幅近距离插画研究，把女子面容铺展在暖灰白底色上。她的目光略向右上方；细致描出的睫毛、眉、鼻和珊瑚色嘴唇仍清楚可辨，头部左侧则融解成层层叠叠的青绿、杏橙、金黄与粉色爆发。纤细如石墨的结构线穿过彩色斑块，也延伸到面部之外，让图像像一张突然变得鲜活的素描。小泼点和圆点散布在脸颊与发际一带，但右下方依然宽敞而安静。\n\n表面混合细腻的铅笔绘画、透明薄涂和较不透明的颜料点块。纤细灰色轮廓使面部转折清晰，却并未将它们全部封闭。颜色以撕裂般的不规则岛块出现：有些边缘湿润柔软，另一些突然断开，还有少量斑点向外飞溅。光线均匀而淡，几乎没有投影；对比主要来自深色睫毛，以及饱和彩色与奶油色纸面的相遇。构图不对称，面容放大并被裁切，颜料活动集中在一侧。结果应亲密、生动，并有意地略显未完成，同时保留观察性的绘画功底与自发的绘画打断。所选图像没有可辨认文字或排字。",
+  "style_prompt_en": "Delicate graphite-like contours sit on warm off-white paper, interrupted by translucent washes and opaque daubs of turquoise, apricot, golden yellow, and pink. The colored forms overlap as torn irregular islands, with a few soft wet edges and many abrupt broken ones. Thin exploratory lines run through them and continue into open space. Tiny splashes and round flecks disperse from the densest cluster, while a broad quiet area remains almost untouched. Even pale light leaves little cast shadow; contrast is carried by a handful of dark precise lines and saturated pigment against cream ground. The asymmetry feels lively yet controlled, joining careful observation to spontaneous painted interruption. The surface retains the appealing incompleteness of a worked sketch.",
+  "style_prompt_zh": "纤细如石墨的轮廓落在暖灰白纸面上，被青绿、杏橙、金黄和粉色的透明薄涂与不透明点块打断。彩色形状像撕裂的不规则岛块互相重叠，有些边缘湿润柔软，更多则突然断开。纤细的探索线条穿过色块，并继续伸向留白。细小飞溅和圆点从最密集处散开，大片安静区域几乎未被触碰。均匀的浅色光几乎不留下投影；对比来自少数精准深线，以及饱和颜料与奶油色底的相遇。不对称构图生动而受控，将仔细观察与自发的绘画打断连接起来。表面保留经过经营的素描所具有的可爱未完成感。",
+  "theme_en": "A delicate face breaking into color and line",
+  "theme_zh": "在色彩与线条中舒展的细腻面容",
+  "wh_ratio": "1:1",
+  "id": "3137",
+  "name": "Conrad Roset",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/conrad-roset",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "b272fe39572186e744c8ac67c8a8633d03c1f0882bba76e3f27a12b30c31757f",
+    "gpt_submission_prompt": "A close illustrative study places a woman's face across a warm off-white field. Her gaze turns slightly upward to the right; finely described lashes, brows, nose, and coral lips remain recognizably drawn, while the left side of the head dissolves into overlapping bursts of turquoise, apricot, golden yellow, and pink. Thin graphite-like construction lines cross the colored patches and extend beyond the face, giving the image the feeling of a sketch that has become unexpectedly vivid. Small splashes and dots scatter around the cheek and hair area, but the lower right remains spacious and quiet.\n\nThe surface mixes delicate pencil drawing with translucent washes and more opaque paint daubs. Fine grey line contours give the facial planes clarity without fully enclosing them. Color appears in torn, irregular islands: some edges are wet and soft, others sharply broken, with a few flecks thrown outward. The light is even and pale, with little cast shadow; contrast comes instead from dark lashes and the saturated color against cream paper. The composition is asymmetric, the face large and cropped, and the paint activity concentrated on one side. The result is intimate, lively, and slightly unfinished in a deliberate way, preserving both observational draftsmanship and spontaneous painterly interruption. No readable text or typography appears in the selected image.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "dcab1b56c201c23ee9ed9626ab06888e8b541df8b8ae8ae1d3c675671407d540",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

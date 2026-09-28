@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square documentary-style color photograph shows a middle-aged man standing by a pale sea under an overcast sky, facing the camera. The distant horizon forms a soft horizontal line behind his shoulders, with gray water and light sky reduced to quiet, blurred bands. He stands centrally from about the waist upward, his dark skin, short untidy hair, and full beard rendered with unvarnished natural texture. His expression is serious and steady, eyes meeting the lens directly. Several worn earth-toned garments are layered around him: a dark inner shirt, a loose beige outer wrap, and a long taupe scarf wound broadly around the neck and shoulders. The folds are heavy and irregular, with frayed edges and slight color differences that show repeated use. One hand holds the clothing or strap near the chest, while the other grips a dark binocular-like object at the lower right of his body. No other person stands in the selected frame, and there are no signs or readable words to identify the place. The background is much softer than the face and fabric, isolating the figure without removing the sense of open air. Flat diffused daylight from the clouded sky illuminates the face and garment evenly, leaving gentle shadows beneath the brow, beard, and wrapped folds. Muted brown, gray, cream, and green-gray give the photograph a subdued palette. The overall composition relies on direct eye contact, worn material, and spacious horizon to convey a quiet but forceful presence.",
+  "full_prompt_zh": "这幅方形纪实风格彩色照片描绘一名中年男子在阴云天空下的浅色海边面对镜头站立。远处地平线在双肩后形成柔和水平线，灰色水面与浅色天空被压成安静而模糊的色带。他在中央从约腰部以上入画，深色皮肤、短而略乱的头发和浓密胡须保留未经修饰的自然肌理。他神情严肃稳定，眼睛直视镜头。几层磨旧土色衣服裹在身上：深色内衣、宽松米色外披，以及在颈肩宽宽绕起的灰褐色长围巾。衣褶厚重不齐，有磨损边缘和微小色差，显出反复使用的痕迹。一只手在胸前握住衣服或带子，另一只手在身体右下方拿着深色似望远镜的物件。所选画面没有其他人物，也没有标牌或可读文字说明地点。背景远比面部和织物柔和，使人物独立，却不抹去露天空气感。阴云天空的平坦漫射日光均匀照亮面部与衣服，只在眉下、胡须和缠绕衣褶内留下柔影。柔棕、灰、奶油色和灰绿让照片色域低调。整体构图依靠直接眼神、磨旧材料与宽阔地平线传达安静却有力的存在感。",
+  "style_prompt_en": "The image has a restrained documentary color-photography finish, with direct frontal framing and naturally worn surface detail. Dusty brown, taupe, gray-green, cream, and muted charcoal form a low-saturation palette. Soft overcast light spreads evenly across the focal form, allowing skin-like and fabric-like textures to remain visible without sharp specular shine. A clear central plane stands against broad blurred horizontal background bands. Edges are defined by shallow depth of field rather than hard outlines, and gentle shadows collect in layered folds. The composition leaves generous open space around a compact upright mass. The overall effect is plainspoken, tactile, and quietly powerful.",
+  "style_prompt_zh": "图像具有克制的纪实彩色摄影质感，采用直接正面构图与自然磨旧的表面细节。灰棕、褐灰、灰绿、奶油色与柔炭色形成低饱和色域。柔和阴天光均匀铺在焦点形体上，使似皮肤和似织物的肌理可见，却无尖锐镜面光泽。清楚的中央平面立在宽阔模糊的水平背景带前。边缘由浅景深界定，而非硬轮廓，柔影聚在层叠褶皱里。构图在紧凑直立的体量周围留下宽裕敞开空间。整体效果朴实、可触且安静有力。",
+  "theme_en": "A man in layered earth-toned clothing standing by the sea",
+  "theme_zh": "身穿层叠土色衣物立在海边的男子",
+  "wh_ratio": "1:1",
+  "id": "2269",
+  "name": "Pieter Hugo",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/pieter-hugo",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/pieter-hugo.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "467ee2ff1513691bbc20748dc399df2236f6bf36f9ce56a129cfb2ff86327db3",
+    "gpt_submission_prompt": "A square documentary-style color photograph shows a middle-aged man standing by a pale sea under an overcast sky, facing the camera. The distant horizon forms a soft horizontal line behind his shoulders, with gray water and light sky reduced to quiet, blurred bands. He stands centrally from about the waist upward, his dark skin, short untidy hair, and full beard rendered with unvarnished natural texture. His expression is serious and steady, eyes meeting the lens directly. Several worn earth-toned garments are layered around him: a dark inner shirt, a loose beige outer wrap, and a long taupe scarf wound broadly around the neck and shoulders. The folds are heavy and irregular, with frayed edges and slight color differences that show repeated use. One hand holds the clothing or strap near the chest, while the other grips a dark binocular-like object at the lower right of his body. No other person stands in the selected frame, and there are no signs or readable words to identify the place. The background is much softer than the face and fabric, isolating the figure without removing the sense of open air. Flat diffused daylight from the clouded sky illuminates the face and garment evenly, leaving gentle shadows beneath the brow, beard, and wrapped folds. Muted brown, gray, cream, and green-gray give the photograph a subdued palette. The overall composition relies on direct eye contact, worn material, and spacious horizon to convey a quiet but forceful presence.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "f71f3df3a78c55f804e5e3422516fef58acaafbe93600c72a1e453534b0dc2f4",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

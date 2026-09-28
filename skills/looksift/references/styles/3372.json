@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A dark fantasy ink and muted watercolor illustration shows a fully armored knight kneeling alone in a sparse field. The figure occupies the center of the square frame, head bowed beneath a pointed steel helmet whose narrow vertical ridge rises toward the top edge. Both gauntleted hands rest on the hilt of a long straight sword planted point first in the ground, forming a firm central axis. One armored knee presses into the earth while the other leg bends outward, and layered plates on the shoulder, forearm, thigh, and knee catch cold gray highlights. A heavy brown scarf or cloak wraps around the neck and upper torso, with dark fabric trailing down toward the lower left. Behind the figure, the background is mostly warm cream paper, interrupted by a rust orange smoky stain rising along the upper right and scattered black ink flecks near the lower edge. Sparse tufts of dry grass line the ground, keeping the setting minimal and desolate. The metal is rendered with fine scratches, dark seams, and restrained reflections rather than polished shine. Light is soft and indirect from the upper left, leaving the helmet face in deep shadow and allowing the warm background to outline the silhouette. The whole image feels solemn and exhausted, using a still posture, weathered texture, and large empty margins to carry its mood.",
+  "full_prompt_zh": "一幅黑暗奇幻墨线与低饱和水彩插画描绘一位全身着甲的骑士独自跪在荒疏的地面上。人物居于方形画面中央，头低垂在尖顶钢盔下，头盔狭长的纵脊朝顶边升起。两只戴护手的手停在一柄长直剑的剑柄上，剑尖插入地面，形成坚实的中央轴线。一侧铠甲膝盖压在土地上，另一条腿向外弯曲；肩、前臂、大腿与膝部的叠层甲片承接冷灰色高光。厚重的棕色围巾或披风包住颈部与上躯干，深色布料向左下拖落。背后大部分是温暖的奶油色纸面，仅在右上有一道向上升起的锈橙色烟状污迹，底边附近散布黑色墨点。稀疏枯草沿地面生长，使场景极简而荒凉。金属由细微划痕、深色缝隙和克制反光表现，而非打磨光亮。柔和的间接光从左上方进入，让头盔面部沉入深影，也让暖色背景勾出剪影。整幅画庄严而疲惫，借静止姿态、风化肌理与大片空白边缘承载情绪。",
+  "style_prompt_en": "A dark fantasy illustration combining fine ink linework, muted watercolor washes, and weathered material texture on warm cream paper. Center a solitary vertical form in a nearly empty field and build its weight with layered hard planes, wrapped soft folds, deep seams, and restrained cold highlights. Anchor the composition with a straight central line descending to a narrow ground strip. Keep the palette in charcoal, steel gray, earthy brown, and one rust orange atmospheric stain. Let flecks, dry marks, and sparse grasslike strokes interrupt the blank paper without filling it. Use soft indirect light so the main silhouette remains clear while interior recesses stay dark. The overall mood should be solemn, quiet, and worn, with generous negative space emphasizing stillness.",
+  "style_prompt_zh": "采用黑暗奇幻插画语言，把细密墨线、低饱和水彩晕染与风化材料肌理置于暖奶油色纸面上。让一个孤立的竖向形体居中于近乎空白的场域，借叠层硬质平面、包裹的柔软褶皱、深缝与克制的冷高光建立重量。以一条直线式中央轴向下连接狭窄地面带，固定构图。调色限于炭黑、钢灰、土棕，以及一道锈橙色氛围污迹。用飞点、干笔痕与稀疏草状线条打断空白纸面，但不把它填满。使用柔和间接光，让主体剪影清楚而内部凹处保持黑暗。整体氛围庄严、安静且饱经磨损，以充裕留白强调静止。",
+  "theme_en": "Kneeling knight with an upright sword",
+  "theme_zh": "拄剑跪地的骑士",
+  "wh_ratio": "1:1",
+  "id": "3372",
+  "name": "Dark Souls",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/dark-souls",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "41b257c3b95c0e2ebaf5704c43c68a8d88a24d0becc8f625c42f4b3e1c795f39",
+    "gpt_submission_prompt": "A dark fantasy ink and muted watercolor illustration shows a fully armored knight kneeling alone in a sparse field. The figure occupies the center of the square frame, head bowed beneath a pointed steel helmet whose narrow vertical ridge rises toward the top edge. Both gauntleted hands rest on the hilt of a long straight sword planted point first in the ground, forming a firm central axis. One armored knee presses into the earth while the other leg bends outward, and layered plates on the shoulder, forearm, thigh, and knee catch cold gray highlights. A heavy brown scarf or cloak wraps around the neck and upper torso, with dark fabric trailing down toward the lower left. Behind the figure, the background is mostly warm cream paper, interrupted by a rust orange smoky stain rising along the upper right and scattered black ink flecks near the lower edge. Sparse tufts of dry grass line the ground, keeping the setting minimal and desolate. The metal is rendered with fine scratches, dark seams, and restrained reflections rather than polished shine. Light is soft and indirect from the upper left, leaving the helmet face in deep shadow and allowing the warm background to outline the silhouette. The whole image feels solemn and exhausted, using a still posture, weathered texture, and large empty margins to carry its mood.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "a3963acf5ddbbf6acf3f0f405207d8f424c635cbe22fc9608bb33ac8f15bb320",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

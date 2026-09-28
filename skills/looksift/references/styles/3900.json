@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "An aged, sepia-toned photograph presents two children standing close together against a dark, indistinct studio background. The child on the left wears a plain cap and a striped button-front shirt, facing the camera with a serious expression. The child on the right has a broad halo of dark hair crowned with pale flowers and wears a light, loose dress. A small white goat is held between them at chest height, its head turned slightly to the left so its short horns and soft muzzle remain visible. The children's faces are quiet and almost expressionless, making the unusual combination of formal pose, flower crown, and animal feel gently uncanny rather than playful. Light falls softly from the front, lifting cheeks, the goat's pale fur, and the dress while leaving the background and lower corners in deep brown-black shadow. The square image has a dark worn border, slight surface scuffs, and the softened contrast of an old photographic print. Texture varies across the frame: striped cloth, wispy hair, clustered blossoms, and the goat's short fur retain distinct detail despite the overall hazy finish. The figures are arranged as a compact central group with little surrounding space. The photograph feels timeless and enigmatic, balancing direct human presence with delicate animal and floral forms in a still, weathered visual atmosphere.",
+  "full_prompt_zh": "一张泛旧棕褐色照片，拍下两个孩子紧挨着站在深暗、难以辨认的影棚背景前。左侧孩子戴朴素的帽子，穿条纹纽扣衬衫，以严肃神情正对镜头。右侧孩子深色头发蓬成宽阔光环，上面戴着浅色花朵组成的冠，身穿宽松浅色衣裙。一只白色小山羊被抱在两人胸前，头略朝左转，短角与柔软口鼻仍清楚。孩子们的面孔安静、几乎没有表情，使正式姿态、花冠和动物这一不寻常组合温柔地显得奇异，而非嬉闹。光从前方柔和落下，提亮面颊、山羊浅色毛和衣裙，背景与下方角落则保持深棕黑影。正方形图像有深色磨旧边框、轻微表面擦痕，以及老相纸柔化的对比。画面纹理各异：条纹布、轻细发丝、成簇花朵与山羊短毛在整体朦胧收束中仍保持不同细节。人物被安排成紧凑的中心组合，四周空间很少。照片有跨越时间的谜意，在静止而风化的视觉空气中，直接的人类存在与纤细的动物、花卉形态取得平衡。",
+  "style_prompt_en": "Aged sepia photography with softened contrast, dark worn borders, light surface scuffs, and a compact central arrangement. Pale rounded forms emerge from deep brown-black shadow under broad, gentle frontal light. Fine textures—striping, wispy lines, clustered small highlights, and short soft fibers—remain distinct within an overall hazy finish. The palette stays close to parchment, gray-brown, cream, and soot. Edges are clear enough to preserve individual forms but never clinically sharp. The atmosphere is still, intimate, and gently uncanny, like a weathered print whose quiet details have survived time.",
+  "style_prompt_zh": "泛旧棕褐摄影风格，对比柔化，边框深暗磨损，表面有浅擦痕，中心安排紧凑。浅色圆润形态在宽而温和的正面光下从深棕黑影中浮现。细纹理——条纹、轻细线、成簇的小高光和短软纤维——在整体朦胧表面中仍彼此分明。配色贴近旧纸色、灰褐、奶油白与烟黑。边缘足以保持形态可辨，却从不呈现临床般锐利。气氛静止、亲近且温柔地奇异，像一张安静细节经时间留存的风化相纸。",
+  "theme_en": "Two solemn children with a small goat in an aged studio portrait",
+  "theme_zh": "旧式影棚肖像中两位严肃孩子与小山羊",
+  "wh_ratio": "1:1",
+  "id": "3900",
+  "name": "Keith Carter",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/keith-carter.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "133fb221d9ae9d36df6932c856782cf479eebe461f5c8fa40115ddd5d9b5cf6c",
+    "gpt_submission_prompt": "An aged, sepia-toned photograph presents two children standing close together against a dark, indistinct studio background. The child on the left wears a plain cap and a striped button-front shirt, facing the camera with a serious expression. The child on the right has a broad halo of dark hair crowned with pale flowers and wears a light, loose dress. A small white goat is held between them at chest height, its head turned slightly to the left so its short horns and soft muzzle remain visible. The children's faces are quiet and almost expressionless, making the unusual combination of formal pose, flower crown, and animal feel gently uncanny rather than playful. Light falls softly from the front, lifting cheeks, the goat's pale fur, and the dress while leaving the background and lower corners in deep brown-black shadow. The square image has a dark worn border, slight surface scuffs, and the softened contrast of an old photographic print. Texture varies across the frame: striped cloth, wispy hair, clustered blossoms, and the goat's short fur retain distinct detail despite the overall hazy finish. The figures are arranged as a compact central group with little surrounding space. The photograph feels timeless and enigmatic, balancing direct human presence with delicate animal and floral forms in a still, weathered visual atmosphere.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "8fac1a8c6c81502b492a3be10484b7c73376427c4aa3cabf331c24e80889d012",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square Romantic oil painting captures a crowded mounted group driving through a rough, shadowed landscape beneath a storm-colored sky. In the right foreground, a powerful white horse rears or lunges upward, its pale chest and arched neck turning into the brightest moving mass. A rider in dark clothing leans close behind its mane. At the center, a man in a black hat and brown-red coat rides a dark horse, twisting to face another rider in black and white beside him. Their gestures cross over the horses' necks, compressing the cluster into a knot of urgent motion. To the left, a red-capped figure in a rust cloak reaches forward from a lower saddle, partly obscured by the central horse. Behind the group at the far right, several smaller heads and reddish garments emerge from smoke and dust. The lower edge is made of churned earth, rocky strokes, and dark hoof shapes, while a green-black bank rises at the left. Above, broad gray, ochre, and blue-green clouds roll across the sky without a clear horizon. Vigorous brushstrokes sweep along the horses' bodies and cloaks, alternating between thick dark masses and quick pale highlights. A diffuse break in the overcast light catches the white horse, faces, and select red cloth, leaving the rest in enveloping brown-green shadow. The composition is diagonal and congested, with overlapping bodies and opposing looks generating the sense of a dramatic event unfolding at speed.",
+  "full_prompt_zh": "一幅方形浪漫主义油画抓住一群骑马人从粗糙阴暗原野上冲过的时刻，头顶是暴风色天空。右前景，一匹有力白马扬起或向上猛冲，浅色胸部与弓起颈项成为最亮的运动团块。深衣骑手紧贴马鬃后倾。中央，戴黑帽、穿棕红外衣的男子骑深色马，扭身面对旁边黑白衣装的另一骑者。他们的动作在马颈上交叉，使人马群压成急促运动的结。左边，戴红帽、披锈色斗篷的人从较低马鞍处向前伸，部分被中央马体挡住。远右后方，几个更小的头部与红色衣物从烟尘中浮出。下缘由翻搅泥土、岩石笔迹和深色马蹄形构成，偏绿的黑色土坡在左侧升起。上方，宽广灰、赭、蓝绿云团翻卷，没有清楚地平线。强劲笔触沿马身和披风扫过，在厚重暗块与快速浅亮之间交替。阴天光中的漫射开口照到白马、面孔与少量红布，其余留在包围性的棕绿阴影。构图斜向而拥挤，重叠身体和相反目光使戏剧事件仿佛正在高速展开。",
+  "style_prompt_en": "Romantic oil painting builds drama with diagonal thrust, overlapping forms, vigorous sweeping strokes, and deep warm-cool shadow. Alternate large dark brown, green-black, and slate masses with quick ivory highlights and selective rust-red accents. Allow edges to blur into turbulent atmosphere except at a few expressive faces, gestures, or lit surfaces. Light should break diffusely through an overcast field, concentrating on one moving focal mass while the surrounding scene remains shadowed. Use visible brush texture and compressed spatial layering to make the composition feel urgent and emotionally charged. The transferable quality is kinetic grandeur rather than polished symmetry.",
+  "style_prompt_zh": "浪漫主义油画以斜向冲力、形体重叠、强劲扫笔和深沉冷暖阴影建立戏剧感。大块深棕、绿黑、石板灰，与快速象牙白亮笔及选择性锈红重点交替。除少数富于表情的面孔、动作或受光表面外，边缘可模糊进动荡空气。光从阴天色场中漫射漏下，集中在一处运动焦点大块，周围保持阴沉。可见笔触肌理与压缩的空间层次让构图紧迫且情绪饱满。可迁移品质是运动中的壮阔，而非光滑对称。",
+  "theme_en": "Mounted figures surging through a turbulent dark landscape",
+  "theme_zh": "骑马人群穿越动荡的暗色原野",
+  "wh_ratio": "1:1",
+  "id": "2564",
+  "name": "Eugene Delacroix",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/eugene-delacroix",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/eugene-delacroix.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "9d20f92d3110b1783b8db9740870eb4de4e443786a8b2067c8a637ab043068f0",
+    "gpt_submission_prompt": "A square Romantic oil painting captures a crowded mounted group driving through a rough, shadowed landscape beneath a storm-colored sky. In the right foreground, a powerful white horse rears or lunges upward, its pale chest and arched neck turning into the brightest moving mass. A rider in dark clothing leans close behind its mane. At the center, a man in a black hat and brown-red coat rides a dark horse, twisting to face another rider in black and white beside him. Their gestures cross over the horses' necks, compressing the cluster into a knot of urgent motion. To the left, a red-capped figure in a rust cloak reaches forward from a lower saddle, partly obscured by the central horse. Behind the group at the far right, several smaller heads and reddish garments emerge from smoke and dust. The lower edge is made of churned earth, rocky strokes, and dark hoof shapes, while a green-black bank rises at the left. Above, broad gray, ochre, and blue-green clouds roll across the sky without a clear horizon. Vigorous brushstrokes sweep along the horses' bodies and cloaks, alternating between thick dark masses and quick pale highlights. A diffuse break in the overcast light catches the white horse, faces, and select red cloth, leaving the rest in enveloping brown-green shadow. The composition is diagonal and congested, with overlapping bodies and opposing looks generating the sense of a dramatic event unfolding at speed.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "a1b290861f00508f9bcef449750edd96e09efcec1f1569f3f9468cc09335ca43",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square fluorescent-color portrait photograph crops a face so closely that one blue-gray eye, part of the nose, cheek, and mouth dominate the entire frame. Dark bangs and hair cover much of the upper edge and right margin, making a near-black border around the illuminated skin. The visible eye sits high near the center-right, framed by long sharply detailed lashes and a bright cyan lower lid. Its iris catches small turquoise highlights. On the left, the opposite eye is mostly beyond the crop and dark hair shadow. Saturated hot pink and red light floods the left side of the nose and cheek. A narrow yellow-orange beam cuts diagonally from the inner brow across the cheek toward the lower center, making a luminous stripe with a soft edge. Cyan light rim-lines the eye and hair at the right, while small greenish notes appear where colors meet. The nostril and partly visible lips fall low in the composition, their forms readable beneath the colored light. Fine photographic skin texture remains visible inside the bright areas, and the shadows retain rich color instead of collapsing into plain black. The background is absent at this scale, leaving only the face and its dark hair. The close framing, crossing warm and cool beams, and precise eye detail create a vivid, intimate image that feels charged by light rather than by action.",
+  "full_prompt_zh": "一幅方形荧光色人像照片把面孔裁得极近，使一只蓝灰眼睛、部分鼻子、脸颊和嘴主导整个画幅。深色刘海和头发覆盖上缘及右边大部，在受光皮肤周围形成近黑边框。可见眼睛位于中央偏右上方，长而清楚的睫毛和明亮青色下眼睑围住它。虹膜接住细小青绿亮点。左侧另一只眼睛大半越出裁切，并藏在头发阴影里。饱和炽粉与红光淹没鼻子和脸颊左侧。一条狭窄黄橙光束从内眉附近斜穿脸颊，抵达下方中央，形成边缘柔和的发亮条带。青光勾出右侧眼睛和头发轮廓，颜色相遇处有少量偏绿的音调。鼻孔和部分可见嘴唇落在构图下方，形体在彩光下仍可读。明亮区域里仍有细小摄影皮肤纹理，阴影保留浓艳颜色，而没有塌成单纯黑色。这个尺度下看不到背景，只有面孔与深发。近距离框取、交叉的暖冷光束和精准眼部细节，使图像鲜明而亲密，力量来自光而非动作。",
+  "style_prompt_en": "Fluorescent photographic color crosses a very close form with sharply contrasted light bands. Hot magenta and red press against cyan and electric blue, while a narrow yellow-orange beam creates the brightest diagonal. Near-black framing areas increase the saturation of the lit surfaces. Fine real texture remains visible beneath the color treatment, especially in the narrow focal details. Edges are crisp where light catches a small contour and soft where a beam spreads over a broad plane. The background is minimal or lost to the crop, so composition comes from intersecting color paths, a close focal feature, and strong unequal light areas. The result feels intimate, electric, and dense.",
+  "style_prompt_zh": "荧光摄影色以明暗反差强烈的光带横穿极近形体。炽洋红和红色紧贴青蓝与电蓝，一条狭窄黄橙光束形成最亮对角线。近黑框形区域加强受光表面的饱和度。细致真实纹理在色彩处理下仍可见，尤其在狭窄焦点细节中。光照到小轮廓时边缘清晰，光束铺过宽阔平面时则柔和。背景极少或被裁切吞没，构图因此来自交叉色光路径、近处焦点特征和面积不均的强光区域。整体亲密、电光感强而密集。",
+  "theme_en": "An extreme close face crossed by fluorescent yellow and cyan light",
+  "theme_zh": "荧光黄与青色光束掠过极近距离的面孔",
+  "wh_ratio": "1:1",
+  "id": "0178",
+  "name": "Fluorescent colors",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/fluorescent-colors",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/fluorescent-colors.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "acd2c1074f75d8a977c5ff480748135e3ff783c2e8ede6fe9fbf245f2f7f741a",
+    "gpt_submission_prompt": "A square fluorescent-color portrait photograph crops a face so closely that one blue-gray eye, part of the nose, cheek, and mouth dominate the entire frame. Dark bangs and hair cover much of the upper edge and right margin, making a near-black border around the illuminated skin. The visible eye sits high near the center-right, framed by long sharply detailed lashes and a bright cyan lower lid. Its iris catches small turquoise highlights. On the left, the opposite eye is mostly beyond the crop and dark hair shadow. Saturated hot pink and red light floods the left side of the nose and cheek. A narrow yellow-orange beam cuts diagonally from the inner brow across the cheek toward the lower center, making a luminous stripe with a soft edge. Cyan light rim-lines the eye and hair at the right, while small greenish notes appear where colors meet. The nostril and partly visible lips fall low in the composition, their forms readable beneath the colored light. Fine photographic skin texture remains visible inside the bright areas, and the shadows retain rich color instead of collapsing into plain black. The background is absent at this scale, leaving only the face and its dark hair. The close framing, crossing warm and cool beams, and precise eye detail create a vivid, intimate image that feels charged by light rather than by action.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "6e301ca9dfe054460645e083f40f68ed60149903a0550d6b000929be8b8e7540",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

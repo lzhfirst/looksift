@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white documentary photograph captures a child looking directly at the camera from behind a dark window frame. The face sits in the center-left, with short softly waved hair, pale skin, and a serious open gaze. A vertical wooden mullion runs just to the right of the face, partly hiding the second side of the head; a diagonal lower rail crosses the foreground and forms a dark triangular base. Behind the child, reflections and deep interior shadow mingle on the glass, with an indistinct adult shape at the far left. The child wears a dark coat over a small pale collar, which emerges briefly from the black around the shoulders. Light is soft and frontal, brightening the forehead, eyes, nose, and cheek without harsh highlights. The surrounding window and room remain much darker, so the face appears unexpectedly luminous. Moderate film grain and gentle tonal softness preserve the feel of an observed moment, while the eyes stay sharp. The camera is close to the glass at roughly the child's eye level. The composition is intimate and geometric at once: dark bars divide the image, but a quiet human presence holds it together. No signs or readable text intrude.",
+  "full_prompt_zh": "一张方形黑白纪实照片捕捉一位孩子从深色窗框后直视镜头。面孔位于中央偏左，短发柔软微卷，肤色浅，目光认真而敞开。一道竖木窗棂紧靠面部右侧，部分遮住头的另一边；斜向下框横过前景，形成深色三角底座。孩子后方，玻璃反射与室内深影混合，最左侧有一团模糊成人形。孩子穿深色外套，露出一点浅色小领，在肩周黑色中短暂显现。光线柔和且接近正面，照亮额头、眼、鼻和面颊，没有硬亮点。周围窗与室内明显更暗，使脸显得意外明亮。适度胶片颗粒与柔和调子保留被观察瞬间的质感，眼睛仍锐利。相机在近窗、近孩子眼平的高度。构图既亲密又几何：深色杆条切分画面，安静的人却把它凝聚。没有标识或可读文字。",
+  "style_prompt_en": "Humanist black-and-white photography with direct eye-level proximity, luminous midtone focus, deep framing bars, and layered glass reflections. Soft natural light preserves delicate face-like tonal planes while interior surroundings fall nearly black. Gentle film grain and modest sharpness keep the moment unpolished. Strong geometric divisions coexist with emotional stillness.",
+  "style_prompt_zh": "人文黑白摄影，以直接眼平距离、发亮的中间调焦点、深色框条和层叠玻璃反射构成。柔和自然光保留细致面状调子，室内周围沉入近黑。轻胶片颗粒与适度锐度使瞬间未被过度修饰。强几何分割与情感静止同时存在。",
+  "theme_en": "A child gazing from a dark window in black-and-white",
+  "theme_zh": "黑白照片中一位孩子从昏暗窗口凝望",
+  "wh_ratio": "1:1",
+  "id": "4467",
+  "name": "Martine Franck",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/martine-franck.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "028647aa6f0c83b909085a10f308e47225c215a2192e2219cadb3d9db4335e92",
+    "gpt_submission_prompt": "A square black-and-white documentary photograph captures a child looking directly at the camera from behind a dark window frame. The face sits in the center-left, with short softly waved hair, pale skin, and a serious open gaze. A vertical wooden mullion runs just to the right of the face, partly hiding the second side of the head; a diagonal lower rail crosses the foreground and forms a dark triangular base. Behind the child, reflections and deep interior shadow mingle on the glass, with an indistinct adult shape at the far left. The child wears a dark coat over a small pale collar, which emerges briefly from the black around the shoulders. Light is soft and frontal, brightening the forehead, eyes, nose, and cheek without harsh highlights. The surrounding window and room remain much darker, so the face appears unexpectedly luminous. Moderate film grain and gentle tonal softness preserve the feel of an observed moment, while the eyes stay sharp. The camera is close to the glass at roughly the child's eye level. The composition is intimate and geometric at once: dark bars divide the image, but a quiet human presence holds it together. No signs or readable text intrude.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "7d5d715fc5b9623ee013ca0ac6445b1bf3b036d87f654a1ce86bc585897953bd",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

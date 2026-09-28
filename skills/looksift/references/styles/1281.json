@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square narrative painting shows a small child curled against a sleeping fox in the corner of a rustic wooden room. The child wears a worn black top hat, a deep red-orange coat and scuffed dark boots; the head leans down until the forehead nearly touches the fox. The fox lies to the left with closed eyes, orange fur spread across the stone floor and a full tail curled toward the foreground. A dark plank wall rises behind them, its vertical grain and uneven seams forming a simple sheltering backdrop. Both figures occupy the lower central half, leaving an area of warm shadowed wood above that intensifies the intimacy. Their bodies are close without an exaggerated embrace. Fine painterly detail separates velvety fur, brushed coat fabric, aged hat felt, rough leather and cool floor slabs. Light arrives softly from above and left, catching the fox's ears and the child's coat while the corners stay deep brown. The palette is restrained: burnt orange, dark umber, charcoal and a few pale cream highlights. The image has the compositional stillness of a small historical portrait yet the gentle unreality of a fable. Its emotional center is trust and shared rest, expressed through tiny physical contact and quiet closed eyes rather than sentimental symbols or decorative scenery.",
+  "full_prompt_zh": "一幅正方形叙事绘画呈现一个小孩蜷在乡村木屋角落的熟睡狐狸旁。孩子戴磨旧的黑色高礼帽，穿深红橘外套和擦伤的深色靴子，低下头，额头几乎碰到狐狸。狐狸卧在左边，眼睛合起，橙色毛发铺在石地上，蓬松尾巴向前景卷回。深色木板墙在后方竖起，纵向木纹与参差接缝构成简单的庇护背景。两个形体占据中央下半部，上方留下暖而阴暗的木面，使亲密感更强。他们靠得很近，却没有夸张拥抱。细致绘画纹理区分天鹅绒般的毛、刷出纹理的外套、旧帽毡、粗皮革与冷石板。柔光从左上方进入，照亮狐狸耳尖和孩子外衣，角落保持深棕。配色克制，以焦橙、深褐、炭色与少量奶白高光构成。图像有小幅历史肖像般静止的构图，也有寓言般温和的不真实感。情绪中心是信任和共同休息，由细小身体接触与安静闭眼传达，不靠煽情符号或装饰场景。",
+  "style_prompt_en": "The style is intimate narrative painting with fable-like naturalism, finely differentiated tactile surfaces and a restrained warm-dark palette. Soft directional light gathers on adjacent forms, while a simple vertical-textured ground deepens the sheltered mood. Burnt orange, umber and charcoal dominate, with selective cream highlights. Detailed brushwork follows fur-like softness, worn fabric and rough masonry without glossy finish. A low compact arrangement in the square frame leaves quiet shadow above, making small contact and stillness emotionally legible.",
+  "style_prompt_zh": "这种风格是亲密的叙事绘画，具有寓言般自然主义、明确区分的可触摸表面和克制暖暗配色。柔和方向光聚在相邻形体上，简单的竖向纹理底面加深被庇护的气氛。焦橙、深褐和炭色占主导，奶白高光选择性出现。细密笔触追随柔软绒毛、磨损织物与粗石质感，没有亮面处理。正方形画幅下方的紧凑低位安排在上方留下安静阴影，使细小接触与静止在情绪上清楚可读。",
+  "theme_en": "A child resting beside a sleeping fox",
+  "theme_zh": "靠着熟睡狐狸休息的孩子",
+  "wh_ratio": "1:1",
+  "id": "1281",
+  "name": "Lucia Heffernan",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/lucia-heffernan",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/lucia-heffernan.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "0590242648406c6065fef6f0ff4f6f2bc64c86b28621260766fd0bb77a0d6e8a",
+    "gpt_submission_prompt": "A square narrative painting shows a small child curled against a sleeping fox in the corner of a rustic wooden room. The child wears a worn black top hat, a deep red-orange coat and scuffed dark boots; the head leans down until the forehead nearly touches the fox. The fox lies to the left with closed eyes, orange fur spread across the stone floor and a full tail curled toward the foreground. A dark plank wall rises behind them, its vertical grain and uneven seams forming a simple sheltering backdrop. Both figures occupy the lower central half, leaving an area of warm shadowed wood above that intensifies the intimacy. Their bodies are close without an exaggerated embrace. Fine painterly detail separates velvety fur, brushed coat fabric, aged hat felt, rough leather and cool floor slabs. Light arrives softly from above and left, catching the fox's ears and the child's coat while the corners stay deep brown. The palette is restrained: burnt orange, dark umber, charcoal and a few pale cream highlights. The image has the compositional stillness of a small historical portrait yet the gentle unreality of a fable. Its emotional center is trust and shared rest, expressed through tiny physical contact and quiet closed eyes rather than sentimental symbols or decorative scenery.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "3fc76d77e376895ca13c012e550691908ab53e692de953bd8362fd5cae5a6ca7",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

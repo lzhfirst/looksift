@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square, highly detailed landscape drawing shows a long wall of white and blue ice rising from a dark, cold sea. The cliff enters from the far left edge, where its near face is tallest and most textured. Vertical cracks, narrow crevices, ridged ledges, and compacted layers mark its sheer surface. It tapers in steps toward the center-right horizon, where the far end becomes a thin pale band against the sky. The water fills the lower third of the frame. Its slate and navy surface is marked by small broken ripples and scattered white flecks of ice or reflected light. The near water is deep and almost black, while a pale horizontal strip glows close to the far ice. Above, heavy charcoal and blue-gray clouds cover most of the sky. A wide region of softer light breaks through around the upper center-right, brushing the ice faces with cool brightness but leaving the cloud ceiling oppressive. The horizon is low and nearly level, emphasizing the horizontal extent of the frozen wall. The cliff remains the only prominent landform; there are no human figures or structures to interrupt its scale. Fine tonal gradations and closely observed texture give the ice a solid, weighty presence, while the clouds are handled in broader, softer transitions. The palette is tightly restrained to white, icy cyan, slate blue, and near-black. The whole composition feels vast and still, with the immense textured cliff set against restless dark water and a sky that seems to press downward.",
+  "full_prompt_zh": "一幅方形、细节极丰富的风景绘画描绘一堵长长的白蓝冰墙，从寒冷暗海中升起。冰崖从画面最左边进入，近处断面最高、质地最丰富。竖向裂纹、狭缝、棱脊和压紧的层理标在陡直表面上。它向中央偏右的地平线阶梯式变矮，远端化为天空前的一条浅色细带。水面占据下方三分之一。石板灰和海军蓝表面点着断续小波纹，以及零散的白色冰屑或反光。近水深得近乎黑色，远冰附近一条浅色水平带微微发亮。上方，厚重炭色与蓝灰云层覆盖大部分天空。中央偏右上方有一片较柔和的光透出，给冰面刷上一层冷亮，却仍让云幕显得压迫。地平线低而几乎水平，强调冰墙的横向延展。冰崖是唯一显著的陆地形体，没有人或建筑打断其尺度。精细的色调渐变和认真观察的纹理让冰有坚实体量，云层则以更宽、更柔的过渡处理。色彩严格限制在白、冰青、石板蓝和近黑。整幅构图辽阔而静止，巨大的纹理冰崖与躁动的暗水、仿佛向下压来的天空相对。",
+  "style_prompt_en": "Highly detailed cool-toned landscape rendering uses fine granular texture and subtle tonal gradations to describe dense surfaces. White and icy cyan highlights emerge from slate blue, navy, and near-black. Long horizontal masses meet vertical fissures and scattered bright flecks, creating scale without a human marker. Broad, softly blended cloud forms oppose the more sharply described foreground texture. Light is diffused through a heavy sky, cool and localized, with no warm accent. Keep the horizon low, the far distance pale, and the near area dark and tactile. The mood is expansive, severe, and still.",
+  "style_prompt_zh": "细节丰富的冷色风景绘画以细颗粒纹理和微妙色调渐变表现密实表面。白色与冰青高光从石板蓝、海军蓝和近黑中浮出。长水平形体与竖向裂隙、零散亮点相遇，无须人物尺度标记也能建立宏大感。宽阔柔和晕染的云形与描述更锐利的前景纹理相对。光穿过厚重天空漫射，寒冷且局部化，没有暖色重音。地平线保持低位，远景浅淡，近处深暗而可触。情绪开阔、严峻且静止。",
+  "theme_en": "A long white ice cliff above dark water under storm clouds",
+  "theme_zh": "暴风云下，长长白色冰崖立于暗色水面",
+  "wh_ratio": "1:1",
+  "id": "1901",
+  "name": "Zaria Forman",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/zaria-forman",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/zaria-forman.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "76071103116918a6bdb8ed1653ed921580b8e3009c0d030e5d83b089e468c736",
+    "gpt_submission_prompt": "A square, highly detailed landscape drawing shows a long wall of white and blue ice rising from a dark, cold sea. The cliff enters from the far left edge, where its near face is tallest and most textured. Vertical cracks, narrow crevices, ridged ledges, and compacted layers mark its sheer surface. It tapers in steps toward the center-right horizon, where the far end becomes a thin pale band against the sky. The water fills the lower third of the frame. Its slate and navy surface is marked by small broken ripples and scattered white flecks of ice or reflected light. The near water is deep and almost black, while a pale horizontal strip glows close to the far ice. Above, heavy charcoal and blue-gray clouds cover most of the sky. A wide region of softer light breaks through around the upper center-right, brushing the ice faces with cool brightness but leaving the cloud ceiling oppressive. The horizon is low and nearly level, emphasizing the horizontal extent of the frozen wall. The cliff remains the only prominent landform; there are no human figures or structures to interrupt its scale. Fine tonal gradations and closely observed texture give the ice a solid, weighty presence, while the clouds are handled in broader, softer transitions. The palette is tightly restrained to white, icy cyan, slate blue, and near-black. The whole composition feels vast and still, with the immense textured cliff set against restless dark water and a sky that seems to press downward.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "512c84057a7ff789849e24d42d9943518277da69cba58585a7358cbcb80882cd",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

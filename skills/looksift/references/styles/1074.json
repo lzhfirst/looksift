@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square surreal landscape image shows a translucent cube hovering above a quiet coastal field at twilight. The cube hangs in the upper center, its vertical edge clearly visible and its two cool blue sides containing a brighter fragment of sky and a line of white clouds. Its lower face glows with pale peach sunset light, making the object appear like a small suspended window into another atmosphere. Beneath it, a rough grassy path runs from the dark lower foreground toward the distant water. Low patches of purple and yellow flowers spread across the ground, while small trees punctuate the left and right middle distance. A flat strip of sea meets the horizon below a warm pink-orange band. The surrounding sky deepens upward from mauve near the horizon to navy blue at the top, with a few faint tiny points and wisps. The cube's edges remain clean and geometric, contrasting with the soft organic field and cloud texture inside it. The landscape is still, with no people, buildings or readable text. Low evening light comes from the horizon, warming the path and the cube's underside while leaving the nearest grass and trees in cool shadow. The image is softly painterly, with smooth atmospheric gradients and carefully placed fine texture in the ground. The overall composition is contemplative and uncanny, balancing an impossible bright geometric insert against a broad, familiar dusk landscape.",
+  "full_prompt_zh": "一幅方形超现实风景图像呈现一只半透明立方体悬在安静的暮色海岸草地上。立方体悬于上方中央，竖向棱边清楚可见，两面冷蓝色侧面包着更明亮的天空片段和一线白云。下表面泛着浅桃色夕照，使它像通向另一种空气的小型悬浮窗口。其下，一道粗糙草径从暗色下方前景通向远处水面。低矮紫花与黄花点缀地面，小树在左右中景断续立起。平坦海面在暖粉橙色光带下接住地平线。周围天空从近地平线的淡紫向上加深为顶部藏蓝，只有少量隐约细点和云丝。立方体边缘干净且几何化，与柔软有机草地及内部云层肌理对照。景观静止，没有人物、建筑或可读文字。低处傍晚光从地平线照来，温暖草径与立方体底面，让最近的草和树留在冷影里。画面柔和而有绘画感，空气渐层平滑，地面细纹理被谨慎放置。整体构图沉思且奇异，以不可能的发亮几何插入物平衡宽阔熟悉的黄昏景观。",
+  "style_prompt_en": "A surreal atmospheric image treatment combines naturalistic dusk gradients with a sharply bounded translucent geometric insertion. Deep navy and teal-blue dominate the broad upper field; mauve, coral and pale peach concentrate near a low horizon and within a luminous inner plane. Soft ground texture and distant haze recede gently, while the geometric edges stay clean and almost diagrammatic. Light is low and warm at the horizon, with a cooler ambient wash above; the inserted plane appears to carry its own subtly brighter illumination. Large quiet negative space surrounds a single concentrated visual anomaly. The composition is balanced and meditative, using the clash between soft atmosphere and exact geometry to create wonder.",
+  "style_prompt_zh": "超现实氛围图像处理把自然主义黄昏渐层与边界锐利的半透明几何插入层结合。深藏蓝与青蓝占据宽阔上部色域，淡紫、珊瑚与浅桃色集中在低地平线和内部发光平面附近。柔软地面肌理与远雾温和退去，几何边缘却干净、近乎图解。低处暖光靠近地平线，上方由较冷环境光洗过；插入的色面似乎自带略亮的照明。大块安静留白围住一处集中的视觉异常。构图均衡而冥想，以柔和空气与精确几何的冲突制造惊奇。",
+  "theme_en": "A translucent sky-filled cube hovering above a quiet coastal field at twilight",
+  "theme_zh": "暮色海岸草地上，一只装着天空的半透明立方体悬浮",
+  "wh_ratio": "1:1",
+  "id": "1074",
+  "name": "Stuart Lippincott",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/stuart-lippincott",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/stuart-lippincott.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "72c4175f27725366223291ca72e95e303fd833144bb52cf2e2771f4c3c77340d",
+    "gpt_submission_prompt": "A square surreal landscape image shows a translucent cube hovering above a quiet coastal field at twilight. The cube hangs in the upper center, its vertical edge clearly visible and its two cool blue sides containing a brighter fragment of sky and a line of white clouds. Its lower face glows with pale peach sunset light, making the object appear like a small suspended window into another atmosphere. Beneath it, a rough grassy path runs from the dark lower foreground toward the distant water. Low patches of purple and yellow flowers spread across the ground, while small trees punctuate the left and right middle distance. A flat strip of sea meets the horizon below a warm pink-orange band. The surrounding sky deepens upward from mauve near the horizon to navy blue at the top, with a few faint tiny points and wisps. The cube's edges remain clean and geometric, contrasting with the soft organic field and cloud texture inside it. The landscape is still, with no people, buildings or readable text. Low evening light comes from the horizon, warming the path and the cube's underside while leaving the nearest grass and trees in cool shadow. The image is softly painterly, with smooth atmospheric gradients and carefully placed fine texture in the ground. The overall composition is contemplative and uncanny, balancing an impossible bright geometric insert against a broad, familiar dusk landscape.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "39d1c6334b2bd92d22519fe7010de4d64b5d42c076112df06bbce9fac6a42ecf",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

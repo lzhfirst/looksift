@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square Cubist-inflected oil painting looks along a broad crowded avenue toward a dense hilltop city of domes, towers, and pale walls. The road begins wide at the bottom center and narrows sharply toward an arched opening in the middle distance. Dozens of tiny dark and rust-colored pedestrians move in loose clusters along it, their individual bodies reduced to quick upright strokes. Small market stalls with ochre and red awnings line both sides of the lower road, especially the left edge. Tall narrow cypress-like trees interrupt the city blocks in the middle ground, their almost black green points alternating with warm houses. Above, white cylindrical towers, squat pale buildings, blue and gold domes, and thin dark spires crowd the upper half against a cloudy gray-beige sky. The city is not rendered in seamless perspective: walls, rooftops, and tree shapes interlock like offset angular facets, with little seams of blue, lavender, salmon, tan, and olive between them. A bright white curved wall at center-right holds the foreground city together. Pigment appears dry and mottled, with short textured strokes breaking many flat color planes. Diffuse daylight from the high cloudy sky lifts the white structures and central road while deeper shadow gathers under stalls and between trees. The composition draws the eye through a lively human current into a stacked, jewel-like townscape.",
+  "full_prompt_zh": "一幅方形、带立体主义影响的油画沿宽阔拥挤大道望向山顶密集的穹顶、塔楼与浅墙。道路从底边中央宽阔进入，向中景一处拱口迅速收窄。数十个小小深色与锈色行人在路上松散聚行，个体身体简化为快速竖笔。带赭黄与红色篷顶的小集市摊位排列在下方道路两侧，左缘尤其密。高而窄、柏树般的树木打断中景建筑群，近黑绿尖形与暖色房屋交替。上方，白色圆塔、矮浅楼、蓝金穹顶和细暗尖塔在灰米色云天前挤满上半幅。城市并非无缝透视：墙、屋顶和树形像错开的折角切面互相嵌合，蓝、淡紫、鲑粉、棕褐与橄榄色小缝穿插其间。中右一面明亮白色弧墙把近处城块收在一起。颜料干而斑驳，短纹理笔触打破多处平面色块。高处阴云漫射日光托起白建筑和中央道路，摊棚下及树间聚深影。构图把视线沿活跃人流带进层叠如宝石的城景。",
+  "style_prompt_en": "Cubist-inflected oil painting fractures recognizable space into interlocking angular color planes while preserving a clear receding route. Build dense vertical accents and stacked rounded forms from white, warm ochre, salmon, blue, olive, and lavender fragments. Let tiny dark figures or marks animate a broad lower passage, with larger geometric masses crowded above. Keep paint dry, mottled, and visibly brushed rather than digitally smooth. Diffuse daylight brightens selected pale planes, and dark narrow shapes create rhythm between them. The transferable effect is bustling and jewel-like, with layered spatial compression and a coherent overall path.",
+  "style_prompt_zh": "受立体主义影响的油画把可辨空间拆成相扣的折角色面，同时保留清楚后退通道。以白、暖赭、鲑粉、蓝、橄榄和淡紫碎片构筑密集竖向重点与层叠圆形。细小深色人物或标记让下方宽通道活跃，更大几何团块拥在上方。颜料保持干涩、斑驳与可见笔刷感，而非数字平滑。漫射日光照亮选择性浅色平面，窄暗形在其间形成节奏。可迁移效果繁忙而宝石般，空间层次被压缩，却有连贯总体路径。",
+  "theme_en": "A crowded road leading toward a colorful hilltop city of domes and towers",
+  "theme_zh": "拥挤大道通向布满彩色穹顶与塔楼的山城",
+  "wh_ratio": "1:1",
+  "id": "3729",
+  "name": "Aristarkh Lentulov",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/aristarkh-lentulov",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "e96fdf8039824aa72a65c9698911830e80a8c52bf19af394a8c480e1e34eac5a",
+    "gpt_submission_prompt": "A square Cubist-inflected oil painting looks along a broad crowded avenue toward a dense hilltop city of domes, towers, and pale walls. The road begins wide at the bottom center and narrows sharply toward an arched opening in the middle distance. Dozens of tiny dark and rust-colored pedestrians move in loose clusters along it, their individual bodies reduced to quick upright strokes. Small market stalls with ochre and red awnings line both sides of the lower road, especially the left edge. Tall narrow cypress-like trees interrupt the city blocks in the middle ground, their almost black green points alternating with warm houses. Above, white cylindrical towers, squat pale buildings, blue and gold domes, and thin dark spires crowd the upper half against a cloudy gray-beige sky. The city is not rendered in seamless perspective: walls, rooftops, and tree shapes interlock like offset angular facets, with little seams of blue, lavender, salmon, tan, and olive between them. A bright white curved wall at center-right holds the foreground city together. Pigment appears dry and mottled, with short textured strokes breaking many flat color planes. Diffuse daylight from the high cloudy sky lifts the white structures and central road while deeper shadow gathers under stalls and between trees. The composition draws the eye through a lively human current into a stacked, jewel-like townscape.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "bd15fc8bc812e9b40cc9355f7afbf18d9ce9cacbe413b3a779fdf5ecd1dc9556",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

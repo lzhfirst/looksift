@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A color film photograph shows a low, glass-fronted roadside store at dusk. The long building runs diagonally from the middle distance at left toward the near right edge, its interior windows glowing warm yellow-orange beneath a pale horizontal fascia. Tall parking-lot lamps stand to the left and cast bright white pools into the open paved foreground. The asphalt is dark and slightly reflective, with faint streaks and small glints leading toward the doors. A blue-green evening sky fills the upper half, carrying soft grey clouds and a thin strip of pink light at the horizon. The photographic colors feel gently muted and blended: cyan shadows, warm window light, and peach twilight meet without sharp digital separation. Fine grain and low-contrast haze soften distant trees and the far end of the building, while straight architectural lines and window divisions remain readable. The viewpoint is low across the wide empty lot; no person or vehicle dominates the scene. The lamps punctuate the left side, the store forms a glowing horizontal band across the right, and the broad dark pavement gives the image an unhurried foreground. The frame balances cool open air against a small continuous run of artificial warmth.",
+  "full_prompt_zh": "一幅彩色胶片照片记录黄昏时分的低矮路边商店。长建筑从左侧中景斜向延伸到右侧近处，浅色横向檐口下的玻璃橱窗透出暖黄橙色灯光。高停车场路灯立在左侧，把明亮白光投向开阔的前景路面。沥青地面深暗而略带反射，细微光痕与小亮点通向门口。蓝绿色晚空填满上半部，柔灰云层与地平线上一道粉色余晖仍可见。照片色彩略显低饱和并互相融混：青色暗部、暖色橱窗和桃色暮光没有生硬的数字分隔。细颗粒与低反差雾感柔化远树和建筑远端，笔直建筑线与窗格仍可辨。视点较低，越过宽阔空停车场望去；没有人物或车辆占据主导。路灯点亮左侧，商店在右侧形成发光水平带，大块深色地面提供舒缓前景。画面在冷色开放空气与一小段持续的人造暖光之间保持平衡。",
+  "style_prompt_en": "A color-film photographic surface uses fine visible grain, gentle contrast, and slightly blended color transitions. Cool cyan and slate tones cover broad shadow and sky areas, while small warm orange and yellow highlights gather in a horizontal band. Bright points bloom modestly into the dusk air. Straight structural edges remain readable but are softened by distance and low-contrast haze; reflective streaks break up a large dark foreground plane. The composition sets a low viewpoint across open space, a long receding diagonal, and a broad upper field of clouded color. Depth emerges from the gradient of clarity toward the horizon and from the repeated narrow divisions within the lit band. The eye moves slowly over quiet cool areas before collecting at the warm accents and scattered reflected glints.",
+  "style_prompt_zh": "彩色胶片摄影表面带有细微可见颗粒、温和反差与略微融合的色彩过渡。冷青与石板灰覆盖大片阴影和天空，少量暖橙与黄色亮点集中成一条横向光带。亮点在暮色空气里轻微溢散。笔直结构边缘仍可辨，却被距离与低反差雾感柔化；反光细痕打破宽阔深色前景平面。构图从低视点越过开放空间，以一条向远处退去的长斜线和上方大片云色组织画面。清晰度朝地平线渐变，受光带内重复的窄分格共同建立纵深。视线先缓慢走过安静的冷色区域，再聚到暖色亮处与零星反光上。",
+  "theme_en": "A lit roadside storefront at blue hour after rain",
+  "theme_zh": "雨后蓝调时刻亮灯的路边商店",
+  "wh_ratio": "1:1",
+  "id": "2846",
+  "name": "Kodak UltraMax 400",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/kodak-ultramax-400",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/kodak-ultramax-400.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "8fa00e25b864ada52b884769a7d7d1ff56c9a8e9c73cff54858d8c0dff3a9934",
+    "gpt_submission_prompt": "A color film photograph shows a low, glass-fronted roadside store at dusk. The long building runs diagonally from the middle distance at left toward the near right edge, its interior windows glowing warm yellow-orange beneath a pale horizontal fascia. Tall parking-lot lamps stand to the left and cast bright white pools into the open paved foreground. The asphalt is dark and slightly reflective, with faint streaks and small glints leading toward the doors. A blue-green evening sky fills the upper half, carrying soft grey clouds and a thin strip of pink light at the horizon. The photographic colors feel gently muted and blended: cyan shadows, warm window light, and peach twilight meet without sharp digital separation. Fine grain and low-contrast haze soften distant trees and the far end of the building, while straight architectural lines and window divisions remain readable. The viewpoint is low across the wide empty lot; no person or vehicle dominates the scene. The lamps punctuate the left side, the store forms a glowing horizontal band across the right, and the broad dark pavement gives the image an unhurried foreground. The frame balances cool open air against a small continuous run of artificial warmth.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "84524dfbf2e4eb54844aea516ff3d8ed87357c16fdeb49e063c04753683e4ea1",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

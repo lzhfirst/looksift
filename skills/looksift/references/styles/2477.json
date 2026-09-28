@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "An expressive oil painting shows a red-haired woman seated at a bar, resting her cheek on one hand while holding a stemmed amber cocktail in the other. She wears a simple black sleeveless dress; her bright copper hair is styled in a loose side sweep above pale skin and greenish eyes. Her gaze turns slightly away from the viewer with a thoughtful, mildly distracted expression. The foreground counter forms a pale horizontal band across the lower frame, with the small glass catching warm light near the right side. Behind her, several patrons appear in broken, soft-edged patches of teal, ocher, and brown, creating the feeling of a busy room without detailed narrative. Light falls warmly on the face, bare shoulder, hand, and glass, while the dark dress supplies a strong central mass. The brushwork is loose and visible: broad strokes build the background figures, scraped or dragged marks roughen the counter, and brisk smaller strokes shape the hair and facial planes. Edges sharpen around the eyes and bright hair but dissolve into painterly blur along the rear crowd. Saturated copper and amber stand against cool turquoise and deep black, producing a lively warm-cool tension. The composition is intimate and still within a social setting, letting a small private pause emerge from the noise of color and brush marks.",
+  "full_prompt_zh": "一幅富于表现力的油画，描绘一位红发女子坐在吧台前，一只手托着面颊，另一只手端着琥珀色细脚鸡尾酒杯。她穿简单的黑色无袖裙；明亮铜红色头发松松向一侧梳，衬着浅色皮肤和偏绿色的眼睛。目光略避开观者，神情沉思且有些出神。前景吧台在画面下方形成浅色水平带，右侧小酒杯接住暖光。身后几位顾客由蓝绿、赭黄和棕色的断续、柔边色块出现，营造繁忙室内感，却没有细化成完整故事。暖光落在脸、裸露肩膀、手和酒杯上，深色裙子提供强烈中心体块。笔触松散而可见：宽笔建立背景人物，刮擦或拖曳的痕迹使吧台粗糙，较小而迅速的笔触塑造头发与面部平面。眼睛和明亮头发附近边缘清楚，后方人群则融进绘画性模糊。饱和铜红与琥珀对照冷绿松石与深黑，产生活跃的冷暖张力。构图在社交场所中亲近而静止，让一小段私人停顿从颜色与笔痕的嘈杂中浮出。",
+  "style_prompt_en": "Expressive oil painting with loose visible strokes, scraped passages, and selective clarity. Saturated copper and amber accents glow against cool turquoise, ocher, brown, and deep black. Warm light picks out a few smooth curved planes and small reflective surfaces, while broad dark masses anchor the center. Nearby details sharpen around the focal area; surrounding forms dissolve into broken patches of color and soft edges. A pale horizontal band stabilizes the lower frame against busy layered marks behind. The result feels intimate yet lively, with a private stillness held inside painterly social noise.",
+  "style_prompt_zh": "富于表现力的油画风格，松散可见的笔触、刮擦区域和选择性清晰并存。饱和铜色与琥珀色点缀在冷绿松石、赭黄、棕色和深黑之间发亮。暖光提起少数平滑曲面和小反光表面，宽阔深色体块稳定中心。焦点附近细节变清楚，周围形态散成破碎色块与柔软边缘。下方浅色水平带稳住后方繁忙的层叠笔痕。结果亲近又活跃，在绘画性的社交噪声中保留私人静止感。",
+  "theme_en": "A red-haired woman resting at a lively bar with a cocktail",
+  "theme_zh": "红发女子在热闹酒吧倚坐并端着鸡尾酒",
+  "wh_ratio": "1:1",
+  "id": "2477",
+  "name": "Malcolm Liepke",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/malcolm-liepke",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/malcolm-liepke.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "9350a5ae05c3087e72485fa93e2ec28c94a07554a51c574465d5a0021c88ec55",
+    "gpt_submission_prompt": "An expressive oil painting shows a red-haired woman seated at a bar, resting her cheek on one hand while holding a stemmed amber cocktail in the other. She wears a simple black sleeveless dress; her bright copper hair is styled in a loose side sweep above pale skin and greenish eyes. Her gaze turns slightly away from the viewer with a thoughtful, mildly distracted expression. The foreground counter forms a pale horizontal band across the lower frame, with the small glass catching warm light near the right side. Behind her, several patrons appear in broken, soft-edged patches of teal, ocher, and brown, creating the feeling of a busy room without detailed narrative. Light falls warmly on the face, bare shoulder, hand, and glass, while the dark dress supplies a strong central mass. The brushwork is loose and visible: broad strokes build the background figures, scraped or dragged marks roughen the counter, and brisk smaller strokes shape the hair and facial planes. Edges sharpen around the eyes and bright hair but dissolve into painterly blur along the rear crowd. Saturated copper and amber stand against cool turquoise and deep black, producing a lively warm-cool tension. The composition is intimate and still within a social setting, letting a small private pause emerge from the noise of color and brush marks.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "d349db50f67d713f6bdf46403a1fea7f3cc0b2123479dd533bc1504d904078bc",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

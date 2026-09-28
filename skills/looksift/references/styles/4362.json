@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square narrative oil illustration shows several small riders racing down a golden slope beside a rushing river. The nearest rider at the lower left leans forward on a dark horse, while two more figures run or ride along the hill toward a bright white church-like building above the far bank. Large rounded clouds of dust or mist gather near the building, overlapping dark blue-green trees and a textured cobalt sky. The river cuts diagonally across the lower right, with pale blue-white water breaking around rocks. Warm yellow grass fills the left hillside and makes the moving figures readable as dark accents. The distant building rises with simple bright walls and a small tower, serving as a fixed point against the action. Brushwork is broad in sky, hills, and water, but figures and architecture have firmer illustrative contours. Light from the upper left warms the slope and building, while shadows turn deep navy and green around trees and riverbank. The composition follows a strong descending diagonal, carrying motion from upper left to lower right. Shapes are simplified enough to read quickly, yet surface marks keep the painting textured and physical. The scene feels like an adventurous story captured at its most active moment, with confident staging, heroic color, and strong environmental scale.",
+  "full_prompt_zh": "一幅方形叙事油画插图描绘几位小骑手沿金色山坡疾驰，旁边是奔流河水。最近的骑手在左下俯身骑深色马，两个人影沿坡奔向远岸上方发亮的白色教堂般建筑。大团圆润尘雾或水气聚在建筑附近，重叠深蓝绿树木与带肌理的钴蓝天空。河流斜穿右下，淡蓝白水绕石翻开。暖黄草地填满左坡，使移动的人影成为清晰深色点。远处建筑有简单亮墙和小塔，成为动作中的固定点。天空、山丘和水笔触宽大，人物与建筑则有较稳的插画轮廓。左上光暖化坡面与建筑，树和河岸阴影转深藏蓝与绿。构图沿强烈下降对角线，把运动从左上带向右下。形状简化到可快速读懂，但表面笔痕保持绘画肌理与实体感。场景像冒险故事最活跃的一刻，布置自信，色彩英勇，环境尺度强。",
+  "style_prompt_en": "Narrative oil illustration uses broad painted masses, firm focal contours, and a strong diagonal action path. Golden ochre, cobalt, cream, and deep blue-green create heroic color contrast. Sweeping brushwork builds cloud, dust, terrain, and water, while small dark accents keep movement legible. High warm light catches raised planes and pale architecture; cool shadow collects around vegetation and low ground. Simplified shapes allow quick storytelling, yet canvas-like texture remains visible. The composition feels adventurous, staged with clarity and environmental scale.",
+  "style_prompt_zh": "叙事油画插图使用宽阔绘画团块、坚实焦点轮廓与强烈对角动作路径。金赭、钴蓝、奶油与深蓝绿组成英勇配色对比。横扫笔触搭建云、尘、地形和水，小深色点保持运动可读。高处暖光照亮凸起平面与浅色结构；冷影聚在植物和低处。简化形体便于迅速讲故事，画布般肌理仍可见。构图有冒险气息，舞台布置清楚且环境尺度宏大。",
+  "theme_en": "Riders racing down a golden slope toward a river",
+  "theme_zh": "骑手沿金色山坡奔向河流",
+  "wh_ratio": "1:1",
+  "id": "4362",
+  "name": "N. C. Wyeth",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/n-c-wyeth.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "3a0d6dd0ead5504a2cc0885400b7689dec692e4ec3264b9ef19d615cde284278",
+    "gpt_submission_prompt": "A square narrative oil illustration shows several small riders racing down a golden slope beside a rushing river. The nearest rider at the lower left leans forward on a dark horse, while two more figures run or ride along the hill toward a bright white church-like building above the far bank. Large rounded clouds of dust or mist gather near the building, overlapping dark blue-green trees and a textured cobalt sky. The river cuts diagonally across the lower right, with pale blue-white water breaking around rocks. Warm yellow grass fills the left hillside and makes the moving figures readable as dark accents. The distant building rises with simple bright walls and a small tower, serving as a fixed point against the action. Brushwork is broad in sky, hills, and water, but figures and architecture have firmer illustrative contours. Light from the upper left warms the slope and building, while shadows turn deep navy and green around trees and riverbank. The composition follows a strong descending diagonal, carrying motion from upper left to lower right. Shapes are simplified enough to read quickly, yet surface marks keep the painting textured and physical. The scene feels like an adventurous story captured at its most active moment, with confident staging, heroic color, and strong environmental scale.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "0a3eac9365841518addd6a8ef7a26ecaf8d8abe1395c4b57736a9a688b0c839c",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

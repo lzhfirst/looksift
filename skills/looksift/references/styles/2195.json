@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square narrative painting shows a lone woman from behind, standing on a narrow strip of brown ground beneath an immense teal sky. Her short black bob and long red coat form a simple vertical silhouette. The coat's lower hem blows toward the right, the only visible sign of wind at ground level. Across the upper sky, seven pale birds fly in a loose diagonal procession; their small cream wings repeat like gently changing marks. A low bank of soft cloud gathers behind the woman's shoulders, but most of the middle field remains open blue-green. The horizon sits very low, compressing the earth into a thin warm band. There are no buildings or other people to specify a place. The woman appears still and intent, watching the birds move across the empty height. The paint surface is matte and slightly weathered, with subtle scratches and tonal variations visible in the sky. Colors are strongly edited: saturated rust red, deep teal, warm cream, black and muted ochre. The figure occupies the lower center, while the birds spread the gaze upward and outward. The composition feels like a quiet fable, making scale and isolation emotionally vivid without dramatic gesture. Its strange calm comes from the immense negative space, the small repeated wings and the red coat caught in a soft breeze.",
+  "full_prompt_zh": "一幅正方形叙事绘画呈现一位独自站着的女子背影，她立在窄窄褐色地带上，头顶是广阔的青绿色天空。黑色短发与长红外套组成简单竖向剪影。衣摆下缘向右吹起，是地面唯一可见的风迹。上方天空中，七只浅色鸟以松散对角队列飞过；小小的乳色翅膀像缓慢变化的笔痕重复。柔软云带低低聚在女子肩后，中部大部分区域却保持开阔蓝绿色。地平线极低，把土地压成细暖色带。没有建筑或其他人物说明地点。女子似乎静止而专注，看着鸟穿过空旷高处。颜料表面哑光且略显风化，天空中可见微小刮痕和调子变化。色彩经过强力筛选：饱和锈红、深青绿、暖乳色、黑和压低赭色。人物位于下方中央，鸟群使目光向上和向外展开。构图像安静寓言，不靠戏剧动作也能让尺度与孤独变得鲜明。诡异的宁静来自巨大留白、重复的小翅膀和微风中扬起的红色衣摆。",
+  "style_prompt_en": "The style is spare narrative painting with a very low horizon, immense muted color field and a tiny repeated motif crossing the upper space. A single saturated warm accent anchors the lower center against cool teal and soft cream. Matte pigment, faint surface wear and gentle cloud edges prevent flatness without crowding the frame. The square composition uses scale, repetition and negative space to suggest a quiet fable. Movement is slight but legible through one windblown edge and a loose diagonal rhythm.",
+  "style_prompt_zh": "这种风格是简洁的叙事绘画，具有极低地平线、巨大的压低色场以及穿过上方空间的微小重复母题。下方中央一处饱和暖色重音稳住冷青绿与柔乳色。哑光颜料、淡淡表面磨损和轻柔云边防止平板，却不挤满画幅。正方形构图用尺度、重复和留白暗示安静寓言。运动轻微但清楚，通过一处被风吹动的边缘和松散对角节奏被看见。",
+  "theme_en": "A woman in a red coat watching white birds cross an open sky",
+  "theme_zh": "红衣女子望着白鸟飞过开阔天空",
+  "wh_ratio": "1:1",
+  "id": "2195",
+  "name": "Duy Huynh",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/duy-huynh",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/duy-huynh.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "778a821c4303f32f81fd4250be8116a0fd0c27f6d7066643260798a858cc75b5",
+    "gpt_submission_prompt": "A square narrative painting shows a lone woman from behind, standing on a narrow strip of brown ground beneath an immense teal sky. Her short black bob and long red coat form a simple vertical silhouette. The coat's lower hem blows toward the right, the only visible sign of wind at ground level. Across the upper sky, seven pale birds fly in a loose diagonal procession; their small cream wings repeat like gently changing marks. A low bank of soft cloud gathers behind the woman's shoulders, but most of the middle field remains open blue-green. The horizon sits very low, compressing the earth into a thin warm band. There are no buildings or other people to specify a place. The woman appears still and intent, watching the birds move across the empty height. The paint surface is matte and slightly weathered, with subtle scratches and tonal variations visible in the sky. Colors are strongly edited: saturated rust red, deep teal, warm cream, black and muted ochre. The figure occupies the lower center, while the birds spread the gaze upward and outward. The composition feels like a quiet fable, making scale and isolation emotionally vivid without dramatic gesture. Its strange calm comes from the immense negative space, the small repeated wings and the red coat caught in a soft breeze.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "bd91ddc34b83df9f4034dd6a4eb54f7fec3dde9c40bbfc1c16d877b139fc1451",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

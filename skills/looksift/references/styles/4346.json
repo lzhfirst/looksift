@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square minimalist architectural photograph faces a broad straight stairway rising between two heavy concrete walls. The lower foreground is a pale paved plaza with long horizontal joints and a strong dark shadow stretching across its right side. The stair begins near the center and climbs to a narrow upper landing. On the left, a sloping lime-tinged wall and a deep projecting box cast angular shade; on the right, a long charcoal wall makes a simple horizontal block against the sky. A very small person appears on the right upper edge, seated or standing near the parapet, while a slim lamp pole rises behind. These tiny elements clarify the monumental scale of the empty concrete forms. The sky is a clear muted teal, with no cloud detail. Hard late-day sun strikes selected wall faces and the front pavement, producing precise triangular and rectangular shadows. Material surfaces are smooth but slightly grainy, with cool green-gray concrete and a few warmer yellow highlights. The viewpoint is frontal and level, making the stair a central axis while asymmetrical masses create tension around it. The photograph feels quiet, nearly abstract, and highly controlled, with large unoccupied planes carrying most of the visual weight.",
+  "full_prompt_zh": "一张方形极简建筑照片正对一条宽直阶梯，它在两堵厚重混凝土墙之间升起。下方前景为浅色铺装广场，带长水平接缝，右侧有一道强烈深影横过。阶梯从中央附近开始，爬向狭窄上层平台。左边一道略带黄绿色的斜墙和深深挑出的盒体投下棱角阴影；右边长长的炭灰墙在天空前形成简洁水平块面。一位极小的人出现在右侧上缘，似坐或站在矮墙附近，后方还有一根细灯杆。这些小元素说明空旷混凝土形体的纪念碑尺度。天空是清澈低饱和青蓝色，没有云的细节。傍晚硬阳光打在选定墙面与前方铺地上，形成精确三角形与矩形阴影。材质平滑但略带颗粒，混凝土呈冷绿灰，局部有较暖黄色亮部。视角正面且水平，阶梯成为中央轴线，不对称的大形则在两侧造成张力。照片安静、近乎抽象且高度受控，大块无人平面承担主要视觉重量。",
+  "style_prompt_en": "Minimalist color photography built from massive planar geometry, central linear recession, sharp sun-cut shadows, and broad uninterrupted sky. Cool teal and green-gray surfaces are punctuated by warmer pale highlights and a tiny scale marker. Edges remain exact, perspective level, texture lightly granular, and negative space extensive. A few asymmetrical blocks offset the otherwise strict axial rhythm.",
+  "style_prompt_zh": "极简彩色摄影，以庞大平面几何、中央线性后退、阳光切出的锐利阴影和宽阔不间断天空组成。冷青蓝与绿灰表面被较暖的浅亮部和极小尺度标记点破。边缘准确、透视水平、肌理略有颗粒，留白开阔。少数不对称块面打破严格的轴线节奏。",
+  "theme_en": "A stark stairway between concrete walls beneath a teal sky",
+  "theme_zh": "青蓝天空下两堵混凝土墙之间的冷峻阶梯",
+  "wh_ratio": "1:1",
+  "id": "4346",
+  "name": "Paul Catherall",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/paul-catherall.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "1985707b999c79637d4cc7739d06e9284a231ea22a0a8c34b67a0a8150e7fdcd",
+    "gpt_submission_prompt": "A square minimalist architectural photograph faces a broad straight stairway rising between two heavy concrete walls. The lower foreground is a pale paved plaza with long horizontal joints and a strong dark shadow stretching across its right side. The stair begins near the center and climbs to a narrow upper landing. On the left, a sloping lime-tinged wall and a deep projecting box cast angular shade; on the right, a long charcoal wall makes a simple horizontal block against the sky. A very small person appears on the right upper edge, seated or standing near the parapet, while a slim lamp pole rises behind. These tiny elements clarify the monumental scale of the empty concrete forms. The sky is a clear muted teal, with no cloud detail. Hard late-day sun strikes selected wall faces and the front pavement, producing precise triangular and rectangular shadows. Material surfaces are smooth but slightly grainy, with cool green-gray concrete and a few warmer yellow highlights. The viewpoint is frontal and level, making the stair a central axis while asymmetrical masses create tension around it. The photograph feels quiet, nearly abstract, and highly controlled, with large unoccupied planes carrying most of the visual weight.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "16de8ba9eef518531289ea2a1c4a0aa37aeaad63337d32a2200f53f5cad7a477",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

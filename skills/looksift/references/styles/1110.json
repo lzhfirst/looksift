@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square monochrome graphite drawing has dense, almost photographic tonal modeling. A young man sits alone on a shallow doorstep in a worn city passage, both knees raised, forearms loosely folded over them and his head inclined toward the ground. His pale short hair catches the softest light, while a dark recessed doorway opens behind his shoulders. Layers of torn posters, newspaper fragments and pasted notices cover the walls and the step beneath his shoes. The composition has the immediacy of a discovery at street level: the seated figure occupies the lower central area, a narrow vertical gap of darkness anchors him, and the surrounding paper textures continue to the frame edges without becoming a decorative border. Exceptionally patient pencil marks build the image, alternating feathered shading, fine linework and rubbed graphite to describe cloth folds, scuffed footwear, uneven plaster and curling paper edges. The drawing preserves the intricate differences between a printed scrap, a rough wall and a soft sleeve even though all are rendered in gray. The blacks gather within the doorway and deepest creases, while broad midtones hold the street in quiet daylight. His expression is understated and observant, and his gesture is quiet. The image feels tactile and documentary, its emotional force arising from precise accumulation of surface detail and the stillness of the pose.",
+  "full_prompt_zh": "正方形单色石墨画以近乎摄影的密集明暗塑形为核心。一个青年独自坐在陈旧城市通道的低矮门阶上，双膝抬起，前臂松松搭在膝上，头微微低向地面。浅色短发承接最柔和的光，身后的门洞则沉入黑暗。破损海报、报纸碎片与层层粘贴的告示覆盖墙面，也散落在鞋下台阶。构图保持街头偶然目击的感觉：人物位于画面下方中央，狭窄的竖向暗部稳定画面，四周纸张肌理一直延伸到边缘而不变成装饰框。耐心而极细的铅笔痕迹塑造图像，交替呈现羽状排线、精细轮廓与擦揉石墨，区分衣褶、磨损的鞋、凹凸灰泥和卷起的纸边。即使全部呈灰阶，仍清楚区分印刷碎纸、粗糙墙面和柔软袖子的不同质地。最深黑色聚集在门洞与褶皱里，以宽广中间调承托安静的日光。表情克制，动作自然，不做戏剧化处理。画面具有可触摸的纪实气息，情绪来自表面细节的精确累积与姿态的静止。",
+  "style_prompt_en": "Monochrome graphite drawing has hyperreal observational detail, patient micro-hatching, rubbed and feathered shading, fine tonal transitions, and tactile distinctions between soft, rough and printed surfaces. A quiet central mass and deeper vertical shadow organize the composition, with densely described textures extending naturally toward the square frame. Diffuse, credible lighting produces luminous pale grays, layered middle values and concentrated charcoal-dark accents. Subtle imperfections, grain and traces of manual mark making support restrained emotion and documentary stillness.",
+  "style_prompt_zh": "单色石墨画具有高度写实的观察细节、耐心的微细排线、擦揉与羽状明暗，以及柔软、粗糙和印刷表面之间可触摸的质地差别。安静的中央体块和更深的竖向阴影组织正方形构图，密集描绘的肌理自然延伸到画框边缘。柔和可信的光线产生明亮浅灰、层叠中间调与集中的炭黑重音。细小瑕疵、颗粒和手工笔迹共同形成克制情绪和纪实静止感。",
+  "theme_en": "A solitary young man on a paper-covered city doorstep",
+  "theme_zh": "坐在贴满旧纸的城市门阶上的孤独青年",
+  "wh_ratio": "1:1",
+  "id": "1110",
+  "name": "Paul Cadden",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/paul-cadden",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/paul-cadden.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "67f6131e5b0576a00e3c7c98d6764ca5b194b5dd68ec0ea4a40cd7a97c32800e",
+    "gpt_submission_prompt": "A square monochrome graphite drawing has dense, almost photographic tonal modeling. A young man sits alone on a shallow doorstep in a worn city passage, both knees raised, forearms loosely folded over them and his head inclined toward the ground. His pale short hair catches the softest light, while a dark recessed doorway opens behind his shoulders. Layers of torn posters, newspaper fragments and pasted notices cover the walls and the step beneath his shoes. The composition has the immediacy of a discovery at street level: the seated figure occupies the lower central area, a narrow vertical gap of darkness anchors him, and the surrounding paper textures continue to the frame edges without becoming a decorative border. Exceptionally patient pencil marks build the image, alternating feathered shading, fine linework and rubbed graphite to describe cloth folds, scuffed footwear, uneven plaster and curling paper edges. The drawing preserves the intricate differences between a printed scrap, a rough wall and a soft sleeve even though all are rendered in gray. The blacks gather within the doorway and deepest creases, while broad midtones hold the street in quiet daylight. His expression is understated and observant, and his gesture is quiet. The image feels tactile and documentary, its emotional force arising from precise accumulation of surface detail and the stillness of the pose.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "e00ca871408dcbb78f115ceae9d7faf2b399c28dc5d5a7322a93a6ad20a16471",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

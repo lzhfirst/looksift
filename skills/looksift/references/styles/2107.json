@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square, minimal painted scene shows a white stucco building on the right side of a sunlit terrace beneath a vast blue sky. The sky occupies more than two thirds of the image, deep cobalt at the top and gradually lighter turquoise toward the horizon. A low white parapet runs horizontally from the left and turns toward the building, separating the open sky from a broad pale stone floor. The building is a simple angular mass with a narrow black doorway and a small rounded dome rising from its roof at the upper right. Its rough white surface carries faint warm sand and blue-gray patches, especially along the upper edge. Near the junction of terrace and wall, a tiny black cat sits in profile, facing left into the open space. A few low steps or stacked stones lie beside it. Strong sunlight from the right leaves the terrace bright and casts a broad cool triangular shadow from the parapet across the lower left. The doorway remains a compact, near-black vertical accent. The floor is rendered in long, subdued strokes with fine warm seams and worn texture. Architectural edges are clean but softened slightly by paint, and the cat is just a small dark silhouette. The composition is spacious and still: a vast blue gradient, a white geometric cluster, and tiny black marks balance each other. Clear light, restrained detail, and the long empty foreground make the quiet terrace feel hot, open, and isolated.",
+  "full_prompt_zh": "一幅方形极简绘画呈现阳光露台右侧的白色灰泥房屋，头顶是大片蓝天。天空占画面三分之二以上，顶部深钴蓝，向地平线逐渐变为较浅的青蓝。一道低白色栏墙从左侧水平伸来，再折向房屋，把开阔天空与宽阔浅色石地分开。房屋是简洁的棱角体块，有一道狭长黑门洞，右上屋顶升起一个小圆顶。粗糙白墙带淡淡沙色和蓝灰斑痕，尤其在上缘附近。露台与墙的交接处，一只极小黑猫侧身坐着，朝左望向空旷处。旁边有几级低台阶或叠放石块。右侧强烈日光照亮露台，使栏墙在左下投出宽阔冷色三角阴影。门洞保留紧凑的近黑竖向重音。地面由长而低调的笔触绘出，带细暖色接缝和磨旧肌理。建筑边缘干净，却被颜料略微柔化；猫只是小小深色剪影。构图宽敞而静止：巨大的蓝色渐变、成组的白色几何体和极小黑痕相互平衡。清楚的光、克制细节以及漫长的空前景，让安静露台显得炎热、开阔而孤立。",
+  "style_prompt_en": "A minimal painted composition gives most of the frame to an uninterrupted cobalt-to-turquoise gradient. Pale off-white geometric planes occupy one side and the lower band, carrying faint sandy scuffs and cool gray weathering rather than dense detail. A few small near-black vertical and silhouette accents sharpen the scale of the open space. Clean angular boundaries meet at a low horizon, but thin painterly irregularity softens their edges. Strong directional daylight creates a broad cool shadow shape across the foreground and a high-value lit surface beside it. Texture is dry and restrained, with long subtle strokes over the pale plane and almost no marks across the blue field. The rhythm depends on large intervals of emptiness, a few abrupt tonal cuts, and the balance between expansive color and compact dark points.",
+  "style_prompt_zh": "极简绘画构图把大部分画幅交给连续的钴蓝至青蓝渐变。偏白几何平面占据一侧与下部色带，表面只有淡沙色擦痕和冷灰风化，而无密集细节。几个小小近黑竖向重音与剪影，凸显开阔空间的尺度。干净角线在低地平线附近相接，边缘又被薄薄的绘画不规则感柔化。强定向日光在前景造出宽阔冷色影形，旁边是高明度受光面。肌理干爽且克制，浅色平面上有细长轻笔触，蓝色色域几乎无痕。节奏依靠大段空白、少量突然的明暗切割，以及辽阔颜色与紧凑深点之间的平衡。",
+  "theme_en": "A black cat beside a white seaside building under a blue sky",
+  "theme_zh": "蓝天下白色海边房屋旁的黑猫",
+  "wh_ratio": "1:1",
+  "id": "2107",
+  "name": "Julio Larraz",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/julio-larraz",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/julio-larraz.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "759052bc09e840a8361e5db7b21dd70fe3c426f15f617f5883e2d7df0070b1cf",
+    "gpt_submission_prompt": "A square, minimal painted scene shows a white stucco building on the right side of a sunlit terrace beneath a vast blue sky. The sky occupies more than two thirds of the image, deep cobalt at the top and gradually lighter turquoise toward the horizon. A low white parapet runs horizontally from the left and turns toward the building, separating the open sky from a broad pale stone floor. The building is a simple angular mass with a narrow black doorway and a small rounded dome rising from its roof at the upper right. Its rough white surface carries faint warm sand and blue-gray patches, especially along the upper edge. Near the junction of terrace and wall, a tiny black cat sits in profile, facing left into the open space. A few low steps or stacked stones lie beside it. Strong sunlight from the right leaves the terrace bright and casts a broad cool triangular shadow from the parapet across the lower left. The doorway remains a compact, near-black vertical accent. The floor is rendered in long, subdued strokes with fine warm seams and worn texture. Architectural edges are clean but softened slightly by paint, and the cat is just a small dark silhouette. The composition is spacious and still: a vast blue gradient, a white geometric cluster, and tiny black marks balance each other. Clear light, restrained detail, and the long empty foreground make the quiet terrace feel hot, open, and isolated.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "b91aa44bccd615d4533c6473992e6a92ef2cb7f4067e0f9f3b00dfe4245f140f",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A dramatic historical painting shows two men in close conversation against a nearly black interior. The younger man at left leans in, dressed in a warm coral-red garment; his hand rests near the shoulder of an older grey-bearded man. The older man's head turns sideways toward him while his wide eyes glance farther outward, giving the encounter a sudden, unsettled tension. A sliver of white fabric at the elder's shoulder and the younger man's lit forearm catch the same strong side light. Everything beyond the pair falls rapidly into darkness, so their gestures and expressions carry the scene.\n\nThe painting uses a compressed, close composition and pronounced chiaroscuro. Warm flesh tones, brick red, umber, and deep black form a narrow but rich palette. Light enters from the left, striking forehead, cheek, beard, sleeve, and hands in bright irregular planes. Shadows remain dense and velvety, with only faint brown variation revealing the backdrop. Oil paint smooths some skin transitions but leaves visible brush texture in hair and fabric. The two bodies create a diagonal movement from the bright left sleeve toward the older man's watchful face. This staging feels urgent and human, with no decorative background to dilute it. The selected panel contains no readable text.",
+  "full_prompt_zh": "一幅戏剧性的历史绘画描绘两名男子在几乎全黑的室内贴近交谈。左侧年轻男子身穿暖珊瑚红衣物，身体向前倾，一只手靠近灰胡子长者的肩头。年长者侧过头听他，睁大的眼却向更外侧望去，使相遇带着突发、难安的紧张感。长者肩上的一小片白布和年轻人的受光前臂，共同接住强烈的侧光。两人以外的一切迅速落入暗中，因此手势和表情承担全部情节。\n\n绘画采用压紧的近距离构图和鲜明的明暗对照。暖肤色、砖红、赭褐与深黑组成狭窄但丰富的色谱。光从左侧进入，将额头、脸颊、胡须、衣袖和手照成不规则的明亮平面。阴影浓厚如绒，仅有淡淡褐色变化透露背景。油画在部分皮肤过渡中显得平滑，却让头发和织物保持可见笔触。两具身体形成从明亮左袖到长者警觉面容的对角线动势。这种调度紧急而有人情味，没有装饰背景稀释它。所选画面不含可辨认文字。",
+  "style_prompt_en": "A compressed arrangement of warm illuminated forms emerges from a dense, velvety black field. Strong side light strikes irregular planes of pale cream, ochre, and brick red, then falls rapidly into umber shadow. The dark background has only faint tonal variation, keeping attention on a few expressive contours and linked gestures. Smooth transitions in the brightest areas coexist with visible brush texture in fibrous and folded passages. A diagonal path connects a broad warm area at one side to a smaller luminous concentration opposite it. Deep chiaroscuro creates intimacy and urgency, while the narrow palette remains rich through subtle changes of temperature and value. The oil-painted surface feels physical and theatrical without ornamental distraction.",
+  "style_prompt_zh": "被压紧的暖色受光形状从浓厚如绒的黑色场中浮出。强烈侧光打在浅乳白、赭黄和砖红的不规则平面上，随后迅速落入赭褐阴影。深背景只有极细微的明暗变化，让注意集中在少数富有表现力的轮廓和相连的动作。最亮区域的平滑过渡，与纤维状和褶叠处可见的笔触并存。一条对角线路径从一侧宽大的暖色区，通向另一侧较小的亮点。深明暗对照形成亲密与紧迫，窄色谱则靠色温和明度的细变保持丰富。油画表面有实体感和戏剧性，没有装饰干扰。",
+  "theme_en": "Two men confer in a dark candlelit chamber",
+  "theme_zh": "暗室中两名男子低声商谈",
+  "wh_ratio": "1:1",
+  "id": "3164",
+  "name": "Caravaggio",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/caravaggio",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "1f35ed9f20623d57960e66c9b5927183ea2a4be54b4ab080865ee7607211ac61",
+    "gpt_submission_prompt": "A dramatic historical painting shows two men in close conversation against a nearly black interior. The younger man at left leans in, dressed in a warm coral-red garment; his hand rests near the shoulder of an older grey-bearded man. The older man's head turns sideways toward him while his wide eyes glance farther outward, giving the encounter a sudden, unsettled tension. A sliver of white fabric at the elder's shoulder and the younger man's lit forearm catch the same strong side light. Everything beyond the pair falls rapidly into darkness, so their gestures and expressions carry the scene.\n\nThe painting uses a compressed, close composition and pronounced chiaroscuro. Warm flesh tones, brick red, umber, and deep black form a narrow but rich palette. Light enters from the left, striking forehead, cheek, beard, sleeve, and hands in bright irregular planes. Shadows remain dense and velvety, with only faint brown variation revealing the backdrop. Oil paint smooths some skin transitions but leaves visible brush texture in hair and fabric. The two bodies create a diagonal movement from the bright left sleeve toward the older man's watchful face. This staging feels urgent and human, with no decorative background to dilute it. The selected panel contains no readable text.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "6019d4cd3a2ac8c09960b0835ea86b17169d2a074ebc552d388c10f202172194",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

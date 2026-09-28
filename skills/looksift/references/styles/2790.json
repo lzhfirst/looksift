@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square steampunk cityscape painting shows several bulky airships floating over a dense field of slate roofs. The nearest craft fills the left foreground, built around a large weathered blue-green cylindrical hull with metal ribs, round portholes, and a blunt glassy nose. A dark wooden deck with railings, cables, and small lit windows hangs below it. Above, a smaller rust-orange balloon-like vessel floats near the upper left, while another massive grey craft with exposed rigging occupies the upper right. Smokestacks send dark plumes into a clouded pale blue sky. Far below, tightly packed old roofs extend into haze, with a slender tower rising near the right distance. The viewpoint looks slightly downward from the height of the vessels, emphasizing their scale over the miniature city. Warm amber lights in the decks and a few orange accents break the dominant teal, charcoal, and grey palette. Fine rivets, ropes, rails, propellers, and chimneys are rendered with small precise marks inside broader, softly brushed atmospheric planes. Overcast light from above leaves gentle highlights on the curved hulls and deep shadows beneath the hanging decks. No readable lettering appears. The overall composition is busy and adventurous, with large rounded machines suspended over a rhythmic urban texture.",
+  "full_prompt_zh": "一幅方形蒸汽朋克城市风景绘画描绘几艘肥厚飞空艇漂在密集石板屋顶上方。最近的飞船占左侧前景，以巨大的磨旧蓝绿圆筒船体为核心，有金属肋条、圆舷窗和钝圆的玻璃状船首。深木甲板连着栏杆、缆绳与细小亮窗，悬在下方。上方一艘较小的锈橙色气囊船漂在左上，另一艘有外露索具的巨大灰色飞船占据右上。烟囱把深烟送进布云的浅蓝天空。很远的下方，紧密旧屋顶向霭气延伸，右方远处升起一座细塔。视点从飞船高度略微俯视，强调它们相对微缩城市的尺度。甲板里的暖琥珀灯和少数橙色点，打断主导的青绿、炭灰与灰色色谱。细铆钉、绳索、栏杆、螺旋桨和烟囱，以精确小笔迹放在更宽、更柔和的空气平面内。上方阴天光在曲面船体留下温和高光，使吊挂甲板下方有深影。没有可辨认文字。整体构图繁忙而冒险，巨大的圆形机器悬在有节奏的城市肌理之上。",
+  "style_prompt_en": "An intricate speculative city painting sets large weathered rounded volumes above a dense field of tiny angular marks. Muted teal, slate, charcoal, rust, and amber create a cool industrial palette warmed by selective small lights. Fine lines and hard accents describe ribs, rails, cables, and rivets, while broader soft brush passages carry haze and cloud. Overcast upper light gives curved surfaces gentle highlights and leaves suspended undersides deeply shaded. The viewpoint is elevated, compressing repeated small forms below and emphasizing the scale of the foreground masses. Detail is busy but organized by a clear large-to-small rhythm, producing tactile adventure and atmospheric depth.",
+  "style_prompt_zh": "精细的推想城市绘画把巨大的磨旧圆体放在密集细小棱角笔迹上方。暗青绿、石板色、炭灰、铁锈与琥珀组成冷工业色谱，由有选择的小灯光温暖。细线与硬重音描出肋条、栏杆、缆绳与铆钉，更宽的软刷区域则承担霭气与云。上方阴天光给曲面温和高光，让悬挂底面留在深影里。视点升高，压紧下方反复小形，强调前层大形尺度。细节繁忙，但由清楚的大小节奏组织，产生可触的冒险气息与空气深度。",
+  "theme_en": "Airships drifting above a crowded industrial city",
+  "theme_zh": "工业城市上方缓缓漂移的飞空艇",
+  "wh_ratio": "1:1",
+  "id": "2790",
+  "name": "Alejandro Burdisio",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/alejandro-burdisio",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/alejandro-burdisio.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "99e42b3a84ae4294fcf09ce78f75364d4cf8eea9de2dd91ad24cb952e047f99e",
+    "gpt_submission_prompt": "A square steampunk cityscape painting shows several bulky airships floating over a dense field of slate roofs. The nearest craft fills the left foreground, built around a large weathered blue-green cylindrical hull with metal ribs, round portholes, and a blunt glassy nose. A dark wooden deck with railings, cables, and small lit windows hangs below it. Above, a smaller rust-orange balloon-like vessel floats near the upper left, while another massive grey craft with exposed rigging occupies the upper right. Smokestacks send dark plumes into a clouded pale blue sky. Far below, tightly packed old roofs extend into haze, with a slender tower rising near the right distance. The viewpoint looks slightly downward from the height of the vessels, emphasizing their scale over the miniature city. Warm amber lights in the decks and a few orange accents break the dominant teal, charcoal, and grey palette. Fine rivets, ropes, rails, propellers, and chimneys are rendered with small precise marks inside broader, softly brushed atmospheric planes. Overcast light from above leaves gentle highlights on the curved hulls and deep shadows beneath the hanging decks. No readable lettering appears. The overall composition is busy and adventurous, with large rounded machines suspended over a rhythmic urban texture.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "e139c81c30d8ce64a6b755e970a644151f86373382ea6a213137729bee5ef2ee",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

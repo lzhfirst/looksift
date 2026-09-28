@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square expressionist street painting shows a crowd gathered on a village road beneath turbulent purple and blue clouds. The sky occupies the upper half in thick sweeping strokes of violet, magenta, cobalt, teal, and white. A yellow-green opening near the left horizon glows behind a dark train or row of structures, where a narrow plume rises into the clouds. Small red-roofed houses sit across the middle distance, surrounded by green trees and broken blue shadows. The road widens toward the foreground in blazing yellow, orange, and pink strokes that reflect the sky's color rather than describing plain earth. Groups of people in dark coats and hats line both sides, some turned toward the distant village and others facing across the road. At the right foreground, two men in brimmed hats appear in profile or three-quarter view, their faces modeled with vivid green, yellow, and red patches. Smaller figures and a few low animal shapes cluster near the center. Every element is built from energetic short and curved brush strokes; edges shake and merge, but the broad road, houses, and heads stay readable. Light seems to break through the sky from the left, igniting the road and distant walls while leaving the crowd in blue-green and violet shade. The overall composition is restless and vivid, using a bright central path to pull the eye through layered human silhouettes toward a storm-colored horizon.",
+  "full_prompt_zh": "这是一幅方形表现主义街景画，人群聚在村镇道路上，头顶是翻涌的紫蓝云。天空占据上半部，由紫、品红、钴蓝、青绿和白色厚实扫掠笔触构成。左侧地平线附近一个黄绿色开口在深色列车或建筑排后发光，一缕烟向云中升起。中远景散着小红屋顶房屋，周围是绿树和破碎蓝影。道路向前景变宽，以炽亮黄、橙和粉色笔触反射天空色彩，而非描绘普通土面。穿深外套、戴帽的人群排在两侧，一些望向远村，另一些横看道路。右前景，两位戴檐帽男子以侧面或四分之三角度出现，脸由鲜明绿、黄、红色块塑形。更小人影和几个低矮动物形体聚在中央附近。每个元素都由活跃的短促与弯曲笔触建立；边缘抖动并融合，但宽阔道路、房屋与人头仍清楚。光像从左侧穿破天空，点燃道路与远墙，使人群留在蓝绿和紫色阴影里。整体构图不安定而鲜明，以明亮中央通道将视线穿过层叠人影，引向风暴色地平线。",
+  "style_prompt_en": "The expressionist oil painting is made of thick, visible strokes and heightened complementary color. Violet, magenta, cobalt, and teal move across darker areas, while blazing yellow, orange, and acid green form concentrated zones of light. Forms are simplified into bold irregular patches; edges flicker as adjacent strokes collide rather than closing into precise outlines. Curved marks animate the upper field, and shorter directional marks guide movement through the lower plane. Faces and solid forms gain volume through abrupt warm-cool shifts instead of smooth blending. Light feels emotional and directional, igniting select passages while nearby masses remain dark. The overall effect is urgent, crowded, and intensely chromatic.",
+  "style_prompt_zh": "这种表现主义油画由厚实可见笔触和强化的互补色构成。紫、品红、钴蓝与青绿流过较暗区域，炽亮黄、橙和酸绿形成集中的光区。形体被简化为大胆不规则色斑；相邻笔痕碰撞使边缘闪动，而非闭合成精确轮廓。弯曲笔痕激活上方色域，较短定向笔触引导下方平面的运动。面部与坚实形体通过突然的冷暖转换而非平滑调和获得体积。光在情绪上强烈且有方向，点燃选定区域，使旁边团块保持深暗。整体效果急迫、拥挤且色彩强烈。",
+  "theme_en": "A crowd on a village street beneath turbulent purple clouds",
+  "theme_zh": "紫色翻涌云层下的村镇街道人群",
+  "wh_ratio": "1:1",
+  "id": "2461",
+  "name": "Max Pechstein",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/max-pechstein",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/max-pechstein.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "bf5cac61e21be851fd34ce16aa3c09ff9b6c097192f9deb3ddcbbeacdb2409d2",
+    "gpt_submission_prompt": "A square expressionist street painting shows a crowd gathered on a village road beneath turbulent purple and blue clouds. The sky occupies the upper half in thick sweeping strokes of violet, magenta, cobalt, teal, and white. A yellow-green opening near the left horizon glows behind a dark train or row of structures, where a narrow plume rises into the clouds. Small red-roofed houses sit across the middle distance, surrounded by green trees and broken blue shadows. The road widens toward the foreground in blazing yellow, orange, and pink strokes that reflect the sky's color rather than describing plain earth. Groups of people in dark coats and hats line both sides, some turned toward the distant village and others facing across the road. At the right foreground, two men in brimmed hats appear in profile or three-quarter view, their faces modeled with vivid green, yellow, and red patches. Smaller figures and a few low animal shapes cluster near the center. Every element is built from energetic short and curved brush strokes; edges shake and merge, but the broad road, houses, and heads stay readable. Light seems to break through the sky from the left, igniting the road and distant walls while leaving the crowd in blue-green and violet shade. The overall composition is restless and vivid, using a bright central path to pull the eye through layered human silhouettes toward a storm-colored horizon.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "ba0638d6978279194d8715dc685c7e14f3bde3b50de0dc9296189135a65bfa22",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

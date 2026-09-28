@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A restrained cinematic fashion photograph places a solitary woman in a long dark floral dress before a weathered freestanding stone arch. She stands near the center of a broad, pale rubble-strewn expanse, facing the camera directly with arms at her sides. The dress is fitted at the waist and falls in heavy pleats to the ground, its muted rose pattern barely separating from the charcoal fabric under the overcast light. Behind her, the tall arch is slightly offset to the left, its worn columns and rounded opening rising into a wide blue-gray sky. Low mounds of broken stone flank the structure, and a thin distant horizon runs across the otherwise bare ground. The woman's scale is small against the architecture and even smaller against the empty sky, giving the image a quiet sense of endurance. Fine cloud texture softens the upper half, while gravel and rough masonry provide a dry granular base. Color is subdued: slate, pale gray, stone white, deep brown-black, and traces of faded red. Light is diffuse and shadowless, flattening the surroundings while preserving the dress's folds and the arch's carved edges. The composition uses the arch as a frame that nearly but not fully encloses the figure, leaving a slight visual displacement. The whole frame feels austere and timeless, with a human presence held steadily inside a vast eroded place.",
+  "full_prompt_zh": "一幅克制的电影感时尚摄影让一位穿深色花纹长裙的女子独立于一座风化的石拱门前。她站在宽阔而浅色、遍布碎石的空地中央附近，正面朝向镜头，双臂垂在身侧。裙子在腰部收紧，沉重褶裥一直落到地面；暗沉玫瑰纹在阴天光线下几乎不与炭黑布料分开。身后高大的拱门稍偏左侧，磨损的立柱与圆弧开口升入宽阔蓝灰天空。低矮碎石堆分列建筑两旁，一条细薄的远方地平线穿过其他地方空旷的地面。女子相对于建筑很小，相对于天空更小，让画面有安静的坚韧感。细微云层肌理柔化上半部，砂砾与粗糙石工提供干燥、颗粒感的基底。色彩低调：石板色、浅灰、石白、深棕黑，以及褪色红的一点痕迹。光漫射而几乎没有投影，使周围趋于平面，同时保留裙褶和拱门雕刻边缘。构图以拱门作为几乎但并未完全包住人物的框架，留下一点视觉错位。整幅画严峻而超越时间，人的存在稳定地留在广阔、被侵蚀的场所里。",
+  "style_prompt_en": "The cinematic photograph uses a desaturated field of slate blue-gray, stone white, charcoal, and a restrained trace of faded rose. A compact dark vertical form stands against a large pale expanse, with an offset weathered frame behind it and ample empty sky above. Diffuse cloud light keeps cast shadows nearly absent and lets rough masonry, fabric folds, and gravel provide the main texture. Edges are crisp enough to register worn structure, yet distance and fine atmospheric grain soften the horizon. The composition balances a small centered anchor against monumental surrounding space, with slight misalignment avoiding rigid symmetry. Color area remains quiet and low contrast except where the darkest material meets the pale ground. The whole frame feels austere, patient, and timeless through scale contrast, muted tone, and unadorned light.",
+  "style_prompt_zh": "这幅电影感摄影使用低饱和的石板蓝灰、石白、炭黑，以及一丝褪色玫瑰色。紧凑的深色竖向形体立在大面积浅色区域前，后方有一道偏移的旧化框形，上面留着充足空天空。漫射云光让投影几乎消失，粗糙石工、布料褶皱和砂砾成为主要肌理。边缘足够清晰，可以辨认磨损结构，距离与细微大气颗粒却柔化地平线。构图以小小的中央支点平衡周围巨幅空间，轻微错位避免死板对称。色彩面积安静且对比低，只有最深材质遇到浅地面之处相对鲜明。整幅画借尺度对比、低调色彩和不加装饰的光，显得严峻、耐心而超越时间。",
+  "theme_en": "A solitary figure before a weathered stone arch",
+  "theme_zh": "风化石拱门前的独立身影",
+  "wh_ratio": "1:1",
+  "id": "0400",
+  "name": "Nona Faustine",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/nona-faustine",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/nona-faustine.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "847c820b7055a3482556aaa49b7855530416d3b6aa0c577ee5be23bd8d3eb2fb",
+    "gpt_submission_prompt": "A restrained cinematic fashion photograph places a solitary woman in a long dark floral dress before a weathered freestanding stone arch. She stands near the center of a broad, pale rubble-strewn expanse, facing the camera directly with arms at her sides. The dress is fitted at the waist and falls in heavy pleats to the ground, its muted rose pattern barely separating from the charcoal fabric under the overcast light. Behind her, the tall arch is slightly offset to the left, its worn columns and rounded opening rising into a wide blue-gray sky. Low mounds of broken stone flank the structure, and a thin distant horizon runs across the otherwise bare ground. The woman's scale is small against the architecture and even smaller against the empty sky, giving the image a quiet sense of endurance. Fine cloud texture softens the upper half, while gravel and rough masonry provide a dry granular base. Color is subdued: slate, pale gray, stone white, deep brown-black, and traces of faded red. Light is diffuse and shadowless, flattening the surroundings while preserving the dress's folds and the arch's carved edges. The composition uses the arch as a frame that nearly but not fully encloses the figure, leaving a slight visual displacement. The whole frame feels austere and timeless, with a human presence held steadily inside a vast eroded place.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "f92fa76319833a12ad1210d9f7290b113459f04a73f72c2ee7ffb230296d044d",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

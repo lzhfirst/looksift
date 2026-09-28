@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A detailed color comic illustration looks into a long, crowded café from a front corner. At the lower left, a bespectacled customer with bright yellow hair and a teal jacket sits in profile, one hand raised near the chin. The middle of the room is packed with small, animated patrons in orange, rust, blue, and olive clothing, their silhouettes and heads overlapping around narrow tables. A central aisle of pale square floor tiles recedes toward blue double doors on the back wall. To the right, a dark wood counter carries a large metallic coffee machine and other small equipment; beyond it, tall arched windows rise nearly to the gridded ceiling. Mint-green wall panels and high vertical window frames give the room a precise architectural rhythm. Several white globe pendant lamps hang at staggered depths, complemented by small warm yellow wall lights. Every visible object has a controlled dark contour, while slender interior lines describe the ceiling grid, tiles, furniture, faces, and machinery. The colors are flat enough to remain graphic yet lightly textured with fine hatching and speckled tonal marks. Soft daylight enters through the tall windows, mingling with the warmer lamps without producing heavy shadows. A narrow white margin encloses the scene like a printed comic panel. The result is sociable, busy, and carefully ordered, with many small observations held inside clear perspective.",
+  "full_prompt_zh": "一幅细致的彩色漫画插画从前方一角望进狭长而拥挤的咖啡馆。左下方，亮黄色头发、身穿青蓝外套的顾客以侧面坐着，戴着眼镜，一只手抬近下巴。房间中央挤满身穿橙、锈红、蓝和橄榄绿色衣装的小人物，他们的头部与轮廓围绕窄桌层层重叠。浅色方砖铺出的中央通道向后墙的蓝色双开门延伸。右侧深木吧台上放着大型金属咖啡机和其他小设备；吧台后方，高大的拱形窗几乎升到格子天花板。薄荷绿墙板与笔直的高窗框让房间具有准确的建筑节奏。几盏白色球形吊灯挂在不同纵深，并由小巧的暖黄色壁灯补充。每件可见物体都有克制的深色轮廓，细密内线则描出顶棚格栅、地砖、家具、面孔与机器。色彩足够平涂以保持图形感，又通过细排线和斑点调子带来轻微纹理。柔和日光从高窗进入，与较暖的灯光混合，没有沉重阴影。窄白边像印刷漫画画格般围住场景。整幅画热闹、亲近而有序，许多细小观察被准确透视组织在一起。",
+  "style_prompt_en": "The illustration uses crisp European clean-line drawing with controlled dark outlines and fine internal hatching. A consistent perspective grid supports a dense arrangement of small observed details, keeping a crowded image easy to read. Flat but subtly textured color areas favor muted mint, ochre, teal, rust, and warm cream. Repeated verticals, squares, and circles create visual rhythm, while varied figure sizes establish depth. Light is clear and diffuse, with minimal cast shadow and small warm highlights. A printed-panel margin and slightly dry ink texture give the polished scene a tactile editorial finish.",
+  "style_prompt_zh": "插画采用清晰的欧洲清线条绘法，以克制的深色外轮廓和细密内部排线组织画面。稳定的透视网格支撑大量细小观察，使拥挤的画面依然易读。色块近似平涂，却有细微质感，以灰薄荷绿、赭黄、青蓝、锈红和暖奶油色为主。重复的竖线、方格与圆形形成视觉节奏，形体大小变化带来纵深。光线明净而漫射，投影很少，局部暖亮点轻轻点缀。印刷画格的留边与略干的墨线质地，使精致场景带有可触的编辑插画感。",
+  "theme_en": "A crowded old café with mint-green walls and globe lamps, seen past a bespectacled customer in a clean-line European comic illustration.",
+  "theme_zh": "一间薄荷绿墙面、悬挂球形灯的拥挤老咖啡馆，从戴眼镜的前景顾客旁望去，以清线条欧洲漫画插画呈现。",
+  "wh_ratio": "1:1",
+  "id": "0748",
+  "name": "Joost Swarte",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/joost-swarte",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/joost-swarte.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "aae23e5d615e4c46ba8fa36e228aaec2786cc01024ed893a8a7c2df38cb8687c",
+    "gpt_submission_prompt": "A detailed color comic illustration looks into a long, crowded café from a front corner. At the lower left, a bespectacled customer with bright yellow hair and a teal jacket sits in profile, one hand raised near the chin. The middle of the room is packed with small, animated patrons in orange, rust, blue, and olive clothing, their silhouettes and heads overlapping around narrow tables. A central aisle of pale square floor tiles recedes toward blue double doors on the back wall. To the right, a dark wood counter carries a large metallic coffee machine and other small equipment; beyond it, tall arched windows rise nearly to the gridded ceiling. Mint-green wall panels and high vertical window frames give the room a precise architectural rhythm. Several white globe pendant lamps hang at staggered depths, complemented by small warm yellow wall lights. Every visible object has a controlled dark contour, while slender interior lines describe the ceiling grid, tiles, furniture, faces, and machinery. The colors are flat enough to remain graphic yet lightly textured with fine hatching and speckled tonal marks. Soft daylight enters through the tall windows, mingling with the warmer lamps without producing heavy shadows. A narrow white margin encloses the scene like a printed comic panel. The result is sociable, busy, and carefully ordered, with many small observations held inside clear perspective.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "cfd183365f0554bf7706615c121a824866c3de96a586d26a99a88e53924394c5",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "The finished image is a tightly cropped cinematic anime frame with a wide horizontal composition. A young man with thick black bangs leans toward the viewer from a blackened interior. His pale face occupies the center, divided sharply by a heavy vertical shadow: one eye nearly disappears into darkness while the other catches a bright white glint and reads as startled. A small wedge of white light appears beneath the shadowed eye, and the nose, closed mouth and jaw are simplified into angular planes of gray. His dark jacket and pale shirt are only partly visible along the right and lower edges. At the far left, several blurred red-orange lights float in the darkness, providing the only strong warm color. The rest of the palette remains charcoal, cold gray and muted blue-green. The image has very little setting; emotional pressure comes from the close distance, asymmetrical light and tense, forward gaze. Facial contours are ink-clean but vary slightly in thickness, and the dark hair is built from narrow tapered clumps rather than individual realistic strands. Cel-like shading holds broad even values, while a subtle film grain and softened red bokeh give the frame a moody photographic finish. The illuminated eye and small cheek highlight anchor the visual field against the large black region. The composition feels suspended at the instant before a revelation, with restrained detail and high contrast doing most of the narrative work.",
+  "full_prompt_zh": "成品画面是一格紧密裁切的电影感动画影像，构图为宽幅横向。一位黑色厚刘海的年轻男子从暗室向观众靠近。浅色面孔占据中央，被沉重竖向阴影明确分开：一只眼睛几乎没入黑暗，另一只眼睛接住明亮白点，显得惊愕。暗侧眼下有一小块白色光斑，鼻、闭合的嘴和下颌被简化为带棱角的灰色面。深色外套与浅色衬衫仅在右边和下缘局部可见。最左侧有几团模糊红橙灯光浮在黑暗中，是唯一强烈暖色。其余配色是炭黑、冷灰与柔和蓝绿。画面几乎没有场所细节；情绪压力来自近距离、不对称光和紧绷的向前目光。面部墨线干净而粗细略变，深发由狭窄收尖发束组成，而非写实的单根头发。赛璐珞式明暗保有宽阔均匀色值，细微胶片颗粒和柔化红色散景赋予画面忧郁的摄影收尾。受光的眼与小块脸颊亮斑，在大面积黑色中稳住视觉中心。构图仿佛停在揭示之前的瞬间，克制细节和高对比承担主要叙事作用。",
+  "style_prompt_en": "Cinematic cel-style animation combines ink-clean tapered contours, broad flat values, severe asymmetric shadow and a narrow zone of cool light. Charcoal, cold gray and muted blue-green dominate, while distant red-orange bokeh supplies a small warm counterpoint. Close cropping, restrained grain and one crisp specular accent intensify the otherwise spare square composition.",
+  "style_prompt_zh": "电影感赛璐珞式动画结合清洁收尖墨线、宽阔平涂色值、严峻不对称阴影和狭窄冷光。炭黑、冷灰与柔和蓝绿占主导，远处红橙散景提供一小处暖色对位。近距离裁切、克制颗粒与一枚清晰镜面亮点强化简洁的正方形构图。",
+  "theme_en": "A wide-eyed young man emerging from deep shadow and distant red lights",
+  "theme_zh": "年轻男子从深影与远处红光中浮现",
+  "wh_ratio": "1:1",
+  "id": "3398",
+  "name": "Psycho-Pass",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/psycho-pass",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "36c964f61c3bbdd657be59b03ddea76dd48e81fdd96625e0e44bdbc11b0ed374",
+    "gpt_submission_prompt": "The finished image is a tightly cropped cinematic anime frame with a wide horizontal composition. A young man with thick black bangs leans toward the viewer from a blackened interior. His pale face occupies the center, divided sharply by a heavy vertical shadow: one eye nearly disappears into darkness while the other catches a bright white glint and reads as startled. A small wedge of white light appears beneath the shadowed eye, and the nose, closed mouth and jaw are simplified into angular planes of gray. His dark jacket and pale shirt are only partly visible along the right and lower edges. At the far left, several blurred red-orange lights float in the darkness, providing the only strong warm color. The rest of the palette remains charcoal, cold gray and muted blue-green. The image has very little setting; emotional pressure comes from the close distance, asymmetrical light and tense, forward gaze. Facial contours are ink-clean but vary slightly in thickness, and the dark hair is built from narrow tapered clumps rather than individual realistic strands. Cel-like shading holds broad even values, while a subtle film grain and softened red bokeh give the frame a moody photographic finish. The illuminated eye and small cheek highlight anchor the visual field against the large black region. The composition feels suspended at the instant before a revelation, with restrained detail and high contrast doing most of the narrative work.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "e6e5c987e74d0f925954ff95385d7c56f5acac748928503813fad7fa727a5847",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

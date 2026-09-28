@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square stylized landscape painting follows a lone rider on a dark horse along a winding path toward a hilltop castle. The castle rises near the upper center with pale stone towers, a round keep, and small roofs. Rounded trees in teal, green, rust, mustard, and deep blue cluster along the slopes, while narrow paths and walls weave through the hills. The rider sits low in the left foreground, small against the elaborate destination. The ground is divided into angular patches of warm ochre, orange, teal, and dark green, giving the countryside a mosaic-like rhythm. A dusk-blue sky arches above, with a small reddish moon or sun near the upper left. Forms are simplified and slightly geometric, yet dense short marks and woven pigment grain make the surface richly tactile. Light comes softly from the sky, illuminating tower faces and selected tree crowns without strong cast shadows. The composition is framed by tall dark trees on both sides, which lead the eye inward toward the castle. Curving paths and repeated round crowns give the scene a gentle decorative flow. The whole image feels like an illustrated folktale landscape, colorful, patient, and carefully patterned, with a sense of journey carried by scale and depth.",
+  "full_prompt_zh": "一幅方形风格化风景画追随一位骑着深色马的独行者，沿蜿蜒小路走向山顶城堡。城堡在上方中央附近升起，有浅色石塔、圆形主楼和小屋顶。青绿、绿、锈红、芥末黄和深蓝的圆润树冠聚在山坡上，窄路与石墙穿过丘陵。骑手位于左下前景，相对于繁复的目的地显得渺小。地面分成暖赭、橙、深青和暗绿的棱角拼块，使乡野带有马赛克般的节奏。黄昏蓝的天空在上方拱起，左上附近挂着小小的红色月亮或太阳。形态概括且略几何化，密集短笔与编织般的颜料颗粒又使表面十分可触。天空提供柔光，照亮塔面和部分树冠，却没有强烈投影。两侧高大的暗树为构图作框，引视线向内抵达城堡。弯曲小径和重复的圆形树冠赋予场景温和的装饰流动。整幅画像一幅民间故事风景插画，色彩丰富、耐心细致、图案化，旅途感由尺度与纵深承载。",
+  "style_prompt_en": "A decorative painterly landscape style simplifies forms into rounded trees, angular ground patches, and clear winding paths. A jewel-like palette of teal, deep blue, moss green, rust, mustard, and ochre is distributed in small balanced areas. Short dense marks and woven pigment grain give flat shapes a textured, almost tapestry-like surface. Tall darker masses frame a pale distant focal point, and repeated curved motifs lead the eye inward. Soft skylight brightens selected edges without hard photographic shadows. The result feels like an illustrated folktale or painted mosaic: patient, colorful, spatially clear, and richly patterned.",
+  "style_prompt_zh": "装饰性绘画风景风格把形体概括为圆润树冠、棱角地面拼块和清楚的蜿蜒道路。深青、深蓝、苔绿、锈红、芥末黄和赭色组成宝石般色谱，以小而平衡的色区分布。密集短笔和编织似的颜料颗粒使平涂形状带有近似挂毯的表面。较暗的高形体框住浅色远方焦点，重复的弯曲纹样引视线向内。柔和天光照亮选定边缘，没有硬朗的摄影投影。结果像民间故事插画或彩绘马赛克：耐心、鲜艳、空间清楚且图案丰富。",
+  "theme_en": "A lone rider approaches a hilltop castle through a patterned countryside",
+  "theme_zh": "一位独行骑手穿过图案化乡野，走向山顶城堡",
+  "wh_ratio": "1:1",
+  "id": "4423",
+  "name": "Ilya Mashkov",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/ilya-mashkov.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "b61170aec24631b83d112b022c626425c049dae906a22fe9c064ec9d7350b1f6",
+    "gpt_submission_prompt": "A square stylized landscape painting follows a lone rider on a dark horse along a winding path toward a hilltop castle. The castle rises near the upper center with pale stone towers, a round keep, and small roofs. Rounded trees in teal, green, rust, mustard, and deep blue cluster along the slopes, while narrow paths and walls weave through the hills. The rider sits low in the left foreground, small against the elaborate destination. The ground is divided into angular patches of warm ochre, orange, teal, and dark green, giving the countryside a mosaic-like rhythm. A dusk-blue sky arches above, with a small reddish moon or sun near the upper left. Forms are simplified and slightly geometric, yet dense short marks and woven pigment grain make the surface richly tactile. Light comes softly from the sky, illuminating tower faces and selected tree crowns without strong cast shadows. The composition is framed by tall dark trees on both sides, which lead the eye inward toward the castle. Curving paths and repeated round crowns give the scene a gentle decorative flow. The whole image feels like an illustrated folktale landscape, colorful, patient, and carefully patterned, with a sense of journey carried by scale and depth.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "a2ae1bcd1b4fd16a5b8b7909da8f7e55528b509dad874458b6c4fff5acb5eb0c",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

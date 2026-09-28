@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "The image is a highly stylized landscape arranged around a large flat yellow sun. The sun hangs high in a sky that shifts from purple and indigo at the top through hot magenta and orange near the horizon. Beneath it, a dark blue horizontal band suggests distant water or land. Bright lime-green hills curve in from both sides, making a winding passage toward the center. Trees with round, cloud-like canopies stand along the slopes. A large one fills the right foreground, its green lobes edged in yellow and dark blue; slimmer cypress-like forms rise on the left. Small shrubs in red, coral, and orange punctuate the lower middle area. The entire scene is built from clear, simplified shapes, each contained by assertive dark outlines. Despite the flat forms, the surface is densely stippled with tiny dots and specks that give the colors a sprayed, grainy vibration. Shadows are deep cobalt and near-black, while highlights are lemon yellow and acidic green. There is no naturalistic atmospheric softness; the depth comes from overlapping silhouettes, narrowing land shapes, and the dark horizon strip. The square crop behaves almost like a decorative window, keeping every edge active but leaving the bright sun as the unmistakable anchor. The mood is playful and intense, turning familiar natural forms into a high-voltage graphic pattern. Color contrast, rhythmic contours, and textured dots carry the entire image.",
+  "full_prompt_zh": "画面围绕一轮巨大的平面黄日安排高度风格化风景。太阳高悬，天空由上方紫色与靛蓝，经炽热品红和橙色过渡到地平线。其下深蓝横带暗示远方水域或陆地。鲜亮的浅绿色山坡从两侧弯入，形成通往中心的曲折通道。圆团云朵般树冠立在坡上，右前景一棵尤大，绿色圆叶块以黄色和深蓝勾边；左侧升起较瘦长的柏树状形体。红、珊瑚和橙色小灌木点缀下方中央。整个场景由清晰简化形状组成，每个区域都被有力深色轮廓包住。虽然形式平面，表面却密布细小点纹和喷溅颗粒，使色彩产生振动。阴影为浓钴蓝和近黑色，高光则是柠檬黄与酸绿。没有写实的空气柔化；纵深来自重叠剪影、收窄的陆地形状和深暗水平带。方形裁切像一扇装饰性窗口，每条边缘都活跃，同时明亮太阳无疑是锚点。氛围游戏性强且紧张，把熟悉自然形体转化为高电压的图形纹样。色彩对比、节奏轮廓与点状肌理承载整幅图像。",
+  "style_prompt_en": "Use high-voltage graphic painting with simplified flat color fields, hard dark outlines, and dense fine stippling. Set lemon yellow, acid lime, coral, magenta, and purple against cobalt and near-black shadows. Build depth with overlapping rounded silhouettes, curved land-like bands, and a clean horizontal division rather than realistic modeling. Make one simple geometric light shape the visual anchor, while repeated bulbous contours and tiny dot texture keep the square surface lively.",
+  "style_prompt_zh": "采用高电压图形绘画语言，以简化平涂色域、坚实深轮廓和密集细点纹组成画面。让柠檬黄、酸绿、珊瑚色、品红和紫色对照钴蓝与近黑阴影。以重叠的圆润剪影、弯曲带状平面和清楚水平分界建立纵深，而非写实塑形。用单纯几何光形作为视觉锚点，让重复的鼓胀曲线和细小点纹维持方形表面的活力。",
+  "theme_en": "Electric landscape beneath a flat yellow sun",
+  "theme_zh": "平面黄日下的霓虹风景",
+  "wh_ratio": "1:1",
+  "id": "1788",
+  "name": "Howard Arkley",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/howard-arkley",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/howard-arkley.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "b6ff20ee4526f76734ddda24cbe795288e1a305bb2c6f776238b3b6f80493d28",
+    "gpt_submission_prompt": "The image is a highly stylized landscape arranged around a large flat yellow sun. The sun hangs high in a sky that shifts from purple and indigo at the top through hot magenta and orange near the horizon. Beneath it, a dark blue horizontal band suggests distant water or land. Bright lime-green hills curve in from both sides, making a winding passage toward the center. Trees with round, cloud-like canopies stand along the slopes. A large one fills the right foreground, its green lobes edged in yellow and dark blue; slimmer cypress-like forms rise on the left. Small shrubs in red, coral, and orange punctuate the lower middle area. The entire scene is built from clear, simplified shapes, each contained by assertive dark outlines. Despite the flat forms, the surface is densely stippled with tiny dots and specks that give the colors a sprayed, grainy vibration. Shadows are deep cobalt and near-black, while highlights are lemon yellow and acidic green. There is no naturalistic atmospheric softness; the depth comes from overlapping silhouettes, narrowing land shapes, and the dark horizon strip. The square crop behaves almost like a decorative window, keeping every edge active but leaving the bright sun as the unmistakable anchor. The mood is playful and intense, turning familiar natural forms into a high-voltage graphic pattern. Color contrast, rhythmic contours, and textured dots carry the entire image.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "aad413b8269b1739cd6948bfa4f83f163e27f136a99b7bf4cdc618ecdfb9a8a6",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

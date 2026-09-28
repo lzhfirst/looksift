@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square fantastical woodland scene looks down a wet path between tall dark trunks toward a warm glow deep in the forest. The foreground path is smooth and reflective, occupying the lower center with broken lilac, blue, and amber streaks on its surface. A few shallow steps or raised lines cross the path before it disappears into a bright misty opening. Bushes and low plants crowd both sides, forming deep teal and near-black mounds. The trunks rise on the left, center, and right into a dense canopy that keeps most of the upper frame dark. Beyond them, cool blue atmospheric layers soften the more distant trees. Hundreds of tiny warm golden points float at varying heights through the middle ground, with scattered violet and blue sparks among them. They are densest around a small amber core near the end of the path, where pale peach and lavender haze radiates outward. Some points appear as sharp pinpricks, while others bloom into soft circular bokeh. No person or readable text appears in the selected scene. The image has a highly rendered cinematic fantasy quality, combining detailed wet reflections and foliage with luminous mist rather than obvious brush strokes. Light comes chiefly from the inner glow and floating points, grazing nearby leaves while the trunks remain silhouetted. The central path, nested dark framing, and suspended sparks make the forest feel mysterious yet inviting.",
+  "full_prompt_zh": "一幅方形幻想林地场景沿湿润小路望去，路径穿过高大暗树干，通向森林深处一团暖光。前景小路平滑且反光，占据下方中央，表面有断续丁香紫、蓝和琥珀色光痕。几道浅阶或凸起横线穿过路面，然后路径消失在带雾的明亮开口中。灌木与低植物挤在两侧，形成深青与近黑的丘状体块。树干从左、中央和右侧升入密集树冠，使上半幅大部分深暗。树后，冷蓝空气层柔化更远的树木。数百颗细小暖金光点在中景不同高度漂浮，其间有零散紫和蓝色火花。它们在小路尽头一枚琥珀光核周围最密集，浅桃与丁香色雾从那里向外散开。有些光点是锐利小针孔，有些胀成柔软圆形散景。所选场景没有人物或可读文字。图像具有高度渲染的电影幻想质感，把细致湿亮倒影与植物、发光雾气结合，而没有明显绘画笔触。光主要来自内部辉光和漂浮点，擦亮邻近叶片，树干仍为剪影。中央道路、层层暗框与悬浮火光让森林神秘又仿佛邀请人进入。",
+  "style_prompt_en": "Cinematic fantasy rendering pairs deep teal-black environmental masses with a concentrated amber-lavender glow. Fine points of light vary between crisp sparks and blurred bokeh, creating depth across a dark middle field. Wet or glossy lower surfaces return the same colors in elongated broken reflections. A central recession leads into the luminous area, while irregular near silhouettes form nested framing. Cool atmospheric layers soften distant edges, and local warm light grazes small surfaces without revealing every dark form. The interplay of dense shadow, tiny suspended highlights, and a reflective foreground produces a quiet magical atmosphere.",
+  "style_prompt_zh": "电影幻想渲染把深青黑环境体块与集中的琥珀、丁香色辉光配对。细小光点在锐利火花与模糊散景之间变化，在暗中景里建立深度。湿或光亮的下方表面把同样颜色返成拉长的断续倒影。中央后退通路指向发亮区域，不规则近处剪影形成层层框景。冷空气层柔化远边，局部暖光擦亮小表面却不揭示每个暗形。密集阴影、微小悬浮亮点和反光前景的互动形成安静魔幻气息。",
+  "theme_en": "A wet woodland path leading toward a pool of floating golden lights",
+  "theme_zh": "湿润林间小路通向漂浮金色光点聚集之处",
+  "wh_ratio": "1:1",
+  "id": "0217",
+  "name": "Magical atmosphere",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/magical-atmosphere",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/magical-atmosphere.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "5fcde62f39759bbd4db297b84585500d1918f83f8cf9802c6b8f6a8012a7d0bc",
+    "gpt_submission_prompt": "A square fantastical woodland scene looks down a wet path between tall dark trunks toward a warm glow deep in the forest. The foreground path is smooth and reflective, occupying the lower center with broken lilac, blue, and amber streaks on its surface. A few shallow steps or raised lines cross the path before it disappears into a bright misty opening. Bushes and low plants crowd both sides, forming deep teal and near-black mounds. The trunks rise on the left, center, and right into a dense canopy that keeps most of the upper frame dark. Beyond them, cool blue atmospheric layers soften the more distant trees. Hundreds of tiny warm golden points float at varying heights through the middle ground, with scattered violet and blue sparks among them. They are densest around a small amber core near the end of the path, where pale peach and lavender haze radiates outward. Some points appear as sharp pinpricks, while others bloom into soft circular bokeh. No person or readable text appears in the selected scene. The image has a highly rendered cinematic fantasy quality, combining detailed wet reflections and foliage with luminous mist rather than obvious brush strokes. Light comes chiefly from the inner glow and floating points, grazing nearby leaves while the trunks remain silhouetted. The central path, nested dark framing, and suspended sparks make the forest feel mysterious yet inviting.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "513b4277034674ee186a3e0f0968746fe972a1580832ac98a10941d344f252f3",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

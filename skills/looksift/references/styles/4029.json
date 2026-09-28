@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square close architectural photograph looks upward at the corner of a dark historic cast-iron facade. Two tall bays meet at a projecting beveled corner, with large rectangular windows on either side. Broad moldings run horizontally below the upper windows and around the corner, their surfaces crowded with carved floral scrolls, leaf clusters, and tiny repeating ridges. Beneath the corner cornice, a vertical decorated pier carries dense relief ornament down toward the lower edge. The iron is nearly black with worn bluish-gray highlights on raised motifs and recesses that remain deep charcoal. Through the lower windows, a muted warm amber interior glow is visible; the glass also reflects dull daylight and adjacent shadowed forms. The image keeps the camera close enough that only a portion of the larger building is seen, allowing the ornament's scale and density to dominate. The perspective should rise gently from lower left to upper right, giving the corner a massive sculptural presence. The image uses overcast exterior light with no harsh sun, so small details in the ironwork remain readable. The image preserves traces of age, grime, and weathering without turning the surface into an abstract texture. The final image is somber and tactile, balancing precise geometric window frames with almost excessive organic relief.",
+  "full_prompt_zh": "一张方形建筑近景照片向上仰视一座深色历史铸铁立面的转角。两列高窗在凸出的斜切转角相接，两侧都有大矩形窗。宽大的线脚在上层窗下和转角四周横向延伸，表面密布雕刻的花卉卷草、叶簇和细小重复脊线。转角檐口下方一根竖向装饰柱脚把密集浮雕向画面下缘延续。铁材近乎黑色，凸起纹样上有磨损的蓝灰色亮部，凹处保持深炭黑。下方窗内透出低调的暖琥珀色灯光；玻璃也反射阴天光与周围暗形。相机足够靠近，只展示整栋建筑的一小部分，使装饰的尺度和密度占据主导。透视从左下向右上轻轻升起，使转角具有厚重雕塑感。室外阴天光不产生强烈日晒，让铁艺细节可辨。画面保留岁月、灰尘和风化痕迹，但不要使表面退化成抽象纹理。成品庄重而可触摸，精确几何窗框与几乎过度繁复的有机浮雕相平衡。",
+  "style_prompt_en": "Close, somber architectural photography emphasizing dark relief against strict geometric frames. The image uses near-black iron, cool blue-gray worn highlights, deep carved recesses, and a few muted amber glints beyond reflective glass. Capture dense organic scrollwork with crisp tactile detail under soft overcast light. The composition lets oblique upward perspective and repeated horizontal moldings give mass and rhythm without adding visual clutter outside the principal surface.",
+  "style_prompt_zh": "庄重的近景建筑摄影，强调深色浮雕与严格几何框架之间的关系。画面使用近黑铁材、冷蓝灰磨损亮部、深刻凹槽，以及反光玻璃后少量低调琥珀色光。阴天柔光下以清晰可触的细节呈现密集有机卷草。斜向仰视透视与重复横向线脚形成体量和节奏，不在主要表面之外加入杂乱元素。",
+  "theme_en": "A richly ornamented dark cast-iron building corner",
+  "theme_zh": "装饰繁复的深色铸铁建筑转角",
+  "wh_ratio": "1:1",
+  "id": "4029",
+  "name": "Cast-iron architecture",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/cast-iron-architecture.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "87c4e1b76cd2a1def979820929e4d3e01f36e682b8b39ad2e66d779f08fba62a",
+    "gpt_submission_prompt": "A square close architectural photograph looks upward at the corner of a dark historic cast-iron facade. Two tall bays meet at a projecting beveled corner, with large rectangular windows on either side. Broad moldings run horizontally below the upper windows and around the corner, their surfaces crowded with carved floral scrolls, leaf clusters, and tiny repeating ridges. Beneath the corner cornice, a vertical decorated pier carries dense relief ornament down toward the lower edge. The iron is nearly black with worn bluish-gray highlights on raised motifs and recesses that remain deep charcoal. Through the lower windows, a muted warm amber interior glow is visible; the glass also reflects dull daylight and adjacent shadowed forms. The image keeps the camera close enough that only a portion of the larger building is seen, allowing the ornament's scale and density to dominate. The perspective should rise gently from lower left to upper right, giving the corner a massive sculptural presence. The image uses overcast exterior light with no harsh sun, so small details in the ironwork remain readable. The image preserves traces of age, grime, and weathering without turning the surface into an abstract texture. The final image is somber and tactile, balancing precise geometric window frames with almost excessive organic relief.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "6e8b5172270adcff97824094fc1fb617bbaebfb65ba185d0f1c303c337072405",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

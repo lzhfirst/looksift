@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square architectural painting looks down over a dense historic city centered on a vast warm terracotta dome. The dome rises above a pale stone cathedral in the upper middle, its rounded ribs catching sunlight and its small lantern reaching toward the top edge. Beneath it, white and cream walls are articulated by arches, circular windows, and narrower roofed chapels. A tall rectangular bell tower stands to the right, its stacked openings making a strong vertical counterpoint to the dome. Around the complex, closely packed red-brown roofs and pale stone facades fill the lower half and extend toward the distant hills. Narrow streets are only intermittently visible between the buildings, so the city reads as a woven field of roofs and walls. The cathedral's long body stretches diagonally toward the lower left, giving the viewer a clear path through the crowded scene. In the far distance, a blue-gray river or open strip curves between hills beneath a pale warm sky. Morning or late-afternoon sunlight comes from the upper left, warming the dome and roof tiles while the sides of towers and gaps between buildings remain cooler and darker. The surface has fine drawn lines and lightly textured washes, which keep small windows and masonry joints precise without making the distance equally sharp. Atmospheric blue softens the far hills and separates them from the detailed foreground. The overall composition balances one grand rounded form and one tall tower against the intricate grain of an entire city, creating a measured, sunlit sense of scale.",
+  "full_prompt_zh": "这幅方形建筑绘画从高处俯望一座密集古城，中心是一道巨大的暖陶土色穹顶。穹顶从上方中央的浅石色大教堂上升，圆拱肋条承接日光，小灯塔几乎触到顶边。其下白色和奶油色墙面由拱洞、圆窗和较窄带屋顶的小礼拜堂分节。右侧立着一座高矩形钟塔，层叠开口成为穹顶的强竖向对点。建筑群周围，密集的红棕屋顶与浅石立面填满下半部，并延伸向远山。狭窄街道只间或在建筑间可见，因此城市像屋顶与墙面织成的色域。教堂长身斜向左下延展，给观者一条穿过拥挤景色的清晰路径。远处一道蓝灰河流或开阔色带在浅暖天空下的丘陵间弯曲。清晨或傍晚阳光从左上照来，温暖穹顶与屋瓦，塔楼侧面及建筑间隙保持更冷更暗。表面有精细绘线和轻微纹理淡染，使小窗与砌石缝精确，而远处没有同样锐利。空气蓝柔化远山，并把它们与细致前景分开。整体构图用一座宏大的圆形体量和一座高塔，对照整座城市细密颗粒，形成有尺度的日照感。",
+  "style_prompt_en": "The painting combines precise drawn structure with warm, lightly textured color washes. Terracotta, ochre, cream, and stone gray form the detailed near field, while blue-gray distance gradually softens. Repeated small rectangular marks create a dense granular rhythm beneath a few monumental geometric masses. Directional sun warms upper-facing planes and lets narrow recesses remain cool, making volume legible across the crowded composition. Fine lines stay clear in the foreground but yield to atmospheric haze farther back. The effect is measured, historical, and expansive without losing small material detail.",
+  "style_prompt_zh": "这种绘画把精确绘制的结构与温暖、略有肌理的色彩淡染结合起来。陶土、赭黄、奶油与石灰构成细密近处色域，蓝灰远处逐渐柔化。重复的小矩形线迹在少数宏大几何色块下形成密集颗粒节奏。定向太阳温暖朝上的平面，让狭窄凹隙保持冷色，使拥挤构图中的体积可读。细线在前景清楚，向后则让位给空气雾。效果节制、古雅且开阔，同时没有失去小型材料细节。",
+  "theme_en": "A vast terracotta cathedral dome rising above a tightly packed city",
+  "theme_zh": "巨大的陶土色教堂穹顶从密集古城上升起",
+  "wh_ratio": "1:1",
+  "id": "3086",
+  "name": "Filippo Brunelleschi",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/filippo-brunelleschi",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "d3c21a508a4669c12676048c613a6be9ce11ce3d3accfeebd76f7cefac195a19",
+    "gpt_submission_prompt": "A square architectural painting looks down over a dense historic city centered on a vast warm terracotta dome. The dome rises above a pale stone cathedral in the upper middle, its rounded ribs catching sunlight and its small lantern reaching toward the top edge. Beneath it, white and cream walls are articulated by arches, circular windows, and narrower roofed chapels. A tall rectangular bell tower stands to the right, its stacked openings making a strong vertical counterpoint to the dome. Around the complex, closely packed red-brown roofs and pale stone facades fill the lower half and extend toward the distant hills. Narrow streets are only intermittently visible between the buildings, so the city reads as a woven field of roofs and walls. The cathedral's long body stretches diagonally toward the lower left, giving the viewer a clear path through the crowded scene. In the far distance, a blue-gray river or open strip curves between hills beneath a pale warm sky. Morning or late-afternoon sunlight comes from the upper left, warming the dome and roof tiles while the sides of towers and gaps between buildings remain cooler and darker. The surface has fine drawn lines and lightly textured washes, which keep small windows and masonry joints precise without making the distance equally sharp. Atmospheric blue softens the far hills and separates them from the detailed foreground. The overall composition balances one grand rounded form and one tall tower against the intricate grain of an entire city, creating a measured, sunlit sense of scale.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "366acd0ba61ba73899c6a82e2df56a1e5bc064122bad6a279b4a127b1c32fbe2",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

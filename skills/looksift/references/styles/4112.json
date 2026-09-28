@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square photographic close-up shows a bearded painter leaning low over a palette covered with thick oil paint. His dark brows and downward-looking eyes occupy the upper center, while the nose and beard come close to the working surface. At the lower right, his hand steadies a broad brush whose bristles touch a cluster of blue, white, pink, orange, and charcoal paint. The lower half is crowded with glossy mounds and smeared strokes, some retaining knife-sharp ridges and others pulled into mixed color. Dark clothing and a nearly black surrounding area frame the lit face and palette, leaving very little unrelated background. The skin has natural warm and cool variation, but the strongest chromatic accents are in the paint itself. A few pale blue reflections cross the forehead, nose, and fingers, linking the painter visually to the working surface. The brush ferrule has a narrow metallic glint, while its dark bristles disappear into the paint. Strong soft-edged light falls from above and slightly left, brightening the textured paint peaks and the near side of the face; shadows deepen beneath the brow, hand, and palette ridges. The shallow focus keeps the closest paint and facial features vivid while outer details soften. No lettering is visible. The overall composition is compressed and tactile, placing the quiet concentration of the face directly above a restless field of wet color.",
+  "full_prompt_zh": "一幅方形摄影特写展现一位蓄须画家俯身凝视铺满厚重油彩的调色板。深眉与向下看的眼睛占据上方中央，鼻子和胡须贴近工作表面。右下方他的手稳住一支宽画笔，笔毛触及蓝、白、粉、橙和炭色颜料聚合。下半部挤满光亮的颜料丘和拖开的笔痕，有些保留刀锋般清晰的凸脊，有些被拉成混色。深衣服和近黑的周围区域框住受光脸与调色板，几乎没有无关背景。皮肤带自然的冷暖变化，但最强色彩强调来自颜料自身。几片浅蓝反光越过额头、鼻子与手指，在视觉上把画家连到工作表面。画笔的金属箍有一道细亮，深色笔毛消入颜料。边缘柔和的强光从上方略偏左落下，照亮颜料凸峰与脸的近侧；眉下、手下及调色板色脊之间阴影加深。浅景深使最近的颜料与面部五官清楚，外围细节则柔化。没有文字。整体构图压缩而有触感，让脸上的安静专注直接悬在湿润色彩的躁动区域上方。",
+  "style_prompt_en": "Photographic treatment favors tactile close focus, glossy raised color, and soft-edged falloff into a dark surround. Thick irregular ridges catch small highlights, while neighboring smears blend and break into contrasting blue, pink, orange, white, and charcoal patches. Directional light from above one side makes relief visible through alternating bright peaks and deep crevices. The clearest details cluster tightly near the working center; outer edges soften through shallow depth and shadow. A near-black field holds the crowded colors together, producing an intimate, concentrated, materially vivid image.",
+  "style_prompt_zh": "摄影处理偏重有触感的近距焦点、光亮凸起的色彩，以及向深色周围柔和衰减的边缘。厚而不规则的色脊接住小片高光，邻近擦痕融合又断开为对比的蓝、粉、橙、白与炭色块。来自上方一侧的定向光借明亮凸峰与深色缝隙的交替让浮起肌理可见。最清楚的细节紧密聚在工作中心，外围通过浅景深和阴影柔化。近黑底面把拥挤色彩系在一起，形成亲密、集中且材料感鲜明的图像。",
+  "theme_en": "A painter studying a palette of thick oil colors",
+  "theme_zh": "凝视厚重油彩调色板的画家",
+  "wh_ratio": "1:1",
+  "id": "4112",
+  "name": "Oil paint",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/oil-paint.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "77e01f46da3dfa47d5db1306102d3df673f2939886333e8d9a91e2c0decf8c81",
+    "gpt_submission_prompt": "A square photographic close-up shows a bearded painter leaning low over a palette covered with thick oil paint. His dark brows and downward-looking eyes occupy the upper center, while the nose and beard come close to the working surface. At the lower right, his hand steadies a broad brush whose bristles touch a cluster of blue, white, pink, orange, and charcoal paint. The lower half is crowded with glossy mounds and smeared strokes, some retaining knife-sharp ridges and others pulled into mixed color. Dark clothing and a nearly black surrounding area frame the lit face and palette, leaving very little unrelated background. The skin has natural warm and cool variation, but the strongest chromatic accents are in the paint itself. A few pale blue reflections cross the forehead, nose, and fingers, linking the painter visually to the working surface. The brush ferrule has a narrow metallic glint, while its dark bristles disappear into the paint. Strong soft-edged light falls from above and slightly left, brightening the textured paint peaks and the near side of the face; shadows deepen beneath the brow, hand, and palette ridges. The shallow focus keeps the closest paint and facial features vivid while outer details soften. No lettering is visible. The overall composition is compressed and tactile, placing the quiet concentration of the face directly above a restless field of wet color.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "ff5cc60572eb89b4e54b29e3132a88c57872540e62275ea8fd01a17b5031c026",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

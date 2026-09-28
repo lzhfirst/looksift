@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white architectural photograph shows a monumental concrete building formed from sharply folded, slanting planes under an overcast sky. The structure occupies nearly the entire upper and middle frame. A broad dark wedge rises at the left, its top edge tilting to a high point near the upper center. From there, a pale gray angled face descends toward the right, meeting another heavy concrete plane at a deep triangular recess. Within the recess, a tall glass entrance reaches toward the ground, its dark mullions and reflections visible behind the bold stone opening. A smaller triangular window is cut into the upper left wall. Fine streaks, stains and panel seams on the concrete distinguish the rough material from the smooth dark glass. The foreground is a wide paved walkway running straight toward the entrance from the lower center. Short dark bollards line one side, and narrow strips of bare ground border the path. Leafless trees stand to the far right and left edges, their thin branches giving a small organic counterpoint to the huge geometry. A single tiny dark figure near the building reinforces its scale. Diffuse light from the cloudy upper right grazes the pale faces and leaves the folded recess almost black; shadows are soft on the ground but severe within the deep cut. The overall composition feels austere and dramatic, with converging angular masses drawing the eye toward the transparent center.",
+  "full_prompt_zh": "这幅方形黑白建筑照片里，一座巨大的混凝土建筑由锐利折叠的斜平面构成，立在多云天空下。结构几乎占据上方和中部全部画幅。左侧一道宽阔深色楔形升起，顶缘斜向上方中央附近的高点。从那里，一片浅灰斜面向右下降，与另一块厚重混凝土面交汇，形成深三角凹处。凹处内，一道高玻璃入口一直抵达地面，深色窗格和反光藏在大胆的石质开口后方。左上墙面切出一扇较小三角窗。混凝土上的细条纹、污迹和板缝，把粗糙材料与平滑深玻璃区分开。前景是一条宽阔铺装步道，从下方中央笔直通向入口。一侧排着短深色柱，窄窄裸地沿道路两边伸展。落叶树立在最右和最左边缘，纤枝给巨大几何形添上小小的有机对照。建筑附近一位很小的深色人物进一步强调其尺度。阴天右上方漫射光擦过浅色平面，让折角凹处近乎黑色；地上阴影柔，深切口内部却强烈。整体构图冷峻而戏剧化，汇聚的棱角量块把视线引向透明中心。",
+  "style_prompt_en": "The monochrome photograph emphasizes faceted heavy surfaces, knife-sharp diagonals and deep dark cuts. Pale gray planes carry fine mineral streaks and joints, while smooth black reflections and voids supply strong material and value contrast. Overcast light spreads evenly across exposed faces but drops dramatically inside folds, allowing geometry to create its own shadow. A low straight approach and converging edges make scale feel monumental. Sparse thin organic lines at the margins soften the severity without competing with the main forms. The result is austere, graphic and spatially forceful, with texture confirming the weight of each plane.",
+  "style_prompt_zh": "这种单色摄影强调多面而厚重的表面、刀锋般的斜线与深暗切口。浅灰平面带纤细矿物条纹和接缝，平滑黑色反射与虚空提供强材料、明暗对照。阴天光均匀铺在外露面上，却在折角内部急剧变暗，让几何形自行制造阴影。低位笔直的进入路径和汇聚边缘使尺度显得巨大。边缘稀疏纤细的有机线缓和严厉感，却不与主要形体争抢。成品冷峻、图形感强且空间力量十足，肌理确认每个平面的重量。",
+  "theme_en": "A sharply folded concrete building with a dark triangular glass entrance",
+  "theme_zh": "一座折角锐利的混凝土建筑，设有深色三角玻璃入口",
+  "wh_ratio": "1:1",
+  "id": "2898",
+  "name": "Daniel Libeskind",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/daniel-libeskind",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/daniel-libeskind.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "00ac9e8b70e76863cfe11c169afa63b3c9d61ff6dc6ca97a3e0a312e826084f9",
+    "gpt_submission_prompt": "A square black-and-white architectural photograph shows a monumental concrete building formed from sharply folded, slanting planes under an overcast sky. The structure occupies nearly the entire upper and middle frame. A broad dark wedge rises at the left, its top edge tilting to a high point near the upper center. From there, a pale gray angled face descends toward the right, meeting another heavy concrete plane at a deep triangular recess. Within the recess, a tall glass entrance reaches toward the ground, its dark mullions and reflections visible behind the bold stone opening. A smaller triangular window is cut into the upper left wall. Fine streaks, stains and panel seams on the concrete distinguish the rough material from the smooth dark glass. The foreground is a wide paved walkway running straight toward the entrance from the lower center. Short dark bollards line one side, and narrow strips of bare ground border the path. Leafless trees stand to the far right and left edges, their thin branches giving a small organic counterpoint to the huge geometry. A single tiny dark figure near the building reinforces its scale. Diffuse light from the cloudy upper right grazes the pale faces and leaves the folded recess almost black; shadows are soft on the ground but severe within the deep cut. The overall composition feels austere and dramatic, with converging angular masses drawing the eye toward the transparent center.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "9500f87b47cf74d2e7ce31606df8ca6451976dfc9571eb68392c8e6951d24b95",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "The finished image resembles a carefully staged, slightly uncanny suburban photograph in a square frame. A broad sidewalk and curb run straight across the foreground, separated from a large winter lawn by a shallow dark line. Near the center-left stands an old bench with a pale patterned back; just to its right, a little girl in a light blue dress is seen from behind, still and small. Her gaze leads across the empty grass toward a modest two-story house set back among bare trees and darker evergreens. Neighboring houses appear only at the far edges, reinforcing the quiet openness of the central lawn. Above the rooftops, a huge mass of gray cloud glows orange and gold from within, rising like a theatrical event over an otherwise ordinary neighborhood. Thin bands of cooler gray-white clouds extend across the rest of the pale blue sky. The composition is rigorously level and nearly symmetrical, with the bench and child as measured foreground anchors and the house beneath the cloud as a distant counterweight. Daylight is even on the grass and sidewalk, while the strange warm light is concentrated in the cloud. Fine photographic detail remains visible in the branches, window frames, bench fabric and seams of pavement, yet the color grading is gently desaturated outside the orange glow. The scale contrast and absence of activity make the whole image feel suspended between a familiar domestic afternoon and a quiet, improbable disturbance.",
+  "full_prompt_zh": "成品画面是一张经过仔细布置、略带诡异感的正方形郊区摄影。宽阔的人行道与路缘水平贯穿前景，一条浅暗线将其与大片冬季草坪分开。中央偏左立着一张旧长椅，浅色靠背有花纹；其右侧是一位穿浅蓝裙的小女孩，从背后看去，静止而渺小。她的视线越过空草地，指向裸树与深色常青树之间一幢退在远处的朴素两层住宅。相邻房屋只在两侧边缘露出，更强调中心草坪的安静开阔。屋顶上方，巨大灰云从内部发出橙金色光，像一场舞台事件升起在平凡街区之上。较冷的灰白云带横贯其余淡蓝天空。构图严格水平且近乎对称，长椅和女孩作为尺度分明的前景锚点，云下房屋形成远处的平衡。日光均匀照在草地和人行道上，奇异暖光集中于云团。枝条、窗框、长椅面料与路面接缝仍有细致摄影信息，但橙光之外的调色略微去饱和。尺度反差与无活动的人群，使整幅画面悬在熟悉的家庭午后和安静的不可能扰动之间。",
+  "style_prompt_en": "Meticulously staged photographic realism carries an uncanny, suspended mood. A level, measured composition holds broad quiet color fields beneath an oversized luminous form. Fine domestic detail, gentle desaturation, cool gray-blue daylight and a concentrated orange-gold glow coexist with clean spatial depth. Small scale accents and understated stillness give the square image its unsettling force.",
+  "style_prompt_zh": "精心布置的摄影式写实带有诡异的悬置气氛。水平而有分寸的构图，在巨大发光形体下容纳宽阔安静的色域。细小日常质感、轻度去饱和、灰蓝冷日光与集中橙金光并存，空间纵深清楚。微小尺度点缀与克制的静止感构成正方形画面的不安力量。",
+  "theme_en": "A little girl watching an immense orange cloud over a quiet suburb",
+  "theme_zh": "小女孩在安静郊区眺望巨大的橙色云团",
+  "wh_ratio": "1:1",
+  "id": "3488",
+  "name": "Julie Blackmon",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/julie-blackmon",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "fcf5e60285dd45dafd9456a4bd418c178da651288c366fc24655977a4e2d6aae",
+    "gpt_submission_prompt": "The finished image resembles a carefully staged, slightly uncanny suburban photograph in a square frame. A broad sidewalk and curb run straight across the foreground, separated from a large winter lawn by a shallow dark line. Near the center-left stands an old bench with a pale patterned back; just to its right, a little girl in a light blue dress is seen from behind, still and small. Her gaze leads across the empty grass toward a modest two-story house set back among bare trees and darker evergreens. Neighboring houses appear only at the far edges, reinforcing the quiet openness of the central lawn. Above the rooftops, a huge mass of gray cloud glows orange and gold from within, rising like a theatrical event over an otherwise ordinary neighborhood. Thin bands of cooler gray-white clouds extend across the rest of the pale blue sky. The composition is rigorously level and nearly symmetrical, with the bench and child as measured foreground anchors and the house beneath the cloud as a distant counterweight. Daylight is even on the grass and sidewalk, while the strange warm light is concentrated in the cloud. Fine photographic detail remains visible in the branches, window frames, bench fabric and seams of pavement, yet the color grading is gently desaturated outside the orange glow. The scale contrast and absence of activity make the whole image feel suspended between a familiar domestic afternoon and a quiet, improbable disturbance.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "7b6371eceb9f7f09dbe43c15f4f597522af529fc0b1ec08b888980811a5cb70c",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

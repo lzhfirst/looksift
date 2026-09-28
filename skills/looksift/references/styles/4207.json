@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square impressionist oil landscape shows a pale dirt lane curving through a hillside village past cream stone houses and lush planted banks. The upper left opens to patchwork fields and rounded green trees on a gentle slope. Below them, several houses with pale walls and rust-colored roofs sit among cypresslike dark trees and softer round canopies. Near the middle, a tall narrow cream house stands beside the lane, its shaded side facing the viewer. The path begins broad at the lower right and bends toward the center distance, where two tiny dark walkers appear against the light ground. Low banks along the left side are divided into irregular gardens of muted green, rose and ochre, with a bluish shrub prominent in the lower middle. On the right, a sparse tall tree rises from the roadside and throws delicate branching marks against a pale gray-blue sky. Beyond it, the landscape falls away toward a narrow watercourse or lower valley, with a few distant rooftops faintly visible. The ground is textured by short separate touches of cream, tan and soft brown rather than a smooth road surface. Gentle daylight comes from the upper left, warming roofs and the path while leaving tree masses and house sides cooler. The brushwork is fine and broken, so colors mingle optically across foliage, sky and walls. The overall composition follows the curve of the lane through clustered houses into airy distance, making an ordinary settlement feel tranquil and luminous.",
+  "full_prompt_zh": "这幅方形印象派油画风景里，一条浅色土路穿过山坡村庄，绕过奶油色石屋和繁茂栽植的坡岸。左上方展开拼布般的田地和缓坡上圆润绿树。其下，几栋浅墙锈红屋顶的房子坐在深色柏树状树木和柔圆树冠间。中间附近一座高窄奶油色房屋立在路旁，受影一面朝向观众。小路从右下宽阔起步，弯入中央远处，两位微小深色行人站在亮地前。左侧低岸被分成不规则花园，有压低的绿、玫瑰与赭黄，下方中部一丛灰蓝灌木格外显眼。右侧一棵稀疏高树从路边升起，纤细枝条划在浅灰蓝天空上。树后地势落向一道窄水道或低谷，几处远屋顶依稀可见。地面由奶油、黄褐和柔褐的短促分离笔触形成肌理，而非平滑道路。温和日光从左上照来，暖化屋顶和道路，树丛与房屋背光侧较冷。笔触细碎断续，使叶、天和墙上的颜色在视觉中混合。整体构图顺路弯穿过聚集房屋进入通透远景，让普通聚落显得宁静而发亮。",
+  "style_prompt_en": "The impressionist oil surface is built from small separate dabs of muted green, pale cream, lavender-gray and warm ochre. Edges are clearer in near dark accents and soften as color patches recede into open air. Fine granular strokes allow vegetation, stone and sky to shimmer without hard outlines. Gentle daylight is spread broadly, with warm lit planes and cool shaded sides creating subtle volume rather than theatrical contrast. A curved pale passage guides the eye through layered clusters and out toward a lighter distance. The result feels observant, settled and airy, with texture and color vibration conveying quiet movement.",
+  "style_prompt_zh": "这种印象派油画表面由压低绿、浅奶油、淡紫灰与暖赭黄的小块分离笔触组成。近处深色强调的边缘较清楚，色斑进入敞开空气远景时柔化。细颗粒笔触让草木、石面和天空微微闪动，不需硬轮廓。温和日光宽泛铺开，暖受光平面与冷受影侧形成细腻体积，而非戏剧化对照。一条弯曲浅色通道引导视线穿过层叠簇团，走向更浅的远处。成品细心观察、安定而通透，肌理与色彩振动传达安静运动。",
+  "theme_en": "A sunlit village lane curving past pale houses and planted banks",
+  "theme_zh": "阳光下的村路绕过浅色房屋与栽满植物的坡岸",
+  "wh_ratio": "1:1",
+  "id": "4207",
+  "name": "Esther Pissarro",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/esther-pissarro.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "1c4d1a3ec0fa6a597914caae206cb3c6cf946d05a8d7831baaa784bba429c899",
+    "gpt_submission_prompt": "A square impressionist oil landscape shows a pale dirt lane curving through a hillside village past cream stone houses and lush planted banks. The upper left opens to patchwork fields and rounded green trees on a gentle slope. Below them, several houses with pale walls and rust-colored roofs sit among cypresslike dark trees and softer round canopies. Near the middle, a tall narrow cream house stands beside the lane, its shaded side facing the viewer. The path begins broad at the lower right and bends toward the center distance, where two tiny dark walkers appear against the light ground. Low banks along the left side are divided into irregular gardens of muted green, rose and ochre, with a bluish shrub prominent in the lower middle. On the right, a sparse tall tree rises from the roadside and throws delicate branching marks against a pale gray-blue sky. Beyond it, the landscape falls away toward a narrow watercourse or lower valley, with a few distant rooftops faintly visible. The ground is textured by short separate touches of cream, tan and soft brown rather than a smooth road surface. Gentle daylight comes from the upper left, warming roofs and the path while leaving tree masses and house sides cooler. The brushwork is fine and broken, so colors mingle optically across foliage, sky and walls. The overall composition follows the curve of the lane through clustered houses into airy distance, making an ordinary settlement feel tranquil and luminous.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "de2ee1c94e2677367fde14be643a39207708f24b24853894648db7ca40313b67",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

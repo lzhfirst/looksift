@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square realistic painted image places a round globe-like disc at the center of a plain warm-gray background. Inside the disc, a young blonde girl appears in right-facing profile from the shoulders upward. Her blue eye looks outward to the right with a thoughtful, slightly worried expression. Pale hair is loosely pulled back, with thin strands hanging around her cheek and ear. She wears a cream knitted top, and her hands are clasped together beneath her chin. The pose presses the face and fingers near the inner right edge of the circle, leaving more patterned space behind her. Earthlike blue-green, ochre, and brown map textures curve around the left and upper portions of the disc, while a pale cloudy field occupies the right. The circular object has a subtle beveled rim and casts a soft shadow onto the gray ground, making it appear raised from the surface. The face and hands are smoothly modeled, with delicate pink warmth on cheek, ear, and fingertips. Rougher mottled strokes build the maplike texture and contrast with the fine hair strands and knitted weave. Light comes from the upper left, brightening the top of the blonde hair, forehead, and knuckles while the lower rim and far cheek settle into mild shadow. Outside the round image, the background stays uninterrupted and free of text or objects. The composition centers a quiet human profile inside a tactile planet-like form. The overall effect is reflective and intimate, balancing a detailed pale face against the weathered, colored curve of the disc.",
+  "full_prompt_zh": "一幅方形写实绘画图像把一块圆球般的圆盘放在素净暖灰背景中央。圆盘内，一名金发女孩从肩部以上朝右侧身。蓝眼睛向右望，神情沉思，略带忧虑。浅发松松向后束起，细发丝垂在脸颊与耳旁。她穿奶油色针织上衣，双手在下巴下方合拢。姿态让面孔和手指靠近圆形内右边缘，身后留下更多有纹理空间。地球般的蓝绿、赭色与棕色地图纹理沿圆盘左侧和上方弯曲，右侧则为浅云雾状区域。圆形物有细微斜边，在灰色底面上投出柔影，使它像从表面略微凸起。脸和手平滑塑形，脸颊、耳朵与指尖有细腻粉暖色。较粗糙的斑驳笔触构成地图般纹理，与细发丝和针织纹路相对。光从左上来，照亮浅发顶部、额头和指节，下方圆边及脸远侧落入温和阴影。圆形图像之外，背景连续空阔，没有文字或其他物件。构图把安静人物侧面置于有触感的行星般形体中。整体效果反思而亲密，以细腻浅色面孔平衡圆盘陈旧的彩色曲面。",
+  "style_prompt_en": "A realistic painted surface sets a detailed, smoothly modeled focal area within a single raised circular field on a plain neutral ground. Warm ivory, blush, smoky gray, weathered blue-green, and muted ochre blend in a restrained palette. Fine linear detail and soft tonal gradients contrast with rough mottled pigment around the perimeter. Upper-side light creates a gentle highlight and a faint cast shadow beneath the beveled edge, giving the otherwise shallow arrangement a tactile relief. Empty gray space outside the circle provides calm, while asymmetrical density within it guides the eye. Boundaries are crisp at the outer rim and softly blended inside. The finish is quiet, reflective, and subtly aged.",
+  "style_prompt_zh": "写实绘画表面把细致平滑塑形的焦点区域放在素净中性底面上的单个隆起圆形色域内。暖象牙白、腮红色、烟灰、陈旧蓝绿与低饱和赭色融合成克制色域。细线细节和柔和色调渐变与外围粗糙斑驳颜料相对。上侧光在斜边下方形成温和亮部与浅投影，使原本浅平的布局有可触浮雕感。圆形外的空灰色提供平静，圆内不对称密度则引导视线。外缘清晰，内部边界柔和融合。成品安静、内省且微微陈旧。",
+  "theme_en": "A thoughtful young girl in profile within a painted globe",
+  "theme_zh": "绘有地球纹理的圆球中侧身沉思的女孩",
+  "wh_ratio": "1:1",
+  "id": "3759",
+  "name": "Alex Alemany",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/alex-alemany",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "a749a255bc167e19f490743d961ecd90c0568c09dabf1fa7de9da3a3afb02f17",
+    "gpt_submission_prompt": "A square realistic painted image places a round globe-like disc at the center of a plain warm-gray background. Inside the disc, a young blonde girl appears in right-facing profile from the shoulders upward. Her blue eye looks outward to the right with a thoughtful, slightly worried expression. Pale hair is loosely pulled back, with thin strands hanging around her cheek and ear. She wears a cream knitted top, and her hands are clasped together beneath her chin. The pose presses the face and fingers near the inner right edge of the circle, leaving more patterned space behind her. Earthlike blue-green, ochre, and brown map textures curve around the left and upper portions of the disc, while a pale cloudy field occupies the right. The circular object has a subtle beveled rim and casts a soft shadow onto the gray ground, making it appear raised from the surface. The face and hands are smoothly modeled, with delicate pink warmth on cheek, ear, and fingertips. Rougher mottled strokes build the maplike texture and contrast with the fine hair strands and knitted weave. Light comes from the upper left, brightening the top of the blonde hair, forehead, and knuckles while the lower rim and far cheek settle into mild shadow. Outside the round image, the background stays uninterrupted and free of text or objects. The composition centers a quiet human profile inside a tactile planet-like form. The overall effect is reflective and intimate, balancing a detailed pale face against the weathered, colored curve of the disc.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "1cf7c246331dc1be1ff2ea9a9b820a70f07448c12a51a1a90de78b5dabddb1ab",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

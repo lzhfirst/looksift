@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A warm sepia cabinet-card photograph shows a young woman posed in a nineteenth-century studio. The image is mounted within a narrow tan card border with softly rounded corners, the whole card standing against a plain white surround. She is framed from the upper thighs upward and centered slightly to the right, her gaze directed past the camera toward the left with a composed, unsmiling expression. Her hair rises into a full, textured updo above a high-necked dark dress. The bodice fits closely at the waist, with structured shoulders, long sleeves, and dense lace or embroidery running down the chest and cuffs. A small bright clasp at the throat and a row of buttons add tiny points of contrast. Her left arm bends to rest on an ornate studio pedestal at the lower left, while the other hand hangs near the gathered skirt. A fluted column and carved architectural ornament stand behind the pedestal; a softly painted foliage backdrop fades across the upper right. The light is diffuse and frontal, giving the face a gentle tonal transition while the dark fabric holds intricate texture. Slight softness, faint wear, and the even brown photographic cast make the image feel like an aged physical print. The formal pose, decorative props, and card mount complete the period studio portrait.",
+  "full_prompt_zh": "一张暖褐色柜式肖像卡记录了一位在十九世纪摄影棚中摆姿的年轻女子。照片镶在窄窄的浅褐卡纸边框内，四角柔和圆润，整张卡片置于纯白背景上。画面从大腿上部截取，她的位置略偏右，目光越过镜头望向左边，神情端正而不带笑意。浓密而有纹理的发髻高高挽起，身穿深色高领长裙。上身在腰部紧收，肩部挺括、衣袖修长，胸前与袖口沿线密布蕾丝或刺绣。喉部的小亮色扣饰和一列纽扣提供细微对比。左臂弯曲，靠在左下角华丽的摄影棚台座上，另一只手自然垂在聚拢的裙摆旁。台座后立着带纵槽的柱子和雕刻装饰；柔焦的绘景植物背景向右上方淡去。光线漫射而正面，使脸部明暗柔和过渡，同时保留深色布料繁复的纹理。轻微的柔化、浅浅的磨损和均匀的褐色相纸色调，使画面像一张陈年的实体照片。正式的姿态、装饰道具与卡纸装裱共同完成这幅时代摄影棚肖像。",
+  "style_prompt_en": "The image has the physical character of an aged albumen-style studio photograph mounted on card. A nearly monochrome warm-brown scale replaces modern color, with creamy highlights, soft-edged midtones, and deep fabric shadows that still retain fine detail. Focus is gently softened without losing the crisp decorative seams and small jewelry glints. Diffuse frontal studio illumination gives forms even modeling and a restrained sheen. The composition is formal and vertically ordered, bordered by a narrow, worn tan mount. Delicate grain, slight fading, and subtle surface wear carry the sense of an old photographic object.",
+  "style_prompt_zh": "画面具有旧式蛋白相纸摄影棚照片装裱在卡纸上的实体特征。近乎单色的暖褐阶调取代现代色彩，乳白高光、柔边中间调和仍保留细节的深色阴影并存。焦点轻微柔化，却不抹掉清晰的装饰缝线与细小闪光。漫射的正面摄影棚照明让形体均匀塑造，光泽克制。构图正式、纵向有序，外侧围以窄而略旧的浅褐边框。细腻颗粒、轻微褪色和表面磨痕传达旧摄影实物的感觉。",
+  "theme_en": "A formal late-Victorian studio portrait of a young woman in a fitted dark dress, preserved as a warm sepia cabinet card.",
+  "theme_zh": "一位身穿合体深色长裙的年轻女子在维多利亚时代摄影棚中正式留影，作品以暖褐色柜式肖像卡保存。",
+  "wh_ratio": "1:1",
+  "id": "0739",
+  "name": "Victorian era cabinet card",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/victorian-era-cabinet-card",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/victorian-era-cabinet-card.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "c5aa8ac1e8082bb70b89fe4c9c6c543214661355b94a9dacddffd4c94fb677fe",
+    "gpt_submission_prompt": "A warm sepia cabinet-card photograph shows a young woman posed in a nineteenth-century studio. The image is mounted within a narrow tan card border with softly rounded corners, the whole card standing against a plain white surround. She is framed from the upper thighs upward and centered slightly to the right, her gaze directed past the camera toward the left with a composed, unsmiling expression. Her hair rises into a full, textured updo above a high-necked dark dress. The bodice fits closely at the waist, with structured shoulders, long sleeves, and dense lace or embroidery running down the chest and cuffs. A small bright clasp at the throat and a row of buttons add tiny points of contrast. Her left arm bends to rest on an ornate studio pedestal at the lower left, while the other hand hangs near the gathered skirt. A fluted column and carved architectural ornament stand behind the pedestal; a softly painted foliage backdrop fades across the upper right. The light is diffuse and frontal, giving the face a gentle tonal transition while the dark fabric holds intricate texture. Slight softness, faint wear, and the even brown photographic cast make the image feel like an aged physical print. The formal pose, decorative props, and card mount complete the period studio portrait.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "321cc01b16006d83d122b44edaee49913b0455af579de9196b80a8ab21d37353",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

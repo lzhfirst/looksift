@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A light watercolor cityscape looks along a calm canal on a clear but softly hazed morning. A pale ochre building with several stories and delicate windows stands on the left bank, its facade catching warm light. A dark green tree presses against the building and balances its rectangular form. The stone embankment runs diagonally from the lower left toward the middle distance, where narrow moored boats gather beside it. Thin masts rise into a cream-and-blue sky, and a small bridge crosses the canal far to the right. The water occupies much of the lower half, reflecting the building in broken yellow-gray shapes and carrying fine vertical lines from the masts. The drawing is precise enough to identify cornices, windows, boat hulls, and quay blocks, but each detail is softened by transparent washes and paper texture. Pale turquoise and sage shadow the water and side streets; soft ochre, cream, and muted brown warm the sunlit walls. The sky remains broad and unworked in places, with faint blue washes and white paper showing through. Shadows are gentle and cool, without sharp dramatic contrast. The composition is low and wide, anchored by the building on the left and opened by the receding waterway on the right. Small distant boats provide scale without interrupting the calm. The image feels observed on location, quiet and breathable, with the architecture and its reflection joined by the same restrained watercolor touch.",
+  "full_prompt_zh": "一幅轻盈水彩城市风景在清楚却柔带薄雾的早晨沿平静运河望去。多层浅赭建筑立于左岸，细窗与立面接住暖光。一棵深绿树挨着楼，平衡其矩形形体。石岸从左下斜行至中距离，狭窄停泊小船聚在岸边。细桅杆伸入奶油蓝天空，远右侧一座小桥跨过河道。水占下半部大面积，以破碎黄灰形反出楼，也带桅杆的细竖线。绘画足够精确，可辨檐口、窗、船壳和码头石块，每处细节又被透明罩染和纸纹柔化。浅青绿与鼠尾草色遮阴水和侧街；柔赭、奶油与暗棕温暖受日照墙面。天空宽阔，部分几乎未经加工，淡蓝罩染下白纸透出。阴影温和偏冷，没有锋利戏剧反差。构图低而宽，由左楼固定，右方退远水道打开。远处小船提供尺度，不扰平静。图像像现场观察，安静而可呼吸，建筑和倒影由同一种克制水彩笔触连接。",
+  "style_prompt_en": "Light architectural watercolor combines fine observational drawing with broad transparent washes and visible cream paper. Muted ochre, soft brown, sage green, pale turquoise, and blue-gray occupy gentle adjoining areas rather than saturated blocks. Thin vertical marks and broken reflection strokes provide rhythm against long quiet horizontal planes. Precise small edges appear at selected focal details, then soften into distant haze and unpainted intervals. A strong diagonal or receding line can lead through an otherwise tranquil composition. Daylight is diffused and even; warm lit surfaces are balanced by cool transparent shade. Reflections are loose, irregular, and lighter than the objects they echo. The finish feels airy and location-drawn, with restrained detail, soft value contrast, and paper brightness holding the whole image open.",
+  "style_prompt_zh": "轻建筑水彩把细观察线稿与宽透明罩染、可见奶油纸结合。暗赭、柔棕、鼠尾草绿、浅青绿和蓝灰占温和相邻区域，而非饱和色块。细竖笔痕与破碎倒影笔触对着长而安静水平平面提供节奏。精确小边缘出现在选定焦点细节，随后柔入远雾与未上色间隔。强斜线或退远线可引导穿过原本平静的构图。日光漫散均匀；暖受光面由冷透明阴影平衡。倒影松动、不规则，且比所反物体更浅。饰面轻盈、似现场写生，克制细节、柔明度反差和纸的亮意使全画开放。",
+  "theme_en": "Small sailing boats rest beside a pale canal-side building on a quiet morning",
+  "theme_zh": "小帆船在安静清晨停于浅色运河岸边建筑旁",
+  "wh_ratio": "1:1",
+  "id": "3769",
+  "name": "Albert Benois",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/albert-benois",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "262932e6719ea0eb1839b0c1b17f9a5fb5c20102fc217af02f75aae260f7429a",
+    "gpt_submission_prompt": "A light watercolor cityscape looks along a calm canal on a clear but softly hazed morning. A pale ochre building with several stories and delicate windows stands on the left bank, its facade catching warm light. A dark green tree presses against the building and balances its rectangular form. The stone embankment runs diagonally from the lower left toward the middle distance, where narrow moored boats gather beside it. Thin masts rise into a cream-and-blue sky, and a small bridge crosses the canal far to the right. The water occupies much of the lower half, reflecting the building in broken yellow-gray shapes and carrying fine vertical lines from the masts. The drawing is precise enough to identify cornices, windows, boat hulls, and quay blocks, but each detail is softened by transparent washes and paper texture. Pale turquoise and sage shadow the water and side streets; soft ochre, cream, and muted brown warm the sunlit walls. The sky remains broad and unworked in places, with faint blue washes and white paper showing through. Shadows are gentle and cool, without sharp dramatic contrast. The composition is low and wide, anchored by the building on the left and opened by the receding waterway on the right. Small distant boats provide scale without interrupting the calm. The image feels observed on location, quiet and breathable, with the architecture and its reflection joined by the same restrained watercolor touch.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "6db2c277326b236a4a90f534c733a9ebcae640dc6029bde9ddfd51e4a6a9aeec",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

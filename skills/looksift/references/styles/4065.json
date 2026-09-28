@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square architectural photograph looks upward at the corner of a richly decorated timber pavilion beneath a pale blue evening sky. Several roof levels overlap, their dark tiled planes ending in sharply upturned eaves and small ridge ornaments. The foremost corner post stands near the center, supporting a complex cluster of painted brackets that spread outward beneath the roofs. Turquoise and deep blue bands trace the beam edges, while ochre, coral, and warm gold patterns fill the smaller panels between them. Narrow windows with pale vertical bars run under the upper eaves, and a lower roof sweeps diagonally from the left toward the central corner. The surrounding structure continues beyond all sides of the crop, making the layered roof geometry the main subject instead of a complete distant building. Warm light shines from inside the pavilion and catches the carved details, but the undersides of the eaves remain in dense blue-black shadow. Against this contrast, the sky is smooth and cool, giving the elaborate silhouette a clear outline. Fine photographic grain and the varied sheen of painted wood and glazed tile keep the ornament tactile rather than diagrammatic. Repeated beams and upturned contours pull the eye inward and upward through the packed arrangement. The overall composition is dense yet ordered, balancing cool roof color with glowing timber and a small amount of open evening sky.",
+  "full_prompt_zh": "一幅方形建筑照片从下方仰望一座装饰繁复的木构楼阁一角，背后是淡蓝色傍晚天空。多层屋顶相互叠压，深色瓦面终止于高高翘起的檐角与小型脊饰。最靠前的角柱立在中央附近，托住屋顶下向外展开的一组复杂彩绘斗拱。青绿和深蓝色带勾出梁缘，赭黄、珊瑚红与暖金色纹样填入其间小块面。上层檐下排列着有浅色竖棂的窄窗，下层屋顶则从左方向中央角位斜扫而来。建筑向画面各边继续延伸，使叠层屋顶的几何关系成为主体，而不是远观的完整建筑。温暖的室内灯光照亮雕刻细节，檐下仍沉入浓重蓝黑阴影。在这种反差前，天空平滑而清冷，给复杂剪影提供清楚外廓。细微照片颗粒以及彩绘木料和琉璃瓦不同的光泽，使纹饰保有触感而非图解感。重复的梁架与翘曲轮廓引导视线穿过密集排列，向内、向上移动。整体构图繁密却有秩序，以冷色屋顶、发光木构和少量敞开的暮色天空相平衡。",
+  "style_prompt_en": "Color photography emphasizes layered diagonals, sharply curling edges, and dense repeating bands. Fine painted ornament sits inside a larger, readable structure of dark silhouettes and illuminated planes. Deep teal, blue-black, ochre, coral, and warm gold alternate in narrow intervals, while a small cool pale field gives the busy forms relief. Light glows from within and below, catching projecting details but allowing undersides to remain dark. Photographic grain and varied matte-to-gloss surfaces retain material weight. The composition feels intricate and upward-moving without losing its rhythmic order.",
+  "style_prompt_zh": "彩色摄影强调层层叠置的斜线、急剧卷起的边缘与密集重复的色带。细小彩绘纹饰被收进由深色剪影和受光平面组成的较大清晰结构中。深青绿、蓝黑、赭黄、珊瑚红与暖金在狭窄间隔中交替，少量清冷浅色底面给繁忙形体留下喘息。光从内部与下方泛出，照到外挑细节，却让下沿保持深暗。照片颗粒与从哑光到微亮的不同表面保留材料重量。构图繁复且向上流动，却不失韵律秩序。",
+  "theme_en": "An illuminated timber pavilion with layered upturned roofs",
+  "theme_zh": "叠层翘檐下灯光温暖的木构楼阁",
+  "wh_ratio": "1:1",
+  "id": "4065",
+  "name": "Traditional Chinese architecture",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/traditional-chinese-architecture.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "aa788cfce3bf0df9d5f82362ab6aff375ab6bf84a73031c361e586e93af29480",
+    "gpt_submission_prompt": "A square architectural photograph looks upward at the corner of a richly decorated timber pavilion beneath a pale blue evening sky. Several roof levels overlap, their dark tiled planes ending in sharply upturned eaves and small ridge ornaments. The foremost corner post stands near the center, supporting a complex cluster of painted brackets that spread outward beneath the roofs. Turquoise and deep blue bands trace the beam edges, while ochre, coral, and warm gold patterns fill the smaller panels between them. Narrow windows with pale vertical bars run under the upper eaves, and a lower roof sweeps diagonally from the left toward the central corner. The surrounding structure continues beyond all sides of the crop, making the layered roof geometry the main subject instead of a complete distant building. Warm light shines from inside the pavilion and catches the carved details, but the undersides of the eaves remain in dense blue-black shadow. Against this contrast, the sky is smooth and cool, giving the elaborate silhouette a clear outline. Fine photographic grain and the varied sheen of painted wood and glazed tile keep the ornament tactile rather than diagrammatic. Repeated beams and upturned contours pull the eye inward and upward through the packed arrangement. The overall composition is dense yet ordered, balancing cool roof color with glowing timber and a small amount of open evening sky.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "a35c077726efdb30d867e4dc49396aa5be5dc080f0f080a280c1b4487d41cea5",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

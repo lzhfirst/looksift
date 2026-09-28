@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A grainy black-and-white street photograph shows a quiet urban corner under a pale overcast sky. A weathered three-story brick house fills most of the left and central frame, its dark upper masonry sitting above mottled, worn plaster at street level. Narrow sash windows interrupt the façade in a loose grid, with chimney stacks breaking the roofline. At the right edge of the house, a recessed entrance and shallow steps meet a rounded pavement corner. A single dark-clad person in a hat walks near the curb in the lower middle, seen from behind or in deep shadow, appearing small beside the heavy structure. The road opens toward the right, where a vintage car sits or moves near the kerb and a row of similar dark buildings recedes into the distance. A slim street pole rises against the bright sky; a few tiny figures stand farther along the pavement. The wet roadway occupies the lower third, catching a broad but subdued sheen rather than mirrorlike reflections. Light is diffuse and flat from the clouded sky, making the upper right brighter and leaving the brick face and person in deep charcoal. The photograph has a soft, slightly blurred analog grain, with tonal compression in the shadows and delicate fading toward the distance. The composition feels observational and unposed, placing the solitary human scale against a worn, nearly empty city street.",
+  "full_prompt_zh": "一幅带颗粒的黑白街头照片记录阴天浅色天空下安静的城市街角。一栋风化的三层砖屋占据左侧与中央大部，上层深色砖砌体压在街面处斑驳磨损的灰泥之上。狭长的上下推拉窗以松散网格打断立面，烟囱突出屋顶线。房屋右端一处凹入入口与浅台阶接向弧形人行道转角。下方中央附近，一位戴帽、穿深色衣服的人沿路缘行走，从背后或深影中看到，和沉重房屋相比显得很小。道路向右打开，一辆旧式汽车停在或行经路边，同样深色的街屋沿远处逐渐后退。一根细街杆立在亮天空前；更远的人行道上还有几个极小的人影。潮湿车道占据下方三分之一，形成宽而克制的光泽，而非镜面倒影。阴云带来漫射而平缓的光，使右上方更亮，并将砖面和人物留在深炭灰中。照片带有柔和、略模糊的模拟颗粒，阴影调子压缩，远处细微褪淡。构图像未经摆布的观察，把孤独的人尺度放在磨旧、近乎空旷的城市街道之中。",
+  "style_prompt_en": "The photograph has a documentary monochrome character, with soft analog grain, compressed charcoal shadows, and a pale overcast highlight field. Tonal differences rather than crisp color or sharp digital edges define depth. Weathering, stains, and slight blur form a tactile surface, while long perspective recession gives the frame quiet spatial pull. A broad low-value mass is balanced by open light space and a small dark focal silhouette. Diffuse natural illumination produces subdued wet sheen, not dramatic spotlighting. The composition is unposed, restrained, and melancholic, with modest human scale held inside a larger environmental field.",
+  "style_prompt_zh": "照片呈现纪实单色气质，带柔和模拟颗粒、压缩的炭灰暗部和苍白阴天高光场。纵深由明度差而非鲜明色彩或尖锐数码边缘建立。风化、污渍与轻微模糊形成可触表面，长距离透视后退使画面产生安静的空间牵引。宽大的低明度块面由开放亮色空间与一处小型深色焦点剪影平衡。漫射自然光制造克制的湿润光泽，而非戏剧性聚光。构图未经摆布、收敛而忧郁，较小的人尺度被容纳在更大的环境场中。",
+  "theme_en": "A solitary person crosses a wet street beside a weathered brick corner house as an old car recedes into a grey city morning, in grainy monochrome photography.",
+  "theme_zh": "一位独行者穿过潮湿街道，身旁是风化的砖砌街角老屋，一辆旧车驶向灰色城市清晨，以颗粒感单色摄影记录。",
+  "wh_ratio": "1:1",
+  "id": "1114",
+  "name": "Pennie Smith",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/pennie-smith",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/pennie-smith.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "89eb5daed636acedbb78f3bb8bf81dbabe04cd74f067777d1cf14ef2dc34dedc",
+    "gpt_submission_prompt": "A grainy black-and-white street photograph shows a quiet urban corner under a pale overcast sky. A weathered three-story brick house fills most of the left and central frame, its dark upper masonry sitting above mottled, worn plaster at street level. Narrow sash windows interrupt the façade in a loose grid, with chimney stacks breaking the roofline. At the right edge of the house, a recessed entrance and shallow steps meet a rounded pavement corner. A single dark-clad person in a hat walks near the curb in the lower middle, seen from behind or in deep shadow, appearing small beside the heavy structure. The road opens toward the right, where a vintage car sits or moves near the kerb and a row of similar dark buildings recedes into the distance. A slim street pole rises against the bright sky; a few tiny figures stand farther along the pavement. The wet roadway occupies the lower third, catching a broad but subdued sheen rather than mirrorlike reflections. Light is diffuse and flat from the clouded sky, making the upper right brighter and leaving the brick face and person in deep charcoal. The photograph has a soft, slightly blurred analog grain, with tonal compression in the shadows and delicate fading toward the distance. The composition feels observational and unposed, placing the solitary human scale against a worn, nearly empty city street.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "5b492f6b4f38d818bbf3d4a04ed67e0d3927e391e5ed9ecd918600ead7536040",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

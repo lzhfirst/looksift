@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square metaphysical oil painting looks from a deep-shadowed balcony toward a silent city of pale classical buildings under a hard blue sky. A black cat sits upright near the upper-left third on a projecting stone ledge, its small silhouette and bright eyes turned toward the viewer. Behind it, a narrow dark door and vertical masonry frame the left edge. The balcony itself occupies the lower half: a warm ochre floor catches sharp sunlight, while a simple dark railing runs horizontally across the center and turns toward the viewer at the left. Beyond it, long pale façades, repeated windows, parapets, and a tall tower recede in strong linear perspective toward the center-right. On the right, an ochre building face rises close to the frame, balancing the shadowed foreground column. Surreal clouds, rounded and clustered like sculpted puffs, hang above the empty rooftops; one seems perched on a narrow upright stalk in the distance. No people appear in the streets or terraces. Forms are rendered with clean architectural edges, smooth opaque planes, subtle stone texture, and surprisingly deep blue shadow in recesses. A low, strong sun strikes the balcony floor and cream façades from the right, leaving the left wall and undercut ledge almost black. The composition contrasts tiny living presence with grand vacant geometry, using stillness, impossible cloud shapes, and long light-dark divisions to create a watchful dream atmosphere.",
+  "full_prompt_zh": "一幅方形形而上油画从深影阳台望向硬蓝天空下寂静的浅色古典建筑之城。黑猫在左上三分之一附近端坐于突出的石台上，小小剪影与亮眼朝向观者。身后，窄暗门和竖向砌石框住左缘。阳台本身占下半幅：暖赭地面承受锐利日光，简单深色栏杆横过中央，并在左侧向观者转折。栏杆外，长排浅色立面、重复窗洞、女儿墙与高塔沿强烈线性透视退向中右。右边一面赭色建筑贴近画缘升起，与深影前景柱体平衡。超现实云团圆鼓而成簇，像雕塑绒团挂在空荡屋顶上；远方一朵仿佛栖在窄长直杆顶端。街道与平台上没有行人。形体以清楚建筑边、平滑不透明色面、细微石材肌理和凹处意外深蓝的阴影描绘。低而强的太阳从右侧照到阳台地面与奶油色外墙，使左墙和悬挑石台下方几近漆黑。构图让微小生命与宏大空旷几何相对，利用静止、不可思议的云形和长幅明暗分割营造警醒的梦境气息。",
+  "style_prompt_en": "Metaphysical oil painting arranges clean opaque planes, severe perspective, and unusually still empty space beneath a saturated sky. Use warm ochre and cream on lit surfaces against deep navy, charcoal, and cool blue recesses. A low hard light creates long decisive divisions of brightness and shadow, while subtle brush grain prevents a fully mechanical finish. Place a small precise living or symbolic accent within much larger rectilinear masses to sharpen scale and suspense. Introduce one quietly impossible form inside otherwise orderly geometry. Keep edges firm, depth extended, and incidental detail sparse, so the overall effect is sunlit, uncanny, and contemplative.",
+  "style_prompt_zh": "形而上油画在饱和天空下安排干净不透明色面、严整透视与异常安静的空白。受光表面用暖赭和奶油色，对照深海蓝、炭色及冷蓝凹影。低角度硬光形成长而明确的亮暗分界，细微笔触颗粒又避免全然机械的表面。把微小精确的生命或符号重点置于更大的直线形块之间，强化尺度与悬念。在其余有序的几何里放入一处安静而不可能的形体。边缘坚实、纵深延展、偶然细节稀少，整体效果阳光强烈、奇异且沉思。",
+  "theme_en": "A black cat on a balcony above a silent geometric city",
+  "theme_zh": "黑猫立在阳台上，俯瞰寂静的几何城市",
+  "wh_ratio": "1:1",
+  "id": "2555",
+  "name": "Giorgio de Chirico",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/giorgio-de-chirico",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/giorgio-de-chirico.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "ec3e32ef3dcc66d09044f5ae91047930ade527685597cf66a91a270fbf37b393",
+    "gpt_submission_prompt": "A square metaphysical oil painting looks from a deep-shadowed balcony toward a silent city of pale classical buildings under a hard blue sky. A black cat sits upright near the upper-left third on a projecting stone ledge, its small silhouette and bright eyes turned toward the viewer. Behind it, a narrow dark door and vertical masonry frame the left edge. The balcony itself occupies the lower half: a warm ochre floor catches sharp sunlight, while a simple dark railing runs horizontally across the center and turns toward the viewer at the left. Beyond it, long pale façades, repeated windows, parapets, and a tall tower recede in strong linear perspective toward the center-right. On the right, an ochre building face rises close to the frame, balancing the shadowed foreground column. Surreal clouds, rounded and clustered like sculpted puffs, hang above the empty rooftops; one seems perched on a narrow upright stalk in the distance. No people appear in the streets or terraces. Forms are rendered with clean architectural edges, smooth opaque planes, subtle stone texture, and surprisingly deep blue shadow in recesses. A low, strong sun strikes the balcony floor and cream façades from the right, leaving the left wall and undercut ledge almost black. The composition contrasts tiny living presence with grand vacant geometry, using stillness, impossible cloud shapes, and long light-dark divisions to create a watchful dream atmosphere.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "301f55d63acd66c370fd8891f5394de938dc4ad8b2e8eed3623a4283805611cd",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

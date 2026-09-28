@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square painterly portrait shows a dark-haired child looking directly outward from a dense surround of pale flowers and blue-gray leaves. The face occupies the center-left, framed by a short glossy black bob with straight bangs. Large dark eyes, a small nose and softly parted lips receive the clearest, warmest modeling in the image. The child wears a cream high-collared garment with dark embroidered trim and a pale patterned front. White blossoms overlap the hair at the upper left and upper right, while clusters of blue-gray leaves press in from the right and lower edges. A few warmer brown and blush-colored details are tucked deeper in the foliage, but cool desaturated petals dominate the frame. The botanical forms fill nearly every corner, creating a shallow, layered space in which some leaves sit in front of the shoulders and others disappear into shadow behind the head. Fine veins and subtle paint scuffs give the petals and leaves a soft physical surface. The face is smoother than the surrounding texture, and its warm cream and rose tones emerge against the muted cool field. Gentle frontal light lifts the cheeks and the nearest blossoms, while the outer foliage settles into deep brown-gray shade. The overall composition holds an intimate still gaze inside a dense ornamental frame, balancing delicate natural detail with quiet portrait realism.",
+  "full_prompt_zh": "一幅方形绘画肖像描绘一名黑发孩子从密集浅色花朵和蓝灰叶片间直视画外。脸占据中央偏左，短而亮的黑色齐刘海发型围住面部。大而深的眼、小鼻子和微张的唇得到画面最清楚、最温暖的塑形。孩子身穿奶油色高领衣服，领口有深色绣饰，前胸带浅色图案。白花在左上与右上叠到头发前，成簇蓝灰叶片从右侧和下缘挤入。更深处叶丛中藏着少量暖棕与腮红色细节，但冷而低饱和的花瓣主导画面。植物形体几乎填满每个角落，形成浅浅的层叠空间：一些叶子在肩前，另一些消失在头后的阴影里。细叶脉与轻微颜料擦痕赋予花瓣和叶片柔软而真实的表面。脸比周围肌理更平滑，暖奶油与玫瑰肤色从低饱和冷色场中显出。柔和正面光提亮脸颊和最近的花朵，外围叶片沉入深棕灰阴影。整体构图将亲近而静止的目光包在密集装饰框中，平衡细腻自然细节与安静肖像写实。",
+  "style_prompt_en": "A softly realistic painterly finish places a smooth warm focal area within densely layered cool ornament. Cream, pale blue-gray and muted sage dominate, while small blush and brown notes bring life to the desaturated field. Near elements receive delicate veining and crisp light edges; farther layers soften into charcoal-brown shadow and merge with one another. The brushwork is restrained on the central form but more textured and scuffed around it, giving the image a tactile depth despite the shallow space. Gentle frontal light lifts selected pale surfaces and lets the surrounding darks act as a natural vignette. Close cropping and overlapping rhythms make the composition intimate and immersive.",
+  "style_prompt_zh": "这种柔和写实绘画完成面将平滑的暖焦点置于密集层叠的冷调装饰中。奶油、浅蓝灰与低饱和鼠尾草绿为主，少量腮红与棕色音符为失彩色域带来生气。近处元素有细腻纹路与清楚亮边，远层柔入炭棕阴影并彼此融合。中心形体笔触克制，外围则更有肌理和擦痕，使浅空间仍具有可触深度。柔和正面光提亮选定浅色表面，周围深色形成自然暗角。近距离裁切与重叠节奏让构图亲密而沉浸。",
+  "theme_en": "A dark-haired child surrounded by pale flowers and blue-gray leaves",
+  "theme_zh": "被浅色花朵与蓝灰叶片环绕的黑发孩子",
+  "wh_ratio": "1:1",
+  "id": "3804",
+  "name": "Mao Hamaguchi",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/mao-hamaguchi",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "5c37e9f0876f9e43ad0d456e0dae3225a5c3354a75c27363a614752ee61afc10",
+    "gpt_submission_prompt": "A square painterly portrait shows a dark-haired child looking directly outward from a dense surround of pale flowers and blue-gray leaves. The face occupies the center-left, framed by a short glossy black bob with straight bangs. Large dark eyes, a small nose and softly parted lips receive the clearest, warmest modeling in the image. The child wears a cream high-collared garment with dark embroidered trim and a pale patterned front. White blossoms overlap the hair at the upper left and upper right, while clusters of blue-gray leaves press in from the right and lower edges. A few warmer brown and blush-colored details are tucked deeper in the foliage, but cool desaturated petals dominate the frame. The botanical forms fill nearly every corner, creating a shallow, layered space in which some leaves sit in front of the shoulders and others disappear into shadow behind the head. Fine veins and subtle paint scuffs give the petals and leaves a soft physical surface. The face is smoother than the surrounding texture, and its warm cream and rose tones emerge against the muted cool field. Gentle frontal light lifts the cheeks and the nearest blossoms, while the outer foliage settles into deep brown-gray shade. The overall composition holds an intimate still gaze inside a dense ornamental frame, balancing delicate natural detail with quiet portrait realism.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "b9f3971a5e54b2621d43ce15389d032de92b41b1ddf99974e21c077a5b724a84",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

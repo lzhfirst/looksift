@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square storybook-like digital painting shows a small solitary traveler on a deserted road near an old two-story house. The traveler has a pale rounded-square head with two dot eyes and a tiny straight mouth, a simple blue outfit and short legs. A thin trail of smoke rises from the top of the head, giving the otherwise minimal character a strangely fragile presence. An orange glowing device or small lantern sits at the figure's feet, its warmth confined to a tiny pool on the gray ground. At left, the house stands back among dark pointed trees, with weathered siding, empty windows and a modest porch. The rest of the background fades into teal fog beneath a large open sky. Spatial scale is essential: the tiny figure and house occupy the lower half while the muted misted field dominates above. Painting is softly textured, with rubbed edges, fine grain and subdued blue-green and gray tones. The little orange light is the only strong warm accent. The composition feels quiet and melancholic rather than overtly frightening. Details remain simple enough for the character to read immediately, but the atmosphere contains weather, distance and a hint of an unfinished journey. The final image combines childlike design with an adult sense of isolation.",
+  "full_prompt_zh": "一幅正方形故事书感数字绘画呈现荒凉道路上的孤身小旅人，旁边是一栋旧两层房子。旅人有浅色圆角方头、两点眼睛、一条短直嘴，穿简单蓝衣，双腿很短。头顶升起一缕细烟，使极简人物带上奇异而脆弱的存在感。脚边一只发橙光的小装置或灯，仅在灰色地面投下一小片暖色。左侧房屋退在尖瘦深色树木间，外墙风化，窗户空着，门前有小门廊。其余背景在青绿色雾里渐渐消失，上方天空宽广。空间尺度十分关键：小人物和房屋位于下半部，低饱和雾场占据上方。绘画质地柔软，边缘似被擦揉，细颗粒贯穿低调蓝绿和灰色。小橙灯是唯一明显暖色重音。构图安静而忧伤，并非直白惊吓。人物细节简单到能立刻辨认，氛围却包含天气、距离与尚未结束的旅程。最终画面把童稚形象设计和成熟的孤独感结合起来。",
+  "style_prompt_en": "The style is softly textured storybook digital painting with simplified rounded geometry, broad foggy negative space and a restrained blue-green-gray palette. Rounded forms and sparse graphic marks carry expression, while environmental surfaces receive rubbed grain, weathering and diffuse atmospheric depth. A single small warm glow punctuates otherwise cool values. The square composition relies on generous upper space and tiny lower scale accents. Childlike clarity coexists with melancholy and quiet ambiguity, avoiding glossy rendering or exaggerated menace.",
+  "style_prompt_zh": "这种风格是质地柔软的故事书式数字绘画，具有简化圆润几何、宽阔雾状留白与克制的蓝绿灰配色。圆润形状和稀疏图形标记传达情绪，环境表面则有擦揉颗粒、风化痕迹和漫射空气深度。唯一一处小暖光打破整体冷值。正方形构图依靠宽广上部空间与下方微小尺度重音。童稚的清晰度和忧伤、安静的不确定感并存，没有光亮渲染或夸张威胁。",
+  "theme_en": "A small square-headed traveler beside a lonely house",
+  "theme_zh": "孤屋旁的小小方头旅人",
+  "wh_ratio": "1:1",
+  "id": "1222",
+  "name": "Luke Chueh",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/luke-chueh",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/luke-chueh.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "bda77b95d131504d09f5d97e0b885439372b8bf31c9e57702a9244e313d9b6f8",
+    "gpt_submission_prompt": "A square storybook-like digital painting shows a small solitary traveler on a deserted road near an old two-story house. The traveler has a pale rounded-square head with two dot eyes and a tiny straight mouth, a simple blue outfit and short legs. A thin trail of smoke rises from the top of the head, giving the otherwise minimal character a strangely fragile presence. An orange glowing device or small lantern sits at the figure's feet, its warmth confined to a tiny pool on the gray ground. At left, the house stands back among dark pointed trees, with weathered siding, empty windows and a modest porch. The rest of the background fades into teal fog beneath a large open sky. Spatial scale is essential: the tiny figure and house occupy the lower half while the muted misted field dominates above. Painting is softly textured, with rubbed edges, fine grain and subdued blue-green and gray tones. The little orange light is the only strong warm accent. The composition feels quiet and melancholic rather than overtly frightening. Details remain simple enough for the character to read immediately, but the atmosphere contains weather, distance and a hint of an unfinished journey. The final image combines childlike design with an adult sense of isolation.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "16c0214086a44116c6a7026145efd5eee5068152dc508660c4ac08e0b9cdd388",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

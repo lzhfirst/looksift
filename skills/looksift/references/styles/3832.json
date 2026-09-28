@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square fantasy painting shows a dark forest of tall bare trunks framing a glowing golden arch near the center. The arch rises from the black ground like an open doorway, with an orange yellow interior that grows brightest near its base. A tiny solitary silhouette stands directly before it, making the trees and luminous opening feel immense. The lower part of the image is nearly black, while slender trunks and branches climb through teal blue and fiery red air. Behind the arch, orange and scarlet light spreads toward the right; above it, the sky cools to blue green with a small pale point of light. Speckles and faint scratched marks drift across the colored atmosphere. The trees are drawn as thin, irregular black verticals, their branches crossing the open spaces without forming a solid canopy. No detailed architecture or landscape lies beyond the arch, so the warm void remains mysterious. Light appears to pour from the central opening, edging nearby ground and lifting a narrow halo in the surrounding mist. The painterly surface has granular color and softly blended clouds, contrasted with crisp silhouetted trunks. The composition is almost symmetrical around the arch but varies in tree spacing and color on either side. The image feels hushed and enchanted, with a small dark presence paused at the threshold of a much larger luminous world.",
+  "full_prompt_zh": "这幅方形奇幻绘画呈现高高的裸树干围住中央附近一道发金光的拱门。拱门从黑地面升起，像敞开的门洞，橙黄内部在底部最亮。一个极小的孤独剪影正站在门前，使树和亮开口显得巨大。画面下部近乎纯黑，细树干和枝条穿过青蓝与火红空气向上攀升。拱门后橙与猩红光向右扩散；上方天空转冷为蓝绿，并有一个浅色小光点。斑点与淡刮痕漂浮在彩色空气中。树由不规则细黑竖线描出，枝条横过空隙，却未形成实心树冠。拱后没有详细建筑或风景，因此暖色空洞保持神秘。光似乎从中央开口流出，勾亮近处地面，并抬起周围雾中的窄光晕。绘画表面有颗粒色彩和柔和融合的云状色块，对照清脆的树干剪影。构图围绕拱门近乎对称，但两侧树距和颜色不同。图像安静而有魔力，微小暗身影停在一个更宏大明亮世界的门槛前。",
+  "style_prompt_en": "The fantasy painting layers granular teal, crimson and burnt orange atmosphere behind fine black vertical silhouettes. One central golden opening supplies the strongest light, brightening nearby haze while the lower field remains nearly black. Soft blended clouds and scattered speckles contrast with crisp branchlike lines. Repeated slender forms frame a quiet center, and slight asymmetry keeps the rhythm organic. The result is luminous, mysterious and spacious despite a dense foreground.",
+  "style_prompt_zh": "这种奇幻绘画把颗粒青绿、深红和焦橙空气层叠在细黑竖向剪影后。一处中央金色开口提供最强光，照亮附近雾气，下方色域仍近乎黑。柔和融合的云状色块与散点对照清脆分枝线。重复细形围住安静中心，轻微不对称使节奏有机。结果发亮、神秘，尽管前景密集仍有空间感。",
+  "theme_en": "A lone silhouette before a glowing arch in a dark forest",
+  "theme_zh": "暗森林中发光拱门前的孤独剪影",
+  "wh_ratio": "1:1",
+  "id": "3832",
+  "name": "Andy Kehoe",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/andy-kehoe",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "0195b6df1c75351f5273a37d5c928147e0f020cef4ae5cb40c52ec4176969fc1",
+    "gpt_submission_prompt": "A square fantasy painting shows a dark forest of tall bare trunks framing a glowing golden arch near the center. The arch rises from the black ground like an open doorway, with an orange yellow interior that grows brightest near its base. A tiny solitary silhouette stands directly before it, making the trees and luminous opening feel immense. The lower part of the image is nearly black, while slender trunks and branches climb through teal blue and fiery red air. Behind the arch, orange and scarlet light spreads toward the right; above it, the sky cools to blue green with a small pale point of light. Speckles and faint scratched marks drift across the colored atmosphere. The trees are drawn as thin, irregular black verticals, their branches crossing the open spaces without forming a solid canopy. No detailed architecture or landscape lies beyond the arch, so the warm void remains mysterious. Light appears to pour from the central opening, edging nearby ground and lifting a narrow halo in the surrounding mist. The painterly surface has granular color and softly blended clouds, contrasted with crisp silhouetted trunks. The composition is almost symmetrical around the arch but varies in tree spacing and color on either side. The image feels hushed and enchanted, with a small dark presence paused at the threshold of a much larger luminous world.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "1cb9d0ed4063edded60f3c0cec4cef93bdb1fb0f34e310643ed342dd3f06ff4f",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

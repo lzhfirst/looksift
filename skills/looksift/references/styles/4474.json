@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white photographic portrait shows a young face emerging from almost total darkness. The head is cropped close, positioned near the center, with short dark curled hair merging into the black field above. Two large eyes catch pale light and look directly at the viewer; the nose and lips are sharply defined by a narrow diagonal zone of illumination. One side of the face is bright and smooth, while the other falls into deep charcoal with only a hint of cheek contour. A thin necklace or string of pale beads descends near the lower edge of the neck. The shoulders and clothing disappear completely into the background, making the face appear suspended. The light is hard but carefully controlled, possibly from low front-left, producing crisp catchlights and sculptural contrast without a visible lamp. Silver-gelatin grain and slight softness in the darkest areas preserve the photographic surface. The background contains no identifiable room, object, or horizon. Strong tonal geometry governs the image: a luminous facial wedge, dark triangular hair mass, and black surrounding void. The expression is reserved and intense, with the fixed gaze carrying most of the drama. The image feels intimate, enigmatic, and meticulously composed through light alone.",
+  "full_prompt_zh": "一张方形黑白摄影肖像使一张年轻面庞从几乎彻底的黑暗中浮出。头部被近距离裁切，位于中央附近，短而深色的卷发融入上方黑场。两只大眼睛接住浅光，直视观看者；鼻梁与嘴唇由一条斜向狭窄亮区清楚勾出。脸的一侧明亮平滑，另一侧落入深炭灰，只剩一点面颊轮廓。细项链或浅色珠串在颈部下缘附近垂下。肩和衣物彻底消失在背景里，使脸仿佛悬置。光硬却被严格控制，似从左前下方进入，形成清楚眼中亮点与雕塑式反差，没有可见灯具。银盐颗粒和最深处轻微柔化保留摄影表面。背景没有可辨室内、物体或地平线。强烈调子几何统治图像：一片发亮面部楔形、深色三角发块与周围黑色虚空。神情克制而强烈，固定凝视承担大部分戏剧性。图像亲密、神秘，并完全靠光精密安排。",
+  "style_prompt_en": "Experimental monochrome photography with near-total black surround, a sharply controlled wedge of pale light, and luminous small catchlights. Hard tonal geometry sculpts only a few essential planes; other contours vanish into deep charcoal. Fine silver-grain softness coexists with crisp local highlights. Minimal composition and bold chiaroscuro create an enigmatic suspended presence.",
+  "style_prompt_zh": "实验性单色摄影，近乎全黑的周围区域、一束严格控制的浅色楔形光和细小发亮光点共同构成。硬调子几何只塑造少数必要平面，其余轮廓消失于深炭灰。细银盐颗粒的柔度与局部清楚高光并存。极简构图和大胆明暗对照形成神秘悬置感。",
+  "theme_en": "A pale face emerging from a black photographic field",
+  "theme_zh": "一张浅色面孔从黑色摄影场域中浮出",
+  "wh_ratio": "1:1",
+  "id": "4474",
+  "name": "Man Ray",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/man-ray.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "96df69fff6b49ec669c47efd1a46e979c3bde62f433d4e4d06f62b48279d01b8",
+    "gpt_submission_prompt": "A square black-and-white photographic portrait shows a young face emerging from almost total darkness. The head is cropped close, positioned near the center, with short dark curled hair merging into the black field above. Two large eyes catch pale light and look directly at the viewer; the nose and lips are sharply defined by a narrow diagonal zone of illumination. One side of the face is bright and smooth, while the other falls into deep charcoal with only a hint of cheek contour. A thin necklace or string of pale beads descends near the lower edge of the neck. The shoulders and clothing disappear completely into the background, making the face appear suspended. The light is hard but carefully controlled, possibly from low front-left, producing crisp catchlights and sculptural contrast without a visible lamp. Silver-gelatin grain and slight softness in the darkest areas preserve the photographic surface. The background contains no identifiable room, object, or horizon. Strong tonal geometry governs the image: a luminous facial wedge, dark triangular hair mass, and black surrounding void. The expression is reserved and intense, with the fixed gaze carrying most of the drama. The image feels intimate, enigmatic, and meticulously composed through light alone.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "f82a89fbe5f018c30899d4ef573d5a84d9ef0352d9888609deb7087b653e1959",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

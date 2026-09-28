@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white street photograph is framed by a dark window looking out across a wide river. Two children occupy the lower foreground inside the window recess. The child on the left, with loose curly hair and a dark coat, turns right in profile; the child on the right, wearing a small cap and heavy jacket, turns back toward the first while also glancing slightly toward the camera. Their faces are close enough to suggest a private conversation. Outside, the river extends through a pale foggy city scene, with a tiny boat in mid-water and distant buildings and a dome fading along the opposite bank. The window's dark vertical and horizontal bars create a strong rectangular boundary around the bright exterior view. Soft daylight from the river silhouettes the children's shoulders but still reveals their faces in delicate midtones. Interior blacks are deep; water and buildings remain light and hazy. The camera is at child height, close to the window, and the composition gives equal emotional weight to the quiet exchange and the broad public landscape beyond. Moderate grain and slight distance softness reinforce the candid film quality. No signs or readable text compete with the faces and view.",
+  "full_prompt_zh": "一张方形黑白街头照片由一扇深色窗框取景，外面是宽阔河面。两个孩子在窗内下方前景。左侧孩子卷发松散，穿深外套，向右侧身；右侧孩子戴小帽、穿厚夹克，回身看向第一个，同时稍向镜头瞥来。他们的脸靠得够近，像在进行私密对话。窗外河面延伸至淡雾城市，小船位于水中，远岸楼群与穹顶沿着对岸逐渐褪去。窗的深色竖横框条为明亮室外景色建立强矩形边界。河面柔日光使孩子肩部带剪影，却仍以细致中间调显出面孔。室内黑色深，水面与建筑浅而朦胧。相机处于儿童眼高，贴近窗，构图让安静交流与背后宽阔公共风景具有相等情感重量。适度颗粒与远处轻微柔化强化随手拍胶片质地。没有标识或可读文字与脸和风景争夺注意力。",
+  "style_prompt_en": "Humanist black-and-white candid photography with a dark rectangular interior frame around luminous hazy distance. Close midtone forms create a quiet exchange, while pale riverlike space and receding architecture remain softly observed. Window backlight, deep blacks, delicate face detail, and moderate grain build layered public-private depth without staged drama.",
+  "style_prompt_zh": "人文黑白随手拍摄影，以深色矩形室内框边环住明亮朦胧远景。靠近的中间调形体形成安静交流，浅色水域般空间与退远结构则柔和呈现。窗背光、深黑、细致面部细节及适度颗粒建立公共与私人交叠的纵深，而无摆拍戏剧性。",
+  "theme_en": "Two children looking toward each other inside a riverside window",
+  "theme_zh": "两位孩子在河边窗内相互望着",
+  "wh_ratio": "1:1",
+  "id": "4492",
+  "name": "Henri Cartier-Bresson",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/henri-cartier-bresson.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "d048cef86b287f025ebd140b9fc988f05ba2b8dd38f3236e64c57930199fa842",
+    "gpt_submission_prompt": "A square black-and-white street photograph is framed by a dark window looking out across a wide river. Two children occupy the lower foreground inside the window recess. The child on the left, with loose curly hair and a dark coat, turns right in profile; the child on the right, wearing a small cap and heavy jacket, turns back toward the first while also glancing slightly toward the camera. Their faces are close enough to suggest a private conversation. Outside, the river extends through a pale foggy city scene, with a tiny boat in mid-water and distant buildings and a dome fading along the opposite bank. The window's dark vertical and horizontal bars create a strong rectangular boundary around the bright exterior view. Soft daylight from the river silhouettes the children's shoulders but still reveals their faces in delicate midtones. Interior blacks are deep; water and buildings remain light and hazy. The camera is at child height, close to the window, and the composition gives equal emotional weight to the quiet exchange and the broad public landscape beyond. Moderate grain and slight distance softness reinforce the candid film quality. No signs or readable text compete with the faces and view.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "ec7558bedade173c7aa63dffc2527a75667f1109a7b15a64ebb2e0d23b0a427b",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square post-impressionist oil portrait shows a mustached man from the chest up, facing forward against a vibrant patterned background. His dark hair is neatly parted, and a thick black moustache spans the warm yellow-orange face. He wears a deep navy jacket over a pale blue shirt and ochre vest or tie. The background is split between a cool turquoise field on the right and a warm ochre section on the left, where curling decorative figures and repeated motifs are loosely visible. Dark outlines around the eyes, nose, beard, and lapels give the face a graphic firmness. Skin is not smoothly naturalistic: green, violet, coral, and ochre strokes mingle across brow and cheek, letting color describe form and mood at once. Short directional marks texture the jacket, while the wall carries flatter, broader fields. Light appears frontal and diffuse, so the face glows against saturated blue rather than casting a strong shadow. The head sits near center with shoulders forming a broad stable base. The patterned ground remains active but subordinate to the direct gaze. The image feels candid and painterly, combining recognizable likeness with expressive color and a decorative flattening of space. Its warm-cool tension is the main visual engine.",
+  "full_prompt_zh": "一幅方形后印象派油画肖像描绘一位有小胡子的男子胸上半身，正面立于鲜明花纹背景前。深发整齐分缝，浓黑胡须横过暖黄橙面孔。他穿深藏蓝外套，内有浅蓝衬衫和赭色背心或领带。背景分为右侧冷青绿和左侧暖赭，左边松散可见卷曲装饰人物和重复花纹。眼、鼻、胡须和翻领周围深轮廓让脸有图形般坚实感。皮肤并非平滑写实：绿、紫、珊瑚和赭笔触在眉与颊相融，让颜色同时描述形体与情绪。短定向痕给外套肌理，墙面则是较平较宽的色域。光似正面弥散，使脸在饱和蓝前发亮，而非投出强影。头靠中央，肩构成宽阔稳定底座。花纹背景活跃但从属于直视目光。画面坦率且绘画性强，把可辨相貌与表现性色彩、空间装饰性压平结合。冷暖张力是主要视觉机制。",
+  "style_prompt_en": "Post-impressionist oil painting uses expressive warm-cool color in visible directional strokes. Ochre, coral, violet, green, navy, and turquoise describe volume without strict natural color. Firm dark contours hold focal features and broad garment masses against a decorative flattened ground. Light is diffuse and frontal, making warm planes glow rather than casting theatrical shadow. Short marks enliven dark areas while larger background fields stay relatively simple. The composition is stable and close, balancing likeness with patterned surface and a restless color vibration.",
+  "style_prompt_zh": "后印象派油画以可见定向笔痕运用表现性冷暖色。赭、珊瑚、紫、绿、藏蓝和青绿不遵守严格自然色，却描述体积。坚实深轮廓把焦点特征和宽阔衣物团块固定在装饰性压平背景前。光弥散正面，使暖面发亮，而不投戏剧影。短笔痕激活暗区，较大背景色域相对简单。构图稳定贴近，在相貌、花纹表面和躁动色彩颤动间平衡。",
+  "theme_en": "A mustached man before a colorful patterned wall",
+  "theme_zh": "彩色花纹墙前的胡须男子",
+  "wh_ratio": "1:1",
+  "id": "4154",
+  "name": "Paul Gauguin",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/paul-gauguin.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "458a4ee8f779cff2efce47d0e9b6ab868d45251fb8baf6a67f83ba3220eeb772",
+    "gpt_submission_prompt": "A square post-impressionist oil portrait shows a mustached man from the chest up, facing forward against a vibrant patterned background. His dark hair is neatly parted, and a thick black moustache spans the warm yellow-orange face. He wears a deep navy jacket over a pale blue shirt and ochre vest or tie. The background is split between a cool turquoise field on the right and a warm ochre section on the left, where curling decorative figures and repeated motifs are loosely visible. Dark outlines around the eyes, nose, beard, and lapels give the face a graphic firmness. Skin is not smoothly naturalistic: green, violet, coral, and ochre strokes mingle across brow and cheek, letting color describe form and mood at once. Short directional marks texture the jacket, while the wall carries flatter, broader fields. Light appears frontal and diffuse, so the face glows against saturated blue rather than casting a strong shadow. The head sits near center with shoulders forming a broad stable base. The patterned ground remains active but subordinate to the direct gaze. The image feels candid and painterly, combining recognizable likeness with expressive color and a decorative flattening of space. Its warm-cool tension is the main visual engine.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "cfe84a7f28c9a59b693a7aeb0873dacccd0fceb6d9e1d77be9ea65530a51920f",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

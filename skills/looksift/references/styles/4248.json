@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square comic panel in black, cream, and electric turquoise frames a startled young woman in the left foreground. Her light hair is styled in glossy vintage waves; wide blue eyes look forward and one hand with dark painted nails covers her mouth. Behind her at right, a dark-haired man in suit and tie leans close, his face mostly submerged in turquoise-black shadow, eyes cast toward her. Dense foliage or an intricate patterned wall fills the background in saturated teal. A narrow black border gives the image a printed panel structure. The woman's face is the brightest region, rendered with fine black hatch and stipple around eyes, hair, and fingers; her lips and cheek are almost white paper. The man's sharp nose and brow are cut from deeper shadow with selective cyan highlights. The composition is tightly cropped, so the faces and hand overlap in an intimate dramatic triangle. Light is graphic rather than natural: cream paper and turquoise color blocks separate focal expression from threatening darkness. Small print grain and ink irregularities keep the surfaces tactile. The scene feels suspenseful and midcentury, like a moment interrupted before dialogue, with emotion carried by eyes, gesture, and proximity rather than words.",
+  "full_prompt_zh": "一幅方形黑、奶油与电青绿漫画画格在左前景框住一位受惊的年轻女子。浅发梳成光亮复古波浪，宽大蓝眼向前看，一只涂深色指甲的手遮住嘴。右后方一位深发西装领带男子凑近，脸大半沉在青黑影里，眼光转向她。饱和青绿背景充满密枝叶或繁纹墙。窄黑边给予印刷画格结构。女性脸是最亮区，眼、发、指周围以细黑排线点描塑出；嘴唇与面颊几乎留纸白。男子锐鼻与眉从深影中切出，只有部分青亮部。画面裁得紧，脸与手重叠成亲密戏剧三角。光具有图形性而非自然性：奶油纸与青绿块分开焦点表情和逼近深暗。细印刷颗粒与墨色不均保留可触表面。场景悬疑且带中世纪感，像对白之前被截住的瞬间，情绪靠眼、手势与距离而非文字传达。",
+  "style_prompt_en": "Midcentury suspense comic art with electric turquoise against stark black-and-cream ink. Tight crops, overlapping planes, exaggerated eyes, selective stipple, and dense hatching create psychological pressure. Cream paper acts as the strongest light, while cyan edge accents carve forms from dark masses. Printed grain and a thin panel border keep the image graphic and tactile.",
+  "style_prompt_zh": "中世纪悬疑漫画，以电青绿对照鲜明黑与奶油墨色。紧裁切、重叠平面、夸张眼、选择性点描和密集排线制造心理压力。奶油纸成为最强亮处，青色边缘重点从深块中切出形体。印刷颗粒与细画格边使图像图形化而可触。",
+  "theme_en": "A startled woman and shadowed man in a turquoise comic panel",
+  "theme_zh": "青绿色漫画画格中受惊女子与阴影中的男子",
+  "wh_ratio": "1:1",
+  "id": "4248",
+  "name": "Charles Burns",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/charles-burns.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "8e02d88432e62558edb0bb562b0f160c12404759e1410f1b762c051a42c75cb0",
+    "gpt_submission_prompt": "A square comic panel in black, cream, and electric turquoise frames a startled young woman in the left foreground. Her light hair is styled in glossy vintage waves; wide blue eyes look forward and one hand with dark painted nails covers her mouth. Behind her at right, a dark-haired man in suit and tie leans close, his face mostly submerged in turquoise-black shadow, eyes cast toward her. Dense foliage or an intricate patterned wall fills the background in saturated teal. A narrow black border gives the image a printed panel structure. The woman's face is the brightest region, rendered with fine black hatch and stipple around eyes, hair, and fingers; her lips and cheek are almost white paper. The man's sharp nose and brow are cut from deeper shadow with selective cyan highlights. The composition is tightly cropped, so the faces and hand overlap in an intimate dramatic triangle. Light is graphic rather than natural: cream paper and turquoise color blocks separate focal expression from threatening darkness. Small print grain and ink irregularities keep the surfaces tactile. The scene feels suspenseful and midcentury, like a moment interrupted before dialogue, with emotion carried by eyes, gesture, and proximity rather than words.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "3c505a46a6d040950c33d258d448794f8094e1947dfce66e2346d3c3d8b537ec",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

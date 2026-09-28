@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "The image is a close illustrated view of a young woman set against an almost continuous tangle of flowers and birds. Her dark hair is parted in the center and drawn back, exposing an oval face turned slightly to the side while her eyes meet the viewer. Broad planes of peach, rose, cream, and warm gray describe the cheeks and nose without smooth photographic modeling. Thin dark lines sharpen the brows, lashes, lips, and individual strands of hair. She wears a pale collared shirt and a narrow dark tie, details that remain visible through the dense foreground growth. Around her, blossoms in coral, pale pink, orange, and cream crowd the entire square. Some flowers are fully open, others appear as simplified petal silhouettes, and dark leaves overlap both face and clothing. Two black birds with vivid orange breasts punctuate the floral field, one near the upper-left edge and one lower in the frame. The background offers almost no empty space; stems and blooms weave behind and in front of the central figure. Light is represented by flat color selection rather than an identifiable lamp or sun, with warm highlights balanced by cool gray and black shapes. The drawing has crisp ink boundaries, patterned fabric-like density, and subtle hand-colored irregularity. Despite all the visual activity, the face remains the calm focal point. The frame reads like a contemporary editorial illustration in which decorative nature and restrained emotion occupy the same shallow plane.",
+  "full_prompt_zh": "画面是年轻女子的近距离插画，身后与身前几乎都被花和鸟连续包围。她的深发从中间分开并向后收起，露出略微侧转的椭圆面庞，目光却直视观者。桃色、玫瑰色、奶油色与暖灰的大块平涂形状塑造脸颊和鼻梁，而非照片般的柔滑明暗。细黑线精确勾出眉毛、睫毛、唇线和发丝。她穿浅色翻领衬衫与窄深色领带，这些细节仍可从密集前景植物间辨认。珊瑚红、浅粉、橙色和乳白花朵挤满方形画幅，有些花完全绽放，有些被简化成花瓣剪影，深色叶片交叠于面部和衣物。两只黑色、橙胸的鸟在花丛中形成鲜明节奏，一只靠近左上边缘，另一只位于较低处。背景几乎没有空白，枝茎和花在中心人物前后穿插。亮度来自平面色彩选择，而不是明确的灯或太阳；暖色亮部与冷灰和黑色块互相平衡。图像具有清脆墨线、织物纹样般的密度和轻微手工着色不规则性。尽管周围热闹，面部依旧是安静的焦点，像一幅让装饰性自然与含蓄情绪共处浅空间的当代编辑插画。",
+  "style_prompt_en": "Use contemporary hand-drawn editorial illustration with broad flat color planes, crisp dark contours, and delicate internal line details. Pack the square surface with overlapping botanical shapes and rhythmic high-saturation accents, leaving very little blank background. Balance coral, rose, peach, and orange against charcoal and cool gray. Build shallow depth through layered silhouettes instead of realistic perspective; preserve subtle unevenness in the coloring and one clear visual focal point amid the dense ornament.",
+  "style_prompt_zh": "采用当代手绘编辑插画语言，以宽阔的平涂色面、清晰深色轮廓及细致内部线条组织画面。让重叠的植物形状和有节奏的高饱和色点密布方形画幅，仅留下极少空白。以珊瑚红、玫瑰色、桃色和橙色对照炭黑与冷灰。通过层叠剪影而非写实透视建立浅纵深，在繁密装饰中保留轻微着色不均与明确视觉焦点。",
+  "theme_en": "Young woman among bright flowers and birds",
+  "theme_zh": "繁花与鸟群之间的年轻女子",
+  "wh_ratio": "1:1",
+  "id": "1212",
+  "name": "Laura Callaghan",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/laura-callaghan",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/laura-callaghan.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "0074ffb1d7bd07d3e4134864b86cc275468e0e2482603dea36d554cb73c0515a",
+    "gpt_submission_prompt": "The image is a close illustrated view of a young woman set against an almost continuous tangle of flowers and birds. Her dark hair is parted in the center and drawn back, exposing an oval face turned slightly to the side while her eyes meet the viewer. Broad planes of peach, rose, cream, and warm gray describe the cheeks and nose without smooth photographic modeling. Thin dark lines sharpen the brows, lashes, lips, and individual strands of hair. She wears a pale collared shirt and a narrow dark tie, details that remain visible through the dense foreground growth. Around her, blossoms in coral, pale pink, orange, and cream crowd the entire square. Some flowers are fully open, others appear as simplified petal silhouettes, and dark leaves overlap both face and clothing. Two black birds with vivid orange breasts punctuate the floral field, one near the upper-left edge and one lower in the frame. The background offers almost no empty space; stems and blooms weave behind and in front of the central figure. Light is represented by flat color selection rather than an identifiable lamp or sun, with warm highlights balanced by cool gray and black shapes. The drawing has crisp ink boundaries, patterned fabric-like density, and subtle hand-colored irregularity. Despite all the visual activity, the face remains the calm focal point. The frame reads like a contemporary editorial illustration in which decorative nature and restrained emotion occupy the same shallow plane.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "2af39877bb0e73661838e7efbe9648ca210b39ca026be60a61a16e5be0407bf2",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

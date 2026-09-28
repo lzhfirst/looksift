@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "The painting shows an elderly man in close three-quarter profile, leaning forward over a stone ledge as he writes with a quill. His face turns toward the left, the deeply furrowed brow and intent eye concentrating on the page just outside the lower edge. Thick white curls frame the forehead, and a full white beard rolls over his chest in meticulously lit strands. He wears a rich emerald-green robe edged with gold embroidery and a pale inner collar. Behind his right shoulder, a large golden-brown eagle presses into the composition, its hooked beak and layered feathers visible beside the man's hair. To the left, the scene opens onto a cool turquoise sky and a distant domed classical building. A carved column and warm stone structures keep the setting grand but compressed. The foreground ledge bears small lines of script and a few objects connected with writing; the man's hand and quill point toward this area. Dramatic warm light strikes forehead, curls, beard, and brocade, while the background and lower robe sink into deeper brown and green shadow. The brushwork is controlled and rich in fine texture, particularly in hair, feathers, and gold thread. The square crop brings the scholar, eagle, and architectural glimpse close together, creating a dense symbolic image. The mood is solemn and learned, with baroque theatricality anchored by the ordinary, careful action of writing.",
+  "full_prompt_zh": "油画描绘一位年长男子的近距离四分之三侧影，他俯向石台，用羽毛笔书写。面朝左侧，深皱眉头和专注目光落在画面下缘外的书页上。厚密白卷发围住额头，丰厚白胡须以细密受光的发束铺向胸前。他穿华贵祖母绿长袍，边缘饰金色刺绣，内衬浅色领口。右肩后方，一只金棕色大鹰挤进构图，钩喙和叠层羽片紧邻男子头发。左侧向冷青天空敞开，可见远处带圆顶的古典建筑。雕刻柱子与暖色石构使场所显得宏伟却压缩。前景石台上有细小文字与几件书写物，男子手和羽笔指向这里。戏剧性暖光打在额头、卷发、胡须和锦缎上，背景与下方衣袍则沉入较深棕绿阴影。笔触受控，发丝、羽毛和金线尤其富于细节。方形裁切把学者、鹰和建筑一角拉近，形成密集的象征性图像。气氛庄严且充满学识，巴洛克式舞台感由普通却专注的书写动作稳定下来。",
+  "style_prompt_en": "Use richly detailed Baroque oil painting with sculptural warm light, deep brown-green shadow, and controlled fine brushwork. Contrast luminous ivory highlights with emerald, antique gold, turquoise, and umber. Render tactile curls, feather-like layers, embroidered edges, and carved surfaces with careful texture while keeping the overall grouping compact. Let a small cool background opening relieve the dense foreground. Favor dramatic chiaroscuro and a solemn, learned mood across the square frame.",
+  "style_prompt_zh": "采用细节丰厚的巴洛克油画，以雕塑般暖光、深棕绿阴影和受控细笔塑造表面。让发亮象牙白对照祖母绿、古金色、冷青和赭棕。以耐心肌理刻画卷曲形体、羽片般层次、刺绣边缘及雕刻表面，同时保持整体组合紧凑。用一小处冷色背景开口缓解密集前景。方形画幅偏向戏剧性明暗对照与庄严、充满学识的氛围。",
+  "theme_en": "Elder scholar writing beside an eagle",
+  "theme_zh": "雄鹰旁执笔的年长学者",
+  "wh_ratio": "1:1",
+  "id": "1799",
+  "name": "Giovanni Battista Venanzi",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/giovanni-battista-venanzi",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/giovanni-battista-venanzi.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "6fb0bfd3c44a8eaf31e72df1b5b7b69f54a7ceb7068ef5648f823c9456d19091",
+    "gpt_submission_prompt": "The painting shows an elderly man in close three-quarter profile, leaning forward over a stone ledge as he writes with a quill. His face turns toward the left, the deeply furrowed brow and intent eye concentrating on the page just outside the lower edge. Thick white curls frame the forehead, and a full white beard rolls over his chest in meticulously lit strands. He wears a rich emerald-green robe edged with gold embroidery and a pale inner collar. Behind his right shoulder, a large golden-brown eagle presses into the composition, its hooked beak and layered feathers visible beside the man's hair. To the left, the scene opens onto a cool turquoise sky and a distant domed classical building. A carved column and warm stone structures keep the setting grand but compressed. The foreground ledge bears small lines of script and a few objects connected with writing; the man's hand and quill point toward this area. Dramatic warm light strikes forehead, curls, beard, and brocade, while the background and lower robe sink into deeper brown and green shadow. The brushwork is controlled and rich in fine texture, particularly in hair, feathers, and gold thread. The square crop brings the scholar, eagle, and architectural glimpse close together, creating a dense symbolic image. The mood is solemn and learned, with baroque theatricality anchored by the ordinary, careful action of writing.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "5dfa56d1da487b59d49692eb7fd7e79b47ec27ca3811f2cf3d5bc2b902d048ff",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square, hand-rendered fantasy illustration presents two peculiar travelers seated side by side on a low bench beside a quiet shoreline. The left figure is short and compact, with an animal-like face, large round goggles, a rumpled rust-colored coat, and hands gathered over its knees. Beside it sits a much taller long-faced companion in a dark blue coat and pointed yellow cone hat, holding a narrow staff and a small vessel. Their luggage, a canteen, and tiny odd objects collect around their feet, while a low strip of pale water separates the ocher ground from the distant horizon. Heavy banks of rounded slate-blue clouds fill much of the upper half. The figures have exaggerated profiles and a slightly mournful, deadpan manner rather than animated action. Fine engraved marks and crosshatched scratches articulate cloth, faces, clouds, and sandy surface. Soft orange browns and honey yellows glow against subdued marine blues, with no hard digital gloss. The image balances the two seated silhouettes against a broad, calmly layered sky, keeping small peripheral details subordinate to the unusual pair. Light remains diffuse and overcast, letting the dense, tactile line work carry shape, weight, and quiet narrative tension.",
+  "full_prompt_zh": "一幅方形手绘奇幻插画描绘两位古怪旅人并肩坐在静静的海岸长椅上。左边的人物矮小敦实，有动物般的面孔、大圆护目镜、皱褶的锈红色外套，双手收在膝头。旁边高挑的同伴面容狭长，穿深蓝外套，戴尖尖的黄色锥形帽，手持细杖与小杯。行李、水壶和一些奇异的小物件堆在脚边；一条浅色水面把赭黄的地面与远方地平线隔开。上半幅充满圆厚的石板蓝云层。人物轮廓夸张，神情略带忧郁而冷幽默，并无激烈动作。细密的刻线与交叉排线塑造布料、面孔、云和沙地的纹理。柔和的橙褐与蜂蜜黄在压低的海蓝色中显得温暖，没有数码表面的硬亮感。画面以并坐的两个剪影和宽阔、平稳分层的天空取得平衡，周围的小细节服从于这对人物。漫射的阴天光线让密实、可触的线条承担形体、重量和安静的叙事张力。",
+  "style_prompt_en": "A tactile, storybook-like illustration built from fine etched contours and dense but controlled crosshatching. Elongated, slightly grotesque silhouettes carry deadpan expression through profile and posture. Rust, ocher, muted yellow, and slate blue form a weathered palette; diffuse light keeps transitions gentle. Rounded cloud masses and horizontal bands create calm depth behind the figures. Paper grain and visible scratching remain integral to the surfaces, while small secondary marks add curiosity without breaking the broad compositional balance.",
+  "style_prompt_zh": "带有可触纸感的故事书式插画，由纤细的刻线轮廓与密而有序的交叉排线构成。拉长、略显怪诞的剪影借侧面和姿态传达冷幽默。锈红、赭黄、灰黄与石板蓝形成风化般的配色，漫射光让明暗过渡柔和。圆厚的云形与水平色带在主体背后建立安静的纵深。纸纹和可见的刮擦痕迹成为表面的一部分，零星次要细节增添趣味而不破坏整体构图平衡。",
+  "theme_en": "Two peculiar travelers waiting on a seaside bench",
+  "theme_zh": "两位古怪旅人坐在海边长椅上等待",
+  "wh_ratio": "1:1",
+  "id": "0848",
+  "name": "Steve Bell",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/steve-bell",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/steve-bell.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "6510fb6ea72aceb01d7664e8bdd589219eab85810a27e739ba510e3166690fdd",
+    "gpt_submission_prompt": "A square, hand-rendered fantasy illustration presents two peculiar travelers seated side by side on a low bench beside a quiet shoreline. The left figure is short and compact, with an animal-like face, large round goggles, a rumpled rust-colored coat, and hands gathered over its knees. Beside it sits a much taller long-faced companion in a dark blue coat and pointed yellow cone hat, holding a narrow staff and a small vessel. Their luggage, a canteen, and tiny odd objects collect around their feet, while a low strip of pale water separates the ocher ground from the distant horizon. Heavy banks of rounded slate-blue clouds fill much of the upper half. The figures have exaggerated profiles and a slightly mournful, deadpan manner rather than animated action. Fine engraved marks and crosshatched scratches articulate cloth, faces, clouds, and sandy surface. Soft orange browns and honey yellows glow against subdued marine blues, with no hard digital gloss. The image balances the two seated silhouettes against a broad, calmly layered sky, keeping small peripheral details subordinate to the unusual pair. Light remains diffuse and overcast, letting the dense, tactile line work carry shape, weight, and quiet narrative tension.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "030b654ebc4d07337095cd4b360e85e88a59309ca20c0000594946cbd082a534",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square decorative painting shows a lone woman standing on a rocky edge beside a still pond at dusk. She is placed to the right of center, in profile facing left, her head lowered beneath a broad dark hat. A long deep teal dress with puffed shoulders narrows at the waist and opens over a warm ochre skirt that reaches her shoes. One hand rests near her hip, and the other is held close to the front of the skirt. Tall dark reeds rise between her and the water, their thin vertical stems interrupting the wide pale disk of the moon or low sun behind them. Across the pond, low slate-blue hills stretch horizontally under a warm beige sky. Lily pads and small orange flowers drift in the lower left, while pale blossoms cluster near the rocks at her feet. Her dress and the nearest reeds reflect in the green-gray surface, the mirrored shapes wavering gently but remaining recognizable. The drawing uses clean, flattened outlines and broad calm areas of muted color, with delicate linear detail reserved for grasses and flowers. Light is soft and low, silhouetting the figure against the pale sky and giving the water a quiet reflective sheen. The overall composition balances one tall still form against horizontal water and distant hills, creating a poised, wistful atmosphere.",
+  "full_prompt_zh": "一幅方形装饰绘画描绘一位女子在暮色中独立于静池边的岩石上。她在中央偏右，以侧面朝左，头在宽大深色帽下微低。深青色长裙有蓬起肩部、收窄腰身，敞在延至鞋面的暖赭色内裙之上。一只手靠近髋部，另一只收在裙前。高而深的芦苇立在她与水面之间，纤细竖茎切过后方一轮宽大的浅色月亮或低日。池塘对岸，低矮板岩蓝山丘在暖米色天空下横向延伸。睡莲叶与小橙花漂在左下，浅色花朵聚在她脚边岩石附近。裙子和近处芦苇倒映在灰绿水面，镜像轻轻晃动却仍可辨。绘画用干净压平的轮廓与宽阔宁静的低饱和色域，纤细线性细节仅留给草和花。光线柔和而低，令人物在浅天空前成为剪影，也赋予水面安静反光。整体构图以一个高而静止的形体平衡横向的水与远山，气氛端庄而怅然。",
+  "style_prompt_en": "The decorative painted style relies on long elegant silhouettes, quiet horizontal bands and carefully spaced fine lines. Large fields of beige, slate blue and deep teal are kept matte and muted, with warm ochre and small pale accents preventing stillness from becoming flat. Edges are clean but gently softened by grain, while narrow linear details concentrate around transitions between broad shapes. Reflections repeat vertical forms in a dimmer, wavering register, strengthening the calm symmetry. Soft low light separates dark masses from a luminous pale field without hard cast shadows. Generous negative space and restrained ornament give the composition a poised, contemplative rhythm.",
+  "style_prompt_zh": "这种装饰绘画依靠修长优雅的剪影、安静横向色带和经过安排的细线。大片米色、板岩蓝与深青色保持哑光低饱和，暖赭与少量浅色重音让静态画面不变平。边缘干净，却被颗粒轻轻柔化；窄细线条集中在宽形之间的过渡处。倒影以更暗、更摇曳的方式重复竖形，加强宁静的对称感。柔和低位光无需硬投影，便把深色团块从发亮浅色场中分开。宽裕负空间与克制装饰赋予构图端庄而沉思的节奏。",
+  "theme_en": "A woman in a long dark dress beside a still pond at dusk",
+  "theme_zh": "暮色中身穿深色长裙立于静池边的女子",
+  "wh_ratio": "1:1",
+  "id": "3801",
+  "name": "Marjorie Miller",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/marjorie-miller",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "dd394505668c3e37cf9845d96163b38f0e56541fb991da547b7e3f5eace4bb30",
+    "gpt_submission_prompt": "A square decorative painting shows a lone woman standing on a rocky edge beside a still pond at dusk. She is placed to the right of center, in profile facing left, her head lowered beneath a broad dark hat. A long deep teal dress with puffed shoulders narrows at the waist and opens over a warm ochre skirt that reaches her shoes. One hand rests near her hip, and the other is held close to the front of the skirt. Tall dark reeds rise between her and the water, their thin vertical stems interrupting the wide pale disk of the moon or low sun behind them. Across the pond, low slate-blue hills stretch horizontally under a warm beige sky. Lily pads and small orange flowers drift in the lower left, while pale blossoms cluster near the rocks at her feet. Her dress and the nearest reeds reflect in the green-gray surface, the mirrored shapes wavering gently but remaining recognizable. The drawing uses clean, flattened outlines and broad calm areas of muted color, with delicate linear detail reserved for grasses and flowers. Light is soft and low, silhouetting the figure against the pale sky and giving the water a quiet reflective sheen. The overall composition balances one tall still form against horizontal water and distant hills, creating a poised, wistful atmosphere.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "9a02f96f82e53631909a1c065d8a6a21a1611a632d4d63e135098cc2c711a164",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

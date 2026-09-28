@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square impressionist oil painting shows a woman in a pale dress and broad straw hat seated on a flowered grassy bluff above the sea. The horizon runs across the middle of the scene, separating a soft blue-green sky with scattered pale clouds from a deep teal ocean. The woman sits just left of center, her body turned toward the right and her face seen in profile beneath the shadow of the wide hat brim. Her cream dress gathers in loose folds over the slope, catching warm sunlight on the shoulders and lap while cooler shadows settle between the creases. One arm rests near her knees, and her quiet posture directs attention toward the open water. Around her, grasses and small cream, yellow, and pink blossoms fill the foreground with short, broken brush marks. To the right of her skirt, rocky ground descends toward a small inlet, where white foam touches the dark shore. A thin distant headland interrupts the ocean line at far left, giving scale to the broad view. The paint is visibly worked rather than smooth: foliage is built from brisk dabs, water from overlapping horizontal strokes, and the sky from softer blended passages. Sunlight comes from the upper left, brightening the hat, dress, and flower tops while leaving the rock faces and sea deeper in tone. No text or built structure appears in the chosen image. The overall composition balances the seated pale figure and richly textured slope against the spacious horizontal sea, creating a warm, reflective coastal calm.",
+  "full_prompt_zh": "这幅方形印象派油画描绘一名穿浅色长裙、戴宽草帽的女子，坐在开满花的草坡上，俯望大海。地平线横贯画面中部，将带有零星浅云的柔和蓝绿色天空与深蓝绿色海面分开。女子坐在中央偏左处，身体朝右，脸庞在宽帽檐阴影下呈侧面。奶油色长裙以松散褶皱铺在斜坡上，肩部和膝上接住暖阳，较冷阴影落在衣褶之间。一只手臂靠近膝部，安静姿态把注意引向开阔水域。她周围，草茎及细小奶油、黄、粉色花朵用短促破碎的笔痕铺满前景。裙摆右侧，岩石地面下降到小海湾，白色浪花触及深色岸边。远左处一条细远岬打断海平线，为宽阔视野提供尺度。颜料明显经过笔触加工，而非平滑：植被由明快点画构成，水面由重叠水平笔触构成，天空则用较柔和的融合色层。阳光从左上方照来，照亮帽子、裙子和花顶，让岩面与海水保持较深色调。所选图中没有文字或建筑。整体构图用坐着的浅色人物和肌理丰富的斜坡平衡宽阔水平海面，营造温暖、沉思的海岸宁静。",
+  "style_prompt_en": "Impressionist oil painting uses broken, visible brush dabs to join light, color, and surface texture. Pale cream and yellow highlights sit against rich teal, olive, and blue-green, with small rose accents enlivening lower passages. Softer blended areas open behind briskly textured foreground masses, establishing depth through changes in mark size and edge clarity. Warm sunlight lifts upper planes while cool colored shadows remain within folds and recesses. The composition balances a textured near area with spacious horizontal color bands, giving the scene a gentle, reflective brightness.",
+  "style_prompt_zh": "印象派油画以破碎可见的点状笔触连接光、色彩与表面肌理。浅奶油色和黄色亮部对照浓郁蓝绿、橄榄绿与青绿，小面积玫瑰色让下方区域更鲜活。柔和融合的远处区域展开在明快而有肌理的近处色团后，通过笔痕大小和边缘清晰度变化建立纵深。暖阳抬亮朝上的平面，冷调彩色阴影保留在褶皱与凹处。构图以有纹理的近景平衡宽阔水平色带，带来温和、沉思的明亮感。",
+  "theme_en": "A woman in a pale dress and straw hat seated above the sea",
+  "theme_zh": "一位身穿浅色长裙、戴草帽的女子坐在海边高地",
+  "wh_ratio": "1:1",
+  "id": "2362",
+  "name": "Charles Courtney Curran",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/charles-courtney-curran",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/charles-courtney-curran.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "c1e658bc4441518144232d22e98342e862d6a433c7671dd6ac392f6d76ba6523",
+    "gpt_submission_prompt": "A square impressionist oil painting shows a woman in a pale dress and broad straw hat seated on a flowered grassy bluff above the sea. The horizon runs across the middle of the scene, separating a soft blue-green sky with scattered pale clouds from a deep teal ocean. The woman sits just left of center, her body turned toward the right and her face seen in profile beneath the shadow of the wide hat brim. Her cream dress gathers in loose folds over the slope, catching warm sunlight on the shoulders and lap while cooler shadows settle between the creases. One arm rests near her knees, and her quiet posture directs attention toward the open water. Around her, grasses and small cream, yellow, and pink blossoms fill the foreground with short, broken brush marks. To the right of her skirt, rocky ground descends toward a small inlet, where white foam touches the dark shore. A thin distant headland interrupts the ocean line at far left, giving scale to the broad view. The paint is visibly worked rather than smooth: foliage is built from brisk dabs, water from overlapping horizontal strokes, and the sky from softer blended passages. Sunlight comes from the upper left, brightening the hat, dress, and flower tops while leaving the rock faces and sea deeper in tone. No text or built structure appears in the chosen image. The overall composition balances the seated pale figure and richly textured slope against the spacious horizontal sea, creating a warm, reflective coastal calm.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "57fecb228cc12e2efc6f7bb24cab3cb2d6307f2df5fcb4497587d92c80260469",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

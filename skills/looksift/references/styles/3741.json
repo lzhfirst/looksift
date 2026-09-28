@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square sun-drenched oil painting views a crowded beach from an elevated angle, with blue water filling the left half and golden sand curving away along the right. The shoreline snakes from the lower left toward a distant pier at the upper middle, edged by a loose white line of small breaking waves. Near the lower center, several bathers stand at the wet margin, their bodies simplified into warm peach and muted blue strokes. Long dark blue shadows stretch diagonally down the sand from their feet. More tiny figures paddle or wade in the shallow water, while clusters of walkers and seated people continue up the beach. On the upper and right sides, red, orange, cream, and pale blue parasols create repeated round accents above chairs and belongings. A white cliff or wall rises beyond the right edge of the sand, and a yellow building peeks from the upper-right corner. Farther away, a pier and boats interrupt the blue sea. Paint is applied in brisk, visible patches: turquoise and cobalt flecks across the water, creamy white at the wave edge, and ochre-yellow planes on the beach. Strong high sunlight makes the sand almost luminous and throws crisp elongated shadows toward the viewer. The composition leads along the curved shore through a scattered rhythm of small people and umbrellas, capturing the bright, busy ease of a seaside afternoon.",
+  "full_prompt_zh": "一幅方形日光充足的油画从高处俯看拥挤海滩，蓝水占左半，金黄沙地沿右侧弯向远方。海岸线从左下蜿蜒到上方中央的远栈桥，边上是一条松散的小碎浪白线。下部中央附近，几名游人在湿沙边站着，身体简化为暖桃和低饱和蓝笔触。长长深蓝影从脚下斜向沙地底端。更多细小人影在浅水中戏水或涉水，步行与坐着的人群沿海滩向上延续。上方和右侧，红、橙、奶油及浅蓝遮阳伞在椅子和随身物上方形成重复圆重点。沙地右侧之后升起白色悬崖或墙面，黄色建筑从右上角露出。更远处，栈桥和船只打断蓝海。颜料以快速可见色斑施加：水上是绿松石与钴蓝碎点，浪边是奶油白，沙滩是赭黄平面。强烈高日光使沙地近乎发亮，并朝观者方向投下清楚拉长的影。构图沿弯岸穿过散布的小人和伞的节奏，捕捉海滨午后明亮繁忙的轻松。",
+  "style_prompt_en": "Sunlit oil painting uses brisk, visible patches of saturated cool color against broad warm planes. A sweeping boundary between two large color fields can organize many small scattered accents without losing clarity. Use high light to make pale surfaces glow and cast long sharply readable blue-violet shadows. Reduce distant people and objects to confident colored strokes, while near accents gain just enough shape to hold scale. Repeat small round and upright notes across the middle distance for lively rhythm. Broken white edge marks and flecked reflections keep the surface moving. The transferable effect is bright, communal, and energetically observed.",
+  "style_prompt_zh": "日照油画以快速可见的饱和冷色斑点，对照宽阔暖色平面。两大色场之间一条扫过的边界能组织众多散落小重点，仍保持清楚。强光让浅表面发亮，投下长而可读的蓝紫影。远处人与物简化为果断彩笔，近处重点稍有形状以撑住尺度。中景重复小圆形和竖向笔记形成活跃节奏。破碎白边线与碎反光保持表面运动。可迁移效果明亮、有人群感且观察笔触充满活力。",
+  "theme_en": "A busy sunny beach seen from above with bathers and parasols",
+  "theme_zh": "高处俯瞰阳光海滩，游人和遮阳伞散布其间",
+  "wh_ratio": "1:1",
+  "id": "3741",
+  "name": "Andrew Macara",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/andrew-macara",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "dad86f2794f38bc8292cd5130965ae6c4c972cec5b73ed847a2727152ea8fc16",
+    "gpt_submission_prompt": "A square sun-drenched oil painting views a crowded beach from an elevated angle, with blue water filling the left half and golden sand curving away along the right. The shoreline snakes from the lower left toward a distant pier at the upper middle, edged by a loose white line of small breaking waves. Near the lower center, several bathers stand at the wet margin, their bodies simplified into warm peach and muted blue strokes. Long dark blue shadows stretch diagonally down the sand from their feet. More tiny figures paddle or wade in the shallow water, while clusters of walkers and seated people continue up the beach. On the upper and right sides, red, orange, cream, and pale blue parasols create repeated round accents above chairs and belongings. A white cliff or wall rises beyond the right edge of the sand, and a yellow building peeks from the upper-right corner. Farther away, a pier and boats interrupt the blue sea. Paint is applied in brisk, visible patches: turquoise and cobalt flecks across the water, creamy white at the wave edge, and ochre-yellow planes on the beach. Strong high sunlight makes the sand almost luminous and throws crisp elongated shadows toward the viewer. The composition leads along the curved shore through a scattered rhythm of small people and umbrellas, capturing the bright, busy ease of a seaside afternoon.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "81ef185fc2db15ff1b26f7672025e79d071555a91e1353435993c47d9764beba",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

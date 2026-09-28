@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square Cubist painting compresses three overlapping female faces into a close arrangement of vertical planes, circles, and diagonal wedges. The central face occupies most of the frame, looking forward with one vivid blue eye and one darker amber eye set at slightly different heights. A pale yellow strip makes the nose, orange-red lips sit low at center, and cheek planes shift between ochre, blue-gray, plum, and deep teal. At the left edge, a narrower face turns in profile toward the center, its long nose and one turquoise eye visible against an orange-brown field. At the right edge, a third face peeks out from behind a dark geometric fan, one pale green eye and a pink cheek half concealed. Layered rounded hat-like forms and sweeping triangular rays cross the upper third. Below, overlapping slate, violet, mustard, and muted green shapes imply collars or shoulders without describing a single continuous body. The whole image is filled to the edges except for thin off-white margins. Pigment has a dry grainy surface rather than glossy flat digital color, and crisp divisions hold the facets together. Light is constructed through juxtaposed warm yellow and cool blue planes rather than one realistic source; shadows are deep teal and violet blocks. The composition is nearly frontal yet deliberately fractured, with repeated eyes and partial profiles giving the figures a watchful, enigmatic rhythm.",
+  "full_prompt_zh": "一幅方形立体主义绘画把三张相叠的女性面孔压进竖向平面、圆形与斜楔构成的近景排列。中央面孔占画面大部，正面望出，一只鲜蓝眼和另一只深琥珀眼高低略错。浅黄色窄条形成鼻梁，橙红嘴唇落在中央下方，面颊平面在赭黄、蓝灰、李紫与深青绿之间转换。左缘更窄的侧面朝向中央，长鼻和一只绿松石眼在橙棕场前可见。右缘第三张脸从深几何扇形后探出，一只浅绿眼与粉色脸颊半被遮住。层叠圆形帽状块和扫开的三角光芒横过上三分之一。下方，石板灰、紫、芥末黄与低饱和绿相叠，暗示领口或肩膀，却不描出一具连续身体。整幅几乎填到边缘，仅留细米白边。颜料呈干颗粒表面，而非光泽平滑数字色，清楚分界将切面连在一起。光由暖黄和冷蓝平面的并置构成，而非单一写实光源；影子是深青与紫色块。构图近乎正面却刻意破碎，重复眼睛和局部侧脸形成警醒而神秘的节奏。",
+  "style_prompt_en": "Cubist painting compresses multiple viewpoints into crisp interlocking planes and repeated focal details. Use vertical slices, rounded arcs, and diagonal fan shapes to fracture forms while preserving enough alignment for recognition. Set muted jewel colors—teal, plum, cobalt, ochre, rose, and blue-gray—in warm-cool opposition, with dark blocks serving as shadows. Keep the surface dry and finely grainy rather than slick. Nearly fill the frame, allowing only narrow margins, and let repeated eyes or equivalent small anchors create rhythm across the facets. Light emerges from adjacent color values instead of naturalistic shading. The transferable effect is watchful, layered, and enigmatic.",
+  "style_prompt_zh": "立体主义绘画把多个视点压进清楚相扣的平面与重复焦点细节。用竖切片、圆弧和斜扇形拆解形体，同时保留足够对齐关系供辨认。低饱和宝石色——青绿、李紫、钴蓝、赭黄、玫瑰和蓝灰——冷暖相对，深色块充当阴影。表面干涩细颗粒，而非光滑。画面几乎填满，只留窄边；重复眼睛或同等小锚点在切面间形成节奏。光从邻接色值浮现，而非自然写实阴影。可迁移效果警醒、层叠且神秘。",
+  "theme_en": "Three overlapping geometric faces in a muted jewel palette",
+  "theme_zh": "三张相叠几何面孔，配色如低饱和宝石",
+  "wh_ratio": "1:1",
+  "id": "3752",
+  "name": "Alice Bailly",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/alice-bailly",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "ee7f428465c58a411d6c061d25220f6ae23f51473ca7c798bbe567433914ed06",
+    "gpt_submission_prompt": "A square Cubist painting compresses three overlapping female faces into a close arrangement of vertical planes, circles, and diagonal wedges. The central face occupies most of the frame, looking forward with one vivid blue eye and one darker amber eye set at slightly different heights. A pale yellow strip makes the nose, orange-red lips sit low at center, and cheek planes shift between ochre, blue-gray, plum, and deep teal. At the left edge, a narrower face turns in profile toward the center, its long nose and one turquoise eye visible against an orange-brown field. At the right edge, a third face peeks out from behind a dark geometric fan, one pale green eye and a pink cheek half concealed. Layered rounded hat-like forms and sweeping triangular rays cross the upper third. Below, overlapping slate, violet, mustard, and muted green shapes imply collars or shoulders without describing a single continuous body. The whole image is filled to the edges except for thin off-white margins. Pigment has a dry grainy surface rather than glossy flat digital color, and crisp divisions hold the facets together. Light is constructed through juxtaposed warm yellow and cool blue planes rather than one realistic source; shadows are deep teal and violet blocks. The composition is nearly frontal yet deliberately fractured, with repeated eyes and partial profiles giving the figures a watchful, enigmatic rhythm.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "e637fc0a74c44d30f217a94c80d015232500e7fc0d74dd98d55df7e1c60e4033",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

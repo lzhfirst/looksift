@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square geometric portrait shows a man in a suit and tie from the chest upward, looking slightly toward the right and above the viewer. His face, neck and clothing are assembled from hundreds of angular translucent and opaque facets rather than smooth brush modeling. Cream, pale blue and warm peach planes describe the lit cheek and forehead; indigo, violet and deep teal facets define the neck, jacket and shaded jaw. Small orange, red and yellow triangles sharpen the tie, collar and selected facial planes. The background is mostly very pale gray with large low-contrast polygons radiating away from the figure, giving the silhouette room to remain legible. The man's expression is firm and contemplative, carried by the arrangement of brow, nose and mouth fragments despite the abstracted surface. Facets vary in size: very small ones resolve the eye and lips, while larger blocks structure shoulders and empty space. Their edges meet crisply but a slight printed grain prevents an overly sterile vector effect. Light is implied by color placement rather than a conventional shadow gradient. The result combines portrait presence with a stained-glass-like tessellation, allowing the viewer to shift between recognition of a person and appreciation of the chromatic geometry that builds him.",
+  "full_prompt_zh": "一幅正方形几何肖像呈现一位穿西装打领带的男子，画面截至胸部以上，他略向右上方看。面孔、颈部与衣服由数百块有透明感或不透明的角形切面拼合，而非平滑笔触塑形。乳白、浅蓝和暖桃色平面描述受光脸颊与额头；靛蓝、紫和深青切面定义颈部、西装和背光下颌。少量橙、红、黄色三角形突出领带、衣领及特定面部转折。背景大部分为极浅灰，低反差大多边形从人物周围放射出去，给剪影保留清晰空间。人物神情坚定而沉思，虽然表面抽象，眉、鼻、嘴碎片的排列仍传达表情。切面大小变化明显：小碎片解析眼与唇，大色块构成肩膀与空白空间。边线相接利落，轻微印刷颗粒阻止它变成过于无菌的矢量效果。光线由颜色安排暗示，而非传统阴影渐变。作品把肖像存在感与近似彩色玻璃的镶嵌结合，观者可以在辨认人物和欣赏构成人物的色彩几何之间切换。",
+  "style_prompt_en": "The style is low-poly geometric portrait illustration with crisp angular tessellation, variable facet scale and controlled color-plane lighting. Translucent and opaque polygons in cream, peach, pale blue, teal, indigo and violet build dimensionality, punctuated by small warm accents. Fine facets concentrate around high-information areas; broad facets organize larger masses and pale negative space. Edges stay sharp, with a trace of print grain to soften digital perfection. The square frame balances recognizable form with abstract chromatic rhythm.",
+  "style_prompt_zh": "这种风格是低多边形几何肖像插画，具有清晰角形镶嵌、变化的切面尺度及受控色面光照。乳白、桃、浅蓝、青绿、靛蓝和紫色的透明与不透明多边形建立体积，少量暖色重音穿插其间。细小切面集中在信息量高的区域，宽阔切面组织大体块与浅色留白。边线锋利，微量印刷颗粒柔化数字完美感。正方形画幅在可辨形体与抽象色彩节奏之间平衡。",
+  "theme_en": "A formal portrait assembled from colored geometric facets",
+  "theme_zh": "由彩色几何切面拼合的正式肖像",
+  "wh_ratio": "1:1",
+  "id": "1277",
+  "name": "Liam Brazier",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/liam-brazier",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/liam-brazier.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "f5709ee2b8eeef789ef0d6d018525badf847f72619b4788ef64feae75a630646",
+    "gpt_submission_prompt": "A square geometric portrait shows a man in a suit and tie from the chest upward, looking slightly toward the right and above the viewer. His face, neck and clothing are assembled from hundreds of angular translucent and opaque facets rather than smooth brush modeling. Cream, pale blue and warm peach planes describe the lit cheek and forehead; indigo, violet and deep teal facets define the neck, jacket and shaded jaw. Small orange, red and yellow triangles sharpen the tie, collar and selected facial planes. The background is mostly very pale gray with large low-contrast polygons radiating away from the figure, giving the silhouette room to remain legible. The man's expression is firm and contemplative, carried by the arrangement of brow, nose and mouth fragments despite the abstracted surface. Facets vary in size: very small ones resolve the eye and lips, while larger blocks structure shoulders and empty space. Their edges meet crisply but a slight printed grain prevents an overly sterile vector effect. Light is implied by color placement rather than a conventional shadow gradient. The result combines portrait presence with a stained-glass-like tessellation, allowing the viewer to shift between recognition of a person and appreciation of the chromatic geometry that builds him.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "43fda151bb5988fb76b4b05f8f5132d72796d19a22dafa1f385c5e03dcb9d4ba",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

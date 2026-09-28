@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square archival black-and-white photograph looks through a marked train or bus window at a middle-aged woman seated inside. She faces forward with a stern, searching expression, her head and shoulders centered behind the glass. A dark coat and small earrings are visible, while dim seats and the carriage interior fade behind her. Scratches, droplets, and cloudy reflections on the pane lie between the viewer and the face, making the image feel observed from outside rather than posed. A bright horizontal metal window bar crosses the lower third and anchors the composition. Light from the right side softly illuminates one half of her face, leaving the other in layered gray shadow. The black-and-white values are rich but not glossy: deep charcoal hair and coat, pale skin, silvery window glare, and grainy midtones. The narrow frame compresses the space around her and intensifies the direct gaze. Slight blur in the glass contrasts with the relative clarity of the eyes. The whole photograph feels candid and emotionally charged, as though it caught a private moment during travel. Its force comes from separation by glass, human expression, and worn photographic texture rather than elaborate staging.",
+  "full_prompt_zh": "一幅方形档案黑白照片隔着留痕的火车或公交窗，望向车内坐着的一位中年女子。她正面看过来，神情严肃而探寻，头肩位于玻璃之后的中央。深色外套和小耳饰仍可辨认，暗淡座位和车厢内部在身后退去。窗玻璃上的刮痕、水滴和浑浊反射位于观者与面孔之间，使影像像从车外被观察到，而非摆拍。明亮的水平金属窗框横过下三分之一，稳住构图。右侧光线柔和地照亮半张脸，另一半落在层叠灰影中。黑白明度丰富却不油亮：深炭色头发与外套、浅色皮肤、银亮玻璃眩光和颗粒中灰。窄小画框压缩她周围空间，使直接目光更强烈。玻璃的轻微模糊与眼睛的相对清晰形成对照。整幅照片像旅行途中偶然捕捉的私人瞬间，带有抓拍感和情绪强度。力量来自玻璃的隔离、人的神情和磨旧照片肌理，而非繁复布景。",
+  "style_prompt_en": "An archival black-and-white photographic style frames a clear human-scale focal point through a scratched or reflective transparent layer. Deep charcoal, pale skin-like highlights, silvery glare, and grainy middle tones give the image a rich but unpolished range. A horizontal structural line can stabilize the lower frame, while reflections and droplets complicate the view above it. Side light catches one portion of the focal form, allowing the opposite side to settle into layered gray shadow. Slight optical softness on the intervening surface contrasts with sharper details behind it. The mood is candid, compressed, and emotionally searching, with visible film texture and no theatrical polish.",
+  "style_prompt_zh": "档案式黑白摄影风格透过刮花或反光的透明层框住清楚的人物尺度焦点。深炭黑、浅色皮肤般高光、银亮眩光和颗粒中灰组成丰富却未经抛光的明度范围。一道水平结构线稳住画面下部，反射与水滴使其上方的视线复杂化。侧光照亮焦点形态的一部分，另一侧落入层叠灰影。中间表面的轻微光学柔化与后方较清晰的细节对照。气氛抓拍、压缩、带着探寻情绪，胶片肌理可见，没有戏剧性抛光。",
+  "theme_en": "A stern woman seen through a rain-marked train window in archival black-and-white",
+  "theme_zh": "透过留有雨痕的列车窗，看到一位神情严肃的女子",
+  "wh_ratio": "1:1",
+  "id": "4432",
+  "name": "Vivian Maier",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/vivian-maier.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "c213c2b40808f54a0184ad2a36398818a699a19fffc9e13cf6a48be0bd15130e",
+    "gpt_submission_prompt": "A square archival black-and-white photograph looks through a marked train or bus window at a middle-aged woman seated inside. She faces forward with a stern, searching expression, her head and shoulders centered behind the glass. A dark coat and small earrings are visible, while dim seats and the carriage interior fade behind her. Scratches, droplets, and cloudy reflections on the pane lie between the viewer and the face, making the image feel observed from outside rather than posed. A bright horizontal metal window bar crosses the lower third and anchors the composition. Light from the right side softly illuminates one half of her face, leaving the other in layered gray shadow. The black-and-white values are rich but not glossy: deep charcoal hair and coat, pale skin, silvery window glare, and grainy midtones. The narrow frame compresses the space around her and intensifies the direct gaze. Slight blur in the glass contrasts with the relative clarity of the eyes. The whole photograph feels candid and emotionally charged, as though it caught a private moment during travel. Its force comes from separation by glass, human expression, and worn photographic texture rather than elaborate staging.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "8888d729539dcb5ef7e2ad87732ae3401de78c5a2e23299ebf76038b26b58fde",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A tender children's book illustration shows a small white-and-brown rabbit in a faded red cape speaking to a much larger brown rabbit at the entrance of a cottage. The older rabbit sits upright at left, long ears tilted and paws held near its chest, looking down toward the little visitor. The smaller rabbit stands near a cream wall and yellow curtain at right, gazing up while the red cape lifts slightly behind it. A wooden door, brass handle, pale plaster, floorboards, and soft drapery establish a simple domestic setting. The two figures face one another across a small open space, making their exchange the clear center. Their fur is drawn with many delicate brown pen strokes, especially along the ears, chest, and paws. Transparent watercolor washes soften the outlines in tawny brown, warm cream, gray, and restrained rose-red. The background is lightly described, leaving broad pale paper areas around the figures. Daylight is gentle and diffuse, warming the floor and faces without casting heavy shadows. Details such as whiskers, garment folds, wood grain, and the door handle reward close attention, but they do not crowd the composition. Scale difference makes the large rabbit protective and the small one earnest. The image feels quiet, affectionate, and narrative, like a single pause in a familiar bedtime story.",
+  "full_prompt_zh": "一幅温柔儿童绘本插画呈现披褪红斗篷的小白棕兔在小屋门口与大得多的棕兔说话。年长兔在左侧直坐，长耳倾斜，前爪靠胸，低头望向小访客。小兔站在右边奶油墙和黄帘旁，抬头看，红斗篷在身后微微扬起。木门、铜把、浅灰泥、地板和软垂布建立简单居家环境。两者隔小块开放空间相向，使交流成为清楚中心。毛由许多纤细棕色钢笔短笔画出，耳、胸与爪处尤密。透明水彩罩染以黄棕、暖奶油、灰和克制玫瑰红柔化轮廓。背景轻描，人物周围留下宽阔浅纸区域。日光温和漫散，暖地板和脸，却不投重影。胡须、衣褶、木纹和门把等细节值得近看，却不挤塞构图。尺度差让大兔显保护，小兔显认真。图像安静、亲切且有叙事性，像熟悉睡前故事中的一刻停顿。",
+  "style_prompt_en": "Gentle children's book illustration combines fine brown pen lines with thin transparent watercolor on warm paper. Numerous short directional strokes describe soft fibers and small material textures, while pale background planes stay lightly outlined and spacious. Tawny brown, warm cream, gray, faded yellow, and a single muted red accent form a quiet palette. Diffuse daylight gives objects soft warmth and only light ground shadows. An intimate pair of differently scaled shapes can face each other across a narrow open interval, keeping the narrative legible without action effects. Edges are precise around expressive details and looser in drapery or wall texture. Visible paper and uneven washes preserve a handmade feel. The rhythm alternates delicate clustered marks with calm blank areas. The result is affectionate, modest, and storybook-like, with tenderness conveyed by gaze, scale, and careful tactile drawing.",
+  "style_prompt_zh": "温柔儿童绘本插画把细棕钢笔线与暖纸上的薄透明水彩结合。众多定向短笔描出柔软纤维和小材质纹理，浅背景平面则轻描且宽敞。黄棕、暖奶油、灰、褪黄和一处暗红强调构成安静配色。漫射日光给予物件柔暖，仅留下轻地面影。不同尺度的一对亲密形可隔窄开放间隔相望，无需动作效果也让叙事可读。表情细节周围边缘精确，帘或墙纹则较松。可见纸面和不均罩染保留手工感。节奏在纤细簇集笔痕与平静空区间交替。结果亲切、朴素且像故事书，温柔由目光、尺度和细心可触绘画传达。",
+  "theme_en": "A young rabbit in a red cape speaks to an older rabbit by the cottage door",
+  "theme_zh": "披红斗篷的小兔在小屋门边与年长兔说话",
+  "wh_ratio": "1:1",
+  "id": "0919",
+  "name": "Anita Jeram",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/anita-jeram",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/anita-jeram.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "02a5aeb0a37433490d00b7d2b04cff665ddc8543fba9aa069cb895605bb1ea7d",
+    "gpt_submission_prompt": "A tender children's book illustration shows a small white-and-brown rabbit in a faded red cape speaking to a much larger brown rabbit at the entrance of a cottage. The older rabbit sits upright at left, long ears tilted and paws held near its chest, looking down toward the little visitor. The smaller rabbit stands near a cream wall and yellow curtain at right, gazing up while the red cape lifts slightly behind it. A wooden door, brass handle, pale plaster, floorboards, and soft drapery establish a simple domestic setting. The two figures face one another across a small open space, making their exchange the clear center. Their fur is drawn with many delicate brown pen strokes, especially along the ears, chest, and paws. Transparent watercolor washes soften the outlines in tawny brown, warm cream, gray, and restrained rose-red. The background is lightly described, leaving broad pale paper areas around the figures. Daylight is gentle and diffuse, warming the floor and faces without casting heavy shadows. Details such as whiskers, garment folds, wood grain, and the door handle reward close attention, but they do not crowd the composition. Scale difference makes the large rabbit protective and the small one earnest. The image feels quiet, affectionate, and narrative, like a single pause in a familiar bedtime story.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "fc78f8debe560c30f561a4f5b25314507f7d16abf249517310ff3318a38cf33e",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

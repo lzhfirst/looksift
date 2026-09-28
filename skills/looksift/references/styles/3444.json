@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A dramatic painted-comic scene shows a man in a bright red shirt crouching low on a slanted grassy ledge. He braces one hand on the ground and looks toward the right, with dark trousers, a dark cap, and a pale face picked out by light. A large boulder rises immediately behind him, and a thick tree trunk frames the right edge. Beyond the rock, jagged green cliffs catch an eerie pale light against a deep blue night. Dark branching trees and mottled foliage fade into the left background, where tiny light specks punctuate the sky. The picture uses assertive black ink contours and short hatched marks around the figure, rock cracks, roots, and grass. Opaque painted color sits in bold areas: scarlet red on the shirt, acid yellow-green on the ledge, emerald on the cliffs, ultramarine and black in the distance, and violet-brown in the roots. Light strikes from the upper right and turns the cliff faces luminous while the foreground tree and left woods remain in heavy shadow. The slope runs diagonally upward toward the bright rocks, pushing the crouched figure into a tense triangular arrangement. Rough brush texture and broken highlights keep the surface active without obscuring the strong silhouette.",
+  "full_prompt_zh": "一幅戏剧性的彩绘漫画画面中，身穿鲜红上衣的男子低低蹲伏在倾斜草坡上。他一手撑地，朝右边望去；深色裤子、深色帽子以及被光挑出的浅色面孔可见。身后紧贴着一块大岩石，粗树干沿右边缘立起。岩石后方，锯齿般绿崖在深蓝夜色前接住怪异浅光。深色分枝树木和斑驳叶影退入左侧背景，天空有细小亮点。画面用有力的黑墨轮廓及短排线描出人物、岩缝、树根与草。厚实的绘画色块鲜明：上衣朱红，草坡酸黄绿，峭壁祖母绿，远处群青与黑，树根紫褐。光从右上照来，让崖面发亮，前景大树与左边林地留在重影里。坡线斜向上通往亮岩，把蹲伏人物推入紧张的三角布局。粗糙笔触与破碎亮痕使表面活跃，同时保留强烈剪影。",
+  "style_prompt_en": "A painted-comic surface combines heavy black contour drawing with short hatching and opaque, boldly separated color areas. Deep ultramarine and black mass across the distance; acidic yellow-green and emerald catch directional light, while a small scarlet accent anchors the near plane. Rough brush texture and broken pale marks articulate irregular surfaces. Light enters from one upper side, making exposed planes glow and leaving adjacent trees or enclosing masses almost black. Diagonal ground and jagged background edges build a tense triangular movement through the frame. Near forms are sharply outlined, but distant texture condenses into dark patterned patches. The space has clear foreground, middle rocklike mass, and far luminous layer, held together by strong value contrast. The eye jumps from the warm near accent to the bright cool planes and then into blue-black recesses.",
+  "style_prompt_zh": "彩绘漫画表面结合厚重黑色轮廓、短排线和不透明的鲜明分色块。深群青与黑色聚成远处大块；酸黄绿和祖母绿接住方向光，一小处朱红压住近景。粗糙笔触和断裂的浅色记号刻出不规则表面。光从上方一侧进入，使外露平面发亮，相邻树影或围合色块几乎黑透。斜地面和锯齿状远边在画幅中构成紧张三角动势。近处形体有清楚描边，远处纹理凝成暗色花纹片。前景、中间岩状团块与远方发光层次分明，由强明度反差连在一起。视线从近处暖色点跳到明亮冷色面，再进入蓝黑深处。",
+  "theme_en": "A red-clad explorer crouched among moonlit rocks and trees",
+  "theme_zh": "月夜岩石与树木间蹲伏的红衣探索者",
+  "wh_ratio": "1:1",
+  "id": "3444",
+  "name": "Wally Wood",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/wally-wood",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "2f294f9aa5947bc906c9b475bc9685982fa8547bd220b1ee4476b03be4096b0f",
+    "gpt_submission_prompt": "A dramatic painted-comic scene shows a man in a bright red shirt crouching low on a slanted grassy ledge. He braces one hand on the ground and looks toward the right, with dark trousers, a dark cap, and a pale face picked out by light. A large boulder rises immediately behind him, and a thick tree trunk frames the right edge. Beyond the rock, jagged green cliffs catch an eerie pale light against a deep blue night. Dark branching trees and mottled foliage fade into the left background, where tiny light specks punctuate the sky. The picture uses assertive black ink contours and short hatched marks around the figure, rock cracks, roots, and grass. Opaque painted color sits in bold areas: scarlet red on the shirt, acid yellow-green on the ledge, emerald on the cliffs, ultramarine and black in the distance, and violet-brown in the roots. Light strikes from the upper right and turns the cliff faces luminous while the foreground tree and left woods remain in heavy shadow. The slope runs diagonally upward toward the bright rocks, pushing the crouched figure into a tense triangular arrangement. Rough brush texture and broken highlights keep the surface active without obscuring the strong silhouette.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "499701956f39d2328779f95ac4d53ca3c0a2a302fcd7a1ed729f4cfb852ab5a9",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

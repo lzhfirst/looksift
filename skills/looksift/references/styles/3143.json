@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A vast science-fiction seascape stretches from a dark rocky shore to a glowing sunset. Two tiny travelers stand near the waterline in the lower center, their silhouettes separated by a narrow strip of reflected gold. Across the bay, a tall spired structure rises on a low island at left. An enormous hazy planet hangs behind it, while a small dark craft or island breaks the far right horizon. The sky is layered with deep blue storm cloud, lilac shadow, streaks of orange, and a bright low sun. Horizontal bands of surf guide the eye toward the immense scale of the distance.\n\nThe image is a detailed atmospheric painting, with fine architectural marks held inside broader, softly blended sky and water. Cool cobalt and slate blue occupy much of the frame, meeting peach, copper, rose, and molten gold at the horizon. Light glances along the wet sand and ruffled wave edges; the foreground rock remains nearly black and textured. The great circular planet is deliberately soft and partly absorbed into the sky, a quiet shape rather than a hard graphic emblem. Minute people and a low horizon give the sky visual dominance. The mood combines wonder with solitude, and the painterly surface retains visible small strokes in cloud and water. No readable lettering appears in the selected scene.",
+  "full_prompt_zh": "一幅辽阔的科幻海景，从深色岩岸延伸到发亮的日落。两名极小的旅者站在画面下方中央的水线附近，两道剪影之间隔着一道窄窄的金色反光。海湾对面，左侧低岛上升起高耸的尖塔建筑。它后方悬着一颗朦胧的巨大星球，右侧遥远地平线被一个小小的深色飞行物或岛影打断。天空分层铺开深蓝色风云、淡紫阴影、橙色条纹和低处明亮的太阳。横向的浪带把视线引向远方巨大的尺度。\n\n图像是细节丰富的气氛绘画：精细建筑笔迹收在更宽、更柔和晕合的天空和海水之中。钴蓝与石板蓝占据大半画幅，在地平线处遇到桃色、铜橙、玫红和熔金色。光掠过湿沙和起伏浪缘；前景岩石近乎黑色，仍保留纹理。巨大的圆形星球有意画得柔和，部分融入天空，是安静的形状而非生硬标志。人物微小，低位地平线使天空成为画面主角。情绪兼有惊奇与孤独，云和水中保留可见的细小笔触。所选场景没有可辨认文字。",
+  "style_prompt_en": "An expansive atmospheric painting sets fine, intricate marks against broad blended fields of cobalt, slate, lilac, peach, copper, and gold. A low horizontal division leaves generous room for layered clouds and a vast hazy circular form. Thin bands of reflected light repeat across a dark lower field, drawing depth toward the bright horizon. Near-black textured masses anchor one corner, and tiny crisp silhouettes emphasize scale. Edges vary deliberately: detailed spires and wavelets coexist with diffuse planetary and cloud boundaries. The surface retains small directional strokes within soft transitions. The effect is contemplative and monumental, combining luminous sunset color with deep cool shadow and a strong sense of open distance.",
+  "style_prompt_zh": "辽阔的气氛绘画，让细密精巧的笔迹置于钴蓝、石板蓝、淡紫、桃色、铜橙和金色的大块晕合区域之间。较低的水平分界为分层云团和巨大的朦胧圆形留下宽阔空间。细窄的反射光带在深色下方区域不断重复，将深度引向发亮的地平线。近黑而有纹理的块面压住一角，微小清晰的剪影强调尺度。边缘刻意变化：细致的尖形与波纹，同弥散的圆形和云界并存。柔和过渡中仍保留有方向的细小笔触。效果沉思而宏大，以明亮日落色对照深冷阴影，形成强烈的开阔距离感。",
+  "theme_en": "Two travelers at sunset before an immense alien world",
+  "theme_zh": "两名旅者在巨大异星前看日落",
+  "wh_ratio": "1:1",
+  "id": "3143",
+  "name": "Chris Moore",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/chris-moore",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "aa0ca69c1213d955228a0e68b4b246b744e99bdeb29fd31f193b6294e73dee48",
+    "gpt_submission_prompt": "A vast science-fiction seascape stretches from a dark rocky shore to a glowing sunset. Two tiny travelers stand near the waterline in the lower center, their silhouettes separated by a narrow strip of reflected gold. Across the bay, a tall spired structure rises on a low island at left. An enormous hazy planet hangs behind it, while a small dark craft or island breaks the far right horizon. The sky is layered with deep blue storm cloud, lilac shadow, streaks of orange, and a bright low sun. Horizontal bands of surf guide the eye toward the immense scale of the distance.\n\nThe image is a detailed atmospheric painting, with fine architectural marks held inside broader, softly blended sky and water. Cool cobalt and slate blue occupy much of the frame, meeting peach, copper, rose, and molten gold at the horizon. Light glances along the wet sand and ruffled wave edges; the foreground rock remains nearly black and textured. The great circular planet is deliberately soft and partly absorbed into the sky, a quiet shape rather than a hard graphic emblem. Minute people and a low horizon give the sky visual dominance. The mood combines wonder with solitude, and the painterly surface retains visible small strokes in cloud and water. No readable lettering appears in the selected scene.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "7e2df8b0de2faf7a7e9dcd3e773b945320ab2befaadefc99117de13ab4e2cd4e",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

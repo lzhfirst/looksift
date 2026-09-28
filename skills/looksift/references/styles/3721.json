@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A detailed oil painting in a luminous, romantic realist manner shows one red-haired woman seated beside a rough stone wall. The view is close and nearly square, enclosing her bent figure from the top of her hair to the dark green folds spread across the lower edge. Behind her, a deep shadow opens at upper left, with a small vertical structure barely emerging there; uneven ochre and grey stones rise at the right, touched by small clusters of greenery near the top. The woman occupies most of the frame. Her long copper-red hair falls back over her shoulder, while shorter curls frame her forehead. She leans forward with her eyes closed, her cheek resting on one hand and her elbow supported by her knee. Her other arm folds across her body. A rust-red, finely patterned sleeve meets a dark green overdress edged with narrow gold trim, and the deep green skirt gathers in broad, weighty folds over her lap. At the lower left, a small round vessel holds several bright, partly visible pieces of fruit. Warm light from the upper right catches her forehead, cheek, hair, and the projecting faces of the stones, leaving the recess behind her nearly black. Fine strands, patterned fabric, and individual stone edges remain crisp near her face, while the lower folds merge into broad dark color. The enclosed composition and amber, russet, and green palette create a quiet mood of inward rest.",
+  "full_prompt_zh": "这是一幅细节丰富、带有明亮浪漫气息的写实油画：一位红发女子坐在粗糙的石墙旁。取景紧凑、接近方形，从她的发顶一直包入下缘铺开的深绿色衣褶。她身后左上方是一处深暗的空间，其中仅隐约显出一段竖向结构；右侧高低不平的赭黄与灰色石块向上延伸，顶部附近有几簇绿叶。女子占据画面的大部分。她长长的铜红色头发向后垂过肩膀，额前有较短的卷发。她闭着眼向前倾，脸颊靠在一只手上，手肘由膝盖支撑，另一只手臂则横在身前。带细密纹样的锈红色袖子与镶有窄金边的深绿外裙相接，深绿色裙摆在膝上聚成宽大而沉重的褶皱。左下角，一个小圆容器里放着几枚色彩明亮、只露出一部分的水果。来自右上方的暖光照亮她的额头、脸颊、头发以及突出的石面，而她身后的凹处几乎沉入黑色。面庞附近的发丝、织物花纹和石块边缘刻画得清晰，较低处的衣褶则合入宽阔的深色色块。封闭的构图与琥珀、赭红、深绿的色调，使画面带着安静而内向的休憩气息。",
+  "style_prompt_en": "Luminous oil painting layers fine, precise drawing over rich, deep color. Warm copper and amber light gathers on a compact focal area, set against near-black recesses and dense green and russet masses. Small patterned marks and irregular hard edges give nearby surfaces a tactile, carefully observed quality; broad dark folds and softened transitions quiet the lower portions. Overlapping shapes enclose the space tightly, while a few bright accents prevent the shadow from becoming uniform. The contrast between minute surface detail and large saturated color fields lends the composition a contemplative, romantic intensity.",
+  "style_prompt_zh": "明亮的油画在浓郁深色之上叠加精细而准确的描绘。暖铜色与琥珀色的光聚集在紧凑的视觉焦点，与近黑色凹处以及浓深的绿色、赭红色块相对。细小的纹样笔痕和不规则的硬边，让近处表面具有可触摸的细致观察感；宽阔的深色褶状色块和柔和过渡则使画面下部安静下来。互相重叠的形状紧密围合空间，少数亮色点缀使阴影不至于单一。微小的表面细节与大片饱和色域之间的对照，赋予构图沉思而浪漫的强度。",
+  "theme_en": "Red-haired woman resting beside a stone wall",
+  "theme_zh": "倚着石墙休憩的红发女子",
+  "wh_ratio": "1:1",
+  "id": "3721",
+  "name": "Arthur Hughes",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/arthur-hughes",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "79a7f7920abd1da00b53feaaaac28804e5dda725369559972d9e53f91bf7140e",
+    "gpt_submission_prompt": "A detailed oil painting in a luminous, romantic realist manner shows one red-haired woman seated beside a rough stone wall. The view is close and nearly square, enclosing her bent figure from the top of her hair to the dark green folds spread across the lower edge. Behind her, a deep shadow opens at upper left, with a small vertical structure barely emerging there; uneven ochre and grey stones rise at the right, touched by small clusters of greenery near the top. The woman occupies most of the frame. Her long copper-red hair falls back over her shoulder, while shorter curls frame her forehead. She leans forward with her eyes closed, her cheek resting on one hand and her elbow supported by her knee. Her other arm folds across her body. A rust-red, finely patterned sleeve meets a dark green overdress edged with narrow gold trim, and the deep green skirt gathers in broad, weighty folds over her lap. At the lower left, a small round vessel holds several bright, partly visible pieces of fruit. Warm light from the upper right catches her forehead, cheek, hair, and the projecting faces of the stones, leaving the recess behind her nearly black. Fine strands, patterned fabric, and individual stone edges remain crisp near her face, while the lower folds merge into broad dark color. The enclosed composition and amber, russet, and green palette create a quiet mood of inward rest.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "a355ceec7f7d51c4ca5c0111051007f8ebaf85871c39e30f49fd18bd01b9ea8c",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

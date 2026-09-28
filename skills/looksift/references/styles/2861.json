@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A black-and-white photograph follows a narrow dirt path beneath a large roadside tree. The trunk rises dark and heavy on the right, and a low canopy spreads across the upper frame. Broken sunlight filters through leaves and lands in irregular pale patches along the path and grassy margins. The trail starts broad in the shaded foreground, bends gently past shrubs, and recedes toward a small bright opening at the center distance. Dense grass and bushes line both sides; their fine stems and leaves form a rough silvery texture against deeper black foliage. A faint low structure is partly visible at the far left, mostly hidden by vegetation. The scene has strong tonal separation: almost black shade under the near tree, luminous whites in the far opening and sunlit leaves, and many granular mid-greys across the ground. Film grain, slight softness in the distance, and irregular high-contrast leaf marks give the photograph a tactile surface. The low viewpoint makes the winding path the principal guide into space. Dark branches create an overhead enclosure, while the lit gap beyond gives the eye a clear destination. The whole image balances dense near shadow with a narrow release into daylight.",
+  "full_prompt_zh": "一幅黑白照片沿着大树下的狭窄土路向前看。树干在右侧深暗而厚重地升起，低垂树冠铺过画面上缘。破碎日光穿过叶隙，在路面和草边落下不规则浅色斑。小径从前景宽阔阴影处开始，经过灌木轻轻弯曲，退向中央远处一个小而明亮的开口。两边长着浓密草和灌丛，细茎细叶在更深黑色植物前形成粗糙银灰纹理。左边远处隐约有一处低矮结构，大半被植物遮住。画面明暗分隔强烈：近树下几乎黑色的荫影、远处开口和受光叶片的亮白，以及地面上大量颗粒中灰。胶片颗粒、远处轻微柔化和不规则高反差叶纹，让照片有可触的表面。低视点让蜿蜒小径成为通入空间的主要引线。深色枝条在上方形成围合，外面的亮缝给视线一个明确去处。整幅图在密集近景阴影与狭窄的日光出口之间保持平衡。",
+  "style_prompt_en": "A grainy monochrome photograph builds depth with a winding light-grey strip that narrows into a bright distant gap. Deep black masses occupy the near sides and upper edge, while irregular pale flecks scatter across a rough middle-value ground. Fine branching marks and textured foliage weave into a dense canopy overhead. Sunlight arrives in broken patches, producing rapid local alternations of light and dark rather than an even wash. Nearby edges are comparatively strong and granular; distant forms become softer and more compressed. The palette is purely tonal, spanning charcoal, silver grey, and small white highlights. The composition alternates enclosed dark foreground with an open luminous center, and the eye follows the curved path through repeated dappled marks toward that light.",
+  "style_prompt_zh": "有颗粒感的单色照片以一条蜿蜒的浅灰色带建立纵深，它逐渐收窄并通往远处亮缝。深黑团块占据近处两侧和上缘，不规则浅色碎斑散在中灰的粗糙地面上。细分枝记号与有纹理的叶层交织成头顶浓密顶盖。阳光以破碎斑块进入，局部明暗迅速交替，而非均匀照亮。近处边缘相对强而颗粒明显；远处形状更柔、更紧凑。色域完全由明度构成，从炭黑、银灰到少量白色高光。构图让围合的暗前景与开放的发光中心交替，视线沿弯路穿过重复的斑驳亮点，走向那处光。",
+  "theme_en": "A black-and-white footpath passing under a large tree",
+  "theme_zh": "大树浓荫下延伸的黑白小径",
+  "wh_ratio": "1:1",
+  "id": "2861",
+  "name": "Fomapan 400",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/fomapan-400",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/fomapan-400.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "3b2f5350ef33765c63c76cd626f3b8a0072ae54a87086baeddea0c8ab129fda0",
+    "gpt_submission_prompt": "A black-and-white photograph follows a narrow dirt path beneath a large roadside tree. The trunk rises dark and heavy on the right, and a low canopy spreads across the upper frame. Broken sunlight filters through leaves and lands in irregular pale patches along the path and grassy margins. The trail starts broad in the shaded foreground, bends gently past shrubs, and recedes toward a small bright opening at the center distance. Dense grass and bushes line both sides; their fine stems and leaves form a rough silvery texture against deeper black foliage. A faint low structure is partly visible at the far left, mostly hidden by vegetation. The scene has strong tonal separation: almost black shade under the near tree, luminous whites in the far opening and sunlit leaves, and many granular mid-greys across the ground. Film grain, slight softness in the distance, and irregular high-contrast leaf marks give the photograph a tactile surface. The low viewpoint makes the winding path the principal guide into space. Dark branches create an overhead enclosure, while the lit gap beyond gives the eye a clear destination. The whole image balances dense near shadow with a narrow release into daylight.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "67ec17b5caeefda8e03b3f300e3294502192dc314b05eb8f8bf487e6bbfee854",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

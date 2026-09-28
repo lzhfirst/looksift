@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A richly layered color photograph or photographic artwork shows a dense stand of wildflowers at the edge of a dark woodland. Thin stems rise from a shadowed floor across the whole square frame, carrying small blossoms in cream, amber, red, and bright pink. Some flowers are clear enough to show petals and centers, while others float as soft color spots at different depths. Tall gray-brown tree trunks recede behind the flowers into bluish darkness, giving the busy foreground a quiet vertical structure. Low leaves and scattered petals fill the bottom edge, where the earth is nearly black. Light appears to enter from the upper left, catching selected blossoms and creating tiny luminous flecks against the deep background; it does not evenly illuminate the scene. The image feels suspended between a real garden and an almost painterly visual field. Fine stems, glancing petal highlights, grain, and shadowed undergrowth remain tactile, but the softer flowers and floating points of light prevent rigid botanical precision. The palette is dark olive, charcoal, blue-gray, and warm brown, animated by concentrated pink, gold, and ivory accents. There is no central bouquet; the eye moves through a woven network of little blooms and stems, with depth created by overlapping planes and alternating sharp and blurred details. The overall mood is lush, mysterious, and quietly luminous.",
+  "full_prompt_zh": "一幅层次丰厚的彩色照片或摄影艺术图像，表现深暗林地边缘密集生长的野花。细茎从阴影中的地面升起，遍及整个正方形画框，托着奶油色、琥珀色、红色和亮粉色的小花。有些花清晰到能看到花瓣和花心，另一些则在不同纵深中化成柔软色点。高高的灰褐树干在花朵后方退入蓝色暗影，给繁忙的前景提供安静的竖向结构。低矮叶片与散落花瓣填满底边，泥地几乎是黑色。光似乎从左上方进入，抓住选定的花朵，在深背景前制造微小发亮斑点；它没有均匀照亮场景。图像悬在真实花园与近乎绘画的视觉色场之间。细茎、花瓣上的掠光、颗粒和暗处灌木仍有触感，较柔的花与漂浮光点却避免了僵硬的植物学精确。配色是深橄榄、炭黑、蓝灰和暖棕，由集中的粉、金与象牙白点缀活跃起来。没有中心花束；目光穿过小花与茎编成的网络，纵深由重叠平面和清晰、模糊细节交替建立。整体繁盛、神秘而安静地发亮。",
+  "style_prompt_en": "Layered color photography with a dark painterly atmosphere and a dense weave of fine vertical lines. Small luminous cream, pink, amber, and red accents punctuate olive, charcoal, blue-gray, and warm brown shadow. Select details are crisp, while others soften into floating color and grain at different depths. Light enters unevenly from one side, touching isolated highlights rather than washing the whole field. The lower edge stays deep and tactile; taller forms recede into cool darkness. Overlap, scale, and alternating focus create depth without a single dominant center. The mood is lush, mysterious, and quietly glowing.",
+  "style_prompt_zh": "层叠彩色摄影风格，空气偏深且有绘画感，纤细竖线织成密网。奶油白、粉、琥珀和红色的微小亮点点破橄榄、炭黑、蓝灰与暖棕阴影。部分细节清楚，另一些在不同纵深中柔化为漂浮色点和颗粒。光从一侧不均匀地进入，只触碰孤立亮部，而不洗亮整个色场。下缘保持深暗且可触；较高形态退入冷色黑暗。重叠、尺度与焦点交替制造纵深，不设单一主导中心。气氛繁盛、神秘而安静发亮。",
+  "theme_en": "A dense woodland of small flowers glowing in dark air",
+  "theme_zh": "深暗林间密集小花在空气中发亮",
+  "wh_ratio": "1:1",
+  "id": "1136",
+  "name": "Ori Gersht",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/ori-gersht",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/ori-gersht.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "71ab9954d7920c4a6fa97158a84345559419efadcb66eb329cb46eb09b475014",
+    "gpt_submission_prompt": "A richly layered color photograph or photographic artwork shows a dense stand of wildflowers at the edge of a dark woodland. Thin stems rise from a shadowed floor across the whole square frame, carrying small blossoms in cream, amber, red, and bright pink. Some flowers are clear enough to show petals and centers, while others float as soft color spots at different depths. Tall gray-brown tree trunks recede behind the flowers into bluish darkness, giving the busy foreground a quiet vertical structure. Low leaves and scattered petals fill the bottom edge, where the earth is nearly black. Light appears to enter from the upper left, catching selected blossoms and creating tiny luminous flecks against the deep background; it does not evenly illuminate the scene. The image feels suspended between a real garden and an almost painterly visual field. Fine stems, glancing petal highlights, grain, and shadowed undergrowth remain tactile, but the softer flowers and floating points of light prevent rigid botanical precision. The palette is dark olive, charcoal, blue-gray, and warm brown, animated by concentrated pink, gold, and ivory accents. There is no central bouquet; the eye moves through a woven network of little blooms and stems, with depth created by overlapping planes and alternating sharp and blurred details. The overall mood is lush, mysterious, and quietly luminous.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "eb0e471c5738e229ee109a05cfeb92e9c56d767174fcb9444dd5dfb532fcd200",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

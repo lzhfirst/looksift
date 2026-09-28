@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square architectural concept drawing presents an enormous branching megastructure on an off-white paper field. The view looks upward from a wide open ground plane, where small dark human figures line the lower edge and establish an immense scale. Two broad angled supports rise from the ground and meet a tangled platform system overhead. The upper mass spreads left and right in stacked decks, stairways, rails, exposed frames, and projecting boxlike sections. Many construction lines remain visible beyond the stronger outlines, giving the structure the feel of an exploratory technical sketch rather than a finished plan. Dark graphite hatching builds shadow inside the elevated decks and beneath the cantilevered volumes; paler thin strokes describe distant or transparent parts. The upper corners retain large areas of pale paper, so the dark concentration in the center does not seal off the frame. A few faint horizontal ground marks and tiny people keep the bottom comparatively spare. The limited palette is warm paper cream, pencil gray, and near-black, without bright color. Light is broad and diffuse, mostly conveyed by untouched paper on outer faces and deeper crosshatched tone in recesses. The many diagonal members lead the eye from the feet of the supports toward the complicated crown. The overall composition is imposing yet provisional, balancing monumental structural weight with the airy incompleteness of a hand-drawn proposal.",
+  "full_prompt_zh": "一幅方形建筑概念素描在灰白纸面上展现一座巨大的枝状巨构。视点从宽阔地面仰望，底边排着小小的深色人影，确立惊人的尺度。两道宽大斜撑从地面升起，在头顶纷乱的平台系统中相接。上部体量向左右展开，层叠着甲板、楼梯、栏杆、外露框架和突出的盒状段落。许多施工辅助线仍留在较强轮廓之外，使结构像探索性的技术素描，而非完成的图纸。深石墨排线在高架平台内部和悬挑体块下建起阴影；较浅的细笔触表现远处或透明部分。上方角落仍有大块浅纸面，因此中央深色聚合没有封死画幅。几条隐约水平地面线和小人使底部相对稀疏。有限色域是暖纸白、铅笔灰与近黑，没有鲜艳色彩。光线宽泛而漫散，主要通过外露面留出的纸白与凹处更深的交叉排线传达。许多斜向构件引导视线从支撑脚部走向复杂冠部。整体构图宏大却带草案感，以纪念碑式结构重量平衡手绘提案通透而未封闭的气息。",
+  "style_prompt_en": "Graphite concept drawing builds scale through a mixture of decisive outlines, exploratory construction lines, and tightly hatched shadow. Thin diagonals and overlapping rectangular planes form a branching, upward rhythm; unclosed edges keep the mass airy despite its density. Warm off-white paper occupies a substantial share of the field, with gray and charcoal marks concentrated in the core. Diffuse light is represented by reserved paper and by deeper crosshatching inside overlaps rather than a glossy gradient. Tiny scale cues below a broad complex upper cluster make the arrangement feel monumental and provisional at once.",
+  "style_prompt_zh": "石墨概念素描以明确轮廓、探索性构造线与紧密排线阴影共同建立尺度。细斜线和相叠矩形平面形成枝状向上的节奏；未闭合边缘使体量虽密仍通透。暖灰白纸面占据画幅相当比例，灰和炭色笔痕集中在核心。漫射光通过保留纸白、在重叠内部加深交叉排线来表示，而非光滑渐变。宽大复杂的上部聚合下方有极小尺度线索，使排列同时显得宏大而暂定。",
+  "theme_en": "A huge branching industrial megastructure sketched above tiny pedestrians",
+  "theme_zh": "小小行人上方枝状展开的巨型工业结构素描",
+  "wh_ratio": "1:1",
+  "id": "4077",
+  "name": "Megastructure",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/megastructure.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "295b7424fa7545031455a09f71070e223e0e80418251ee42420c7266735342cb",
+    "gpt_submission_prompt": "A square architectural concept drawing presents an enormous branching megastructure on an off-white paper field. The view looks upward from a wide open ground plane, where small dark human figures line the lower edge and establish an immense scale. Two broad angled supports rise from the ground and meet a tangled platform system overhead. The upper mass spreads left and right in stacked decks, stairways, rails, exposed frames, and projecting boxlike sections. Many construction lines remain visible beyond the stronger outlines, giving the structure the feel of an exploratory technical sketch rather than a finished plan. Dark graphite hatching builds shadow inside the elevated decks and beneath the cantilevered volumes; paler thin strokes describe distant or transparent parts. The upper corners retain large areas of pale paper, so the dark concentration in the center does not seal off the frame. A few faint horizontal ground marks and tiny people keep the bottom comparatively spare. The limited palette is warm paper cream, pencil gray, and near-black, without bright color. Light is broad and diffuse, mostly conveyed by untouched paper on outer faces and deeper crosshatched tone in recesses. The many diagonal members lead the eye from the feet of the supports toward the complicated crown. The overall composition is imposing yet provisional, balancing monumental structural weight with the airy incompleteness of a hand-drawn proposal.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "7dc9aac44aeda5600121ef7627276dae6ede2689c9562420a0b7f065dd6b9c13",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

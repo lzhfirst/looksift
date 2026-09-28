@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A textured Symbolist landscape oil painting places a solitary woman on a rocky alpine slope beneath an unsettled blue-and-white sky. She walks slowly near the left third with her head lowered, long reddish-brown hair falling over a blue blouse and dark rust skirt; a woven basket rests against her back. Her compact figure provides the scene's emotional focus, yet the hillside and weather claim most of the frame. Ochre-gold grass sweeps diagonally from the lower left toward the upper right, interrupted by many pale gray stones and narrow green patches. Farther up, small dark structures or rock forms sit on the ridge, giving the slope a destination without becoming a narrative center. The paint surface is woven from fine, repeated directional strokes: slender warm marks describe the grass, shorter cooler touches texture the stones, and blue, lavender, and white flecks build a restless cloud layer. Instead of broad smooth blending, adjacent small marks mix optically at a distance, making the field shimmer. Light is diffuse and cool from the clouded sky, but pale stones and golden grasses carry a muted inner brightness against the woman's darker clothing. The figure's downward movement counterbalances the hill's upward diagonal, while the broad sky allows space above the dense terrestrial texture. The whole frame feels contemplative and austere, its quiet human passage absorbed into a living mesh of wind, stone, and painted light.",
+  "full_prompt_zh": "一幅有纹理的象征主义风景油画，将一名单独行走的女子置于岩石遍布的高山斜坡和起伏不定的蓝白天空之下。她在左侧三分之一处缓慢行进，低着头，长长的红褐发丝垂在蓝色上衣和深锈色裙子上；一只编织篮贴在背后。她紧凑的身形提供场景的情绪焦点，但山坡与天气占据画面大部分。赭金色草丛从左下方向右上方斜扫，被许多浅灰石块和狭窄绿斑打断。更高处，几处小小的深色建筑或岩石形体立在山脊上，给斜坡一个去处，却不成为叙事中心。油彩表面由精细而重复的顺势笔触编织：纤长暖色线描述草丛，较短的冷色点笔刻画石块，蓝、紫灰和白色斑点堆出躁动的云层。相邻的小笔触在远看时以视觉混色取代大面积平滑调和，使田野微微闪动。多云天空带来偏冷漫射光，但浅色石块和金色草地在女子较深的衣服前保持低调的内在明亮。人物向下的行进与山坡向上的斜线互相平衡，宽阔天空为密集地表纹理留下空间。整幅画沉思而冷峻，安静的人类行程融入风、石头和绘画光线组成的活网。",
+  "style_prompt_en": "A textured Symbolist landscape oil painting builds its surface from fine repeated directional strokes and small adjacent color flecks. Ochre-gold, rust, muted green, pale stone gray, blue, lavender, and cloud white mix optically without losing the weave of marks. Diffuse cool light lets selected warm areas glow quietly rather than shine. Long sloping rhythms meet a broad atmospheric field, balancing dense foreground texture against open sky. The whole frame feels contemplative, austere, and lightly windblown.",
+  "style_prompt_zh": "一幅有纹理的象征主义风景油画用细而重复的顺势笔触和彼此相邻的小色点构成表面。赭金、锈色、低饱和绿、浅石灰、蓝、紫灰与云白通过视觉混色相融，同时保留笔触交织。偏冷的漫射光让局部暖色安静发亮，而非耀眼。长长的斜坡节奏遇上宽广的空气色域，密集前景纹理与开阔天空取得平衡。整幅画沉思、冷峻，略带风吹的动感。",
+  "theme_en": "A solitary woman walks through windblown alpine grass",
+  "theme_zh": "独行女子穿过被风吹动的高山草地",
+  "wh_ratio": "1:1",
+  "id": "1821",
+  "name": "Giovanni Segantini",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/giovanni-segantini",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/giovanni-segantini.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "7522777ac823f861731decbd6efd2c85b3db706deb52f0eb16293e31d237e119",
+    "gpt_submission_prompt": "A textured Symbolist landscape oil painting places a solitary woman on a rocky alpine slope beneath an unsettled blue-and-white sky. She walks slowly near the left third with her head lowered, long reddish-brown hair falling over a blue blouse and dark rust skirt; a woven basket rests against her back. Her compact figure provides the scene's emotional focus, yet the hillside and weather claim most of the frame. Ochre-gold grass sweeps diagonally from the lower left toward the upper right, interrupted by many pale gray stones and narrow green patches. Farther up, small dark structures or rock forms sit on the ridge, giving the slope a destination without becoming a narrative center. The paint surface is woven from fine, repeated directional strokes: slender warm marks describe the grass, shorter cooler touches texture the stones, and blue, lavender, and white flecks build a restless cloud layer. Instead of broad smooth blending, adjacent small marks mix optically at a distance, making the field shimmer. Light is diffuse and cool from the clouded sky, but pale stones and golden grasses carry a muted inner brightness against the woman's darker clothing. The figure's downward movement counterbalances the hill's upward diagonal, while the broad sky allows space above the dense terrestrial texture. The whole frame feels contemplative and austere, its quiet human passage absorbed into a living mesh of wind, stone, and painted light.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "1d50fc8e120ce2bbca6d1d3a00e2b1f46e518f0a0b7951f0d70cc02b12a6f139",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

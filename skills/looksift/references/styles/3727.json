@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A densely worked historical-style painting shows a white-bearded elder seated at a table and facing a large black bird. The composition is cropped close, with the elder's rust-colored upper body filling the left and center foreground and the bird occupying the lower right. He turns his lined face toward the bird, one hand raised against his beard in a thoughtful pose. A pale, ornamented cap sits over his long grey hair, and patterned trim glints along the shoulder of his heavy warm-brown garment. The dark bird stands on the tabletop with its beak slightly open, looking back toward him. In front of them lie pale sheets or a rolled document, small brown vessels, and a darker object near the table's left edge. Two other bearded men appear behind the central figure: one is partially cut off at the far left, and another in a tall pale cap watches from the right. The upper background is crowded with framed, decorative imagery in muted ochre, blue, and grey; its small figures and curving lines read as intricate ornament rather than a separate foreground scene. Soft, warm light falls from above and left, catching the elder's forehead, white beard, cap, and the pale tabletop. Fine outlines hold faces, feathers, and patterned details, while closely layered earth colors fill the surrounding space. The tight gathering of forms and the dark bird's direct placement create a contemplative, storybook stillness.",
+  "full_prompt_zh": "这是一幅刻画繁密、带有历史叙事气息的绘画：一位白须长者坐在桌前，与一只硕大的黑鸟相对。画面取景很近，长者锈红色的上半身占据左侧和中央前景，黑鸟则落在右下方。他布满纹路的脸朝向鸟，一只手抵在胡须上，神态沉思。带花纹的浅色帽子覆在长长的灰发上，厚重的暖棕色衣物肩部闪现装饰镶边。深色鸟儿站在桌面，喙微微张开，回望着他。他们面前放着浅色纸张或卷起的文书、小型棕色容器，以及靠近桌子左缘的一件更暗的物品。中央人物身后还有两位留胡须的男子：一位在最左缘被部分裁去，另一位戴着高高的浅色帽子，从右侧看过来。上方背景挤满带边框的装饰性图像，以沉静的赭黄、蓝色和灰色呈现；其中细小的人形与弯曲线条更像繁复纹样，而非独立的前景事件。柔和暖光从左上方落下，照亮长者的额头、白须、帽子和浅色桌面。细线勾住面孔、羽毛与纹样细节，层层相叠的土色填满周围空间。紧密聚拢的形体与黑鸟直接对面的摆放，形成沉思般的故事书式静谧。",
+  "style_prompt_en": "Illustrative paint and fine drawing build a densely layered, historical-feeling surface. Muted ochre, rust, parchment, slate blue, and charcoal are balanced by small cream highlights. Crisp linear contours pick out the focal forms, while secondary shapes overlap tightly and recede into decorative pattern. Warm light catches raised planes and pale accents, leaving compact dark passages between them. Fine ornamental marks and grainy color give the surface an aged, tactile quality. The close framing and crowded upper rhythm settle into a calmer horizontal band below, creating a thoughtful sense of visual weight.",
+  "style_prompt_zh": "插画式绘画与精细线描构筑出层次密集、带有古意的表面。沉静的赭黄、锈红、纸张米色、石板蓝和炭黑，由少量奶油色亮部取得平衡。清晰的线性轮廓指出视觉焦点，次要形状则紧密重叠，退入装饰纹样。暖光照亮凸起的平面和浅色点缀，其间保留紧凑的深色区域。细密的装饰笔痕与带颗粒感的色层赋予画面陈旧而可触的质地。贴近的取景与上部拥挤的节奏，在下方沉静的水平色带中安顿下来，形成富于思索的视觉重量。",
+  "theme_en": "Bearded elder facing a black bird at a crowded table",
+  "theme_zh": "拥挤桌前与黑鸟相对的白须长者",
+  "wh_ratio": "1:1",
+  "id": "3727",
+  "name": "Apollinary Vasnetsov",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/apollinary-vasnetsov",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "32d35a8d428fcb7644b601819a4a68030479b1050659e2cf949d277fddd55a86",
+    "gpt_submission_prompt": "A densely worked historical-style painting shows a white-bearded elder seated at a table and facing a large black bird. The composition is cropped close, with the elder's rust-colored upper body filling the left and center foreground and the bird occupying the lower right. He turns his lined face toward the bird, one hand raised against his beard in a thoughtful pose. A pale, ornamented cap sits over his long grey hair, and patterned trim glints along the shoulder of his heavy warm-brown garment. The dark bird stands on the tabletop with its beak slightly open, looking back toward him. In front of them lie pale sheets or a rolled document, small brown vessels, and a darker object near the table's left edge. Two other bearded men appear behind the central figure: one is partially cut off at the far left, and another in a tall pale cap watches from the right. The upper background is crowded with framed, decorative imagery in muted ochre, blue, and grey; its small figures and curving lines read as intricate ornament rather than a separate foreground scene. Soft, warm light falls from above and left, catching the elder's forehead, white beard, cap, and the pale tabletop. Fine outlines hold faces, feathers, and patterned details, while closely layered earth colors fill the surrounding space. The tight gathering of forms and the dark bird's direct placement create a contemplative, storybook stillness.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "918666b647e41e09de2ad80e3c72ed4a56e517c61a886a1fea73785ef1402a9a",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

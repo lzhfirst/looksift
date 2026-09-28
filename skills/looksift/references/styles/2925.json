@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square cinematic fantasy close-up shows an elderly gray-bearded man beneath a deep green brimmed hat against an almost black background. The hat sweeps across the top of the frame, its broad brim casting a shadow over the brow. Faint raised decoration and worn seams catch small cool highlights along the crown. The man's pale blue eyes look outward from beneath the shadow and form the most piercing details in the composition. His weathered nose, deeply lined cheeks, and partly hidden mouth are lit by a narrow warm glow from the lower left. Thick silver-gray hair falls around the sides of his face, while a long, curled beard fills the lower right half with dense textured strands. At the lower left, his hand rests near his chin, emerging from a rough brown sleeve or cloak whose surface appears weathered and heavy. The hand, beard, and fabric overlap tightly, leaving almost no open space around the figure. The far right and upper corners fall into shadow, so the face seems to emerge slowly from darkness rather than stand before a distinct setting. Fine surface detail remains visible in the skin, loose hair, and embroidered hat even as the edges dissolve into the deep background. The light appears low and directional, warming the nose, fingertips, and outer curls while the brow and opposite side remain subdued. The overall composition holds a quiet, watchful expression inside a rich contrast of cool green-black shade and restrained amber illumination.",
+  "full_prompt_zh": "这幅方形电影式奇幻近景呈现一位灰须年长男子，戴着深绿色宽檐帽，身后几乎全黑。帽子横扫画面顶部，宽檐在眉上投下一片阴影。帽冠上隐约凸起的装饰和磨旧接缝捕捉少量冷色高光。男子浅蓝色的眼睛从阴影下望向画外，成为构图中最尖锐的细节。风霜深刻的鼻子、皱纹密布的脸颊和半遮的嘴唇，被左下方窄窄的暖光照亮。厚密的银灰头发垂在面部两侧，长而卷曲的胡须以浓密丝缕填满右下半部。左下方，他的一只手靠在下巴附近，从粗糙的棕色袖子或斗篷里伸出，布面显得沉重而磨损。手、胡须和织物紧紧交叠，人物周围几乎没有空处。最右侧和上方两角都陷入阴影，使脸像是从黑暗中缓缓显现，而非站在一个明确的场所前。皮肤、散发和带装饰的帽子仍可见细微表面，边缘却融入深色背景。光似乎低位而有方向性，温暖地照在鼻子、指尖和外层卷发上，眉间与另一侧则保持沉暗。整体构图把安静警觉的神情收在冷绿黑阴影与克制琥珀色照明的丰富反差里。",
+  "style_prompt_en": "The image has a cinematic, painterly realism with highly modeled surfaces and a narrow range of dramatic light. Deep green-black and charcoal occupy broad areas, while restrained amber highlights reveal selected planes and tactile details. Fine strands, creases, and worn fibers remain precise near the focus, then merge into soft, dark edges. Low directional illumination creates strong relief without outlining every form; shadow hides parts of the composition and deepens its sense of space. Cool shadow and warm light are carefully interlocked rather than spread evenly. A close crop, dense overlap, and minimal background make the result intimate, weighty, and watchful.",
+  "style_prompt_zh": "图像具有电影式的绘画写实感，表面塑造充分，戏剧性光照的范围却很窄。深绿黑与炭灰占据大片区域，克制的琥珀色高光只揭示选定的面与可触细节。纤细丝缕、褶纹和磨旧纤维在焦点附近保持精确，随后融入柔和暗边。低位定向照明形成强烈浮雕感，却不把每个形体都勾亮；阴影藏住部分构图并加深空间感。冷影与暖光精细交错，而非均匀摊开。紧凑裁切、密集交叠和极少背景使结果亲近、厚重而警觉。",
+  "theme_en": "A close view of an elderly gray-bearded wanderer beneath a dark brimmed hat",
+  "theme_zh": "一位灰须年长旅人戴着深色宽檐帽的近景",
+  "wh_ratio": "1:1",
+  "id": "2925",
+  "name": "Peter Jackson",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/peter-jackson",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/peter-jackson.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "86c5d51c6f592e18cf42f0b58ff3c4835f32e84d86a2a59a8e4f0e2ae389744d",
+    "gpt_submission_prompt": "A square cinematic fantasy close-up shows an elderly gray-bearded man beneath a deep green brimmed hat against an almost black background. The hat sweeps across the top of the frame, its broad brim casting a shadow over the brow. Faint raised decoration and worn seams catch small cool highlights along the crown. The man's pale blue eyes look outward from beneath the shadow and form the most piercing details in the composition. His weathered nose, deeply lined cheeks, and partly hidden mouth are lit by a narrow warm glow from the lower left. Thick silver-gray hair falls around the sides of his face, while a long, curled beard fills the lower right half with dense textured strands. At the lower left, his hand rests near his chin, emerging from a rough brown sleeve or cloak whose surface appears weathered and heavy. The hand, beard, and fabric overlap tightly, leaving almost no open space around the figure. The far right and upper corners fall into shadow, so the face seems to emerge slowly from darkness rather than stand before a distinct setting. Fine surface detail remains visible in the skin, loose hair, and embroidered hat even as the edges dissolve into the deep background. The light appears low and directional, warming the nose, fingertips, and outer curls while the brow and opposite side remain subdued. The overall composition holds a quiet, watchful expression inside a rich contrast of cool green-black shade and restrained amber illumination.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "5ac152867f17c247fcfa0abdaa238ffb5220b4398b2b6bf4e784a50be3a90e41",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "The image is an abstract geometric composition built from overlapping rectangles, circles, and partial arcs. A pale off-white field fills the square, but almost every region is interrupted by colored blocks. At the upper center and right, narrow vertical planes of faded blue, mustard, teal, and red form a loose architectural grid. In the middle, two large ring shapes overlap: one holds dark green and black around a lighter center, while another frames a warm orange and yellow core. Smaller discs and crescents continue downward, joined by black bars, red wedges, and blue rectangles. The shapes do not align to a perfect diagram. Their edges are hand-painted, slightly irregular, and at times softened by a gritty, scraped surface. The palette feels aged rather than fluorescent: dusty turquoise, muted terracotta, ochre, charcoal, cream, and weathered pink. Some translucent-looking layers allow earlier colors to peek through, especially where pale blocks cross darker ones. Light is not depicted as a natural source; tonal contrast is created by juxtaposing dark geometric anchors with chalky surrounding fields. The composition is dense at the center and lower half, leaving a little more breathing room near the top edges. Movement comes from the repeated circles set against the vertical rectangles, pulling the eye around the image and then back into the central cluster. The whole frame feels like a playful but carefully balanced modernist painting, its mathematical vocabulary warmed by visible brush texture and imperfection.",
+  "full_prompt_zh": "画面由重叠矩形、圆形和局部圆弧构成抽象几何组合。偏暖的米白底色铺满方形画幅，但几乎每一处都被彩色块面打断。上部中央及右侧，褪蓝、芥黄、湖绿和红色的窄竖面形成松散的建筑式网格。中央有两个较大的环形互相叠压：一个以深绿和黑色围住较浅中心，另一个框出暖橙与黄色内核。更小的圆盘和新月形继续向下，由黑色横杆、红色楔形和蓝色矩形衔接。形状并不服从完全精密的图表，边缘带手绘的不规整感，也时常被粗粝刮擦的表面软化。色彩有旧化感而不荧亮，主要是灰尘般的湖蓝、柔和陶土红、赭黄、炭黑、奶油白与磨旧粉色。有些近乎透明的叠层让先前的颜色隐约透出，尤其浅色块横穿暗色块的位置。画面没有自然光源，明暗对比来自深色几何锚点与粉笔般浅色区域的并置。构成在中央和下半部较密，上缘略留呼吸空间。重复圆形对照竖向矩形，使目光在画内绕行后返回中央。整体像一幅游戏性与平衡感兼具的现代主义绘画，数学式词汇被可见笔触和不完美表面温暖化。",
+  "style_prompt_en": "Construct a modernist abstraction from interlocking rectangles, concentric rings, arcs, wedges, and narrow bars. Use an aged palette of dusty turquoise, muted red, ochre, faded blue, charcoal, cream, and weathered pink. Let hand-painted edges, scraped pigment, granular texture, and slight transparency soften the strict geometry. Concentrate visual weight around a central cluster, balancing repeated circular movement against upright rectangular rhythm. Establish light through value contrast rather than depicted illumination.",
+  "style_prompt_zh": "用互锁矩形、同心圆环、弧线、楔形和细窄横杆构成现代主义抽象画。色盘选择旧化的灰湖蓝、柔红、赭黄、褪蓝、炭黑、奶油白和磨旧粉色。让手绘边缘、刮擦颜料、颗粒肌理与轻微透明度柔化严格几何。视觉重量聚在中央，以重复圆形的运动平衡竖立矩形的节奏。通过色值对比而非描绘具体光源建立明暗。",
+  "theme_en": "Interlocking circles and colored blocks",
+  "theme_zh": "互锁圆形与色块的抽象构成",
+  "wh_ratio": "1:1",
+  "id": "0774",
+  "name": "Marcel Janco",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/marcel-janco",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/marcel-janco.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "11f083ae1a1b512e508f0945f0b9a469880664875a3695396e61fd98180c8fc7",
+    "gpt_submission_prompt": "The image is an abstract geometric composition built from overlapping rectangles, circles, and partial arcs. A pale off-white field fills the square, but almost every region is interrupted by colored blocks. At the upper center and right, narrow vertical planes of faded blue, mustard, teal, and red form a loose architectural grid. In the middle, two large ring shapes overlap: one holds dark green and black around a lighter center, while another frames a warm orange and yellow core. Smaller discs and crescents continue downward, joined by black bars, red wedges, and blue rectangles. The shapes do not align to a perfect diagram. Their edges are hand-painted, slightly irregular, and at times softened by a gritty, scraped surface. The palette feels aged rather than fluorescent: dusty turquoise, muted terracotta, ochre, charcoal, cream, and weathered pink. Some translucent-looking layers allow earlier colors to peek through, especially where pale blocks cross darker ones. Light is not depicted as a natural source; tonal contrast is created by juxtaposing dark geometric anchors with chalky surrounding fields. The composition is dense at the center and lower half, leaving a little more breathing room near the top edges. Movement comes from the repeated circles set against the vertical rectangles, pulling the eye around the image and then back into the central cluster. The whole frame feels like a playful but carefully balanced modernist painting, its mathematical vocabulary warmed by visible brush texture and imperfection.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "49eb6009eedf2bef7058feaebda18b5a8569187aad3dccd2b9da67d50c52f2ee",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

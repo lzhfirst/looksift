@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A gritty anime western illustration centers a spiky blond gunfighter wearing a long rust red coat and holding a dark handgun upright before his face. The figure is framed from the waist upward, shoulders hunched and arms crossed tightly, with one black gloved hand gripping the pistol while the other braces the elbow. Tall uneven blond hair fans over his forehead and to the right, and narrow tinted round glasses partially hide the stern eyes. A high coat collar surrounds the neck; heavy sleeves form broad red folds on either side of the vertical gun, while a dark shirt and belt appear below. Behind him, a large pale circular emblem is painted on a cracked orange red wall. Dark almost abstract figures or shadow shapes sit within the circle and around the hair, giving the background the look of an aged poster or worn mural. The wall is full of chipped paint, scratches, rough blocks, and faded cream patches, yet its details remain subordinate to the central silhouette. Directional light from the upper left catches the hair, pale face, gun edge, and creases of the coat, with dark shadows pooling between the crossed arms. Fine grain and dry brush texture coat the whole image. The result feels tense and iconic, with a centered poster composition and earthy red, ocher, cream, and charcoal locked into a weathered action graphic.",
+  "full_prompt_zh": "一幅粗粝的动漫西部插画居中描绘一位金发竖起的枪手，身穿锈红色长外衣，把一支深色手枪竖在脸前。画面从腰部以上取景，肩膀微耸，双臂紧紧交叉；一只黑手套握住枪，另一只支住手肘。参差而高耸的金发越过额头向右散开，窄窄的染色圆眼镜部分遮住严厉的眼睛。高耸衣领围住颈部；厚重袖子在竖枪两侧形成宽阔的红色褶皱，下方露出深色衬衫与腰带。身后，一个巨大的浅色圆形徽记涂在龟裂的橙红墙面上。圆圈内部及头发周围有近乎抽象的深色人物或影子，使背景像一张老化的海报或磨损的壁画。墙面布满掉漆、划痕、粗糙色块与褪色奶油色斑，但细节仍服从中央剪影。来自左上方的定向光擦亮头发、浅色面孔、枪缘和外衣褶皱，交叉手臂之间聚着深影。细微颗粒与干笔肌理覆盖全图。最终画面紧张而鲜明，以居中的海报式构图，把土红、赭黄、奶油白与炭黑锁定成风化的动作图形。",
+  "style_prompt_en": "A gritty anime western poster treatment with one centered, tightly posed focal silhouette against an aged emblem like ground. Use tall angular accents, a strong vertical prop or line near the center, and broad crossed folds to create contained tension. Limit the palette to rust red, burnt orange, ocher cream, charcoal, and a few pale highlights. Distress the backdrop with cracked paint, rubbed patches, scratches, faded block shapes, and partly obscured circular geometry. Combine crisp contour design on the focal form with grainy dry brush texture across the entire image. Side light should pick out selected edges and leave the core shadows dense. The overall effect is iconic, worn, and charged like an old action print.",
+  "style_prompt_zh": "采用粗粝的动漫西部海报处理，让一个居中、姿态紧绷的焦点剪影置于老化的徽记状背景前。以高耸的棱角强调线、中央附近强烈的竖向道具或线条，以及宽阔交叉褶皱形成内敛张力。调色限于锈红、焦橙、赭黄奶油色、炭黑和少量浅高光。背景以龟裂颜料、擦磨斑块、划痕、褪色块面和局部遮掩的圆形几何做旧。焦点形体采用清晰轮廓设计，整幅画覆盖颗粒与干笔肌理。侧光点亮选定边缘，核心阴影保持浓密。整体效果鲜明、磨损，像一张老动作印刷品般充满蓄势。",
+  "theme_en": "Red coated gunfighter before a weathered emblem",
+  "theme_zh": "风化徽记前的红衣枪手",
+  "wh_ratio": "1:1",
+  "id": "3387",
+  "name": "Trigun",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/trigun",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "066d0f6fde576b875b154b732066571cb59313ea8d1db442dd682890f6a3a505",
+    "gpt_submission_prompt": "A gritty anime western illustration centers a spiky blond gunfighter wearing a long rust red coat and holding a dark handgun upright before his face. The figure is framed from the waist upward, shoulders hunched and arms crossed tightly, with one black gloved hand gripping the pistol while the other braces the elbow. Tall uneven blond hair fans over his forehead and to the right, and narrow tinted round glasses partially hide the stern eyes. A high coat collar surrounds the neck; heavy sleeves form broad red folds on either side of the vertical gun, while a dark shirt and belt appear below. Behind him, a large pale circular emblem is painted on a cracked orange red wall. Dark almost abstract figures or shadow shapes sit within the circle and around the hair, giving the background the look of an aged poster or worn mural. The wall is full of chipped paint, scratches, rough blocks, and faded cream patches, yet its details remain subordinate to the central silhouette. Directional light from the upper left catches the hair, pale face, gun edge, and creases of the coat, with dark shadows pooling between the crossed arms. Fine grain and dry brush texture coat the whole image. The result feels tense and iconic, with a centered poster composition and earthy red, ocher, cream, and charcoal locked into a weathered action graphic.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "5e35ef6209607f8f653b4044879d93bf5447047c574a98c908740ec00c261ae0",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square traditional oil landscape opens onto a bend of quiet river and low meadow beneath a sky crowded with towering summer clouds. The water curves from the lower left toward the center, its brown-green reflections broken by soft silver glints. At the right bank, a pale earth footpath begins near the bottom edge and winds back through short grass toward a small cluster of cottages with warm red roofs at the far right. A large leafy tree stands just left of the houses, its dark crown spreading against the sky, while smaller trees punctuate the level middle distance. Across the left, flat green fields stretch to a thin horizon, with reeds and shrubs growing near the water's edge. The sky takes more than half the image. Creamy white clouds swell upward from the left center and darken into thick gray undersides, with strong blue openings at the upper right. Near the bank, the slope is built with short textured dabs of olive, umber, and sunlit yellow-green. The cottages are tiny but readable, their white walls and rusty roofs supplying a warm human accent. Broad, visible brushwork models the clouds, while finer broken marks describe grass, leaves, and the riverbank. Sunlight filters through moving cloud, brightening the path, tree edges, and bits of water while other field patches remain in cool shade. The composition balances a dramatic sky with a modest inhabitable foreground, guiding the eye along the path and river toward the distant rural horizon.",
+  "full_prompt_zh": "一幅方形传统油画风景展开安静河弯与低矮草地，上方天空挤满高耸夏云。河水从左下弯向中央，棕绿色倒影被柔银亮点打断。右岸，一条浅土色小路从下缘附近开始，在矮草中蜿蜒后退，通向最右侧几栋暖红屋顶的小屋。一株大叶树立在房屋左边，深色树冠在天空前张开，较小树木点在平坦的中景。左侧，平展绿田延至细地平线，芦苇与灌木生在水边。天空占去画面一半以上。奶油白云从中左向上膨起，下缘转成厚灰影，右上有强烈蓝色缺口。岸坡由橄榄、赭棕和日照黄绿的短碎点笔构成。小屋虽小仍可辨，白墙和锈红屋顶带来温暖的人居重点。宽而可见的笔触塑造云，细碎断笔描草、叶和河岸。阳光从移动的云间滤下，照亮小路、树缘和水面局部，其余田野仍在冷影。构图用戏剧天空平衡朴素可居的前景，沿小路与河弯把视线引向远方乡间地平线。",
+  "style_prompt_en": "Traditional oil landscape painting combines vigorous cloud modeling with smaller broken strokes across ground and foliage. Give the sky generous area, building voluminous cream and slate-gray cloud forms against clear blue openings. Use muted olive, umber, yellow-green, and silvery water reflections below. Let intermittent sunlight pick out a winding light passage, leaf edges, and small surface glints while neighboring areas stay cool and shaded. Depth comes from a low level horizon and increasingly fine marks toward the distance. Keep brush texture visible, with gentle natural transitions rather than polished gradients. The transferable feeling is spacious, weather-aware, and lived in.",
+  "style_prompt_zh": "传统油画风景把有力的云体塑形与地面、草木上的细碎断笔结合。天空占较大面积，奶油白与石板灰的丰厚云形对照清蓝缺口。下方使用低饱和橄榄、赭棕、黄绿和银色水面反光。间歇日光挑出一条弯曲浅色通道、叶缘与小块表面闪点，相邻区域仍冷而在影里。低平地平线和向远处渐细的笔触建立纵深。保留明显笔痕与温和自然过渡，而非光滑渐层。可迁移感受开阔、能感到天气，并有人居气息。",
+  "theme_en": "A country path beside a curving river under towering summer clouds",
+  "theme_zh": "乡间小路沿弯河而行，上方夏云高耸",
+  "wh_ratio": "1:1",
+  "id": "2510",
+  "name": "John Constable",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/john-constable",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/john-constable.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "1b376d09ade88fee2192314ab92f4e8748b069e44ff388e077a62f74bb9d4ccc",
+    "gpt_submission_prompt": "A square traditional oil landscape opens onto a bend of quiet river and low meadow beneath a sky crowded with towering summer clouds. The water curves from the lower left toward the center, its brown-green reflections broken by soft silver glints. At the right bank, a pale earth footpath begins near the bottom edge and winds back through short grass toward a small cluster of cottages with warm red roofs at the far right. A large leafy tree stands just left of the houses, its dark crown spreading against the sky, while smaller trees punctuate the level middle distance. Across the left, flat green fields stretch to a thin horizon, with reeds and shrubs growing near the water's edge. The sky takes more than half the image. Creamy white clouds swell upward from the left center and darken into thick gray undersides, with strong blue openings at the upper right. Near the bank, the slope is built with short textured dabs of olive, umber, and sunlit yellow-green. The cottages are tiny but readable, their white walls and rusty roofs supplying a warm human accent. Broad, visible brushwork models the clouds, while finer broken marks describe grass, leaves, and the riverbank. Sunlight filters through moving cloud, brightening the path, tree edges, and bits of water while other field patches remain in cool shade. The composition balances a dramatic sky with a modest inhabitable foreground, guiding the eye along the path and river toward the distant rural horizon.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "e8923f2a7362caead613eed5958d9ecdb5e36b24124f935424e5e139608cc4a0",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

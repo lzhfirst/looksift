@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square, textured folk-symbolist painting shows a small red bird perched on a black rectangular block beneath a luminous full moon. The upper half is a broad smoky gray sky, with the large cream-gold moon near the upper left. A few faint dark marks drift far to the right, but the sky remains mostly empty. Low muted hills run across the middle in dusty pink and warm gray, dipping toward a pale central opening. The bird stands just left of center on the top edge of the black block, facing right. Its body is vivid vermilion with a darker head and tail, and a slim beak points toward the open middle distance. Thin legs and a short dark perch line keep the small form readable against the washed ground. The black block fills much of the lower-left quadrant; its worn surface carries a tiny pale leaflike motif near the middle. At the lower right, a smaller dark square echoes the first block and bears another pale mark. The bottom band is rusty red and ochre, with vertical scratches and rubbed paint showing through. Shapes are deliberately flattened and slightly irregular, as though painted and scraped on a rough panel. The light is diffuse and moonlike, brightest in the circular disc and the pale gap between the hills, while the blocks stay almost black. The overall composition isolates the tiny bright bird between a heavy dark base and a quiet open sky, producing a spare, contemplative image.",
+  "full_prompt_zh": "这幅方形、带肌理的民间象征主义绘画里，一只小红鸟停在黑色矩形块上，头顶是一轮发亮满月。上半部是宽阔烟灰色天空，左上附近悬着大块奶油金色月亮。右侧远处飘着几枚淡淡深色痕迹，天空总体保持空旷。压低的小山以灰粉和暖灰横过中段，在中央下凹成一片浅色开口。红鸟停在黑块上缘、中心偏左，朝右。身体鲜朱红，头和尾较暗，细喙指向敞开的中景。纤腿和短深色停立线，让小形体在水洗底前可辨。黑块占据左下大部分，磨旧表面中间附近有一枚细小浅色叶状纹样。右下还有一块更小深方形与之回响，也带浅色标记。底部是锈红与赭黄色带，竖向刮线和擦去的颜料透出。形状刻意压平且稍不规则，仿佛画在粗面板上再被刮擦。光线漫射而似月光，圆月和山间浅色开口最亮，黑块保持近黑。整体构图把微小明亮的鸟孤立在厚重暗底与安静空天之间，形成简省沉思的图像。",
+  "style_prompt_en": "The painting uses a restrained symbolic vocabulary of simple flat shapes, rubbed pigment and coarse panel grain. Smoky gray and dusty rose cover large quiet fields, while one small vermilion accent and a cream-gold light disc supply focal contrast. Edges are soft and imperfect except at a few dark geometric bases, where abrupt value changes anchor the composition. Vertical scratches, speckles and thin worn patches give the matte surface age. Illumination is broad and subdued, with one isolated pale glow rather than directional shadows. The visual balance of a low heavy mass, one bright small form and generous upper emptiness feels hushed and slightly mysterious.",
+  "style_prompt_zh": "这种绘画以简洁平涂形状、擦融颜料和粗糙画板颗粒构成克制的象征语言。烟灰与灰粉覆盖宽阔安静的色域，一点朱红强调和一块奶油金色光圆提供焦点对照。除少数深色几何底座外，边缘柔和而不完美；那里突兀的明暗变化稳住构图。竖刮痕、斑点和纤薄磨损区域让哑光表面带有岁月感。照明宽泛而压低，只有一处孤立浅光，而非定向阴影。低而厚重的量块、小块明亮形体和宽裕上方空白的平衡，显得寂静而略神秘。",
+  "theme_en": "A lone red bird on a dark pedestal beneath a pale full moon",
+  "theme_zh": "一只红鸟独立深色台座上，头顶悬着浅亮满月",
+  "wh_ratio": "1:1",
+  "id": "2880",
+  "name": "Catherine Hyde",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/catherine-hyde",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/catherine-hyde.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "852d1419d3ded5ce9abd4e61083c13e4af6845bb9183f70653e24f9c6bf68adc",
+    "gpt_submission_prompt": "A square, textured folk-symbolist painting shows a small red bird perched on a black rectangular block beneath a luminous full moon. The upper half is a broad smoky gray sky, with the large cream-gold moon near the upper left. A few faint dark marks drift far to the right, but the sky remains mostly empty. Low muted hills run across the middle in dusty pink and warm gray, dipping toward a pale central opening. The bird stands just left of center on the top edge of the black block, facing right. Its body is vivid vermilion with a darker head and tail, and a slim beak points toward the open middle distance. Thin legs and a short dark perch line keep the small form readable against the washed ground. The black block fills much of the lower-left quadrant; its worn surface carries a tiny pale leaflike motif near the middle. At the lower right, a smaller dark square echoes the first block and bears another pale mark. The bottom band is rusty red and ochre, with vertical scratches and rubbed paint showing through. Shapes are deliberately flattened and slightly irregular, as though painted and scraped on a rough panel. The light is diffuse and moonlike, brightest in the circular disc and the pale gap between the hills, while the blocks stay almost black. The overall composition isolates the tiny bright bird between a heavy dark base and a quiet open sky, producing a spare, contemplative image.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "de5f77c9aced3f280bfc731fc1e659c885f7a7480827eeac156391faaf642dda",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

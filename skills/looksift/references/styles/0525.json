@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square, boldly simplified acrylic-like painting shows a blocky blue creature's head on a pale gray-blue ground. The background is broad and lightly scraped, with thin horizontal marks and small patches of uneven pigment interrupting the quiet surface. The creature occupies the center, its head assembled from rectangular blue and dark teal planes. A blunt snout projects to the right, and a single round eye sits high on the left side, rimmed with cream and a dark pupil. The mouth cuts across the lower half as a long dark red opening lined with large triangular off-white teeth. Beneath it, the neck becomes a narrow dark blue block dropping toward the lower edge. At the top, a jagged crownlike cluster of yellow and orange strokes rises above a flat blue band, with one dark charcoal rectangle and a small rust shape just behind it. The body is only hinted at by rough ochre and navy color bars at the bottom. Edges are uneven, as if applied with a broad, dry brush or palette knife, and patches of the pale ground show through the blue paint. There is little natural depth; the creature reads through flat silhouette, overlapping color rectangles and the emphatic mouth. Diffuse light is suggested by the lighter upper background and cream highlights, while dark blue and red blocks provide the strongest shadows. The overall composition is playful and slightly fierce, balancing childlike geometry with tactile, scraped pigment.",
+  "full_prompt_zh": "这幅方形、概括大胆的丙烯画式图像，在浅灰蓝底上画出一只方块状蓝色生物的头。背景宽阔而带轻微刮擦，细横痕和不匀的小块颜料打断安静表面。生物占据中央，头由矩形蓝色和深青绿色平面拼成。钝钝的吻部向右伸出，左上方有一只圆眼，奶油色眼缘围住深色瞳孔。嘴巴横切下半部，是一道深红长开口，排列着大块三角形米白牙齿。下方颈部变成一块窄深蓝色形体，垂向画面下缘。顶部，锯齿状的黄橙色笔触簇在平直蓝色带上方升起，后面还有一块深炭色矩形和一小块锈色。身体只由底部粗糙的赭黄与海军蓝色条略作暗示。边缘并不整齐，仿佛由宽大干笔或调色刀抹成，浅色底局部透过蓝色颜料。自然纵深很少；生物靠平面剪影、重叠色矩形和醒目的嘴巴被认出。较亮的上方背景与奶油色强调暗示漫射光，深蓝及红色色块构成最强阴影。整体构图俏皮而略显凶猛，让孩子气的几何形同可触的刮擦颜料取得平衡。",
+  "style_prompt_en": "The painting uses chunky geometric silhouettes, opaque color blocks and rough, scraped brush or knife texture. Pale gray-blue and warm off-white make a spacious ground, while dark teal, rusty red and flashes of yellow-orange create a concentrated center. Forms are flattened, but slight overlaps and uneven pigment thickness keep them from looking mechanically vectorized. Edges shift from blunt straight cuts to ragged dry-brush breaks. Illumination is diffuse and graphic, with value contrast carried by adjacent colors rather than modeled cast shadows. The result feels witty and spontaneous, its simple construction energized by visible handwork and a few sharp warm accents.",
+  "style_prompt_zh": "这种绘画使用厚实几何剪影、不透明色块与粗糙刮擦的画笔或刀痕。浅灰蓝与暖米白构成宽敞底色，深青绿、锈红和闪现的黄橙色则形成集中的中心。形体被压平，但轻微重叠和不匀的颜料厚度使它们不显得像机械矢量图。边缘从钝直切线变化到破碎的干笔断口。照明漫射而图形化，明暗反差主要由相邻颜色而非塑形投影承担。整体机智而自发，简洁结构被可见手工痕迹和少量尖亮暖色激活。",
+  "theme_en": "A blocky blue creature with a flame-shaped crown and pointed white teeth",
+  "theme_zh": "一只方块状蓝色生物戴火焰形冠，露出尖白牙齿",
+  "wh_ratio": "1:1",
+  "id": "0525",
+  "name": "Roger Bezombes",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/roger-bezombes",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/roger-bezombes.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "03d5d7dc23772246419b9825db1e378fefc295a6a9555e6f762e5a331ffe52f1",
+    "gpt_submission_prompt": "A square, boldly simplified acrylic-like painting shows a blocky blue creature's head on a pale gray-blue ground. The background is broad and lightly scraped, with thin horizontal marks and small patches of uneven pigment interrupting the quiet surface. The creature occupies the center, its head assembled from rectangular blue and dark teal planes. A blunt snout projects to the right, and a single round eye sits high on the left side, rimmed with cream and a dark pupil. The mouth cuts across the lower half as a long dark red opening lined with large triangular off-white teeth. Beneath it, the neck becomes a narrow dark blue block dropping toward the lower edge. At the top, a jagged crownlike cluster of yellow and orange strokes rises above a flat blue band, with one dark charcoal rectangle and a small rust shape just behind it. The body is only hinted at by rough ochre and navy color bars at the bottom. Edges are uneven, as if applied with a broad, dry brush or palette knife, and patches of the pale ground show through the blue paint. There is little natural depth; the creature reads through flat silhouette, overlapping color rectangles and the emphatic mouth. Diffuse light is suggested by the lighter upper background and cream highlights, while dark blue and red blocks provide the strongest shadows. The overall composition is playful and slightly fierce, balancing childlike geometry with tactile, scraped pigment.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "dea92217ae6eca170e828ab1319da3a8bbf926734f64c2294aea69c5908524b2",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square photograph of a drawing shows a man's left-facing profile sketched in black ink on a bright white sheet, with a dark pen placed diagonally along the right side. The paper fills nearly the whole frame and has no printed grid or border. The drawn head occupies the left and center, beginning with loose, spiky hair at the top and continuing into a strong forehead, nose and chin facing right. His eyes appear lowered or nearly closed, and his expression is contemplative. The ear, cheekbone and jaw are built from short slanted hatching, with darker clusters under the brow and along the neck. A suggested collared shirt and shoulder fade into sparse exploratory lines near the lower left, leaving much of the surrounding page open. Light gray construction strokes run beyond the finished contour at the crown and back of the head, revealing the drawing's active process. The black pen to the right has a gold-colored tip and small metal accents, its point aimed down toward the lower middle. It casts a faint shadow on the paper, distinguishing the real object from the drawn portrait. The image is lit evenly from above with mild shading at the page edge and under the pen. Ink marks vary from fine hairlines to dense scratched blocks, giving the profile volume without washes of color. The overall composition pairs a concentrated, energetic face study with clean white negative space and one simple drawing tool.",
+  "full_prompt_zh": "这幅方形照片拍下一张绘画：一位男子朝左的侧脸以黑墨画在亮白纸上，右边斜放一支深色笔。纸页几乎填满画框，没有印刷格线或边框。画出的头占据左侧与中央，上方是松散尖起的头发，往下接上朝右的坚实额头、鼻子和下巴。他的眼睛低垂或近乎闭合，神情沉思。耳朵、颧骨和下颌由短斜排线建立，眉下与颈边有较深的线团。暗示性的有领衬衫与肩膀在左下逐渐化成稀疏探索线，周围纸面大块敞开。浅灰辅助线越过头顶和后脑较完成的轮廓，显出绘画进行中的痕迹。右侧黑笔带金色笔尖与少量金属点缀，笔尖斜指下方中部。笔在纸上投下微弱影子，把真实物件与画中肖像区分开。图像从上方均匀受光，纸边和笔下有轻微暗部。墨痕从极细发丝线到密集刮擦块变化，无需水洗颜色也赋予侧脸体积。整体构图把集中的有力面部习作，同干净白色负空间和一支简洁绘画工具配在一起。",
+  "style_prompt_en": "The drawing-oriented image uses varied black pen pressure and direction over clean white paper. Fine searching lines remain visible outside the resolved contour, while dense crosshatching and short parallel strokes build shadow and structure inside it. Large untouched paper areas allow the dark focal marks to breathe. Edges alternate between decisive ink cuts and broken sketch lines, creating immediacy without losing form. Even overhead light reveals a faint physical page grain and slight real-object shadows, but tonal modeling comes mainly from mark density. The finish feels observational, vigorous and unfinished in a deliberate way.",
+  "style_prompt_zh": "这种偏重线描的图像在干净白纸上变化黑笔压力与方向。细细的探索线留在较确定轮廓之外，密集交叉排线和短平行笔触则在轮廓内部建立阴影与结构。大片未着笔纸面让深色焦点笔痕得以呼吸。边缘在果断的墨线切口与破碎速写线之间转换，既直接又不失形。均匀顶光显出一点真实纸纹和微弱实物阴影，但调子塑形主要来自笔痕密度。完成面具有观察力和活力，刻意保留未完成感。",
+  "theme_en": "An expressive black-pen profile study of a man on white paper",
+  "theme_zh": "白纸上的男子侧脸黑笔速写，线条富于表现力",
+  "wh_ratio": "1:1",
+  "id": "2904",
+  "name": "Brush pen drawing",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/brush-pen-drawing",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/brush-pen-drawing.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "be14d97adf1b5bb3757619293f6a410917bfb62fcfc849983bb69e8627f35091",
+    "gpt_submission_prompt": "A square photograph of a drawing shows a man's left-facing profile sketched in black ink on a bright white sheet, with a dark pen placed diagonally along the right side. The paper fills nearly the whole frame and has no printed grid or border. The drawn head occupies the left and center, beginning with loose, spiky hair at the top and continuing into a strong forehead, nose and chin facing right. His eyes appear lowered or nearly closed, and his expression is contemplative. The ear, cheekbone and jaw are built from short slanted hatching, with darker clusters under the brow and along the neck. A suggested collared shirt and shoulder fade into sparse exploratory lines near the lower left, leaving much of the surrounding page open. Light gray construction strokes run beyond the finished contour at the crown and back of the head, revealing the drawing's active process. The black pen to the right has a gold-colored tip and small metal accents, its point aimed down toward the lower middle. It casts a faint shadow on the paper, distinguishing the real object from the drawn portrait. The image is lit evenly from above with mild shading at the page edge and under the pen. Ink marks vary from fine hairlines to dense scratched blocks, giving the profile volume without washes of color. The overall composition pairs a concentrated, energetic face study with clean white negative space and one simple drawing tool.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "50d28ae841265895be7d9c6aa146a91d85c9f11a05ffbc9cadbb5988dc2e5e20",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square expressive painted portrait fills the frame with a woman's face turned slightly toward the right and tilted upward. The crop is extremely close: the forehead and hair disappear beyond the top and left edges, while the chin and neck are cut off below. Her nearer eye sits high at the left, looking upward with a pale green-gray iris, heavy dark lashes, and a small bright catchlight. The farther eye appears in deep blue-black shadow at the upper right, partly hidden by the broad bridge of the nose. Warm cream and golden-yellow planes catch the cheekbone and forehead, while rusty brown, olive, and charcoal strokes shape the nose, eye sockets, and left jaw. The nose projects strongly into the center-right, with a deep dark nostril and sharp highlight on its upper edge. Soft pink lips remain slightly parted near the lower-right center. A slender cigarette-like object extends from the mouth toward the right border, but no visible smoke rises from it. Loose dark hair or surrounding shadow crowds the far left, and a near-black teal field fills the small remaining background at right. The surface is built from broad confident strokes, scraped flecks, and small sharp marks around the eyes and mouth. Light falls strongly from the upper left, creating a bright cheek against the cooler dark side. The overall composition is intimate and asymmetrical, using a luminous eye and bold nose shape to hold the viewer inside a dramatic close crop.",
+  "full_prompt_zh": "一幅方形表现性肖像绘画让一名女子的脸填满画面，头稍转向右并向上仰。裁切极近：额头和头发消失在上缘与左缘之外，下巴与颈部也被下方截断。靠近观者的一只眼睛位于左上，向上望去，虹膜浅绿灰、睫毛浓黑，带一小点明亮反光。较远的眼睛在右上深蓝黑阴影里，只露出一部分，并被宽阔鼻梁遮挡。暖乳白与金黄色平面照亮颧骨和额头，锈棕、橄榄和炭黑笔触塑造鼻子、眼窝与左下颌。鼻子强烈地突出到中右，鼻孔深暗，上缘有清晰高光。柔粉色嘴唇在右下中央微微张开。一件细长、像香烟的物品从嘴边伸向右缘，但没有可见烟雾。松散深发或周围阴影挤在最左侧，右侧仅余的一小块背景是近黑青绿色。表面由宽阔而肯定的笔触、刮擦亮点和眼嘴周围的细小锐利笔痕构成。光强烈地从左上落下，让亮脸颊对照较冷的暗侧。整体构图亲密而不对称，以发亮的眼睛和鲜明鼻形把观者固定在戏剧性的近景裁切内。",
+  "style_prompt_en": "Expressive portrait painting combines broad angular color planes with selective finely drawn features. Cream, ocher, olive, rust, and warm pink are pushed against deep blue-black and teal shadows. High directional light strikes one side, leaving a sharp transition into darkness around the far edge; small eye-level highlights add precise focus. Brush marks remain visible, with scratched fragments and irregular paint density preventing a smooth photographic finish. Extreme cropping enlarges forms until they become an abstract balance of bright and dark shapes. The overall effect is bold, sensual, and tense, with asymmetry and selective sharpness driving attention.",
+  "style_prompt_zh": "表现性肖像绘画把宽阔棱角色面与选择性细描的特征结合起来。乳白、赭黄、橄榄、锈色和暖粉被推到深蓝黑与青绿阴影旁。强烈定向光击中一侧，在远侧周围迅速转入深暗；眼睛高度的小高光提供精确焦点。笔痕保持可见，刮擦碎片和不均匀颜料密度避免形成平滑摄影表面。极近裁切把形体放大，直到它们成为明暗色块的抽象平衡。整体效果大胆、感性而紧张，由不对称与选择性的锐利程度引导注意力。",
+  "theme_en": "An extreme painted close-up of a woman looking upward with a thin object at her lips",
+  "theme_zh": "一名女子仰望的绘画式极近特写，嘴边有细长物件",
+  "wh_ratio": "1:1",
+  "id": "1762",
+  "name": "Thomas Saliot",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/thomas-saliot",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/thomas-saliot.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "88959df0d3c8d6363418cf23b7b07b4390c2e3ed1c063f238a4ffe11290276b6",
+    "gpt_submission_prompt": "A square expressive painted portrait fills the frame with a woman's face turned slightly toward the right and tilted upward. The crop is extremely close: the forehead and hair disappear beyond the top and left edges, while the chin and neck are cut off below. Her nearer eye sits high at the left, looking upward with a pale green-gray iris, heavy dark lashes, and a small bright catchlight. The farther eye appears in deep blue-black shadow at the upper right, partly hidden by the broad bridge of the nose. Warm cream and golden-yellow planes catch the cheekbone and forehead, while rusty brown, olive, and charcoal strokes shape the nose, eye sockets, and left jaw. The nose projects strongly into the center-right, with a deep dark nostril and sharp highlight on its upper edge. Soft pink lips remain slightly parted near the lower-right center. A slender cigarette-like object extends from the mouth toward the right border, but no visible smoke rises from it. Loose dark hair or surrounding shadow crowds the far left, and a near-black teal field fills the small remaining background at right. The surface is built from broad confident strokes, scraped flecks, and small sharp marks around the eyes and mouth. Light falls strongly from the upper left, creating a bright cheek against the cooler dark side. The overall composition is intimate and asymmetrical, using a luminous eye and bold nose shape to hold the viewer inside a dramatic close crop.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "0858fc6ef2889df2a1334c78e61ece6c44039b94a3a3c030c7232b74c0fe9f68",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

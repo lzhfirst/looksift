@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square landscape photograph looks along a cold river toward a chain of jagged, snow-covered mountains at dusk. The stream enters from the lower foreground, widening across a bed of dark rounded stones and broken ice. Thin plates of pale ice float or rest near the banks, and smooth water carries blue-gray reflections between them. A low rough ridge of rocks projects from the left middle ground toward the center, guiding the eye to the sharply rising central peak. That mountain has a steep triangular face of snow and exposed dark stone; smaller peaks continue across the horizon to either side. The right bank is flatter and darker, with a strip of rough gravel and snow below the sky. The atmosphere is unusually rich in color. Heavy navy and blue clouds fill the upper left and center, while a violet and magenta glow opens near the right horizon. A line of warm peach-orange light runs just above the distant land, catching the edges of a few clouds. The mountain and river remain cool, lit by fading ambient daylight rather than direct sun. Long exposure softens the moving water slightly, but the ice, stones, and mountain faces are sharply defined. The camera is low to the river, giving the near rocks weight and letting the water form a clear route into the scene. The palette balances slate blue, ice cyan, charcoal, violet, and a small warm sunset band. The image is spacious and solemn, with detailed foreground texture leading into the monumental peaks and turbulent colored sky.",
+  "full_prompt_zh": "一幅方形风景摄影沿寒冷河流望向黄昏中一列锯齿状雪山。河水从下方前景进入，在深色圆石与破碎冰面之间变宽。浅色薄冰片漂浮或停在岸边，平滑水面在其间载着蓝灰倒影。左侧中景一道低矮粗石脊向中央伸出，引导目光抵达陡峭升起的主峰。那座山有雪和外露深石组成的陡峭三角形山面，较小山峰向两侧延续地平线。右岸更平更暗，天空下是一条粗糙砾石与积雪地带。空气色彩异常丰厚。浓海军蓝和蓝云占据左上与中央，右侧地平线附近打开紫色、洋红辉光。远处陆地上方一道暖桃橙色光线照到几片云缘。山和河保持冷色，由渐弱的环境日光而非直射太阳照亮。较长曝光使流动水面稍柔，冰、石与山面仍清晰。相机位置接近河面，使近石有重量，河水成为进入场景的明确道路。调色平衡石板蓝、冰青、炭色、紫色和一小条暖色落日。画面开阔而肃穆，细致前景纹理通向巨大的山峰和色彩翻涌的天空。",
+  "style_prompt_en": "Fine-art landscape photography combines a low foreground viewpoint, crisp mineral texture, and a long visual route into atmospheric distance. Deep slate and navy blues dominate, with ice-cyan highlights and a restrained violet-to-peach glow near the horizon. Moving water may be gently smoothed by exposure while stones and distant ridges remain precise. Broken cloud cover gives diffuse cool light and a small warm edge, never flattening the dark foreground. Use layered banks and a strong central peak or vertical mass to hold the wide scene. The result is expansive, cold, and quietly dramatic.",
+  "style_prompt_zh": "艺术风景摄影结合低位前景视点、清晰矿物纹理和通向空气远景的长路径。深石板蓝与海军蓝主导，冰青色高光及地平线附近克制的紫到桃色辉光作重音。流动水面可因曝光而稍稍柔化，石头和远处山脊仍精确。破碎云层提供漫射冷光及小块暖边，不把暗前景照平。利用层叠岸线和有力的中央高峰或竖向体量支撑宽阔场景。效果开阔、寒冷、安静而戏剧化。",
+  "theme_en": "A cold river flowing toward snow-covered peaks under a violet dusk sky",
+  "theme_zh": "寒冷河流通向雪峰，头顶是紫色暮空",
+  "wh_ratio": "1:1",
+  "id": "1899",
+  "name": "Michael Breitung",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/michael-breitung",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/michael-breitung.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "08fbddeff9c1bae9a429bc02df8aa3900b0f8f576bb499b503f4d9511918571a",
+    "gpt_submission_prompt": "A square landscape photograph looks along a cold river toward a chain of jagged, snow-covered mountains at dusk. The stream enters from the lower foreground, widening across a bed of dark rounded stones and broken ice. Thin plates of pale ice float or rest near the banks, and smooth water carries blue-gray reflections between them. A low rough ridge of rocks projects from the left middle ground toward the center, guiding the eye to the sharply rising central peak. That mountain has a steep triangular face of snow and exposed dark stone; smaller peaks continue across the horizon to either side. The right bank is flatter and darker, with a strip of rough gravel and snow below the sky. The atmosphere is unusually rich in color. Heavy navy and blue clouds fill the upper left and center, while a violet and magenta glow opens near the right horizon. A line of warm peach-orange light runs just above the distant land, catching the edges of a few clouds. The mountain and river remain cool, lit by fading ambient daylight rather than direct sun. Long exposure softens the moving water slightly, but the ice, stones, and mountain faces are sharply defined. The camera is low to the river, giving the near rocks weight and letting the water form a clear route into the scene. The palette balances slate blue, ice cyan, charcoal, violet, and a small warm sunset band. The image is spacious and solemn, with detailed foreground texture leading into the monumental peaks and turbulent colored sky.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "763ade8b070de360261a945b435fd6dc32d7726fb68f679917094ed976cabb7f",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

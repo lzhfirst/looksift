@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white photograph shows two people seated against a rough wooden wall in strong sunlight. On the left, a woman with short dark hair sits with her legs angled across the lower frame, her head turned toward the man beside her. She wears a dark long-sleeved top and loose trousers; her face catches a small pale patch of light while most of her clothing remains deep gray. The man sits slightly higher and to the right. He wears a broad light hat, dark sunglasses, a pale rolled-sleeve shirt, suspenders, and worn trousers. His arms are folded across his chest, and he looks forward rather than at the woman. The vertical wood planks behind them have clear grain and seams, making a simple textured backdrop. A narrow horizontal board or low ledge runs behind their bodies, and dark ground with a few indistinct sticks fills the lower edge. Sunlight enters from the upper left, casting a hard hat shadow across the man's face and a large diagonal dark area on the wall. The shirt sleeves and hat brim stand out bright against the deep shadow around them. The woman's head and the man's folded arms create a quiet triangular arrangement, with a small gap between their shoulders. The photograph retains fine grain and direct tonal contrast rather than soft studio polish. No props or readable signs distract from the exchange of posture and gaze. The overall composition uses sunlight, wood grain, and two differently oriented figures to create a candid, restrained moment.",
+  "full_prompt_zh": "这幅方形黑白照片呈现两个人在强烈日光下坐在粗糙木墙前。左侧女子留短深发，双腿斜伸过下方画面，头转向身旁男子。她穿深色长袖上衣和宽松长裤；面孔接到一小片浅亮光，衣服大部仍深灰。男子坐得稍高且靠右，戴宽浅色帽和深色墨镜，穿浅色卷袖衬衫、背带与磨旧长裤。他双臂抱在胸前，向前而非向女子望去。身后竖木板有清楚木纹与接缝，构成简单带肌理的背景。两人身后横着一道窄木板或低台沿，下边缘是有几根模糊树枝的深色地面。阳光从左上进入，帽子在男子脸上投出硬影，墙上也有大片斜向暗区。衬衫袖和帽檐在周围深影前格外明亮。女子的头和男子抱起的手臂形成安静三角安排，肩膀之间留有小空隙。照片保留细颗粒和直接明暗反差，而非柔和影棚抛光。没有道具或可读标牌分散对姿态与目光关系的注意。整体构图用日光、木纹和朝向不同的两个人，形成随拍而克制的片刻。",
+  "style_prompt_en": "The monochrome photograph is direct and tactile, with strong sunlight separating bright planes from deep black shadow. Coarse vertical grain and simple horizontal divisions give the background structure without becoming elaborate. Pale highlights are sharply bounded where light is hard, while shaded regions retain fine film texture. The arrangement is informal but balanced, using angled shapes and small gaps to direct attention. Mid-gray surfaces connect the deepest black and clean white. The result feels candid, sturdy, and quietly observational.",
+  "style_prompt_zh": "这种单色摄影直接而可触，强日光把明亮平面与深黑阴影分开。粗竖向纹理和简单水平分界给背景结构，却不显繁复。硬光处浅亮高光边界锐利，阴影区域仍保留细胶片纹理。安排随意但平衡，斜向形体和小空隙引导注意。中灰表面连接最深黑与干净白色。结果有随拍感、坚实且安静观察。",
+  "theme_en": "Two seated people in hard sunlight against a wood-plank wall",
+  "theme_zh": "两个人在强日光下坐在木板墙前",
+  "wh_ratio": "1:1",
+  "id": "3112",
+  "name": "Edward Weston",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/edward-weston",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "52a0043681d6d3e87fc1bb27d6f1dfaff9d22ca0ef9d1d9fe5c02434e4af2faf",
+    "gpt_submission_prompt": "A square black-and-white photograph shows two people seated against a rough wooden wall in strong sunlight. On the left, a woman with short dark hair sits with her legs angled across the lower frame, her head turned toward the man beside her. She wears a dark long-sleeved top and loose trousers; her face catches a small pale patch of light while most of her clothing remains deep gray. The man sits slightly higher and to the right. He wears a broad light hat, dark sunglasses, a pale rolled-sleeve shirt, suspenders, and worn trousers. His arms are folded across his chest, and he looks forward rather than at the woman. The vertical wood planks behind them have clear grain and seams, making a simple textured backdrop. A narrow horizontal board or low ledge runs behind their bodies, and dark ground with a few indistinct sticks fills the lower edge. Sunlight enters from the upper left, casting a hard hat shadow across the man's face and a large diagonal dark area on the wall. The shirt sleeves and hat brim stand out bright against the deep shadow around them. The woman's head and the man's folded arms create a quiet triangular arrangement, with a small gap between their shoulders. The photograph retains fine grain and direct tonal contrast rather than soft studio polish. No props or readable signs distract from the exchange of posture and gaze. The overall composition uses sunlight, wood grain, and two differently oriented figures to create a candid, restrained moment.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "f37e8f11fdae949b7a3b276aa95430f436d578b8811a22fa99f0825226fed51c",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

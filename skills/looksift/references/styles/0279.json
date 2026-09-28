@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "An expressive mixed-media oil painting crops a face so closely that one eye and part of the nose fill the square frame. The amber-brown iris sits slightly left of center beneath a heavy dark brow, its small white reflection making the gaze immediate. Around this realistically observed eye, the rest of the face breaks into forceful slabs of color: crimson and dusty rose across the forehead, cobalt blue beneath the eye, dark green through the cheek, and ochre yellow over the bridge and side of the nose. White ground shows between some strokes, keeping the pigment from sealing the entire surface. Palette-knife smears, thick dragged paint, thin black scratches, and scattered splashes cross the planes at different angles. The eye retains delicate wet highlights and soft eyelid transitions, while the surrounding anatomy is deliberately interrupted by rough color boundaries and exposed underlayers. A dense band of black and dark green sweeps diagonally above the eye, giving the image its strongest structural line. Lower down, a red-orange patch adds warmth against blue and cream. The composition has almost no background or sense of full figure; it is a study of how a human feature can remain legible inside near-abstraction. The whole frame feels confrontational and alive, held by the tension between a precise gaze and unruly physical paint.",
+  "full_prompt_zh": "一幅富于表现力的混合媒介油画把面容裁切得极近，使一只眼睛和部分鼻子填满方形画框。琥珀棕色虹膜稍偏左侧，位于厚重深眉之下，细小的白色反光让凝视感立刻成立。围绕这只观察精确的眼睛，其余面部被打散成有力的色块：额头上的绯红与灰粉、眼下的钴蓝、脸颊的深绿，以及鼻梁和鼻侧的赭黄。部分笔触之间露出白色底子，使颜料没有把整个表面完全封住。调色刀抹痕、厚厚拖开的颜料、细黑刮线和零散飞溅从不同角度划过面部平面。眼睛保留细腻的湿润高光与柔和眼睑过渡，周围的解剖结构却被粗糙的色彩边界与外露底层有意打断。黑色和深绿色的密集带状形从眼睛上方斜扫而过，成为画面最强的结构线。更下方一片红橙色与蓝色、奶油白形成暖色对照。构图几乎没有背景，也没有完整人物感；它研究一个人的局部如何在接近抽象的形态中仍可辨认。整幅画因精准目光与不羁的物理颜料之间的张力而显得逼视且鲜活。",
+  "style_prompt_en": "The mixed-media oil image sets a small area of precise glossy modeling inside a turbulent field of thick, broken pigment. Cobalt, crimson, yellow ochre, dark green, black, and exposed cream ground collide in broad dragged slabs, fine scratches, and scattered flecks. A heavy dark diagonal anchors the upper portion, while cooler blue and green masses oppose warmer red and yellow patches below. Edge control is deliberately uneven: some transitions are soft and moist, others end abruptly where a palette knife lifts away. Visible underlayers and white gaps keep the surface open and active. The crop is extreme, eliminating scale cues and concentrating visual pressure near the center. Small wet-looking highlights catch the light amid rough matte marks. The whole frame feels urgent and tactile, balancing precise observation with near-abstract physical paint.",
+  "style_prompt_zh": "这幅混合媒介油画将一小片精确而有光泽的塑造，嵌进厚重、破碎的颜料场中。钴蓝、绯红、赭黄、深绿、黑色与外露的奶油白底相撞，化为宽阔拖开的色块、细小刮线和零散飞点。上部一道沉重的深色斜线稳住结构，下方偏冷的蓝绿体量与较暖的红黄斑块彼此对照。边缘控制有意不均：有些过渡柔软湿润，另一些在调色刀抬起处突然截断。可见的底层和白色缝隙让表面保持开放与活跃。裁切极近，去除了尺度线索，将视觉压力集中在中央附近。细小、仿佛湿润的高光在粗糙哑光笔迹之间接住光。整幅画在精确观察与接近抽象的物理颜料之间取得平衡，显得急迫而可触。",
+  "theme_en": "An intense gaze through fractured paint",
+  "theme_zh": "破碎颜料中的凝视",
+  "wh_ratio": "1:1",
+  "id": "0279",
+  "name": "Paul Jenkins",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/paul-jenkins",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/paul-jenkins.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "0e517fdbee95efa7cd5f58989e39d729c09addf6346a173bd7601a073175d866",
+    "gpt_submission_prompt": "An expressive mixed-media oil painting crops a face so closely that one eye and part of the nose fill the square frame. The amber-brown iris sits slightly left of center beneath a heavy dark brow, its small white reflection making the gaze immediate. Around this realistically observed eye, the rest of the face breaks into forceful slabs of color: crimson and dusty rose across the forehead, cobalt blue beneath the eye, dark green through the cheek, and ochre yellow over the bridge and side of the nose. White ground shows between some strokes, keeping the pigment from sealing the entire surface. Palette-knife smears, thick dragged paint, thin black scratches, and scattered splashes cross the planes at different angles. The eye retains delicate wet highlights and soft eyelid transitions, while the surrounding anatomy is deliberately interrupted by rough color boundaries and exposed underlayers. A dense band of black and dark green sweeps diagonally above the eye, giving the image its strongest structural line. Lower down, a red-orange patch adds warmth against blue and cream. The composition has almost no background or sense of full figure; it is a study of how a human feature can remain legible inside near-abstraction. The whole frame feels confrontational and alive, held by the tension between a precise gaze and unruly physical paint.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "06face870e99732eb3ef099e2fdd2f6fe2d0236890cec67919bcd0ae8b81fb72",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

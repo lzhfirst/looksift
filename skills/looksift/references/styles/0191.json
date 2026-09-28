@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A wide, dimly lit photographic scene shows a dark-haired figure bowing the head in a nearly black interior. The person occupies the left-center, visible only from the upper torso upward. A pale collared shirt catches the most direct light along the shoulder, neck, and upper chest, while a dark outer layer and much of the hair disappear into surrounding shadow. The face turns downward toward the lower right. Warm amber light touches the cheekbone, nose, lips, and fingers of hair, but the eyes remain mostly obscured by the downward angle and deep shade. Behind the figure, faint narrow vertical panel lines emerge from the darkness. At the right side of the image, a tall slim rectangular window or glass-panel opening glows with soft yellow-orange light, divided by dark horizontal bars. Its luminous blocks are blurred at the edges, making the nearby wall just visible while most of the room stays unlit. A tiny pair of vertical golden marks sits deeper behind the person's face, secondary to the window. No readable text or other people appear in the selected scene. The image has a restrained naturalistic photographic finish: smooth dark tonal fields contrast with small crisp highlights on the face and shirt. The amber source comes from the right and slightly behind, outlining rather than evenly revealing the figure. Large empty black areas press around the lowered pose, making a quiet private moment feel heavy and introspective.",
+  "full_prompt_zh": "一幅宽幅弱光摄影场景描绘一位深发人物在近乎黑色的室内低下头。人物位于左侧中央，仅上半身可见。浅色有领衬衫在肩、颈和上胸承接最直接的光，深色外层衣物和大部分头发则消失在周围阴影中。面孔向右下低垂。暖琥珀光触及颧骨、鼻子、嘴唇和几缕发丝，但向下的角度与浓影几乎遮住眼睛。人物身后，淡淡狭窄竖向墙板线从黑暗里显现。图像右侧有一扇高而窄的矩形窗或玻璃开口发出柔软黄橙光，被深色横杆分隔。发亮方块边缘模糊，只使附近墙面略可见，房间其余部分仍不受光。人物面孔后方更深处有一对细小金色竖痕，从属于窗光。所选场景没有可读文字或其他人。图像是克制的自然主义摄影表面：平滑深暗调子与面孔、衬衫上的少量清楚亮部相对。琥珀光源从右侧略偏身后照来，勾出人物轮廓，而不是平均揭示全身。大片空黑围住低头姿态，让安静私密的时刻显得沉重而内省。",
+  "style_prompt_en": "Low-key naturalistic photography reserves most of the frame for nearly black tonal space, revealing a focal form only through a few warm amber highlights. Small luminous rectangles or slits create a secondary geometric rhythm within the dark. Light enters from one side or behind, catching select edges and planes while leaving interior detail submerged. Smooth shadow fields contrast with precise local contours where the highlight lands. Warm light remains concentrated and the surrounding colors stay deep brown, charcoal, and muted green-black. An asymmetrically placed figure-sized mass and broad negative space make the composition quiet and psychologically dense.",
+  "style_prompt_zh": "低调自然主义摄影把画面大部留给近黑调子空间，仅以少量暖琥珀亮部揭示焦点形体。小小发亮矩形或狭缝在暗中建立次级几何节奏。光从一侧或身后进入，照到少数边缘与平面，内部细节仍沉没。平滑阴影区域与亮部落点处准确局部轮廓形成对照。暖光高度集中，周围颜色保持深褐、炭灰和柔暗绿黑。非对称放置的焦点体块与宽阔负空间使构图安静而具有心理重量。",
+  "theme_en": "A bowed figure in a dark room beside a narrow amber window",
+  "theme_zh": "低头人物立在暗室里，旁边有一道窄窄的琥珀色窗光",
+  "wh_ratio": "1:1",
+  "id": "0191",
+  "name": "Dim lighting",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/dim-lighting",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/dim-lighting.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "289bd08e090cbe4a060cbd922455198de102f5a2fb1be2055414efeeda7ab9da",
+    "gpt_submission_prompt": "A wide, dimly lit photographic scene shows a dark-haired figure bowing the head in a nearly black interior. The person occupies the left-center, visible only from the upper torso upward. A pale collared shirt catches the most direct light along the shoulder, neck, and upper chest, while a dark outer layer and much of the hair disappear into surrounding shadow. The face turns downward toward the lower right. Warm amber light touches the cheekbone, nose, lips, and fingers of hair, but the eyes remain mostly obscured by the downward angle and deep shade. Behind the figure, faint narrow vertical panel lines emerge from the darkness. At the right side of the image, a tall slim rectangular window or glass-panel opening glows with soft yellow-orange light, divided by dark horizontal bars. Its luminous blocks are blurred at the edges, making the nearby wall just visible while most of the room stays unlit. A tiny pair of vertical golden marks sits deeper behind the person's face, secondary to the window. No readable text or other people appear in the selected scene. The image has a restrained naturalistic photographic finish: smooth dark tonal fields contrast with small crisp highlights on the face and shirt. The amber source comes from the right and slightly behind, outlining rather than evenly revealing the figure. Large empty black areas press around the lowered pose, making a quiet private moment feel heavy and introspective.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "ec49f176624ecae8a0b845b6b4da827503f2ee4db35da1805901f8a6171d9fa3",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

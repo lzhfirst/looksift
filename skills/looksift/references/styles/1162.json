@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A finely detailed monochrome image shows a young woman seated low among dense flowering vines and leafy branches. She is tucked slightly right of center, her knees drawn close, one arm resting across them while her head bends downward in a private, quiet gesture. Dark hair falls forward in smooth waves; a pale long-sleeved blouse with softly gathered cuffs separates her upper body from a full dark skirt. White blossoms and pale leaves cluster densely behind and around her, making an intricate tapestry of light shapes against the deep foliage. The ground beneath her is almost lost under scattered leaves and fine stems. The composition is close and enclosed, with little open sky or distant perspective; the plants press in from every edge while the woman's curved posture gives the eye a calm center. Tonal contrast is rich but delicate: pale fabric and flowers glow gently, hair and skirt form near-black masses, and gray leaf shapes bridge the two. Light appears soft and diffused, with no hard cast shadows, allowing tiny botanical edges, folds of cloth, and individual strands of hair to remain visible. The surface suggests a carefully worked photographic print or graphite-rich illustration, with fine grain, subtle linework, and velvety dark passages. The resulting mood is introspective and still, rooted in the tactile abundance of leaves, cloth, and hair.",
+  "full_prompt_zh": "一幅细节精密的单色画面，描绘一位年轻女子低坐在繁密的开花藤蔓与枝叶之间。她位于中心稍右，膝盖收拢，一只手臂搭在膝上，头向下倾，姿态安静而私密。深色头发以平滑波浪向前垂落；浅色长袖衬衫和柔软收拢的袖口，使上身从深色宽裙中分离出来。白花与浅色叶片在身后和身旁密集聚拢，在深色叶丛前织成复杂的亮色纹样。脚下地面几乎被落叶和细茎遮住。构图亲近而封闭，少有开阔天空或远景；植物从各边向内挤压，女子弯曲的姿态则为目光提供安静中心。明暗对比丰厚却细致：浅色布料和花朵轻柔发亮，头发与裙子形成近黑体块，灰色叶片在两者之间过渡。光线柔和而漫射，没有生硬投影，使细小植物边缘、布料褶皱和单根发丝仍可辨认。表面像经过仔细处理的摄影相纸或富含石墨质感的插画，带有细颗粒、微妙线条与丝绒般的暗部。最终气氛内省、静止，扎根于叶片、布料和头发丰沛而可触的质地。",
+  "style_prompt_en": "Finely detailed monochrome imagery with velvety dark masses and delicate pale accents woven through them. Dense organic shapes gather from every side around a quiet central curve, producing an enclosed, tapestry-like composition. Soft diffuse light keeps highlights gentle and preserves detail within deep shadow. Fine grain and subtle linear marks describe small textures without turning the surface harsh. Pale fabriclike areas, crisp tiny edges, and smooth dark passages vary the tactile rhythm. The grayscale remains rich and restrained, moving from cream-white to charcoal through many intermediate tones. The mood is still, intimate, and introspective.",
+  "style_prompt_zh": "细节丰富的单色图像风格，丝绒般的深色体块之间交织纤细的浅色点缀。密集的有机形状从四周聚向一条安静的中心曲线，形成封闭而如织毯的构图。柔和漫射光让亮部温润，并在深阴影里保留细节。细微颗粒和轻巧线条描出小尺度纹理，却不使表面粗硬。浅色布料般区域、清晰的小边缘与平滑暗部改变触觉节奏。灰阶丰厚而克制，从奶油白经由许多中间调过渡到炭黑。气氛静止、亲近而内省。",
+  "theme_en": "A woman quietly seated among dense flowering foliage",
+  "theme_zh": "女子静坐于繁密花叶之间",
+  "wh_ratio": "1:1",
+  "id": "1162",
+  "name": "Hong-Oai Don",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/hong-oai-don",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/hong-oai-don.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "b82fc787b221b9014a36de6dfe9e202e7c1c7aa44e8efbfad8349e12e2a32974",
+    "gpt_submission_prompt": "A finely detailed monochrome image shows a young woman seated low among dense flowering vines and leafy branches. She is tucked slightly right of center, her knees drawn close, one arm resting across them while her head bends downward in a private, quiet gesture. Dark hair falls forward in smooth waves; a pale long-sleeved blouse with softly gathered cuffs separates her upper body from a full dark skirt. White blossoms and pale leaves cluster densely behind and around her, making an intricate tapestry of light shapes against the deep foliage. The ground beneath her is almost lost under scattered leaves and fine stems. The composition is close and enclosed, with little open sky or distant perspective; the plants press in from every edge while the woman's curved posture gives the eye a calm center. Tonal contrast is rich but delicate: pale fabric and flowers glow gently, hair and skirt form near-black masses, and gray leaf shapes bridge the two. Light appears soft and diffused, with no hard cast shadows, allowing tiny botanical edges, folds of cloth, and individual strands of hair to remain visible. The surface suggests a carefully worked photographic print or graphite-rich illustration, with fine grain, subtle linework, and velvety dark passages. The resulting mood is introspective and still, rooted in the tactile abundance of leaves, cloth, and hair.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "8a6fa15960b1c3b1247b7141d67c8c8bd34546b0e7289d0f6b68d17207e53e2f",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square digital concept painting shows a single armored warrior standing against a flat warm beige ground. The body is turned slightly to the right, while the head is hooded or enclosed in a black angular helmet that hides the face. A thin orange ring sits behind the upper head like a graphic halo, its clean curve contrasting with the jagged silhouette. The chest, shoulders and arms are built from rough black and olive brush masses, with narrow orange slashes glowing between the plates. One long dark blade angles down toward the lower left, and other sharp projections extend from the torso and back. The figure occupies most of the height but leaves generous blank space at the sides. At the lower edge, the form breaks into scattered black marks instead of a fully described ground. Light is mostly graphic and selective: orange accents ignite small edges, while the armor remains nearly black. Broad paint strokes, scratchy splinters and ink-like splashes create a restless surface. The background is smooth and quiet, allowing the dense central texture to dominate. The composition feels forceful and mysterious, combining a clear upright stance with fragmented edges and a restrained black, tan and orange palette.",
+  "full_prompt_zh": "这幅方形数字概念画呈现一名铠甲武士立在平坦暖米色背景前。身体略向右转，头由兜帽或黑色棱角头盔封住，面部不可见。一个细橙圆环位于头后，像图形化光环，干净曲线对照锯齿般剪影。胸、肩、手臂由粗阔黑色与橄榄色笔块组成，窄橙色划痕从甲片间发亮。一把长暗刀向左下斜伸，躯干与背后还有其他尖锐突起。形体占据大部分高度，但两侧留有充足空白。下边缘由散开的黑色笔记结束，而非完整地面。光主要是图形化且有选择的：橙色点缀点燃少数边缘，铠甲仍近乎黑色。宽笔、刮擦裂片与墨汁般飞溅构成躁动表面。背景平滑安静，使中央密集纹理成为主导。构图有力而神秘，把清楚直立姿态与碎裂边缘、克制的黑米橙色盘结合。",
+  "style_prompt_en": "The digital concept painting sets a dense, near-black upright mass against a smooth warm neutral field. Jagged brush fragments, scraped edges and ink-like splatters interrupt the silhouette, while a thin clean circle and narrow orange slashes provide precise counterpoints. Olive gray softens the black in a few planes. Light is selective and graphic, concentrated in small hot accents rather than broad modeling. Open space around the central cluster makes its rough texture and vertical force more pronounced.",
+  "style_prompt_zh": "这种数字概念画把密集近黑的直立色块置于平滑暖中性色域前。锯齿笔片、刮擦边缘和墨汁般飞溅打断剪影，细而干净的圆线与窄橙划痕成为准确对照。少数平面由橄榄灰缓和黑色。光有选择且图形化，集中在细小炽热点，而非宽阔体积塑造。中央色簇周围的空白使粗糙纹理与竖向力量更加明显。",
+  "theme_en": "A shadowy armored warrior framed by an orange ring",
+  "theme_zh": "橙色圆环前的暗色铠甲武士",
+  "wh_ratio": "1:1",
+  "id": "3826",
+  "name": "Benedick Bana",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/benedick-bana",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "b82f1dba3335fce886164246fbbd17f0e9efd0c8b32d2ed05870fbfbd9e6f672",
+    "gpt_submission_prompt": "A square digital concept painting shows a single armored warrior standing against a flat warm beige ground. The body is turned slightly to the right, while the head is hooded or enclosed in a black angular helmet that hides the face. A thin orange ring sits behind the upper head like a graphic halo, its clean curve contrasting with the jagged silhouette. The chest, shoulders and arms are built from rough black and olive brush masses, with narrow orange slashes glowing between the plates. One long dark blade angles down toward the lower left, and other sharp projections extend from the torso and back. The figure occupies most of the height but leaves generous blank space at the sides. At the lower edge, the form breaks into scattered black marks instead of a fully described ground. Light is mostly graphic and selective: orange accents ignite small edges, while the armor remains nearly black. Broad paint strokes, scratchy splinters and ink-like splashes create a restless surface. The background is smooth and quiet, allowing the dense central texture to dominate. The composition feels forceful and mysterious, combining a clear upright stance with fragmented edges and a restrained black, tan and orange palette.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "87429729de7ed469a74917d8d6fddac00aff80738df7daa5988ee55412f9f09d",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

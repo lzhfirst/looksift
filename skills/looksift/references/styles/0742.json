@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A vivid fantasy-anime illustration centers a young adventurer inside a circular, intricately worked magical frame. The figure faces forward with narrowed magenta eyes and a determined expression; sharp black hair rises into exaggerated spikes edged in crimson, while angular blond bangs radiate around the face like gilded blades. A red jacket flares outward over a dark blue shirt, and a chain with a small pendant hangs down the center of the chest. Both arms reach broadly toward the viewer and the sides of the image, giving the pose immediate, theatrical energy. Behind the figure, a luminous round mechanism or sigil fills most of the square image, packed with fine rings, symbols, fractured shapes, and warm golden light. Cool teal fragments appear between the orange and copper passages, breaking up the heat of the background. At the lower center, a large triangular golden emblem containing a stylized eye projects forward across the figure's waist, its crisp geometry contrasting with the busy painterly textures around it. Wisps, shards, and ornament coil around the circular border, while a nearly black outer field isolates the composition. Light blooms from behind and from the metallic emblem, creating bright edges along hair, jacket, and raised hands. The finished image is dense and symmetrical without feeling static: bold anime contour design sits within a richly layered, mystical digital painting.",
+  "full_prompt_zh": "一幅鲜艳的奇幻动漫插画把年轻冒险者置于布满细节的圆形魔法框架内。人物正面朝向观者，洋红色双眼微眯，神情坚定；黑发向上伸成夸张的尖刺，边缘带深红色，棱角分明的金色刘海像镀金刀片般从脸侧放射。红色外套向外翻飞，内搭深蓝上衣，一条系有小饰物的链子垂在胸前。双臂向观者和画面两侧大幅伸出，使姿态立即带有戏剧性的动势。人物背后，发光的圆形机构或符印占据方形画面大部，细密的同心环、符号、破碎形块和暖金色光芒层层堆叠。冷青绿碎片穿插在橙色与铜色之间，打断背景的热烈色温。下方中央，一枚内含风格化眼睛的大型金色三角徽记跨过人物腰部向前突出，清晰的几何形与周围繁忙的绘画纹理形成反差。烟缕、碎片与装饰沿圆环边缘盘绕，近乎黑色的外围将构图隔离出来。光从人物背后及金属徽记处迸出，在发梢、外套和伸出的手上形成亮边。完成画面细节密集且近乎对称，却并不呆板：鲜明的动漫轮廓设计被嵌入层次丰厚的神秘数字绘画中。",
+  "style_prompt_en": "The digital illustration combines graphic anime contours with densely layered fantasy painting. Angular silhouettes and sharp color blocks are set against finely ornamented circular depth, producing an energetic central focus. Saturated crimson, antique gold, copper, and near-black dominate, interrupted by small cool teal accents. Multiple luminous layers create a backlit glow and hard highlights along selected edges, while smoky and fragmented marks soften the outer transition. Symmetry provides structure, but sweeping diagonals and overlapping planes keep the frame active. The finish is polished, intricate, and theatrical, with crisp emblematic geometry embedded in textured painterly detail.",
+  "style_prompt_zh": "数字插画把图形化动漫轮廓与层次密集的奇幻绘画结合。棱角鲜明的剪影和明确色块置于细密装饰的圆形纵深前，形成有力的中心焦点。饱和深红、旧金、铜色和近黑色占据主调，少量冷青绿穿插其间。多层发光效果带来逆光光晕，并在选定边缘形成硬亮部；烟雾状和碎片状笔触柔化外围过渡。对称提供结构，扫过画面的斜线与重叠平面又维持活力。整体精致、繁复而富戏剧感，清晰的徽章式几何形嵌入具有笔触肌理的细节中。",
+  "theme_en": "A dramatic anime adventurer with starburst hair framed by a glowing arcane circle and a golden eye emblem.",
+  "theme_zh": "一位星芒状发型的动漫冒险者站在发光秘法圆环前，前景浮现一枚金色眼睛徽记。",
+  "wh_ratio": "1:1",
+  "id": "0742",
+  "name": "Yu-Gi-Oh",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/yu-gi-oh",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/yu-gi-oh.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "e87c3e87b16ae981a532e7c5f952a761ca828907a87a82febe010da0bee8f86e",
+    "gpt_submission_prompt": "A vivid fantasy-anime illustration centers a young adventurer inside a circular, intricately worked magical frame. The figure faces forward with narrowed magenta eyes and a determined expression; sharp black hair rises into exaggerated spikes edged in crimson, while angular blond bangs radiate around the face like gilded blades. A red jacket flares outward over a dark blue shirt, and a chain with a small pendant hangs down the center of the chest. Both arms reach broadly toward the viewer and the sides of the image, giving the pose immediate, theatrical energy. Behind the figure, a luminous round mechanism or sigil fills most of the square image, packed with fine rings, symbols, fractured shapes, and warm golden light. Cool teal fragments appear between the orange and copper passages, breaking up the heat of the background. At the lower center, a large triangular golden emblem containing a stylized eye projects forward across the figure's waist, its crisp geometry contrasting with the busy painterly textures around it. Wisps, shards, and ornament coil around the circular border, while a nearly black outer field isolates the composition. Light blooms from behind and from the metallic emblem, creating bright edges along hair, jacket, and raised hands. The finished image is dense and symmetrical without feeling static: bold anime contour design sits within a richly layered, mystical digital painting.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "3a40c2e966feb0b6d88d06ccafe7df19bc971697a9af5716adea015fbae10c31",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

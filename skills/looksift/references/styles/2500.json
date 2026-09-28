@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square conceptual photographic image shows a small solitary human silhouette centered near the bottom of a vast corridor of vertical white light. Hundreds of extremely narrow gray and black bands fall from the top edge like elongated exposure trails, crowding together on both sides of a bright central opening. The person stands upright on a dark reflective floor, facing into the luminous distance. A faint inverted reflection extends beneath the feet and dissolves in low mist. There are no clearly described walls or objects; the space is built almost entirely from repeated streaks, tonal gradients, and a shallow band of ground. The brightest white opens above and behind the figure, then fades to silver gray, charcoal, and nearly black toward the sides. Dense lines remain sharp in their vertical direction but soften where they meet haze close to the horizon. The scale difference between the tiny figure and towering bands gives the image monumental height and solitude. Light behaves like an opening within a dark abstract environment, washing the center while leaving side regions in shadow. Smooth photographic gradients contrast with the fine comb-like rhythm of the elongated marks. The image feels still, meditative, and slightly unreal, with strong central symmetry and a restrained monochrome palette.",
+  "full_prompt_zh": "一幅方形观念摄影画面中，一个微小的独立人影立在大片竖向白光通道的底部中央。数百道极细的灰黑竖带从上缘垂下，像拉长的曝光轨迹，密集排列在明亮中央开口两侧。人物直立于深色反光地面，朝向发光的远方。脚下隐约有倒影延伸，并融入低处薄雾。这里没有明确描绘的墙壁或物件；空间几乎完全由重复的条痕、明暗渐层与狭窄地面带构成。最亮的白色从人物后上方打开，向两侧逐渐转为银灰、炭色和近黑。密集线条在竖向上保持清晰，接近地平的雾气时则变柔。小人物与高耸光带的尺度悬殊，令画面具有纪念碑般的高度和孤独感。光仿佛深色抽象环境中的一处开口，冲洗中央而让两侧落在阴影中。平滑摄影渐层与细密梳齿般的拉长痕迹形成对比。整幅影像安静、冥想而略不真实，呈强烈中央对称和克制单色配色。",
+  "style_prompt_en": "Conceptual photography stretches light and shadow into dense, parallel vertical traces. Monochrome white, silver, charcoal, and black create an intense central glow with dark margins. Smooth tonal transitions and soft low haze are interrupted by fine, nearly comb-like linear texture. Reflected light extends the vertical rhythm below a narrow horizon. A tiny dark focal mark gives scale to an otherwise abstract expanse. Edges are crisp along the streaks and diffused near the luminous opening, making depth through contrast and atmosphere. The arrangement is symmetrical, spare, and contemplative.",
+  "style_prompt_zh": "观念摄影把光影拉成长密平行竖痕。白、银、炭与黑的单色阶形成强烈中央辉光和暗侧边。平滑明暗过渡与低处柔雾被细密、近似梳齿的线性肌理打断。反射光把竖向节奏延伸到狭窄地平线下方。极小深色焦点为原本抽象的广大空间提供尺度。条痕边缘清晰，发光开口附近则散开，通过对比与空气感制造纵深。布局对称、简净、沉思。",
+  "theme_en": "A lone silhouette beneath vertical bands of white light",
+  "theme_zh": "白色竖向光带下的孤独剪影",
+  "wh_ratio": "1:1",
+  "id": "2500",
+  "name": "Josh Adamski",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/josh-adamski",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/josh-adamski.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "154a7505ca44f4f08a8890657d5933e5e0484cfe077e8dcbf30e84e76ab0201b",
+    "gpt_submission_prompt": "A square conceptual photographic image shows a small solitary human silhouette centered near the bottom of a vast corridor of vertical white light. Hundreds of extremely narrow gray and black bands fall from the top edge like elongated exposure trails, crowding together on both sides of a bright central opening. The person stands upright on a dark reflective floor, facing into the luminous distance. A faint inverted reflection extends beneath the feet and dissolves in low mist. There are no clearly described walls or objects; the space is built almost entirely from repeated streaks, tonal gradients, and a shallow band of ground. The brightest white opens above and behind the figure, then fades to silver gray, charcoal, and nearly black toward the sides. Dense lines remain sharp in their vertical direction but soften where they meet haze close to the horizon. The scale difference between the tiny figure and towering bands gives the image monumental height and solitude. Light behaves like an opening within a dark abstract environment, washing the center while leaving side regions in shadow. Smooth photographic gradients contrast with the fine comb-like rhythm of the elongated marks. The image feels still, meditative, and slightly unreal, with strong central symmetry and a restrained monochrome palette.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "8087baec09dd82763e29d0159ae46e9e0dce40b8b9d08d5a72f495f91db5b2b0",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

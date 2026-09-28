@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A contemporary painterly character portrait shows a hooded traveler in three-quarter view against a broad off-white ground. The face is the most resolved passage: warm skin tones and a sharp nose emerge from deep shadow beneath the dark hood, and the serious gaze turns toward the right edge. Around this compact focal point, clothing, equipment, and background break into expressive fragments of slate blue, charcoal, rusty orange, mustard yellow, and a strong vertical red accent. A strapped object rises behind the left shoulder, while a circular metal medallion rests near the chest; both are indicated with enough form to read but remain partly swallowed by loose marks. The picture has the look of thick digital oil or heavily worked mixed media, with dragged brush blocks, scraped pale patches, hairline charcoal scratches, and isolated impasto-like flecks. The plain background is not empty: faint vertical drips, crosswise marks, and interruptions of exposed cream surface give the figure a distressed paper-like setting. Light falls from the upper left, catching the forehead, cheekbone, and rough upper edges of the hood before fading into blackened folds. The shoulders spread into a broad lower mass, balancing the small bright face and the thin upward prop. The eye moves between the clear human features and the disorderly painted edges, where form seems to assemble and dissolve. The whole frame feels gritty and immediate, with controlled realism held inside a restless field of broken color.",
+  "full_prompt_zh": "一幅当代绘画式角色肖像让戴兜帽的旅人以四分之三侧面立于宽阔的米白背景前。面孔是最完整的区域：暖色皮肤与清晰鼻梁从深色兜帽下的阴影中显现，严肃的目光朝向右边缘。围绕这个紧凑焦点，服装、装备与背景分裂成板岩蓝、炭黑、锈橙、芥末黄和一条强烈竖向红色点缀。一件绑在背后的物体从左肩后方升起，圆形金属饰物落在胸前；二者形体足够可辨，却仍部分被松散笔触吞没。画面有厚涂数码油画或反复加工的混合媒介质感，带有拖开的刷痕色块、刮出的浅色斑片、发丝般的炭色划痕和零散的厚涂状亮点。平淡的背景并不空白：隐约的竖向滴痕、横向痕迹与露出奶油色底面的断裂，给人物一个磨损纸张般的环境。光从左上方落下，捕捉额头、颧骨与兜帽粗糙的上边缘，再衰减进发黑的褶皱。肩膀向下扩成宽阔团块，平衡小块明亮面孔和纤细上升的道具。视线在清晰的人体特征与纷乱的绘画边缘之间游走，形体仿佛一边聚合一边消散。整幅画粗粝而直接，受控的写实被包裹在躁动、破碎的色彩场中。",
+  "style_prompt_en": "A contemporary painterly image mixes a sharply resolved focal area with fractured, partly dissolving edges. Thick digital-oil-like blocks, dragged strokes, scraped pale passages, thin charcoal scratches, and faint drips work over an off-white ground. Slate blue and near-black masses carry rusty orange, mustard yellow, and concentrated red accents; directional light picks out a few warm highlights before dropping into deep folds. Broad lower weight is balanced by slender upward marks. The whole frame feels gritty, kinetic, and deliberately unfinished at its margins.",
+  "style_prompt_zh": "一幅当代绘画式图像将清晰完成的焦点区域与破碎、部分消散的边缘结合。厚重的数码油画般色块、拖笔、刮出的浅色通道、细炭线与隐约滴痕覆盖米白底面。板岩蓝和近黑色团块承载锈橙、芥末黄与集中的红色点缀；定向光挑出少量暖色高光后迅速落进深褶。宽阔的下部重量与纤细向上的笔痕取得平衡。整幅画粗粝、富于动势，边缘有意保留未完成的感觉。",
+  "theme_en": "A hooded traveler rendered in fractured painterly marks",
+  "theme_zh": "以破碎绘画笔触表现的兜帽旅人",
+  "wh_ratio": "1:1",
+  "id": "1809",
+  "name": "Richard Anderson",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/richard-anderson",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/richard-anderson.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "a7e9d74788f71df0b21a278989a6dcce43831384b54ec053e1b1e038d54db747",
+    "gpt_submission_prompt": "A contemporary painterly character portrait shows a hooded traveler in three-quarter view against a broad off-white ground. The face is the most resolved passage: warm skin tones and a sharp nose emerge from deep shadow beneath the dark hood, and the serious gaze turns toward the right edge. Around this compact focal point, clothing, equipment, and background break into expressive fragments of slate blue, charcoal, rusty orange, mustard yellow, and a strong vertical red accent. A strapped object rises behind the left shoulder, while a circular metal medallion rests near the chest; both are indicated with enough form to read but remain partly swallowed by loose marks. The picture has the look of thick digital oil or heavily worked mixed media, with dragged brush blocks, scraped pale patches, hairline charcoal scratches, and isolated impasto-like flecks. The plain background is not empty: faint vertical drips, crosswise marks, and interruptions of exposed cream surface give the figure a distressed paper-like setting. Light falls from the upper left, catching the forehead, cheekbone, and rough upper edges of the hood before fading into blackened folds. The shoulders spread into a broad lower mass, balancing the small bright face and the thin upward prop. The eye moves between the clear human features and the disorderly painted edges, where form seems to assemble and dissolve. The whole frame feels gritty and immediate, with controlled realism held inside a restless field of broken color.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "cfbabef5e7b44c1f81b3c39cefff6ed810a2cd84edd5fdbf09db56829dac2da4",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

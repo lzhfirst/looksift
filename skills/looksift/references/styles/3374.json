@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square anime inspired noir painting shows four travelers gathered closely in a dim room. In the front center, a dark curly haired man in a red suit and bright yellow open collared shirt sits forward with one hand raised to his face. His gaze is directed outward, watchful but relaxed. At left, a man in a broad dark hat and pale shirt leans toward him, one hand touching the brim as a thin curl of smoke rises near his shoulder. At right, an older gray haired man in a dark jacket sits with an orange tie and a faint knowing smile. Behind the central figure, a young dark haired woman in a pale pink jacket stands between the seated men, leaning slightly in and looking down toward the group. Deep brown walls, picture frames, and small furniture details recede behind them. The figures form a compact triangle of faces above a broad dark lower field of suits and shadows. Amber light from the upper right grazes the older man's face and the woman's jacket, while cool teal shadow defines the central man's hair and the left side of the room. Red upholstery and yellow fabric add concentrated warm accents. The paint surface is slightly scuffed, with scratchy edges and visible grain around the border. The image feels intimate and confident, like a quiet pause before action, with stylized character expressions set inside smoky cinematic darkness.",
+  "full_prompt_zh": "一幅方形动画风黑色电影绘画描绘四名旅人紧紧聚在昏暗房间里。前方中央，深色卷发男子穿红西装和亮黄敞领衬衫，身体前倾坐着，一只手抬到脸旁。他向画外望，神情警觉却放松。左侧，戴宽深帽、穿浅色衬衫的男子朝他倾身，一只手碰着帽檐，肩旁升起细烟。右侧，灰发年长男子穿深外套、系橙领带坐着，嘴角有一丝了然微笑。中央人物后面，一位穿浅粉夹克的深发年轻女子站在坐者之间，略向内俯，看向这群人。深棕墙、画框和少量家具细节在身后退去。人物的脸在宽阔深色西装与阴影下方区域上构成紧凑三角。右上琥珀光掠过年长男子的脸和女子夹克，冷深青阴影界定中央男子头发与房间左侧。红色软垫和黄色布料提供集中的暖色重音。颜料表面略带擦损，边框附近有刮擦边缘和可见颗粒。画面亲密而自信，像行动前的安静停顿，风格化神情留在烟雾般电影黑暗中。",
+  "style_prompt_en": "Anime inspired noir painting compresses several distinct shapes into a warm shadowed grouping. Deep umber, charcoal, muted teal, rust red, amber, and a small vivid yellow accent create a rich but controlled palette. Focal planes are arranged in a compact upper triangle above a broad dark lower mass; small directional marks and edges connect them. Light is low and directional from one side, lifting selected planes while allowing much of the background to merge into brown black atmosphere. Crisp graphic contours coexist with rubbed paint, soft smoke like transitions, and subtle print grain. Detail gathers near the centers of attention and falls away quickly at the border. The composition feels sophisticated, intimate, and quietly tense, with restrained color and shadow suggesting a larger unseen world.",
+  "style_prompt_zh": "动画风黑色电影绘画把数块各异形体压缩成暖暗色组合。深棕褐、炭黑、低饱和深青、锈红、琥珀和少量鲜黄重音组成丰厚而受控的色域。焦点平面在上方排成紧凑三角，下方是宽阔深色体块；细小方向笔迹和边缘将它们连接。光从一侧低位而来，抬亮选定平面，让大部分背景融入棕黑空气。清脆图形轮廓与揉擦颜料、烟般柔软过渡和细印刷颗粒并存。细节聚在注意力中心，到边界迅速消退。构图精致、亲密且安静紧张，克制颜色和阴影暗示画外更大世界。",
+  "theme_en": "Four travelers gathered in a dim room with a smoky noir mood",
+  "theme_zh": "四名旅人聚在昏暗房间里，带烟雾黑色电影气息",
+  "wh_ratio": "1:1",
+  "id": "3374",
+  "name": "Cowboy Bebop",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/cowboy-bebop",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "c07daa0473027072c631da3eb25f7af5c9da529556d25e6f4f6adfa6f5a0793a",
+    "gpt_submission_prompt": "A square anime inspired noir painting shows four travelers gathered closely in a dim room. In the front center, a dark curly haired man in a red suit and bright yellow open collared shirt sits forward with one hand raised to his face. His gaze is directed outward, watchful but relaxed. At left, a man in a broad dark hat and pale shirt leans toward him, one hand touching the brim as a thin curl of smoke rises near his shoulder. At right, an older gray haired man in a dark jacket sits with an orange tie and a faint knowing smile. Behind the central figure, a young dark haired woman in a pale pink jacket stands between the seated men, leaning slightly in and looking down toward the group. Deep brown walls, picture frames, and small furniture details recede behind them. The figures form a compact triangle of faces above a broad dark lower field of suits and shadows. Amber light from the upper right grazes the older man's face and the woman's jacket, while cool teal shadow defines the central man's hair and the left side of the room. Red upholstery and yellow fabric add concentrated warm accents. The paint surface is slightly scuffed, with scratchy edges and visible grain around the border. The image feels intimate and confident, like a quiet pause before action, with stylized character expressions set inside smoky cinematic darkness.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "df29cb8f2c078f3c1559c4fe87249dd7f04cc78aa6d3dad254a464324f242f0a",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square academic oil painting shows a young girl in a white headscarf holding a small lamb against a dark, unobtrusive background. The girl fills the right and central portions from the waist upward, turning slightly toward the left while looking calmly at the viewer. Her pale headscarf wraps over brown hair and falls in broad soft folds behind the right shoulder. The face is gently modeled, with dark eyes, warm cheeks, a small straight nose, and relaxed lips. She wears a muted red-brown dress beneath a patterned gray vest or bodice, its woven detail most visible along the shoulder and chest. Her near arm circles the lamb's neck and chest, bringing the white animal into the lower-left foreground. The lamb turns its head toward the viewer, with a soft woolly face, a pink inner ear, and pale muzzle. Cream fleece and headscarf repeat each other's bright values, while the red garment anchors the middle with warmth. The background remains a deep olive-brown gradient, without architecture, landscape, or readable writing. Paint is finely blended across the faces and wool, with delicate brush texture visible in the cloth and dark ground. Soft directional light enters from the upper left, illuminating the forehead, scarf folds, and lamb's face; shadows deepen gently under the chin, arm, and animal's neck. The composition is closely cropped but not crowded, allowing the two heads to form a tender diagonal. The overall image is quiet and intimate, balancing luminous white fabric and fleece against warm red and subdued darkness.",
+  "full_prompt_zh": "这幅方形学院派油画描绘一名戴白头巾的少女怀抱一只小羊，背景深暗而不抢眼。少女从腰部向上占据右侧和中央，身体略向左转，目光平静望向观者。浅色头巾裹住棕发，宽大柔软的褶皱垂到右肩后。面部塑形温和，有深色眼睛、暖红脸颊、小直鼻和放松的嘴唇。她穿柔和红棕长裙，外有带纹样的灰色背心或上衣，织物细节在肩胸处最可见。近侧手臂围住小羊颈胸，把白色动物带到左下前景。小羊把头转向观者，脸部绒软，内耳粉色，嘴鼻浅色。奶油色羊毛与头巾重复彼此的明亮明度，红色衣服则以暖色固定中央。背景保持深橄榄棕色渐层，没有建筑、风景或可读文字。脸与羊毛上的颜料融合细致，布料与深色底面中仍可见轻微笔触肌理。柔和定向光从左上方进入，照亮额头、头巾褶处与羊脸；下巴、手臂和小羊颈下阴影温和变深。构图贴近却不拥挤，让两张脸形成亲密斜线。整体画面安静而亲密，以发亮白布与羊毛平衡暖红色和柔和暗部。",
+  "style_prompt_en": "Academic oil painting blends smooth, carefully modeled light planes with restrained brush texture in fabric and dark ground. Ivory and warm cream highlights glow against muted red-brown, olive, and deep umber. Edges remain most precise at the focal forms and soften gradually into a plain surrounding field. Gentle upper-side light creates rounded volume with continuous shadows rather than sharp graphic cuts. A close arrangement of pale and warm masses makes the composition intimate and serene. The overall finish is polished but tactile, with quiet emotional clarity.",
+  "style_prompt_zh": "学院派油画把平滑细致塑形的亮平面，与布料和深色底面里克制的笔触肌理结合。象牙白和暖奶油色亮部在柔和红棕、橄榄色与深赭棕前发光。焦点形体周围边缘最精确，向简单背景逐渐柔化。温和上方侧光以连续阴影塑造圆润体积，而非尖锐图形切割。浅色和暖色色团的贴近排列使构图亲密安宁。完成面精致但可触，情绪表达安静清楚。",
+  "theme_en": "A young girl in a white headscarf holding a lamb",
+  "theme_zh": "一位戴白头巾的少女怀抱小羊",
+  "wh_ratio": "1:1",
+  "id": "2438",
+  "name": "William-Aldophe Bouguereau",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/william-aldophe-bouguereau",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/william-aldophe-bouguereau.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "207117b72de40dd03ec2452e34694fbe17aa99426f66ac4167204c264e41df5c",
+    "gpt_submission_prompt": "A square academic oil painting shows a young girl in a white headscarf holding a small lamb against a dark, unobtrusive background. The girl fills the right and central portions from the waist upward, turning slightly toward the left while looking calmly at the viewer. Her pale headscarf wraps over brown hair and falls in broad soft folds behind the right shoulder. The face is gently modeled, with dark eyes, warm cheeks, a small straight nose, and relaxed lips. She wears a muted red-brown dress beneath a patterned gray vest or bodice, its woven detail most visible along the shoulder and chest. Her near arm circles the lamb's neck and chest, bringing the white animal into the lower-left foreground. The lamb turns its head toward the viewer, with a soft woolly face, a pink inner ear, and pale muzzle. Cream fleece and headscarf repeat each other's bright values, while the red garment anchors the middle with warmth. The background remains a deep olive-brown gradient, without architecture, landscape, or readable writing. Paint is finely blended across the faces and wool, with delicate brush texture visible in the cloth and dark ground. Soft directional light enters from the upper left, illuminating the forehead, scarf folds, and lamb's face; shadows deepen gently under the chin, arm, and animal's neck. The composition is closely cropped but not crowded, allowing the two heads to form a tender diagonal. The overall image is quiet and intimate, balancing luminous white fabric and fleece against warm red and subdued darkness.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "87e850f8f8f72c681e4613a69589bc9f514baa1610a642ea62e5509085de7ce4",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

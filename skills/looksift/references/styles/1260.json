@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square psychedelic illustration is crowded edge to edge with a giant blue reptilian head, flowers, curling clouds and symbolic color bursts. The creature turns diagonally from the lower left toward the upper right, showing a yellow-orange ringed eye, finely scaled cobalt skin and a broad grin of small sharp white teeth. Its head occupies most of the frame, yet every surrounding gap carries distinct activity: pink and lavender blossoms, yellow leaves, little white cloud curls, and a striped red-and-yellow sun with a black center at the upper left. The creature's blue body contains dense hand-drawn scale patterns and irregular dark contours, while other areas combine flat bright color with miniature etched detail. Color contrast is fearless—cobalt, coral, hot pink, acid yellow, lavender, turquoise and black press against one another without quiet neutral ground. The composition remains legible because the creature's large dark-blue shape and eye act as anchors amid proliferating motifs. Printed outlines and slight surface grain prevent the image from looking glossy. The overall effect is playful, noisy and dreamlike, evoking an illustrated poster whose viewer can scan repeatedly for small surprises. No empty border interrupts the dense visual flow, but the central head still has a clear silhouette and expressive direction.",
+  "full_prompt_zh": "一幅正方形迷幻插画从边到边塞满巨大的蓝色爬行动物头部、花朵、卷云和象征性色彩爆发。生物从左下斜向右上转头，露出黄橙环绕的眼睛、细鳞覆盖的钴蓝皮肤和由尖小白牙构成的宽阔笑口。头部占据画面大半，但周围每个空隙都有不同活动：粉色和淡紫花朵、黄色叶片、白色小卷云，以及左上带黑色中心的红黄放射太阳。蓝色身体含密集手绘鳞纹和不规则深色轮廓，其他区域则把明亮平涂与微型刻线细节结合。色彩对比毫不胆怯，钴蓝、珊瑚、亮粉、酸黄、淡紫、青色和黑色彼此紧挨，几乎没有安静中性色。构图仍清晰，因为大型深蓝形体与眼睛在不断繁殖的图案中充当锚点。印刷般轮廓与轻微表面颗粒阻止图像变得油亮。整体活泼、嘈杂、如梦，像一张可反复搜寻小惊喜的插画海报。没有空白边框阻断密集视觉流，但中央头部仍有清楚剪影和表情方向。",
+  "style_prompt_en": "The style is maximalist psychedelic illustration with dense edge-to-edge patterning, hand-drawn microdetail and flat saturated poster colors. Large dark anchor shapes organize proliferating curls, floral rhythms, stripes, dots and radial bursts. Cobalt, hot pink, coral, yellow, lavender, turquoise and black meet in abrupt high-energy contrasts. Ink-like contours and slight printed grain keep the surface tactile. Every interval holds nested small motifs, yet the square composition remains navigable through clear scale hierarchy and one decisive directional mass.",
+  "style_prompt_zh": "这种风格是极繁的迷幻插画，具有满幅密集纹样、手绘微细节与饱和平涂海报色。大型深色锚形组织不断增生的卷线、花形节奏、条纹、圆点和放射爆发。钴蓝、亮粉、珊瑚、黄色、淡紫、青色与黑色以突然的高能对比相遇。墨线般轮廓与轻微印刷颗粒使表面可触摸。每处间隙都嵌有小图案，正方形构图仍因清晰尺度层级和一块果断的方向性大形而可被阅读。",
+  "theme_en": "A blue fantastical reptile amid psychedelic flowers",
+  "theme_zh": "迷幻花丛中的蓝色幻想爬行动物",
+  "wh_ratio": "1:1",
+  "id": "1260",
+  "name": "Keiichi Tanaami",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/keiichi-tanaami",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/keiichi-tanaami.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "7a8c78db9cd8501903046f6e7cf447f0d74837dd907afd7b367dabe9f66efed1",
+    "gpt_submission_prompt": "A square psychedelic illustration is crowded edge to edge with a giant blue reptilian head, flowers, curling clouds and symbolic color bursts. The creature turns diagonally from the lower left toward the upper right, showing a yellow-orange ringed eye, finely scaled cobalt skin and a broad grin of small sharp white teeth. Its head occupies most of the frame, yet every surrounding gap carries distinct activity: pink and lavender blossoms, yellow leaves, little white cloud curls, and a striped red-and-yellow sun with a black center at the upper left. The creature's blue body contains dense hand-drawn scale patterns and irregular dark contours, while other areas combine flat bright color with miniature etched detail. Color contrast is fearless—cobalt, coral, hot pink, acid yellow, lavender, turquoise and black press against one another without quiet neutral ground. The composition remains legible because the creature's large dark-blue shape and eye act as anchors amid proliferating motifs. Printed outlines and slight surface grain prevent the image from looking glossy. The overall effect is playful, noisy and dreamlike, evoking an illustrated poster whose viewer can scan repeatedly for small surprises. No empty border interrupts the dense visual flow, but the central head still has a clear silhouette and expressive direction.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "9d66b33f66a74970c683c80d002756bc07b23e0408ed7d1b15dafc7870840333",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square comic-book illustration shows a dark-haired man leaning close behind a blond woman against an ornate tan and olive backdrop. Their upper bodies fill the frame, with the man's broad shoulders entering from the upper left and the woman's red dress occupying the lower center. He has tousled black hair, strong brows and a restrained smile, and wears a brown pinstriped jacket over a white shirt and dark tie. His head inclines toward the woman as he looks outward. She turns toward the viewer with a slight, confident smile, pale curled hair arranged in large sculpted waves around her face. Her sleeveless red-orange dress has a high neck and a fitted, folded bodice; one bare arm curves down at the right. Behind them, a muted green creature-like form and looping decorative shapes occupy the upper and right edges, but the two faces remain the clearest focal points. Warm floral and scroll-like linework fills the remaining background without creating deep perspective. Fine dark ink contours define hair, clothing folds and eyes, while soft watercolor-like color washes make skin and fabric dimensional. The light is even and warm, lifting both faces and leaving gentle shadow beneath chins and folds. The overall composition is intimate and theatrical, using curving line, refined figure drawing and restrained complementary color to hold attention on the pair.",
+  "full_prompt_zh": "一幅方形漫画插画描绘黑发男子在华饰的棕褐与橄榄色背景前靠近一位金发女子。两人的上半身填满画面，男子宽肩从左上进入，女子红裙占据下方中央。他有凌乱黑发、浓眉和克制的笑容，身穿棕色细条纹外套、白衬衫与深色领带。他把头向女子倾斜，同时望向画外。女子以略带自信的微笑转向观众，浅金卷发在脸周围形成大而雕塑般的波浪。她的无袖红橙连衣裙有高领与贴身褶叠的胸衣，一条裸露手臂在右侧向下弯曲。他们身后，低饱和绿色的生物状形体与弯绕装饰图案占据上方和右缘，但两张脸仍是最清楚的焦点。暖色花纹与卷线填充其余背景，并未建立很深的透视。细深墨线界定头发、衣褶和眼睛，柔和水彩般的色层让皮肤与布料有体积。光线均匀而暖，提亮两张脸，在下巴与褶皱下留下柔影。整体构图亲密而带戏剧感，以弯曲线条、精致人物绘制与克制互补色把注意力留在两人身上。",
+  "style_prompt_en": "The comic illustration combines graceful dark ink contours with thin, translucent color layers. Curving and interlocking lines give the composition a flowing decorative rhythm, while selective sharp edges keep the focal forms legible. Warm rust and ochre sit beside muted olive and cool gray-green, with pale cream areas creating breathing space. Color shading is soft and dimensional, but underlying linework remains visible instead of disappearing into seamless paint. Small ornamental marks fill peripheral areas more densely than the central focal shapes. Even warm light clarifies volume through gentle tonal steps rather than harsh shadows. The overall finish is polished, romantic and lively, balancing expressive anatomy with ornamental restraint.",
+  "style_prompt_zh": "这种漫画插画将优雅深墨轮廓与薄而透明的色层结合。弯曲交锁的线赋予构图流动的装饰节奏，选择性的清晰边缘则让焦点形体可辨。暖锈红和赭色邻接低饱和橄榄色与冷灰绿，浅奶油色区域提供呼吸空间。色彩阴影柔和且有体积，但底层线稿仍可见，并未消失在无缝颜料里。小型装饰笔痕在边缘区域比中心焦点更密。均匀暖光通过柔缓的明度台阶说明体积，而不靠硬影。整体完成面精致、浪漫而活泼，平衡表现性形体与装饰克制。",
+  "theme_en": "A dark-haired man and a blond woman leaning together in an ornate comic illustration",
+  "theme_zh": "华饰漫画插画中相互依偎的黑发男子与金发女子",
+  "wh_ratio": "1:1",
+  "id": "3780",
+  "name": "Terry Dodson",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/terry-dodson",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "7ee84109ffa988c01da7bdc23c9c43a577b0356451c4866f7a8fa33e97114c31",
+    "gpt_submission_prompt": "A square comic-book illustration shows a dark-haired man leaning close behind a blond woman against an ornate tan and olive backdrop. Their upper bodies fill the frame, with the man's broad shoulders entering from the upper left and the woman's red dress occupying the lower center. He has tousled black hair, strong brows and a restrained smile, and wears a brown pinstriped jacket over a white shirt and dark tie. His head inclines toward the woman as he looks outward. She turns toward the viewer with a slight, confident smile, pale curled hair arranged in large sculpted waves around her face. Her sleeveless red-orange dress has a high neck and a fitted, folded bodice; one bare arm curves down at the right. Behind them, a muted green creature-like form and looping decorative shapes occupy the upper and right edges, but the two faces remain the clearest focal points. Warm floral and scroll-like linework fills the remaining background without creating deep perspective. Fine dark ink contours define hair, clothing folds and eyes, while soft watercolor-like color washes make skin and fabric dimensional. The light is even and warm, lifting both faces and leaving gentle shadow beneath chins and folds. The overall composition is intimate and theatrical, using curving line, refined figure drawing and restrained complementary color to hold attention on the pair.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "de73a4560398138c4c9a85396f0d44880f1f7a55a08b60dab7d57c5956840b34",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

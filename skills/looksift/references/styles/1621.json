@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square decorative ink-and-watercolor illustration places a red-hooded woman in right-facing profile inside an ornate arched frame. Her pale face is calm, with a dark eye, fine nose, and small red mouth. Gray-brown hair curves beneath the deep oxblood hood, while a high patterned collar and embroidered garment continue down the center. Behind her right shoulder, a large brown-and-cream owl looks outward with round alert eyes. A smaller pale barn owl occupies the lower-left corner, its heart-shaped face bright against layered brown feathers. Cream flowers with dark centers, broad leaves, and curling stems fill the surrounding corners and press close to the figures. The arched border carries tiny repeating motifs and a muted gold-brown patina, enclosing the portrait like an old illustrated plate. Delicate black contours outline each feather and petal; tight hatching and small patterned marks give the garment, hair, and foliage an engraved density. Transparent washes of warm brown, aged cream, gray, and muted red color the shapes without obscuring the ink. Light is gentle and even, strongest on the woman's face and the pale owl, while darker foliage provides depth rather than a dramatic cast shadow. The composition is tightly layered but legible: the central profile leads into the upper owl, and the lower bird counterweights the flowers on the right. The overall image feels intimate and ornate, combining naturalist detail with flattened decorative rhythm and an antique warm palette.",
+  "full_prompt_zh": "一幅方形装饰性墨线与水彩插画把戴红色兜帽的女子右侧脸放在华丽拱形框内。她的浅色脸平静，深色眼睛、细鼻子与小红唇清楚可见。灰棕色头发在深酒红兜帽下弯曲，高领纹样与绣饰服装沿中央延伸。右肩后方，一只棕色与奶油色大猫头鹰用圆而警觉的眼睛望向外面。左下角有一只较小的浅色仓鸮，心形脸从层叠棕羽中明亮浮现。奶油色、深色花心的大花，宽阔叶片与卷曲枝茎填满四周角落，贴近人物和鸟。拱形边框带细小重复纹样和低饱和金棕色旧化表面，像一页古老插画版画围住肖像。精细黑轮廓勾勒每根羽毛与花瓣；紧密排线和细小纹样使服装、头发与叶丛有雕版般密度。暖棕、旧奶油色、灰色和低饱和红色的透明色洗填入形状，却不遮蔽墨线。光柔和均匀，在女子脸与浅色猫头鹰上最强，深色叶丛提供纵深而非戏剧性投影。构图层层紧贴仍可读：中央侧脸引向上方猫头鹰，下面的小鸟平衡右侧花朵。整体亲密华丽，把自然主义细节与平面装饰节奏、古旧暖色调结合。",
+  "style_prompt_en": "A decorative ink-and-watercolor language combines fine engraved contours, tight hatching, repeating ornament, and transparent washes on an aged cream ground. Oxblood red, warm brown, gray, muted gold, and pale ivory form a restrained antique palette. Dense botanical-like line patterns press against clear focal silhouettes, while an integrated arched frame gives the composition a collectible plate quality. Light is gentle and even, with pale focal areas balanced by darker layered borders. The result is intricate, intimate, and rhythmically ornamental without losing readable form.",
+  "style_prompt_zh": "装饰性墨线与水彩语言在旧奶油色底面上结合雕版般细轮廓、紧密排线、重复纹样与透明色洗。深酒红、暖棕、灰、低饱和金与浅象牙白组成克制古旧配色。密集的有机线性花纹紧贴清楚的中心剪影，一体化拱框赋予构图可收藏的图版气质。光柔和均匀，浅亮焦点由层叠深色边缘平衡。成品细密、亲密且富于装饰节奏，同时保持形态可读。",
+  "theme_en": "A red-hooded woman in profile surrounded by owls and ornate flowers",
+  "theme_zh": "一位戴红色兜帽的女子侧身立于猫头鹰与华丽花朵之间",
+  "wh_ratio": "1:1",
+  "id": "1621",
+  "name": "Amy Brown",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/amy-brown",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/amy-brown.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "df428fe681c5b372f29427685ebd68832b9e8468805d38e095d4a7cfbdc4ce8e",
+    "gpt_submission_prompt": "A square decorative ink-and-watercolor illustration places a red-hooded woman in right-facing profile inside an ornate arched frame. Her pale face is calm, with a dark eye, fine nose, and small red mouth. Gray-brown hair curves beneath the deep oxblood hood, while a high patterned collar and embroidered garment continue down the center. Behind her right shoulder, a large brown-and-cream owl looks outward with round alert eyes. A smaller pale barn owl occupies the lower-left corner, its heart-shaped face bright against layered brown feathers. Cream flowers with dark centers, broad leaves, and curling stems fill the surrounding corners and press close to the figures. The arched border carries tiny repeating motifs and a muted gold-brown patina, enclosing the portrait like an old illustrated plate. Delicate black contours outline each feather and petal; tight hatching and small patterned marks give the garment, hair, and foliage an engraved density. Transparent washes of warm brown, aged cream, gray, and muted red color the shapes without obscuring the ink. Light is gentle and even, strongest on the woman's face and the pale owl, while darker foliage provides depth rather than a dramatic cast shadow. The composition is tightly layered but legible: the central profile leads into the upper owl, and the lower bird counterweights the flowers on the right. The overall image feels intimate and ornate, combining naturalist detail with flattened decorative rhythm and an antique warm palette.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "24f1b2dd12bfb10e0539bd7ad19c2cfa6190c70df716db07e8601e5325d2745d",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

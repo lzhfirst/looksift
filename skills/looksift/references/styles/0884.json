@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square colored-ink landscape illustration looks from high above a patterned countryside toward a blue sea. A broad winding river begins near the lower center, bends through wooded hills and patchwork fields, and opens into the bay at the horizon. A small arched bridge crosses it near the foreground, while narrow roads trace both banks. Tiny farmhouses, red-roofed buildings, pools, orchard rows, and golden cultivated strips fill the surrounding terrain. Dense green tree clusters are each described with miniature strokes, giving the land a woven texture. In the far distance, sailboats and a few small white structures dot the calm water; pale cumulus clouds line the low sky. A small red hot-air balloon floats at upper left, balanced by a faint aircraft toward upper right. The viewpoint is elevated and maplike, yet slopes, shadows, and overlapping forms provide credible depth. The palette is rich but slightly muted: turquoise water, olive and forest green trees, ochre fields, brick roofs, and pale blue sky. Fine black linework outlines paths, foliage, and architecture beneath thin colored washes. Even daylight keeps every miniature detail readable. The composition feels imaginative, orderly, and expansive, with the river's blue curve leading through a densely observed world.",
+  "full_prompt_zh": "一幅方形彩墨风景插画从高处俯看纹样化乡野，远方是蓝海。一条宽阔蜿蜒河流从下方中央开始，穿过树林山丘和拼布田地，最后在地平线汇入海湾。前景附近一座小拱桥跨河，窄路沿两岸延伸。小农舍、红屋顶建筑、水池、果园行列和金黄耕作条带填满周围地形。密集绿树群各以微小笔触描述，使土地如织物。远处帆船与几处小白建筑点在平静水面；浅积云排在低天空。左上飘一只小红热气球，右上有隐约飞行器与之平衡。视点高而近似地图，坡面、阴影和重叠形体仍提供可信纵深。色彩丰富而略压低：绿松石水、橄榄与森林绿树、赭黄田、砖色屋顶和淡蓝天。细黑线在薄彩洗下勾出路、枝叶和建筑。均匀日光使每处微型细节可辨。构图富想象、有秩序且开阔，河流蓝曲线穿过密集观察的世界。",
+  "style_prompt_en": "Intricate colored-ink illustration with elevated maplike depth, fine black contour, miniature repeated marks, and softly layered washes. A curving cool-blue path threads through dense olive, forest-green, ochre, and brick-colored pattern fields. Even daylight and low clouds keep small details legible across long distance. The surface feels woven and patiently drawn rather than digitally smooth.",
+  "style_prompt_zh": "繁密彩墨插画，以高视角地图般纵深、细黑轮廓、微型重复笔痕和柔层叠色洗构成。弯曲冷蓝路径穿过密集橄榄、森林绿、赭黄和砖色纹样场域。均匀日光与低云使远距离小细节可读。表面像织物般细密、耐心手绘，而非数字光滑。",
+  "theme_en": "A winding river through patterned countryside toward the sea",
+  "theme_zh": "一条蜿蜒河流穿过纹样化乡野通向大海",
+  "wh_ratio": "1:1",
+  "id": "0884",
+  "name": "Peter Kuper",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/peter-kuper",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/peter-kuper.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "6b7515643e58d30ce23d7b20e07fd25fc9dfc3a5ae626130367fbbf34caed08f",
+    "gpt_submission_prompt": "A square colored-ink landscape illustration looks from high above a patterned countryside toward a blue sea. A broad winding river begins near the lower center, bends through wooded hills and patchwork fields, and opens into the bay at the horizon. A small arched bridge crosses it near the foreground, while narrow roads trace both banks. Tiny farmhouses, red-roofed buildings, pools, orchard rows, and golden cultivated strips fill the surrounding terrain. Dense green tree clusters are each described with miniature strokes, giving the land a woven texture. In the far distance, sailboats and a few small white structures dot the calm water; pale cumulus clouds line the low sky. A small red hot-air balloon floats at upper left, balanced by a faint aircraft toward upper right. The viewpoint is elevated and maplike, yet slopes, shadows, and overlapping forms provide credible depth. The palette is rich but slightly muted: turquoise water, olive and forest green trees, ochre fields, brick roofs, and pale blue sky. Fine black linework outlines paths, foliage, and architecture beneath thin colored washes. Even daylight keeps every miniature detail readable. The composition feels imaginative, orderly, and expansive, with the river's blue curve leading through a densely observed world.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "97f624138aa0d6079408cf7bd253be1f03e8f3fe54194044a4745255b47b053e",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

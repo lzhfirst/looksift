@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "An oil painting of a quiet gathering in a dim meeting hall opens with a broad dark wooden bench crossing the lower left foreground. Beyond it, a seated group recedes diagonally from left to right, their heads and shoulders caught in alternating bands of amber light and deep green shadow. The nearest dark hats make firm silhouettes, while a pale shawl and a few softly lit faces draw attention toward the middle distance. The far side of the room almost disappears into a blue-green haze, punctuated by two tiny warm lights. The painting handles bodies as weighty masses rather than isolated outlines: edges soften where dark coats meet the surrounding gloom, then sharpen briefly where light touches a cheek or a sleeve. Warm ochre across the masonry wall and bench balances the cool teal air above. The surface looks visibly worked, with granular pigment, short dragged strokes, and a slightly scumbled veil over the shadows. Lighting is low and selective, so the composition feels hushed rather than theatrical. The line of seated forms and the bench's strong horizontal lead the eye inward without filling every corner. The whole frame holds a reflective stillness through its deep values, warm-cool contrast, and carefully paced glimmers of light.",
+  "full_prompt_zh": "一幅描绘昏暗会堂里安静聚会的油画，以一张横贯左下前景的宽厚深色木椅展开。木椅后方，坐着的人群从左向右沿对角线退入远处，头部和肩膀交替落入琥珀色光带与深绿色阴影。最近处的深色帽子形成坚实剪影，浅色披肩和几张柔和受光的面孔把目光引向中景。房间更深处几乎隐没在蓝绿色薄雾中，仅有两点微小暖光。画面把身体处理成有重量的色块，而非孤立的轮廓：深色衣服融入周围幽暗处时边缘渐软，光照到脸颊或衣袖时又短暂变清晰。砖墙和木椅上的暖赭色平衡了上方偏冷的青绿空气。画面表面有明显手工痕迹，颗粒状颜料、短促拖拽的笔触，以及覆盖暗部的轻微干擦层清晰可见。光线低而有选择性，使构图显得肃静而非夸张。坐姿形体的排列与木椅的强横线把视线引入深处，同时没有填满每个角落。整幅画借深沉明度、冷暖对照和有节奏的微光维持沉思般的静止感。",
+  "style_prompt_en": "An atmospheric oil painting built from deep blue-green shadow and muted amber light. Broad dark masses step diagonally into a hazy distance, anchored by a heavy horizontal form in front. Edges melt into surrounding darkness, then become briefly clear where small warm highlights touch them. Ochre, umber, and teal carry the restricted palette. Granular pigment, dragged short strokes, and scumbled layers remain visible on the surface. Tiny distant glimmers punctuate a quiet field of low values. The spacing is deliberate, with much of the upper area left in soft, breathing shadow.",
+  "style_prompt_zh": "一幅由深蓝绿色阴影与柔和琥珀光构成的氛围油画。宽厚暗色形体沿对角线逐步退入朦胧远处，前方由沉重的横向形体压住画面。边缘融化在周围黑暗中，只有小块暖光碰到时才短暂清晰。赭黄、深棕和青绿色组成有限的色盘。颗粒状颜料、短促拖拽笔触与干擦叠层留在画面表面。远处零星微光点缀一片低明度的安静色域。间距安排克制，上半部的大量空间留给柔软、透气的暗影。",
+  "theme_en": "A quiet gathering in a dim meeting hall",
+  "theme_zh": "昏暗会堂里的一场安静聚会",
+  "wh_ratio": "1:1",
+  "id": "3040",
+  "name": "Henry Ossawa Tanner",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/henry-ossawa-tanner",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "629a3e1f7780154c4ba2247c4e84c1c36b81d0b9dd95858bdfc797914efc6e34",
+    "gpt_submission_prompt": "An oil painting of a quiet gathering in a dim meeting hall opens with a broad dark wooden bench crossing the lower left foreground. Beyond it, a seated group recedes diagonally from left to right, their heads and shoulders caught in alternating bands of amber light and deep green shadow. The nearest dark hats make firm silhouettes, while a pale shawl and a few softly lit faces draw attention toward the middle distance. The far side of the room almost disappears into a blue-green haze, punctuated by two tiny warm lights. The painting handles bodies as weighty masses rather than isolated outlines: edges soften where dark coats meet the surrounding gloom, then sharpen briefly where light touches a cheek or a sleeve. Warm ochre across the masonry wall and bench balances the cool teal air above. The surface looks visibly worked, with granular pigment, short dragged strokes, and a slightly scumbled veil over the shadows. Lighting is low and selective, so the composition feels hushed rather than theatrical. The line of seated forms and the bench's strong horizontal lead the eye inward without filling every corner. The whole frame holds a reflective stillness through its deep values, warm-cool contrast, and carefully paced glimmers of light.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "aaea54360bc1a9f74109f79dc8c1668ce22afe5187ab651ca946c1e2b50e81ee",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

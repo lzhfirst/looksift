@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A quiet surreal photograph shows a fragment of rocky land suspended inside a vast pale hall, just above a still reflective floor. The island occupies the center, its underside rough and dark, narrowing to a point, while a short flight of stone steps climbs across the top toward a small leafy tree. A simple low railing traces part of the island's edge. The hall around it is grand but nearly empty: tall arched windows, slender columns, upper balconies, and pale decorative wall panels repeat along both sides. Diffuse daylight enters through the windows and creates soft gray shadows, leaving the far wall luminous. The floor behaves like shallow water or polished mirror, holding an inverted, slightly softened reflection of the floating mass and the arches. The island's dark underside contrasts with the white architecture, making the impossible suspension legible without added spectacle. Color is subdued and almost monochrome, with chalk white, warm gray, stone brown, and a restrained green in the tree. The photograph keeps straight verticals and a centered, symmetrical viewpoint, so the fantasy element feels calmly documented rather than dynamically staged. Surface texture remains important: chipped rock, worn steps, smooth reflective floor, and delicate leaves each differ. The composition is spacious and contemplative, using abundant pale negative space and precise spatial cues to make a small piece of landscape feel mysteriously at home inside the room.",
+  "full_prompt_zh": "一张安静的超现实照片，表现一块岩石土地悬浮在宽大的浅色大厅里，离平静反光地面很近。岛屿占据中心，下侧粗糙深暗并向下收成尖端；上方一小段石阶爬向一棵枝叶茂盛的小树。简单的低栏杆沿岛屿一部分边缘延伸。周围大厅宏大却几乎空无一物：高高的拱窗、细长立柱、上层廊道和浅色装饰墙板在两侧重复。漫射日光从窗户进入，形成柔和灰影，让远墙发亮。地面像浅水或打磨镜面，映出悬浮体和拱形建筑上下倒置、略微柔化的反射。岛屿深色底部与白色建筑对照，使不可能的悬浮无需额外奇观也能清楚成立。颜色受到压低，几乎单色，只有粉白、暖灰、石棕与树上一点克制的绿。照片保持笔直的竖线与居中、对称视角，使幻想元素像被从容记录，而非动态摆布。表面纹理依然重要：崩裂岩石、磨旧台阶、平滑反光地面和纤细叶片各不相同。构图开阔而沉思，以大量浅色留白和准确空间线索，让一小块风景神秘地安置在室内。",
+  "style_prompt_en": "Quiet surreal photography with a centered, symmetrical viewpoint and precise straight verticals. A rough dark mass hovers within abundant chalk-white and warm-gray negative space, mirrored softly on a smooth lower plane. Repeated arches and slender lines establish clear depth, while diffuse windowlike light keeps shadows gentle and the far field luminous. Subtle stone brown and a small muted green accent enrich an almost monochrome palette. Different textures remain distinct: chipped hard surfaces, worn steps, glossy reflection, and fine organic detail. The impossible arrangement is presented calmly and spatially, with restraint rather than spectacle.",
+  "style_prompt_zh": "安静的超现实摄影风格，视点居中对称，竖线笔直而准确。粗糙深色体块悬于大量粉白与暖灰留白中，并在平滑下方平面得到柔和倒影。重复拱形与细长线条建立清楚纵深，漫射的窗光使阴影温和、远方发亮。微妙石棕和一点低调绿色丰富近单色配色。不同质地仍然分明：崩裂硬表面、磨旧台阶、光滑反射和纤细有机细节。不可能的安排被平静且空间准确地呈现，依靠克制而非奇观。",
+  "theme_en": "A floating island and tree inside a pale flooded hall",
+  "theme_zh": "浅色积水大厅中漂浮的岛屿与树",
+  "wh_ratio": "1:1",
+  "id": "1149",
+  "name": "Noemie Goudal",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/noemie-goudal",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/noemie-goudal.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "96e912c534eaec50f6792f6c8c1ad3f696fa36df656384ab05237cc13fa85191",
+    "gpt_submission_prompt": "A quiet surreal photograph shows a fragment of rocky land suspended inside a vast pale hall, just above a still reflective floor. The island occupies the center, its underside rough and dark, narrowing to a point, while a short flight of stone steps climbs across the top toward a small leafy tree. A simple low railing traces part of the island's edge. The hall around it is grand but nearly empty: tall arched windows, slender columns, upper balconies, and pale decorative wall panels repeat along both sides. Diffuse daylight enters through the windows and creates soft gray shadows, leaving the far wall luminous. The floor behaves like shallow water or polished mirror, holding an inverted, slightly softened reflection of the floating mass and the arches. The island's dark underside contrasts with the white architecture, making the impossible suspension legible without added spectacle. Color is subdued and almost monochrome, with chalk white, warm gray, stone brown, and a restrained green in the tree. The photograph keeps straight verticals and a centered, symmetrical viewpoint, so the fantasy element feels calmly documented rather than dynamically staged. Surface texture remains important: chipped rock, worn steps, smooth reflective floor, and delicate leaves each differ. The composition is spacious and contemplative, using abundant pale negative space and precise spatial cues to make a small piece of landscape feel mysteriously at home inside the room.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "3dd685a2572beee603c762bd2948d91180c55ec12ea56f7239f4a8a1a962b1ee",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square naturalistic oil painting shows a woman seated in profile at an easel inside a cluttered, dark painting studio. She occupies the center-right, facing left toward a tall canvas leaning on a wooden stand. Her dark hair is pinned into a low loose bun, and her head bends toward the work with quiet concentration. A muted olive-green jacket fits her upper body over a crisp white collar; a long pale apron or skirt spreads across her knees and down toward black shoes at the lower left. One hand holds a small brush or tool before the canvas, while the other rests near a crowded table edge. The easel and nearly vertical ochre canvas fill the upper-left quadrant, its surface marked with indistinct pale paint patches rather than a fully legible picture. On the worktable below lie paint tubes, brushes, jars, crumpled cloth, and other small implements. A narrow chair back shows behind the figure; bottles and scattered supplies sit on a shelf at the right. The floor carries broken warm-brown strokes and a few pale paper scraps, while the rear wall recedes into deep charcoal. Paint is laid in loose but observed marks, with creamy impasto on the apron and canvas and smaller sharp strokes on tools and profile. Side light from the left illuminates the working surface, cheek, white collar, and cloth, leaving the room's corners in rich shadow. The composition gathers attention around a concentrated act of making within the warm, worn studio.",
+  "full_prompt_zh": "一幅方形写实油画呈现一名女子在杂乱昏暗画室里，侧身坐在画架前。她在中右部，向左面对架上的高画布。深发松松盘成低髻，头朝作品俯下，神情安静专注。低饱和橄榄绿外套裹住上身，里面是清爽白领；长长的浅色围裙或裙子铺过膝盖，向左下的黑鞋垂落。一只手拿细画笔或工具伸向画布，另一只靠近拥挤桌缘。画架与几近竖直的赭色画布占左上四分之一，表面只有不清晰的浅色颜料斑块，而非可读的成画。下方工作台上散着颜料管、笔、瓶罐、揉皱的布与其他小工具。人物身后露出窄椅背，右边架子上还有瓶罐与零散用品。地面由破碎暖棕笔触及几片浅纸构成，后墙退入深炭色。油彩笔迹松散却有观察，围裙与画布上有奶油般厚色，工具和侧面轮廓用较小锐笔。左侧光照亮工作面、面颊、白领和布料，房间角落留浓影。构图把注意力聚在温暖磨旧画室中的专注制作动作上。",
+  "style_prompt_en": "Naturalistic oil painting records everyday work through loose but precise observed strokes. Balance a dark brown-charcoal setting with a few broad pale cloth areas and warm ochre working surfaces. Let side light pick out a compact activity center while shelves and floor detail sink into rich shadow. Use thicker broken paint on fabric and rough surfaces, smaller crisp marks on tools and facial profile, and restrained blended transitions on skin. Allow a busy collection of objects to feel used and irregular rather than neatly arranged. The transferable result is intimate, tactile, and quietly industrious.",
+  "style_prompt_zh": "写实油画用松散却准确的观察笔触记录日常工作。深棕炭色场景与少数大块浅布、暖赭工作面相平衡。侧光挑出紧凑活动中心，架子和地面细节沉入浓影。布料与粗糙表面用较厚断笔，工具和面部侧影用小而清晰的笔迹，肌肤过渡则克制融合。成堆物件显得已被使用且不规则，而非整齐摆放。可迁移效果亲密、有触感且安静勤勉。",
+  "theme_en": "A seated woman painting at an easel in a cluttered studio",
+  "theme_zh": "女子坐在杂乱画室中，对着画架作画",
+  "wh_ratio": "1:1",
+  "id": "2516",
+  "name": "James Guthrie",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/james-guthrie",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/james-guthrie.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "0f19681f48b7007ff10bf514515065a0261ee29922012a8445b3e018854aec6d",
+    "gpt_submission_prompt": "A square naturalistic oil painting shows a woman seated in profile at an easel inside a cluttered, dark painting studio. She occupies the center-right, facing left toward a tall canvas leaning on a wooden stand. Her dark hair is pinned into a low loose bun, and her head bends toward the work with quiet concentration. A muted olive-green jacket fits her upper body over a crisp white collar; a long pale apron or skirt spreads across her knees and down toward black shoes at the lower left. One hand holds a small brush or tool before the canvas, while the other rests near a crowded table edge. The easel and nearly vertical ochre canvas fill the upper-left quadrant, its surface marked with indistinct pale paint patches rather than a fully legible picture. On the worktable below lie paint tubes, brushes, jars, crumpled cloth, and other small implements. A narrow chair back shows behind the figure; bottles and scattered supplies sit on a shelf at the right. The floor carries broken warm-brown strokes and a few pale paper scraps, while the rear wall recedes into deep charcoal. Paint is laid in loose but observed marks, with creamy impasto on the apron and canvas and smaller sharp strokes on tools and profile. Side light from the left illuminates the working surface, cheek, white collar, and cloth, leaving the room's corners in rich shadow. The composition gathers attention around a concentrated act of making within the warm, worn studio.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "1ec4ee99cd287595a0c5dea8cff4e7c59b22fb59f0c115a7d6eec7474ab614df",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

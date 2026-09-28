@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A spare monochrome ink-and-watercolor illustration places a small girl in a black dress near the right side of an otherwise open white page. She stands in profile, hands cupped near her face. From those hands a dark branch-like tree grows horizontally toward the left, its fine twigs splitting into ever smaller marks. At the outer end, the twigs dissolve into gray washes, ink spatters, and drifting black droplets, as if the tree were becoming weather or breath. The girl's short hair, dress, arms, and legs form a crisp dark silhouette, but soft watery patches within the skirt keep it from appearing digitally flat. A small irregular gray shadow anchors her feet. No background landscape is drawn; the white paper is essential to the scene, giving both the fragile branching form and the figure room to breathe. The composition is asymmetrical yet balanced, with the upright figure at right and the airy burst of ink stretching left across the upper half. Strong black marks gather near the hands, then progressively lighten and fragment outward. Edges alternate between precise twig lines, soft bleeding pigment, and accidental-looking splashes. Lighting is implied by the paper's own whiteness rather than a modeled light source. The image feels poetic and fleeting, turning a simple gesture into a visual passage from solid body to branching line and floating stain.",
+  "full_prompt_zh": "一幅简净单色墨与水彩插画把穿黑裙的小女孩置于几乎开放白纸的右侧。她侧身站立，双手合拢在脸边。从手中，一棵深色枝状树水平向左生长，细枝分裂成越来越小的笔痕。外端，枝条溶为灰色罩染、墨点和漂浮黑滴，仿佛树正成为天气或呼吸。女孩短发、裙、手臂和腿组成清楚深剪影，但裙内柔水痕使其不似数码平涂。脚下一小块不规则灰影固定身体。没有绘制背景风景；白纸是场景必需部分，让脆弱枝形和人物都有呼吸空间。构图不对称却平衡，右侧竖立人物和向左跨过上半部的轻盈墨爆相对。强黑笔痕集中手边，向外逐渐变浅并破碎。边缘在精确细枝线、柔和渗色颜料和似偶然飞溅之间交替。光由纸本身的白暗示，而非塑造光源。画面诗意且稍纵即逝，把简单手势转成从实体到分枝线、漂浮污痕的视觉行程。",
+  "style_prompt_en": "Minimal monochrome ink and watercolor rely on white paper as the largest and brightest plane. A compact near-black vertical mass is balanced by a branching horizontal network that thins into gray wash and scattered splatter. Fine precise lines alternate with bleeding pigment, dry-looking specks, and translucent stains. The darkest marks cluster near the origin of movement, then fragment and fade through generous negative space. Shape is described mainly by silhouette, with only sparse internal tonal variation. A tiny ground smear can anchor an otherwise floating arrangement. There is no elaborate modeled lighting; the paper's whiteness supplies open luminosity and strong value contrast. The composition is asymmetric, delicate, and spacious, with clear rhythmic transition from solid block to threadlike marks to nearly vanished mist. The finish feels handmade, poetic, and intentionally incomplete.",
+  "style_prompt_zh": "极简单色墨与水彩依赖白纸作为最大也最亮的平面。紧凑近黑竖体量由一张向水平分枝、逐渐变细并化为灰罩染与散飞墨点的网络平衡。细而精确的线与渗色颜料、似干笔斑点和半透明污痕交替。最暗痕聚在运动起点，继而通过宽阔留白破碎、淡出。形主要由剪影描述，内部仅有稀疏调子变化。小小地面擦痕可固定原本漂浮的布置。没有繁复塑造光，纸的白提供开放亮意与强明度对比。构图不对称、纤细且宽敞，从实色块到丝线笔痕再到几乎消失的雾，节奏转变清楚。饰面手工、诗意且有意保留未完成感。",
+  "theme_en": "A girl releases a branching ink tree into an open white sky",
+  "theme_zh": "女孩向开阔白色天空放出一棵分枝墨树",
+  "wh_ratio": "1:1",
+  "id": "0880",
+  "name": "Jessica Durrant",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/jessica-durrant",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/jessica-durrant.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "811c71c17d98cf285c1f56050e3f6af01018662c23ba3daf47fa89e1360e73af",
+    "gpt_submission_prompt": "A spare monochrome ink-and-watercolor illustration places a small girl in a black dress near the right side of an otherwise open white page. She stands in profile, hands cupped near her face. From those hands a dark branch-like tree grows horizontally toward the left, its fine twigs splitting into ever smaller marks. At the outer end, the twigs dissolve into gray washes, ink spatters, and drifting black droplets, as if the tree were becoming weather or breath. The girl's short hair, dress, arms, and legs form a crisp dark silhouette, but soft watery patches within the skirt keep it from appearing digitally flat. A small irregular gray shadow anchors her feet. No background landscape is drawn; the white paper is essential to the scene, giving both the fragile branching form and the figure room to breathe. The composition is asymmetrical yet balanced, with the upright figure at right and the airy burst of ink stretching left across the upper half. Strong black marks gather near the hands, then progressively lighten and fragment outward. Edges alternate between precise twig lines, soft bleeding pigment, and accidental-looking splashes. Lighting is implied by the paper's own whiteness rather than a modeled light source. The image feels poetic and fleeting, turning a simple gesture into a visual passage from solid body to branching line and floating stain.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "284e31a4f37d3caa0bfe1a8a163ccb6feb9a322d90ca944e60ba7d197d096d5f",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

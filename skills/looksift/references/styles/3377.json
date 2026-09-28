@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square dark fantasy painting shows a lone cloaked traveler seated or crouched on a rocky ridge, watching a distant gothic spire beneath a full moon. The traveler is placed left of center in the near middle ground, seen from behind in a wide brimmed hat and heavy black coat. One knee rises, and the long cloak falls in angular dark folds over the stone. To the left, bare tree branches and tangled brush frame the scene. The ground slopes down toward the right, with rough rocks and low grasses emerging from almost black shadow. Across a mist filled valley, a cluster of pointed rooftops and one taller narrow spire rises near the center of the horizon. Pale smoke or fog curls upward from the distant roofs into the moonlit clouds. The moon sits high slightly right of center, a small bright disk partially veiled by gray blue cloud. The sky is dense with layered slate, charcoal, and cold silver gray, while the far landscape dissolves into soft haze. A faint light rim touches the traveler's hat and shoulder and catches the ridge edge. The rest of the figure remains nearly silhouetted. Painterly brushwork is broad in the sky and rougher near the rocks, with fine scratch lines among the grasses and tree twigs. The image feels lonely, suspenseful, and expansive, using a small human figure and distant architecture to make the dark landscape feel immense.",
+  "full_prompt_zh": "一幅方形黑暗奇幻绘画描绘一名披斗篷独行旅人坐着或蹲在岩脊上，望向满月下远处的哥特尖塔。旅人位于中景中央偏左，从背后可见宽檐帽和厚黑外套。一只膝盖抬起，长斗篷以棱角暗褶落在石面上。左侧，光秃树枝和缠结灌木框住场景。地面向右下斜，粗岩和矮草从近黑阴影中浮出。隔着充满薄雾的山谷，一群尖屋顶和一道更高窄尖塔在地平线中央附近升起。浅烟或雾从远处屋顶卷入月光云层。月亮高悬中央稍右，是被灰蓝云部分遮住的小亮盘。天空层层石板灰、炭黑与冷银灰，远景则溶入软雾。淡淡边缘光碰到旅人帽子与肩膀，也擦过岩脊边。人物其余部分近乎剪影。天空笔触宽阔，岩石附近更粗，草与树枝间有细刮线。图像孤独、悬疑而辽阔，以小小人影和远方建筑使暗风景显得巨大。",
+  "style_prompt_en": "Dark fantasy painting uses a tiny near silhouette against a wide layered expanse of moonlit haze. Slate blue, charcoal, cold silver, and near black form a compressed nocturnal palette. A small pale disk near the upper area and a thin distant vertical accent draw the eye across a deep valley of soft tonal layers. Broad cloudlike brushwork shifts gradually across the sky, while the foreground breaks into jagged rough texture and sparse fine lines. Cool backlight traces only a few exposed edges, letting large forms remain nearly black. Mist softens the far distance, separating spatial tiers without bright color. The composition feels lonely, ominous, and expansive, with quiet negative space and restrained highlights making darkness legible.",
+  "style_prompt_zh": "黑暗奇幻绘画把微小近景剪影放在宽阔层叠月光薄雾前。石板蓝、炭灰、冷银与近黑组成压缩夜色色域。上方小浅圆盘和远处细竖重音引导目光越过软色阶的深谷。宽云状笔触在天空里缓缓变化，前景则裂成锯齿粗肌理和稀疏细线。冷逆光只沿少数暴露边缘描亮，让大形体保持近黑。薄雾柔化远方，不用鲜色也分开空间层级。构图孤独、不祥而辽阔，安静留白与克制高光让黑暗可读。",
+  "theme_en": "Lone cloaked traveler watching a gothic spire beneath a full moon",
+  "theme_zh": "披斗篷的独行旅人于满月下望向哥特尖塔",
+  "wh_ratio": "1:1",
+  "id": "3377",
+  "name": "Bloodborne",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/bloodborne",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "0d4eaab5dc72049fe320c47b90fcbf10d0c8a731dd2f52837311346a3c043dbf",
+    "gpt_submission_prompt": "A square dark fantasy painting shows a lone cloaked traveler seated or crouched on a rocky ridge, watching a distant gothic spire beneath a full moon. The traveler is placed left of center in the near middle ground, seen from behind in a wide brimmed hat and heavy black coat. One knee rises, and the long cloak falls in angular dark folds over the stone. To the left, bare tree branches and tangled brush frame the scene. The ground slopes down toward the right, with rough rocks and low grasses emerging from almost black shadow. Across a mist filled valley, a cluster of pointed rooftops and one taller narrow spire rises near the center of the horizon. Pale smoke or fog curls upward from the distant roofs into the moonlit clouds. The moon sits high slightly right of center, a small bright disk partially veiled by gray blue cloud. The sky is dense with layered slate, charcoal, and cold silver gray, while the far landscape dissolves into soft haze. A faint light rim touches the traveler's hat and shoulder and catches the ridge edge. The rest of the figure remains nearly silhouetted. Painterly brushwork is broad in the sky and rougher near the rocks, with fine scratch lines among the grasses and tree twigs. The image feels lonely, suspenseful, and expansive, using a small human figure and distant architecture to make the dark landscape feel immense.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "89f346414ed9d02bcbc7d455c23e6596d6ad746d146f72fbbebb93c6b10c35f6",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

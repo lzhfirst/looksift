@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white pulp illustration shows a frightened man's face turned upward beneath looming spectral forms. His head occupies most of the lower center, tilted back so the open mouth, deep nostrils, and wide eyes point toward the upper left. The face is strongly lit on one side and plunged into dense patterned shadow on the other. Thin pale hair or smoke curls around his temples, breaking the hard edge of his profile. In the upper right, a huge eye and partial shadowed face emerge from whorls of dark stipple and white flowing strands. At the upper left, a small floating humanlike form is caught in the same turbulent space. Another small, stern face appears near the lower left edge, partially separated from the main head by black texture. The background has no stable horizon; it is a storm of dots, scratches, and curved white ribbons against heavy black. Individual features remain precise despite the fantastical setting: brows, eyelids, lips, and skin folds are built with fine ink marks. The brightest areas are bare paper white, while the deepest recesses are almost solid black. Light seems to strike the main face from the upper left and fade into the lower right; the surrounding visions glow through contrast rather than a natural source. The overall composition is claustrophobic and uncanny, using extreme close scale and dense stippling to press the looming shapes around the central expression.",
+  "full_prompt_zh": "这是一幅方形黑白通俗幻想插画，一张惊恐男子的脸朝上，头顶笼罩着幽灵般形体。他的头占据下方中央的大部分，后仰到张开的嘴、深色鼻孔和睁大的眼睛都指向左上。面部一侧受强光，另一侧沉入密密的纹样阴影。纤细浅发或烟雾在太阳穴旁卷曲，打断侧脸坚硬边界。右上方，一只巨大眼睛与部分暗脸从深色点纹和流动白色丝线中浮出。左上方，一个小小的人形漂浮在同样动荡的空间里。左下边附近还有一张小而严肃的脸，黑色肌理把它与主头部部分分开。背景没有稳定地平线，而是厚黑底上的点、刮痕与弯曲白带构成的风暴。即使环境奇异，单个五官仍精确：眉、眼睑、嘴唇和皮肤褶皱都由细墨痕建立。最亮处是裸露纸白，最深凹处近乎纯黑。光似乎从左上方击中主要面部，向右下逐渐衰减；周围幻象由对比发亮，而非来自自然光源。整体构图压迫而怪诞，以极近的尺度和密集点刻把笼罩形状挤向中央表情。",
+  "style_prompt_en": "The illustration uses dense black ink stippling, fine crosshatching, and sharp paper-white reserves to create extreme tonal drama. Smoothly rounded volume emerges from tiny marks rather than gray wash, while flowing pale ribbons interrupt heavy near-black masses. Focal edges are precise and hard; peripheral forms fray into dots, smoke-like curls, and irregular scratches. Scale can shift abruptly between one dominant close mass and small secondary fragments, producing a compressed, uncanny space. Light is high contrast and directional, with one side cut out in white and the opposite side absorbed by textured darkness. The finish is intricate, grainy, and tactile, evoking vintage speculative print art.",
+  "style_prompt_zh": "插画运用密集黑墨点刻、纤细交叉排线和锋利纸白留空，创造极端明暗戏剧性。圆润体积由微小笔痕而非灰色晕染生成，流动浅色丝带打断厚重近黑团块。焦点边缘精确坚硬；周围形体散成点、烟雾般卷曲和不规则刮痕。尺度可以在一个主导的贴近团块与小型次要碎片之间骤变，形成压缩而诡异的空间。光高对比且有方向，一侧被纸白切出，另一侧被带肌理黑暗吞没。完成面繁复、颗粒感强、可触，唤起复古幻想印刷艺术。",
+  "theme_en": "A frightened man beneath looming ghostly forms",
+  "theme_zh": "惊恐男子上方笼罩着幽灵般形体",
+  "wh_ratio": "1:1",
+  "id": "2399",
+  "name": "Virgil Finlay",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/virgil-finlay",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/virgil-finlay.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "ed18d6634788f85404ada9e88c7d799108943874b7834216f793e5d676f38833",
+    "gpt_submission_prompt": "A square black-and-white pulp illustration shows a frightened man's face turned upward beneath looming spectral forms. His head occupies most of the lower center, tilted back so the open mouth, deep nostrils, and wide eyes point toward the upper left. The face is strongly lit on one side and plunged into dense patterned shadow on the other. Thin pale hair or smoke curls around his temples, breaking the hard edge of his profile. In the upper right, a huge eye and partial shadowed face emerge from whorls of dark stipple and white flowing strands. At the upper left, a small floating humanlike form is caught in the same turbulent space. Another small, stern face appears near the lower left edge, partially separated from the main head by black texture. The background has no stable horizon; it is a storm of dots, scratches, and curved white ribbons against heavy black. Individual features remain precise despite the fantastical setting: brows, eyelids, lips, and skin folds are built with fine ink marks. The brightest areas are bare paper white, while the deepest recesses are almost solid black. Light seems to strike the main face from the upper left and fade into the lower right; the surrounding visions glow through contrast rather than a natural source. The overall composition is claustrophobic and uncanny, using extreme close scale and dense stippling to press the looming shapes around the central expression.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "97bd26845e861643369d50a0197c30c4d9cbbf0272065617601c45fe70d51dca",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

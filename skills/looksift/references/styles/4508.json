@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square warm-sepia studio photograph centers a young woman from the chest up against a deep brown backdrop. She faces forward with a steady unsmiling gaze, dark eyes, and long straight hair parted near the middle. A thick fur wrap or coat surrounds both shoulders, its coarse soft strands filling the lower corners. Beneath it, layered necklaces and patterned fabric descend down the center of her chest; a small dangling earring catches light at the left side of her face. The pose is frontal and composed, with head and shoulders almost symmetrical but subtly varied by the fur. Soft side light from upper left illuminates her forehead, nose, and cheekbones while the right side gently darkens. The background falls away without a visible room or horizon, and the figure's hair partly merges with it. Tonal range is narrow but rich, spanning cream highlights, warm chestnut midtones, and deep umber shadows. Fine grain, slight surface softness, and a modest edge vignette give the image an old paper-print quality. The portrait feels direct and still, emphasizing expression, fabric texture, and tonal transition rather than elaborate staging.",
+  "full_prompt_zh": "一张方形暖棕调影棚照片在深褐背景前从胸部以上居中拍摄一位年轻女性。她正面面对镜头，目光稳定而不笑，眼色深，长直发近中央分开。厚毛皮披肩或外套包住双肩，粗软毛束填满下方角落。其下多层项链和花纹布料沿胸口中央垂下；面部左侧一枚小垂坠耳环接住亮光。姿势正面而沉静，头肩近似对称，毛皮又带来细微变化。柔和侧光从左上照亮额头、鼻梁和面颊，右侧轻轻变暗。背景没有可见房间或地平线，部分头发融入其中。调子范围窄却丰厚，从奶油色亮部经暖栗色中间调至深赭褐阴影。细颗粒、轻微表面柔度和适度边缘晕影赋予旧纸质印相感。肖像直接而静止，强调神情、织物肌理与调子过渡，而非繁复布景。",
+  "style_prompt_en": "Warm-sepia studio photography with frontal stillness, rich narrow tonal range, soft upper-side light, and tactile natural material detail. Cream highlights move through chestnut midtones into deep umber shadow. Fine grain, gentle edge vignette, and slight print softness evoke an aged paper photograph. A dark seamless ground keeps attention on expression and texture without decorative scenery.",
+  "style_prompt_zh": "暖棕调影棚摄影，以正面静止、丰厚而收窄的调子范围、柔和上侧光与可触的天然材质细节组成。奶油高光经过栗色中间调融入深赭褐阴影。细颗粒、轻微边缘晕影和柔软印相感唤起旧纸质照片。深色无缝背景使注意力留在神情与肌理，而不靠装饰布景。",
+  "theme_en": "A young woman in fur and beads against a dark studio ground",
+  "theme_zh": "深色影棚背景前一位披毛皮、戴串珠的年轻女性",
+  "wh_ratio": "1:1",
+  "id": "4508",
+  "name": "Edward S. Curtis",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/edward-s-curtis.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "f6399d6c079bb8754483135e7e46183f3694a13d91d7e1ef4119f596b9958c72",
+    "gpt_submission_prompt": "A square warm-sepia studio photograph centers a young woman from the chest up against a deep brown backdrop. She faces forward with a steady unsmiling gaze, dark eyes, and long straight hair parted near the middle. A thick fur wrap or coat surrounds both shoulders, its coarse soft strands filling the lower corners. Beneath it, layered necklaces and patterned fabric descend down the center of her chest; a small dangling earring catches light at the left side of her face. The pose is frontal and composed, with head and shoulders almost symmetrical but subtly varied by the fur. Soft side light from upper left illuminates her forehead, nose, and cheekbones while the right side gently darkens. The background falls away without a visible room or horizon, and the figure's hair partly merges with it. Tonal range is narrow but rich, spanning cream highlights, warm chestnut midtones, and deep umber shadows. Fine grain, slight surface softness, and a modest edge vignette give the image an old paper-print quality. The portrait feels direct and still, emphasizing expression, fabric texture, and tonal transition rather than elaborate staging.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "8376f2b6c7e0611cf4414884189683270af6ad5ba663dfbf3197e5c9c8e0b56a",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

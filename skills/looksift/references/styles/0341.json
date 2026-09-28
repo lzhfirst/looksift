@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A monochrome archival-style drawing shows a cluster of bundled commuters beside a stopped tram as fine snow falls. The tram fills the right half, its rounded roof and row of dark-framed windows receding toward the upper left. Several people stand close to its side, their coats, caps, and scarves overlapping so tightly that the group becomes a single textured dark band. A man in a flat cap near the center turns his face to the left, while figures nearer the tram are seen mostly from behind. At the far left, cropped faces and shoulders imply a larger crowd extending beyond the frame. The background is pale and misty, with only faint vertical city lines visible through the weather. Dense pencil or etched hatching describes wool, hair, vehicle panels, and the space between bodies. White specks scatter across coats and windows, making the snowfall visible against the darkest surfaces. The picture's strongest contrast occurs where faces, cap brims, and window openings interrupt the mass of charcoal marks. There is little empty foreground; the close crop places the viewer within the crowd and emphasizes the slow compression of waiting. The tram's long diagonal roof provides order against the irregular human silhouettes. The whole frame feels cold, crowded, and patiently observed, like a worn illustration of an ordinary winter journey.",
+  "full_prompt_zh": "一幅档案风格的单色素描描绘一群裹得严实的通勤者站在停靠电车旁，细雪正落下。电车填满右半部，圆弧车顶和一排深框车窗向左上方后退。几个人紧贴车侧站着，外套、帽子和围巾重叠得如此紧密，以至于人群成为一道有肌理的深色长带。中央附近一名戴鸭舌帽的男子把脸转向左侧，靠电车更近的人大多从背后可见。最左侧被截断的面孔和肩膀暗示更大的人群延伸到画框之外。背景浅淡而有雾气，天气中只有模糊的城市竖线可见。密集的铅笔或刻线式排影描写毛呢、头发、车厢板面和人群之间的空间。白色雪点散在外套与车窗上，使降雪在最暗表面前可见。面孔、帽檐和车窗开口打断炭黑笔迹团块的地方，是画面对比最强处。前景几乎没有空余；紧密裁切把观者置于人群中，强调等待时缓慢的挤压感。电车长长的斜向车顶为不规则人群剪影提供秩序。整幅画寒冷、拥挤而观察耐心，像一张描绘普通冬日旅程的旧插图。",
+  "style_prompt_en": "The monochrome drawing uses dense graphite-like hatching, soft off-white highlights, and a fine field of scattered white specks. Closely overlapping dark shapes form a continuous lower band, while a long receding diagonal gives the upper composition structure. Small pale openings puncture the charcoal texture and draw attention to selected focal points. Background forms are faint and partially erased by mist; foreground surfaces carry much tighter linework and more varied grain. The edges of individual shapes are sometimes clear, sometimes merged by shadow and weather, creating a crowded visual rhythm. There is no color, so contrast depends on the changing density of marks and the preserved paper light. The close crop restricts open space and heightens the tactile sense of proximity. The whole frame feels cold, archival, and patient through fine abrasion, compressed forms, and disciplined value control.",
+  "style_prompt_zh": "这幅单色素描使用密集的石墨式排线、柔和的暖白高光和散落白点组成的细密色场。紧贴重叠的深色形体形成连续的下部色带，一道向远处后退的长斜线为上方构图提供结构。细小浅色开口穿透炭黑肌理，把注意力带到少数焦点。背景形体淡而模糊，仿佛被雾擦去；前景表面则有更紧密的线条和更多变化的颗粒。个体形状的边缘有时清楚，有时被阴影与天气合并，形成拥挤的视觉节奏。没有颜色，因此对比依赖笔迹密度的变化与被保留的纸面亮色。近距离裁切压缩空处，强化贴近的可触感。整幅画凭借细致磨擦痕迹、压缩的形体和严谨的明度控制，显得寒冷、有档案气息而观察耐心。",
+  "theme_en": "Commuters beside a tram in falling snow",
+  "theme_zh": "雪中电车旁的通勤人群",
+  "wh_ratio": "1:1",
+  "id": "0341",
+  "name": "Martin Lewis",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/martin-lewis",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/martin-lewis.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "2718286dd567da21c0ebed8460f87f2162bd8817fde3195dba6412c7df970416",
+    "gpt_submission_prompt": "A monochrome archival-style drawing shows a cluster of bundled commuters beside a stopped tram as fine snow falls. The tram fills the right half, its rounded roof and row of dark-framed windows receding toward the upper left. Several people stand close to its side, their coats, caps, and scarves overlapping so tightly that the group becomes a single textured dark band. A man in a flat cap near the center turns his face to the left, while figures nearer the tram are seen mostly from behind. At the far left, cropped faces and shoulders imply a larger crowd extending beyond the frame. The background is pale and misty, with only faint vertical city lines visible through the weather. Dense pencil or etched hatching describes wool, hair, vehicle panels, and the space between bodies. White specks scatter across coats and windows, making the snowfall visible against the darkest surfaces. The picture's strongest contrast occurs where faces, cap brims, and window openings interrupt the mass of charcoal marks. There is little empty foreground; the close crop places the viewer within the crowd and emphasizes the slow compression of waiting. The tram's long diagonal roof provides order against the irregular human silhouettes. The whole frame feels cold, crowded, and patiently observed, like a worn illustration of an ordinary winter journey.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "6cddb957179b6209a2d84fa859d40b1c3bdd8bb0a5134992f6d430af3e341fa8",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

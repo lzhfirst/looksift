@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square modernist landscape painting layers pale mountain ridges beneath an immense mass of white and gray storm clouds. The lower half consists of simplified angular hills: sharp charcoal slopes, light gray peaks, and narrow white bands flowing diagonally through the valleys. Beyond them, smaller blue-gray ranges recede toward the horizon. The upper half is almost entirely occupied by cumulus forms swelling upward and outward, their rounded volumes modeled from soft ivory through slate gray. A dark near-black sky caps the top, making the highest cloud edges appear brilliantly white. There are no figures, buildings, or small descriptive details; the image is organized by broad, interlocking shapes. Paint is smooth and matte, with gentle tonal transitions inside each cloud but relatively crisp boundaries between the mountain planes. Light seems to come from high behind the cloud bank, illuminating its upper surfaces and leaving the land in alternating pale and dark wedges. The composition balances soft cloud billows against hard folded terrain. Subtle blue in the distance separates the ranges without introducing a bright accent. The square feels monumental and serene despite the approaching weather. Its visual force comes from compressed values, repeated curved cloud volumes, and a clearly stepped spatial recession across the mountains.",
+  "full_prompt_zh": "一幅方形现代主义风景画把层叠浅色山脊置于巨大灰白风暴云之下。下半幅由简化的棱角山丘组成：尖锐炭色坡面、浅灰山峰和穿过山谷的窄白斜带。更后面的小型蓝灰山列逐渐退向地平线。上半幅几乎完全被向上向外膨起的积云占据，圆润体积从柔象牙色塑到石板灰。近黑色天空封住顶部，使最高云边显得格外白。这里没有人、建筑或细碎说明性细节；图像由宽阔相扣的形块组织。颜料平滑柔哑，每朵云内部调子柔和过渡，但山地平面之间的边界相对清楚。光仿佛从云后高处来，照亮其上表面，让土地呈交替浅与深的楔形。构图以柔软云团平衡坚硬折叠的地形。远处细微蓝色分开山列，却没有加入亮色点。方幅在天气逼近时仍显宏伟而宁静。视觉力量来自压缩明暗、重复弯曲云体与山地清楚的阶梯式空间后退。",
+  "style_prompt_en": "Modernist landscape painting reduces the view to broad interlocking planes and swelling rounded volumes. Ivory, slate, charcoal, and distant blue-gray form a compressed cool palette. Smooth matte transitions model soft masses, while cleaner edges separate angular layered forms. High backlight makes pale upper surfaces glow against a very dark cap; lower planes alternate between white and black shadow. Depth is stepped through overlapping tonal bands rather than fine perspective detail. The composition feels monumental and contemplative, with simplified geometry carrying the drama of weather.",
+  "style_prompt_zh": "现代主义风景绘画把视野简化成宽阔相扣平面与膨胀圆润体积。象牙、石板灰、炭色和远处蓝灰组成压缩冷调配色。平滑柔哑过渡塑造软形，较干净边缘分隔棱角层次。高处逆光让浅色上表面在极暗顶色前发亮；下部平面在白与黑影间交替。纵深由重叠调子带阶梯式展开，而非细小透视细节。构图宏伟而沉思，以简化几何承载天气的戏剧性。",
+  "theme_en": "White mountain ridges beneath a towering bank of storm clouds",
+  "theme_zh": "巨大暴风云下的白色山脊",
+  "wh_ratio": "1:1",
+  "id": "2557",
+  "name": "Georgia O'Keeffe",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/georgia-okeeffe",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/georgia-okeeffe.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "4bae15e345157d03896fa5332cded06ebdfc8d30ffda31fc21c9ef388422ef30",
+    "gpt_submission_prompt": "A square modernist landscape painting layers pale mountain ridges beneath an immense mass of white and gray storm clouds. The lower half consists of simplified angular hills: sharp charcoal slopes, light gray peaks, and narrow white bands flowing diagonally through the valleys. Beyond them, smaller blue-gray ranges recede toward the horizon. The upper half is almost entirely occupied by cumulus forms swelling upward and outward, their rounded volumes modeled from soft ivory through slate gray. A dark near-black sky caps the top, making the highest cloud edges appear brilliantly white. There are no figures, buildings, or small descriptive details; the image is organized by broad, interlocking shapes. Paint is smooth and matte, with gentle tonal transitions inside each cloud but relatively crisp boundaries between the mountain planes. Light seems to come from high behind the cloud bank, illuminating its upper surfaces and leaving the land in alternating pale and dark wedges. The composition balances soft cloud billows against hard folded terrain. Subtle blue in the distance separates the ranges without introducing a bright accent. The square feels monumental and serene despite the approaching weather. Its visual force comes from compressed values, repeated curved cloud volumes, and a clearly stepped spatial recession across the mountains.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "cd703c9106f402da901edd1cd616687ad4b4bcb61136c76b44e31fcd38253efe",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

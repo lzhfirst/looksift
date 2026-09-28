@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "An intimate oil painting shows an empty domestic room with pale green-gray walls and a sequence of open doorways. A dark wooden table stands along the left wall beneath a large mirror, holding a bright pot of flowers and a few small objects. On the right, a cabinet and simple chair sit in soft shadow near a window. The centered doorway opens to another room and then to a distant bright window, making a quiet progression of rectangular frames through the picture. Sunlight enters from the right and crosses the pale floorboards in angled patches, touching the edge of a muted patterned rug. The room is carefully measured but not rigid; edges soften in the painted air, and furniture surfaces carry a fine, brushed texture. Colors are restrained: sage, ivory, warm wood brown, faded russet in the rug, and small white highlights. The light is the main event, laying distinct warm shapes on the floor while leaving the upper walls subdued. Small framed pictures punctuate the plain walls without making them busy. The table, cabinet, doorway, and floorboard lines guide the eye toward the distant window, while the large uncluttered wall areas give the scene breathing room. No figure is needed to make the interior feel inhabited; the flowers, furniture, and natural light convey a quiet everyday presence.",
+  "full_prompt_zh": "一幅亲密的油画描绘一间空着的居家房间，墙面呈浅灰绿色，几道敞开的门洞层层相接。深木桌沿左墙摆放，位于一面大镜子下，桌上有一盆明亮花束和几件小物件。右侧，柜子与简洁的椅子在窗边柔影里。中央门洞通往另一间房，再望向远处明亮窗户，使画面中出现安静的矩形框架序列。日光从右边进入，以斜向光斑跨过浅色地板，碰到一块褪色花纹地毯的边缘。房间经过仔细丈量，却不显僵硬；边缘在绘画空气中变软，家具表面有细微刷绘纹理。色彩节制：鼠尾草绿、象牙白、暖木棕、地毯中的褪赤褐，以及少量白色高光。光是画面的主要事件，在地板上铺出清楚的暖色形状，上方墙面则保持低调。几幅小框画点在素墙上，却不使空间繁忙。桌子、柜子、门洞与地板线条把目光引向远窗，大片不拥挤的墙面让场景透气。无需人物，花束、家具和自然光已让室内带有安静的日常生活气息。",
+  "style_prompt_en": "An intimate realist oil interior in muted sage, ivory, warm brown, and faded russet. Nested rectangular openings recede along a calm central axis, while a few dark furniture-like masses balance either side. Softly brushed edges and fine material grain temper careful perspective. Daylight enters laterally, making angled bright patches across a pale lower plane and leaving upper walls subdued. Small framed accents punctuate broad quiet surfaces. The spacing is measured and uncluttered, allowing ordinary light and gentle tonal transitions to carry the scene.",
+  "style_prompt_zh": "一幅亲密的写实室内油画，采用柔鼠尾草绿、象牙白、暖棕与褪赤褐。层层矩形开口沿平静中轴线退远，两侧少量深色家具般体块形成平衡。柔刷边缘与细微材料颗粒缓和了精确透视。日光从侧面进入，在浅色下方平面投出斜向亮斑，上方大面则保持含蓄。小框状重点点缀宽阔安静的表面。间距有分寸且不拥挤，让寻常光线与柔和明度过渡承载场景。",
+  "theme_en": "An empty sunlit room with an open doorway",
+  "theme_zh": "有敞开门洞的日照空房间",
+  "wh_ratio": "1:1",
+  "id": "3156",
+  "name": "Carl Holsoe",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/carl-holsoe",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "d2e80df808575654608a77b098c4cc99ce5d7c59fbe4a109c47935ccae8ae8ca",
+    "gpt_submission_prompt": "An intimate oil painting shows an empty domestic room with pale green-gray walls and a sequence of open doorways. A dark wooden table stands along the left wall beneath a large mirror, holding a bright pot of flowers and a few small objects. On the right, a cabinet and simple chair sit in soft shadow near a window. The centered doorway opens to another room and then to a distant bright window, making a quiet progression of rectangular frames through the picture. Sunlight enters from the right and crosses the pale floorboards in angled patches, touching the edge of a muted patterned rug. The room is carefully measured but not rigid; edges soften in the painted air, and furniture surfaces carry a fine, brushed texture. Colors are restrained: sage, ivory, warm wood brown, faded russet in the rug, and small white highlights. The light is the main event, laying distinct warm shapes on the floor while leaving the upper walls subdued. Small framed pictures punctuate the plain walls without making them busy. The table, cabinet, doorway, and floorboard lines guide the eye toward the distant window, while the large uncluttered wall areas give the scene breathing room. No figure is needed to make the interior feel inhabited; the flowers, furniture, and natural light convey a quiet everyday presence.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "2ee9b86371fa8ccc6be034d6ef40a725715dc650c0df6753b7fbb214c5d43b66",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

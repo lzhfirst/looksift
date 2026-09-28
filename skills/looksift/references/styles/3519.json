@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square monochrome photographic collage presents the large forward-facing face of a young woman merged with cloud banks and dark woodland. Her head fills nearly the whole frame, cropped close at the forehead and along the left and lower edges. The eyes sit wide apart near the upper half, looking straight ahead with a quiet, distant expression; long dark lashes remain sharply legible even as cloud texture crosses the face. The nose and softly closed lips occupy the lower center-left, modeled by pale gray gradients and fine photographic skin grain. Thick, bright cumulus clouds overlap her forehead, nose bridge, and cheeks, partly masking the center of the face. On the right, dark conifer trees and a larger leafy crown climb upward through her cheek and hairline, their branches forming irregular black silhouettes against white sky. A few smaller fir shapes appear along the lower neck area. The left cheek stays almost white and smooth, while the right side breaks into denser grain, treetops, and shadow. Subtle vertical scratches and mottled paper-like noise give the layered print a worn physical surface. No clear boundary separates face, clouds, and trees; translucent exposures pass through one another but leave the eyes and lips as stable anchors. Soft, high-key ambient light brightens the cloud faces and pale skin, with the tree silhouettes creating the strongest contrast. The composition combines close human scale with open sky and woodland depth, producing a dreamlike, inward mood without color.",
+  "full_prompt_zh": "一幅方形黑白摄影拼贴把年轻女子的大幅正面面孔，与云岸和深色树林融合。头部几乎占满画面，额头及左侧、下侧边缘都被近距离裁切。眼睛在上半部相隔较宽，直视前方，神情安静而遥远；即使云纹穿过脸部，长而深的睫毛依然清楚。鼻子和轻闭的双唇在中下偏左，由浅灰渐层与细微摄影肌理塑出。厚而明亮的积云叠过额头、鼻梁和面颊，部分遮住脸部中央。右侧，深色针叶树与更大的一团阔叶树冠沿面颊和发际向上生长，枝条在白天前形成不规则黑剪影。几棵更小的冷杉形出现在颈部下方。左脸颊几乎纯白且平滑，右侧则分解为更密的颗粒、树梢和阴影。细微竖向刮痕与斑驳纸样噪点让层叠影像带磨旧的实体表面。面孔、云与树林之间没有明确边界；半透明曝光互相穿透，却以眼睛和嘴唇保持稳定锚点。柔和的高调环境光照亮云面与浅肤，树木剪影形成最强对比。构图把近距离人的尺度和开阔天空、林地纵深合在一起，形成无彩色的梦境般内省气息。",
+  "style_prompt_en": "Monochrome photographic double exposure layers translucent imagery through a sharply legible focal form. Preserve a few precise details as anchors while cloudlike midtones, silhouetted organic structures, and open white space pass through softer regions. Use luminous high-key gray against dense black accents, with fine film grain, faint scratches, and mottled print texture to bind the exposures. Avoid clean cutout edges; let contours dissolve, overlap, and reappear at different depths. The balance between smooth pale surfaces and intricate dark branching gives the frame both calm and complexity. Diffuse ambient light keeps the composite ethereal, reflective, and slightly uncanny.",
+  "style_prompt_zh": "黑白摄影双重曝光让半透明影像穿过仍清晰可辨的焦点形体。保留少量精确细节作锚点，让云状中间调、有机剪影结构及开放白区穿行于较柔软的区域。以发亮的高调灰对照浓黑重点，用细胶片颗粒、隐约刮痕和斑驳印相纹理把各层黏合。避免干净抠图边缘，使轮廓在不同纵深中消散、重叠、再显现。平滑浅色表面和繁复深色分枝之间的平衡，同时带来平静与复杂。漫射环境光令合成画面空灵、沉思且略带奇异。",
+  "theme_en": "A monochrome double-exposure face merging with clouds and forest",
+  "theme_zh": "黑白双重曝光面孔与云层、树林相融",
+  "wh_ratio": "1:1",
+  "id": "3519",
+  "name": "Antonio Mora",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/antonio-mora",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "9592dc79d67f0ba95c21f3911424b18d0f0d3b39914fb3917562f1b0e7702e86",
+    "gpt_submission_prompt": "A square monochrome photographic collage presents the large forward-facing face of a young woman merged with cloud banks and dark woodland. Her head fills nearly the whole frame, cropped close at the forehead and along the left and lower edges. The eyes sit wide apart near the upper half, looking straight ahead with a quiet, distant expression; long dark lashes remain sharply legible even as cloud texture crosses the face. The nose and softly closed lips occupy the lower center-left, modeled by pale gray gradients and fine photographic skin grain. Thick, bright cumulus clouds overlap her forehead, nose bridge, and cheeks, partly masking the center of the face. On the right, dark conifer trees and a larger leafy crown climb upward through her cheek and hairline, their branches forming irregular black silhouettes against white sky. A few smaller fir shapes appear along the lower neck area. The left cheek stays almost white and smooth, while the right side breaks into denser grain, treetops, and shadow. Subtle vertical scratches and mottled paper-like noise give the layered print a worn physical surface. No clear boundary separates face, clouds, and trees; translucent exposures pass through one another but leave the eyes and lips as stable anchors. Soft, high-key ambient light brightens the cloud faces and pale skin, with the tree silhouettes creating the strongest contrast. The composition combines close human scale with open sky and woodland depth, producing a dreamlike, inward mood without color.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "a0811f4f812002211a376a4ffa0d634612667f6d1f03d7cb56d6ece369b3a74c",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

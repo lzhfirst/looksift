@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A broad marshland spreads beside calm water under an immense stormy sky. In the foreground, shallow channels and dark clumps of reeds divide wet ground into irregular strips, and a narrow path enters from the lower right toward a small settlement on the distant bank. The village is reduced to a few low roofs, trees, and a slim vertical tower near the right horizon. Most of the square image belongs to the sky: heavy blue-grey cloud gathers into a nearly black mass overhead, while a warmer opening near the left horizon lets late light spread through thin layers of haze. That pale yellow glow is echoed in a narrow reflection on the water, giving one quiet line of brightness to the otherwise subdued scene. The land remains in weathered green, brown, and grey, with soft transitions that make it feel damp and exposed. The painting uses broad tonal movement in clouds, delicate broken marks in grass and mud, and almost no hard contour at the distance. The low horizon emphasizes the weight and motion of the atmosphere; the small village steadies the composition without competing with it. Light is filtered, fleeting, and uneven, reaching across water before disappearing into dark reeds. The mood holds anticipation and calm at once, as though the landscape is waiting for rain. Every spatial layer is readable, yet its edges are softened by moist air and painterly handling.",
+  "full_prompt_zh": "一片宽阔沼泽沿着平静水面铺开，上方是巨大的暴风雨天空。前景中，浅水道和深色芦草丛把湿地分成不规则的长条，一条窄路从右下角通向远岸的小村落。村子被简化为地平线右侧几处低屋顶、树木和一座细高的塔。方形画面的大部分属于天空：厚重的蓝灰云在上方汇聚成近黑色巨块，左侧地平线附近一个较暖的开口让晚光穿过层层薄雾。淡黄色辉光在水上化作一道狭窄倒影，为原本低调的场景带来一条安静的亮线。土地保持风化的绿、棕和灰，柔和过渡使它显得潮湿而无遮蔽。云层以宽大的明暗流动描绘，草与泥以细小断续的笔痕呈现，远处几乎没有硬轮廓。低地平线强调大气的重量和运动；小村落稳住构图，却不与天空争夺注意力。光被过滤、短暂而不均匀，在水面上延伸之后消失于暗色芦草。气氛同时含有期待与平静，仿佛风景正等待落雨。每层空间都可以辨认，边缘却被潮湿空气和绘画性的处理柔化。",
+  "style_prompt_en": "Broad moving cloud tones dominate a low, quiet horizon. Blue-grey, charcoal, weathered green, brown, and a restrained vein of warm yellow form a subdued palette. A concentrated break in darkness sends reflected light into adjacent cool areas. Foreground textures are irregular and broken, while distant forms merge into humid air. Soft edges and layered haze create depth without sharp linear construction. Small dark accents hold the horizontal composition steady beneath an expansive, turbulent sky. The painterly surface shifts from smooth atmospheric blending to granular wet-ground marks. Light feels fleeting and filtered, producing contemplative tension within a calm spatial rhythm.",
+  "style_prompt_zh": "宽阔流动的云层明暗统领低而安静的地平线。蓝灰、炭黑、风化绿、棕色和一缕克制的暖黄组成低调色盘。暗处的一道集中开口把反光送进相邻冷色区域。前景肌理不规则而断续，远处形状则并入潮湿空气。柔软边缘与层叠薄雾营造深度，无需锐利线性结构。少量深色重音稳住巨阔而动荡天空下的水平构图。绘画表面从平滑的大气融合转向潮湿地面上的颗粒笔痕。光显得短暂且经过过滤，在平静的空间节奏中产生沉思的张力。",
+  "theme_en": "A marshland village beneath gathering storm clouds at sunset",
+  "theme_zh": "日落时分暴风云聚集下的沼泽村落",
+  "wh_ratio": "1:1",
+  "id": "3760",
+  "name": "Aleksey Savrasov",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/aleksey-savrasov",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "d80f469502edc31376a87f504e538856a3f4d073a1d534e72496d10769262331",
+    "gpt_submission_prompt": "A broad marshland spreads beside calm water under an immense stormy sky. In the foreground, shallow channels and dark clumps of reeds divide wet ground into irregular strips, and a narrow path enters from the lower right toward a small settlement on the distant bank. The village is reduced to a few low roofs, trees, and a slim vertical tower near the right horizon. Most of the square image belongs to the sky: heavy blue-grey cloud gathers into a nearly black mass overhead, while a warmer opening near the left horizon lets late light spread through thin layers of haze. That pale yellow glow is echoed in a narrow reflection on the water, giving one quiet line of brightness to the otherwise subdued scene. The land remains in weathered green, brown, and grey, with soft transitions that make it feel damp and exposed. The painting uses broad tonal movement in clouds, delicate broken marks in grass and mud, and almost no hard contour at the distance. The low horizon emphasizes the weight and motion of the atmosphere; the small village steadies the composition without competing with it. Light is filtered, fleeting, and uneven, reaching across water before disappearing into dark reeds. The mood holds anticipation and calm at once, as though the landscape is waiting for rain. Every spatial layer is readable, yet its edges are softened by moist air and painterly handling.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "e6d3a8c183dc3a4ee37b014e35f066a5115057802bdeaeb3a89913c26c2ee2cd",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

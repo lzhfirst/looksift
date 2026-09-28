@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square expressionist painting pushes a large face almost against the frame. Its left half is built from scraped ivory, bruised pink and gray paint; the right half is swallowed by broad black strokes and dark graphite marks. One eye on each side remains legible, but the two are rendered with different degrees of clarity and seem to belong to shifting planes. The nose is a knot of rosy and charcoal pigment, and the lips are dark, compressed and partly obscured. The head extends past the upper and side edges, leaving no stable background or comfortable distance. Thin yellow and red lines run vertically across the image like accidental drips or traces of an earlier drawing. Heavy impasto gathers around the dark eye and cheek, while lighter passages have been dragged thin enough to expose the ground below. The image is recognizably a portrait, yet its construction keeps breaking that recognition apart. Colors are restricted to white, warm gray, black, flesh pink and scattered yellow, so texture becomes more important than hue. The gaze has psychological pressure because it persists through the damaged surface. The composition feels raw, unsettled and handmade, as though repeated painting and scraping have left several versions of the face visible at once.",
+  "full_prompt_zh": "一幅正方形表现主义绘画把巨大面容几乎推到画框上。左半边由刮擦的象牙白、瘀伤般粉色和灰色颜料构成；右半边被宽阔黑笔触与深石墨痕迹吞没。两侧各有一只眼睛仍可辨认，但清晰程度不同，仿佛属于不断移动的平面。鼻子是玫色与炭色颜料的结，嘴唇深暗、紧闭且部分被遮挡。头部越过上缘和侧边，没有稳定背景，也没有舒适的观看距离。细黄线和红线竖穿画面，像偶然滴痕或较早画稿残迹。深色眼周和脸颊堆起厚重颜料，浅色区域则被拖得很薄，露出下方底材。图像仍是可辨识的肖像，其建构却不断拆散这一辨识。色彩限于白、暖灰、黑、肉粉与零星黄色，肌理因此比色相更重要。受损表面中仍持续存在的目光带来心理压力。构图粗粝、动荡而充满手工痕迹，仿佛反复涂绘与刮除让几个版本的面容同时可见。",
+  "style_prompt_en": "The style is aggressive expressionist painting with large close-cropped forms, scraped layers and heavy impasto. Broad opaque strokes collide with thin exposed ground and exploratory lines. A restricted palette of dirty ivory, charcoal, warm gray, bruised pink and occasional yellow makes surface pressure visible. Edges fragment and focal details shift between clarity and near-erasure. Vertical drips, scratches and previous marks remain legible as process. The tight square crop gives the unstable image psychological immediacy.",
+  "style_prompt_zh": "这种风格是富于冲击力的表现主义绘画，采用紧密裁切的大形体、刮擦层次和厚重颜料。宽阔不透明笔触与薄透底材及探索性线条相撞。脏象牙白、炭黑、暖灰、瘀伤粉和少量黄色组成受限色谱，使表面力度可见。边缘碎裂，焦点细节在清楚与近乎抹除之间摇摆。竖向滴痕、刮迹和先前笔痕仍作为过程被看见。紧密正方形裁切赋予不稳定图像即时的心理压迫感。",
+  "theme_en": "A face fractured between pale paint and dense black brushwork",
+  "theme_zh": "在浅色颜料与浓黑笔触间碎裂的面容",
+  "wh_ratio": "1:1",
+  "id": "4185",
+  "name": "Georg Baselitz",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/georg-baselitz.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "1ea8dbb01c90319800aa21b053a221cd85115d9917cce6bd905db0667facfb34",
+    "gpt_submission_prompt": "A square expressionist painting pushes a large face almost against the frame. Its left half is built from scraped ivory, bruised pink and gray paint; the right half is swallowed by broad black strokes and dark graphite marks. One eye on each side remains legible, but the two are rendered with different degrees of clarity and seem to belong to shifting planes. The nose is a knot of rosy and charcoal pigment, and the lips are dark, compressed and partly obscured. The head extends past the upper and side edges, leaving no stable background or comfortable distance. Thin yellow and red lines run vertically across the image like accidental drips or traces of an earlier drawing. Heavy impasto gathers around the dark eye and cheek, while lighter passages have been dragged thin enough to expose the ground below. The image is recognizably a portrait, yet its construction keeps breaking that recognition apart. Colors are restricted to white, warm gray, black, flesh pink and scattered yellow, so texture becomes more important than hue. The gaze has psychological pressure because it persists through the damaged surface. The composition feels raw, unsettled and handmade, as though repeated painting and scraping have left several versions of the face visible at once.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "cf662b3f99ffe52866c58378baf25bcde2bbaeefe22fb5092746065886181e17",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

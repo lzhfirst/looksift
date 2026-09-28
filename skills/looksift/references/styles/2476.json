@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square Renaissance-style oil portrait shows a young woman in an ornate cap with a small rabbit resting beside her right shoulder. The background is a dark warm brown interior with faint ornamental patterning on the left and a shadowed wood edge on the right. The woman faces slightly left but looks toward the viewer with calm pale blue-green eyes and a faint closed smile. Her fair skin is softly modeled through ivory, peach, and warm rose. Blond hair is drawn back and mostly hidden beneath a broad embroidered cap. The cap is built from gold-brown patterned fabric, tiny beads, and a pale feather that rises at its left side; narrow jeweled strands hang near the right temple. Her high-collared dress is covered in small gold and brown motifs, with dark fur-like shoulder trim and a fine necklace bearing green and red accents. The rabbit's light brown head and upright ears emerge just behind her right shoulder, its pale body partly hidden by the dark garment. Brushwork is controlled and fine on the face, jewels, and animal, while the background remains textured and quiet. Light comes from the upper left, brightening her forehead, cheeks, feather, and the rabbit's ears; the garment and wall deepen into warm shadow. The overall composition is formal and intimate, balancing rich decorative detail with a gentle face and one curious animal accent.",
+  "full_prompt_zh": "这是一幅方形文艺复兴风格油画肖像，一位年轻女子戴华丽帽子，右肩旁有一只小兔子。背景为深暖褐色室内，左侧有淡淡装饰纹样，右侧是一道阴影木边。女子面部略向左，但以平静浅蓝绿色眼睛看向观者，嘴角带淡淡闭合笑意。浅肤色在象牙、桃色和暖玫瑰色之间柔和塑形。金发向后梳，大部分藏在宽大的刺绣帽下。帽子由金褐纹样织物、细小珠子和左侧升起的浅色羽毛构成；窄窄珠链垂在右鬓旁。高领裙布满金褐色小纹样，肩部有深色毛皮般饰边，细项链带绿与红色强调。兔子的浅棕头和竖耳从右肩后露出，浅色身体部分被深衣遮住。脸、珠宝与动物的笔法受控而精细，背景保持带肌理的安静。光从左上方照来，提亮额头、面颊、羽毛和兔耳；衣服与墙面沉入暖影。整体构图正式而贴近，以丰富装饰细节平衡温和面容与一处好奇的动物强调。",
+  "style_prompt_en": "The oil-painted style uses controlled fine detail, warm translucent flesh modeling, and dense ornamental textile texture. Ivory and peach highlights emerge from amber-brown, dark olive, umber, and black, punctuated by small jewel-color notes. Focal features are smoothly blended and softly lit, while beads, embroidery, and fibrous trim are defined by precise tiny marks. Edges sharpen around the lit face and selected details, then melt into the dim patterned ground. A quiet upper-side light gives rounded forms subtle volume and leaves the lower fabric in rich warm shadow. The composition is formal and close, with decorative density held around a calm central area. The result feels intimate, courtly, and gently aged.",
+  "style_prompt_zh": "这种油画画风采用受控细节、温暖半透明肤色塑形和密集装饰织物肌理。象牙与桃色高光从琥珀褐、深橄榄、赭褐和黑色中显出，间以小块宝石色。焦点特征平滑调和且受柔光照亮，珠子、刺绣与纤维饰边则由精确微小笔痕界定。受光焦点与选定细节周围边缘清楚，之后融入昏暗带纹样背景。安静的上侧光给予圆形形体细微体积，下方织物留在浓郁暖影中。构图正式而贴近，装饰密度围绕安静中央区域。效果亲密、宫廷感强且轻微陈旧。",
+  "theme_en": "A young woman in an ornate cap with a rabbit beside her shoulder",
+  "theme_zh": "一位戴华丽帽子的年轻女子，肩旁有兔子",
+  "wh_ratio": "1:1",
+  "id": "2476",
+  "name": "Lucas Cranach the Elder",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/lucas-cranach-the-elder",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/lucas-cranach-the-elder.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "3bd8db808b3e798cda0c450c8a8c7d29726c6884bcbc20251fe9aa6bb0f465d2",
+    "gpt_submission_prompt": "A square Renaissance-style oil portrait shows a young woman in an ornate cap with a small rabbit resting beside her right shoulder. The background is a dark warm brown interior with faint ornamental patterning on the left and a shadowed wood edge on the right. The woman faces slightly left but looks toward the viewer with calm pale blue-green eyes and a faint closed smile. Her fair skin is softly modeled through ivory, peach, and warm rose. Blond hair is drawn back and mostly hidden beneath a broad embroidered cap. The cap is built from gold-brown patterned fabric, tiny beads, and a pale feather that rises at its left side; narrow jeweled strands hang near the right temple. Her high-collared dress is covered in small gold and brown motifs, with dark fur-like shoulder trim and a fine necklace bearing green and red accents. The rabbit's light brown head and upright ears emerge just behind her right shoulder, its pale body partly hidden by the dark garment. Brushwork is controlled and fine on the face, jewels, and animal, while the background remains textured and quiet. Light comes from the upper left, brightening her forehead, cheeks, feather, and the rabbit's ears; the garment and wall deepen into warm shadow. The overall composition is formal and intimate, balancing rich decorative detail with a gentle face and one curious animal accent.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "428ab62ee244f8fb4dfb668d76602a71bc102dacb5515a6cc524a557dcc0f78a",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

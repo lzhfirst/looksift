@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white self-portrait-like photograph shows a young woman seated on worn wooden floorboards in a dim room. She is positioned just right of center, her back leaning into the dark corner beside a tall bright window or glazed door. Her knees are drawn up and her arms rest loosely around them. She wears a light sleeveless dress whose skirt spreads across her legs in soft folds. Her head turns toward the window, eyes downcast, and her hair is tied back loosely. The window's white light forms a vertical strip along the right edge and catches the shoulder, cheek, forearm, and layered fabric. The left half of the room falls into deep black, with only hints of wall and furniture. The floorboards run diagonally from the bottom toward the figure, their scuffed grain visible in the light. The image is softly focused and slightly grainy, so delicate facial detail is less important than pose, tonal mass, and the relation between body and room. There is no theatrical gesture; the woman's compact posture reads as quiet reflection or withdrawal. The framing is intimate but includes enough architectural edge to hold the body in a real interior. Contrast is strong between the luminous window and the shadowed wall, yet transitions across the dress remain gentle. No mirror, text, object, or additional person appears in the selected view. The photograph feels fragile, private, and transient, as if the figure could fade into the surrounding darkness.",
+  "full_prompt_zh": "一张方形黑白、近似自拍的照片呈现一名年轻女子坐在暗室磨旧木地板上。她位于中央偏右，背靠高亮窗或玻璃门旁的暗角。双膝收起，双臂松松抱在外侧。她穿浅色无袖连衣裙，裙摆以柔褶铺在腿上。头转向窗，眼低垂，头发松松束起。窗的白光在右缘形成竖带，照到肩、脸颊、前臂和层叠布料。房间左半陷入深黑，仅见墙和家具的影子。地板条从下方向人物斜行，受光处可见磨损木纹。画面柔焦且略颗粒，因此细腻脸部细节不如姿势、明暗体量和身体与房间的关系重要。没有戏剧化动作；女子蜷起姿态读作安静沉思或退避。裁切亲近，但仍包含足够建筑边界，使身体处在真实室内。明亮窗与阴影墙对比强，裙上的过渡却温柔。选定画面里没有镜子、文字、物件或其他人物。照片脆弱、私密而短暂，像人物随时可能溶入周围黑暗。",
+  "style_prompt_en": "Use intimate experimental black-and-white photography with a softly focused figure or focal form absorbed into an imperfect interior. Contrast one bright vertical light source with broad almost-black room mass, allowing pale fabric or surfaces to catch gentle intermediate grays. Keep posture compact and unforced, and let floor lines or wall edges quietly place the form in space. Preserve grain, slight blur, uneven exposure, and fragile tonal transitions rather than clean studio polish. Crop close enough for emotional proximity but retain a clear architectural boundary. The atmosphere is private, transient, and contemplative, with the focal form seeming to hover between illumination and disappearance.",
+  "style_prompt_zh": "采用亲近的实验性黑白摄影，让柔焦焦点形体融入不完美室内。以一道明亮竖向光源对照大片近黑房间体量，浅布料或表面承接温和中灰。姿态紧凑且自然，地板线或墙边安静地给形体定位。保留颗粒、轻模糊、不均匀曝光和脆弱明暗过渡，而非洁净影棚抛光。裁切近到有情绪距离，同时留清楚建筑边界。氛围私密、短暂、沉思，焦点形体仿佛悬在被照亮与消失之间。",
+  "theme_en": "A woman in a pale dress sitting alone beside a bright window",
+  "theme_zh": "穿浅色裙的女子独坐在明亮窗旁",
+  "wh_ratio": "1:1",
+  "id": "4497",
+  "name": "Francesca Woodman",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/francesca-woodman.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "9beae4a4052358ebd3ee9edd491135b195bd1e2c52d316cdc9706cf4dc23cc3a",
+    "gpt_submission_prompt": "A square black-and-white self-portrait-like photograph shows a young woman seated on worn wooden floorboards in a dim room. She is positioned just right of center, her back leaning into the dark corner beside a tall bright window or glazed door. Her knees are drawn up and her arms rest loosely around them. She wears a light sleeveless dress whose skirt spreads across her legs in soft folds. Her head turns toward the window, eyes downcast, and her hair is tied back loosely. The window's white light forms a vertical strip along the right edge and catches the shoulder, cheek, forearm, and layered fabric. The left half of the room falls into deep black, with only hints of wall and furniture. The floorboards run diagonally from the bottom toward the figure, their scuffed grain visible in the light. The image is softly focused and slightly grainy, so delicate facial detail is less important than pose, tonal mass, and the relation between body and room. There is no theatrical gesture; the woman's compact posture reads as quiet reflection or withdrawal. The framing is intimate but includes enough architectural edge to hold the body in a real interior. Contrast is strong between the luminous window and the shadowed wall, yet transitions across the dress remain gentle. No mirror, text, object, or additional person appears in the selected view. The photograph feels fragile, private, and transient, as if the figure could fade into the surrounding darkness.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "8470a8ac87a0c0666e0346d1421e8cfad7c8d759d795455bf3fcf322381613bc",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

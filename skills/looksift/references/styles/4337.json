@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white manga illustration divides attention between a startled child's close-up on the right and a crowded supernatural landscape on the left. Only half the child's face is visible: one huge round eye, a dark bowl-cut fringe, a small ear, the bridge of the nose, and a narrow strip of cheek. The eye stares outward with a bright white catchlight, while heavy black hair makes a solid shape across the top. Behind the face, twisted cloud banks and strange rocky forms pile up densely. Several round, watching eyes emerge from the textured ground and clustered forms, and a small dark creature peers from the middle distance. The scene is built almost entirely from black ink and unprinted white, with tight stipple and short crosshatching laying granular gray tones across skin, sky, and terrain. Deep black areas frame the white eye and carve dramatic gaps between the swollen forms. The upper sky opens into a lighter patch with one tiny dark silhouette, offering a brief pause amid the density. The drawing has crisp contour control but nervous, irregular interior marks. Forms overlap in shallow, compressed space, so the face and uncanny landscape feel uncomfortably close together. The overall mood is alert and ominous, carried by exaggerated scale, dense texture, and the stark alternation of ink black and paper white.",
+  "full_prompt_zh": "这幅方形黑白漫画插图把注意力分给右侧惊愕孩童的面部特写和左侧拥挤的超自然景观。孩童只露出半张脸：一只巨大的圆眼、深色齐刘海、一只小耳朵、鼻梁和一小段面颊。眼睛带明亮白色高光，向外凝视；浓黑头发则在顶部形成整块形状。面孔后方，扭曲的云团与奇异岩状形体密密堆积。数只圆形窥视的眼睛从有纹理的地面和聚集形体间出现，一只小小的暗色生物从中景探望。场景几乎全由黑墨与留白构成，紧密点描和短促交叉排线在皮肤、天空与地形上铺出颗粒状灰调。深黑区域围住白色眼球，也在鼓胀形体间刻出戏剧性的空隙。上方天空展开一块较浅的区域，里面有一个微小暗影，为密集画面提供短暂间歇。画作的轮廓控制清晰，内部笔痕却紧张而不规则。形体在浅而压缩的空间里层叠，让面孔和诡异景观显得不安地彼此贴近。整体气氛警觉而不祥，由夸张尺度、密集肌理以及墨黑与纸白的鲜明交替承载。",
+  "style_prompt_en": "A monochrome manga illustration relies on black ink and unprinted white, with granular gray emerging from dense stipple and short crosshatching. Crisp contours enclose restless interior marks. Broad dark masses press against bright circular openings, while swollen, intricately textured shapes overlap in shallow compressed depth. A few lighter gaps interrupt the visual congestion and direct attention through the composition. Lighting is dramatic and graphic, created by the balance of solid black, raw paper, and tiny white glints rather than soft color gradients. The visual rhythm alternates enlarged simple forms with clusters of minute marks. The finish is precise, tactile, unsettling, and strongly printed.",
+  "style_prompt_zh": "单色漫画插图依靠黑墨和纸白，密集点描与短交叉排线生成颗粒状灰阶。清晰轮廓包住躁动的内部笔痕。宽阔深色块挤向明亮圆形留白，膨胀且纹理繁密的形状在浅而压缩的纵深中重叠。少数较亮空隙打断视觉拥塞，引导视线穿过构图。光影富于戏剧性和图形感，由纯黑、原纸与微小白色亮点的平衡产生，而非柔软彩色渐变。视觉节奏在放大的简明形状与细小笔痕群之间交替。成品精确、有触感、令人不安，并带强烈印刷感。",
+  "theme_en": "A startled child's face beside a crowded supernatural landscape",
+  "theme_zh": "惊愕孩童的面孔与拥挤的超自然景观",
+  "wh_ratio": "1:1",
+  "id": "4337",
+  "name": "Kazuo Umezu",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/kazuo-umezu.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "5a6089ecf83c439e9c52700b9ac60676a50ff635e64c24cfb220dd85c8dc9eff",
+    "gpt_submission_prompt": "A square black-and-white manga illustration divides attention between a startled child's close-up on the right and a crowded supernatural landscape on the left. Only half the child's face is visible: one huge round eye, a dark bowl-cut fringe, a small ear, the bridge of the nose, and a narrow strip of cheek. The eye stares outward with a bright white catchlight, while heavy black hair makes a solid shape across the top. Behind the face, twisted cloud banks and strange rocky forms pile up densely. Several round, watching eyes emerge from the textured ground and clustered forms, and a small dark creature peers from the middle distance. The scene is built almost entirely from black ink and unprinted white, with tight stipple and short crosshatching laying granular gray tones across skin, sky, and terrain. Deep black areas frame the white eye and carve dramatic gaps between the swollen forms. The upper sky opens into a lighter patch with one tiny dark silhouette, offering a brief pause amid the density. The drawing has crisp contour control but nervous, irregular interior marks. Forms overlap in shallow, compressed space, so the face and uncanny landscape feel uncomfortably close together. The overall mood is alert and ominous, carried by exaggerated scale, dense texture, and the stark alternation of ink black and paper white.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "dc008716813c90055efa5f6713abf069d58001b5ff7f04aec01e5fa25ae9d29e",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square speculative illustration shows a lone traveler from behind in the lower center of a broad golden grassland. The figure wears a red-and-blue coat, a brimmed helmet or hat, and a long pack, with one vertical staff or tool held at the side. Ahead, beyond rolling low hills, an enormous dark mechanical creature rises through white cumulus clouds. Its broad armored head bears two long upward-curving horns, and a heavy body with jointed legs is partly hidden by the cloud bank. The machine's cool steel-blue mass contrasts sharply with the warm wheat-colored field. On the right, a pale giant planet or moon fills much of the upper sky behind the clouds, its edge subtle against saturated turquoise blue. Dry grass blades and low rocks occupy the foreground, painted with loose energetic strokes. The traveler is tiny compared with the looming machine and celestial disk, yet stands upright and centered as the visual anchor. Daylight is strong and clear, giving the clouds bright cream edges and casting muted shadow beneath the machine. The distant hills remain soft, while the horned silhouette is readable. The image balances pulp science-fiction scale with painterly landscape atmosphere, leaving a charged empty distance between person and machine.",
+  "full_prompt_zh": "一幅方形推想插画从背后呈现一位独行者站在广阔金色草原的下方中央。人物穿红蓝外套，戴檐帽或头盔，背长包，身边握一根竖杖或工具。前方低缓山丘之外，一台巨大深色机械生物从白色积云间升起。宽阔装甲头有两根向上弯的长角，沉重机身与关节腿部分被云带遮住。机器的冷钢蓝大形与暖麦色草地强烈对照。右侧一颗浅色巨行星或月球在云后占据大量上方天空，边缘在饱和青蓝前微妙。前景干草叶和低岩石以松散有力笔触画出。旅人比机器和天体圆盘都极小，却挺直居中，成为视觉锚点。日光强而清晰，云缘发奶油色亮，机器下方有低调暗影。远山柔和，带角轮廓仍清楚可辨。画面把通俗科幻尺度与绘画式风景空气平衡，人与机器之间留下充满张力的空阔距离。",
+  "style_prompt_en": "Painterly retro science-fiction landscape with a tiny warm-colored scale mark against vast cool mechanical and celestial forms. Golden dry foreground strokes lead toward soft blue hills and bright cumulus clouds. Saturated turquoise sky, steel-blue shadow, cream light, and rust-red accents form a bold but controlled palette. Monumental silhouettes remain legible through atmospheric layering and strong daylight.",
+  "style_prompt_zh": "绘画式复古科幻风景，以极小暖色尺度标记对照巨大冷色机械和天体形。金色干燥前景笔触引向柔蓝山丘和明亮积云。饱和青绿天空、钢蓝阴影、奶油亮光和锈红点缀形成大胆而受控的色彩。纪念碑般剪影经空气层次与强日光仍清楚可辨。",
+  "theme_en": "A lone traveler facing a horned machine across golden grassland",
+  "theme_zh": "一位独行者在金色草地上面对带角巨型机器",
+  "wh_ratio": "1:1",
+  "id": "0875",
+  "name": "Romain Trystram",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/romain-trystram",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/romain-trystram.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "0d38a4af153e61885b47488e7d4dbabd5d40698910fc89f7748a5d2d0cb3d98e",
+    "gpt_submission_prompt": "A square speculative illustration shows a lone traveler from behind in the lower center of a broad golden grassland. The figure wears a red-and-blue coat, a brimmed helmet or hat, and a long pack, with one vertical staff or tool held at the side. Ahead, beyond rolling low hills, an enormous dark mechanical creature rises through white cumulus clouds. Its broad armored head bears two long upward-curving horns, and a heavy body with jointed legs is partly hidden by the cloud bank. The machine's cool steel-blue mass contrasts sharply with the warm wheat-colored field. On the right, a pale giant planet or moon fills much of the upper sky behind the clouds, its edge subtle against saturated turquoise blue. Dry grass blades and low rocks occupy the foreground, painted with loose energetic strokes. The traveler is tiny compared with the looming machine and celestial disk, yet stands upright and centered as the visual anchor. Daylight is strong and clear, giving the clouds bright cream edges and casting muted shadow beneath the machine. The distant hills remain soft, while the horned silhouette is readable. The image balances pulp science-fiction scale with painterly landscape atmosphere, leaving a charged empty distance between person and machine.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "d8e3bed94a14194420ced24769b882e6bdaac85ffcba614bd9830628b569bf90",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square heavily impasto oil painting shows a descending city stairway with tiny pedestrians between densely worked walls. The upper and left edges are crowded with gray, cream, brown, and black strokes that imply tall masonry and surrounding structures. The stairway begins in the brighter center background and steps down toward the lower left foreground. Its pale treads are edged with dark irregular marks, giving a strong rhythm through the otherwise chaotic surface. Several small dark figures stand or walk along the steps; one is near the lower left, with others farther back toward the central opening. Their shapes are reduced to quick upright strokes and isolated darker heads, so the movement matters more than individual identity. Light cream and warm gray paint gathers across the central passage, while the flanking walls become deep olive-brown and charcoal. At the lower edge, broad scraped patches of ochre and gray suggest worn paving. The paint is unusually thick and ridged, with short strokes piled in different directions and occasional exposed undercolor. Forms appear and disappear as neighboring marks compete, yet the stair sequence and human scale remain visible. Diffuse daylight seems to enter from the far opening, brightening the steps and back wall, while the near edges sit in muddier shadow. The overall composition is energetic and compressed, using a corridor of pale steps to organize a rough, tactile urban field.",
+  "full_prompt_zh": "这是一幅方形厚涂油画，描绘密集墙面之间向下延伸的城市阶梯和微小行人。上方及左边挤满灰、奶油、褐与黑笔触，暗示高墙和周围结构。阶梯从较亮的中央远处开始，向左下前景逐级降下。浅色踏面有深而不规则的边线，在原本混乱的表面中形成强烈节奏。几个小深色人影站或走在台阶上；一个靠近左下，其他更远、靠近中央开口。他们被简化为迅疾直立笔痕与孤立深色头部，因此运动比个人身份更重要。浅奶油与暖灰色颜料聚在中央通道，两侧墙面变为深橄榄褐与炭色。下缘宽阔刮涂的赭灰色斑块暗示磨损铺地。颜料格外厚、有脊纹，不同方向的短笔触堆叠，局部露出底色。相邻笔痕互相争夺，使形体时隐时现，但阶梯序列与人体尺度仍可辨。漫射日光似从远处开口进入，提亮台阶和后墙，较近边缘则落在浑厚阴影中。整体构图充满能量而压缩，以浅色阶梯通道组织粗糙可触的城市色域。",
+  "style_prompt_en": "The oil painting is dominated by thick impasto, palette-knife-like scraping, and short strokes stacked in conflicting directions. Cream, warm gray, ochre, olive brown, and charcoal form a compressed, largely low-saturation field. Forms are only partly resolved; a light passage and repeated dark accents establish the underlying structure. Edges constantly break into adjacent paint, making texture itself a primary source of movement. Diffuse light opens a pale center while nearer masses deepen into muddy shadow. The composition feels crowded and physical, with ridges of pigment carrying as much information as drawn line. The result is restless, tactile, and robust.",
+  "style_prompt_zh": "这种油画以厚实堆涂、调色刀般刮擦和互相冲突方向的叠加短笔触为主。奶油、暖灰、赭色、橄榄褐和炭色构成压缩、总体低饱和的场域。形体只得到部分解析；一条浅色通道与重复深色强调建立底层结构。边缘不断碎入相邻颜料，使肌理本身成为主要动势来源。漫射光打开浅色中央，较近团块则沉入浑厚阴影。构图显得拥挤而有物理性，颜料脊纹承载的信息不亚于描绘线条。效果躁动、可触且强健。",
+  "theme_en": "Tiny pedestrians on a descending city stairway in thick paint",
+  "theme_zh": "厚涂城市阶梯上行走的微小路人",
+  "wh_ratio": "1:1",
+  "id": "2482",
+  "name": "Leon Kossoff",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/leon-kossoff",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/leon-kossoff.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "725ab80d4d9d4b4b62be6c1c0e7bfcc8c8bcdadd869d0a027e438d07c52f324a",
+    "gpt_submission_prompt": "A square heavily impasto oil painting shows a descending city stairway with tiny pedestrians between densely worked walls. The upper and left edges are crowded with gray, cream, brown, and black strokes that imply tall masonry and surrounding structures. The stairway begins in the brighter center background and steps down toward the lower left foreground. Its pale treads are edged with dark irregular marks, giving a strong rhythm through the otherwise chaotic surface. Several small dark figures stand or walk along the steps; one is near the lower left, with others farther back toward the central opening. Their shapes are reduced to quick upright strokes and isolated darker heads, so the movement matters more than individual identity. Light cream and warm gray paint gathers across the central passage, while the flanking walls become deep olive-brown and charcoal. At the lower edge, broad scraped patches of ochre and gray suggest worn paving. The paint is unusually thick and ridged, with short strokes piled in different directions and occasional exposed undercolor. Forms appear and disappear as neighboring marks compete, yet the stair sequence and human scale remain visible. Diffuse daylight seems to enter from the far opening, brightening the steps and back wall, while the near edges sit in muddier shadow. The overall composition is energetic and compressed, using a corridor of pale steps to organize a rough, tactile urban field.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "59b3b8bbebc6d8bcde09c13fb57b39ccd579622b554e49f4e0257a0e0cab64bf",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

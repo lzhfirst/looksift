@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square Northern Renaissance-style oil portrait shows a young woman seated three-quarter length beside a dark window at the left. Her body faces the viewer, but her head turns gently toward the light and her gaze rests off to the left. Pale skin and softly pink cheeks are modeled with delicate smooth paint. Small golden-brown curls line the forehead, while a patterned pale cap or hair covering rises behind the head. She wears a rose-red dress with fitted sleeves, a square neckline, dark embroidered trim, and a green inner garment visible at the chest and cuffs. Fine black and gold necklaces cross the neckline, and small jeweled earrings catch a faint glint. Her hands rest together near the lower left on a chair arm or ledge. Behind her, an elaborate floral tapestry hangs against a nearly black room, with muted ocher, olive, and rose motifs filling the right edge. The window frame at left is deep brown, and a sliver of green-gray exterior appears beyond it. Side light from that opening brightens her face, curls, hands, and the raised threads of the gown, while the right side falls into warm shadow. The paint handles flesh with polished blending, but cloth, jewelry, and tapestry with minute patterned detail. The setting is enclosed and still, its dark verticals and heavy fabric framing the softly lit sitter. The composition holds a formal balance between human presence and ornamental surfaces, with a restrained warm palette that feels intimate, affluent, and quietly reflective.",
+  "full_prompt_zh": "一幅方形北方文艺复兴风格油画肖像描绘一位年轻女子坐在左侧暗窗旁，显出大约四分之三身形。身体面向观众，头却轻轻转向光，视线落在左侧画外。浅肤与微粉脸颊由细腻平滑的颜料塑形。金棕色小卷发沿额排列，纹样浅色帽或发罩在头后升起。她穿玫瑰红长裙，合体袖、方形领口、深色刺绣边饰，并在胸前和袖口露出绿色内衣。细黑金项链横过领口，小宝石耳饰接住微光。双手在左下靠着椅扶手或台沿相合。身后，繁密花卉挂毯垂在近黑房间中，暗赭、橄榄与玫瑰色纹样填满右缘。左边窗框深棕，框外仅有一线灰绿色景色。开口侧光照亮她的脸、卷发、双手和裙装浮起的织线，右侧转入暖影。肌肤用精细晕染处理，衣料、珠宝和挂毯则有微小纹样细节。场景封闭静止，暗色竖线和厚布围住柔光下的人物。构图在人与装饰表面之间保持正式平衡，克制暖色调显得亲密、富足而静静沉思。",
+  "style_prompt_en": "Use Northern Renaissance oil-painting precision with smoothly blended focal surfaces, minute patterned cloth, and carefully rendered small metal or jewel accents. Set pale warm highlights against a dark enclosed ground rich in subdued tapestry-like texture. Light the main form from a side opening, allowing gentle shadow to deepen across the far side while preserving clear edges and tactile fabric. Favor rose, muted green, ocher, brown-black, and soft cream. The composition is formal, still, and ornamented without losing the focal hierarchy.",
+  "style_prompt_zh": "采用北方文艺复兴油画的精确性：焦点表面平滑晕染，织物纹样细密，微小金属或宝石点缀谨慎刻画。以浅暖高光对照封闭的暗底，底中含低饱和挂毯般肌理。从侧面开口照亮主体，让远侧渐深，同时保留清晰边缘与可触衣料。偏重玫瑰红、暗绿、赭黄、棕黑和柔奶油色。构图正式、静止、繁饰，却不失焦点层级。",
+  "theme_en": "A Renaissance woman in a rose gown beside a dark window",
+  "theme_zh": "身着玫瑰色长裙、坐在暗窗旁的文艺复兴女子",
+  "wh_ratio": "1:1",
+  "id": "0414",
+  "name": "Jan Gossaert",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/jan-gossaert",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/jan-gossaert.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "20bffdc2857c57e4cc445e7e5b73629414e25d426d2cf593512c90d41b1d2845",
+    "gpt_submission_prompt": "A square Northern Renaissance-style oil portrait shows a young woman seated three-quarter length beside a dark window at the left. Her body faces the viewer, but her head turns gently toward the light and her gaze rests off to the left. Pale skin and softly pink cheeks are modeled with delicate smooth paint. Small golden-brown curls line the forehead, while a patterned pale cap or hair covering rises behind the head. She wears a rose-red dress with fitted sleeves, a square neckline, dark embroidered trim, and a green inner garment visible at the chest and cuffs. Fine black and gold necklaces cross the neckline, and small jeweled earrings catch a faint glint. Her hands rest together near the lower left on a chair arm or ledge. Behind her, an elaborate floral tapestry hangs against a nearly black room, with muted ocher, olive, and rose motifs filling the right edge. The window frame at left is deep brown, and a sliver of green-gray exterior appears beyond it. Side light from that opening brightens her face, curls, hands, and the raised threads of the gown, while the right side falls into warm shadow. The paint handles flesh with polished blending, but cloth, jewelry, and tapestry with minute patterned detail. The setting is enclosed and still, its dark verticals and heavy fabric framing the softly lit sitter. The composition holds a formal balance between human presence and ornamental surfaces, with a restrained warm palette that feels intimate, affluent, and quietly reflective.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "44aafc8cab9afdc612290f59687ebdc4eab70ad0ace322150592fb6d4d5fde24",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

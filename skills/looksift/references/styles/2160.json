@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square painterly scene shows a monumental historic gateway rising beside a crowded waterfront at dusk. The stone building occupies the left and center, with a rounded dome, broad central arch, and several slender tower-like features. Golden light strikes the arch and adjacent wall, making them glow against a cool blue-gray atmosphere. Many small figures cluster along the quay, where vendor awnings, steps, and dark boats make a lively band at the water's edge. The foreground water reflects vertical strokes of yellow, amber, blue, and near-black, breaking the building's mass into shimmering color. Distant structures and trees dissolve into pale mist on the right. The painting does not delineate every person or stone block; short, broken brush marks suggest the crowd, masonry, and movement of boats. Its palette balances warm ocher and orange illumination with slate blue, gray-green, and muted teal shadows. The low horizon gives the architecture weight, while the water reserves an open reflective space in front of the busy shore. Light appears diffused by moisture, yet concentrated enough to form a dramatic warm core at the gateway. Visible paint texture and softened edges keep the atmosphere fluid. The whole frame feels animated by human activity but unified by broad tonal masses, luminous reflection, and a restrained dusk haze.",
+  "full_prompt_zh": "一幅方形绘画描绘黄昏时一座高大的古老城门立在拥挤河岸旁。石建筑占据左侧与中部，有圆顶、宽阔的中央拱门和几处细长塔状结构。金色光线照在拱门与相邻墙面上，使它们在冷灰蓝空气里发亮。许多小人物聚集在码头，摊棚、台阶和深色船只沿水边组成充满活力的一条带。前景水面以黄色、琥珀色、蓝色和近黑色的竖向笔触反射灯光，把建筑厚重的形体打散成闪烁色彩。右侧远处的建筑与树逐渐溶进浅雾。画面不逐一勾清每个人或每块石头；短促而破碎的笔触提示人群、石墙和船只运动。配色以暖赭黄与橙色灯光平衡石板蓝、灰绿和低饱和青绿暗部。较低的地平线赋予建筑重量，水面则在繁忙岸边前方留出开阔的反光空间。光仿佛被潮湿空气扩散，却仍在城门形成戏剧性的暖色核心。可见的颜料肌理与柔化边缘让气氛保持流动。全画因人类活动而鲜活，同时被大的明暗色块、发光的倒影和克制的暮色薄雾统一起来。",
+  "style_prompt_en": "Atmospheric painterly handling with broken, short brush marks and softened edges. Monumental forms are stated through broad cool gray-blue masses, then opened by concentrated ocher and amber light. Small high-contrast dabs imply crowds and surface detail without precise outlining. Vertical reflections loosen the lower half into shimmering color. Moist dusk haze, balanced warm and cool zones, and visible paint texture unify a lively scene while preserving spatial depth.",
+  "style_prompt_zh": "气氛浓厚的绘画手法采用短促、破碎的笔触和柔化边缘。宏大形体先以冷灰蓝大色块建立，再由集中的赭黄和琥珀色光打开。高对比的小笔点暗示人群与表面细节，而不精确勾边。竖向倒影使画面下半部化成闪烁的色彩。潮湿暮霭、平衡的冷暖区域与可见颜料肌理把热闹场面统一，同时保留空间纵深。",
+  "theme_en": "A crowded waterfront beside an illuminated historic gateway",
+  "theme_zh": "灯光照亮古老城门旁的拥挤河岸",
+  "wh_ratio": "1:1",
+  "id": "2160",
+  "name": "Narayan Shridhar Bendre",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/narayan-shridhar-bendre",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/narayan-shridhar-bendre.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "0de8f1634b235f5182e65e342fde3818564e94bda6c49a280ec0a306205a0628",
+    "gpt_submission_prompt": "A square painterly scene shows a monumental historic gateway rising beside a crowded waterfront at dusk. The stone building occupies the left and center, with a rounded dome, broad central arch, and several slender tower-like features. Golden light strikes the arch and adjacent wall, making them glow against a cool blue-gray atmosphere. Many small figures cluster along the quay, where vendor awnings, steps, and dark boats make a lively band at the water's edge. The foreground water reflects vertical strokes of yellow, amber, blue, and near-black, breaking the building's mass into shimmering color. Distant structures and trees dissolve into pale mist on the right. The painting does not delineate every person or stone block; short, broken brush marks suggest the crowd, masonry, and movement of boats. Its palette balances warm ocher and orange illumination with slate blue, gray-green, and muted teal shadows. The low horizon gives the architecture weight, while the water reserves an open reflective space in front of the busy shore. Light appears diffused by moisture, yet concentrated enough to form a dramatic warm core at the gateway. Visible paint texture and softened edges keep the atmosphere fluid. The whole frame feels animated by human activity but unified by broad tonal masses, luminous reflection, and a restrained dusk haze.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "2754e4f7eeeb75e4e6e67d97872718c1e1a9fa0752fdfce80d87eb42d446feb8",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

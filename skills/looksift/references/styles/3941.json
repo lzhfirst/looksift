@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square mixed-media street portrait shows a young woman's head and neck turning upward and to the right against a distressed ocher wall. Her face is drawn with fine black lines and blocks of pale cream, while the cheeks and throat carry warm wheat-colored washes. Her dark eyebrows and open eyes direct attention toward the upper right; the slightly parted lips add an alert, searching expression. Short dark hair or a close head covering frames the face. Around the left side, torn dark paper, rough pasted fibers, and inked botanical or lace-like shapes spread into the background. On the right, faint outlines of tall narrow buildings or vertical architectural fragments rise behind the head, dissolving into patches of tan plaster. The image has no tidy border. Parts of the portrait appear printed, parts hand drawn, and parts scraped away; wrinkles, tears, cracks, and stains are visible through the face and surrounding layers. A small black bird silhouette or similarly shaped mark appears in the pale upper-right area, tiny beside the human profile. Light is implied by pale unprinted paper across the forehead and nose, with darker ink under the chin and along the hairline. The background remains warm and matte rather than opening into realistic depth. The face holds a clear focal contour even as its edges fray into the wall. The overall composition is intimate and weathered, joining delicate human observation with rough urban paper and ink texture.",
+  "full_prompt_zh": "一幅方形混合媒介街头肖像在风化赭黄墙面上描绘一名年轻女子向上、向右转动的头和颈。面孔由细黑线与浅奶油色块画出，脸颊和喉部带暖麦黄色水洗。深眉和张开的眼睛将注意引向右上，微张嘴唇增添警觉、寻找般神情。短深发或紧贴的头饰围住脸。左侧，撕裂深色纸、粗糙粘贴纤维和墨画植物或蕾丝形向背景散开。右侧，细淡的高窄建筑或垂直构件轮廓在头后升起，溶入棕褐灰泥斑块。图像没有整齐边框。肖像一部分像印出，一部分手绘，一部分又被刮去；皱折、撕口、裂纹和染斑穿过面孔与周围层次。浅色右上区域有一只小黑鸟剪影或类似形状的笔痕，在人脸旁显得很小。光通过额和鼻上的浅色未印纸面暗示，下巴下和发际则为更深墨色。背景暖而哑光，并未展开成写实纵深。面孔即使边缘散进墙体，仍保持清楚的焦点轮廓。整体构图亲密、风化，把细腻人物观察与粗糙城市纸墨肌理结合。",
+  "style_prompt_en": "Use layered street-paper and ink collage with fine drawn focal contours over torn, stained, and scraped surfaces. Restrict the palette to warm wheat, sepia, cream, charcoal, and occasional muted gray. Allow print, hand drawing, and wall texture to intersect visibly, with fibers, wrinkles, cracks, and incomplete edges. Let the main form remain readable while its perimeter frays into vertical marks and organic fragments. Light should emerge from pale paper reserves rather than glossy highlights. The result feels intimate, handmade, and timeworn.",
+  "style_prompt_zh": "采用层叠街头纸墨拼贴，让细线焦点轮廓叠在撕裂、染污和刮擦表面上。调色限制为暖麦黄、棕褐、奶油、炭黑与少量暗灰。使印刷、手绘和墙纹明显交叉，保留纤维、皱折、裂缝和不完整边缘。主体可读，外缘则散入竖向笔痕与有机碎片。光从浅纸留白中显出，不靠光滑高光。效果亲密、手工、经年风化。",
+  "theme_en": "A weathered wheat-and-ink portrait of a woman looking upward",
+  "theme_zh": "麦黄与墨色中仰望的女子风化肖像",
+  "wh_ratio": "1:1",
+  "id": "3941",
+  "name": "Swoon",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/swoon.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "0fb6cbd64c84dd3468c283602d8000fc04ca9c8125a2f4f9e3973337f5b3aa5b",
+    "gpt_submission_prompt": "A square mixed-media street portrait shows a young woman's head and neck turning upward and to the right against a distressed ocher wall. Her face is drawn with fine black lines and blocks of pale cream, while the cheeks and throat carry warm wheat-colored washes. Her dark eyebrows and open eyes direct attention toward the upper right; the slightly parted lips add an alert, searching expression. Short dark hair or a close head covering frames the face. Around the left side, torn dark paper, rough pasted fibers, and inked botanical or lace-like shapes spread into the background. On the right, faint outlines of tall narrow buildings or vertical architectural fragments rise behind the head, dissolving into patches of tan plaster. The image has no tidy border. Parts of the portrait appear printed, parts hand drawn, and parts scraped away; wrinkles, tears, cracks, and stains are visible through the face and surrounding layers. A small black bird silhouette or similarly shaped mark appears in the pale upper-right area, tiny beside the human profile. Light is implied by pale unprinted paper across the forehead and nose, with darker ink under the chin and along the hairline. The background remains warm and matte rather than opening into realistic depth. The face holds a clear focal contour even as its edges fray into the wall. The overall composition is intimate and weathered, joining delicate human observation with rough urban paper and ink texture.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "8c1d1b51a77600f02f68955a4540a2280f0156480134e86db613491f42883e9b",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

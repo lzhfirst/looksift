@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square somber oil painting shows an elderly white-haired man walking down a bare sloping path past a human skull. The landscape is sparse and uncertain, painted in dark olive, gray and dirty ochre without clear buildings or vegetation. The man stands in the left half of the frame, bent slightly forward as he steps toward the lower center. A long gray-brown coat hangs open around a pale shirt and loose trousers, and one foot is lifted in midstride. His head tips down, though his exact gaze remains soft in the shadow. A small yellowed skull rests on the ground to the right of his path near the lower-right middle. Behind him in the mist, a much larger dark humanlike shape stands upright near the upper center, indistinct enough to read as a shadowed presence rather than a clearly dressed person. The path rises toward the right, where broad brush marks climb into a dim hillside. Above, a murky blue-gray sky or void closes around the distant figure, with no clean horizon. Light comes diffusely from the upper left, touching the old man's hair, shirt and the skull while leaving the looming form nearly black. Thick broken paint and rubbed transitions make the ground feel unstable and worn. The figure's outline remains clearer than the background, but much of his clothing merges with the dull atmosphere. The overall composition contrasts one small vulnerable walker, a stark ground object and a spectral distant mass, creating quiet unease in a limited earthy palette.",
+  "full_prompt_zh": "这幅方形、阴郁的油画里，一位白发老人沿光秃斜路向下走，经过一颗人类骷髅头。地景稀疏而难以确定，以深橄榄、灰和污赭色画成，没有清楚建筑或植被。老人位于左半部，略向前弯，迈步朝下方中央走。一件灰褐色长外套敞在浅衬衫和宽松裤子外，一只脚在半步间抬起。他低着头，但阴影中的具体目光仍柔而难辨。一颗小小泛黄的骷髅头躺在他路径右侧、靠下方偏右的地上。他身后薄雾里，一道大得多的深色人形直立在上方中央附近，模糊到更像阴影存在，而非衣着清楚的人。小路向右上升，宽笔痕进入昏暗山坡。上方浑浊蓝灰天空或空域围住远影，没有干净地平线。光从左上漫射，触及老人头发、衬衫和骷髅，矗立形体则近黑。厚而断续的颜料和擦融过渡让地面不稳且磨旧。老人的轮廓比背景更清楚，但衣装很大一部分融进灰暗空气。整体构图让一位弱小步行者、一件鲜明地上物和幽灵般远处量块对照，在受限土色里形成安静不安。",
+  "style_prompt_en": "The oil-painting treatment restricts color to smoky blue-gray, muddy olive, ochre and softened black. Broad broken strokes and rubbed passages blur the ground into atmosphere, while a few small pale highlights preserve the essential focal shapes. Edges shift from readable near forms to nearly dissolved distant masses, making uncertain space an active part of the image. Diffuse upper light catches isolated raised areas without creating crisp shadows. The composition places small elements low against a larger dark vertical presence, with emptiness between them increasing tension. The result is grave, painterly and psychologically charged, its surface wear reinforcing the bleak mood.",
+  "style_prompt_zh": "这种油画处理把颜色限制在烟蓝灰、浑浊橄榄、赭黄和柔黑之间。宽阔断笔与擦融段落让地面模糊进空气，少数浅亮点保留必要的焦点形状。边缘从近处可读形体转为几乎消失的远量块，使不确定空间本身成为图像要素。漫射上方光触及孤立凸处，没有清脆投影。构图让小形体低置，对照更大的深色竖向存在，其间空白增强张力。成品庄重、有强绘画感且带心理压力，磨旧表面强化荒凉情绪。",
+  "theme_en": "An elderly man walking past a skull on a bleak, misty path",
+  "theme_zh": "一位老人走过阴冷雾路上的骷髅头",
+  "wh_ratio": "1:1",
+  "id": "4198",
+  "name": "Francisco Goya",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/francisco-goya.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "d505f30dd9eacac1e72701382e9c9ab6a65941c1c7ad57443c892d1dadcee3fd",
+    "gpt_submission_prompt": "A square somber oil painting shows an elderly white-haired man walking down a bare sloping path past a human skull. The landscape is sparse and uncertain, painted in dark olive, gray and dirty ochre without clear buildings or vegetation. The man stands in the left half of the frame, bent slightly forward as he steps toward the lower center. A long gray-brown coat hangs open around a pale shirt and loose trousers, and one foot is lifted in midstride. His head tips down, though his exact gaze remains soft in the shadow. A small yellowed skull rests on the ground to the right of his path near the lower-right middle. Behind him in the mist, a much larger dark humanlike shape stands upright near the upper center, indistinct enough to read as a shadowed presence rather than a clearly dressed person. The path rises toward the right, where broad brush marks climb into a dim hillside. Above, a murky blue-gray sky or void closes around the distant figure, with no clean horizon. Light comes diffusely from the upper left, touching the old man's hair, shirt and the skull while leaving the looming form nearly black. Thick broken paint and rubbed transitions make the ground feel unstable and worn. The figure's outline remains clearer than the background, but much of his clothing merges with the dull atmosphere. The overall composition contrasts one small vulnerable walker, a stark ground object and a spectral distant mass, creating quiet unease in a limited earthy palette.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "955c478fc4941d6db2fda88b7ed397527229a5ca8e220d5630ded90498ddde6f",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square dark fantasy painting shows a pale rabbit seated in a shadowy clearing while a few small moths drift above it. The background is almost black at the top and sides, with only faint brown vegetation and a soft gray glow behind the animal. The rabbit occupies the center-left, sitting upright on a small patch of rough earth. Its long ears rise toward the upper middle, one ear facing the viewer more fully and glowing warm tan along the inner surface. The head turns left in three-quarter view, with one glossy dark eye, a short nose and fine whiskers visible. Cream and gray fur catches light in uneven tufts across the chest, back and front legs. A tiny rust-colored mark or insect rests on the rabbit's side. Above and around the ears, several mothlike shapes catch thin gold light as they move through the darkness; their scale remains small against the animal. The lower edge is a mix of soil, dry stems and a few rounded stones, all partly lost in brown-black shadow. Soft directional light from the upper left strikes the face, ear and shoulder, then falls away through the lower body and ground. The painting has a grainy, lightly scratched surface, and the fur is rendered with short delicate strokes rather than a perfectly smooth digital finish. The overall composition concentrates a fragile luminous form inside a broad dark field, making the quiet animal feel both real and uncanny.",
+  "full_prompt_zh": "这幅方形暗色奇幻绘画里，一只浅色兔子坐在幽暗空地中，几只小飞蛾在头顶飘动。上方和两侧背景近乎黑色，只有淡褐色草木与动物背后的柔灰微光。兔子位于中心偏左，直坐在一小片粗土地上。长耳向上方中部伸起，其中一只更正对观众，内侧泛着暖棕黄亮光。头以四分之三角度转向左边，露出一只光亮深眼、短鼻和细须。奶油色与灰色毛发以不匀绒束在胸、背和前腿接光。身体侧面有一个很小的锈色标记或昆虫。耳朵上方和周围，几只蛾状小形体在黑暗中接住细金光；与兔子相比仍很小。下缘由土、干茎和几块圆石构成，大多逐渐消失在褐黑阴影里。柔和定向光从左上照住脸、耳与肩，沿下半身和地面渐退。画面带颗粒与轻微刮擦表面，毛发由短而细的笔触画成，而非完美平滑的数字质感。整体构图把脆弱发亮的形体集中于宽阔深色域中，让安静动物既真实又离奇。",
+  "style_prompt_en": "The dark painterly treatment concentrates cream and gray luminous texture within a broad black-brown field. Short delicate strokes articulate soft fibers and fine edges, while grain, scratches and misted marks disturb the surrounding darkness. Warm tan and tiny gold points provide restrained accents against cooler gray light. Illumination comes from a high side, finding a few raised surfaces before dropping quickly into deep shadow. The focal silhouette is readable yet partly swallowed at its lower edge, producing shallow, mysterious space. Sparse small flecks around a larger quiet center add a faint sense of motion without breaking the hush.",
+  "style_prompt_zh": "这种深色绘画处理把奶油色与灰色发光肌理集中在宽阔黑褐色域中。短而纤细的笔触描写柔软纤维和细边，颗粒、刮痕及雾化笔迹则扰动周围黑暗。暖褐黄和极小金亮点在清冷灰光前提供克制强调。光从高处一侧照来，找到少数凸起表面后迅速跌入深影。焦点剪影可读，下缘却部分被吞没，形成浅而神秘的空间。较大安静中心周围散布稀疏小亮斑，添入微弱动势而不打破寂静。",
+  "theme_en": "A pale rabbit sitting in a dark clearing while small moths circle overhead",
+  "theme_zh": "浅色兔子坐在幽暗空地里，小飞蛾在头顶盘旋",
+  "wh_ratio": "1:1",
+  "id": "2883",
+  "name": "Ryohei Hase",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/ryohei-hase",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/ryohei-hase.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "57fdd9f9c214bdbc353b785fe8055bfaa2650f8924e20ad23b7a30befccb859d",
+    "gpt_submission_prompt": "A square dark fantasy painting shows a pale rabbit seated in a shadowy clearing while a few small moths drift above it. The background is almost black at the top and sides, with only faint brown vegetation and a soft gray glow behind the animal. The rabbit occupies the center-left, sitting upright on a small patch of rough earth. Its long ears rise toward the upper middle, one ear facing the viewer more fully and glowing warm tan along the inner surface. The head turns left in three-quarter view, with one glossy dark eye, a short nose and fine whiskers visible. Cream and gray fur catches light in uneven tufts across the chest, back and front legs. A tiny rust-colored mark or insect rests on the rabbit's side. Above and around the ears, several mothlike shapes catch thin gold light as they move through the darkness; their scale remains small against the animal. The lower edge is a mix of soil, dry stems and a few rounded stones, all partly lost in brown-black shadow. Soft directional light from the upper left strikes the face, ear and shoulder, then falls away through the lower body and ground. The painting has a grainy, lightly scratched surface, and the fur is rendered with short delicate strokes rather than a perfectly smooth digital finish. The overall composition concentrates a fragile luminous form inside a broad dark field, making the quiet animal feel both real and uncanny.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "32f87e5f05ec48cd695a42c3c87e5939dd48e5dc4c6dfe1c75c1a42c4ce7b494",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

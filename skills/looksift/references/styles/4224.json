@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "An imaginary night city crowds every part of a square illustration. A broad yellow brick bridge arches across dark blue water in the foreground, its black tunnel opening near the center. Tiny figures and small structures occupy the bridge and riverbank, while rows of quirky buildings stack tightly behind it. The skyline is full of narrow windows, towers, signs, and little stair-step roofs, all drawn with restless black ink. Above the city, oversized floating eyes and round grinning faces hover among starburst lights, coiling lines, and odd creature shapes. A bright radiating eye near the upper left and a large toothy pink head near the upper right interrupt the scale of the streets below. The palette is riotous but organized by the yellow bridge: hot gold and orange sit against electric pink, violet, dark navy, acid green, and small white highlights. Color is applied in mostly flat blocks, then roughened by dense hatching, dots, scribbles, and small repeated marks. Contours wobble and overlap, preserving the raw energy of hand-drawn underground comics. The night sky is not an empty backdrop; it is a crowded field of graphic jokes and unsettling inventions. There is little conventional perspective, yet the arched bridge, layered buildings, and river create a readable near-to-far movement. The finish is printed and tactile, with tiny irregularities in the fills and lines. The overall effect is noisy, humorous, and strange, inviting a slow scan across its many densely packed details.",
+  "full_prompt_zh": "一座幻想夜城挤满方形插画的每一处。宽阔的黄色砖桥在前景跨过深蓝色水面，黑色桥洞靠近中央。微小人物和设施占据桥面与河岸，后方是一排排紧密堆叠、形态古怪的建筑。天际线满是窄窗、塔楼、招牌和阶梯状小屋顶，全由躁动的黑墨线绘成。城市上空，巨大的漂浮眼睛和圆形咧嘴面孔悬在放射状光芒、盘绕线条与奇异生物之间。左上方一只明亮放光的眼睛和右上方一个露齿的大粉色头颅，打乱下方街道的尺度。配色喧闹，却由黄桥组织起来：炽金与橙色对上电光粉、紫色、深海军蓝、酸绿和少量白色高光。颜色基本以平面色块填入，再被密集排线、点、涂鸦和细小重复标记磨粗。轮廓摇摆并互相叠压，保留地下漫画手绘的原生能量。夜空不是空背景，而是一片充满图形笑料与不安发明的拥挤区域。常规透视很少，但拱桥、层叠建筑和河流仍形成可读的远近移动。成品有印刷品的触感，填色和线条中带细微不规则。整体吵闹、幽默而古怪，适合慢慢扫视其中密集的细节。",
+  "style_prompt_en": "A maximalist underground-comic style with wobbly black contours, frantic scratchy hatching, stippled fills, and dense miniature details. Flat fluorescent yellow, hot orange, electric pink, violet, acid green, and deep navy jostle across the surface. Scale jumps abruptly between small clustered marks and oversized graphic motifs. Conventional perspective loosens, but broad structural shapes keep the packed scene navigable. Every area carries jokes, faces, symbols, or texture, leaving almost no blank space. Irregular printed color and rough hand-inked edges give the image a tactile, mischievous energy.",
+  "style_prompt_zh": "极繁的地下漫画风格，以摇摆的黑色轮廓、急促刮擦般排线、点状填充和密集微小细节构成。平面的荧光黄、炽橙、电光粉、紫色、酸绿与深海军蓝在表面互相挤压。尺度在细小簇状标记和超大的图形母题之间突跳。常规透视被放松，但宽大的结构形态仍使密集画面可供辨认。几乎每一区域都有笑料、面孔、符号或纹理，少有空白。不规则印刷色面与粗糙手绘墨边赋予图像可触的顽皮能量。",
+  "theme_en": "A crowded imaginary night city beneath a bridge of yellow bricks",
+  "theme_zh": "一座黄色砖桥下方拥挤的幻想夜城",
+  "wh_ratio": "1:1",
+  "id": "4224",
+  "name": "Gary Panter",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/gary-panter.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "782e9488b0801e80c9a8d386cc5994a846d5b0bafd85ee3f2b7852dfe111ed00",
+    "gpt_submission_prompt": "An imaginary night city crowds every part of a square illustration. A broad yellow brick bridge arches across dark blue water in the foreground, its black tunnel opening near the center. Tiny figures and small structures occupy the bridge and riverbank, while rows of quirky buildings stack tightly behind it. The skyline is full of narrow windows, towers, signs, and little stair-step roofs, all drawn with restless black ink. Above the city, oversized floating eyes and round grinning faces hover among starburst lights, coiling lines, and odd creature shapes. A bright radiating eye near the upper left and a large toothy pink head near the upper right interrupt the scale of the streets below. The palette is riotous but organized by the yellow bridge: hot gold and orange sit against electric pink, violet, dark navy, acid green, and small white highlights. Color is applied in mostly flat blocks, then roughened by dense hatching, dots, scribbles, and small repeated marks. Contours wobble and overlap, preserving the raw energy of hand-drawn underground comics. The night sky is not an empty backdrop; it is a crowded field of graphic jokes and unsettling inventions. There is little conventional perspective, yet the arched bridge, layered buildings, and river create a readable near-to-far movement. The finish is printed and tactile, with tiny irregularities in the fills and lines. The overall effect is noisy, humorous, and strange, inviting a slow scan across its many densely packed details.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "7fb8734a83e36bac167cfd9483f9f2d6d9c75a93b4ed3d52921f55245f0e34dc",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

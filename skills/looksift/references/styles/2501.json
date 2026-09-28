@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square mid-century illustration shows a young woman in a blue pinafore seated at a table among a crowd of older men. She rests her cheek on one hand and looks outward with wide, slightly startled eyes. A white blouse and head scarf frame her light curls. Men in flat caps, jackets and glasses press in from every side, some leaning forward to speak while others glance across the table. A large dark-coated back blocks the lower left foreground, and another man's shoulder closes the right edge. The tightly packed figures create a lively semicircle around the woman's pale face. Through small gaps above the heads, a pale green-blue waterfront sky and fragments of harbor equipment remain visible. The picture combines carefully modeled features with brisk, legible brushwork in jackets and background faces. Warm skin tones, muted gray-green, navy and a sharp accent of red clothing establish the period palette. Strong daylight reaches the central face and white blouse, while surrounding caps and coats supply darker frames. Paper or a printed placemat lies on the table below her arms. The scene feels like a single moment in a larger conversation: the central figure is listening or reacting, but the image does not prescribe the story. Its energy comes from crowding, intersecting gazes and the contrast between one luminous face and the surrounding mass of people.",
+  "full_prompt_zh": "一幅正方形二十世纪中期插画呈现一位身穿蓝色围裙裙装的年轻女子坐在一群年长男子之间的桌旁。她一只手托脸，睁着略显惊讶的大眼向外看。白衬衣与头巾框住浅色卷发。戴鸭舌帽、穿外套和戴眼镜的男子从四周挤来，有人前倾说话，另一些人隔着桌子张望。宽大的深色外套背影挡住左下前景，另一人的肩膀封住右边缘。紧密人物在女子浅色脸周围形成热闹半圆。从头顶的细小空隙里还能看到浅青绿色海滨天空与港口设备片段。图像把仔细塑造的五官与外套和背景脸上迅捷、清楚的笔触结合起来。暖肤色、压低灰绿、海军蓝和一处锐利红衣重音建立时代色谱。强日光照亮中央脸和白衬衣，周围帽子和大衣则形成深色框。她手臂下的桌面铺着纸张或印刷餐垫。场景像更长谈话中的一个瞬间：中央人物似乎正在听或回应，但图像没有规定故事。能量来自拥挤、交错目光和一张发亮面容与周围人群体块的对比。",
+  "style_prompt_en": "The style is polished mid-century narrative illustration with carefully modeled focal expression and briskly simplified surrounding figures. Crowded overlapping silhouettes form a dark frame around one lighter central passage. Clear daylight, warm skin notes and restrained blue-green, navy and red accents keep a complex square composition readable. Secondary faces and clothing lose detail progressively toward the edges. Visible brushwork tempers realism with painted immediacy, and intersecting gazes supply narrative energy without a fixed conclusion.",
+  "style_prompt_zh": "这种风格是精致的二十世纪中期叙事插画，精心塑造焦点表情，周围形体则迅捷简化。拥挤重叠的剪影在较浅的中央段落周围形成深色框。清楚日光、暖肤色与克制蓝绿、海军蓝及红色重音使复杂正方形构图仍可读。次要细节越向边缘越少。可见笔触以绘画即时性缓和写实感，交错目光提供叙事能量，却没有固定结论。",
+  "theme_en": "A young woman at a crowded table near the waterfront",
+  "theme_zh": "海滨附近拥挤桌旁的年轻女子",
+  "wh_ratio": "1:1",
+  "id": "2501",
+  "name": "John Philip Falter",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/john-philip-falter",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/john-philip-falter.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "56634768c40d3ab309875c50d9bffc0951ff3c7ca22571e904f86d6262afd919",
+    "gpt_submission_prompt": "A square mid-century illustration shows a young woman in a blue pinafore seated at a table among a crowd of older men. She rests her cheek on one hand and looks outward with wide, slightly startled eyes. A white blouse and head scarf frame her light curls. Men in flat caps, jackets and glasses press in from every side, some leaning forward to speak while others glance across the table. A large dark-coated back blocks the lower left foreground, and another man's shoulder closes the right edge. The tightly packed figures create a lively semicircle around the woman's pale face. Through small gaps above the heads, a pale green-blue waterfront sky and fragments of harbor equipment remain visible. The picture combines carefully modeled features with brisk, legible brushwork in jackets and background faces. Warm skin tones, muted gray-green, navy and a sharp accent of red clothing establish the period palette. Strong daylight reaches the central face and white blouse, while surrounding caps and coats supply darker frames. Paper or a printed placemat lies on the table below her arms. The scene feels like a single moment in a larger conversation: the central figure is listening or reacting, but the image does not prescribe the story. Its energy comes from crowding, intersecting gazes and the contrast between one luminous face and the surrounding mass of people.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "0d7fb9600d1e16a1c81b49111bd7afb5d66e17d11cd5e3014655e4f206a52510",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

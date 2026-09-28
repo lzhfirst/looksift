@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square expressionist painting fills the canvas with an improvised face assembled from bold, mismatched shapes. One round green eye sits near the upper left inside orange, while a dark curved form suggests the other side of the gaze near the upper center. A broad blue-black sweep crosses the middle like a nose or brow, and a small red spiral anchors its lower edge. Yellow arcs, pale pink patches, turquoise blocks, and mauve areas crowd around these features. The mouth is suggested only by curved color and black lines rather than a precise likeness. Thin scribbled contours run freely over the thicker paint, sometimes crossing the apparent face and continuing into the edges. The background cannot be separated cleanly from the figure; every part of the square carries saturated color or a drawn mark. Paint looks scraped, brushed, and layered, with uneven opacity and small bare intervals. Bright yellow and orange illuminate the center graphically, while blue, green, and purple give cool counterweight. There is no realistic light source or cast shadow. The composition is unstable but held together by the large eye, sweeping central curve, and repeated black loops. No readable lettering appears. The overall effect is spontaneous and comic, using rough material texture and urgent line to make an exuberant visual encounter.",
+  "full_prompt_zh": "一幅方形表现主义绘画把即兴拼成的面容填满画布，形状大胆且彼此不匹配。一个圆绿眼位于左上橙色之中，上方中央的深色弯形暗示视线另一侧。一道宽蓝黑扫笔横过中部，像鼻或眉，下缘由一个小红螺旋压住。黄弧、浅粉斑、绿松石块和淡紫区域挤在这些特征周围。嘴只由弯曲色彩和黑线暗示，并非准确肖像。细细乱画的轮廓自由越过较厚颜料，有时穿过似脸的区域，再伸到边缘。背景无法与形象干净分开；方幅每处都有饱和颜色或绘线。颜料像经刮擦、刷涂与层叠，不透明度不均，还有小块露底。明黄与橙在中央以图形方式发亮，蓝、绿、紫提供冷色平衡。没有真实光源或投影。构图不稳定，却由大眼、中央扫过的曲线与反复黑环联系起来。没有可辨认文字。整体效果自发且滑稽，以粗糙材料纹理与急切线条构成欢腾的视觉相遇。",
+  "style_prompt_en": "An expressionist painted surface combines thick scraped color, uneven brush patches, and thin urgent black scribbles. Orange, yellow, turquoise, cobalt, green, mauve, and red press against one another with little quiet ground. Broad curved masses establish a loose center, while looping lines cross them freely and sometimes continue to the edges. A few simple dark marks organize the apparent focal structure without fixing it into exact geometry. Light is graphic, emerging from bright pigment rather than a natural source, and cast shadows are absent. Layered opacity, rough edges, and tiny exposed intervals keep the square tactile. The rhythm is unstable, exuberant, and playful, with material spontaneity more important than polished finish.",
+  "style_prompt_zh": "表现主义绘画表面结合厚刮色、不均笔刷斑块和细而急切的黑色乱线。橙、黄、绿松石、钴蓝、绿、淡紫与红互相挤压，几乎没有安静底色。宽弯形建立松散中心，回环线自由穿过它们，有时一直延伸到边缘。少数简单深笔组织似焦点的结构，却不把它固定为精确几何。光图形化，来自明亮颜料而非自然光源，也没有投影。层叠不透明度、粗边和露底小隙让方幅可触。节奏不稳定、欢腾且俏皮，材料的自发性比精修收尾更重要。",
+  "theme_en": "A playful abstract face assembled from bright painted marks",
+  "theme_zh": "由明亮绘画痕迹拼成的俏皮抽象面容",
+  "wh_ratio": "1:1",
+  "id": "1142",
+  "name": "Peter Robert Keil",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/peter-robert-keil",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/peter-robert-keil.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "538643604b793c15e6f5c0886f9a07b4312e427282272a4b5c3a0ff3769998e0",
+    "gpt_submission_prompt": "A square expressionist painting fills the canvas with an improvised face assembled from bold, mismatched shapes. One round green eye sits near the upper left inside orange, while a dark curved form suggests the other side of the gaze near the upper center. A broad blue-black sweep crosses the middle like a nose or brow, and a small red spiral anchors its lower edge. Yellow arcs, pale pink patches, turquoise blocks, and mauve areas crowd around these features. The mouth is suggested only by curved color and black lines rather than a precise likeness. Thin scribbled contours run freely over the thicker paint, sometimes crossing the apparent face and continuing into the edges. The background cannot be separated cleanly from the figure; every part of the square carries saturated color or a drawn mark. Paint looks scraped, brushed, and layered, with uneven opacity and small bare intervals. Bright yellow and orange illuminate the center graphically, while blue, green, and purple give cool counterweight. There is no realistic light source or cast shadow. The composition is unstable but held together by the large eye, sweeping central curve, and repeated black loops. No readable lettering appears. The overall effect is spontaneous and comic, using rough material texture and urgent line to make an exuberant visual encounter.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "fa38ae681163aab91c43cf1caf04f18bbe392f829f76810e71860c95707b89c1",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

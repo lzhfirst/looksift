@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square monochrome pen drawing shows a small turreted house on a rocky rise beneath an immense spreading tree. The thick crown fills most of the upper half, its dark masses built from thousands of tiny ink marks and pale openings. A web of twisting branches emerges near the center, reaching across the roof and out toward the edges. The house stands slightly right of center and rises through the foliage, with several narrow towers, pitched roofs and tiny windows. Its pale stone walls are rendered in short parallel hatch marks, distinct from the denser stippled texture of the leaves. Below, broken steps and rough masonry terraces descend toward a quiet body of water at the lower left. The foreground shore is a patchwork of angular stones, dark plants and a few open strips of pale ground. Distant water and horizon remain largely blank, giving relief from the heavy detail gathered around the building and canopy. The image appears on warm off-white paper, with slight tonal variation where lines overlap. Line weight changes from fine architectural tracing to black knotted shadow beneath the tree. Diffuse daylight from the open left side makes the exposed stone and water pale, while inner branches and crevices deepen into ink. The overall composition lets the tree overwhelm the tiny architecture, balancing intricate organic weight against a calm open shore.",
+  "full_prompt_zh": "一幅方形单色钢笔画描绘一栋带角塔的小屋坐落在岩石高地上，头顶是一棵巨大而伸展的树。厚重树冠填满上半部大部分区域，其深色团块由成千上万细墨痕与浅色孔隙构成。扭曲枝条网络从中央附近伸出，越过屋顶，向画边延伸。房屋立在中央偏右，并从叶丛中升起，有几座狭窄塔楼、斜屋顶和小窗。浅色石墙用短平行排线画出，与树叶更密的点纹区别开来。下方，断裂台阶与粗糙砌石平台向左下安静水面下降。前景岸边由棱角石块、深色植物和几段浅色空地拼成。远水和地平线大体留白，使围绕房屋与树冠聚集的重细节得到缓解。画面落在暖白纸上，线条交叠处有轻微明度变化。线重从纤细建筑描线变到树下纠结的浓黑阴影。来自左侧开阔区域的漫射日光使外露石块与水面浅亮，而内部枝条和裂缝加深成墨色。整体构图让树木压过小建筑，以复杂有机重量平衡平静开阔的岸边。",
+  "style_prompt_en": "A finely worked monochrome pen style creates depth from stippling, layered hatching and varied line weight on warm paper. Organic masses become richly dark through accumulated miniature marks, while geometric planes retain clearer short strokes and paler interiors. White openings are preserved between dense clusters, keeping intricate texture from collapsing into solid black. Foreground contours are stronger, and distant areas thin toward near-blank paper. Diffuse daylight is expressed through the relative density of ink rather than gray wash; recessed joins hold the deepest value. A dominant textured mass is offset by a broad quiet margin, giving the composition both abundance and stillness. The finish feels patient, tactile and slightly enchanted.",
+  "style_prompt_zh": "这种精细单色钢笔风格在暖纸上以点描、层叠排线和多变线重建立纵深。有机团块靠微型笔痕积累成浓黑，几何平面则保留更清楚的短线和较浅内部。密集簇群之间留下白色孔隙，避免繁复肌理塌成实黑。前景轮廓更强，远处逐渐稀疏到近乎空白的纸面。漫射日光通过墨色相对密度而非灰色渲染表达，凹入接合处保有最深明度。一个主导肌理团块被宽阔安静的留白抵消，使构图既丰盛又静谧。完成面耐心、可触且微带奇幻。",
+  "theme_en": "A small turreted house beneath a vast old tree on a rocky shore",
+  "theme_zh": "岩岸上一棵巨树下的小型塔楼房屋",
+  "wh_ratio": "1:1",
+  "id": "3813",
+  "name": "Jeff Smith",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/jeff-smith",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "b6aabe2deb886c8bf5e9432ac8bde92c8c79f19dad2dd361d18424676a062d5b",
+    "gpt_submission_prompt": "A square monochrome pen drawing shows a small turreted house on a rocky rise beneath an immense spreading tree. The thick crown fills most of the upper half, its dark masses built from thousands of tiny ink marks and pale openings. A web of twisting branches emerges near the center, reaching across the roof and out toward the edges. The house stands slightly right of center and rises through the foliage, with several narrow towers, pitched roofs and tiny windows. Its pale stone walls are rendered in short parallel hatch marks, distinct from the denser stippled texture of the leaves. Below, broken steps and rough masonry terraces descend toward a quiet body of water at the lower left. The foreground shore is a patchwork of angular stones, dark plants and a few open strips of pale ground. Distant water and horizon remain largely blank, giving relief from the heavy detail gathered around the building and canopy. The image appears on warm off-white paper, with slight tonal variation where lines overlap. Line weight changes from fine architectural tracing to black knotted shadow beneath the tree. Diffuse daylight from the open left side makes the exposed stone and water pale, while inner branches and crevices deepen into ink. The overall composition lets the tree overwhelm the tiny architecture, balancing intricate organic weight against a calm open shore.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "3255a1beddd2ffe65a7ac02873d33945cd2e50ebf5f49e3f07f04671243f6943",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

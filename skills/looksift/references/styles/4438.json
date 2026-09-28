@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white fashion photograph shows four avant-garde figures seated and leaning across a low platform in a dark paneled room. At the far left, a pale dress and feathered white headpiece catch bright light. Beside it, a severe dark uniform with shiny buttons forms a rigid vertical shape. Two more black-clad figures occupy the right, one reclining with crossed legs and the other in a strapless dress whose pale legs stand out from the shadow. The group is arranged as a deliberate ensemble, with contrasting postures and clothing silhouettes creating a rhythm across the frame. Tall wall panels rise behind them, nearly disappearing into deep black. Hard directional light picks out faces, hands, bare legs, buttons, and feathers, while much of the clothing merges with the room. Fine film grain and slight tonal softness evoke an editorial print from another era. The composition is theatrical but not colorful: drama comes from black velvet-like fields against white skin and fabric. The figures' expressions remain cool and self-contained. The whole image feels decadent, rebellious, and carefully staged, with a dense shadow structure and a few bright accents guiding the eye from left to right.",
+  "full_prompt_zh": "一幅方形黑白时装摄影呈现四位前卫人物，他们坐着或斜靠在昏暗镶板房间的低平台上。最左边的浅色裙装与羽毛白头饰接住明亮光线。其旁边一件纽扣发亮的严整深色制服形成挺直竖形。右侧还有两名黑衣人物，一位交叠双腿后靠，另一位穿抹胸裙，浅色双腿从阴影中突出。群像经过刻意排布，不同姿态与服装剪影在画面中形成节奏。高墙板在他们身后升起，几乎消失进深黑。硬朗定向光挑出面孔、手、裸露的腿、纽扣与羽毛，大部分衣装则与房间融合。细微胶片颗粒和轻微色调柔化让人想到另一个年代的编辑印刷品。构图有舞台感，却没有彩色；戏剧性来自黑色天鹅绒般的色域与白皮肤和白布料之间的对比。人物神情冷静而自持。整幅画颓美、反叛且精心布置，密实的阴影结构和少量亮点引视线从左向右移动。",
+  "style_prompt_en": "A high-contrast monochrome fashion-photography style stages several distinct silhouettes within a dark enclosed setting. Black garments and background merge into broad velvety fields; pale skin, white fabric, feathers, and small metallic highlights break the dark in a measured rhythm. Directional light is hard enough to carve poses but leaves substantial detail in shadow. A compact horizontal group composition relies on differences in posture, leg lines, and garment structure. Fine film grain and a slightly softened editorial print finish counterbalance the severity. The mood is cool, theatrical, decadent, and controlled, without bright color or glossy digital retouching.",
+  "style_prompt_zh": "高反差黑白时装摄影风格在幽暗封闭空间里布置多个不同剪影。黑衣与背景相融成宽阔天鹅绒般的暗域，浅色皮肤、白布、羽毛和小金属高光以有节奏的间隔打破暗色。定向光足以刻出姿态，同时让大部分细节留在阴影中。紧凑的水平群像构图依赖姿势、腿部线条和服装结构的差异。细微胶片颗粒与略柔化的编辑印刷效果缓和其严厉感。气氛冷静、戏剧化、颓美且受控，没有鲜艳色彩或油亮数字修饰。",
+  "theme_en": "Four avant-garde figures pose in a shadowy paneled room",
+  "theme_zh": "四位前卫人物在阴暗镶板室内摆出群像姿态",
+  "wh_ratio": "1:1",
+  "id": "4438",
+  "name": "Steven Klein",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/steven-klein.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "d377ef7f72184349fa090e3c9dc73f92f5ee7672851550caece915248a11fb70",
+    "gpt_submission_prompt": "A square black-and-white fashion photograph shows four avant-garde figures seated and leaning across a low platform in a dark paneled room. At the far left, a pale dress and feathered white headpiece catch bright light. Beside it, a severe dark uniform with shiny buttons forms a rigid vertical shape. Two more black-clad figures occupy the right, one reclining with crossed legs and the other in a strapless dress whose pale legs stand out from the shadow. The group is arranged as a deliberate ensemble, with contrasting postures and clothing silhouettes creating a rhythm across the frame. Tall wall panels rise behind them, nearly disappearing into deep black. Hard directional light picks out faces, hands, bare legs, buttons, and feathers, while much of the clothing merges with the room. Fine film grain and slight tonal softness evoke an editorial print from another era. The composition is theatrical but not colorful: drama comes from black velvet-like fields against white skin and fabric. The figures' expressions remain cool and self-contained. The whole image feels decadent, rebellious, and carefully staged, with a dense shadow structure and a few bright accents guiding the eye from left to right.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "d325c1e6f00d84f32a401bb91d30d9bf18fa17afc1ed400deef5caa69f2387a5",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

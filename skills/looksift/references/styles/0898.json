@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square storybook illustration shows three small children among oversized flowers, leaves, and branches in a pale landscape. At left, a child with a white bob haircut wears a dark dotted dress and looks toward the right. Slightly behind, a second child with a simple pale face rises among the stems. At lower right, a red-haired child in a blue-green coat gazes in the same direction. A blue-gray bird with a warm brown tail flies across the upper right. Broad flat leaves, a large rusty-red flower, cream blossoms, and delicate seed shapes fill the foreground, creating a layered botanical frame around the figures. Low hills and a soft gray-blue sky recede behind them, but the shallow depth and overlapping cut-paper shapes keep the page decorative. Each face is simplified to a tiny nose, rosy cheek, and minimal eye, leaving mood to posture and color. The palette is subdued: blue-green, charcoal, muted cream, rusty red, warm gray, and pale ochre. Surfaces look like matte gouache or textured printed paper, with fine speckles and small imperfect edges. Illumination is even and quiet, without hard shadows. The scene feels contemplative and gently adventurous, as if an unseen journey continues beyond the edge of the flowers.",
+  "full_prompt_zh": "一幅方形图画书插画描绘三位小孩站在放大的花、叶和枝条之间，身后是浅色风景。左侧白色短发孩子穿深色点纹裙，望向右方。稍后第二个孩子以简单浅色面孔从枝茎间升起。右下红发孩子穿蓝绿外套，朝同方向凝望。一只蓝灰鸟带暖棕尾巴从右上飞过。宽阔平面叶、大锈红花、奶油色花朵和细籽形填在前景，围成人物周围层叠植物框。低山与柔灰蓝天在背后退远，但浅纵深和重叠剪纸状形体使页面保持装饰性。每张脸都简化为小鼻、红颊和极简眼睛，气氛交给姿势与颜色。色彩低调：蓝绿、炭灰、浅奶油、锈红、暖灰和淡赭。表面像哑光水粉或有纹理的印刷纸，带细斑点和轻微不齐边缘。光均匀安静，没有硬影。场景沉思而轻轻冒险，仿佛未见的旅程延伸到花丛之外。",
+  "style_prompt_en": "Gentle storybook illustration with matte gouache-like color, cut-paper overlap, simplified tiny facial marks, and oversized botanical silhouettes. Muted blue-green, charcoal, cream, rust, and warm gray form a quiet palette. Fine speckle and imperfect edges make flat shapes tactile. Shallow depth and even light keep the page decorative while layered foliage guides the eye through it.",
+  "style_prompt_zh": "温柔图画书插画，以哑光水粉般色面、剪纸式重叠、极简细小表情标记和放大植物剪影组成。低调蓝绿、炭黑、奶油、锈红与暖灰构成安静色板。细斑点与不齐边缘使平面形可触。浅纵深与均匀光保持页面装饰性，层叠枝叶引导视线穿过。",
+  "theme_en": "Three quiet children among giant flowers and a passing bird",
+  "theme_zh": "三位安静的孩子处于巨花与飞鸟之间",
+  "wh_ratio": "1:1",
+  "id": "0898",
+  "name": "Beatrice Alemagna",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/beatrice-alemagna",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/beatrice-alemagna.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "0e107bdabce0d222a63385e10435059fec55cc68bd1e0fd7d69213bad62e0648",
+    "gpt_submission_prompt": "A square storybook illustration shows three small children among oversized flowers, leaves, and branches in a pale landscape. At left, a child with a white bob haircut wears a dark dotted dress and looks toward the right. Slightly behind, a second child with a simple pale face rises among the stems. At lower right, a red-haired child in a blue-green coat gazes in the same direction. A blue-gray bird with a warm brown tail flies across the upper right. Broad flat leaves, a large rusty-red flower, cream blossoms, and delicate seed shapes fill the foreground, creating a layered botanical frame around the figures. Low hills and a soft gray-blue sky recede behind them, but the shallow depth and overlapping cut-paper shapes keep the page decorative. Each face is simplified to a tiny nose, rosy cheek, and minimal eye, leaving mood to posture and color. The palette is subdued: blue-green, charcoal, muted cream, rusty red, warm gray, and pale ochre. Surfaces look like matte gouache or textured printed paper, with fine speckles and small imperfect edges. Illumination is even and quiet, without hard shadows. The scene feels contemplative and gently adventurous, as if an unseen journey continues beyond the edge of the flowers.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "12bdb5119c301dd3d80031b5af3c10e5a6e218a09c9c42b3e699a93f3116d18f",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

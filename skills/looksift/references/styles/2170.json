@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white documentary photograph shows an older Black woman seated at a table in a crowded, dim café. She leans both forearms along the table edge and lifts her face toward a light outside the frame. Her expression is thoughtful and steady, with deep shadows beneath the brow and fine lines visible around the eyes and mouth. A patterned dark blouse, head wrap, dangling earrings, bracelets and a long necklace give the foreground figure texture without turning the image into a posed fashion portrait. A drinking glass sits blurred at the lower left. Behind her, another seated person rests a hand near the face, and still more figures dissolve into the darkness. The room feels lived in because these background presences remain imperfectly focused and partially cut by the frame. A small overhead light punctures the dark upper space. Illumination reaches the woman's forehead and cheeks from one side while her sleeve and the table merge with dense black. Grain and soft tonal transitions preserve the character of a candid mid-century print. The composition places her face slightly right of center and lets her arms form a broad horizontal base. An ordinary pause becomes emotionally resonant through close observation, layered human space and the upward direction of her gaze.",
+  "full_prompt_zh": "一幅正方形黑白纪实照片呈现一位年长黑人女子坐在昏暗、拥挤的咖啡馆桌边。她把双前臂靠在桌沿，抬脸望向画外光源。表情沉思而稳定，眉下有深影，眼角与嘴边可见细纹。带图案的深色上衣、头巾、垂坠耳环、手镯和长项链为前景人物增加肌理，却没有把画面变成摆拍时装肖像。左下角有一只失焦饮杯。她身后另一位坐着的人把手放在脸旁，更多人物则消融于暗处。这些背景存在不完美地对焦，且部分被画框切断，使房间有生活痕迹。一点顶灯刺穿上方暗空间。侧面光到达女子额头与脸颊，袖子和桌面却并入浓黑。颗粒与柔和调子过渡保留了二十世纪中期抓拍印相的气质。构图将她的脸置于中央稍右，双臂形成宽阔水平底座。普通停顿通过近距离观察、层叠的人群空间与向上的目光变得富于情绪。",
+  "style_prompt_en": "The style is candid monochrome documentary photography with a close human focal plane and layered, imperfectly focused surroundings. Side illumination lifts selected facial values out of dense interior black while garments and furniture merge into shadow. Fine print grain, soft transitions and partial edge cropping maintain an unposed immediacy. A broad low horizontal form steadies the square composition, and small distant highlights punctuate the background. Emotional force arises from observed gesture and gaze rather than theatrical lighting or elaborate staging.",
+  "style_prompt_zh": "这种风格是抓拍式单色纪实摄影，近处的人性化焦平面与层叠、未完全对焦的周围环境共存。侧光把选中的面部明度从浓厚室内黑色中提起，衣物与家具则并入阴影。细印相颗粒、柔和过渡及边缘局部裁切保持未经摆拍的即时感。下方宽阔水平形体稳住正方形构图，远处少量亮点刺穿背景。情绪力量来自被观察到的手势与目光，而非剧场光线或繁复布景。",
+  "theme_en": "A woman looking upward in a crowded dim café",
+  "theme_zh": "昏暗拥挤咖啡馆中向上凝望的女子",
+  "wh_ratio": "1:1",
+  "id": "2170",
+  "name": "Eve Arnold",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/eve-arnold",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/eve-arnold.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "501b9db0f7453a575bcf6cf046e66ef115bda6f8122d831baff926b1f3305d50",
+    "gpt_submission_prompt": "A square black-and-white documentary photograph shows an older Black woman seated at a table in a crowded, dim café. She leans both forearms along the table edge and lifts her face toward a light outside the frame. Her expression is thoughtful and steady, with deep shadows beneath the brow and fine lines visible around the eyes and mouth. A patterned dark blouse, head wrap, dangling earrings, bracelets and a long necklace give the foreground figure texture without turning the image into a posed fashion portrait. A drinking glass sits blurred at the lower left. Behind her, another seated person rests a hand near the face, and still more figures dissolve into the darkness. The room feels lived in because these background presences remain imperfectly focused and partially cut by the frame. A small overhead light punctures the dark upper space. Illumination reaches the woman's forehead and cheeks from one side while her sleeve and the table merge with dense black. Grain and soft tonal transitions preserve the character of a candid mid-century print. The composition places her face slightly right of center and lets her arms form a broad horizontal base. An ordinary pause becomes emotionally resonant through close observation, layered human space and the upward direction of her gaze.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "cb9124cefc2898d2e77cf9aff5572c3591a1a94247cc25a2250e6163fefca285",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square atmospheric oil-like landscape shows a narrow estuary stretching away beneath a heavy amber sky. On the left foreground, a low green bank carries a pair of dark, loosely shaped trees. Their silhouettes interrupt the light and frame the water without describing individual leaves. Across the middle, muted green water runs toward a small bright opening near the center of the horizon. A thin distant boat and mast stand in that illuminated channel, almost absorbed by the haze. Dark rising banks contain the estuary on both sides, with the right mass broader and more shadowed. Above them, the sky occupies nearly half the image in layered ocher, tarnished gold, brown, and olive. Its clouds are neither sharply bounded nor evenly blended: rubbed, scumbled passages let warm light glow through darker patches. The surface of the water carries similarly soft horizontal marks and a subdued reflection of the sky. Foreground earth remains deep green-brown, with only restrained details so the eye moves toward the distant opening. The light appears low and diffused through the cloud cover, brightening the center while leaving the shore in broad shadow. Paint texture and softened contours make the land and atmosphere feel weathered and dreamlike. The overall composition funnels a muted green foreground toward a small gold horizon, balancing spacious sky with dark enclosing banks and a quiet, elegiac mood.",
+  "full_prompt_zh": "一幅方形、富于空气感的油画式风景描绘沉重琥珀色天空下向远处伸展的狭长河口。左侧前景的低矮绿岸上有两株深色、形态松散的树。树的剪影打断亮处并围住水面，却没有逐片描绘叶子。画面中部，低饱和绿色水道通向地平线中央附近的一处明亮开口。一只带细桅杆的远船立在受光的水道中，几乎被薄雾吞没。两侧升起的深色河岸夹住河口，右侧块面更宽、更暗。其上方，天空占了画面将近一半，由层叠赭黄、黯金、棕色和橄榄绿构成。云层既没有锋利边界，也并非均匀混合；擦抹与薄擦痕迹使暖光从暗色块中透出。水面同样带有柔和的水平笔痕，以及被压低的天空倒影。前景土地保持深绿褐色，细节克制，使视线移向远处开口。光似乎从低处透过云层漫射而来，提亮中央，同时让岸边留在宽阔阴影中。颜料肌理和柔化轮廓令土地与天空显得风化而如梦。整体构图把低饱和绿色前景引向小小的金色地平线，以宽阔天空平衡两侧深岸，带有安静哀婉的情绪。",
+  "style_prompt_en": "A moody oil-painted atmosphere develops through rubbed color, translucent scumbles, and soft, unstable contours. Tarnished gold, amber, olive, deep green, and brown form a compressed earthy palette. Light gathers in one small opening and diffuses through mottled darker masses, while broad shadow anchors the lower and side regions. Horizontal strokes suggest depth without crisp detail; thin dark accents remain subordinate to the haze. Large tonal fields guide attention gradually from enclosing darkness toward distant luminosity. The tactile surface and restrained contrast create a weathered, contemplative, dreamlike effect.",
+  "style_prompt_zh": "阴郁的油画式空气感由擦抹色层、半透明薄擦和柔软不稳定的轮廓形成。黯金、琥珀、橄榄、深绿与棕色构成压缩的土地色系。光聚在一处小开口，并透过斑驳暗色块漫散，宽阔阴影稳住下方和两侧。水平笔触暗示纵深，却不依赖锐利细节；细小深色强调始终服从雾感。大片明暗色域引导视线从包围的暗部逐渐走向远处亮处。可触的表面与克制对比带来风化、沉思、如梦的效果。",
+  "theme_en": "A narrow estuary beneath an amber storm sky",
+  "theme_zh": "琥珀色暴风云天下的一道狭长河口",
+  "wh_ratio": "1:1",
+  "id": "3764",
+  "name": "Albert Pinkham Ryder",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/albert-pinkham-ryder",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "0afef4e159163cf9c81bebc753712cd1b263aa8dd7da797cc758538fad1920d6",
+    "gpt_submission_prompt": "A square atmospheric oil-like landscape shows a narrow estuary stretching away beneath a heavy amber sky. On the left foreground, a low green bank carries a pair of dark, loosely shaped trees. Their silhouettes interrupt the light and frame the water without describing individual leaves. Across the middle, muted green water runs toward a small bright opening near the center of the horizon. A thin distant boat and mast stand in that illuminated channel, almost absorbed by the haze. Dark rising banks contain the estuary on both sides, with the right mass broader and more shadowed. Above them, the sky occupies nearly half the image in layered ocher, tarnished gold, brown, and olive. Its clouds are neither sharply bounded nor evenly blended: rubbed, scumbled passages let warm light glow through darker patches. The surface of the water carries similarly soft horizontal marks and a subdued reflection of the sky. Foreground earth remains deep green-brown, with only restrained details so the eye moves toward the distant opening. The light appears low and diffused through the cloud cover, brightening the center while leaving the shore in broad shadow. Paint texture and softened contours make the land and atmosphere feel weathered and dreamlike. The overall composition funnels a muted green foreground toward a small gold horizon, balancing spacious sky with dark enclosing banks and a quiet, elegiac mood.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "fd2de27123547826e4bc91ed1e989006f958dce2f1890dc6f9b94d7ce8d0479f",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

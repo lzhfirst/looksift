@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square expressive oil painting shows a woman in a rose-colored dress seated in profile toward the right of a dim interior. Her dark hair is gathered back, and her hands rest quietly in her lap. A second figure sits deeper to her left, partially obscured by shadow and the rough paint surface. Behind them, a small standing person and hints of a worn wall and framed picture appear through broken marks. The woman's pink dress is the strongest coherent shape, while surrounding furniture and figures dissolve into scraped olive, brown, gray, and black passages. Broad palette-knife-like strokes overlap with small bright flecks and thin linear scratches. Faces and hands retain enough structure to read as human, yet many edges are lost in the paint. A modest warm light catches the woman's profile, shoulders, and lap; the rest of the room remains murky. The composition is intimate but unstable, as if a remembered scene were resurfacing through layers of scraped canvas. Areas of dark ground show between strokes, increasing depth without precise perspective. The whole frame feels elegiac, tactile, and unfinished in an intentional way, with pigment structure and partial visibility carrying the emotional force.",
+  "full_prompt_zh": "一幅方形表现性油画呈现一位穿玫瑰色裙装的女子坐在昏暗室内，侧身朝右。深色头发向后收起，双手安静放在膝上。她左侧更深处还有第二个人，被阴影和粗糙颜料表面部分遮住。后方小小站立人物、磨旧墙面与装框画的痕迹从破碎笔迹中显出。女子粉色裙装是最连贯的形状，周围家具和人物则溶入刮开的橄榄绿、棕、灰与黑色段落。宽阔画刀般的笔触与细小亮点和纤细刮线相互叠压。面孔和手保留足够结构可辨为人，许多边缘却丢失在颜料里。微弱暖光照到女子侧面、肩和膝上，房间其余部分阴沉。构图亲密却不稳定，仿佛回忆中的一幕从刮擦画布层中重新浮现。暗底在笔触间露出，在不精确透视之下仍增加深度。整幅画哀婉、可触、带有有意保留的未完成感，颜料结构和部分可见性承担情绪力量。",
+  "style_prompt_en": "An expressive oil-painting style lets recognizable forms surface from broad scraped pigment and broken marks. Muted olive, umber, charcoal, gray, and one concentrated rose-colored area carry the palette. Palette-knife edges, thin scratches, and dark ground showing between strokes create a worn layered surface. Modest warm light selects a few focal planes, while surrounding forms merge into murky shadow. Details remain partial; lost edges and interrupted contours feel intentional rather than careless. A close interior or similarly intimate space can be suggested by overlapping marks instead of precise perspective. The mood is remembered, elegiac, and physically painted.",
+  "style_prompt_zh": "表现性油画风格让可辨形体从宽阔刮擦颜料与破碎笔迹中浮现。低饱和橄榄绿、赭褐、炭灰、灰色和一块集中的玫瑰色承担配色。画刀边缘、细刮痕和笔触间露出的暗底构成磨旧层叠表面。微弱暖光选择少数焦点平面，周围形态融入浑浊阴影。细节保持局部，丢失边缘与中断轮廓是有意的，并非草率。亲密室内或类似空间可由重叠笔迹暗示，不依赖精确透视。气氛像记忆、哀婉、具有真实颜料感。",
+  "theme_en": "A woman in a rose-colored dress sits in a dark room, rendered in broken paint",
+  "theme_zh": "一位身着玫瑰色裙装的女子坐在暗室中，由破碎笔触绘成",
+  "wh_ratio": "1:1",
+  "id": "4247",
+  "name": "Adrian Ghenie",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/adrian-ghenie.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "ff5bf7bec59f543ddcfb7a24c17892eb5102e9d0f87633d059406c8f3dc5d8be",
+    "gpt_submission_prompt": "A square expressive oil painting shows a woman in a rose-colored dress seated in profile toward the right of a dim interior. Her dark hair is gathered back, and her hands rest quietly in her lap. A second figure sits deeper to her left, partially obscured by shadow and the rough paint surface. Behind them, a small standing person and hints of a worn wall and framed picture appear through broken marks. The woman's pink dress is the strongest coherent shape, while surrounding furniture and figures dissolve into scraped olive, brown, gray, and black passages. Broad palette-knife-like strokes overlap with small bright flecks and thin linear scratches. Faces and hands retain enough structure to read as human, yet many edges are lost in the paint. A modest warm light catches the woman's profile, shoulders, and lap; the rest of the room remains murky. The composition is intimate but unstable, as if a remembered scene were resurfacing through layers of scraped canvas. Areas of dark ground show between strokes, increasing depth without precise perspective. The whole frame feels elegiac, tactile, and unfinished in an intentional way, with pigment structure and partial visibility carrying the emotional force.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "233bb0dbed3ab7211b9a391f9ec163b53c533376828c2239e8c4047aa9349056",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

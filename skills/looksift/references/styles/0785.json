@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square delicate fantasy illustration encloses a seated young woman and a white wolf within a large circular frame. The woman sits in profile facing left, her long light-brown hair and feathered pale wings spreading into the upper half. She wears layered sage-green fabric and a muted amber shawl, with folds pooling around her knees. The wolf rests at her side, head lifted toward her, its white fur carefully drawn in short soft strands. Around them, flowers, leaves, and curling vines fill the lower arc of the circle. Beyond the round image is a dark mottled border that makes the interior feel like a small illuminated world. Colors are restrained: ivory, parchment, sage, ochre, and smoky gray. Fine ink outlines follow hair, feathers, fur, and plant stems, while thin watercolor-like tones gently shade the larger forms. Light comes from within the circular scene, brightest on the woman's face, wings, and the wolf's muzzle, leaving the surrounding border deeper and quieter. The space is shallow and dreamy, with overlapping organic shapes rather than a precise landscape. The composition feels protective and hushed, joining animal and figure in a still intimate moment. Its fairy-tale quality is carried by fine craftsmanship rather than saturated spectacle.",
+  "full_prompt_zh": "一幅方形纤细奇幻插画把坐着的年轻女子与白狼围在大型圆框中。女子朝左侧坐，长浅棕发和浅羽翅展开到上半幅。她穿层叠鼠尾草绿布料和低调琥珀披肩，褶皱聚在膝边。狼卧在一侧，抬头望她，白毛由短而柔笔丝仔细描出。四周花、叶与卷蔓填满圆的下弧。圆像外是深色斑驳边框，让内部仿佛小小被照亮的世界。配色克制：象牙、羊皮纸、鼠尾草、赭和烟灰。细墨线沿头发、羽、毛与植物茎走，薄水彩般色调温和地给大形着影。光从圆内来，女子脸、翅与狼吻最亮，外边框更深更静。空间浅而如梦，以有机覆盖而非准确景观构成。构图保护性而安静，把动物与人物接入静止贴近一刻。其童话感来自细致工艺，而非饱和奇观。",
+  "style_prompt_en": "Delicate fantasy illustration uses fine ink contours and thin watercolor-like shading on aged parchment tones. Ivory, sage, ochre, and smoky gray remain soft and limited. A circular enclosure gathers many small organic lines into one intimate scene. Hair-like, feather-like, and leaf-like marks are individually considered, while larger cloth or ground forms stay quiet. Light appears concentrated inside the round field, leaving a dark mottled surround. Depth is shallow and layered, with overlapping forms rather than strict perspective. The finish is hushed, intricate, and protective.",
+  "style_prompt_zh": "纤细奇幻插画在旧羊皮纸色上运用细墨轮廓与薄水彩般明暗。象牙、鼠尾草、赭与烟灰柔和而受限。圆形围框把许多小有机线收成贴近场景。发状、羽状和叶状笔痕分别仔细考虑，较大布面或底面保持安静。光像集中在圆域内，外部留下深色斑驳包围。纵深浅而分层，由覆盖形体而非严格透视组成。完成面安静、繁密且有保护感。",
+  "theme_en": "A seated winged woman and white wolf inside a circular garden",
+  "theme_zh": "圆形花园中坐着的有翼女子与白狼",
+  "wh_ratio": "1:1",
+  "id": "0785",
+  "name": "Sulamith Wulfing",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/sulamith-wulfing",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/sulamith-wulfing.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "acd275027c7758401eab51ab2055983d59bd6d88ede96f1532c475880f2328c0",
+    "gpt_submission_prompt": "A square delicate fantasy illustration encloses a seated young woman and a white wolf within a large circular frame. The woman sits in profile facing left, her long light-brown hair and feathered pale wings spreading into the upper half. She wears layered sage-green fabric and a muted amber shawl, with folds pooling around her knees. The wolf rests at her side, head lifted toward her, its white fur carefully drawn in short soft strands. Around them, flowers, leaves, and curling vines fill the lower arc of the circle. Beyond the round image is a dark mottled border that makes the interior feel like a small illuminated world. Colors are restrained: ivory, parchment, sage, ochre, and smoky gray. Fine ink outlines follow hair, feathers, fur, and plant stems, while thin watercolor-like tones gently shade the larger forms. Light comes from within the circular scene, brightest on the woman's face, wings, and the wolf's muzzle, leaving the surrounding border deeper and quieter. The space is shallow and dreamy, with overlapping organic shapes rather than a precise landscape. The composition feels protective and hushed, joining animal and figure in a still intimate moment. Its fairy-tale quality is carried by fine craftsmanship rather than saturated spectacle.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "6da258d61be742df2c03e872ccedb6ab1e35794352632f5c24fbb1799f281219",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

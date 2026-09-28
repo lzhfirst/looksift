@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square muted photographic scene shows two people walking away along the right side of a road in dense gray fog. The viewpoint is low and level with the wet or dusty roadway, which runs from the lower foreground into a near-invisible distance. Dark parallel tire tracks guide the eye toward the center. On the right, a large unlit building forms a nearly featureless charcoal wall; a narrow path or sidewalk lies at its base. Two small dark-clothed figures walk side by side there, their heads and coats readable as silhouettes but their faces hidden by distance and the rear view. A vehicle approaches farther back on the left, its pair of amber headlights blooming into the fog while the body is barely distinguishable. Two streetlamps rise near the building, each casting a small orange halo that thins rapidly into surrounding gray. Faint utility poles, cables, and a guardrail appear on the left side before disappearing into mist. The upper portion is a broad empty gray field, with almost no visible sky detail. Fine photographic grain makes the fog and dark pavement feel rough and damp. The only strong color is a little warm orange near lamps and headlights; the rest remains low-saturation olive-gray and black. Diffuse light obscures edges with distance while near road lines remain slightly clearer. The tiny walkers, large wall, and vanishing road create a subdued sense of isolation and melancholy.",
+  "full_prompt_zh": "一幅方形柔暗摄影场景描绘两个人沿道路右侧走远，四周是浓密灰雾。视点低而与潮湿或蒙尘的路面齐平，道路从下方前景伸进几乎看不见的远处。深色平行车辙引导目光向中央。右侧一栋无灯大楼形成几乎没有细节的炭灰墙体；墙根是一条窄路或人行道。两个穿深衣的小人物并肩走在那里，头和外套作为剪影可读，但距离和背向视角藏住面孔。左后方一辆车迎面而来，一对琥珀车灯在雾里胀开，车身却几乎不可辨。两盏路灯在建筑旁升起，各投出小橙色光晕，很快在灰气里变淡。左边淡淡的电线杆、缆线和护栏出现片刻便消失在雾中。上半部是宽阔空灰区域，几乎没有天空细节。细小摄影颗粒让雾和暗路面显得粗糙潮湿。唯一强色是灯与车灯附近少量暖橙，其余维持低饱和橄榄灰和黑色。漫射光随着距离遮没边缘，较近道路线条稍清楚。微小行人、巨大墙体和消失的道路形成克制的孤立与忧郁感。",
+  "style_prompt_en": "Grainy low-saturation photography allows dense gray-green haze to erase distance and leave the near ground only slightly sharper. Large empty middle-value areas surround compact black silhouettes and a few narrow structural lines. Small amber light sources bloom into soft halos rather than casting clear shadows, giving warmth a deliberately limited share of the palette. Long parallel marks and diminishing verticals carry perspective into the fog. Dark masses at one side weigh against the open pale atmosphere at the other. The quiet tension comes from obscured detail, disproportionate empty space, and tiny forms moving through muted light.",
+  "style_prompt_zh": "颗粒化低饱和摄影让浓厚灰绿雾气抹去距离，近处地面只略为清楚。宽阔空旷的中明度区域围住紧凑黑剪影和少数狭窄结构线。小琥珀光源胀成柔晕，而非投下清楚影子，让暖色在调色中只占刻意有限的一部分。长平行线与逐渐缩小的竖线把透视带进雾中。一侧深暗体块与另一侧开阔浅色空气相压衡。安静张力来自被遮没的细节、悬殊空白和在柔暗光里移动的微小形体。",
+  "theme_en": "Two figures walking beside a road lost in dense gray fog",
+  "theme_zh": "两个人影沿着消失在浓灰雾中的道路步行",
+  "wh_ratio": "1:1",
+  "id": "0226",
+  "name": "Melancholic atmosphere",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/melancholic-atmosphere",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/melancholic-atmosphere.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "88dc089becd0ca55a068a7c1f446be41d7f240be19b05499e92d944c03814429",
+    "gpt_submission_prompt": "A square muted photographic scene shows two people walking away along the right side of a road in dense gray fog. The viewpoint is low and level with the wet or dusty roadway, which runs from the lower foreground into a near-invisible distance. Dark parallel tire tracks guide the eye toward the center. On the right, a large unlit building forms a nearly featureless charcoal wall; a narrow path or sidewalk lies at its base. Two small dark-clothed figures walk side by side there, their heads and coats readable as silhouettes but their faces hidden by distance and the rear view. A vehicle approaches farther back on the left, its pair of amber headlights blooming into the fog while the body is barely distinguishable. Two streetlamps rise near the building, each casting a small orange halo that thins rapidly into surrounding gray. Faint utility poles, cables, and a guardrail appear on the left side before disappearing into mist. The upper portion is a broad empty gray field, with almost no visible sky detail. Fine photographic grain makes the fog and dark pavement feel rough and damp. The only strong color is a little warm orange near lamps and headlights; the rest remains low-saturation olive-gray and black. Diffuse light obscures edges with distance while near road lines remain slightly clearer. The tiny walkers, large wall, and vanishing road create a subdued sense of isolation and melancholy.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "edbeaa57e8e58ef6ebc7a498953b64b34df88d6a2046cd21f2fc3d05ad2d749f",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

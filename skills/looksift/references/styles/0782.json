@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square ink-and-watercolor character sketch shows an elderly wanderer crouched low on a barren patch of ground, pointing toward a small white sun in a pale tan sky. He wears a tall floppy hat, a long dusty blue-gray coat, and a tangled white beard. His body leans forward, knees drawn up, while the extended index finger creates a strong line toward the bright circle at the upper right. A rolled bundle or worn bag rests against his back and side. Scattered stones, dry weeds, and faint ruined building silhouettes occupy the left and lower edges, but most of the sky remains blank paper-toned space. Fine brown-black contours define the wrinkles, beard, coat seams, and shoes; muted blue-gray and olive washes fill the larger shapes. Loose hatch marks and small scratches give the figure a weathered texture without burying the gesture. Light comes from the small sun, yet the illumination is gentle and stylized rather than physically harsh. The figure's pale face and beard emerge against the darker coat. The composition feels humorous and poignant at once: a complicated old traveler under an enormous empty sky, addressing something tiny and distant. The drawing retains visible handmade irregularity and a narrative pause.",
+  "full_prompt_zh": "一幅方形墨线水彩角色速写描绘一位年长旅人蹲在荒地上，指向浅棕天空里的一枚小白太阳。他戴高而松软的帽，穿长而积尘的蓝灰外套，白胡须纠结。身体前倾，双膝收起，伸出的食指向右上亮圆形成强线。一卷包裹或磨旧包靠在背侧。散石、干草和淡淡残破建筑剪影位于左边与下缘，但大部分天空保留空白纸色。细棕黑轮廓界定皱纹、胡须、衣缝和鞋，低调蓝灰与橄榄水洗填入大形。松散排线和小划痕让人物有风化肌理，却不埋没手势。光来自小太阳，但照明温和、风格化，而非物理上强烈。浅脸和胡须从较深衣物前浮出。构图同时幽默与酸楚：复杂的老旅人在巨大空天之下，向微小遥远之物发问。图像保有可见手工不规则性与叙事停顿。",
+  "style_prompt_en": "Ink-and-watercolor illustration uses delicate contours, loose hatching, and thin muted washes on warm paper. Dusty blue-gray, olive, tan, and brown-black remain understated. Small scratches and uneven line weight give a weathered, handmade surface. A compact detailed mass sits within generous near-blank space, with one precise gesture or directional line linking it to a tiny bright accent. Light is stylized and gentle, not high-contrast. Background fragments fade into the paper. The result is whimsical, poignant, and sketch-like while retaining careful character detail.",
+  "style_prompt_zh": "墨线水彩插画在暖纸上运用纤细轮廓、松排线与低调薄水洗。积尘蓝灰、橄榄、棕黄与棕黑保持克制。小划痕与不均线重形成风化手工表面。紧凑细节团位于宽大近空区域，一道准确手势或定向线把它接到极小亮点。光风格化且温和，并非高对比。背景碎形淡入纸面。结果奇想、酸楚且如速写，同时保留谨慎角色细节。",
+  "theme_en": "An elderly wanderer pointing toward a small sun in a pale sky",
+  "theme_zh": "年长旅人指向浅色天空中的小太阳",
+  "wh_ratio": "1:1",
+  "id": "0782",
+  "name": "David Pope",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/david-pope",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/david-pope.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "7c18a98160dc6a8fe88c6986ed6a584a881fd18fc6e21519178adb409b218d6a",
+    "gpt_submission_prompt": "A square ink-and-watercolor character sketch shows an elderly wanderer crouched low on a barren patch of ground, pointing toward a small white sun in a pale tan sky. He wears a tall floppy hat, a long dusty blue-gray coat, and a tangled white beard. His body leans forward, knees drawn up, while the extended index finger creates a strong line toward the bright circle at the upper right. A rolled bundle or worn bag rests against his back and side. Scattered stones, dry weeds, and faint ruined building silhouettes occupy the left and lower edges, but most of the sky remains blank paper-toned space. Fine brown-black contours define the wrinkles, beard, coat seams, and shoes; muted blue-gray and olive washes fill the larger shapes. Loose hatch marks and small scratches give the figure a weathered texture without burying the gesture. Light comes from the small sun, yet the illumination is gentle and stylized rather than physically harsh. The figure's pale face and beard emerge against the darker coat. The composition feels humorous and poignant at once: a complicated old traveler under an enormous empty sky, addressing something tiny and distant. The drawing retains visible handmade irregularity and a narrative pause.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "4f17d85a684e6818a80caae224623cf7583af9a147143b6c95e6c16e5844240c",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

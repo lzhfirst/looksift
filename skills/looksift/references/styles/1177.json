@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square color studio photograph presents a woman facing the camera directly from a very close distance. Straight dark brown bangs rest above thin round wire-frame spectacles, and longer hair falls into the nearly black background at both sides. Her blue-gray eyes look levelly forward, the mouth stays relaxed and unsmiling, and a crisp white shirt collar appears only at the lower edge. The arrangement is nearly symmetrical, though natural differences in hair, cheeks and light prevent a mechanical mirror image. Soft frontal lighting reveals ordinary facial texture, a little warmth in the cheeks and subtle reflections on the glasses without producing fashion gloss. The background is dark enough to absorb the shoulders and long hair, leaving the face and spectacles as the clearest forms. Skin color remains natural and restrained, with neither heavy makeup nor digital smoothing. The crop is tight enough to make the gaze feel immediate, but there is still a narrow cushion of dark space around the hair. Focus is exact on the eyes and fine metal rims; depth softens toward the outer hair. The overall portrait has the plain, slightly unsettling honesty of a formal identity picture enlarged beyond its usual size. Its interest lies in sustained eye contact and careful neutrality rather than a dramatic pose or elaborate setting.",
+  "full_prompt_zh": "一幅正方形彩色影棚照片呈现一位女性从很近处正面面对镜头。平直的深棕刘海停在细圆金属眼镜上方，长发向两边落入近黑背景。蓝灰色眼睛平视前方，嘴部放松而不露笑，整洁的白衬衫领只在下缘露出。画面近乎对称，但发丝、脸颊与光线的自然差别阻止它变成机械镜像。柔和正面光照出普通皮肤肌理、面颊少许暖意和镜片上的细微反光，却不制造时尚大片式亮面。背景深到几乎吞没肩部与长发，让面孔和眼镜成为最清楚的形体。肤色自然克制，没有浓重妆容或数字磨皮。裁切足够紧，让目光显得直接，但发梢周围仍留一圈窄暗空间。焦点精确落在眼睛和细金属框上，外侧头发逐渐柔化。整张肖像具有正式证件照被放大后的朴素而略令人不安的诚实感。它的吸引力来自持续的对视与谨慎中性，而非夸张姿态或复杂场景。",
+  "style_prompt_en": "The style is direct color studio portrait photography with a square near-symmetrical crop, sustained central focus and a dark absorbing background. Soft frontal light preserves ordinary skin texture, modest warm flesh tones and tiny controlled reflective details. The central plane stays optically sharp while outer contours soften naturally. Neutral expression, minimal styling and close physical distance create a plain but psychologically charged presence. The palette remains limited and credible, with no glamour retouching or theatrical shadow pattern.",
+  "style_prompt_zh": "这种风格属于直接的彩色影棚肖像摄影，具有正方形近对称裁切、稳定的中央焦点与吸光深色背景。柔和正面光保留普通皮肤肌理、适度暖肤色和微小受控反光细节。中央平面保持光学清晰，外侧轮廓自然柔化。中性神情、极少造型处理和近距离产生朴素却带心理张力的存在感。配色有限而可信，没有美颜修图或戏剧化阴影花样。",
+  "theme_en": "A direct studio portrait with round spectacles",
+  "theme_zh": "佩戴圆形眼镜的正面影棚肖像",
+  "wh_ratio": "1:1",
+  "id": "1177",
+  "name": "Gillian Wearing",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/gillian-wearing",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/gillian-wearing.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "ac19ee5b4f0bb8c45fba2d3b9861b164c06e36b5cd871cb147afb5c54717f90c",
+    "gpt_submission_prompt": "A square color studio photograph presents a woman facing the camera directly from a very close distance. Straight dark brown bangs rest above thin round wire-frame spectacles, and longer hair falls into the nearly black background at both sides. Her blue-gray eyes look levelly forward, the mouth stays relaxed and unsmiling, and a crisp white shirt collar appears only at the lower edge. The arrangement is nearly symmetrical, though natural differences in hair, cheeks and light prevent a mechanical mirror image. Soft frontal lighting reveals ordinary facial texture, a little warmth in the cheeks and subtle reflections on the glasses without producing fashion gloss. The background is dark enough to absorb the shoulders and long hair, leaving the face and spectacles as the clearest forms. Skin color remains natural and restrained, with neither heavy makeup nor digital smoothing. The crop is tight enough to make the gaze feel immediate, but there is still a narrow cushion of dark space around the hair. Focus is exact on the eyes and fine metal rims; depth softens toward the outer hair. The overall portrait has the plain, slightly unsettling honesty of a formal identity picture enlarged beyond its usual size. Its interest lies in sustained eye contact and careful neutrality rather than a dramatic pose or elaborate setting.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "43782deeee201748169b2374c44ac53eacde2fe4e9762bbb19fdc1876168cf0f",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

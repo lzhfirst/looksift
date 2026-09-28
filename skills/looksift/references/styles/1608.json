@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "The image is a square black and white photograph with the intimate drama of an old cinema still. A woman with short, softly curled dark hair sits beside a small round cafe table, leaning toward the camera while her body turns slightly away. One elbow rests near the table edge; her raised hand holds a cigarette close to her lips. She wears a dark sleeveless dress with a deep neckline, its silhouette sinking into the surrounding shadow. A curved chair back catches a narrow bright line on the right, while glasses and a small reflective object sit at the left edge of the tabletop. Strong light arrives from behind and above her, outlining loose curls, shoulder, and bare arm before falling across part of her face. The opposite side remains deep and velvety, so her expression emerges from alternating zones of light and obscurity. The background is an indistinct interior, softly blurred and interrupted by a few rectangular light patches. Luminous silver highlights, rich charcoal blacks, subtle grain, and tactile photographic softness define the scene. Natural anatomy and a poised but unforced gesture suggest a fleeting moment in a real room. The frame feels quiet, glamorous, and slightly mysterious, with lighting and tonal separation doing most of the storytelling.",
+  "full_prompt_zh": "画面是一张正方形黑白照片，带有老电影剧照般亲密的戏剧性。一位深色短卷发女子坐在小圆咖啡桌旁，身体略向外转，却向镜头倾身。一只手肘靠近桌边，抬起的手把香烟停在唇边。她穿着深色无袖低领连衣裙，轮廓逐渐沉入周围阴影。右侧弯曲的椅背接住一道狭窄亮线；桌面左缘有玻璃杯和一件小小的反光物。强光从她身后和上方照来，勾亮松散卷发、肩膀和裸露的手臂，再落到部分面容。另一侧保持深而柔的黑色，使表情从明暗交替的区域中浮现。背景是模糊不清的室内，柔焦中穿插少量矩形亮块。明亮的银色高光、浓厚的炭黑、细微颗粒和有触感的摄影柔度构成影像。自然人体结构和沉着却不刻意的姿态，显出真实房间中转瞬一刻的感觉。画面安静、迷人、略带神秘，由光线与影调分离承担主要叙事。",
+  "style_prompt_en": "Cinematic monochrome photography combines deep velvety blacks, luminous silver highlights, and a broad range of soft grays. A strong directional source from behind or above traces selective rims of light while other areas recede into shadow. Believable natural texture and subtle film grain accompany gentle optical softness around distant details. An intimate frame surrounds a small number of expressive shapes, punctuated by reflections and narrow bright edges. The result feels elegant and mysterious, with contrast, directional rhythm, and negative space carrying the emotional weight.",
+  "style_prompt_zh": "电影感黑白摄影结合深而柔的黑色、发亮的银色高光以及层次丰富的柔灰。强烈的定向光从后方或上方勾出选择性的轮廓亮边，其余区域退入阴影。可信的自然纹理与细微胶片颗粒相伴，远处细节周围带有轻柔的光学模糊。亲密的画框围绕少量富有表现力的形状，反光和狭窄亮边形成重点。整体优雅而神秘，对比、方向节奏与负空间承载情绪。",
+  "theme_en": "A woman at a dim cafe table in a high contrast black and white photograph",
+  "theme_zh": "昏暗咖啡馆桌旁女子的高反差黑白照片",
+  "wh_ratio": "1:1",
+  "id": "1608",
+  "name": "Vincent Peters",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/vincent-peters",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/vincent-peters.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "ba0eaf0a24d7a061db3e08af8c21396d460d651440f271b4133c353fecb41e01",
+    "gpt_submission_prompt": "The image is a square black and white photograph with the intimate drama of an old cinema still. A woman with short, softly curled dark hair sits beside a small round cafe table, leaning toward the camera while her body turns slightly away. One elbow rests near the table edge; her raised hand holds a cigarette close to her lips. She wears a dark sleeveless dress with a deep neckline, its silhouette sinking into the surrounding shadow. A curved chair back catches a narrow bright line on the right, while glasses and a small reflective object sit at the left edge of the tabletop. Strong light arrives from behind and above her, outlining loose curls, shoulder, and bare arm before falling across part of her face. The opposite side remains deep and velvety, so her expression emerges from alternating zones of light and obscurity. The background is an indistinct interior, softly blurred and interrupted by a few rectangular light patches. Luminous silver highlights, rich charcoal blacks, subtle grain, and tactile photographic softness define the scene. Natural anatomy and a poised but unforced gesture suggest a fleeting moment in a real room. The frame feels quiet, glamorous, and slightly mysterious, with lighting and tonal separation doing most of the storytelling.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "eff349411279619b8aea5b890888a6669e6aa5084de4b717ae8f8f3f56ff7557",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

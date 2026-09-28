@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square comic illustration shows a large red-skinned horned investigator seated in an ornate dark chair, one hand raised thoughtfully toward his mouth. He wears a loose gray coat over deep black clothing, and a heavy right hand rests near his knee with a loop of cord hanging below. To his right stands a small carved table holding a pale skull and two thin candles. Decorative wall panels behind both are entirely coral-red, their fine engraved motifs visible only as slightly darker lines. Black shadow occupies nearly all of the left side, pushing the figure into a stark red field. The head, shoulders and chair form a compact monumental mass; the table's skull and vertical candles provide small contrasting accents. Thick black ink shapes define the face, coat folds and floor shadow, while very limited gray fill gives the clothing enough volume. The red skin and background are close in hue but separate through black contour and value. The scene is silent rather than action-driven, with the posture communicating fatigue and thought. A slightly rough printed surface and a few intricate ornamental marks prevent the broad color blocks from feeling digitally flat. The whole panel depends on disciplined negative space, decisive silhouette and a very small palette of red, black, gray and bone white.",
+  "full_prompt_zh": "一幅正方形漫画插画呈现一位体型高大的红肤角形调查者坐在雕饰深色椅子里，一只手举到嘴边，像在沉思。他在深黑衣物外穿宽松灰外套，另一只厚重的手靠近膝部，下方垂着一圈绳。右侧小雕花桌上有浅色头骨与两支细烛。两者身后墙板全部是珊瑚红，精细雕刻纹样只以略深线条可见。黑影占据左侧几乎全部区域，把人物推入鲜明红色场。头、肩和椅子形成紧凑且具纪念性的体块；桌上头骨和竖烛提供小型对照重音。厚重黑墨形状定义面孔、外套褶和地面暗影，极有限的灰色填色给衣物足够体积。红皮肤和背景色相接近，却由黑轮廓与明度区别。场景安静而非以动作驱动，姿态传达疲惫和思考。略粗糙的印刷表面和几处复杂纹样阻止大色块显得数字化平板。整个漫画格依靠严格留白、果断剪影，以及红、黑、灰、骨白的极小色盘。",
+  "style_prompt_en": "The style is stark noir comic inking with huge unbroken shadow shapes, decisive contour silhouettes and a severely limited red-black-gray palette. Small bone-white accents puncture broad saturated fields. Fine engraved ornament sits behind simplified main masses, while a little rough print grain keeps color physical. The square composition uses asymmetric darkness and compact clustered forms to create gravity. Gesture stays restrained; mood comes from value hierarchy, negative space and the contrast between minute detail and flat graphic force.",
+  "style_prompt_zh": "这种风格是严峻黑色电影感漫画墨线，具有大面积完整阴影、果断轮廓剪影和高度限制的红黑灰配色。小块骨白重音刺破宽阔饱和色域。细刻纹装饰位于简化主体体块后面，少量粗印刷颗粒使颜色有物理感。正方形构图利用不对称深暗与紧凑聚集形状制造重量。动作克制；气氛来自明度层级、留空以及微细节与平面图形力量的对照。",
+  "theme_en": "A horned investigator brooding in a red chamber",
+  "theme_zh": "红色房间里沉思的角形调查者",
+  "wh_ratio": "1:1",
+  "id": "4415",
+  "name": "Mike Mignola",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/mike-mignola.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "81f88cedba9121dba682a0b92ffe7d88efeb3e97d47772b6f6fff815a1cd0ad5",
+    "gpt_submission_prompt": "A square comic illustration shows a large red-skinned horned investigator seated in an ornate dark chair, one hand raised thoughtfully toward his mouth. He wears a loose gray coat over deep black clothing, and a heavy right hand rests near his knee with a loop of cord hanging below. To his right stands a small carved table holding a pale skull and two thin candles. Decorative wall panels behind both are entirely coral-red, their fine engraved motifs visible only as slightly darker lines. Black shadow occupies nearly all of the left side, pushing the figure into a stark red field. The head, shoulders and chair form a compact monumental mass; the table's skull and vertical candles provide small contrasting accents. Thick black ink shapes define the face, coat folds and floor shadow, while very limited gray fill gives the clothing enough volume. The red skin and background are close in hue but separate through black contour and value. The scene is silent rather than action-driven, with the posture communicating fatigue and thought. A slightly rough printed surface and a few intricate ornamental marks prevent the broad color blocks from feeling digitally flat. The whole panel depends on disciplined negative space, decisive silhouette and a very small palette of red, black, gray and bone white.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "6d7ee197d81db07a927cb6065c7ebb125d7221a3c138c3520a81eb13b1cb6e9a",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square landscape photograph shows a solitary small white house in a green valley beneath a dramatically steep dark mountain. The house sits just right of center in the lower third, with a gray pitched roof, a few dark windows, and a narrow chimney. The grassy ground around it is uneven, rolling toward the camera in soft green ridges. Behind the building, the mountain rises abruptly into a high pointed rock face. Its lower slopes carry bands of vivid moss green, while the upper face becomes black-gray stone under heavy cloud. A second lower ridge runs away to the right, closing the valley. The sky is almost entirely filled with dark charcoal storm clouds. At the far right, a narrow break lets pale sunlight slant through the air and strike the mountain side and part of the grass. This beam creates the strongest light in the scene, balancing the white house against the dark looming peak. The air near the mountain is hazy, so the rock edges soften slightly as they meet cloud, while the near grass and simple house shape remain crisp. The camera viewpoint is low and set back across the field, keeping the house small within the enormous terrain. There are no people, roads, or neighboring structures in view. The palette is concentrated in moss green, slate gray, charcoal, pale cream, and a little cool blue. The composition creates a powerful scale contrast: a modest domestic object under a monumental mountain and turbulent sky. Its mood is quiet yet charged, with a fleeting strip of light breaking into the darkness.",
+  "full_prompt_zh": "一幅方形风景摄影呈现绿色山谷中一栋孤独小白屋，背后是一座戏剧性陡峭的暗山。房屋位于画面下三分之一、中央略右，有灰色双坡屋顶、几扇深色窗和细烟囱。周围草地不平，形成柔和绿色脊线向相机滚来。房后山峰骤然升起为高耸尖锐岩面。下坡带有鲜亮苔绿条带，上方岩面在厚云下转为黑灰石色。另一道较低山脊向右退去，封住山谷。天空几乎全被深炭色暴风云占据。最右边一处狭缝让浅色日光斜穿空气，照在山侧和部分草地上。这道光成为画面最强亮部，使白屋与压迫的暗峰平衡。山旁空气朦胧，因此岩边与云相接处略为柔化，近草和简单房形则保持清晰。相机低位、隔着草地后退取景，使屋子在巨大地形前很小。看不到人、道路或邻屋。调色集中于苔绿、石板灰、炭色、浅奶油和少量冷蓝。构图建立有力尺度对照：朴素的居住物件处于巨大的山和翻涌天空下。情绪安静却充满张力，一线短暂光芒切入黑暗。",
+  "style_prompt_en": "Dramatic landscape photography uses strong scale contrast between a small crisp focal shape and a monumental dark background mass. Moss green ground, slate rock, charcoal cloud, and pale neutral accents form a restrained palette. A narrow break in storm cover casts a cool bright beam across selected planes, leaving broad areas in heavy shade. Slight atmospheric haze softens distant edges while the foreground retains tactile grass and earth. A low viewpoint and ample sky intensify the steep vertical rise. The result is realistic, spacious, and charged with fleeting weather.",
+  "style_prompt_zh": "戏剧性风景摄影用小而清晰的焦点形状与巨大的暗背景体量建立强尺度反差。苔绿地面、石板岩、炭云和浅中性色重音组成克制调色。暴风云的一道狭缝将冷亮光束投到选定平面，大片区域仍处厚阴影。轻微空气雾气柔化远景边缘，前景保留可触的草与土。低视点和大量天空强化陡峭竖向升起。结果真实、开阔，带转瞬天气的张力。",
+  "theme_en": "A small white house beneath a steep green mountain and storm clouds",
+  "theme_zh": "小白屋立于陡峭绿山与暴风云下",
+  "wh_ratio": "1:1",
+  "id": "1926",
+  "name": "Iurie Belegurschi",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/iurie-belegurschi",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/iurie-belegurschi.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "e563bfd85adf8e08c7c3e9866aca68b4fbeb7d865924f76a9ac093a59f1dc882",
+    "gpt_submission_prompt": "A square landscape photograph shows a solitary small white house in a green valley beneath a dramatically steep dark mountain. The house sits just right of center in the lower third, with a gray pitched roof, a few dark windows, and a narrow chimney. The grassy ground around it is uneven, rolling toward the camera in soft green ridges. Behind the building, the mountain rises abruptly into a high pointed rock face. Its lower slopes carry bands of vivid moss green, while the upper face becomes black-gray stone under heavy cloud. A second lower ridge runs away to the right, closing the valley. The sky is almost entirely filled with dark charcoal storm clouds. At the far right, a narrow break lets pale sunlight slant through the air and strike the mountain side and part of the grass. This beam creates the strongest light in the scene, balancing the white house against the dark looming peak. The air near the mountain is hazy, so the rock edges soften slightly as they meet cloud, while the near grass and simple house shape remain crisp. The camera viewpoint is low and set back across the field, keeping the house small within the enormous terrain. There are no people, roads, or neighboring structures in view. The palette is concentrated in moss green, slate gray, charcoal, pale cream, and a little cool blue. The composition creates a powerful scale contrast: a modest domestic object under a monumental mountain and turbulent sky. Its mood is quiet yet charged, with a fleeting strip of light breaking into the darkness.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "fb2a174678a9f328188f72fb77bccc8de40990792ba8625621f55da15d37c775",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

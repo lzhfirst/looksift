@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square conceptual collage shows a black-and-white close-up of a formally dressed woman in profile from the shoulders upward. She wears a dark jacket, white shirt, and slim black tie. Her pale face is turned toward the right, with dark lips and a clean jawline. A second photographed hand reaches in from the right and touches or cups the underside of her chin, its wrist and sleeve disappearing beyond the frame. Across the woman's eyes and much of her forehead sits one aggressively opaque horizontal rectangle of vivid canary yellow. Its edges are slightly rough as though painted, but its color is flat and unmodulated. Behind her head, a large irregular charcoal brush smear and gray scuffed marks interrupt an otherwise off-white ground. The photographic fragments are crisp enough to show smooth skin, knuckles, clothing seams, and the lips, while the painted and brushed layers are blunt and graphic. The collage is cropped closely, leaving no complete body or explanatory setting. Black mass at lower left balances the dark hand and yellow bar at upper center. The yellow shape deliberately blocks the expected eye contact and turns the image into a puzzle of visibility and concealment. No words, labels, captions, or symbols appear. The composition feels dryly humorous and provocative rather than decorative, using the collision between a found photograph, coarse black mark, and single saturated geometric intervention to make an ordinary fashion gesture strange.",
+  "full_prompt_zh": "一幅方形观念拼贴呈现一张黑白近景照片：一位穿正式服装的女子从肩向上呈侧面。她穿深外套、白衬衫与细黑领带，浅色脸朝右，嘴唇深，颌线清楚。第二只照片中的手从右伸入，触碰或托住她下巴，手腕和袖子越出画框。一道极不透明的鲜金丝雀黄横矩形盖住女子双眼和大半额头。边缘略粗如涂刷，但颜色平而无调制。头后大片不规则炭黑刷痕和灰磨擦痕打断本来浅白的底。摄影碎片清楚到可见光滑皮肤、指节、衣缝与嘴唇，绘画刷层则直率而图形化。拼贴紧裁，没有完整身体或解释性场所。左下黑块平衡右侧深手与上中部黄条。黄形有意挡住本应出现的目光交流，使图像变成可见与遮蔽的谜题。没有文字、标签、说明或符号。构图有冷幽默和挑衅感而非装饰性，通过现成照片、粗黑笔迹和唯一饱和几何干预的碰撞，让普通时装动作变得奇怪。",
+  "style_prompt_en": "Conceptual photo-collage interrupts grayscale photographic realism with one flat saturated geometric block. Crisp found-image fragments contrast with irregular charcoal or paint smears, scuffed off-white ground, and hard-edged color. The block obscures a key informational area, creating deliberate concealment. The palette remains nearly monochrome except for one intense yellow accent. Close cropping and awkward contact between fragments preserve a visible contrast between photographic smoothness and coarse hand-applied marks. The effect is dry, provocative, and formally concise, relying on interruption and omission rather than narrative explanation.",
+  "style_prompt_zh": "观念性照片拼贴以平整饱和的几何色块打断灰度摄影真实感。清晰的现成影像碎片与不规则炭笔或颜料抹痕、磨擦浅白底和硬边色形成反差。色块遮住关键信息区域，产生有意隐藏的效果。色板近乎单色，只有一处强烈黄色重音。紧密裁切和碎片之间略显别扭的衔接，保留摄影光滑质地与粗手工笔迹的对比。整体冷静、挑衅而形式简练，依靠打断与省略而非叙事解释。",
+  "theme_en": "A black-and-white fashion image interrupted by a vivid yellow rectangle",
+  "theme_zh": "被鲜黄矩形打断的黑白时装照片",
+  "wh_ratio": "1:1",
+  "id": "1253",
+  "name": "John Baldessari",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/john-baldessari",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/john-baldessari.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "b3938d2115371951ca0e2c4f628c79552e4b86512f2b5f44116ea6925f4da00c",
+    "gpt_submission_prompt": "A square conceptual collage shows a black-and-white close-up of a formally dressed woman in profile from the shoulders upward. She wears a dark jacket, white shirt, and slim black tie. Her pale face is turned toward the right, with dark lips and a clean jawline. A second photographed hand reaches in from the right and touches or cups the underside of her chin, its wrist and sleeve disappearing beyond the frame. Across the woman's eyes and much of her forehead sits one aggressively opaque horizontal rectangle of vivid canary yellow. Its edges are slightly rough as though painted, but its color is flat and unmodulated. Behind her head, a large irregular charcoal brush smear and gray scuffed marks interrupt an otherwise off-white ground. The photographic fragments are crisp enough to show smooth skin, knuckles, clothing seams, and the lips, while the painted and brushed layers are blunt and graphic. The collage is cropped closely, leaving no complete body or explanatory setting. Black mass at lower left balances the dark hand and yellow bar at upper center. The yellow shape deliberately blocks the expected eye contact and turns the image into a puzzle of visibility and concealment. No words, labels, captions, or symbols appear. The composition feels dryly humorous and provocative rather than decorative, using the collision between a found photograph, coarse black mark, and single saturated geometric intervention to make an ordinary fashion gesture strange.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "de14ba2a90dd9df6fa6933cf015ab8fac7fe4224c61de2767c5cb9f54cc9b58f",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

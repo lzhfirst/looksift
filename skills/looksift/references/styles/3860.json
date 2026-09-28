@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square monochrome street photograph catches a solitary pedestrian in a dark long coat and brimmed hat crossing a rain-soaked street while a tram or bus blurs behind him. He appears near the center-left, mid-stride, one leg extended and the coat hem swinging slightly. His face is a dark side profile turned toward the right, with no visible expression. A strong reflection of the figure stretches downward across the glossy pavement, broken by shallow puddles and seams in the road. The large vehicle fills much of the right half, its long row of pale windows and dark lower body smeared horizontally by movement. On the far left, a few more figures recede as faint silhouettes through heavy mist. The street and distant buildings merge into a luminous gray veil, leaving very few hard edges beyond the central coat and hat. At the lower right, a bright band of reflected light cuts diagonally toward the walking figure. The frame has a worn photographic border with irregular black edges and a subtly scratched, grainy silver surface. Diffuse overcast light reflects upward from the wet ground and through the haze, while the pedestrian remains nearly black against the pale air. The composition contrasts a readable moving silhouette with a faster streaking vehicle and dissolving background, creating a quiet, cinematic sense of transit and loneliness.",
+  "full_prompt_zh": "一幅方形黑白街头摄影捕捉一位穿深色长外套、戴檐帽的独行人跨过雨湿街道，身后电车或巴士掠成模糊影。他在中左附近迈步，一条腿伸出，衣摆轻微甩动。脸是朝右的深色侧面剪影，看不清神情。人物强烈倒影在发亮路面向下伸展，被浅水洼与路面接缝打断。大型车辆占右半幅大部，长排浅色车窗和深色下车身被运动横向抹开。最左边，还有几个人影透过厚雾远去，成为淡淡剪影。街道与远处建筑并入发亮灰雾，只在中央外套与帽子附近留少量硬边。右下，一道反射亮带斜切向步行者。画框带磨旧摄影边线，黑边不规则，银盐表面略有刮痕与颗粒。阴天漫射光从湿地反上来，也透过薄雾，而行人对着浅空气仍近乎漆黑。构图以可读的移动剪影，对照更快划过的车辆与溶散背景，形成安静、电影化的通行与孤独感。",
+  "style_prompt_en": "Monochrome street photography combines dense silhouettes, wet reflective ground, and strong motion blur with a veil of fog. Keep one near form readable while vehicles or surrounding structures smear into horizontal tonal bands and distant figures dissolve. Let diffuse overcast light lift mist and pavement reflections without crisp cast shadows. Use silver-grain texture, minor scratches, and imperfect borders to give the image a worn analog surface. Balance large pale haze against anchored blacks, and allow bright streaks on the ground to lead through the frame. The transferable mood is solitary, transient, and quietly cinematic.",
+  "style_prompt_zh": "黑白街头摄影把浓重剪影、湿亮反射地面、强烈运动模糊和雾幕结合。让一处近景形体可辨，车辆或周围结构抹成横向调子带，远处人物渐隐。阴天漫射光托起雾气与路面反光，不留下清晰投影。银盐颗粒、微刮痕和不完美边框赋予影像磨旧的胶片表面。大片浅雾与固定深黑相平衡，地面亮迹引导视线穿过画面。可迁移的气氛孤独、转瞬即逝且含蓄电影化。",
+  "theme_en": "A lone pedestrian crossing wet pavement beside a blurred tram",
+  "theme_zh": "独行人走过湿路面，旁边电车掠成模糊影",
+  "wh_ratio": "1:1",
+  "id": "3860",
+  "name": "Alex Howitt",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/alex-howitt",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "19f03b5d0cca2bdf39626d3e202abaadc54a207caf8105a541e5bba1498e064a",
+    "gpt_submission_prompt": "A square monochrome street photograph catches a solitary pedestrian in a dark long coat and brimmed hat crossing a rain-soaked street while a tram or bus blurs behind him. He appears near the center-left, mid-stride, one leg extended and the coat hem swinging slightly. His face is a dark side profile turned toward the right, with no visible expression. A strong reflection of the figure stretches downward across the glossy pavement, broken by shallow puddles and seams in the road. The large vehicle fills much of the right half, its long row of pale windows and dark lower body smeared horizontally by movement. On the far left, a few more figures recede as faint silhouettes through heavy mist. The street and distant buildings merge into a luminous gray veil, leaving very few hard edges beyond the central coat and hat. At the lower right, a bright band of reflected light cuts diagonally toward the walking figure. The frame has a worn photographic border with irregular black edges and a subtly scratched, grainy silver surface. Diffuse overcast light reflects upward from the wet ground and through the haze, while the pedestrian remains nearly black against the pale air. The composition contrasts a readable moving silhouette with a faster streaking vehicle and dissolving background, creating a quiet, cinematic sense of transit and loneliness.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "557ea06a9542ada0d90deb84a2ef83f931dab69dfecab6c5545bcddc81fcea5a",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square fantasy seascape painting shows a three-masted sailing ship moving slowly toward the viewer across mirror-smooth water. It occupies the center and is seen from slightly below its billowing pale blue-gray sails. The dark hull is partly hidden by sea mist, while thin rigging and spars draw delicate lines through the luminous upper sky. The tallest masts rise close to the top edge. The sails are broad, weathered, and translucent at their edges; golden backlight catches the fabric behind them. Behind the vessel, immense pale cliffs or iceberg-like mountains dissolve into cool fog on both sides of the horizon. A flock of small dark birds arcs across the sky to the ship's upper right. The sun is not drawn as a hard circle. It appears as a warm milky radiance behind cloud and sail, creating a soft halo that grades into gray-blue. The water below is nearly still, carrying a vertical blurred reflection of the ship and faint silver ripples. The lower third has ample quiet space, while the ship's clustered sails make a dense central silhouette. Fine painterly strokes describe ropes, cloth seams, dark hull timbers, and distant rock contours, but most transitions remain atmospheric and soft. The limited palette consists of icy blue, warm ivory, graphite gray, and muted sepia. No crew, flags, words, or emblems are visible. The image feels epic yet hushed, with scale suggested by distant mountains and the solitary vessel rather than by action or battle.",
+  "full_prompt_zh": "一幅方形奇幻海景绘画呈现三桅帆船在镜面般平静的水上缓慢朝观者驶来。船居中央，视点略低于鼓起的淡蓝灰船帆。深色船体一部分被海雾遮住，细索具与横桁在发亮上空画出纤细线条。最高桅杆靠近顶缘。帆宽大、风化，边缘略透光；金色逆光从背后照亮布面。船后两侧地平线上巨大的淡色峭壁或冰山状群山溶入冷雾。一小群深色飞鸟从船的右上方划过。太阳不是硬圆盘，而是藏在云与帆后的温暖乳色光晕，渐变为灰蓝。下方水面几乎静止，带船的竖向模糊倒影和细小银波。下三分之一留足安静空间，帆群则聚成密集中央剪影。细腻绘画笔触描述绳索、布缝、深色船板和远处岩形，但大多过渡保持大气柔和。有限色板由冰蓝、暖象牙白、石墨灰和低调棕褐组成。看不到船员、旗帜、文字或徽记。画面史诗而静谧，尺度由远山与孤船暗示，而非动作或战斗。",
+  "style_prompt_en": "Use atmospheric fantasy painting with a restrained cold-warm palette, broad misty distances, and a concentrated central silhouette. Build forms from delicate linear detail embedded in large soft tonal masses. Backlight a pale translucent focal structure with a diffuse ivory-gold glow, allowing cool blue-gray surroundings to fade through fog. Keep distant contours immense but indistinct, and foreground reflections quiet and elongated. Place a few tiny dark marks in open sky to imply scale without crowding it. The brushwork should remain painterly, with fine texture only where light meets material and the rest dissolving into haze. The mood is grand, solitary, and hushed, emphasizing depth and luminous atmosphere over spectacle.",
+  "style_prompt_zh": "采用大气感奇幻绘画，以克制冷暖色板、广阔雾状远景和集中的中央剪影组织图像。把细线细节嵌入大片柔和明暗体中建立形状。以漫散象牙金逆光照亮浅色半透焦点结构，让周围冷蓝灰穿过雾逐渐淡去。远处轮廓保持巨大却模糊，前景倒影安静而拉长。在空旷天空放少量细小深色记号以暗示尺度，不让其拥挤。笔触保持绘画性，仅在光与材料交接处增加细肌理，其余融入薄雾。氛围宏大、孤独、静谧，重视纵深与明亮空气，而非奇观动作。",
+  "theme_en": "An old sailing ship gliding through mist toward distant ice cliffs",
+  "theme_zh": "古帆船穿过薄雾驶向远方冰崖",
+  "wh_ratio": "1:1",
+  "id": "4299",
+  "name": "John Howe",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/john-howe.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "951df775f4714c2f3cd2fc537e681e82a9e5506f96b422ceae74cf15cf5887f6",
+    "gpt_submission_prompt": "A square fantasy seascape painting shows a three-masted sailing ship moving slowly toward the viewer across mirror-smooth water. It occupies the center and is seen from slightly below its billowing pale blue-gray sails. The dark hull is partly hidden by sea mist, while thin rigging and spars draw delicate lines through the luminous upper sky. The tallest masts rise close to the top edge. The sails are broad, weathered, and translucent at their edges; golden backlight catches the fabric behind them. Behind the vessel, immense pale cliffs or iceberg-like mountains dissolve into cool fog on both sides of the horizon. A flock of small dark birds arcs across the sky to the ship's upper right. The sun is not drawn as a hard circle. It appears as a warm milky radiance behind cloud and sail, creating a soft halo that grades into gray-blue. The water below is nearly still, carrying a vertical blurred reflection of the ship and faint silver ripples. The lower third has ample quiet space, while the ship's clustered sails make a dense central silhouette. Fine painterly strokes describe ropes, cloth seams, dark hull timbers, and distant rock contours, but most transitions remain atmospheric and soft. The limited palette consists of icy blue, warm ivory, graphite gray, and muted sepia. No crew, flags, words, or emblems are visible. The image feels epic yet hushed, with scale suggested by distant mountains and the solitary vessel rather than by action or battle.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "46d56b9e5ed828166c01ca8e6385090f66b8ace4842b4614a3954f8c752a23c4",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

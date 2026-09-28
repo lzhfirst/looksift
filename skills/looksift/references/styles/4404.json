@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white fantasy illustration shows a wary young traveler beneath a wide dark hat in the left foreground of an ancient stone city. The traveler turns toward the viewer with large searching eyes, holding a small object close to the chest. Behind them, a crowd of strange townspeople and creatures gathers on worn steps between arches, carved walls, and steep little roofs. The background is intensely detailed: tiny faces, rough stones, niches, and ornamental scraps fill nearly every opening. Fine pen lines and dense cross-hatching create deep black pockets under the arches and around the hat, while the pale face and steps catch open paper white. The perspective climbs from the close figure toward the crowded middle distance, giving the image a sense of discovery and unease. A narrow border around the image strengthens its old book-plate character. There is no color; atmosphere comes from intricate ink texture, variable line weight, and concentrated darkness. Diffuse light illuminates the face and portions of masonry without a theatrical spotlight. The whole frame feels whimsical and ominous at once, like a richly engraved adventure illustration in which the small traveler has entered an overwhelming world.",
+  "full_prompt_zh": "一幅方形黑白奇幻插画把一位戴宽大深色帽子的警觉少年放在古老石城的左前景。旅人转向观者，大眼睛四处搜寻，手中有一件贴近胸口的小物。身后，奇异市民与生物聚集在磨旧石阶上，两侧是拱门、雕刻墙体和陡峭小屋顶。背景细节极为浓密：小脸、粗石、壁龛和装饰碎物填满几乎所有空处。纤细钢笔线与密集交叉排线在拱下和帽周形成深黑，浅色面孔与台阶则保留纸白。透视从近处人物向拥挤中景抬升，带来探索和不安感。画面周围的窄边框加强旧书插页性质。完全没有彩色；气氛来自繁复墨线肌理、轻重变化的线条和集中的黑暗。漫射光照亮面孔和部分石造，没有戏剧聚光。整幅画既奇趣又不祥，像一页雕刻细密的冒险插画，小旅人走入一个令人目不暇接的世界。",
+  "style_prompt_en": "A dense monochrome pen-and-ink storybook style combines intimate foreground character scale with crowded architectural depth. Fine cross-hatching, stipple, variable contour, and rough stone marks pack the middle distance, while a pale focal form remains readable against deep black pockets. Steep roofs, stairs, and arch shapes can layer upward through the frame. A narrow printed border and cream-paper white evoke an antique engraved plate. Diffuse light is expressed through open paper rather than smooth gray gradients. The mood holds whimsy and unease together, with meticulously hand-drawn texture and a clear path from near focal point to busy background.",
+  "style_prompt_zh": "浓密的黑白钢笔墨绘故事书风格把亲密的前景人物尺度与拥挤建筑纵深结合。细交叉排线、点描、轻重轮廓与粗石笔迹填满中景，浅色焦点形体仍能从深黑区域前清楚读出。陡屋顶、台阶和拱形可以层层向上叠入画框。窄印刷边框与乳白纸色令人想到古雕版画页。漫射光通过开放纸白表现，而非光滑灰阶渐变。气氛同时含有奇趣和不安，手绘肌理极细密，近焦点通向繁忙背景的路线仍清楚。",
+  "theme_en": "A wary young traveler in a wide-brimmed hat before a crowded stone city",
+  "theme_zh": "一位戴宽檐帽的警觉少年立于拥挤石城前",
+  "wh_ratio": "1:1",
+  "id": "4404",
+  "name": "William Stout",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/william-stout.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "fefefb1f71cbda0ee3b49584a55c7d3fcf55ef32874aec193e14ca44adcc529b",
+    "gpt_submission_prompt": "A square black-and-white fantasy illustration shows a wary young traveler beneath a wide dark hat in the left foreground of an ancient stone city. The traveler turns toward the viewer with large searching eyes, holding a small object close to the chest. Behind them, a crowd of strange townspeople and creatures gathers on worn steps between arches, carved walls, and steep little roofs. The background is intensely detailed: tiny faces, rough stones, niches, and ornamental scraps fill nearly every opening. Fine pen lines and dense cross-hatching create deep black pockets under the arches and around the hat, while the pale face and steps catch open paper white. The perspective climbs from the close figure toward the crowded middle distance, giving the image a sense of discovery and unease. A narrow border around the image strengthens its old book-plate character. There is no color; atmosphere comes from intricate ink texture, variable line weight, and concentrated darkness. Diffuse light illuminates the face and portions of masonry without a theatrical spotlight. The whole frame feels whimsical and ominous at once, like a richly engraved adventure illustration in which the small traveler has entered an overwhelming world.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "9d5790e0fc0ca5ad120f3b8a54a6bc9ef1a7bc59d7910b8cba3b5d5383253b4c",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

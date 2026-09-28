@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square photograph shows a gently wavy woven tapestry hanging on a plain white wall, its central image a quiet wooded valley in pale blue, sage green, cream, and warm gray. The cloth nearly fills the selected frame but leaves a narrow white margin on every side. Its upper and lower edges curve slightly rather than forming rigid straight lines, making the textile's flexible weight visible. A large tree rises from the left foreground, with a warm brown trunk and a spreading blue-green crown that shades the upper corner. On the right, another tree and pale shrubs build a thick border, their leaves described by many small woven shapes. Between them, the view opens to a pale sunlit distance. A narrow stream or path passes through the middle ground, bending toward a cluster of small structures and soft hills near the center. Light cream clouds float above the valley, and farther green slopes fade into a misty horizon. The lower foreground is dense with layered bushes, stones, and low growth, their tiny thread changes forming soft rather than sharp outlines. Even gallery light falls across the hanging fabric, so the scene's depth comes from woven tonal shifts and overlapping foliage rather than a photograph's direct sunlight. Slight vertical and horizontal thread grain can be seen where colors meet, and the muted dyes give the whole surface a gentle worn quality. The overall composition uses dark leafy sides as a frame around a bright central opening, preserving the calm of a small pastoral world within a pliant woven object.",
+  "full_prompt_zh": "这幅方形照片呈现一张略有波纹的织物挂毯，悬在素白墙上，中央图像是一处浅蓝、鼠尾草绿、奶油色和暖灰构成的安静林谷。织物几乎填满选定画框，四周只留窄白边。上下缘轻轻起伏，而非僵硬直线，使布料柔软垂重可见。左前景一棵大树升起，暖棕树干与铺开的蓝绿树冠遮住上角。右侧另一棵树和浅色灌丛构成厚实边框，许多小织形描出叶片。两者之间，视野打开到浅色日照远处。一道窄溪或小路穿过中景，弯向中央附近的小建筑群与柔丘。浅奶油色云飘在山谷上方，更远的绿坡淡入薄雾地平线。下方前景密布交叠灌木、石块和低矮植物，细小纱线色变形成柔和而非锐利的轮廓。均匀展厅光铺过悬垂织物，所以场景纵深来自编织调子变化与叶丛交叠，而非照片中的直接阳光。颜色相遇处可见轻微横竖线纹，压低的染色让整块表面显得柔和陈旧。整体构图用深叶两侧框住明亮中央开口，把一处小小田园世界的平静保留在柔软织物中。",
+  "style_prompt_en": "The woven image uses soft, time-muted color and countless small thread changes to build a continuous but finely broken surface. Sage, blue-green, cream, pale tan, and warm gray pass gently into one another; no single accent overwhelms the whole. Darker dense regions sit at the margins and open toward a luminous center. Edges are slightly softened by weave grain, even where the underlying shapes are carefully arranged. Light remains even across the physical cloth, revealing slight waviness and a matte finish. Shallow layered depth and a calm central opening give the composition pastoral ease without losing its intricate construction.",
+  "style_prompt_zh": "这种编织图像用经时间压柔的色彩和无数细小纱线色变，构成连续却细碎的表面。鼠尾草绿、蓝绿、奶油、浅褐与暖灰轻轻过渡，没有一种重音压过全幅。较暗的密集区域留在边缘，向发亮中心打开。即使底层形状安排谨慎，织纹颗粒仍使边缘略柔。光均匀覆盖实体布面，显出轻微起伏和哑光完成感。浅层叠纵深与安静中央开口赋予构图田园般的从容，同时不失细密结构。",
+  "theme_en": "A softly colored hanging tapestry of a wooded valley",
+  "theme_zh": "一张描绘林间山谷的柔色悬挂挂毯",
+  "wh_ratio": "1:1",
+  "id": "3025",
+  "name": "Aubusson tapestry",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/aubusson-tapestry",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "fb48ccaa586ccebbea7385f47ed5bcef26db9d1130bbf4b907c17a220040664c",
+    "gpt_submission_prompt": "A square photograph shows a gently wavy woven tapestry hanging on a plain white wall, its central image a quiet wooded valley in pale blue, sage green, cream, and warm gray. The cloth nearly fills the selected frame but leaves a narrow white margin on every side. Its upper and lower edges curve slightly rather than forming rigid straight lines, making the textile's flexible weight visible. A large tree rises from the left foreground, with a warm brown trunk and a spreading blue-green crown that shades the upper corner. On the right, another tree and pale shrubs build a thick border, their leaves described by many small woven shapes. Between them, the view opens to a pale sunlit distance. A narrow stream or path passes through the middle ground, bending toward a cluster of small structures and soft hills near the center. Light cream clouds float above the valley, and farther green slopes fade into a misty horizon. The lower foreground is dense with layered bushes, stones, and low growth, their tiny thread changes forming soft rather than sharp outlines. Even gallery light falls across the hanging fabric, so the scene's depth comes from woven tonal shifts and overlapping foliage rather than a photograph's direct sunlight. Slight vertical and horizontal thread grain can be seen where colors meet, and the muted dyes give the whole surface a gentle worn quality. The overall composition uses dark leafy sides as a frame around a bright central opening, preserving the calm of a small pastoral world within a pliant woven object.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "1644a0bcfdb6413507c4a83e12ed28251fa836b0b2afa02e9a498b9719604398",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

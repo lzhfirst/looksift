@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square atmospheric coastal image shows a lighthouse on a low headland at the right of a wide, still bay. The horizon lies near the middle, leaving a large sky filled with dark charcoal and plum cloud. A ragged opening just above the horizon glows in bands of coral pink, copper, and muted orange, while smaller rose-colored gaps appear high among the heavy clouds. The lighthouse is a narrow dark silhouette with a slightly wider top, standing apart from clumps of shrubs and trees on the headland. The shoreline bends from the lower right foreground toward its base, with reeds and rough rocks nearly black against the water. Across the left and center, the bay reflects the warm sky in broken rose-gold streaks, interrupted by cool slate ripples. Faint distant land rests low on the far left horizon. Tiny dark specks in the upper sky suggest distant birds, but remain secondary to the cloud mass. The image has a photographic or highly rendered naturalistic finish, with soft atmospheric gradations in the distance and more textured water and shoreline nearby. The low warm source is hidden behind cloud and land; it lights cloud undersides and a path on the water rather than the foreground vegetation. Deep cool shadow encloses the luminous middle band. The simple vertical lighthouse, horizontal reflection, and broad dark sky make the quiet coast feel expectant and slightly austere.",
+  "full_prompt_zh": "一幅方形、富有空气感的海岸图像描绘一座灯塔，立在宽阔平静海湾右侧的低矮海岬上。地平线接近中部，大片天空充满炭灰和梅紫色浓云。地平线上方参差云隙以珊瑚粉、铜色和柔暗橙色带状发光，厚云高处也露出较小玫瑰色缝隙。灯塔是一道狭窄深色剪影，顶部稍宽，与岬角上的灌木和树丛分立。海岸线从右下前景向灯塔根部弯去，芦草和粗糙岩石在水前近乎黑色。左侧和中央的海湾以断续玫瑰金色条纹映照暖天空，冷石板灰波纹穿插其间。远左地平线上隐约有一条低地。上方天空细小暗点似乎是远鸟，却始终从属于云层。图像具有摄影或高度渲染的自然主义表面，远处空气层次柔和，近处水面和岸线纹理更多。低处暖光源藏在云和陆地后面，照亮云底与水上一条光路，却没有照亮前景植被。深冷阴影包住发亮的中部色带。简洁的竖向灯塔、横向倒影和宽阔暗天让安静海岸显得充满等待感，略为严峻。",
+  "style_prompt_en": "Atmospheric coastal rendering concentrates warm coral and copper light in a narrow horizon band beneath a much larger charcoal-plum sky. Deep blue-gray foreground masses remain mostly silhouetted, while water carries broken horizontal reflections of the hidden low light. Clouds have layered soft interiors and ragged lit edges; distant land and small forms dissolve into haze. The composition balances one slim vertical accent against wide horizontal divisions. The light source stays obscured, creating glow rather than frontal illumination. Subdued photographic texture, a restrained warm-to-cool area ratio, and heavy surrounding shadow make the scene hushed and expectant.",
+  "style_prompt_zh": "富有空气感的海岸渲染把珊瑚与铜色暖光集中在狭窄地平线带上，之上是大得多的炭灰梅紫天空。深蓝灰前景体块大多保持剪影，水面则承载隐藏低光的断续水平倒影。云层内部柔和层叠，亮缘参差；远地和小形体融入雾气。构图以一处纤细竖向点缀平衡宽阔横向分层。光源被遮住，形成辉光而非正面照明。克制摄影质感、暖冷面积比例和浓重周围阴影使画面安静而充满等待感。",
+  "theme_en": "A lighthouse on a dark headland beside rose-lit water at first light",
+  "theme_zh": "初光中灯塔立于深暗海岬，水面映着玫瑰色天空",
+  "wh_ratio": "1:1",
+  "id": "0185",
+  "name": "Dawn",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/dawn",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/dawn.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "81f51fb61a1a5f88b3c46f72e50f54a5c92708a4483fa3b87fa7a6beefffa5dc",
+    "gpt_submission_prompt": "A square atmospheric coastal image shows a lighthouse on a low headland at the right of a wide, still bay. The horizon lies near the middle, leaving a large sky filled with dark charcoal and plum cloud. A ragged opening just above the horizon glows in bands of coral pink, copper, and muted orange, while smaller rose-colored gaps appear high among the heavy clouds. The lighthouse is a narrow dark silhouette with a slightly wider top, standing apart from clumps of shrubs and trees on the headland. The shoreline bends from the lower right foreground toward its base, with reeds and rough rocks nearly black against the water. Across the left and center, the bay reflects the warm sky in broken rose-gold streaks, interrupted by cool slate ripples. Faint distant land rests low on the far left horizon. Tiny dark specks in the upper sky suggest distant birds, but remain secondary to the cloud mass. The image has a photographic or highly rendered naturalistic finish, with soft atmospheric gradations in the distance and more textured water and shoreline nearby. The low warm source is hidden behind cloud and land; it lights cloud undersides and a path on the water rather than the foreground vegetation. Deep cool shadow encloses the luminous middle band. The simple vertical lighthouse, horizontal reflection, and broad dark sky make the quiet coast feel expectant and slightly austere.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "ea17e51ed9658923c79f7c392d1a10f7f879e9443b380968cb6db03f10c8eb42",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

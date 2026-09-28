@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square doodle illustration centers a dense, roughly circular cluster of white cartoon marks on a flat charcoal-gray background. The cluster does not have a smooth outer edge. Little spikes, hands, dots, and looping tails project into the empty gray space, making the white mass feel lively and hand assembled. Within the circle are numerous simplified faces and creatures: round eyes with dark pupils, grinning mouths, small noses, a toothed face near the lower center, and curving forms that could be arms, fish, worms, or abstract letters. Near the top, a white hand with splayed fingers rises above an eye. On the left, large ring shapes and a crescent connect several smaller faces. Toward the right, a long curling shape loops downward around a pair of small round eyes. At the bottom, sawtooth triangles and scattered white dots loosen the edge. The drawing uses bold white filled areas with thin black or dark-gray interior cuts, creating a screenprinted or chalky ink look. Tiny grain and speckling break the apparent flatness of the white, while the background stays matte and even. There is no perspective, light source, or cast shadow; contrast itself gives every symbol equal clarity. The composition keeps generous gray margins around the central burst, so the crowd of playful marks reads as one emblem before individual faces become visible. The overall mood is quick, mischievous, and tactile, with variation in scale and line weight preventing the many small doodles from becoming a rigid pattern.",
+  "full_prompt_zh": "一幅方形涂鸦插画把密集、近圆形的白色卡通笔痕群置于平坦炭灰底中央。群体外缘并不平滑，小尖刺、手、圆点和盘绕尾巴伸入空灰处，使白色团块显得活泼、像随手拼成。圆内有许多简化面孔和生物：带深色瞳孔的圆眼、咧开的嘴、小鼻子、靠下中央的齿状脸，以及可能是胳膊、鱼、虫或抽象字母的弯曲形。靠近顶部，一只张开手指的白手伸到一只眼上方。左边大环形与新月形把几个小脸连在一起。右侧，一条长卷形绕过一对小圆眼向下弯。底部锯齿三角和散落白点使边缘松开。绘画使用大胆白色填块，并以细黑或深灰内部切口分割，呈丝印或粉笔墨迹般效果。微小颗粒与斑点打破白色的表面平坦，背景保持哑光均匀。这里没有透视、光源或投影；反差本身给予每个符号同等清晰度。中央爆发形周围留宽阔灰边，使俏皮笔痕群先被读作一个徽记，再逐渐看清各个小脸。整体情绪快速、淘气、可触，不同尺度和线宽使繁多涂鸦不至于变为僵硬图案。",
+  "style_prompt_en": "Use spontaneous doodle graphics with irregular thick and thin contours, filled shapes, tiny interior cuts, and freely connected miniature symbols. Build a dense central cluster that reads as one silhouette from afar, then resolves into many playful parts up close. Limit color to chalky white, charcoal, and small dark cutouts, with slight print grain or speckling. Keep the ground flat, margins generous, and depth entirely graphic rather than shaded. Vary scale and rhythm so repetition feels improvised and buoyant.",
+  "style_prompt_zh": "采用自发涂鸦图形，以不规则粗细轮廓、填色形、微小内部切口和自由连接的小符号成形。建立密集中央群，远看是一道完整剪影，近看才分解为许多俏皮部分。颜色限于粉笔白、炭灰和少量深色挖空，并保留轻微印刷颗粒或斑点。底色平坦、边距宽阔，纵深完全依靠图形而非明暗塑形。变化尺度与节奏，让重复显得即兴而轻快。",
+  "theme_en": "A white circular cluster of playful faces and shapes on dark gray",
+  "theme_zh": "深灰底上的白色圆形俏皮脸谱与形状群",
+  "wh_ratio": "1:1",
+  "id": "0420",
+  "name": "Doodle",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/doodle",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/doodle.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "8311f6f4857aea9588c84de8be51b6ac8656af444a925af2d7c5626efbdb3aa9",
+    "gpt_submission_prompt": "A square doodle illustration centers a dense, roughly circular cluster of white cartoon marks on a flat charcoal-gray background. The cluster does not have a smooth outer edge. Little spikes, hands, dots, and looping tails project into the empty gray space, making the white mass feel lively and hand assembled. Within the circle are numerous simplified faces and creatures: round eyes with dark pupils, grinning mouths, small noses, a toothed face near the lower center, and curving forms that could be arms, fish, worms, or abstract letters. Near the top, a white hand with splayed fingers rises above an eye. On the left, large ring shapes and a crescent connect several smaller faces. Toward the right, a long curling shape loops downward around a pair of small round eyes. At the bottom, sawtooth triangles and scattered white dots loosen the edge. The drawing uses bold white filled areas with thin black or dark-gray interior cuts, creating a screenprinted or chalky ink look. Tiny grain and speckling break the apparent flatness of the white, while the background stays matte and even. There is no perspective, light source, or cast shadow; contrast itself gives every symbol equal clarity. The composition keeps generous gray margins around the central burst, so the crowd of playful marks reads as one emblem before individual faces become visible. The overall mood is quick, mischievous, and tactile, with variation in scale and line weight preventing the many small doodles from becoming a rigid pattern.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "d93a3035fbae6475ab21444deede06201db27d3dbf6d603d19a5f4d87074f4e6",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

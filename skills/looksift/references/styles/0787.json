@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "The illustration centers on a stout gentleman in a tall black top hat hurrying across a street. His green coat flies open behind him, one leg shoots forward in an exaggerated stride, and the other bends back amid a scatter of pale green ground marks. He clutches an object near his chest while his free arm swings with theatrical urgency. His face has a prominent nose, moustache, and sharply observed comic expression. Two smaller men in hats follow in the right background, one partly obscured behind the main figure. At left, a harbor mast and a few faint structures rise behind the scene; on the right, an old civic building is suggested with quick vertical lines and a tower. The setting is indicated rather than fully rendered, keeping attention on the figure's bodily comedy. Fine black pen outlines define clothing folds, facial features, boots, and hat brims. Short hatching builds shadow within the coat and trouser legs. Transparent washes of green, tan, ochre, and muted brown add color without hiding the drawing beneath. The cream paper remains visible across much of the square, especially at the upper edges. Light is conveyed by blank paper and restrained wash rather than a modeled natural source. The whole composition has the lively, lightly satirical air of a nineteenth-century illustrated print: a moment of movement captured through elastic pose, caricatured detail, and economical background sketching.",
+  "full_prompt_zh": "插画以一位戴高黑礼帽、匆忙穿街的胖绅士为中心。绿色外套在身后敞开，一条腿以夸张的大步向前伸出，另一条向后弯折，脚下散着淡绿地面笔痕。他将一件物品抱在胸前，空出的手臂随急促动作摆动。面部有醒目的鼻子、胡须和观察入微的喜剧表情。右后方跟着两位更小的戴帽男子，其中一位被主体部分遮住。左侧有港口桅杆和几处浅淡结构，右侧以迅速的竖线及塔尖暗示旧市政建筑。环境只作提示而不充分渲染，因此注意力留在人物身体动作的喜剧性上。细黑钢笔轮廓勾出衣褶、五官、靴子和帽檐，短促排线加强外套与裤腿阴影。透明的绿、棕、赭和灰褐色水彩轻铺其上，没有掩盖底下线稿。奶油色纸面在方形画幅大部仍可见，尤其上缘。亮度主要来自留白和克制淡彩，而非写实光源。整体具有十九世纪插图轻快的讽刺气息：弹性的姿态、夸张细节和简练的背景速写共同抓住移动的一瞬。",
+  "style_prompt_en": "Lively nineteenth-century pen illustration combines fine black contours, quick crosshatching, expressive exaggeration, and economical contextual marks. Transparent hand-colored washes in muted green, tan, ochre, and brown preserve a visible cream paper ground. Elastic diagonals, fluttering edges, and scattered strokes suggest motion without blur. Secondary details remain lightly sketched, and blank paper functions as illumination.",
+  "style_prompt_zh": "活泼的十九世纪钢笔插画结合细黑轮廓、迅速交叉排线、富于表现力的夸张变形和简练的辅助笔痕。柔绿、棕色、赭黄及褐色的透明手工淡彩保留可见的奶油色纸底。有弹性的斜线、飞起的边缘和散点笔触在没有模糊的情况下暗示运动。次要细节轻描，留白承担照明作用。",
+  "theme_en": "Top-hatted gentleman rushing through a street",
+  "theme_zh": "高礼帽绅士匆匆穿街",
+  "wh_ratio": "1:1",
+  "id": "0787",
+  "name": "John Leech",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/john-leech",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/john-leech.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "9044051cd7510f044b898b0cf08e875152e18f1a0495c5ee062c871088a48b1d",
+    "gpt_submission_prompt": "The illustration centers on a stout gentleman in a tall black top hat hurrying across a street. His green coat flies open behind him, one leg shoots forward in an exaggerated stride, and the other bends back amid a scatter of pale green ground marks. He clutches an object near his chest while his free arm swings with theatrical urgency. His face has a prominent nose, moustache, and sharply observed comic expression. Two smaller men in hats follow in the right background, one partly obscured behind the main figure. At left, a harbor mast and a few faint structures rise behind the scene; on the right, an old civic building is suggested with quick vertical lines and a tower. The setting is indicated rather than fully rendered, keeping attention on the figure's bodily comedy. Fine black pen outlines define clothing folds, facial features, boots, and hat brims. Short hatching builds shadow within the coat and trouser legs. Transparent washes of green, tan, ochre, and muted brown add color without hiding the drawing beneath. The cream paper remains visible across much of the square, especially at the upper edges. Light is conveyed by blank paper and restrained wash rather than a modeled natural source. The whole composition has the lively, lightly satirical air of a nineteenth-century illustrated print: a moment of movement captured through elastic pose, caricatured detail, and economical background sketching.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "bd0a64f4c3601d59a416d694510932e1d6f0012097d9a66e80bb77363065d0d0",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

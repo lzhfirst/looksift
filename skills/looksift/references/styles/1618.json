@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square gothic ink illustration shows a cloaked figure standing among dense pale flowers against an almost black ground. In place of a visible face, a weathered ram skull tilts forward, its long muzzle descending through the center and its broad horns curling to either side. One hand rises along the left edge, holding a thin stem or twig. Beneath the skull, a dark high collar carries tight ornamental pattern, while a heavy draped garment falls in vertical folds across the lower half. Small light blossoms and pointed leaves crowd the upper corners and both sides, their stems winding into the dark spaces around the horns. The skull is the brightest shape, rendered in warm off-white with gray fissures, empty eye sockets, and fine bone texture. Everything else is built from charcoal and black ink with delicate crosshatching, wiry contours, and numerous small repeated marks. The floral details vary in density, letting patches of near-black remain visible between them. There is no visible room or horizon; the surrounding growth creates its own enclosed setting. Illumination appears soft and frontal, catching the raised bone and selected petals while the garment recedes into layered shadow. The composition is nearly symmetrical around the skull, yet the lifted hand and irregular branches prevent a rigid emblem. Dense edge detail pushes attention toward the pale central silhouette. The overall image feels solemn and uncanny, combining intricate natural ornament with rough bone texture and a severe monochrome palette.",
+  "full_prompt_zh": "一幅方形哥特墨画插画描绘一名披斗篷的人站在密集的浅色花丛中，背后几乎全黑。可见的脸被一具风化的公羊头骨取代；长长的口鼻向中央下垂，宽大的角向两侧卷曲。一只手沿左边缘抬起，握着一根细茎或小枝。头骨下方，深色高领带紧密装饰纹样，厚重垂布衣服以竖向褶线落入下半部。小朵浅色花与尖叶挤满上方角落和两侧，枝茎在角周围的暗处盘绕。头骨是最亮的形状，以暖米白色表现，带灰色裂纹、空眼窝和细密骨质肌理。其余部分由炭灰和黑墨的细致交叉排线、纤细轮廓及大量重复小标记构成。花卉细节疏密变化，让近黑区域从其间露出。画面没有可见房间或地平线，环绕的生长形态自身构成封闭环境。光似乎柔和地从前方照来，照亮凸起的骨头与局部花瓣，而衣服退入层叠阴影。构图围绕头骨近乎对称，但抬起的手和不规则枝条打破僵硬徽章感。边缘密集细节把注意力推向浅色中央剪影。整体肃穆而诡异，把细密的自然装饰、粗糙骨质肌理与严峻的近单色配色结合。",
+  "style_prompt_en": "A near-monochrome gothic ink language built from fine crosshatching, wiry contour, dense ornamental detail, and pale reserved highlights. Warm off-white and gray fissured textures stand out against charcoal drapery and near-black negative space. Small repeated organic marks crowd the edges, but irregular dark gaps prevent uniform density. Soft frontal light isolates a central pale form while layered linework sinks the surrounding masses into shadow. The close, almost symmetrical composition feels solemn, tactile, and uncanny.",
+  "style_prompt_zh": "近单色的哥特墨画语言由细密交叉排线、纤细缠绕的轮廓、浓密装饰细节和保留的浅色亮部构成。暖米白与带灰裂纹的肌理从炭灰垂布状暗块和近黑负空间中突出。重复的小型有机痕迹挤在边缘，不规则暗隙避免密度完全均匀。柔和正面光孤立浅色中心形态，层叠线条让外围块面沉入阴影。近乎对称的近距离构图显得肃穆、可触且诡异。",
+  "theme_en": "A cloaked figure wearing a ram skull among dense pale flowers",
+  "theme_zh": "一名身披斗篷、头戴公羊头骨的人置身密集浅色花丛",
+  "wh_ratio": "1:1",
+  "id": "1618",
+  "name": "Iren Horrors",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/iren-horrors",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/iren-horrors.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "5c00208de64fc3b5e1ddd4545d35195dca23d0b5f06c1020a175272d8bb20fdd",
+    "gpt_submission_prompt": "A square gothic ink illustration shows a cloaked figure standing among dense pale flowers against an almost black ground. In place of a visible face, a weathered ram skull tilts forward, its long muzzle descending through the center and its broad horns curling to either side. One hand rises along the left edge, holding a thin stem or twig. Beneath the skull, a dark high collar carries tight ornamental pattern, while a heavy draped garment falls in vertical folds across the lower half. Small light blossoms and pointed leaves crowd the upper corners and both sides, their stems winding into the dark spaces around the horns. The skull is the brightest shape, rendered in warm off-white with gray fissures, empty eye sockets, and fine bone texture. Everything else is built from charcoal and black ink with delicate crosshatching, wiry contours, and numerous small repeated marks. The floral details vary in density, letting patches of near-black remain visible between them. There is no visible room or horizon; the surrounding growth creates its own enclosed setting. Illumination appears soft and frontal, catching the raised bone and selected petals while the garment recedes into layered shadow. The composition is nearly symmetrical around the skull, yet the lifted hand and irregular branches prevent a rigid emblem. Dense edge detail pushes attention toward the pale central silhouette. The overall image feels solemn and uncanny, combining intricate natural ornament with rough bone texture and a severe monochrome palette.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "708c241f54e747e5102b704fc37bda2fc1ffddef48e51aa632983be37cf5f68b",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

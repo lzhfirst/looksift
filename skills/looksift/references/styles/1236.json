@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "The image depicts a bald man from the shoulders up, his head turned toward the left in a strong three-quarter profile. Dark glasses sit across his eyes, with the nearest lens and temple rendered in bold black curves. His mouth is closed and his expression appears firm and contemplative. The head occupies almost the entire square, leaving only a plain pale ground around the silhouette. At the center of the face, heavy block letters are printed over the cheek and eye area. Their exact message is secondary to their physical presence: vertical bars, sharp corners, and thick counters interrupt the organic facial planes. The rest of the portrait is constructed from dense black-and-white stippling, like a coarse halftone print or photocopied newspaper image. Tiny dots and rough flecks describe the scalp, ear, jaw, neck, and dark shirt, becoming more concentrated in the shadows. The glasses and typography provide cleaner, heavier shapes against this granular field. Illumination is even and flat, with no naturalistic background or atmospheric perspective; contrast comes from ink density and the transition between pale paper and deep black marks. The leftward turn creates a diagonal movement through an otherwise frontal graphic square. Despite the overlay, the likeness remains immediately readable. The frame feels like a collision between a photographic record and a printed declaration, with language and image sharing the same surface instead of sitting in separate caption and picture zones.",
+  "full_prompt_zh": "画面为一位秃顶男子从肩部以上的肖像，头部向左转成鲜明的四分之三侧角。深色眼镜横过双眼，近处镜片和镜腿由厚重黑色曲线表现。嘴唇闭合，神情坚决而若有所思。头部几乎占满方形画幅，剪影周围仅余浅色素净底面。面部中央的粗黑块状字母压过脸颊与眼部。字句的具体内容次于它的物理存在：竖画、尖角和厚重字腔打断有机的面部平面。肖像其余部分由密集黑白点纹构成，像粗颗粒半色调印刷或复印报纸图像。细点与粗糙墨屑描绘头皮、耳朵、下颌、颈部和深色上衣，阴影处更密集。眼镜和字体则在颗粒区域上形成更干净、更厚重的形状。光线均匀而平面化，没有写实背景或空气透视；对比主要来自墨量，以及浅纸面与浓黑记号之间的转换。左转的头部让基本正面的图形方框产生斜向动势。即使有字母覆盖，人物面貌仍立刻可辨。整幅像摄影记录与印刷宣言相撞，语言和图像共享同一表面，而非分占说明文字与图片区域。",
+  "style_prompt_en": "Use high-contrast monochrome printmaking with coarse halftone dots, photocopy grain, and uneven ink density. Overlay large, hard-edged typographic forms directly across the main image plane, allowing letters to mask and reveal underlying contours. Keep the background pale and spare, while dark glasses-like curves or similarly bold graphic accents punctuate the granular field. Favor flat even illumination, a tight square crop, and a collision of legible form with assertive printed language.",
+  "style_prompt_zh": "采用高对比黑白印刷质感，以粗半色调网点、复印颗粒和不均匀墨量塑造形体。将大幅硬边字体直接压在主要图像平面上，使字母遮挡并显露底层轮廓。背景保持浅淡简洁，以弧形或其他厚重图形重音打断颗粒区域。使用均匀平光、紧密方形取景，让可读形态与鲜明印刷语言在同一表面碰撞。",
+  "theme_en": "Typographic black-and-white profile",
+  "theme_zh": "字体拼贴的黑白侧面肖像",
+  "wh_ratio": "1:1",
+  "id": "1236",
+  "name": "Glenn Ligon",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/glenn-ligon",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/glenn-ligon.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "b27a7f1b51db7fc61e882542db4ea0f83dda3fc9f9f275d775021823b98f12f6",
+    "gpt_submission_prompt": "The image depicts a bald man from the shoulders up, his head turned toward the left in a strong three-quarter profile. Dark glasses sit across his eyes, with the nearest lens and temple rendered in bold black curves. His mouth is closed and his expression appears firm and contemplative. The head occupies almost the entire square, leaving only a plain pale ground around the silhouette. At the center of the face, heavy block letters are printed over the cheek and eye area. Their exact message is secondary to their physical presence: vertical bars, sharp corners, and thick counters interrupt the organic facial planes. The rest of the portrait is constructed from dense black-and-white stippling, like a coarse halftone print or photocopied newspaper image. Tiny dots and rough flecks describe the scalp, ear, jaw, neck, and dark shirt, becoming more concentrated in the shadows. The glasses and typography provide cleaner, heavier shapes against this granular field. Illumination is even and flat, with no naturalistic background or atmospheric perspective; contrast comes from ink density and the transition between pale paper and deep black marks. The leftward turn creates a diagonal movement through an otherwise frontal graphic square. Despite the overlay, the likeness remains immediately readable. The frame feels like a collision between a photographic record and a printed declaration, with language and image sharing the same surface instead of sitting in separate caption and picture zones.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "c604d6f1521f61d6f5394d761ca3d9f57c4de9ac2ee7be26f70d5f76801a3f1c",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

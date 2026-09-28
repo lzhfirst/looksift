@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square decorative illustration shows a large black bird standing among brightly colored flowers beneath a pale golden moon. The ground is a deep, muted blue-green that makes the bird's nearly black body and the warm floral colors appear luminous. The bird occupies the center-left, its long beak pointing left and one small bright eye catching the viewer's attention. Its wings are layered with scalloped feathers in smoky gray, dusty teal and muted ochre, each section carrying fine stippled marks. A long dark tail slopes toward the lower right, overlapping a dense thicket of slender stems. Behind its head, the circular moon fills much of the upper center, partly softened by speckled texture. At the left edge, red-orange flowers rise on delicate straight stalks; more cream, blue and coral blooms are scattered around the bird at varying heights. The lower half is crowded with patterned leaves, seed heads, tiny dots and thin crossing stems, though pockets of dark ground remain between them. Shapes are flattened into clear silhouettes and patterned interiors rather than modeled as realistic volumes. Their crisp but gently irregular edges resemble cut paper and fine hand drawing. Light is diffuse and ornamental, with the moon providing a soft pale focus while color contrast creates the stronger sense of glow. The overall composition is richly layered yet balanced, combining a still central silhouette with an intricate, quietly magical field of pattern.",
+  "full_prompt_zh": "一幅方形装饰插画描绘一只大黑鸟立在鲜艳花丛中，头顶是浅金色月轮。深而低饱和的蓝绿底色让鸟近黑的身体和暖色花朵显得明亮。鸟占据中央偏左，长喙向左，一只小亮眼吸引视线。翅膀由烟灰、灰青和低饱和赭色的扇贝状羽片叠成，每片都有精细点状纹。长而深的尾巴斜向右下，压在密集的细茎之上。鸟头后方的圆月占了上方中央很大面积，点状肌理让边缘略为柔和。左缘红橙花朵沿纤细直茎升起；更多奶油、蓝与珊瑚色花散在鸟身周围的不同高度。下半部挤满带纹样的叶、种穗、小点和交错细茎，其间仍留有深底的空隙。形体压平成清楚的剪影与内部图案，而非写实体积。清晰却略不规则的边缘像剪纸和细致手绘。光线漫射且带装饰感，月轮提供柔淡焦点，而色彩对比产生更强的发光感。整体构图层层繁密却保持平衡，以静止的中央剪影结合精巧而略带魔幻的图案场。",
+  "style_prompt_en": "This decorative illustration uses flattened silhouettes, gently irregular cutout edges and densely patterned interiors. A deep blue-green or charcoal ground supports small islands of warm coral, ochre and cream, with cool pale blue accents keeping the palette buoyant. Fine stippling, short lines and repeated miniature marks animate broad color shapes without turning them into realistic shading. Layered forms overlap in a compact vertical rhythm, while dark pockets between them keep the density readable. Illumination feels softly diffused and symbolic rather than cast from a hard source; light areas glow by contrast with the dark field. A large calm shape anchors many delicate surrounding marks. The result is intricate, folkloric and quietly radiant.",
+  "style_prompt_zh": "这种装饰插画使用压平剪影、略不规则的剪裁边缘和密集图案内部。深蓝绿或炭色底承托暖珊瑚、赭色与奶油色的小片区域，冷淡蓝重音让配色保持轻盈。细点、短线和重复的微型笔痕激活宽色块，却不把它们变成写实明暗。层叠形体按紧凑竖向节奏交错，之间的深色空隙让密度仍清楚可读。照明感觉柔和漫射且带象征性，并非来自坚硬光源；浅色通过深底对比而发亮。一个大的安静形体稳住周围许多精细痕迹。效果繁复、带民间叙事气息且安静发光。",
+  "theme_en": "A black bird among bright ornamental flowers beneath a golden moon",
+  "theme_zh": "金色月轮下立于鲜艳装饰花丛中的黑鸟",
+  "wh_ratio": "1:1",
+  "id": "3777",
+  "name": "Tracie Grimwood",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/tracie-grimwood",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "d8f24d7b65cda6cde3e8133a134de6f9946d39fd4ad182887ffc31eba05dfbef",
+    "gpt_submission_prompt": "A square decorative illustration shows a large black bird standing among brightly colored flowers beneath a pale golden moon. The ground is a deep, muted blue-green that makes the bird's nearly black body and the warm floral colors appear luminous. The bird occupies the center-left, its long beak pointing left and one small bright eye catching the viewer's attention. Its wings are layered with scalloped feathers in smoky gray, dusty teal and muted ochre, each section carrying fine stippled marks. A long dark tail slopes toward the lower right, overlapping a dense thicket of slender stems. Behind its head, the circular moon fills much of the upper center, partly softened by speckled texture. At the left edge, red-orange flowers rise on delicate straight stalks; more cream, blue and coral blooms are scattered around the bird at varying heights. The lower half is crowded with patterned leaves, seed heads, tiny dots and thin crossing stems, though pockets of dark ground remain between them. Shapes are flattened into clear silhouettes and patterned interiors rather than modeled as realistic volumes. Their crisp but gently irregular edges resemble cut paper and fine hand drawing. Light is diffuse and ornamental, with the moon providing a soft pale focus while color contrast creates the stronger sense of glow. The overall composition is richly layered yet balanced, combining a still central silhouette with an intricate, quietly magical field of pattern.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "d9acc1881a8d8091d4d93d66037114f0088b266d886a96cd92a7c543bee9a81f",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

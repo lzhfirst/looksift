@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square editorial interior photograph depicts a living room arranged around a centered stone fireplace. The built-in shelving and wall panels are an almost black charcoal, leaving the ceiling pale and the large mullioned window at the left bright with diffused daylight. A long ivory sofa stands along the left, two rounded off-white armchairs occupy the right, and a low rectangular light-wood coffee table sits between them. A textured cream rug holds the group together on dark timber flooring. A few striped rust-and-ochre cushions punctuate the seating; books and ceramics rest on the shelves, a leafy branch rises from a pale vessel beside the hearth, and restrained stacks of books occupy the table. Each object appears plausibly lived with yet deliberately placed, giving the room a restrained domestic character. The fireplace and framed pale artwork form the central vertical axis; the sofa and chairs create a welcoming horizontal arrangement. Daylight falls obliquely from the window, softening the fabric and revealing the natural grain of wood, mottling in stone and roughness of the rug. Deep shadow remains in the shelves, so the lighter upholstery has clear contrast without looking overexposed. The view is straight and slightly wide, at seated height. The result is warm, functional and composed, with high-end editorial clarity grounded in tactile materials.",
+  "full_prompt_zh": "正方形家居杂志摄影画面中，客厅围绕正中的石质壁炉布置。内嵌书架与墙板为近黑炭灰，天花板保持浅色，左侧大格窗引入漫射日光。左边是一张长款象牙白沙发，右边是两把圆润的米白扶手椅，中间是一张低矮的浅木长方形茶几。带纹理的奶油色地毯把家具组合拢在深木地板上。坐具间点缀几只锈红与赭色条纹抱枕，书架上放少量书和陶器，壁炉旁浅色花器插一束带叶枝条，茶几上有整齐的书册。每件物品都合理可用且摆放有序，形成克制的生活气息。壁炉和其上方浅色框画构成中央竖轴；沙发与椅子形成欢迎入座的水平关系。窗光斜斜落下，柔化布料，同时显露木纹、石材斑驳和地毯的粗糙感。书架保留深影，使浅色坐具形成清晰对比而不曝光过度。相机从坐姿高度、较正的略广角室内视点拍摄。最终效果温暖、实用且有秩序，具备高端编辑摄影的清晰度，同时扎根于真实可触摸的材料。",
+  "style_prompt_en": "Editorial photography has a balanced square layout, a central vertical axis and a calm horizontal grouping of forms. Very dark matte planes contrast with ivory-colored soft surfaces, pale coarse textures, natural grain and mottling, with small rust-ochre accents. Broad lateral daylight produces soft shadow transitions and deep but readable recesses. Carefully spaced forms and a calm, slightly wide perspective reveal material detail. Tactile realism and warm, restrained elegance give the image its character.",
+  "style_prompt_zh": "编辑摄影具有平衡的正方形布局、中央竖轴与安静的水平形体组合。极深的哑光平面与象牙色柔软表面、浅色粗粝肌理、天然纹路和斑驳纹理对照，少量锈红赭色形成重音。宽广侧向日光带来柔和阴影过渡与深而可读的凹处。形体间距有序，平静而略广的视角显露材料细节。可触摸的真实感与温暖、克制的优雅构成整体气质。",
+  "theme_en": "A calm dark-paneled living room with soft cream seating",
+  "theme_zh": "深色护墙板与奶油色坐具组成的宁静客厅",
+  "wh_ratio": "1:1",
+  "id": "1134",
+  "name": "Nate Berkus",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/nate-berkus",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/nate-berkus.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "eba2fc067246bc746444ddae5ef7f353303ebcfddc468c5c975afe398b5f3d35",
+    "gpt_submission_prompt": "A square editorial interior photograph depicts a living room arranged around a centered stone fireplace. The built-in shelving and wall panels are an almost black charcoal, leaving the ceiling pale and the large mullioned window at the left bright with diffused daylight. A long ivory sofa stands along the left, two rounded off-white armchairs occupy the right, and a low rectangular light-wood coffee table sits between them. A textured cream rug holds the group together on dark timber flooring. A few striped rust-and-ochre cushions punctuate the seating; books and ceramics rest on the shelves, a leafy branch rises from a pale vessel beside the hearth, and restrained stacks of books occupy the table. Each object appears plausibly lived with yet deliberately placed, giving the room a restrained domestic character. The fireplace and framed pale artwork form the central vertical axis; the sofa and chairs create a welcoming horizontal arrangement. Daylight falls obliquely from the window, softening the fabric and revealing the natural grain of wood, mottling in stone and roughness of the rug. Deep shadow remains in the shelves, so the lighter upholstery has clear contrast without looking overexposed. The view is straight and slightly wide, at seated height. The result is warm, functional and composed, with high-end editorial clarity grounded in tactile materials.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "2e530633045b97019010164cf17e4dad669b2eb1cddb0a06b6adc46d83f1f120",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

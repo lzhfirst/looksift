@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square anime illustration shows a brown haired girl seated among tall dry grasses and small violet wildflowers beneath a muted green sky. She is placed slightly left of center, turned toward the viewer with a quiet, thoughtful expression. Long chestnut hair falls over her shoulders, partly held by a white and red technical headband with a small upright side piece near her ear. Her clear green eyes are carefully drawn, and her face is softly shaded in pale warm tones. She wears a short sleeved mint green top with cream geometric panels and a red scarf or collar around the neck. In her lap rests a large rounded white helmet with a red lower rim, dark openings, and a circular green lenslike element on the side. One hand holds the helmet close while the other arm disappears behind grasses. Thin tan stalks cross in front of the figure at several heights, some carrying small purple flowers and delicate seed heads. The far background is simple and atmospheric, with only a few pale cloud flecks breaking the green gray sky. Gentle light from the upper left brightens her forehead, sleeves, and the helmet's rim, while soft olive shadow sits in the hair and among the grass. Crisp ink contours define the face and technology, but the field is painted with looser fine strokes. The composition feels calm and slightly wistful, combining intimate character detail with an open, breezy landscape.",
+  "full_prompt_zh": "一幅方形动画插画描绘一名棕发女孩坐在高高的枯草和小紫色野花间，上方是低饱和绿色天空。她位于中央稍左，转向观者，神情安静沉思。栗色长发落在肩上，一条白红技术感头带部分固定头发，耳边有小小直立侧件。清绿眼睛描绘细致，浅暖色柔化脸庞。她穿薄荷绿短袖上衣，带奶油色几何拼片，颈上是红围巾或衣领。膝上放着大型圆白头盔，带红色下缘、深开口和侧面的圆形绿镜片。一只手把头盔抱近，另一条手臂隐在草后。细浅褐草茎在人物前方不同高度交错，部分带小紫花和纤细种穗。远背景简洁而有空气感，仅几朵浅云点打断绿灰天空。从左上方来的温和光照亮额头、袖子和头盔边，柔软橄榄影停在头发与草间。清脆墨轮廓界定脸和技术部件，田野则用更松散细笔绘成。构图安静且略带惆怅，把亲密角色细节与开放清风般风景结合。",
+  "style_prompt_en": "Anime illustration pairs restrained cel shaded character design with a loose atmospheric natural field. Soft sage green, pale cream, warm tan, chestnut brown, and small muted red and violet accents create a gentle palette. Clear fine contours concentrate around a compact focal cluster, while slender crossing strokes and tiny scattered color points occupy the lower and side areas. A broad simple upper field leaves breathing room above the denser textures. Light is diffuse from high on one side, giving pale raised planes subtle highlights and keeping shadows shallow. Rounded engineered forms contrast with flexible organic lines without overwhelming the quiet composition. The finish feels calm, airy, and reflective, balancing graphic precision with delicate environmental texture.",
+  "style_prompt_zh": "动画插画把克制的赛璐璐阴影造型与松散空气感自然色域相配。柔鼠尾草绿、浅奶油白、暖浅褐、栗棕与少量低饱和红紫重音组成温和色域。清楚细轮廓聚在紧凑焦点群，下方与两侧由细长交错笔痕和零散小色点占据。宽阔简洁上方色域给较密肌理留下呼吸空间。光从上方一侧漫射而来，给浅色凸面微弱高光，并保持浅影。圆润工程化形体与灵活有机线条形成对比，却不压过安静构图。成品平静、通透且沉思，在图形精确与细腻环境肌理之间平衡。",
+  "theme_en": "Brown haired girl with a futuristic helmet seated in tall grass",
+  "theme_zh": "棕发女孩抱着未来感头盔坐在高草中",
+  "wh_ratio": "1:1",
+  "id": "3365",
+  "name": "Eureka Seven",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/eureka-seven",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "92f25597b71650aa1c069dbaab4955902bb36765353650b9bce625e8361c0044",
+    "gpt_submission_prompt": "A square anime illustration shows a brown haired girl seated among tall dry grasses and small violet wildflowers beneath a muted green sky. She is placed slightly left of center, turned toward the viewer with a quiet, thoughtful expression. Long chestnut hair falls over her shoulders, partly held by a white and red technical headband with a small upright side piece near her ear. Her clear green eyes are carefully drawn, and her face is softly shaded in pale warm tones. She wears a short sleeved mint green top with cream geometric panels and a red scarf or collar around the neck. In her lap rests a large rounded white helmet with a red lower rim, dark openings, and a circular green lenslike element on the side. One hand holds the helmet close while the other arm disappears behind grasses. Thin tan stalks cross in front of the figure at several heights, some carrying small purple flowers and delicate seed heads. The far background is simple and atmospheric, with only a few pale cloud flecks breaking the green gray sky. Gentle light from the upper left brightens her forehead, sleeves, and the helmet's rim, while soft olive shadow sits in the hair and among the grass. Crisp ink contours define the face and technology, but the field is painted with looser fine strokes. The composition feels calm and slightly wistful, combining intimate character detail with an open, breezy landscape.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "2a74f417f1a48d4cc810ce1e5096d65991c5cac3c848ee73590ecb36f974b85e",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

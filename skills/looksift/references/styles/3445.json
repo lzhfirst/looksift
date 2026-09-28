@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square comic-book painting shows a heavily armored elder sitting on broken stone steps inside a ruined structure. His broad body occupies the lower center, with massive boots planted apart and one hand resting near his knee. A long white beard spills across a yellow gold chest plate, while a red cape hangs behind his shoulders and pools down the steps. The helmet and armor are marked with circular emblems, rivets and strong segmented edges. At the left, walls and columns crumble into irregular bricks; at the right, a deep recess opens toward a dark sky. A round red moon glows above the ruin near the upper center. Small debris and tangled roots collect around the stairs. The color palette is concentrated in ochre, burnt orange, purple shadow and dusty red, bounded by heavy black ink lines. Light from the moon and a warmer unseen source catches the gold armor, beard and stone edges, leaving interior pockets nearly black. The figure's pose is quiet and tired despite the heroic equipment. Dense crosshatching and bold contour work describe worn metal, cloth and masonry, while broader painted color gives the scene atmosphere. The composition is weighty and frontal, with the seated form anchoring a dark ruined frame. It feels mythic and weathered, a pause after unseen conflict.",
+  "full_prompt_zh": "这幅方形漫画绘画呈现一位披重甲的老者坐在废墟结构中的断石阶上。宽阔身体占据下方中央，巨靴分开踏地，一只手靠近膝盖休息。长白胡铺过黄金额甲，红披风垂在肩后并沿阶梯堆下。头盔和铠甲带圆徽、铆钉与强烈分节边。左侧墙柱碎成不规则砖；右侧深凹口通向暗天空。圆红月在上方中央附近的废墟之上发亮。小碎石和缠绕根系聚在阶边。色盘集中在赭黄、焦橙、紫影与灰红，由厚黑墨线约束。月光和一处未见的更暖光照到金甲、胡须与石边，让内部空隙近乎黑色。尽管装备英武，人物姿势安静疲惫。密集交叉排线和大胆轮廓描述磨旧金属、布料与砌石，较宽绘画色块为场景提供空气。构图沉重而正面，坐姿形体固定深暗废墟框架。画面神话而经风化，像未见战斗后的停顿。",
+  "style_prompt_en": "The comic-book painting combines emphatic black contours, dense hatching and richly blocked color. Gold ochre, burnt orange, dusty red and purple shadow sit within heavy near-black recesses. Selective warm light strikes ridged surfaces while the surrounding structure stays dim. Thick segmented shapes create a stable center, with rough masonry-like marks adding weathered texture at the edges. The overall rhythm is heroic, weighty and somber.",
+  "style_prompt_zh": "这种漫画绘画把有力黑轮廓、密集排线和厚实色块结合。金赭、焦橙、灰红与紫影置于沉重近黑凹处。选择性的暖光照到凸脊表面，周围结构保持昏暗。厚实分节形体建立稳定中心，边缘粗砌石般笔记添磨旧纹理。整体节奏英武、沉重而忧郁。",
+  "theme_en": "An armored elder seated on broken stone steps beneath a red moon",
+  "theme_zh": "红月下坐在残破石阶上的铠甲老者",
+  "wh_ratio": "1:1",
+  "id": "3445",
+  "name": "Walter Simonson",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/walter-simonson",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "cddd1f50a5bbca05a79911cfb16c6da4d6770acb3ff672997e9729663202f311",
+    "gpt_submission_prompt": "A square comic-book painting shows a heavily armored elder sitting on broken stone steps inside a ruined structure. His broad body occupies the lower center, with massive boots planted apart and one hand resting near his knee. A long white beard spills across a yellow gold chest plate, while a red cape hangs behind his shoulders and pools down the steps. The helmet and armor are marked with circular emblems, rivets and strong segmented edges. At the left, walls and columns crumble into irregular bricks; at the right, a deep recess opens toward a dark sky. A round red moon glows above the ruin near the upper center. Small debris and tangled roots collect around the stairs. The color palette is concentrated in ochre, burnt orange, purple shadow and dusty red, bounded by heavy black ink lines. Light from the moon and a warmer unseen source catches the gold armor, beard and stone edges, leaving interior pockets nearly black. The figure's pose is quiet and tired despite the heroic equipment. Dense crosshatching and bold contour work describe worn metal, cloth and masonry, while broader painted color gives the scene atmosphere. The composition is weighty and frontal, with the seated form anchoring a dark ruined frame. It feels mythic and weathered, a pause after unseen conflict.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "9a044019433b30984a9462fe12454260c6562bee2a9eb8cbd998a27e4883cbbc",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

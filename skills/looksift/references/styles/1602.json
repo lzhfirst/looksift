@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "The image presents a quiet alpine valley at the edge of evening. A broad still lake occupies the right and lower half of the frame, its muted slate surface catching broken reflections of apricot and pale rose clouds. On the near left shore, dark rocks and low grasses lead the eye toward a compact waterfall that drops from a wooded ledge into a small inlet. Tall conifers stand in layered silhouettes behind it, their fine branches nearly black against the illuminated mountains. Beyond the lake, forested slopes fold inward toward a distant gap filled with cool mist. A massive pale rock face rises in the center background, touched by the last warm light, while a deeper blue-gray wall closes the valley on the right. The sky is open and softly clouded, with warm color concentrated near the horizon and on the mountain crest. The scene has an expansive photographic sense of distance, carefully separated planes, and natural fine detail in water, trees, and stone. Restrained color contrast softens the palette: charcoal greens and cool gray blues below, gentle peach and gold above. The crisp waterfall anchors the foreground while the far peaks become increasingly soft in atmospheric haze. The overall impression is still, spacious, and luminous.",
+  "full_prompt_zh": "画面呈现傍晚时分宁静的高山峡谷。宽阔而平静的湖泊占据右侧及下半部，暗灰蓝的水面映出杏色与淡玫瑰色云层的断续倒影。近处左岸的深色岩石和低草把视线引向一道短瀑布，它从林木覆盖的岩坎落入小湾。后方高大的针叶树层层形成剪影，细枝在受光山体前近乎黑色。越过湖面，覆林的山坡向内折入远方，被冷色薄雾填满的谷口出现。一面巨大的浅色岩壁在背景中央升起，承接最后的暖光；右侧更深的蓝灰色山壁封住峡谷。天空开阔，云层柔和，暖色集中在地平线附近与山峰顶端。画面具有开阔的摄影式距离感，空间层次分明，水、树、石的自然细节清晰。色彩对比克制而柔和：下方为炭黑绿与冷灰蓝，上方是柔和的桃色和金色。清晰的瀑布锚定前景，远峰则在空气薄雾中逐渐柔化。整体印象安静、辽阔而明亮。",
+  "style_prompt_en": "An expansive, finely observed photographic treatment has natural texture and a strong sense of atmospheric depth. Clear foreground, middle distance, and far distance lead the eye through overlapping planes. Dark cool tones hold detailed forms while a limited wash of warm light grazes selected surfaces and appears in subtle reflections. Highlights are soft, shadows rich but readable, and distant edges progressively quieter. The mood is contemplative and luminous, built from measured contrast, believable light, and patient attention to small surface details.",
+  "style_prompt_zh": "开阔、观察细致的摄影表现具有自然纹理和强烈的空气纵深。清楚的前景、中景与远景引导视线穿过重叠的空间层。深冷色承载细节丰富的形体，少量暖光掠过选定表面，并在倒影中隐约出现。高光柔和，阴影深而可读，远处边缘逐步安静。气氛沉思而明亮，由克制的对比、可信的光线以及对微小表面细节的耐心观察构成。",
+  "theme_en": "A mountain lake and short waterfall under a peach-colored evening sky",
+  "theme_zh": "桃色暮空下的山间湖泊与短瀑布",
+  "wh_ratio": "1:1",
+  "id": "1602",
+  "name": "Ted Gore",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/ted-gore",
+    "image": "https://static.midlibrary.io/midjourney-styles/v61/ted-gore.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "c61a313edc524c1b68ac96bab98a936a4fe69ad2b866ae784506cb01f8868dcb",
+    "gpt_submission_prompt": "The image presents a quiet alpine valley at the edge of evening. A broad still lake occupies the right and lower half of the frame, its muted slate surface catching broken reflections of apricot and pale rose clouds. On the near left shore, dark rocks and low grasses lead the eye toward a compact waterfall that drops from a wooded ledge into a small inlet. Tall conifers stand in layered silhouettes behind it, their fine branches nearly black against the illuminated mountains. Beyond the lake, forested slopes fold inward toward a distant gap filled with cool mist. A massive pale rock face rises in the center background, touched by the last warm light, while a deeper blue-gray wall closes the valley on the right. The sky is open and softly clouded, with warm color concentrated near the horizon and on the mountain crest. The scene has an expansive photographic sense of distance, carefully separated planes, and natural fine detail in water, trees, and stone. Restrained color contrast softens the palette: charcoal greens and cool gray blues below, gentle peach and gold above. The crisp waterfall anchors the foreground while the far peaks become increasingly soft in atmospheric haze. The overall impression is still, spacious, and luminous.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "8b67dd0b9e7563770737d5751cf652a60eb4284777de899e9fda96d2d348bdf6",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

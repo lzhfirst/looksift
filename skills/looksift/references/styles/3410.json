@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "The finished square is a richly painted fantasy landscape seen from slightly below a small adventurer. The figure stands near the lower center, back to the viewer, in a short teal tunic and brown boots. A red shield with pale geometric markings rests on one arm, while a sword hangs diagonally from the other hand. Two heavily carved stone pillars rise at the left and right edges, framing a vast circular disc overhead. The disc carries concentric rings and a face-like pattern etched into weathered blue-green stone, its lower edge hovering above banks of white cloud. Beyond the figure, steep blue mountains recede into hazy distance, and low trees cluster around the valley floor. Thick green grass and small red flowers fill the foreground, catching warm sunlight along their tips. The architecture is monumental but softened by moss, chipped texture and surrounding vegetation. The composition moves upward from the tiny human figure through the open valley to the enormous patterned circle, stressing wonder and scale. Light breaks through the clouds from the middle distance, illuminating the grass and the edges of the stone, while the carved recesses remain dark. Painted surface detail is abundant: short strokes articulate grasses and leaves, rough stippling describes ancient masonry, and soft layered color builds cloud volume. The palette centers on teal stone, emerald green, sky blue and warm yellow-white light, with the shield providing a compact red accent. The image feels adventurous, expansive and quietly mysterious.",
+  "full_prompt_zh": "成品正方形是一幅丰富的幻想风景绘画，视点略低于一名小小冒险者。人物站在下方中央附近，背对观众，穿青绿短衣和棕靴。一只手臂旁有带浅色几何纹的红盾，另一手斜持长剑。左右边缘升起两根雕刻繁复的石柱，框住头顶巨大的圆形石盘。石盘刻着同心圆和面孔般的纹样，风化蓝绿石面的下缘悬在层层白云之上。人物前方，陡峭蓝山渐退入雾中，低树聚集在谷底。浓绿草地和细小红花填满前景，草尖接住温暖日光。建筑规模宏大，却被苔藓、破损质感与植被柔化。构图从微小人影向上经过开阔山谷，到达巨大纹样圆盘，强调惊奇与尺度。光从中景云层间透出，照亮草地和石块边缘，雕刻凹处仍然深暗。绘画表面细节丰沛：短笔画出草叶与树叶，粗颗粒表现古老石材，柔和叠色构成云的体积。配色围绕青绿石色、翠绿、天蓝与暖黄白亮光，盾牌提供紧凑红色点缀。画面具有冒险的辽阔感和安静的神秘感。",
+  "style_prompt_en": "Rich fantasy painting combines monumental geometry, weathered carved texture, dense short organic strokes, layered cloud volume and luminous atmospheric depth. Teal and emerald masses open toward sky blue and warm yellow-white light, with a compact red accent. A small scale marker beneath an overhead circular form heightens the expansive square composition.",
+  "style_prompt_zh": "丰富幻想绘画结合宏大几何、风化雕纹肌理、密集短促有机笔触、层叠云量和发亮的氛围纵深。青绿与翠绿体量向天蓝和暖黄白光展开，另有紧凑红色点缀。顶部圆形巨物下的微小尺度标记，使正方形构图更为辽阔。",
+  "theme_en": "A lone adventurer beneath a vast carved stone disc in a sunlit valley",
+  "theme_zh": "独行冒险者站在阳光山谷里的巨大雕纹石盘下",
+  "wh_ratio": "1:1",
+  "id": "3410",
+  "name": "The Legend of Zelda",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/the-legend-of-zelda",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "bdcd82ef4b8c9939891bd53277cacc1d7acee4839275eb2a54535ad49f1a075e",
+    "gpt_submission_prompt": "The finished square is a richly painted fantasy landscape seen from slightly below a small adventurer. The figure stands near the lower center, back to the viewer, in a short teal tunic and brown boots. A red shield with pale geometric markings rests on one arm, while a sword hangs diagonally from the other hand. Two heavily carved stone pillars rise at the left and right edges, framing a vast circular disc overhead. The disc carries concentric rings and a face-like pattern etched into weathered blue-green stone, its lower edge hovering above banks of white cloud. Beyond the figure, steep blue mountains recede into hazy distance, and low trees cluster around the valley floor. Thick green grass and small red flowers fill the foreground, catching warm sunlight along their tips. The architecture is monumental but softened by moss, chipped texture and surrounding vegetation. The composition moves upward from the tiny human figure through the open valley to the enormous patterned circle, stressing wonder and scale. Light breaks through the clouds from the middle distance, illuminating the grass and the edges of the stone, while the carved recesses remain dark. Painted surface detail is abundant: short strokes articulate grasses and leaves, rough stippling describes ancient masonry, and soft layered color builds cloud volume. The palette centers on teal stone, emerald green, sky blue and warm yellow-white light, with the shield providing a compact red accent. The image feels adventurous, expansive and quietly mysterious.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "c4de51d90f1253a35af4cede7c1092a2dce23ea04f6dd6a239cc01f4fcba220f",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

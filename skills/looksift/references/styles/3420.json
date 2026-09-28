@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square cinematic still shows a meticulously symmetrical hotel lobby in pale salmon pink and butter yellow. A pair of bright yellow paneled doors anchors the far wall at the exact center, with a shallow transom and molding above. The mint green tiled floor leads toward them in a clear central aisle, crossed by a muted patterned rug near the foreground. Mustard yellow armchairs sit in matching groups on either side of the aisle, and low tables and cabinets fill the spaces between them. Tall display cases and framed pictures line the pink walls. A uniformed attendant stands near each side wall, their white coats and caps echoing one another across the room. Five hanging globe lamps recede toward the doors, reinforcing the measured perspective. Light is soft, even and indoor, without a dramatic spotlight; it gives the pastel walls and glossy floor gentle clarity. The palette stays tightly controlled: dusty rose, yellow, mint and small touches of brown and white. Edges are crisp and setlike, while the straight camera position makes the geometry feel deliberate. The figures remain small within the room, allowing furniture, doors and repeated architectural lines to carry the image. The composition is playful yet highly ordered, turning a lobby into a balanced grid of color, objects and human scale.",
+  "full_prompt_zh": "这幅方形电影画面呈现一个精心对称的酒店大堂，主色是浅鲑粉与奶油黄。一对亮黄镶板门精确固定在远墙中央，上方有浅门楣与线脚。薄荷绿地砖形成通向门的清楚中轴通道，近前景一块低饱和纹样地毯横过它。芥黄扶手椅成对摆在通道两侧，矮桌与柜子填在其间。高展示柜和装框图画沿粉墙排开。两侧墙边各站一名穿制服的服务员，白外套和帽子跨越房间互相呼应。五盏悬挂球灯向门递减，强化谨慎透视。光柔和均匀，为室内照明，没有戏剧性聚光；它让粉墙和微亮地面保持温和清晰。色盘严格控制在灰粉、黄、薄荷绿及少量棕白。边缘清脆、有布景感，正对的机位使几何显得有意。人物在房间里很小，让家具、门与重复建筑线承担图像。构图俏皮却高度有序，把大堂变成颜色、物件和人尺度的均衡网格。",
+  "style_prompt_en": "The cinematic image is organized by exact frontal symmetry, repeated rectilinear forms and centered perspective. Dusty rose, butter yellow and mint green occupy broad clean areas, with small brown and white accents. Soft even illumination makes every plane readable without harsh shadow. Crisp edges and deliberate spacing give the arrangement a setlike quality, while modest surface texture keeps it tangible. Repetition creates calm visual rhythm with a gently playful color balance.",
+  "style_prompt_zh": "这种电影画面由准确正面对称、重复直角形和居中透视组织。灰粉、奶油黄与薄荷绿占据宽阔干净色面，辅以少量棕白点缀。柔和均匀光使每个平面清楚，没有强硬阴影。清脆边缘和有意间距带来布景般品质，适度表面纹理仍使之真实可触。重复建立平静视觉节奏，色彩平衡温和而俏皮。",
+  "theme_en": "A symmetrical pink hotel lobby with yellow doors and chairs",
+  "theme_zh": "黄门与黄椅构成的对称粉色酒店大堂",
+  "wh_ratio": "1:1",
+  "id": "3420",
+  "name": "Wes Anderson",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/wes-anderson",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "045ed6234bec8e02f99fd092eafec485d3755f95f529a5b66d82aefaeda4f010",
+    "gpt_submission_prompt": "A square cinematic still shows a meticulously symmetrical hotel lobby in pale salmon pink and butter yellow. A pair of bright yellow paneled doors anchors the far wall at the exact center, with a shallow transom and molding above. The mint green tiled floor leads toward them in a clear central aisle, crossed by a muted patterned rug near the foreground. Mustard yellow armchairs sit in matching groups on either side of the aisle, and low tables and cabinets fill the spaces between them. Tall display cases and framed pictures line the pink walls. A uniformed attendant stands near each side wall, their white coats and caps echoing one another across the room. Five hanging globe lamps recede toward the doors, reinforcing the measured perspective. Light is soft, even and indoor, without a dramatic spotlight; it gives the pastel walls and glossy floor gentle clarity. The palette stays tightly controlled: dusty rose, yellow, mint and small touches of brown and white. Edges are crisp and setlike, while the straight camera position makes the geometry feel deliberate. The figures remain small within the room, allowing furniture, doors and repeated architectural lines to carry the image. The composition is playful yet highly ordered, turning a lobby into a balanced grid of color, objects and human scale.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "89f53b9e01e1c978acc5908967a778d032c5a3c17c8f431047271414f641af44",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

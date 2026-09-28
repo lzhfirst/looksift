@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square hand-colored photograph shows two women standing close together against a plain, mottled beige backdrop. The woman on the left wears a dark blue-green knee-length coat with a narrow waist, pale blouse, and small brimmed hat. Her companion on the right wears a gray-brown coat of similar length and a darker rounded hat, with a floral bundle held low in one hand. Both wear light stockings and dark shoes. Their bodies face forward while their heads turn toward one another, making the paired pose feel quietly conversational. The floor is a simple warm gray plane with faint contact shadows beneath their feet. The color is restrained and unevenly applied: teal and brown remain soft over the original grayscale tones, while faces, hands, and flowers retain pale warm hints. Old-photo grain, faint stains, and slight edge fading are visible across the image. The subjects are centered in the frame with ample empty backdrop to either side; no detailed setting distracts from their silhouettes. Gentle diffuse studio light comes from the upper left, giving the coats soft folds and placing a mild shadow to the right of the figures. The scene retains photographic volume despite the translucent color wash. No caption or lettering is readable. The overall composition is poised and nostalgic, joining careful symmetrical placement to the delicate imperfections of hand-applied color.",
+  "full_prompt_zh": "一幅方形手工上色照片表现两位女子亲近地站在朴素、斑驳的米色背景前。左侧女子穿深蓝绿色及膝外套，腰部收窄，内有浅色上衣，戴小檐帽。右侧同伴穿长度相近的灰棕外套与较深的圆帽，一只手低低握着花束。两人都穿浅色长袜和深鞋。身体面向前方，头却转向彼此，使双人姿态像在安静交谈。地面是简单的暖灰平面，脚下有淡接触影。颜色克制且着色不均：青绿和棕色柔和覆在原有黑白调上，脸、手与花保留浅暖暗示。老照片颗粒、淡污痕和边缘轻微褪色遍及图像。人物居中，两侧留出充裕空背景；没有细致环境转移对剪影的注意。柔和影棚光从左上方来到，给外套以柔褶，并在人物右侧投下轻影。透明色洗并未抹掉摄影体积。没有可读题注或文字。整体构图稳妥而怀旧，以仔细的对称安排结合手工上色的精巧不完美。",
+  "style_prompt_en": "Hand-colored photography places translucent, slightly uneven muted pigment over an underlying grayscale tonal structure. Fine old-print grain, faint stains, and edge fading soften otherwise clear contours. Dusty teal, gray-brown, pale cream, and restrained warm peach notes sit within a largely neutral field. Diffuse studio light from one upper side produces mild rounded modeling and compact contact shadows. A paired central rhythm is set against ample plain negative space, letting small differences in hand-applied color become visible. The effect is gentle, nostalgic, and materially imperfect.",
+  "style_prompt_zh": "手工上色摄影将半透明、略不均匀的低调颜料覆于原有黑白调性结构上。细旧片颗粒、淡污痕与边缘褪色柔化原本清晰的轮廓。灰青绿、灰棕、浅奶油色和克制的暖桃色色调处在大体中性的色域里。来自上方一侧的漫射影棚光产生温和圆润塑形与紧凑接触影。成对的中央节奏衬着充裕朴素留白，让手工着色的细小差异显现。效果温和、怀旧且材料上不完美。",
+  "theme_en": "Two women in muted coats and hats in a hand-colored photograph",
+  "theme_zh": "手工上色照片中穿暗色外套戴帽的两位女子",
+  "wh_ratio": "1:1",
+  "id": "4190",
+  "name": "Hand-colored photograph",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/hand-colored-photograph.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "8c437ee18f7093c4da0f07d00cf9bc8fba26087581f38399887717f3aaa9796f",
+    "gpt_submission_prompt": "A square hand-colored photograph shows two women standing close together against a plain, mottled beige backdrop. The woman on the left wears a dark blue-green knee-length coat with a narrow waist, pale blouse, and small brimmed hat. Her companion on the right wears a gray-brown coat of similar length and a darker rounded hat, with a floral bundle held low in one hand. Both wear light stockings and dark shoes. Their bodies face forward while their heads turn toward one another, making the paired pose feel quietly conversational. The floor is a simple warm gray plane with faint contact shadows beneath their feet. The color is restrained and unevenly applied: teal and brown remain soft over the original grayscale tones, while faces, hands, and flowers retain pale warm hints. Old-photo grain, faint stains, and slight edge fading are visible across the image. The subjects are centered in the frame with ample empty backdrop to either side; no detailed setting distracts from their silhouettes. Gentle diffuse studio light comes from the upper left, giving the coats soft folds and placing a mild shadow to the right of the figures. The scene retains photographic volume despite the translucent color wash. No caption or lettering is readable. The overall composition is poised and nostalgic, joining careful symmetrical placement to the delicate imperfections of hand-applied color.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "9d8b4c1dd9f662a885bdab0ccfbd18d69c6c15a9b49d9890ed77530d5c775365",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

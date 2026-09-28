@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square color photograph shows an empty paved corner framed by turquoise, peach and burnt-orange walls in hard sunlight. The upper-left wall is a broad pale aqua plane, broken only by a small projecting box and a thin dark horizontal cable or seam. A narrow deep teal strip runs down from the top near the center, separating the cool wall from a vertical band of pale yellow and warmer peach. At the right, an orange brick wall projects forward beneath a dark green overhang. A narrow barred opening sits in the warm wall near the middle, with the brick pattern and metal grid remaining just visible. Across the lower half, a plain concrete pavement stretches toward the camera. Faint cracks, joints and scuff marks give the gray ground a slightly worn texture. A large, crisp triangular shadow extends from the left across the turquoise wall and diagonally onto the pavement, meeting the sunlit area in a decisive line. The warm facade casts another narrow dark band near the central doorway. Direct sun from the upper right makes the aqua wall bright and the orange surface glow, while recesses turn saturated teal and brown. The camera faces the walls nearly straight on, so broad flat color planes and vertical divisions dominate over deep spatial perspective. There are no people, vehicles or readable signs. The overall composition turns an ordinary architectural corner into a quiet arrangement of colored rectangles and strong diagonal light.",
+  "full_prompt_zh": "这幅方形彩色照片呈现一处空旷的铺地角落，青绿、桃色与焦橙色墙面在硬阳光中围住它。左上墙面是一大片浅水绿色平面，只有一个突出的细小盒体和一道深色横线或接缝打断。靠近中央，一条深青绿色窄带从顶部垂下，把冷色墙面与竖向浅黄、较暖桃色色带分开。右侧，橙色砖墙在深绿挑檐下向前伸出。暖色墙面中段有一处窄窄的带栅开口，砖纹与金属格仍隐约可见。下半部，一片普通混凝土地面向相机伸来。淡淡裂缝、拼缝和擦痕赋予灰地略显磨旧的肌理。一道巨大而清晰的三角阴影从左侧延过青绿墙面，再斜斜投到地面，以果断直线接上阳光区域。暖色立面还在中央门洞旁投下一条窄深影。来自右上方的直射阳光让水绿墙面明亮、橙色表面发暖，凹处则转成饱和的深青绿和褐色。相机几乎正对墙面，使宽阔平涂色域与竖向分隔比深透视更显主导。画中没有人、车辆或可读标识。整体构图把寻常建筑角落转成有色矩形与强斜光组成的安静排列。",
+  "style_prompt_en": "The photograph treats real surfaces as clean, nearly abstract color planes. Cool aqua and deep teal meet sun-warmed peach, yellow and orange in large uninterrupted areas. Hard direct light cuts sharply angled shadows through rectilinear divisions, creating depth through light-dark geometry more than through busy detail. Fine weathering, seams and small surface marks keep the saturated planes material rather than purely graphic. The view is frontal and restrained, with broad negative space and only a few decisive vertical and diagonal lines. The result feels quiet, architectural in its geometry and vivid in its warm-cool light relationship.",
+  "style_prompt_zh": "这种摄影把真实表面处理得像干净、近乎抽象的色面。冷水绿与深青绿以大片不断开的区域，遇上被阳光暖化的桃、黄和橙色。强直射光把锐利斜影切入直线分隔的空间，纵深更多来自明暗几何，而不是繁杂细节。细微风化、接缝和小表面痕迹让饱和色面仍具有物质感，而非纯图形。视点正面而克制，有宽阔负空间和少数果断的竖线、斜线。成品安静，几何组织严谨，冷暖光色关系鲜明。",
+  "theme_en": "Sunlit turquoise and orange walls casting long shadows across an empty pavement",
+  "theme_zh": "阳光下的青绿与橙色墙面，把长影投在空旷地面上",
+  "wh_ratio": "1:1",
+  "id": "0541",
+  "name": "Jessica Backhaus",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/jessica-backhaus",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/jessica-backhaus.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "878492c0e40d2ee83e96de57b7e8aadfbb3eba4e00b657e746db2e0823a67142",
+    "gpt_submission_prompt": "A square color photograph shows an empty paved corner framed by turquoise, peach and burnt-orange walls in hard sunlight. The upper-left wall is a broad pale aqua plane, broken only by a small projecting box and a thin dark horizontal cable or seam. A narrow deep teal strip runs down from the top near the center, separating the cool wall from a vertical band of pale yellow and warmer peach. At the right, an orange brick wall projects forward beneath a dark green overhang. A narrow barred opening sits in the warm wall near the middle, with the brick pattern and metal grid remaining just visible. Across the lower half, a plain concrete pavement stretches toward the camera. Faint cracks, joints and scuff marks give the gray ground a slightly worn texture. A large, crisp triangular shadow extends from the left across the turquoise wall and diagonally onto the pavement, meeting the sunlit area in a decisive line. The warm facade casts another narrow dark band near the central doorway. Direct sun from the upper right makes the aqua wall bright and the orange surface glow, while recesses turn saturated teal and brown. The camera faces the walls nearly straight on, so broad flat color planes and vertical divisions dominate over deep spatial perspective. There are no people, vehicles or readable signs. The overall composition turns an ordinary architectural corner into a quiet arrangement of colored rectangles and strong diagonal light.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "0779dd8e046f8e1014ad3bcdfc857472323615691adc5bc464f7902a6a2a0aee",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

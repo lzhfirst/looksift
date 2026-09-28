@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square theatrical oil painting shows a joyfully animated figure in eighteenth-century dress appearing to leap through a sky filled with rolling clouds. The figure occupies the center-left, body angled upward from lower left to upper right. One arm reaches high with a pointed hand, while the other extends outward and slightly down. A broad pale tricorn hat sits on light hair above a smiling open face turned upward. A pale blue-green coat flares around a cream embroidered waistcoat; a rose-brown cloak or long fabric strip whips behind the waist. Light stockings and dark shoes finish the bent, floating legs. Behind, large cream and peach cloud banks coil from the lower corners toward a clear blue opening in the upper center. At the far lower left, small muted figures or shapes are barely discernible beneath the clouds. The painterly surface is smooth on face and costume, with softer swirling, feathery strokes in vapor and firmer contours at hat, hands, and shoe. Warm light from the upper right catches the cheek, ruffled cuffs, jacket front, and cloud edges, while cooler blue-gray shadows deepen the folds and undersides of cloud. The lack of a firm ground plane makes the pose hover between flight and stage performance. The composition uses an extravagant diagonal gesture against the circular cloud movement, creating buoyant, whimsical drama.",
+  "full_prompt_zh": "一幅方形戏剧性油画呈现一名穿十八世纪服装的欢快人物，仿佛跃进翻卷云层的天空。他在中左，身体从左下向右上斜起。一只手高高指向天空，另一臂向外并略向下伸。浅色宽三角帽压在浅发上，帽下笑容张开，面孔朝上。浅蓝绿色外套在奶油色刺绣背心周围扬起，玫瑰棕披风或长布条在腰后飞摆。浅色长袜和深鞋完成弯曲漂浮的双腿。后方，大片奶油和桃色云岸从下角盘卷向上部中央的清蓝开口。最左下，少数低饱和小人物或形体在云下隐约可见。画面在人脸与衣服上较平滑，水汽以柔和翻卷的羽化笔触处理，帽、手与鞋边更肯定。右上方暖光照到面颊、荷叶袖口、外衣前部和云边，较冷蓝灰影加深衣褶与云底。没有坚实地面，让姿态悬在飞行与舞台表演之间。构图以夸张斜向手势对照环转云动，形成轻快奇幻戏剧感。",
+  "style_prompt_en": "Theatrical oil painting uses an expressive upward diagonal gesture against large curling atmospheric masses. Render a small focal form with smooth flesh, delicate cloth folds, and crisp accessory edges, then surround it with feathery cream and peach vapor opening to clear blue. Warm upper light should catch selected details and cloud rims, with cool gray shadows beneath. Let fabric or equivalent flexible elements flare to extend the motion. A weak or absent ground plane can make the action feel suspended. The transferable effect is buoyant, ornate, and playfully dramatic, carried by rhythmic movement and soft painted air.",
+  "style_prompt_zh": "戏剧性油画以富表现力的上升斜向动作，对着大幅卷动的大气团块。小焦点形体用平滑肌肤、细腻布褶与清楚配件边缘描绘，周围是羽化的奶油桃色水汽，向清蓝天空打开。上方暖光照到选择性细节和云缘，冷灰影留在下面。布料或同样柔软的元素向外扬起，延伸运动。薄弱或缺失的地面可使动作显得悬浮。可迁移效果轻盈、华丽且顽皮戏剧化，由节奏运动和柔软绘制空气承载。",
+  "theme_en": "A joyful eighteenth-century figure leaping into a sky of billowing clouds",
+  "theme_zh": "十八世纪装束人物欢快跃入蓬松云天",
+  "wh_ratio": "1:1",
+  "id": "3755",
+  "name": "Alexandre-Evariste Fragonard",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/alexandre-evariste-fragonard",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "06d1bfcbf70006c3038c49363d1beed22c65d09d557b57bfd6367936f2bc4fc5",
+    "gpt_submission_prompt": "A square theatrical oil painting shows a joyfully animated figure in eighteenth-century dress appearing to leap through a sky filled with rolling clouds. The figure occupies the center-left, body angled upward from lower left to upper right. One arm reaches high with a pointed hand, while the other extends outward and slightly down. A broad pale tricorn hat sits on light hair above a smiling open face turned upward. A pale blue-green coat flares around a cream embroidered waistcoat; a rose-brown cloak or long fabric strip whips behind the waist. Light stockings and dark shoes finish the bent, floating legs. Behind, large cream and peach cloud banks coil from the lower corners toward a clear blue opening in the upper center. At the far lower left, small muted figures or shapes are barely discernible beneath the clouds. The painterly surface is smooth on face and costume, with softer swirling, feathery strokes in vapor and firmer contours at hat, hands, and shoe. Warm light from the upper right catches the cheek, ruffled cuffs, jacket front, and cloud edges, while cooler blue-gray shadows deepen the folds and undersides of cloud. The lack of a firm ground plane makes the pose hover between flight and stage performance. The composition uses an extravagant diagonal gesture against the circular cloud movement, creating buoyant, whimsical drama.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "19446f0dc12a0e0340ce97b3c0f88ded0d7000adda31649264afe14694d27622",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

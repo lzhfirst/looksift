@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "An architectural interior shows a grand public hall viewed exactly along its central axis. A pale patterned floor opens wide in the foreground, then narrows between rows of squared columns toward a glass door at the back. Two large clustered lamps hang near the upper corners; smaller versions repeat deeper inside. A rectangular skylight brightens the ceiling, where teal-green beams and warm gold trim outline the structural bays. The walls are faced with pale tile and shallow ornamental panels, their floral and geometric details concentrated along cornices, column capitals, and borders rather than spread across every surface. The floor contains an inlaid rectangular field that repeats the building's strong symmetry. The palette is composed of ivory, sage and blue-green tile, muted brass, and honey-colored wood. Daylight from above and the far doorway keeps the space luminous but gentle, with shadows tucked under balconies and around the columns. Lines are exceptionally orderly: vertical supports, horizontal balcony rails, and nested rectangular frames carry the eye through the room. Fine surface wear and patina keep the metals and tiles from appearing new. The hall is empty and still, letting proportion, materials, and decorative rhythm become the subject. The image feels like a carefully observed architectural photograph with a measured, nearly ceremonial sense of space.",
+  "full_prompt_zh": "一幅建筑室内图像沿中轴线正面观看宏大的公共大厅。浅色花纹地板在前景宽阔展开，随后在成排方柱之间收窄，通向后方玻璃门。两盏大型簇状灯悬在上角，更小的同类灯在深处重复。矩形天窗照亮天花，青绿色横梁与温暖金色镶边勾勒出结构分间。墙面覆以浅色瓷砖和低浮雕装饰板，花卉与几何细节集中在檐口、柱头和边框上，没有铺满每一处表面。地板里一块嵌花矩形区域重复建筑强烈的对称关系。色盘由象牙白、鼠尾草绿与蓝绿色瓷砖、柔暗黄铜和蜜色木料组成。上方与尽头门口的日光让空间明亮而柔和，阴影藏在阳台下和柱旁。线条非常有序：竖向支柱、横向阳台栏杆与层层嵌套的矩形框架引导目光穿过大厅。细微磨损与铜绿让金属和瓷砖不显崭新。大厅空无一人而静止，使比例、材料与装饰节奏成为主题。画面如一张仔细观察的建筑摄影作品，空间感有分寸，近乎庄严。",
+  "style_prompt_en": "A precise, centrally aligned architectural image organized by nested rectangles and repeated vertical supports. Ivory surfaces, sage and blue-green tile, muted brass, and warm wood create a restrained ornamental palette. Fine decorative linework gathers along borders and capitals, while broad walls remain calm. Soft daylight enters from above and far behind, leaving compact shadows beneath ledges. The foreground pattern leads toward a distant vanishing point, and paired luminous accents repeat at measured intervals. Subtle patina and material grain temper the clean symmetry with age.",
+  "style_prompt_zh": "一幅精确沿中轴排列的建筑图像，由嵌套矩形和重复竖向支撑组织起来。象牙色表面、鼠尾草绿与蓝绿瓷砖、柔暗黄铜和暖木色组成克制的装饰色盘。细致花纹线条集中于边框和柱头，宽阔墙面则保持平静。柔和日光从上方和远后方进入，在檐沿下留下紧凑阴影。前景纹样通向远处消失点，成对的亮点按有分寸的间隔重复。微妙的包浆和材料纹理让洁净对称带上年代感。",
+  "theme_en": "A symmetrical Art Nouveau public hall",
+  "theme_zh": "一座对称的新艺术风格公共大厅",
+  "wh_ratio": "1:1",
+  "id": "3097",
+  "name": "Otto Wagner",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/otto-wagner",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "a1cb1e168485e0d10d7d752b0152b91275731f7d49fbf5e516da1b8d029f3074",
+    "gpt_submission_prompt": "An architectural interior shows a grand public hall viewed exactly along its central axis. A pale patterned floor opens wide in the foreground, then narrows between rows of squared columns toward a glass door at the back. Two large clustered lamps hang near the upper corners; smaller versions repeat deeper inside. A rectangular skylight brightens the ceiling, where teal-green beams and warm gold trim outline the structural bays. The walls are faced with pale tile and shallow ornamental panels, their floral and geometric details concentrated along cornices, column capitals, and borders rather than spread across every surface. The floor contains an inlaid rectangular field that repeats the building's strong symmetry. The palette is composed of ivory, sage and blue-green tile, muted brass, and honey-colored wood. Daylight from above and the far doorway keeps the space luminous but gentle, with shadows tucked under balconies and around the columns. Lines are exceptionally orderly: vertical supports, horizontal balcony rails, and nested rectangular frames carry the eye through the room. Fine surface wear and patina keep the metals and tiles from appearing new. The hall is empty and still, letting proportion, materials, and decorative rhythm become the subject. The image feels like a carefully observed architectural photograph with a measured, nearly ceremonial sense of space.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "eddba1047833bd84016f82167897482ddf56e5efcd016350fd95828022039bc0",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

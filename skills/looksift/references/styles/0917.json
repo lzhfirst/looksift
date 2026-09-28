@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square retro pop painting stages a dark-haired woman in a short pink satin dress reclining across a pale fur-like seat in the foreground. She looks directly toward the viewer, one knee raised and one leg extended, with pointed pink shoes, red lips, and a ribbon in her hair. Behind her at right stands a red-faced horned demon in a white shirt and dark tie, holding a black rifle upright. A small round table beside them carries a plate of food and a bottle. The background is a distressed brick-red wall with rubbed pigment, scratches, and darker stains. The woman's smooth skin and glossy dress are modeled with bright studio-like highlights, while the demon's face is painted in thick crimson and deep shadow. Black outlines and painterly brush texture coexist: forms are clear and posterlike, but the surface is not flat. The pink satin and red wall dominate the palette, offset by dark hair, black firearm, and pale seat. Light falls from upper left, illuminating the seated figure and table, while the back figure remains more ominously shaded. The composition is theatrical, provocative, and knowingly artificial, like a pulp magazine image rendered in oil paint.",
+  "full_prompt_zh": "一幅方形复古流行绘画安排一位深发女性穿粉色缎面短裙，斜躺在前景浅色毛皮般座面上。她直望观看者，一膝抬高、一腿伸出，穿尖头粉鞋，涂红唇，头发系丝带。右后方一位红脸带角恶魔穿白衫深领带，竖握黑色步枪。旁边小圆桌上有食物盘和一只瓶。背景是磨旧砖红墙，带擦掉的颜料、划痕和深色污斑。女子平滑肌肤与光泽裙子由明亮影棚般高光塑造，恶魔脸则用浓绯红和深影绘成。黑轮廓与绘画笔触并存：形体清楚似海报，表面却不平。粉缎与红墙主导色彩，深发、黑枪和浅座面形成制衡。光从左上落下，照亮坐者与小桌，后方人物更阴沉受影。构图戏剧化、挑衅且有意人工，像一本通俗杂志图像以油彩重绘。",
+  "style_prompt_en": "Retro pulp-pop painting with glossy selective highlights, assertive black contour, distressed brick-red pigment, and saturated pink-crimson color. Smooth modeled planes contrast with rubbed wall texture and deep dark props. Theatrical upper-side light gives a posterlike focal hierarchy, while visible brushwork prevents the surface from becoming flat vector art. The composition is boldly staged and knowingly artificial.",
+  "style_prompt_zh": "复古通俗流行绘画，以有选择的光泽高光、果断黑轮廓、磨损砖红颜料和饱和粉绯色彩组成。平滑塑形平面对照擦磨墙面肌理与深色道具。戏剧化上侧光建立海报般焦点层级，可见笔触防止表面变成纯平矢量图。构图大胆安排，有意呈人工感。",
+  "theme_en": "A pink-dressed woman and a red-faced armed demon in a painted scene",
+  "theme_zh": "绘画场景中粉裙女性与红面持枪恶魔",
+  "wh_ratio": "1:1",
+  "id": "0917",
+  "name": "Mel Ramos",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/mel-ramos",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/mel-ramos.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "3187b91a4490f9e2fc3a45956299a7894edb738693134e5a5914b4e04cd19581",
+    "gpt_submission_prompt": "A square retro pop painting stages a dark-haired woman in a short pink satin dress reclining across a pale fur-like seat in the foreground. She looks directly toward the viewer, one knee raised and one leg extended, with pointed pink shoes, red lips, and a ribbon in her hair. Behind her at right stands a red-faced horned demon in a white shirt and dark tie, holding a black rifle upright. A small round table beside them carries a plate of food and a bottle. The background is a distressed brick-red wall with rubbed pigment, scratches, and darker stains. The woman's smooth skin and glossy dress are modeled with bright studio-like highlights, while the demon's face is painted in thick crimson and deep shadow. Black outlines and painterly brush texture coexist: forms are clear and posterlike, but the surface is not flat. The pink satin and red wall dominate the palette, offset by dark hair, black firearm, and pale seat. Light falls from upper left, illuminating the seated figure and table, while the back figure remains more ominously shaded. The composition is theatrical, provocative, and knowingly artificial, like a pulp magazine image rendered in oil paint.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "bb845be371a45fe8abd6852ca07d19996d369468567473fd65525250eb7c9939",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

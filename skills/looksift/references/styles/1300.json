@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square hand-colored comic illustration shows an older man and a young red-haired woman seated across a small table in a vintage café. The man sits at left on a round stool, with gray hair, dark glasses, a muted green jacket and a narrow rust-colored tie. He leans slightly forward, listening. The woman sits at right with her elbows near the tabletop, short curled orange hair and a warm brown sleeveless dress over a pale blouse. She looks back with a small attentive expression rather than an exaggerated smile. Their table holds two glasses and a few small objects; ornate carved wood supports its rounded edge. Behind them, tall wooden frames, etched glass and globe-shaped lamps extend the café into a softly detailed background. Fine ink contours define faces, clothing folds and furniture, while transparent watercolor-like fills give the scene muted ochre, sage, rust and cream tones. The line drawing remains visible through the color, and faint paper grain softens the entire panel. The composition is balanced across the table, with the figures at similar eye levels despite the difference in age. No speech bubble or written explanation appears. The emotional story is held in the patient exchange of glances, ordinary posture and the warm enclosure of the café.",
+  "full_prompt_zh": "一幅正方形手工上色漫画插画呈现一位年长男子与一位年轻红发女子隔着小桌坐在复古咖啡馆。男子在左侧圆凳上，灰发、深色眼镜、低饱和绿色外套与窄窄的锈红领带，身体微前倾倾听。女子在右侧，手肘靠近桌面，短卷橘发，浅色衬衣外穿暖棕无袖裙，回望时神情轻微而专注，没有夸张笑容。桌上有两只杯子与少量小物件，圆形桌沿由雕饰木结构支撑。身后高木框、蚀刻玻璃与球形灯把咖啡馆延伸为柔和细节背景。细墨线界定面孔、衣褶和家具，半透明水彩般的色层赋予场景低饱和赭、鼠尾草绿、锈红与奶油色。线描透过颜色仍然可见，淡纸纹柔化整格画面。构图隔桌平衡两人，虽然年龄不同，双方目光大致在同一高度。没有对白框或解释文字。情绪故事保存在耐心的对视、普通姿态与咖啡馆暖和围合感里。",
+  "style_prompt_en": "The style is finely inked European-style comic illustration with transparent watercolor-like color, visible contour drawing and subtle aged paper grain. Muted ochre, sage, rust, cream and wood brown support a warm everyday atmosphere. A balanced two-part composition gathers around a shared horizontal plane, while ornate but lightly treated background frames add depth. Expressions and gestures remain small and legible. The finish combines delicate observational detail with quiet narrative pacing, free of speech balloons or exaggerated action effects.",
+  "style_prompt_zh": "这种风格是细墨线欧洲漫画插画，具有半透明水彩般颜色、可见轮廓线和淡淡旧纸颗粒。低饱和赭、鼠尾草绿、锈红、奶油色与木棕支撑温暖日常气氛。平衡的双重构图围绕共享水平平面展开，装饰性但轻描的背景框架添加纵深。神情与动作细小却易读。最终效果结合细腻观察细节与安静叙事节奏，没有对白气泡或夸张动作特效。",
+  "theme_en": "A quiet café conversation across a wooden table",
+  "theme_zh": "木桌两侧的安静咖啡馆交谈",
+  "wh_ratio": "1:1",
+  "id": "1300",
+  "name": "Jean-Pierre Gibrat",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/jean-pierre-gibrat",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/jean-pierre-gibrat.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "9e16ee7099b2cb1541c467a8552bd7c7413937e68fc21bf07b1b4931ecb1bacf",
+    "gpt_submission_prompt": "A square hand-colored comic illustration shows an older man and a young red-haired woman seated across a small table in a vintage café. The man sits at left on a round stool, with gray hair, dark glasses, a muted green jacket and a narrow rust-colored tie. He leans slightly forward, listening. The woman sits at right with her elbows near the tabletop, short curled orange hair and a warm brown sleeveless dress over a pale blouse. She looks back with a small attentive expression rather than an exaggerated smile. Their table holds two glasses and a few small objects; ornate carved wood supports its rounded edge. Behind them, tall wooden frames, etched glass and globe-shaped lamps extend the café into a softly detailed background. Fine ink contours define faces, clothing folds and furniture, while transparent watercolor-like fills give the scene muted ochre, sage, rust and cream tones. The line drawing remains visible through the color, and faint paper grain softens the entire panel. The composition is balanced across the table, with the figures at similar eye levels despite the difference in age. No speech bubble or written explanation appears. The emotional story is held in the patient exchange of glances, ordinary posture and the warm enclosure of the café.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "127cecb263856275afd8f3925aaac8dd89bd93bbc29f606818b3b7d9975cd644",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

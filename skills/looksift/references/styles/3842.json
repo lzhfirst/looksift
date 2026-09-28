@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square mixed-media urban illustration shows a bald man in a gray suit seated alone on worn stone steps before a dark reddish-brown door. The wall around the doorway is patched with pale blue-gray, beige and ochre, its paint flaking into irregular shapes. The door stands behind the figure near the upper center, recessed and almost black at the top. He sits in the middle foreground with knees spread and elbows resting near them, shoulders slightly hunched. His head tips down, leaving the eyes in deep shadow beneath a strong brow. A pale shirt and narrow dark tie show under the loosely painted gray jacket; the trousers fold heavily over dark shoes planted on different step levels. One hand hangs near the knee and the other rests in his lap, giving the posture a tired inward weight. The steps across the bottom are chipped and uneven, with small dark cracks and streaks of rusty pigment running down the risers. Fine angular drawing lines define his face, fingers, lapels and architectural edges, while broad brushy washes break the surfaces into cool gray and warm brown planes. The light is diffuse from the upper left, catching the bald head, shirt and some stone edges while leaving the door and eye sockets dark. There are no other people or readable marks. The overall composition holds a heavy still figure against weathered geometry, balancing precise ink contours with loose, fractured color.",
+  "full_prompt_zh": "这幅方形混合媒介都市插画里，一位穿灰西装的秃发男子独自坐在磨旧石台阶上，背后是一扇深红褐色门。门口周围的墙以浅蓝灰、米色和赭黄补成斑块，漆面剥落为不规则形。门立在人物身后的上方中央附近，向内凹，上部近乎黑色。他坐在前景中部，双膝分开，手肘靠近膝盖，肩稍驼。头低垂，强眉下的眼睛留在深影里。松散画出的灰夹克下露出浅衬衫和窄深领带；裤腿厚重折叠在踏于不同台阶上的深鞋上。一只手垂在膝旁，另一只放在腿上，使姿态有疲惫内收的重量。下方横过的台阶破损不平，有小深裂和锈色颜料沿立面流下。纤细棱角画线定义面孔、手指、翻领与建筑边缘，宽而带笔触的色洗把表面打成冷灰与暖褐平面。漫射光从左上照来，落在秃头、衬衫与一些石边，门与眼窝保持深暗。没有其他人物或可读标记。整体构图让厚重静止的人物靠在风化几何形前，使精确墨线与松散破碎色彩平衡。",
+  "style_prompt_en": "The mixed-media illustration combines sharp ink drawing, dry angular hatch marks and broad fractured washes. Cool slate and pale blue-gray oppose rust, ochre and charcoal, with small cream highlights selecting the focal structure. Edges are precise in a few expressive details but break into scraped, unfinished patches across the larger surface. Diffuse side light lifts exposed planes and lets recesses stay dark; pigment drips and chipped-looking layers give material age. The composition is compact and weighted, with stacked horizontal levels beneath a dark vertical mass. The result feels urban, weary and tactile, its emotional tone carried by posture-like compression and worn color.",
+  "style_prompt_zh": "这种混合媒介插画把锐利墨线、干涩棱角排线与宽阔破碎色洗结合。冷石板色与浅蓝灰对照锈、赭黄和炭色，少量奶油高光挑出焦点结构。少数富于表现力的细节边缘精确，较大表面则断成刮擦、似未完成的斑块。漫射侧光提亮外露平面，让凹处保留深暗；颜料流痕和剥落状层次带出材料旧感。构图紧凑而有重量，叠起的横向层级位于深色竖向量块下。成品都市、疲惫而可触，情绪由姿态般的压缩和磨旧色彩承担。",
+  "theme_en": "A bald man in a gray suit sitting alone on worn steps",
+  "theme_zh": "一位穿灰西装的秃发男子独自坐在磨旧台阶上",
+  "wh_ratio": "1:1",
+  "id": "3842",
+  "name": "Alex Maleev",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/alex-maleev",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "fbc722ac7789a6e4ccb9dddfdebe04bc87c7a0b4a8599e3aa27ff7aa8bc25bbb",
+    "gpt_submission_prompt": "A square mixed-media urban illustration shows a bald man in a gray suit seated alone on worn stone steps before a dark reddish-brown door. The wall around the doorway is patched with pale blue-gray, beige and ochre, its paint flaking into irregular shapes. The door stands behind the figure near the upper center, recessed and almost black at the top. He sits in the middle foreground with knees spread and elbows resting near them, shoulders slightly hunched. His head tips down, leaving the eyes in deep shadow beneath a strong brow. A pale shirt and narrow dark tie show under the loosely painted gray jacket; the trousers fold heavily over dark shoes planted on different step levels. One hand hangs near the knee and the other rests in his lap, giving the posture a tired inward weight. The steps across the bottom are chipped and uneven, with small dark cracks and streaks of rusty pigment running down the risers. Fine angular drawing lines define his face, fingers, lapels and architectural edges, while broad brushy washes break the surfaces into cool gray and warm brown planes. The light is diffuse from the upper left, catching the bald head, shirt and some stone edges while leaving the door and eye sockets dark. There are no other people or readable marks. The overall composition holds a heavy still figure against weathered geometry, balancing precise ink contours with loose, fractured color.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "fd35821bdcca8ce659a57e4266d0980b817e8c54662b8291de560ccdcae20bda",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

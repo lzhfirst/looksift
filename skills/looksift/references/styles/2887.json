@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square, heavily worked oil portrait shows an older bearded man emerging from a dense field of brown, gray and copper brush marks. The background has no clear wall or setting; thick mottled paint fills the upper and side edges, nearly absorbing the figure. The man's head sits a little left of center and turns toward the upper right. His pale eyes look upward with a thoughtful, searching expression, while the mouth remains slightly open beneath a thick mustache. Wavy graying hair blends into the surrounding dark strokes. The beard is long and uneven, built from pale gray, cream and brown dabs that mingle with the high collar and chest below. A shadowy garment occupies the lower part of the frame, indicated by broad dark shapes rather than crisp seams. Small highlights on the forehead, nose, cheek and beard pull the face forward from the turbulent paint. The surface around the head is active with tiny broken strokes, scumbles and rough impasto, so contours are repeatedly lost and found. There are few hard lines; the gaze and bright facial planes carry recognition. Light appears to come from the upper left, grazing the lifted face and individual raised paint ridges while leaving the outer garment and corners dark. The overall composition makes a single contemplative face visible within an almost abstract storm of earthy marks, balancing human presence with the force of the painted surface.",
+  "full_prompt_zh": "这幅方形、反复加工的油画肖像里，一位留胡子的年长男子从密集的褐、灰和铜色笔痕中浮出。背景没有明确墙面或场所；厚重斑驳颜料填满上方与两侧边缘，几乎吞没人物。男子的头位于中心稍左，转向右上方。浅色眼睛向上看，神情沉思而像在寻找什么；浓密小胡子下的嘴微张。卷曲灰发与周围深色笔触相融。长而不齐的胡须由浅灰、奶油和褐色小触笔构成，与下方高领及胸口混在一起。深暗衣装占据下部，以宽阔暗形而非清楚衣缝暗示。额头、鼻子、面颊与胡须上的小高光，把面孔从躁动颜料中拉到前方。头部周围表面充满细小断笔、擦抹和粗厚堆涂，轮廓反复消失又出现。硬线极少，目光与发亮面部平面承担辨识。光似从左上照来，擦过抬起的脸与单独凸起的颜料脊，让外侧衣装与角落保持深暗。整体构图让一张沉思面孔在几乎抽象的土色笔痕风暴中显现，使人物存在感与绘画表面的力量相平衡。",
+  "style_prompt_en": "The oil surface is thick, scumbled and densely mottled, with small broken strokes that make edges appear and disappear. Umber, charcoal, copper and muted cream dominate a low-key palette, while sparse pale highlights concentrate attention. Light grazes raised pigment from an upper side, producing a tactile shimmer rather than polished smoothness. The focal form is recognizable through selected planes and a few precise details, but much of its perimeter dissolves into turbulent neighboring marks. Broad dark areas anchor the lower frame as finer motion gathers higher up. The effect is dramatic, introspective and almost abstract at the margins, with brush texture inseparable from volume.",
+  "style_prompt_zh": "这种油画表面厚重、反复擦抹且密布斑点，细小断笔让边缘时隐时现。赭褐、炭色、铜色与压低奶油色构成低明度配色，稀疏浅亮强调集中注意力。光从上方一侧擦过凸起颜料，产生可触闪动，而非抛光般平滑。焦点形体靠经过选择的平面和少数精确细节可辨，但周边大部分融入躁动的相邻笔痕。宽阔深色区域稳住下方，较细运动聚在上部。效果戏剧化、内省，边缘近乎抽象，笔触肌理与体积难以分开。",
+  "theme_en": "An older bearded man's upward glance emerging from dense brown brushwork",
+  "theme_zh": "一位留胡子的年长男子从密集褐色笔触中浮出，目光向上",
+  "wh_ratio": "1:1",
+  "id": "2887",
+  "name": "Peter Paul Rubens",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/peter-paul-rubens",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/peter-paul-rubens.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "26df5e1a215088dbb4975f9ce9df94a32b433f8ef01d013558f49393ca6ec9c3",
+    "gpt_submission_prompt": "A square, heavily worked oil portrait shows an older bearded man emerging from a dense field of brown, gray and copper brush marks. The background has no clear wall or setting; thick mottled paint fills the upper and side edges, nearly absorbing the figure. The man's head sits a little left of center and turns toward the upper right. His pale eyes look upward with a thoughtful, searching expression, while the mouth remains slightly open beneath a thick mustache. Wavy graying hair blends into the surrounding dark strokes. The beard is long and uneven, built from pale gray, cream and brown dabs that mingle with the high collar and chest below. A shadowy garment occupies the lower part of the frame, indicated by broad dark shapes rather than crisp seams. Small highlights on the forehead, nose, cheek and beard pull the face forward from the turbulent paint. The surface around the head is active with tiny broken strokes, scumbles and rough impasto, so contours are repeatedly lost and found. There are few hard lines; the gaze and bright facial planes carry recognition. Light appears to come from the upper left, grazing the lifted face and individual raised paint ridges while leaving the outer garment and corners dark. The overall composition makes a single contemplative face visible within an almost abstract storm of earthy marks, balancing human presence with the force of the painted surface.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "71017aa58d1df4e96e859c88c28136786726c3fef01b9c767e25567a90efbe05",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

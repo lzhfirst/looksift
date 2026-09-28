@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white street photograph shows a lone dark silhouette standing beside a high brick wall at night. The figure occupies the lower middle-left in side profile, facing left. A rounded head, short neck, and long coat are visible, but facial features disappear into deep black. A second tall dark shape immediately behind may be the person's shadow on the wall, elongated and slightly irregular. The brick wall rises from the lower center to the top edge, its rough mortar grid sharply illuminated along a narrow vertical band. Most of the right third falls to black, and the left side is a dim open passage. A strong white beam enters diagonally from the far left, cuts through haze, and reaches the ground near the wall. The pavement at lower left is wet or glossy, its small stones catching bright speckled reflections. The top of the passage and edges of surrounding structures remain mostly indistinct. Light creates the composition's geometry: one diagonal shaft, one bright vertical wall, and a dark standing figure at their junction. Grain and slight atmospheric softness sit over the sharper brick texture. The frame has large areas of nearly featureless black, with only selected surfaces drawn out of darkness. There is no visible action beyond the person's still posture. The solitary scale, harsh angled illumination, and deep empty margins make the image tense and contemplative.",
+  "full_prompt_zh": "一幅方形黑白街头摄影呈现一个独自行影在夜里站在高砖墙旁。人物占下部中央偏左，以侧身朝左。圆头、短颈和长外套可辨，面部细节却消失在深黑里。紧贴后方还有一道高深形，可能是人物在墙上被拉长、略不规则的影子。砖墙从下部中央直升到顶缘，粗糙灰缝网格在一条窄竖向光带里清楚受照。右侧三分之一大部分落入黑色，左侧是昏暗开放通道。一束强白光从最左侧斜入，切过薄雾，落到墙附近地面。左下铺地似湿或发亮，小石块接住明亮零碎反光。通道顶部和周围结构边缘大多模糊不清。光构成画面的几何：一道斜光束、一堵竖直亮墙，以及交点处的深色站立人影。颗粒与轻微空气柔化覆盖在较锐利的砖纹上。画幅里有大片几乎无物的黑，只把少数表面从暗中拉出。除了人物静止姿态，没有可见动作。孤独的尺度、严厉斜光与深暗空边让图像紧张而沉思。",
+  "style_prompt_en": "A high-contrast black-and-white street photograph uses deep black negative space, one narrow illuminated vertical plane, and a diagonal shaft of white light. Fine bricklike repeated texture becomes visible only where light grazes it; the rest of the scene disappears into shadow. A compact near-black silhouette interrupts the bright plane low in the frame, with a longer dark echo beside it. Wet-looking specks near the bottom catch small highlights. The beam is softened slightly by haze and film grain, while the lit surface retains crisp local detail. Strong geometric directions and severe value separation organize the sparse composition. Light enters from outside the frame and produces an uneasy stillness, with large unlit intervals around a few closely placed shapes.",
+  "style_prompt_zh": "高反差黑白街头摄影使用深黑负空间、一道狭窄受光竖面和斜向白光束。细密重复砖纹只在掠光处可见，其余场景隐入阴影。紧凑近黑剪影在画幅低处打断亮面，旁边还有更长的深色回声。底部湿润般碎点接住小高光。光束被薄雾和胶片颗粒略微柔化，受光表面则保留清楚局部细节。强几何方向与严厉明度分离组织稀疏构图。光从画外进入，在少量紧邻形块周围留下大段未照亮间隔，形成不安的静止。",
+  "theme_en": "A lone silhouette beside a lit brick wall at night",
+  "theme_zh": "夜里亮砖墙旁的独自剪影",
+  "wh_ratio": "1:1",
+  "id": "2221",
+  "name": "Roy DeCarava",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/roy-decarava",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/roy-decarava.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "649d32212ec39d2c5908f501401293e982dcd008fcb392873fe37f16f14332cf",
+    "gpt_submission_prompt": "A square black-and-white street photograph shows a lone dark silhouette standing beside a high brick wall at night. The figure occupies the lower middle-left in side profile, facing left. A rounded head, short neck, and long coat are visible, but facial features disappear into deep black. A second tall dark shape immediately behind may be the person's shadow on the wall, elongated and slightly irregular. The brick wall rises from the lower center to the top edge, its rough mortar grid sharply illuminated along a narrow vertical band. Most of the right third falls to black, and the left side is a dim open passage. A strong white beam enters diagonally from the far left, cuts through haze, and reaches the ground near the wall. The pavement at lower left is wet or glossy, its small stones catching bright speckled reflections. The top of the passage and edges of surrounding structures remain mostly indistinct. Light creates the composition's geometry: one diagonal shaft, one bright vertical wall, and a dark standing figure at their junction. Grain and slight atmospheric softness sit over the sharper brick texture. The frame has large areas of nearly featureless black, with only selected surfaces drawn out of darkness. There is no visible action beyond the person's still posture. The solitary scale, harsh angled illumination, and deep empty margins make the image tense and contemplative.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "55545b7e1d8480229284ef267a8576892c61d8311abac2d46f6c6383e097dca3",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white engraved image shows a young man in the foreground with a child close beside him, both surrounded by dense foliage and broken architectural fragments. The man's face is lit from the upper right and turned slightly toward the viewer, with short wavy hair, a serious expression, and a dark jacket over a pale collar. One hand curves around the child's head at the lower left, where the smaller face looks forward from a darker pocket of the image. Behind them, pale leaves, crossing branches, and rough stone-like forms fill the upper and left edges, while deep black hatching gathers between those shapes. The foreground man's shoulder and clothing extend toward the lower right, partially cropped by the frame. His features are modeled through fine parallel lines and crosshatching rather than smooth gradients; the child's cheek and brow emerge from the same intricate network of marks. Bright paper white remains on a few facial planes, collar edges, and scattered leaves. A strong light appears to enter from the upper right, making these exposed areas shine while deep shade collects under the brows, behind the heads, and within the busy surroundings. The printed paper has slight grain and the line density varies from open, airy patches to nearly solid black. No lettering is legible. The overall composition is close and dramatic, using dense carved marks to hold the two faces together against a restless, shadow-filled setting.",
+  "full_prompt_zh": "一幅方形黑白雕版图像描绘一位前景年轻男子与紧靠身边的孩子，周围是密集枝叶和破碎的建筑残片。男子的脸从右上方受光，略向观者转来，短卷发、严肃神情，深色外套内露出浅色衣领。他的一只手在左下方围着孩子的头，较小的脸从画面较暗的区域望向前方。其后浅色叶片、交叉枝条和粗糙的石质形体填入上缘与左缘，深黑排线则聚在这些形之间。前景男子的肩膀和衣服向右下延伸，被画边裁去一部分。五官由细密平行线与交叉排线塑形，而非光滑渐变；孩子的脸颊和眉骨也从同一复杂笔痕网络中浮现。少量面部平面、衣领边缘和散落叶片保留亮白纸色。强光似从右上进入，使这些外露区域发亮，浓影积在眉下、头后与繁忙背景内。印刷纸面略有颗粒，线密度从通透疏淡变化到几乎实黑。没有可辨认文字。整体构图贴近而富有戏剧性，用密集刻线把两张脸凝聚在纷乱、充满暗影的环境前。",
+  "style_prompt_en": "Monochrome engraving builds volume with fine parallel cuts, crosshatching, and abrupt changes in line density. Paper white appears in narrow exposed patches against charcoal and near-black clusters, giving the focal forms a sharply sculpted presence. Edges are sometimes crisp and sometimes consumed by surrounding marks; this alternation creates depth without smooth tonal blending. Directional light comes from one upper side, catching select ridges and leaving dense recesses dark. Busy peripheral texture presses toward a more legible central arrangement. Slight printed grain and uneven ink weight retain the physical character of the mark making. The result is dramatic, intimate, and highly tactile.",
+  "style_prompt_zh": "黑白雕版画以细密平行刻线、交叉排线及线条密度的突然变化塑造体积。纸白以狭窄外露片段出现在炭灰和近黑色聚合之间，让焦点形体有锐利的雕塑感。边缘时而清晰，时而被周围笔痕吞没；这种交替无需光滑调性融合也能产生纵深。定向光从一侧上方进入，照到少数凸脊，留下深暗凹处。繁忙的外围肌理向较可读的中央组合挤压。轻微印刷颗粒和不均墨重保留刻痕的物理特征。整体戏剧性强、贴近而极具触感。",
+  "theme_en": "An engraved young man and child amid dark foliage",
+  "theme_zh": "深色枝叶之间的年轻男子与孩子版画",
+  "wh_ratio": "1:1",
+  "id": "4086",
+  "name": "Engraving",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/engraving.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "a8c8f41c3c5584bd0763106b76c84be2264d07ab7d35631c78673f30450df55e",
+    "gpt_submission_prompt": "A square black-and-white engraved image shows a young man in the foreground with a child close beside him, both surrounded by dense foliage and broken architectural fragments. The man's face is lit from the upper right and turned slightly toward the viewer, with short wavy hair, a serious expression, and a dark jacket over a pale collar. One hand curves around the child's head at the lower left, where the smaller face looks forward from a darker pocket of the image. Behind them, pale leaves, crossing branches, and rough stone-like forms fill the upper and left edges, while deep black hatching gathers between those shapes. The foreground man's shoulder and clothing extend toward the lower right, partially cropped by the frame. His features are modeled through fine parallel lines and crosshatching rather than smooth gradients; the child's cheek and brow emerge from the same intricate network of marks. Bright paper white remains on a few facial planes, collar edges, and scattered leaves. A strong light appears to enter from the upper right, making these exposed areas shine while deep shade collects under the brows, behind the heads, and within the busy surroundings. The printed paper has slight grain and the line density varies from open, airy patches to nearly solid black. No lettering is legible. The overall composition is close and dramatic, using dense carved marks to hold the two faces together against a restless, shadow-filled setting.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "154881ccc94e6a6e9af2f47759a41818d8639b8d70f923e120539c0fc702c512",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

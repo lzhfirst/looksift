@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square graphic portrait fills the frame with the close face of a dark-haired woman turning toward the viewer. Her violet eyeshadow and lavender irises draw attention beneath sharply arched black eyebrows. A short sweep of black hair frames the forehead, while a purple collar or garment rises beside the cheek. Red lips and a single dark round earring supply small accents against pale cream skin. The face is simplified into clean flat planes of cream, muted mauve shadow, violet, red, and near black. Precise ink-like contours define the eyes, nose, lips, and jaw, with little texture or graded shading. The background is a deep purple-black block that merges with the hair and clothing at some edges. The composition is very tight and slightly diagonal, so the eyes and lips form the central visual path. Softness comes from controlled color relationships and curved shapes rather than painterly blending. Light is suggested by large pale skin fields against darker shadow planes, not by photographic highlights. The whole image feels like a stylish late-century fashion illustration or animation cel: poised, confident, and graphic. Its impact comes from limited color, expressive gaze, and clean silhouette.",
+  "full_prompt_zh": "一幅方形图形肖像用一位黑发女子回望观者的近面填满画框。紫罗兰色眼影和淡紫虹膜位于高挑黑眉下，牢牢抓住视线。黑色短发弧线围住额头，紫色衣领或服装沿脸颊升起。红唇和一枚深色圆耳饰在浅乳白皮肤前形成小型点缀。面孔简化为乳白、低饱和淡紫暗面、紫、红与近黑的干净平涂色面。准确墨线般轮廓界定眼、鼻、唇与下颌，几乎没有肌理或渐变阴影。背景是一块深紫黑色，与头发和衣服在部分边缘相融。构图极紧且略斜，眼睛与嘴唇形成中央视觉路径。柔和感来自受控色彩关系和弯曲形状，而非绘画性晕染。光由大片浅肤色与较深阴影色面对照暗示，不依靠摄影高光。整幅画像时髦的世纪末时装插画或动画赛璐璐：从容、自信、图形化。冲击力来自有限色彩、表现性目光和干净剪影。",
+  "style_prompt_en": "A flat graphic fashion-illustration style relies on precise dark contours, large clean color planes, and a tightly cropped focal expression. Cream, violet, muted mauve, red, and near black remain distinct, with little gradient or texture. Curved hair or surrounding shapes merge into a deep background, making the lighter central form stand forward. Small saturated accents at eyes or lips provide rhythm without clutter. Light is implied by adjacent pale and dark planes rather than realistic shine. The composition can tilt subtly, guiding attention between a few expressive details. The finish is poised, stylish, and cel-like, with clarity and limited color doing the work.",
+  "style_prompt_zh": "平面图形时装插画风格依靠准确深色轮廓、大块干净色面和紧密裁切的焦点表情。乳白、紫罗兰、低饱和淡紫、红和近黑保持分明，渐变和肌理极少。弯曲头发或周围形状融入深背景，让较浅中央形体向前。眼或唇的小面积饱和点缀形成节奏，不显杂乱。光由相邻浅深色面暗示，而非真实反光。构图可稍倾斜，引视线穿过少数有表现力的细节。效果从容、时髦、像赛璐璐动画，靠清晰与有限颜色起作用。",
+  "theme_en": "A dark-haired woman with violet eye makeup in a flat graphic close-up",
+  "theme_zh": "一位黑发女子带紫色眼妆，以平面图形特写呈现",
+  "wh_ratio": "1:1",
+  "id": "4285",
+  "name": "Patrick Nagel",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/patrick-nagel.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "39d3a4baa96f483675597fb2a2fa41e0e17a9495bd1e087ce267fe94714bdfb5",
+    "gpt_submission_prompt": "A square graphic portrait fills the frame with the close face of a dark-haired woman turning toward the viewer. Her violet eyeshadow and lavender irises draw attention beneath sharply arched black eyebrows. A short sweep of black hair frames the forehead, while a purple collar or garment rises beside the cheek. Red lips and a single dark round earring supply small accents against pale cream skin. The face is simplified into clean flat planes of cream, muted mauve shadow, violet, red, and near black. Precise ink-like contours define the eyes, nose, lips, and jaw, with little texture or graded shading. The background is a deep purple-black block that merges with the hair and clothing at some edges. The composition is very tight and slightly diagonal, so the eyes and lips form the central visual path. Softness comes from controlled color relationships and curved shapes rather than painterly blending. Light is suggested by large pale skin fields against darker shadow planes, not by photographic highlights. The whole image feels like a stylish late-century fashion illustration or animation cel: poised, confident, and graphic. Its impact comes from limited color, expressive gaze, and clean silhouette.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "a02beac73b88dfbd0278ee426d2822b3f329f4d640ff4a5f97123d32fd438364",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

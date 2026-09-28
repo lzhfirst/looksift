@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "The painting shows two figures paused in conversation on a grassy bank beside a garden. At left, a man in a dark blue jacket and trousers crouches low with one knee raised, turning his face toward the woman opposite him. At right, a red-haired woman sits in a full ochre and amber dress. Her elbow rests on her knee and one hand touches her face, giving the exchange a thoughtful, suspended rhythm. A small clutch of pale flowers lies in the foreground near their feet. The ground between and around them is made from short, broken strokes of emerald, turquoise, yellow green, and blue. Behind them, a pale stone building and a low bridge or terrace mark the edge of a waterside garden, with a few tiny figures dissolving into the distance. The bright outdoor light does not form hard shadows; instead, warm color flecks shimmer on clothing, grass, and architecture. The woman's dress is built from many curving dabs of rust, gold, cream, and burnt orange, while the man's suit gathers cooler navy and violet touches. Their outlines remain readable, though every surface flickers with individual brushmarks. The composition places the figures in the lower half, allowing airy architecture and foliage to open behind them. It feels like a fleeting social moment held by luminous impressionist color, with the viewer close enough to sense the conversation but still aware of the garden air surrounding it.",
+  "full_prompt_zh": "画面描绘两人在花园旁的草坡上暂停交谈。左侧男子穿深蓝外套与长裤，屈身蹲坐，一侧膝盖抬起，转脸朝向对面的女子。右侧红发女子穿宽大的赭黄与琥珀色长裙，肘部支在膝上，一只手轻触面颊，让交流呈现若有所思的停顿。前景脚边有一小簇浅色花。人物之间和四周的草地由祖母绿、湖蓝、黄绿和蓝色的短促断笔组成。后方淡色石建筑及低矮桥道或露台标示水边花园的边缘，几名微小人物逐渐消失于远处。明亮户外光没有形成硬阴影，而是用温暖色点在衣料、草地与建筑表面闪动。女子裙摆由铁锈色、金色、奶油色和焦橙色的弯曲笔触织成；男子服装则聚集海军蓝和紫罗兰色。两人的轮廓仍可辨认，但每个表面都有独立笔痕在颤动。构图把人物放在下半部，让轻盈建筑与植物在身后展开。它像一段被发光的印象派色彩留住的社交瞬间：观者离交谈足够近，也仍能感到包围他们的花园空气。",
+  "style_prompt_en": "Use luminous impressionist oil painting with short, broken strokes and visible color mixing on the surface. Build forms from adjacent dabs of turquoise, emerald, violet, ochre, cream, and warm orange rather than smooth gradients. Keep contours legible but softly interrupted by flickering marks. Let outdoor light appear through warm and cool color vibration, with airy recession and small distant details. Arrange the square composition around a close focal interaction while allowing textured surroundings to remain active.",
+  "style_prompt_zh": "采用明亮的印象派油画方式，以短促断笔和可见的表面色彩混合塑造形体。用相邻的湖蓝、祖母绿、紫罗兰、赭黄、奶油白及暖橙色点替代平滑渐变。轮廓保持可读，却被闪烁笔痕柔和打断。通过冷暖色的颤动呈现户外光，保留通透的纵深和细小远景。方形构图围绕较近的视觉交流组织，同时让有肌理的周围环境保持活跃。",
+  "theme_en": "Conversation beside a sunlit garden",
+  "theme_zh": "日照花园旁的交谈",
+  "wh_ratio": "1:1",
+  "id": "1219",
+  "name": "Louis Ritman",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/louis-ritman",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/louis-ritman.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "c4bb44f634aeddf0844f8ea00a8e0e277ee888c4064627a2bbce7f44a6235d3d",
+    "gpt_submission_prompt": "The painting shows two figures paused in conversation on a grassy bank beside a garden. At left, a man in a dark blue jacket and trousers crouches low with one knee raised, turning his face toward the woman opposite him. At right, a red-haired woman sits in a full ochre and amber dress. Her elbow rests on her knee and one hand touches her face, giving the exchange a thoughtful, suspended rhythm. A small clutch of pale flowers lies in the foreground near their feet. The ground between and around them is made from short, broken strokes of emerald, turquoise, yellow green, and blue. Behind them, a pale stone building and a low bridge or terrace mark the edge of a waterside garden, with a few tiny figures dissolving into the distance. The bright outdoor light does not form hard shadows; instead, warm color flecks shimmer on clothing, grass, and architecture. The woman's dress is built from many curving dabs of rust, gold, cream, and burnt orange, while the man's suit gathers cooler navy and violet touches. Their outlines remain readable, though every surface flickers with individual brushmarks. The composition places the figures in the lower half, allowing airy architecture and foliage to open behind them. It feels like a fleeting social moment held by luminous impressionist color, with the viewer close enough to sense the conversation but still aware of the garden air surrounding it.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "d6f24c6f331ae3be4dba38fdc70a3483c00d80b67b9db79912aad96e0569378f",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

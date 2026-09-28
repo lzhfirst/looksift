@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square visionary portrait painting shows an elderly crowned figure with a long white beard and round amber goggles against an ornate blue-gray interior. The bust fills the central frame from the shoulders upward. A tall pale crown rises to the top edge, its carved branches, spires, and circular motifs merging with the decorative wall behind it. Two large circular goggles sit over the eyes, their amber lenses reflecting warm light and obscuring any direct gaze. The face below them is pale green-gray, with a strong nose, closed mouth, and finely wrinkled cheeks. A long cream beard descends across the chest in dense soft strands, contrasting with the cool blue-gold embroidered garment. The shoulders are broad but quietly posed, nearly symmetrical. Behind them, vertical panels and intricate line patterns frame the head like an old ceremonial chamber. A thin pale staff or rod rises diagonally along the right side, crossing the patterned background without covering the face. The surface is dense with engraved-looking marks, worn paint, and delicate gold accents; no single architectural detail dominates. Light falls softly from the left, brightening the crown, goggles, nose, and beard while the panel recesses remain deep blue-green. Warm amber circles become the strongest color against the cool aged palette. No legible writing is visible among the ornament. The overall composition is solemn and uncanny, joining ritual symmetry, mechanical eyewear, and finely weathered decoration around a still central face.",
+  "full_prompt_zh": "这幅方形幻想性肖像绘画呈现一名戴王冠的老人，长白须、圆形琥珀护目镜，背景是华丽蓝灰室内。半身像从肩以上填满中央。高高浅色冠饰升至上沿，雕刻枝杈、尖塔与圆形图案和身后装饰墙面相融。两只大圆护目镜盖住眼睛，琥珀镜片反射暖光，遮住直接目光。镜下脸为浅绿灰色，有挺鼻、闭口和细致皱纹。一把长奶油色胡须以密而柔的发丝垂到胸前，与冷蓝金刺绣衣装形成对照。肩膀宽阔但姿态安静，几乎对称。身后竖向面板和繁复线纹像古老仪式厅一样框住头部。一根细浅色杖或杆沿右侧斜升，穿过花纹背景却不遮面孔。表面满是雕刻般痕迹、磨旧颜料和细金色点缀；没有某个单独建筑细节占主导。光从左侧柔和落下，照亮王冠、护目镜、鼻子和胡须，面板凹处保持深蓝绿。暖琥珀圆形成为冷调陈旧色盘中的最强颜色。纹饰间没有可读文字。整体构图庄严而诡异，围绕静止中央面孔结合仪式对称、机械眼镜与精细风化装饰。",
+  "style_prompt_en": "Visionary portrait painting layers intricate engraved-looking ornament, pale aged surfaces, and muted blue-green shadow around a symmetrical focal structure. Amber and dull gold circles concentrate warmth within cream, slate, and teal. Fine vertical lines, delicate surface wear, and soft hair-like texture make the scene materially dense, while broad shoulder masses hold the composition steady. Diffuse side light lifts raised decoration and leaves panel recesses deep. Organic and mechanical motifs interlock without separating into clean modern components. The overall effect is ceremonial, tactile, and strange.",
+  "style_prompt_zh": "幻想性肖像绘画在近乎对称的焦点结构周围叠加繁复雕刻般装饰、浅色陈旧表面与柔和蓝绿阴影。琥珀和暗金圆形把暖色集中在奶油、石板与蓝绿之间。细竖线、精巧表面磨痕及毛发般柔软纹理使场景材质密集，宽阔肩形色团稳定构图。漫射侧光抬亮凸纹，面板凹处保持深暗。有机与机械图案交锁，不分成干净现代零件。整体有仪式感、可触且奇异。",
+  "theme_en": "An elderly crowned figure wearing round amber goggles",
+  "theme_zh": "一名头戴王冠、佩圆形琥珀护目镜的老人",
+  "wh_ratio": "1:1",
+  "id": "2565",
+  "name": "Ernst Fuchs",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/ernst-fuchs",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/ernst-fuchs.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "5046b387ad122ed41dd704bcf9eb525eb6595430c071a1fb3924514c7a9b1fbb",
+    "gpt_submission_prompt": "A square visionary portrait painting shows an elderly crowned figure with a long white beard and round amber goggles against an ornate blue-gray interior. The bust fills the central frame from the shoulders upward. A tall pale crown rises to the top edge, its carved branches, spires, and circular motifs merging with the decorative wall behind it. Two large circular goggles sit over the eyes, their amber lenses reflecting warm light and obscuring any direct gaze. The face below them is pale green-gray, with a strong nose, closed mouth, and finely wrinkled cheeks. A long cream beard descends across the chest in dense soft strands, contrasting with the cool blue-gold embroidered garment. The shoulders are broad but quietly posed, nearly symmetrical. Behind them, vertical panels and intricate line patterns frame the head like an old ceremonial chamber. A thin pale staff or rod rises diagonally along the right side, crossing the patterned background without covering the face. The surface is dense with engraved-looking marks, worn paint, and delicate gold accents; no single architectural detail dominates. Light falls softly from the left, brightening the crown, goggles, nose, and beard while the panel recesses remain deep blue-green. Warm amber circles become the strongest color against the cool aged palette. No legible writing is visible among the ornament. The overall composition is solemn and uncanny, joining ritual symmetry, mechanical eyewear, and finely weathered decoration around a still central face.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "c76493510e2944177730bab5917c628aec36f544663e031b1602ee7dedb0bcab",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square dramatic manga illustration shows a young fighter driving forward through a storm of red, black and ochre marks. The head is lowered and turned slightly toward the viewer, with tousled dark hair, narrowed eyes and an intense expression. A broad diagonal form, likely an arm or blade, cuts from the lower left across the center, partly obscuring the body. Dark clothing and armored-looking fragments merge with the turbulent background, making the face and central gesture the clearest points. Flecks, scratches and brush splashes scatter toward the edges, especially above and to the right. Hot orange and rust red occupy much of the frame, while black shapes compress the space around the figure. Pale cream strokes across the foreground provide a sharp countercurrent. Light seems to erupt from the lower left and center, illuminating the face and diagonal form while leaving the upper background in fiery shadow. Fine manga linework describes the eyes, hair and strained features; broader painted marks carry the action. The composition is tightly cropped, with no calm setting or horizon. Its force comes from converging diagonals and high contrast rather than a precisely shown sequence of events. The image feels urgent, violent and cinematic, a single instant suspended in flying debris and color.",
+  "full_prompt_zh": "这幅方形戏剧性漫画插画呈现一名年轻战士穿过红、黑和赭色笔记风暴向前冲。头压低、略转向观者，深乱发、眯起的眼睛与紧绷神情构成焦点。一块宽斜形，可能是手臂或刀刃，从左下切过中央，部分遮住身体。深衣和像铠甲的碎片与躁动背景相融，使面孔和中央动作最清楚。飞屑、刮痕与泼刷向边缘散开，尤其在上方和右侧。炽热橙与锈红占据大半画面，黑色块压紧形体周围空间。前景浅奶油笔触提供尖锐逆向流动。光像从左下及中央爆开，照亮面孔与斜形，让上方背景留在火红阴影里。细漫画线描出眼、发与紧绷五官；更宽绘画笔记承载动作。构图裁切紧密，没有安静环境或地平线。力量来自汇聚的斜线与高对比，而非精准展示事件顺序。图像急迫、激烈而有电影感，像一瞬被悬在飞碎与色彩里。",
+  "style_prompt_en": "The manga-inspired illustration combines precise dark linework at a compact focal point with explosive painted splashes. Rust red, fiery orange, black and pale cream collide in a narrow high-contrast palette. Broad diagonals converge through the center, while flecks and scratches break outward toward every edge. Local light flashes across one pale plane and leaves surrounding passages dense and dark. Tight cropping and restless mark density produce urgent cinematic motion.",
+  "style_prompt_zh": "这种漫画气息插画把紧凑焦点处的准确暗线与爆发性绘画飞溅结合。锈红、火橙、黑与浅奶油色在狭窄高对比色盘里碰撞。宽斜线穿过中央汇聚，飞屑和刮痕向每条边缘破开。局部光闪过一处浅色平面，周围段落保持密集深暗。紧裁切与躁动笔迹密度产生急迫的电影运动感。",
+  "theme_en": "A determined fighter surging through a red and black field",
+  "theme_zh": "在红黑色域中冲出的坚决战士",
+  "wh_ratio": "1:1",
+  "id": "4221",
+  "name": "Hajime Isayama",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/hajime-isayama.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "00233c8c3deb8f96577a642ce75a9542df86d8fb365351bc507b63a4885835fe",
+    "gpt_submission_prompt": "A square dramatic manga illustration shows a young fighter driving forward through a storm of red, black and ochre marks. The head is lowered and turned slightly toward the viewer, with tousled dark hair, narrowed eyes and an intense expression. A broad diagonal form, likely an arm or blade, cuts from the lower left across the center, partly obscuring the body. Dark clothing and armored-looking fragments merge with the turbulent background, making the face and central gesture the clearest points. Flecks, scratches and brush splashes scatter toward the edges, especially above and to the right. Hot orange and rust red occupy much of the frame, while black shapes compress the space around the figure. Pale cream strokes across the foreground provide a sharp countercurrent. Light seems to erupt from the lower left and center, illuminating the face and diagonal form while leaving the upper background in fiery shadow. Fine manga linework describes the eyes, hair and strained features; broader painted marks carry the action. The composition is tightly cropped, with no calm setting or horizon. Its force comes from converging diagonals and high contrast rather than a precisely shown sequence of events. The image feels urgent, violent and cinematic, a single instant suspended in flying debris and color.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "bd582ebd84d69a249179724c3a8c9a2c12fbecfbb9864a44701bac162a03fbeb",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-gray intaglio print shows a jagged dark form cutting across a pale, cracked field. The printed image sits inside a rectangular plate area with uneven gray edges and a wide warm-white paper margin. Near the upper left, a thick black diagonal descends toward the center, splitting into irregular angular masses. A lighter fractured shape rises beside it, while thin branching lines and fissures spread through the upper and right side. The lower left is a grainy gray wash; the lower center contains the deepest dark wedge, so the image feels pulled toward a narrow internal chasm. The forms suggest stone or broken material, yet remain partly abstract, their exact scale and setting deliberately unresolved. Tonal depth comes from finely etched lines, dense black ink, rubbed grays, and pale paper reserves rather than color. The plate surface has scratches, mottled bite marks, and irregular pressure at the edges, making the printed process visible. Light appears to graze from the upper right, where the palest areas catch the eye; dark incisions and overlapping fragments remain heavily shadowed. The surrounding paper stays plain and bright, isolating the active square of marks. No text is present. The overall composition is tense and mineral, balancing a deep diagonal cut with pale fractured space and the quiet margin of the sheet.",
+  "full_prompt_zh": "一幅方形黑灰凹版画呈现一道锯齿状深色形体，切过浅色开裂的色域。印出的画面收在边缘灰度不均的矩形版面内，四周有宽阔的暖白纸边。左上方一条厚黑斜线向中央下降，分裂成不规则棱角体量。旁边一块较浅的破碎形体升起，细枝状线条与裂隙蔓延到上方和右侧。左下是带颗粒的灰色擦痕；下方中央含最深的黑色楔形，使画面似乎被拉向狭窄的内部裂谷。形体让人想到石块或断裂材料，却仍部分抽象，其真实尺度和环境有意不确定。调性纵深来自细蚀刻线、浓黑油墨、擦淡灰度和保留纸白，而非色彩。版面有划痕、斑驳腐蚀痕迹与边缘不均压力，令印制过程可见。光仿佛从右上擦来，最浅区域抓住目光；深切口与重叠碎片则保持浓影。周围纸面朴素而明亮，把活跃的方形笔痕隔离出来。没有文字。整体构图紧张而富矿物感，以深斜向切口平衡浅色裂面与安静的纸边。",
+  "style_prompt_en": "Intaglio printmaking gives fine etched lines, bitten texture, rubbed gray tone, and dense black pools equal importance. Jagged diagonals cross branching hairline fissures, and some edges dissolve into grain while others remain sharply incised. The palette is limited to warm paper white, smoky gray, charcoal, and black. Illumination reads as pale reserved areas beside deep ink cuts, with a slight one-sided grazing effect. A concentrated dark wedge meets larger fractured light zones inside a plainly bordered plate impression. The image feels tactile, austere, and charged with compressed movement.",
+  "style_prompt_zh": "凹版印刷让细蚀刻线、腐蚀肌理、擦出的灰度与浓黑墨池同样重要。锯齿斜线穿过分枝发丝裂纹，有些边缘消进颗粒，有些保持锐利刻口。色域限于暖纸白、烟灰、炭灰与黑。照明表现为深墨切口旁保留的浅色区域，略带单侧擦光效果。集中的深色楔形在朴素版面边框内与更大的破碎亮区相接。画面有触感、朴峭，并压缩着动势。",
+  "theme_en": "A dark jagged form printed against a pale cracked field",
+  "theme_zh": "浅色裂纹底面前印出的深色锯齿形",
+  "wh_ratio": "1:1",
+  "id": "4102",
+  "name": "Intaglio print",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/intaglio-print.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "455cf770bd31e9f5de08d2432bcec7e6462fe485e2c4b2156cd5981f3536db36",
+    "gpt_submission_prompt": "A square black-and-gray intaglio print shows a jagged dark form cutting across a pale, cracked field. The printed image sits inside a rectangular plate area with uneven gray edges and a wide warm-white paper margin. Near the upper left, a thick black diagonal descends toward the center, splitting into irregular angular masses. A lighter fractured shape rises beside it, while thin branching lines and fissures spread through the upper and right side. The lower left is a grainy gray wash; the lower center contains the deepest dark wedge, so the image feels pulled toward a narrow internal chasm. The forms suggest stone or broken material, yet remain partly abstract, their exact scale and setting deliberately unresolved. Tonal depth comes from finely etched lines, dense black ink, rubbed grays, and pale paper reserves rather than color. The plate surface has scratches, mottled bite marks, and irregular pressure at the edges, making the printed process visible. Light appears to graze from the upper right, where the palest areas catch the eye; dark incisions and overlapping fragments remain heavily shadowed. The surrounding paper stays plain and bright, isolating the active square of marks. No text is present. The overall composition is tense and mineral, balancing a deep diagonal cut with pale fractured space and the quiet margin of the sheet.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "15e1319af53f126dbbfe8a19af14ac62ad13dfab2f84ff45ab6671699ed5df0c",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

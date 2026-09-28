@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square mixed media portrait presents a young artist facing the viewer head-on with a serious, unwavering expression. Short upright dreadlocks make an irregular dark crown, and a patterned dark jacket and white collar frame the lower face. The features are drawn in forceful black-and-white values, with deep eye sockets, a pale forehead, and strong shadow under the cheekbones. Behind and partly across the figure lies a wall of pasted paper, scraped black ink, faded handwriting, and broad blocks of red. The composition is tightly centered but remains rough at the edges, like a street poster repeatedly pasted over and torn away. Dense charcoal marks darken the hair and upper background; thinner scratches and fragments of lettering animate the margins. A narrow white border makes the square feel like a found print or album sleeve. The red accents are uneven and abraded rather than bright flat fills, and the cream ground shows stains and wear. Frontal gaze and hard contrast give the sitter monumental presence despite the small crop. The image combines documentary directness with expressive urban collage, allowing the marks around the head to carry the turbulence while the face stays still. The whole frame feels gritty, layered, and printed rather than cleanly digital.",
+  "full_prompt_zh": "一幅方形混合媒介肖像呈现一位年轻艺术家正面面对观者，表情严肃而坚定。短而竖立的发辫形成不规则深色发冠，带纹理的深色外套和白衣领围住下方面孔。五官由有力的黑白明度构成：眼窝深重，额头较浅，颧骨下有强影。人物身后与身上局部覆盖贴纸、刮擦黑墨、褪色手写字和大块红色。构图紧密居中，但边缘保持粗糙，像一张不断被新纸覆盖又撕开的街头海报。浓密炭笔痕迹压暗头发与上方背景，较细刮痕和文字碎片使四周活跃。一圈窄白边让方形画像拾来的印刷品或唱片封套。红色点缀不均匀且被磨蚀，而不是鲜亮平涂；乳白色底面带有污渍和磨损。正面目光与硬反差使人物即使在小幅裁切中仍有纪念碑式存在感。画面结合纪实般的直接性和表现性的都市拼贴，头部周围的笔迹承担躁动，而面孔保持静止。整体粗粝、层叠、像印刷品，而非干净的数字画面。",
+  "style_prompt_en": "A gritty mixed media print style pairs a still, high-contrast focal form with restless urban collage. Black ink, charcoal, cream paper, and abraded red blocks form a restrained but forceful palette. Repeated pasted-paper layers, scratches, faded lettering, and torn edges give the background history and friction. A frontal central composition gains energy from irregular marks and uneven registration around its margins. Hard light and dark structure define the focal features, while distressed texture breaks up broad value fields. The result should feel like a weathered street poster or found album print, with material wear and hand pressure visible throughout.",
+  "style_prompt_zh": "粗粝的混合媒介印刷风格把静止的高反差焦点形态与躁动的都市拼贴并置。黑墨、木炭、乳白纸面和磨蚀的红色块构成克制却有力的配色。反复叠贴的纸层、刮痕、褪色字迹和撕裂边缘给背景留下时间与摩擦。正面居中的构图靠四周不规则笔迹和不均匀套印获得活力。硬朗明暗结构界定焦点细节，磨损肌理打破大块明度。结果像风化的街头海报或拾来的唱片印刷品，材料磨耗与手工压力通篇可见。",
+  "theme_en": "A stern young artist before layered black-and-red graffiti collage",
+  "theme_zh": "一位神情严肃的年轻艺术家立于黑红涂鸦拼贴前",
+  "wh_ratio": "1:1",
+  "id": "4391",
+  "name": "Jean-Michel Basquiat",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/jean-michel-basquiat.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "de338ce3ccfcbe0089bb7a98e0f043dd8928dc4cf529bc088d7f8badabcb0145",
+    "gpt_submission_prompt": "A square mixed media portrait presents a young artist facing the viewer head-on with a serious, unwavering expression. Short upright dreadlocks make an irregular dark crown, and a patterned dark jacket and white collar frame the lower face. The features are drawn in forceful black-and-white values, with deep eye sockets, a pale forehead, and strong shadow under the cheekbones. Behind and partly across the figure lies a wall of pasted paper, scraped black ink, faded handwriting, and broad blocks of red. The composition is tightly centered but remains rough at the edges, like a street poster repeatedly pasted over and torn away. Dense charcoal marks darken the hair and upper background; thinner scratches and fragments of lettering animate the margins. A narrow white border makes the square feel like a found print or album sleeve. The red accents are uneven and abraded rather than bright flat fills, and the cream ground shows stains and wear. Frontal gaze and hard contrast give the sitter monumental presence despite the small crop. The image combines documentary directness with expressive urban collage, allowing the marks around the head to carry the turbulence while the face stays still. The whole frame feels gritty, layered, and printed rather than cleanly digital.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "2f76c93452d0d6ce336dcbf96811087c912d087cc670cd5a7108bc291614eeac",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

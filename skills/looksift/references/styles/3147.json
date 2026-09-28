@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A pointillist seaside painting shows two visitors seated on a terrace, looking out over calm turquoise water toward several pale sailboats. Their backs occupy the lower middle: one is a warm brown shape with copper-colored hair, the other a dark navy silhouette under a small hat. A low golden railing divides the terrace from the sea and carries a strong horizontal rhythm across the square. Above, the sky is packed with rounded ivory and blush clouds floating through yellow and blue-green bands. The sea is comparatively simple, a broad cool strip beneath the restless sky, and the foreground terrace glows ochre. Rather than blending smooth gradients, the painted surface is built from countless tiny dots and short specks. Cream, peach, yellow, teal, rust, and navy sit beside one another, making light seem to vibrate across clouds, water, and figures. Edges are gentle but remain readable because the large color masses are carefully separated. Daylight feels warm and diffuse, with no hard shadow; the brightest passages are the clouds and small sails. The composition is calm and frontal, its parallel horizon and railing countering the soft cloud shapes. The two seated forms create a human scale without becoming the scene's only subject. The image feels airy, patterned, and quietly contemplative, with the grain of colored paint visible across the whole frame.",
+  "full_prompt_zh": "一幅点彩派海滨画描绘两位游人坐在露台上，望向平静青绿海面上几艘浅色帆船。两人的背影占据下方中部：一位是暖棕色体块、铜色头发，另一位戴着小帽，成为深海军蓝剪影。低低的金色栏杆把露台与大海分开，在方形画面中形成强烈横向节奏。上方天空堆满圆润的象牙白和淡粉云朵，漂浮在黄色与蓝绿色色带之间。海面相对简洁，是多变天空之下的一条宽阔冷色带，前景露台则泛着赭黄光泽。画面不把渐变抹平，而由无数细小色点与短碎笔迹拼成。奶油白、桃色、黄色、青绿、铁锈色和海军蓝彼此并置，使光似乎在云、水和人物之间震颤。边缘柔和，却因大色块分割审慎而依然可辨。日光温暖漫射，没有硬影；最亮处是云朵与小小船帆。构图安静而正面，平行的地平线与栏杆抵住柔软云形。两道坐姿身影提供人的尺度，却没有成为场景唯一主题。整个画面通透、图案化、静静沉思，彩色颜料的颗粒遍布全幅。",
+  "style_prompt_en": "A pointillist painting assembled from countless small dots and short color specks. Rounded ivory and blush patches float in broad yellow and blue-green bands above a calmer turquoise middle strip and ochre lower field. Two compact dark and warm masses interrupt the horizontal order. Color neighbors remain distinct, producing luminous vibration instead of smooth gradients. Edges are soft but the major planes stay legible. Diffuse warm daylight creates few hard shadows. Parallel bands and repeated cloud forms give the composition a quiet, gently patterned rhythm.",
+  "style_prompt_zh": "一幅由无数小色点与短碎笔迹拼成的点彩绘画。圆润的象牙白与淡粉色斑漂在宽阔黄、蓝绿色带里，下方是更平静的青绿中段与赭黄底部。两组紧凑的深色和暖色形体打断横向秩序。相邻色彩保持分明，形成发光般的震颤，而非平滑渐变。边缘柔软，大色面仍清晰。漫射暖日光几乎不产生硬影。平行色带与重复云形让构图呈现安静、轻柔图案化的节奏。",
+  "theme_en": "Two visitors watching sailboats from a seaside terrace",
+  "theme_zh": "海边露台上望着帆船的两位游人",
+  "wh_ratio": "1:1",
+  "id": "3147",
+  "name": "Charles Angrand",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/charles-angrand",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "344d01b881863e7430566eb30280a0dd514e6a39e7dc64042e6e58b730667025",
+    "gpt_submission_prompt": "A pointillist seaside painting shows two visitors seated on a terrace, looking out over calm turquoise water toward several pale sailboats. Their backs occupy the lower middle: one is a warm brown shape with copper-colored hair, the other a dark navy silhouette under a small hat. A low golden railing divides the terrace from the sea and carries a strong horizontal rhythm across the square. Above, the sky is packed with rounded ivory and blush clouds floating through yellow and blue-green bands. The sea is comparatively simple, a broad cool strip beneath the restless sky, and the foreground terrace glows ochre. Rather than blending smooth gradients, the painted surface is built from countless tiny dots and short specks. Cream, peach, yellow, teal, rust, and navy sit beside one another, making light seem to vibrate across clouds, water, and figures. Edges are gentle but remain readable because the large color masses are carefully separated. Daylight feels warm and diffuse, with no hard shadow; the brightest passages are the clouds and small sails. The composition is calm and frontal, its parallel horizon and railing countering the soft cloud shapes. The two seated forms create a human scale without becoming the scene's only subject. The image feels airy, patterned, and quietly contemplative, with the grain of colored paint visible across the whole frame.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "efb22ed1b750ed701fd2dee180977950e550ac6ce67efce60be96133609fd411",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

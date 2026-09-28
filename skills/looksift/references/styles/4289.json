@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square false-color thermographic image shows the left-facing profile of a person from shoulders to crown against an almost black field. The nose, brow, chin, and neck make a sharply recognizable outer silhouette, while the inside of the head becomes a layered map of radiant temperature. Hot orange and yellow light gathers across the cheek, jaw, throat, and front of the shoulder. Red filaments trace the crown and temple, and cooler greenish-gray zones pass through the back of the neck and dark clothing. The hair appears as a translucent red arc over deeper black patches, with small irregular swirls and speckled transitions instead of normal photographic skin detail. A heavy dark garment occupies the lower right, its seams only partly visible through the glowing overlay. The face looks calm and still, gazing left beyond the frame. The composition is stark: most of the image is a dark empty background, and all visual activity lies within the single luminous contour. The color is intense but limited, moving from black through red, orange, and bright yellow, with occasional muted cool edges. Thermal grain, soft halos, and ghosted internal layers make the subject seem simultaneously physical and spectral. There is no measurement legend, typography, frame graphic, or second subject.",
+  "full_prompt_zh": "一幅方形伪彩热成像图显示一个人从肩到头顶的向左侧影，背景几乎全黑。鼻、眉、下巴和颈形成清晰可认的外剪影，头内部则成为辐射温度的层叠地图。炽热橙黄光聚在面颊、下颌、喉部和肩前。红色丝纹勾出头顶与太阳穴，较冷的绿灰色区穿过后颈与深衣。头发像覆在更深黑斑上的半透明红弧，带不规则小涡旋和斑点过渡，而非普通摄影皮肤细节。厚重深色衣物占右下，缝线仅部分透过发光叠层可见。面孔平静静止，朝左望向画外。构图鲜明：大半画面是深暗空背景，所有视觉活动都集中在一条发光轮廓里。颜色强烈但受限，从黑经过红、橙到明黄，偶有低调冷边。热成像颗粒、柔光晕和重影内部层使主体同时显得实体而幽灵化。没有测量色标、文字、框图或第二主体。",
+  "style_prompt_en": "False-color thermal imaging with a stark dark field and a single crisp outer silhouette filled by soft, shifting heat layers. Saturated red, orange, and yellow glow through black, with sparse cooler green-gray traces. Speckled gradients, translucent internal swirls, and fine thermal grain soften the bright zones. A large field of negative space intensifies the luminous contour and gives the image a spectral, scientific mood.",
+  "style_prompt_zh": "伪彩热成像由鲜明深色场与单一清楚外剪影组成，轮廓内部填满柔和流动的热层。饱和红、橙、黄从黑中发光，稀疏冷绿灰痕迹穿行其间。斑点渐层、半透明内部涡旋和细热颗粒软化亮区。大面积负空间强化发光轮廓，带幽灵般的科学图像气息。",
+  "theme_en": "A glowing thermal profile against deep black",
+  "theme_zh": "深黑背景前发光的热成像侧影",
+  "wh_ratio": "1:1",
+  "id": "4289",
+  "name": "Thermograph",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/thermograph.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "578351be4ba93d4b646c331a4f640ff6a0e14c623c9c3e952394659315af5b8a",
+    "gpt_submission_prompt": "A square false-color thermographic image shows the left-facing profile of a person from shoulders to crown against an almost black field. The nose, brow, chin, and neck make a sharply recognizable outer silhouette, while the inside of the head becomes a layered map of radiant temperature. Hot orange and yellow light gathers across the cheek, jaw, throat, and front of the shoulder. Red filaments trace the crown and temple, and cooler greenish-gray zones pass through the back of the neck and dark clothing. The hair appears as a translucent red arc over deeper black patches, with small irregular swirls and speckled transitions instead of normal photographic skin detail. A heavy dark garment occupies the lower right, its seams only partly visible through the glowing overlay. The face looks calm and still, gazing left beyond the frame. The composition is stark: most of the image is a dark empty background, and all visual activity lies within the single luminous contour. The color is intense but limited, moving from black through red, orange, and bright yellow, with occasional muted cool edges. Thermal grain, soft halos, and ghosted internal layers make the subject seem simultaneously physical and spectral. There is no measurement legend, typography, frame graphic, or second subject.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "f1e42552b023d2bde50658ec3c618088a82e77500ca6a685f83a8d99b04045c8",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

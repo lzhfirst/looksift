@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square vintage storybook illustration shows two children running across a snow-dusted yard beside a rough stone wall. The child on the left, in a muted green coat and reddish cap, bends forward with one knee lifted and arms pulled back. The child on the right wears a dark teal coat, a green cap, and sturdy brown boots, turning away as the coat flares with motion. Pale snow gathers irregularly along the top of the wall, between the stones, and over the ground. A small rabbit sits on the wall near the upper left, watching the commotion. Behind the wall, simple gray building facades and a hanging chain are lightly indicated. The children occupy the middle band, and their diagonal running poses animate an otherwise quiet winter courtyard. Fine brown ink outlines define faces, clothing folds, mortar joints, and small footprints, while transparent watercolor washes keep colors soft and slightly faded. The paper is warm cream with visible grain and an aged border. Shadows are modest, and the light is even and cold, allowing detail to read without dramatic modeling. The image feels playful and gently observational, like a page from a nineteenth-century illustrated book. There is no readable caption or ornate title within the picture.",
+  "full_prompt_zh": "一幅方形复古故事书插画中，两个孩子在粗糙石墙旁覆着薄雪的院子里奔跑。左边孩子穿低调绿外套和红褐帽，身体前倾，一膝抬起，手臂向后收。右边孩子穿深青绿外套、绿帽和结实棕靴，转身跑开，衣摆随动作扬起。浅雪不规则地积在墙顶、石缝与地上。一只小兔坐在左上墙头，望着热闹。墙后只淡淡画出灰色建筑立面和悬挂链条。孩子占中间横带，斜向奔跑姿势使安静冬院活起来。细棕墨线刻出脸、衣褶、灰缝和小脚印；透明水彩洗色让颜色柔和略褪。纸张暖奶油色，见颗粒与陈旧边沿。阴影不强，光线均匀而冷，细节无需戏剧塑形也清楚。画面顽皮且温柔观察，像十九世纪插图书的一页。图内没有可读字幕或华丽标题。",
+  "style_prompt_en": "Vintage storybook illustration with fine brown ink contours, delicate hatching, and transparent watercolor washes on warm cream paper. Muted green, russet, gray, and pale off-white build a softly faded palette. Lively diagonal gestures sit within a quiet, carefully observed setting. Modest shadows, visible paper grain, and small descriptive marks preserve the gentle hand-printed character.",
+  "style_prompt_zh": "复古故事书插画以细棕墨轮廓、轻巧排线和暖奶油纸上的透明水彩洗色组成。低调绿、红褐、灰与浅灰白构成柔和褪色调。活泼斜向动作安放在安静、仔细观察的环境中。克制阴影、可见纸纹与细小描述笔记保留温柔的手工印制性格。",
+  "theme_en": "Two children running beside a stone wall in winter",
+  "theme_zh": "冬日石墙旁奔跑的两个孩子",
+  "wh_ratio": "1:1",
+  "id": "3171",
+  "name": "Randolph Caldecott",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/randolph-caldecott",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "d6e5192f9bb7c6691a4e1d2320b15c8f91f77bac2b71b43dbcc1a21597d27b93",
+    "gpt_submission_prompt": "A square vintage storybook illustration shows two children running across a snow-dusted yard beside a rough stone wall. The child on the left, in a muted green coat and reddish cap, bends forward with one knee lifted and arms pulled back. The child on the right wears a dark teal coat, a green cap, and sturdy brown boots, turning away as the coat flares with motion. Pale snow gathers irregularly along the top of the wall, between the stones, and over the ground. A small rabbit sits on the wall near the upper left, watching the commotion. Behind the wall, simple gray building facades and a hanging chain are lightly indicated. The children occupy the middle band, and their diagonal running poses animate an otherwise quiet winter courtyard. Fine brown ink outlines define faces, clothing folds, mortar joints, and small footprints, while transparent watercolor washes keep colors soft and slightly faded. The paper is warm cream with visible grain and an aged border. Shadows are modest, and the light is even and cold, allowing detail to read without dramatic modeling. The image feels playful and gently observational, like a page from a nineteenth-century illustrated book. There is no readable caption or ornate title within the picture.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "8657b15e261fe1358ee9ca5471ec8e52603e4041cdc3ee8540b894648c7bae3e",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

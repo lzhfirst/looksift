@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square digital editorial cartoon shows a tired man with tousled orange hair and oversized square glasses leaning his face into one hand at a desk. His eyes widen anxiously toward a computer screen just outside the left edge. A large mug, loose papers, and small desk objects occupy the foreground. In the dim background, a second version of the man or another person sits with arms crossed beneath curling wisps of smoke or steam, creating a worried echo of the foreground mood. The near face is exaggerated with an elongated nose, thick brows, and sharply drawn mouth. Warm orange screen light illuminates his cheek and shirt, while blue-gray shadows fill the room and back wall. Smooth but textured digital brushwork models the skin; brisk linework defines glasses, hair, mug, and clutter. The composition contrasts a very close foreground caricature with a smaller distant figure, giving the cramped room psychological depth. The visible edge of the monitor creates a dark vertical frame on the left. The whole scene feels humorous but uneasy, its emotional tension carried by expression, repetition, and the warm-cool light divide rather than a written caption.",
+  "full_prompt_zh": "一幅方形数字编辑漫画呈现一位橙色乱发、戴巨大方眼镜的疲惫男子在桌旁用一只手托住脸。他睁大眼睛，焦虑地看向左缘外的电脑屏幕。大杯子、散纸和小桌面物件占据前景。昏暗背景里，另一个版本的他或另一人双臂交叉坐着，上方有弯曲的烟或蒸汽，成为前景情绪的忧虑回声。近处面孔以长鼻、粗眉和尖利嘴形夸张。暖橙屏幕光照亮脸颊与衬衣，蓝灰阴影占据房间和后墙。光滑但有肌理的数字笔刷塑造皮肤，快捷线条界定眼镜、头发、杯子和杂物。构图把极近的前景夸张人物与较小的远方人物对照，赋予狭窄房间心理纵深。显示器的可见边缘在左侧形成深色竖框。整幅画幽默却不安，情绪张力由表情、重复和冷暖光分割承担，而非文字说明。",
+  "style_prompt_en": "A contemporary digital editorial-cartoon style makes an exaggerated close face the main focus against a smaller dim echo in the background. Warm orange practical light and cool blue-gray room shadow divide the composition. Smooth modeled skin coexists with brisk ink-like contours, textured brush marks, and simplified clutter. Oversized eyes, glasses, brows, or other expressive details carry the emotion. A dark screen edge or similar vertical block can frame one side, while mugs and papers ground the scene in ordinary life. The mood balances humor and anxiety, with clear depth and restrained saturation rather than a flat icon-like finish.",
+  "style_prompt_zh": "当代数字编辑漫画风格以前景夸张近面为主焦点，身后是较小而暗淡的情绪回声。暖橙实用光与冷蓝灰室内阴影分割构图。光滑塑形的皮肤与快速墨线般轮廓、有肌理笔刷和概括杂物共存。夸张眼睛、眼镜、眉或其他表情细节承担情绪。深色屏幕边或类似竖块框住一侧，杯子与纸使场景落在日常生活里。气氛平衡幽默与焦虑，纵深明确、饱和度克制，而非平面图标般的完成感。",
+  "theme_en": "A tired bespectacled man watches a glowing computer in a dim room",
+  "theme_zh": "昏暗房间里，一位疲惫的戴眼镜男子看着发光电脑",
+  "wh_ratio": "1:1",
+  "id": "0839",
+  "name": "Mark Fiore",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/mark-fiore",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/mark-fiore.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "3a6b2932660769d6c057ca720ee0f4d4a8985e6eab710d0b49e776ba5a67fa44",
+    "gpt_submission_prompt": "A square digital editorial cartoon shows a tired man with tousled orange hair and oversized square glasses leaning his face into one hand at a desk. His eyes widen anxiously toward a computer screen just outside the left edge. A large mug, loose papers, and small desk objects occupy the foreground. In the dim background, a second version of the man or another person sits with arms crossed beneath curling wisps of smoke or steam, creating a worried echo of the foreground mood. The near face is exaggerated with an elongated nose, thick brows, and sharply drawn mouth. Warm orange screen light illuminates his cheek and shirt, while blue-gray shadows fill the room and back wall. Smooth but textured digital brushwork models the skin; brisk linework defines glasses, hair, mug, and clutter. The composition contrasts a very close foreground caricature with a smaller distant figure, giving the cramped room psychological depth. The visible edge of the monitor creates a dark vertical frame on the left. The whole scene feels humorous but uneasy, its emotional tension carried by expression, repetition, and the warm-cool light divide rather than a written caption.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "c2ca4718b77eba380b9f12f53636698eec680752f069d3101b8be0da3e5c5278",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

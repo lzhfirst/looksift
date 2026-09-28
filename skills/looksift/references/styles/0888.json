@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square color editorial cartoon shows three exaggerated figures in a cluttered laboratory. At left, an elderly white-haired scientist in a stained white coat and black spectacles studies a tiny object between gloved fingers. At center, a large green horned monster draped in purple cloth raises both clawed hands near its head, teeth bared and eyes bulging in distress. At right, a tall man in a dark suit holds a small glass or metal device, his long face drawn into a worried frown. A small blue-gray dog sits at the bottom left, looking upward, while glass vessels, coils, papers, shelves, and electrical equipment fill the background. The three main figures form a tight row, each expression more exaggerated than the last. Ink outlines are dark and slightly ragged; watercolor-like color washes and hatched shadows model coats, faces, and metal. The palette combines laboratory grays and browns with a dominant acidic green, deep purple, and small blue accents. An overhead light and pale wall keep the characters readable despite the dense props. The overall effect is satirical and lively, with narrative humor arising from their contrasting reactions rather than any written caption.",
+  "full_prompt_zh": "一幅方形彩色社论漫画呈现拥挤实验室中的三个夸张形象。左侧白发老科学家穿有污迹白大褂、戴黑眼镜，用手套手指研究一件小物。中央巨大绿色角怪披紫布，双爪举到头旁，露牙、突眼，显得痛苦。右侧高个深西装男子拿一件小玻璃或金属器具，长脸皱成担忧神情。左下有一只小蓝灰狗抬头看，玻璃容器、线圈、纸、架和电气设备填满背景。三个主角排成紧凑一列，表情一个比一个夸张。墨轮廓深而略粗，水彩般色洗与排线阴影塑造外套、脸和金属。色彩结合实验室灰棕、占主导的酸绿、深紫和少量蓝。顶灯和浅墙使密集道具中的角色仍可读。整体讽刺而生动，叙事幽默来自互异反应，不依赖书面字幕。",
+  "style_prompt_en": "Satirical editorial cartoon with enlarged facial geometry, expressive hands, ragged black ink contours, watercolor-like color washes, and compact layered staging. An acidic green focal mass contrasts with deep purple and neutral laboratory grays. Cross-hatched shadow and small prop marks create tactile busyness, while a pale backdrop and clear silhouette grouping preserve readability. Humor stays visual and character-driven.",
+  "style_prompt_zh": "讽刺社论漫画，以放大面部几何、表现性手势、粗糙黑墨轮廓、水彩般色洗和紧凑层叠调度组成。一团酸绿色焦点对照深紫及中性实验室灰。交叉排线阴影和细小道具标记制造可触的繁忙，浅背景与清楚剪影群仍保持可读性。幽默来自视觉和角色反应。",
+  "theme_en": "A scientist, green monster, and suited observer in a crowded laboratory",
+  "theme_zh": "拥挤实验室中的科学家、绿色怪物与西装观察者",
+  "wh_ratio": "1:1",
+  "id": "0888",
+  "name": "RJ Matson",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/rj-matson",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/rj-matson.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "0a739c10ccf66a79348987564d3d23c1dd3126b400ed57573eafeb70c65544e1",
+    "gpt_submission_prompt": "A square color editorial cartoon shows three exaggerated figures in a cluttered laboratory. At left, an elderly white-haired scientist in a stained white coat and black spectacles studies a tiny object between gloved fingers. At center, a large green horned monster draped in purple cloth raises both clawed hands near its head, teeth bared and eyes bulging in distress. At right, a tall man in a dark suit holds a small glass or metal device, his long face drawn into a worried frown. A small blue-gray dog sits at the bottom left, looking upward, while glass vessels, coils, papers, shelves, and electrical equipment fill the background. The three main figures form a tight row, each expression more exaggerated than the last. Ink outlines are dark and slightly ragged; watercolor-like color washes and hatched shadows model coats, faces, and metal. The palette combines laboratory grays and browns with a dominant acidic green, deep purple, and small blue accents. An overhead light and pale wall keep the characters readable despite the dense props. The overall effect is satirical and lively, with narrative humor arising from their contrasting reactions rather than any written caption.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "273891fa6fca8a733c075499cd7f3b1ba2455a11b4fbc537a35314f57e4a4a6a",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

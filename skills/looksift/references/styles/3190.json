@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A storybook illustration shows four children gathered around a low wall of rough pale stone. One leans over from the left, two sit along the upper blocks, and another kneels at the right, their attention focused on something small between them. Muted blue-green clothing, soft brown hair, worn shoes, and uneven masonry make the setting feel humble and old. A few tiny plants and pebbles fill the lower edge, while the background is almost entirely mottled parchment. The children's close positions and different gestures imply a whispered discovery without defining what it is.\n\nThe image relies on delicate pen-and-ink drawing over thin, earthy color washes. Fine looping lines describe curls, sleeves, stone joints, and small ground textures. Tea brown, olive, slate green, and faded cream dominate, with color laid unevenly so the paper grain remains visible. Shading comes from tight hatching and soft wash rather than strong directional light. The wall's repeated blocks make a steady horizontal structure, interrupted by the rounded heads and bent limbs. The figures occupy a narrow middle band, leaving generous aged paper above and below. The finish is detailed but light, with softly frayed edges and a gentle fairy-tale atmosphere. There is no readable lettering in the selected image.",
+  "full_prompt_zh": "一幅童话书插画描绘四名孩子围在一堵粗糙浅色石墙旁。左侧一个俯身探过墙头，两个坐在上方石块沿，另一个在右侧跪着，他们的注意集中于彼此之间的一件小事。暗蓝绿色衣物、柔褐色头发、磨旧鞋子和不整齐砌石，使场景显得朴素而古老。少量细小植物和鹅卵石点在下边缘，背景几乎全是斑驳羊皮纸色。孩子们靠得很近，姿势各不相同，暗示低声发现了秘密，却不说明那是什么。\n\n图像依赖细腻钢笔墨线和薄薄的土色彩洗。纤细回环的线条描写卷发、袖子、石缝和地面小纹理。茶褐、橄榄绿、石板绿与褪色乳白占主导，颜色铺得不均，让纸面颗粒持续可见。阴影来自紧密排线和柔软薄涂，而非强烈方向光。反复的石块形成安稳水平结构，被圆圆的头部与弯曲四肢打断。人物占据狭窄的中间地带，在上下保留大量旧纸色。完成效果细致却轻盈，边缘柔和磨散，有温柔的童话气息。所选图像没有可辨认文字。",
+  "style_prompt_en": "Fine pen-and-ink contours sit over thin earthy washes on mottled parchment. Tea brown, faded cream, olive, and slate green keep the color aged and quiet. Small looping lines, close hatching, and uneven wash describe fibrous, stony, and soft surfaces without heavy modeling. Repeated blocklike shapes establish a horizontal rhythm, interrupted by rounded clustered forms and bent diagonals. Light is diffuse, with no emphatic cast shadow; depth comes from overlap, line density, and subtle shifts in wash. The active detail is concentrated in a narrow middle band, surrounded by generous warm paper. Edges fray slightly into the ground, producing a detailed but airy fairy-tale illustration.",
+  "style_prompt_zh": "细钢笔墨线落在斑驳羊皮纸上的薄土色彩洗之上。茶褐、褪色乳白、橄榄绿和石板绿使色调陈旧而安静。小回环线、密排线与不均匀薄涂，描写纤维状、石质与柔软表面，不靠沉重的体积塑造。重复的块状形建立水平节奏，被圆团状聚集形和弯曲对角线打断。光弥散，没有强调的投影；深度来自重叠、线条密度和薄涂的微妙变化。活跃细节集中在狭窄中带，上下环绕宽阔的暖纸色。边缘略微磨散进底色，形成细致却通气的童话插画。",
+  "theme_en": "Children gathered around a secret in an old stone wall",
+  "theme_zh": "旧石墙边围着秘密的孩子们",
+  "wh_ratio": "1:1",
+  "id": "3190",
+  "name": "Arthur Rackham",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/arthur-rackham",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "92edff9eab8e1b5baf130536ab9ab5c83839f05e092fd91243a04a6569b73177",
+    "gpt_submission_prompt": "A storybook illustration shows four children gathered around a low wall of rough pale stone. One leans over from the left, two sit along the upper blocks, and another kneels at the right, their attention focused on something small between them. Muted blue-green clothing, soft brown hair, worn shoes, and uneven masonry make the setting feel humble and old. A few tiny plants and pebbles fill the lower edge, while the background is almost entirely mottled parchment. The children's close positions and different gestures imply a whispered discovery without defining what it is.\n\nThe image relies on delicate pen-and-ink drawing over thin, earthy color washes. Fine looping lines describe curls, sleeves, stone joints, and small ground textures. Tea brown, olive, slate green, and faded cream dominate, with color laid unevenly so the paper grain remains visible. Shading comes from tight hatching and soft wash rather than strong directional light. The wall's repeated blocks make a steady horizontal structure, interrupted by the rounded heads and bent limbs. The figures occupy a narrow middle band, leaving generous aged paper above and below. The finish is detailed but light, with softly frayed edges and a gentle fairy-tale atmosphere. There is no readable lettering in the selected image.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "814bf6e51f9c7858e064c9099f9e2b861f775a3328fcfe137126a9b72d411d4d",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

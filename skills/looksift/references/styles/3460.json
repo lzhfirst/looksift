@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "An imaginary compact town appears as a meticulous monochrome print on a clean white field. The structure is viewed from above at an oblique angle, sitting alone like a small architectural model whose edges break into stone and sparse foliage. Towers, pitched roofs, domes, narrow windows, arched passages, terraces, parapets and bridges interlock within one dense cluster. Broad staircases climb across roofs and turn unexpectedly between levels; some passages seem to connect spaces that cannot logically meet, but each local stone step remains convincingly drawn. Near the center, a dark hollow beneath overlapping bridges anchors the eye amid the pale masonry. A larger domed building rises at the upper right, while a narrow pointed turret punctuates the lower left. Small trees at the outer edge delicately interrupt the geometric mass with organic shapes. The disciplined graphite-and-engraving character includes crisp ruled edges, granular shading, tight hatching and many values of gray, without added color. Light strikes the upper planes and stair treads, while arch interiors and the underside of bridges descend into dense charcoal. Precise details fill the tiny windows and stone courses, while the overall silhouette remains legible against generous blank paper. The square frame feels silent, intricate and spatially disorienting, with the impossible circulation discovered gradually rather than announced by a dramatic effect.",
+  "full_prompt_zh": "干净的白色留底上，一座想象中的紧凑小城呈现细密黑白版画质感。从斜上方观看，建筑群独立地立在画面中央，如同边缘碎裂成石块与稀疏树木的小型模型。塔楼、坡屋顶、穹顶、窄窗、拱形通道、露台、栏墙和桥梁交织成一团密集结构。宽阔阶梯跨越屋顶并在不同楼层间突然转向，有些通道似乎连接了不可能相遇的空间，但每一级台阶局部又画得可信。中央附近以重叠桥梁下的深色空洞作为浅色石构中的视觉锚点。右上升起较大的穹顶建筑，左下以细尖塔打破边缘。外围点缀小树，作为几何体量中的细微有机变化。画面具有克制的石墨与雕版气质：清楚的尺规边线、颗粒阴影、紧密排线和丰富灰阶，全无彩色。光照落在上表面和踏步上，拱洞内部与桥底沉入浓密炭黑。小窗和石材砌缝保留精确细节，整体外轮廓则在充足纸面留白上清楚可辨。正方形画面安静、繁密、令人逐渐发现空间迷局，而不靠戏剧特效直接宣告。",
+  "style_prompt_en": "Meticulous monochrome engraving and graphite drawing have precise geometric linework, small-scale hatching, granular tonal transitions, deep charcoal recesses, luminous white paper, and an intricate but coherent silhouette. Convincing local geometry coexists with subtly impossible spatial connections. Broad negative space surrounds the dense central form, and directional light articulates each plane.",
+  "style_prompt_zh": "细密黑白雕版与石墨绘画，几何边线精确，局部排线细小，灰阶过渡带颗粒感，凹处深如炭黑，纸面留白明亮，整体轮廓繁密却清楚。局部几何可信，空间连接却暗含不可能性。宽阔负空间围住中央密集形体，有方向的光逐一刻出表面。",
+  "theme_en": "An impossible stone town folding its stairways through space",
+  "theme_zh": "石造小城的阶梯在空间中不可能地折叠",
+  "wh_ratio": "1:1",
+  "id": "3460",
+  "name": "M. C. Escher",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/m-c-escher",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "1d7ea3e17d94b7227a660825e218abeb9d666e1e312a143bc1ff741233ccc51e",
+    "gpt_submission_prompt": "An imaginary compact town appears as a meticulous monochrome print on a clean white field. The structure is viewed from above at an oblique angle, sitting alone like a small architectural model whose edges break into stone and sparse foliage. Towers, pitched roofs, domes, narrow windows, arched passages, terraces, parapets and bridges interlock within one dense cluster. Broad staircases climb across roofs and turn unexpectedly between levels; some passages seem to connect spaces that cannot logically meet, but each local stone step remains convincingly drawn. Near the center, a dark hollow beneath overlapping bridges anchors the eye amid the pale masonry. A larger domed building rises at the upper right, while a narrow pointed turret punctuates the lower left. Small trees at the outer edge delicately interrupt the geometric mass with organic shapes. The disciplined graphite-and-engraving character includes crisp ruled edges, granular shading, tight hatching and many values of gray, without added color. Light strikes the upper planes and stair treads, while arch interiors and the underside of bridges descend into dense charcoal. Precise details fill the tiny windows and stone courses, while the overall silhouette remains legible against generous blank paper. The square frame feels silent, intricate and spatially disorienting, with the impossible circulation discovered gradually rather than announced by a dramatic effect.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "81fc8bdda98599139b103baa6b059636810b76fe774f6e710fc7f0ce81ee3913",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

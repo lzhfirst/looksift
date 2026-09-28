@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "An intricate psychedelic decorative painting fills the square with curling, organic shapes that flow together like a miniature world seen very close. Thick midnight-blue masses form the outer banks, while turquoise and cobalt ribbons sweep from the upper center down toward a bright gold current along the bottom. Nested circular eyes, crescent-like rings, and small pink-lilac disks are embedded throughout the curves, creating points of attention at several scales. There is no conventional horizon or single object; foreground and background interlock as dark hollows open behind brighter layers and clusters of fine dots gather between the larger coils. The surface appears hand-worked despite its fantastic precision: short curved strokes follow each contour, stippled yellow-orange grains fill a central passage, and delicate ink-dark lines carve texture into every blue field. Warm amber highlights outline the cool forms and collect in a broad lower sweep, so the apparent light comes from within the pattern rather than from an external lamp. Small accents of pale cream and pink lift the dense blue-gold palette without diluting its depth. The eye circulates through repeated rings, follows a diagonal turquoise descent, and then rides the long horizontal flare near the lower edge. The whole frame feels densely inhabited and luminous, its decorative complexity held together by a continuous current of color and line.",
+  "full_prompt_zh": "一幅繁密的迷幻装饰绘画占满方形画面，卷曲的有机形体像被极近距离观看的微型世界一样彼此流动。浓重的午夜蓝团块构成外侧边界，青绿与钴蓝色带从上部中央扫向底部一道明亮的金色流线。层叠的环状眼形、新月般的圆圈以及细小的粉紫色圆盘嵌在曲线之间，形成不同尺度的注意力落点。这里没有传统地平线或单一物体；前景与背景互相咬合，深色孔洞在明亮层次后面张开，细点簇集在较大的盘卷之间。尽管细节精确而奇幻，表面仍显得经手工反复加工：短促弯曲的笔触顺着每道轮廓，黄色与橙色的点状颗粒填满中央通道，纤细的墨黑线刻进每片蓝色色域。暖琥珀色高光勾住冷色形体，在下方宽阔的扫动中汇聚，仿佛光从图案内部透出，而不是由外部灯光照来。少量浅奶油色和粉色提亮浓密的蓝金配色，却没有削弱其深度。视线在重复圆环间循环，顺着青绿色斜线下降，随后沿下边缘附近的长水平亮带滑行。整幅画繁密而发光，其装饰性的复杂细节由连续流动的色彩与线条凝聚在一起。",
+  "style_prompt_en": "An intricate psychedelic decorative painting combines flowing organic contours, nested rings, tiny stippled grains, and short directional marks. Deep midnight and cobalt blue form broad shadow masses, crossed by turquoise currents and warm amber-gold luminous seams; sparse pink and cream accents punctuate the density. Layered dark hollows and bright edges create depth without conventional perspective. Repeated circular rhythms and sweeping diagonal-to-horizontal movement bind fine detail to large color areas. The whole frame feels hand-worked, saturated, and internally luminous.",
+  "style_prompt_zh": "一幅繁密的迷幻装饰绘画结合流动的有机轮廓、套叠圆环、细小点状颗粒和顺势而行的短笔触。深午夜蓝与钴蓝组成宽阔阴影团块，青绿色流线和温暖的琥珀金发光接缝穿行其中；稀疏的粉色与奶油色点缀浓密画面。层叠的深色孔洞和明亮边缘在没有传统透视的情况下形成纵深。重复圆形节奏及从斜向转入横向的扫动，将精细纹理与大片色域结合。整幅画显得经手工加工、色彩饱满且从内部发光。",
+  "theme_en": "A luminous blue-and-gold world of swirling ornamental forms",
+  "theme_zh": "蓝金色旋涡状装饰形体构成的发光世界",
+  "wh_ratio": "1:1",
+  "id": "0431",
+  "name": "Synchromism",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/synchromism",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/synchromism.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "0c08581f42af7700417bfe7f230901cc471a0b183a81d5916a4a89c0e1b74bf4",
+    "gpt_submission_prompt": "An intricate psychedelic decorative painting fills the square with curling, organic shapes that flow together like a miniature world seen very close. Thick midnight-blue masses form the outer banks, while turquoise and cobalt ribbons sweep from the upper center down toward a bright gold current along the bottom. Nested circular eyes, crescent-like rings, and small pink-lilac disks are embedded throughout the curves, creating points of attention at several scales. There is no conventional horizon or single object; foreground and background interlock as dark hollows open behind brighter layers and clusters of fine dots gather between the larger coils. The surface appears hand-worked despite its fantastic precision: short curved strokes follow each contour, stippled yellow-orange grains fill a central passage, and delicate ink-dark lines carve texture into every blue field. Warm amber highlights outline the cool forms and collect in a broad lower sweep, so the apparent light comes from within the pattern rather than from an external lamp. Small accents of pale cream and pink lift the dense blue-gold palette without diluting its depth. The eye circulates through repeated rings, follows a diagonal turquoise descent, and then rides the long horizontal flare near the lower edge. The whole frame feels densely inhabited and luminous, its decorative complexity held together by a continuous current of color and line.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "fe7a2f5594ed4bdf3802e84c0e866bf493a4da4f625c25100ec79c6d1fdec66a",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

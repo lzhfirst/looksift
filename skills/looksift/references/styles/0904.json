@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square satirical ink-and-watercolor illustration depicts a large blue propeller aircraft banking sharply over a city. Its nose points toward the upper right, wings cutting diagonally across the frame, and several engines and propellers are visible along the near wing. Beneath it, orange-yellow fireballs erupt between rectangular midrise buildings, sending thick black and violet smoke into the upper left sky. The nearest buildings have repetitive rows of windows and pale gray-blue facades; a few small cars sit on the broad street below, dwarfed by the airplane and flames. White paper remains around the edges and in the roadway, contrasting with the dense central action. Black pen contours, slanted hatching, and uneven watercolor washes build the metal skin, clouds, and fiery blast. The aircraft's blue-gray underside has fine highlights and sketchy panel marks, while the fire glows through translucent yellow and burnt orange. Motion is conveyed by the plane's diagonal orientation and splattered smoke rather than photographic blur. The light system is graphic: hot explosions illuminate building edges, and gray daylight keeps the aircraft readable. The composition is loud and unstable but visually organized by one dominant diagonal and two rounded fire clusters below.",
+  "full_prompt_zh": "一幅方形讽刺性墨线水彩插画描绘一架大型蓝色螺旋桨飞机急剧倾斜地掠过城市。机头指向右上，机翼斜切画框，近侧翼上有几组发动机与螺旋桨。下方橙黄火球在矩形中层建筑间爆发，浓黑紫烟涌入左上天空。最近建筑有重复窗列和浅灰蓝立面；宽街上有几辆小车，相比飞机和火焰显得极小。边缘与道路中仍保留白纸，对照中央密集动作。黑钢笔轮廓、斜排线和不均水彩洗染塑造金属外壳、云和火。飞机蓝灰底面有细亮部与草图般面板痕；火焰通过透明黄和焦橙发亮。运动由飞机的斜向姿态与飞溅烟云表现，而非摄影模糊。光系统具有图形性：热爆炸照亮楼边，灰天光使飞机仍可读。构图吵闹不稳定，却由一条主斜线与下方两团圆火组织。",
+  "style_prompt_en": "Expressive ink-and-watercolor illustration is organized around a dominant diagonal, vigorous black contours, slanted hatching, and translucent washes. Cool blue-gray planes contrast with luminous yellow-orange patches and deep violet-black masses. Irregular white-paper gaps separate dense passages and keep the composition legible. Selective fine lines articulate surfaces without uniformly outlining every edge; splatters, pooled pigment, feathered wash boundaries, and uneven saturation preserve a handmade surface. Strong shifts of scale and alternating open and crowded areas create energetic movement, while restrained pale washes connect the more saturated accents.",
+  "style_prompt_zh": "富有表现力的墨线水彩插画由主导斜线、有力的黑色轮廓、倾斜排线和透明洗染组织。冷蓝灰平面与明亮黄橙色斑、深紫黑体块形成对比。不规则白纸间隙分隔密集区域，使构图保持清晰。选择性的细线刻画表面，不把所有边缘均匀勾满；飞溅、积聚的颜料、羽化的洗染边界和不均饱和度保留手工质感。明显的尺度变化、疏密区域的交替带来活跃动势，克制的浅色洗染连接较浓的色彩重点。",
+  "theme_en": "A blue plane diving over buildings amid orange explosions",
+  "theme_zh": "一架蓝色飞机在橙色爆炸中掠过楼群",
+  "wh_ratio": "1:1",
+  "id": "0904",
+  "name": "Joe Heller",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/joe-heller",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/joe-heller.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "07d02978cc309f31abf42994da382e8545e8da8c15939625b4014cf183cce0b3",
+    "gpt_submission_prompt": "A square satirical ink-and-watercolor illustration depicts a large blue propeller aircraft banking sharply over a city. Its nose points toward the upper right, wings cutting diagonally across the frame, and several engines and propellers are visible along the near wing. Beneath it, orange-yellow fireballs erupt between rectangular midrise buildings, sending thick black and violet smoke into the upper left sky. The nearest buildings have repetitive rows of windows and pale gray-blue facades; a few small cars sit on the broad street below, dwarfed by the airplane and flames. White paper remains around the edges and in the roadway, contrasting with the dense central action. Black pen contours, slanted hatching, and uneven watercolor washes build the metal skin, clouds, and fiery blast. The aircraft's blue-gray underside has fine highlights and sketchy panel marks, while the fire glows through translucent yellow and burnt orange. Motion is conveyed by the plane's diagonal orientation and splattered smoke rather than photographic blur. The light system is graphic: hot explosions illuminate building edges, and gray daylight keeps the aircraft readable. The composition is loud and unstable but visually organized by one dominant diagonal and two rounded fire clusters below.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "b6304ee616c809c6105f1233301c45dde56338b67fb103fb6aaf728d4774e464",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

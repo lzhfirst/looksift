@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square minimalist architectural photograph presents a vast empty paved terrace meeting massive blue-gray concrete walls beneath a pale evening sky. A tall central wall rises behind a lower horizontal block, and a narrow arched doorway glows warmly near their junction. One tiny dark person stands inside the opening, establishing the scale of the surrounding planes. The terrace begins at the bottom edge and stretches toward the doorway with broad faint seams; there are no furnishings, plants, or other figures. At left, the open horizon fades into a gray-blue sea or distant haze. The camera stands at eye level and slightly off the doorway's axis, allowing the right wall to form a large vertical slab that cuts against the sky. Most of the scene is cool, quiet, and nearly monochrome, while the portal holds a small pool of cream-orange light. Soft twilight produces long gentle tonal transitions across the concrete, with few distinct shadows. The surfaces are matte and subtly grainy, and the clean edges carry the composition. A great amount of open paving and sky gives the small silhouette a contemplative isolation. The image is precise, spacious, and still, with architectural volumes reduced to a few interlocking rectangles and one curved opening. No lettering, decorative border, or dramatic digital effect appears.",
+  "full_prompt_zh": "一幅方形极简建筑照片中，广阔空旷的铺地平台在浅暮色天空下接上庞大的蓝灰混凝土墙。高耸中央墙立于较低水平体块后，两者交接处一处窄拱门洞发出暖光。一个极小深色人物站在洞内，标出周围平面的尺度。平台从底边展开，以淡淡接缝延向门洞；没有家具、植物或其他人。左侧敞开的地平线消入灰蓝色海面或远雾。相机位于平视高度并略偏门洞轴线，使右墙形成切向天空的巨大竖板。场景大体冷静、安静、近乎单色，门洞却含一小池奶油橙光。柔和暮色在混凝土上形成漫长轻微色阶，明显投影很少。表面亚光而略有颗粒，干净边缘支撑构图。大片空铺地和天空使小剪影显得沉思而孤立。图像精准、宽敞且静止，建筑体量被简化为几块相扣矩形和一处曲线开口。没有字样、装饰边框或戏剧性数码效果。",
+  "style_prompt_en": "Minimal color photography shaped by broad matte planes, sparse geometry, and unusually generous negative space. Cool blue-gray tonal fields meet a small warm luminous opening, creating scale through a single compact dark accent. Eye-level perspective, restrained seams, clean edges, and soft twilight gradients keep the frame calm and exact. Surface grain remains subtle, and the visual rhythm depends on proportion rather than detail.",
+  "style_prompt_zh": "极简彩色摄影由宽阔亚光平面、稀疏几何和异常充足的负空间塑形。冷蓝灰色阶场与一处微小暖亮开口相遇，借紧凑深色重音呈现尺度。平视透视、克制接缝、干净边缘和柔和暮色渐层令画幅平静而准确。表面颗粒微弱，视觉节奏依赖比例而非细节。",
+  "theme_en": "A lone figure in a luminous doorway amid blue-gray concrete planes",
+  "theme_zh": "蓝灰混凝土平面间亮门洞中的孤身人影",
+  "wh_ratio": "1:1",
+  "id": "4019",
+  "name": "Minimalist architecture",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/minimalist-architecture.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "83beba01d848e3d8deb3533e80eb14d3784fc41ec2d9b7029ab61b4632336509",
+    "gpt_submission_prompt": "A square minimalist architectural photograph presents a vast empty paved terrace meeting massive blue-gray concrete walls beneath a pale evening sky. A tall central wall rises behind a lower horizontal block, and a narrow arched doorway glows warmly near their junction. One tiny dark person stands inside the opening, establishing the scale of the surrounding planes. The terrace begins at the bottom edge and stretches toward the doorway with broad faint seams; there are no furnishings, plants, or other figures. At left, the open horizon fades into a gray-blue sea or distant haze. The camera stands at eye level and slightly off the doorway's axis, allowing the right wall to form a large vertical slab that cuts against the sky. Most of the scene is cool, quiet, and nearly monochrome, while the portal holds a small pool of cream-orange light. Soft twilight produces long gentle tonal transitions across the concrete, with few distinct shadows. The surfaces are matte and subtly grainy, and the clean edges carry the composition. A great amount of open paving and sky gives the small silhouette a contemplative isolation. The image is precise, spacious, and still, with architectural volumes reduced to a few interlocking rectangles and one curved opening. No lettering, decorative border, or dramatic digital effect appears.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "62d1f12acf0afec8cc14e4414518e699b52ced07ca6a512da0ae39749a443fa4",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

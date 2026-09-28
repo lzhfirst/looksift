@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square narrative painting shows a young girl stretched along a broad stone window ledge, absorbed in an open book. Her body lies diagonally from the left edge toward the center, supported on her elbows. She wears a loose cream-gold dress with gathered folds and darker patterned trim, and her brown hair is tied back in a slightly messy knot. Her face tilts downward toward the pages, with one hand holding the book open. A second closed book lies beneath or near the open volume. Heavy curtains frame the window: dark brown drapery on the left and a pale ivory length billowing inward on the right. Beyond the opening, a wide blue sky is filled with large white cumulus clouds. A few pale birds cross the air, and low buildings or rooftops appear far below the cloud line. Strong sunlight streams through the window from outside, striking the girl's hair, dress, pages, and the rough stone sill. The interior at the left remains darker, creating a warm-cool contrast between the shaded room and bright sky. The stone ledge extends across the lower half of the image with worn texture and angled sunlit planes. Brushwork is polished yet visible in the fabric and masonry, while clouds are softer and more luminous. The window acts as a clear frame around both girl and sky, and the moving curtain adds gentle motion to an otherwise still act of reading. The image feels contemplative and storylike, grounded in tangible fabric, paper, and stone while opening toward a vast airy world outside.",
+  "full_prompt_zh": "一幅方形叙事绘画描绘一名女孩伸展在宽阔石窗台上，专心读一本打开的书。身体从左边缘斜向中央，双肘撑住自己。她穿松动的奶油金裙，褶皱聚拢，边缘有较深花纹，棕发略乱地束在脑后。脸向下对着书页，一只手保持书本展开。另一本合上的书垫在或放在开书附近。厚帘框住窗口：左边深棕帘，右边一幅浅象牙色帘向内鼓起。开口外，宽蓝天空布满巨大白色积云。几只浅色鸟掠过空中，低矮房屋或屋顶出现在云下很远处。强日光从外穿窗进入，照到女孩头发、裙子、书页和粗石窗沿。左侧室内保持较暗，形成阴影房间与明亮天空的冷暖对照。石沿以磨旧质地和受光斜面横贯画面下半。布料和石砌的笔触精致却可见，云朵则更柔、更发亮。窗口成为女孩与天空的清楚画框，运动的窗帘为本来静止的阅读增添轻柔动态。图像沉思而有故事性，扎根可触的布、纸与石，也向外面辽阔的空气世界打开。",
+  "style_prompt_en": "Narrative oil painting places a carefully observed small action inside a strong architectural or fabric frame that opens to luminous distance. Warm cream and gold on near materials contrast with clear blue and cloud white beyond. Directional sunlight carves bright planes across cloth, paper, and stone, leaving the interior edge in rich shadow. Fine figure detail and textured foreground surfaces meet softly blended atmospheric clouds. A billowing pale shape can introduce gentle motion without disturbing the calm. The finish is polished, tactile, and quietly storylike.",
+  "style_prompt_zh": "叙事油画把细致观察的小动作放在有力的结构或布料框内，并通向发亮远景。近处材料的暖奶油和金色对照远方清蓝与云白。方向日光在布、纸和石上切出明亮平面，让室内边缘留在浓阴影。人物细节与有纹理的前景表面接上柔晕空气云层。鼓起的浅色形状可引入轻柔运动，而不打乱宁静。完成面精致、可触、安静且有故事感。",
+  "theme_en": "A girl reading on a sunlit stone window ledge under billowing clouds",
+  "theme_zh": "一名女孩在阳光石窗台上读书，窗外云朵翻卷",
+  "wh_ratio": "1:1",
+  "id": "1869",
+  "name": "Greg Olsen",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/greg-olsen",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/greg-olsen.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "5a0dbe96b6ba1c606bd04e2a9c7582a465e2d090d3175f94c7198a678ee26e14",
+    "gpt_submission_prompt": "A square narrative painting shows a young girl stretched along a broad stone window ledge, absorbed in an open book. Her body lies diagonally from the left edge toward the center, supported on her elbows. She wears a loose cream-gold dress with gathered folds and darker patterned trim, and her brown hair is tied back in a slightly messy knot. Her face tilts downward toward the pages, with one hand holding the book open. A second closed book lies beneath or near the open volume. Heavy curtains frame the window: dark brown drapery on the left and a pale ivory length billowing inward on the right. Beyond the opening, a wide blue sky is filled with large white cumulus clouds. A few pale birds cross the air, and low buildings or rooftops appear far below the cloud line. Strong sunlight streams through the window from outside, striking the girl's hair, dress, pages, and the rough stone sill. The interior at the left remains darker, creating a warm-cool contrast between the shaded room and bright sky. The stone ledge extends across the lower half of the image with worn texture and angled sunlit planes. Brushwork is polished yet visible in the fabric and masonry, while clouds are softer and more luminous. The window acts as a clear frame around both girl and sky, and the moving curtain adds gentle motion to an otherwise still act of reading. The image feels contemplative and storylike, grounded in tangible fabric, paper, and stone while opening toward a vast airy world outside.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "b6ad2d14138fdf636b52fa16ef2752aa2ce379cf01ca0372edbbda215f8b967f",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

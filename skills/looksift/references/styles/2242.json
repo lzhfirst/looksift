@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square, finely inked storybook illustration shows two children riding one small bicycle along a stony shore in gusty weather. The front child wears a dark green coat, matching cap, tan trousers, and tall brown boots, hands on the handlebars while looking to the left. A second child sits behind in a red dress or coat, holding a large rust-red umbrella over both riders. The umbrella tilts backward with the wind and fills much of the upper right. Their hair and loose clothing stream slightly, and the bicycle's thin wheels and spokes remain clearly drawn beneath them. The ground is pale tan and covered in uneven pebbles, fallen leaves, and small scraps. A dark teal sea extends behind the riders to a low horizon; tiny distant boats and shore details punctuate the left and far right. Above, billowing cream-gray clouds are outlined with delicate brown pen lines. Leaves, bits of paper, and other small windblown shapes scatter across the sky and foreground. The children move toward the left of the frame, while the umbrella and drifting debris pull visually to the right. Light is diffuse under the cloud cover, with no hard shadows. Muted olive, ocher, dusty teal, and warm brick red are laid over the fine dark linework, with paper-like grain visible through the color. The scene feels playful and lightly chaotic, its wind direction conveyed by repeated tiny diagonal marks and the dramatic umbrella shape.",
+  "full_prompt_zh": "一幅方形、细墨线绘本插画呈现两个孩子在大风天气里共骑一辆小自行车，沿石子海岸前进。前面孩子穿深绿外套、同色帽、褐色裤子和高棕靴，双手扶车把，望向左侧。后面孩子穿红裙或红外套，举着一把巨大的铁锈红雨伞罩住两人。雨伞迎风向后倾，占据右上大部。头发与松衣微微飘起，车下纤细车轮和辐条仍清楚可见。地面浅褐，铺满不平鹅卵石、落叶和小碎片。深青绿色海面在骑车人后延至低地平线；微小远船和岸边细节点在左侧及右远处。上方翻卷的奶油灰云由精细棕墨线勾出。叶片、纸片和其他风吹小形散在天空与前景。孩子向画面左侧移动，雨伞和飘散残物在视觉上向右牵拉。阴云下光漫散，没有硬阴影。低饱和橄榄绿、赭色、灰青绿和暖砖红覆在细深线条上，颜色里仍透出纸面颗粒。场景俏皮、略微混乱，风向由重复小斜痕和醒目的伞形传达。",
+  "style_prompt_en": "A finely inked storybook illustration combines thin dark contours with muted olive, ocher, dusty teal, cream, and one broad brick-red accent. Small repeated spokes, pebbles, and leaflike marks texture the lower field, while loose cloud curves fill the pale upper area. Wind is described through many scattered diagonal flecks and a large tilted curved shape that opposes the main direction of travel. Color is matte and lightly grainy, as if washed onto textured paper. Diffuse overcast light keeps shadows shallow; forms separate through line and restrained warm-cool hue rather than strong modeling. The composition has a low horizon and busy foreground, with two compact upright accents traveling across the central band. It feels playful, handmade, and rhythmically windswept.",
+  "style_prompt_zh": "细墨线绘本插画把纤细深轮廓与低饱和橄榄绿、赭色、灰青绿、奶油色及一大块砖红重音结合。小小重复辐线、石点和叶形笔痕给下部色域上肌理，松动云曲线填满浅色上部。风由许多零散斜碎点和一处倾斜大弧形描述，后者与主体前进方向相逆。颜色哑光、略带颗粒，像颜料水洗在有纹理的纸上。阴天漫射光使阴影浅淡；形体主要靠线和克制暖冷色相分开，而非强塑形。构图地平线低、前景繁忙，两处紧凑竖向重音横穿中部色带。整体俏皮、手工感明确，节奏受风推动。",
+  "theme_en": "Two children riding a bicycle beneath a large red umbrella by the sea",
+  "theme_zh": "海边两个孩子共骑自行车撑着大红伞",
+  "wh_ratio": "1:1",
+  "id": "2242",
+  "name": "Quino",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/joaquin-salvador-lavado-tejon",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/joaquin-salvador-lavado-tejon.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "321f244d667f789bf8cbe292c1b61d88772fa0b883e4591f17ba4fd6ff9854fc",
+    "gpt_submission_prompt": "A square, finely inked storybook illustration shows two children riding one small bicycle along a stony shore in gusty weather. The front child wears a dark green coat, matching cap, tan trousers, and tall brown boots, hands on the handlebars while looking to the left. A second child sits behind in a red dress or coat, holding a large rust-red umbrella over both riders. The umbrella tilts backward with the wind and fills much of the upper right. Their hair and loose clothing stream slightly, and the bicycle's thin wheels and spokes remain clearly drawn beneath them. The ground is pale tan and covered in uneven pebbles, fallen leaves, and small scraps. A dark teal sea extends behind the riders to a low horizon; tiny distant boats and shore details punctuate the left and far right. Above, billowing cream-gray clouds are outlined with delicate brown pen lines. Leaves, bits of paper, and other small windblown shapes scatter across the sky and foreground. The children move toward the left of the frame, while the umbrella and drifting debris pull visually to the right. Light is diffuse under the cloud cover, with no hard shadows. Muted olive, ocher, dusty teal, and warm brick red are laid over the fine dark linework, with paper-like grain visible through the color. The scene feels playful and lightly chaotic, its wind direction conveyed by repeated tiny diagonal marks and the dramatic umbrella shape.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "fbddffbde77bdff805070a4d08f4dd3e6401a392eeae1579c7d2dd8e8d4844b5",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

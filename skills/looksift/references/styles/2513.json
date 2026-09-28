@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square Rococo oil painting places a small airborne figure across a bright summer sky above a deep leafy ravine. The figure floats diagonally from the upper left toward the center-right, arms extended forward as if reaching through the air. A white loose blouse billows around the shoulders and sleeves, while warm rose and ochre fabric twists around the hips and legs. One foot points backward; the other leg bends slightly, giving the floating pose a buoyant, playful rhythm. The head, with pale hair or a light cap, turns to the right. Below, a shadowed bank of rich green trees, vines, and rocky ledges fills the lower left. A pale stone outcrop catches sun near the center-bottom, and a thin view into the far valley opens beyond it. On the far right, hazy hills and a tiny cluster of pale buildings drift into the distance. The sky is clear blue with swollen white and cream clouds forming soft vertical towers around the figure, their gray undersides adding depth. Brushwork is light and feathery in the cloud edges, more dappled and leafy in the vegetation, and smooth across the light fabric and skin. Sunlight from above left gives the clouds and airborne figure a warm creamy glow while the ravine remains cool and dark. The composition contrasts intimate, fanciful motion with expansive atmospheric space and lush framing foliage.",
+  "full_prompt_zh": "一幅方形洛可可油画让一个小小的空中人物横越明亮夏空，下方是浓叶深谷。人物从左上向中右斜向漂浮，双臂向前伸，仿佛在空中触碰什么。宽松白上衣在肩和袖处鼓起，暖玫瑰色与赭色布料绕着腰臀和双腿翻转。一只脚向后绷直，另一腿略弯，使漂浮姿态轻快顽皮。浅色头发或浅帽下的头朝右转。下方，深绿色树木、藤蔓与岩石台地组成阴影河岸，填满左下。中央下部一块浅石突岩接住日光，其后开出窄窄远谷。最右边，朦胧山坡与一小簇浅色建筑退向远处。天空清蓝，膨大的白色及奶油色云团在人物四周竖起柔软云塔，灰色云底增加纵深。云缘笔触轻而羽化，草木笔触较碎且带叶形，浅色布与皮肤较平滑。左上方日光给云和飞行人物暖奶油光，深谷保持冷而暗。构图用亲密奇幻的动作，对照宽广大气空间与繁盛框围树叶。",
+  "style_prompt_en": "Rococo oil painting uses buoyant diagonal movement, feathery cloud edges, dappled foliage, and warm creamy highlights. Set a small graceful focal gesture within a larger atmospheric field, with darker organic masses framing the lower edge and pale distant layers opening outward. Balance clear blue, soft cream, leafy green, rose, and ochre without harsh modern saturation. Let light fabric or similarly delicate surfaces catch the sun, while shadowed vegetation provides depth. Use supple brushwork that shifts from smooth skin to broken leaves and airy vapor. The transferable effect is playful, airy, and theatrically elegant.",
+  "style_prompt_zh": "洛可可油画运用轻盈斜向运动、羽化云缘、斑驳树叶和暖奶油高光。让一个小而优雅的焦点动作置于更大的大气色场，较深有机团块框住下缘，浅远层向外打开。清蓝、柔奶油色、叶绿、玫瑰色与赭色平衡，不用现代刺眼饱和度。浅布或同样细腻的表面承接阳光，阴影草木提供纵深。柔韧笔触在平滑肌肤、断碎树叶和轻空气之间变换。可迁移效果顽皮、轻盈且有戏剧式优雅。",
+  "theme_en": "A lightly dressed figure floating above a lush valley beneath summer clouds",
+  "theme_zh": "轻衣人物漂浮在繁茂山谷上空与夏云之间",
+  "wh_ratio": "1:1",
+  "id": "2513",
+  "name": "Jean-Honore Fragonard",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/jean-honore-fragonard",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/jean-honore-fragonard.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "1473dacc84c1072b77c94c112ad1a83aef530882055933fa7104696f344057b0",
+    "gpt_submission_prompt": "A square Rococo oil painting places a small airborne figure across a bright summer sky above a deep leafy ravine. The figure floats diagonally from the upper left toward the center-right, arms extended forward as if reaching through the air. A white loose blouse billows around the shoulders and sleeves, while warm rose and ochre fabric twists around the hips and legs. One foot points backward; the other leg bends slightly, giving the floating pose a buoyant, playful rhythm. The head, with pale hair or a light cap, turns to the right. Below, a shadowed bank of rich green trees, vines, and rocky ledges fills the lower left. A pale stone outcrop catches sun near the center-bottom, and a thin view into the far valley opens beyond it. On the far right, hazy hills and a tiny cluster of pale buildings drift into the distance. The sky is clear blue with swollen white and cream clouds forming soft vertical towers around the figure, their gray undersides adding depth. Brushwork is light and feathery in the cloud edges, more dappled and leafy in the vegetation, and smooth across the light fabric and skin. Sunlight from above left gives the clouds and airborne figure a warm creamy glow while the ravine remains cool and dark. The composition contrasts intimate, fanciful motion with expansive atmospheric space and lush framing foliage.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "b2fdacf2df6cf4275ba66ad79bfdc66c075eadb7faa34824d54f8834d0cea0f2",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

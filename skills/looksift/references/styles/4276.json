@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white documentary photograph catches two young men standing shoulder to shoulder in a crowded street. The man on the right wears a soft cap and a worn leather jacket; his arm lies across the shoulders of his companion. Both face left, their profiles alert and serious, while one partly turns his eyes toward the nearby activity. An old dark vehicle fills the background immediately behind them, and several more people stand around its open door, softly out of focus. The camera is close enough to show the texture of the jacket, cap seams, and faces, yet wide enough to preserve the setting and the loose group. The central pair occupy most of the frame, with the rounded roofline of the car forming a dark arc above them. Gray daylight gives the scene gentle tonal transitions rather than theatrical illumination. Whites remain soft, blacks stay deep, and the middle grays carry detail in hair, fabric, and the blurred wall beyond. The moment feels unposed and fleeting, as though the photographer has stepped into a moving crowd and caught a brief gesture of solidarity. Slight grain and imperfect background focus retain the immediacy of a historical press image. No text, graphic treatment, or polished studio arrangement is visible.",
+  "full_prompt_zh": "一幅方形黑白纪实照片捕捉到两名年轻男子在拥挤街道肩并肩站着。右侧男子戴软帽、穿磨旧皮夹克，胳膊搭在同伴肩上。两人都朝左，侧脸警觉而严肃，其中一人目光稍转向近旁动静。一辆旧式深色汽车紧贴在他们背后填满背景，打开的车门周围还站着几个人，略微失焦。镜头足够近，能看清夹克纹理、帽缝和面孔，又足够宽，保留环境与松散人群。中心二人占据画幅大部，汽车圆弧车顶在他们上方形成一条深色弧线。灰色日光带来温和层次，而非舞台照明。白色柔和、黑色深沉，中灰保留头发、布料和远处模糊墙面的细节。这一瞬间未经摆拍、稍纵即逝，仿佛摄影师走入流动人群，撞见短暂的相互扶持。轻微颗粒和不完美的背景焦点保留历史新闻照片的即时感。没有文字、图形修饰或精致影棚安排。",
+  "style_prompt_en": "Close-range monochrome documentary photography with spontaneous human gesture, natural gray daylight, and a crowded but readable depth. Deep blacks and soft whites frame detailed middle grays; slight film grain and imperfect focus preserve immediacy. The composition favors candid overlap, environmental context, and emotionally direct observation over polished arrangement.",
+  "style_prompt_zh": "近距离单色纪实摄影呈现自发动作、自然灰色日光和拥挤却可读的纵深。深黑与柔白框住细节丰富的中灰；轻微胶片颗粒和不完美焦点保留即时性。构图偏向未经摆拍的重叠、环境语境与情感直接的观察，整体朴素而真实。",
+  "theme_en": "Two young men standing close beside a vehicle in a crowded street",
+  "theme_zh": "拥挤街道车辆旁紧靠着的两名年轻男子",
+  "wh_ratio": "1:1",
+  "id": "4276",
+  "name": "Robert Capa",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/robert-capa.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "622c9112563a21ab2723dbbdcacb8998a04365d8c8170753b3e041caea63e29b",
+    "gpt_submission_prompt": "A square black-and-white documentary photograph catches two young men standing shoulder to shoulder in a crowded street. The man on the right wears a soft cap and a worn leather jacket; his arm lies across the shoulders of his companion. Both face left, their profiles alert and serious, while one partly turns his eyes toward the nearby activity. An old dark vehicle fills the background immediately behind them, and several more people stand around its open door, softly out of focus. The camera is close enough to show the texture of the jacket, cap seams, and faces, yet wide enough to preserve the setting and the loose group. The central pair occupy most of the frame, with the rounded roofline of the car forming a dark arc above them. Gray daylight gives the scene gentle tonal transitions rather than theatrical illumination. Whites remain soft, blacks stay deep, and the middle grays carry detail in hair, fabric, and the blurred wall beyond. The moment feels unposed and fleeting, as though the photographer has stepped into a moving crowd and caught a brief gesture of solidarity. Slight grain and imperfect background focus retain the immediacy of a historical press image. No text, graphic treatment, or polished studio arrangement is visible.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "6cde4d7c99efa7341eee92cb553f2433f74c8a2782e3dd00b1ce48732c223f3f",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

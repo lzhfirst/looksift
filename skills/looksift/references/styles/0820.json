@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square editorial character sketch shows a thin, angular man bent over a large menu or document at a cafe table. His long pointed nose, arched back, and narrow black jacket form an exaggerated triangular silhouette. Orange wash warms the face and hands while the jacket remains mostly dark brown and black. Two tiny stemmed cocktail glasses sit near the lower left, indicated by just a few quick lines. The page around him is largely warm white, with faint pencil scaffolding and several unfinished strokes trailing down from the table and coat. Fine ink lines sharpen the long fingers, menu edge, jaw, and lapels; loose tan watercolor patches soften the form. The figure's concentrated downward gaze gives the slight action a dry comic tension. There is no detailed room or background, so the posture and a handful of props carry the entire scene. Light is simply the open paper, with a modest wash beneath the arms and table for grounding. The composition leans forward as strongly as the man does, making the angle of his body the main visual joke. The whole image feels sophisticated and economical, like a quick newspaper or magazine caricature left visibly in the sketchbook stage.",
+  "full_prompt_zh": "一幅方形编辑人物速写呈现一位瘦而棱角分明的男子俯身研究咖啡桌上的大菜单或文件。长尖鼻、弯背和狭窄黑外套形成夸张三角剪影。橙色薄染温暖面孔与手，外套主要是深棕与黑。左下附近有两杯细脚小酒，只由几根快线指出。人物周围大部分是暖白纸面，淡铅笔结构线与若干未完成笔触从桌子和外套向下拖开。细墨线强调长手指、菜单边缘、下颌和翻领，松动棕黄水彩斑块柔化形态。向下专注的目光使简单动作带干冷喜剧张力。没有细致房间或背景，姿态和少量道具承担全部场景。光基本是开放纸白，手臂与桌下只有适度薄染使其落地。构图像人物身体一样强烈前倾，身体角度成为主要视觉笑点。整体精练而经济，像一张保留明显速写本阶段的报刊杂志漫画。",
+  "style_prompt_en": "A spare editorial caricature style draws expressive posture from long angular contours, quick ink, and a few warm watercolor washes. A largely white page leaves abundant negative space around one pointed silhouette. Orange and tan concentrate on face or hands; black and dark brown hold clothing or another large mass. Minimal props are indicated with brisk line, and faint construction strokes may remain visible. The figure's lean and gesture supply humor without background detail. Light comes mainly from untouched paper rather than modeled illumination. The finish feels smart, economical, and intentionally unfinished, with line speed and proportion doing the storytelling.",
+  "style_prompt_zh": "稀疏编辑漫画风格用长而棱角的轮廓、快墨线和少量暖水彩薄染塑造富表现力姿态。大面积白纸让尖锐剪影周围留有充裕负空间。橙与棕黄集中在面孔或手，黑和深棕稳住衣装或其他大体量。极少道具由快捷线条指出，淡淡结构笔迹可继续可见。人物倾斜与手势无需背景细节即可带来幽默。亮光主要来自未着墨纸面，而非塑形照明。效果聪明、经济、有意未完成，线条速度和比例承担叙事。",
+  "theme_en": "An angular man studies a menu over two tiny cocktails in a spare cartoon",
+  "theme_zh": "一位棱角分明的男子在极简漫画中研究菜单，桌上有两杯小酒",
+  "wh_ratio": "1:1",
+  "id": "0820",
+  "name": "Ann Telnaes",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/ann-telnaes",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/ann-telnaes.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "7e5120783a13a7d77a585b7c0ea93b56e37618a742c183ceda9101723ce5405a",
+    "gpt_submission_prompt": "A square editorial character sketch shows a thin, angular man bent over a large menu or document at a cafe table. His long pointed nose, arched back, and narrow black jacket form an exaggerated triangular silhouette. Orange wash warms the face and hands while the jacket remains mostly dark brown and black. Two tiny stemmed cocktail glasses sit near the lower left, indicated by just a few quick lines. The page around him is largely warm white, with faint pencil scaffolding and several unfinished strokes trailing down from the table and coat. Fine ink lines sharpen the long fingers, menu edge, jaw, and lapels; loose tan watercolor patches soften the form. The figure's concentrated downward gaze gives the slight action a dry comic tension. There is no detailed room or background, so the posture and a handful of props carry the entire scene. Light is simply the open paper, with a modest wash beneath the arms and table for grounding. The composition leans forward as strongly as the man does, making the angle of his body the main visual joke. The whole image feels sophisticated and economical, like a quick newspaper or magazine caricature left visibly in the sketchbook stage.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "1da58aa6aa9f5b55e7ce9e4c7f89d91bcd42b1d3ef03936aea2e7f1534669862",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

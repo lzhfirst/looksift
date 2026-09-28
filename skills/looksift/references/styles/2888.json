@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square cinematic color photograph shows a man in sunglasses seated at a typewriter beside a broad waterfront in warm afternoon light. The horizon lies low behind him, where pale water meets a yellow-green sky with thin clouds. The man sits near the center facing the camera, his light curly hair stirred slightly outward and his expression level and reserved behind dark round glasses. He wears a mustard-brown corduroy-like jacket over a pale shirt and patterned dark tie, with a small warm pocket detail. A light-colored portable typewriter fills the lower center foreground, its dark keys and paper carriage clearly visible. Loose pale pages lie at the lower left, while a metal container and red patterned luggage or seat upholstery occupy the right side of the table. His hands rest low behind the typewriter, making the instrument a visual barrier between viewer and subject. A few thin poles and distant structures rise at the right horizon, but the open water and sky leave most of the background uncluttered. Direct sunlight enters from the left and slightly above, brightening the man's hair, face, jacket ridges, and machine top; gentle shadows fall toward the right. The color is warm and slightly faded, with honey gold, dusty brown, cream, and soft olive dominating. Background detail is softened by depth of field and haze, while the face and typewriter stay crisp. The overall composition combines deadpan frontal symmetry with a leisurely, sun-washed sense of place.",
+  "full_prompt_zh": "这幅方形电影感彩色照片描绘一名戴墨镜的男子在暖午后光线中坐在宽广水边的打字机前。低地平线在他身后延伸，浅色水面与有薄云的黄绿色天空相接。男子坐在中央附近面对镜头，浅色卷发略向外扬，深色圆眼镜后的神情平直而克制。他穿芥末棕色、似灯芯绒的外套，里面是浅色衬衫和深色花纹领带，胸袋处有一点暖色细节。一台浅色便携打字机占据下方中央前景，深色按键和纸架清晰可见。松散浅色纸页躺在左下，金属容器与红色花纹行李或座垫占据桌子右侧。双手低放在打字机后，让机器成为观者与人物之间的视觉隔层。几根细杆和远处结构在右侧地平线上升起，但开阔水面与天空让背景大部保持简洁。直射阳光从左侧略偏上进入，照亮头发、面部、外套凸纹和机器顶部；柔和阴影落向右侧。色彩温暖且略显褪色，以蜜金、灰棕、奶油色和柔橄榄绿为主。背景细节被景深与雾气柔化，面部和打字机保持清晰。整体构图把不动声色的正面对称与悠闲、日光浸染的地点感结合。",
+  "style_prompt_en": "The image has a warm cinematic photographic finish, with slightly faded color, gentle haze, and deliberate frontal framing. Honey gold, dusty brown, cream, and muted olive create a nostalgic tonal range. Direct low light picks out hair-like and fabric-like textures, while modest side shadows maintain rounded volume. The focal plane is crisp, and the far background softens into broad horizontal bands and a few thin vertical accents. Close foreground objects form a stable low block beneath a centered upper silhouette. Surfaces retain fine film-like grain and natural imperfections instead of a polished digital gloss. The overall effect is wry, leisurely, and sun-washed.",
+  "style_prompt_zh": "图像具有温暖电影摄影质感，色彩略褪、带轻雾，并刻意采用正面构图。蜜金、灰棕、奶油色和柔橄榄绿组成怀旧色调。低位直射光挑出似发丝和似织物的肌理，适度侧影维持圆润体积。焦点平面清晰，远背景柔化为宽阔水平色带和少数细竖向强调。贴近的前景物件在中央上部剪影下形成稳定低矮色块。表面保留细微胶片般颗粒与自然瑕疵，而非光洁数字亮泽。整体效果带一点冷幽默、悠闲且浸在阳光里。",
+  "theme_en": "A suited man at a typewriter beside a sunlit waterfront",
+  "theme_zh": "阳光水边打字机前的西装男子",
+  "wh_ratio": "1:1",
+  "id": "2888",
+  "name": "Spike Jonze",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/spike-jonze",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/spike-jonze.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "2b83993063fcb38cbde70bc072548b2b693b281159d966b3efc246d1bf95a805",
+    "gpt_submission_prompt": "A square cinematic color photograph shows a man in sunglasses seated at a typewriter beside a broad waterfront in warm afternoon light. The horizon lies low behind him, where pale water meets a yellow-green sky with thin clouds. The man sits near the center facing the camera, his light curly hair stirred slightly outward and his expression level and reserved behind dark round glasses. He wears a mustard-brown corduroy-like jacket over a pale shirt and patterned dark tie, with a small warm pocket detail. A light-colored portable typewriter fills the lower center foreground, its dark keys and paper carriage clearly visible. Loose pale pages lie at the lower left, while a metal container and red patterned luggage or seat upholstery occupy the right side of the table. His hands rest low behind the typewriter, making the instrument a visual barrier between viewer and subject. A few thin poles and distant structures rise at the right horizon, but the open water and sky leave most of the background uncluttered. Direct sunlight enters from the left and slightly above, brightening the man's hair, face, jacket ridges, and machine top; gentle shadows fall toward the right. The color is warm and slightly faded, with honey gold, dusty brown, cream, and soft olive dominating. Background detail is softened by depth of field and haze, while the face and typewriter stay crisp. The overall composition combines deadpan frontal symmetry with a leisurely, sun-washed sense of place.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "ab5e58f7a12a356bf1e34b977058eafb03bec72b10ae6327d5b94d7162ae8389",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

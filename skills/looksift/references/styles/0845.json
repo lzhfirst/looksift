@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square antique storybook illustration shows a young girl seated beneath a broad tree, reading a large open book. She wears a layered pale dress, dark stockings, and simple shoes. One hand supports her cheek as she studies the pages. A white rabbit sits close beside a small teapot near the roots, its long ears upright. A carved chair or bench back rises behind the girl, and the foreground holds a basket of fruit, scattered dishes, stones, and low plants. The tree canopy creates a deep textured arch above them. Fine engraved black lines and dense cross-hatching describe bark, folds, fur, hair, and shaded objects. Cream paper white opens on the dress, rabbit, and book, giving these quiet forms priority amid the dark foliage. The scene has almost no color; tonal depth comes from line direction and density. Light seems to filter through the leaves, catching the girl's face and the rabbit while the canopy and background fall into rich gray. The composition is intimate and still, yet the many small objects invite slow exploration. The whole frame feels whimsical and precise, like a nineteenth-century book plate with a faintly surreal domestic moment.",
+  "full_prompt_zh": "一幅方形古典故事书插画呈现一位小女孩坐在宽树下阅读一本翻开的厚书。她穿层叠浅色裙、深袜和简单鞋，一只手托着脸颊认真看书页。一只白兔紧挨根旁的小茶壶坐着，长耳朵竖起。女孩身后有雕花椅背或长凳靠背，前景摆着水果篮、散落餐具、石头与低矮植物。树冠在两人上方形成深色有肌理的拱。细雕版黑线与密集交叉排线描写树皮、衣褶、毛发、头发和阴影物件。乳白纸面在裙、兔和书上打开，使安静形体在深叶间成为优先焦点。场景几乎没有彩色；调子深度由线条方向和密度产生。光仿佛穿过叶片照亮女孩面孔与白兔，树冠和背景则落入丰厚灰影。构图亲密静止，许多小物又邀请缓慢探索。整体奇趣而精确，像十九世纪书籍插页中的一段略带超现实的家常时刻。",
+  "style_prompt_en": "An antique engraved storybook style uses finely controlled black line, dense cross-hatching, and cream-paper white to stage a quiet vignette under a textured natural canopy. Pale focal forms stand out against dark bark and foliage. Cloth, fur, fruit, wood, and stone receive different hatch directions and densities. Small domestic objects cluster at ground level and reward close viewing without confusing the central action. Filtered light is represented by preserved paper white rather than painted glow. The composition is intimate, balanced, and a little strange, with nineteenth-century print texture and patient descriptive detail.",
+  "style_prompt_zh": "古典雕版故事书风格用受控细黑线、密集交叉排线与乳白纸面在有肌理的自然树冠下布置安静小场景。浅色焦点形体从深树皮和叶丛前突出。布、毛发、水果、木与石各有不同排线方向和密度。细小家常物件聚在地面，值得近看却不混淆中央动作。过滤光由保留纸白而非绘制辉光表现。构图亲密、平衡、略微古怪，有十九世纪印刷肌理和耐心描写的细节。",
+  "theme_en": "A girl reads beside a white rabbit under a tree in an antique engraved illustration",
+  "theme_zh": "一位女孩在树下与白兔相伴阅读，呈古典雕版插画",
+  "wh_ratio": "1:1",
+  "id": "0845",
+  "name": "John Tenniel",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/john-tenniel",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/john-tenniel.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "a99cb25c4fc46d59a6b0ca40fec28cd2c68be237f0fd73fa8527b632f6da710e",
+    "gpt_submission_prompt": "A square antique storybook illustration shows a young girl seated beneath a broad tree, reading a large open book. She wears a layered pale dress, dark stockings, and simple shoes. One hand supports her cheek as she studies the pages. A white rabbit sits close beside a small teapot near the roots, its long ears upright. A carved chair or bench back rises behind the girl, and the foreground holds a basket of fruit, scattered dishes, stones, and low plants. The tree canopy creates a deep textured arch above them. Fine engraved black lines and dense cross-hatching describe bark, folds, fur, hair, and shaded objects. Cream paper white opens on the dress, rabbit, and book, giving these quiet forms priority amid the dark foliage. The scene has almost no color; tonal depth comes from line direction and density. Light seems to filter through the leaves, catching the girl's face and the rabbit while the canopy and background fall into rich gray. The composition is intimate and still, yet the many small objects invite slow exploration. The whole frame feels whimsical and precise, like a nineteenth-century book plate with a faintly surreal domestic moment.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "04e73613a82e8937140b1934cad8813276569de38dd4f1d49f596dbd06f4ba38",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

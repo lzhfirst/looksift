@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "The painting depicts a compact hillside town at night. Tall, narrow houses stack above and behind one another until their rooflines almost disappear into a deep blue sky. Their facades shift between teal, slate blue, muted red, ochre, violet, and warm gray. A narrow staircase climbs diagonally from the center toward a bright landing, then seems to disappear among further terraces and doorways. Small balconies project from several walls, and arches open beneath the lower buildings. Windows glow in scattered yellow and orange rectangles, each suggesting an inhabited room inside the maze of masonry. A small pale moon or lamp-like orb hangs high in the misty sky. The city has believable architectural fragments but an improbable, dreamlike density: every path appears to lead upward or around a corner into another hidden space. Brushwork is visible and slightly rough, with scratched lines indicating mortar, window frames, and railing details. Cool blue shadow washes over the overall scene, while warm light pools around doors, stair landings, and a few lower archways. There is no single human figure competing for attention; the town itself becomes the subject. The square composition is nearly full from edge to edge, but the repetition of lit windows gives the eye a navigable rhythm. The image feels intimate and fantastical at once, as though a familiar old town had been folded into a glowing nocturnal labyrinth.",
+  "full_prompt_zh": "油画描绘一座夜晚的紧凑山城。高而窄的房屋一层接一层叠起，屋顶线几乎消失在深蓝天空里。立面在湖蓝、石板蓝、柔红、赭黄、紫色和暖灰之间转换。一条狭窄楼梯从中央斜向亮起的平台攀升，又似乎消失于更多露台与门洞之间。几处小阳台从墙面伸出，较低房屋下方有拱洞敞开。零散的黄橙色矩形窗灯发亮，暗示迷宫般砌石内部有人居住。天空高处悬着小小淡月或灯一般的圆点。城市有可信的建筑碎片，却以近乎不可能的密度制造梦境感：每条路径都像向上或绕过墙角通往另一处隐藏空间。笔触可见且略粗，刮出的细线提示砖缝、窗框与栏杆。冷蓝阴影笼罩全景，暖光则聚在门边、楼梯平台和较低的几个拱门。没有单独人物争夺注意力，城镇本身成为主体。方形构图几乎被建筑填满，但重复亮窗给目光提供可循的节奏。画面既亲密又奇幻，仿佛熟悉的旧城被折叠成发光的夜间迷宫。",
+  "style_prompt_en": "Paint a densely layered nocturnal environment with visible rough brushwork, narrow interlocking planes, and small scratched structural details. Use cool teal, slate, indigo, violet, and deep blue as the dominant atmosphere, punctuated by warm ochre, amber, and orange light sources. Let illuminated rectangles create rhythm through a crowded square composition. Build depth by stacking forms and zigzagging paths, preserving a slightly dreamlike density under misty moonlit haze.",
+  "style_prompt_zh": "以可见的粗粝笔触、互锁的狭窄平面和细小刮痕结构描绘密集叠层夜景。主气氛使用冷湖蓝、石板蓝、靛蓝、紫色与深蓝，由暖赭、琥珀和橙色光点打断。让亮起的矩形在拥挤方形构图中形成节奏。通过层层堆叠形体及曲折路径建立纵深，并在朦胧月光里保留略带梦幻的密度。",
+  "theme_en": "Stacked nocturnal town with glowing windows",
+  "theme_zh": "窗灯闪烁的叠层夜城",
+  "wh_ratio": "1:1",
+  "id": "0799",
+  "name": "David Martiashvili",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/david-martiashvili",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/david-martiashvili.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "1f0ee8425dbf0d3ebec47adb2a2cf8ae6b44f3f2831677dd96eb9c9db6f5991f",
+    "gpt_submission_prompt": "The painting depicts a compact hillside town at night. Tall, narrow houses stack above and behind one another until their rooflines almost disappear into a deep blue sky. Their facades shift between teal, slate blue, muted red, ochre, violet, and warm gray. A narrow staircase climbs diagonally from the center toward a bright landing, then seems to disappear among further terraces and doorways. Small balconies project from several walls, and arches open beneath the lower buildings. Windows glow in scattered yellow and orange rectangles, each suggesting an inhabited room inside the maze of masonry. A small pale moon or lamp-like orb hangs high in the misty sky. The city has believable architectural fragments but an improbable, dreamlike density: every path appears to lead upward or around a corner into another hidden space. Brushwork is visible and slightly rough, with scratched lines indicating mortar, window frames, and railing details. Cool blue shadow washes over the overall scene, while warm light pools around doors, stair landings, and a few lower archways. There is no single human figure competing for attention; the town itself becomes the subject. The square composition is nearly full from edge to edge, but the repetition of lit windows gives the eye a navigable rhythm. The image feels intimate and fantastical at once, as though a familiar old town had been folded into a glowing nocturnal labyrinth.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "c774aa7d4fdb23534d22506f1b2311f1b1e32ea73903bc00b9240eb5e8d8b5fe",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

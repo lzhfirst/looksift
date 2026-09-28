@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "The painting looks down a quiet street toward a row of boxy, low-rise buildings. The road begins wide at the lower edge and narrows toward a small distant crossing. A dark building mass presses in from the left foreground, making a firm vertical border, while the right side opens toward a wide pavement, telephone poles, and a low horizon. The central buildings are simplified into stacked rectangular planes rather than precise architectural detail. One facade is mint green, another a warm brick red, and a bright ochre yellow block catches the last light. Salmon pink and pale lavender spread through the sky behind them. A few tiny pedestrians and indistinct vehicles appear far down the road, but the scene remains still and sparsely populated. Long blue-violet and mauve shadows stretch diagonally across the asphalt and sidewalk. Paint is applied in loose, visible strokes: broad sweeps flatten the road, shorter marks articulate windows and cornices, and thin dark lines establish poles and edges. The colors appear mixed on the canvas, leaving traces of one hue inside another. Lighting feels like late afternoon or early evening, with low warm illumination on the building faces and cooler shade in the street. Perspective remains believable despite the broad simplification. The square composition balances the heavy left foreground against the bright stepped facades, turning an ordinary block into a study of color, light, and quiet urban space.",
+  "full_prompt_zh": "画面沿一条安静街道望向成排低矮、方盒状的建筑。道路从下缘宽阔起步，向远处小小的交叉口收窄。左前景一大块深色楼体形成坚实的竖向边框，右侧则展开宽阔人行道、电线杆和低平地平线。中央建筑被简化为层叠矩形平面，而非精密建筑细节。一面立面是薄荷绿，另一面是暖砖红，明亮赭黄的块面接住最后的阳光。建筑背后铺着鲑粉和浅薰衣草色天空。远处有几个微小行人和模糊车辆，但场面仍显静止、空旷。蓝紫与灰紫色长影斜穿沥青路面及人行道。油彩以松散可见的笔触施加：宽阔扫笔平铺道路，较短的笔触交代窗户和檐线，细深线标出电线杆与边界。颜色像直接在画布上混合，某种色彩里残留另一种颜色。光线近似傍晚，低角度暖光照亮楼面，街道落入较冷阴影。尽管形式高度概括，透视仍可信。方形构图用沉重的左前景平衡明亮阶梯式立面，把普通街区转化为色彩、光线与静谧城市空间的研究。",
+  "style_prompt_en": "Paint with broad, loose oil strokes and simplified interlocking color planes. Use muted mint, brick red, ochre, salmon, pale lavender, and blue-violet shadows, allowing neighboring hues to mix visibly at their edges. Keep perspective readable through large value masses while reducing small details to quick marks and thin accents. Set warm low-angle light against cooler shaded areas. Balance a dark foreground anchor with a brighter middle distance in a quiet square composition.",
+  "style_prompt_zh": "以宽松可见的油画笔触和互相嵌合的简化色面作画。使用柔和薄荷绿、砖红、赭黄、鲑粉、浅薰衣草紫及蓝紫阴影，让相邻色彩在边缘留下可见混色。通过大块明暗保持透视可读，把细节概括为迅速落下的小笔痕和细线点缀。用低角度暖光对照较冷暗部，在安静的方形构图中平衡深色前景锚点与较亮中景。",
+  "theme_en": "Quiet color-block street at dusk",
+  "theme_zh": "暮色中的静谧色块街道",
+  "wh_ratio": "1:1",
+  "id": "1228",
+  "name": "Elmer Bischoff",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/elmer-bischoff",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/elmer-bischoff.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "f3ff6e1d47bf0830a2e8c39188174f03e435263b84b7b86bfd2d0617e42d1c8c",
+    "gpt_submission_prompt": "The painting looks down a quiet street toward a row of boxy, low-rise buildings. The road begins wide at the lower edge and narrows toward a small distant crossing. A dark building mass presses in from the left foreground, making a firm vertical border, while the right side opens toward a wide pavement, telephone poles, and a low horizon. The central buildings are simplified into stacked rectangular planes rather than precise architectural detail. One facade is mint green, another a warm brick red, and a bright ochre yellow block catches the last light. Salmon pink and pale lavender spread through the sky behind them. A few tiny pedestrians and indistinct vehicles appear far down the road, but the scene remains still and sparsely populated. Long blue-violet and mauve shadows stretch diagonally across the asphalt and sidewalk. Paint is applied in loose, visible strokes: broad sweeps flatten the road, shorter marks articulate windows and cornices, and thin dark lines establish poles and edges. The colors appear mixed on the canvas, leaving traces of one hue inside another. Lighting feels like late afternoon or early evening, with low warm illumination on the building faces and cooler shade in the street. Perspective remains believable despite the broad simplification. The square composition balances the heavy left foreground against the bright stepped facades, turning an ordinary block into a study of color, light, and quiet urban space.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "a00a924442cb7066253ffa1dd90a5e70fe90036557e60cd2a6dbad92a8819bf9",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

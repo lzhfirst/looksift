@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square pen-and-ink drawing on warm cream paper shows a wild-haired traveler riding a horse that bounds toward the right. The rider leans back with one arm flung outward, mouth open in an exuberant grin. A floppy hat, loose coat, and trailing fabric fly in the same direction as the horse's movement. The animal's front legs lift high, its head turned slightly toward the viewer, mane and tail broken into energetic curls of line. No landscape is fully described; a few faint ground strokes beneath the hooves establish contact and leave most of the paper open. Thin contour lines alternate with dense crosshatching on the rider's face, clothing folds, horse's neck, and shadowed belly. Some strokes are precise and anatomical; others spiral or dash freely, giving the pose a comic speed. The palette is almost entirely black ink and sepia-gray marks against aged beige, with no solid painted color. Light is implied by untouched paper on the horse's back, raised face planes, and coat edges, while hatch masses define the undersides. The composition is diagonally charged from lower left to upper right, but the generous blank margin lets every wild gesture remain legible. The result feels lively, satirical, and spontaneous, like a quick performance caught in a highly skilled sketch.",
+  "full_prompt_zh": "一幅方形钢笔墨线画绘于暖奶油纸上，描绘一个乱发旅人骑马向右腾跃。骑手身体后仰，一臂向外甩开，张口露出狂喜笑容。软帽、宽松外衣和飘动布料都顺着马的动势飞扬。马前腿高抬，头略转向观者，鬃尾被富有能量的卷曲线拆开。画中没有完整描绘景观；马蹄下几道淡地面笔痕建立接触，其余大部分纸面保持空白。细轮廓线与密集交叉排线交替出现在骑手面孔、衣褶、马颈和腹部暗面。有些笔痕精确合乎结构，另一些则自由旋转或飞跃，让姿态有滑稽速度。配色几乎只有旧米色底上的黑墨与褐灰线，没有实涂彩色。光靠马背、凸起脸部和衣边未着墨的纸色暗示，排线团块则定出下侧。构图沿左下到右上的对角线充满冲势，但宽大空白边缘令每个狂放动作仍然清晰。作品生动、讽刺而即兴，像精湛速写捉住的一次表演。",
+  "style_prompt_en": "Pen-and-ink drawing uses elastic contours, curling gesture lines, and dense crosshatching on aged cream paper. Black and sepia-gray carry the whole image; open paper provides the highlights. Marks alternate between anatomical precision and fast comic exaggeration. Dark hatch clusters give weight beneath light, almost unmarked surfaces. A strong diagonal sweep drives the composition through generous negative space. Edges stay lively and broken, with loose incidental scratches around the focal movement. The finish feels hand-drawn, witty, and energetic rather than polished flat.",
+  "style_prompt_zh": "钢笔墨线画在旧奶油纸上运用富弹性的轮廓、卷曲动势线和密集交叉排线。黑与褐灰承担全幅颜色，留白纸面提供高光。笔痕在结构准确与快速漫画夸张间切换。深色排线簇让几乎不着墨的亮面有重量。强烈对角动线穿过大面积负空间。边缘活泼且断续，焦点动作附近有松散偶发划痕。完成面手绘、机智而有能量，并非平坦光洁。",
+  "theme_en": "A wild-haired traveler riding a rearing horse",
+  "theme_zh": "乱发旅人骑着跃起的马",
+  "wh_ratio": "1:1",
+  "id": "2539",
+  "name": "Heinrich Kley",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/heinrich-kley",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/heinrich-kley.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "934935a3631b5e474ef0d42348f6dec7c82062d6d934dac85e422be3f4c95203",
+    "gpt_submission_prompt": "A square pen-and-ink drawing on warm cream paper shows a wild-haired traveler riding a horse that bounds toward the right. The rider leans back with one arm flung outward, mouth open in an exuberant grin. A floppy hat, loose coat, and trailing fabric fly in the same direction as the horse's movement. The animal's front legs lift high, its head turned slightly toward the viewer, mane and tail broken into energetic curls of line. No landscape is fully described; a few faint ground strokes beneath the hooves establish contact and leave most of the paper open. Thin contour lines alternate with dense crosshatching on the rider's face, clothing folds, horse's neck, and shadowed belly. Some strokes are precise and anatomical; others spiral or dash freely, giving the pose a comic speed. The palette is almost entirely black ink and sepia-gray marks against aged beige, with no solid painted color. Light is implied by untouched paper on the horse's back, raised face planes, and coat edges, while hatch masses define the undersides. The composition is diagonally charged from lower left to upper right, but the generous blank margin lets every wild gesture remain legible. The result feels lively, satirical, and spontaneous, like a quick performance caught in a highly skilled sketch.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "efafc32dfe2015d92045a199cf4d51b0563cc79e3a989b707b954e97ec621895",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

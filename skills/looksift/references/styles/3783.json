@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square ink-and-watercolor drawing shows a small fishing boat pitching through enormous turquoise waves. The vessel sits just above the center, angled upward to the left as the swollen water lifts its bow. A dark hull, compact cabin and thin masts are visible through a lattice of gestural black lines. Gray smoke curls into the upper right, joining rough cloud marks in the pale paper sky. Around the boat, foaming blue-green water rises in layered crests, especially along the left and lower edges. White paper remains exposed in the spray, giving the churning water sharp flashes of brightness. Small black bird shapes skim the upper sky and the turbulent surface, adding scale to the heavy swell. Deep navy and charcoal hatching gathers beneath each crest, while yellow-ochre flicks sit among the cyan strokes. The image retains the irregular pale edge of a printed sheet, and the drawing is framed by a narrow warm off-white margin. Lines vary from thin searching scratches to thick, almost calligraphic black swipes; transparent blue wash runs across and between them. Light is broad and diffuse, suggested by the white reserves of paper rather than a single bright source. The overall composition creates a swirling, unstable motion around the compact boat, holding energetic ink marks against the open light of the paper.",
+  "full_prompt_zh": "一幅方形墨线与水彩画描绘小渔船在巨大的青绿色海浪中颠簸。船位于中央稍上方，鼓起的浪托起船头，使它向左上倾斜。深色船壳、紧凑的驾驶舱与细桅杆透过姿态强烈的黑线网络可见。灰烟卷向右上，与浅纸天空的粗云痕相连。船周围，起泡的蓝绿水浪层层隆起，尤其沿左侧与下缘。浪花中露出的白纸给翻腾水面带来尖锐亮闪。细小黑鸟形掠过上方天空与激荡水面，衬出巨浪尺度。深海军蓝与炭色排线聚于每道浪峰下方，黄赭色短痕穿插青色笔触。画面保留印刷纸页不规则的浅色边缘，周围有窄窄的暖白留边。线条从纤细探索刮痕变到粗重近书法式黑刷痕；透明蓝色渲染穿越其间。光线宽阔漫射，靠白纸留白而非单一亮光源表现。整体构图让紧凑船只周围形成旋转而不稳定的动势，以充满活力的墨痕对照纸面的开阔亮度。",
+  "style_prompt_en": "An energetic ink-and-wash image relies on bold black gesture, fine scratchy hatching and translucent pools of cool color. White ground is deliberately left open as the brightest value, while dense charcoal strokes compress around deep recesses. Turquoise and cobalt move through the drawing in uneven sweeps, with a few warm ochre flicks preventing the cool field from becoming flat. Contours repeatedly break into spray-like short marks and return as heavy sweeping arcs. The surface retains paper grain and irregular print-like edges. Broad diffuse light comes from exposed pale areas, so form is created by rhythmic dark marks and color density. A compact focal mass sits within large swirling movement, making the composition restless yet clearly organized.",
+  "style_prompt_zh": "这种充满能量的墨线渲染图依靠有力黑色姿态线、纤细粗粝排线和半透明冷色色池。白底被有意留作最亮明度，密集炭黑笔触则压缩在深凹处。青绿与钴蓝以不均匀长扫痕贯穿画面，少量暖赭色短痕避免冷色场变平。轮廓反复碎成喷溅般短笔，再汇成厚重横扫弧线。表面保留纸纹与不规则版画般边缘。宽阔漫射光来自露出的浅色区域，因此形体由有节奏的暗痕和色彩密度建立。紧凑焦点团块置于大范围旋动之中，让构图躁动却清楚有序。",
+  "theme_en": "A fishing boat climbing through immense turquoise waves",
+  "theme_zh": "一艘渔船穿越巨大的青绿色海浪",
+  "wh_ratio": "1:1",
+  "id": "3783",
+  "name": "Raymond Pettibon",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/raymond-pettibon",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "709f818ffb33a33d6606bdf328e7a3dba61f9685551a723e658299ded796fa92",
+    "gpt_submission_prompt": "A square ink-and-watercolor drawing shows a small fishing boat pitching through enormous turquoise waves. The vessel sits just above the center, angled upward to the left as the swollen water lifts its bow. A dark hull, compact cabin and thin masts are visible through a lattice of gestural black lines. Gray smoke curls into the upper right, joining rough cloud marks in the pale paper sky. Around the boat, foaming blue-green water rises in layered crests, especially along the left and lower edges. White paper remains exposed in the spray, giving the churning water sharp flashes of brightness. Small black bird shapes skim the upper sky and the turbulent surface, adding scale to the heavy swell. Deep navy and charcoal hatching gathers beneath each crest, while yellow-ochre flicks sit among the cyan strokes. The image retains the irregular pale edge of a printed sheet, and the drawing is framed by a narrow warm off-white margin. Lines vary from thin searching scratches to thick, almost calligraphic black swipes; transparent blue wash runs across and between them. Light is broad and diffuse, suggested by the white reserves of paper rather than a single bright source. The overall composition creates a swirling, unstable motion around the compact boat, holding energetic ink marks against the open light of the paper.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "0bf872842dd0b0790d9ccd3e841e056dd8260f0b745b476c3285200328fdd6ea",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

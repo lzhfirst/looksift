@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square voxel-style 3D rendering presents a compact cube of terrain floating against a neutral beige-gray studio background. The top is a miniature forest garden. Several trees rise from the grassy surface, their trunks made of stacked brown blocks and their crowns built from clustered square green volumes. Between them, a narrow path and small planted patches lead toward the center. At the front-right edge, blocky steps descend through grass and dirt toward an exposed cave opening under the island. A bright blue stream spills down a squared channel at the front-left corner and collects in a stepped pool before vanishing over the cropped block edge. The earth beneath the grass is visibly stratified into brown soil, pale stone, and shadowed cavities, each formed from discrete cubes or rectangular prisms. Small warm points near the paths suggest lamps, flowers, or tiny lit details, but remain secondary to the terrain. Fine foliage tufts and trailing vines soften the otherwise rigid block geometry without hiding it. The island is seen from an elevated three-quarter angle, so both the planted top and vertical cutaway sides are clear. Warm overhead light from the upper left makes the top grass vivid and leaves the cave interior dark, with a soft shadow cast onto the studio ground below. The rendering is tactile and toy-like, combining pixel-grid construction with more delicate leaf and water texture. The overall composition feels self-contained and explorable, with every stair, ledge, and opening connecting logically within the small world.",
+  "full_prompt_zh": "一幅方形体素风格三维渲染把紧凑的方块地形悬在中性米灰影棚背景前。顶部是一座微型森林花园。几棵树从草面升起，树干由棕色方块堆成，树冠由成簇绿色立方体构成。树间一条窄路和几片种植区通向中央。前右边缘，方块台阶穿过草土降到岛下露出的洞穴口。明蓝溪水从左前角的方形水槽泻下，在阶梯池中汇集，再越过被裁开的方块边缘。草下土地明显分成棕土、浅石与暗洞层，每层由独立方块或长方柱组成。路径附近几个暖色小点可能是灯、花或微小发亮物件，但不压过地形。细草丛与垂藤缓和了僵直方块几何，同时没有遮住它。岛屿以抬高的四分之三角度呈现，种满植物的顶面和垂直切面都清楚。左上暖光使顶草鲜亮，洞内保持深暗，岛在影棚地面下投出柔影。渲染可触、玩具般，将像素网格构造与较细的叶和水肌理结合。整体构图自足且可探索，每段台阶、平台与洞口在这小世界里逻辑相连。",
+  "style_prompt_en": "Use voxel-based 3D construction with discrete cubes, stepped terrain, squared edges, and clear cutaway layers. View the subject from an elevated three-quarter angle against a simple neutral ground so its top and sides remain readable. Combine earthy browns, layered stone, vivid green, and a small clear blue accent with warm directional studio light. Allow fine leaves, vines, or water texture to soften the grid while preserving unmistakable block logic. Keep the scene compact, toy-like, and spatially explorable.",
+  "style_prompt_zh": "采用体素式三维构造，以独立立方体、阶梯地形、方正边缘和清晰切面层次成形。用抬高的四分之三角度观看主体，背景简洁中性，使顶面与侧面都可读。组合泥土棕、层叠石色、鲜绿及少量清蓝，并以暖向影棚光照亮。细叶、藤或水纹可缓和网格，但必须保留明确方块逻辑。整体紧凑、玩具般，空间可探索。",
+  "theme_en": "A small block-built forest island with stepped water and a hidden cave",
+  "theme_zh": "带阶梯水流与隐蔽洞穴的小型方块森林岛",
+  "wh_ratio": "1:1",
+  "id": "0442",
+  "name": "Minecraft",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/minecraft",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/minecraft.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "88009c03225d989c33f3e02449a3148c2f6e3501b2964cd91f9962afde8925bc",
+    "gpt_submission_prompt": "A square voxel-style 3D rendering presents a compact cube of terrain floating against a neutral beige-gray studio background. The top is a miniature forest garden. Several trees rise from the grassy surface, their trunks made of stacked brown blocks and their crowns built from clustered square green volumes. Between them, a narrow path and small planted patches lead toward the center. At the front-right edge, blocky steps descend through grass and dirt toward an exposed cave opening under the island. A bright blue stream spills down a squared channel at the front-left corner and collects in a stepped pool before vanishing over the cropped block edge. The earth beneath the grass is visibly stratified into brown soil, pale stone, and shadowed cavities, each formed from discrete cubes or rectangular prisms. Small warm points near the paths suggest lamps, flowers, or tiny lit details, but remain secondary to the terrain. Fine foliage tufts and trailing vines soften the otherwise rigid block geometry without hiding it. The island is seen from an elevated three-quarter angle, so both the planted top and vertical cutaway sides are clear. Warm overhead light from the upper left makes the top grass vivid and leaves the cave interior dark, with a soft shadow cast onto the studio ground below. The rendering is tactile and toy-like, combining pixel-grid construction with more delicate leaf and water texture. The overall composition feels self-contained and explorable, with every stair, ledge, and opening connecting logically within the small world.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "b7f43680628572ed5183a6c2c488b8f2abd28735518408950b73734d08175c8a",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

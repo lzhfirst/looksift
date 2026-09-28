@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square cinematic color photograph presents a close view of a young freckled woman looking directly toward the camera through a veil of small white blossoms. Her auburn hair is loosely drawn back, with fine strands framing her pale face. Green-gray eyes, a slightly parted mouth, and an unguarded expression hold the center. The flower stems cross the lower foreground and become soft luminous circles because they fall out of focus. A patterned high collar with delicate red and green marks appears below the chin, while the background remains dark forest green and almost featureless. Window-like side light reaches the left cheek, nose, and forehead, then falls softly into shadow along the far side of the face. The freckles remain visible across the nose and cheeks; skin texture is natural, not airbrushed. The palette is muted and botanical: sage, deep green, cream, warm skin, and tiny red pattern accents. Shallow depth of field keeps the eyes and central face sharp while the near flowers and background dissolve. The frame is very close, with the face occupying the upper half and soft flora creating a translucent lower curtain. The result feels private and contemplative, with a delicate tension between direct gaze and visual concealment.",
+  "full_prompt_zh": "一幅方形电影感彩色照片通过一层白色小花贴近拍摄一位有雀斑的年轻女子，她直视镜头。赤褐头发松松向后收起，细发丝围住浅色面孔。绿灰双眼、微张嘴唇和未经设防的表情位于中央。花茎穿过较低前景，因失焦变成柔和发亮的圆点。下巴下有带细小红绿纹的高领，背景则保持深林绿，几乎没有特征。似窗边侧光照到左脸颊、鼻与额，再在远侧脸上柔和转暗。鼻与脸颊的雀斑仍清楚；皮肤肌理自然，没有磨得光滑。配色低调而植物性：鼠尾草绿、深绿、奶油、暖肤色与极少红纹。浅景深让双眼和中央面孔清楚，近花与背景则化开。画面非常贴近，面孔占上半，柔花在下方形成半透明帘幕。整体私密而沉思，直视目光与视觉遮挡之间有轻微张力。",
+  "style_prompt_en": "Cinematic color photography uses shallow depth of field, natural skin texture, and soft botanical foreground blur. Sage, forest green, cream, and warm muted flesh create a close, low-key palette. A narrow plane of focus holds fine central detail while near and far layers dissolve into soft circles and dark color. Gentle side light gives the focal surface dimensionality without hard contrast. Small translucent pale accents float across the frame and partially veil the view. The overall mood is intimate and contemplative, balancing direct clarity with atmospheric concealment.",
+  "style_prompt_zh": "电影感彩色摄影运用浅景深、自然皮肤肌理和柔化植物前景。鼠尾草、森林绿、奶油与温暖低调肤色构成贴近而低照度的配色。窄焦平面保留中央细节，近远层则化成柔圆点与深色。温和侧光给予焦点表面体积，却没有硬对比。小块半透明浅色点漂浮画中，部分遮住视野。整体私密、沉思，在直接清晰与空气遮掩之间求平衡。",
+  "theme_en": "A freckled young woman seen through small white blossoms",
+  "theme_zh": "透过白色小花望见的雀斑年轻女子",
+  "wh_ratio": "1:1",
+  "id": "3862",
+  "name": "Marta Bevacqua",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/marta-bevacqua",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "5f7ce39af3fee27adc2425f7f5005956db072d6359ed19f64b80855459516660",
+    "gpt_submission_prompt": "A square cinematic color photograph presents a close view of a young freckled woman looking directly toward the camera through a veil of small white blossoms. Her auburn hair is loosely drawn back, with fine strands framing her pale face. Green-gray eyes, a slightly parted mouth, and an unguarded expression hold the center. The flower stems cross the lower foreground and become soft luminous circles because they fall out of focus. A patterned high collar with delicate red and green marks appears below the chin, while the background remains dark forest green and almost featureless. Window-like side light reaches the left cheek, nose, and forehead, then falls softly into shadow along the far side of the face. The freckles remain visible across the nose and cheeks; skin texture is natural, not airbrushed. The palette is muted and botanical: sage, deep green, cream, warm skin, and tiny red pattern accents. Shallow depth of field keeps the eyes and central face sharp while the near flowers and background dissolve. The frame is very close, with the face occupying the upper half and soft flora creating a translucent lower curtain. The result feels private and contemplative, with a delicate tension between direct gaze and visual concealment.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "20b4f826eb0aa07d4b18658ebadc79477b8670b1996bb39a2bae86db0b36b5c9",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square fantasy illustration shows a young face in right-facing profile, enclosed in an elaborate rounded helmet. The face is pale and delicately shaded, with a calm eye, sharp nose, and closed lips, while loose white hair escapes below the metal rim. The image builds the helmet from circular plates, tiny rivets, filigree, and a large engraved ear disc; warm antique gold and copper lines trace its complicated structure. A narrow vertical crest rises at the top right of the head. Behind and around the profile, pale layered feathers sweep diagonally across a cloudy white and blue-gray background, their fine barbs drawn individually in places and dissolved into soft washes elsewhere. A small rust-red scarf or cloth crosses the lower neck, providing the only saturated accent. The image keeps the profile within the left-center, leaving feathers and cloud space at the right. The image uses highly controlled hairline ink contours, stippled metal ornament, and transparent watercolor-like shading over an ivory ground. The lighting is diffuse and pearly, with small warm glints on metal and no hard cast shadow. The composition lets ornamental precision contrast with floating, almost weightless background movement. The result should feel intricate and lyrical, preserving the tactile paper and linework rather than becoming a glossy digital render.",
+  "full_prompt_zh": "一幅方形奇幻插画呈现向右看的年轻面庞侧影，被华丽的圆形头盔包围。面部浅淡细致地设色，神情平静，鼻梁清晰，双唇闭合，松散的白发从金属边缘下逸出。头盔由圆片、细铆钉、花丝和一枚刻纹大型耳盘构成，古金与铜色线条勾出繁复结构。头顶右侧有一道狭窄竖立的饰脊。侧影背后与周围，浅色层叠羽毛斜向扫过白与蓝灰的云状背景，有些羽枝被逐根细画，有些则化入柔和洗染。颈下小片锈红围巾或布料是唯一高饱和点缀。画面让侧面位于画面中央偏左，在右侧留给羽毛和云的空间。画面采用高度克制的发丝般细墨线、点描金属装饰，以及象牙底上的透明水彩式阴影。光线漫射如珍珠，只在金属上有小小暖亮点，没有硬投影。精确装饰与几乎无重力的背景运动形成对照。成品繁复而抒情，保留纸面与线条触感，不要化为光滑数字渲染。",
+  "style_prompt_en": "Lyrical fantasy linework with hair-fine ink contours, intricate circular ornament, stippled antique-metal details, and translucent watercolor washes. The scene sets warm copper-gold marks against ivory, pale blue-gray, and soft cloudlike whites, reserving a tiny rust-red accent. The arrangement alternates painstakingly drawn filigree with airy featherlike texture and open paper. The image uses diffuse pearly light and a calm asymmetrical balance rather than hard shadows.",
+  "style_prompt_zh": "抒情奇幻细线画，以发丝般墨轮廓、繁复圆形饰纹、点描的古金属细节和透明水彩洗染构成。暖铜金标记对照象牙色、淡蓝灰和柔软云白，只留一小点锈红。精心描画的花丝与轻盈羽毛般肌理和纸面留白交替。画面用漫射珍珠光和宁静的不对称平衡，避免硬阴影。",
+  "theme_en": "A profile in ornate helmet among pale feathers and clouds",
+  "theme_zh": "华丽头盔侧影置于浅色羽翼与云气之间",
+  "wh_ratio": "1:1",
+  "id": "4301",
+  "name": "Yoshitaka Amano",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/yoshitaka-amano.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "97955ec95e07a5227385da4e283340fbc15a8a0671621866c8de490ea0874b07",
+    "gpt_submission_prompt": "A square fantasy illustration shows a young face in right-facing profile, enclosed in an elaborate rounded helmet. The face is pale and delicately shaded, with a calm eye, sharp nose, and closed lips, while loose white hair escapes below the metal rim. The image builds the helmet from circular plates, tiny rivets, filigree, and a large engraved ear disc; warm antique gold and copper lines trace its complicated structure. A narrow vertical crest rises at the top right of the head. Behind and around the profile, pale layered feathers sweep diagonally across a cloudy white and blue-gray background, their fine barbs drawn individually in places and dissolved into soft washes elsewhere. A small rust-red scarf or cloth crosses the lower neck, providing the only saturated accent. The image keeps the profile within the left-center, leaving feathers and cloud space at the right. The image uses highly controlled hairline ink contours, stippled metal ornament, and transparent watercolor-like shading over an ivory ground. The lighting is diffuse and pearly, with small warm glints on metal and no hard cast shadow. The composition lets ornamental precision contrast with floating, almost weightless background movement. The result should feel intricate and lyrical, preserving the tactile paper and linework rather than becoming a glossy digital render.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "680eb10d3f9527eeb7a6ddb904dae5c3ad08fcf303b449907dd38e0ce47f7ee2",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square monochrome image shows one small person standing on a shore of rounded stones, facing a quiet sea under a pale circular moon. The figure is slightly right of center and seen from behind, wearing a simple dark coat or dress. The stony beach fills the lower third with hundreds of irregular gray pebbles. A thin breaking wave divides it from a dark, finely rippled body of water stretching to a level horizon. Above the horizon, a broad empty sky occupies almost half the frame; the moon hangs high and small in soft fog. The palette is restricted to warm gray, charcoal, and ivory. The surface has a grainy, rubbed quality, with patient repeated marks describing each stone and the water's subtle horizontal rhythm. The person is only a dark vertical accent within the wide landscape, making the open sea and sky feel immense. Light is diffuse, without sharp shadows, while a faint pale path touches the water below the moon. The horizon is exact but not harsh, and distant atmosphere softens the boundary between sea and sky. The composition remains simple and still, balancing detailed foreground texture against empty upper space. Its mood is solitary, contemplative, and almost timeless, as though a quiet moment has been held for extended inspection.",
+  "full_prompt_zh": "一幅方形单色图像描绘一个小人物站在圆石海岸上，面向安静海面与淡圆月。人物略偏中央右侧，背对观者，穿简单深色外衣或裙子。石滩占据下三分之一，有数百颗不规则灰色卵石。一道细碎浪花把它与深色、细波纹海水分开，水面延向平直地平线。地平线上方，宽阔空天几乎占半幅；月亮高而小，悬在柔雾里。配色限于暖灰、炭色与象牙白。表面有颗粒和磨擦质感，耐心重复的笔痕描出每块石和水的细微水平节奏。人只是广大景观里一道深色竖点，使海与天显得巨大。光弥散，没有尖锐投影，一道淡亮路径落在月下水面。地平线准确却不生硬，远处空气柔化海天边界。构图简单静止，以细致前景肌理平衡上方空旷。情绪孤独、沉思且近乎无时间感，仿佛安静一刻被延长观察。",
+  "style_prompt_en": "Monochrome image-making uses painstaking repeated marks and rubbed grain within a spare horizon composition. Warm gray, charcoal, and ivory carry all tonal variation. Dense small foreground textures give way to subtle horizontal ripples and a broad nearly empty pale field. Diffuse light keeps edges gentle, with a small circular glow and faint reflection rather than dramatic beams. One tiny dark vertical accent establishes scale. The stillness comes from precise repetition and generous negative space, producing a contemplative, almost timeless atmosphere.",
+  "style_prompt_zh": "单色图像以耐心重复笔痕和磨擦颗粒组织简省地平线构图。暖灰、炭色与象牙白承担全部明暗变化。浓密小型前景肌理过渡到细微水平波纹和大片近空的浅色域。弥散光使边缘温和，以小圆辉光和微弱反射代替戏剧光束。一处极小深色竖点建立尺度。静止感来自准确重复与宽大负空间，形成沉思、近乎无时间的气氛。",
+  "theme_en": "A lone figure on a rocky shore under a pale moon",
+  "theme_zh": "淡月下岩石海岸上的孤身人影",
+  "wh_ratio": "1:1",
+  "id": "4127",
+  "name": "Vija Celmins",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/vija-celmins.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "330ef0bb2dde353e3103a99eebb4492c25823fb5629af30d7667f96dc76a77cf",
+    "gpt_submission_prompt": "A square monochrome image shows one small person standing on a shore of rounded stones, facing a quiet sea under a pale circular moon. The figure is slightly right of center and seen from behind, wearing a simple dark coat or dress. The stony beach fills the lower third with hundreds of irregular gray pebbles. A thin breaking wave divides it from a dark, finely rippled body of water stretching to a level horizon. Above the horizon, a broad empty sky occupies almost half the frame; the moon hangs high and small in soft fog. The palette is restricted to warm gray, charcoal, and ivory. The surface has a grainy, rubbed quality, with patient repeated marks describing each stone and the water's subtle horizontal rhythm. The person is only a dark vertical accent within the wide landscape, making the open sea and sky feel immense. Light is diffuse, without sharp shadows, while a faint pale path touches the water below the moon. The horizon is exact but not harsh, and distant atmosphere softens the boundary between sea and sky. The composition remains simple and still, balancing detailed foreground texture against empty upper space. Its mood is solitary, contemplative, and almost timeless, as though a quiet moment has been held for extended inspection.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "75c58eb512f33a374dabbe8f46173def9022e29966fcd5bbd81d9f83c761bc1b",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

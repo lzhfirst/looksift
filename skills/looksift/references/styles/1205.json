@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A subdued color photograph shows a young blond child crouching low in dry grass beneath leafy trees. The child wears a coarse gray-beige sweater and dark trousers, knees bent close to the chest, one hand reaching toward the ground. Their face turns toward the right with an alert, searching expression, as though something outside the frame has caught their attention. A light-colored dog lies behind to the left, partially blurred by the shallow depth of field, its head angled across the field. Brown leaves, thin grass stalks, and dark patches of earth fill the foreground and surround both figures. Behind them, sunlit foliage breaks into pale yellow-green flecks against deeper woodland shadow. The framing stays close to the child's height, so the rough ground and vegetation feel immediate and the dog appears as a quiet companion rather than a distant prop. Light is soft and filtered by the canopy, catching the child's hair and the shoulder of the sweater while leaving the lower foreground in warm shade. The color is weathered and restrained, moving through tawny brown, olive, muted cream, and soft amber rather than bright primary tones. Slight grain and gentle softness at the edges give the image the feeling of an older candid print. The scene is observant and unforced, built around the child's paused gesture and the calm presence of the animal.",
+  "full_prompt_zh": "一张色彩压低的照片，拍下一位金发小孩在树下干草间低低蹲着。孩子穿粗糙的灰米色毛衣和深色长裤，双膝收近胸前，一只手伸向地面。脸朝右侧转去，神情机警而探寻，仿佛画框外有什么东西吸引了注意。左后方躺着一只浅色狗，因浅景深而部分模糊，头朝着草地另一侧。棕色落叶、细草茎和深色泥地斑块填满前景，也围住两个身形。身后被日光照到的树叶在更深的林地阴影前化成淡黄绿碎点。取景贴近孩子的高度，使粗糙地面和植物显得近在眼前，狗则是安静的陪伴，而非遥远道具。光被树冠过滤，柔和地照亮孩子头发和毛衣肩部，让较低的前景留在暖阴影里。颜色风化而克制，在黄褐、橄榄绿、低调奶油色和柔琥珀色之间流动，不出现鲜亮原色。轻微颗粒和边缘温和的柔化，使图像像一张旧式抓拍相纸。场景观察式而不刻意，围绕孩子停住的手势和动物平静的陪伴而成。",
+  "style_prompt_en": "Candid color photography with weathered earth tones, gentle grain, and a low human-scale viewpoint. Tawny brown, olive, muted cream, and soft amber blend through rough ground texture and broken foliage. Filtered natural light catches selected upper edges while lower areas sit in warm shade. The near form is clear, the companion forms slightly softer, and distant leaves dissolve into small flecks of light. Framing is intimate and unforced, leaving natural clutter and uneven surfaces visible. The overall effect is observant, tender, and tactile, with no glossy finish.",
+  "style_prompt_zh": "抓拍彩色摄影风格，土地色系经过风化，颗粒柔和，视点贴近人的低处。黄褐、橄榄绿、低调奶油色与柔琥珀色在粗糙地面和破碎叶影之间融合。经过过滤的自然光抓住上方少数边缘，下方区域留在暖阴影里。近处形态清楚，相伴的形状略柔，远处树叶散成细小光点。构图亲近而不刻意，保留自然的杂乱和不平整表面。整体观察式、温柔而有触感，没有光滑商业质地。",
+  "theme_en": "A small child crouching in grass with a dog nearby",
+  "theme_zh": "小孩蹲在草地里，身旁有一只狗",
+  "wh_ratio": "1:1",
+  "id": "1205",
+  "name": "Kevin Carter",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/kevin-carter",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/kevin-carter.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "9bb9eac290936adec6606d4dca1beba6bf27f0b59cff97b7b6da770bef7ee371",
+    "gpt_submission_prompt": "A subdued color photograph shows a young blond child crouching low in dry grass beneath leafy trees. The child wears a coarse gray-beige sweater and dark trousers, knees bent close to the chest, one hand reaching toward the ground. Their face turns toward the right with an alert, searching expression, as though something outside the frame has caught their attention. A light-colored dog lies behind to the left, partially blurred by the shallow depth of field, its head angled across the field. Brown leaves, thin grass stalks, and dark patches of earth fill the foreground and surround both figures. Behind them, sunlit foliage breaks into pale yellow-green flecks against deeper woodland shadow. The framing stays close to the child's height, so the rough ground and vegetation feel immediate and the dog appears as a quiet companion rather than a distant prop. Light is soft and filtered by the canopy, catching the child's hair and the shoulder of the sweater while leaving the lower foreground in warm shade. The color is weathered and restrained, moving through tawny brown, olive, muted cream, and soft amber rather than bright primary tones. Slight grain and gentle softness at the edges give the image the feeling of an older candid print. The scene is observant and unforced, built around the child's paused gesture and the calm presence of the animal.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "3369d723b88071ce9afa97edf73857486ac5ff64a2284e425c8c86a353c4728e",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

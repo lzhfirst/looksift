@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square anime science-fiction illustration combines a group of pilots with a sleek fighter aircraft. A blond young woman dominates the center, her large brown eyes facing the viewer and a blue and red flight collar rising beneath her chin. Around her, smaller faces appear against a dark starry field: a pink-haired woman at the upper left, a dark-haired man at the upper right and several other crew members along the sides. Across the lower third, a gray white fighter cuts diagonally from left toward right, its narrow wings and pointed nose highlighted by pale light. Smaller spacecraft and streaks of motion scatter through the background. The montage is crowded but organized around the central bright face, with secondary portraits forming an arc. Skin and hair are smoothly painted, while the aircraft carries harder edges, panels and metallic highlights. Deep navy, violet and charcoal surround warm gold hair and red uniform accents. Light appears from several cinematic directions: a soft frontal glow illuminates the central face, while cool glints pick out the fighter and distant craft. The close faces and sweeping machine create a contrast of human emotion and speed. The overall composition feels nostalgic and adventurous, with layered character imagery above a dynamic flight path.",
+  "full_prompt_zh": "这幅方形动漫科幻插画把一组飞行员面孔与一架流线战机结合。金发年轻女子主导中央，大棕眼望向观者，蓝红飞行领在下巴下升起。她周围较小面孔出现在深暗星域前：左上粉发女子、右上黑发男子以及两侧其他成员。下方三分之一，一架灰白战机从左向右斜切，窄翼和尖鼻被浅光挑亮。更小飞行器与运动光痕散在背景。蒙太奇拥挤，却围绕中央明亮面孔组织，次级肖像形成弧线。皮肤和头发绘制平滑，战机则有较硬边、面板和金属亮痕。深海军蓝、紫与炭色围住暖金发和红制服点缀。光从多个电影式方向来：柔正光照亮中央面孔，冷闪光挑出战机和远处飞行器。贴近面孔与扫动机器形成情感和速度对比。整体构图怀旧而冒险，层叠人物图像位于动态飞行路径上方。",
+  "style_prompt_en": "The anime science-fiction image layers smoothly modeled focal planes over a deep navy and violet atmospheric field. Warm gold and red accents rise through cool blue and charcoal, while sharp metallic diagonals cut across softer rounded forms. Frontal glow and cool edge glints create multiple cinematic light cues. A central luminous cluster is supported by smaller overlapping fragments, giving the crowded composition clear hierarchy and energetic movement.",
+  "style_prompt_zh": "这种动漫科幻图像把平滑塑造的焦点平面叠在深海军蓝与紫色空气场上。暖金与红点从冷蓝和炭色中升起，锐利金属般斜线切过较软圆形。正面微光与冷边闪点制造多方向电影光线。中央亮簇由较小重叠碎片支撑，使拥挤构图层级清楚、运动感强。",
+  "theme_en": "A space fighter beneath a collage of animated pilots",
+  "theme_zh": "动画飞行员群像下方的太空战机",
+  "wh_ratio": "1:1",
+  "id": "3411",
+  "name": "Macross",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/macross",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "57783bb4dc081f8ed8fe4cf250940be5766916ee82d01c2b6d115461ce3f993c",
+    "gpt_submission_prompt": "A square anime science-fiction illustration combines a group of pilots with a sleek fighter aircraft. A blond young woman dominates the center, her large brown eyes facing the viewer and a blue and red flight collar rising beneath her chin. Around her, smaller faces appear against a dark starry field: a pink-haired woman at the upper left, a dark-haired man at the upper right and several other crew members along the sides. Across the lower third, a gray white fighter cuts diagonally from left toward right, its narrow wings and pointed nose highlighted by pale light. Smaller spacecraft and streaks of motion scatter through the background. The montage is crowded but organized around the central bright face, with secondary portraits forming an arc. Skin and hair are smoothly painted, while the aircraft carries harder edges, panels and metallic highlights. Deep navy, violet and charcoal surround warm gold hair and red uniform accents. Light appears from several cinematic directions: a soft frontal glow illuminates the central face, while cool glints pick out the fighter and distant craft. The close faces and sweeping machine create a contrast of human emotion and speed. The overall composition feels nostalgic and adventurous, with layered character imagery above a dynamic flight path.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "837bcaf04c38b95838ca328c046a93d0bcad9ee0388cacb44052f02946669fcb",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

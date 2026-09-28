@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square retro-futurist painted scene shows a sleek white transport craft resting beside a quiet river beneath an immense moon half hidden by storm clouds. The small vessel sits near the lower-right center, its rounded nose facing right and horizontal red-orange bands running along the smooth hull. Narrow dark windows trace the upper side, and landing supports appear under the body. Behind it, a long viaduct of repeated orange-lit arches crosses the left middle distance toward the center. On the far right, slender pale towers and domed structures rise from a hazy city at the river's edge. The foreground is dark earthy shoreline with scattered shrubs and a shallow blue-green pool that reflects bits of orange sky. Above, a huge pale moon or planet occupies the upper-left sky, its curved edge and crater-like mottling luminous through layers of blue-gray clouds. Thick cloud banks, some almost black, wrap around the orb and stack up to the top-right corner. A thin band of copper-red horizon light glows beneath them, silhouetting the bridge and distant structures. The painting has smooth, detailed handling on the craft, more broken rocky strokes below, and soft blended vapor in the sky. Cool ambient light from the enormous orb illuminates cloud edges and the vessel's top, while warm low light from the horizon catches the arches and underside of the scene. The composition sets a small precise machine against planetary scale, combining believable materials with vast, ominous wonder.",
+  "full_prompt_zh": "一幅方形复古未来主义绘画呈现一艘流线白色交通飞行器停在静河边，上方巨大月球被风暴云半遮。小飞行器在下部偏右中央，圆鼻朝右，平滑机身有横向红橙色条带。窄深色舷窗沿上侧排列，机身下方可见支架。背后，一道重复暖橙拱洞的长桥从左侧中景横过并延向中央。最右方，细高浅塔与穹顶结构从河边朦胧城市里升起。前景是深土色岸地，散有灌木与浅蓝绿水洼，反射一点橙色天光。上方，巨大的浅色月或行星占据左上天空，弧边与坑洼般斑驳在蓝灰云层间发亮。厚云岸有些近乎黑色，缠绕天体并堆到右上角。其下，一道铜红地平光发亮，使长桥与远构筑物成剪影。画面对飞行器处理平滑细致，下方岩土笔触较破碎，天空水汽柔和融合。巨大天体带来的冷环境光照亮云缘与机顶，低处暖地平光则照到拱洞和场景下层。构图用小而精确的机器对照行星尺度，把可信材质与广大不祥惊奇结合。",
+  "style_prompt_en": "Retro-futurist painted illustration balances a small precisely modeled technological form against huge atmospheric or cosmic masses. Use smooth metal-like highlights and clean contours at the focal point, with rougher terrain strokes and blended cloud volume around it. Pair deep teal and midnight blue with a narrow copper-orange horizon glow; let cool luminous light rim vapor while warm light catches distant structures. Repetition of small arches or other rhythmic elements can lead the eye through the middle distance. Preserve believable scale cues but exaggerate the vast background for wonder. The result is cinematic, ominous, and spacious.",
+  "style_prompt_zh": "复古未来主义绘画插画让小而精确塑形的技术形体，对照巨大的大气或宇宙团块。焦点用金属般平滑亮部与干净轮廓，周围地面笔触较粗，云体柔和融合。深青与午夜蓝对着狭窄铜橙地平光；冷亮光勾勒水汽，暖光挑亮远处结构。小拱洞或其他重复节奏元素可引导视线穿过中景。保留可信尺度线索，同时夸大宏大背景以制造惊奇。效果电影化、不祥而开阔。",
+  "theme_en": "A streamlined vessel by a river beneath a giant moon and storm clouds",
+  "theme_zh": "流线型飞行器停在河边，头顶巨月与风暴云",
+  "wh_ratio": "1:1",
+  "id": "2519",
+  "name": "Jim Burns",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/jim-burns",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/jim-burns.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "6702ac9429bd85c131d2286ca6b5ef4b3051495db64433084c049bb7db6d8b0f",
+    "gpt_submission_prompt": "A square retro-futurist painted scene shows a sleek white transport craft resting beside a quiet river beneath an immense moon half hidden by storm clouds. The small vessel sits near the lower-right center, its rounded nose facing right and horizontal red-orange bands running along the smooth hull. Narrow dark windows trace the upper side, and landing supports appear under the body. Behind it, a long viaduct of repeated orange-lit arches crosses the left middle distance toward the center. On the far right, slender pale towers and domed structures rise from a hazy city at the river's edge. The foreground is dark earthy shoreline with scattered shrubs and a shallow blue-green pool that reflects bits of orange sky. Above, a huge pale moon or planet occupies the upper-left sky, its curved edge and crater-like mottling luminous through layers of blue-gray clouds. Thick cloud banks, some almost black, wrap around the orb and stack up to the top-right corner. A thin band of copper-red horizon light glows beneath them, silhouetting the bridge and distant structures. The painting has smooth, detailed handling on the craft, more broken rocky strokes below, and soft blended vapor in the sky. Cool ambient light from the enormous orb illuminates cloud edges and the vessel's top, while warm low light from the horizon catches the arches and underside of the scene. The composition sets a small precise machine against planetary scale, combining believable materials with vast, ominous wonder.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "569e031cd4bb4a7f43b817eb91e02e64bfca60a7e535c84a1d7ea2abd2337e07",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

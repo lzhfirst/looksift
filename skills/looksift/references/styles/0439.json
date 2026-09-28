@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A polished fantasy game illustration shows a young adventurer from behind, standing in the lower center before a vast circular stained-glass window. The figure's spiky brown hair, short hooded jacket, oversized dark-blue shorts, fingerless gloves, and broad shoes are simplified into friendly, readable shapes with softly modeled volume. Above, the window fills nearly the entire frame: dark lead lines organize concentric ornaments around a large heart-shaped field of glowing cyan glass, with violet and magenta fragments gathering along the outer ring. Tiny irregular tiles sparkle inside the colored areas, giving the surface a mosaic-like texture rather than a smooth digital gradient. The surrounding interior recedes into near-black navy, so the window becomes an enormous luminous backdrop and the character remains a compact silhouette against it. Cool blue light spills onto the figure's shoulders, hair edges, and lower floor, while small warm gold accents on the costume prevent the palette from becoming uniform. A low camera angle and central alignment make the glass feel monumental; the character's upturned stance directs attention from the lower body into the radiant center. Fine speckles of floating dust or light occupy the dark foreground, softening the transition between observer and scene. The whole frame combines storybook wonder with crisp game-art finish, holding the small human presence inside an expansive architecture of colored light.",
+  "full_prompt_zh": "一幅完成度精细的奇幻游戏插画描绘一名年轻冒险者的背影，他站在画面下部中央，面对一扇巨大的圆形彩绘玻璃窗。刺状棕发、短兜帽外套、宽大的深蓝短裤、露指手套和宽鞋，都被概括为亲切易辨的形体，具有柔和塑造的体积感。上方的窗几乎占满整幅画：深色铅条将同心装饰组织在一大片发亮的青蓝色心形玻璃周围，紫色和洋红色碎片聚集在外圈。不规则的小玻璃块在色域内部闪烁，让表面带有马赛克式纹理，而非平滑的数码渐变。周围室内退入近黑的海军蓝，因此玻璃窗成为极大的发光背景，人物则保持为它前方紧凑的剪影。冷蓝光落在人物肩膀、发缘和下方地面上，服装上少量暖金色点缀使配色不至于单调。低机位与中央对齐令玻璃显得壮阔，人物仰望的姿态将视线从下半身引向明亮的中心。细小的浮尘或光点占据深暗的前景，柔化观者与场景之间的过渡。整幅画将童话般的惊奇与清晰的游戏美术完成度结合，把渺小的人置于广阔的彩光结构之中。",
+  "style_prompt_en": "A polished fantasy game illustration combines softly modeled, readable forms with intricate mosaic-like light. Deep navy shadow surrounds luminous cyan and turquoise fields, bordered by violet, magenta, and sparse warm-gold accents. Dark linear tracery divides the bright areas into many small irregular fragments; fine floating speckles and gentle bloom lend atmosphere without erasing crisp silhouette edges. Central alignment, a low viewpoint, and the contrast between compact dark masses and expansive glowing patterns create monumental storybook rhythm. The whole frame feels wondrous and cleanly rendered.",
+  "style_prompt_zh": "一幅精细完成的奇幻游戏插画将柔和塑造、容易辨认的形体与繁复的马赛克式光色结合。深海军蓝阴影包围发亮的青蓝与绿松石色域，外缘有紫色、洋红色和稀疏暖金色点缀。深色线条把亮区分割成众多不规则小片；细微浮光和柔和辉光带来氛围，却不抹去清晰的剪影边缘。中央对齐、低视点，以及紧凑深色团块和广阔发光纹样之间的对照，形成壮阔的童话节奏。整幅画充满惊奇且渲染清楚。",
+  "theme_en": "A young adventurer stands before a vast luminous stained-glass window",
+  "theme_zh": "年轻冒险者站在巨大的发光彩绘玻璃窗前",
+  "wh_ratio": "1:1",
+  "id": "0439",
+  "name": "Kingdom Hearts",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/kingdom-hearts",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/kingdom-hearts.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "15b68ab702e108f9b147c975b64272366ab2040f4fa9d9406414bf8311efda8e",
+    "gpt_submission_prompt": "A polished fantasy game illustration shows a young adventurer from behind, standing in the lower center before a vast circular stained-glass window. The figure's spiky brown hair, short hooded jacket, oversized dark-blue shorts, fingerless gloves, and broad shoes are simplified into friendly, readable shapes with softly modeled volume. Above, the window fills nearly the entire frame: dark lead lines organize concentric ornaments around a large heart-shaped field of glowing cyan glass, with violet and magenta fragments gathering along the outer ring. Tiny irregular tiles sparkle inside the colored areas, giving the surface a mosaic-like texture rather than a smooth digital gradient. The surrounding interior recedes into near-black navy, so the window becomes an enormous luminous backdrop and the character remains a compact silhouette against it. Cool blue light spills onto the figure's shoulders, hair edges, and lower floor, while small warm gold accents on the costume prevent the palette from becoming uniform. A low camera angle and central alignment make the glass feel monumental; the character's upturned stance directs attention from the lower body into the radiant center. Fine speckles of floating dust or light occupy the dark foreground, softening the transition between observer and scene. The whole frame combines storybook wonder with crisp game-art finish, holding the small human presence inside an expansive architecture of colored light.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "253d4782de08d3f118c107908f2083f3c5af28e49864f9b6840caf599311b067",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

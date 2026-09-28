@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A black-and-white street photograph looks along a worn city pavement beside a row of dark brick shopfronts. In the right foreground, a man in a cap and heavy jacket sits on a low step against the wall, his body bent forward and his attention turned toward the street. Several small containers sit near his feet. A little black cat is positioned nearer the middle of the pavement, upright and still, making a second quiet point of attention in the otherwise open foreground. The curb runs diagonally from the lower center toward the far left, guiding the view into a misty road where a few pedestrians and an old vehicle are reduced to soft silhouettes. Across the street, pale houses with chimneys fade into the haze. The close brickwork and doorways are deeply shadowed, while weak daylight from the left brightens the rough paving stones and traces the curb. The photograph has a broad documentary perspective, allowing the setting, the seated man, the cat, and the distant passersby to coexist without staging a single dramatic action. Fine grain, slightly soft distance, and a full range of grays give the frame the feel of an older film print. Its mood is patient and observant, attentive to the small pause within an ordinary, weathered urban street.",
+  "full_prompt_zh": "一张黑白街头照片，视线沿着一排深色砖砌店铺前磨旧的人行道展开。右侧前景，一位戴帽、穿厚外套的男子坐在靠墙的低台阶上，身体前倾，注意力朝向街面。他脚边摆着几个小容器。一只小黑猫立在靠近人行道中部的位置，安静不动，成为相对空旷的前景中第二个微小的关注点。路缘从画面下方中央斜向远处左侧，引导视线进入有雾的道路，那里只有几个柔软的人影和一辆旧汽车。街对面的浅色房屋带着烟囱，在朦胧中渐淡。近处的砖墙与门洞沉在深影里，左边微弱的日光照亮粗糙铺石，并勾出路缘。照片采用宽阔的纪实视角，让环境、坐着的男子、小猫和远方路人同时存在，没有把单一戏剧动作硬推到中心。细密颗粒、略微柔化的远景与完整灰阶，使画面具有老式胶片相纸的质感。气氛耐心而观察式，留意一条普通、风化的城市街道中的小小停顿。",
+  "style_prompt_en": "Classic black-and-white street photography with fine film grain, weathered surface detail, and a broad tonal range. A shadowed vertical mass anchors one side while a pale, hazy distance opens the other. Receding curb lines and repeated rectangular forms create depth without strict symmetry. Weak natural daylight glances across rough ground, separating small near shapes from softer figures farther away. Blacks stay rich and tactile; midtones retain the texture of stone and worn surfaces. The viewpoint feels human and unarranged, with several modest points of attention sharing the frame in a patient documentary rhythm.",
+  "style_prompt_zh": "经典黑白街头摄影风格，胶片颗粒细密，风化表面的细节可见，灰阶宽广。一侧由深影中的竖向体块稳定，另一侧向浅淡有雾的远方展开。后退的边线和重复的矩形形态构成深度，却不追求严格对称。微弱自然光掠过粗糙地面，把近处的小形状与远处较柔软的形体分开。黑色丰厚且有触感，中间调保留石材和磨旧表面的纹理。视点贴近人的身高，安排自然，多个低调的关注点共享画框，形成耐心的纪实节奏。",
+  "theme_en": "A man and a small cat on a worn city pavement",
+  "theme_zh": "旧城人行道上的男子与小猫",
+  "wh_ratio": "1:1",
+  "id": "3882",
+  "name": "Bert Hardy",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/bert-hardy.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "00eb9062ca810ecf02c16dc20f89d2aaa3f3b0f5b645ece2433598962b83d52c",
+    "gpt_submission_prompt": "A black-and-white street photograph looks along a worn city pavement beside a row of dark brick shopfronts. In the right foreground, a man in a cap and heavy jacket sits on a low step against the wall, his body bent forward and his attention turned toward the street. Several small containers sit near his feet. A little black cat is positioned nearer the middle of the pavement, upright and still, making a second quiet point of attention in the otherwise open foreground. The curb runs diagonally from the lower center toward the far left, guiding the view into a misty road where a few pedestrians and an old vehicle are reduced to soft silhouettes. Across the street, pale houses with chimneys fade into the haze. The close brickwork and doorways are deeply shadowed, while weak daylight from the left brightens the rough paving stones and traces the curb. The photograph has a broad documentary perspective, allowing the setting, the seated man, the cat, and the distant passersby to coexist without staging a single dramatic action. Fine grain, slightly soft distance, and a full range of grays give the frame the feel of an older film print. Its mood is patient and observant, attentive to the small pause within an ordinary, weathered urban street.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "8176c0c737d7ced57bd86167d88e766c0892ded2f83d40ce28dc43422e899cdd",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

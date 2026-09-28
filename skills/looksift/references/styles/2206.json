@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "The image is a square high-key black-and-white photograph of a softly veiled woman in side profile against a white field. Her face enters from the left and turns right, occupying the middle-left portion of the frame while the entire right half remains nearly blank. A thin translucent white veil drapes from the upper left over her hair and around the side of her face, then continues into the pale fabric across the lower edge. Light passes through the cloth, revealing soft folds and a faint darker border where layers overlap. Her visible eye looks quietly toward the right, with dark lashes and a small sharp highlight making it the clearest point in the image. The bridge of the nose and the slightly parted lips form a delicate profile against the bright white background. The cheek, jaw, and chin are modeled in very pale gray, while the area behind the veil near the left edge is a deeper smoky gray. A few strands of dark hair are visible beside the ear under the fabric. There is no room, horizon, or prop; space is created by the face emerging from the soft white material and then dissolving into white around it. The camera is close and level with the eye, using shallow, gentle focus and broad negative space. Diffuse light wraps over the veil and facial planes without a hard cast shadow. Fine smooth tonal shifts dominate the surface, with the lashes, eye, and profile edge providing rare crisp dark accents. The composition is airy and still, balancing the compact grayscale face against luminous open whiteness.",
+  "full_prompt_zh": "这是一张方形高调黑白摄影：一位覆着柔纱的女子侧脸映在白色场前。她的脸从左侧进入并朝右，占据中左区域，整个右半幅几乎空白。薄而半透明的白纱从左上垂过头发和脸侧，再接入下画边的浅色布料。光穿过纱，露出柔和褶皱，以及几层相压处隐约更深的边。可见的眼安静望向右，暗睫毛和一个小而尖的亮点使它成为全图最清楚的地方。鼻梁和微开的唇在明亮白底前形成纤细侧影。脸颊、下颌与下巴由极浅灰塑形，左画边附近纱后区域则为更深的烟灰色。几缕暗发在布下耳边可见。画中没有房间、地平线或道具；空间来自面孔从柔白材料中浮出，再向周围白色消散。相机贴近且与眼同高，使用浅而柔的焦点和宽阔留白。漫散光包裹纱与脸部平面，没有坚硬投影。细而平顺的调子变化主导表面，睫毛、眼睛和侧面边缘成为少数清脆暗点。构图通透而静止，让紧凑灰阶面孔与明亮开放的白色相平衡。",
+  "style_prompt_en": "High-key monochrome photography lets a vast luminous white field carry most of the square. Soft translucent layers overlap along one side and dissolve gradually into pale gray, while a compact focal area retains a few sharply defined dark accents. Diffuse wraparound light suppresses hard cast shadows and keeps tonal steps small. Fine soft folds and smoky edge shading create gentle depth without a distinct setting. Close level framing leaves generous empty space opposite the focal cluster. The surface appears smooth and quiet, with detail concentrated sparingly so the image feels weightless, intimate, and still.",
+  "style_prompt_zh": "高调黑白摄影让大片发亮白色占据方形画幅大部。柔软半透明层在一侧互相覆盖，渐渐消散入浅灰，紧凑焦点区保留少数清楚的暗色点。漫散包裹光压低坚硬投影，让调子阶差保持很小。细软褶皱与烟状边影制造温和纵深，却不给出明确场景。贴近的平视裁幅在焦点聚团对面留下宽阔空处。表面平顺安静，细节节制地集中，使图像轻盈、亲密而静止。",
+  "theme_en": "A softly veiled woman in side profile against a white field",
+  "theme_zh": "一位覆着柔纱的女子侧脸映在白色场前",
+  "wh_ratio": "1:1",
+  "id": "2206",
+  "name": "High key photography",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/high-key-photography",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/high-key-photography.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "9cadba7e7b90354bb4bb5483951fa7b66a35906ec2dcb9631ddbcda3316a3381",
+    "gpt_submission_prompt": "The image is a square high-key black-and-white photograph of a softly veiled woman in side profile against a white field. Her face enters from the left and turns right, occupying the middle-left portion of the frame while the entire right half remains nearly blank. A thin translucent white veil drapes from the upper left over her hair and around the side of her face, then continues into the pale fabric across the lower edge. Light passes through the cloth, revealing soft folds and a faint darker border where layers overlap. Her visible eye looks quietly toward the right, with dark lashes and a small sharp highlight making it the clearest point in the image. The bridge of the nose and the slightly parted lips form a delicate profile against the bright white background. The cheek, jaw, and chin are modeled in very pale gray, while the area behind the veil near the left edge is a deeper smoky gray. A few strands of dark hair are visible beside the ear under the fabric. There is no room, horizon, or prop; space is created by the face emerging from the soft white material and then dissolving into white around it. The camera is close and level with the eye, using shallow, gentle focus and broad negative space. Diffuse light wraps over the veil and facial planes without a hard cast shadow. Fine smooth tonal shifts dominate the surface, with the lashes, eye, and profile edge providing rare crisp dark accents. The composition is airy and still, balancing the compact grayscale face against luminous open whiteness.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "278c4ef2d432b5de6c252aca230e13f6d8fea9242477d0b4e0e504a8c3087075",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

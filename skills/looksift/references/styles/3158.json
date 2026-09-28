@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A whimsical illustrated character scene shows a traveler in a small dark hat and layered brown clothes reading a large open book. The figure sits amid a lively gathering of animals: a small striped creature at left, a sleepy orange cat near the feet, a bright blue companion on the right, and a tiny tawny animal perched higher beside the reader. Pale curling smoke or cloud shapes drift across the upper left. The group is gathered into a compact island of action on a broad warm-white background, and their expressions and differing sizes make the moment feel like a storybook encounter.\n\nThe rendering joins confident pencil and ink line with loose watercolor-like washes. Warm tan, russet, ochre, and coffee brown carry most of the forms, while the single clear blue animal provides a vivid counterpoint. Lines vary from fine searching strokes in fur and clothing to darker decisive contours around faces, hands, and the book. Pale washes do not completely cover the paper; they leave grain and open highlights inside the shapes. Soft, neutral light gives slight ground shadows but no deep setting. Objects and characters overlap densely in the center, while sketches and faint fragments around them fade toward white. The scene has the charm of an animation development drawing, carefully designed yet still spontaneous. There is no legible text on the book or elsewhere in this panel.",
+  "full_prompt_zh": "一幅奇想角色插画描绘一名戴小深色帽、穿层叠棕色衣服的旅者正在读一本摊开的大书。人物坐在一群活泼动物之间：左侧有一只带条纹的小生灵，脚边有一只困倦的橙猫，右侧有明蓝色伙伴，还有一只黄褐色小动物坐在更高处靠近读者。浅色卷曲烟雾或云状线条飘过左上方。全组动作聚成暖白背景上的紧凑小岛，表情与大小差异让这一刻像童话书里的邂逅。\n\n画法把自信的铅笔与墨线同松动的水彩式薄涂结合。暖褐、赤褐、赭黄和咖啡棕承担大部分形体，唯一鲜明的蓝色动物成为生动对照。线条从毛发和衣物中的细小探寻笔迹，变化到面容、手部和书本周围更深、更果断的轮廓。浅色薄涂并不完全盖住纸面；形状里留着颗粒和开放高光。柔和中性光带来轻微贴地阴影，却没有深远背景。物件和角色在中央密集重叠，周围的草图痕迹与淡碎片则向白色渐渐消失。场景具有动画开发图的魅力，设计仔细却依然自发。本画面中的书本和其他地方都没有可辨认文字。",
+  "style_prompt_en": "Confident pencil and ink lines gather many overlapping forms into a compact island on warm-white paper. Loose transparent washes of tan, russet, ochre, and coffee brown leave grain and bright gaps visible, while one clear blue accent punctuates the earthy palette. Line weight varies from fine searching marks in fibrous areas to darker decisive contours at important junctions. Pale curling shapes drift above the cluster and faint sketch fragments evaporate into broad negative space. Soft neutral light produces only a slight grounding shadow. The composition is busy at its center and nearly blank at its edges, giving playful small details room to breathe. It feels like a richly designed animation development drawing that still preserves spontaneity and paper texture.",
+  "style_prompt_zh": "自信的铅笔和墨线把许多重叠形状聚成暖白纸面上的紧凑小岛。暖褐、赤褐、赭黄和咖啡棕的松动透明薄涂，留下可见的纸纹与明亮空隙，一处清晰蓝色点破质朴色谱。线条粗细从纤维状区域的细小探寻痕迹，到重要交接处较深且果断的轮廓不断变化。浅色卷曲形状飘在团块上方，淡淡的草图碎片消散进大片留白。柔和中性光只形成一点贴地阴影。构图在中央繁忙、边缘近乎空白，使俏皮小细节获得呼吸空间。它像设计丰富的动画开发图，同时仍保留自发感与纸面纹理。",
+  "theme_en": "An eccentric traveler reading with a circle of animals",
+  "theme_zh": "古怪旅者与一群动物共读",
+  "wh_ratio": "1:1",
+  "id": "3158",
+  "name": "Brian Kesinger",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/brian-kesinger",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "34e27f3b3ad2396acd9262a5e2556b98f557d019ce0f2999e1fff46bf6b867b2",
+    "gpt_submission_prompt": "A whimsical illustrated character scene shows a traveler in a small dark hat and layered brown clothes reading a large open book. The figure sits amid a lively gathering of animals: a small striped creature at left, a sleepy orange cat near the feet, a bright blue companion on the right, and a tiny tawny animal perched higher beside the reader. Pale curling smoke or cloud shapes drift across the upper left. The group is gathered into a compact island of action on a broad warm-white background, and their expressions and differing sizes make the moment feel like a storybook encounter.\n\nThe rendering joins confident pencil and ink line with loose watercolor-like washes. Warm tan, russet, ochre, and coffee brown carry most of the forms, while the single clear blue animal provides a vivid counterpoint. Lines vary from fine searching strokes in fur and clothing to darker decisive contours around faces, hands, and the book. Pale washes do not completely cover the paper; they leave grain and open highlights inside the shapes. Soft, neutral light gives slight ground shadows but no deep setting. Objects and characters overlap densely in the center, while sketches and faint fragments around them fade toward white. The scene has the charm of an animation development drawing, carefully designed yet still spontaneous. There is no legible text on the book or elsewhere in this panel.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "3b9974944f2915a7ba3d71fbce409f2e2b44ad99adb60e939fca86cc030f966e",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

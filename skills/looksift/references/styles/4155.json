@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square cubist portrait fills the frame with a fragmented human face and surrounding blocks of warm color. The head is cropped at the top and left, so the eye, long nose, and angular cheek dominate the image. One eye looks forward from a dark brow near the upper left, while another curved form and pale plane imply a shifted side view within the same face. Ochre, orange, rust red, cream, black, and small slate-gray patches interlock as flat and lightly textured sections. A heavy dark vertical divides some facial planes; nearby triangular and crescent shapes make the profile change direction abruptly. The mouth sits low in the composition, reduced to a few sharp dark and warm edges. Brush texture, scuffs, and uneven pigment keep the geometric areas from appearing mechanically filled. Background and face blend into one layered arrangement, with little conventional depth but a strong sense of overlapping viewpoints. Light is graphic and divided among warm planes: cream and golden sections seem lit, while charcoal shapes function as deep shadow and structural outline. No text is present. The large eye retains emotional focus despite the abstraction, and the close crop presses the viewer against the painted surface. The overall composition is forceful and compact, using angular breaks and unequal color blocks to turn one face into a rhythmic field of simultaneous views.",
+  "full_prompt_zh": "一幅方形立体主义肖像以破碎人脸和周围暖色块填满画幅。头部被上边和左边裁切，眼睛、长鼻和棱角面颊因此主导图像。一只眼睛从左上附近深眉下直视前方，另一道曲形与浅色平面暗示同一张脸里偏移的侧视角。赭黄、橙、铁锈红、奶油色、黑和少量石板灰互锁为平面而略带肌理的部分。一条厚重深竖线分开若干面部平面；旁边三角形和新月形让侧脸方向突然转换。嘴处于下部，由少数锐利深色与暖色边缘简化而成。笔触肌理、擦痕和不均颜料使几何区域不显机械填充。背景与脸融成一个层叠排列，常规纵深很少，却有强烈视点重叠感。光线图形化地分配在暖色平面：奶油色和金黄区域像受光面，炭色形体作为深影和结构轮廓。没有文字。大眼即使在抽象处理中仍保持情感焦点，紧密裁切把观者推近绘画表面。整体构图有力而紧凑，以棱角断裂和不等色块把一张脸变成同时多视角的节奏色域。",
+  "style_prompt_en": "Cubist painting divides coherent volume into interlocking angular and curved planes, allowing viewpoints to shift within a single compact field. Heavy dark structural lines sit beside rough-edged patches of ochre, orange, rust, cream, charcoal, and muted gray. Some areas retain visible brush scuffs and uneven pigment, preventing the flat geometry from feeling sterile. Light is allocated graphically: pale warm planes advance and dark wedges recede, rather than following one natural beam. Tight cropping and abrupt directional changes keep the composition forceful, while a few repeated curves hold its fragments in rhythm. The effect is analytical, tactile, and emotionally concentrated.",
+  "style_prompt_zh": "立体主义绘画把连贯体量分解成互锁的棱角与曲面，让视点在同一紧凑色域内转换。厚重深色结构线贴着赭黄、橙、铁锈红、奶油色、炭色与暗灰的不规则色块。有些区域保留可见刷痕和不均颜料，使平面几何不显冷硬。光被图形化分配：浅暖平面向前、深色楔形后退，而非服从一束自然光。紧密裁切和突然方向转换保持构图力度，少数重复曲线又让碎片产生韵律。效果理性、有触感且情绪集中。",
+  "theme_en": "A fractured face in a warm-toned cubist portrait",
+  "theme_zh": "暖色立体主义肖像中的破碎面孔",
+  "wh_ratio": "1:1",
+  "id": "4155",
+  "name": "Pablo Picasso",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/pablo-picasso.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "97284bc411a098b930df1de5f1c4cf74a656653edbde08b0bb2e584fe9f8010a",
+    "gpt_submission_prompt": "A square cubist portrait fills the frame with a fragmented human face and surrounding blocks of warm color. The head is cropped at the top and left, so the eye, long nose, and angular cheek dominate the image. One eye looks forward from a dark brow near the upper left, while another curved form and pale plane imply a shifted side view within the same face. Ochre, orange, rust red, cream, black, and small slate-gray patches interlock as flat and lightly textured sections. A heavy dark vertical divides some facial planes; nearby triangular and crescent shapes make the profile change direction abruptly. The mouth sits low in the composition, reduced to a few sharp dark and warm edges. Brush texture, scuffs, and uneven pigment keep the geometric areas from appearing mechanically filled. Background and face blend into one layered arrangement, with little conventional depth but a strong sense of overlapping viewpoints. Light is graphic and divided among warm planes: cream and golden sections seem lit, while charcoal shapes function as deep shadow and structural outline. No text is present. The large eye retains emotional focus despite the abstraction, and the close crop presses the viewer against the painted surface. The overall composition is forceful and compact, using angular breaks and unequal color blocks to turn one face into a rhythmic field of simultaneous views.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "7cc0e349086ecca6306d52d2eee234c6230876606493c9086da16a1f88c233e1",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

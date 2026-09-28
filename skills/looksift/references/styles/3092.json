@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square digital painting shows a young woman sitting sideways on a narrow dark ledge among tall stems and oversized rusty-red leaves. She is placed just left of center, her knees drawn up and one hand resting beneath her chin as she looks toward the upper right. A warm peach cap sits over short brown hair, its brim casting a small shadow across the brow. She wears a loose teal-gray jacket, tan trousers, pale socks, and dark shoes; the fabric folds are simplified into angular but soft-edged planes. Large red leaves hang above and to the left, while thinner pale stems rise from the lower corners and cross behind her. Several leaf shapes float near the right edge, creating a sparse decorative frame rather than a realistic dense garden. The background is a warm cream field with faint sketch lines, geometric facets, and light gray shadows. Most of the lower right remains open, making the seated figure and nearby leaves stand out clearly. Warm diffuse light comes from the upper left, giving the cap, cheek, and leaf edges gentle highlights while the underside of the seat and trouser folds stay darker. The painting combines clean broad color shapes with loose construction lines that remain visible around the stems and outer edges. The woman's posture is quiet and thoughtful, and the scene has no strong physical action. The overall composition uses a small clustered figure, drifting red shapes, and generous pale space to create an intimate, airy autumn mood.",
+  "full_prompt_zh": "这幅方形数字绘画呈现一位年轻女子侧坐在窄深色台沿上，周围是高细茎与放大的锈红叶。她位于中央略偏左，双膝收起，一只手托在下巴下，望向右上方。暖桃色帽子戴在短棕发上，帽檐在眉上投出小影。她穿宽松青灰夹克、浅褐裤、浅袜与深色鞋；衣褶被简化成有棱角却软边的平面。大红叶悬在上方和左侧，更细浅茎从下方两角升起，交叉到她身后。几片叶形漂在右边缘附近，形成稀疏装饰框，而非写实密林。背景是一片暖奶油色，带隐约草图线、几何切面与浅灰影。右下大部开放，使坐姿人物和附近叶片清楚突出。暖漫射光从左上进入，让帽子、脸颊和叶缘有柔亮处，座位下面和裤褶则较暗。绘画把干净宽阔色块与松散构线结合，茎和外围仍可见未擦去的草图痕。女子姿态安静而沉思，场景没有强烈动作。整体构图以紧凑人物簇、漂动红形与充足浅色空间，形成亲近通透的秋意。",
+  "style_prompt_en": "The digital painting uses broad soft-edged planes with loose sketch lines still visible around the forms. Warm cream and muted tan provide an airy ground, while teal-gray anchors the center and rust red appears in scattered organic accents. Faceted shading gives enough volume without heavy realism; edges range from clean silhouettes to incomplete, exploratory marks. Diffuse warm light keeps shadows light and lets the background remain open. The composition places a compact focal cluster among tall thin curves and drifting color patches, creating a thoughtful, gentle rhythm.",
+  "style_prompt_zh": "这种数字绘画使用宽阔软边平面，形体周围仍可见松散草图线。暖奶油与低调浅褐构成通透底色，青灰稳住中央，锈红则作为散落的有机重音。切面明暗提供足够体积，却不走厚重写实；边缘从干净剪影过渡到不完全的探索性线迹。漫射暖光让阴影轻，背景保持开放。构图把紧凑焦点簇群放在高细曲线和漂浮色块间，形成沉思而温柔的节奏。",
+  "theme_en": "A thoughtful seated woman among tall stems and red leaves",
+  "theme_zh": "一位沉思的女子坐在高茎与红叶之间",
+  "wh_ratio": "1:1",
+  "id": "3092",
+  "name": "Loish",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/loish",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "f75868468b254d5c19ef585e60018b2c64d399155e222b218b1f8fa10e3994a2",
+    "gpt_submission_prompt": "A square digital painting shows a young woman sitting sideways on a narrow dark ledge among tall stems and oversized rusty-red leaves. She is placed just left of center, her knees drawn up and one hand resting beneath her chin as she looks toward the upper right. A warm peach cap sits over short brown hair, its brim casting a small shadow across the brow. She wears a loose teal-gray jacket, tan trousers, pale socks, and dark shoes; the fabric folds are simplified into angular but soft-edged planes. Large red leaves hang above and to the left, while thinner pale stems rise from the lower corners and cross behind her. Several leaf shapes float near the right edge, creating a sparse decorative frame rather than a realistic dense garden. The background is a warm cream field with faint sketch lines, geometric facets, and light gray shadows. Most of the lower right remains open, making the seated figure and nearby leaves stand out clearly. Warm diffuse light comes from the upper left, giving the cap, cheek, and leaf edges gentle highlights while the underside of the seat and trouser folds stay darker. The painting combines clean broad color shapes with loose construction lines that remain visible around the stems and outer edges. The woman's posture is quiet and thoughtful, and the scene has no strong physical action. The overall composition uses a small clustered figure, drifting red shapes, and generous pale space to create an intimate, airy autumn mood.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "405707b9c9dbf3e683997c5510da74a2cf4d16ba1598920deeb27462e4e1b3e8",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

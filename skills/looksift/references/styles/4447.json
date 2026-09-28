@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square cinematic rural photograph shows a serious young girl standing in the foreground of a misty roadside scene. She faces the camera directly in a pale, subtly striped dress with short sleeves and a small collar. Her brown hair is pulled back, and her calm but guarded expression gives the image emotional weight. Several other girls in modest dresses stand or turn away among tall grass behind her. Power lines cut diagonally across the pale gray sky, while low hills and faint smoke or fog blur the distance. The foreground girl is sharply separated from the soft background by shallow depth of field, yet the road, plants, and figures remain enough to establish place. Cool, subdued greens and gray-blue mist dominate, with muted pink and cream clothing providing restrained warmth. Overcast daylight is diffuse and flat, revealing natural skin texture without glamour lighting. Fine film grain and slightly weathered color evoke a period drama or remembered family photograph. The composition places the girl just left of center, with the distant figures creating quiet unease rather than explicit action. The whole frame feels still, observational, and gently unsettling, grounded in ordinary rural details and a carefully controlled muted palette.",
+  "full_prompt_zh": "一幅方形电影感乡村照片呈现一位神情严肃的年轻女孩站在迷雾路边前景。她穿浅色细条纹、短袖小领连衣裙，正面看向相机。棕色头发向后收起，平静却有防备的表情赋予影像情绪重量。身后还有几个穿朴素裙装的女孩，或站着或转身，散在高草之间。电线斜切浅灰天空，低山与隐约烟雾或水汽柔化远方。浅景深把前景女孩从柔和背景中清楚分离，但道路、植物和其他人物仍足以建立地点。冷而低调的绿与灰蓝雾气占主导，低饱和粉和乳白衣服提供克制暖色。阴天日光漫射而平，显露自然皮肤肌理，没有美颜式打光。细微胶片颗粒和稍微风化的色彩令人想到年代戏或被记起的家庭照片。构图将女孩置于略偏左的位置，远处人物制造安静不安而非明确行动。整体静止、观察性强、微微令人不安，扎根于寻常乡村细节和精确控制的低饱和色谱。",
+  "style_prompt_en": "A muted cinematic documentary style isolates one clear foreground subject against softly receding figures and landscape. Cool gray-blue mist, subdued green vegetation, pale cream, and faint dusty pink form a restrained period palette. Overcast diffuse light keeps shadows shallow and skin or surface texture natural. Power lines, roads, or other thin diagonal structures can guide the eye through an otherwise quiet scene. Fine film grain and slightly weathered color suggest memory without heavy vintage effects. The focal gaze or object remains direct, while background human-scale details add subtle narrative tension. The frame feels still and observational, with shallow depth and modest atmospheric haze.",
+  "style_prompt_zh": "低饱和电影纪实风格让一个清楚的前景主体从逐渐柔化的人物和风景中分离。冷灰蓝雾、低调绿植、浅乳白和极淡灰粉组成克制的年代色谱。阴天漫射光让阴影浅淡，皮肤或表面肌理自然。电线、道路或其他纤细斜向结构可引视线穿过安静场景。细微胶片颗粒和稍微风化的颜色暗示回忆，却不靠厚重复古滤镜。焦点目光或物件保持直接，背景人物尺度细节增添轻微叙事张力。画面静止而善于观察，浅景深和适度空气雾感并存。",
+  "theme_en": "A serious girl stands before a misty rural road and other children",
+  "theme_zh": "神情严肃的女孩站在迷雾乡路与其他孩子前方",
+  "wh_ratio": "1:1",
+  "id": "4447",
+  "name": "Paul Fusco",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/paul-fusco.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "0681d8c847a7a93f82c4a148420f582e002fb15df2e4eb681e78c21264ae0c91",
+    "gpt_submission_prompt": "A square cinematic rural photograph shows a serious young girl standing in the foreground of a misty roadside scene. She faces the camera directly in a pale, subtly striped dress with short sleeves and a small collar. Her brown hair is pulled back, and her calm but guarded expression gives the image emotional weight. Several other girls in modest dresses stand or turn away among tall grass behind her. Power lines cut diagonally across the pale gray sky, while low hills and faint smoke or fog blur the distance. The foreground girl is sharply separated from the soft background by shallow depth of field, yet the road, plants, and figures remain enough to establish place. Cool, subdued greens and gray-blue mist dominate, with muted pink and cream clothing providing restrained warmth. Overcast daylight is diffuse and flat, revealing natural skin texture without glamour lighting. Fine film grain and slightly weathered color evoke a period drama or remembered family photograph. The composition places the girl just left of center, with the distant figures creating quiet unease rather than explicit action. The whole frame feels still, observational, and gently unsettling, grounded in ordinary rural details and a carefully controlled muted palette.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "9580da4a09b2b521d6e4ab1656391ff035a1e50c0add799b0631023dfb77938f",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

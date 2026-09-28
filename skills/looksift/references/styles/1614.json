@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "The image is a square relief artwork that turns a wide mountain sunset into a stack of torn colored paper. A softly lit gray background surrounds the inset picture, making its thickness and slightly raised lower edge visible. Across the upper third, broad cloud bands of lavender, plum, dusty rose, gray, and peach overlap in uneven horizontal strips. A narrow glowing line of amber and pale yellow near the middle suggests the low sun. Beneath it, distant ranges are cut from turquoise and powder blue sheets, their irregular ridgelines receding toward a bright central gap. The middle and lower regions alternate muted sage, olive, sand, teal, slate, and deep navy layers. Each strip has a rough fibrous lip that catches a little light and casts a thin shadow onto the sheet below. The foreground settles into dense blue-green and charcoal bands at the bottom. The image has no painted illusion of texture: the material itself supplies the relief, soft fuzz, minute fraying, and shallow physical depth. Illumination is diffuse and frontal, with the warm horizon acting as the color focus and quiet side shadows clarifying every paper edge. The composition is serene, almost abstract at first glance, then increasingly tactile as the torn contours come into view.",
+  "full_prompt_zh": "画面是一件正方形浮雕作品，把开阔的山地日落化为层层撕裂的彩纸。柔和受光的灰色背景围住内嵌画面，使作品的厚度和微微抬起的下边缘清晰可见。上方三分之一处，淡紫、李紫、灰玫瑰、灰色与桃色的宽阔云带以不规则横条彼此覆盖。中部附近一条狭窄的琥珀与浅黄色亮带暗示低悬的太阳。其下的远山由青绿和粉蓝纸片裁成，不规则山脊线向中央明亮的缺口后退。中下部交替排列灰鼠尾草绿、橄榄绿、沙色、蓝绿、石板灰与深海军蓝层片。每条纸带都有粗糙的纤维边缘，承接一点光，在下一层纸上投下细影。前景在底部沉入浓密的蓝绿与炭黑色带。画面不靠绘画模拟质地：材料本身提供浮雕、柔软毛边、细小磨散纤维和浅浅的实体纵深。光照柔和且从正面而来，暖色地平线成为色彩焦点，轻微的侧向阴影则明确每一层纸边。构图宁静，初看近乎抽象，撕裂的轮廓显现后又愈发可触。",
+  "style_prompt_en": "A tactile composition consists of many overlapping sheets with irregular torn edges and visible fibrous texture. Shallow relief emerges from each layer casting a fine shadow on the next. Broad color bands shift gradually from pale luminous tones to denser muted hues, while a small warm accent draws the eye through the stack. Diffuse illumination preserves the soft matte surface and the exact thickness of the material. The arrangement is calm and rhythmic, with handmade imperfections bringing depth to an otherwise simple graphic structure.",
+  "style_prompt_zh": "一幅可触感的构图由许多相互覆盖的纸片组成，边缘撕裂而不规则，纤维纹理清晰可见。每一层都在下一层上投下细影，由此形成浅浮雕。宽阔色带从明亮浅色逐渐转向浓密而克制的色调，一处小面积暖色重点引导视线穿过叠层。漫射光保留柔和哑光表面和材料确切的厚度。排列安静而富有节奏，手工制作的不完美为原本简洁的图形结构带来纵深。",
+  "theme_en": "A sunset mountain landscape assembled from torn layers of colored paper",
+  "theme_zh": "由撕裂彩纸层叠构成的日落山地风景",
+  "wh_ratio": "1:1",
+  "id": "1614",
+  "name": "Layered paper",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/layered-paper",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/layered-paper.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "e2bbd4ccbe425e0637a529739c26096a132f37ef847534ca471fb5bbcda1da1a",
+    "gpt_submission_prompt": "The image is a square relief artwork that turns a wide mountain sunset into a stack of torn colored paper. A softly lit gray background surrounds the inset picture, making its thickness and slightly raised lower edge visible. Across the upper third, broad cloud bands of lavender, plum, dusty rose, gray, and peach overlap in uneven horizontal strips. A narrow glowing line of amber and pale yellow near the middle suggests the low sun. Beneath it, distant ranges are cut from turquoise and powder blue sheets, their irregular ridgelines receding toward a bright central gap. The middle and lower regions alternate muted sage, olive, sand, teal, slate, and deep navy layers. Each strip has a rough fibrous lip that catches a little light and casts a thin shadow onto the sheet below. The foreground settles into dense blue-green and charcoal bands at the bottom. The image has no painted illusion of texture: the material itself supplies the relief, soft fuzz, minute fraying, and shallow physical depth. Illumination is diffuse and frontal, with the warm horizon acting as the color focus and quiet side shadows clarifying every paper edge. The composition is serene, almost abstract at first glance, then increasingly tactile as the torn contours come into view.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "ac5c29bd948c910fd72a8745f4f308048dbd6d9c19383a9cb55c4ae6ba6aae9d",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

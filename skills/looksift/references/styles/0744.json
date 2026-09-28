@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square painterly comic illustration places a determined woman in an extreme foreground close-up. Her dark hair is pulled back, one small earring catches the light, and narrowed eyes look directly outward from under strong brows. Angular planes of cobalt, violet, dusty magenta, and warm coral model her cheek, nose, and lips rather than smooth skin gradients. Behind her right shoulder, a second figure in a brimmed hat recedes into blue-purple shadow. The person's arm extends toward the viewer with a dark handgun; its circular barrel is a sharp point near the center-right. Only fragments of a warm red wall and cool blue background remain visible around the crowded figures. Thick, visible brush strokes and scraped color edges break the contours of faces, clothing, and the background into uneven facets. The woman's eyes and the gun barrel are rendered more precisely than the surrounding paint, creating two immediate centers of attention. A narrow warm highlight catches the bridge of her nose and lower lip, while cool side shadow shapes the jaw and the figure behind. The lighting feels directional and urban, with small hard accents inside a broadly painted scene. The close crop leaves little space for a full setting or action sequence; tension comes from the layered positions, direct gaze, and foreshortened object. The palette pushes saturated cool blues and violets against coral and ocher. The overall composition is urgent and cinematic, balancing graphic comic readability with rough expressive paint texture.",
+  "full_prompt_zh": "一幅方形绘画式漫画插画把神情坚定的女子放在极近前景。她深色头发向后收起，一只小耳饰接住光，紧缩的眼睛从浓眉下直接望向外面。钴蓝、紫色、带灰洋红和暖珊瑚色的棱角平面塑造脸颊、鼻子和嘴唇，而非光滑肤色渐层。她右肩后，第二名戴宽檐帽的人退入蓝紫阴影。此人的手臂朝观者伸出，握着一把深色手枪；圆形枪口成为中央偏右的清晰焦点。拥挤的人物周围只剩下暖红墙面和冷蓝背景的碎片。厚重可见笔触与被刮破的色边把脸、衣服和背景轮廓拆成不均匀切面。女子的眼睛与枪口比周围色块绘得更精确，形成两处立即吸引注意的中心。一条窄暖光照亮鼻梁和下唇，冷色侧影则塑造下颌及身后人物。光有明确方向和都市感，在宽阔绘画场景中留下少量硬亮点。近裁切没有给完整场景或动作序列留下多少空间；张力来自层叠位置、直接目光和透视缩短的物件。配色以饱和冷蓝、紫色对照珊瑚与赭黄。整体构图紧迫而富于电影感，以图形漫画可读性平衡粗粝的表现性颜料肌理。",
+  "style_prompt_en": "A painterly urban-comic language combines sharp graphic focal accents with broad angular brush planes and scraped, broken edges. Saturated cobalt and violet shadows oppose dusty magenta, coral, and small ocher highlights. Close overlapping forms and foreshortened central details compress the space. Eyes-like focal precision gives way quickly to rougher color blocks at the periphery. Directional light places narrow warm highlights against deep cool side shadow. The result is urgent, cinematic, tactile, and readable despite expressive surface disruption.",
+  "style_prompt_zh": "绘画式都市漫画语言把清晰图形化焦点与宽阔棱角笔面、刮擦破碎边缘结合。饱和钴蓝与紫色阴影对照带灰洋红、珊瑚色和少量赭黄高光。近距离重叠形态及中心的透视缩短细节压缩空间。类似眼神般精确的焦点迅速过渡到外围更粗糙的色块。定向光把窄暖高光置于深冷侧影前。成品紧迫、有电影感、可触，即使表面表现性扰动仍然可读。",
+  "theme_en": "A determined woman in close-up with another figure and a gun behind her",
+  "theme_zh": "一名神情坚定的女子近景，身后另一人举着枪",
+  "wh_ratio": "1:1",
+  "id": "0744",
+  "name": "Brian Stelfreeze",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/brian-stelfreeze",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/brian-stelfreeze.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "ad549d479b41556b0dc70355ea21a9f907edd3061230676e0f958e7d49268976",
+    "gpt_submission_prompt": "A square painterly comic illustration places a determined woman in an extreme foreground close-up. Her dark hair is pulled back, one small earring catches the light, and narrowed eyes look directly outward from under strong brows. Angular planes of cobalt, violet, dusty magenta, and warm coral model her cheek, nose, and lips rather than smooth skin gradients. Behind her right shoulder, a second figure in a brimmed hat recedes into blue-purple shadow. The person's arm extends toward the viewer with a dark handgun; its circular barrel is a sharp point near the center-right. Only fragments of a warm red wall and cool blue background remain visible around the crowded figures. Thick, visible brush strokes and scraped color edges break the contours of faces, clothing, and the background into uneven facets. The woman's eyes and the gun barrel are rendered more precisely than the surrounding paint, creating two immediate centers of attention. A narrow warm highlight catches the bridge of her nose and lower lip, while cool side shadow shapes the jaw and the figure behind. The lighting feels directional and urban, with small hard accents inside a broadly painted scene. The close crop leaves little space for a full setting or action sequence; tension comes from the layered positions, direct gaze, and foreshortened object. The palette pushes saturated cool blues and violets against coral and ocher. The overall composition is urgent and cinematic, balancing graphic comic readability with rough expressive paint texture.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "0a8fa3e602703615d67f3526a486c6d4c9a6db64886ef5967ef06670f6421e19",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

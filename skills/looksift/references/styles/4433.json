@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square mixed media portrait shows a contemplative face assembled from countless tiny scraps of colored print, paper, and painted fragments. The subject turns slightly toward the viewer, with one hand resting near the mouth and the dark eyes held in thought. From a distance the features read clearly, but at close range the skin and hair break into letters, photographic bits, stripes, and irregular collage pieces. Warm cream and pale ochre fragments shape the nose and cheek; deep navy, black, and violet build the hair and shadows. Small sparks of red, turquoise, and yellow interrupt the surface. The hand is equally fragmented, its fingers made legible by changes in value rather than smooth anatomy. The background carries the same pieces but with less contrast, allowing the face to emerge from a noisy field. Light appears to strike the central forehead and cheek, while darker fragments collect at the edges. The surface is dense, physical, and uneven, with overlaps and seams visibly left in place. The composition is a tight close-up, making the transformation between image and material the main event. The whole frame feels investigative and tactile, a portrait discovered within an accumulation of discarded visual matter.",
+  "full_prompt_zh": "一幅方形混合媒介肖像呈现一张由无数彩色印刷品、纸片和绘画碎片拼成的沉思面孔。人物略朝观者转，一只手靠近嘴边，深色眼睛若有所思。远看五官清楚，近看皮肤与头发碎成字母、照片小块、条纹和不规则拼片。暖乳白与浅赭碎片构成鼻子和脸颊，深海军蓝、黑和紫色构成头发与阴影。细小红、青绿与黄色火花打断表面。手同样由碎片拼成，手指靠明度变化而非光滑解剖变得可辨。背景使用同类碎片，但对比度较低，使面孔从嘈杂场域中浮现。光仿佛照到额头与脸颊中央，较深碎片聚在边缘。表面密集、真实可触且不平整，重叠与接缝明显保留。构图是紧密特写，图像与材料之间的转换成为主事件。整幅画有探寻感和触感，像从被丢弃的视觉材料积累中发现了一张肖像。",
+  "style_prompt_en": "A found-material collage style lets a coherent image emerge from thousands of small printed and painted fragments. At a distance, value masses define form; up close, letters, photographs, colored strips, overlaps, and seams remain individually visible. Warm cream and ochre can establish light, while navy, black, and violet create dense shadow; tiny red, teal, and yellow accents animate the surface. The focal shape is tightly cropped against a similarly fragmented but lower-contrast background. Uneven material thickness, edges, and paper wear provide physical texture. The style depends on the tension between readable whole and noisy component pieces, with light organized by fragment color rather than smooth shading.",
+  "style_prompt_zh": "拾得材料拼贴风格使连贯图像从成千上万小印刷与绘画碎片中浮现。远看明度大块界定形体，近看字母、照片、彩条、重叠和接缝仍各自可辨。暖乳白与赭色建立亮部，海军蓝、黑与紫色构成密实暗部；细小红、深青和黄色点缀活跃表面。焦点形态紧密裁切，背景同样碎片化但反差较低。材料厚薄不均、边缘和纸面磨损提供物理肌理。风格依赖可读整体与嘈杂零件之间的张力，亮光由碎片颜色组织，而非光滑阴影。",
+  "theme_en": "A contemplative face assembled from countless scraps of colored print",
+  "theme_zh": "一张由无数彩色印刷碎片拼成的沉思面孔",
+  "wh_ratio": "1:1",
+  "id": "4433",
+  "name": "Vik Muniz",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/vik-muniz.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "e0cc44b6a9fa167c2798311e7713d7fe7e53652198a94b32ce9851c2eada9adb",
+    "gpt_submission_prompt": "A square mixed media portrait shows a contemplative face assembled from countless tiny scraps of colored print, paper, and painted fragments. The subject turns slightly toward the viewer, with one hand resting near the mouth and the dark eyes held in thought. From a distance the features read clearly, but at close range the skin and hair break into letters, photographic bits, stripes, and irregular collage pieces. Warm cream and pale ochre fragments shape the nose and cheek; deep navy, black, and violet build the hair and shadows. Small sparks of red, turquoise, and yellow interrupt the surface. The hand is equally fragmented, its fingers made legible by changes in value rather than smooth anatomy. The background carries the same pieces but with less contrast, allowing the face to emerge from a noisy field. Light appears to strike the central forehead and cheek, while darker fragments collect at the edges. The surface is dense, physical, and uneven, with overlaps and seams visibly left in place. The composition is a tight close-up, making the transformation between image and material the main event. The whole frame feels investigative and tactile, a portrait discovered within an accumulation of discarded visual matter.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "cf0e410d44c2324b26ef65ebbde93933f74095748ba017a0ce522f81a7b97fc2",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

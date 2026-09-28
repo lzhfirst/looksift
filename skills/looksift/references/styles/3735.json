@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square softly lit figurative painting shows a young woman seated on a low stone bench against a warm beige wall patterned with small fading flowers. She occupies the middle of the frame, turning her face to the right in profile while the torso remains angled slightly toward the viewer. Dark brown hair is loosely pinned up, with curls and stray wisps around her forehead and neck. She wears an olive-green sleeveless dress with a deep V neckline and a fitted, wrapped bodice. The skirt spreads around her hips in crumpled folds of mustard, bronze, and dark green; one knee is raised and partly exposed at the lower center. Her left hand rests on the bench at the lower left, and the right arm extends to brace lightly at the edge. The face is pale with warm pink on the cheek and lips, her gaze directed off frame rather than toward the viewer. Behind her, a shallow wall ledge runs across the middle. Sparse clusters of rusty red and brown blossoms rise on either side, some distinct near her shoulder and others blurred into the warm plaster. Painterly texture varies from soft blended skin to thin scumbled wall pigment and firmer dark accents in hair and dress folds. Light enters from the upper right, warming the face, shoulder, raised knee, and satin-like ridges of fabric while the left side remains muted. The composition uses an asymmetrical sideways glance and quiet floral setting to create an intimate, reflective mood.",
+  "full_prompt_zh": "一幅方形柔光人物绘画呈现年轻女子坐在低石凳上，背后暖米色墙面点着小小褪色花枝。她占据中央，脸向右呈侧面，上身略朝观者转。深棕发松松盘起，额头和颈边散着卷发与细丝。她穿橄榄绿无袖连衣裙，有深 V 领和贴身裹绕的上身。裙摆围着臀部铺开芥末黄、铜棕与深绿皱褶；一侧膝盖抬起，在下部中央局部露出。左手搁在左下凳面，右臂伸向画边轻撑。面容浅白，脸颊和唇带暖粉，她的目光朝画外而非观者。身后，一道浅墙檐横过中部。稀疏锈红与棕色花簇从两侧升起，有些在肩边清楚，有些模糊进暖灰泥。绘画纹理从柔和融合的肌肤，到墙上薄擦颜料，再到头发与裙褶中较坚定的深色重点不断变化。右上方光照暖面孔、肩、抬起的膝盖和缎面般衣褶脊，左侧较暗。构图以非对称的侧望和安静花枝环境营造亲密、沉思气氛。",
+  "style_prompt_en": "Soft figurative painting blends luminous skin with lightly scumbled plaster and more decisive, folded fabric strokes. Keep the palette close and earthy: olive, ochre, bronze, faded rose, warm beige, and deep brown. Directional but gentle light can graze raised planes and satin-like folds while neighboring areas settle into muted shadow. Place a clear focal form against sparse faded ornamental marks, letting the background support rather than compete. Use an asymmetrical posture and a glance toward open space to create inward calm. The transferable texture is warm, painterly, and intimate, with realism softened by irregular brush edges.",
+  "style_prompt_zh": "柔和人物绘画把发亮肌肤与薄擦灰泥、较肯定的折叠布料笔触融合。配色收在接近的土调：橄榄、赭黄、铜棕、褪色玫瑰、暖米色和深棕。温柔而有方向的光擦过抬起平面与缎面般褶脊，相邻区域沉入低饱和阴影。清晰焦点形体对着稀疏褪色装饰纹，背景衬托而不争夺。非对称姿态及朝向空处的目光制造内向平静。可迁移纹理温暖、有绘画感且亲密，写实被不规则笔缘柔化。",
+  "theme_en": "A woman in an olive dress seated among faded flowers",
+  "theme_zh": "橄榄色裙装女子坐在褪色花枝间",
+  "wh_ratio": "1:1",
+  "id": "3735",
+  "name": "Annick Bouvattier",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/annick-bouvattier",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "9a109acb04019637314bd6e442cd7621e2c3fb98fb3a78edbd076651390b1cbf",
+    "gpt_submission_prompt": "A square softly lit figurative painting shows a young woman seated on a low stone bench against a warm beige wall patterned with small fading flowers. She occupies the middle of the frame, turning her face to the right in profile while the torso remains angled slightly toward the viewer. Dark brown hair is loosely pinned up, with curls and stray wisps around her forehead and neck. She wears an olive-green sleeveless dress with a deep V neckline and a fitted, wrapped bodice. The skirt spreads around her hips in crumpled folds of mustard, bronze, and dark green; one knee is raised and partly exposed at the lower center. Her left hand rests on the bench at the lower left, and the right arm extends to brace lightly at the edge. The face is pale with warm pink on the cheek and lips, her gaze directed off frame rather than toward the viewer. Behind her, a shallow wall ledge runs across the middle. Sparse clusters of rusty red and brown blossoms rise on either side, some distinct near her shoulder and others blurred into the warm plaster. Painterly texture varies from soft blended skin to thin scumbled wall pigment and firmer dark accents in hair and dress folds. Light enters from the upper right, warming the face, shoulder, raised knee, and satin-like ridges of fabric while the left side remains muted. The composition uses an asymmetrical sideways glance and quiet floral setting to create an intimate, reflective mood.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "b9e5be73c7ffc34783fad2887e285747311053a9f87230b266f30fe951759fa8",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

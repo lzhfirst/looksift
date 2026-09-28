@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square folklore illustration shows a cloaked rider traveling on the back of a large gray bear through dense woodland. The rider sits high near the upper center, wearing a reddish cap, blue gray tunic and flowing terracotta cape. One hand reaches forward, while the bear steps toward the right with a heavy, deliberate gait. Its rounded body and long muzzle fill the central field. Dark green canopies, slender white trunks and layered shrubs crowd behind and below them. Small pale flowers gather in the lower foreground. An ornate brown and gold border encloses the scene, with curled vegetal motifs and a rounded upper arch. The drawing is built from firm dark outlines and close decorative hatching. Color areas are flat but varied: moss green, charcoal, gray, rust and ivory are repeated across foliage, fabric and animal fur. Light is even and storybook-like, with pale bear and birch trunks standing out from the deeper forest rather than casting strong shadows. The border and arch make the picture feel like an illuminated book page. Despite many leaves and patterned marks, the central bear and rider remain readable as one traveling silhouette. The composition is densely filled and rhythmic, its curves and vertical trunks guiding the eye through a mythic woodland moment.",
+  "full_prompt_zh": "这幅方形民俗插画呈现一位披风旅者骑在巨大灰熊背上穿过密林。旅者坐在上方中央，戴赤褐帽、穿蓝灰衣，陶红披风向后飘。一只手向前伸，熊以沉重而谨慎的步态朝右走。圆厚身体与长吻填满中央色域。深绿树冠、细白树干与层叠灌木挤在身后和脚下。浅色小花聚在下方前景。华丽棕金边框围住场景，带卷曲植物纹和圆拱上缘。绘图由坚实暗轮廓和密集装饰排线构成。色面平坦但有变化：苔绿、炭色、灰、锈色与象牙白在叶片、布料和熊毛间重复。光均匀，带故事书感觉；浅熊与白树干从深林中突显，而非投下强影。边框和圆拱使画面像装饰书页。尽管叶片与花纹繁多，中央熊与旅者仍作为单一旅行剪影清楚可读。构图密集而有节奏，曲线与竖树干引导目光穿过神话般林中一刻。",
+  "style_prompt_en": "The folklore illustration pairs firm dark contours with dense decorative hatching and flat muted color. Moss green, charcoal, gray, rust and ivory repeat across a tightly filled field. Even light keeps pale areas legible against dark patterned masses without strong cast shadows. Curved ornament encloses the image, while slender verticals and rounded shapes form its inner rhythm. Fine texture and a carefully bounded frame give the work the feel of an illuminated story page.",
+  "style_prompt_zh": "这种民俗插画把坚实暗轮廓、密集装饰排线与平坦低饱和色结合。苔绿、炭色、灰、锈色和象牙白在填满的色域里重复。均匀光使浅色部分在暗纹样块前清楚，而没有强投影。弯曲装饰围合图像，细竖线与圆形建立内部节奏。细密纹理与仔细约束的边框使作品像装饰故事书页。",
+  "theme_en": "A cloaked rider on a great bear in an ornamental forest frame",
+  "theme_zh": "装饰边框森林里骑着巨熊的披风旅者",
+  "wh_ratio": "1:1",
+  "id": "4215",
+  "name": "Ivan Bilibin",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/ivan-bilibin.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "e90c2720e7cddae1c6f875ef27dda71bbb171f0b5ce3e8e0b7e1e7882c82b328",
+    "gpt_submission_prompt": "A square folklore illustration shows a cloaked rider traveling on the back of a large gray bear through dense woodland. The rider sits high near the upper center, wearing a reddish cap, blue gray tunic and flowing terracotta cape. One hand reaches forward, while the bear steps toward the right with a heavy, deliberate gait. Its rounded body and long muzzle fill the central field. Dark green canopies, slender white trunks and layered shrubs crowd behind and below them. Small pale flowers gather in the lower foreground. An ornate brown and gold border encloses the scene, with curled vegetal motifs and a rounded upper arch. The drawing is built from firm dark outlines and close decorative hatching. Color areas are flat but varied: moss green, charcoal, gray, rust and ivory are repeated across foliage, fabric and animal fur. Light is even and storybook-like, with pale bear and birch trunks standing out from the deeper forest rather than casting strong shadows. The border and arch make the picture feel like an illuminated book page. Despite many leaves and patterned marks, the central bear and rider remain readable as one traveling silhouette. The composition is densely filled and rhythmic, its curves and vertical trunks guiding the eye through a mythic woodland moment.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "cf40ad0b15123e26927cfdacfcce1b54503c96b6ed5bfedc2c67eb85c49cd165",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

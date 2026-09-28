@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square oil painting portrays a dark-haired woman in a white ruffled dress seated beside the open dark green side of a carriage. She occupies the center, turned slightly to the right but looking outward with a composed, distant expression. A small blue ornament sits in her piled black hair, and a dark bow at the bodice gives the pale dress a clear anchor. Her skin is luminous but simply modeled, with rose cheeks and restrained red lips. At the far left, another face appears in deep shade inside the carriage window, while behind the woman a man in a black cap and dark coat faces right toward a blue sky and a hint of harbor. This arrangement creates three distinct depths: shadowed interior, bright near figure, and airy exterior. Broad, confident oil brushstrokes define the sleeves and ruffles, allowing white fabric to break into cool gray and cream patches. Deep green and near-black frame the left edge; pale blue opens at the upper right. The daylight is natural and frontal enough to brighten the woman's face without flattening it. Visible paint texture, selective detail, and abrupt dark-light contrasts give the composition an elegant but observational character.",
+  "full_prompt_zh": "一幅方形油画描绘一位深发女性穿白色荷叶边衣裙，坐在一辆马车敞开的深绿侧门旁。她居于中央，身体略向右转，目光却向外投去，神情沉静而疏离。盘起的黑发上有一件小蓝饰物，胸前深色蝴蝶结为浅衣裙提供清楚的锚点。肤色明亮但塑形简洁，面颊微红，唇色克制。最左侧另有一张面孔出现在马车窗内的深影里；女性背后，一位戴黑帽、穿深外套的男子面向右侧，朝着蓝天和隐约港景。这种布置形成阴暗车内、明亮近处人物与通透室外三层空间。宽阔果断的油画笔触塑造袖子和荷叶边，白布被拆为冷灰与奶油色块。深绿和近黑色框住左缘，上方右侧打开浅蓝天空。自然日光从正面照亮女性面部，同时保留立体感。可见颜料肌理、有选择的细节与突然的明暗对比，使画面优雅而又具有观察性。",
+  "style_prompt_en": "Observational oil painting with broad confident brushstrokes, selective facial detail, and abrupt contrasts between near-black framing and luminous pale planes. Whites are broken into cool gray and cream, with small rose and blue accents against deep green. Natural daylight models the main forms without a polished finish; visible paint texture and spatial overlap create immediacy.",
+  "style_prompt_zh": "具有观察性的油画，笔触宽阔而果断，面部细节有选择地描绘，近黑色框边与明亮浅色平面形成突然的对比。白色被拆解为冷灰与奶油色，深绿之上有少量玫瑰色和蓝色点缀。自然日光塑造主体形态而不磨成光滑表面；可见油彩肌理和空间交叠带来即刻感。",
+  "theme_en": "A dark-haired woman in white beside a carriage opening",
+  "theme_zh": "马车门口一位身着白衣的深发女性",
+  "wh_ratio": "1:1",
+  "id": "4313",
+  "name": "Edouard Manet",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/edouard-manet.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "e0990b6d09e8dff5f9295ce1acecab2e0b057fb41d7a37e0cdae5def01605926",
+    "gpt_submission_prompt": "A square oil painting portrays a dark-haired woman in a white ruffled dress seated beside the open dark green side of a carriage. She occupies the center, turned slightly to the right but looking outward with a composed, distant expression. A small blue ornament sits in her piled black hair, and a dark bow at the bodice gives the pale dress a clear anchor. Her skin is luminous but simply modeled, with rose cheeks and restrained red lips. At the far left, another face appears in deep shade inside the carriage window, while behind the woman a man in a black cap and dark coat faces right toward a blue sky and a hint of harbor. This arrangement creates three distinct depths: shadowed interior, bright near figure, and airy exterior. Broad, confident oil brushstrokes define the sleeves and ruffles, allowing white fabric to break into cool gray and cream patches. Deep green and near-black frame the left edge; pale blue opens at the upper right. The daylight is natural and frontal enough to brighten the woman's face without flattening it. Visible paint texture, selective detail, and abrupt dark-light contrasts give the composition an elegant but observational character.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "fd8f3a8ea2ce3628fdb356f9dca45ffc58a4004af8db3e6daf33a35adcf0c927",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

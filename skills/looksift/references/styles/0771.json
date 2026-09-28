@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "The painting presents a young woman seated against a sparse, pale interior ground. She is shown from roughly the waist up, her body facing forward while her head turns toward the right edge. Brown hair is loosely gathered at the back of her neck, with a few dark strands defining her cheek and ear. She wears a light blue blouse with long sleeves and a narrow tie at the collar. Her forearms rest across her lap, one hand relaxed over the other, forming a calm horizontal shape at the lower edge of the portrait. The face is carefully observed but not polished smooth: warm rose touches mark the lips and cheeks, and cooler grays describe the shadow beneath the jaw. The blouse is assembled from broad pale blue, slate, and white strokes that let the underpainting show through. Behind her, a wall of warm gray and beige carries loose vertical scrapes and small patches of unfinished texture. The subdued light comes from the left front, illuminating her face and upper shirt while the far sleeve and lower torso fall into soft shadow. There is no ornate furniture or scenic distraction; just a hint of a wooden arm or seat near the lower sides. The square composition gives the figure generous breathing room, especially to the direction of her gaze. Visible brush ridges and broken edges keep the image material and alive. The overall mood is poised, thoughtful, and gently intimate.",
+  "full_prompt_zh": "油画呈现一位坐在简洁浅色室内背景前的年轻女子，取景约至腰部。身体面向前方，头却转向画面右缘。棕发松松盘在颈后，几缕深色发丝勾出面颊与耳侧。她穿浅蓝长袖上衣，领口系着细窄的带结。前臂在腿上交叠，一只手放松地覆在另一只手上，于肖像下缘形成安静的横向形状。面部经过细致观察，却没有打磨得过分光滑：玫瑰暖色轻触嘴唇与脸颊，较冷的灰色交代下颌阴影。上衣由宽阔的淡蓝、石板灰和白色笔触拼成，局部透出底层颜色。身后暖灰与米色墙面带着松散的竖向刮痕和未完成般的小块肌理。柔和光线从左前方进入，照亮脸和上半身，远侧衣袖及下身渐入柔影。没有华丽家具或风景分散注意力，只有两侧下方一点木质椅臂或座位痕迹。方形构图给人物留下足够呼吸空间，尤其在她目光的方向。可见笔脊和断续边缘让图像保持物质感与生命力，整体沉静、若有所思而亲切。",
+  "style_prompt_en": "Use restrained figurative oil painting with broad, broken brushstrokes and visible paint ridges. Balance warm gray and beige grounds against pale blue, slate, ivory, and small rose accents. Model volume through adjacent blocks of warm and cool color instead of smooth blending. Keep the background sparse and lightly scraped, allow unfinished edges to breathe, and direct soft side-front light toward one calm focal area. Preserve a poised square composition with generous negative space.",
+  "style_prompt_zh": "采用克制的具象油画，以宽阔断续的笔触和可见颜料隆起塑造画面。用暖灰、米色底面平衡浅蓝、石板灰、象牙白和少量玫瑰色。以相邻冷暖色块而非平滑晕染建立体积。背景保持简洁并带轻微刮擦，让未完全收束的边缘呼吸；柔和的侧前光汇向一个安静焦点。方形构图稳妥，并保留充足留白。",
+  "theme_en": "Quiet seated study in a pale blue blouse",
+  "theme_zh": "浅蓝上衣的静坐习作",
+  "wh_ratio": "1:1",
+  "id": "0771",
+  "name": "Katya Gridneva",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/katya-gridneva",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/katya-gridneva.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "27599a878c134b8ef656961c859bfe1a00d8b863732906fb0b9bccd40ed296a1",
+    "gpt_submission_prompt": "The painting presents a young woman seated against a sparse, pale interior ground. She is shown from roughly the waist up, her body facing forward while her head turns toward the right edge. Brown hair is loosely gathered at the back of her neck, with a few dark strands defining her cheek and ear. She wears a light blue blouse with long sleeves and a narrow tie at the collar. Her forearms rest across her lap, one hand relaxed over the other, forming a calm horizontal shape at the lower edge of the portrait. The face is carefully observed but not polished smooth: warm rose touches mark the lips and cheeks, and cooler grays describe the shadow beneath the jaw. The blouse is assembled from broad pale blue, slate, and white strokes that let the underpainting show through. Behind her, a wall of warm gray and beige carries loose vertical scrapes and small patches of unfinished texture. The subdued light comes from the left front, illuminating her face and upper shirt while the far sleeve and lower torso fall into soft shadow. There is no ornate furniture or scenic distraction; just a hint of a wooden arm or seat near the lower sides. The square composition gives the figure generous breathing room, especially to the direction of her gaze. Visible brush ridges and broken edges keep the image material and alive. The overall mood is poised, thoughtful, and gently intimate.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "5522763381a9d7b633fddb40f13660ecf6313972c89b8c3908fda87250b98b9b",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square hand-drawn animation still shows an elderly man seated inside a dim stone room, looking upward with a gentle, curious expression. His wavy silver hair frames a softly rounded face; heavy brows, a long nose, and a slightly open mouth give him readable character. He wears a teal-blue outer garment over a white open-collared shirt and a dark reddish vest or lapel. At the left edge, an ornate gold carved chair back curls into view. Behind him, enormous green-blue stone blocks and a spiral column recede into shadow, suggesting an old hall or chamber. The man fills the lower left and center, his raised gaze leading the eye into the darker upper right. Inked contours remain smooth but varied in weight, with soft painted color inside. Highlights on forehead, nose, and shirt are warm cream, while deep turquoise, slate, and brown shadows shape the environment. Background details are less exact than the face, allowing the expression to remain central. The scene has the tactile charm of traditional cel animation: clear silhouettes, gently modeled cheeks, hand-painted stone texture, and a storybook sense of place. Light appears to enter from above or ahead, catching his eyes and hair. No subtitles, speech balloon, or title graphic appears.",
+  "full_prompt_zh": "一幅方形手绘动画画格中，一位老人坐在昏暗石室里，带温和好奇神情向上望。波浪银发围着柔和圆脸，浓眉、长鼻和微张的口让人物性格清晰可读。他穿蓝青色外衣，内是敞领白衫和深红褐背心或翻领。左边缘卷入一道华丽金雕椅背。身后巨大的青绿色石块和螺旋柱退入阴影，暗示古老厅室。老人填满左下和中央，上扬目光把视线带向较暗右上。墨线轮廓平滑却有轻重变化，内部颜色柔和绘制。额、鼻和衣领上的高光是暖奶油色，深青绿、板岩和棕影塑造环境。背景细节不如面孔准确，使表情仍是中心。场景具有传统赛璐珞动画的触感魅力：清晰剪影、柔和塑形的面颊、手绘石纹和故事书般场所感。光仿佛从上方或前方进入，照亮眼睛和头发。没有字幕、对话气泡或标题图形。",
+  "style_prompt_en": "Traditional hand-drawn cel-animation aesthetic with clean expressive contour lines, softly painted interior color, and clear readable silhouettes. Warm cream highlights enliven cool teal, slate, and blue-green shadow masses. Facial planes receive gentle modeling while surrounding forms simplify into textured broad shapes. Varied line weight and a warm focal area against a darker setting create storybook emotion and depth.",
+  "style_prompt_zh": "传统手绘赛璐珞动画美感结合干净富表现力的轮廓线、柔和填涂色彩和清晰可读剪影。暖奶油高光点亮冷青绿、板岩和蓝绿暗团。焦点平面得到温柔塑形，周围形态简化成有纹理的大块。变化线重与深环境中的暖焦区营造故事书情绪和深度。",
+  "theme_en": "An elderly animated man looking upward in an old stone room",
+  "theme_zh": "古老石室里向上望的动画老人",
+  "wh_ratio": "1:1",
+  "id": "3181",
+  "name": "Don Bluth",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/don-bluth",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "a9e1f5906983fe0031810631693eeff5b110e5a354558b861aa627dfacec8e62",
+    "gpt_submission_prompt": "A square hand-drawn animation still shows an elderly man seated inside a dim stone room, looking upward with a gentle, curious expression. His wavy silver hair frames a softly rounded face; heavy brows, a long nose, and a slightly open mouth give him readable character. He wears a teal-blue outer garment over a white open-collared shirt and a dark reddish vest or lapel. At the left edge, an ornate gold carved chair back curls into view. Behind him, enormous green-blue stone blocks and a spiral column recede into shadow, suggesting an old hall or chamber. The man fills the lower left and center, his raised gaze leading the eye into the darker upper right. Inked contours remain smooth but varied in weight, with soft painted color inside. Highlights on forehead, nose, and shirt are warm cream, while deep turquoise, slate, and brown shadows shape the environment. Background details are less exact than the face, allowing the expression to remain central. The scene has the tactile charm of traditional cel animation: clear silhouettes, gently modeled cheeks, hand-painted stone texture, and a storybook sense of place. Light appears to enter from above or ahead, catching his eyes and hair. No subtitles, speech balloon, or title graphic appears.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "f7516d57037a25d8590ec33fb62098ace4f16b1ae093e3fa40d6c2adec453f3c",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square graphic-noir illustration shows a man's face in close left profile against a flat, intense vermilion background. The red field occupies most of the left and upper frame, marked only by fine black scratches and subtle printed grain. The man's dark hair begins near the upper center and sweeps back into an almost black mass. A long nose and partly open mouth project to the left, their sharp silhouette cut from the warm ground. His raised hand sits below the face, fingers bent near the chin and lips as if caught in thought. The fingertips and knuckles are outlined with quick angular ink strokes and narrow slashes of red light. On the right half of the face, shadow swallows most internal detail; a faint cheek plane, jaw and collar emerge through densely layered black marks. At the lower center, a small triangular shape and a dark shoulder break the red into additional geometric fragments. There is no described room or horizon, only the close face, hand and graphic background. Light is implied as a hard red illumination from the left, catching the facial edge and upper fingers while leaving the interior features nearly black. The ink texture is rough and dry, with occasional fine parallel lines and scattered specks like a worn print. The overall composition makes a restrained gesture feel dramatic through severe cropping, a narrow warm color range and large dark-versus-red contrast.",
+  "full_prompt_zh": "这幅方形黑色电影气质的图形插画里，一名男子以近距离左侧脸立在平坦而强烈的朱红背景前。红色占据左侧和上方大部分画面，只有纤细黑色刮线和轻微印刷颗粒打断。男子深发从上方中央附近开始，向后卷入近乎黑色的大块量感。长鼻和微开的嘴向左探出，尖锐剪影从暖色底上切出。他抬起的手位于脸下方，弯曲手指靠近下巴与嘴唇，像陷入思索的瞬间。指尖和指节由快捷棱角墨线、狭长红光刻出。脸的右半部大多被阴影吞没；模糊的颊面、下颌与衣领从密层黑痕中浮现。下方中央，一小块三角形和深色肩部把红色进一步分成几何碎片。画中没有明确房间或地平线，只有贴近的脸、手与图形背景。光被表现为来自左侧的硬红光，照住面部边缘和上方手指，内部五官几乎全黑。墨线肌理粗糙干涩，偶有纤细平行线和散点，像磨旧的印刷品。整体构图借严厉裁切、狭窄暖色域以及大片深色和红色的对照，让克制动作显得戏剧化。",
+  "style_prompt_en": "The graphic illustration uses a restricted vermilion, charcoal and near-black palette with broad flat masses and fiercely cut silhouettes. Dry, angular ink strokes, fine hatch lines and scattered printlike specks roughen the smooth color field. Light is expressed as a hard warm edge and small internal slashes, while most volume collapses into a dense shadow shape. A close crop eliminates context and enlarges gesture and contour. Sparse geometric interruptions keep the broad red area active without competing with the focal darkness. The finish is tense and cinematic, its emotional force coming from extreme value contrast and disciplined color.",
+  "style_prompt_zh": "这种图形插画把朱红、炭色和近黑色限制成狭窄色谱，以宽阔平涂量块和切得极锋利的剪影组织画面。干涩棱角墨笔、纤细排线与散落的印刷状斑点，让平顺色域变粗糙。光由坚硬暖边和少量内部亮划表现，多数体积则压缩进密集暗形。近距离裁切剔除背景，让动作与轮廓放大。稀疏几何中断使宽阔红域保持活跃，却不与焦点暗块竞争。完成面紧张而有电影感，情绪力量来自极端明暗对照与克制配色。",
+  "theme_en": "A shadowed man's profile with a hand near his face against a red field",
+  "theme_zh": "深影中的男子侧脸把手靠近面部，背后是一片红色",
+  "wh_ratio": "1:1",
+  "id": "0559",
+  "name": "Giuseppe Cristiano",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/giuseppe-cristiano",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/giuseppe-cristiano.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "6bf14d31ec537911df4a4ffb8bda34ab260f039ea650b28c73da2d0a375d9029",
+    "gpt_submission_prompt": "A square graphic-noir illustration shows a man's face in close left profile against a flat, intense vermilion background. The red field occupies most of the left and upper frame, marked only by fine black scratches and subtle printed grain. The man's dark hair begins near the upper center and sweeps back into an almost black mass. A long nose and partly open mouth project to the left, their sharp silhouette cut from the warm ground. His raised hand sits below the face, fingers bent near the chin and lips as if caught in thought. The fingertips and knuckles are outlined with quick angular ink strokes and narrow slashes of red light. On the right half of the face, shadow swallows most internal detail; a faint cheek plane, jaw and collar emerge through densely layered black marks. At the lower center, a small triangular shape and a dark shoulder break the red into additional geometric fragments. There is no described room or horizon, only the close face, hand and graphic background. Light is implied as a hard red illumination from the left, catching the facial edge and upper fingers while leaving the interior features nearly black. The ink texture is rough and dry, with occasional fine parallel lines and scattered specks like a worn print. The overall composition makes a restrained gesture feel dramatic through severe cropping, a narrow warm color range and large dark-versus-red contrast.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "0f5f45977a2ec76496426bccc4fe9d9dc66aa936f0d614ddb03de22fb0395d3a",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

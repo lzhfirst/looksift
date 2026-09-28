@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square high-contrast black-and-white portrait fills the frame with a bearded man's face. Curly hair breaks the upper edge, a dense beard fills the lower half, and the eyes fix directly on the viewer with startling clarity. The face turns slightly, so one eye and cheek sit nearer the camera while the far side recedes into shadow. Wrinkles, skin pores, individual beard hairs, and the texture around the nose are visible without cosmetic smoothing. A plain white background occupies a narrow area at the left, letting the dark head and clothing read as a forceful silhouette. Broad soft light from the front-left reveals the brow and cheek, while strong shadows carve under the eyes, nose, and beard. The crop is severe, cutting away almost all context and placing expression at the center of the image. The tonal scale runs from nearly pure white to dense charcoal black, with fine silver grays through skin and hair. Subtle photographic grain keeps the surface physical. The image feels confrontational, vulnerable, and monumental at once. Its visual authority comes from direct gaze, close perspective, honest texture, and controlled black-and-white light rather than props, costume, or decorative background.",
+  "full_prompt_zh": "一幅方形高反差黑白肖像用一位留胡男子的面孔填满画框。卷发切过上缘，浓密胡须占据下半部，双眼以惊人的清晰度直接锁定观者。面孔略转，因此一只眼和脸颊更靠近镜头，远侧退入阴影。皱纹、毛孔、根根胡须和鼻周肌理都可见，没有化妆式磨皮。左侧一条窄窄的纯白背景使深色头部与衣装形成有力剪影。来自左前方的宽柔光显露眉额与脸颊，强影刻出眼下、鼻下和胡须层次。裁切严厉，几乎删除所有环境，把表情置于中心。明度从近纯白到密实炭黑，皮肤与头发之间有细致银灰。细微摄影颗粒使表面真实可触。画面同时有迎面而来的对峙感、脆弱感和纪念碑感。视觉力量来自直接目光、近距离透视、诚实肌理和受控黑白光，而非道具、服装或装饰背景。",
+  "style_prompt_en": "A stark black-and-white close-photography style uses severe cropping, a plain pale background, and a direct high-detail focal gaze or equivalent point of attention. Broad soft frontal-side light reveals honest surface texture, while deep charcoal shadow shapes the far side and lower mass. Fine silver middle tones preserve pores, hairs, wrinkles, and other tactile detail without retouching. One narrow white opening strengthens the dark silhouette. The entire composition is compressed around expression or physical character. Subtle grain and nearly full tonal range make the image monumental yet vulnerable. Props and setting remain minimal so human presence and light carry the frame.",
+  "style_prompt_zh": "冷峻黑白近景摄影风格使用严厉裁切、朴素浅色背景和直接而高清的焦点目光或同等注意点。宽柔前侧光显露诚实表面肌理，深炭黑阴影塑造远侧与下方深色体量。细致银色中间调保留毛孔、毛发、皱纹和其他可触细节，不磨皮。一道窄白开口加强深色剪影。整幅构图围绕表情或物理性格紧密压缩。轻微颗粒和几乎完整的明度范围使画面既纪念碑式又脆弱。道具与背景极少，人的存在与光承担画框。",
+  "theme_en": "A bearded man with piercing eyes in a stark black-and-white close-up",
+  "theme_zh": "一位留胡男子以锐利目光直视观者的冷峻黑白特写",
+  "wh_ratio": "1:1",
+  "id": "4445",
+  "name": "Platon",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/platon.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "5bed24d377c8136e96d793e4b5b18313e09d3527ace8aed551083ea5b535ab86",
+    "gpt_submission_prompt": "A square high-contrast black-and-white portrait fills the frame with a bearded man's face. Curly hair breaks the upper edge, a dense beard fills the lower half, and the eyes fix directly on the viewer with startling clarity. The face turns slightly, so one eye and cheek sit nearer the camera while the far side recedes into shadow. Wrinkles, skin pores, individual beard hairs, and the texture around the nose are visible without cosmetic smoothing. A plain white background occupies a narrow area at the left, letting the dark head and clothing read as a forceful silhouette. Broad soft light from the front-left reveals the brow and cheek, while strong shadows carve under the eyes, nose, and beard. The crop is severe, cutting away almost all context and placing expression at the center of the image. The tonal scale runs from nearly pure white to dense charcoal black, with fine silver grays through skin and hair. Subtle photographic grain keeps the surface physical. The image feels confrontational, vulnerable, and monumental at once. Its visual authority comes from direct gaze, close perspective, honest texture, and controlled black-and-white light rather than props, costume, or decorative background.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "2b15750bebc0f65dc0d30be486bad63e779a05b4a46e07fc1290eda0b41b8eec",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

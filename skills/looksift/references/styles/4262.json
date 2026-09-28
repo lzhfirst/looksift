@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square Art Nouveau ink illustration shows a solitary woman seated on a low stone step beneath a huge black arch. The figure rests toward the lower left, her head bowed toward a delicate sprig held in one hand. Her long dark garment pools into an elegant shape on the ground, while the arch curves across the upper half like a bold black crescent. Fine flower clusters and trailing leaves ornament the arch in crisp white and black line. Beyond it, large areas of untouched white paper remain open; only a few fallen blossoms and thin ground marks break that field. Minimal, precise lines describe the face and hands, giving her attitude a tender inwardness. Flat black masses, narrow ornamental contours, and tiny stippled details leave almost no middle gray. The composition depends on a dramatic exchange of positive and negative shapes: a heavy dark canopy above and a quiet white expanse to the right. A column at the far left gives the scene a measured architectural edge without competing with the broad abstract curve. The small flowers make the solid black arch feel intricate and alive. The figure's bowed posture provides a gentle human scale within the sweeping dark geometry. The whole frame retains the antique print feel, graceful curve, and restrained melancholy of an early twentieth-century book illustration.",
+  "full_prompt_zh": "一幅方形新艺术风格墨绘插画呈现一位独处的女子，她坐在巨大黑色拱形下的矮石阶上。人物位于左下方，低头看着手中的一小枝花。长而深色的衣裙在地面铺成优雅形状，拱顶如一弯大胆的黑色新月横跨画面上半部。细小花簇与垂落叶片装饰拱周，以清晰黑白线条描绘。拱外保留大片未着墨的白纸；只有少量落花和细细地面笔迹打破留白。面孔与手由极少却准确的线条表现，姿态温柔而内向。平涂黑块、纤细装饰轮廓和微小点描之间几乎没有中间灰。构图建立在黑白正负形的戏剧性交换上：上方是沉重暗色拱顶，右侧是安静的白色空间。最左边的柱子赋予场景有节度的建筑边界，却不与宽阔抽象弧线争夺注意。小花使实心黑拱显得精细而有生命。女子低头的姿态为横扫画面的暗色几何提供温柔的人物尺度。整幅画面保留二十世纪早期书籍插画的古印刷感、优雅曲线和克制的忧郁。",
+  "style_prompt_en": "Use a black-and-white decorative ink print style with strong flat silhouettes and fine Art Nouveau linework. Organize the frame around one broad sweeping curve that shelters a small, carefully detailed focal form, while leaving a very large untouched white field. Lace the dark boundary with tiny botanical or ornamental marks, stipple, and crisp negative-space details. Keep midtones scarce; let pure black and pure paper white do most of the work. Favor poised asymmetry, graceful arcs, and precise restrained contour over modeling or painterly shading. The mood should be antique, lyrical, and quietly introspective.",
+  "style_prompt_zh": "采用黑白装饰性墨印风格，以强烈平涂剪影和纤细新艺术线条构成画面。围绕一道宽阔的弧线组织构图，让它庇护一个精细而较小的焦点形态，同时保留大面积未着墨的白纸。用细小的植物或装饰笔迹、点描及清晰的负形细节修饰暗色边界。中间灰要少，主要由纯黑和纸白发挥作用。重视稳妥的不对称、优美弧线与克制准确的轮廓，弱化体积塑造和绘画性阴影。气氛古雅、抒情、安静内省。",
+  "theme_en": "A solitary seated woman beneath a black floral arch in an Art Nouveau ink plate",
+  "theme_zh": "黑色花拱下独坐的女子，新艺术风格墨绘插页",
+  "wh_ratio": "1:1",
+  "id": "4262",
+  "name": "Aubrey Beardsley",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/aubrey-beardsley.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "238051d743c563a575707d438c840588c85c42e386f6b3f1b053bbe6481f3aa1",
+    "gpt_submission_prompt": "A square Art Nouveau ink illustration shows a solitary woman seated on a low stone step beneath a huge black arch. The figure rests toward the lower left, her head bowed toward a delicate sprig held in one hand. Her long dark garment pools into an elegant shape on the ground, while the arch curves across the upper half like a bold black crescent. Fine flower clusters and trailing leaves ornament the arch in crisp white and black line. Beyond it, large areas of untouched white paper remain open; only a few fallen blossoms and thin ground marks break that field. Minimal, precise lines describe the face and hands, giving her attitude a tender inwardness. Flat black masses, narrow ornamental contours, and tiny stippled details leave almost no middle gray. The composition depends on a dramatic exchange of positive and negative shapes: a heavy dark canopy above and a quiet white expanse to the right. A column at the far left gives the scene a measured architectural edge without competing with the broad abstract curve. The small flowers make the solid black arch feel intricate and alive. The figure's bowed posture provides a gentle human scale within the sweeping dark geometry. The whole frame retains the antique print feel, graceful curve, and restrained melancholy of an early twentieth-century book illustration.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "bff82de4533275ae740840b705dd6fad4b54a2e8b00b9059e9eeadafa98dafbd",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

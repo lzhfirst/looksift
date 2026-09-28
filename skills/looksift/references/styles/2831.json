@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A close studio photograph shows a young woman turned slightly to her left, looking back toward the camera. Chestnut brown hair falls in loose waves around her cheeks and shoulders, with short uneven bangs crossing her forehead. A gold hoop earring catches a small muted highlight beside her right cheek. Her face fills most of the frame: grey-brown eyes, fine freckles across her nose, softly colored lips, and natural pink warmth in the cheeks are visible without harsh sharpening. A pale grey garment appears only at the lower right. Broad, diffused light reaches her face from the left front, gently rolling from the bright cheek and nose into the darker side of her jaw. Shadow gathers beneath the chin and within the hair, but its edges remain gradual. The muted charcoal background offers no distinct features and merges with the dark hair at the frame margins. Photographic texture is smooth yet still shows pores, tiny freckles, and separate strands. The crop is intimate, with the head rising beyond the top edge and little open space around it. A soft gradient of light across the face and a quiet field of dark neutrals hold the whole image together.",
+  "full_prompt_zh": "一幅近距离摄影棚照片中，年轻女子微微向左转身，回望镜头。栗棕色头发以松散波浪垂在脸颊和肩头，短而不齐的刘海横过额前。右颊旁的金色圆环耳饰接住一点柔和亮光。面部几乎占满画幅：灰棕色眼睛、鼻梁上的细小雀斑、柔和的唇色和颊部自然粉色都可见，却没有生硬锐化。浅灰色衣料只在右下角露出一小块。宽阔而漫射的光从左前方照向面部，从明亮的脸颊和鼻梁缓缓过渡到下颌另一侧的暗部。阴影聚在下巴下方及发间，但边界平缓。低饱和的炭灰背景没有具体物象，靠边缘处和深色头发相融。摄影表面平滑，仍保留毛孔、雀斑与分开的发丝。取景亲近，头顶越过上缘，周围空白不多。面部缓慢流动的明暗与安静的深色中性色面将整张照片连成一体。",
+  "style_prompt_en": "A close photographic treatment favors broad, diffused illumination and gently graduated shadows. Warm muted midtones occupy the central lighted area, while dark brown and charcoal values surround it without abrupt borders. The surface is smooth but retains small natural irregularities and fine linear marks, which appear clearly only where the light reaches them. Edges in the focal plane stay distinct; farther edges disappear gradually into the plain dark field. There is little empty depth and no visible horizon. The composition places a large softly lit form near the frame limits, so attention circulates across subtle shifts in brightness rather than strong geometric contrast. A few small metallic reflections punctuate the matte tones. The restrained palette, gradual falloff, and intimate crop give the image a calm, compressed spatial rhythm.",
+  "style_prompt_zh": "近距离摄影处理偏向宽阔的漫射照明和缓慢递进的阴影。温暖而低饱和的中间调占据中央受光区域，深棕色与炭灰色环绕四周，没有突兀分界。表面平滑，但保留微小的自然起伏和细线痕迹，只有受光处较为清楚。焦点平面上的边缘明确，远处边缘逐渐消失在单纯的暗色底面里。画内纵深很浅，没有可见地平线。较大的柔光形体靠近画框边缘，注意力沿细小明度变化循环，而不依赖强烈几何对比。少量金属反光点缀哑光色调。克制的色域、渐暗的光和亲近的裁切，使画面形成安静而紧凑的空间节奏。",
+  "theme_en": "A softly lit close portrait of a woman with chestnut hair",
+  "theme_zh": "栗色头发女子的柔光近景肖像",
+  "wh_ratio": "1:1",
+  "id": "2831",
+  "name": "Portrait shot with soft lighting",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/portrait-shot-with-soft-lighting",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/portrait-shot-with-soft-lighting.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "a6884bcb9f8697471e1f9d81132e5192aff1ca7623d145c2b41b47ddd95c5b1b",
+    "gpt_submission_prompt": "A close studio photograph shows a young woman turned slightly to her left, looking back toward the camera. Chestnut brown hair falls in loose waves around her cheeks and shoulders, with short uneven bangs crossing her forehead. A gold hoop earring catches a small muted highlight beside her right cheek. Her face fills most of the frame: grey-brown eyes, fine freckles across her nose, softly colored lips, and natural pink warmth in the cheeks are visible without harsh sharpening. A pale grey garment appears only at the lower right. Broad, diffused light reaches her face from the left front, gently rolling from the bright cheek and nose into the darker side of her jaw. Shadow gathers beneath the chin and within the hair, but its edges remain gradual. The muted charcoal background offers no distinct features and merges with the dark hair at the frame margins. Photographic texture is smooth yet still shows pores, tiny freckles, and separate strands. The crop is intimate, with the head rising beyond the top edge and little open space around it. A soft gradient of light across the face and a quiet field of dark neutrals hold the whole image together.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "c5e610900e21729a86189533b77b2c1109711814b39cbc3f8ce1f210b62e94ca",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

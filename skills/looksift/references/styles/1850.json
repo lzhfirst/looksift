@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square, muted photograph shows a lone standing figure in an open, fog-filled field. The figure is centered low in the frame and faces the camera directly. A gray jacket hangs over dark trousers and sturdy dark shoes. Each lowered hand holds a rectangular brown suitcase, making the body almost symmetrical. Instead of a visible head, a small dark wooden structure sits across the shoulders: two adjoining peaked roofs and two round warm-glowing openings facing forward. The softly lit circles suggest windows or lamps, but no face is visible inside them. Dry grass and thin weed stalks edge the lower part of the image, especially on the right; the ground is flat, rough, and brown. Beyond a short distance, dense gray mist erases any recognizable horizon or background landmark. The figure remains fully visible but subdued, with edges that soften into the haze. The upper half of the frame is mostly empty gray air, giving the solitary person unusual smallness and stillness. Light is diffuse and cool, without clear cast shadows. The only strong warmth comes from the amber circles and the brown cases. Fine grain and a desaturated gray-brown palette give the scene a weathered photographic surface. The composition depends on frontal alignment, nearly equal weights in both hands, an uncanny replacement of the head, and the large blank fog surrounding it.",
+  "full_prompt_zh": "一幅方形、色彩低调的照片呈现浓雾旷野中独自站立的人。人物位于画面较低的中央，正面面对镜头。灰色外套垂在深色长裤和结实的深色鞋子上。两只垂下的手各提一个长方形棕色手提箱，身体因此几乎对称。原本可见头部的位置，在肩上立着一座小小的深色木质结构：两个相连的尖顶，以及朝前的两个温暖发光圆孔。柔光圆形像窗或灯，但内部看不到面孔。干草与细瘦杂草茎围住画面下部，右侧尤为明显；地面平坦、粗糙而棕暗。稍远处，浓重灰雾抹去了可辨的地平线和背景地标。人物仍完全可见，却受到压暗，边缘渐渐融入薄雾。上半幅大多是空白灰空气，使独行者显得格外渺小而静止。光线冷而漫散，没有明确投影。唯一明显的暖意来自琥珀色圆孔和棕色箱子。细颗粒与去饱和的灰棕色盘赋予画面磨旧的摄影表面。构图依靠正面排列、双手近乎等重的物体、头部的奇异替换，以及四周大片空白浓雾。",
+  "style_prompt_en": "Use a desaturated, fog-softened photographic look with low contrast, fine grain, and subtle weathered texture. Let a small central silhouette sit below a great expanse of empty gray atmosphere. Frontal balance and simple repeated forms create a measured stillness, while one precise surreal substitution introduces unease. Diffuse cool light removes hard shadows and lets distant edges disappear gradually into mist. Restrict color to gray, brown, and faint olive, then use tiny warm amber points as the strongest accents. Clothing, props, or surfaces may hold understated worn detail, but surrounding space should remain spare. The transferable effect is lonely and quietly uncanny, built from scale, symmetrical weight, obscured depth, and a restrained warm light within a cold field.",
+  "style_prompt_zh": "使用去饱和、被雾柔化的摄影外观，低反差、细颗粒和轻微磨旧的表面质感。让小型中央剪影落在大片空白灰色空气之下。正面平衡与简单重复形状建立有分寸的静止感，一处准确的超现实替换则带入不安。冷色散射光消除硬影，使远处边缘逐渐消失在雾中。色盘限制在灰、棕和微弱橄榄色，再以极少的琥珀暖点作为最强重点。衣料、道具或表面可以保留低调的磨损细节，周围空间则保持稀疏。可迁移的效果是孤独而悄然诡异，由尺度、对称重量、被遮蔽的纵深及冷色场中的克制暖光构成。",
+  "theme_en": "A traveler with a house-shaped head carries two cases through fog",
+  "theme_zh": "一名房屋形头部的旅人提着两只箱子穿过浓雾",
+  "wh_ratio": "1:1",
+  "id": "1850",
+  "name": "Nicolas Bruno",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/nicolas-bruno",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/nicolas-bruno.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "55fb19d0a59f313538f3feae7926ba7312b84a5769e89de510fc1f76a9c47a2d",
+    "gpt_submission_prompt": "A square, muted photograph shows a lone standing figure in an open, fog-filled field. The figure is centered low in the frame and faces the camera directly. A gray jacket hangs over dark trousers and sturdy dark shoes. Each lowered hand holds a rectangular brown suitcase, making the body almost symmetrical. Instead of a visible head, a small dark wooden structure sits across the shoulders: two adjoining peaked roofs and two round warm-glowing openings facing forward. The softly lit circles suggest windows or lamps, but no face is visible inside them. Dry grass and thin weed stalks edge the lower part of the image, especially on the right; the ground is flat, rough, and brown. Beyond a short distance, dense gray mist erases any recognizable horizon or background landmark. The figure remains fully visible but subdued, with edges that soften into the haze. The upper half of the frame is mostly empty gray air, giving the solitary person unusual smallness and stillness. Light is diffuse and cool, without clear cast shadows. The only strong warmth comes from the amber circles and the brown cases. Fine grain and a desaturated gray-brown palette give the scene a weathered photographic surface. The composition depends on frontal alignment, nearly equal weights in both hands, an uncanny replacement of the head, and the large blank fog surrounding it.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "a7ca5bab7a41f7939bf5a001036d00aa313dc775969dad555d7f0e085197d248",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

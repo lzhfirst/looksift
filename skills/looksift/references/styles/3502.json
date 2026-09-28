@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "The square image is an intricate fantasy painting in which the large head of a lion emerges from an enchanted valley. The lion occupies the left and central foreground, turned slightly toward the right, with clear amber eyes, a softly modeled muzzle and dense golden-brown fur that blends into surrounding leaves. Its face is calm and alert rather than aggressive. Around the head, layers of tiny flowers, curling vines, fernlike leaves and jeweled botanical details fill almost every available space. A dark, ornate arch of branches and scroll-like growth spans the top, creating a natural frame around a luminous opening in the distance. Through that opening, a narrow turquoise stream winds from a pale waterfall toward the lower center, passing clusters of pink and purple flowers. Farther back, small warm-lit structures and a misty grove are suggested through the foliage. The picture moves from very dark blue-green corners into a glowing gold and aqua center; sparks of violet, rose, orange and pale mint scatter through the dense vegetation. Fur, petals and vines are rendered with minute luminous strokes, and some edges dissolve into one another so the animal and landscape appear woven together. Light is layered rather than singular: a diffused inner glow illuminates the passage of water, while small points of light glitter among the plants. The overall effect is abundant, jewel-toned and immersive, with a strong readable focal face amid elaborate decorative detail and dreamlike depth.",
+  "full_prompt_zh": "正方形画面是一幅细密的幻想绘画，一只巨大的狮首从魔法山谷里浮现。狮子占据左侧和中央前景，略向右转，琥珀色眼睛清楚，吻部柔和塑造，浓密金棕色皮毛与周围叶片融为一体。神情平静而警觉，并不凶猛。狮首周围层层细小花朵、卷曲藤蔓、蕨状叶与宝石般的植物细节几乎填满所有空间。深色华丽的枝条与卷草拱架横跨上方，为远处的发光洞口构成天然边框。透过洞口，一条狭窄青绿溪流从浅色瀑布弯向下方中央，经过粉紫花丛。更远处，暖光小建筑和雾中的树林从叶片之间隐约显露。画面从深蓝绿角落走向金色和水蓝色的发光中心，紫、玫红、橙与淡薄荷色星点散布在繁密植被里。皮毛、花瓣和藤蔓由细小发光笔触描绘，部分边缘相互消融，动物与风景仿佛织成一体。光线具有多层来源：柔和内部亮光照亮水道，小光点在植物间闪烁。整体丰沛、宝石色浓郁、包围感强，强烈可读的面部焦点立在精密装饰细节和梦境纵深之中。",
+  "style_prompt_en": "Intricate fantasy painting layers minute luminous marks, interwoven organic contours, soft edge dissolves and deep jewel-toned color. Blue-green shadows open toward a glowing aqua and gold center, while violet, rose and orange accents sparkle at many scales. Dense decorative detail remains organized around a readable focal mass, and diffused inner light gives the square composition immersive depth.",
+  "style_prompt_zh": "细密幻想绘画层叠微小发光笔触、交织的有机轮廓、柔和消融的边缘和深宝石色。蓝绿阴影向发亮的水蓝与金色中心展开，紫、玫红和橙色亮点以不同尺度闪烁。繁密装饰细节围绕清晰的视觉中心组织，内部漫射光赋予正方形画面包围式纵深。",
+  "theme_en": "A lion's head emerging from an enchanted flowering valley",
+  "theme_zh": "狮首从繁花魔法山谷中浮现",
+  "wh_ratio": "1:1",
+  "id": "3502",
+  "name": "Josephine Wall",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/josephine-wall",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "b61ab343300f00b491b77f58523c497a73743dd1c36f57ef0bc41a3171ee3675",
+    "gpt_submission_prompt": "The square image is an intricate fantasy painting in which the large head of a lion emerges from an enchanted valley. The lion occupies the left and central foreground, turned slightly toward the right, with clear amber eyes, a softly modeled muzzle and dense golden-brown fur that blends into surrounding leaves. Its face is calm and alert rather than aggressive. Around the head, layers of tiny flowers, curling vines, fernlike leaves and jeweled botanical details fill almost every available space. A dark, ornate arch of branches and scroll-like growth spans the top, creating a natural frame around a luminous opening in the distance. Through that opening, a narrow turquoise stream winds from a pale waterfall toward the lower center, passing clusters of pink and purple flowers. Farther back, small warm-lit structures and a misty grove are suggested through the foliage. The picture moves from very dark blue-green corners into a glowing gold and aqua center; sparks of violet, rose, orange and pale mint scatter through the dense vegetation. Fur, petals and vines are rendered with minute luminous strokes, and some edges dissolve into one another so the animal and landscape appear woven together. Light is layered rather than singular: a diffused inner glow illuminates the passage of water, while small points of light glitter among the plants. The overall effect is abundant, jewel-toned and immersive, with a strong readable focal face amid elaborate decorative detail and dreamlike depth.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "acae056a1be1c104a249c713bc9d8021c31c31ca3e5b7dadce6c0ea710d11575",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

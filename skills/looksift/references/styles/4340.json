@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square whimsical painting depicts a small figure in a red coat and black top hat walking along a dark stone wall beside a thin black dog. Both are seen in profile from a distance, moving toward the right. The dog sits or pauses upright with an elongated neck, ears pricked, and a narrow snout. Their silhouettes stand out against a wide hazy yellow-green sky. Behind them, two simple blue-gray town buildings rise at different depths. The larger one on the right has a dark roof, small chimneys, several tiny windows with soft yellow light, and a low iron fence. A leafless tree climbs past this house, its fine branches reaching into the upper right. A second lower building sits far left, almost as a flat block. The wall continues from the left toward a short set of steps on the right. Below it, a pale pavement and road form quiet horizontal bands along the bottom edge. The scene has generous empty space and a dreamlike absence of traffic or other pedestrians. Surfaces look rubbed and old, with tiny dark specks, mottled washes, and fine sketchy line work. The palette is muted olive, ocher, smoke blue, charcoal, and one small brick-red coat accent. Flat areas and delicate ink lines coexist; the buildings are simplified but not geometrically sterile. No text or signage appears. The mood is gentle, lonely, and faintly humorous, as if a small everyday walk had been transformed into an illustrated fable.",
+  "full_prompt_zh": "一幅方形奇趣绘画呈现一名穿红外套、戴黑高帽的小人物与一只细长黑狗沿深色石墙行走。两者从远处侧看，向右移动。狗直立地坐着或暂停，脖子很长，耳朵竖起，口鼻狭长。剪影映在宽阔朦胧黄绿色天空前。身后两栋简洁蓝灰小镇建筑处于不同纵深。右侧较大一栋带深屋顶、小烟囱、数扇泛柔黄光的小窗及低铁栏。一棵落叶树沿屋旁升起，细枝伸向右上。左远处另有较低房子，近乎平面色块。石墙从左延向右侧一小组阶梯，下方浅色人行道与道路在底边形成安静水平带。画面有充足空处，梦似地没有车或其他路人。表面像经擦磨而旧，带细深斑点、斑驳水洗与纤细速写线。色板低调，以橄榄色、赭黄、烟蓝、炭黑和唯一小片砖红衣服重音为主。平涂区域与细墨线共存，建筑简化却不机械。没有文字或标牌。气氛温柔、孤独且略带幽默，仿佛一次日常小散步变成了插画寓言。",
+  "style_prompt_en": "Use whimsical narrative painting with small simplified silhouettes set against broad mottled space. Keep the palette subdued: yellowed olive, ocher, blue-gray, charcoal, and one modest red accent. Build scenery from flat, slightly irregular shapes, then add delicate scratchy ink lines for branches, railings, seams, and edges. Leave generous empty atmosphere around the focal marks so scale and quiet become part of the composition. Apply aged-paper specks, rubbing, and translucent washes without making the surface muddy. Let thin verticals and low horizontal bands create calm rhythm. The effect is gentle, lonely, and faintly humorous, with a hand-drawn storybook quality and understated visual detail.",
+  "style_prompt_zh": "采用奇趣叙事绘画，把小而简化的剪影置于宽阔斑驳空间前。色板保持低调：泛黄橄榄色、赭黄、蓝灰、炭黑及一小处红色重音。场景由平而略不规则的形状建起，再用纤细刮擦感墨线添枝条、栏杆、接缝与边缘。焦点记号周围留充足空气，使尺度与安静成为构图一部分。使用旧纸斑点、擦痕和透明水洗，而不让表面混浊。细竖线与低水平带形成平缓节律。效果温柔、孤独且带微妙幽默，具有手绘故事书质感与克制视觉细节。",
+  "theme_en": "A small red-coated walker and a black dog on a quiet town wall",
+  "theme_zh": "安静小镇矮墙上一位红衣行人与黑狗",
+  "wh_ratio": "1:1",
+  "id": "4340",
+  "name": "Sam Toft",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/sam-toft.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "1734c26a238c21748a77c9a325309002d64156544d732414b35ac73385817927",
+    "gpt_submission_prompt": "A square whimsical painting depicts a small figure in a red coat and black top hat walking along a dark stone wall beside a thin black dog. Both are seen in profile from a distance, moving toward the right. The dog sits or pauses upright with an elongated neck, ears pricked, and a narrow snout. Their silhouettes stand out against a wide hazy yellow-green sky. Behind them, two simple blue-gray town buildings rise at different depths. The larger one on the right has a dark roof, small chimneys, several tiny windows with soft yellow light, and a low iron fence. A leafless tree climbs past this house, its fine branches reaching into the upper right. A second lower building sits far left, almost as a flat block. The wall continues from the left toward a short set of steps on the right. Below it, a pale pavement and road form quiet horizontal bands along the bottom edge. The scene has generous empty space and a dreamlike absence of traffic or other pedestrians. Surfaces look rubbed and old, with tiny dark specks, mottled washes, and fine sketchy line work. The palette is muted olive, ocher, smoke blue, charcoal, and one small brick-red coat accent. Flat areas and delicate ink lines coexist; the buildings are simplified but not geometrically sterile. No text or signage appears. The mood is gentle, lonely, and faintly humorous, as if a small everyday walk had been transformed into an illustrated fable.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "a968e735ad22f5085792639d19f4d65b04e925285a7cdd8bc51b196b0023d1ae",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

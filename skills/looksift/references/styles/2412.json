@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square graphic landscape shows two black leafless trees on a narrow raised bank before an immense concentric red sun. The upper half is filled by circular strokes that tighten toward a brilliant red-orange center and darken into black and maroon at the outer edge. A small pale circular disc appears low within this red glow, partly behind the trees. Their branching crowns are dense and black, and the trunks stand close together on a flat dark ridge. On either side, steep gray rock forms rise from the lower frame, their layered engraved marks curling toward the center. Between them, a vivid red channel runs from the horizon through the lower middle, widening toward the foreground. Black banks interrupt the channel with sharply cut silhouettes. The rocks are not smoothly shaded; countless narrow curved lines and stippled marks build their grain, while the red sky uses repeated sweeping arcs. White and pale gray appear in small bands along the rock edges and around the inner disc, making the dark trees stand out. The scene has almost no conventional perspective, yet the narrowing channel and staggered rock faces lead deep into the center. Light seems to radiate from the red circular field, while the rocks and trees remain starkly backlit. The overall composition is stark and apocalyptic, using repeated curves, rough monochrome texture, and one overwhelming red area to focus attention on the tiny tree silhouettes.",
+  "full_prompt_zh": "这是一幅方形图形风景，两棵黑色落叶树站在窄窄的抬高河岸上，身后是一轮巨大的同心红日。上半部充满圆形笔痕，向明亮红橙中心收紧，到外缘则加深为黑与栗红。一个小浅色圆盘位于这片红光的低处，部分藏在树后。树冠浓密且乌黑，两根树干相近地立在平整深色山脊上。两侧陡峭灰岩从画面下方升起，层叠雕刻般痕迹向中央卷曲。其间，一条鲜红水道从地平线穿过下方中部，向前景变宽。黑色河岸以锐利剪影打断水道。岩石并不平滑塑形；无数细窄弯线与点刻构成颗粒，红色天空则用重复扫掠弧线描绘。石边和内侧小圆盘附近有少量白与浅灰，使深树清楚显出。场景几乎没有传统透视，但逐渐变窄的水道与错落岩面引向中央深处。光似乎从红色圆域向外放射，岩石与树木则形成强烈逆光。整体构图严峻而末日感强，以重复曲线、粗糙黑白肌理和一片压倒性的红色聚焦小小树影。",
+  "style_prompt_en": "The graphic treatment relies on a near-monochrome field of black, white, and engraved gray disrupted by a single saturated red-orange mass. Countless close curved lines form concentric movement, while narrow hatch marks and stipple make dark surfaces rough and tactile. Small crisp silhouettes interrupt the broad radial field, giving the composition a clear focal scale. Edges are hard between the major color areas, but fine internal marks keep them from feeling flat. A central glow radiates outward in successive rings and leaves peripheral forms sharply backlit. The spatial organization is shallow and symbolic, with a narrow channel or gap drawing the eye inward. The overall effect is austere, forceful, and hypnotic.",
+  "style_prompt_zh": "这种图形处理依靠黑、白和雕刻灰构成的近单色场域，由一块饱和红橙色团块打断。无数紧密弯线形成同心运动，细窄排线与点刻使深色表面粗糙可触。小而锐利的剪影打断宽阔放射色域，让构图获得清楚焦点尺度。主要色域之间边缘坚硬，内部细痕却防止它们显得平板。中央光辉以连续圆环向外辐射，使外围形体形成强逆光。空间组织浅而具有象征性，细窄通道或空隙将视线向内带。整体效果严峻、有力且催眠般重复。",
+  "theme_en": "Two black trees before a vast red concentric sun above a red channel",
+  "theme_zh": "红色水道上方，两棵黑树立在巨大的同心红日之前",
+  "wh_ratio": "1:1",
+  "id": "2412",
+  "name": "Stanley Donwood",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/stanley-donwood",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/stanley-donwood.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "372a022e1dc59355a31ec7d13d8b730da5550ca61b7620f9c9f2b4963c0bbec2",
+    "gpt_submission_prompt": "A square graphic landscape shows two black leafless trees on a narrow raised bank before an immense concentric red sun. The upper half is filled by circular strokes that tighten toward a brilliant red-orange center and darken into black and maroon at the outer edge. A small pale circular disc appears low within this red glow, partly behind the trees. Their branching crowns are dense and black, and the trunks stand close together on a flat dark ridge. On either side, steep gray rock forms rise from the lower frame, their layered engraved marks curling toward the center. Between them, a vivid red channel runs from the horizon through the lower middle, widening toward the foreground. Black banks interrupt the channel with sharply cut silhouettes. The rocks are not smoothly shaded; countless narrow curved lines and stippled marks build their grain, while the red sky uses repeated sweeping arcs. White and pale gray appear in small bands along the rock edges and around the inner disc, making the dark trees stand out. The scene has almost no conventional perspective, yet the narrowing channel and staggered rock faces lead deep into the center. Light seems to radiate from the red circular field, while the rocks and trees remain starkly backlit. The overall composition is stark and apocalyptic, using repeated curves, rough monochrome texture, and one overwhelming red area to focus attention on the tiny tree silhouettes.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "cbf961cca2ace42c3f374594269c322a6d1881782e6e876500413e067ae77e6c",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

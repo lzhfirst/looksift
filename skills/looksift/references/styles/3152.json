@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "An ornate fantasy illustration shows a young woman in left-facing profile amid curling branches and white birds. Her russet hair streams backward in finely drawn waves beneath a blue-grey patterned head wrap. She wears a muted green garment with delicate gold tracery. One white bird extends its beak toward her face at left, while another spreads a feathered wing across the lower foreground. Ochre leaves punctuate the surrounding dark foliage, and a circular arch behind her head gives the composition a quiet ceremonial frame. The scene is dense with ornament, but the profile stays calm and clearly legible.\n\nThe image combines precise ink contour with restrained watercolor and gouache-like color. Fine parallel lines describe feathers, hair, leaves, and decorative textile; muted teal, moss green, warm ochre, cream, and brown keep the palette natural and aged. The paper-like ground is warm rather than stark white, and darker branching forms create layered depth without realistic atmospheric blur. Light is soft and even, illuminating the face and feathers while allowing small shadow accents in the foliage. Curving lines repeat across the hair, wing, branches, and arch, creating a woven rhythm. The hand-illustrated, bookplate-like surface has intricate but disciplined detail. The mood is gentle, mythic, and reflective. No readable lettering appears in the image.",
+  "full_prompt_zh": "一幅华丽的奇幻插画描绘一位年轻女子向左侧身，置于卷曲枝条和白鸟之间。她的赤褐色头发在蓝灰色图案头巾下向后流动，由细密线条描出。她穿暗绿色衣物，带精细金色纹线。一只白鸟从左侧把喙伸向她的脸，另一只在下方前景展开羽翼。赭黄叶片点在周围深色叶丛中，头后的圆形拱线为构图提供安静的仪式性框架。场景装饰密集，但侧脸仍平静且清晰可辨。\n\n图像将精准墨线轮廓与节制的水彩和水粉式色彩结合。细密平行线描写羽毛、头发、叶片与装饰织纹；暗青绿、苔绿、暖赭黄、乳白和褐色让色谱自然且带旧感。纸样底色是温暖的，而非刺眼的纯白；较暗的分枝形状建立层次深度，却不用真实的空气模糊。光柔和而均匀，照亮面容与羽毛，并容许叶丛中有小块阴影重音。弯曲线条在头发、翅膀、枝条和拱形中重复，形成编织般的节奏。手绘藏书票般的表面具有复杂但有纪律的细节。情绪温柔、神话化且沉思。图像没有可辨认文字。",
+  "style_prompt_en": "Precise ink contours weave through restrained watercolor and gouache-like areas of muted teal, moss green, ochre, cream, and brown. Fine parallel lines make soft and fibrous surfaces feel intricate without losing their broader shape. A warm paper ground supports darker branching layers and a circular structural curve. Soft, even light leaves pale regions luminous, with small shadow accents held in the surrounding pattern. Curved lines recur throughout, making an interlaced rhythm of flowing strands, fanning forms, tapered shapes, and arcs. Ornament is dense but disciplined; a calm light shape remains clearly readable within it. The surface recalls a hand-illustrated bookplate, aged and tactile, gently mythic rather than glossy or photographic.",
+  "style_prompt_zh": "精准墨线在暗青绿、苔绿、赭黄、乳白与褐色的节制水彩及水粉式色面中交织。细密平行线让柔软和纤维状表面显得复杂，却不丢失较大的形。暖纸色底承托较暗的分枝层次和一道圆形结构曲线。柔和均匀的光使浅色部分明亮，小块阴影重音留在周围纹样之中。弯线在各处反复，令流动的丝状线、扇展的形、尖细形与弧线形成交织节奏。装饰繁密却有纪律，一块安静的亮形仍在其中清晰可辨。表面令人想起手绘藏书票，陈旧而可触，神话气息温柔，并非光亮或照片式。",
+  "theme_en": "A woodland messenger among white birds and autumn leaves",
+  "theme_zh": "白鸟与秋叶间的林地信使",
+  "wh_ratio": "1:1",
+  "id": "3152",
+  "name": "Rebecca Guay",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/rebecca-guay",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "f95ca069f2c79e7fb7d27eb9f5eb3e92dca6cf0d5af4fc0988e1f2abdd65e2c0",
+    "gpt_submission_prompt": "An ornate fantasy illustration shows a young woman in left-facing profile amid curling branches and white birds. Her russet hair streams backward in finely drawn waves beneath a blue-grey patterned head wrap. She wears a muted green garment with delicate gold tracery. One white bird extends its beak toward her face at left, while another spreads a feathered wing across the lower foreground. Ochre leaves punctuate the surrounding dark foliage, and a circular arch behind her head gives the composition a quiet ceremonial frame. The scene is dense with ornament, but the profile stays calm and clearly legible.\n\nThe image combines precise ink contour with restrained watercolor and gouache-like color. Fine parallel lines describe feathers, hair, leaves, and decorative textile; muted teal, moss green, warm ochre, cream, and brown keep the palette natural and aged. The paper-like ground is warm rather than stark white, and darker branching forms create layered depth without realistic atmospheric blur. Light is soft and even, illuminating the face and feathers while allowing small shadow accents in the foliage. Curving lines repeat across the hair, wing, branches, and arch, creating a woven rhythm. The hand-illustrated, bookplate-like surface has intricate but disciplined detail. The mood is gentle, mythic, and reflective. No readable lettering appears in the image.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "64ca6302ac65b5bc3e92ced5108fcdd2c85e7b039b3131ebaf7df54d8925a34f",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

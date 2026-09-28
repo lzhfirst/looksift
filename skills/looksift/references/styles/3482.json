@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A quiet, ominous landscape image has muted photographic realism. A tiny lone traveler walks away from the viewer along a faint track through a rocky brown-gray plain. Ahead, a colossal narrow Gothic-like tower rises from the center of the valley, but its lower walls and pointed upper forms are partially swallowed by a heavy bank of smoke-colored cloud. Dark slopes on both sides frame the structure, with a broad low foreground strewn with scattered stones. The tower's vertical edges and faint window openings emerge only where the fog thins, leaving much of its architecture indistinct. A pale break in the clouds behind and to the upper right provides the only strong illumination, turning the mist luminous near the tower while the near ground stays subdued and cold. Scale is essential: the traveler is no more than a small dark stroke against the vast empty terrain and hovering mass. The restrained palette consists of ash gray, dusty brown, near-black blue and a little ivory light. Soft gradients of haze, very fine grain, low contrast in the distance, and rough, tactile rock detail underfoot establish the atmosphere. The horizon becomes indistinct as fog and land merge. The square composition pulls the eye from the faint path to the human figure and upward into the half-seen spire, conveying isolation, awe and uncertainty without added effects or decorative symbols.",
+  "full_prompt_zh": "一幅色彩克制、近似摄影写实的风景，气氛安静而不祥。一个极小的独行旅人背向观众，沿着棕灰色岩石平原上的浅淡小径前进。前方谷地中央耸立一座巨大的狭长哥特式高塔，然而塔身下部与尖顶局部都被厚重烟灰色云雾吞没。两侧暗色山坡框住建筑，前景留出宽阔低地，散布零星石块。塔的竖直边缘和模糊窗洞只在雾较薄处显现，大部分建筑细节仍不清晰。塔后偏右上方云层中的浅色裂口是唯一较强光源，令塔旁雾气发亮，而近处地面保持寒冷低调。尺度反差明显：旅人只是巨大空地和悬浮体量前的一小笔暗痕。色彩限制在灰烬色、蒙尘棕、近黑蓝和少量象牙白光。柔和雾气渐层、极细颗粒、远处低对比以及脚下粗糙可触的岩石细节共同形成画面气氛。雾与土地融合，使地平线不稳定。正方形构图从微弱道路引导到人影，再向上进入半隐的尖塔；没有额外特效或装饰符号，画面表现孤独、敬畏与不确定。",
+  "style_prompt_en": "Atmospheric dark realism combines monumental scale, muted ash and earth colors, soft haze gradients, subdued distant contrast, tactile rough foreground texture, and faint photographic grain. A small dark accent establishes scale beneath a partly hidden vertical mass. Pale diffused light gives subtle direction, while boundaries between solid forms and mist remain ambiguous across the square frame.",
+  "style_prompt_zh": "大尺度的氛围化暗色写实，灰烬与土色克制，雾层过渡柔和，远处对比偏低，近景粗糙肌理可触，带轻微摄影颗粒。一个极小暗色点缀标示半隐竖直巨物的尺度，浅淡散射光具有微妙方向，正方形画面中实体与雾相接的边界保持含混。",
+  "theme_en": "A solitary traveler approaching a monumental tower veiled by mountain fog",
+  "theme_zh": "独行旅人走向被山雾遮蔽的巨大高塔",
+  "wh_ratio": "1:1",
+  "id": "3482",
+  "name": "Michal Karcz",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/michal-karcz",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "db92fc6f7aeb90803b647aa18db85f8562c557da41f9a1d53d3a8b12eb92c571",
+    "gpt_submission_prompt": "A quiet, ominous landscape image has muted photographic realism. A tiny lone traveler walks away from the viewer along a faint track through a rocky brown-gray plain. Ahead, a colossal narrow Gothic-like tower rises from the center of the valley, but its lower walls and pointed upper forms are partially swallowed by a heavy bank of smoke-colored cloud. Dark slopes on both sides frame the structure, with a broad low foreground strewn with scattered stones. The tower's vertical edges and faint window openings emerge only where the fog thins, leaving much of its architecture indistinct. A pale break in the clouds behind and to the upper right provides the only strong illumination, turning the mist luminous near the tower while the near ground stays subdued and cold. Scale is essential: the traveler is no more than a small dark stroke against the vast empty terrain and hovering mass. The restrained palette consists of ash gray, dusty brown, near-black blue and a little ivory light. Soft gradients of haze, very fine grain, low contrast in the distance, and rough, tactile rock detail underfoot establish the atmosphere. The horizon becomes indistinct as fog and land merge. The square composition pulls the eye from the faint path to the human figure and upward into the half-seen spire, conveying isolation, awe and uncertainty without added effects or decorative symbols.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "0b9e1f623740b1d0b5e9960e435db9e3309d11248cfcef4703c0590bec987c52",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

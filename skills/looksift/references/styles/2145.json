@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square realist painted portrait shows a middle-aged man from the shoulders upward against a weathered brown and olive ground. He turns slightly toward the right, but his dark eyes look outward toward the viewer. Short dark hair is brushed back from a high forehead and graying at the temples. The face is broad and lined, with a strong nose, faint creases around the eyes, and a closed mouth that suggests a restrained expression. A dark coat and high collar cover the lower part of the frame; a small pale triangle of shirt is visible at the throat. The left side of the background is deep olive-brown and the right shifts through rusty brown and charcoal, with flecks and scumbled marks that read as painted surface rather than a specific room. Warm light from the upper left catches the forehead, cheekbone, nose ridge, and one side of the collar. The far cheek and neck fall into greenish shadow, while the hair almost merges with the dark upper edge. Brush marks vary in scale: the skin is smoothly modeled in warm ochre and cream, but the surrounding field uses rough broad strokes and worn patches. Small glints in the eyes keep the gaze alive without making the image glossy. The portrait is tightly cropped at the outer shoulders and leaves little empty space above the head. No objects or readable words interrupt the ground. The overall composition is solid and still, with a warm illuminated face emerging from an earthy, tactile darkness.",
+  "full_prompt_zh": "一幅方形写实绘画肖像描绘一名中年男子，肩部以上入画，身后是陈旧棕色与橄榄色底面。他略向右转，但深色眼睛朝外看向观者。短深发从高额头向后梳，太阳穴处变灰。面庞宽阔而带纹路，有有力鼻梁、眼周淡皱纹，以及显得克制的闭合嘴巴。深色外套与高领口覆盖画幅下方，喉部露出一小块浅色衬衫三角。背景左侧为深橄榄棕，右侧变化为锈棕与炭色，斑点和擦抹痕让它像绘画表面，而非具体房间。左上方暖光照亮额头、颧骨、鼻梁和一侧衣领。脸远侧与颈部落入偏绿阴影，头发几乎融进深色上缘。笔触尺度变化：皮肤以暖赭黄与奶油色平滑塑形，周围区域则使用粗宽笔触与磨旧斑块。眼中的小亮点让目光鲜活，却不让图像显得光滑。肖像在两侧肩部紧裁，头顶上方几乎没有空白。底面上没有物件或可读字。整体构图坚实而静止，暖光面孔从泥土色、可触的黑暗中浮现。",
+  "style_prompt_en": "A realist oil-painted surface uses smoothly blended warm focal modeling against a rough scumbled ground. Ochre, cream, olive brown, rusty umber, and charcoal form an earthy low-saturation range. Broad dark fields surround a compact illuminated center, with small bright accents preserved in the most precise details. Warm upper-side light creates a rounded highlight and a gradual greenish shadow transition. Brush edges grow looser and more worn away toward the margins; thicker irregular patches keep the background tactile and indistinct. The framing is close, with little empty space and a sturdy asymmetrical balance. The finish is sober, weathered, and quietly luminous.",
+  "style_prompt_zh": "写实油画表面在粗糙擦抹底面前使用平滑融合的暖色焦点塑形。赭黄、奶油、橄榄棕、锈赭与炭色组成低饱和泥土色阶。宽阔暗色域围住紧凑受光中心，最精确细节处保留微小亮点。上方暖侧光形成圆润亮部和渐进的偏绿阴影过渡。笔边向外围越来越松散、磨旧；较厚不规则色斑让背景有触感而模糊。取景贴近，空白很少，构图坚实而略不对称。成品严肃、陈旧且安静发亮。",
+  "theme_en": "A middle-aged man in a dark coat against a weathered brown ground",
+  "theme_zh": "陈旧棕色背景前身穿深色外套的中年男子",
+  "wh_ratio": "1:1",
+  "id": "2145",
+  "name": "Oliver Stone",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/oliver-stone",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/oliver-stone.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "77b7da3889929845124b41c6b04f4b86fa43e369fc3d9b806722e2e0fa17d55c",
+    "gpt_submission_prompt": "A square realist painted portrait shows a middle-aged man from the shoulders upward against a weathered brown and olive ground. He turns slightly toward the right, but his dark eyes look outward toward the viewer. Short dark hair is brushed back from a high forehead and graying at the temples. The face is broad and lined, with a strong nose, faint creases around the eyes, and a closed mouth that suggests a restrained expression. A dark coat and high collar cover the lower part of the frame; a small pale triangle of shirt is visible at the throat. The left side of the background is deep olive-brown and the right shifts through rusty brown and charcoal, with flecks and scumbled marks that read as painted surface rather than a specific room. Warm light from the upper left catches the forehead, cheekbone, nose ridge, and one side of the collar. The far cheek and neck fall into greenish shadow, while the hair almost merges with the dark upper edge. Brush marks vary in scale: the skin is smoothly modeled in warm ochre and cream, but the surrounding field uses rough broad strokes and worn patches. Small glints in the eyes keep the gaze alive without making the image glossy. The portrait is tightly cropped at the outer shoulders and leaves little empty space above the head. No objects or readable words interrupt the ground. The overall composition is solid and still, with a warm illuminated face emerging from an earthy, tactile darkness.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "fa0f3ebd6d74cbeb5b6324f101305d472080fc343c28b613103890b97f1d034f",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A densely detailed illustration shows a woman in profile seated on a dark horse among scarlet flowers and branching trees. She wears a red head covering and a high-collared, patterned coat with decorative bands along the sleeves. The horse turns its long grey-black head toward the left; a bright red bridle traces its muzzle. Small black birds perch among stems around the rider, while more red birds appear as flat silhouettes near the upper center. The entire frame is crowded with red blossoms, pale twig-like branches, black leaves, and a few white berries. Fine ink-like contour lines define the horse mane, the woman's facial profile, woven cloth patterns, and the many plant forms. Color is applied in largely flat areas of crimson, rust, charcoal, pale beige, and grey, with little naturalistic modeling. Light is even and subdued, so contrast comes mainly from red against near-black and the small pale botanical accents. The horse and rider form a compact vertical core, but the surrounding vegetation presses into every margin. Foreground leaves overlap them, and thinner pale branches rise behind, creating shallow layers within a decorative all-over pattern. The eye moves through repeated red clusters before returning to the quiet light profile at the center.",
+  "full_prompt_zh": "一幅细节密集的插画描绘女子侧身骑在深色马背上，周围是绯红花朵与分枝树木。她戴红色头巾，身穿高领花纹外套，袖上有装饰带。马向左伸出灰黑色长头，鲜红缰绳勾出马嘴轮廓。小黑鸟停在骑者身边的枝茎间，上方中央还有几只平面红色鸟影。画幅各处挤满红花、浅色细枝、黑色叶片和少量白色浆果。近似墨线的纤细轮廓刻出马鬃、女子侧脸、织物纹样与繁多植物。颜色大多以朱红、锈红、炭黑、浅米色和灰色平涂，写实明暗塑形很少。照明均匀而低调，反差主要来自红色与近黑色，以及稀疏浅色植物点缀。马与骑者构成紧凑纵向核心，四周植被却挤向每一道画框边缘。前景叶片遮住人物局部，更细的浅色枝条向后升起，在满布纹样中建立浅层空间。目光先游经反复出现的红色团块，再回到中央安静的浅色侧脸。",
+  "style_prompt_en": "A decorative ink-and-color illustration relies on very fine contour drawing and broad, mostly flat fills. Crimson and rust-red clusters recur throughout a near-black and charcoal field, while pale beige and white filaments give small points of relief. Dense organic lines twist, branch, and overlap from edge to edge; a compact light central profile provides a moment of stillness inside the pattern. Shading is restrained and matte, with only subtle value changes within larger areas. Edges stay intricate and deliberate rather than soft or photographic. Shallow depth comes from overlapping dark foreground shapes, flatter middle silhouettes, and thin pale lines rising behind them. The composition has almost no empty area or visible horizon. Repetition of small red marks and branching pale strokes sets a continuous rhythm across the entire square.",
+  "style_prompt_zh": "装饰性的墨线设色插画依靠极细轮廓绘制与宽阔、近乎平涂的色面。绯红与锈红团块在近黑和炭灰底色中反复出现，浅米色与白色细丝提供少量透气点。密集有机线条在画幅四边之间扭转、分叉并互相遮盖；中央一小块浅色侧向形体使繁纹中短暂安静。明暗塑形克制而哑光，大块区域内只有细微明度变化。边缘复杂且有意控制，不呈摄影般柔化。浅纵深来自交叠的深色前景、更平的中层剪影和背后升起的纤细浅线。构图几乎没有空白或可见地平线。小红点与分枝浅笔反复出现，为整幅方图建立连续节奏。",
+  "theme_en": "A red-clad rider on a dark horse within a dense scarlet forest",
+  "theme_zh": "深红密林里身穿红衣的骑马女子",
+  "wh_ratio": "1:1",
+  "id": "2874",
+  "name": "Sveta Dorosheva",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/sveta-dorosheva",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/sveta-dorosheva.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "c441bd6354703e3f42765c8b80e0e8a7d692d4f9c328a721bf38a6fba0a8ba77",
+    "gpt_submission_prompt": "A densely detailed illustration shows a woman in profile seated on a dark horse among scarlet flowers and branching trees. She wears a red head covering and a high-collared, patterned coat with decorative bands along the sleeves. The horse turns its long grey-black head toward the left; a bright red bridle traces its muzzle. Small black birds perch among stems around the rider, while more red birds appear as flat silhouettes near the upper center. The entire frame is crowded with red blossoms, pale twig-like branches, black leaves, and a few white berries. Fine ink-like contour lines define the horse mane, the woman's facial profile, woven cloth patterns, and the many plant forms. Color is applied in largely flat areas of crimson, rust, charcoal, pale beige, and grey, with little naturalistic modeling. Light is even and subdued, so contrast comes mainly from red against near-black and the small pale botanical accents. The horse and rider form a compact vertical core, but the surrounding vegetation presses into every margin. Foreground leaves overlap them, and thinner pale branches rise behind, creating shallow layers within a decorative all-over pattern. The eye moves through repeated red clusters before returning to the quiet light profile at the center.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "8fa413b75b1a84de4230030d6c668519c8f8cb74e3e021cfaac9aa792f61fc2d",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

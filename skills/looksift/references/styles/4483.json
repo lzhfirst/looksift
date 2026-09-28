@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white surreal photograph places a small weathered two-story farmhouse in the lower center of a vast empty plain. The house has a dark doorway, narrow windows, a simple pitched roof, and scrubby plants along its sides. A pale opening glows within the front entrance, drawing the eye into the otherwise dark building. Above the roof, an enormous storm cloud rises and spreads outward like smoke from a chimney or a tree crown. Its lower trunk appears visually attached to the house, while dense billowing forms occupy most of the upper frame. Smaller white clouds drift across the distant horizon and dark sky, reinforcing the impossible scale of the central plume. The plain is flat and lightly textured, with a narrow dirt track leading toward the door. Tonal contrast is dramatic: deep blacks in the roof and cloud underside, silver highlights around the cloud edges, and mid-gray light on the farmhouse walls. The composite feels convincing because the horizon, grain, and direction of illumination match throughout. The camera faces the house directly at a moderate distance, leaving enough ground and sky to emphasize solitude. The result is quiet and uncanny, with one simple visual fusion turning a rural documentary scene into a dreamlike image.",
+  "full_prompt_zh": "一张方形黑白超现实照片把一栋风化的双层农舍置于辽阔空旷平原的下方中央。房子有深色门口、狭窄窗户、简单斜屋顶和两侧稀疏灌木。正门内部有一个浅亮开口，在其余深暗房体中吸引目光。屋顶上方，一团巨大的暴云升起并向外展开，像烟囱冒出的浓烟，也像树冠。云的下部柱状形视觉上连接房屋，密集翻卷形体占据上方大半画框。更小白云飘过远处地平线和暗天空，强化中央云柱不可思议的尺度。平原平坦且略有纹理，一条窄土路通向门前。调子反差戏剧化：屋顶和云底为深黑，云缘有银亮高光，农舍墙面受中灰光。合成之所以可信，是因为各部分的地平线、颗粒和照明方向一致。相机在适中距离正面面对房屋，留下足够地面和天空来强调孤独。成品安静而诡异，一次简单视觉融合把乡野纪实场景变为梦境影像。",
+  "style_prompt_en": "Surreal black-and-white photographic compositing with one impossible but seamless fusion of distinct natural forms. Matching grain, horizon, and light direction keep the manipulation believable. Monumental billowing silver-gray texture rises from a small dark anchor across a flat open field. Deep blacks, luminous cloud edges, and broad empty space create quiet uncanny scale.",
+  "style_prompt_zh": "超现实黑白摄影合成，把两种不同的自然形态以一次不可能却无缝的方式融接。统一颗粒、地平线和光向使加工可信。纪念碑般的银灰翻卷肌理从平坦开阔区域的小深色锚点升起。深黑、发亮云缘和宽阔留白形成安静而诡异的尺度。",
+  "theme_en": "A lonely farmhouse beneath a cloud shaped like rising smoke",
+  "theme_zh": "一座孤独农舍下方，云团如烟柱般升起",
+  "wh_ratio": "1:1",
+  "id": "4483",
+  "name": "Jerry Uelsmann",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/jerry-uelsmann.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "9407cefa7524320e694e3604bd8e3b773596c08270a8eb8a59142a8cf711317c",
+    "gpt_submission_prompt": "A square black-and-white surreal photograph places a small weathered two-story farmhouse in the lower center of a vast empty plain. The house has a dark doorway, narrow windows, a simple pitched roof, and scrubby plants along its sides. A pale opening glows within the front entrance, drawing the eye into the otherwise dark building. Above the roof, an enormous storm cloud rises and spreads outward like smoke from a chimney or a tree crown. Its lower trunk appears visually attached to the house, while dense billowing forms occupy most of the upper frame. Smaller white clouds drift across the distant horizon and dark sky, reinforcing the impossible scale of the central plume. The plain is flat and lightly textured, with a narrow dirt track leading toward the door. Tonal contrast is dramatic: deep blacks in the roof and cloud underside, silver highlights around the cloud edges, and mid-gray light on the farmhouse walls. The composite feels convincing because the horizon, grain, and direction of illumination match throughout. The camera faces the house directly at a moderate distance, leaving enough ground and sky to emphasize solitude. The result is quiet and uncanny, with one simple visual fusion turning a rural documentary scene into a dreamlike image.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "cfebd619c69cda9382b98986c14ec53608eca5cce62b0daacb40026d5b18014b",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "This is a square, painterly surreal scene of a woman in a vivid red coat suspended above an autumn meadow. She occupies the center-left in side profile, facing right, with both feet lifted well clear of the ground. Her dark hair streams backward toward the left, and the coat hem flares around her knees as if pushed by wind. Black boots point downward beneath the red fabric. A loose trail of small ochre and orange leaves swirls from behind her and scatters across the blue sky, connecting the figure's motion to the air around her. Along the bottom, a narrow band of dry yellow grass stands on a dark earthen ledge; the rest of the frame remains mostly open. The sky is deep muted blue above, lightening toward a pale gray-blue cloud band near the horizon. Bright daylight from the upper left catches the woman's face, windblown hair, red coat folds, and flying leaves. Darker maroon shadow under the coat gives the airborne body volume. The painterly surface uses short broken strokes in the grass and leaves, broader smoother passages in the sky, and firm edges at the coat and boots. The figure is neither falling nor visibly supported; the image holds her in a still moment of upward motion. No buildings, other people, or text are present. The overall composition is spare and buoyant, with a compact red figure and a spray of warm leaves set against broad cool negative space.",
+  "full_prompt_zh": "这是一幅方形、富于绘画笔触的超现实场景，一名穿鲜红外套的女子悬在秋日草地上方。她以侧面占据中央偏左，朝右，双脚明显离开地面。深发向左后方飘动，外套下摆在膝旁展开，像被风吹起。黑靴位于红布下方，脚尖向下。松散的赭黄与橙色小叶从她身后旋出，散入蓝色天空，将人物动作与周围空气联系起来。底部一条狭窄的干黄草带立在深色土沿上，画面其余部分大多敞开。上方天空是深而低饱和的蓝，靠近地平线逐渐变为浅灰蓝云带。从左上来的明亮日光照到女子面孔、风吹起的头发、红外套衣褶和飞叶。外套下面较深的酒红阴影赋予半空身体体积。绘画表面在草和叶中使用短断笔，在天空中使用更宽、更平顺的色层，外套与靴子边缘则明确。人物既不像在下坠，也看不到支撑；图像将她留在上扬动作的静止一刻。没有建筑、其他人物或文字。整体构图稀疏而轻盈，一小块红色人物与一串暖叶位于宽阔冷色负空间前。",
+  "style_prompt_en": "The painterly style places a small saturated red-orange mass inside a broad muted blue field. Broken warm flecks trail outward from the focal form, creating motion across otherwise generous negative space. Short dry strokes build the lower textured band, while the upper field is smoother and atmospheric. Bright upper-side light clarifies exposed planes, and deeper maroon or charcoal shadow gives the focal mass weight. Edges are firm where shape must read, loosening into scattered marks along the direction of movement. A low dark baseline makes the open space feel expansive. The overall effect is whimsical, airy, and quietly surreal, with warm color and rhythmic fragments carrying the emotion.",
+  "style_prompt_zh": "这种绘画风格把一小块饱和红橙体量置于宽阔低饱和蓝色画域中。破碎暖色斑点从焦点形体向外拖曳，在充足负空间里制造运动。短促干笔构成下方有肌理色带，上部画域更平顺、更有空气感。明亮的上侧光照清外露平面，更深酒红或炭色阴影给予焦点体量重量。需要清楚辨识之处边缘坚定，沿运动方向则松散为散落标记。一道低位深色基线使开阔空间显得辽阔。整体效果异想天开、轻盈且安静地超现实，由暖色与节奏碎片承载情绪。",
+  "theme_en": "A woman in a red coat suspended above an autumn meadow",
+  "theme_zh": "一名穿红外套的女子悬在秋日草地上方",
+  "wh_ratio": "1:1",
+  "id": "3070",
+  "name": "Jimmy Lawlor",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/jimmy-lawlor",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "ada6ca9f31c9826d4b339ca8dde6f6e3ed03982ec881e4c53718bf6d244cc44b",
+    "gpt_submission_prompt": "This is a square, painterly surreal scene of a woman in a vivid red coat suspended above an autumn meadow. She occupies the center-left in side profile, facing right, with both feet lifted well clear of the ground. Her dark hair streams backward toward the left, and the coat hem flares around her knees as if pushed by wind. Black boots point downward beneath the red fabric. A loose trail of small ochre and orange leaves swirls from behind her and scatters across the blue sky, connecting the figure's motion to the air around her. Along the bottom, a narrow band of dry yellow grass stands on a dark earthen ledge; the rest of the frame remains mostly open. The sky is deep muted blue above, lightening toward a pale gray-blue cloud band near the horizon. Bright daylight from the upper left catches the woman's face, windblown hair, red coat folds, and flying leaves. Darker maroon shadow under the coat gives the airborne body volume. The painterly surface uses short broken strokes in the grass and leaves, broader smoother passages in the sky, and firm edges at the coat and boots. The figure is neither falling nor visibly supported; the image holds her in a still moment of upward motion. No buildings, other people, or text are present. The overall composition is spare and buoyant, with a compact red figure and a spray of warm leaves set against broad cool negative space.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "3185608d11f20900170bd1b95968bee7f5e8054fe6139fa3445e372388d0e756",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

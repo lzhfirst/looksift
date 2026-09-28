@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square surreal photographic scene shows a young adult seated in midair above a low dark road or flat ground at sunset. The figure faces right, knees bent forward, holding an open book in the lap while reading. A dark jacket and trousers blend into the warm shadow, and one shoe points toward the bright horizon. Behind and above, many books or rectangular pages tumble through the sky, concentrated on the left and thinning toward the center. Some are sharp enough to show dark covers and pale page edges; others blur with motion and distance. The ground fills the lower third as a shallow-focus strip of rough granular texture, and the horizon sits low against a creamy amber sky streaked with soft grey clouds. The floating pose casts no obvious hard ground shadow, reinforcing the dreamlike separation from the earth. Low warm light from the right and rear outlines the head, hands, book, and shoe while leaving the clothing mostly dark. The palette is restrained brown, slate grey, peach, and gold, with a cinematic depth of field that makes the foreground and far horizon softer than the central figure. No lettering is readable on the moving books. The overall composition feels quiet and impossible, balancing a clear suspended reader against a loose storm of pages and a wide empty sky.",
+  "full_prompt_zh": "一幅方形超现实摄影场景描绘一名年轻成人在日落时坐姿悬于低矮深色道路或平地上方。人物面向右侧，双膝向前弯，膝上拿着打开的书阅读。深外套和长裤融入暖色阴影，一只鞋指向明亮地平线。身后与上方，许多书本或矩形纸页在天空翻滚，左侧最密，向中央逐渐稀疏。有些足够清晰，可见深色封面和浅色纸边；另一些随运动和距离模糊。地面占下三分之一，是浅景深下粗糙颗粒纹理的一条带，地平线很低，衬着带柔灰云纹的奶油琥珀色天空。漂浮姿态在地面没有明显硬投影，加强离地的梦境感。偏右后方的低暖光勾出头、手、书和鞋，让衣物大多留在暗中。色谱收敛于褐色、石板灰、桃色与金色，电影式景深使前景和远地平线都比中央人物柔和。飞动的书上没有可辨认文字。整体构图安静而不可能，以清晰悬浮的读者平衡松散的纸页风暴和宽阔空天。",
+  "style_prompt_en": "A surreal photographic surface uses shallow focus, fine foreground grain, and warm low backlight to place one crisp dark shape within broad softly blurred space. Rectangular fragments scatter in a loose cloud, some sharp and others motion-soft, creating an irregular rhythm above a low horizontal division. Creamy amber and peach light meet slate-grey cloud and brown shadow. Rim highlights pick out selected edges while most central mass remains subdued. The lower band is tactile and out of focus, and the upper field offers generous negative space. The atmosphere is cinematic and quietly impossible, with plausible light and depth holding the unusual spatial arrangement together.",
+  "style_prompt_zh": "超现实摄影表面用浅景深、细前景颗粒与低暖逆光，把一道清晰深色形放在宽阔柔化空间里。矩形碎片松散成云，有些清楚，有些因运动而软，低水平分界上方形成不规则节奏。奶油琥珀与桃色光遇到石板灰云和褐影。轮廓光挑出有选择的边缘，中央大形仍大多暗淡。下方色带可触且失焦，上方场域留下充足负空间。气氛电影化且安静地不可能，由可信的光与深度维系非寻常空间排列。",
+  "theme_en": "A reader floating among scattered books at sunset",
+  "theme_zh": "日落时漂浮于散落书本间的读者",
+  "wh_ratio": "1:1",
+  "id": "2232",
+  "name": "Joel Robison",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/joel-robison",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/joel-robison.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "61c39a092fb300af98e338e53a6514839b24f977da76cc15321f2396cc191d6a",
+    "gpt_submission_prompt": "A square surreal photographic scene shows a young adult seated in midair above a low dark road or flat ground at sunset. The figure faces right, knees bent forward, holding an open book in the lap while reading. A dark jacket and trousers blend into the warm shadow, and one shoe points toward the bright horizon. Behind and above, many books or rectangular pages tumble through the sky, concentrated on the left and thinning toward the center. Some are sharp enough to show dark covers and pale page edges; others blur with motion and distance. The ground fills the lower third as a shallow-focus strip of rough granular texture, and the horizon sits low against a creamy amber sky streaked with soft grey clouds. The floating pose casts no obvious hard ground shadow, reinforcing the dreamlike separation from the earth. Low warm light from the right and rear outlines the head, hands, book, and shoe while leaving the clothing mostly dark. The palette is restrained brown, slate grey, peach, and gold, with a cinematic depth of field that makes the foreground and far horizon softer than the central figure. No lettering is readable on the moving books. The overall composition feels quiet and impossible, balancing a clear suspended reader against a loose storm of pages and a wide empty sky.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "80be67b7d092f02a20a86328d4c76ceb5bedb03d08f537a5cace254520dd9607",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

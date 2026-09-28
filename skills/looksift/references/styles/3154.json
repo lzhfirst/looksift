@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square natural history illustration presents three crested blue birds standing close together in a sparse grass clump. The tallest is near the center, its long neck rising almost to the upper edge. A second bird stands behind it to the right, and the smallest is slightly forward at the left. Their heads turn in related directions, creating a gentle rhythm rather than a scene of action. Each has a small upright crest, a dark curved beak and pale markings around the eye and face. Deep indigo blue covers the neck and upper body, fading to gray and charcoal in the long trailing feathers. The legs and lower bodies are partly hidden by lightly drawn grasses. Much of the background is bare off-white paper, with only faint gray marks to suggest ground and air. The open space makes the precise shape and color of the birds the clear focus. Fine pencil or ink lines trace feather edges and grass blades, while layered washes build soft depth in the blue plumage. Light is even and neutral, as on a specimen study, with modest highlights along necks and crests rather than dramatic shadows. The composition has a quiet scientific elegance: three related forms, subtle changes of scale, and an airy field that allows each silhouette to remain distinct.",
+  "full_prompt_zh": "这幅方形博物画插画呈现三只带冠蓝鸟紧靠着站在稀疏草丛中。最高一只靠近中央，长颈几乎升到上边缘。第二只在右后方，最小一只略靠左前。它们的头转向相近方向，形成温和节奏而非动作场面。每只都有小小直立羽冠、弯曲深色喙，以及眼部和脸周的浅色纹记。深靛蓝覆盖颈与上身，长长垂落羽毛渐变为灰与炭黑。腿和下身部分隐在轻描的草叶里。大部分背景是裸露的米白纸面，只有很淡的灰笔暗示地面与空气。开阔空间使鸟的准确形状和颜色成为清楚焦点。细铅笔或墨线勾画羽缘和草叶，层叠水洗则在蓝色羽毛中建立柔和深度。光均匀中性，像标本研究，颈和羽冠上只有适度亮点，没有戏剧性阴影。构图带着安静的科学优雅：三个相关形体、细微尺度变化以及让每个剪影保持分明的通透底色。",
+  "style_prompt_en": "The natural history illustration combines precise fine outlines with transparent watercolor modeling. Deep indigo, blue gray and charcoal concentrate in a small cluster against a broad off-white paper field. Light is even and observational, revealing shape through restrained gradients rather than strong shadow. Tapered linear marks suggest fine texture, while a few loose strokes barely define the ground. Related upright silhouettes repeat at varied heights, giving a calm and airy rhythm.",
+  "style_prompt_zh": "这种博物画插画把准确细线与透明水彩塑造结合。深靛蓝、蓝灰和炭黑聚成一小组，置于宽阔米白纸面前。光均匀而有观察性，通过节制渐变而非强影揭示形状。尖细线条暗示精微纹理，少数松散笔痕仅仅界定地面。相近的直立剪影以不同高度重复，形成安静通透的节奏。",
+  "theme_en": "Three blue crested birds among sparse grass",
+  "theme_zh": "稀疏草丛中的三只蓝色冠鸟",
+  "wh_ratio": "1:1",
+  "id": "3154",
+  "name": "Edward Lear",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/edward-lear",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "5ca0c85446d63505fbadec2f8c0e13e026fe970dedfcba1372cbfdb5665efbbf",
+    "gpt_submission_prompt": "A square natural history illustration presents three crested blue birds standing close together in a sparse grass clump. The tallest is near the center, its long neck rising almost to the upper edge. A second bird stands behind it to the right, and the smallest is slightly forward at the left. Their heads turn in related directions, creating a gentle rhythm rather than a scene of action. Each has a small upright crest, a dark curved beak and pale markings around the eye and face. Deep indigo blue covers the neck and upper body, fading to gray and charcoal in the long trailing feathers. The legs and lower bodies are partly hidden by lightly drawn grasses. Much of the background is bare off-white paper, with only faint gray marks to suggest ground and air. The open space makes the precise shape and color of the birds the clear focus. Fine pencil or ink lines trace feather edges and grass blades, while layered washes build soft depth in the blue plumage. Light is even and neutral, as on a specimen study, with modest highlights along necks and crests rather than dramatic shadows. The composition has a quiet scientific elegance: three related forms, subtle changes of scale, and an airy field that allows each silhouette to remain distinct.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "265473b6824459fcb7ae8b58f087aafd94c87519a0af7f10c13ff409fae7a0d2",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

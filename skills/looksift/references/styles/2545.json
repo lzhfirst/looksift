@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square monochrome horror illustration places a dark-suited man in the lower center of a ruined, misty city. He stands facing forward, shoulders squared and arms at his sides, while a large pale circular glow rises behind him near the horizon. Above that glow, an enormous octopus-like apparition takes shape in the clouds. Its skull-like upper mass holds two small gleaming eyes, and long curling tentacles spread outward through the smoky sky. Distant pointed rooftops and uneven silhouettes line the horizon; a couple of much smaller walkers appear far behind the man. A few birds scatter around the pale circle, emphasizing its scale. The whole scene is rendered in charcoal grays, soot black, and cloudy white. Fine etched lines and grain describe the creature's skin and city edges, while broad soft smoke dissolves many contours. The man's suit is the firmest dark silhouette, clearly separating him from the glowing background. Light is strongest behind the figure and within the clouds, leaving his face partly shadowed and making the apparition emerge from uneven mist. Foreground texture is sparse and dusty. The composition moves vertically from small grounded human to overwhelming unearthly form, creating foreboding scale without crowded detail.",
+  "full_prompt_zh": "一幅方形单色恐怖插画把一位穿深色西装的男子放在雾中破败城市的下部中央。他正面站立，肩挺直、双臂垂下，身后地平附近升起一团大型浅色圆光。圆光上方，巨大章鱼般幻影在云里成形。它头骨似的上部有两点发亮的眼，长而卷曲的触手向外伸过烟雾天空。远处尖屋顶与参差剪影排列在地平线，男子身后还有几个更小的行人。几只飞鸟散在浅色圆形周围，强调其尺度。全景由炭灰、烟黑与云白描绘。细小蚀刻线和颗粒描述生物皮面与城市边缘，宽阔柔烟则融化许多轮廓。男子西装是最坚实的深色剪影，从发亮背景中清楚分离。最强光在人物背后和云内，使面部部分入影，也让幻影从不均匀迷雾中出现。前景肌理稀疏而积尘。构图从小而落地的人体竖向移到压倒性的异界形态，以不拥挤的细节制造不祥尺度。",
+  "style_prompt_en": "Monochrome horror illustration blends etched fine lines, charcoal grain, and broad smoky gradients. Soot black silhouettes stand against a cloudy white central glow. Curving dark tendrils and softened atmospheric masses fill the upper field, while sparse lower marks leave a sense of exposure. Backlight makes firm near edges and uncertain distant edges. Repeated small points of white in the darkness draw the gaze upward. The scale rises from a narrow grounded base into an overwhelming vaporous form. The overall surface feels dusty, ominous, and old, with restraint in color and strong vertical pressure.",
+  "style_prompt_zh": "单色恐怖插画融合蚀刻般细线、炭粉颗粒与宽阔烟雾渐层。烟黑剪影立在中央云白辉光前。弯曲暗色触须与柔化的空气团块填满上部，下部稀疏笔痕则留下暴露感。逆光使近处边缘坚实，远处边缘不确定。暗中重复的小白点牵引视线上移。尺度从狭窄落地底部升向压倒性的雾状形体。表面带尘、不祥而陈旧，配色克制，竖向压力强。",
+  "theme_en": "A lone suited man beneath a vast tentacled apparition",
+  "theme_zh": "巨大触手幻影下的孤身西装男子",
+  "wh_ratio": "1:1",
+  "id": "2545",
+  "name": "H. P. Lovecraft",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/h-p-lovecraft",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/h-p-lovecraft.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "56b990ab8c09dac0c8de0987efb6409a65913b62da729a0448388d40679a7217",
+    "gpt_submission_prompt": "A square monochrome horror illustration places a dark-suited man in the lower center of a ruined, misty city. He stands facing forward, shoulders squared and arms at his sides, while a large pale circular glow rises behind him near the horizon. Above that glow, an enormous octopus-like apparition takes shape in the clouds. Its skull-like upper mass holds two small gleaming eyes, and long curling tentacles spread outward through the smoky sky. Distant pointed rooftops and uneven silhouettes line the horizon; a couple of much smaller walkers appear far behind the man. A few birds scatter around the pale circle, emphasizing its scale. The whole scene is rendered in charcoal grays, soot black, and cloudy white. Fine etched lines and grain describe the creature's skin and city edges, while broad soft smoke dissolves many contours. The man's suit is the firmest dark silhouette, clearly separating him from the glowing background. Light is strongest behind the figure and within the clouds, leaving his face partly shadowed and making the apparition emerge from uneven mist. Foreground texture is sparse and dusty. The composition moves vertically from small grounded human to overwhelming unearthly form, creating foreboding scale without crowded detail.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "f4f5b22b4aad7d418fe1200db695bbcec4e3f957d725e156259b446169c621a0",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

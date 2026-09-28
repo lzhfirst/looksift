@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square historical architectural illustration looks along a narrow cobbled lane toward a small arched gate beneath a tall stone tower. Massive gray masonry rises on both sides: at left, the tower has a steep red-brown roof and tiny high windows; at right, stacked stone walls and another blocky tower create a dense vertical enclosure. In the foreground, a long, low timber-and-stone hall lines the right side of the lane, its rough gabled roof descending toward the viewer. Warm lantern light glows beneath its overhang and through a few small windows, contrasting with cool blue-gray daylight in the stone. The lane is uneven, with broken cobbles, shallow ruts, and a few scattered stones. Behind the towers, distant forested cliffs dissolve into pale mist. Vary the masonry from cool slate to weathered beige, allowing mortar gaps and rough edges to remain visible. The view should feel inhabited but quiet, without distinct people or modern objects. The image uses a slightly elevated eye level and converging walls to guide the viewer toward the lit archway. Fine painterly texture should soften the distance while preserving tactile stone, roof tiles, and timber in the near structures. The image keeps the overall light overcast, with the warm lamps providing modest points of intimacy inside an imposing old settlement.",
+  "full_prompt_zh": "一幅方形历史建筑插画沿一条狭窄石板巷望向高石塔下的小拱门。两侧是庞大的灰色砌石：左侧塔楼有陡峭的红褐色屋顶与高处的小窗；右侧堆叠的石墙和另一座方正塔楼形成密集的竖向围合。前景一栋长而低的木石大厅沿巷道右侧排列，粗糙山墙屋顶朝观看者降低。暖色灯火从挑檐下和几扇小窗透出，与石墙的冷蓝灰天光相对。巷道凹凸不平，带破碎石块、浅车辙和几块散石。塔后远处有林木覆盖的山崖，逐渐消失于淡雾。砌石颜色在冷板岩色与风化米色之间变化，砂浆缝和粗边保持可见。场景有居住气息但安静，不出现明确人物或现代物件。略高的视线与两侧收束的墙把观看者引向发光拱门。细腻绘画肌理柔化远景，同时保留近处石材、瓦片与木梁的触感。整体为阴天光照，暖灯只在威严旧聚落中提供少数亲密亮点。",
+  "style_prompt_en": "Atmospheric historical illustration with dense weathered masonry, rough timber, steep layered roof shapes, and a narrow converging route. The image uses cool slate-gray daylight, aged beige stone, subdued red-brown accents, and small warm light sources. The image retains tactile mortar lines and irregular surfaces in the foreground while distant cliffs and upper structures soften into mist. The rendering favors painterly realism, vertical enclosure, and quiet depth.",
+  "style_prompt_zh": "富于气氛的历史插画，密集风化砌石、粗木构件、陡峭层叠屋顶形体与向远处收束的窄道共同构成。画面采用冷板岩灰日光、老米色石材、低调红褐点缀及少量暖光。前景保留可触摸的砂浆缝和不规则表面，远处山崖与上层结构逐渐柔入雾中。偏向绘画式写实、竖向围合与安静纵深。",
+  "theme_en": "A narrow cobbled lane through a medieval stone settlement",
+  "theme_zh": "穿过中世纪石砌聚落的狭窄石板巷道",
+  "wh_ratio": "1:1",
+  "id": "4020",
+  "name": "Medieval architecture",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/medieval-architecture.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "91a7d2eb74045a374e5e98a7302f6ae1f7c1dc5f5a95c1f995f3ffaf2108c1a0",
+    "gpt_submission_prompt": "A square historical architectural illustration looks along a narrow cobbled lane toward a small arched gate beneath a tall stone tower. Massive gray masonry rises on both sides: at left, the tower has a steep red-brown roof and tiny high windows; at right, stacked stone walls and another blocky tower create a dense vertical enclosure. In the foreground, a long, low timber-and-stone hall lines the right side of the lane, its rough gabled roof descending toward the viewer. Warm lantern light glows beneath its overhang and through a few small windows, contrasting with cool blue-gray daylight in the stone. The lane is uneven, with broken cobbles, shallow ruts, and a few scattered stones. Behind the towers, distant forested cliffs dissolve into pale mist. Vary the masonry from cool slate to weathered beige, allowing mortar gaps and rough edges to remain visible. The view should feel inhabited but quiet, without distinct people or modern objects. The image uses a slightly elevated eye level and converging walls to guide the viewer toward the lit archway. Fine painterly texture should soften the distance while preserving tactile stone, roof tiles, and timber in the near structures. The image keeps the overall light overcast, with the warm lamps providing modest points of intimacy inside an imposing old settlement.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "88c2c273c2f64f6138ee31123a3b3487214da7c09957ef83db57f145304109a2",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

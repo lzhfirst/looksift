@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square monochrome documentary-style photograph catches a young woman in a broad brimmed hat turning toward the camera on an old street, with a rough stone wall behind her. The wall occupies the entire upper field, its block joints and mottled surface softly visible in grey. Across the middle distance, several other hat-wearing figures stand in a loose row and recede into shadow, their faces less distinct than the foreground woman's. Her pale blouse has short sleeves and a soft gathered shape; a dark belt and skirt form a stronger mass at the lower left. The near figure's face is sharp enough to show the line of her nose, lips, and sideways gaze, while the surrounding figures and wall are slightly softer. Light falls from the upper left as broad outdoor illumination, brightening the hat crown, cheek, and shoulder and leaving the eyes and lower clothing in deeper grey. The tonal range includes silver midtones, chalky wall highlights, and velvety near-black garments, with visible fine grain rather than a glassy surface. The foreground body makes a strong diagonal against the mostly upright background group, and the close crop preserves the unposed feel of a passing moment. The overall composition is watchful and intimate, balancing one clear face against a subdued rhythm of people and masonry.",
+  "full_prompt_zh": "一张方形黑白纪实风格照片，捕捉旧街上一名戴宽檐帽的年轻女子转向镜头的瞬间，身后是一堵粗糙石墙。墙面占据整个上方区域，石块接缝和斑驳表面在灰阶里柔和可见。中远处，几名同样戴帽的人松散排成一列并退入阴影，面容比前景女子模糊。她的浅色短袖上衣形状柔软、略有褶裥；深色腰带和裙子在左下形成较强的色块。近处面容足够清晰，可见鼻、唇和侧向目光的线条，周围人物与墙则稍微柔化。宽泛的户外光从左上落下，照亮帽顶、脸颊和肩部，使眼部与下方衣物留在更深的灰色中。调性包含银灰中间调、粉笔般的墙面高光和绒黑衣物，可见细颗粒，而非玻璃般光滑表面。前景身体相对大多竖立的背景群像形成强对角线，贴近的裁切保留路过一刻的未摆拍感。整体构图警觉而亲密，以一张清晰面容平衡人群与砌石的低调节奏。",
+  "style_prompt_en": "A documentary photographic surface uses fine visible grain, soft silver midtones, chalky highlights, and velvety near-black areas. Broad outdoor light arrives from one side and gives the closest forms stronger definition, while more distant forms recede through softer focus and compressed contrast. Rough mottled texture fills much of the background, and a dark diagonal mass cuts across repeated upright shapes. Edges are sharpest at the visual center and gently lose certainty toward the sides. The close square crop creates immediacy without staged symmetry. The tonal organization makes one illuminated area quietly dominant within a subdued field, and the finish remains tactile, watchful, and candid.",
+  "style_prompt_zh": "纪实摄影表面使用细密可见的颗粒、柔和银灰中间调、粉笔般的高光和绒黑区域。宽泛的户外光从一侧到来，使最近处形状更明确，较远形状则经由柔化焦点和压低对比后退。粗糙斑驳纹理填满大部分背景，一块深色对角形切过反复的竖向形。边缘在视觉中心最清晰，向两侧逐渐变得不确定。贴近的方形裁切带来即时感，却没有摆拍式对称。明暗组织让一片受光区域在克制的场域中安静地主导，完成效果可触、警觉而随性。",
+  "theme_en": "A woman pausing before a group on an old street",
+  "theme_zh": "旧街上一名女子在一群人前驻足",
+  "wh_ratio": "1:1",
+  "id": "2201",
+  "name": "Eric Lafforgue",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/eric-lafforgue",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/eric-lafforgue.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "c2bea2940ca6ce6fff58d847e48141cf0d3b9e6586fc9b7a99b50b5ee93eaead",
+    "gpt_submission_prompt": "A square monochrome documentary-style photograph catches a young woman in a broad brimmed hat turning toward the camera on an old street, with a rough stone wall behind her. The wall occupies the entire upper field, its block joints and mottled surface softly visible in grey. Across the middle distance, several other hat-wearing figures stand in a loose row and recede into shadow, their faces less distinct than the foreground woman's. Her pale blouse has short sleeves and a soft gathered shape; a dark belt and skirt form a stronger mass at the lower left. The near figure's face is sharp enough to show the line of her nose, lips, and sideways gaze, while the surrounding figures and wall are slightly softer. Light falls from the upper left as broad outdoor illumination, brightening the hat crown, cheek, and shoulder and leaving the eyes and lower clothing in deeper grey. The tonal range includes silver midtones, chalky wall highlights, and velvety near-black garments, with visible fine grain rather than a glassy surface. The foreground body makes a strong diagonal against the mostly upright background group, and the close crop preserves the unposed feel of a passing moment. The overall composition is watchful and intimate, balancing one clear face against a subdued rhythm of people and masonry.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "668d78dbe99b214de063f0718c9e15456a21ff48f004a66319e176bcd39b46a4",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

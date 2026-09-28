@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square vintage photographic portrait shows a young man in a tall dark hat, turned three-quarters toward the left and looking downward. The background is a smooth charcoal-to-gray studio haze without visible furniture or setting. His face falls near the upper middle of the frame, partly shaded by the brim. Dark curly hair appears around one ear and beneath the hat. A fine mustache marks the upper lip, and the lowered eyelids give his expression a quiet, inward quality. He wears a pale shirt with full sleeves, a dark waistcoat, an open dark jacket or coat, and a narrow cloth tied loosely at the throat. One shoulder slopes toward the lower left while the opposite arm extends out of the crop at the lower right. Soft light from the upper left traces the cheek, nose, shirt sleeve, and crown of the hat; the far side of his face and coat merge into the dark ground. The black-and-white image carries warm sepia toning rather than a neutral digital gray. Fine photographic grain, slight blur in the shadow transitions, and a few worn or uneven marks across the surface suggest an old print. The framing crops the body below the chest and leaves a modest dark gap above the hat. Tonal contrast is strongest between the pale sleeve and the waistcoat, while facial details stay delicate and low contrast. The overall composition uses the downward diagonal of head and shoulder to make a restrained, melancholy portrait out of a soft, timeworn photographic surface.",
+  "full_prompt_zh": "一幅方形复古摄影肖像描绘一名戴深色高帽的年轻男子，身体向左呈四分之三角度，低头看向下方。背景是从炭黑到灰色的平滑影楼雾状底面，没有可见家具或具体地点。面孔靠近画面上方中央，部分被帽檐遮暗。深色卷发露在一只耳朵周围和帽下。细胡须覆在上唇，垂下的眼睑令神情安静内敛。他穿浅色宽袖衬衫、深色马甲、敞开的深色外套，并在喉部松松系着窄布巾。一侧肩膀向左下倾斜，另一只手臂向右下伸出画外。左上方柔光勾出面颊、鼻梁、衬衫袖和帽顶；脸与外套的远侧融入暗背景。黑白图像带暖深褐调色，而非中性的数字灰。细摄影颗粒、阴影过渡中的轻微模糊，以及表面的少量磨损不匀痕迹，让它像一张老照片。画幅在胸部以下裁断身体，在帽顶上方留出适度暗色空隙。明暗对照在浅袖和马甲之间最强，面部细节则保持细腻低对比。整体构图借头和肩向下的斜线，在柔和陈旧的摄影表面中形成克制而忧郁的肖像。",
+  "style_prompt_en": "A softly focused vintage photographic surface uses warm sepia-black toning, fine grain, faint abrasion, and velvety shadow transitions. Gentle upper-side illumination picks out a few pale planes while large charcoal areas dissolve into an indistinct backdrop. The tonal range is broad but restrained, with no hard digital sharpness. Soft edges around dark forms contrast with delicate detail in the lit focal area. A slightly asymmetric diagonal arrangement lends the frame a quiet inward pull. The finish feels aged, intimate, and matte, with subtle print wear remaining visible across the image.",
+  "style_prompt_zh": "柔焦复古摄影表面使用暖深褐黑调色、细颗粒、浅磨损和丝绒般的阴影过渡。上方侧光挑出少量浅色平面，大片炭黑区域则消融进模糊底面。色阶宽广但克制，没有数字式锐利感。深色形状周围的柔软边缘与受光焦点处的细节形成对照。略不对称的斜向布局给画面安静向内的牵引。成品陈旧、亲密、哑光，细微相纸磨痕在图像上仍可见。",
+  "theme_en": "A young man in a tall hat looking down in a vintage studio photograph",
+  "theme_zh": "复古影楼照片中戴高帽低头的年轻男子",
+  "wh_ratio": "1:1",
+  "id": "4356",
+  "name": "Nadar",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/nadar.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "285711cca668ad217997f6ac300f7af012a9800c27a8e055d045a700ef51460f",
+    "gpt_submission_prompt": "A square vintage photographic portrait shows a young man in a tall dark hat, turned three-quarters toward the left and looking downward. The background is a smooth charcoal-to-gray studio haze without visible furniture or setting. His face falls near the upper middle of the frame, partly shaded by the brim. Dark curly hair appears around one ear and beneath the hat. A fine mustache marks the upper lip, and the lowered eyelids give his expression a quiet, inward quality. He wears a pale shirt with full sleeves, a dark waistcoat, an open dark jacket or coat, and a narrow cloth tied loosely at the throat. One shoulder slopes toward the lower left while the opposite arm extends out of the crop at the lower right. Soft light from the upper left traces the cheek, nose, shirt sleeve, and crown of the hat; the far side of his face and coat merge into the dark ground. The black-and-white image carries warm sepia toning rather than a neutral digital gray. Fine photographic grain, slight blur in the shadow transitions, and a few worn or uneven marks across the surface suggest an old print. The framing crops the body below the chest and leaves a modest dark gap above the hat. Tonal contrast is strongest between the pale sleeve and the waistcoat, while facial details stay delicate and low contrast. The overall composition uses the downward diagonal of head and shoulder to make a restrained, melancholy portrait out of a soft, timeworn photographic surface.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "f66487500e0bd04f3487e023a5c41517a938afcb5ae0370bf82a510ede146e4b",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

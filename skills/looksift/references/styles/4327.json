@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square dark-fantasy illustration shows a gaunt, pale-faced gentleman lounging at a black-draped table. He wears a tall black top hat with two long red feathers, a vivid red coat and trousers, a high black collar, and heavy dark boots. His long black hair and pointed features make the smile beneath the hat feel slightly mischievous. One hand holds a small glass of red wine near his shoulder while the other rests on the table. His legs are crossed and extend diagonally toward the lower left, occupying much of the frame. Several strange small animals gather around him: a gray long-beaked creature perches to the left beside a dark bottle, a pale rabbit-like animal crouches under his knee, and a darker long-eared form appears at the lower right. A glass decanter and more bottles sit in the dim background. Behind the group, a worn cream wall bears faint seams and stains; a deep charcoal shadow mass fills the right side. The image is framed by a thin aged border within the square. Fine pen-and-ink-like contours, scratchy hatching, and diluted gray washes describe fur, fabric folds, bottles, and the man's face. Red is the only forceful color, standing against ivory, slate gray, and black. The arrangement is theatrical but still, like an eccentric gathering paused at a table. No readable text, title, or speech bubble appears. The mood blends wit and unease through exaggerated anatomy, tactile line work, and tightly controlled color.",
+  "full_prompt_zh": "一幅方形暗黑奇幻插画呈现一名面色苍白、身形瘦长的绅士斜靠在黑布桌旁。他戴高黑礼帽，插两根长红羽，穿鲜红上衣和裤子、高黑领以及厚重深靴。长黑发与尖削五官使帽下笑容带些狡黠。一只手在肩旁举小杯红葡萄酒，另一只手搭在桌上。双腿交叉并斜伸向左下，占画面大部。几只奇异小动物围在身旁：灰色长喙生物在左侧深瓶旁蹲坐，浅色兔状小兽伏在他的膝下，右下又有深色长耳形体。昏暗背景放着玻璃醒酒器和更多瓶子。人群背后旧奶油色墙带浅缝和污迹，右侧被深炭色影团填满。单幅内有细旧边框。细钢笔墨线般轮廓、刮痕排线及稀薄灰色水洗描出毛、衣褶、瓶子和脸。红色是唯一强烈颜色，对照象牙白、石板灰和黑。安排有戏剧性却静止，像怪诞聚会停在桌旁。没有可读文字、标题或对话框。氛围把机智与不安混在一起，依靠夸张解剖、可触线条和严格控制的色彩。",
+  "style_prompt_en": "Use dark-fantasy pen-and-wash illustration with sharp, expressive contours, scratchy crosshatching, stained ivory paper, and heavy charcoal shadows. Exaggerate proportions slightly while retaining precise tactile details in fabric, fur, glass, and worn surfaces. Limit the palette to gray, black, cream, and one vivid red accent distributed rhythmically across the focal forms. Let broad empty or lightly stained ground contrast with a concentrated dark cluster. Position forms in a theatrical, eccentric arrangement, then keep the gestures still enough to invite scrutiny. A thin aged boundary can reinforce the illustrated-plate quality. The effect is witty, uneasy, and richly hand drawn, driven by controlled color against intricate line texture.",
+  "style_prompt_zh": "采用暗黑奇幻钢笔水洗插画，结合锋利有表情的轮廓、刮擦交叉排线、染污象牙纸底与厚炭黑阴影。比例可略夸张，同时保留布料、毛发、玻璃和磨损表面的精确可触细节。色板限于灰、黑、乳白与一处鲜红重音，并让红在焦点形体间形成节律。宽阔留白或浅染底与集中的深色形群对比。形体以戏剧化怪诞关系安排，姿态却保持足够静止，邀请细看。细旧边界可强化插图图版感。效果机智、微不安且富手绘细节，靠严格色彩控制对照繁复线纹。",
+  "theme_en": "A strange red-clad gentleman sharing a table with small fantastical animals",
+  "theme_zh": "红衣怪诞绅士与几只奇异小动物共坐桌旁",
+  "wh_ratio": "1:1",
+  "id": "4327",
+  "name": "Sam Kieth",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/sam-kieth.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "f9ff927c94b4f7cadeca5a92cabe4508a436cf0d75367b632ca90852a57a85e8",
+    "gpt_submission_prompt": "A square dark-fantasy illustration shows a gaunt, pale-faced gentleman lounging at a black-draped table. He wears a tall black top hat with two long red feathers, a vivid red coat and trousers, a high black collar, and heavy dark boots. His long black hair and pointed features make the smile beneath the hat feel slightly mischievous. One hand holds a small glass of red wine near his shoulder while the other rests on the table. His legs are crossed and extend diagonally toward the lower left, occupying much of the frame. Several strange small animals gather around him: a gray long-beaked creature perches to the left beside a dark bottle, a pale rabbit-like animal crouches under his knee, and a darker long-eared form appears at the lower right. A glass decanter and more bottles sit in the dim background. Behind the group, a worn cream wall bears faint seams and stains; a deep charcoal shadow mass fills the right side. The image is framed by a thin aged border within the square. Fine pen-and-ink-like contours, scratchy hatching, and diluted gray washes describe fur, fabric folds, bottles, and the man's face. Red is the only forceful color, standing against ivory, slate gray, and black. The arrangement is theatrical but still, like an eccentric gathering paused at a table. No readable text, title, or speech bubble appears. The mood blends wit and unease through exaggerated anatomy, tactile line work, and tightly controlled color.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "0cacd4c2ff173ce41f26b2ed02c8b4e821c323151698d3e2ffe49038c0e5cd3a",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

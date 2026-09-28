@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square atmospheric painting shows a small black solar eclipse hanging over a wide, dark mountain valley. A thin fiery orange ring traces the disk, with a dim red-brown halo spreading into the near-black sky. Low overlapping ridges stretch across the lower half, each layer slightly lighter and bluer as it recedes toward a pale strip on the horizon. A narrow reflection of warm light lies in the valley floor or distant water directly beneath the eclipse. The foreground is nearly black, gently textured rather than featureless. There are no people or buildings, so the relationship between sky, light, and land carries the scene. The eclipse is placed slightly above center, surrounded by ample dark negative space. The light is unusual: most of the scene is subdued, but the small ring and faint horizon glow mark the direction of the hidden sun. Smooth, carefully blended gradations in the sky contrast with the low ridge silhouettes and softly grainy terrain. Color is extremely restrained, moving through charcoal, midnight blue, dusky violet, and ember orange. The image feels still and immense, as though the landscape is holding its breath. Its drama comes from modest scale of the bright ring within an expansive darkness and from the delicate recession of distant mountains.",
+  "full_prompt_zh": "一幅方形大气绘画描绘一枚小而黑的日食悬在宽阔深色山谷上。细细炽橙光环描出圆盘，昏红棕晕光散入近黑天空。低矮重叠山脊横过下半幅，层层向远方逐渐更浅、更蓝，直到地平线一条淡色带。一道窄暖光倒影恰在日食下方的谷底或远水中。前景几乎全黑，但有轻柔肌理，并非空洞。没有人或建筑，天空、光与土地的关系承载场景。日食略在中央以上，周围留大量深色负空间。光很特别：大部分场景低沉，但小光环和淡地平辉光标示隐藏太阳的方向。天空平滑细致调和的渐层对照低山剪影与轻颗粒地面。颜色极度克制，在炭色、午夜蓝、暗紫与余烬橙间移动。图像静止而巨大，仿佛景观屏住呼吸。戏剧性来自广阔黑暗中明亮圆环的微小尺度，以及远山精微后退。",
+  "style_prompt_en": "Atmospheric painting relies on an expansive dark field, smooth tonal gradation, and one small incandescent circular accent. Charcoal, midnight blue, dusky violet, and ember orange form a narrow palette. Layered low silhouettes fade gradually toward a pale horizon, while a faint reflected streak anchors the vertical light path. Edges remain soft except at the luminous ring. The foreground holds subtle grain within deep shadow. Scale and tension arise from a tiny bright focal point surrounded by generous negative space. The finish is still, immense, and quietly uncanny.",
+  "style_prompt_zh": "大气绘画依靠辽阔深色域、平滑明暗渐层和一个小而炽亮的圆形点。炭色、午夜蓝、暗紫与余烬橙组成窄幅色域。层叠低剪影逐渐淡向浅色地平，一道微弱反射痕稳定竖向光路。边缘除发光圆环外都柔和。前景深影里保有细微颗粒。尺度与张力来自被宽阔负空间包围的极小亮焦点。完成面静止、巨大而安静奇异。",
+  "theme_en": "A dark eclipse above a distant mountain valley",
+  "theme_zh": "远山山谷上空的暗日食",
+  "wh_ratio": "1:1",
+  "id": "4178",
+  "name": "Laurent Grasso",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/laurent-grasso.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "793dd898e0da645a6d1ef71df10fe21a76d0502568575b25ed6e28558764b9ad",
+    "gpt_submission_prompt": "A square atmospheric painting shows a small black solar eclipse hanging over a wide, dark mountain valley. A thin fiery orange ring traces the disk, with a dim red-brown halo spreading into the near-black sky. Low overlapping ridges stretch across the lower half, each layer slightly lighter and bluer as it recedes toward a pale strip on the horizon. A narrow reflection of warm light lies in the valley floor or distant water directly beneath the eclipse. The foreground is nearly black, gently textured rather than featureless. There are no people or buildings, so the relationship between sky, light, and land carries the scene. The eclipse is placed slightly above center, surrounded by ample dark negative space. The light is unusual: most of the scene is subdued, but the small ring and faint horizon glow mark the direction of the hidden sun. Smooth, carefully blended gradations in the sky contrast with the low ridge silhouettes and softly grainy terrain. Color is extremely restrained, moving through charcoal, midnight blue, dusky violet, and ember orange. The image feels still and immense, as though the landscape is holding its breath. Its drama comes from modest scale of the bright ring within an expansive darkness and from the delicate recession of distant mountains.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "5ec43d57778b4126e50b4addd768d86785f06131c32b34e0c234ee63b4c74969",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

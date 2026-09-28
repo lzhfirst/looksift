@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square fantasy illustration shows a solitary hooded traveler crouching on top of a rough stone wall. The figure occupies the center, folded tightly inward, with one knee raised near the chest and both gloved hands pressing onto the wall's uneven blocks. A pale wrapped head covering hides most of the face in shadow. The clothing is layered in dark wine red, crimson, and burnt orange, with loose sleeves, worn folds, and a small bundle hanging at the back. The wall spans the lower quarter of the frame, its individual reddish stones outlined by dark cracks and lit by hot orange light. Behind the traveler, the entire sky is a bold gradient from saturated magenta at the top through red to fiery orange near the lower sides. There are no distant buildings or landscape details; the simplified backdrop focuses attention on the hunched pose and masonry. Light from below and behind catches the edges of sleeves and stone while leaving the face nearly unreadable. The figure's silhouette is compact but powerfully centered, balanced by broad empty color above. Painterly texture and fine ink-like hatch marks describe fabric, hand joints, and rough brick surfaces. Some shadow passages are almost black, heightening the glowing warm tones. The image resembles a dramatic graphic-novel cover or fantasy plate, but contains no title, lettering, or border. The mood is tense and watchful, with a quiet moment of physical effort suspended against an unreal sunset.",
+  "full_prompt_zh": "一幅方形奇幻插画呈现一名孤独的头巾旅人蹲在粗糙石墙顶上。人物居中，身体紧紧收拢，一膝提到胸前，戴手套的双手按住不平石块。浅色缠绕头巾把大半张脸藏在阴影里。衣服层叠深酒红、绯红与焦橙色，袖子松垂、褶皱磨旧，背后挂着一只小包。石墙横贯下方四分之一，单块红石由深裂缝勾出，受炽橙光照亮。旅人背后整片天空从顶端饱和洋红逐渐转成红，再到两侧下方火橙色。没有远处建筑或地景细节；简化背景把注意力放在蜷曲姿势和石砌体上。来自下方和背后的光捉住袖缘与石边，脸却几乎不可辨。人物轮廓紧凑但强烈居中，上方大片空色与之平衡。绘画肌理与细密墨线般排线描出布、手关节及粗石面。部分阴影几乎全黑，衬得暖色发亮。画面像戏剧化图像小说封面或奇幻插图，但没有标题、字或边框。氛围紧张而警觉，一刻身体用力的安静瞬间悬在超现实日落前。",
+  "style_prompt_en": "Use dramatic graphic-novel painting with dense dark hatching, rough material texture, and a concentrated central silhouette. Set deep wine red and near-black shadow against a broad smooth gradient of magenta, crimson, and hot orange. Keep the focal form compact and strongly foreshortened, leaving substantial empty color above or around it. Let low warm light pick out select edges and raised textures while deep recesses remain obscured. Combine painterly color masses with fine ink-like lines in folds, cracks, and seams. Avoid busy background detail; the force of the image comes from the contrast between physical textured detail and an unreal, saturated color field.",
+  "style_prompt_zh": "采用戏剧化图像小说绘画，结合密集深色排线、粗糙材料肌理和集中的中央剪影。让深酒红与近黑阴影对照一大片从洋红、绯红到炽橙的平滑渐变。焦点形体保持紧凑并有强透视缩短，周围或上方留足空色。低处暖光只挑亮部分边缘和隆起纹理，深凹处仍不可辨。把绘画性色团与褶皱、裂缝及接缝里的细墨线结合。背景细节保持简洁；图像力量来自实体肌理细节与不真实饱和色域之间的对比。",
+  "theme_en": "A hooded traveler crouching on a weathered stone wall at sunset",
+  "theme_zh": "日落时披头巾的旅人蹲在风化石墙上",
+  "wh_ratio": "1:1",
+  "id": "4318",
+  "name": "Richard Corben",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/richard-corben.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "07fa2093714a4c9ca3da222769859622b9d3916b43b421987e87275767188970",
+    "gpt_submission_prompt": "A square fantasy illustration shows a solitary hooded traveler crouching on top of a rough stone wall. The figure occupies the center, folded tightly inward, with one knee raised near the chest and both gloved hands pressing onto the wall's uneven blocks. A pale wrapped head covering hides most of the face in shadow. The clothing is layered in dark wine red, crimson, and burnt orange, with loose sleeves, worn folds, and a small bundle hanging at the back. The wall spans the lower quarter of the frame, its individual reddish stones outlined by dark cracks and lit by hot orange light. Behind the traveler, the entire sky is a bold gradient from saturated magenta at the top through red to fiery orange near the lower sides. There are no distant buildings or landscape details; the simplified backdrop focuses attention on the hunched pose and masonry. Light from below and behind catches the edges of sleeves and stone while leaving the face nearly unreadable. The figure's silhouette is compact but powerfully centered, balanced by broad empty color above. Painterly texture and fine ink-like hatch marks describe fabric, hand joints, and rough brick surfaces. Some shadow passages are almost black, heightening the glowing warm tones. The image resembles a dramatic graphic-novel cover or fantasy plate, but contains no title, lettering, or border. The mood is tense and watchful, with a quiet moment of physical effort suspended against an unreal sunset.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "97c773da923baafd9ff3a189a81ecb29a4781996804c311774ce0be5684f496e",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

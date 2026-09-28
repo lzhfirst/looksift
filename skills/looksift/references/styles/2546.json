@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square watercolor animal illustration presents the forward-facing head and upper chest of an owl against almost untouched warm-white paper. Its large amber eyes dominate the upper center, each ringed by dark brown and fine black feather lines; the gaze is direct and intense. Two black-tipped ear tufts flare diagonally from the upper corners of its rounded head. Between the eyes, mottled tan and gray markings form a dense brow that narrows toward a short blue-black beak at the center. Below, pale cream feathers sweep outward in layered arcs around the beak, then turn into loose brown and gray strokes across the chest. The left and right edges of the bird dissolve into the paper instead of forming a hard cutout. Tiny sepia, ochre, and charcoal droplets scatter around the head, especially above it and down the lower-right side. Fine stray pencil or ink-like lines extend beyond the feathers, while translucent washes bleed into granular darker patches. The wings and body remain mostly outside the frame, letting the precise eyes and beak carry the character. A few thin vertical drips descend from the lower chest into the blank page. Light is even and paper-bright; small white highlights in the amber irises and crisp dark central marks create the strongest dimensional cues. The composition balances a nearly symmetrical stare against irregular splashes and fading feather edges, making the owl feel alert yet delicately handmade.",
+  "full_prompt_zh": "一幅方形水彩动物插画在几乎未着色的暖白纸上，呈现一只猫头鹰正面的头部与上胸。大大的琥珀色眼睛支配上部中央，每只眼外绕深棕色和细黑羽线，目光直接而强烈。两簇黑尖耳羽从圆头上角斜向外张开。双眼之间，斑驳棕灰色羽纹形成浓密眉区，向中央短小蓝黑鸟喙收窄。下方，浅奶油色羽毛围绕喙部呈层叠弧线向外扫，再化成胸前松散的棕灰笔触。鸟的左右边缘直接溶进纸面，没有坚硬的抠图边界。细小棕褐、赭黄和炭色水点散在头部周围，尤其在上方和右下。细而游离的铅笔或墨线越过羽毛边界，半透明水洗渗进较深的颗粒斑块。翅膀与身体大多留在画外，让准确描绘的眼睛和喙承担个性。几道细竖流痕从胸下落入空白纸面。光线均匀而有纸张的亮度；琥珀虹膜中的小白高光和中央清晰深色标记提供最强立体提示。构图以近乎对称的凝视，对照不规则飞溅和渐隐羽缘，使猫头鹰既警觉又带精细手作感。",
+  "style_prompt_en": "Watercolor illustration builds focal detail with fine dark linework, translucent layered washes, feathered dry-brush marks, and scattered pigment spatter on warm white paper. Keep one small area sharply modeled while outer edges dissolve into blank space. Mix amber and ochre warmth with cool gray, sepia, and blue-black accents, allowing granulation and pale blooms to remain visible. Use a near-symmetric central structure, then interrupt it with stray lines, irregular droplets, and thin downward drips. Even paper light and tiny crisp highlights make the focal features vivid without a separate painted background. The overall character is observant, airy, and tactile.",
+  "style_prompt_zh": "水彩插画用细深线、半透明叠洗、羽化干笔和暖白纸上的颜料飞点建立焦点细节。让一小处清晰塑形，外缘渐渐溶入留白。琥珀与赭黄的暖意混合冷灰、棕褐和蓝黑重点，保留明显颗粒与浅色水痕。以近对称的中心结构起笔，再用游离细线、不规则水点和向下细流痕打破。均匀纸面光与微小清楚的高光让焦点鲜活，无需另画背景。整体形象警觉、轻盈且富有触感。",
+  "theme_en": "A wide-eyed owl emerging from watercolor splashes on white paper",
+  "theme_zh": "圆眼猫头鹰从白纸水彩飞溅中浮现",
+  "wh_ratio": "1:1",
+  "id": "2546",
+  "name": "Hannah Dale",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/hannah-dale",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/hannah-dale.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "a35de960575948f5240abf31e4ae94203918c9e2a9abac53c05e2467c8e63668",
+    "gpt_submission_prompt": "A square watercolor animal illustration presents the forward-facing head and upper chest of an owl against almost untouched warm-white paper. Its large amber eyes dominate the upper center, each ringed by dark brown and fine black feather lines; the gaze is direct and intense. Two black-tipped ear tufts flare diagonally from the upper corners of its rounded head. Between the eyes, mottled tan and gray markings form a dense brow that narrows toward a short blue-black beak at the center. Below, pale cream feathers sweep outward in layered arcs around the beak, then turn into loose brown and gray strokes across the chest. The left and right edges of the bird dissolve into the paper instead of forming a hard cutout. Tiny sepia, ochre, and charcoal droplets scatter around the head, especially above it and down the lower-right side. Fine stray pencil or ink-like lines extend beyond the feathers, while translucent washes bleed into granular darker patches. The wings and body remain mostly outside the frame, letting the precise eyes and beak carry the character. A few thin vertical drips descend from the lower chest into the blank page. Light is even and paper-bright; small white highlights in the amber irises and crisp dark central marks create the strongest dimensional cues. The composition balances a nearly symmetrical stare against irregular splashes and fading feather edges, making the owl feel alert yet delicately handmade.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "7e09fbacf09cc270c6c7b31b8581b6f7db032964e766498309633e13a788f1ae",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square natural-history illustration presents a dark songbird perched among branches carrying large dusty-pink blossoms. The bird faces left in three-quarter profile, its narrow pale bill raised slightly. Blue-black feathers cover the head and back, a creamy white throat and breast catch the light, and brown-black wing and tail feathers overlap in carefully observed layers. Its feet grasp a slender crossing branch in the lower center. Around it, broad gray-green leaves show delicate veins, closed buds lift at the upper corners, and several open flowers display soft pink petals and pale central stamens. A deep muted olive background makes the bird and blossoms emerge without a cast shadow or staged scenery. The arrangement is dense but balanced: the bird forms a dark diagonal across the center, while flowers open at left and upper right. Each feather, leaf edge, and petal fold is rendered with refined painted detail and subtle tonal gradation. The surface resembles an aged hand-colored engraved plate on matte paper, with a slightly faded pigment range rather than vivid modern color. Light is even and observational, suitable for studying natural forms. There is no title, specimen label, diagram key, or frame. The image feels both scientific and decorative, with living gesture contained within an orderly botanical composition.",
+  "full_prompt_zh": "一幅方形博物图谱插画描绘一只深色鸣禽停在开着大朵旧粉花的枝间。鸟以四分之三侧面朝左，细浅鸟喙微微上扬。蓝黑羽毛覆盖头与背，奶白喉胸受光，棕黑翅羽和尾羽按仔细观察的层次相叠。双足抓住下方中央交叉的细枝。周围宽阔灰绿叶片有精细叶脉，上角闭合花蕾伸出，几朵开放花显露柔粉花瓣和浅色中央花蕊。深而低调的橄榄色背景令鸟与花显现，却没有投影或舞台场景。安排密集但平衡：鸟在中心形成深色斜线，花在左侧和右上展开。每片羽、叶缘和花瓣褶皱都有精致绘画细节与细微色阶。表面像亚光纸上的陈旧手工着色版画，颜料略褪，不是鲜艳现代色。光线均匀、重观察，适合研究自然形态。画中没有标题、标本标签、图示说明或外框。作品既有科学性又有装饰性，生动姿态被安放在有序植物构图里。",
+  "style_prompt_en": "Aged natural-history plate painting with meticulous observational detail, fine engraved-like contours, and restrained hand-colored gradations. Muted olive, dusty rose, gray-green, cream, and blue-black form a softly faded palette on matte paper. Layered organic shapes interlock in an orderly balanced composition. Even light reveals small surface structures without theatrical shadow; the result feels precise, archival, and quietly decorative.",
+  "style_prompt_zh": "陈旧博物图谱绘画具有细致观察细节、版画般精细轮廓和克制手工着色色阶。低调橄榄、旧粉、灰绿、奶油和蓝黑在亚光纸上组成柔和褪色调。层叠有机形态在有序平衡的构图里相扣。均匀光线显露微小表面结构而无舞台阴影，整体精准、档案化且安静装饰。",
+  "theme_en": "A dark songbird perched among pink blossoms",
+  "theme_zh": "粉色花枝间停栖的深色鸣禽",
+  "wh_ratio": "1:1",
+  "id": "4286",
+  "name": "Mark Catesby",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/mark-catesby.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "524e4480773d77ac79d1ea40d5b8f566c389b66f2f48f81048fd888feea82155",
+    "gpt_submission_prompt": "A square natural-history illustration presents a dark songbird perched among branches carrying large dusty-pink blossoms. The bird faces left in three-quarter profile, its narrow pale bill raised slightly. Blue-black feathers cover the head and back, a creamy white throat and breast catch the light, and brown-black wing and tail feathers overlap in carefully observed layers. Its feet grasp a slender crossing branch in the lower center. Around it, broad gray-green leaves show delicate veins, closed buds lift at the upper corners, and several open flowers display soft pink petals and pale central stamens. A deep muted olive background makes the bird and blossoms emerge without a cast shadow or staged scenery. The arrangement is dense but balanced: the bird forms a dark diagonal across the center, while flowers open at left and upper right. Each feather, leaf edge, and petal fold is rendered with refined painted detail and subtle tonal gradation. The surface resembles an aged hand-colored engraved plate on matte paper, with a slightly faded pigment range rather than vivid modern color. Light is even and observational, suitable for studying natural forms. There is no title, specimen label, diagram key, or frame. The image feels both scientific and decorative, with living gesture contained within an orderly botanical composition.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "2d56d0418f95e6ee61f54b9edf698ffad1ce1f687063977dc216de87c56541ad",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

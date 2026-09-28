@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A richly colored fantasy landscape painting opens onto a tropical cove at sunset. In the foreground, shallow water slips between dark wet rocks and reflects a vertical band of peach-gold light from the sky. Low waves break gently across the middle distance, creating thin turquoise and white edges that separate the glossy shore from deeper blue water. On the left, steep dark cliffs and jagged island peaks rise behind a fringe of palms and dense foliage; on the right, a shadowed bank and a small tree close the composition. Farther out, a low rocky island sits beneath an immense sky. Clouds occupy most of the frame, piled in dramatic layers of violet, indigo, mauve, and glowing apricot. A brilliant opening near the horizon sends light through their undersides, while small white birds cross the brighter gap and provide scale. The painting uses smooth blending in the cloud bodies and water, crisp silhouettes on rock and foliage, and fine sparkling highlights where light touches ripples. Saturated warm color is concentrated in the break of the clouds and reflected path; cool blue-violet shadows frame it on all sides. The viewpoint stays close to the water, letting foreground rocks lead the eye toward the light. The scene feels expansive and serene despite the stormlike sky, with a polished, imaginative realism that gives every surface a luminous finish.",
+  "full_prompt_zh": "一幅色彩丰厚的奇幻风景画，在日落时分展开一个热带海湾。前景浅水从湿润的深色岩石间流过，映出天空里一道纵向的桃金色光。中景低浪轻轻破开，形成细窄的绿松石色与白色边缘，把发亮的岸边与更深的蓝水分开。左侧陡峭暗崖和锯齿状岛峰升起，前方有棕榈和浓密叶丛；右侧阴影中的岸地与一棵小树收拢构图。更远处一块低矮岩岛坐在无边天空之下。云层占据大部分画面，紫罗兰、靛蓝、淡紫和发亮杏色戏剧性地层层堆起。地平线附近一道耀眼缺口照亮云的底部，几只小白鸟飞过明亮区域，提供尺度。绘画在云体与水面使用平滑融合，岩石和植物是清晰剪影，光碰到涟漪的地方则有细小闪点。饱和暖色集中在云层裂口与水中反光道路，冷蓝紫阴影从四面围住。视点贴近水面，让前景岩石引领目光奔向光亮。尽管天空仿佛暴风将至，场景仍开阔而安宁；精致的想象现实感令每一种表面都带着发亮的收束。",
+  "style_prompt_en": "Luminous fantasy landscape painting with smooth atmospheric blending and crisp dark silhouettes. Violet, indigo, mauve, turquoise, and apricot-gold create a saturated warm-cool contrast. Broad rolling tonal masses fill the upper space, while a narrow bright opening sends reflected light down through layered lower surfaces. Small sharp highlights sparkle amid softer transitions, and rough dark forms anchor the edges. The composition leads inward from close textured foreground shapes toward a glowing distance. The finish is polished and imaginative, balancing expansive drama with a calm, fluid rhythm.",
+  "style_prompt_zh": "发亮的奇幻风景绘画风格，空气中的色阶平滑融合，深色剪影边缘清晰。紫罗兰、靛蓝、淡紫、绿松石和杏金形成饱和的冷暖对照。宽阔翻卷的明暗体块填满上部，一道狭窄亮口将反光送入层层下方表面。细小锐利高光在柔软过渡间闪烁，粗糙深色形态稳定边缘。构图从近处有纹理的形状向发亮远方深入。完成度精致且富于想象，在辽阔戏剧性与平静流动的节奏间取得平衡。",
+  "theme_en": "A luminous tropical cove beneath violet storm clouds",
+  "theme_zh": "紫色暴风云下发亮的热带海湾",
+  "wh_ratio": "1:1",
+  "id": "1192",
+  "name": "Jim Warren",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/jim-warren",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/jim-warren.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "05a40bb64041a763292f7eb754c74814dacca3d2e6919286b0224e3895a03193",
+    "gpt_submission_prompt": "A richly colored fantasy landscape painting opens onto a tropical cove at sunset. In the foreground, shallow water slips between dark wet rocks and reflects a vertical band of peach-gold light from the sky. Low waves break gently across the middle distance, creating thin turquoise and white edges that separate the glossy shore from deeper blue water. On the left, steep dark cliffs and jagged island peaks rise behind a fringe of palms and dense foliage; on the right, a shadowed bank and a small tree close the composition. Farther out, a low rocky island sits beneath an immense sky. Clouds occupy most of the frame, piled in dramatic layers of violet, indigo, mauve, and glowing apricot. A brilliant opening near the horizon sends light through their undersides, while small white birds cross the brighter gap and provide scale. The painting uses smooth blending in the cloud bodies and water, crisp silhouettes on rock and foliage, and fine sparkling highlights where light touches ripples. Saturated warm color is concentrated in the break of the clouds and reflected path; cool blue-violet shadows frame it on all sides. The viewpoint stays close to the water, letting foreground rocks lead the eye toward the light. The scene feels expansive and serene despite the stormlike sky, with a polished, imaginative realism that gives every surface a luminous finish.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "74ee94f4002116d36f213e2295c38c451de949b704c486ccb4c6249a25fee523",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

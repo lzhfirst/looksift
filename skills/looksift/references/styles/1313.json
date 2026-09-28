@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white beauty photograph shows a face in an extremely tight frontal crop, the eyes closed and the background almost completely black. Dark hair and deep shadow cover the upper forehead, so the illuminated nose, cheeks, and lips become the principal shapes. Fine freckles scatter densely across the bridge of the nose and upper cheeks, each small mark visible in the soft tonal range. Long eyelashes rest against the eyelids, with the left eye partly swallowed by shadow and the right lid catching a pale rim of light. The mouth sits near the lower center, lips gently parted and modeled by a narrow highlight over the upper lip and a darker line between them. The chin fades into charcoal at the bottom edge, while the sides of the face disappear into the background without a firm outline. A few dark strands fall diagonally across the upper right, adding a fine texture over the smoother skin. Light comes from the front and slightly above, shaping the nose and lips with gentle gradients rather than a hard flash; the deepest shadows remain under the hair and along the jaw. The image has crisp pore and freckle detail where light falls, but the black field gives almost no environmental information. The close crop removes clothing and setting, leaving the skin surface and inward expression to carry the frame. Film-like grain is faint beneath the smooth tonal modeling. The overall composition is intimate and hushed, using pale textured skin against velvety black to create a restrained study of stillness.",
+  "full_prompt_zh": "一幅方形黑白美妆摄影以前方极紧裁切拍摄一张闭眼面孔，背景几乎完全黑色。深发与阴影遮住上额，使受光的鼻、脸颊和嘴唇成为主要形状。细雀斑密密散在鼻梁与上脸，每个小点都能在柔和影调中辨出。长睫毛贴在眼睑上，左眼部分被阴影吞没，右眼皮接住浅亮边。嘴位于下方中央附近，双唇轻微分开，上唇上的窄亮部与唇间深线塑造其形。下巴在下缘淡入炭灰，脸两侧没有坚硬轮廓地消失在背景里。几缕深发斜过右上，在更平滑皮肤上增加细纹。光从前上方来，以柔缓渐层塑出鼻与唇，而非硬闪光；最深阴影留在头发下和下颌沿线。受光处有清楚毛孔与雀斑细节，黑色画域几乎不给环境信息。近裁切移去衣物和场景，只留下皮肤表面与内向表情来承载画幅。平滑影调塑形下有淡胶片颗粒。整体构图亲密而安静，以浅亮有纹理的皮肤对照绒暗黑色，形成克制的静止研究。",
+  "style_prompt_en": "The photograph has high-resolution black-and-white beauty tonality with a very close crop and nearly absent background. Soft frontal upper light reveals tiny surface marks and smooth gradients, while velvety black consumes peripheral contours. Pale middle-gray planes sit beside deep shadow without harsh clipping, allowing fine pores and narrow highlights to remain visible. A few dark strands or linear interruptions add movement across otherwise still rounded forms. Focus is precise on the central skin texture and falls away into the surrounding darkness. The overall effect is intimate, minimal, and quietly dramatic.",
+  "style_prompt_zh": "照片具有高解析黑白美妆影调，裁切极近，背景几乎不存在。柔和前上光揭示微小表面斑点与平滑渐层，绒暗黑色吞没边缘轮廓。浅中灰平面贴着深影，却没有粗暴截断，使细毛孔与窄亮部仍可见。少数深色丝线或线性打断在原本静止圆形体积上添运动。焦点精确落在中央表面肌理，并向周围暗处消退。整体效果亲密、极简且安静地富戏剧性。",
+  "theme_en": "A freckled face with eyes closed emerging from deep black shadow",
+  "theme_zh": "布满雀斑的面孔闭着眼，从深黑阴影中浮现",
+  "wh_ratio": "1:1",
+  "id": "1313",
+  "name": "Carsten Witte",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/carsten-witte",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/carsten-witte.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "480e702c7da03604610f94985591b1a48f3c430526e12ea48a33d64801f4086c",
+    "gpt_submission_prompt": "A square black-and-white beauty photograph shows a face in an extremely tight frontal crop, the eyes closed and the background almost completely black. Dark hair and deep shadow cover the upper forehead, so the illuminated nose, cheeks, and lips become the principal shapes. Fine freckles scatter densely across the bridge of the nose and upper cheeks, each small mark visible in the soft tonal range. Long eyelashes rest against the eyelids, with the left eye partly swallowed by shadow and the right lid catching a pale rim of light. The mouth sits near the lower center, lips gently parted and modeled by a narrow highlight over the upper lip and a darker line between them. The chin fades into charcoal at the bottom edge, while the sides of the face disappear into the background without a firm outline. A few dark strands fall diagonally across the upper right, adding a fine texture over the smoother skin. Light comes from the front and slightly above, shaping the nose and lips with gentle gradients rather than a hard flash; the deepest shadows remain under the hair and along the jaw. The image has crisp pore and freckle detail where light falls, but the black field gives almost no environmental information. The close crop removes clothing and setting, leaving the skin surface and inward expression to carry the frame. Film-like grain is faint beneath the smooth tonal modeling. The overall composition is intimate and hushed, using pale textured skin against velvety black to create a restrained study of stillness.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "cdfdc9aade7c570998c9bab1b49f5b1ede63344767c8f1e54374802d0dfd98ca",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

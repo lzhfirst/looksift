@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square close photograph documents a drawing in progress: a highly realistic blue-gray eye occupies the left center of the image, while a large hand holding a fine mechanical pen enters from the right. The tool tip touches the skin just below the eye, near a pale cheek plane. Delicate eyelashes, a dark upper lid, and a bright glassy iris are already fully rendered; soft airbrushed tonal gradients shape the surrounding brow, bridge of the nose, and cheek. The skin is rendered in cool graphite and blue-gray, with mottled pale patches that reveal the handmade process. The artist's thumb and forefinger are sharply visible in warm flesh color, contrasting with the monochrome image underneath. A dark sleeve or background fills the top edge. The camera is very close, so the physical scale of hand, tool, and drawn eye becomes clear. Soft overhead light glints on the metal pen grip and in the illustrated iris, while the drawing's transitions remain smooth and shadowy. The image is neither a finished portrait nor a flat scan; it records a moment of precision work, balancing photographic reality of the hand with the illusionistic eye on paper. Fine grain and shallow depth keep the contact point dominant.",
+  "full_prompt_zh": "一张方形近景照片记录绘画进行中的瞬间：高度写实的蓝灰色眼睛占据左侧中央，一只握着精细机械笔的大手从右方伸入。笔尖触到眼下靠近浅色面颊的位置。纤细睫毛、深色上眼睑与发亮的玻璃般虹膜已经完整绘出；柔和喷绘式调子渐变塑造周围眉骨、鼻梁与面颊。皮肤以冷铅灰和蓝灰表现，带斑驳浅块，透露手工过程。画家的拇指和食指以暖肤色清晰可见，与下方单色画面形成对比。深色衣袖或背景填满上缘。镜头极近，使手、工具和所绘眼睛的物理比例清楚。柔和顶光在金属笔握和画中虹膜上闪亮，而画面调子过渡保持平滑幽暗。这既不是完成的肖像，也不是平面的扫描件；它记录一次精密工作，在手的摄影真实与纸上眼睛的幻觉之间平衡。细颗粒与浅景深使接触点成为焦点。",
+  "style_prompt_en": "Photoreal airbrush drawing with exceptionally smooth cool-gray tonal gradients, subtle mottled masking, precise dark accents, and tiny luminous highlights. Soft-edged volume meets hairline tool marks at focal transitions. A restrained blue-gray, graphite, and pale-silver palette produces dimensional realism without hard outlines; light appears diffuse and close, preserving a velvety surface and controlled depth.",
+  "style_prompt_zh": "照片级喷绘风格，极其平滑的冷灰调子渐变、细微斑驳遮罩、准确深色重点和针尖般明亮高光共同组成。柔边体积在焦点过渡处与发丝般工具痕相接。克制的蓝灰、铅灰及浅银色构成立体真实感，而不靠硬轮廓；光线近而漫射，保留柔绒表面与受控纵深。",
+  "theme_en": "A hand refining a blue-gray photoreal eye drawing",
+  "theme_zh": "一只手正在细修蓝灰色写实眼部绘画",
+  "wh_ratio": "1:1",
+  "id": "4326",
+  "name": "Airbrush drawing",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/airbrush-drawing.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "ac921924daf9c372021fc368e0662750ab2f5d181600b2ba52ecfe046f6711b3",
+    "gpt_submission_prompt": "A square close photograph documents a drawing in progress: a highly realistic blue-gray eye occupies the left center of the image, while a large hand holding a fine mechanical pen enters from the right. The tool tip touches the skin just below the eye, near a pale cheek plane. Delicate eyelashes, a dark upper lid, and a bright glassy iris are already fully rendered; soft airbrushed tonal gradients shape the surrounding brow, bridge of the nose, and cheek. The skin is rendered in cool graphite and blue-gray, with mottled pale patches that reveal the handmade process. The artist's thumb and forefinger are sharply visible in warm flesh color, contrasting with the monochrome image underneath. A dark sleeve or background fills the top edge. The camera is very close, so the physical scale of hand, tool, and drawn eye becomes clear. Soft overhead light glints on the metal pen grip and in the illustrated iris, while the drawing's transitions remain smooth and shadowy. The image is neither a finished portrait nor a flat scan; it records a moment of precision work, balancing photographic reality of the hand with the illusionistic eye on paper. Fine grain and shallow depth keep the contact point dominant.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "6c99e5400519582c49f888c901991e82795d7e3f9aff234f6d3d8738cef280fc",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

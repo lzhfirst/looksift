@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square graphite drawing on pale paper shows a young woman from the chest up with her head inclined toward the left and her eyes lowered. Her wavy hair is braided loosely around the crown and gathered at the back, with stray curls near the cheek and neck. The face is finely modeled in soft gray values: a gently shaded forehead, dark lashes, rounded cheek, and small closed mouth. The blouse and shoulders remain only lightly indicated with thin searching lines, allowing the head to carry nearly all the drawing's weight. Two dark pencils rest vertically on the paper at the far left, visibly framing the work surface. Graphite marks range from broad rubbed tone in the hair to tiny directional strokes along the braid and eyebrow. The darkest value gathers at the hairline and upper head; cheek and neck fade gradually into blank paper. Light seems to come from the upper left, illuminating the forehead and nose and leaving a soft shadow beneath the chin. The background is unworked white, with no setting or decoration. The composition is intimate and quiet, showing the artist's attention shifting from resolved facial detail to unfinished garment outlines. Its appeal lies in subtle tonal control and the visible process of observation.",
+  "full_prompt_zh": "一幅方形淡纸石墨画描绘一位年轻女子的胸上半身，头向左低垂，眼睛下望。波浪发松松编绕头顶并收在后脑，面颊和颈边有散卷。脸以柔灰明暗细致塑形：轻着影的额、深睫毛、圆面颊与闭合小嘴。上衣和肩仅由细小探索线轻轻提示，让头承担几乎全部绘画重量。两支深色铅笔竖放在纸最左侧，明显框出工作表面。石墨笔痕从头发的宽阔磨擦调子变化到辫与眉旁微小定向线。最暗值聚在发际与头上部；脸颊和颈逐渐淡入纸白。光似从左上来，照亮额与鼻，在颌下留柔影。背景未加工而白，没有场景或装饰。构图亲密安静，显示画者注意力从完成的脸部细节转到未完成的衣物轮廓。其吸引力来自细微明暗控制和可见观察过程。",
+  "style_prompt_en": "Graphite drawing on pale paper uses a full range of rubbed gray, fine directional hatching, and reserved white highlights. Some forms are meticulously resolved while adjacent areas remain in light searching outline. Dark concentrations anchor the focal region and dissolve gradually into paper at the edges. Side light is translated into soft tonal transitions rather than sharp contrast. Grain, erasure, and pencil pressure remain visible, making the surface candidly handmade. The composition stays intimate and uncluttered, with quiet observational precision and a gentle unfinished quality.",
+  "style_prompt_zh": "淡纸石墨画运用从磨擦灰到细定向排线的完整灰阶，并保留白色高光。有些形体精心完成，相邻区域仍为浅浅探索轮廓。深色浓处稳定焦点，向边缘逐渐淡入纸面。侧光转译为柔调过渡，而非硬对比。颗粒、擦除和铅笔压力保持可见，使表面坦诚手工。构图贴近简净，有安静观察精确与轻柔未完成感。",
+  "theme_en": "A young woman with lowered eyes in a graphite study",
+  "theme_zh": "低垂双眼的年轻女子石墨习作",
+  "wh_ratio": "1:1",
+  "id": "4114",
+  "name": "Graphite drawing",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/graphite-drawing.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "4bb0ff521aae4ef20fd6b7c8d71d0df84b48c87b8270d315d7687491a4e803ac",
+    "gpt_submission_prompt": "A square graphite drawing on pale paper shows a young woman from the chest up with her head inclined toward the left and her eyes lowered. Her wavy hair is braided loosely around the crown and gathered at the back, with stray curls near the cheek and neck. The face is finely modeled in soft gray values: a gently shaded forehead, dark lashes, rounded cheek, and small closed mouth. The blouse and shoulders remain only lightly indicated with thin searching lines, allowing the head to carry nearly all the drawing's weight. Two dark pencils rest vertically on the paper at the far left, visibly framing the work surface. Graphite marks range from broad rubbed tone in the hair to tiny directional strokes along the braid and eyebrow. The darkest value gathers at the hairline and upper head; cheek and neck fade gradually into blank paper. Light seems to come from the upper left, illuminating the forehead and nose and leaving a soft shadow beneath the chin. The background is unworked white, with no setting or decoration. The composition is intimate and quiet, showing the artist's attention shifting from resolved facial detail to unfinished garment outlines. Its appeal lies in subtle tonal control and the visible process of observation.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "728566b7698785687db62e38d3938994da7de65a2d01458920284596f7344fa7",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

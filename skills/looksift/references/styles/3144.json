@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "An intricately inked illustration shows a young woman kneeling beside a black cat at the edge of a patterned pond. Her pale profile faces left, and her dark hair is gathered into a loose knot tied with a small red cord. A brilliant vermilion garment fills the right half, its surface covered in fine pale floral marks; a cool patterned skirt curves across the lower corner. The cat sits near center as a dense black shape, its small bright eyes emerging from close hatching. Above them, red-and-white fish drift through dark blue water whose current is drawn in countless flowing lines. Cream flowers and curling stems crowd the lower and right edges, making a decorative enclosure around the quiet central relationship. Fine black contours, parallel ink strokes, and small stippled marks build texture everywhere without dissolving the larger color shapes. The palette is narrow but vivid: vermilion, deep navy, black, ivory, and muted blue-gray. Light is mostly graphic, expressed through pale skin and blossoms against the dark pond rather than through cast shadows. Red fish repeat the garment's color and draw the gaze around the upper field. The scene balances a still, intimate gesture with vigorous pattern movement, as if a woodblock print and a densely detailed modern illustration had met on the same page.",
+  "full_prompt_zh": "一幅墨线繁密的插画描绘一位年轻女子跪在纹样水池旁，陪着一只黑猫。她浅色的侧脸朝左，深发松松挽起，用一小段红绳系住。鲜亮朱红衣袍占据右半部，表面布满细小浅色花纹；下角一片冷色纹样裙摆弯曲铺开。黑猫坐在中心附近，是一块密实的黑色形体，两点小亮眼从紧密排线中显出。上方，红白相间的鱼在深蓝水中游过，水流由无数条流动线画成。奶油白花朵与卷曲茎叶挤满下缘和右边，把中心安静的互动包在装饰性框架里。细黑轮廓、平行墨线和小点描在各处建立纹理，却没有冲散较大的色形。色盘狭窄而鲜明：朱红、深海军蓝、黑、象牙白和柔蓝灰。光主要通过图形关系表达，浅色皮肤与花朵在暗水前发亮，而不是依靠投影。红鱼重复衣袍的颜色，引导目光绕过上方区域。场景在静止亲密的动作与强烈流动的图案之间取得平衡，像一张木刻版画和一幅细节密集的现代插画相遇。",
+  "style_prompt_en": "An intricate ink illustration with a restricted vermilion, deep navy, black, ivory, and muted blue-gray palette. Dense parallel strokes and flowing contour lines fill dark areas, while pale floral clusters collect along the edges. One broad red mass anchors the right; smaller red flecks repeat across the upper field. Fine stipple, curling stems, and patterned fabric-like planes create tactile rhythm. Light is graphic: pale openings and dark voids alternate rather than relying on cast shadow. The composition is crowded at the margins but leaves a calm relational space near the center.",
+  "style_prompt_zh": "一幅墨线繁密的插画，色盘限制在朱红、深海军蓝、黑、象牙白与柔蓝灰。密集平行笔迹和流动轮廓填满深色区域，浅色花簇聚在边缘。右侧一块宽阔红色体量压住画面，更小的红点在上方反复出现。细点描、卷曲茎线和织物般纹样平面构成可触的节奏。光是图形性的：浅色开口与深色空域交替出现，而非依赖投影。构图边缘拥挤，却在中心附近留下平静的关系空间。",
+  "theme_en": "A young woman and black cat beside a patterned pond",
+  "theme_zh": "纹样水池旁的少女与黑猫",
+  "wh_ratio": "1:1",
+  "id": "3144",
+  "name": "Yuko Shimizu",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/yuko-shimizu",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "7cbe209b09f866e5afbfd0f4962025f6627835b8df3d805ae8f37ef1bb612f85",
+    "gpt_submission_prompt": "An intricately inked illustration shows a young woman kneeling beside a black cat at the edge of a patterned pond. Her pale profile faces left, and her dark hair is gathered into a loose knot tied with a small red cord. A brilliant vermilion garment fills the right half, its surface covered in fine pale floral marks; a cool patterned skirt curves across the lower corner. The cat sits near center as a dense black shape, its small bright eyes emerging from close hatching. Above them, red-and-white fish drift through dark blue water whose current is drawn in countless flowing lines. Cream flowers and curling stems crowd the lower and right edges, making a decorative enclosure around the quiet central relationship. Fine black contours, parallel ink strokes, and small stippled marks build texture everywhere without dissolving the larger color shapes. The palette is narrow but vivid: vermilion, deep navy, black, ivory, and muted blue-gray. Light is mostly graphic, expressed through pale skin and blossoms against the dark pond rather than through cast shadows. Red fish repeat the garment's color and draw the gaze around the upper field. The scene balances a still, intimate gesture with vigorous pattern movement, as if a woodblock print and a densely detailed modern illustration had met on the same page.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "36c31f2a92982060a70524c33692bd3925ecb8ea60b71d0abaacea7ec73ab07f",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

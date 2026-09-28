@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square aged black-and-white snapshot shows three young companions sitting close together on a low wall or bench. A dark-haired young man in a worn jacket occupies the left, leaning forward with his hands near his knees. At center, a young woman sits slightly behind him, her pale face partly softened by the damaged print. At right, another young woman in a light blouse and dark skirt leans inward with one hand near her cheek; her crossed legs extend toward the lower center. The trio form a compact intimate group, with shoulders touching and their gazes directed slightly downward or toward the camera. Their surroundings are barely resolved: a pale rough wall and a dark tree or shrub at the far right. The photograph is heavily worn, with scratches, stains, rubbed edges, bright emulsion losses, and a cloudy veil across the upper half. The contrast is low in the background but strong enough in clothing and faces to preserve the arrangement. Soft daylight seems diffuse, with no clear cast shadows. The imperfect framing cuts close to their feet and leaves hazy space above. The picture feels personal and unposed, as though an old pocket print survived repeated handling and environmental damage.",
+  "full_prompt_zh": "一张方形老化黑白快照呈现三位年轻同伴紧挨着坐在低墙或长凳上。左侧深发年轻男子穿磨旧外套，身体前倾，双手靠近膝。中央一位年轻女性稍坐在他后面，浅色面庞被受损相纸柔化。右侧另一位年轻女性穿浅上衣与深裙，向内倾身，一只手靠近面颊；交叉的腿伸向下方中央。三人组成亲密紧凑的小组，肩靠在一起，目光略向下或朝镜头。周围环境几乎辨不清：浅色粗墙和最右处深树或灌木。照片磨损严重，有划痕、污迹、磨掉的边、明亮乳剂脱落，以及横过上半部的浑浊薄幕。背景反差低，但衣服和面孔仍足以保留关系。柔日光漫散，没有清楚投影。不完美取景在脚附近裁切紧，上方留下朦胧空间。照片私人且未摆拍，像一张老口袋相纸历经翻阅与环境损害后幸存下来。",
+  "style_prompt_en": "Damaged vernacular film photography with cloudy low-contrast exposure, scattered scratches, rubbed corners, emulsion losses, and mottled stains. A compact midtone cluster remains readable within pale haze and dark irregular edges. Diffuse daylight and soft focus evoke a spontaneous private moment. The material age of the paper print is integral to its visual rhythm.",
+  "style_prompt_zh": "受损的日常胶片摄影，带浑浊低反差曝光、零散划痕、磨损角、乳剂脱落和斑驳污迹。紧凑的中间调群在浅雾与不规则深边之间仍可辨。漫射日光与柔焦唤起自发的私人瞬间。纸质印相的物质老化成为视觉节奏的一部分。",
+  "theme_en": "Three young companions sitting together in a damaged vintage photograph",
+  "theme_zh": "三位年轻同伴并坐于受损的复古照片中",
+  "wh_ratio": "1:1",
+  "id": "4461",
+  "name": "Miroslav Tichy",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/miroslav-tichy.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "55964ed98a39278c9c5fc8c9ab13c2bb8327d7abd926661ce6fdd507b1a1cbc0",
+    "gpt_submission_prompt": "A square aged black-and-white snapshot shows three young companions sitting close together on a low wall or bench. A dark-haired young man in a worn jacket occupies the left, leaning forward with his hands near his knees. At center, a young woman sits slightly behind him, her pale face partly softened by the damaged print. At right, another young woman in a light blouse and dark skirt leans inward with one hand near her cheek; her crossed legs extend toward the lower center. The trio form a compact intimate group, with shoulders touching and their gazes directed slightly downward or toward the camera. Their surroundings are barely resolved: a pale rough wall and a dark tree or shrub at the far right. The photograph is heavily worn, with scratches, stains, rubbed edges, bright emulsion losses, and a cloudy veil across the upper half. The contrast is low in the background but strong enough in clothing and faces to preserve the arrangement. Soft daylight seems diffuse, with no clear cast shadows. The imperfect framing cuts close to their feet and leaves hazy space above. The picture feels personal and unposed, as though an old pocket print survived repeated handling and environmental damage.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "a4127a9654f47a8fbe478c0dbd1c513a6c94479f3b32652ae6c79132e13855f9",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

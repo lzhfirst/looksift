@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A weathered classical wall fresco depicts three figures beneath a painted band, their gestures gathered around a slender flowering tree. The central figure wears a muted wine-red garment with pale borders and reaches toward a companion in ochre and blue-gray at the left; a third figure in pale drapery stands to the right holding a small branch. Their faces appear in calm profile, built from economical lines and earthy color rather than modern three-dimensional realism. Several small birds perch among the leaves above them, and a dusty blue background keeps the figures and warm foliage legible. The plaster itself remains prominent: pale chips interrupt the top edge, cracks and dark abrasions spread through the lower corners, and the pigments vary in strength where the surface has worn away. Red-brown framing lines and a chalk-white strip establish a shallow architectural border without adding deep perspective. Light appears even and diffuse, as if the faded mineral colors are held in the wall rather than illuminated from a single direction. Warm ochre, terracotta, cream, and oxidized red are balanced by smoky blue-gray; edges soften where pigment has thinned, but the simple silhouettes remain clear. Hands, heads, birds, and branching stems create a measured sequence of small forms against the broad cool field. The whole frame feels like a surviving fragment of ceremonial everyday life, its worn fresco surface as expressive as the quiet exchange it contains.",
+  "full_prompt_zh": "一幅风化的古典墙面湿壁画描绘三个人物站在彩绘边带下，他们的手势围绕一株纤细开花的小树聚集。中央人物身穿带浅色边饰的低饱和酒红衣服，伸手向左边穿赭色与蓝灰色衣服的同伴；右边一名披浅色布料的人物手持一小段枝条。面孔以平静侧脸呈现，靠简练线条和土地色彩塑造，而非现代式的立体写实。几只小鸟栖在上方叶间，灰蒙蒙的蓝色背景衬出人物与暖色树叶。灰泥本身十分醒目：上边缘有浅色剥落，裂痕与深色磨损蔓延在下方角落，表面脱落之处的颜料浓淡不一。红褐色边线与粉白色横带形成浅浅的装饰边框，却没有深透视。光感均匀而漫射，仿佛褪色的矿物颜料存在于墙体里，并非由某个方向的光照亮。暖赭、陶土色、奶油白和氧化后的红色与烟雾般的蓝灰相平衡；颜料变薄之处边缘柔化，简洁的剪影仍然清楚。手、头、小鸟和分枝的树茎在宽阔冷色域上形成有分寸的细小形体序列。整幅画像日常仪式场景幸存下来的一块残片，磨损的湿壁画表面与其中安静的交换同样富于表现力。",
+  "style_prompt_en": "A weathered classical wall fresco uses thin mineral pigments, economical contour drawing, and flattened, shallowly modeled forms on visibly aged plaster. Dusty blue-gray fields support terracotta, ochre, faded wine red, and chalk-white accents. Abraded patches, cracks, and uneven pigment density soften some edges while leaving essential silhouettes readable. Narrow decorative bands and small rhythmic motifs organize broad color areas under even diffuse light. The whole frame holds a quiet antiquity through the material evidence of its worn surface.",
+  "style_prompt_zh": "一幅风化的古典墙面湿壁画在可见老化的灰泥上使用薄薄的矿物颜料、简练的轮廓线和扁平、浅层塑形的形体。灰蒙蒙的蓝灰色域衬托陶土色、赭色、褪去光泽的酒红和粉白点缀。磨损斑块、裂痕与浓淡不均的颜料柔化部分边缘，却仍留下可辨的主要剪影。狭窄的装饰边带与有节奏的小形态在均匀漫射光下组织宽阔色域。整幅画借由表面磨蚀的物质证据保留安静的古意。",
+  "theme_en": "Figures exchange a flowering branch in an ancient wall fresco",
+  "theme_zh": "古代壁画中几个人物传递开花枝条",
+  "wh_ratio": "1:1",
+  "id": "0435",
+  "name": "Pompeian fresco",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/pompeian-fresco",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/pompeian-fresco.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "2954011986f384f47de1f701d960bd8c3641768bac9727e46aa68d65079bffb3",
+    "gpt_submission_prompt": "A weathered classical wall fresco depicts three figures beneath a painted band, their gestures gathered around a slender flowering tree. The central figure wears a muted wine-red garment with pale borders and reaches toward a companion in ochre and blue-gray at the left; a third figure in pale drapery stands to the right holding a small branch. Their faces appear in calm profile, built from economical lines and earthy color rather than modern three-dimensional realism. Several small birds perch among the leaves above them, and a dusty blue background keeps the figures and warm foliage legible. The plaster itself remains prominent: pale chips interrupt the top edge, cracks and dark abrasions spread through the lower corners, and the pigments vary in strength where the surface has worn away. Red-brown framing lines and a chalk-white strip establish a shallow architectural border without adding deep perspective. Light appears even and diffuse, as if the faded mineral colors are held in the wall rather than illuminated from a single direction. Warm ochre, terracotta, cream, and oxidized red are balanced by smoky blue-gray; edges soften where pigment has thinned, but the simple silhouettes remain clear. Hands, heads, birds, and branching stems create a measured sequence of small forms against the broad cool field. The whole frame feels like a surviving fragment of ceremonial everyday life, its worn fresco surface as expressive as the quiet exchange it contains.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "8ac26cec37eed0f1c1db53d430fa4fd5bde14f9c2846797e689800929cb9678e",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

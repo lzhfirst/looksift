@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A stark sepia photomontage shows the upper body of a formally dressed man whose head has been replaced by the face and branching antlers of a deer. The dark suit jacket, white shirt, and narrow tie remain photographically plausible, making the impossible animal head more pointed and unsettling. Leafy twigs intermingle with the antlers and rise beyond the top crop, while the deer's large ears spread horizontally on either side. The figure is centered against a mottled gray-beige studio ground, with no elaborate scenery. The animal face is lit from the left, exposing fur texture, pale muzzle, and one sharply darkened eye; the suit falls toward charcoal black at the shoulders. Paper seams, cut edges, and differences in source grain are allowed to remain visible, giving the assembly the feel of an old printed collage rather than a seamless digital creature. A light band at the bottom suggests aged paper or a pasted photograph. The palette is almost entirely brown-black, cream, and dusty gray, with slightly yellowed highlights. Vertical antlers and leaves give the top of the image a restless branching pattern, while the suit forms a stable triangular base. The result is absurd and confrontational but visually controlled, using a simple replacement of one recognizable form to turn an ordinary formal portrait into a concise surreal statement.",
+  "full_prompt_zh": "一幅鲜明的棕褐色摄影蒙太奇，表现一位穿正式服装的男子上半身，但头部被鹿的面孔与分枝鹿角取代。深色西装外套、白衬衫与窄领带仍具有摄影可信度，使不可能出现的动物头更尖锐、更令人不安。带叶细枝与鹿角交错，并伸出画面上缘；鹿的大耳朵向两侧横展。人物居中立于斑驳灰米色影棚背景前，没有复杂场景。动物面部由左侧照亮，露出毛发质感、浅色口鼻和一只深暗的眼睛；西装在肩膀处落向炭黑。纸张接缝、剪切边缘和不同来源的颗粒差异被保留下来，使组合像一幅老印刷拼贴，而非无缝的数字怪物。底部的浅色带暗示老纸张或贴上的照片。配色几乎完全是棕黑、奶油白和灰尘色，亮部略微泛黄。纵向鹿角与枝叶给顶部带来躁动的分枝图案，西装则形成稳定的三角底座。结果荒诞而有对抗性，却在视觉上受到控制；只替换一个可辨认形体，就把普通正式肖像变成简练的超现实陈述。",
+  "style_prompt_en": "Vintage sepia photomontage with deliberately visible cut edges, mismatched photographic grain, and aged paper tone. A stable dark triangular mass supports a branching, irregular upper silhouette against a mottled neutral field. Light falls from one side, picking out pale tactile detail while the opposite side sinks into sooty black. Brown-gray, cream, and faded yellow remain nearly monochrome. The assembly is concise and graphic, leaving enough source differences to make the constructed image apparent. It feels absurd, pointed, and materially old rather than smoothly fantastical.",
+  "style_prompt_zh": "复古棕褐摄影蒙太奇风格，有意保留可见剪切边缘、不同照片颗粒与泛旧纸色。稳定的深色三角体块承托上方分枝而不规则的剪影，背景是斑驳中性色场。光从一侧落下，提取浅色可触细节，另一侧沉入烟黑。棕灰、奶油白与褪黄几乎构成单色系。组合简练而图形化，保留足够的来源差异让拼装痕迹可见。它荒诞、尖锐，材料感古旧，而非平滑的幻想图像。",
+  "theme_en": "A suited man with a deer head in a vintage political photomontage",
+  "theme_zh": "复古政治摄影蒙太奇中鹿首西装人物",
+  "wh_ratio": "1:1",
+  "id": "1196",
+  "name": "John Heartfield",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/john-heartfield",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/john-heartfield.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "5f001842a7b58a50e577aa569f9b7cfbfebe5be47b1e9f98468808c3469145dc",
+    "gpt_submission_prompt": "A stark sepia photomontage shows the upper body of a formally dressed man whose head has been replaced by the face and branching antlers of a deer. The dark suit jacket, white shirt, and narrow tie remain photographically plausible, making the impossible animal head more pointed and unsettling. Leafy twigs intermingle with the antlers and rise beyond the top crop, while the deer's large ears spread horizontally on either side. The figure is centered against a mottled gray-beige studio ground, with no elaborate scenery. The animal face is lit from the left, exposing fur texture, pale muzzle, and one sharply darkened eye; the suit falls toward charcoal black at the shoulders. Paper seams, cut edges, and differences in source grain are allowed to remain visible, giving the assembly the feel of an old printed collage rather than a seamless digital creature. A light band at the bottom suggests aged paper or a pasted photograph. The palette is almost entirely brown-black, cream, and dusty gray, with slightly yellowed highlights. Vertical antlers and leaves give the top of the image a restless branching pattern, while the suit forms a stable triangular base. The result is absurd and confrontational but visually controlled, using a simple replacement of one recognizable form to turn an ordinary formal portrait into a concise surreal statement.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "e957672d4e7d0b689deca92a8d4bd0c9eb38358a57a7deb4b84ee98b5eaa2dee",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

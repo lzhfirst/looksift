@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square architectural photograph looks vertically upward from the floor of a narrow courtyard. Repeated white balcony rails and slab edges form nested rectangles that recede toward a small blue opening of sky at the center. Strong blocks of terracotta red line the left and upper sides, while mustard orange fills the right and lower edges. Pale cream structural beams cut across both colors in a strict rhythm, creating a deep geometric tunnel. The camera is precisely centered on the upward axis, so the balconies step inward symmetrically even as their different colors keep the view lively. Natural direct daylight enters from the open sky and throws crisp short shadows under the beams; the recessed faces remain a little darker. Window openings and slatted screens add small repeated marks within the larger rectangular grid. The surfaces are matte painted concrete, clean but not glossy. Blue sky is nearly featureless, offering a cool pause amid the warm walls. The composition relies on scale, repetition, and converging perspective rather than human activity. A few tiny surface imperfections keep the real building present. The image is sharp from near edges to the central opening, with bold color areas and carefully controlled lines. No text, people, or decorative photographic border appears.",
+  "full_prompt_zh": "一幅方形建筑照片从狭窄庭院底部垂直向上望。重复的白色阳台栏板和楼板边形成层层套叠矩形，向中央一小块蓝天开口退去。赤陶红的大色块沿左边和上边展开，芥黄橙占右边与下边。浅奶油色结构梁以严谨节奏横切两种颜色，形成深邃几何隧道。相机准确置于上望轴线上，阳台向内近似对称地收拢，不同颜色仍让视角活跃。直射日光从敞开的天空进入，在梁下投出清楚短影；凹入面稍暗。窗洞与百叶屏在较大矩形网格里增添重复小笔记。表面是亚光彩绘混凝土，干净却不发亮。蓝天几乎无纹，成为暖墙间的冷色停顿。构图依赖尺度、重复与汇聚透视，而非人的活动。少许表面瑕疵保留真实建筑存在感。影像从近处边缘到中央开口都清晰，大块颜色与线条控制精确。没有文字、人物或装饰摄影边框。",
+  "style_prompt_en": "Precise upward-looking color photography organized by nested geometric frames, strong converging lines, and repeating horizontal intervals. Large matte terracotta, mustard, and cream planes surround a small cool-blue opening. Natural direct daylight creates crisp recess shadows and keeps structural edges sharp. Symmetry, saturated warm-cool area contrast, and deep spatial rhythm turn real surfaces into an orderly abstract composition.",
+  "style_prompt_zh": "精准仰视彩色摄影由套叠几何框、强烈汇聚线与重复水平间隔组织。大片亚光赤陶红、芥黄与奶油色平面环绕一小处冷蓝开口。直射日光形成清楚凹处阴影，使结构边缘锐利。对称、饱和冷暖面积对比和深空间节奏把真实表面组织为有序抽象构图。",
+  "theme_en": "An upward view through a colorful geometric courtyard",
+  "theme_zh": "仰望彩色几何庭院的视角",
+  "wh_ratio": "1:1",
+  "id": "4016",
+  "name": "Architectural photography",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/architectural-photography.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "639c003bba82c12318bffbd9f88257d86c887843f74eaec6be4897330dec69ed",
+    "gpt_submission_prompt": "A square architectural photograph looks vertically upward from the floor of a narrow courtyard. Repeated white balcony rails and slab edges form nested rectangles that recede toward a small blue opening of sky at the center. Strong blocks of terracotta red line the left and upper sides, while mustard orange fills the right and lower edges. Pale cream structural beams cut across both colors in a strict rhythm, creating a deep geometric tunnel. The camera is precisely centered on the upward axis, so the balconies step inward symmetrically even as their different colors keep the view lively. Natural direct daylight enters from the open sky and throws crisp short shadows under the beams; the recessed faces remain a little darker. Window openings and slatted screens add small repeated marks within the larger rectangular grid. The surfaces are matte painted concrete, clean but not glossy. Blue sky is nearly featureless, offering a cool pause amid the warm walls. The composition relies on scale, repetition, and converging perspective rather than human activity. A few tiny surface imperfections keep the real building present. The image is sharp from near edges to the central opening, with bold color areas and carefully controlled lines. No text, people, or decorative photographic border appears.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "95bccf29779d5dc2bce29022aa026af8650dbe24b5108ffc40a79dde6de373b5",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

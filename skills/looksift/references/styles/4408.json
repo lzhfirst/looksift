@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square oil portrait shows a bearded gentleman turned in three-quarter view, his eyes meeting the viewer from beneath the brim of a soft felt hat. A dark coat and high pale collar anchor the lower half, while a broad mustache and carefully modeled beard frame his face. The hat is described with swift but exact strokes of cream, brown and charcoal; the brim throws a soft shadow across the upper face without hiding the alert eyes. The background is dark, loose and warm, with olive-black paint to the left and more brown brushwork at the right. The head occupies most of the frame, but the shoulders and coat remain sufficiently visible to give scale and posture. Skin is formed by confident, varied brush marks: warm cheek and nose planes, cooler shadows around the eye, and a few decisive highlights. Fine hair detail appears only where it strengthens the expression; other edges dissolve into the surrounding dark paint. There is no elaborated setting or symbolic object. The portrait feels spontaneous and deeply observed at once, a living person rather than a polished studio likeness. The final surface retains active oil paint, its speed visible in the background while the face stays carefully resolved.",
+  "full_prompt_zh": "一幅正方形油画肖像呈现一位蓄须绅士以四分之三身形转向观者，眼睛从柔软毡帽的帽檐下看出。深色外套和高浅色领固定下半部，宽胡须与精心塑造的络腮胡围住面孔。帽子由奶油、棕和炭色迅速而准确的笔触描述；帽檐在上脸投下柔影，却没有遮住警觉的眼睛。背景深暗、松动且偏暖，左侧为橄榄黑颜料，右侧有更多棕色笔迹。头占画面大部，肩与外套仍足够可见，给予尺度和姿态。皮肤由自信且多变的笔痕构成：暖面颊与鼻梁平面、眼旁冷影，以及几处果断亮部。只有能加强表情的地方有细发丝，其余边缘融进周围深色颜料。没有精心布置的场景或象征物。肖像同时显得即兴与深刻观察，是活人而非抛光的影棚形象。最终表面保留活跃油彩，背景能看到速度，面孔则经过细心解析。",
+  "style_prompt_en": "The style is expressive observational oil portraiture with fluent visible brushwork, loose dark grounds and concentrated facial modeling. Warm brown and olive-black fields support cream highlights, ruddy flesh planes and cool local shadows. Edges alternate between decisively drawn features and paint that dissolves into surrounding tone. A compact square crop keeps attention on expression and material surface. The finish values immediacy, painterly confidence and living asymmetry over smoothed perfection.",
+  "style_prompt_zh": "这种风格是表现性的观察油画肖像，具有流畅可见的笔触、松动深色底面和集中的面部塑形。暖棕与橄榄黑色域承托奶油色高光、红润肤色平面和局部冷影。边缘在果断描出的特征与融入周围色调的颜料之间交替。紧凑正方形裁切把注意力放在神情与材料表面。最终效果重视即时性、绘画自信和活生生的不对称，而非平滑完美。",
+  "theme_en": "A bearded gentleman in a soft felt hat",
+  "theme_zh": "戴柔软毡帽的蓄须绅士",
+  "wh_ratio": "1:1",
+  "id": "4408",
+  "name": "John Singer Sargent",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/john-singer-sargent.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "d3c2759dda208a3aed7c9623a1ae372833acc5855118cb9f46c51ca50b45877c",
+    "gpt_submission_prompt": "A square oil portrait shows a bearded gentleman turned in three-quarter view, his eyes meeting the viewer from beneath the brim of a soft felt hat. A dark coat and high pale collar anchor the lower half, while a broad mustache and carefully modeled beard frame his face. The hat is described with swift but exact strokes of cream, brown and charcoal; the brim throws a soft shadow across the upper face without hiding the alert eyes. The background is dark, loose and warm, with olive-black paint to the left and more brown brushwork at the right. The head occupies most of the frame, but the shoulders and coat remain sufficiently visible to give scale and posture. Skin is formed by confident, varied brush marks: warm cheek and nose planes, cooler shadows around the eye, and a few decisive highlights. Fine hair detail appears only where it strengthens the expression; other edges dissolve into the surrounding dark paint. There is no elaborated setting or symbolic object. The portrait feels spontaneous and deeply observed at once, a living person rather than a polished studio likeness. The final surface retains active oil paint, its speed visible in the background while the face stays carefully resolved.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "5276881913704be8ab09a16aae793f3d43243fa299ef713bb313ab2fb8db7722",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

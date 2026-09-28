@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square Expressionist painting shows a park path winding through a dense stand of stylized trees. Dark, nearly black trunks rise vertically from the lower edge, supporting broad canopies made from rounded blocks of green, blue and teal. Between them, an orange yellow opening draws the eye toward a distant path. Several small walkers are scattered along it; one in a red skirt stands near the lower center, while darker figures move in the middle distance. The landscape is built from simplified color shapes rather than detailed leaves or bark. A few pale yellow and salmon patches glimmer behind the trees, suggesting late light passing through a grove. The foreground settles into deep blue green shadow, with curved foliage shapes overlapping the path. Although the scene has considerable depth, the paint also reads as a flat decorative arrangement of vertical trunks, domed canopies and warm gaps. Brushwork is visible and slightly rough, with colors pressed against one another in short planes. The strongest contrast lies between the dark upright trees and the luminous corridor beyond. The figures are deliberately tiny, giving the landscape its scale without competing with the main pattern. The overall rhythm is dense but inviting, a walk into a bright inner clearing through saturated color and shadow.",
+  "full_prompt_zh": "这幅方形表现主义绘画呈现一条公园小路，穿过密集的风格化树林。近黑树干从下缘竖直升起，托着由圆润绿、蓝、青色块拼成的宽树冠。它们之间橙黄开口把视线带向远处小路。几名细小行人散在路上；下方中央附近一人穿红裙，更暗的人影在中景移动。风景由简化色形构成，而非细描叶片或树皮。树后几块浅黄和鲑粉色闪动，像傍晚光透过树林。前景沉入深蓝绿阴影，弯曲叶形与小路重叠。虽然场景有相当深度，颜料也像竖树干、圆树冠与暖空隙组成的平面装饰。笔触可见且略粗糙，颜色以短平面互相紧贴。最强对比位于深暗直立树与远方发亮通道之间。人物刻意缩小，为风景提供尺度，却不与主图案竞争。整体节奏密集但吸引人，带着走过饱和色与阴影、进入明亮内侧空地的感觉。",
+  "style_prompt_en": "The Expressionist painting builds a landscape from simplified rounded color blocks and strong vertical dark lines. Saturated teal, bottle green and deep blue surround pockets of orange, yellow and salmon. Light appears as warm openings between cool masses rather than a fully modeled sunlit surface. Short, visible strokes keep boundaries lively, and overlapping flat planes create depth without losing the decorative pattern. Small dark accents repeat along a receding route. The result is rhythmic, colorful and gently immersive.",
+  "style_prompt_zh": "这种表现主义绘画以简化圆色块和强烈竖向暗线建立空间。饱和青绿、瓶绿与深蓝围住橙、黄和鲑粉色的小开口。光表现为冷色块之间的暖缝，而非完整塑造的日照表面。短而可见的笔触让边界活跃，重叠的平色面制造深度，同时保留装饰图案。小暗点沿后退路径反复出现。结果节奏鲜明、色彩充沛，带有温和沉浸感。",
+  "theme_en": "Small walkers beneath rounded trees in a colorful park",
+  "theme_zh": "彩色公园里圆树下的细小行人",
+  "wh_ratio": "1:1",
+  "id": "3192",
+  "name": "August Macke",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/august-macke",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "e29ff4b2c82f153006a311769507afb25e8179d56a45258e3d18d40d1948940d",
+    "gpt_submission_prompt": "A square Expressionist painting shows a park path winding through a dense stand of stylized trees. Dark, nearly black trunks rise vertically from the lower edge, supporting broad canopies made from rounded blocks of green, blue and teal. Between them, an orange yellow opening draws the eye toward a distant path. Several small walkers are scattered along it; one in a red skirt stands near the lower center, while darker figures move in the middle distance. The landscape is built from simplified color shapes rather than detailed leaves or bark. A few pale yellow and salmon patches glimmer behind the trees, suggesting late light passing through a grove. The foreground settles into deep blue green shadow, with curved foliage shapes overlapping the path. Although the scene has considerable depth, the paint also reads as a flat decorative arrangement of vertical trunks, domed canopies and warm gaps. Brushwork is visible and slightly rough, with colors pressed against one another in short planes. The strongest contrast lies between the dark upright trees and the luminous corridor beyond. The figures are deliberately tiny, giving the landscape its scale without competing with the main pattern. The overall rhythm is dense but inviting, a walk into a bright inner clearing through saturated color and shadow.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "854cdf0e4b58c3d6202ada17cfb3288dea70174924d1aa98430246ff4488baf7",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

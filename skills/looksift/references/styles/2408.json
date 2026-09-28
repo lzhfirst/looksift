@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square hand-drawn animation cartoon shows a man and woman hurrying down broad pale stone steps against an almost blank cream background. The woman leads on the right, wearing a bright orange-red dress and matching brimmed hat. Her head turns slightly back to the left, lips parted and one arm bent forward, while her skirt lifts in a wide curve around the moving leg. One black heeled shoe reaches toward the next step and the other foot lifts behind her. The man follows close on the left in a warm brown jacket, small brown hat, white shirt, and dark red trousers. His knees and elbows bend sharply as he runs, and a pale face with a long nose tilts toward the woman. The gray-blue steps begin at the left edge and descend toward the lower right, giving a simple diagonal stage for their movement. Thin sketch lines remain visible beneath the flat colored shapes, especially along the steps, shoes, hands, and fluttering clothing. The bodies are stretched into energetic curves and angled limbs, with exaggerated proportions that carry expression more than anatomical realism. Shadows are minimal: a few light gray marks under the feet suggest contact with the stairs, while the cream field remains open and unmodeled. Warm orange and brown figures stand out against the pale ground, with small black accents at shoes, hair, and outlines. No readable caption or sign occupies the main scene. The overall composition is light and kinetic, using two opposing strides and a descending stair rhythm to convey an instant of comic motion.",
+  "full_prompt_zh": "这幅方形手绘动画卡通呈现一男一女匆匆跑下宽大的浅色石阶，背景几乎是空白奶油色。女子在右侧领跑，穿明亮橙红裙子并戴同色宽檐帽。她的头略向左回望，嘴唇微张，一只手臂向前弯曲，裙摆围着移动的腿扬起宽弧。一只黑高跟鞋伸向下一阶，另一只脚在身后抬起。男子紧随左侧，穿暖棕夹克、棕色小帽、白衬衫和深红裤子。他跑动时膝与肘急剧弯曲，长鼻浅色脸转向女子。灰蓝台阶从左缘开始，向右下方下降，为动作提供简单的斜向舞台。平涂色形之下仍可见细速写线，尤其在台阶、鞋、手和飘动衣料边缘。身体被拉伸为有活力的曲线和倾斜四肢，夸张比例比解剖写实更能承载表情。阴影很少：脚下几笔浅灰暗示与台阶接触，奶油色区域保持开放且没有塑形。暖橙与棕色人物从浅色底面前跳出，鞋、头发和轮廓处有小型黑色强调。主场景里没有可读标题或标牌。整体构图轻快而有动势，用两种交错步伐与下降阶梯的节奏传达一个滑稽运动瞬间。",
+  "style_prompt_en": "Hand-drawn animation cartooning combines long elastic curves, angular gestures, and thin sketchy outlines with flat warm color. Orange-red and brown accents move across an expansive cream field, while small black details sharpen the direction of action. Proportions stretch with motion, and fabric-like forms sweep in broad arcs rather than settling into realistic folds. Sparse gray contact marks ground the movement without introducing heavy shadows. A few simple diagonal bands provide structure, leaving generous white space around the active shapes. The overall effect is buoyant, clear, and comic.",
+  "style_prompt_zh": "手绘动画卡通把长而富弹性的曲线、棱角化动作和细速写轮廓与平涂暖色结合。橙红与棕色强调穿过宽阔奶油色区域，小块黑色细节锐化动作方向。比例随运动拉伸，布料般形状扫出宽弧，而不沉入写实褶皱。稀疏灰色接触痕固定动作，却没有厚重阴影。几条简单斜带提供结构，让活跃形体周围保留宽裕白空间。整体轻盈、清楚而滑稽。",
+  "theme_en": "A man and woman running down broad steps in a lively cartoon",
+  "theme_zh": "一男一女在活泼的卡通画中跑下宽台阶",
+  "wh_ratio": "1:1",
+  "id": "2408",
+  "name": "Tex Avery",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/tex-avery",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/tex-avery.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "a3ba8b466067013d1c87901005eea3b2c360380fbce642a16453d1f67c78f283",
+    "gpt_submission_prompt": "A square hand-drawn animation cartoon shows a man and woman hurrying down broad pale stone steps against an almost blank cream background. The woman leads on the right, wearing a bright orange-red dress and matching brimmed hat. Her head turns slightly back to the left, lips parted and one arm bent forward, while her skirt lifts in a wide curve around the moving leg. One black heeled shoe reaches toward the next step and the other foot lifts behind her. The man follows close on the left in a warm brown jacket, small brown hat, white shirt, and dark red trousers. His knees and elbows bend sharply as he runs, and a pale face with a long nose tilts toward the woman. The gray-blue steps begin at the left edge and descend toward the lower right, giving a simple diagonal stage for their movement. Thin sketch lines remain visible beneath the flat colored shapes, especially along the steps, shoes, hands, and fluttering clothing. The bodies are stretched into energetic curves and angled limbs, with exaggerated proportions that carry expression more than anatomical realism. Shadows are minimal: a few light gray marks under the feet suggest contact with the stairs, while the cream field remains open and unmodeled. Warm orange and brown figures stand out against the pale ground, with small black accents at shoes, hair, and outlines. No readable caption or sign occupies the main scene. The overall composition is light and kinetic, using two opposing strides and a descending stair rhythm to convey an instant of comic motion.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "46f3c4dc0357852607cdc2c05b5c02f96a67c8cf5d4a36c27b00f9606162443c",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square impasto-style painted portrait fills the frame with the close face and upper shoulders of a young dark-haired woman. Her head turns slightly toward the left, while large gray-green eyes look almost straight outward. The left eye sits under a sharply drawn dark brow and black lashes; the right eye catches a small pale highlight. A soft straight nose and full coral-brown lips anchor the lower center, with a slight asymmetry to the mouth. Black-brown hair sweeps across the forehead, gathers in a voluminous mass at the upper and right edges, and loosens into a few strands beside the left cheek. At the lower left, dark clothing merges with near-black shadow; behind the right side of her face, an irregular patch of olive and warm gray paint suggests a wall or abstract backdrop. The skin is not smoothly blended. Thick overlapping rectangular and slanted strokes of cream, peach, blush pink, ochre, burnt orange, and cool gray construct cheek, brow, chin, and neck. Dark blue-black strokes cut into the hair and outline the eyes. Small scrapes and uneven ridges remain in the paint surface. Broad frontal light is implied by the pale planes of forehead, nose, and cheek, while deep dark hair and background provide strong contrast without a realistic cast shadow. The composition presses the calm, searching gaze close to the viewer and lets broken color planes supply motion around it.",
+  "full_prompt_zh": "一幅方形厚涂风格肖像让年轻黑发女子的近景面孔与上肩占满画面。头微朝左转，大大的灰绿眼几乎直望外面。左眼在清楚深眉与黑睫毛下，右眼接住一点浅高光。柔直鼻梁和丰满珊瑚棕嘴唇稳住中下部，嘴形有细微不对称。黑棕头发扫过额头，在上缘和右缘聚成丰厚团块，左脸旁松出几缕发丝。左下深色衣物并入近黑阴影；脸右后方，橄榄与暖灰的不规则颜料块暗示墙面或抽象背景。肌肤不是平滑融合，而由奶油、桃、绯粉、赭黄、焦橙及冷灰的厚重矩形与斜笔相叠，构成面颊、眉额、下巴和脖颈。深蓝黑笔触切入头发并勾出眼睛。颜料表面保留小刮痕与不齐凸痕。宽泛正面光通过额头、鼻梁和面颊的浅平面暗示，深色头发和背景带来强对比，却没有写实投影。构图把平静而探寻的目光推近观者，让破碎色面在其周围制造运动。",
+  "style_prompt_en": "Impasto portrait-like painting constructs volumes from overlapping blocky and slanted strokes rather than smooth gradients. Combine pale cream, peach, coral, ochre, burnt orange, olive, and cool gray in the lit areas, with blue-black and brown masses anchoring the dark side. Leave palette-knife ridges, scrapes, and abrupt color seams visible. Keep a few key features sharply drawn so the focal form remains readable inside the fractured surface. Crop close enough that edges become fields of hair-like or shadow-like dark paint. Light is conveyed by color-plane placement more than literal illumination. The transferable effect is intimate, immediate, and texturally energetic.",
+  "style_prompt_zh": "厚涂绘画以重叠方块与斜向笔面构成立体，而非光滑渐层。受光区结合浅奶油、桃、珊瑚、赭黄、焦橙、橄榄和冷灰，蓝黑与棕色大块稳住暗侧。保留调色刀凸痕、刮擦与突然的色彩接缝。少数关键部位刻得清楚，使焦点形体在破碎表面中仍可读。裁切贴近，让边缘成为发丝般或影子般的深颜料色场。光主要由色面位置表达，而非字面布光。可迁移效果亲密、直接且纹理活跃。",
+  "theme_en": "A close face built from warm and dark palette-knife strokes",
+  "theme_zh": "近景面孔由暖色与深色调色刀笔触拼接",
+  "wh_ratio": "1:1",
+  "id": "3738",
+  "name": "Anna Bocek",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/anna-bocek",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "5531c0c8d91e4e3ac1bdf06ae88e82c116ed18154717f5366457ef21daf35524",
+    "gpt_submission_prompt": "A square impasto-style painted portrait fills the frame with the close face and upper shoulders of a young dark-haired woman. Her head turns slightly toward the left, while large gray-green eyes look almost straight outward. The left eye sits under a sharply drawn dark brow and black lashes; the right eye catches a small pale highlight. A soft straight nose and full coral-brown lips anchor the lower center, with a slight asymmetry to the mouth. Black-brown hair sweeps across the forehead, gathers in a voluminous mass at the upper and right edges, and loosens into a few strands beside the left cheek. At the lower left, dark clothing merges with near-black shadow; behind the right side of her face, an irregular patch of olive and warm gray paint suggests a wall or abstract backdrop. The skin is not smoothly blended. Thick overlapping rectangular and slanted strokes of cream, peach, blush pink, ochre, burnt orange, and cool gray construct cheek, brow, chin, and neck. Dark blue-black strokes cut into the hair and outline the eyes. Small scrapes and uneven ridges remain in the paint surface. Broad frontal light is implied by the pale planes of forehead, nose, and cheek, while deep dark hair and background provide strong contrast without a realistic cast shadow. The composition presses the calm, searching gaze close to the viewer and lets broken color planes supply motion around it.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "88b855bdf6030dd1d75c8d1236bc5bd48b394f3f319a8f32b27d1b844d931f86",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

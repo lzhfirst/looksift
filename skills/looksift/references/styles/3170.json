@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A poised young rider stands in three-quarter view beside a pale horse, holding a red apple at the center of the composition. Dark curling hair frames a calm face turned toward the viewer, while a deep green mantle wraps the shoulders over a cream collar. The horse's light mane and head enter from the right, partly absorbed by the dark brown background. A small strap and decorated fastening are visible near the rider's chest. The apple gives the restrained scene a single vivid note and a quiet suggestion of exchange between the two figures.\n\nThe painting has a Renaissance-like balance of idealized form and careful observation. Flesh and cloth are modeled with smooth, gradual changes in value; fine strokes describe curls, the horse's mane, and small ornamental details. Warm ivory skin, muted olive green, umber, and soft cream dominate, while the red fruit catches the eye. Diffuse directional light falls from the upper left, brightening the face and apple while allowing the mantle to fold into broad shadow. The background is shallow, dark, and unobtrusive, which gives the paired profiles a sculptural presence. The triangular relationship of head, apple, and horse supplies the composition's calm rhythm. No readable lettering appears in the selected panel.",
+  "full_prompt_zh": "一名姿态沉稳的年轻骑手以四分之三角度站在浅色马旁，手持红苹果，位置接近构图中心。深色卷发围住一张平静的脸，目光转向观看者；深绿色披风裹在奶油色领口外。马的浅色鬃毛和头从右侧进入，部分融入深棕背景。骑手胸前可以看到一小段带子和装饰性的扣结。苹果为克制的场景提供唯一鲜明色点，也安静地暗示两者之间的一次交换。\n\n绘画有近似文艺复兴的平衡，理想化形体与细致观察并存。皮肤与布料经由平滑、渐进的明度变化塑造；细笔触描写卷发、马鬃和小装饰。暖象牙色皮肤、暗橄榄绿、赭褐与柔乳白占主导，红果则吸引视线。弥散且有方向的光从左上落下，照亮面容与苹果，让披风折入宽阔阴影。背景浅、深且不抢眼，使相邻的两道轮廓有雕塑般存在感。头、苹果和马之间的三角关系给构图安稳节奏。所选画面没有可辨认文字。",
+  "style_prompt_en": "Smoothly modeled light forms emerge from a shallow dark umber field. Warm ivory, muted olive, soft cream, and one concentrated red accent form a restrained, balanced palette. Diffuse directional light clarifies the central planes, then lets deeper folds sink into broad shadow. Fine controlled strokes articulate small curls, fibrous edges, and ornamental touches without interrupting the larger sculptural masses. A quiet triangular relationship among three principal shapes keeps the composition stable. Edges are gently softened in the dark surround but remain carefully observed where light meets form. The painted surface feels classical and measured, joining idealized proportion to intimate natural detail and calm spatial depth.",
+  "style_prompt_zh": "平滑塑造的浅色形从深赭褐浅背景中浮出。暖象牙白、暗橄榄绿、柔乳白和一处集中的红色点缀，构成收敛而平衡的色谱。弥散但有方向的光澄清中央平面，然后让较深的褶层沉入宽阔阴影。精细受控的笔触挑出小卷线、纤维状边缘与装饰痕迹，不打断较大的雕塑性体块。三个主要形状之间的安静三角关系稳住构图。边缘在深色环境中轻轻柔化，在光与形相遇处仍观察细致。绘画表面古典而有分寸，把理想化比例与亲密的自然细节、平静的空间深度结合。",
+  "theme_en": "A young rider holding an apple beside a pale horse",
+  "theme_zh": "苍白马旁手持苹果的年轻骑手",
+  "wh_ratio": "1:1",
+  "id": "3170",
+  "name": "Raphael",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/raphael",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "7dca0a56bc62f1812ecc6b3e61545a0c5062783d0002ff0ea1a45d3b45faf731",
+    "gpt_submission_prompt": "A poised young rider stands in three-quarter view beside a pale horse, holding a red apple at the center of the composition. Dark curling hair frames a calm face turned toward the viewer, while a deep green mantle wraps the shoulders over a cream collar. The horse's light mane and head enter from the right, partly absorbed by the dark brown background. A small strap and decorated fastening are visible near the rider's chest. The apple gives the restrained scene a single vivid note and a quiet suggestion of exchange between the two figures.\n\nThe painting has a Renaissance-like balance of idealized form and careful observation. Flesh and cloth are modeled with smooth, gradual changes in value; fine strokes describe curls, the horse's mane, and small ornamental details. Warm ivory skin, muted olive green, umber, and soft cream dominate, while the red fruit catches the eye. Diffuse directional light falls from the upper left, brightening the face and apple while allowing the mantle to fold into broad shadow. The background is shallow, dark, and unobtrusive, which gives the paired profiles a sculptural presence. The triangular relationship of head, apple, and horse supplies the composition's calm rhythm. No readable lettering appears in the selected panel.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "e6d4b2c2eb95c329c724d3cb274feb98ac5f80610416ee15ef164a6271787796",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

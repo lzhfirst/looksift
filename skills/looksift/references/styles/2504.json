@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square visionary painting looks over a sprawling town divided by a wide winding blue river. Low houses, narrow towers, gardens and bridges crowd both banks, with a tiny boat visible in the water near the lower center. Beyond the town, rolling pale hills run toward a distant horizon. The sky is deep cobalt and full of hand-drawn celestial signs: a yellow sun with uneven rays, a pale moon, small stars and curling circular forms. The sun and moon share the same sky without naturalistic time of day, making the landscape feel like a remembered dream. Buildings and terrain are assembled from short, restless strokes of blue, green, cream and ochre. The river provides the clearest broad shape, its bright turquoise bend leading the eye from foreground to the far valley. Architecture remains recognizable but flickers within dense painted marks rather than precise perspective. The elevated viewpoint reveals an entire imaginative region at once, and the city seems to extend nearly to every edge of the frame. White highlights and small yellow sparks dance across roofs, hills and sky. The surface is thickly worked and almost mosaic-like, especially where water meets clustered buildings. The scene is exuberant rather than orderly, joining topographical detail with cosmic imagery and bright decorative rhythm.",
+  "full_prompt_zh": "一幅正方形幻想绘画俯望一座被宽阔蜿蜒蓝河分开的繁密城镇。低矮房屋、细塔、花园和桥梁挤满两岸，下方中央附近的水里可见小舟。城镇之后，浅色起伏山丘一直延向远方地平线。天空是深钴蓝，布满手绘天象符号：射线不齐的黄色太阳、浅色月亮、小星点和卷曲圆形。太阳与月亮共处同一天空，不遵循自然时间，使风景像被记起的梦。建筑和地形由蓝、绿、乳色与赭色的短促躁动笔触拼成。河流是最清楚的宽阔形状，明亮青绿色弯道把视线从前景带向远处山谷。建筑仍可辨认，却在密集颜料痕中闪动，而非服从精确透视。抬高视点让整个幻想区域同时被看见，城市似乎几乎延至每个画框边缘。白高光和小黄亮点跳过屋顶、丘陵与天空。表面厚重经营，几乎像马赛克，尤其在水与密集建筑相接处。场景丰盛而非整齐，把地形细节、宇宙图像和明亮装饰节奏结合起来。",
+  "style_prompt_en": "The style is exuberant visionary painting with an elevated panoramic view, densely worked short strokes and mosaic-like color texture. A clear sweeping blue curve threads through smaller clustered marks, giving the crowded square composition a path for the eye. Cobalt, turquoise, green, cream and yellow produce luminous contrast. Familiar spatial layers coexist with symbolic celestial circles and hand-drawn irregularity. White glints and tiny warm points repeat across the surface. The image favors imaginative accumulation and rhythmic detail over strict naturalistic perspective.",
+  "style_prompt_zh": "这种风格是丰盛的幻想绘画，具有抬高的全景视点、密集经营的短笔触和马赛克般色彩肌理。清楚的蓝色大曲线穿过较小的簇状笔痕，为拥挤正方形构图提供视线路径。钴蓝、青绿、绿色、乳白和黄色形成发亮对比。熟悉空间层次与象征性的天体圆形及手绘不规则性共存。白色亮片与微小暖点在表面重复。图像重视想象性积累和节奏细节，而非严格自然主义透视。",
+  "theme_en": "A river winding through a fantastical city under sun, moon and stars",
+  "theme_zh": "日月星辰下河流蜿蜒穿过幻想城市",
+  "wh_ratio": "1:1",
+  "id": "2504",
+  "name": "John Perceval",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/john-perceval",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/john-perceval.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "59325865d5730364138f316cbd7e9cae7f4815fe50678ff98ac6256e0f9eac37",
+    "gpt_submission_prompt": "A square visionary painting looks over a sprawling town divided by a wide winding blue river. Low houses, narrow towers, gardens and bridges crowd both banks, with a tiny boat visible in the water near the lower center. Beyond the town, rolling pale hills run toward a distant horizon. The sky is deep cobalt and full of hand-drawn celestial signs: a yellow sun with uneven rays, a pale moon, small stars and curling circular forms. The sun and moon share the same sky without naturalistic time of day, making the landscape feel like a remembered dream. Buildings and terrain are assembled from short, restless strokes of blue, green, cream and ochre. The river provides the clearest broad shape, its bright turquoise bend leading the eye from foreground to the far valley. Architecture remains recognizable but flickers within dense painted marks rather than precise perspective. The elevated viewpoint reveals an entire imaginative region at once, and the city seems to extend nearly to every edge of the frame. White highlights and small yellow sparks dance across roofs, hills and sky. The surface is thickly worked and almost mosaic-like, especially where water meets clustered buildings. The scene is exuberant rather than orderly, joining topographical detail with cosmic imagery and bright decorative rhythm.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "b40a72b5d7fdf121a063ee9f8a41bec92328b0f34748fab9f43949b8ebe002f5",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

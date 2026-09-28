@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A richly colored romantic painting shows a young woman seated on a low bank amid straw, flowers, and domestic birds. Her long golden hair falls over a dark plum garment, and her face turns downward in a quiet profile. White birds gather around her, one resting close to her lap, while a warmer brown bird stands at the right edge. Behind them, a rustic wall and dense late-season foliage create a sheltered enclosure. The scene feels like a private pause in a garden rather than a formal portrait.\n\nThe painting is lush but controlled, with fine natural details embedded in soft oil-painted transitions. Golden ochre, rust, moss green, cream, and plum purple provide a warm autumn palette. Gentle side light catches the hair, face, bird feathers, and pale cloth, allowing the surroundings to sink into darker earth tones. Fine strokes and small dabs describe straw, leaves, feathers, and scattered blossoms; the figure's skin and fabric are modeled more smoothly. The composition concentrates the brightest forms around the seated figure, while the darker foliage and masonry circle around them. A black margin visible in the source collage belongs to the panel layout, not the imagined scene. The mood is contemplative and sensuous, with tactile garden texture and no readable lettering in the selected painting.",
+  "full_prompt_zh": "一幅色彩浓郁的浪漫主义绘画描绘一名年轻女子坐在低矮岸边，周围是稻草、花草和家禽。她的长金发披在深梅紫色衣物上，脸向下转成安静侧影。白鸟聚在她身旁，一只贴近膝上，右边缘还有一只较暖褐色的鸟。身后，乡间墙体与浓密的季末叶丛形成受庇护的围合。场景像花园里的私人停顿，而非正式肖像。\n\n绘画华丽而受控，精细自然细节嵌在柔和油画过渡中。金赭、铁锈、苔绿、乳白与梅紫组成温暖秋色。柔和侧光落在头发、面部、鸟羽与浅色布面，周围则沉进较深的泥土色。细笔触和小点笔描写稻草、叶片、羽毛和散开的花；人物皮肤与织物塑造得更平滑。构图把最亮的形集中在坐姿人物周围，较深叶丛和砌体从外侧环绕。源拼图中可见的黑边属于拼版，不是想象场景的一部分。情绪沉思而感官丰富，花园纹理可触，所选绘画没有可辨认文字。",
+  "style_prompt_en": "Warm autumn oil color gathers in a sheltered central cluster against darker rustic surroundings. Golden ochre, rust, moss, cream, and plum are layered with fine natural marks and soft blended transitions. Gentle side light catches a few pale forms and flowing fibrous passages, leaving the outer foliage in deep earth tones. Small dabs describe strawlike and featherlike texture, while smoother planes offer quiet relief. The composition circles its brightest area with rough vegetation and masonry, creating intimacy without rigid symmetry. Edges vary between carefully observed detail and warm shadow that absorbs the form. The surface is lush, tactile, romantic, and contemplative, with controlled abundance rather than sharp photographic precision.",
+  "style_prompt_zh": "温暖秋色油彩在较暗乡间环境前，聚成受庇护的中央团块。金赭、铁锈、苔色、乳白与梅紫由精细自然笔迹和柔和晕合过渡层层铺成。柔和侧光落在少数浅色形和流动的纤维状区域，使外围叶丛留在深泥土色中。小点笔描写如稻草、羽毛的纹理，较平滑的平面则提供安静调剂。构图用粗糙植被和砌体围住最亮处，亲密而不拘泥于对称。边缘在细致观察与吸收形体的暖影之间变化。表面华丽、可触、浪漫且沉思，丰厚受到控制，而非锐利的照片精度。",
+  "theme_en": "A young woman resting among birds in an autumn garden",
+  "theme_zh": "秋园鸟群间休憩的年轻女子",
+  "wh_ratio": "1:1",
+  "id": "3203",
+  "name": "Gaston Bussiere",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/gaston-bussiere",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "569a6b8c00199486600ae96d0d14e07e6ca0364879dc00647f817fb4825daa14",
+    "gpt_submission_prompt": "A richly colored romantic painting shows a young woman seated on a low bank amid straw, flowers, and domestic birds. Her long golden hair falls over a dark plum garment, and her face turns downward in a quiet profile. White birds gather around her, one resting close to her lap, while a warmer brown bird stands at the right edge. Behind them, a rustic wall and dense late-season foliage create a sheltered enclosure. The scene feels like a private pause in a garden rather than a formal portrait.\n\nThe painting is lush but controlled, with fine natural details embedded in soft oil-painted transitions. Golden ochre, rust, moss green, cream, and plum purple provide a warm autumn palette. Gentle side light catches the hair, face, bird feathers, and pale cloth, allowing the surroundings to sink into darker earth tones. Fine strokes and small dabs describe straw, leaves, feathers, and scattered blossoms; the figure's skin and fabric are modeled more smoothly. The composition concentrates the brightest forms around the seated figure, while the darker foliage and masonry circle around them. A black margin visible in the source collage belongs to the panel layout, not the imagined scene. The mood is contemplative and sensuous, with tactile garden texture and no readable lettering in the selected painting.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "3865d59676ad88b7924337b68b779ec1d0ccc1defb48d253e4264d426fd27836",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

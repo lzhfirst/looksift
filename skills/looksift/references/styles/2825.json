@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A close studio portrait shows a young woman turning her face back toward the camera. Short silver-blonde hair curves around her cheek and across her forehead; a narrow band of cool cyan light catches the upper strands. Her blue eyes meet the viewer, while faint freckles and a flush of warm pink remain visible across her nose and cheeks. A black high collar rises under her chin and disappears into the nearly black lower half of the frame. The photographic surface is smooth but retains fine skin texture and separated hair strands. A compact, hard light strikes the left side of her face and hair, leaving a crisp shift into deep shadow along the far cheek and under the jaw. The light carries a cool cast in the hair and a warmer, peach tone on the lit skin. Facial edges stay sharply resolved against a soft, lightless background; the dark clothing merges with that background without a visible horizon or room detail. Her head sits slightly above center, with the eye line anchoring the image and broad black space around the shoulders. The whole frame concentrates attention through a small lit face, severe dark margins, and the contrast between pale hair and near-black surroundings.",
+  "full_prompt_zh": "一幅近距离摄影棚肖像中，年轻女子转过脸望向镜头。短银金色头发从额前弯向脸颊，顶部发丝带有一道冷青色反光。蓝色眼睛直视画外，鼻梁与脸颊上可见淡淡雀斑和暖粉色血色。黑色高领贴着下巴，向下融入画面近乎纯黑的下半部。摄影画面整体平滑，同时保留细小的皮肤纹理与分开的发丝。集中而偏硬的光打在面部和头发一侧，远侧脸颊与下颌迅速落入深影；发丝呈冷色，受光皮肤则带桃色暖调。面部轮廓清晰，身后是没有可辨空间细节的柔暗背景；黑衣与背景相接，看不见地平线。头部略高于画面中心，视线成为焦点，肩周留下宽阔的黑色余地。整幅画面通过局部受光的面容、深暗边缘，以及浅色头发和黑色环境的反差凝聚视觉注意。",
+  "style_prompt_en": "A tightly framed studio photograph uses a smooth tonal surface that still reveals fine, irregular microtexture in the illuminated area. A compact directional light makes a rapid transition from bright planes into dense shadow, with crisp contour changes and little ambient fill. Pale cool highlights occupy a small upper region, warmer midtones gather beneath them, and broad near-black areas absorb the lower and outer frame. Fine linear detail remains distinct where the light catches it, while dark shapes soften into a seamless background. There is no visible horizon; the shallow pictorial space is held by the difference between a sharply resolved foreground and an unobtrusive dark field. The eye moves from the brightest small accents through warmer middle values and then into surrounding negative space. The restrained color range and uneven distribution of light give the composition a concentrated, quiet rhythm.",
+  "style_prompt_zh": "紧凑取景的摄影画面呈现平滑的明暗层次，受光处仍可见细微而不规则的表面纹理。集中且具有方向性的光，让亮面迅速转入浓重阴影，明暗交界清楚，环境补光很少。浅冷色高光占据上方一小块区域，稍暖的中间调聚集其下，大片近黑色覆盖画面下方及四周。细线状细节在光下分明，暗部形体则柔和地并入连续背景。画内没有地平线；清晰前景和低存在感的暗色底面构成浅空间。视线从小面积最亮处滑向暖色中间调，再进入周围留白。有限的色域与不均匀的光量分布，使构图形成集中而安静的节奏。",
+  "theme_en": "A silver-haired woman turns toward the camera in a dark studio",
+  "theme_zh": "暗色摄影棚里一位银发女子回望镜头",
+  "wh_ratio": "1:1",
+  "id": "2825",
+  "name": "Portrait shot with hard lighting",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/portrait-shot-with-hard-lighting",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/portrait-shot-with-hard-lighting.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "e091e27809f25d9c23e7510543bf09a63cc4e31c34fd3182eb77b6ef5ffc0699",
+    "gpt_submission_prompt": "A close studio portrait shows a young woman turning her face back toward the camera. Short silver-blonde hair curves around her cheek and across her forehead; a narrow band of cool cyan light catches the upper strands. Her blue eyes meet the viewer, while faint freckles and a flush of warm pink remain visible across her nose and cheeks. A black high collar rises under her chin and disappears into the nearly black lower half of the frame. The photographic surface is smooth but retains fine skin texture and separated hair strands. A compact, hard light strikes the left side of her face and hair, leaving a crisp shift into deep shadow along the far cheek and under the jaw. The light carries a cool cast in the hair and a warmer, peach tone on the lit skin. Facial edges stay sharply resolved against a soft, lightless background; the dark clothing merges with that background without a visible horizon or room detail. Her head sits slightly above center, with the eye line anchoring the image and broad black space around the shoulders. The whole frame concentrates attention through a small lit face, severe dark margins, and the contrast between pale hair and near-black surroundings.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "76af78a56fc377353480e714026649e51a83ae906da3c041b9b1afc6d65254c3",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

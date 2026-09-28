@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white action photograph looks from low in the water into the hollow wall of a breaking wave. The steep dark face of the wave rises from the lower left and curls overhead toward the upper center, its ridged surface sparkling with white sun flecks. In the right foreground, a surfer in a dark swimsuit or wetsuit crouches low on a board angled toward the lower right. One hand reaches down close to the water, knees bent and body leaning into the turn; long wet hair blows back across the face, obscuring the expression. Farther behind near the center-left, a second surfer stands more upright on another board, partly silhouetted against the bright gap of sky. A hard disc of sun flares high at the upper right, surrounded by spray and round droplets on the lens. White foam explodes at the right edge, and the lower water reflects a streak of light toward the camera. The wave's near side remains almost black, with granular highlights revealing the curved texture. High-contrast film grain and suspended water droplets make the instant feel physical and fast. Strong backlight from the sun silhouettes the surfers, lights the spray, and leaves the wave interior in deep shadow. The composition uses the wave as a sweeping diagonal frame around the two moving figures, conveying speed, balance, and immersion.",
+  "full_prompt_zh": "一幅方形黑白动作摄影从低水位望进破浪的中空浪壁。陡峭深色浪面从左下升起，向上部中央卷过去，带脊纹的表面闪着白色日光碎点。右前景，一名穿深色泳装或潜水服的冲浪者低蹲在斜向右下的板上。一只手伸到水面附近，双膝弯曲、身体压向转弯；湿长发向后吹过脸，遮住神情。更远的中左，第二名冲浪者在另一块板上站得较直，部分剪影映在亮天缝隙前。右上有一轮强烈太阳光斑，周围满是浪花和镜头上的圆水滴。右缘白泡炸开，下方水面一道亮光朝镜头延伸。浪的近侧几乎全黑，颗粒高光显出弯曲纹理。高反差胶片颗粒与悬浮水滴让这一瞬间快速而有身体感。太阳从背后强照，把冲浪者变为剪影，照亮飞沫，浪内留深影。构图以波浪的大幅斜线框住两个运动人物，传达速度、平衡与身临其中。",
+  "style_prompt_en": "Black-and-white action photography uses a low immersive viewpoint, a sweeping curved dark mass, and hard backlight that turns moving forms into silhouettes. Freeze droplets and spray as bright granular points against dense shadow, while a sun flare or similar source burns near white. Let a strong diagonal carry motion across the frame, with a near focal gesture and a smaller receding echo for depth. Preserve high-contrast film grain and lens specks as part of the tactile image rather than cleaning them away. The transferable effect is fast, physical, and dramatic, with light revealed through airborne particles.",
+  "style_prompt_zh": "黑白动作摄影采用低而沉浸的视角、扫过画面的深色曲面，以及把运动形体压成剪影的强逆光。水滴与飞沫凝成深影前的明亮颗粒点，太阳眩光或类似光源烧到近白。强斜线带动作穿过画面，近景焦点手势与较小远处呼应建立纵深。保留高反差胶片颗粒与镜头水点作为图像触感，而非修掉。可迁移效果迅速、富于身体性且戏剧化，光通过空中颗粒显形。",
+  "theme_en": "Two surfers riding inside a sunlit breaking wave",
+  "theme_zh": "两名冲浪者进入阳光照亮的破浪",
+  "wh_ratio": "1:1",
+  "id": "2483",
+  "name": "LeRoy Grannis",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/leroy-grannis",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/leroy-grannis.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "a7ef03e70c69f2b4b359ef533aabdb6342fec03c9b15e7c673d46bc400e053dd",
+    "gpt_submission_prompt": "A square black-and-white action photograph looks from low in the water into the hollow wall of a breaking wave. The steep dark face of the wave rises from the lower left and curls overhead toward the upper center, its ridged surface sparkling with white sun flecks. In the right foreground, a surfer in a dark swimsuit or wetsuit crouches low on a board angled toward the lower right. One hand reaches down close to the water, knees bent and body leaning into the turn; long wet hair blows back across the face, obscuring the expression. Farther behind near the center-left, a second surfer stands more upright on another board, partly silhouetted against the bright gap of sky. A hard disc of sun flares high at the upper right, surrounded by spray and round droplets on the lens. White foam explodes at the right edge, and the lower water reflects a streak of light toward the camera. The wave's near side remains almost black, with granular highlights revealing the curved texture. High-contrast film grain and suspended water droplets make the instant feel physical and fast. Strong backlight from the sun silhouettes the surfers, lights the spray, and leaves the wave interior in deep shadow. The composition uses the wave as a sweeping diagonal frame around the two moving figures, conveying speed, balance, and immersion.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "49dfba252b9b74c7f325c99e59047450540f24f33aff4bd3aa8ec9682f92c932",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

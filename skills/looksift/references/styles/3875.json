@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square color fine-art photograph shows a woman in a long vivid red dress standing alone on a crimson-pink shore beside a small white wooden boat. She appears in the lower-left third, seen in profile facing right toward the boat and perfectly still lake. Her blond hair is gathered into a neat pale shape, and dark shoes meet the textured red ground. The dress hangs straight to her calves with long sleeves and a narrow silhouette, its red slightly deeper than the surrounding earth. A few steps to her right, the open boat rests half on shallow water, half near the edge of the shore, oriented diagonally toward the right. Its off-white planks and simple rectangular hull form a bright geometric interruption within the red and blue field. Water beyond the shore is mirror-smooth: close to the boat it reflects pink, then becomes pale blue farther out. The horizon runs almost perfectly level just above the frame's middle, separating lake from a wide clean cyan sky. Only a few small soft clouds float at upper left and near center. No other people, plants, or buildings appear. Strong clear daylight creates crisp color and a short understated shadow near the woman's feet; the boat's interior and edges hold gentle gray shading. The composition distributes one red vertical figure and one pale horizontal boat within broad bands of empty color, making the scene serene yet deliberately strange.",
+  "full_prompt_zh": "一幅方形彩色艺术摄影呈现一位穿鲜红长裙的女子，独自站在绯红粉色岸边，旁边有一只小白木船。她在左下三分之一处呈侧面，向右面对小船与纹丝不动的湖。金发收成整齐浅色发形，深鞋落在有纹理的红地面上。长袖裙直垂到小腿，轮廓窄而简洁，红色比周围土地略深。她右边几步处，敞口船半在浅水、半靠岸缘，斜向右方。米白木板和简单矩形船身成为红蓝色场里的明亮几何中断。岸后的水如镜面：船边映粉色，再向外变为浅蓝。地平线几乎完全水平地穿过画面中部偏上，把湖与宽阔洁净的青蓝天分开。仅有几朵小软云浮在左上和中央附近。没有其他人、植物或建筑。强而清晰的日光使颜色鲜明，女子脚边只有短而克制的阴影；船内及边缘留温和灰影。构图把一条红色竖向人物和一只浅色横向船，分布在大片空色带中，让场景既宁静又刻意奇异。",
+  "style_prompt_en": "Fine-art color photography uses sparse staging, intense but simple color fields, and a level horizon. Place one small vertical focal form and one pale geometric counterform within broad expanses of unoccupied space. Let a saturated warm ground meet a cool clear sky, with a smooth reflective band mediating the two. Keep textures physically present but restrained: fine granular earth, painted wood, and subtle water reflection. Clear daylight supplies crisp edges and short soft-edged shadows without elaborate lighting. Exact spacing and near-stillness create a serene, surreal tension that transfers beyond any particular landscape or object.",
+  "style_prompt_zh": "彩色艺术摄影采用稀疏安排、强烈却简单的色场和水平地平线。让一个小竖向焦点形体和一个浅色几何对位形体，置于宽广未占用空间内。饱和暖色地面与清冷天空相接，中间由平滑反光带调和。纹理确实存在但克制：细颗粒地表、涂漆木材和微弱水面倒影。清楚日光提供锐边与短而略软的阴影，无需复杂布光。精确间距和近乎静止带来宁静的超现实张力，可迁移到不同场景和物件。",
+  "theme_en": "A woman in red beside a white boat at the edge of a pink lake",
+  "theme_zh": "红衣女子站在粉色湖边一只白船旁",
+  "wh_ratio": "1:1",
+  "id": "3875",
+  "name": "Scarlett Hooft Graafland",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/scarlett-hooft-graafland",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "4461a833157241343befd80764084fec211b71cec21266868279a7e460933417",
+    "gpt_submission_prompt": "A square color fine-art photograph shows a woman in a long vivid red dress standing alone on a crimson-pink shore beside a small white wooden boat. She appears in the lower-left third, seen in profile facing right toward the boat and perfectly still lake. Her blond hair is gathered into a neat pale shape, and dark shoes meet the textured red ground. The dress hangs straight to her calves with long sleeves and a narrow silhouette, its red slightly deeper than the surrounding earth. A few steps to her right, the open boat rests half on shallow water, half near the edge of the shore, oriented diagonally toward the right. Its off-white planks and simple rectangular hull form a bright geometric interruption within the red and blue field. Water beyond the shore is mirror-smooth: close to the boat it reflects pink, then becomes pale blue farther out. The horizon runs almost perfectly level just above the frame's middle, separating lake from a wide clean cyan sky. Only a few small soft clouds float at upper left and near center. No other people, plants, or buildings appear. Strong clear daylight creates crisp color and a short understated shadow near the woman's feet; the boat's interior and edges hold gentle gray shading. The composition distributes one red vertical figure and one pale horizontal boat within broad bands of empty color, making the scene serene yet deliberately strange.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "b8a85e3cc2192f2e31e11a82b56263c032cd3811e908e271c92bd1df024c9383",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

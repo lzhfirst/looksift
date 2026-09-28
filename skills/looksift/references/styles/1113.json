@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square image shows a weathered white masonry wall transformed by a quiet, site-specific illusion. Near the center-right, a dark leafless tree appears to grow from a narrow recess where broken plaster has exposed older blocks. Its trunk is darkest at the damaged seam, and its many thin branches spread into the broad pale wall as if the real crack had released them. At the lower left of the tree, a small person stands on a simple ladder, one arm lifted toward the wall; the person is modest in scale, so the enormous empty surface remains the principal visual field. The wall shows a convincing mixture of cracked limewash, exposed rectangular stone, faint damp stains, and small irregular scratches. Restrained charcoal-black marks describe the tree, allowing painted branches and actual surface fissures to almost merge. Cool overcast lighting produces muted color and soft shadows. Most of the frame is spare, chalky off-white negative space, while the dark tree creates a branching web that is intricate yet light. The ladder, figure, vertical damage and trunk align along one readable axis. The result invites a second look: a minimal street-art intervention that seems both deliberately painted and naturally revealed by the old wall, where the material of the site participates in the image.",
+  "full_prompt_zh": "正方形画面中，一堵风化的白色砌墙被安静的场地幻象改写。在画面偏右中央，深色无叶树仿佛从破损灰泥露出的旧砖石窄缝中生长；树干在裂口处最黑，众多细枝向大片浅色墙面伸展，像墙体裂缝把它们释放出来。树的左下方有一位小小的人站在简易梯子上，一只手伸向墙面。人物比例保持克制，让巨大的空白墙面成为主要视觉区域。墙上具有可信的开裂石灰涂层、显露的长方形砖石、淡淡潮痕及不规则刮痕。树影以收敛的炭黑笔触绘制，使画上的枝条与真实表面裂纹几乎相融。阴冷的阴天光带来低饱和色调和柔和阴影。大部分画面保留粉白、带灰的留白，深色树枝则构成细密而轻盈的网。梯子、人物、竖向墙体破口与树干连成一条清晰轴线。这种效果引人再次凝视：这是一处极简的街头艺术介入，既像刻意绘成，也像被旧墙自然显露，现场材料直接参与图像。",
+  "style_prompt_en": "A site-responsive monochrome mural style combines economical charcoal-like silhouettes, weathered chalk-white grounds and convincing material discontinuities. Expansive negative space surrounds an asymmetrical dark branching rhythm. Drawn marks meet cracks, chipped edges, stains and exposed layers, making image and support visually inseparable. Cool diffuse daylight, muted gray shadows, dry granular texture and tiny scale cues establish depth. The effect is sparse, precise and contemplative, with tension between a nearly blank surface and a compact network of fine black lines.",
+  "style_prompt_zh": "顺应现场肌理的单色壁画风格结合节制的炭笔般剪影、风化粉白底色与可信的材料断层。宽阔留白环绕不对称的深色分叉节奏。绘制痕迹与裂纹、剥落边缘、污渍及裸露层次相接，使图像与承载表面在视觉上难以分开。冷调漫射日光、低饱和灰影、干燥颗粒质感和细小尺度提示建立纵深。整体稀疏、准确、沉静，近乎空白的表面与紧凑黑线网络形成张力。",
+  "theme_en": "A painted tree emerging from a damaged white wall",
+  "theme_zh": "从破损白墙中生长出来的绘制树影",
+  "wh_ratio": "1:1",
+  "id": "1113",
+  "name": "Pejac",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/pejac",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/pejac.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "45693cd246fe8f066876337e544e54958f20147fa1a6640826c6406bc9462b33",
+    "gpt_submission_prompt": "A square image shows a weathered white masonry wall transformed by a quiet, site-specific illusion. Near the center-right, a dark leafless tree appears to grow from a narrow recess where broken plaster has exposed older blocks. Its trunk is darkest at the damaged seam, and its many thin branches spread into the broad pale wall as if the real crack had released them. At the lower left of the tree, a small person stands on a simple ladder, one arm lifted toward the wall; the person is modest in scale, so the enormous empty surface remains the principal visual field. The wall shows a convincing mixture of cracked limewash, exposed rectangular stone, faint damp stains, and small irregular scratches. Restrained charcoal-black marks describe the tree, allowing painted branches and actual surface fissures to almost merge. Cool overcast lighting produces muted color and soft shadows. Most of the frame is spare, chalky off-white negative space, while the dark tree creates a branching web that is intricate yet light. The ladder, figure, vertical damage and trunk align along one readable axis. The result invites a second look: a minimal street-art intervention that seems both deliberately painted and naturally revealed by the old wall, where the material of the site participates in the image.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "35c63f227b48826ae64e06d001c3a8a5d814e2067789f8adfe000511fe945571",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

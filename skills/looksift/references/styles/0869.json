@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white editorial cartoon shows a tiny white sheet ghost and a round-headed child standing on a small rocky promontory at the edge of a dark sea. Both look upward at an enormous brilliant beam that slants down from a small circular opening in a ceiling of heavy black storm cloud. The ghost has only two oval eye holes; the child wears a simple dark outfit and cap-like round head shape. Their smallness emphasizes the scale of the luminous diagonal. A slender lighthouse stands far across the water at right, reduced to a quiet vertical accent. The foreground rock is described with tight black cross-hatching, while the ocean uses calmer horizontal marks. The cloud mass at top is nearly solid black, with dense curved pen strokes spiraling around the bright opening. The beam remains mostly unmarked white paper but is bordered by hundreds of thin converging ink lines. Strong graphic contrast carries the joke or mystery without needing written text. The composition is spare and carefully balanced: two small figures at lower left, the light cutting to upper right, and the distant tower stabilizing the horizon. Its hand-inked surface feels tactile and witty despite the supernatural subject.",
+  "full_prompt_zh": "一幅方形黑白社论漫画描绘一只小白布幽灵和一个圆头孩子站在深海边的小岩岬上。两者抬头望向一道巨大亮光，它从厚黑暴云顶端的小圆开口斜落。幽灵只有两个椭圆眼洞；孩子穿简单深衣，头部有帽状圆形。小小身体强调亮斜线的规模。右侧远海有一座纤细灯塔，只作安静竖向点缀。前景岩石由紧密黑交叉排线描述，海面则用较平静的水平痕。顶部云团近乎纯黑，密集弯曲钢笔笔触围着亮孔旋转。光束主要保留无痕纸白，两边由数百条细墨线收束。强图形反差无需文字也能传达幽默或谜团。构图稀疏且仔细平衡：左下两个小身影、切向右上的光和稳定地平线的远塔。手工墨绘表面可触，即使主题超自然也带机智感。",
+  "style_prompt_en": "High-contrast black-ink cartooning with near-solid dark masses, exposed white-paper light shapes, dense cross-hatching, and many fine converging rays. Tiny simple silhouettes against monumental diagonal illumination create scale and visual wit. Curved pen texture in shadows opposes calm horizontal ground marks. The page remains monochrome and materially hand-drawn, with meaning carried by graphic arrangement rather than lettering.",
+  "style_prompt_zh": "高反差黑墨漫画，以近乎实黑大形、露出纸白的光形、密集交叉排线与大量细收束射线组成。极小简化剪影对照巨大斜光，形成尺度与视觉机智。阴影中弯曲笔纹对照平静的水平地面线。页面保持单色和手绘物质感，意义由图形安排而非文字承担。",
+  "theme_en": "A little ghost and child beneath an impossible beam of light",
+  "theme_zh": "小幽灵和孩子站在不可思议的光柱下",
+  "wh_ratio": "1:1",
+  "id": "0869",
+  "name": "Tom Toles",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/tom-toles",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/tom-toles.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "82c6c10f1a94ab1cd02d3f098535527764c92260b7830386e5b764abaf72f31c",
+    "gpt_submission_prompt": "A square black-and-white editorial cartoon shows a tiny white sheet ghost and a round-headed child standing on a small rocky promontory at the edge of a dark sea. Both look upward at an enormous brilliant beam that slants down from a small circular opening in a ceiling of heavy black storm cloud. The ghost has only two oval eye holes; the child wears a simple dark outfit and cap-like round head shape. Their smallness emphasizes the scale of the luminous diagonal. A slender lighthouse stands far across the water at right, reduced to a quiet vertical accent. The foreground rock is described with tight black cross-hatching, while the ocean uses calmer horizontal marks. The cloud mass at top is nearly solid black, with dense curved pen strokes spiraling around the bright opening. The beam remains mostly unmarked white paper but is bordered by hundreds of thin converging ink lines. Strong graphic contrast carries the joke or mystery without needing written text. The composition is spare and carefully balanced: two small figures at lower left, the light cutting to upper right, and the distant tower stabilizing the horizon. Its hand-inked surface feels tactile and witty despite the supernatural subject.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "512553b5bca0378a56c44115a103c5045d1b5713049d478a702667d92d86cca3",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

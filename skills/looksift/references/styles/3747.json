@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A broad, sunlit street descends from the foreground into a busy small town beside water. Low pale buildings line the left, their roofs, awnings, and signs forming a broken series of warm and cool rectangles. On the right, tall leafy trees cast deep green masses over wagons, stalls, and a glimpse of blue water. Many tiny figures in light summer clothing move along the road or gather near the edges; they are described with quick dabs of cream, blue, red, and brown rather than individually detailed faces. A flag flutters above one bright building near the upper left. Beyond the crowded middle ground, soft green hills and a blue sky with scattered white clouds open the view. The central road acts as a pale diagonal corridor, narrowing into a dense, sparkling cluster of activity. Bright midday light catches white walls and dusty ground, while trees and carts provide broad patches of shade. The brushwork is lively and broken: small colored touches make crowds and market clutter shimmer, then smooth into larger tonal masses in the distant hills and sky. The scene has a cheerful public energy without a single heroic focal point. Its composition depends on a clear route through complex detail, balancing textured human bustle with spacious blue and green air. The painted surface retains visible texture and softened edges, making movement and atmosphere feel immediate.",
+  "full_prompt_zh": "一条宽阔、洒满阳光的街道从前景向河边热闹的小镇下行。左侧排列着低矮的浅色房屋，屋顶、遮篷和招牌形成一连串断续的冷暖矩形。右侧，高大的浓叶树木在马车、摊位和一角蓝色水面上投下深绿色块。许多穿浅色夏装的小人沿路行走或聚在路边，他们由奶油白、蓝、红和棕色的快速点笔构成，而没有逐一刻画面容。一面旗帜在左上方一座明亮建筑上飘动。越过拥挤的中景，柔和绿丘和散布白云的蓝天打开视野。中央道路像一条浅色斜向通道，逐渐收窄成密集闪烁的活动聚点。正午强光照亮白墙和积尘地面，树木与车辆提供宽大的阴影块。笔触活泼而断续：细小的彩色点笔让人群和集市杂物闪动，远处山丘和天空则融合成更大的明暗区域。场景有欢快的公共活力，却没有单一的英雄式焦点。构图依靠一条清晰路线穿过复杂细节，使充满肌理的人间热闹与宽裕的蓝绿空气相平衡。绘画表面保留可见肌理和柔化边缘，使运动与氛围显得即时。",
+  "style_prompt_en": "Lively broken brush marks assemble complex activity into a readable sweep of color. Pale sunlit planes and dusty creams alternate with deep leafy greens, muted blues, and small red or ocher accents. A clear diagonal passage leads through increasingly dense clusters of tiny marks, while distant areas soften into broad tonal fields. Edges remain selective: large masses hold the structure, small dabs give sparkle and movement. Bright outdoor light creates broad shade and warm highlights without rigid outlines. The spatial rhythm moves from open foreground to busy middle distance and back into airy sky. Visible paint texture and an impression of momentary bustle create an immediate, optimistic atmosphere.",
+  "style_prompt_zh": "活泼而断续的笔痕把复杂活动组织成清晰的色彩流向。浅色受光平面和带尘感的奶油色与深叶绿、柔和蓝色及少量红色或赭色重音交替。一条清楚的对角通道穿过越来越密集的细小笔痕，远处区域则柔化成宽阔的明暗色域。边缘经过选择：大色块稳住结构，小点笔带来闪烁与流动。明亮户外光造成宽大阴影和温暖亮部，却没有僵硬轮廓。空间节奏从开阔前景进入繁忙中景，再回到轻盈天空。可见的颜料肌理与瞬间热闹的印象营造即时而乐观的气氛。",
+  "theme_en": "A bustling summer street descending toward a riverside town",
+  "theme_zh": "夏日街道热闹地通向河边小镇",
+  "wh_ratio": "1:1",
+  "id": "3747",
+  "name": "Alson Skinner Clark",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/alson-skinner-clark",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "4e15a35f21f4fe5ee79a49c94ebd34c89087020a748c40886912dcf7fb39b439",
+    "gpt_submission_prompt": "A broad, sunlit street descends from the foreground into a busy small town beside water. Low pale buildings line the left, their roofs, awnings, and signs forming a broken series of warm and cool rectangles. On the right, tall leafy trees cast deep green masses over wagons, stalls, and a glimpse of blue water. Many tiny figures in light summer clothing move along the road or gather near the edges; they are described with quick dabs of cream, blue, red, and brown rather than individually detailed faces. A flag flutters above one bright building near the upper left. Beyond the crowded middle ground, soft green hills and a blue sky with scattered white clouds open the view. The central road acts as a pale diagonal corridor, narrowing into a dense, sparkling cluster of activity. Bright midday light catches white walls and dusty ground, while trees and carts provide broad patches of shade. The brushwork is lively and broken: small colored touches make crowds and market clutter shimmer, then smooth into larger tonal masses in the distant hills and sky. The scene has a cheerful public energy without a single heroic focal point. Its composition depends on a clear route through complex detail, balancing textured human bustle with spacious blue and green air. The painted surface retains visible texture and softened edges, making movement and atmosphere feel immediate.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "1109cb9ad9bf9b7a07a888526ea17e67b92d5f6e92957f0e1b1cc7c31ea2ab9a",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

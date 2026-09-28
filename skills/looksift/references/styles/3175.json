@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square stylized landscape illustration frames a narrow path leading toward a pale horizon between tall rows of trees. The trunks and branching silhouettes are near black, while large rounded canopies glow in intense red, scarlet, and vermilion. Cool blue-gray mounds flank the orange-red path at the bottom, and a tiny dark traveler stands near the distant center, greatly reduced by the scale of the forest. The scene is organized like a theatrical tunnel: dark trunks rise at both edges, branches lace across the upper half, and successive red crown shapes recede toward a light gray opening. The foliage is textured with dense tiny speckles rather than individual leaves, while the trunks remain crisp, flat, and graphic. Bands of muted gray sky appear between the canopies. The warm ground and canopy color dominate, punctuated by blue shadows and small black accents. Light seems to glow through the distant opening and behind the red forms; the foreground stays in strong silhouette. The symmetrical recession is slightly irregular, keeping the grove organic despite its formal arrangement. Depth comes from overlapping cutout-like layers, changing scale, and controlled color intervals rather than naturalistic shading. The picture feels quiet, mysterious, and dreamlike, with no title, caption, or border text.",
+  "full_prompt_zh": "一幅方形风格化风景插画用高树列框住通向浅色地平线的窄路。树干与分枝剪影近乎黑色，大团圆冠却在强烈红、猩红与朱红中发亮。冷蓝灰土坡夹着底部橙红小路，极小深色旅人站在远方中央，被森林尺度压得很小。场景像舞台隧道：深树干从两边升起，树枝在上半交织，一层层红树冠向浅灰出口后退。树叶由密集微小颗粒构成，而非逐片叶子；树干保持清楚、平面且图形化。树冠之间露出低调灰天。暖地面和树冠色占主导，蓝影与小黑重音点缀其间。光仿佛从远方开口与红形背后透出，前景仍是强剪影。对称后退稍有不规则，正式排列中仍保留树丛自然感。深度来自剪纸般层层重叠、尺度变化和受控色彩间隔，而非写实明暗。画面安静、神秘而如梦，没有标题、字幕或边框文字。",
+  "style_prompt_en": "Graphic landscape illustration built from layered cutout-like silhouettes, crisp branching lines, rounded masses, and dense speckled surface texture. Vermilion and scarlet dominate against near-black structure, cool blue-gray shadows, and a small pale opening. Repetition and shrinking scale produce a deep corridor, while a tiny dark accent intensifies the vastness. Light reads through controlled color contrast rather than realistic tonal modeling.",
+  "style_prompt_zh": "图形化风景插画由剪纸般叠层剪影、清楚分枝线、圆浑大形与密集颗粒表面组成。朱红和猩红主导，衬以近黑结构、冷蓝灰阴影与小片浅色开口。重复和缩小尺度形成深长走廊，极小深色重音强化广阔感。光通过受控色彩对比显现，而非写实明暗塑形。",
+  "theme_en": "A tiny traveler on a path through red autumn trees",
+  "theme_zh": "红色秋林小径上的微小旅人",
+  "wh_ratio": "1:1",
+  "id": "3175",
+  "name": "Eyvind Earle",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/eyvind-earle",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "73a796b028f82f7eff6b4ff47e8a66722344284557c2c197975b286f5d797081",
+    "gpt_submission_prompt": "A square stylized landscape illustration frames a narrow path leading toward a pale horizon between tall rows of trees. The trunks and branching silhouettes are near black, while large rounded canopies glow in intense red, scarlet, and vermilion. Cool blue-gray mounds flank the orange-red path at the bottom, and a tiny dark traveler stands near the distant center, greatly reduced by the scale of the forest. The scene is organized like a theatrical tunnel: dark trunks rise at both edges, branches lace across the upper half, and successive red crown shapes recede toward a light gray opening. The foliage is textured with dense tiny speckles rather than individual leaves, while the trunks remain crisp, flat, and graphic. Bands of muted gray sky appear between the canopies. The warm ground and canopy color dominate, punctuated by blue shadows and small black accents. Light seems to glow through the distant opening and behind the red forms; the foreground stays in strong silhouette. The symmetrical recession is slightly irregular, keeping the grove organic despite its formal arrangement. Depth comes from overlapping cutout-like layers, changing scale, and controlled color intervals rather than naturalistic shading. The picture feels quiet, mysterious, and dreamlike, with no title, caption, or border text.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "7accec412f716b6d380bfa0c3f753872e7db20fd50ae74a7097d8dc4183d5856",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

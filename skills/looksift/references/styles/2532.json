@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square nineteenth-century caricature illustration shows a long-beaked figure in a black top hat seated on a wooden cart. The scene is rendered mostly in black ink and warm paper white, with soft gray wash around the figures. The seated figure occupies the center-left, dressed in a long dark coat and trousers, its legs angled forward and one hand resting near the lap. The head resembles a bird mask or bird-like face, with a long pale pointed beak projecting to the left beneath the tall cylindrical hat. A round bright eye peers forward, giving the otherwise somber clothing a comic edge. The cart's plank seat and one large spoked wheel fill the right lower area, drawn with fine parallel lines and carefully shaded wood. Behind it, loosely sketched people and bundled shapes crowd the middle distance; one pale figure appears at the far left, partly turned away. The background remains shallow and unfinished, fading into the ivory page without a firm horizon or building. Dense crosshatching darkens the coat, cart undercarriage, and ground directly beneath the wheel, while open white areas preserve a light, airy page. The linework is lively rather than mechanically uniform, with short strokes giving faces and garments movement. Diffuse daylight is implied by the unpainted paper and soft gray cast beneath the cart; there is no harsh directional lamp. No text is legible. The overall composition is satirical and slightly strange, using one dark seated silhouette, a prominent beak, and a finely drawn wheel against a spare paper field.",
+  "full_prompt_zh": "这幅方形十九世纪讽刺插画呈现一名长喙人物，戴黑色高礼帽坐在木车上。场景主要由黑墨与暖纸白构成，人物周围有柔灰薄涂。坐者位于中央偏左，穿长深外套与长裤，双腿斜向前方，一只手靠在膝边。头部像鸟面具或鸟形脸，长而浅的尖喙从高圆筒礼帽下向左伸出。一只圆而明亮的眼睛望向前方，让庄重衣装带滑稽意味。木车板座和一只大辐条车轮填满右下区域，由细平行线和谨慎阴影描出木材。车后，松散勾出的行人和成捆形状挤在中景；最左方一名浅色人物部分背向观者。背景浅而未完成，融入象牙色纸面，没有坚实地平线或建筑。密集交叉排线加深外套、车底与车轮下方地面，开放白区保持书页轻盈。线条活跃而非机械均一，短笔痕赋予面孔和衣物动势。漫射日光由未上色纸面和车下柔灰影暗示，没有强烈定向灯。没有可读文字。整体构图带讽刺又略奇异，以深色坐姿剪影、突出的长喙和细描车轮对照简少纸面。",
+  "style_prompt_en": "Nineteenth-century caricature drawing combines lively black pen contours, dense crosshatching, and sparing gray wash on warm ivory paper. One large dark silhouette anchors a field of loosely sketched secondary forms, while precise small mechanical or textile lines reward close viewing. Edges often dissolve into unpainted paper instead of closing every shape. Light remains diffuse and page-like, with shallow shadows built by line density rather than painted gradients. The overall effect is witty, airy, and antique, balancing meticulous draftsmanship with deliberate incompletion.",
+  "style_prompt_zh": "十九世纪讽刺线描在暖象牙纸上结合活跃黑钢笔轮廓、密集交叉排线与稀少灰薄涂。一个大型深色剪影固定松散速写次要形体的区域，精确的小结构或织物线条值得近看。边缘常融入未着色纸面，而非封闭每个形状。光保持漫射的纸本感，浅影由线密度而非颜料渐层建立。整体机智、通透而古雅，在精密线描与有意留白之间平衡。",
+  "theme_en": "A long-beaked figure in a top hat seated on a wooden cart",
+  "theme_zh": "一名长喙面孔、戴高礼帽的人坐在木车上",
+  "wh_ratio": "1:1",
+  "id": "2532",
+  "name": "J. J. Grandville",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/j-j-grandville",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/j-j-grandville.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "53b819273d8f9dedd3ec7559725ec678ebeccc5595d576f0c7fcbd11fc2b990a",
+    "gpt_submission_prompt": "A square nineteenth-century caricature illustration shows a long-beaked figure in a black top hat seated on a wooden cart. The scene is rendered mostly in black ink and warm paper white, with soft gray wash around the figures. The seated figure occupies the center-left, dressed in a long dark coat and trousers, its legs angled forward and one hand resting near the lap. The head resembles a bird mask or bird-like face, with a long pale pointed beak projecting to the left beneath the tall cylindrical hat. A round bright eye peers forward, giving the otherwise somber clothing a comic edge. The cart's plank seat and one large spoked wheel fill the right lower area, drawn with fine parallel lines and carefully shaded wood. Behind it, loosely sketched people and bundled shapes crowd the middle distance; one pale figure appears at the far left, partly turned away. The background remains shallow and unfinished, fading into the ivory page without a firm horizon or building. Dense crosshatching darkens the coat, cart undercarriage, and ground directly beneath the wheel, while open white areas preserve a light, airy page. The linework is lively rather than mechanically uniform, with short strokes giving faces and garments movement. Diffuse daylight is implied by the unpainted paper and soft gray cast beneath the cart; there is no harsh directional lamp. No text is legible. The overall composition is satirical and slightly strange, using one dark seated silhouette, a prominent beak, and a finely drawn wheel against a spare paper field.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "4f26e421e604ef76dfc3cd189fb926d2a23e735f47856e43a1249bbab0dc287f",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

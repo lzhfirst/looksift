@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square gritty urban photograph looks down from a high ledge over a broad, crowded city intersection. In the immediate foreground, a pair of dark laced boots and blue-gray trouser legs extend toward the drop, with the rough concrete edge running across the lower frame. The boots are close and dark, while the traffic and buildings far below appear smaller and softened by atmospheric haze. Roads branch through the middle of the image around clusters of cars, parked vans, and low commercial roofs. A raised road or rail line arcs across the upper middle, separating the tangled lower streets from rows of tall pale apartment blocks near the horizon. More buildings spread into a smoggy distance on the left. The sky is pale and washed out, its brightness entering from the upper left. A streak of yellow-white sunlight glints down one wet or reflective route, drawing the eye into the otherwise cool gray-brown city. Details are photographic but slightly grainy and subdued, with dark shadow across the near ledge and boots. The person's body is not visible above the cropped legs, and there is no readable lettering at this scale. The viewpoint creates a strong vertiginous contrast between intimate foreground contact and the vast streets below. Cool desaturated structures, tiny vehicles, and a single warm reflected light path make the high city view feel tense and lonely.",
+  "full_prompt_zh": "一幅方形、带粗粝感的城市照片从高处边缘俯望一片宽阔拥挤的城市路口。紧贴前景，一双系带深色靴子和蓝灰裤腿朝落差处伸去，粗糙混凝土边沿横过画面下部。靴子近且暗，远低处的车流和建筑则因空气雾感显得更小、更柔。道路在画面中部向不同方向分岔，围绕成群汽车、停放的货车和低矮商业屋顶。一条高架路或轨道弧线穿过上部中央，把纠缠的下方街道与靠近地平线的高大浅色公寓楼排分开。左侧还有更多建筑散入烟霾远景。天空浅而褪色，亮度从左上进入。一道黄白日光沿一条潮湿或反光道路闪亮，带领目光穿过其余冷灰褐色城区。细节具有摄影感，却略带颗粒、色调收敛，近处边沿和靴子落在深影里。被裁切的双腿以上看不到人体，这个尺度上也没有可读字样。视点在亲近的前景接触与下方巨大街道之间制造强烈眩高感。冷而低饱和的建筑、微小车辆与唯一暖色反光通路，使高处城市视野显得紧张而孤独。",
+  "style_prompt_en": "Gritty urban photography places a very close dark foreground against a broad downward-looking environment. Desaturated slate, brown, and blue-gray cover most of the frame, interrupted by a narrow warm reflection. Grain and atmospheric haze soften small distant details without erasing the geometry of roads and building rows. Strong scale difference and deep perspective carry the visual impact: near forms are large and textured, while dense far structures shrink toward a pale horizon. Overcast light remains weak except where it glances off a reflective route. A dark lower anchor and tangled middle-ground lines make the view precarious and cinematic.",
+  "style_prompt_zh": "粗粝城市摄影把极近的深暗前景放在宽阔的俯视环境前。低饱和石板灰、褐色与蓝灰覆盖大部分画面，只有一条狭窄暖色反光打断。颗粒和空气雾感柔化远处小细节，却没有抹去道路与建筑排列的几何结构。悬殊尺度和深透视承载视觉冲击：近处形体巨大而带纹理，密集远处结构向浅色地平线缩小。阴天光整体微弱，只有掠过反光通路时变亮。深色下方支点与纠缠的中景线条使视野显得不稳而电影化。",
+  "theme_en": "Booted legs dangling above a dense city intersection",
+  "theme_zh": "穿靴双腿悬在密集城市路口上方",
+  "wh_ratio": "1:1",
+  "id": "0159",
+  "name": "Low vantage point view",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/low-vantage-point-view",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/low-vantage-point-view.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "5ab073f94da617822eb63f12eeaa0c96c6ef9e704c0bdb30ddc55fb2e937d566",
+    "gpt_submission_prompt": "A square gritty urban photograph looks down from a high ledge over a broad, crowded city intersection. In the immediate foreground, a pair of dark laced boots and blue-gray trouser legs extend toward the drop, with the rough concrete edge running across the lower frame. The boots are close and dark, while the traffic and buildings far below appear smaller and softened by atmospheric haze. Roads branch through the middle of the image around clusters of cars, parked vans, and low commercial roofs. A raised road or rail line arcs across the upper middle, separating the tangled lower streets from rows of tall pale apartment blocks near the horizon. More buildings spread into a smoggy distance on the left. The sky is pale and washed out, its brightness entering from the upper left. A streak of yellow-white sunlight glints down one wet or reflective route, drawing the eye into the otherwise cool gray-brown city. Details are photographic but slightly grainy and subdued, with dark shadow across the near ledge and boots. The person's body is not visible above the cropped legs, and there is no readable lettering at this scale. The viewpoint creates a strong vertiginous contrast between intimate foreground contact and the vast streets below. Cool desaturated structures, tiny vehicles, and a single warm reflected light path make the high city view feel tense and lonely.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "c1b239e75c66dbd7fb1b882f3e58f3b9e45259d2a08a065e95d0c20fd8d99e6c",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

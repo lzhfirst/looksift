@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white documentary photograph shows an old farmhouse in an open snow-covered valley. The weathered pale building stands near the center, with a steep roof, small upper window, and two porch-like openings facing the camera. A broad leafless tree spreads to its left, its branches reaching over part of the roof. A low old sedan sits in the snow at the far lower left, parallel to the building. Behind the house, a gentle snowy hill rises under large soft clouds, and a thin fence line stretches across the middle distance. The foreground is wide and mostly empty, marked by faint tracks and small uneven patches in the snow. The view is level and distant enough to hold both tree and house as a compact pair against the large valley. Diffuse winter light brightens cloud and snow without harsh cast shadows; the tree, window openings, and car make restrained dark accents. The image has gentle grain and a slightly warm silver-grey print tone rather than stark digital black and white. Fine branches, worn siding, and the fence become legible on closer inspection, while the hillside and sky remain softer. No readable signage appears. The overall composition is plain and quietly elegiac, using open space and modest human traces to describe an isolated place.",
+  "full_prompt_zh": "一张方形黑白纪实照片描绘开阔积雪山谷中的一栋旧农舍。磨旧浅色建筑位于中央附近，有陡屋顶、小上层窗和两个朝向镜头的门廊状开口。一棵宽大的落叶树在左侧展开，枝条伸过部分屋顶。一辆低矮旧轿车停在最左下的雪中，与建筑平行。房后，缓坡覆雪山丘在大片柔云下升起，细篱线横过中远处。前景宽阔且大多空白，雪上有淡车辙与不平小斑。视点平而足够远，把树与房作为紧凑一对放在大山谷前。弥散冬日光照亮云和雪，没有生硬投影；树、窗洞和车形成节制的深色重音。图像有柔颗粒和略暖的银灰冲印调，而非刺眼数码黑白。近看可辨细枝、磨旧外墙板与篱笆，山坡和天空则更柔。没有可辨认标牌。整体构图朴素、安静而哀婉，以开放空间和少量人类痕迹描绘孤立地点。",
+  "style_prompt_en": "A documentary photographic surface holds a compact cluster of weathered midtone forms within wide pale negative space. Gently warm silver-grey grain softens the monochrome range, and diffuse light makes the brightest areas broad rather than sharply clipped. Fine branching lines, small dark apertures, and faint horizontal traces punctuate open white ground. The horizon sits low enough for large softly textured upper shapes, while distant slopes retain a quiet tonal gradient. Edges are legible but unforced, with no dramatic contrast or hard shadows. The effect is plain, patient, and elegiac, letting scale and modest material wear carry the image.",
+  "style_prompt_zh": "纪实摄影表面把紧凑的磨旧中间调形放在宽阔浅色负空间中。略暖的银灰颗粒柔化单色范围，弥散光使最亮区域宽泛，而非尖锐截断。纤细分枝线、小深色开口与淡水平痕点破开放白底。地平线足够低，让上方大片柔软纹理形伸展，远坡仍保留安静调性渐变。边缘可辨但不过分强调，没有戏剧对比或硬影。效果朴素、耐心且哀婉，由尺度与少量材料磨损承担图像。",
+  "theme_en": "An abandoned farmhouse and car in a snowy open valley",
+  "theme_zh": "积雪山谷中废弃农舍与汽车",
+  "wh_ratio": "1:1",
+  "id": "1148",
+  "name": "Mark Ruwedel",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/mark-ruwedel",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/mark-ruwedel.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "7c12cd151aa0ec590513f83527e15492c31a61fb129a61d5776b2a1efd7217bb",
+    "gpt_submission_prompt": "A square black-and-white documentary photograph shows an old farmhouse in an open snow-covered valley. The weathered pale building stands near the center, with a steep roof, small upper window, and two porch-like openings facing the camera. A broad leafless tree spreads to its left, its branches reaching over part of the roof. A low old sedan sits in the snow at the far lower left, parallel to the building. Behind the house, a gentle snowy hill rises under large soft clouds, and a thin fence line stretches across the middle distance. The foreground is wide and mostly empty, marked by faint tracks and small uneven patches in the snow. The view is level and distant enough to hold both tree and house as a compact pair against the large valley. Diffuse winter light brightens cloud and snow without harsh cast shadows; the tree, window openings, and car make restrained dark accents. The image has gentle grain and a slightly warm silver-grey print tone rather than stark digital black and white. Fine branches, worn siding, and the fence become legible on closer inspection, while the hillside and sky remain softer. No readable signage appears. The overall composition is plain and quietly elegiac, using open space and modest human traces to describe an isolated place.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "ebd884da6fee41bd14c9331df8b7ece2c8063925c61d6b19c45f35b06a5baf3c",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square monochrome city illustration looks down a steep street toward a dense industrial skyline. Tall dark buildings line both sides and converge at the distant city center, while tiny figures stand along the descending roadway. Above, an immense storm cloud presses over the roofs, pierced by hard diagonal shafts of pale light. A skeletal tower or industrial frame rises near the horizon, giving the scene a modern, unsettling edge. Strong perspective pulls the eye from shadowed foreground walls down into the brighter middle distance. Graphite, charcoal, and ink hatching build the rough facades, chimney shapes, cloud banks, and street texture. Deep blacks collect under eaves and in the nearest structures; silvery grays open on the distant roofs and light beams. Fine parallel lines give the sky a swept, almost mechanized motion. The image appears printed or engraved, with grain, scratches, and a slightly worn border. Human figures are very small, emphasizing the city's scale and the force of the sky. The whole frame feels severe, dynamic, and early modern, turning an ordinary city view into an ominous urban vision through angular architecture, compressed space, and dramatic tonal weather.",
+  "full_prompt_zh": "一幅方形单色城市插画沿陡坡街道望向密集工业天际线。高而深色的楼房排列两侧，在远方城市中心汇聚，细小人物站在下行道路上。上方巨大的暴风云压住屋顶，坚硬斜向浅色光束从中穿过。一座骨架般的塔或工业框架在地平线附近升起，为场景添上现代而不安的边缘。强烈透视把视线从阴影前景墙体拉向较亮中远景。石墨、木炭与墨线排线构成粗糙立面、烟囱形状、云团与街道肌理。深黑积在檐下和近处结构中，银灰色在远方屋顶和光束上打开。天空里的细密平行线赋予场景被扫过、近乎机械化的运动。画面像印刷或雕版，有颗粒、刮痕和略微磨旧的边框。人物十分渺小，凸显城市尺度和天空力量。整幅画严厉、充满动势、有早期现代感，凭借棱角建筑、压缩空间和戏剧性天气，把普通城市景观变成不祥的都市幻象。",
+  "style_prompt_en": "An early-modern monochrome city-illustration style uses severe perspective, angular building masses, and storm-driven diagonal light. Fine graphite and ink hatching create facades, cloud movement, and industrial texture, with deep black pockets under nearby structures and silvery grays toward distance. Tiny human-scale marks clarify monumental space. Swept parallel sky lines and sharp beams add speed above a stable street vanishing point. Grain, scratches, and worn print edges keep the scene tactile. The visual energy comes from geometric compression and atmospheric drama, not saturated color. The mood is austere, urban, and ominous.",
+  "style_prompt_zh": "早期现代单色城市插画风格使用严厉透视、棱角建筑块面和穿过暴风云的斜光。细密石墨与墨线排线构成立面、云的运动和工业肌理，近处结构下积着深黑，远方渐成银灰。细小人物尺度笔迹说明空间的纪念碑感。扫过天空的平行细线和尖锐光束在稳定的街道消失点上方增加速度。颗粒、刮痕与磨旧印刷边缘保留触感。视觉能量来自几何压缩与天气戏剧性，而非饱和色。气氛冷峻、都市、不祥。",
+  "theme_en": "A storm-shadowed industrial city viewed down a steep street in monochrome",
+  "theme_zh": "从陡坡街道俯看一座被风暴阴影覆盖的工业城市",
+  "wh_ratio": "1:1",
+  "id": "4424",
+  "name": "Christopher R. W. Nevinson",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/christopher-r-w-nevinson.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "a2dcb56f059d0933be5f37febe6bb16173270ca5332e36c1011be65ed18f805b",
+    "gpt_submission_prompt": "A square monochrome city illustration looks down a steep street toward a dense industrial skyline. Tall dark buildings line both sides and converge at the distant city center, while tiny figures stand along the descending roadway. Above, an immense storm cloud presses over the roofs, pierced by hard diagonal shafts of pale light. A skeletal tower or industrial frame rises near the horizon, giving the scene a modern, unsettling edge. Strong perspective pulls the eye from shadowed foreground walls down into the brighter middle distance. Graphite, charcoal, and ink hatching build the rough facades, chimney shapes, cloud banks, and street texture. Deep blacks collect under eaves and in the nearest structures; silvery grays open on the distant roofs and light beams. Fine parallel lines give the sky a swept, almost mechanized motion. The image appears printed or engraved, with grain, scratches, and a slightly worn border. Human figures are very small, emphasizing the city's scale and the force of the sky. The whole frame feels severe, dynamic, and early modern, turning an ordinary city view into an ominous urban vision through angular architecture, compressed space, and dramatic tonal weather.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "deaa050a15fcd5eba400fdcee8733e106da277e917bb402b880987563585aae0",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

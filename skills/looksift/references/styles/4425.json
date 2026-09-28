@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square expressionist painting shows a dark-clad figure in the near foreground of a bridge, hands pressed along both sides of a pale yellow face. The mouth forms a small open oval and the eyes stare outward, while two distant walkers continue behind on the left without reacting. A diagonal railing draws the viewer from the lower left into a winding shoreline and deep blue water. Above the horizon, bands of orange, red and yellow sweep across almost half the picture in long undulating strokes. The landscape below answers with curling blue, teal, brown and green lines; even the ground and distant inlet seem to vibrate. The face is more mask-like than anatomically exact, its simplified shape concentrating the emotional force of the scene. Brush and crayon-like marks remain visible, often running parallel to the curved forms. The figure's dark body anchors the restless color around it, and the railing's diagonals provide a brief structural counterweight to the sweeping sky. No realistic light source explains the colors; they read as a heightened internal perception of the place. The composition feels tense and exposed, with subjective emotion carried by distorted spatial rhythm and raw, layered pigment instead of literal narrative action.",
+  "full_prompt_zh": "一幅正方形表现主义绘画呈现桥近前景的一位深衣人物，双手贴在浅黄色面孔两侧。嘴呈小小张开的椭圆，双眼朝外瞪视；左后方两名远处行人继续前进，没有反应。斜向栏杆从左下引导视线进入弯曲岸线和深蓝水面。地平线上方，橙、红、黄长长起伏的笔触占据近半画幅。下方景观以弯曲的蓝、青、棕、绿线呼应，连地面和远处水湾都像在震动。面孔更像面具，而非准确解剖，简化形状集中场景情绪力量。画笔与蜡笔般的痕迹清楚可见，常顺着曲形平行延伸。深色身体固定周围不安的色彩，栏杆对角线暂时平衡横扫天空。没有写实光源解释颜色，它们更像对地点的强化内在感知。构图紧张而暴露，主观情绪由扭曲空间节奏与粗粝叠层颜料承担，而非字面叙事动作。",
+  "style_prompt_en": "The style is emotionally charged expressionist painting with visible directional strokes, vibrating contours and spatial distortion. Long bands of red, orange and yellow oppose curling deep blue, teal and brown values. Simplified focal form and a dark anchoring mass hold the square frame against restless surrounding rhythm. Diagonal structural lines briefly interrupt the waves. Pigment appears layered, rough and hand driven; color describes felt intensity rather than natural illumination. The result is subjective and tense without relying on realistic perspective.",
+  "style_prompt_zh": "这种风格是情绪强烈的表现主义绘画，具有可见方向性笔触、振动轮廓和空间扭曲。红、橙、黄的长带对应弯转的深蓝、青与棕色域。简化焦点形和深色锚体使正方形画幅抵住四周不安节奏。对角结构线短暂打断波纹。颜料层叠、粗糙且手工感明显；颜色描述感受到的强度，而非自然照明。效果主观紧张，不依赖写实透视。",
+  "theme_en": "A lone figure overwhelmed by a vibrating sunset landscape",
+  "theme_zh": "被振动夕阳风景压倒的孤身人物",
+  "wh_ratio": "1:1",
+  "id": "4425",
+  "name": "Edvard Munch",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/edvard-munch.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "c2f844290ed1bb66f5fa706edee616b458d519c54ecee25f521e9990139684dc",
+    "gpt_submission_prompt": "A square expressionist painting shows a dark-clad figure in the near foreground of a bridge, hands pressed along both sides of a pale yellow face. The mouth forms a small open oval and the eyes stare outward, while two distant walkers continue behind on the left without reacting. A diagonal railing draws the viewer from the lower left into a winding shoreline and deep blue water. Above the horizon, bands of orange, red and yellow sweep across almost half the picture in long undulating strokes. The landscape below answers with curling blue, teal, brown and green lines; even the ground and distant inlet seem to vibrate. The face is more mask-like than anatomically exact, its simplified shape concentrating the emotional force of the scene. Brush and crayon-like marks remain visible, often running parallel to the curved forms. The figure's dark body anchors the restless color around it, and the railing's diagonals provide a brief structural counterweight to the sweeping sky. No realistic light source explains the colors; they read as a heightened internal perception of the place. The composition feels tense and exposed, with subjective emotion carried by distorted spatial rhythm and raw, layered pigment instead of literal narrative action.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "67907df418250a8ab68c5f2269a746409c984cd330e83919e9117af7845d0dec",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

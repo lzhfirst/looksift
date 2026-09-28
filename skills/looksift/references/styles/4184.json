@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square redscale photographic print shows the close profile of a reptilian creature among dark branches. Its head fills the upper right and points toward the right edge, with a ridged brow, a small dark eye, pebbled skin, and short spikes running backward along the neck. A thick dark limb or trunk descends diagonally from the upper left toward the lower center, partly hiding the body. Around it, curled leaves and rough vegetation form a dense near-black lower field. The background is a nearly uniform glowing orange-red, with slight grain and tonal variation rather than a detailed landscape. The creature's scaly surface is rendered in warm amber, dark brown, and deep crimson; the ridges catch brighter orange where the light crosses them. The foreground branches remain shadowy silhouettes but retain enough detail to reveal leaf edges and bark texture. Strong backlight comes from the right and behind, creating a hot red rim on the creature and making the dark lower forms more emphatic. The print has visible fine grain, slight color bleed at high-contrast edges, and a warm veil across what would otherwise be natural hues. No text can be read. The overall composition is compressed and dramatic, using a single red-orange color cast to unite rough texture, looming animal form, and dark obstructing foliage.",
+  "full_prompt_zh": "一幅方形红片摄影印相描绘深色枝条之间爬行生物的近距侧面。头部占据右上并朝向右边缘，有凸起眉脊、小深眼、卵石般皮肤，以及沿颈向后排列的短尖刺。一道粗深肢体或树干从左上斜向下方中央，遮住身体一部分。周围卷叶和粗糙植物构成近黑的密集下部色域。背景是几乎均匀发亮的橙红色，只有轻微颗粒与调性变化，而非细致风景。生物鳞面以暖琥珀、深棕和浓绯红呈现；光越过凸脊处出现更亮橙色。前景枝条保持暗剪影，却仍有足够细节露出叶边与树皮纹理。强逆光从右侧后方来到，在生物边缘形成炽热红光，并使下方深色形体更突出。印片可见细颗粒，高反差边缘有轻微溢色，暖色薄纱覆盖原本可能更自然的色调。没有可读文字。整体构图压缩而富戏剧性，以单一红橙色罩染统一粗糙肌理、逼近的动物形体与遮挡的深色枝叶。",
+  "style_prompt_en": "Redscale photographic treatment floods the image with orange, scarlet, amber, crimson, and deep brown, suppressing conventional cool color. Fine grain, slight high-contrast color bleed, and a warm translucent veil give the print a chemically altered feel. Strong backlight makes raised edges glow while overlapping lower regions fall toward silhouette. Rough microtexture remains visible inside the warm midtones, so dark masses are not featureless. Tight cropping and diagonal obstruction create pressure around a compact focal area. The effect is hot, ominous, and materially photographic.",
+  "style_prompt_zh": "红片摄影处理让橙、猩红、琥珀、绯红和深棕浸满图像，压低常规冷色。细颗粒、高反差处轻微溢色和半透明暖色罩层使印片带化学变色感。强逆光让凸起边缘发亮，重叠的下部区域则趋向剪影。粗糙微肌理仍保留在暖色中间调内，深色体量因此并非毫无细节。紧密裁切和斜向遮挡给紧凑焦点施加压力。效果炽热、不祥且具有摄影材料感。",
+  "theme_en": "A reptilian creature in an orange-red photographic print",
+  "theme_zh": "橙红摄影印片中的爬行生物",
+  "wh_ratio": "1:1",
+  "id": "4184",
+  "name": "Redscale print",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/redscale-print.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "28c6312dc4bdc2a8dc7aa0de7f79fde74608edd69fe75da0edaa3743d555c59c",
+    "gpt_submission_prompt": "A square redscale photographic print shows the close profile of a reptilian creature among dark branches. Its head fills the upper right and points toward the right edge, with a ridged brow, a small dark eye, pebbled skin, and short spikes running backward along the neck. A thick dark limb or trunk descends diagonally from the upper left toward the lower center, partly hiding the body. Around it, curled leaves and rough vegetation form a dense near-black lower field. The background is a nearly uniform glowing orange-red, with slight grain and tonal variation rather than a detailed landscape. The creature's scaly surface is rendered in warm amber, dark brown, and deep crimson; the ridges catch brighter orange where the light crosses them. The foreground branches remain shadowy silhouettes but retain enough detail to reveal leaf edges and bark texture. Strong backlight comes from the right and behind, creating a hot red rim on the creature and making the dark lower forms more emphatic. The print has visible fine grain, slight color bleed at high-contrast edges, and a warm veil across what would otherwise be natural hues. No text can be read. The overall composition is compressed and dramatic, using a single red-orange color cast to unite rough texture, looming animal form, and dark obstructing foliage.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "93d15ece6b8319d5ea7b852368e1bbcfafdee29e2b9f206f51379e496293dee2",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

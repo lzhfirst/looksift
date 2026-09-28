@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square sepia fantasy illustration depicts a seated nomadic warrior against a pale, worn-paper background. She leans forward with one elbow resting near her head, her expression lowered and thoughtful. A decorated headband crosses her brow, and braided hair falls beside the face. Her layered costume includes dark leather, metal wrist guards, wrapped fabric, and heavy trousers gathered at the knees. The broad seated pose fills most of the frame, with raised knees creating strong triangular shapes around the torso. Fine graphite and ink lines describe ornaments, seams, buckles, and the rough edges of fabric. Light sepia washes and charcoal shadows build volume without introducing bright color. The hands, face, and bare shoulders are more softly modeled than the textured armor, creating material contrast. The background remains open cream paper with faint stains and ghostlike architectural marks near the right edge. Diffuse frontal light reveals the intricate clothing but allows the deepest black to collect around the chest and lower folds. The image feels like a carefully observed character plate from an old fantasy travel book: detailed, weathered, and introspective, with visible pencil construction and a restrained antique palette.",
+  "full_prompt_zh": "一幅方形棕褐色奇幻插画描绘一位坐在浅色磨旧纸面前的游牧战士。她身体前倾，一只手肘靠近头部，低垂的表情显得若有所思。装饰头带横过眉额，编辫发丝垂在脸旁。层叠服饰包括深色皮革、金属护腕、缠绕布料和在膝部收拢的厚重裤装。宽阔坐姿填满大部分画面，抬起的膝盖在躯干周围形成有力三角形。细密石墨与墨线描绘饰件、接缝、扣件和布料粗糙边缘。浅棕薄染和木炭阴影塑造体积，没有加入鲜艳颜色。双手、面孔和裸露肩膀的塑形比有纹理的护甲柔和，形成材质对照。背景保持开放的乳白纸面，带着淡淡污渍和右缘幽灵般的建筑痕迹。正面漫射光显露复杂服装，同时让最深的黑聚在胸部与下方衣褶。画面像古老奇幻旅行书里的精心观察的人物图版：细密、磨旧、内省，保留可见铅笔结构和克制的古董色谱。",
+  "style_prompt_en": "A restrained sepia character-illustration language joins delicate graphite construction, fine ink detail, and soft charcoal wash. Cream paper, warm taupe, dark brown, and near-black carry the palette. A large, grounded focal form is built from interlocking triangular masses, with richly described fabrics or hardware contrasted against softly modeled exposed surfaces. Open paper and faint stains keep the background light. Diffuse illumination reveals small seams and ornaments, while shadow pools in folds and recesses. Visible sketch marks and worn texture give the image an antique travel-book quality. The style favors patient line work, material differentiation, and contemplative stillness over glossy fantasy spectacle.",
+  "style_prompt_zh": "克制的棕褐色人物插画语言把纤细石墨结构线、细致墨线和柔和木炭薄染结合。乳白纸面、暖灰褐、深棕与近黑构成色谱。大片而稳固的焦点形态由互相咬合的三角块面组成，细密描写的布料或硬件与柔和塑形的裸露表面形成对照。开放纸面和淡淡污渍保持背景明亮。漫射光显露小接缝与饰件，阴影沉入褶皱和凹处。可见速写笔迹和磨旧肌理让画面带有古旅行书的质感。风格强调耐心的线描、材质区分与沉思般的静止，而非油亮奇幻奇观。",
+  "theme_en": "A seated nomadic warrior in ornate leather and metal garments",
+  "theme_zh": "一位身穿精致皮革与金属服饰的游牧战士坐姿肖像",
+  "wh_ratio": "1:1",
+  "id": "4406",
+  "name": "Luis Royo",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/luis-royo.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "01b5b352d5fc8df5cd43d501b0787bc5eca952523ab8e3a7b7c9224b91f4facd",
+    "gpt_submission_prompt": "A square sepia fantasy illustration depicts a seated nomadic warrior against a pale, worn-paper background. She leans forward with one elbow resting near her head, her expression lowered and thoughtful. A decorated headband crosses her brow, and braided hair falls beside the face. Her layered costume includes dark leather, metal wrist guards, wrapped fabric, and heavy trousers gathered at the knees. The broad seated pose fills most of the frame, with raised knees creating strong triangular shapes around the torso. Fine graphite and ink lines describe ornaments, seams, buckles, and the rough edges of fabric. Light sepia washes and charcoal shadows build volume without introducing bright color. The hands, face, and bare shoulders are more softly modeled than the textured armor, creating material contrast. The background remains open cream paper with faint stains and ghostlike architectural marks near the right edge. Diffuse frontal light reveals the intricate clothing but allows the deepest black to collect around the chest and lower folds. The image feels like a carefully observed character plate from an old fantasy travel book: detailed, weathered, and introspective, with visible pencil construction and a restrained antique palette.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "181932fa020402f8fff0968545725c7d1d69bf64730d70d848c6b41989ae056f",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

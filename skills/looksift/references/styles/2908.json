@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square, restrained oil portrait shows a young woman seated in a deep red dress against a mottled earthy brown background. The backdrop has no detailed setting, only broad variations of umber, charcoal and muted red around the figure. She sits just left of center on a dark straight-backed chair, her torso turned slightly toward the right while her face angles toward the viewer's left. Glossy black hair is parted in the middle and gathered into smooth rounded sections near her ears. Her eyes look outward with a quiet, serious expression, and the softly lit face is modeled in warm cream, ochre and rose. The red dress has long sleeves and a simple dark neckline. A wide black drape crosses from her left shoulder over the chest and down the side, making a strong diagonal against the vermilion fabric. Her forearms rest across her lap near the lower center, one hand lying over the other with slim fingers visible. A narrow bracelet and long dark necklace provide small restrained details. The lower dress folds into broad red-brown planes and is cropped by the frame. Warm light from the upper left catches the forehead, cheek, hands and raised fabric folds, while the black drape and chair remain deep and matte. Brushwork is smooth in the face and hands but more visibly dragged in the wall and clothing. The overall composition balances dignified stillness with a saturated red field, allowing the woman's poised presence to emerge from the warm dark ground.",
+  "full_prompt_zh": "这幅方形、克制的油画肖像里，一位年轻女子身穿深红裙装坐在斑驳土褐色背景前。背景没有详尽场所，只有赭褐、炭色和压低红色围着人物形成的宽阔变化。她坐在中心稍左的深色直背椅上，躯干略朝右，脸则偏向观众左侧。光亮黑发中分，在双耳旁收成平滑圆润的发团。她向外望，神情安静而严肃，柔和受光的面孔由暖奶油、赭黄和玫瑰色塑形。红裙长袖，领口简洁而深色。一片宽黑色披布从她左肩斜越胸前，垂向身侧，在朱红衣料上形成强斜线。前臂在下方中央附近交放腿上，一只手叠在另一只上，纤细手指可见。一只窄手镯和长深色项链提供少量克制细节。下方裙摆折成宽红褐平面，被画框裁断。来自左上的暖光落在额头、面颊、双手和凸起的布褶，黑披布与椅子保持深暗哑光。脸和手的笔触平滑，墙面与衣服则可见更多拖笔。整体构图让端庄静止与饱和红色域平衡，使女子从温暖深色底中从容浮现。",
+  "style_prompt_en": "The oil-painting manner uses smooth warm modeling at the focal area against matte, broadly brushed earth-color ground. Deep vermilion and red-brown dominate, cut by a strong near-black diagonal and small cream highlights. Edges are clear around the lit face and hands, then soften into clothing and background as values converge. Upper-side warm light forms gentle volume without a sharp cast shadow. A simple seated vertical structure and broad fabric planes keep the composition calm and weighted. The restrained detail, low-key palette and visible background brushwork produce dignified intimacy rather than decorative spectacle.",
+  "style_prompt_zh": "这种油画手法让焦点区域的平滑暖色塑形与哑光、宽笔土色背景相对。深朱红与红褐占主导，一道强近黑斜线和少量奶油高光将其切开。受光的面部和双手周围边缘清楚，明度趋近时便渐柔入衣物与背景。上方一侧暖光形成温和体积，没有尖锐投影。简洁的坐姿竖向结构和宽阔布料平面让构图平静而有分量。克制细节、低明度配色与可见背景笔触，营造端庄亲近感，而非装饰性奇观。",
+  "theme_en": "A seated young woman in deep red dress against an earthy brown ground",
+  "theme_zh": "一位身穿深红裙装的年轻女子坐在土褐色背景前",
+  "wh_ratio": "1:1",
+  "id": "2908",
+  "name": "Amrita Sher-Gil",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/amrita-sher-gil",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/amrita-sher-gil.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "ebfdd77fa8252c257adb1ea4b13bb877516f7cd10ba912385d9774f1037dbbda",
+    "gpt_submission_prompt": "A square, restrained oil portrait shows a young woman seated in a deep red dress against a mottled earthy brown background. The backdrop has no detailed setting, only broad variations of umber, charcoal and muted red around the figure. She sits just left of center on a dark straight-backed chair, her torso turned slightly toward the right while her face angles toward the viewer's left. Glossy black hair is parted in the middle and gathered into smooth rounded sections near her ears. Her eyes look outward with a quiet, serious expression, and the softly lit face is modeled in warm cream, ochre and rose. The red dress has long sleeves and a simple dark neckline. A wide black drape crosses from her left shoulder over the chest and down the side, making a strong diagonal against the vermilion fabric. Her forearms rest across her lap near the lower center, one hand lying over the other with slim fingers visible. A narrow bracelet and long dark necklace provide small restrained details. The lower dress folds into broad red-brown planes and is cropped by the frame. Warm light from the upper left catches the forehead, cheek, hands and raised fabric folds, while the black drape and chair remain deep and matte. Brushwork is smooth in the face and hands but more visibly dragged in the wall and clothing. The overall composition balances dignified stillness with a saturated red field, allowing the woman's poised presence to emerge from the warm dark ground.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "112c92319136edf5da821455467e8ded04dfb33b78c03aa612a9b1c4167efad8",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

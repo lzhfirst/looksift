@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A dreamlike monochrome image places a solitary dark-clad figure among a loose gathering of white swans on still, shallow water. The figure stands slightly left of center, shown in profile and looking downward, with a long dark shape reflected beneath them. Around this central silhouette, swans turn their curved necks in different directions, their pale bodies becoming the brightest forms in the lower half of the frame. Some birds are partially veiled by mist, so the group seems to recede into a soft, uncertain distance. The water is almost mirrorlike but imperfect, holding dim reflections and a few faint ripples rather than sharp duplicates. Behind the group, a wide halo of diffuse white light glows through dense gray fog, while the outer edges of the image sink into smoky charcoal tones. The upper portion contains very little detail, leaving a heavy atmospheric field that emphasizes the isolated human shape and the repeated white arcs of the birds' necks. The image has a soft, grainy photographic surface with darkened corners and delicate tonal noise. Its edges are gently blurred, and even the brightest feathers have muted, silvery detail rather than hard white cutouts. The composition feels hushed and uncanny, balancing recognizable natural forms with a sense that the scene might vanish into the fog at any moment.",
+  "full_prompt_zh": "一幅梦境般的单色画面，将一个身穿深色衣物的孤独身影放在静而浅的水面上，周围是一群松散聚集的白天鹅。人物位于中心稍左，以侧面示人，低头看向下方，身下留着一条长长的深色倒影。天鹅在这道中心剪影四周把弯曲的脖颈转向不同方向，浅色身体成为画面下半部最明亮的形状。有些鸟被雾气部分遮住，因此整群逐渐退入柔软而不确定的远处。水面近乎镜面，却并不完美，只保留模糊倒影和几道轻微涟漪，而非锐利复制。它们身后，宽阔的漫射白光在浓灰雾中发亮，画面外缘则沉入烟炭色。上半部几乎没有具体细节，厚重的空气场强调孤立的人形和天鹅颈部反复出现的白色弧线。图像带有柔软而有颗粒的摄影表面，四角较暗，明暗中有细小噪点。边缘轻微模糊，即使最亮的羽毛也保留柔和银色细节，而不是硬邦邦的纯白剪纸。构图安静而有些奇异，以可辨认的自然形态与场景仿佛随时会消散在雾中的感觉取得平衡。",
+  "style_prompt_en": "A dreamlike monochrome photographic style with soft grain, smoky vignetting, and a luminous center fading into dark charcoal edges. Pale repeated curves gather around a single denser form, then dissolve gradually into layered mist. Still reflective surfaces hold blurred echoes and faint irregular ripples. Diffuse backlight lifts silvery highlights without producing hard outlines or cast shadows. Much of the frame is left as open, indistinct atmosphere, giving the few visible forms unusual weight. Slight optical softness and delicate tonal noise make the image feel tactile, hushed, and quietly uncanny.",
+  "style_prompt_zh": "梦境般的单色摄影风格，带有柔软颗粒、烟雾状暗角，以及从发亮中心渐渐落向炭黑边缘的明暗。重复的浅色弧线聚拢在一个更密实的形态周围，然后逐层消融在雾中。静止的反光表面留下模糊回声和轻微不规则涟漪。漫射逆光托起银色高光，却不制造生硬轮廓或投影。画面大部分留给开阔而不确定的空气，使少数可见形状具有异常分量。轻微的光学柔化和细小色调噪点，让图像有触感、安静且隐隐奇异。",
+  "theme_en": "A solitary figure among swans on a mist-covered lake",
+  "theme_zh": "雾湖中独自立于天鹅之间的身影",
+  "wh_ratio": "1:1",
+  "id": "3879",
+  "name": "Tami Bone",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/tami-bone",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "6bf75f4d66c23cc7738ffa139ba63e9c744861bf140f0bb592d39a90273ab67e",
+    "gpt_submission_prompt": "A dreamlike monochrome image places a solitary dark-clad figure among a loose gathering of white swans on still, shallow water. The figure stands slightly left of center, shown in profile and looking downward, with a long dark shape reflected beneath them. Around this central silhouette, swans turn their curved necks in different directions, their pale bodies becoming the brightest forms in the lower half of the frame. Some birds are partially veiled by mist, so the group seems to recede into a soft, uncertain distance. The water is almost mirrorlike but imperfect, holding dim reflections and a few faint ripples rather than sharp duplicates. Behind the group, a wide halo of diffuse white light glows through dense gray fog, while the outer edges of the image sink into smoky charcoal tones. The upper portion contains very little detail, leaving a heavy atmospheric field that emphasizes the isolated human shape and the repeated white arcs of the birds' necks. The image has a soft, grainy photographic surface with darkened corners and delicate tonal noise. Its edges are gently blurred, and even the brightest feathers have muted, silvery detail rather than hard white cutouts. The composition feels hushed and uncanny, balancing recognizable natural forms with a sense that the scene might vanish into the fog at any moment.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "67f1b5fc385c97eeb7fc5a5d8a50aa6041e0fdc9493988302329de5bb218a457",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A young woman leans against a narrow upright frame beside a large shop window, looking down and toward the bright street beyond the glass. She wears a faded blue dress with a darker sash at the waist and holds a small pale parcel at her side. Her figure occupies the center of a dim interior, where shelves, paper notices, and indistinct furniture recede into deep blue-black shadow. The broad window at left glows with washed daylight and carries faint reflections of street activity, making inside and outside appear to overlap. A red sign near the upper edge and scattered rectangular notices give the setting a lived-in urban texture, though their lettering remains indistinct. The composition uses the frame as a firm vertical divider: cold light and soft street shapes on one side, a dark interior on the other, with the figure poised between them. Almost every color is cooled or muted into slate blue, grey green, smoky violet, and charcoal; the exposed skin and small parcel provide restrained warmth. Paint layers look scumbled and translucent, with rubbed passages, grain, and slight streaking across both glass and wall. Facial features remain softly observed, while the surrounding details dissolve into atmosphere. The result is quiet and psychologically attentive, a moment of waiting held inside a hazy, timeworn surface rather than a sharply narrated event.",
+  "full_prompt_zh": "一位年轻女子靠在大商店橱窗旁的一条窄竖框上，低头朝玻璃外明亮的街道望去。她穿着褪色的蓝裙，腰间系着更深色的带子，身旁拿着一个浅色小包裹。她站在昏暗室内中央，货架、纸张告示和难辨的家具向蓝黑色深影里退去。左侧大窗透出被冲淡的日光，并带着街道活动的微弱倒影，让室内和室外似乎重叠。上方一块红色招牌和零散的矩形告示给环境增加生活过的城市质感，但文字保持模糊。构图以窗框作为坚实的垂直分界：一边是冷光和柔软街景，另一边是暗色室内，人物正处在两者之间。几乎所有色彩都被冷却或压低为石板蓝、灰绿、烟紫和炭黑；露出的肌肤与小包裹带来克制的暖意。颜料层仿佛擦涂而半透明，玻璃和墙面都布满磨擦过的色层、颗粒和轻微流痕。面部特征被柔和观察，周围细节则融入空气。最终场景安静而关注内心，一个等待的瞬间被包裹在朦胧、带岁月痕迹的表面之中，而不是被讲述成明确事件。",
+  "style_prompt_en": "A cool, restrained palette of slate blue, grey green, smoky violet, and charcoal is layered into a hazy surface. Firm vertical divisions hold the composition while reflected and translucent passages blur boundaries between near and far. Light enters as a broad washed plane, leaving adjoining areas in deep, softly textured shadow. Scumbled paint, rubbed edges, grain, and faint streaks give surfaces a timeworn material presence. A small zone of warmer color or pale value quietly anchors attention. Details in the surrounding field remain suggestive and partially obscured; focal contours are more legible but still gentle. The mood is intimate, suspended, and psychologically observant.",
+  "style_prompt_zh": "石板蓝、灰绿、烟紫和炭黑构成冷而克制的色盘，层叠出朦胧表面。坚实的纵向分隔稳住构图，反射与半透明区域则模糊远近边界。光以一片被冲淡的宽阔平面进入，使相邻区域留在深沉且肌理柔和的阴影里。擦涂颜料、磨损边缘、颗粒和细微流痕给表面以经年使用的材质感。一小处较暖的颜色或较浅的明度安静地聚拢注意力。周围细节保持暗示性且部分遮蔽；焦点轮廓更可辨，却仍然温和。气氛亲近、悬置，并带着对内心状态的观察。",
+  "theme_en": "A young woman waiting beside the window of a dim city cafe",
+  "theme_zh": "一位年轻女子在昏暗城市咖啡馆的窗边等候",
+  "wh_ratio": "1:1",
+  "id": "3754",
+  "name": "Alex Russell Flint",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/alex-russell-flint",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "7e243d456ab9df6995832da83d32518fe91c8bc96defc5cdc5d899bac2289a08",
+    "gpt_submission_prompt": "A young woman leans against a narrow upright frame beside a large shop window, looking down and toward the bright street beyond the glass. She wears a faded blue dress with a darker sash at the waist and holds a small pale parcel at her side. Her figure occupies the center of a dim interior, where shelves, paper notices, and indistinct furniture recede into deep blue-black shadow. The broad window at left glows with washed daylight and carries faint reflections of street activity, making inside and outside appear to overlap. A red sign near the upper edge and scattered rectangular notices give the setting a lived-in urban texture, though their lettering remains indistinct. The composition uses the frame as a firm vertical divider: cold light and soft street shapes on one side, a dark interior on the other, with the figure poised between them. Almost every color is cooled or muted into slate blue, grey green, smoky violet, and charcoal; the exposed skin and small parcel provide restrained warmth. Paint layers look scumbled and translucent, with rubbed passages, grain, and slight streaking across both glass and wall. Facial features remain softly observed, while the surrounding details dissolve into atmosphere. The result is quiet and psychologically attentive, a moment of waiting held inside a hazy, timeworn surface rather than a sharply narrated event.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "c9029c7a16d1f79a1e5ed6fa53f3213acc6f630d5d9e052b70c0c832325ecb1f",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

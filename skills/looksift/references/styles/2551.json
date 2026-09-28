@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square plein-air style oil painting follows a narrow canal between old stone buildings in warm afternoon sunlight. The water begins wide at the lower edge and narrows toward a distant bend near the upper left. Along the right bank, irregular cream and ochre façades rise several stories, with shutters, small balconies, climbing greenery, and flower pots on ledges. Trees and shrubs spill over the masonry, adding olive, dark green, and small coral-colored accents. A slim stone walkway runs beside the water; a dark boat rests partly visible at the far left edge. Blue sky and broken white clouds open above the roofs. In the canal, the pale walls and sky fracture into elongated ripples of gold, blue, dark green, and black. Brushwork is thick and broken in the foliage and reflected water, more carefully shaped at windows, roof lines, and stone edges. Sunlight from the upper left warms façade planes and the top of the water, while shaded recesses under balconies and trees turn deep brown-green. Perspective lines lead gently into the distance without rigid geometry. The frame is full of lush detail yet stays calm through the broad water corridor. Its overall mood is inviting, bright, and weathered, with old architecture joined to living vegetation and shimmering reflections.",
+  "full_prompt_zh": "一幅方形外光派式油画沿着两侧旧石屋间的窄运河延伸，沐浴暖午后阳光。水面从下缘宽阔起始，向左上远处弯道收窄。右岸不规则奶油与赭色立面升起数层，带百叶窗、小阳台、攀爬绿植和窗台花盆。树与灌木从石墙溢出，添入橄榄、深绿与少许珊瑚色点。细石步道贴着水，一条深色小船在最左边缘部分可见。蓝天和破碎白云在屋顶上打开。运河里，浅色墙与天空裂成金、蓝、深绿和黑的拉长涟漪。植物与反光水面笔触厚而断续；窗、屋顶线和石边塑形更谨慎。左上阳光暖化立面与水面上部，阳台和树下阴影凹处转为深棕绿。透视线温和引向远方，没有僵硬几何。画幅充满茂盛细节，但宽阔水道让它保持宁静。整体亲切、明亮而经年风化，旧建筑与生长的植物和闪动倒影相连。",
+  "style_prompt_en": "Plein-air oil painting uses broken, tactile strokes to join sunlit stone, foliage, and moving reflections. Warm cream and ochre balance clear blue, olive green, and deep brown shadow. Harder edges mark important structural lines; leaves and water dissolve into flickering color fragments. Afternoon light warms raised planes while shaded recesses retain cool dark depth. Long reflection marks repeat vertical forms but break with ripples. The composition follows a gentle perspective corridor, filled with texture yet held open by a broad luminous area. The finish feels bright, aged, and welcoming.",
+  "style_prompt_zh": "外光油画以断续可触笔痕连接阳光石面、叶丛和流动反射。暖奶油与赭平衡清蓝、橄榄绿和深棕影。较硬边缘标示重要结构线；叶与水则分解为闪动色片。午后光暖化凸起平面，阴影凹处保留冷暗纵深。长形反光笔痕重复竖向形体，却被涟漪打断。构图沿温和透视通道推进，肌理充盈却由宽阔发亮区域保持通透。完成面明快、陈旧且亲切。",
+  "theme_en": "A sunlit canal beside flower-covered old stone houses",
+  "theme_zh": "花木覆盖旧石屋旁的阳光运河",
+  "wh_ratio": "1:1",
+  "id": "2551",
+  "name": "Guido Borelli da Caluso",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/guido-borelli-da-caluso",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/guido-borelli-da-caluso.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "158d63c5e7ffd5eebd23b223189beefc8b9da34c4de179abadc4af7f91eebb8f",
+    "gpt_submission_prompt": "A square plein-air style oil painting follows a narrow canal between old stone buildings in warm afternoon sunlight. The water begins wide at the lower edge and narrows toward a distant bend near the upper left. Along the right bank, irregular cream and ochre façades rise several stories, with shutters, small balconies, climbing greenery, and flower pots on ledges. Trees and shrubs spill over the masonry, adding olive, dark green, and small coral-colored accents. A slim stone walkway runs beside the water; a dark boat rests partly visible at the far left edge. Blue sky and broken white clouds open above the roofs. In the canal, the pale walls and sky fracture into elongated ripples of gold, blue, dark green, and black. Brushwork is thick and broken in the foliage and reflected water, more carefully shaped at windows, roof lines, and stone edges. Sunlight from the upper left warms façade planes and the top of the water, while shaded recesses under balconies and trees turn deep brown-green. Perspective lines lead gently into the distance without rigid geometry. The frame is full of lush detail yet stays calm through the broad water corridor. Its overall mood is inviting, bright, and weathered, with old architecture joined to living vegetation and shimmering reflections.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "c3974b519d3d282f4f44d4ba573ec33f15cb3e97431e954e76b4d46c5fe61951",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

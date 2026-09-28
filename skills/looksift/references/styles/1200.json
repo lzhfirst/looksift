@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "The image shows an older woman seated at the left end of a broad, well-used worktable in a dim studio. Her body angles slightly toward the camera, one leg crossed over the other, with sturdy boots extending into the open floor. She wears dark clothing and rests her arms in a relaxed, unposed way. A medium-sized dog lies on the floor to the right, its pale body catching more light than the surrounding boards; the dog turns its head toward the woman. The table spans most of the middle of the frame and is scattered with papers, small tools, and other work materials. Above it, framed photographs and pinned images of different sizes crowd a rough wooden wall. A large dark portrait occupies the central upper area, while a striking animal photograph sits to its right. The left edge falls into shadow, with a pale chair back and part of the room only partly revealed. Available light enters softly from outside the frame, shaping the woman's face, the dog, and the work surface without theatrical highlights. The black-and-white values range from dense charcoal in clothing and corners to silver gray across the tabletop and floor. Film grain and slight softness hold the scene together. The composition allows the room's objects and pictures to explain the sitter's working life, making the encounter feel observant, intimate, and quietly unscripted.",
+  "full_prompt_zh": "一位年长女子坐在光线昏暗的工作室里，位置靠近宽大而磨旧的工作台左端。身体略朝相机，双腿交叠，结实的靴子伸向空出的地板。她穿深色衣服，双臂自然放松，姿态没有刻意摆拍。一只中等大小的狗躺在右侧地面，浅色身体比周围木板更亮，头转向女子。工作台横贯画面中部，散放纸张、小工具和其他材料。上方粗糙的木墙上密集挂着尺寸不一的装框照片和钉贴图像；中央上方是一幅较大的深色肖像，右边有醒目的动物照片。画面左缘沉入阴影，只隐约显露浅色椅背及房间局部。画外的自然光柔和照亮面部、狗和桌面，没有戏剧化的高光。黑白层次从衣物与角落的炭黑延伸到台面和地板的银灰。胶片颗粒和轻微柔化把场景连成整体。构图让房间里的物件和图片讲述主人公的工作生活，呈现亲近、观察式且安静自然的相遇。",
+  "style_prompt_en": "Use intimate black-and-white documentary photography with a broad range from dense charcoal shadows to soft silver midtones. Favor available light, natural falloff, and unforced asymmetrical framing. Keep environmental details legible through gentle film grain and slightly softened edges, letting small objects contribute to the visual narrative. Build depth with overlapping planes and restrained highlights rather than sharp theatrical contrast; preserve a quiet, observant atmosphere across the entire square image.",
+  "style_prompt_zh": "采用亲近的黑白纪实摄影语言，影调从浓重炭黑延展到柔和银灰。使用现场自然光、顺势衰减的亮度和不刻意对称的取景。以细腻胶片颗粒和稍柔的边缘保持环境细节可读，让小物件参与视觉叙事。借重叠平面和克制高光建立纵深，避免舞台式强烈对比，使整个方形画面保持安静的观察感。",
+  "theme_en": "Artist seated in a crowded studio with a dog",
+  "theme_zh": "艺术家与狗坐在作品满墙的工作室",
+  "wh_ratio": "1:1",
+  "id": "1200",
+  "name": "Judy Dater",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/judy-dater",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/judy-dater.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "49feada9860a65fa3c679f876ee9b0a07e696cdfe4f8d3430e27fbbac1f257f6",
+    "gpt_submission_prompt": "The image shows an older woman seated at the left end of a broad, well-used worktable in a dim studio. Her body angles slightly toward the camera, one leg crossed over the other, with sturdy boots extending into the open floor. She wears dark clothing and rests her arms in a relaxed, unposed way. A medium-sized dog lies on the floor to the right, its pale body catching more light than the surrounding boards; the dog turns its head toward the woman. The table spans most of the middle of the frame and is scattered with papers, small tools, and other work materials. Above it, framed photographs and pinned images of different sizes crowd a rough wooden wall. A large dark portrait occupies the central upper area, while a striking animal photograph sits to its right. The left edge falls into shadow, with a pale chair back and part of the room only partly revealed. Available light enters softly from outside the frame, shaping the woman's face, the dog, and the work surface without theatrical highlights. The black-and-white values range from dense charcoal in clothing and corners to silver gray across the tabletop and floor. Film grain and slight softness hold the scene together. The composition allows the room's objects and pictures to explain the sitter's working life, making the encounter feel observant, intimate, and quietly unscripted.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "3c136762f406260b8a4bc36da3a85054dba94b6cfc8f3d84e6fa1f5e2d33fcd4",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

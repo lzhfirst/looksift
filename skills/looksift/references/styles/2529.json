@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square superhero comic illustration shows a blue armored robot charging diagonally through a fiery mechanical scene. The figure dominates the left and central space, its heavy boot thrust toward the lower right and both arms bent as if in a powerful running stride. Rounded blue-black armor plates cover the head, chest, shoulders, and limbs, with small orange panels glowing at the center of the torso and upper arms. Thick black outlines and sharply segmented joints make the mechanical anatomy immediately readable. Behind the runner, a huge purple machine or face-like device fills the upper right, its round central opening edged by hot yellow and orange flame. A smaller crouching armored figure appears at the lower left, dwarfed by the main body and surrounding machinery. Wheels, coils, and angular panels crowd the corners, while magenta and violet shadows cut through the heat. The ground tilts across the bottom, marked by black speed lines and broken warm shapes that push the action forward. Flat color areas are overlaid with dense dots, hatch marks, and white highlights, creating a rough printed texture rather than smooth digital metal. The strongest light comes from the flame behind the large machine, outlining the robot's shoulder and leg while its front planes stay cooler blue. Orange reflections glint on seams and armor vents. No readable dialogue or caption appears in the selected scene. The overall composition is explosive and crowded, using a near-foreshortened boot, deep mechanical layers, and violent warm-cool contrast to create comic-book momentum.",
+  "full_prompt_zh": "这幅方形超级英雄漫画插画呈现一名蓝色装甲机器人斜向冲过炽烈的机械场景。人物主导左侧与中央，沉重靴子向右下方冲出，双臂弯曲，像在有力奔跑。圆润蓝黑甲片覆盖头、胸、肩和四肢，躯干中央与上臂有小橙色板块发亮。粗黑轮廓和分段清晰的关节让机械形体一眼可读。奔跑者身后，一个巨大的紫色机器或面孔般装置填满右上方，圆形中央开口被炽黄橙火焰包住。左下方还有一名更小的蹲姿装甲人物，在主身体和周围机械前显得很小。轮子、线圈与棱角面板挤满角落，洋红与紫影切过热浪。地面斜贯下方，由黑色速度线和破碎暖色形推动动作。平涂色域覆盖密集点痕、排线与白色亮边，形成粗糙印刷肌理，而非光滑数字金属。最强光来自大机器后方火焰，勾亮机器人肩腿，正面平面仍偏冷蓝。橙反光在接缝与甲片通风口闪烁。所选场景没有可读对白或标题。整体构图爆裂而拥挤，以近处透视缩短的大靴、深层机械和强烈冷暖对照制造漫画动势。",
+  "style_prompt_en": "Superhero comic art uses emphatic black contours, segmented angular anatomy, halftone dots, and dense hatching over saturated blue, purple, magenta, and orange. Strong foreshortening and tilted ground planes throw focal shapes toward the viewer, while machinery-like layers crowd the background. Hot backlight creates bright edges against cool dark fronts, with small white glints sharpening joints and openings. Color fields are bold and printed-looking rather than smoothly blended. The result is explosive, crowded, and intensely graphic.",
+  "style_prompt_zh": "超级英雄漫画运用强调性的黑轮廓、分段棱角形、网点和密集排线，覆盖饱和蓝、紫、洋红和橙。强透视缩短与倾斜地面把焦点形状推向观者，机械般层次挤满背景。炽热逆光在冷暗正面前创造亮边，小白光点锐化关节与开口。色域大胆且像印刷品，而非光滑融合。整体爆裂、拥挤且图形感极强。",
+  "theme_en": "A blue armored robot charging through a fiery mechanical scene",
+  "theme_zh": "一名蓝色装甲机器人冲过炽烈的机械场景",
+  "wh_ratio": "1:1",
+  "id": "2529",
+  "name": "Jack Kirby",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/jack-kirby",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/jack-kirby.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "18204a6aa6e56e15bf6771ccc109cff58ee3a3e91d8bb84e22ee632a8ba90184",
+    "gpt_submission_prompt": "A square superhero comic illustration shows a blue armored robot charging diagonally through a fiery mechanical scene. The figure dominates the left and central space, its heavy boot thrust toward the lower right and both arms bent as if in a powerful running stride. Rounded blue-black armor plates cover the head, chest, shoulders, and limbs, with small orange panels glowing at the center of the torso and upper arms. Thick black outlines and sharply segmented joints make the mechanical anatomy immediately readable. Behind the runner, a huge purple machine or face-like device fills the upper right, its round central opening edged by hot yellow and orange flame. A smaller crouching armored figure appears at the lower left, dwarfed by the main body and surrounding machinery. Wheels, coils, and angular panels crowd the corners, while magenta and violet shadows cut through the heat. The ground tilts across the bottom, marked by black speed lines and broken warm shapes that push the action forward. Flat color areas are overlaid with dense dots, hatch marks, and white highlights, creating a rough printed texture rather than smooth digital metal. The strongest light comes from the flame behind the large machine, outlining the robot's shoulder and leg while its front planes stay cooler blue. Orange reflections glint on seams and armor vents. No readable dialogue or caption appears in the selected scene. The overall composition is explosive and crowded, using a near-foreshortened boot, deep mechanical layers, and violent warm-cool contrast to create comic-book momentum.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "e57a43cc223effa1ad5120cd139de68556db4f0fcb090140004fdeb32164244e",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

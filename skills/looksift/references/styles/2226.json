@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square, surreal fashion photograph shows a woman in left-facing profile, her shoulders and lower body divided by a perfectly horizontal waterline. Above the water, her face is softly lit against a warm grey-beige wall. She wears red lipstick, a small earring, and an enormous black gauze hat whose transparent netting billows outward to the left and over her head. A few muted gold details sit within its dark folds. Below the line, green-black water reveals a darker, wavering continuation of her black V-neck clothing, as if the portrait has been folded into a reflection. The water surface reaches just below the neck and catches narrow pale ripples along the divide. Her posture is upright and still, and her gaze points down slightly beyond the left edge. The upper background is textured but spare, allowing the hat's irregular transparent silhouette to become the principal shape. Light comes softly from the left, touching her cheek and nose while leaving the gauze and the lower half in layered shadow. The palette is subdued olive, charcoal, taupe, and skin warmth, punctuated by the small red lip. The image has a fine photographic surface with painterly tonal softness, and there is no readable lettering. The overall composition is elegant and uncanny, balanced by a central water seam and an expansive dark hat.",
+  "full_prompt_zh": "一张方形超现实时尚照片描绘一名面向左侧的女子，她的肩和下身被一条完全水平的水线分开。水面上方，面容在暖灰米色墙前受到柔光。她涂红唇、戴小耳环，头上是一顶巨大的黑纱帽，透明网纱向左侧和头顶外翻。深色褶层里有少量暗金细节。水线下方，绿黑色水体显示黑色V领衣物更暗、更摇晃的延续，仿佛肖像被折进倒影。水面抵达颈部稍下，在分界线上抓住细窄的浅色涟漪。她姿态直立静止，目光略向下越过左边缘。上方背景有纹理却稀疏，使帽子不规则的透明剪影成为主要形。柔光从左侧来，照到脸颊和鼻子，让纱帽与下半部留在层叠阴影中。色谱为收敛的橄榄、炭黑、灰褐和暖肤色，被小小红唇点破。图像有细腻摄影表面和绘画般柔和的调性，没有可辨认文字。整体构图优雅而诡异，由中央水缝和扩张的深色帽形平衡。",
+  "style_prompt_en": "A surreal photographic surface separates warm taupe-grey air from muted green-black depth with one crisp horizontal seam. A broad translucent dark mass spreads irregularly across the upper field, its layered mesh catching soft highlights, while lower forms become wavering and subdued. Fine grain and painterly tonal transitions soften otherwise clean photographic edges. Side light creates a narrow warm focal area, and one small saturated red accent punctures the olive, charcoal, and beige palette. The arrangement is still and close, using reflection, transparency, and a strong central divide to produce elegant uncertainty. Dark texture occupies generous area without erasing the few luminous contours.",
+  "style_prompt_zh": "超现实摄影表面以一道清晰水平缝分开暖灰褐空气和暗绿黑深处。宽阔半透明深色块不规则地铺在上方区域，层叠网纱接住柔光，下方形则摇晃且暗淡。细颗粒和绘画般调性过渡柔化原本干净的摄影边缘。侧光造出一片狭窄暖色焦点，一点饱和红色刺破橄榄、炭黑和米色色谱。排列静止而贴近，以反射、透明和强中央分界产生优雅的不确定感。深纹理占据宽阔区域，却没有抹去少数发亮轮廓。",
+  "theme_en": "A fashion portrait suspended between water and air",
+  "theme_zh": "水与空气之间悬置的时尚侧影",
+  "wh_ratio": "1:1",
+  "id": "2226",
+  "name": "Melvin Sokolsky",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/melvin-sokolsky",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/melvin-sokolsky.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "0bcf4bc231044cfd4ee8cb1398c34a9d580ede050e6febf8ec9d4349d2e32c8d",
+    "gpt_submission_prompt": "A square, surreal fashion photograph shows a woman in left-facing profile, her shoulders and lower body divided by a perfectly horizontal waterline. Above the water, her face is softly lit against a warm grey-beige wall. She wears red lipstick, a small earring, and an enormous black gauze hat whose transparent netting billows outward to the left and over her head. A few muted gold details sit within its dark folds. Below the line, green-black water reveals a darker, wavering continuation of her black V-neck clothing, as if the portrait has been folded into a reflection. The water surface reaches just below the neck and catches narrow pale ripples along the divide. Her posture is upright and still, and her gaze points down slightly beyond the left edge. The upper background is textured but spare, allowing the hat's irregular transparent silhouette to become the principal shape. Light comes softly from the left, touching her cheek and nose while leaving the gauze and the lower half in layered shadow. The palette is subdued olive, charcoal, taupe, and skin warmth, punctuated by the small red lip. The image has a fine photographic surface with painterly tonal softness, and there is no readable lettering. The overall composition is elegant and uncanny, balanced by a central water seam and an expansive dark hat.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "df0980cce1b5db1c864015534a07cd0f4a0d51a264301a773a9d673324fd823d",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

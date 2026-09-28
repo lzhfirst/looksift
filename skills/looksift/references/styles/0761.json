@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A brightly colored street painting faces a row of compact old townhouses at close range. The central building is vivid turquoise with dark blue trim, a stone-edged arched doorway, a few steps rising from the pavement, and warm orange light visible within. Its red-framed windows punctuate the upper and lower floors. At the right, an adjoining ochre-yellow façade contains a deep blue door and dark window, while a rose and mauve stone building is cropped along the left edge. Two small seated people occupy outdoor café tables near the right side of the steps, their simple figures supplying a relaxed human scale. Flower boxes, pots, iron railings, a wall lantern, and small signs appear as concise accents rather than precise architectural inventory. The sidewalk is paved in irregular pale stones; the street at the bottom becomes a patchwork of purple, coral, orange, and blue brush marks. Thick, broken strokes and roughened edges give every wall an uneven hand-painted surface. The facades retain clear rectangular geometry, but the colors bleed and flicker within the shapes. Daylight is warm and broadly spread, lighting the steps and pavement in yellow while doorways hold deep blue shadow. The composition is frontal and tightly cropped, so saturated color relationships and everyday street life dominate the frame. Its mood is welcoming, lively, and slightly dreamlike.",
+  "full_prompt_zh": "一幅色彩明亮的街景画近距离正对一排紧凑的旧街屋。中央房屋是鲜艳松石绿，带深蓝色边框、石块勾边的拱形门洞、从人行道上升的几级台阶，门内可见暖橙色灯光。红色窗框点缀上下两层。右侧相邻的赭黄色立面有深蓝大门和暗窗，左边缘则裁入一栋玫红与灰紫石墙建筑。两位小小的坐姿人物在台阶右侧的露天咖啡桌旁，为画面提供轻松的人尺度。花箱、花盆、铁栏杆、壁灯与小招牌作为简洁点缀出现，并不追求精确建筑清单。人行道铺着不规则浅色石板；底部街道转化为紫、珊瑚红、橙与蓝的笔触拼布。厚重而断续的刷痕与粗糙边缘让每面墙都有不均匀的手绘表面。立面保留清楚的矩形几何结构，色彩却在形内渗开、闪动。日光温暖而宽广，把台阶与路面照成黄色，门洞则保留深蓝阴影。构图正面且裁切紧密，因此饱和色彩关系与日常街头生活占据画面。气氛亲切、活跃，略带梦境感。",
+  "style_prompt_en": "The painting uses bold colorist urban impressionism, organizing saturated complementary hues into simple, readable architectural blocks. Turquoise and cobalt interact with ochre, vermilion, rose, and warm yellow, while dark blue shadows define recesses. Brisk, broken brushstrokes and rough pigment edges prevent the clear geometry from feeling rigid. The perspective is mostly frontal, with shallow street depth and a rhythmic pattern of rectangular openings. Warm daylight spreads across the scene in lively patches, and small human-scale accents supply warmth without competing with the color structure. The surface feels thickly worked, tactile, and optimistic.",
+  "style_prompt_zh": "画面采用大胆的色彩主义都市印象笔法，把饱和互补色组织成简单易读的几何色块。松石绿与钴蓝同赭黄、朱红、玫红和暖黄相互作用，深蓝阴影定义凹处。快速断续的笔触与粗糙颜料边缘避免清晰结构显得僵硬。透视以正面为主，街道纵深较浅，矩形开口形成有节奏的重复。暖日光以活跃斑块铺满画面，细小的人尺度点缀带来温度，却不争夺色彩结构。画面表层显得厚实、可触而乐观。",
+  "theme_en": "A cheerful row of turquoise, ochre, and rose townhouses with a tiny street café, painted in saturated textured color.",
+  "theme_zh": "一排松石绿、赭黄与玫红色的街屋旁有小小露天咖啡座，以饱和而有肌理的色彩绘制。",
+  "wh_ratio": "1:1",
+  "id": "0761",
+  "name": "Carole Spandau",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/carole-spandau",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/carole-spandau.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "4d8c0ce01c48a0684ff8c38fad8a05af5b31403ef13a7d28fb68d5b688948f90",
+    "gpt_submission_prompt": "A brightly colored street painting faces a row of compact old townhouses at close range. The central building is vivid turquoise with dark blue trim, a stone-edged arched doorway, a few steps rising from the pavement, and warm orange light visible within. Its red-framed windows punctuate the upper and lower floors. At the right, an adjoining ochre-yellow façade contains a deep blue door and dark window, while a rose and mauve stone building is cropped along the left edge. Two small seated people occupy outdoor café tables near the right side of the steps, their simple figures supplying a relaxed human scale. Flower boxes, pots, iron railings, a wall lantern, and small signs appear as concise accents rather than precise architectural inventory. The sidewalk is paved in irregular pale stones; the street at the bottom becomes a patchwork of purple, coral, orange, and blue brush marks. Thick, broken strokes and roughened edges give every wall an uneven hand-painted surface. The facades retain clear rectangular geometry, but the colors bleed and flicker within the shapes. Daylight is warm and broadly spread, lighting the steps and pavement in yellow while doorways hold deep blue shadow. The composition is frontal and tightly cropped, so saturated color relationships and everyday street life dominate the frame. Its mood is welcoming, lively, and slightly dreamlike.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "d81d7964215ace51b9c8599e35b1198a44ebbf4f9659798cbd5dbf8dfc194fe5",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

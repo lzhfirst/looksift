@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white architectural photograph records an isolated monumental concrete structure under a pale overcast sky. Several enormous inclined planes thrust outward from a central vertical tower, crossing at severe angles above a dark recessed entrance. One wedge rises from the left foreground like a leaning wall, while another cuts diagonally upward from the lower right. A small run of broad steps approaches the central shadow, giving the otherwise abstract mass a human route and measurable scale. The poured concrete shows formwork lines, mottled weather stains and slightly rough edges. Open ground in front is gravelly and flat; distant low hills appear only as soft gray behind the building. There are no people, signs or decorative elements. The camera is placed nearly straight on but slightly low, emphasizing the unstable-looking intersections without distorting the large planes. Diffuse light gives the sky a broad near-white field and allows the underside of cantilevers to sink into deep charcoal. Mid-gray faceted surfaces bridge these extremes. The composition feels balanced despite its competing diagonals, with the tower holding a vertical center and the steps creating a grounded base. The image is austere and sculptural, turning construction into an encounter with weight, void and directional force. Its drama arises entirely from geometry and material, not atmospheric effects.",
+  "full_prompt_zh": "一幅正方形黑白建筑照片记录浅灰阴天下孤立的纪念性混凝土结构。数片巨大倾斜平面从中央竖塔向外冲出，在深暗入口上方以严峻角度交叉。一块楔形体从左前景升起，像倾倒的墙；另一片从右下斜向上切过。宽阔台阶通向中央阴影，给原本近乎抽象的体量提供可供人的路径和可测尺度。现浇混凝土显出模板线、斑驳风化污痕和略粗糙边缘。前方开阔地面由碎石铺成且平坦，远处低丘只在建筑后方呈柔灰轮廓。没有人物、标志或装饰。相机位置近乎正对但略低，突出看似不稳定的交叉，同时不歪曲大平面。漫射光使天空成为大片近白，悬挑底面则沉入深炭色，中灰切面连接两端。尽管对角线彼此竞争，构图仍平衡，塔身固定竖向中心，台阶形成落地基座。图像严峻而雕塑化，把建造转为与重量、空洞和方向力量的相遇。戏剧性完全来自几何与材料，而非大气特效。",
+  "style_prompt_en": "The style is austere black-and-white architectural photography focused on raw poured concrete, intersecting inclined planes and dark structural voids. A pale overcast sky creates high-value negative space, while cantilevered undersides form dense charcoal wedges. Mid-gray faceted surfaces carry visible formwork grain and weather stains. A near-frontal low viewpoint gives monumental scale without excessive distortion. Strong competing diagonals balance around a vertical center and grounded lower approach. The square frame treats built geometry as sculpture through weight, tension and restraint.",
+  "style_prompt_zh": "这种风格是严峻的黑白建筑摄影，集中于原始现浇混凝土、交叉倾斜平面和深色结构空隙。浅色阴天天空形成高明度留白，悬挑底部构成浓炭灰楔形。中灰切面承载可见模板颗粒与风化污痕。近正面低位视角赋予纪念性尺度，却不过度扭曲。互相竞争的强对角线围绕竖向中心与落地的下部路径保持平衡。正方形画框通过重量、张力与克制把建筑几何当作雕塑。",
+  "theme_en": "A brutal concrete monument of crossing inclined planes",
+  "theme_zh": "由倾斜平面交叉构成的粗野主义混凝土纪念建筑",
+  "wh_ratio": "1:1",
+  "id": "1320",
+  "name": "Claude Parent",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/claude-parent",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/claude-parent.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "8846c9a1f9f9b84b0d8811de3a87d190165fb294be19d5697fc71c82e3ab198a",
+    "gpt_submission_prompt": "A square black-and-white architectural photograph records an isolated monumental concrete structure under a pale overcast sky. Several enormous inclined planes thrust outward from a central vertical tower, crossing at severe angles above a dark recessed entrance. One wedge rises from the left foreground like a leaning wall, while another cuts diagonally upward from the lower right. A small run of broad steps approaches the central shadow, giving the otherwise abstract mass a human route and measurable scale. The poured concrete shows formwork lines, mottled weather stains and slightly rough edges. Open ground in front is gravelly and flat; distant low hills appear only as soft gray behind the building. There are no people, signs or decorative elements. The camera is placed nearly straight on but slightly low, emphasizing the unstable-looking intersections without distorting the large planes. Diffuse light gives the sky a broad near-white field and allows the underside of cantilevers to sink into deep charcoal. Mid-gray faceted surfaces bridge these extremes. The composition feels balanced despite its competing diagonals, with the tower holding a vertical center and the steps creating a grounded base. The image is austere and sculptural, turning construction into an encounter with weight, void and directional force. Its drama arises entirely from geometry and material, not atmospheric effects.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "bb4fccae5239cb9bfd31028ee3054c6f5fa559584c8053082875cbeda5983aba",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

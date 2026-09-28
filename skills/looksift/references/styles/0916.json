@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A mid-century narrative oil illustration shows a group of evening guests gathered beside a lake beneath a turbulent clouded sky. In the foreground, a woman in a pale cream dress sits on a low stone edge and turns toward a man in a black suit who leans close while holding a drink. Her hand lifts slightly, as if mid-conversation. Behind them, other couples in muted rose and mint dresses and dark formal jackets stand near the water. Reeds and soft grasses rise at the lower left, while blue mountains and a pale band of lake recede toward the center. The group is not rigidly posed; the scene feels caught between movements and private exchanges. Broad painterly strokes set the dark clouds and lakeside atmosphere, while smaller controlled marks describe faces, hands, dress trim, and glassware. Cream and champagne gold dominate the lit foreground dress, balanced by large black suit shapes and deep slate-blue clouds. Distant figures are softened, their fabrics reduced to translucent peach and green notes. Light is diffused through a break in the storm clouds, catching the cream gown and a few faces but leaving the edges in dusk. The composition forms an irregular diagonal from close foreground pair to smaller standing groups and the lake beyond. It feels romantic yet unsettled, with social intimacy held against a wide, changing landscape.",
+  "full_prompt_zh": "一幅世纪中期叙事油画插画呈现晚装宾客在翻涌云天下的湖边聚集。前景，穿浅奶油裙的女子坐在低石边，转向靠近并拿饮品的黑西装男子。她一只手微抬，像谈话途中。身后，其他穿暗玫瑰、薄荷裙和深色正式外套的男女站在水旁。芦苇与柔草从左下升起，蓝山和一带浅湖向中央退远。人群并非僵硬摆拍，场景像被抓在动作与私人交谈之间。宽绘画笔触设置深云和湖边空气，较小受控笔痕描出脸、手、裙边与杯具。奶油和香槟金主导受光前景裙，由大片黑西装形与深石板蓝云平衡。远处人物柔化，衣料缩为半透明桃与绿小色点。光透过暴风云缝漫散，抓住奶油裙和几张脸，边缘仍留暮色。构图从贴近的前景一对斜行至较小站立群体与后方湖面。画面浪漫却不安定，社交亲密对着宽阔变化中的风景。",
+  "style_prompt_en": "Mid-century narrative oil illustration balances convincing figures with broad atmospheric brushwork. Large black and slate-blue masses surround pale cream, champagne, muted rose, and mint areas, creating a clear foreground-to-distance hierarchy. Edges are firm around focal hands and faces but soften rapidly through fabric, weather, and background forms. Thin translucent color notes suggest distant detail, while thicker broken strokes give nearby surfaces tactile weight. Diffused light emerging from a darker upper field selects a few warm planes without making the whole image bright. Composition moves diagonally from a compact intimate cluster toward looser smaller forms and an open horizon. Naturalistic modeling is present but visibly painted, with a slightly aged printed-magazine character. The finish feels romantic, socially observant, and quietly unsettled by its changing atmosphere.",
+  "style_prompt_zh": "世纪中期叙事油画插画平衡可信人物与宽阔空气笔触。大片黑与石板蓝体量围住浅奶油、香槟、暗玫瑰与薄荷色区，建立清楚前景至远方层级。焦点手和脸附近边缘坚实，经过布料、天气与背景形迅速柔化。薄透明色点暗示远细节，较厚断笔给予近表面可触重量。从较暗上场透出的漫射光选择性照亮几个暖平面，却不使全幅明亮。构图由紧凑亲密簇群斜行至更松、更小的形与开放地平线。自然主义塑造存在却明显由绘画完成，带略旧的印刷杂志气质。饰面浪漫、善观察社交关系，也被变化中的空气悄然扰动。",
+  "theme_en": "Guests in evening clothes pause beside a lake under a stormy sky",
+  "theme_zh": "晚装宾客在暴风云下的湖边暂歇",
+  "wh_ratio": "1:1",
+  "id": "0916",
+  "name": "Thornton Utz",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/thornton-utz",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/thornton-utz.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "21e81159246ce97f0e018e9e5194c6b32774cc83ad38064158dc6aa67fc98643",
+    "gpt_submission_prompt": "A mid-century narrative oil illustration shows a group of evening guests gathered beside a lake beneath a turbulent clouded sky. In the foreground, a woman in a pale cream dress sits on a low stone edge and turns toward a man in a black suit who leans close while holding a drink. Her hand lifts slightly, as if mid-conversation. Behind them, other couples in muted rose and mint dresses and dark formal jackets stand near the water. Reeds and soft grasses rise at the lower left, while blue mountains and a pale band of lake recede toward the center. The group is not rigidly posed; the scene feels caught between movements and private exchanges. Broad painterly strokes set the dark clouds and lakeside atmosphere, while smaller controlled marks describe faces, hands, dress trim, and glassware. Cream and champagne gold dominate the lit foreground dress, balanced by large black suit shapes and deep slate-blue clouds. Distant figures are softened, their fabrics reduced to translucent peach and green notes. Light is diffused through a break in the storm clouds, catching the cream gown and a few faces but leaving the edges in dusk. The composition forms an irregular diagonal from close foreground pair to smaller standing groups and the lake beyond. It feels romantic yet unsettled, with social intimacy held against a wide, changing landscape.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "9dfb821374b22cd8c3d2183a3947180161de775413a43f9275802fca27c6a0bc",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

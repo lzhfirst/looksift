@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square Rococo oil painting shows a young couple close together among garden foliage and flowers. The young man occupies the left, wearing a loose brown coat over a cream shirt and a soft dark cap. His face turns toward the viewer with a light, conversational expression. The young woman sits or leans beside him on the right, looking up toward his face. She has curled pale hair decorated with small flowers and wears a blue-gray sleeve over a low cream bodice trimmed with warm rose fabric. Their arms overlap near the lower center, where a small cluster of leaves and flowers rests between them. Behind the pair, a gnarled trunk and abundant dark green foliage enclose the upper and right portions. Through the far left, a pale distant landscape and small architectural forms open beyond the garden, giving the close figures some depth. The lower edge is rich with green leaves, blossoms, and textured cloth, while the faces remain the clearest and brightest shapes. The paint is softly blended across skin and distant air, with more broken, delicate strokes in leaves, lace, and floral details. Warm cream, muted blue, brown, and dusty rose sit within deep olive-green shadow. Diffuse daylight filters through the foliage from the upper left, brightening the faces and the woman's bodice while leaving the tree and lower plants in gentle shade. No readable text appears. The overall composition is intimate and graceful, balancing two softly lit faces against a lush dark frame and glimpses of airy distance.",
+  "full_prompt_zh": "这幅方形洛可可油画呈现一对年轻伴侣在花园树叶与花间亲密相依。年轻男子占据左侧，宽松棕外套内是奶油色衬衫，头戴柔软深色帽。他转向观者，神情轻松，仿佛正在交谈。年轻女子坐或倚在他右侧，抬头看向他的脸。她的浅色卷发饰有小花，穿蓝灰色袖子的衣裙，低领奶油色上身带暖玫瑰色装饰。两人手臂在下方中央交叠，其间有一小簇枝叶与花。身后，盘曲树干和丰盛深绿树叶包围上方与右侧。最左侧透出浅色远方风景和小型建筑形，让贴近人物获得一定纵深。下沿富于绿叶、花朵和布料肌理，面孔仍是最清楚、最明亮的形状。皮肤和远方空气的颜料融合柔和，叶、蕾丝和花的笔触更破碎细腻。暖奶油、柔蓝、棕色与灰玫瑰色处于深橄榄绿阴影中。漫射日光从左上方透过树叶，照亮两张脸与女子上衣，树木和下方植物仍在温和阴影里。没有可读文字。整体构图亲密而优雅，以两张柔光面孔平衡繁茂深色框景和通透远方一瞥。",
+  "style_prompt_en": "Rococo oil painting blends softly luminous flesh and airy distance with delicate broken strokes in foliage and ornament. Cream, dusty rose, muted blue, warm brown, and deep olive-green form a gentle palette with rich shadow around pale focal areas. Curving shapes overlap closely, yet a small opening to softer space keeps the composition breathable. Diffuse filtered daylight brightens exposed planes without hard edges, while leaves and cloth carry tactile brush detail. The overall feeling is graceful, intimate, and lightly theatrical.",
+  "style_prompt_zh": "洛可可油画把柔亮表面与通透远景，同树叶和装饰中细碎笔触结合。奶油、灰玫瑰、柔蓝、暖棕与深橄榄绿构成温和色盘，浅色焦点周围有浓郁阴影。弯曲形体贴近重叠，但通向柔和空间的小开口让构图仍可呼吸。透过遮挡的漫射日光照亮外露平面，没有硬边，树叶与布料则保留可触笔触细节。整体优雅、亲密且略有戏剧感。",
+  "theme_en": "A young couple among foliage and flowers in a soft pastoral portrait",
+  "theme_zh": "一对年轻伴侣置身树叶与花间的柔和田园肖像",
+  "wh_ratio": "1:1",
+  "id": "2514",
+  "name": "Jean-Antoine Watteau",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/jean-antoine-watteau",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/jean-antoine-watteau.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "55607e4973b22109d3281e462c79f77ec2252e2161e70e83dca11dee1dfc711d",
+    "gpt_submission_prompt": "A square Rococo oil painting shows a young couple close together among garden foliage and flowers. The young man occupies the left, wearing a loose brown coat over a cream shirt and a soft dark cap. His face turns toward the viewer with a light, conversational expression. The young woman sits or leans beside him on the right, looking up toward his face. She has curled pale hair decorated with small flowers and wears a blue-gray sleeve over a low cream bodice trimmed with warm rose fabric. Their arms overlap near the lower center, where a small cluster of leaves and flowers rests between them. Behind the pair, a gnarled trunk and abundant dark green foliage enclose the upper and right portions. Through the far left, a pale distant landscape and small architectural forms open beyond the garden, giving the close figures some depth. The lower edge is rich with green leaves, blossoms, and textured cloth, while the faces remain the clearest and brightest shapes. The paint is softly blended across skin and distant air, with more broken, delicate strokes in leaves, lace, and floral details. Warm cream, muted blue, brown, and dusty rose sit within deep olive-green shadow. Diffuse daylight filters through the foliage from the upper left, brightening the faces and the woman's bodice while leaving the tree and lower plants in gentle shade. No readable text appears. The overall composition is intimate and graceful, balancing two softly lit faces against a lush dark frame and glimpses of airy distance.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "e0b63708fe26c99338c466743e372eb288ab2400919179e2e815ee87ab013248",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square ink-and-watercolor character illustration shows a weary traveler sitting cross-legged on a low step. A large floppy orange hat tilts over pale blue eyes, which look upward with a puzzled, faraway expression. One cheek rests in the left hand; the right hand loosely holds a small object near the lap. The figure wears a rumpled blue-gray coat over brown and rust-colored layers, with patched trousers and heavy boots. A folded sheet of paper lies on the ground in the lower foreground. The backdrop is mostly white paper, interrupted by loose tan watercolor stains, thin searching pen lines, faint structural scribbles, and a few small ink splatters. The seated body occupies the central lower half, leaving generous irregular blank space above and around the hat. Black contour lines vary from crisp around the face and fingers to broken, scratchy marks in the clothing and ground. Warm ochre and orange accents sit against desaturated blue and gray. The light is represented by exposed white paper and pale washes rather than a realistic directional source. The mood is wistful and humorous, with carefully observed facial expression inside a deliberately unfinished working-drawing environment.",
+  "full_prompt_zh": "一幅方形墨线水彩人物插画呈现一位疲惫旅人盘腿坐在低台阶上。宽大松软的橙帽斜罩着浅蓝眼睛，目光向上，神情迷惑而遥远。左手托着面颊；右手松松拿一件小物靠近膝上。人物穿皱褶蓝灰外套，里面是棕与锈色层叠衣物，裤有补丁，脚穿重靴。下方前景地上放一张折叠纸。背景大部分是白纸，被松散棕色水彩污痕、细探寻墨线、淡结构涂写和少量墨点打断。坐姿占中下半部，帽子上方及周围留下宽阔而不规则空白。黑轮廓线在脸和手指附近清晰，衣服与地面则断续刮擦。暖赭和橙色对照低饱和蓝灰。光由裸露白纸与浅洗染表现，并非写实定向光。气氛惆怅而幽默，仔细观察的表情置于有意未完成的工作草图环境里。",
+  "style_prompt_en": "Loose ink-and-watercolor illustration with expressive variable-weight contours, searching construction marks, ochre stains, and broad exposed white paper. Warm orange and rust accents meet muted blue-gray washes. Focal details become sharp while clothing-like folds and surrounding space dissolve into scratches, splatters, and tentative lines. Page light replaces realistic illumination, keeping the surface spontaneous and tactile.",
+  "style_prompt_zh": "松散墨线水彩插画，以富于表情、粗细变化的轮廓、探索性构造痕、赭色污洗和大面积裸白纸组成。暖橙与锈色重点对照低饱和蓝灰洗染。焦点细节清楚，褶状形体与周围空间则融入刮擦、飞点和试探线。纸面亮度替代写实照明，使表面自然可触。",
+  "theme_en": "A weary traveler in an orange hat sitting amid sketch marks",
+  "theme_zh": "戴橙帽的疲惫旅人坐在草图痕之间",
+  "wh_ratio": "1:1",
+  "id": "0878",
+  "name": "Jos Collignon",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/jos-collignon",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/jos-collignon.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "485e91e92d825ac78dbfb6bf9c86f2a113b0c3454a118483d91e86ac2c8c9d35",
+    "gpt_submission_prompt": "A square ink-and-watercolor character illustration shows a weary traveler sitting cross-legged on a low step. A large floppy orange hat tilts over pale blue eyes, which look upward with a puzzled, faraway expression. One cheek rests in the left hand; the right hand loosely holds a small object near the lap. The figure wears a rumpled blue-gray coat over brown and rust-colored layers, with patched trousers and heavy boots. A folded sheet of paper lies on the ground in the lower foreground. The backdrop is mostly white paper, interrupted by loose tan watercolor stains, thin searching pen lines, faint structural scribbles, and a few small ink splatters. The seated body occupies the central lower half, leaving generous irregular blank space above and around the hat. Black contour lines vary from crisp around the face and fingers to broken, scratchy marks in the clothing and ground. Warm ochre and orange accents sit against desaturated blue and gray. The light is represented by exposed white paper and pale washes rather than a realistic directional source. The mood is wistful and humorous, with carefully observed facial expression inside a deliberately unfinished working-drawing environment.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "f7f36de673aa4dd510e65bd247eb8be67776ac3f09d671f181c92e0359715e60",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

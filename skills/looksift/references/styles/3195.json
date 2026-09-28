@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square oil landscape opens across a broad meadow of yellow grass and green foreground growth. The land is nearly level, stretching toward a low blue gray horizon. A tall cluster of trees stands on the right, its dark rounded crown forming the main vertical mass. Smaller trees recede across the left distance, and a few tiny dark animals dot the open field. At the near right edge, a pale rock rests among clumps of foliage. The sky occupies more than a third of the painting and is filled with thick, softly broken gray and cream cloud. A patch of brighter light near the upper center filters down over the grass, making the middle distance glow gold while the foreground retains richer greens. The brushwork is soft and layered, with small textured marks in the grass and blurred transitions in the trees. There is no sharp outline between many masses; shapes gradually emerge from tone and atmosphere. The composition feels expansive but settled, with the tree group balancing the broad empty left field. Warm earth colors are kept modest by the cool clouded sky. The low horizon and repeated horizontal bands encourage a slow gaze across the land, while the uneven flecks of flowers and vegetation provide tactile detail close to the viewer. The mood is quiet and reflective, as if light has briefly passed through unsettled weather.",
+  "full_prompt_zh": "这幅方形油画风景越过宽阔的黄草地和绿色前景植被展开。地势近乎平坦，延伸到低矮的蓝灰地平线。右侧一丛高树形成主要竖向体量，深色圆树冠格外醒目。较小树影退向左侧远处，几只极小的深色动物点在开阔田野里。近处右边一块浅石躺在灌丛中。天空占据超过三分之一画幅，厚重灰白云层柔和断开。上方中央附近一片较亮的光滤过云层，照得中景草地发金，前景保持更浓绿。笔触柔软叠加，草中有细碎纹理，树的过渡较模糊。许多色块之间没有锐利轮廓，形状从调子与空气里逐渐显出。构图宽敞却安稳，右侧树群平衡左侧广阔空田。暖土色由冷阴云克制。低地平线和重复水平带鼓励视线缓慢横越土地，而不均匀花草斑点为近处提供可触细节。情绪安静、沉思，像不稳定天气里阳光短暂穿过的一刻。",
+  "style_prompt_en": "The oil painting is tonal and atmospheric, built from softly layered greens, ochres and blue grays. A broad low horizontal boundary and repeated horizontal bands create calm width, while one dark vertical cluster anchors the side. Soft filtered light lifts a warm middle distance without removing the foreground shadow. Fine broken marks add tactile texture near the viewer; distant edges blur into the air. The restrained palette and gradual tonal shifts give the scene a reflective stillness.",
+  "style_prompt_zh": "这种油画重视调子与空气，以柔和层叠的绿、赭黄和蓝灰构成。宽阔的低位水平边界与重复水平带建立平静的广度，一组深色竖向形体固定一侧。柔和散射光抬亮暖色中景，却不消除前景阴影。细碎断笔给近处可触纹理，远处边缘模糊进空气。收敛色盘与渐进调子变化带来沉思般的静止。",
+  "theme_en": "A broad golden meadow under a clouded sky",
+  "theme_zh": "阴云天空下的宽阔金色草地",
+  "wh_ratio": "1:1",
+  "id": "3195",
+  "name": "George Inness",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/george-inness",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "7ba9d2146d0b3b10527df11619672600d5457d329da838fa4b2b569be0005a82",
+    "gpt_submission_prompt": "A square oil landscape opens across a broad meadow of yellow grass and green foreground growth. The land is nearly level, stretching toward a low blue gray horizon. A tall cluster of trees stands on the right, its dark rounded crown forming the main vertical mass. Smaller trees recede across the left distance, and a few tiny dark animals dot the open field. At the near right edge, a pale rock rests among clumps of foliage. The sky occupies more than a third of the painting and is filled with thick, softly broken gray and cream cloud. A patch of brighter light near the upper center filters down over the grass, making the middle distance glow gold while the foreground retains richer greens. The brushwork is soft and layered, with small textured marks in the grass and blurred transitions in the trees. There is no sharp outline between many masses; shapes gradually emerge from tone and atmosphere. The composition feels expansive but settled, with the tree group balancing the broad empty left field. Warm earth colors are kept modest by the cool clouded sky. The low horizon and repeated horizontal bands encourage a slow gaze across the land, while the uneven flecks of flowers and vegetation provide tactile detail close to the viewer. The mood is quiet and reflective, as if light has briefly passed through unsettled weather.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "10ecf04c2396fff2c4cf52e7b191d580b893550c39afaa107c01d8ccd058e9ed",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

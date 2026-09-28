@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square mixed-media painting shows a lone man walking toward the viewer through an unstable field of color and torn visual fragments. He wears a pale blue fedora, a warm ochre jacket over a white shirt, a dark narrow tie and blue-gray trousers. One hand rests in a pocket, while the other hangs low holding a small dark object; his face remains mostly shaded beneath the brim. The figure is recognizable and weighty, but the surroundings are assembled from loose brushstrokes, blocks of color, smeared imagery and partially transparent rectangular overlays. At the left, broad off-white space is cut by small horizontal bands of blue, pink and red. At the right, denser turquoise, cobalt, coral, yellow and black marks form a restless vertical wall. The feet approach a red patch near the lower edge, anchoring forward motion. Dripping pigment, scraped passages and collage-like interruptions cross the ground and background without fully covering the body. Some edges of the coat dissolve into color, while the hat brim and stance remain readable. The surface feels layered and physical, with a tension between controlled figurative modeling and impulsive abstraction. The image suggests urban energy and psychological isolation at once. Its visual narrative comes from a single calm stride persisting through the noisy painted environment.",
+  "full_prompt_zh": "一幅正方形混合媒介绘画呈现一个男子穿过不稳定的色彩和撕裂影像碎片，朝观者走来。他戴浅蓝色软呢帽，白衬衫外穿暖赭夹克，系深色窄领带，裤子为蓝灰。一只手插在口袋，另一只手垂下握着一件小型深色物件；面孔大多藏在帽檐阴影里。人物可辨且有重量，周围却由松散笔触、色块、涂抹图像和半透明长方覆盖层拼接。左侧大片灰白空间被蓝、粉、红短横带切开；右侧更密集的青绿、钴蓝、珊瑚、黄与黑标记组成不安定竖墙。双脚接近下缘一块红色区域，固定向前行走的动作。颜料滴痕、刮擦部分和拼贴般中断穿过地面与背景，却没有完全覆盖身体。夹克若干边缘溶进颜色，帽檐与步态仍清楚。表面有层次和物理感，受控的具象塑形与冲动抽象之间持续拉扯。图像同时暗示城市能量和心理孤立。视觉叙事来自一段平静步伐在嘈杂绘画环境中的坚持。",
+  "style_prompt_en": "The style is expressive mixed-media figurative painting with a readable central silhouette surrounded by fragmented brushwork, color blocks, drips and collage-like rectangular interruptions. Warm ochre and pale neutrals meet electric teal, cobalt, coral, pink and yellow over variable dark marks. Dense chromatic activity on one side balances open light space on the other. Selected contours remain sharp while adjacent edges dissolve into layered paint. The square composition holds a quiet forward rhythm inside tactile urban noise, joining controlled modeling with improvised surface action.",
+  "style_prompt_zh": "这种风格是表现性混合媒介具象绘画，清楚的中央剪影被碎片化笔触、色块、滴痕和拼贴般长方中断围住。暖赭与浅中性色对应电光青、钴蓝、珊瑚、粉和黄色，以及变化的深色标记。一侧密集色彩活动平衡另一侧敞开浅色空间。选定轮廓保持锋利，相邻边缘则溶入叠层颜料。正方形构图把安静的向前节奏保持在可触摸的都市噪音中，使受控塑形与即兴表面动作结合。",
+  "theme_en": "A suited figure walking through a turbulent abstract field",
+  "theme_zh": "穿西装的人走过激荡的抽象色域",
+  "wh_ratio": "1:1",
+  "id": "1323",
+  "name": "Conor Harrington",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/conor-harrington",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/conor-harrington.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "02983cbec22b354b58d4225064236914174403295656e77d5be76e15237d8907",
+    "gpt_submission_prompt": "A square mixed-media painting shows a lone man walking toward the viewer through an unstable field of color and torn visual fragments. He wears a pale blue fedora, a warm ochre jacket over a white shirt, a dark narrow tie and blue-gray trousers. One hand rests in a pocket, while the other hangs low holding a small dark object; his face remains mostly shaded beneath the brim. The figure is recognizable and weighty, but the surroundings are assembled from loose brushstrokes, blocks of color, smeared imagery and partially transparent rectangular overlays. At the left, broad off-white space is cut by small horizontal bands of blue, pink and red. At the right, denser turquoise, cobalt, coral, yellow and black marks form a restless vertical wall. The feet approach a red patch near the lower edge, anchoring forward motion. Dripping pigment, scraped passages and collage-like interruptions cross the ground and background without fully covering the body. Some edges of the coat dissolve into color, while the hat brim and stance remain readable. The surface feels layered and physical, with a tension between controlled figurative modeling and impulsive abstraction. The image suggests urban energy and psychological isolation at once. Its visual narrative comes from a single calm stride persisting through the noisy painted environment.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "9d66b600ce06bf292c4b3c67abdef3b49e47f7e35953ff9dcde693fc8b6c0f5a",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

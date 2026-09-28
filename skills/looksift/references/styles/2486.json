@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square retro-fantasy digital illustration looks along a turquoise canal winding through a shadowy monumental city. The canal begins wide at the lower edge and recedes under an arched bridge at the middle left, glowing almost neon mint where the arch opens. At the lower right, a small black boat with a seated figure drifts across the bright water; another tiny dark upright shape stands farther away under the bridge. On the far left, a black stone embankment and rail push into the foreground, leading toward the arch. Huge jagged teal cliffs or wall faces rise along both sides of the canal. Above the right bank, a tall layered tower with stacked windows and turrets climbs into a deep navy sky. On the left, a pale gold tree with a twisting trunk and thousands of fine branching lines spreads across the upper quarter, its delicate canopy contrasting with the heavy dark cliff below. Smaller warm golden trees or foliage patches appear near the bridge and along the far wall. The uppermost sky is almost black, traced with a few thin gold contour lines around cloudlike shapes. Water is rendered in narrow horizontal luminous bands, while buildings and rock are simplified into clean facets and etched surface detail. Light seems to radiate from the canal and distant arch, bathing lower planes in cool cyan, with warm gold accents on trees. The composition uses a bright vanishing opening, monumental dark framing, and tiny boat silhouettes to create eerie scale and a storybook sense of exploration.",
+  "full_prompt_zh": "一幅方形复古幻想数字插画沿一条绿松石色运河望入阴影中的宏大城市。运河从下缘宽阔进入，向中左的拱桥下退去，拱口处发出近乎霓虹薄荷色光。右下，一只小黑船载着坐姿人影漂在亮水上；更远桥下有另一个极小竖暗形。最左边，黑石护岸和栏杆探入近景，引向拱口。巨大的锯齿青绿岩壁或墙面沿运河两侧升起。右岸上方，一座层叠高塔带成排窗和角楼，攀入深海蓝天空。左边，一株浅金树有扭曲树干和上千条细枝线，张开上四分之一的树冠，与下方沉重黑崖相对。较小暖金树或叶块落在桥边和远墙旁。最高处天空几乎漆黑，几道细金轮廓线描出云状形。水用窄横发光带描绘，建筑和岩石简化为干净切面与刻画表面细节。光似从运河和远拱口散出，以冷青照亮下部平面，树木留暖金重点。构图利用明亮消失点开口、宏大暗色框围和极小船剪影，形成幽异尺度与童话式探索感。",
+  "style_prompt_en": "Retro-fantasy digital illustration uses monumental dark framing around a luminous cool passage. Simplify large masses into clean faceted silhouettes, then add fine etched lines, branching filigree, and repeated horizontal light bands for texture. Restrict the palette to deep navy, black green, teal, electric cyan, and small warm gold accents. Make one distant opening the strongest glow and let light spread across nearby lower planes. Tiny silhouettes establish scale against oversized surroundings. The transferable effect is mysterious, graphic, and exploratory, balancing dense dark mass with delicate line detail and a controlled radiant center.",
+  "style_prompt_zh": "复古幻想数字插画以宏大暗色框围包住发光冷色通道。大团块简化为干净切面剪影，再加细刻线、分枝花丝线与重复横向光带形成肌理。配色限于深海蓝、黑绿、青绿、电青和小面积暖金重点。让一处远开口最亮，光向邻近下部平面扩散。极小剪影为巨大的周围形体提供尺度。可迁移效果神秘、图形化且有探索感，让密实暗团块、精细线纹与受控发光中心相平衡。",
+  "theme_en": "A glowing turquoise canal beneath a bridge in a dark fantastical city",
+  "theme_zh": "黑暗幻想城市里，桥下运河发着青绿色光",
+  "wh_ratio": "1:1",
+  "id": "2486",
+  "name": "Kilian Eng",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/kilian-eng",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/kilian-eng.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "c0ade059582b38d259e6484e97f142fa0111deef5a1319256b448705737612a2",
+    "gpt_submission_prompt": "A square retro-fantasy digital illustration looks along a turquoise canal winding through a shadowy monumental city. The canal begins wide at the lower edge and recedes under an arched bridge at the middle left, glowing almost neon mint where the arch opens. At the lower right, a small black boat with a seated figure drifts across the bright water; another tiny dark upright shape stands farther away under the bridge. On the far left, a black stone embankment and rail push into the foreground, leading toward the arch. Huge jagged teal cliffs or wall faces rise along both sides of the canal. Above the right bank, a tall layered tower with stacked windows and turrets climbs into a deep navy sky. On the left, a pale gold tree with a twisting trunk and thousands of fine branching lines spreads across the upper quarter, its delicate canopy contrasting with the heavy dark cliff below. Smaller warm golden trees or foliage patches appear near the bridge and along the far wall. The uppermost sky is almost black, traced with a few thin gold contour lines around cloudlike shapes. Water is rendered in narrow horizontal luminous bands, while buildings and rock are simplified into clean facets and etched surface detail. Light seems to radiate from the canal and distant arch, bathing lower planes in cool cyan, with warm gold accents on trees. The composition uses a bright vanishing opening, monumental dark framing, and tiny boat silhouettes to create eerie scale and a storybook sense of exploration.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "86fb7939fe3d8babf18697d2cd054a35db4c697c5daeb84470ecdeff6c8041b1",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

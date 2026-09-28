@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white studio photograph presents a young man in left-facing profile with his head bowed against a plain mid-gray background. He fills the left and center of the frame from the crown of his head to the upper torso, leaving a narrow open area in front of his face. Dark hair is swept tightly back, its combed ridges catching pale silver highlights along the top. A defined ear, high cheekbone, and straight nose are modeled by a strong soft light from the upper left. His gaze is lowered, and his lips are closed, giving the pose a private, withdrawn stillness. A dark scarf is wrapped high around the neck and blends into a black coat, so the lower left becomes a broad low-detail shadow mass. A pointed dark fold projects behind the neck near the left edge, interrupting the otherwise clean silhouette. The gray ground shifts gradually from lighter at the top left to darker toward the right, without showing a room or prop. On the face, the light moves from bright forehead and cheek into deep shadow under the jaw and near the eye socket. The image retains a faint photographic grain, but the skin, hair, and cloth remain finely differentiated in texture. The close crop gives each contour unusual weight while the empty gray field prevents the portrait from feeling crowded. The overall composition balances a precise pale profile against a large black garment and soft neutral ground, making restraint and shadow the central visual qualities.",
+  "full_prompt_zh": "这幅方形黑白影棚照片呈现一位年轻男子朝左侧身、低下头，身后是素净中灰背景。他从头顶到上半身填满画面左侧与中央，脸前只留一道窄开阔区域。深发紧紧向后梳，上方梳理棱纹承接浅银高光。清楚的耳朵、突出的颧骨和直鼻由左上方一束强却柔的光塑造。他目光低垂，双唇合拢，姿态私密、退缩而静止。深色围巾高高绕在颈部并融进黑外套，使左下成为大片少细节阴影。颈后一道尖锐深折形在左边缘伸出，打断原本干净的剪影。灰底从左上较亮处逐渐向右变暗，没有房间或道具。脸上光由明亮前额和脸颊转入下颌及眼窝附近的深影。图像保留轻微摄影颗粒，但皮肤、头发和布料在肌理上仍有细致差别。紧凑裁切让每道轮廓都格外有重量，空白灰底又避免肖像拥挤。整体构图以精确的浅色侧影平衡大片黑衣与柔和中性底，让克制与阴影成为核心视觉特质。",
+  "style_prompt_en": "The monochrome studio photograph uses a strict tonal range and exact side lighting. A finely graded pale focal contour emerges from dense black matte areas against a smooth middle-gray field. Light travels across select curved planes, leaving adjacent recesses deep but softly transitioned. Fine grain keeps the quiet background and dark surfaces tangible. The composition relies on close cropping and a small pocket of negative space, with one decisive edge carrying most of the image's emotional weight. The overall effect is formal, intimate, and restrained.",
+  "style_prompt_zh": "这种单色影棚摄影使用严格的灰阶范围和精确侧光。细腻渐层的浅色焦点轮廓从浓密黑色哑光区域中浮出，身后是平滑中灰色域。光越过选定曲面，让相邻凹处深暗却柔和过渡。细颗粒使安静底面与深色表面仍可触。构图依靠亲近裁切和一小片留白，一道果断边缘承担图像大部分情绪重量。整体效果正式、私密而克制。",
+  "theme_en": "A bowed young man in dark clothing photographed in strict side profile",
+  "theme_zh": "一位穿深衣、低头的年轻男子，以严格侧影拍摄",
+  "wh_ratio": "1:1",
+  "id": "3072",
+  "name": "Robert Mapplethorpe",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/robert-mapplethorpe",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "1ddccbdae82d4bba5922c8ce088dcdbbfd9ccf7ab1a5ba0f700556ba08c0c471",
+    "gpt_submission_prompt": "A square black-and-white studio photograph presents a young man in left-facing profile with his head bowed against a plain mid-gray background. He fills the left and center of the frame from the crown of his head to the upper torso, leaving a narrow open area in front of his face. Dark hair is swept tightly back, its combed ridges catching pale silver highlights along the top. A defined ear, high cheekbone, and straight nose are modeled by a strong soft light from the upper left. His gaze is lowered, and his lips are closed, giving the pose a private, withdrawn stillness. A dark scarf is wrapped high around the neck and blends into a black coat, so the lower left becomes a broad low-detail shadow mass. A pointed dark fold projects behind the neck near the left edge, interrupting the otherwise clean silhouette. The gray ground shifts gradually from lighter at the top left to darker toward the right, without showing a room or prop. On the face, the light moves from bright forehead and cheek into deep shadow under the jaw and near the eye socket. The image retains a faint photographic grain, but the skin, hair, and cloth remain finely differentiated in texture. The close crop gives each contour unusual weight while the empty gray field prevents the portrait from feeling crowded. The overall composition balances a precise pale profile against a large black garment and soft neutral ground, making restraint and shadow the central visual qualities.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "96334c41e6bc3aa718d093d8f531072c8482314c12cb89e3987cc4f81dc0f814",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

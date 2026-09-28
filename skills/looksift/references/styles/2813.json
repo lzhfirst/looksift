@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square illusionistic architectural painting shows a ruined interior whose broken walls open directly onto a bright coastal landscape. A worn wooden staircase climbs up the right center toward an upper doorway and a sunlit ochre facade. At left, tall windows and a pale wall frame a narrow path leading to blue water, shrubs, and distant trees. The ceiling is torn away in broad irregular patches, revealing intense turquoise-blue sky and towering white clouds where a roof should be. Crumbling plaster exposes brick and timber along the fractures. Rubble, sparse grass, and small stones scatter across the tiled ground at the foot of the stair. Warm afternoon light enters from the upper left and through the roof opening, striking the outer facade and broken edges while the doorway and underside of the stairs remain cooler and darker. The painted perspective is carefully aligned: floor joints and stair treads pull the eye inward, then the impossible opening releases it into open air. Fine material detail distinguishes peeling plaster, rough masonry, weathered wood, foliage, and smooth distant water. No readable lettering appears. The overall composition is both believable and surprising, using precise spatial depth and sunlit color to turn a damaged building into a window onto another place.",
+  "full_prompt_zh": "一幅方形错视建筑绘画描绘一处残破室内，断裂墙体直接打开到明亮海岸风景。磨旧木楼梯从右侧中央向上，通向上方门洞和受日照的赭黄立面。左侧，高窗和浅色墙框出一条窄路，通向蓝水、灌木和远树。天花板大块不规则地撕开，本应有屋顶的地方露出强烈绿松石蓝天空和高大白云。剥落灰泥在裂口处露出砖与木梁。碎石、稀草和小石块散在楼梯脚下的铺砖地面。暖午后光从左上和屋顶开口进入，照到外侧立面与破边，门口和梯下则更冷更暗。绘制透视严谨对齐：地砖缝和楼梯踏步把视线带向内部，随后不可能的开口又把它释放到空天。精细材料细节区分剥落灰泥、粗砌体、风化木、叶丛和平滑远水。没有可辨认文字。整体构图既可信又意外，用准确空间深度和阳光颜色，把受损建筑变成通往别处的窗口。",
+  "style_prompt_en": "An illusionistic painted surface aligns strong perspective lines with irregular broken openings. Warm ochre and pale plaster planes meet vivid turquoise-blue and luminous cream-white beyond, creating a sharp transition between enclosed shadow and open light. Fine material marks distinguish peeling matte layers, rough granular edges, fibrous structural lines, and smooth distant color. Sunlight from upper openings catches fractured rims and projects clear tonal shifts into cooler interior recesses. The composition uses converging floor and stairlike rhythms to pull attention inward, then a large bright void expands the space unexpectedly. Crisp near detail and softer far atmosphere maintain physical plausibility within the visual surprise.",
+  "style_prompt_zh": "错视绘画表面把有力透视线与不规则断裂开口对齐。暖赭黄和浅灰泥平面遇到外侧鲜明绿松石蓝与发亮乳白，在封闭阴影和开放光之间产生陡然转变。精细材料笔迹区分剥落哑光层、粗颗粒边缘、纤维状结构线和平滑远色。来自上方开口的日光照到破碎边沿，使更冷的内凹处出现清楚明暗变化。构图用汇聚的地面和阶梯状节奏把注意拉向内部，再由大片明亮空处意外扩张空间。近处清晰细节与较软远方大气，让视觉惊奇仍有物理可信度。",
+  "theme_en": "A ruined stair hall opening unexpectedly onto a bright coast",
+  "theme_zh": "意外通向明亮海岸的残破楼梯厅",
+  "wh_ratio": "1:1",
+  "id": "2813",
+  "name": "Trompe l'oeil",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/trompe-loeil",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/trompe-loeil.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "fa902e4eb21ab408e8d69e53dfc86e68de045ff751a8cc602329afeeda17709f",
+    "gpt_submission_prompt": "A square illusionistic architectural painting shows a ruined interior whose broken walls open directly onto a bright coastal landscape. A worn wooden staircase climbs up the right center toward an upper doorway and a sunlit ochre facade. At left, tall windows and a pale wall frame a narrow path leading to blue water, shrubs, and distant trees. The ceiling is torn away in broad irregular patches, revealing intense turquoise-blue sky and towering white clouds where a roof should be. Crumbling plaster exposes brick and timber along the fractures. Rubble, sparse grass, and small stones scatter across the tiled ground at the foot of the stair. Warm afternoon light enters from the upper left and through the roof opening, striking the outer facade and broken edges while the doorway and underside of the stairs remain cooler and darker. The painted perspective is carefully aligned: floor joints and stair treads pull the eye inward, then the impossible opening releases it into open air. Fine material detail distinguishes peeling plaster, rough masonry, weathered wood, foliage, and smooth distant water. No readable lettering appears. The overall composition is both believable and surprising, using precise spatial depth and sunlit color to turn a damaged building into a window onto another place.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "13c3aafeb90dcd4dbe1ed918670758c04f15d8b47fae3d3f848a2f9c081b1f98",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white fashion photograph captures a young man sitting alone at a dark café table beside a large street-facing window. He leans forward from the right half of the frame, one elbow on the tabletop and a hand touching the side of his head. His thick, slightly disordered hair frames a direct, pensive look into the camera. A dark overcoat rises in a wide collar around his neck and shoulders, with a pale shirt cuff and a sliver of light collar visible. On the near table at lower center stand three transparent drinking glasses, two taller and one short; a slender straw rises from the leftmost vessel. Their rims and facets catch bright window highlights while the table itself stays almost black. Behind him, broad panes and vertical black window frames divide the café from the city outside. Blurred parked vehicles, posters, and building fronts show through the bright glass, with their letters too indistinct to read. At the far left, a dark out-of-focus interior shape forms a soft foreground curtain. The light comes from the window behind and to his left, carving a pale outline through hair, cheek, and hand while leaving the coat in deep gray-black. Crisp facial detail, visible film grain, and shallow depth of field distinguish the seated figure from the busy street. The composition balances the solitary still pose with layered reflections and imperfect urban detail, producing intimate, unforced melancholy.",
+  "full_prompt_zh": "一幅方形黑白时尚摄影在面街大窗旁捕捉独坐深色咖啡馆桌前的年轻男子。他从右半幅向前倾，一肘支在桌上，一只手触着头侧。浓密而略乱的头发围住直视镜头的沉思目光。深色大衣的宽领围起颈肩，露出浅色袖口和少许亮色领子。近桌中下方立着三个透明饮水杯，两高一矮；最左杯中一支细吸管竖起。杯沿与切面接住明亮窗光，桌面自身近乎黑色。他背后，宽窗格和黑色竖窗框把咖啡馆与街道分开。模糊的停泊车辆、海报与建筑立面透过亮玻璃可见，文字无法辨读。最左侧，室内一块深色失焦形形成柔软前景帘幕。光来自他身后偏左的窗，沿发丝、脸颊和手刻出浅亮边，外套仍留深灰黑。清楚面部细节、可见胶片颗粒与浅景深把坐姿人物从繁忙街景中分离。构图以孤独静止姿态平衡层叠反射和不完美的城市细节，带出亲密而不做作的忧郁。",
+  "style_prompt_en": "Black-and-white editorial photography uses natural window light, deep coat-like blacks, luminous glass highlights, and gently granular midtones. Frame a clearly focused focal form amid layered panes, reflections, and soft street or interior blur. Let back or side light trace hair and cheek edges while darker fabric retains texture in shadow. Place a few small transparent objects in the near field to repeat the window glints and give tactile depth. Keep the camera close and the posture unforced, with candid asymmetry rather than studio perfection. The transferable mood is intimate, urban, and quietly wistful.",
+  "style_prompt_zh": "黑白编辑摄影利用自然窗光、外衣般深黑、发亮玻璃高光和轻微颗粒的中间调。让清晰对焦的主体处在层叠窗格、反射及柔化街景或室内景之间。侧逆光勾勒发缘与面颊，深色布料在影中仍留纹理。近处放少量透明物，让其重复窗光闪点并增加可触的纵深。镜头贴近，姿态自然，以偶然的不对称取代摄影棚完美。可迁移气氛亲密、都市化且含蓄惆怅。",
+  "theme_en": "A young man seated alone at a café window with empty glasses",
+  "theme_zh": "年轻男子独坐咖啡馆窗边，桌上是空玻璃杯",
+  "wh_ratio": "1:1",
+  "id": "3857",
+  "name": "Alasdair McLellan",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/alasdair-mclellan",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "b94f9bd5e8c49fa2344cd7ed39950b2dd27483fc9b498c41000f532ae6ab87c9",
+    "gpt_submission_prompt": "A square black-and-white fashion photograph captures a young man sitting alone at a dark café table beside a large street-facing window. He leans forward from the right half of the frame, one elbow on the tabletop and a hand touching the side of his head. His thick, slightly disordered hair frames a direct, pensive look into the camera. A dark overcoat rises in a wide collar around his neck and shoulders, with a pale shirt cuff and a sliver of light collar visible. On the near table at lower center stand three transparent drinking glasses, two taller and one short; a slender straw rises from the leftmost vessel. Their rims and facets catch bright window highlights while the table itself stays almost black. Behind him, broad panes and vertical black window frames divide the café from the city outside. Blurred parked vehicles, posters, and building fronts show through the bright glass, with their letters too indistinct to read. At the far left, a dark out-of-focus interior shape forms a soft foreground curtain. The light comes from the window behind and to his left, carving a pale outline through hair, cheek, and hand while leaving the coat in deep gray-black. Crisp facial detail, visible film grain, and shallow depth of field distinguish the seated figure from the busy street. The composition balances the solitary still pose with layered reflections and imperfect urban detail, producing intimate, unforced melancholy.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "c5d94f2f27ef388939a3ef70e187bd3ac4ac01a92119bb03973cfb1c927a9924",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

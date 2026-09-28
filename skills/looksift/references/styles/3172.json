@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square staged photograph brings a woman's face very close to the viewer, surrounded on all sides by a dense wreath of flowers and dark glossy leaves. Large pink petals hang above her forehead; white blossoms, coral blooms and tiny green leaves crowd the lower edge. Her gaze is directed forward, and one hand touches the side of her face. Glitter in pink, gold and silver is scattered around her eyes and across her cheeks, making the skin sparkle under strong frontal light. Deep rose lips and dark eyelashes form precise accents among the looser floral shapes. The background is almost invisible beneath the thick foliage, but pockets of near black give the colors depth. The composition is tightly cropped, with the face holding the calm center while petals enter from every edge. Light is even across the features yet catches reflective particles in many small bright points. The flowers range from velvety dark red to pale cream and soft blush, with green leaves bridging between them. The image is deliberately artificial and lush, combining fashion photography, decorative set design and retouched color. Smooth skin and sharp eye details contrast with overlapping natural textures. Its symmetrical central placement and saturated perimeter make the frame feel like a jeweled floral icon.",
+  "full_prompt_zh": "这幅方形布景摄影把一位女子的面孔放得极近，四周是密实的花环与深色亮叶。大粉花瓣悬在额头上方，白花、珊瑚色花和细小绿叶挤满下缘。她正视前方，一只手贴在脸侧。粉、金、银色亮片撒在眼周和脸颊，强烈正面光使皮肤闪烁。深玫红唇与黑睫毛在较松散的花形之间构成精准点缀。厚叶丛几乎遮住背景，但近黑的小空隙给颜色深度。构图裁切紧密，面孔保持安静中心，花瓣从每条边缘进入。光均匀覆盖五官，又让反光微粒成为许多细小亮点。花色从丝绒般暗红到浅奶油与柔粉，绿叶在它们之间搭桥。图像有意人工而繁盛，结合时尚摄影、装饰布景与修饰过的色彩。平滑皮肤和锐利眼部细节对照层叠的自然纹理。中央对称位置与饱和外围让画面像镶宝石的花卉圣像。",
+  "style_prompt_en": "The staged photograph is saturated, glossy and densely ornamental. Blush pink, coral, cream and deep green press against pockets of near black, while many tiny gold and silver reflections sparkle across the center. Strong frontal light reveals smooth planes and reflective flecks without flattening the layered perimeter. Crisp focal details contrast with soft overlapping textures. The composition is tightly centered and filled to every edge, producing a lavish jewel-like rhythm.",
+  "style_prompt_zh": "这种布景摄影饱和、光亮而装饰繁密。柔粉、珊瑚色、奶油白与深绿挤在近黑空隙旁，许多细小金银反光在中央闪动。强正面光揭示平滑平面与反光碎点，同时保留外围层次。锐利焦点细节对照柔软叠压的纹理。构图紧紧居中，每条边缘都被填满，形成奢丽如珠宝的节奏。",
+  "theme_en": "A close face framed by flowers and sparkling makeup",
+  "theme_zh": "被花朵与闪亮妆饰围住的近景面容",
+  "wh_ratio": "1:1",
+  "id": "3172",
+  "name": "Pierre et Gilles",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/pierre-et-gilles",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "322d7c310e3f235c2187b9dd908a450ac8ac86e5dcb0f4b5653c36c62d01ed78",
+    "gpt_submission_prompt": "A square staged photograph brings a woman's face very close to the viewer, surrounded on all sides by a dense wreath of flowers and dark glossy leaves. Large pink petals hang above her forehead; white blossoms, coral blooms and tiny green leaves crowd the lower edge. Her gaze is directed forward, and one hand touches the side of her face. Glitter in pink, gold and silver is scattered around her eyes and across her cheeks, making the skin sparkle under strong frontal light. Deep rose lips and dark eyelashes form precise accents among the looser floral shapes. The background is almost invisible beneath the thick foliage, but pockets of near black give the colors depth. The composition is tightly cropped, with the face holding the calm center while petals enter from every edge. Light is even across the features yet catches reflective particles in many small bright points. The flowers range from velvety dark red to pale cream and soft blush, with green leaves bridging between them. The image is deliberately artificial and lush, combining fashion photography, decorative set design and retouched color. Smooth skin and sharp eye details contrast with overlapping natural textures. Its symmetrical central placement and saturated perimeter make the frame feel like a jeweled floral icon.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "a20ad9ecec91c2efb41a068f0d2aa02f947c66fdb5a9acd35761d29fd174f03a",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square impressionist oil painting shows a young child reading on a flower-patterned sofa in a warmly shadowed room. The upper left background is deep brown, with a small side table carrying dishes of yellow-orange fruit and a cluster of red flowers. Behind the child, the broad sofa back and cushions are pale cream, scattered with loose green, pink, and rust-colored floral marks. The child sits slightly right of center, head bowed toward a small open book across the lap. Wavy light-brown hair frames the softly modeled face. A vivid orange-red outer garment falls over a high white blouse, while a plum-purple skirt and brown stockings occupy the lower part of the frame. One hand touches the pages and the other steadies the book. The crossed legs angle forward, with one shoe reaching toward the lower right edge. Thick broken brushstrokes build the cloth, upholstery, and fruit, letting many contours merge into adjacent warm colors. Small cool green and blue touches in the floral pattern keep the orange coat from overwhelming the scene. The face and book receive gentle light from the left front; the room corners, folds under the skirt, and recesses beside the sofa remain dark. The eye-level view stays close to the seated figure, yet the still life at the side adds a domestic setting. Warm red and orange accents, pale patterned fabric, and shadowed brown surroundings make the quiet act of reading luminous and intimate.",
+  "full_prompt_zh": "一幅方形印象派油画描绘一名年幼孩子在暖暗房间的花纹沙发上读书。左上背景深褐，一张小边桌放着盛有黄橙水果的盘子，还有一簇红花。孩子身后宽阔的沙发靠背和靠垫呈浅奶油色，散布着松动的绿、粉和锈红花纹。孩子坐在中央稍右，低头看着膝上一本摊开的小书。浅褐色波浪发围住柔和塑造的面孔。鲜亮橙红外衣披在高领白衬衫外，梅紫色裙子与棕色长袜占据画面下方。一只手触碰书页，另一只手扶稳书本。交叠的双腿向前伸，一只鞋靠近右下画边。厚实而断续的笔触构建衣料、沙发面和水果，让许多轮廓融入相邻暖色。花纹中的小块冷绿与蓝色使橙色外套不至于压倒画面。柔和光线从左前方落在面孔与书上；房间角落、裙下褶痕与沙发旁的凹处仍然深暗。平视角度贴近坐着的人物，侧边静物则补足居家环境。暖红橙色点缀、浅色花布和暗褐周围空间，使安静阅读显得明亮而亲密。",
+  "style_prompt_en": "Warm impressionist oil painting uses thick broken strokes and softly merged edges to make color and surface more prominent than precise drawing. Orange-red, plum, and cream gather around the focal area, while deep brown shadow holds the outer space; scattered cool green and blue notes prevent a single warm wash. Patterned passages are made from short varied marks rather than repeated exact motifs. Light falls gently on the central planes and leaves adjacent folds and corners much darker, giving the scene depth without hard contour everywhere. The composition feels close and intimate, with a dense figure-sized focus against looser surrounding texture. Opaque paint and visible brush drag preserve a tactile, domestic warmth.",
+  "style_prompt_zh": "暖色印象派油画以厚实断续笔触和柔和交融的边缘，让色彩与表面比精确描线更突出。橙红、梅紫与奶油色聚在焦点周围，深褐阴影托住外围空间；零散冷绿和蓝色点缀防止画面成为单一暖色洗染。花纹段落由长短不同的短笔痕形成，而非反复精准图样。光线温柔落在中央平面，使邻近褶痕与角落深暗许多，画面因此有深度，却不处处依靠硬轮廓。构图亲近紧凑，在松散周围肌理中形成与人物尺度相当的密集焦点。不透明颜料和可见的刷痕保留可触的居家暖意。",
+  "theme_en": "A child reading on a flower-patterned sofa",
+  "theme_zh": "孩子坐在花纹沙发上读书",
+  "wh_ratio": "1:1",
+  "id": "0016",
+  "name": "暖色印象派人物画法",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/mary-bradish-titcomb",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/mary-bradish-titcomb.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "151a6109ecfa55598ac1ad9bfbe8759d11e56cc4e1686980aa0575bb317732bc",
+    "gpt_submission_prompt": "A square impressionist oil painting shows a young child reading on a flower-patterned sofa in a warmly shadowed room. The upper left background is deep brown, with a small side table carrying dishes of yellow-orange fruit and a cluster of red flowers. Behind the child, the broad sofa back and cushions are pale cream, scattered with loose green, pink, and rust-colored floral marks. The child sits slightly right of center, head bowed toward a small open book across the lap. Wavy light-brown hair frames the softly modeled face. A vivid orange-red outer garment falls over a high white blouse, while a plum-purple skirt and brown stockings occupy the lower part of the frame. One hand touches the pages and the other steadies the book. The crossed legs angle forward, with one shoe reaching toward the lower right edge. Thick broken brushstrokes build the cloth, upholstery, and fruit, letting many contours merge into adjacent warm colors. Small cool green and blue touches in the floral pattern keep the orange coat from overwhelming the scene. The face and book receive gentle light from the left front; the room corners, folds under the skirt, and recesses beside the sofa remain dark. The eye-level view stays close to the seated figure, yet the still life at the side adds a domestic setting. Warm red and orange accents, pale patterned fabric, and shadowed brown surroundings make the quiet act of reading luminous and intimate.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "3e6d6816436bb0bf168f2652fc7cf6dca0476d2c78a6cfef93ffa10295dbcf76",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

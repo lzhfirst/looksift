@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square folk-art-like acrylic painting shows a large black, white, and electric-blue dog seated upright on the right, beside a much smaller blue animal wearing a dark round hat and tiny yellow bow tie. Both face outward with striking circular white eyes and a humorous, startled stillness. Behind them, an oversized rough yellow moon glows against a deep cobalt and indigo night sky. The moon's edge is irregular, built from thick scraped paint rather than a smooth digital circle. The dog has tall pointed ears, a white blaze and chest, dark flank, small black nose, and patches of blue along its face and body. Its features are simplified and slightly out of proportion, emphasizing alertness and character. The smaller companion sits left in front of the moon, its coat nearly the same strong blue as the surrounding painted shadows. Across the bottom, a low strip of red, orange, ocher, and black suggests autumn leaves or uneven ground. In the far background, tiny dark silhouettes hint at rooftops or vegetation, but they remain secondary. The surface is strongly textured with palette-knife ridges, short blocky strokes, and visible paint buildup. The composition is straightforward and frontal, with the yellow circle anchoring the left and the tall dog balancing the right. No writing, collar tag, frame, or extra figure appears. The mood is affectionate, playful, and slightly uncanny, created through bold complementary colors and the animals' direct, almost cartoon-like gaze.",
+  "full_prompt_zh": "一幅方形近民间艺术的丙烯画呈现一只黑白电蓝大狗端坐右侧，旁边是戴深色圆帽、系小黄领结的蓝色小动物。两者都朝外，白圆眼突出，带幽默又惊讶的静止感。身后巨大粗糙黄月在深钴蓝与靛蓝夜空前发亮。月缘不规则，由厚刮颜料堆成，不是光滑数码圆。大狗耳朵高尖，脸和胸有白纹，身体一侧深色，小黑鼻，脸和身上有蓝块。五官简化、比例略夸张，强调警觉与个性。小伙伴坐在左侧月前，毛色几乎和周围绘画阴影同样强蓝。底边一道低红、橙、赭与黑条像秋叶或不平地面。远背景微小深剪影暗示屋顶或植物，但始终次要。表面厚纹显刮刀隆起、短块笔触和可见颜料堆积。构图直接正面，黄圆锚住左边，高狗平衡右边。没有文字、项圈标签、边框或额外形体。气氛亲切、好玩且微妙奇异，由大胆互补色和动物几乎卡通式直视构成。",
+  "style_prompt_en": "Use tactile folk-art-like acrylic painting with thick palette-knife ridges, blocky strokes, simplified anatomy, and emphatic round focal marks. Set electric cobalt and indigo against a rough, oversized yellow circle, then add a narrow band of red-orange texture near the base. Keep silhouettes frontal and immediately legible, allowing slightly awkward proportions to supply charm. Let paint buildup and scraped irregular edges remain visible across every color field. Use dark outlines sparingly to lock key shapes without smoothing their handmade surfaces. The result is playful, affectionate, and a little uncanny, with bold complementary color and direct graphic presence doing the main work.",
+  "style_prompt_zh": "采用可触的近民间艺术丙烯画，用厚刮刀隆起、块状笔触、简化解剖与醒目圆焦点记号。电钴蓝和靛蓝对照一枚粗糙放大的黄圆，底部再添一道红橙纹理带。剪影正面且第一眼可读，略笨拙比例带来魅力。每片色域都保留颜料堆积和刮擦不规则边。深轮廓线少量使用，固定关键形，却不抹平手作表面。结果好玩、亲切又略奇异，由大胆互补色和直接图形存在感主导。",
+  "theme_en": "A wide-eyed blue-and-black dog and smaller companion before a yellow moon",
+  "theme_zh": "黄月前瞪大眼睛的蓝黑狗与小伙伴",
+  "wh_ratio": "1:1",
+  "id": "1295",
+  "name": "George Rodrigue",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/george-rodrigue",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/george-rodrigue.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "5afbbcb221dcaadfcfcfd75a048e1ee8375fbfa3ac3292d38157e374b1973e20",
+    "gpt_submission_prompt": "A square folk-art-like acrylic painting shows a large black, white, and electric-blue dog seated upright on the right, beside a much smaller blue animal wearing a dark round hat and tiny yellow bow tie. Both face outward with striking circular white eyes and a humorous, startled stillness. Behind them, an oversized rough yellow moon glows against a deep cobalt and indigo night sky. The moon's edge is irregular, built from thick scraped paint rather than a smooth digital circle. The dog has tall pointed ears, a white blaze and chest, dark flank, small black nose, and patches of blue along its face and body. Its features are simplified and slightly out of proportion, emphasizing alertness and character. The smaller companion sits left in front of the moon, its coat nearly the same strong blue as the surrounding painted shadows. Across the bottom, a low strip of red, orange, ocher, and black suggests autumn leaves or uneven ground. In the far background, tiny dark silhouettes hint at rooftops or vegetation, but they remain secondary. The surface is strongly textured with palette-knife ridges, short blocky strokes, and visible paint buildup. The composition is straightforward and frontal, with the yellow circle anchoring the left and the tall dog balancing the right. No writing, collar tag, frame, or extra figure appears. The mood is affectionate, playful, and slightly uncanny, created through bold complementary colors and the animals' direct, almost cartoon-like gaze.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "1635d63476d45462553e9c216a9a1f684875a946421d3e9d0efebfd60e63522c",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A warm, carefully observed painting looks down a narrow cobblestone lane between old plaster and brick houses. The street curves gently from the shadowed lower left toward a bright opening in the middle distance. Several villagers walk away in small groups, their long skirts and light blouses catching the afternoon sun. Red tile roofs step unevenly above weathered walls; a steep gable on the left and a pale wall on the right create a snug passage. Trees and climbing greenery soften the far end of the lane, while a few distant chimneys rise against a blue sky with thin, creamy clouds. The cobbles carry the strongest play of light: a broad golden patch bends across them, broken by irregular stones and a cool building shadow. The figures remain modest in scale, belonging to the street rather than performing for the viewer. Paint is handled with quiet realism and fine, visible touches in roof tile, masonry, foliage, and fabric. Edges become softer toward the distance, while near stones and wall textures remain tactile. The palette is built from terracotta red, warm ocher, dusty cream, muted olive, and pale blue. The composition leads the eye patiently through the village, using the curve of the lane and gentle sunlight to create an intimate sense of ordinary life.",
+  "full_prompt_zh": "一幅温暖、观察细致的绘画，沿着旧灰泥与砖房之间的狭窄鹅卵石小巷向深处望去。街道从左下角的阴影中轻轻弯向中景明亮的出口。几位村民三两成群地背向观者行走，长裙与浅色上衣接住午后的阳光。红瓦屋顶在风化墙面上方错落起伏；左侧陡峭山墙与右侧浅色墙体围出亲近的通道。树木和攀爬的绿植柔化巷子远端，几根遥远烟囱在带奶油色薄云的蓝天下升起。鹅卵石上明暗最鲜活：一大片金色光斜弯着铺过地面，被不规则石块和冷色建筑阴影打断。人物尺度不大，属于这条街道，而不是面向观者表演。绘画以安静的写实方式处理，屋瓦、砌体、叶片与布料中有细小可见的笔触。边缘向远处变柔，近处石头和墙体纹理则保有触感。配色由陶瓦红、暖赭黄、灰奶油色、低调橄榄绿和浅蓝组成。构图耐心地引导目光穿过村庄，借小巷弯线和柔和日光呈现普通生活的亲近感。",
+  "style_prompt_en": "Quiet representational painting with fine visible touches, tactile masonrylike texture, and softly graduated distance. Terracotta, ocher, dusty cream, muted olive, and pale blue form a warm, settled palette. A curving band of golden light crosses irregular foreground marks, interrupted by a broad cool shadow. Near surfaces hold distinct small strokes, while distant edges merge gently into greenery and air. Modest dark vertical accents provide scale within a sequence of receding planes. The rhythm is patient and intimate, grounded in natural afternoon light and the accumulated texture of ordinary use.",
+  "style_prompt_zh": "安静的具象绘画风格，细小笔触可见，砌体般表面有触感，远景柔和渐淡。陶瓦红、赭黄、灰奶油色、低调橄榄绿和浅蓝构成温暖稳定的配色。一道弯曲金光掠过不规则前景痕迹，被大片冷色阴影打断。近处表面保留分明的小笔触，远处边缘轻轻融入绿意与空气。低调的深色竖向点缀在层层后退的平面中提供尺度。节奏耐心而亲近，扎根于自然午后光与长期使用留下的层叠纹理。",
+  "theme_en": "Villagers walking along a sunlit cobblestone lane",
+  "theme_zh": "村民走过阳光照亮的鹅卵石小巷",
+  "wh_ratio": "1:1",
+  "id": "1117",
+  "name": "Peter Ilsted",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/peter-ilsted",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/peter-ilsted.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "94a84fb33a68fd4248b13d81969322549ece395267e0ac4c1b5e623c5f45a2c1",
+    "gpt_submission_prompt": "A warm, carefully observed painting looks down a narrow cobblestone lane between old plaster and brick houses. The street curves gently from the shadowed lower left toward a bright opening in the middle distance. Several villagers walk away in small groups, their long skirts and light blouses catching the afternoon sun. Red tile roofs step unevenly above weathered walls; a steep gable on the left and a pale wall on the right create a snug passage. Trees and climbing greenery soften the far end of the lane, while a few distant chimneys rise against a blue sky with thin, creamy clouds. The cobbles carry the strongest play of light: a broad golden patch bends across them, broken by irregular stones and a cool building shadow. The figures remain modest in scale, belonging to the street rather than performing for the viewer. Paint is handled with quiet realism and fine, visible touches in roof tile, masonry, foliage, and fabric. Edges become softer toward the distance, while near stones and wall textures remain tactile. The palette is built from terracotta red, warm ocher, dusty cream, muted olive, and pale blue. The composition leads the eye patiently through the village, using the curve of the lane and gentle sunlight to create an intimate sense of ordinary life.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "e2d6ac9af109da5a5965d681201d0fa8de2229d82f66b39af5af74160bb3a522",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

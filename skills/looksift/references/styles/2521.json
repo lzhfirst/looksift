@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square fantasy oil illustration shows an elderly white-haired swordsman seated against a wall of carved stone figures. He occupies the left and center of the frame, turning his head to the left while holding the upright hilt of a long sword in both hands. His beard is rough and white, his face heavily lined, and his weathered hands are large and knuckled. A worn red coat with broad lapels and dark fastenings covers his shoulders and torso; muted brown trousers appear at the lower right. Behind him, stacked gray-green stone blocks contain shallow reliefs of solemn faces and small figures. The carved wall is detailed but low in contrast, allowing the red coat and pale hair to lead the eye. Cool daylight grazes the upper left of the face, beard, hands, and sword hilt, while deep shadows gather in seams and recesses of the masonry. Painterly marks describe frayed cloth, leathery skin, and chipped stone with distinct textures. The seated pose is compact and calm, yet the sword and austere expression suggest long experience. The framing is close enough to read the hands and eyes, with stone carvings filling nearly every remaining space. The image feels ancient, restrained, and tactile, with heroic character design grounded by worn material surfaces.",
+  "full_prompt_zh": "一幅方形奇幻油画插图描绘一位白发老剑士坐在刻有石像的墙前。他占据画面左侧与中央，头转向左方，双手握住一柄长剑竖起的剑柄。胡须粗白，面部皱纹深，饱经风霜的手宽大且关节突出。一件有宽翻领与深色扣件的旧红外套罩住肩与躯干，低调棕色裤子出现在右下。身后堆叠的灰绿石块上有庄重人脸与小人形浅浮雕。石刻墙细致但对比低，让红衣和浅色头发引导视线。冷日光掠过脸、胡须、手和剑柄左上，深影聚在石块的缝与凹处。绘画笔痕分别描出磨损布料、皮革般的皮肤和崩裂石面的不同肌理。坐姿紧凑安静，但长剑与严峻神情暗示丰富经历。镜头足够近，可以读到手与眼，石刻几乎填满余下空间。图像古老、克制而可触，以磨损物质表面支撑英雄角色设计。",
+  "style_prompt_en": "Fantasy oil illustration combines rugged tactile surfaces with careful focal modeling. Weathered red, stone gray-green, umber, and ivory form a muted but readable palette. Short broken strokes build rough skin, chipped mineral texture, and frayed fabric; firmer lines define important edges. Cool side daylight catches raised surfaces, while cracks and overlaps hold deep brown-gray shadow. Dense carved patterns fill the backdrop at lower contrast than the central form. The composition is close and compressed, giving quiet weight to aged materials and a solemn, enduring mood.",
+  "style_prompt_zh": "奇幻油画插图结合粗粝可触表面与谨慎的焦点塑形。风化红、石灰绿、赭棕与象牙白组成低调却易读的配色。短碎笔痕构建粗糙皮肤、缺损矿物肌理与磨旧布料；重要边缘由更坚实的线界定。冷侧光落在凸起表面，裂缝和覆盖处留深棕灰影。浓密雕刻图案填满后方，但对比低于中心形体。构图贴近而压缩，赋予陈旧材料安静重量与庄严持久的情绪。",
+  "theme_en": "An old swordsman resting before carved stone figures",
+  "theme_zh": "坐在石刻雕像前歇息的老剑士",
+  "wh_ratio": "1:1",
+  "id": "2521",
+  "name": "Jesper Ejsing",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/jesper-ejsing",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/jesper-ejsing.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "8d9c025e0979d53015475076d675c29a063054d72df486fe7412af2e2e3757f7",
+    "gpt_submission_prompt": "A square fantasy oil illustration shows an elderly white-haired swordsman seated against a wall of carved stone figures. He occupies the left and center of the frame, turning his head to the left while holding the upright hilt of a long sword in both hands. His beard is rough and white, his face heavily lined, and his weathered hands are large and knuckled. A worn red coat with broad lapels and dark fastenings covers his shoulders and torso; muted brown trousers appear at the lower right. Behind him, stacked gray-green stone blocks contain shallow reliefs of solemn faces and small figures. The carved wall is detailed but low in contrast, allowing the red coat and pale hair to lead the eye. Cool daylight grazes the upper left of the face, beard, hands, and sword hilt, while deep shadows gather in seams and recesses of the masonry. Painterly marks describe frayed cloth, leathery skin, and chipped stone with distinct textures. The seated pose is compact and calm, yet the sword and austere expression suggest long experience. The framing is close enough to read the hands and eyes, with stone carvings filling nearly every remaining space. The image feels ancient, restrained, and tactile, with heroic character design grounded by worn material surfaces.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "ae741a3f3b40fb81c9c66a941d422ed2f715383b68c8b88a8f56a747cba78002",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

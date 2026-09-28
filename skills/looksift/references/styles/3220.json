@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square Chinese ink-and-color painting shows a long-tailed bird perched on a thin branch among clusters of round red berries. The bird sits slightly right of center, facing left. Its head and back are deep black, while a coral red patch crosses the wing and lower body. The long dark tail drops diagonally toward the lower right, giving the compact bird a strong directional line. Berry clusters hang at the upper right and lower left, connected by delicate looping stems. Broad gray green leaves, some curled or fading, sit around the branch. The background is warm blank paper, with no landscape or horizon. Black calligraphic strokes define the bird's beak, feet and feather edges; softer ink washes create the leaves' mottled volume. The berries are placed as saturated red circles with slight tonal variation rather than individually modeled fruit. Light is even and implied by the paper's pale tone, leaving no hard cast shadows. The arrangement is asymmetrical but stable, balancing the dark bird and tail against the red groups on opposite sides. Fine stem lines weave through broad leaf washes, creating alternating dense and open passages. The overall effect is lively, economical and elegant.",
+  "full_prompt_zh": "这幅方形中国水墨设色画呈现一只长尾鸟停在细枝上，周围是成簇圆红果。鸟位于中央稍右，朝左。头与背深黑，翅和下身横过一块珊瑚红。长暗尾斜垂向右下，为紧凑鸟身提供强方向线。右上和左下各有果簇，以细曲茎连接。宽阔灰绿叶片围着枝，有些卷起或渐淡。背景是温暖空纸，没有风景或地平线。黑色书写式笔划界定喙、脚与羽边；更软墨洗形成叶的斑驳体积。果子作为饱和红圆放置，略有调子变化，而不逐个细塑。光均匀，由纸的浅色暗示，没有硬投影。安排不对称却稳定，深鸟和尾巴平衡两侧相对的红果组。细茎线穿过宽叶洗色，形成密与空交替。整体活跃、经济而优雅。",
+  "style_prompt_en": "The ink-and-color painting places assertive black calligraphic marks and saturated red accents on broad warm paper. Gray green washes spread softly around fine linear stems, alternating dense clusters with generous untouched space. Light comes from the pale support rather than modeled illumination. Long diagonals and small round accents balance one another without symmetry. The brushwork shifts between crisp controlled marks and translucent feathered edges, giving the image lively economy.",
+  "style_prompt_zh": "这种水墨设色画把有力黑色书写笔与饱和红点置于宽阔暖纸上。灰绿水洗在细线周围柔和展开，使密集色簇与充足留白交替。亮度来自浅底，而非塑造出的照明。长斜线与小圆点互相平衡，却不对称。笔触在清脆受控的笔记与透明羽状边缘间转换，使图像生动而简练。",
+  "theme_en": "A black-and-coral bird perched among red berry clusters",
+  "theme_zh": "红果簇间栖息的黑珊瑚色鸟",
+  "wh_ratio": "1:1",
+  "id": "3220",
+  "name": "Qi Baishi",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/qi-baishi",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "0d469b15abb21b1ae23eeae4272907ea9ea2572ffed3764a2ea987b098406c9e",
+    "gpt_submission_prompt": "A square Chinese ink-and-color painting shows a long-tailed bird perched on a thin branch among clusters of round red berries. The bird sits slightly right of center, facing left. Its head and back are deep black, while a coral red patch crosses the wing and lower body. The long dark tail drops diagonally toward the lower right, giving the compact bird a strong directional line. Berry clusters hang at the upper right and lower left, connected by delicate looping stems. Broad gray green leaves, some curled or fading, sit around the branch. The background is warm blank paper, with no landscape or horizon. Black calligraphic strokes define the bird's beak, feet and feather edges; softer ink washes create the leaves' mottled volume. The berries are placed as saturated red circles with slight tonal variation rather than individually modeled fruit. Light is even and implied by the paper's pale tone, leaving no hard cast shadows. The arrangement is asymmetrical but stable, balancing the dark bird and tail against the red groups on opposite sides. Fine stem lines weave through broad leaf washes, creating alternating dense and open passages. The overall effect is lively, economical and elegant.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "7f4405826121c28319a3a191d10b084eaa98f74e6cf06528867f731f9bfd4ca4",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

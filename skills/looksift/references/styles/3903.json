@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A narrow city passage opens toward a fierce rectangle of daylight at the far end. Several pedestrians move through the space as almost black silhouettes, their individual features absorbed by the deep shadow of the surrounding walls. One tall figure stands near the center-right, a smaller figure is visible against the bright exit, and two overlapping forms gather at the left. Their long shadows project toward the viewer across a textured pavement, turning ordinary movement into an abstract arrangement of tapering black wedges. Bright light enters from behind the group and spills in a sharp diagonal stripe along the left side of the ground. The rest of the frame is dominated by dense darkness, but a few narrow white gaps keep the figures and architecture legible. The photograph is strictly monochrome, with brilliant whites, heavy blacks, and only a short ladder of intermediate greys. It uses an elevated viewing angle, cropped boundaries, and severe contrast to make the pattern of light more important than descriptive street detail. Fine grain and small pavement marks become visible where the light strikes; within shadow, surfaces close into nearly featureless mass. The composition leads inward through repeated vertical figures and outward again through their lengthened shadows. It feels observational and spontaneous yet rigorously shaped, with dramatic urban light creating both visual rhythm and a sense of anonymity.",
+  "full_prompt_zh": "一条狭窄的城市通道在远端打开一块强烈的日光矩形。几位行人经过其中，几乎都成了黑色剪影，个人特征被周围墙面的深影吞没。一名高个行人位于中线偏右，较小的人影立在明亮出口前，左侧还有两道重叠形体。他们长长的影子越过带肌理的路面投向观者，把寻常行走化作逐渐收尖的黑色楔形抽象组合。强光从人群后方进入，沿地面左侧洒出一道边缘清楚的斜向亮带。画面其余部分由厚重黑暗主导，但少量狭窄的白色间隙让人物和空间结构依然可辨。照片严格使用黑白色，包含耀眼的白、沉重的黑，以及很短的中间灰阶。略高的俯视角度、裁切边界和严厉对比让光的图案比街道细节更加重要。光照处能看见细颗粒和路面的小痕迹；阴影里，表面则合为近乎无特征的大块。构图通过反复的竖直人形引导视线深入，又借拉长的投影把视线送回画外。它显得即时而有观察性，同时构形严谨，戏剧性的城市光线形成视觉节奏和匿名感。",
+  "style_prompt_en": "High-contrast monochrome photography turns light and shadow into primary graphic shapes. Brilliant white openings cut into extensive near-black fields, with a narrow range of gritty midtones where surfaces catch light. Hard diagonals and elongated wedges cross a ground plane against upright accents. Cropping and an elevated angle compress depth into a bold, almost abstract design. Fine grain and incidental surface texture remain visible inside lit areas, while shadows merge detail into solid mass. The composition relies on precise spacing, repeated shapes, and a strong directional light source. Its mood is urban, spare, dramatic, and candid rather than polished or ornamental.",
+  "style_prompt_zh": "高反差黑白摄影把光和影变成主要的图形形状。耀眼的白色开口切入大片近黑区域，只有受光表面保留狭窄而粗粝的中间灰阶。硬边对角线和拉长的楔形跨过地平面，与竖向重音相对。裁切和较高视角把纵深压缩成大胆、近乎抽象的设计。受光区仍可见细颗粒和偶然的表面纹理，阴影则把细节合并为坚实色块。构图依赖准确的间距、重复的形状和方向鲜明的光源。气氛都市、简练、戏剧化且带抓拍感，而非精致装饰。",
+  "theme_en": "Pedestrians crossing a narrow city passage in hard afternoon light",
+  "theme_zh": "行人穿过午后强光照射的狭窄城市通道",
+  "wh_ratio": "1:1",
+  "id": "3903",
+  "name": "Ray Metzker",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/ray-metzker.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "f41d6438b557400c61fa331fce4964afbd37c9ef0ecde353b3026cc820aee94e",
+    "gpt_submission_prompt": "A narrow city passage opens toward a fierce rectangle of daylight at the far end. Several pedestrians move through the space as almost black silhouettes, their individual features absorbed by the deep shadow of the surrounding walls. One tall figure stands near the center-right, a smaller figure is visible against the bright exit, and two overlapping forms gather at the left. Their long shadows project toward the viewer across a textured pavement, turning ordinary movement into an abstract arrangement of tapering black wedges. Bright light enters from behind the group and spills in a sharp diagonal stripe along the left side of the ground. The rest of the frame is dominated by dense darkness, but a few narrow white gaps keep the figures and architecture legible. The photograph is strictly monochrome, with brilliant whites, heavy blacks, and only a short ladder of intermediate greys. It uses an elevated viewing angle, cropped boundaries, and severe contrast to make the pattern of light more important than descriptive street detail. Fine grain and small pavement marks become visible where the light strikes; within shadow, surfaces close into nearly featureless mass. The composition leads inward through repeated vertical figures and outward again through their lengthened shadows. It feels observational and spontaneous yet rigorously shaped, with dramatic urban light creating both visual rhythm and a sense of anonymity.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "cd272ec6d6ec968b8cd0675575fa197d042409f976ee7ed7a6c840a1d2c3ccb6",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

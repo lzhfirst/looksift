@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A minimalist mixed-media image sets a small, dreamlike landscape in the middle of a broad ivory-white field. Near the center, a solitary figure with head bowed stands in profile on a thin strip of dark grass and earth. A leafy tree rises just behind the figure, its crown softly spreading upward into a pale circular wash of blue-gray and warm cream. Beneath the ground line, the tree and figure appear as a loose, vertically elongated reflection, fading into watery stains and nearly disappearing before the bottom half of the square. The whole scene occupies only a compact area, leaving generous blank paper around it. A low amber glow near the distant horizon suggests late light without resolving into a detailed setting. The image layers photographic fragments with watercolor-like washes: the figure has a recognizable dark coat shape, the tree has fine branching texture, and the atmosphere dissolves at the edges into translucent pigment. Small flecks and uneven paper tone keep the empty field from feeling mechanically white. Contrast is concentrated at the ground line and human silhouette, while blue-gray shadows, soft green earth, and beige light remain muted. The reflection is suggestive rather than exact, creating a delicate vertical rhythm. The composition is quiet and contemplative, with scale and meaning carried by the distance between a tiny grounded scene and the surrounding open page.",
+  "full_prompt_zh": "一幅极简混合媒介图像，把小小的梦境景致安置在大片象牙白背景中央。中心附近，一个低着头的独行身影侧立于狭窄的深色草土带上。人物身后升起一棵枝叶茂盛的树，树冠柔和地向上展开，并融入淡蓝灰与暖奶油色的圆形晕染。地面线下方，树与人物化为松散、纵向拉长的倒影，渐渐散成水渍，在正方形画面的下半部几乎消失。整片场景只占紧凑的一小块，四周留下充裕空白纸面。远处地平线附近的一点琥珀光提示傍晚，却不发展成细节丰富的景物。画面把摄影碎片与水彩般的晕染叠合：人物可辨出深色外套形状，树木有细密分枝纹理，空气在边缘散入半透明颜料。细小斑点与不均匀纸色使空白区域不显机械纯白。对比集中在地面线与人形剪影，蓝灰阴影、柔绿泥地和米色亮光都受到克制。倒影重在暗示而非精确复制，形成纤细的垂直节奏。构图安静而沉思，小小落地场景与周围开阔纸面之间的距离，承载了尺度和意味。",
+  "style_prompt_en": "Minimalist photographic collage blended with translucent watercolor washes on an ivory paper field. A compact dark horizontal accent and fine branching textures sit within a faint circular haze, leaving most of the frame open. Muted blue-gray, soft green, beige, and a small amber glow remain delicate rather than saturated. Edges shift from recognizable detail into feathered stains and pale pigment blooms. An elongated, imperfect echo below the main form gives a light vertical rhythm. Subtle specks and uneven paper tone add tactility to the negative space. The composition feels quiet, spacious, and gently reflective.",
+  "style_prompt_zh": "极简的摄影拼贴与半透明水彩晕染融合，铺在象牙白纸面上。紧凑的深色水平线与细密分枝纹理落在淡淡圆形雾晕里，让画面大部分保持开放。低饱和蓝灰、柔绿、米色及一点琥珀光都轻盈而不艳丽。边缘从可辨细节转成羽化水渍和浅色颜料花。主体下方一条拉长、不完全一致的呼应构成轻巧纵向节奏。细小斑点和不均匀纸色给留白添上触感。构图安静、疏朗，带着温柔的映照感。",
+  "theme_en": "A bowed figure inside a tiny reflected island of trees",
+  "theme_zh": "低头身影置于树影倒映的小小岛屿",
+  "wh_ratio": "1:1",
+  "id": "1167",
+  "name": "Fabienne Rivory",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/fabienne-rivory",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/fabienne-rivory.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "a8ffa47324e8b3980a8587ad76210066ccf4b75a799c1f867fd43879cabdbc00",
+    "gpt_submission_prompt": "A minimalist mixed-media image sets a small, dreamlike landscape in the middle of a broad ivory-white field. Near the center, a solitary figure with head bowed stands in profile on a thin strip of dark grass and earth. A leafy tree rises just behind the figure, its crown softly spreading upward into a pale circular wash of blue-gray and warm cream. Beneath the ground line, the tree and figure appear as a loose, vertically elongated reflection, fading into watery stains and nearly disappearing before the bottom half of the square. The whole scene occupies only a compact area, leaving generous blank paper around it. A low amber glow near the distant horizon suggests late light without resolving into a detailed setting. The image layers photographic fragments with watercolor-like washes: the figure has a recognizable dark coat shape, the tree has fine branching texture, and the atmosphere dissolves at the edges into translucent pigment. Small flecks and uneven paper tone keep the empty field from feeling mechanically white. Contrast is concentrated at the ground line and human silhouette, while blue-gray shadows, soft green earth, and beige light remain muted. The reflection is suggestive rather than exact, creating a delicate vertical rhythm. The composition is quiet and contemplative, with scale and meaning carried by the distance between a tiny grounded scene and the surrounding open page.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "53f7f0fc290d4e5b72905036bd2a2e7c57736a896135c1ee79809dd447e6097d",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

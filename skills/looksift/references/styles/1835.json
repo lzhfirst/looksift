@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square painted view follows a neighborhood road as it descends from the foreground toward a distant bend beside a narrow canal. On the left, modest houses with pale walls and red or orange roofs step back along the sloping street. Two small dark cars travel or stand farther down the road, while one nearer vintage-looking black car with a red rear panel occupies the lower-left quarter. On the right, a low red brick wall separates a pedestrian path from a row of attached houses in ocher, pink, and blue-gray. A single tiny dark figure walks along that path. The canal fills the lower-right corner, its green-blue water reflecting the embankment and the muted sky. Leafless trees rise through the middle distance, their fine branching silhouettes spreading against a lilac and peach clouded sky. An irregular green grassy bank curves between road and water, pulling the eye from near right into the central distance. Farther back, chimneys and rooftops make a compact cluster under the hazy light. The entire scene is built with small, broken brush marks and thin dark contours; walls, tree branches, clouds, and water all carry visible paint texture. Warm brick and roof colors are balanced by cool mauves, pale blues, and deep canal green. The elevated viewpoint and tapering road create depth while the slightly flattened color patches keep the image decorative and calm.",
+  "full_prompt_zh": "一幅方形绘画沿着社区道路望去，街道从前景下行，在狭窄运河旁转向远处。左侧，浅色墙面、红色或橘色屋顶的朴素房屋沿斜坡依次后退。路的深处有两辆小型深色汽车，较近的一辆带红色后部的黑色旧式汽车占据左下区域。右侧，一道低矮红砖墙把步行小路和一排相连房屋隔开，房屋呈赭黄、粉色和蓝灰色。一个小小的深色人物沿小路行走。运河占据右下角，蓝绿色水面映出堤岸和柔和的天空。落叶树升起于中景，细枝剪影在淡紫与桃色云层前展开。不规则的绿色草岸在路与水之间弯曲，把视线从近处右侧牵向中央远方。更远处，烟囱与屋顶在朦胧光线下聚成紧凑的一片。整个场景由细碎断续的笔触和纤细深色轮廓构成；墙壁、树枝、云和水都有可见的颜料肌理。暖砖墙和屋顶色与冷淡紫、浅蓝、深运河绿相互平衡。略高的视点和渐窄道路建立纵深，而稍被压平的色块让画面仍富装饰性且平静。",
+  "style_prompt_en": "Use textured oil-like paint with short broken strokes, thin selective outlines, and small shifts of color inside each surface. Let warm ocher, brick red, and peach meet pale blue, lavender, sage, and deep teal; the palette should feel luminous yet slightly dusty. Build perspective with a gently tapering path or band, overlapping forms, and diminishing marks, while keeping planes somewhat flattened and decorative. Bare fine lines can lace across broad softly mottled color fields. Diffuse late-day light spreads evenly, giving pastel clouds and muted walls a mild glow without theatrical highlights. Reflections can be reduced to broken vertical smears in darker cool colors. The transferable rhythm is a balance between orderly receding shapes and lively, granular brushwork, with warm and cool patches holding a quiet everyday mood.",
+  "style_prompt_zh": "使用具有油画触感的颜料、短而断续的笔触、局部纤细勾线，以及每个表面内部细小的色彩变化。让暖赭黄、砖红和桃色遇上浅蓝、淡紫、鼠尾草绿与深青绿；色盘应明亮，却略带灰尘般的柔和感。通过轻微收窄的路径或色带、重叠形状和逐渐变小的笔触建立透视，同时让平面保持一定扁平与装饰性。细瘦的裸枝状线条可以交织在大块柔和斑驳色面前。傍晚散射光均匀铺开，让粉彩云和低饱和墙面轻轻发亮，不用戏剧性高光。反射可简化为冷暗色的断续竖向涂痕。可迁移的节奏，是有序后退的形状与活跃颗粒笔触之间的平衡，让冷暖色块维系安静的日常气氛。",
+  "theme_en": "A quiet neighborhood street beside a narrow canal at dusk",
+  "theme_zh": "暮色中狭窄运河旁的一条安静街道",
+  "wh_ratio": "1:1",
+  "id": "1835",
+  "name": "Grace Cossington Smith",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/grace-cossington-smith",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/grace-cossington-smith.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "2edbd89fdc995a5e03eaa933ca0cce8ddc019f0db7020cbbdb033f73c0dc59a9",
+    "gpt_submission_prompt": "A square painted view follows a neighborhood road as it descends from the foreground toward a distant bend beside a narrow canal. On the left, modest houses with pale walls and red or orange roofs step back along the sloping street. Two small dark cars travel or stand farther down the road, while one nearer vintage-looking black car with a red rear panel occupies the lower-left quarter. On the right, a low red brick wall separates a pedestrian path from a row of attached houses in ocher, pink, and blue-gray. A single tiny dark figure walks along that path. The canal fills the lower-right corner, its green-blue water reflecting the embankment and the muted sky. Leafless trees rise through the middle distance, their fine branching silhouettes spreading against a lilac and peach clouded sky. An irregular green grassy bank curves between road and water, pulling the eye from near right into the central distance. Farther back, chimneys and rooftops make a compact cluster under the hazy light. The entire scene is built with small, broken brush marks and thin dark contours; walls, tree branches, clouds, and water all carry visible paint texture. Warm brick and roof colors are balanced by cool mauves, pale blues, and deep canal green. The elevated viewpoint and tapering road create depth while the slightly flattened color patches keep the image decorative and calm.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "3682a83088441fd439562e4020622eecfd4051ab726fbdc59e7297149b4be801",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

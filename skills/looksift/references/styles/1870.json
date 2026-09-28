@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square outdoor portrait shows a young red-haired woman from the chest upward against a softly blurred field and overcast sky. She faces almost directly toward the camera, her shoulders turned only slightly to the right. Her expression is quiet and serious, with relaxed closed lips and pale eyes looking straight ahead. Small freckles scatter across her nose and cheeks. Loose copper curls are gathered back, but several thin tendrils blow around her face, especially on the left side of the image. A narrow wreath of tiny white and yellow daisy-like flowers, leaves, and stems sits over her hair. She wears a high-neck garment made of dense red, cream, green, and muted gold floral fabric. The neckline is closely fastened, and a pale patterned vertical panel or scarf runs down the center of the chest. Behind her, the horizon lies low and unfocused, with gray-green land beneath a cool gray sky. The shallow focus holds fine detail in her skin, curls, flower heads, and woven clothing while letting the surroundings dissolve into soft horizontal tones. Diffuse daylight from the clouded sky lights the face evenly, with a slight brighter lift on the viewer's left cheek and no hard shadow. The palette is subdued: copper, burgundy, sage, warm cream, and gray. The compact frontal pose contrasts with the wind-tossed strands and delicate crown, giving the portrait a calm center within a faintly unsettled natural setting.",
+  "full_prompt_zh": "一幅方形户外肖像从胸口向上拍摄一位红发年轻女子，背景是柔焦田野与阴天。她几乎正对镜头，肩部仅略向右转。神情安静严肃，嘴唇放松闭合，浅色眼睛直望前方。细雀斑散在鼻梁和脸颊上。铜红卷发向后收拢，但几缕细发在脸旁被风吹起，画面左侧尤其明显。一圈细窄的小白黄雏菊状花朵、叶片和茎戴在头上。她穿一件领口很高的衣服，布料有密集的红、奶油色、绿色与柔金色花纹。领口贴合地扣起，胸前中央垂下一条浅色花纹竖片或围巾。身后地平线低而失焦，冷灰天空下是灰绿土地。浅景深把皮肤、卷发、花头和编织衣料保留精细细节，让环境化成柔和水平色调。多云天空的散射日光均匀照亮面孔，观者左侧脸颊略亮，没有硬影。色盘柔和：铜色、酒红、鼠尾草绿、暖奶油色与灰。紧凑的正面姿态与被风吹乱的发丝、纤细花冠形成对照，使肖像在略显不安定的自然背景中拥有平静中心。",
+  "style_prompt_en": "Photography uses shallow focus, muted natural color, and soft overcast light to isolate a finely textured focal plane from a blurred background. Let subtle freckles, stray fibers, loose strands, or delicate surface detail remain sharp while the distance reduces to gentle horizontal fields. Keep the palette in copper, burgundy, sage, cream, and cool gray with moderate saturation. Light should wrap evenly around forms, preserving skin-like or fabric-like texture without glossy highlights or strong cast shadows. A nearly frontal arrangement lends steadiness, while a few fine irregular lines introduce movement around its edges. The transferable visual language is quietly intimate and naturalistic, joining crisp microtexture to subdued atmospheric depth.",
+  "style_prompt_zh": "摄影借浅景深、柔和自然色和阴天软光，把精细纹理的焦平面从模糊背景中分离出来。让细雀斑、游丝、松散线条或纤细表面细节保持清晰，远处则简化成温和的水平色场。色盘维持铜色、酒红、鼠尾草绿、奶油色和冷灰，饱和度适中。光应均匀包裹形状，保留皮肤般或布料般的质感，却没有亮闪高光或强投影。近乎正面的排列带来稳定，边缘少量不规则细线则引入动势。可迁移的视觉语言安静、亲密而自然，把锐利微纹理与低调的大气纵深结合。",
+  "theme_en": "A freckled red-haired young woman wearing small wildflowers",
+  "theme_zh": "一位长雀斑的红发年轻女子头戴小野花",
+  "wh_ratio": "1:1",
+  "id": "1870",
+  "name": "Taylor Wessing",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/taylor-wessing",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/taylor-wessing.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "bfbb0fa3aee8ad8992e4e5f67999e8fe989b4e5c68fce7e806d2d50d2c86f0a1",
+    "gpt_submission_prompt": "A square outdoor portrait shows a young red-haired woman from the chest upward against a softly blurred field and overcast sky. She faces almost directly toward the camera, her shoulders turned only slightly to the right. Her expression is quiet and serious, with relaxed closed lips and pale eyes looking straight ahead. Small freckles scatter across her nose and cheeks. Loose copper curls are gathered back, but several thin tendrils blow around her face, especially on the left side of the image. A narrow wreath of tiny white and yellow daisy-like flowers, leaves, and stems sits over her hair. She wears a high-neck garment made of dense red, cream, green, and muted gold floral fabric. The neckline is closely fastened, and a pale patterned vertical panel or scarf runs down the center of the chest. Behind her, the horizon lies low and unfocused, with gray-green land beneath a cool gray sky. The shallow focus holds fine detail in her skin, curls, flower heads, and woven clothing while letting the surroundings dissolve into soft horizontal tones. Diffuse daylight from the clouded sky lights the face evenly, with a slight brighter lift on the viewer's left cheek and no hard shadow. The palette is subdued: copper, burgundy, sage, warm cream, and gray. The compact frontal pose contrasts with the wind-tossed strands and delicate crown, giving the portrait a calm center within a faintly unsettled natural setting.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "0b156e3694009749365347526e870a2480c81ca4c41c25ceae3faa5b64e205ce",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

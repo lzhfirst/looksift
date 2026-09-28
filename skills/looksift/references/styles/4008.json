@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square pictorialist photograph in smoky sepia-gray tones shows a woman seated in profile on dark grass, occupying the center-right foreground. She faces left toward a fog-veiled landscape, her dark hair gathered in a loose bun and wisps escaping near her cheek. A simple pale long-sleeved blouse catches the diffuse light; her folded legs and lower clothing fade into the near-black ground. Farther left, include two or three tiny shadowed figures among the grasses, and behind them a ruined stone tower rising from mist near the upper-left quadrant. The ruin must stay soft, more an atmospheric silhouette than a detailed monument. Blend the horizon and sky into a luminous veil, with gradual tonal transitions instead of crisp edges. The composition lets the foreground be grainy and textured, with scratches, mottled darkening, and a subtle vignette around the paper's edges. The image keeps the woman's thoughtful side profile the nearest clear shape, but soften her outline enough to merge with the hazy setting. The image uses no strong directional sun; the image is lit by a large diffuse glow in the fog, leaving highlights restrained and shadows velvety. The result should feel like a hand-worked photographic print: melancholy, painterly, and spacious, with distance conveyed by fading silhouettes rather than optical sharpness.",
+  "full_prompt_zh": "一幅方形画意摄影，以烟雾般的棕灰色调呈现一位坐在深色草地上的女性侧影，位于画面中部偏右前景。她面向左侧雾罩的风景，深发松松盘成发髻，几缕发丝垂在面颊旁。简单的浅色长袖上衣接住漫射光；蜷起的腿与下身衣物融入近黑的地面。更远的左侧，在草丛间放两三个人影，背后残破石塔从雾中升起，靠近左上区域。废塔保持柔软，只作氛围剪影，不必有纪念碑式细节。地平线和天空融成发亮的薄幕，依靠渐变调子而非清楚硬边。前景带颗粒肌理，纸面边缘有划痕、斑驳变暗和轻微晕影。女性沉思的侧面是最近、相对最清晰的形，但轮廓仍须柔化，与朦胧环境相融。画面不强烈定向阳光；雾中的大面积漫射亮光照亮画面，高光含蓄，阴影如天鹅绒。成品应像经过手工处理的照片印相：忧郁、如画、空间宽阔，靠逐渐褪去的剪影而非光学锐利表达远近。",
+  "style_prompt_en": "Pictorialist photographic rendering with smoky sepia-gray monochrome, velvety shadow masses, luminous mist, and hand-worked paper texture. Soften outlines, let distant forms dissolve by tonal fade, and emphasize a measured balance between dark foreground and pale open atmosphere. The image adds fine grain, mottled staining, faint scratches, and a subdued edge vignette; The image uses diffuse light and painterly depth without glossy sharpness.",
+  "style_prompt_zh": "画意摄影处理，使用烟雾般的棕灰单色、柔绒似的深影、大面积发亮薄雾与手工处理的纸面肌理。软化轮廓，让远处形体随调子逐渐淡去，并平衡深色前景与浅亮开阔气氛。画面加细颗粒、斑驳污迹、淡划痕及克制的边缘晕影；画面采用漫射光和绘画式空间深度，避免光滑锐利。",
+  "theme_en": "A misty seated figure near a distant ruined tower",
+  "theme_zh": "薄雾中坐着的人物与远处残破塔楼",
+  "wh_ratio": "1:1",
+  "id": "4008",
+  "name": "Pictorialism",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/pictorialism.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "daff8ef98ac6a69ee6976239446555a729b509c65799f58f3b910b1197f3c38f",
+    "gpt_submission_prompt": "A square pictorialist photograph in smoky sepia-gray tones shows a woman seated in profile on dark grass, occupying the center-right foreground. She faces left toward a fog-veiled landscape, her dark hair gathered in a loose bun and wisps escaping near her cheek. A simple pale long-sleeved blouse catches the diffuse light; her folded legs and lower clothing fade into the near-black ground. Farther left, include two or three tiny shadowed figures among the grasses, and behind them a ruined stone tower rising from mist near the upper-left quadrant. The ruin must stay soft, more an atmospheric silhouette than a detailed monument. Blend the horizon and sky into a luminous veil, with gradual tonal transitions instead of crisp edges. The composition lets the foreground be grainy and textured, with scratches, mottled darkening, and a subtle vignette around the paper's edges. The image keeps the woman's thoughtful side profile the nearest clear shape, but soften her outline enough to merge with the hazy setting. The image uses no strong directional sun; the image is lit by a large diffuse glow in the fog, leaving highlights restrained and shadows velvety. The result should feel like a hand-worked photographic print: melancholy, painterly, and spacious, with distance conveyed by fading silhouettes rather than optical sharpness.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "82f5c927100e2dce60101465ffafe09645a8ebb4f1c75ac5f3ba517550d0c3f9",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

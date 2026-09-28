@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square graphic-novel illustration shows a blonde young woman sitting on the ground with her knees drawn tightly up against a worn interior wall. She fills most of the narrow view, looking directly outward beneath a dark headband with a guarded, unsmiling expression. Pale straight hair falls to the shoulders, with a long side-swept fringe crossing the forehead. A dark charcoal short-sleeved top covers the torso, its fabric marked by muted blue and purple shadows. Her bare knees rise high in front of her chest, creating two large pale rounded forms in the center. Heavy black lace-up boots occupy the lower foreground, their shafts and crisscross laces rendered with precise dark lines. To her left stands a tall cylindrical metal container or canister, partly cropped at the bottom, with olive-brown highlights on its worn surface. Behind her, the wall is mottled tan and olive with large peeling crimson patches, fine cracks, and a faint circular mark to the right. The background texture surrounds her without creating deep space; it reads as a close, weathered plane. Fine black contours define eyes, hair, knees, and boot hardware, while distressed color washes and small scratches give the wall a rough, printed feel. Light falls softly from above and slightly left, catching the pale hair and legs and leaving darker folds under the arms and around the boots. No legible writing appears. The overall composition is compressed and tense, balancing a still, watchful face against large knees, dark boots, and the fractured red wall.",
+  "full_prompt_zh": "这幅方形图像小说插画呈现一名金发年轻女子坐在地上，双膝紧紧收起，背靠磨旧的室内墙壁。她占据狭窄视野的大部分，深色发带下直望外方，神情警惕而不笑。浅色直发垂到肩部，长侧刘海横过额头。深炭色短袖上衣覆盖躯干，布料上有柔和蓝紫阴影。裸露的膝盖高高抬到胸前，在中央形成两个大的浅色圆形。一双厚重黑色系带靴占据下方前景，靴筒与交叉鞋带由精确暗线描出。她左侧立着一个高圆筒金属容器或罐体，底部部分被裁切，磨损表面有橄榄棕亮点。身后墙面斑驳的棕褐与橄榄色中有大片剥落的深红斑块、细裂痕和右侧一个淡圆形印记。背景肌理包围她，却没有形成深远空间，更像贴近的风化平面。细黑轮廓定义眼睛、头发、膝盖和靴子五金，做旧色彩薄涂与小刮痕让墙有粗糙印刷感。光从上方略偏左柔和照下，触及浅发与双腿，在手臂下及靴周留下较深衣褶阴影。没有可读文字。整体构图压缩而紧绷，以静止警觉的面孔平衡大块膝盖、深色靴子与破裂的红墙。",
+  "style_prompt_en": "Graphic-novel illustration pairs precise black contours with distressed washes of muted tan, olive, charcoal, and bruised red. Smooth pale focal planes sit against a chipped, cracked ground, so texture contrast helps establish focus. Short hatch marks and fine scratches roughen shadows and worn areas without overwhelming the main silhouette. Shallow space and close cropping compress the composition, while soft overhead side light keeps the bright planes readable against dark lower masses. The finish feels printed, gritty, and emotionally taut.",
+  "style_prompt_zh": "图像小说插画以精确黑色轮廓结合柔和棕褐、橄榄、炭色和暗红的做旧薄涂。平滑浅色焦点平面置于剥落开裂的底面前，肌理反差帮助建立焦点。短排线与细刮痕粗化阴影和磨旧区域，却不淹没主剪影。浅空间与紧裁压缩构图，柔和上方侧光让亮平面在深色下方色团前保持可读。完成面有印刷感、粗粝感和情绪张力。",
+  "theme_en": "A blonde young woman sitting with knees drawn up against a worn wall",
+  "theme_zh": "一位金发年轻女子蜷膝坐在剥落墙前",
+  "wh_ratio": "1:1",
+  "id": "2411",
+  "name": "Steve Dillon",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/steve-dillon",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/steve-dillon.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "755b9e5742467334e9e1a6a695933f7fc5ae33a56715683827c3b0263bde2d60",
+    "gpt_submission_prompt": "A square graphic-novel illustration shows a blonde young woman sitting on the ground with her knees drawn tightly up against a worn interior wall. She fills most of the narrow view, looking directly outward beneath a dark headband with a guarded, unsmiling expression. Pale straight hair falls to the shoulders, with a long side-swept fringe crossing the forehead. A dark charcoal short-sleeved top covers the torso, its fabric marked by muted blue and purple shadows. Her bare knees rise high in front of her chest, creating two large pale rounded forms in the center. Heavy black lace-up boots occupy the lower foreground, their shafts and crisscross laces rendered with precise dark lines. To her left stands a tall cylindrical metal container or canister, partly cropped at the bottom, with olive-brown highlights on its worn surface. Behind her, the wall is mottled tan and olive with large peeling crimson patches, fine cracks, and a faint circular mark to the right. The background texture surrounds her without creating deep space; it reads as a close, weathered plane. Fine black contours define eyes, hair, knees, and boot hardware, while distressed color washes and small scratches give the wall a rough, printed feel. Light falls softly from above and slightly left, catching the pale hair and legs and leaving darker folds under the arms and around the boots. No legible writing appears. The overall composition is compressed and tense, balancing a still, watchful face against large knees, dark boots, and the fractured red wall.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "60ac5021dcc049a5f5b3dfad72ed10e58bf00ee147b4377c4be1d14a3e1eeff4",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Looksift"
+  short_description: "Bilingual image prompts from numbered styles or reference images"
+  default_prompt: "Use $looksift to write Qwen Image 2.1 prompts for an autumn tea scene with style 0001, communicating in my selected language."
+policy:
+  allow_implicit_invocation: true

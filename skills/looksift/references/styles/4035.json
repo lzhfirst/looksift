@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square black-and-white architectural photograph shows a white streamlined building beneath a dark, lightly clouded sky. The building fills most of the frame, but a strip of road, pavement, and shallow entrance steps keeps its base grounded. At the left, a low horizontal wing projects toward the edge and carries a deep band of shadow beneath its rounded upper lip. Broad curved parapets wrap around the central front, one above a long bank of dark windows and another above the glass entrance. Behind them, smooth cylindrical towers rise at different heights, their bright surfaces separated by narrow black seams. A few small trees and shrubs sit to either side, dark and irregular against the building's disciplined white masses. The façade is almost without ornament; its character comes from overlapping horizontal ledges, upright cylinders, and the emphatic curves where those forms meet. Fine grain and slight softness suggest an aged print, yet the major edges remain clear and the individual windows stay legible as openings. Diffused daylight from the upper left gives the white plaster a pale glow, while deep gray fills the recessed glass and undersides of the projecting bands. The sky carries mottled texture rather than a flat backdrop, adding atmospheric weight above the crisp structure. The overall composition balances a broad, low front with clustered vertical volumes, giving the monochrome scene a calm, monumental Art Moderne rhythm.",
+  "full_prompt_zh": "一幅方形黑白建筑照片呈现深色薄云天空下的白色流线型建筑。建筑占据画面大部，底端仍留有道路、人行道和浅浅的入口台阶，使它稳稳落地。左侧一段低矮的水平翼楼向画边伸出，圆角上沿下方压着深色阴影带。宽阔的弧形女儿墙环绕中央正面，一道位于长排深色窗户上方，另一道位于玻璃入口上方。后方高度不一的光滑圆柱塔楼向上升起，明亮表面之间由狭窄的黑缝分开。两侧点缀几株小树和灌木，它们不规则的深色形态衬出建筑严整的白色体块。立面几乎没有装饰，其特征来自互相叠置的水平檐口、竖立的圆柱，以及形体交接处醒目的弧线。细微颗粒和轻度柔化带有旧照片的感觉，但主要边缘仍清楚，单个窗洞也可辨认。来自左上方的漫射日光使白色灰泥泛起浅亮，内凹玻璃与外挑横带下方则沉入深灰。天空带有斑驳肌理，而非平坦背景，为清晰的结构上方增添气氛重量。整体构图以宽而低的前部平衡聚集的竖向体量，令黑白画面呈现平静而厚重的装饰现代风节奏。",
+  "style_prompt_en": "Monochrome photography emphasizes smooth, weighty volumes and the meeting of broad horizontal bands with narrow upright forms. Rounded contours stay clean against a darker atmospheric field, while recessed zones and undersides fall into dense gray. The palette moves through luminous white, silver-gray, charcoal, and near black without decorative color. Diffused daylight makes the exposed planes glow evenly; shadow is structural and concentrated rather than theatrical. Fine print grain and slight tonal softness temper the hard geometry. A low, spreading visual base supports taller clustered accents, producing a restrained balance of mass, negative space, and rhythmic repetition.",
+  "style_prompt_zh": "黑白摄影表现强调光滑而有分量的体量，以及宽阔水平带与狭长竖向形的相接。圆润轮廓在较深的气氛底面前保持清晰，内凹区域和下沿沉入浓灰。色阶在亮白、银灰、炭灰与近黑之间移动，没有装饰性色彩。漫射日光均匀照亮外露表面；阴影集中于结构关系，而非戏剧化渲染。细微的相纸颗粒和轻度调性柔化中和了硬朗几何。低而展开的视觉基座托起较高的聚集重点，形成体量、留白与重复节奏之间克制的平衡。",
+  "theme_en": "A white streamlined building with rounded terraces in a monochrome street photograph",
+  "theme_zh": "黑白街景中带圆角露台的白色流线型建筑",
+  "wh_ratio": "1:1",
+  "id": "4035",
+  "name": "Art Moderne architecture",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/art-moderne-architecture.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "f6ca7123cba459846b5d0888e0847ca04e98cec6aa34ef995c66cd346428792d",
+    "gpt_submission_prompt": "A square black-and-white architectural photograph shows a white streamlined building beneath a dark, lightly clouded sky. The building fills most of the frame, but a strip of road, pavement, and shallow entrance steps keeps its base grounded. At the left, a low horizontal wing projects toward the edge and carries a deep band of shadow beneath its rounded upper lip. Broad curved parapets wrap around the central front, one above a long bank of dark windows and another above the glass entrance. Behind them, smooth cylindrical towers rise at different heights, their bright surfaces separated by narrow black seams. A few small trees and shrubs sit to either side, dark and irregular against the building's disciplined white masses. The façade is almost without ornament; its character comes from overlapping horizontal ledges, upright cylinders, and the emphatic curves where those forms meet. Fine grain and slight softness suggest an aged print, yet the major edges remain clear and the individual windows stay legible as openings. Diffused daylight from the upper left gives the white plaster a pale glow, while deep gray fills the recessed glass and undersides of the projecting bands. The sky carries mottled texture rather than a flat backdrop, adding atmospheric weight above the crisp structure. The overall composition balances a broad, low front with clustered vertical volumes, giving the monochrome scene a calm, monumental Art Moderne rhythm.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "7a4f0ab6dedbbec2d00e5c9bb69da795e0bfb83a8fc75858ff4f0a53c1edf1e0",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square decorative illustration fills the frame with an imaginary blue tropical garden. Tall overlapping stems, fan-shaped leaves, pointed fronds, and rounded flower heads create a dense vertical arrangement. Two small birds perch among the plants: a yellow bird with a dark wing on the left and a black-and-red bird near the lower center. A large orange and ocher lotus-like flower rises near the middle, with layered angular petals surrounding a dark cup. Coral-pink blooms open on both sides, one shaped like a broad fan in the upper right and another with long curved petals at left. The background is assembled from flat translucent-looking strips and blocks of navy, teal, turquoise, powder blue, and pale aqua, so the space feels layered without realistic perspective. Dark leaves form a near-black silhouette along the lower edge, while lighter leaf shapes float behind them. Thin black stems and a few vertical light streaks give the composition rhythm. Each object is reduced to clean cutout-like shapes with subtle painted grain, not photographic detail. The palette relies on cool blue masses, then places warm pink, coral, ocher, and yellow accents where the eye can hop from flower to bird to flower. No ground line, horizon, frame, or lettering appears. The result is lush but orderly, balancing decorative abundance with large legible silhouettes and the quiet charm of mid-century illustration.",
+  "full_prompt_zh": "一幅方形装饰插画让想象中的蓝色热带花园铺满画面。高低交叠的茎、扇叶、尖羽状叶及圆花头形成密集竖向安排。两只小鸟栖在植物间：左侧一只带深翅的黄鸟，下方中央附近一只黑红鸟。中央附近一朵大橙赭色莲状花升起，层叠角形花瓣围住深色花杯。两侧珊瑚粉花开放，右上一朵像宽扇，左边一朵有长弯花瓣。背景由深海蓝、蓝绿、青绿、粉蓝和浅水蓝的平面半透状条块拼成，使空间有层次却无写实透视。深叶在下缘形成近黑剪影，浅叶形在后方漂浮。细黑茎和几条竖向光带为构图加节律。每件物体都被化约为干净剪纸般形状，带轻微绘画颗粒，而非摄影细节。色板依靠冷蓝大块，再在视线可从花跳向鸟再跳向花的位置放暖粉、珊瑚、赭黄和黄重音。没有地线、地平线、边框或文字。结果繁茂但有序，装饰丰盛与清楚大剪影、世纪中叶插画的安静魅力相平衡。",
+  "style_prompt_en": "Use mid-century cut-paper-inspired illustration made from overlapping flat silhouettes and translucent-looking geometric layers. Favor a cool family of navy, teal, turquoise, powder blue, and pale aqua, punctuated by coral, pink, ocher, and yellow. Simplify natural contours into fan shapes, pointed blades, rounded petals, and narrow stems. Build depth through overlap and value shifts rather than realistic perspective or cast shadows. Keep edges crisp but slightly handmade, with subtle printed or painted grain inside color fields. Fill the square with a dense vertical rhythm while preserving distinct large shapes and a few small focal accents. The atmosphere is playful, lush, and carefully composed, with decorative abundance held together by clear color hierarchy.",
+  "style_prompt_zh": "采用受世纪中叶剪纸启发的插画，以叠合平面剪影和半透感几何层构成。主色选深海蓝、蓝绿、青绿、粉蓝与浅水蓝，用珊瑚色、粉色、赭黄和黄色点亮。把自然轮廓简化成扇形、尖叶片、圆花瓣与窄茎。通过重叠和明度变化建立纵深，而非写实透视或投影。边缘清楚却略带手作感，色面内部有细微印刷或绘画颗粒。用密集竖向节律填满方形，同时保留分明大形与少数小焦点重音。氛围活泼繁茂且精心构成，由清楚的色彩层级维系装饰丰盛。",
+  "theme_en": "Tropical birds among geometric flowers and leaves in a blue paper-cut jungle",
+  "theme_zh": "蓝色剪纸丛林里，热带鸟穿行于几何花叶间",
+  "wh_ratio": "1:1",
+  "id": "4343",
+  "name": "Mary Blair",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": null,
+    "image": "https://static.midlibrary.io/midjourney-styles/current/mary-blair.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "eb285c3c93fb158af3eb8ad9840848b823cd7a3230d22f74cedca88d92252dc9",
+    "gpt_submission_prompt": "A square decorative illustration fills the frame with an imaginary blue tropical garden. Tall overlapping stems, fan-shaped leaves, pointed fronds, and rounded flower heads create a dense vertical arrangement. Two small birds perch among the plants: a yellow bird with a dark wing on the left and a black-and-red bird near the lower center. A large orange and ocher lotus-like flower rises near the middle, with layered angular petals surrounding a dark cup. Coral-pink blooms open on both sides, one shaped like a broad fan in the upper right and another with long curved petals at left. The background is assembled from flat translucent-looking strips and blocks of navy, teal, turquoise, powder blue, and pale aqua, so the space feels layered without realistic perspective. Dark leaves form a near-black silhouette along the lower edge, while lighter leaf shapes float behind them. Thin black stems and a few vertical light streaks give the composition rhythm. Each object is reduced to clean cutout-like shapes with subtle painted grain, not photographic detail. The palette relies on cool blue masses, then places warm pink, coral, ocher, and yellow accents where the eye can hop from flower to bird to flower. No ground line, horizon, frame, or lettering appears. The result is lush but orderly, balancing decorative abundance with large legible silhouettes and the quiet charm of mid-century illustration.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "eebacd73552d1199133bbe9faa7baf6ae334b74f6cd2cfb209a4201961dd4b65",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

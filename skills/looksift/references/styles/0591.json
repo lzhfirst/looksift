@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square realist oil portrait places a pensive young woman in red between two partially visible men inside a dark interior. The background is nearly black, with only a faint warm wall tone and the dim outline of the rear figure. The woman occupies the center, leaning her cheek into one hand and lowering her eyes toward the left. Soft blond hair is gathered beneath a pale head covering, and warm light touches her forehead, nose, and slightly parted lips. Her red garment is richly patterned in gold and darker crimson; a white blouse or lace cuff rises at the wrist and neck, catching the strongest highlights below the face. On the far left, an older bearded man is cropped by the frame, turned toward her from deep shadow. Behind her right shoulder, a second man is only partly revealed in the dim background, his face much less clear than hers. Their placement encloses the woman without obscuring her quiet pose. Fine oil strokes model her skin and fabric trim, while the surrounding faces and garments are handled in thicker, darker masses. Warm side light enters from the upper left, making the red pattern glow and leaving the men's clothing almost absorbed by the room. The woman's pale head and cuff establish a soft diagonal of light across the center. The palette stays within deep brown, black, russet red, cream, and gold. The overall composition draws attention to the woman's inward expression through close grouping and strong chiaroscuro.",
+  "full_prompt_zh": "这幅方形写实油画肖像把一名穿红衣的沉思年轻女子放在暗室内两名部分可见的男子之间。背景近乎全黑，只有微弱暖色墙面和后方人物的暗淡轮廓。女子占据中央，一只手托住脸颊，目光向左下垂。柔软金发收在浅色头饰之下，暖光落在额头、鼻梁和微张嘴唇上。她的红色衣服有丰厚的金色和更深绯红图案；白衬衫或蕾丝袖口在腕边和颈部升起，接住面部下方最强的亮光。最左侧一名年长留须男子被画边裁掉，从深影里朝她转身。她右肩后方第二名男子只在昏暗背景里部分显露，面容远不如她清楚。他们的位置围住女子，却没有遮挡她安静的姿势。细致油画笔触塑造皮肤与织物边饰，周围面孔和衣服则由更厚更暗的体量处理。暖侧光从左上方进入，使红色纹样发亮，让男子衣服几乎被房间吞没。女子浅色头部与袖口在中央形成一道柔和光线斜向。色域限于深棕、黑、赭红、奶油色与金色。整体构图借亲近聚合和强烈明暗对照，把注意力引向女子内省的表情。",
+  "style_prompt_en": "The image has a realist oil-paint finish shaped by warm chiaroscuro and precise modeling of selected focal surfaces. Deep umber and near-black surround small luminous areas of cream, russet, and muted gold. Light enters from one side, revealing skin-like softness and patterned texture before falling rapidly into shadow. Fine brushwork and gentle tonal transitions are concentrated at the center, while peripheral forms merge into broad dark masses. Close overlapping shapes compress the space and make pale highlights guide the eye through the scene. The matte paint retains subtle grain and warm variation even in its deepest values. The overall effect is intimate, grave, and quietly psychological.",
+  "style_prompt_zh": "图像具有由温暖明暗对照与选定焦点表面的精确塑形构成的写实油画质感。深褐与近黑围绕少量明亮的奶油色、赭红和柔金区域。光从一侧进入，显出似皮肤的柔和与纹样肌理，随后迅速落入阴影。细笔触和温和色调过渡集中在中央，画边形态则融入宽阔深色体量。亲近重叠的形状压缩空间，让浅色高光引导目光穿过场景。哑光颜料即使在最深明度中也保留细微颗粒与暖色变化。整体效果亲密、凝重且安静地富于心理感。",
+  "theme_en": "A pensive woman in red between two shadowed men",
+  "theme_zh": "两名阴影男子之间穿红衣的沉思女子",
+  "wh_ratio": "1:1",
+  "id": "0591",
+  "name": "Ivan Kramskoi",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/ivan-kramskoi",
+    "image": "https://static.midlibrary.io/midjourney-styles/current/ivan-kramskoi.jpg?class=styleFullPreview"
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "275350fb6461fca13c5edbcc9fb45dc5d3247e6227a6494f99ba4de8fafd8163",
+    "gpt_submission_prompt": "A square realist oil portrait places a pensive young woman in red between two partially visible men inside a dark interior. The background is nearly black, with only a faint warm wall tone and the dim outline of the rear figure. The woman occupies the center, leaning her cheek into one hand and lowering her eyes toward the left. Soft blond hair is gathered beneath a pale head covering, and warm light touches her forehead, nose, and slightly parted lips. Her red garment is richly patterned in gold and darker crimson; a white blouse or lace cuff rises at the wrist and neck, catching the strongest highlights below the face. On the far left, an older bearded man is cropped by the frame, turned toward her from deep shadow. Behind her right shoulder, a second man is only partly revealed in the dim background, his face much less clear than hers. Their placement encloses the woman without obscuring her quiet pose. Fine oil strokes model her skin and fabric trim, while the surrounding faces and garments are handled in thicker, darker masses. Warm side light enters from the upper left, making the red pattern glow and leaving the men's clothing almost absorbed by the room. The woman's pale head and cuff establish a soft diagonal of light across the center. The palette stays within deep brown, black, russet red, cream, and gold. The overall composition draws attention to the woman's inward expression through close grouping and strong chiaroscuro.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "309f3bd584fe685635d0ec555cdf63f5022a04322a3ab3a19a0e22f3763f4d21",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "full_prompt_en": "A square polished pop-surreal painting centers a young girl facing forward against an intricate blue-and-gold patterned wallpaper. Her smooth chestnut bob curves under the chin and parts neatly on one side. Wide pale brown eyes stare straight outward, eyebrows slightly raised, and the mouth opens into a round dark O, giving the face a frozen look of surprise. Soft pink cheeks and a small nose are carefully modeled, with a clean almost doll-like finish. She wears a dark navy dress covered in dense black floral filigree, fastened at the center and topped by a rounded pale yellow collar. The garment fills the lower half as a symmetrical dark shape. Behind her, tiny blue vines and gold flourishes interlock across the whole background. Four stylized golden lion heads are spaced around her: two near the upper corners and two roughly level with the shoulders. Their open mouths and curled manes repeat the girl's expression in an ornamental, slightly comic way. The wallpaper pattern is sharp and nearly flat, while the face has smooth graduated light and subtly reflective eyes. Even frontal light brightens her skin and collar without casting a visible shadow, making the bold blue and gold background feel printed and decorative. The composition relies on exact central alignment, repeated lion motifs, and the clash between innocent expression and ornate surroundings for a vivid uncanny effect.",
+  "full_prompt_zh": "一幅方形精致波普超现实绘画把年轻女孩正面置于繁密蓝金花纹墙纸前。平滑栗色齐颌短发向里弯，一侧整齐分缝。大而浅棕的眼睛直望外面，眉略抬，嘴张成深色圆 O，面孔惊讶地凝住。淡粉面颊与小鼻子仔细塑形，完成度干净，近乎洋娃娃。她穿深海军蓝连衣裙，密布黑色花丝纹，中央扣合，上方是一片圆角淡黄衣领。衣裳作为对称深形占下半幅。身后，细小蓝藤与金色卷纹在整个背景互相嵌合。四枚风格化金狮头围着她排布：两枚靠上角，两枚约在肩膀高度。张开的狮嘴和卷鬃以装饰且略滑稽的方式重复女孩表情。墙纸纹样锐利且近乎平面，面孔则有平滑渐层光和略反光的眼睛。均匀正面光照亮皮肤与衣领，不投可见影，使大胆蓝金背景像印刷装饰。构图依靠准确中央对齐、重复狮子纹和天真表情与华丽环境的碰撞，形成鲜明奇异效果。",
+  "style_prompt_en": "Polished pop-surreal painting pairs a smoothly modeled, doll-like focal form with a densely repeating flat ornamental field. Use direct frontal light, clear pale skin or surface tones, glossy small highlights, and bold contrasting pattern colors. Keep the main form centered and nearly symmetrical, then place several repeated motifs at measured intervals around it. Let a dark patterned lower mass anchor the frame while bright decorative wallpaper fills every open area. Edges stay crisp, with little cast shadow; humor and unease emerge from an exaggerated expression or small visual echo inside the ornament. The transferable character is vivid, meticulous, and uncanny.",
+  "style_prompt_zh": "精致波普超现实绘画把平滑塑形、洋娃娃般的焦点形体与密集重复的平面装饰色场配对。使用直接正面光、干净浅表面调、细小光泽高光和大胆反差纹色。主形体居中且近对称，周围几枚重复纹样以有节制间距排布。深色带纹下部团块稳住画面，明亮装饰墙纸填满所有开放区域。边缘清楚，少有投影；夸张表情或装饰内部的小视觉呼应带出幽默与不安。可迁移气质鲜明、精密且奇异。",
+  "theme_en": "A surprised bob-haired girl before bright lion-patterned wallpaper",
+  "theme_zh": "短发女孩惊讶张口，背景是明亮狮子纹墙纸",
+  "wh_ratio": "1:1",
+  "id": "3758",
+  "name": "Alex Gross",
+  "target_model": "Qwen Image 2.1",
+  "prompt_revision": "official-t2i-source-v4",
+  "source": {
+    "page": "https://midlibrary.io/styles/alex-gross",
+    "image": null
+  },
+  "reuse_rule": "Use style_prompt_en/zh for transferable visual style. Full prompts and themes are examples of the original scene, not content to carry into a new user theme.",
+  "production": {
+    "qwen_prompt_field": "full_prompt_en",
+    "qwen_prompt_sha256": "21c977ac0864f709417d289fc3589fb426d74264a6140025dcbeabd7f6c24153",
+    "gpt_submission_prompt": "A square polished pop-surreal painting centers a young girl facing forward against an intricate blue-and-gold patterned wallpaper. Her smooth chestnut bob curves under the chin and parts neatly on one side. Wide pale brown eyes stare straight outward, eyebrows slightly raised, and the mouth opens into a round dark O, giving the face a frozen look of surprise. Soft pink cheeks and a small nose are carefully modeled, with a clean almost doll-like finish. She wears a dark navy dress covered in dense black floral filigree, fastened at the center and topped by a rounded pale yellow collar. The garment fills the lower half as a symmetrical dark shape. Behind her, tiny blue vines and gold flourishes interlock across the whole background. Four stylized golden lion heads are spaced around her: two near the upper corners and two roughly level with the shoulders. Their open mouths and curled manes repeat the girl's expression in an ornamental, slightly comic way. The wallpaper pattern is sharp and nearly flat, while the face has smooth graduated light and subtly reflective eyes. Even frontal light brightens her skin and collar without casting a visible shadow, making the bold blue and gold background feel printed and decorative. The composition relies on exact central alignment, repeated lion motifs, and the clash between innocent expression and ornate surroundings for a vivid uncanny effect.\n\nOutput aspect ratio: 1:1 (square).",
+    "gpt_submission_sha256": "d690b53262a1502b2c487e5cebd15f5c038fd91d68b019cce21728d25d6e275f",
+    "gpt_provider": "codex_native_imagegen",
+    "gpt_image_model_override": null
+  }
+}
