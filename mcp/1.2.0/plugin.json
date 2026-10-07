@@ -1,0 +1,32 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "looksift",
+  "version": "1.2.0",
+  "description": "Choose numbered style, palette, or outfit references on Looksift, then use them for prompts and images with the host's image tool.",
+  "author": {
+    "name": "Looksift",
+    "url": "https://looksift.com"
+  },
+  "homepage": "https://looksift.com",
+  "keywords": ["image", "style", "palette", "clothing", "visual-reference"],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Looksift",
+        "shortDescription": "Style and outfit references",
+        "longDescription": "Choose a numbered style, palette or outfit reference on Looksift and bring it to your Agent. Any one kind is enough. A selected style has two independent Qwen/GPT reference versions; outfit edits preserve the supplied person's identity and pose. A capable client generates images. Without drawing or the required reference-image inputs, the Agent delivers full prompts, real reference download links, input order and brief usage steps. The remote MCP provides the official prompt templates and public reference data; it needs no login and does not generate images. Responses follow your language and prompt-only never draws. Pose, action, expression, monster and private collections are outside this version.",
+        "developerName": "Looksift",
+        "category": "Productivity",
+        "capabilities": ["Read public styles", "Read public palettes", "Read public outfits", "Read reference images", "Prepare image prompts"],
+        "websiteURL": "https://looksift.com",
+        "defaultPrompt": [
+          "How do I use Looksift? Show me where to choose style, palette, or outfit references.",
+          "Use Looksift outfit A032 to change the clothing in my attached person image, keeping their identity and pose.",
+          "Use Looksift style 47 for a seaside bookshop. Write only the prompts in my language; do not generate images."
+        ],
+        "composerIcon": "./assets/looksift-icon-64.png",
+        "logo": "./assets/looksift-icon-512.png"
+      }
+    }
+  }
+}
