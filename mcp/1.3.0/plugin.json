@@ -1,0 +1,46 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "looksift",
+  "version": "1.3.0",
+  "description": "Choose numbered style, palette, outfit or layout references on Looksift, then use them for prompts and images with the host's image tool.",
+  "author": {
+    "name": "Looksift",
+    "url": "https://looksift.com"
+  },
+  "homepage": "https://looksift.com",
+  "keywords": [
+    "image",
+    "style",
+    "palette",
+    "clothing",
+    "visual-reference",
+    "layout"
+  ],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Looksift",
+        "shortDescription": "Style and layout references",
+        "longDescription": "Choose a numbered style, palette, outfit or layout reference on Looksift and bring it to your Agent. Any one kind is enough. A selected style has two independent Qwen/GPT reference versions; outfit edits preserve the supplied person's identity and pose. A capable client generates images. Without drawing or the required reference-image inputs, the Agent delivers full prompts, real reference download links, input order and brief usage steps. The remote MCP provides the official prompt templates and public reference data; it needs no login and does not generate images. Responses follow your language and prompt-only never draws. Pose, action, expression, monster and private collections are outside this version. Layout L-numbers provide composition and typography references in four languages. Adapt them to your own subject and exact quoted text; the reference does not fix your output aspect ratio.",
+        "developerName": "Looksift",
+        "category": "Productivity",
+        "capabilities": [
+          "Read public styles",
+          "Read public palettes",
+          "Read public outfits",
+          "Read reference images",
+          "Prepare image prompts",
+          "Read public layouts"
+        ],
+        "websiteURL": "https://looksift.com",
+        "defaultPrompt": [
+          "How do I use Looksift? Show me where to choose style, palette, outfit or layout references.",
+          "Use Looksift style 47 for a seaside bookshop. Write only the prompts in my language; do not generate images.",
+          "Use Looksift layout L0001 for a coffee launch poster with the title \"MORNING\"."
+        ],
+        "composerIcon": "./assets/looksift-icon-64.png",
+        "logo": "./assets/looksift-icon-512.png"
+      }
+    }
+  }
+}
