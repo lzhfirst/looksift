@@ -1,4 +1,20 @@
-# Looksift 2.0
+# Looksift MCP 1.6.0
+
+**English** · [简体中文](README.zh-CN.md)
+
+Connect your Agent to Looksift's live style, palette, outfit, layout, expression and editable pose-scene references. Version 1.6.0 also provides complete H3 video prompt-writing guides for text and image requests.
+
+[Install MCP 1.6.0](mcp/1.6.0/README.md) · [Latest release and checksums](https://github.com/lzhfirst/looksift/releases/tag/mcp-v1.6.0) · [Download the MCP ZIP](https://github.com/lzhfirst/looksift/releases/download/mcp-v1.6.0/looksift-1.6.0.zip) · [Website setup guide](https://looksift.com/gallery/mcp.html)
+
+Ask your Agent: “Install Looksift MCP using https://github.com/lzhfirst/looksift/tree/main/mcp/1.6.0 and verify the remote connection.” For manual setup, add a Streamable HTTP MCP server at `https://looksift.com/api/mcp`. Public reads need no API key or login.
+
+H3 requests use your accessible pictures and description to prepare a complete video prompt. Video generation requires a separate capable host tool; the MCP does not render videos itself. The ZIP contains client configuration and prompt-writing rules; importing it depends on your client's plugin support. No local MCP server or catalogue download is required.
+
+> **Two separate version lines:** MCP **1.6.0** is the current remote integration. The root `SKILL.md`, installation instructions and **2.0** release below belong to the older standalone Skill. For the current MCP, use the installation link above rather than installing the repository-root Skill. Historical files and releases remain available.
+
+---
+
+# Looksift Skill 2.0 — legacy documentation
 
 **English** · [简体中文](README.zh-CN.md)
 

@@ -1,4 +1,20 @@
-# Looksift 2.0
+# Looksift MCP 1.6.0
+
+[English](README.md) · **简体中文**
+
+让 Agent 连接 Looksift，读取网站上的画风、配色、服装、排版、表情和可编辑姿势场景参考。1.6.0 新增完整的 H3 视频提示词规范，可以根据文字或图片和你的要求撰写视频提示词。
+
+[安装 MCP 1.6.0](mcp/1.6.0/README.md) · [最新发布与校验文件](https://github.com/lzhfirst/looksift/releases/tag/mcp-v1.6.0) · [下载 MCP 安装包](https://github.com/lzhfirst/looksift/releases/download/mcp-v1.6.0/looksift-1.6.0.zip) · [网站安装说明](https://looksift.com/gallery/mcp.html)
+
+直接告诉 Agent：“请按照 https://github.com/lzhfirst/looksift/tree/main/mcp/1.6.0 的说明安装 Looksift MCP，并验证远程连接。”手动配置时，添加 Streamable HTTP MCP 服务，地址为 `https://looksift.com/api/mcp`。公开数据读取不需要登录或 API Key。
+
+H3 功能会利用 Agent 能实际读取的图片和你的描述，写出完整视频提示词。实际生成视频需要宿主另有相应工具，MCP 本身不渲染视频。ZIP 包含客户端配置和提示词规则，能否直接导入取决于客户端是否支持插件包；不需要本地运行 MCP 服务，也不需要下载整个素材库。
+
+> **这是两个独立版本系列：** MCP **1.6.0** 是当前远程集成；仓库根目录的 `SKILL.md`、下方安装说明和 **2.0** Release 属于此前的独立 Skill。安装当前 MCP 请使用上方入口，不要误装根目录的旧 Skill。旧文件和历史发布继续保留。
+
+---
+
+# Looksift Skill 2.0 — 旧版文档
 
 [English](README.md) · **简体中文**
 
