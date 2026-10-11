@@ -1,0 +1,53 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "looksift",
+  "version": "1.5.1",
+  "description": "Use real Looksift visual references and editable pose scenes for prompts and images with your Agent's image tool.",
+  "author": {
+    "name": "Looksift",
+    "url": "https://looksift.com"
+  },
+  "homepage": "https://looksift.com",
+  "keywords": [
+    "image",
+    "style",
+    "palette",
+    "clothing",
+    "visual-reference",
+    "layout",
+    "expression",
+    "pose",
+    "scene"
+  ],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Looksift",
+        "shortDescription": "Visual references and scenes",
+        "longDescription": "Choose a numbered style, palette, outfit or layout reference on Looksift and bring it to your Agent. Any one kind is enough. A selected style has two independent Qwen/GPT reference versions; outfit edits preserve the supplied person's identity and pose. A capable client generates images. Without drawing or the required reference-image inputs, the Agent delivers full prompts, real reference download links, input order and brief usage steps. The remote MCP provides the official prompt templates and public reference data; it needs no login and does not generate your final artwork. Responses follow your language and prompt-only never draws. Action, monster and private collection catalogues are outside this version. Layout L-numbers provide composition and typography references in four languages. Adapt them to your own subject and exact quoted text; the reference does not fix your output aspect ratio. Describe an expression naturally, then adjust it in conversation. Natural, Pixar and anime are facial-expression parameter modes, not changes to the person or overall art style. Read the real parameters and exact-state neutral-head PNG; retain your original person as the identity source. Fine editing is available on the expression page. Create or edit an approximate pose scene from words or an image understood by your Agent. Continue editing the same entities in conversation, including position, pose, camera and separate eye gaze. The MCP renders the actual website scene as a reference; your original image remains with your Agent. Use the original for identity, appearance and style, and the scene for requested geometry. Each delivery includes a same-scene editor link for mouse adjustments. Without vision or multi-image drawing, the Agent explains the limit and supplies usable reference files, prompts and steps.",
+        "developerName": "Looksift",
+        "category": "Productivity",
+        "capabilities": [
+          "Read public styles",
+          "Read public palettes",
+          "Read public outfits",
+          "Read reference images",
+          "Prepare image prompts",
+          "Read public layouts",
+          "Read public expressions",
+          "Read exact-state expression PNGs",
+          "Create and edit bounded pose scenes",
+          "Render exact-state scene PNGs"
+        ],
+        "websiteURL": "https://looksift.com",
+        "defaultPrompt": [
+          "How do I use Looksift? Show me where to choose style, palette, outfit or layout references.",
+          "Use Looksift style 47 for a seaside bookshop. Write only the prompts in my language; do not generate images.",
+          "Use Looksift to move the woman in my image slightly screen-left, keeping the cat and camera unchanged."
+        ],
+        "composerIcon": "./assets/looksift-icon-64.png",
+        "logo": "./assets/looksift-icon-512.png"
+      }
+    }
+  }
+}
