@@ -1,10 +1,10 @@
-# Looksift MCP 1.6.1
+# Looksift MCP 1.7.0
 
 [English](README.md) · **简体中文**
 
 让 Agent 连接 Looksift，读取实时视觉参考和提示词规范。这个仓库只发布远程 MCP 连接器。
 
-[连接说明](mcp/1.6.1/README.md) · [最新发布](https://github.com/lzhfirst/looksift/releases/latest) · [下载连接包](https://github.com/lzhfirst/looksift/releases/download/mcp-v1.6.1/looksift-1.6.1.zip) · [官网入口](https://looksift.com/gallery/mcp.html)
+[连接说明](mcp/1.7.0/README.md) · [最新发布](https://github.com/lzhfirst/looksift/releases/latest) · [下载连接包](https://github.com/lzhfirst/looksift/releases/download/mcp-v1.7.0/looksift-1.7.0.zip) · [官网入口](https://looksift.com/gallery/mcp.html)
 
 ## 连接方法
 
@@ -12,7 +12,7 @@
 2. 地址填写 **`https://looksift.com/api/mcp`**，公开数据读取不需要登录或 API Key。
 3. 启用工具，然后告诉 Agent 使用 Looksift。
 
-也可以直接说：“请按照 https://github.com/lzhfirst/looksift/tree/main/mcp/1.6.1 的说明安装 Looksift MCP，并验证远程连接。”支持 Agent Plugin 包的客户端可以使用 ZIP 中的连接配置、名称和图标；其他 MCP 客户端直接配置上面的地址即可。
+也可以直接说：“请按照 https://github.com/lzhfirst/looksift/tree/main/mcp/1.7.0 的说明安装 Looksift MCP，并验证远程连接。”支持 Agent Plugin 包的客户端可以使用 ZIP 中的连接配置、名称和图标；其他 MCP 客户端直接配置上面的地址即可。
 
 ## 能做什么
 
@@ -25,6 +25,10 @@ Agent 按它实际具备的看图和生成能力工作。Looksift 通过 MCP 提
 
 连接包只有远程连接配置、说明和品牌图标，不再分发独立 Skill、本地素材库或 Skill 安装入口。所有提示词规范都由 MCP 工具提供。
 
+## 女装和男装
+
+先选女装或男装，再使用页面显示的配色或服装编号。颜色相同也不能混用两个类目的独立编号。男装两图参考按图 1 服装、图 2 色板使用，人物预览只是效果示例，不能作为身份输入。始终遵守各条 MCP 记录返回的图片用途，原有 13 个工具全部保留。
+
 ## 核对安装包
 
-官网、GitHub 和 [Hugging Face](https://huggingface.co/datasets/larryqq/looksift-mcp) 提供同一份连接包，可用附带的 SHA-256 文件核对。远程工具返回资料的来源说明见[来源声明](mcp/1.6.1/THIRD_PARTY_NOTICES.md)。
+官网、GitHub 和 [Hugging Face](https://huggingface.co/datasets/larryqq/looksift-mcp) 提供同一份连接包，可用附带的 SHA-256 文件核对。远程工具返回资料的来源说明见[来源声明](mcp/1.7.0/THIRD_PARTY_NOTICES.md)。
