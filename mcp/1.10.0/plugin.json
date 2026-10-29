@@ -1,0 +1,61 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "looksift",
+  "version": "1.10.0",
+  "description": "Use Looksift visual references, editable scenes and H3 video prompt guides with your Agent.",
+  "author": {
+    "name": "Looksift",
+    "url": "https://looksift.com"
+  },
+  "homepage": "https://looksift.com",
+  "keywords": [
+    "image",
+    "style",
+    "palette",
+    "clothing",
+    "visual-reference",
+    "layout",
+    "expression",
+    "pose",
+    "scene",
+    "video",
+    "h3",
+    "director",
+    "actions",
+    "timeline"
+  ],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Looksift",
+        "shortDescription": "Image references & video ideas",
+        "longDescription": "Choose a numbered style, palette, outfit or layout reference on Looksift and bring it to your Agent. Any one kind is enough. A selected style has two independent Qwen/GPT reference versions; outfit edits preserve the supplied person's identity and pose. A capable client generates images. Without drawing or the required reference-image inputs, the Agent delivers full prompts, real reference download links, input order and brief usage steps. The remote MCP provides the official prompt templates and public reference data; it requires a Looksift Pro account with browser authorization or a private MCP access token and does not generate your final artwork. Responses follow your language and prompt-only never draws. Monster and private collection catalogues are outside this version. Layout L-numbers provide composition and typography references in four languages. Adapt them to your own subject and exact quoted text; the reference does not fix your output aspect ratio. Describe an expression naturally, then adjust it in conversation. Natural, Pixar and anime are facial-expression parameter modes, not changes to the person or overall art style. Read the real parameters and exact-state neutral-head PNG; retain your original person as the identity source. Fine editing is available on the expression page. Create or edit an approximate pose scene from words or an image understood by your Agent. Continue editing the same entities in conversation, including position, native motion frame and camera. The host Agent interprets the request and chooses from 2,446 measured native motions; MCP does not call Looksift DP. Separate joint and gaze controls apply only to legacy scenes. The MCP renders the actual website scene as a reference; your original image remains with your Agent. Use the original for identity, appearance and style, and the scene for requested geometry. Each delivery includes a same-scene editor link for mouse adjustments. Without vision or multi-image drawing, the Agent explains the limit and supplies usable reference files, prompts and steps. Describe a video from your pictures or text and the Agent writes an H3 prompt with the right media roles, timing and dialogue. No website number is required for video prompts. Covers text, first-frame, first/last-frame, last-frame and full-reference modes. The MCP supplies writing rules only; actual video generation needs a separate compatible tool. Prompt-only requests never generate videos. Choose women or men palettes and outfits explicitly. Keep their independent public numbers and the returned reference-image order; a result preview is not a generation input. Director references use separate IDs 001–200. Discover directors, read their complete visual methods, reviewed film references and one model-neutral prompt, then adapt the subject with your own Agent. No DP or other model is called by MCP. Build and edit Actions timelines from a supplied native XBot pose scene. The host Agent selects real motion IDs and supplies structured tracks; MCP validates them without DP. Open the returned same-document Actions editor link to preview or adjust the paused timeline and play it manually. Timeline creation does not generate or export a video.",
+        "developerName": "Looksift",
+        "category": "Productivity",
+        "capabilities": [
+          "Read public styles",
+          "Read public palettes",
+          "Read public outfits",
+          "Read reference images",
+          "Prepare image prompts",
+          "Read public layouts",
+          "Read public expressions",
+          "Read exact-state expression PNGs",
+          "Search 2446 native motions and measured pose frames",
+          "Create and edit native pose scenes using the host Agent",
+          "Render exact-state scene PNGs",
+          "Read H3 video prompt guides",
+          "Create and edit native XBot Actions timelines with same-document editor links"
+        ],
+        "websiteURL": "https://looksift.com",
+        "defaultPrompt": [
+          "Write an 8-second H3 video prompt from my picture: the woman turns and walks away. Do not generate video.",
+          "Use Looksift style 47 for a seaside bookshop. Write only the prompts in my language; do not generate images.",
+          "Use Looksift to move the woman in my image slightly screen-left, keeping the cat and camera unchanged."
+        ],
+        "composerIcon": "./assets/looksift-icon-64.png",
+        "logo": "./assets/looksift-icon-512.png"
+      }
+    }
+  }
+}
